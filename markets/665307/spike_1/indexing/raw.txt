@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major geopolitical escalation occurred in the Middle East in late February and early March 2026?",
+    "a": "the U.S.-Israeli military strikes on Iran in late February 2026, which killed Iran's Supreme Leader and triggered a regional war including Iran's closure of the Strait of Hormuz and attacks on Gulf oil infrastructure"
+  },
+  {
+    "q": "What were the most notable developments in global energy markets in late February 2026?",
+    "a": "Iran's closure of the Strait of Hormuz and attacks on Gulf oil infrastructure following U.S.-Israeli strikes, which caused oil prices to surge past $100 per barrel"
+  }
+]

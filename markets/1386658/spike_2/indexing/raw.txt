@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major conflict between the U.S. Department of Defense and an AI company occurred in late February 2026?",
+    "a": "Defense Secretary Pete Hegseth's ultimatum to Anthropic to remove AI safety guardrails from its Claude model or face contract termination and designation as a 'supply chain risk'"
+  },
+  {
+    "q": "What were the notable developments in U.S. defense-AI policy in late February 2026?",
+    "a": "The standoff between the Pentagon and Anthropic over the use of Claude for autonomous weapons and mass surveillance, culminating in a Friday deadline for Anthropic to comply with DoD demands"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major energy market disruptions occurred in March 2026?",
+    "a": "the closure of the Strait of Hormuz and subsequent oil price surge triggered by the US-Israeli war with Iran"
+  },
+  {
+    "q": "What were the most notable geopolitical events in the Middle East in early March 2026?",
+    "a": "the effective closure of the Strait of Hormuz by Iran following US-Israeli strikes, causing a global oil supply crisis"
+  }
+]

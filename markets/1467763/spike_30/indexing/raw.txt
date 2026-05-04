@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major geopolitical events happened in late March 2026 in the Middle East?",
+    "a": "the escalation of the US-Israeli war on Iran, marked by strikes on Iran's South Pars gas field and subsequent Iranian retaliatory attacks on Gulf energy infrastructure, which triggered a global oil supply crisis and drove Brent crude prices toward $120"
+  },
+  {
+    "q": "What were the most notable developments in global energy markets during March 2026?",
+    "a": "the closure of the Strait of Hormuz and disruption of Middle Eastern oil exports due to the US-Israeli war on Iran, which caused Brent crude and regional benchmarks like Dubai and Oman to hit record highs and sparked fears of oil prices reaching $200 per barrel"
+  }
+]

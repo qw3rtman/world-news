@@ -1,0 +1,6 @@
+[
+  {
+    "q": "What major AI model release and benchmark breakthrough happened in mid-February 2026?",
+    "a": "Google's release of Gemini 3.1 Pro, which demonstrated a significant leap in complex reasoning capabilities by doubling its score on the ARC-AGI-2 benchmark to 77.1%"
+  }
+]

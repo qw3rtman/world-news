@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major geopolitical escalation involving energy infrastructure occurred in the Middle East in mid-March 2026?",
+    "a": "the U.S.-Israeli strike on Iran's South Pars gas field and Iran's subsequent retaliatory missile attacks on energy facilities in Saudi Arabia, the UAE, and Qatar"
+  },
+  {
+    "q": "What were the most notable developments in global oil markets during March 2026?",
+    "a": "the surge in Brent crude prices past $110 per barrel driven by the disruption of Strait of Hormuz shipping and attacks on Middle Eastern energy infrastructure following the U.S.-Israeli war on Iran"
+  }
+]

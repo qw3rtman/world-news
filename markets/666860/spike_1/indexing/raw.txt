@@ -1,0 +1,12 @@
+```json
+[
+  {
+    "q": "What major geopolitical event involving the United States and Israel occurred in late February 2026?",
+    "a": "the joint U.S.-Israeli military strikes on Iran that resulted in the death of Supreme Leader Ayatollah Ali Khamenei and triggered regional escalation"
+  },
+  {
+    "q": "What major U.S. political event took place in late February 2026?",
+    "a": "President Donald Trump's lengthy State of the Union address, which focused on economic claims, immigration, and avoided direct confrontation with China ahead of a planned summit"
+  }
+]
+```

@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major corporate acquisition deals were announced in the biotech and healthcare sectors in late February 2026?",
+    "a": "Gilead Sciences' $7.8 billion acquisition of Arcellx to secure full control of the multiple myeloma therapy anito-cel"
+  },
+  {
+    "q": "What major corporate acquisition deals were announced in the healthcare and digital health sectors in mid-February 2026?",
+    "a": "Hims & Hers Health's up-to-$1.15 billion acquisition of Australian digital health company Eucalyptus to expand its international presence"
+  }
+]

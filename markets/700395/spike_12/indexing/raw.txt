@@ -1,0 +1,6 @@
+[
+  {
+    "q": "What major tech acquisitions happened in mid-March 2026?",
+    "a": "OpenAI's acquisition of Python developer tooling startup Astral to bolster its Codex AI coding assistant, and Amazon's acquisition of robotics startup Rivr for doorstep delivery testing"
+  }
+]

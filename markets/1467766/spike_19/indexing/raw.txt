@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major energy market disruptions happened in mid-March 2026?",
+    "a": "the closure of the Strait of Hormuz by Iran and the resulting surge of Brent crude oil above $100 per barrel"
+  },
+  {
+    "q": "What major geopolitical events involving Iran happened in March 2026?",
+    "a": "Iran's blockade of the Strait of Hormuz and attacks on shipping, which triggered the largest IEA emergency oil reserve release in history"
+  }
+]

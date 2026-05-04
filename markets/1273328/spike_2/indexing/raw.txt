@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major geopolitical and trade policy developments happened in the United States in late February 2026?",
+    "a": "the U.S. Supreme Court's ruling against President Trump's use of emergency powers to impose tariffs, followed by Trump's announcement of a new 15% global tariff under Section 122 of the 1974 Trade Act"
+  },
+  {
+    "q": "What major developments in U.S.-Iran relations occurred in late February 2026?",
+    "a": "the escalation of U.S.-Iran tensions with the third round of nuclear talks scheduled for late February and the U.S. keeping military strike options open amid heightened geopolitical risk"
+  }
+]

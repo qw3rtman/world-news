@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major geopolitical and energy market events happened in early March 2026 involving the United States, Israel, and Iran?",
+    "a": "the U.S.-Israeli military campaign against Iran following the February 28 strikes, which led to Iran's blockade of the Strait of Hormuz, a historic disruption in global oil supplies that pushed Brent crude above $100 per barrel, and the subsequent G7/IEA coordination on strategic reserve releases"
+  },
+  {
+    "q": "What were the most notable developments in global energy markets in early March 2026?",
+    "a": "the surge of Brent crude oil prices above $100 per barrel due to the closure of the Strait of Hormuz caused by the ongoing U.S.-Iran war, marking the largest oil supply disruption in history and prompting G7 and IEA discussions on releasing strategic reserves"
+  }
+]

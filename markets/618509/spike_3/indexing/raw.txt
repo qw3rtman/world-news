@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major geopolitical developments involving the U.S., Israel, and Iran occurred in early March 2026?",
+    "a": "the joint U.S.-Israeli airstrikes on Iran and the subsequent regional escalation involving strikes on Gulf oil infrastructure"
+  },
+  {
+    "q": "What major shifts in Russian foreign policy sentiment occurred in early March 2026?",
+    "a": "the backlash among Russian hardliners against Trump's attack on Iran and demands for Russia to double down on the war in Ukraine"
+  }
+]

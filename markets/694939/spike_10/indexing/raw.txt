@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major media industry consolidation events happened in early March 2026?",
+    "a": "Paramount Skydance's $110 billion acquisition of Warner Bros. Discovery, which outbid Netflix and triggered significant implications for global streaming licensing and Canadian broadcast rights"
+  },
+  {
+    "q": "What major shifts in the AI investment landscape occurred in early March 2026?",
+    "a": "Nvidia CEO Jensen Huang signaling the end of major equity investments in OpenAI and Anthropic ahead of their anticipated IPOs, coinciding with a reassessment of valuations for data and software companies like FactSet and Gartner due to AI disruption fears"
+  }
+]

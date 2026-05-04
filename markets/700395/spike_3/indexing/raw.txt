@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major corporate acquisition rumors or developments involving fintech giants occurred in late February 2026?",
+    "a": "Stripe's reported preliminary interest in acquiring all or parts of PayPal, which caused PayPal's stock to surge nearly 7% on February 24, 2026"
+  },
+  {
+    "q": "What were the notable M&A stories in the U.S. fintech sector in late February 2026?",
+    "a": "Reports that private fintech giant Stripe (valued at $159 billion) was considering a deal to buy PayPal Holdings (valued at ~$40 billion), marking a significant potential consolidation in the digital payments industry"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major corporate acquisition rumors or developments happened in the fintech sector in late February 2026?",
+    "a": "reports that Stripe was considering acquiring all or parts of PayPal"
+  },
+  {
+    "q": "What major leadership changes occurred at PayPal in early 2026?",
+    "a": "the ousting of CEO Alex Chriss and the appointment of Enrique Lores as president and CEO"
+  }
+]

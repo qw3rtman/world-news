@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major energy market events happened in early March 2026?",
+    "a": "the surge of crude oil prices above $100 per barrel driven by the closure of the Strait of Hormuz and disruptions to Middle Eastern supply during the U.S.-Israeli war with Iran"
+  },
+  {
+    "q": "What major geopolitical developments occurred in the Middle East in early March 2026?",
+    "a": "the escalation of the U.S.-Israeli military campaign against Iran, including strikes on Iranian energy infrastructure and Iran's closure of the Strait of Hormuz, which triggered a global oil supply shock"
+  }
+]

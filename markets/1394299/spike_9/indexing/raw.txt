@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major geopolitical event involving the United States and Israel occurred in late February 2026?",
+    "a": "the joint U.S.-Israeli airstrikes on Iran (codenamed 'Operation Epic Fury') in late February 2026, which targeted Iranian military and nuclear infrastructure and reportedly killed Supreme Leader Ali Khamenei, triggering immediate Iranian retaliatory missile strikes against Israel and U.S. bases across the Middle East"
+  },
+  {
+    "q": "What were the most notable developments in Middle East geopolitics during the first week of March 2026?",
+    "a": "the escalation of the U.S.-Israeli campaign against Iran following 'Operation Epic Fury,' including the confirmation of Supreme Leader Khamenei's death, Iranian retaliatory attacks on Gulf states and Israel, the disruption of shipping in the Strait of Hormuz, and the initial U.S. military casualties and coalition friction (such as Kuwait shooting down U.S. jets)"
+  }
+]

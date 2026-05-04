@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major geopolitical escalation occurred in the Middle East in early March 2026?",
+    "a": "the U.S.-led military strikes against Iran and the ensuing regional war involving Israel, Gulf states, and Iran, including the closure of the Strait of Hormuz"
+  },
+  {
+    "q": "What major commodity market events happened in early March 2026?",
+    "a": "the surge in gold prices driven by safe-haven demand amid the Iran war, followed by a retreat due to a stronger U.S. dollar and reduced expectations for Federal Reserve interest rate cuts"
+  }
+]

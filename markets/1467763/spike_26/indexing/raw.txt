@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major geopolitical events involving the United States, Israel, and Iran happened in March 2026?",
+    "a": "the U.S.-Israeli war against Iran, including attacks on Iranian military targets and the Kharg Island oil export hub, which prompted Iran to shut the Strait of Hormuz and trigger a global oil supply disruption"
+  },
+  {
+    "q": "What were the most notable developments in global energy markets during mid-March 2026?",
+    "a": "the surge in crude oil prices above $100 per barrel and the International Energy Agency's record 400-million-barrel strategic reserve release, driven by the U.S.-Israeli conflict with Iran and the subsequent closure of the Strait of Hormuz"
+  }
+]

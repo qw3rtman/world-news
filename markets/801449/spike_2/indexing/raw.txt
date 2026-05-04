@@ -1,0 +1,6 @@
+[
+  {
+    "q": "What major AI model releases and benchmark shifts happened in mid-February 2026?",
+    "a": "Google's release of Gemini 3.1 Pro, which significantly improved reasoning benchmarks (particularly ARC-AGI-2) and challenged the performance lead of OpenAI's GPT-5.2 and Anthropic's Claude Opus 4.6"
+  }
+]

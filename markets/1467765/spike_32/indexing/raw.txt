@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major geopolitical escalation involving Iran and Gulf energy infrastructure occurred in mid-March 2026?",
+    "a": "Iran's retaliatory missile strikes on energy facilities in Qatar, Saudi Arabia, and the UAE following the U.S.-Israeli attack on Iran's South Pars gas field"
+  },
+  {
+    "q": "What were the most notable developments in global energy markets in mid-March 2026?",
+    "a": "Crude oil prices surging past $110 per barrel due to supply disruptions from the Iran war and the effective closure of the Strait of Hormuz"
+  }
+]

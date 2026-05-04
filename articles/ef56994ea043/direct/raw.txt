@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Rep. Eric Burlison, R-Mo., endorse Texas Attorney General Ken Paxton for U.S. Senate in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did incumbent U.S. Senator John Cornyn, R-Texas, win a majority of votes in the first round of the 2026 Texas Republican U.S. Senate primary?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump endorse Rep. Eric Burlison for reelection in 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Texas Attorney General Ken Paxton win the 2026 Texas Republican U.S. Senate primary outright in the first round of voting?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump meet with German Chancellor Friedrich Merz in the Oval Office on March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Senator Ted Cruz endorse Texas Attorney General Ken Paxton in the 2026 Texas Republican U.S. Senate primary?",
+    "a": "No"
+  },
+  {
+    "q": "Did Texas state Rep. James Talarico defeat U.S. Rep. Jasmine Crockett in the Texas Democratic U.S. Senate primary?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump endorse U.S. Senator John Cornyn in the 2026 Texas Republican U.S. Senate primary before March 10, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Rep. Eric Burlison describe Texas Attorney General Ken Paxton as a \"proven conservative fighter\" in his endorsement statement?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump declare that the Republican primary race in Texas could be allowed to continue indefinitely in his Truth Social post?",
+    "a": "No"
+  }
+]

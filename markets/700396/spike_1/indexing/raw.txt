@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major corporate acquisition rumors or developments occurred in the tech/payments sector in late February 2026?",
+    "a": "reports that Stripe was considering an acquisition of PayPal or parts of its business"
+  },
+  {
+    "q": "What major geopolitical or corporate conflict involving AI ethics occurred in late February 2026?",
+    "a": "the standoff between Anthropic and the U.S. Pentagon over the use of AI in lethal autonomous weapons and mass surveillance"
+  }
+]

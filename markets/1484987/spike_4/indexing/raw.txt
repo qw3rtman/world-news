@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major geopolitical events happened in early March 2026 in the Middle East?",
+    "a": "the joint U.S.-Israeli military campaign against Iran (Operation Roaring Lion) following the assassination of Supreme Leader Ayatollah Ali Khamenei and the subsequent divergence in U.S. and Israeli war aims"
+  },
+  {
+    "q": "What were the most notable developments in Israeli politics during early March 2026?",
+    "a": "Prime Minister Benjamin Netanyahu's political resurgence and attempt to rewrite his legacy through the successful prosecution of the war against Iran and his close alignment with President Trump"
+  }
+]

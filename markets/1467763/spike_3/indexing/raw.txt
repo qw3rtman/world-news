@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major geopolitical events happened in early March 2026 involving the United States, Israel, and Iran?",
+    "a": "the joint U.S.-Israeli airstrikes on Iran and the subsequent escalation of the Iran conflict, including the reported death of Supreme Leader Khamenei and the disruption of oil flows through the Strait of Hormuz"
+  },
+  {
+    "q": "What were the most notable developments in global energy markets in early March 2026?",
+    "a": "the surge in crude oil prices above $100 a barrel driven by the U.S.-Israeli strikes on Iran and the effective closure of the Strait of Hormuz"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major energy market disruptions occurred in March 2026 due to the Middle East conflict?",
+    "a": "the closure of the Strait of Hormuz and the resulting global oil price surge above $100 per barrel, triggered by the US-Israeli war on Iran and Iran's retaliatory blockade of shipping lanes"
+  },
+  {
+    "q": "What were the most notable geopolitical developments in the Middle East in early March 2026?",
+    "a": "the escalation of the US-Israeli war on Iran into a regional conflict characterized by Iran's closure of the Strait of Hormuz and attacks on commercial shipping, prompting a record IEA strategic reserve release"
+  }
+]

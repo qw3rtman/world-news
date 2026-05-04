@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major corporate governance and acquisition events happened in early March 2026 involving Toyota and Japanese industrial conglomerates?",
+    "a": "Toyota Motor's $30 billion tender offer for subsidiary Toyota Industries, which concluded a months-long dispute with activist investor Elliott Investment Management and triggered the unwinding of cross-shareholdings within the Toyota Group"
+  },
+  {
+    "q": "What notable M&A and private equity activity occurred in the utilities and energy sectors in early March 2026?",
+    "a": "The announcement of a $33 billion deal to take AES Corporation private via an investor consortium including EQT Group and BlackRock-owned Global Infrastructure Partners"
+  }
+]

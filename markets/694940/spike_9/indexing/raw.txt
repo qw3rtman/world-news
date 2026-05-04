@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major media consolidation event happened in late February 2026 involving Warner Bros. Discovery?",
+    "a": "Paramount Skydance's $110 billion acquisition of Warner Bros. Discovery, ending a bidding war with Netflix"
+  },
+  {
+    "q": "What major corporate developments occurred in the software/DevOps sector in early March 2026?",
+    "a": "GitLab's Q4 and full-year FY2026 earnings report, which highlighted crossing $1 billion in ARR and authorizing a $400 million share repurchase program"
+  }
+]

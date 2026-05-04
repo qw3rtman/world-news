@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major geopolitical event involving the Middle East occurred in late February and early March 2026?",
+    "a": "the joint U.S.-Israeli 'Operation Epic Fury' airstrikes on Iran that killed Supreme Leader Ayatollah Ali Khamenei and triggered a regional war involving Iranian retaliatory strikes on Gulf states and Israel"
+  },
+  {
+    "q": "What major military developments happened in the Middle East in early March 2026?",
+    "a": "the UK's decision to allow the U.S. to use British bases for defensive strikes against Iran, alongside widespread regional escalation including Iranian missile attacks on the UAE and Israel and the closure of the Strait of Hormuz"
+  }
+]

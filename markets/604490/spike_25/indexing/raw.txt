@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major diplomatic shift occurred in U.S.-China relations in mid-March 2026?",
+    "a": "President Trump's postponement of his planned state visit to Beijing (originally scheduled for March 31–April 2) to focus on the ongoing U.S.-Israeli war in Iran"
+  },
+  {
+    "q": "What were the notable developments in U.S. foreign policy regarding the Middle East and Asia in late March 2026?",
+    "a": "The U.S. prioritizing the war in Iran over diplomatic engagement with China, resulting in the delay of President Trump's first state visit to China in his second term"
+  }
+]

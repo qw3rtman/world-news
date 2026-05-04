@@ -1,0 +1,8 @@
+```json
+[
+  {
+    "q": "What major geopolitical and energy market events happened in mid-March 2026 involving the U.S., Israel, and Iran?",
+    "a": "the U.S.-Israeli war against Iran entering its third week, characterized by strikes on Iranian military targets and Kharg Island, Iranian retaliation including drone attacks on UAE oil facilities and the closure of the Strait of Hormuz, and the resulting global oil supply disruption that pushed Brent crude above $100 per barrel"
+  }
+]
+```

@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major military escalation involving Gulf states occurred in early March 2026 during the US-Israeli war on Iran?",
+    "a": "Qatar's air force shooting down two Iranian Su-24 bombers in its first aerial combat operation, marking the first time a Gulf state engaged in air-to-air combat against Iranian forces"
+  },
+  {
+    "q": "What major energy market disruption happened in the Gulf region in early March 2026?",
+    "a": "Qatar's complete shutdown of its liquefied natural gas (LNG) production facilities due to Iranian retaliatory strikes and drone attacks, causing global gas prices to surge"
+  }
+]

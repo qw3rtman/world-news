@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major diplomatic shifts occurred in U.S.-China relations in mid-March 2026?",
+    "a": "President Trump's request to postpone his scheduled April 2026 summit with Xi Jinping by approximately one month due to the ongoing U.S.-Israeli military operation in Iran (Operation Epic Fury)"
+  },
+  {
+    "q": "What major geopolitical events happened in the Middle East in late February to mid-March 2026?",
+    "a": "The joint U.S.-Israeli airstrikes on Iran (codenamed Operation Epic Fury) in late February 2026, including the decapitation strike that killed Supreme Leader Ayatollah Ali Khamenei and triggered regional escalation"
+  }
+]

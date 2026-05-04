@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major geopolitical events happened in late February and early March 2026 involving the United States, Israel, and Iran?",
+    "a": "the joint U.S.-Israeli military strikes on Iran (Operation Epic Fury) in late February 2026 and the subsequent escalation of tensions including threats to close the Strait of Hormuz"
+  },
+  {
+    "q": "What major energy market disruptions occurred in early March 2026?",
+    "a": "the spike in global oil prices and fears of a Strait of Hormuz closure triggered by the U.S.-Israeli strikes on Iran"
+  }
+]

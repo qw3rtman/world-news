@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major geopolitical developments involving the United States, Israel, and Iran occurred in late February 2026?",
+    "a": "the joint U.S.-Israeli airstrikes on Iran that killed Supreme Leader Ayatollah Ali Khamenei and triggered regional uncertainty, including doubts about President Trump's scheduled visit to China"
+  },
+  {
+    "q": "What were the notable U.S.-China diplomatic and trade developments in early 2026?",
+    "a": "the preparation for President Trump's scheduled late-March 2026 summit with President Xi Jinping, which faced uncertainty due to U.S. military strikes on Iran and shifting dynamics in export controls"
+  }
+]

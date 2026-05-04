@@ -1,0 +1,6 @@
+[
+  {
+    "q": "What major AI policy conflict happened in the US in late February 2026?",
+    "a": "the Trump administration's order to ban Anthropic's Claude AI model from Pentagon use and designate the company a 'supply chain risk' after it refused to remove safeguards on autonomous weapons and mass surveillance"
+  }
+]

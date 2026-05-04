@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major geopolitical events happened in late February 2026 in the Middle East?",
+    "a": "the joint U.S.-Israeli military strikes on Iran (Operation Epic Fury) that killed Supreme Leader Ali Khamenei and triggered widespread Iranian retaliatory missile barrages against Israel and U.S. bases in the Gulf region"
+  },
+  {
+    "q": "What were the most notable developments in U.S.-Iran relations during late February 2026?",
+    "a": "the launch of Operation Epic Fury, a coordinated U.S.-Israeli airstrike campaign against Iranian military and leadership targets that resulted in the death of Supreme Leader Ali Khamenei and a subsequent regional escalation involving Iranian attacks on Gulf states"
+  }
+]

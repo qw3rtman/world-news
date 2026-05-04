@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major corporate funding and valuation events happened in the AI sector in late February 2026?",
+    "a": "OpenAI's announcement of a $110 billion investment round led by Amazon, Nvidia, and SoftBank, which valued the company at $730 billion"
+  },
+  {
+    "q": "What were the notable developments in the global AI infrastructure landscape in early 2026?",
+    "a": "OpenAI's $110 billion funding deal with Amazon, Nvidia, and SoftBank to expand AI infrastructure and partnerships"
+  }
+]

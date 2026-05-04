@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major geopolitical events happened in early March 2026 in the Middle East?",
+    "a": "the joint U.S.-Israeli military strikes on Iran and the subsequent disruption of oil flows through the Strait of Hormuz"
+  },
+  {
+    "q": "What were the most notable energy market developments in early March 2026?",
+    "a": "the spike in crude oil prices toward $100 per barrel triggered by U.S.-Israeli strikes on Iran and fears of a Strait of Hormuz closure"
+  }
+]

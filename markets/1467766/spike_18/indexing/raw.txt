@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major energy market disruptions happened in early March 2026?",
+    "a": "the surge of crude oil prices above $100 per barrel driven by the closure of the Strait of Hormuz during the U.S.-Israeli war with Iran"
+  },
+  {
+    "q": "What major geopolitical events involving Iran happened in late February and early March 2026?",
+    "a": "the U.S.-Israeli military campaign against Iran, including the initial strikes that killed Supreme Leader Khamenei and the subsequent closure of the Strait of Hormuz"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major geopolitical events happened in late February 2026 in the Middle East?",
+    "a": "the joint US-Israeli military strikes on Iran (codenamed 'Operation Epic Fury' or similar) in late February 2026, including the decapitation strike that killed Supreme Leader Ayatollah Ali Khamenei and triggered immediate Iranian retaliatory strikes against US and Israeli targets"
+  },
+  {
+    "q": "What were the most notable developments in global commodity markets in late February 2026?",
+    "a": "the sharp surge in gold and silver prices driven by safe-haven demand following the US-Israeli strikes on Iran and the resulting fears of regional escalation and oil supply disruptions"
+  }
+]

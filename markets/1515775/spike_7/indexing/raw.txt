@@ -1,0 +1,10 @@
+[
+  {
+    "q": "What major energy market disruption happened in early March 2026?",
+    "a": "the near-closure of the Strait of Hormuz and the resulting surge in global oil prices above $100 per barrel due to the ongoing US-Israeli war with Iran"
+  },
+  {
+    "q": "What were the major geopolitical events in the Middle East in early March 2026?",
+    "a": "the escalation of the US-Israeli war with Iran, including the effective closure of the Strait of Hormuz and the appointment of Mojtaba Khamenei as Iran's new supreme leader"
+  }
+]
