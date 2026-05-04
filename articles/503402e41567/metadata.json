@@ -1,0 +1,37 @@
+{
+  "hash": "503402e41567",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://globeandmail.com/world/us-politics/article-us-israel-promise-more-strikes-on-iran-as-un-secretary-general-calls/",
+      "title": "U.S., Israel promise more strikes on Iran as UN Secretary-General calls for ceasefire - The Globe and Mail",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1122,
+      "text_length": 5425
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1466015",
+      "spike_id": 4,
+      "market_question": "US x Iran ceasefire by March 31?",
+      "event_title": "US x Iran ceasefire by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.21500000000000002,
+      "spike_timestamp_before": "2026-03-01T11:00:20+00:00",
+      "spike_timestamp_after": "2026-03-02T09:00:19+00:00"
+    },
+    {
+      "market_id": "1484894",
+      "spike_id": 1,
+      "market_question": "US x Iran ceasefire by May 31?",
+      "event_title": "US x Iran ceasefire by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.265,
+      "spike_timestamp_before": "2026-03-02T18:00:51+00:00",
+      "spike_timestamp_after": "2026-03-03T16:00:31+00:00"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "spike_index": 7,
+  "direction": "down",
+  "price_before": 0.835,
+  "price_after": 0.315,
+  "delta": -0.52,
+  "abs_delta": 0.52,
+  "timestamp_before": "2026-03-03T14:30:35+00:00",
+  "timestamp_after": "2026-03-04T12:00:40+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "http://www.dw.com/en/iran-war-saudi-arabia-united-arab-emeriates-bahrain-qatar-involvement/a-76175593",
+      "file": "fbf849e99867.txt",
+      "title": "Will Gulf states enter the Iran war?",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Cathrin Schaer  Author for the Middle East desk.",
+      "text_length": 7020,
+      "status": "ok",
+      "num_tokens": 1390
+    },
+    {
+      "url": "https://www.al-monitor.com/originals/2026/03/qatar-wants-bolster-security-partnership-us-after-irans-strikes",
+      "file": "d13f075a0f6d.txt",
+      "title": "Qatar wants to bolster security partnership with US after Iran's strikes - AL-Monitor: The Middle East\u02bcs leading independent news source since 2012",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 1629,
+      "status": "ok",
+      "num_tokens": 351
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-attack-in-iran-qatar-to-fully-shut-gas-liquefaction-amid-tehrans-retaliatory-strikes/articleshow/129031277.cms",
+      "file": "17efe4e9132d.txt",
+      "title": "US-Israel attack in Iran: Qatar to fully shut gas liquefaction amid Tehran's retaliatory strikes - The Times of India",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "TOI World Desk  / TIMESOFINDIA.COM /   Mar 04, 2026, 19:31 IST",
+      "text_length": 1111,
+      "status": "ok",
+      "num_tokens": 204
+    },
+    {
+      "url": "https://edition-m.cnn.com/2026/03/04/middleeast/qatar-downs-iran-bombers-us-base-intl",
+      "file": "741887e6c59d.txt",
+      "title": "Exclusive: Minutes from disaster \u2014 how Qatar shot down two Iranian bombers in its first aerial combat operation | CNN",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "Mostafa Salem",
+      "text_length": 3781,
+      "status": "ok",
+      "num_tokens": 803
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2026/3/2/qatar-says-it-downed-two-iranian-fighter-jets-as-conflict-widens",
+      "file": "8a21078e3153.txt",
+      "title": "Qatar downs two Iranian fighter jets as conflict widens | US-Israel war on Iran News | Al Jazeera",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Al Jazeera Staff",
+      "text_length": 4111,
+      "status": "ok",
+      "num_tokens": 799
+    }
+  ],
+  "total_tokens": 3547
+}

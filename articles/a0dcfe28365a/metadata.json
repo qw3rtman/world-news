@@ -1,0 +1,67 @@
+{
+  "hash": "a0dcfe28365a",
+  "n_appearances": 5,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cbsnews.com/video/reza-pahlavi-iran-60-minutes-video-2026-03-01/",
+      "title": "Iran's Prince Reza Pahlavi believes regime could finally fall | 60 Minutes - CBS News",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 38,
+      "text_length": 183
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "958442",
+      "spike_id": 1,
+      "market_question": "Will the Iranian regime fall by March 31?",
+      "event_title": "Will the Iranian regime fall by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.18400000000000002,
+      "spike_timestamp_before": "2026-02-27T08:30:34+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:15+00:00"
+    },
+    {
+      "market_id": "958442",
+      "spike_id": 2,
+      "market_question": "Will the Iranian regime fall by March 31?",
+      "event_title": "Will the Iranian regime fall by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.184,
+      "spike_timestamp_before": "2026-02-27T19:30:41+00:00",
+      "spike_timestamp_after": "2026-02-28T12:00:09+00:00"
+    },
+    {
+      "market_id": "958442",
+      "spike_id": 3,
+      "market_question": "Will the Iranian regime fall by March 31?",
+      "event_title": "Will the Iranian regime fall by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.22300000000000003,
+      "spike_timestamp_before": "2026-02-27T19:30:41+00:00",
+      "spike_timestamp_after": "2026-02-28T14:00:50+00:00"
+    },
+    {
+      "market_id": "958442",
+      "spike_id": 4,
+      "market_question": "Will the Iranian regime fall by March 31?",
+      "event_title": "Will the Iranian regime fall by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.3185,
+      "spike_timestamp_before": "2026-02-28T05:30:36+00:00",
+      "spike_timestamp_after": "2026-02-28T22:30:36+00:00"
+    },
+    {
+      "market_id": "958442",
+      "spike_id": 5,
+      "market_question": "Will the Iranian regime fall by March 31?",
+      "event_title": "Will the Iranian regime fall by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.22149999999999997,
+      "spike_timestamp_before": "2026-02-28T22:30:36+00:00",
+      "spike_timestamp_after": "2026-03-01T17:30:42+00:00"
+    }
+  ]
+}

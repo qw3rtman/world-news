@@ -1,0 +1,65 @@
+{
+  "spike_index": 8,
+  "direction": "up",
+  "price_before": 0.155,
+  "price_after": 0.53,
+  "delta": 0.375,
+  "abs_delta": 0.375,
+  "timestamp_before": "2026-02-28T12:00:47+00:00",
+  "timestamp_after": "2026-03-01T11:30:35+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://techcrunch.com/2026/02/28/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
+      "file": "1fc61b48f69d.txt",
+      "title": "What to know about the landmark Warner Bros.\u00a0Discovery sale | TechCrunch",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Lauren Forristal",
+      "text_length": 7824,
+      "status": "ok",
+      "num_tokens": 1530
+    },
+    {
+      "url": "http://www.dw.com/ru/paramount-kupit-warner-bros-discovery-za-110-mlrd-dollarov-posle-sryva-sdelki-s-netflix/a-76159843",
+      "file": "b9aed0cae45f.txt",
+      "title": "Paramount \u043a\u0443\u043f\u0438\u0442 Warner Bros. Discovery \u0437\u0430 110 \u043c\u043b\u0440\u0434 \u0434\u043e\u043b\u043b\u0430\u0440\u043e\u0432",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 2330,
+      "status": "ok",
+      "num_tokens": 958
+    },
+    {
+      "url": "https://today.reuters.com/legal/litigation/warner-bros-signs-110-billion-deal-with-paramount-ends-bidding-war-with-netflix-2026-02-27/",
+      "file": "cd119cefae61.txt",
+      "title": "Paramount to buy Warner Bros Discovery in $110 billion deal as Netflix bows out of race | Reuters",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": "Karl Badohal",
+      "text_length": 5874,
+      "status": "ok",
+      "num_tokens": 1179
+    },
+    {
+      "url": "http://origin.www.bloomberg.com/news/articles/2026-02-27/spacex-is-said-to-weigh-confidential-ipo-filing-as-soon-as-march?srnd=undefined",
+      "file": "f2135d21add2.txt",
+      "title": "SpaceX Weighs Confidential IPO Filing as Soon as March - Bloomberg",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": "Bailey Lipschultz",
+      "text_length": 570,
+      "status": "ok",
+      "num_tokens": 114
+    },
+    {
+      "url": "http://www.semafor.com/article/02/26/2026/paypal-stripe-not-currently-in-talks",
+      "file": "275b90ee9be5.txt",
+      "title": "Paypal, Stripe not currently in talks | Semafor",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": null,
+      "text_length": 1453,
+      "status": "ok",
+      "num_tokens": 283
+    }
+  ],
+  "total_tokens": 4064
+}

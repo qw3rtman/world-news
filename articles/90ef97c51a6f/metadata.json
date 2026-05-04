@@ -1,0 +1,27 @@
+{
+  "hash": "90ef97c51a6f",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://origin.www.bloomberg.com/news/articles/2026-02-27/how-russia-ukraine-peace-talks-are-at-impasse-over-donbas-and-other-territory?srnd=undefined",
+      "title": "How Russia-Ukraine Peace Talks Are at Impasse Over Donbas and Other Territory - Bloomberg",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": "Aliaksandr Kudrytski",
+      "num_tokens": 205,
+      "text_length": 883
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "677361",
+      "spike_id": 1,
+      "market_question": "Will Russia capture Kostyantynivka by March 31?",
+      "event_title": "Will Russia capture Kostyantynivka by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.15000000000000002,
+      "spike_timestamp_before": "2026-02-27T08:00:25+00:00",
+      "spike_timestamp_after": "2026-02-27T18:30:24+00:00"
+    }
+  ]
+}

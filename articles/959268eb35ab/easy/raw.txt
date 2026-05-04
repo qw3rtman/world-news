@@ -1,0 +1,102 @@
+[
+  {
+    "q": "During the summit held in Miami, Florida, on March 7, 2026, what specific name did U.S. President Donald Trump give to the new coalition launched against drug cartels?",
+    "a": "Shield of the Americas"
+  },
+  {
+    "q": "In the March 2026 Miami summit, which U.S. official, serving as Secretary of State, delivered remarks in both English and Spanish alongside U.S. President Donald Trump?",
+    "a": "Marco Rubio"
+  },
+  {
+    "q": "Which U.S. Secretary of Defense, who attended the March 7, 2026, Miami summit, joked that he \"only speaks American\"?",
+    "a": "Pete Hegseth"
+  },
+  {
+    "q": "At the March 2026 Miami summit, which Argentine President attended the \"Shield of the Americas\" coalition launch?",
+    "a": "Javier Milei"
+  },
+  {
+    "q": "Which Chilean leader, identified as President-elect in March 2026, attended the Miami summit launched by U.S. President Donald Trump?",
+    "a": "Jose Antonio Kast"
+  },
+  {
+    "q": "Which Salvadoran President, known for a gang crackdown model, attended the March 7, 2026, Miami summit hosted by U.S. President Donald Trump?",
+    "a": "Nayib Bukele"
+  },
+  {
+    "q": "Which Honduran President, who narrowly won a disputed election with the backing of U.S. President Donald Trump, attended the March 2026 Miami summit?",
+    "a": "Nasry Asfura"
+  },
+  {
+    "q": "Which Ecuadorian President, who announced joint military operations with the United States against drug trafficking, attended the March 2026 Miami summit?",
+    "a": "Daniel Noboa"
+  },
+  {
+    "q": "Which Mexican President, whose \"beautiful voice\" was praised by U.S. President Donald Trump at the March 2026 Miami summit, is named in the article?",
+    "a": "Claudia Sheinbaum"
+  },
+  {
+    "q": "Which Prime Minister of Trinidad and Tobago, whose name U.S. President Donald Trump joked resembled that of former U.S. Vice President Kamala Harris, attended the March 2026 Miami summit?",
+    "a": "Kamla Persad-Bissessar"
+  },
+  {
+    "q": "In the January 2026 pressure campaign against Venezuela mentioned by U.S. President Donald Trump at the March 2026 Miami summit, which Venezuelan leader was captured?",
+    "a": "Nicolas Maduro"
+  },
+  {
+    "q": "Which U.S. Treasury Secretary, described by U.S. President Donald Trump as having a \"soothing\" personality, is named in the article regarding the March 2026 Miami summit?",
+    "a": "Scott Bessent"
+  },
+  {
+    "q": "According to Ryan Berg of the Center for Strategic and International Studies, what was the approximate value of China’s trade with Latin America in 2024?",
+    "a": "$518 billion"
+  },
+  {
+    "q": "According to Ryan Berg of the Center for Strategic and International Studies, how much in loans had Beijing extended to governments across the Western Hemisphere by early 2026?",
+    "a": "More than $120 billion"
+  },
+  {
+    "q": "Which key global freight route did U.S. President Donald Trump warn would not be allowed to fall under \"hostile foreign influence\" during the March 2026 Miami summit?",
+    "a": "The Panama Canal"
+  },
+  {
+    "q": "Which country's satellite tracking facilities were cited as part of China’s growing footprint in the Western Hemisphere that troubled U.S. officials?",
+    "a": "Argentina"
+  },
+  {
+    "q": "Which South American country was cited as having a Chinese-backed port that contributed to U.S. concerns about Beijing’s growing regional influence?",
+    "a": "Peru"
+  },
+  {
+    "q": "Which U.S. President-elect, attending the March 2026 Miami summit, had previously toured a sprawling \"mega-prison\" in El Salvador?",
+    "a": "Jose Antonio Kast"
+  },
+  {
+    "q": "Which U.S. official, serving as Secretary of Defense at the March 2026 Miami summit, echoed U.S. President Donald Trump's stance on cartel combat?",
+    "a": "Pete Hegseth"
+  },
+  {
+    "q": "Which former U.S. President was mentioned by name in U.S. President Donald Trump’s 30-minute opening speech at the March 2026 Miami summit?",
+    "a": "Jimmy Carter"
+  },
+  {
+    "q": "Which two countries did U.S. President Donald Trump cite as examples of nations where he suggested the United States could use missiles against cartel leaders if partners requested it?",
+    "a": "The article does not specify two countries for this specific missile suggestion, but cites Venezuela and Mexico generally as targets of pressure and activity."
+  },
+  {
+    "q": "Which two countries did U.S. President Donald Trump mention in his opening speech at the March 2026 Miami summit as topics far beyond drug cartels, alongside Iran and Ukraine?",
+    "a": "Pakistan and India"
+  },
+  {
+    "q": "Which Caribbean nation's prime minister, Kamla Persad-Bissessar, attended the March 2026 Miami summit?",
+    "a": "Trinidad and Tobago"
+  },
+  {
+    "q": "Which U.S. President joked that he had \"no time\" to learn the languages of the Spanish-speaking leaders at the March 2026 Miami summit?",
+    "a": "Donald Trump"
+  },
+  {
+    "q": "Which U.S. President predicted major political change in Cuba and stated that Cuban officials were negotiating with him and Secretary of State Marco Rubio?",
+    "a": "Donald Trump"
+  }
+]

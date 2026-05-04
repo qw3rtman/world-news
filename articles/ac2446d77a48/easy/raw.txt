@@ -1,0 +1,102 @@
+[
+  {
+    "q": "During the five-year term of U.S. President Donald Trump in the White House, which specific diplomatic action did he take regarding the location of the American Embassy?",
+    "a": "He moved the American Embassy to Jerusalem."
+  },
+  {
+    "q": "In the context of U.S. foreign policy under President Donald Trump, which territory's sovereignty did the United States officially recognize as belonging to Israel?",
+    "a": "The Golan Heights."
+  },
+  {
+    "q": "Which international agreement concerning Iran did U.S. President Donald Trump withdraw the United States from during his presidency?",
+    "a": "The Iran nuclear deal."
+  },
+  {
+    "q": "What change occurred to United Nations funding for Palestinian refugees during the administration of U.S. President Donald Trump?",
+    "a": "The funding was gutted."
+  },
+  {
+    "q": "What new U.S. government service became available to Jewish settlers in the West Bank during the presidency of Donald Trump, reversing previous Washington condemnations?",
+    "a": "They began getting their own U.S. passport office."
+  },
+  {
+    "q": "According to the article published on March 8, 2026, which Israeli Prime Minister viewed President Donald Trump's actions as a prophetic fulfillment?",
+    "a": "Prime Minister Benjamin Netanyahu."
+  },
+  {
+    "q": "Which political faction in Israel, alongside Prime Minister Benjamin Netanyahu, is described as viewing President Donald Trump's five years in the White House as a fulfillment of their prayers?",
+    "a": "The Israeli right."
+  },
+  {
+    "q": "What specific U.S. passport-related infrastructure was established for Jewish settlers in the West Bank during the Trump administration?",
+    "a": "A U.S. passport office."
+  },
+  {
+    "q": "How did the United States government under President Donald Trump alter its stance on the Golan Heights compared to previous administrations?",
+    "a": "It recognized Israeli sovereignty over the Golan Heights."
+  },
+  {
+    "q": "What happened to the financial support provided by the United Nations for Palestinian refugees during the term of U.S. President Donald Trump?",
+    "a": "The funding was gutted."
+  },
+  {
+    "q": "Which international nuclear agreement was dismantled by the United States under the direction of President Donald Trump?",
+    "a": "The Iran nuclear deal."
+  },
+  {
+    "q": "Where did U.S. President Donald Trump relocate the American Embassy during his time in the White House?",
+    "a": "To Jerusalem."
+  },
+  {
+    "q": "Which group of individuals in the West Bank gained access to a dedicated U.S. passport office during the Trump presidency?",
+    "a": "Jewish settlers."
+  },
+  {
+    "q": "According to the March 2026 report, how did the Israeli right perceive the policy changes enacted by President Donald Trump over his five years in office?",
+    "a": "As a prophetic fulfillment or the answering of their biggest prayers."
+  },
+  {
+    "q": "What was the status of U.S. funding for Palestinian refugees under the administration of President Donald Trump?",
+    "a": "It was gutted."
+  },
+  {
+    "q": "Which two major diplomatic shifts regarding Jerusalem and the Golan Heights were implemented by U.S. President Donald Trump?",
+    "a": "He moved the embassy to Jerusalem and recognized Israeli sovereignty over the Golan Heights."
+  },
+  {
+    "q": "What specific administrative change allowed Jewish settlers in the West Bank to access U.S. consular services directly, according to the article?",
+    "a": "The establishment of their own U.S. passport office."
+  },
+  {
+    "q": "Which international deal did President Donald Trump terminate, an action described as answering prayers for the Israeli right?",
+    "a": "The Iran nuclear deal."
+  },
+  {
+    "q": "How did the United States' financial contribution to the United Nations for Palestinian refugees change during President Donald Trump's term?",
+    "a": "The funding was gutted."
+  },
+  {
+    "q": "What location did U.S. President Donald Trump choose for the American Embassy, marking a significant shift in diplomatic recognition?",
+    "a": "Jerusalem."
+  },
+  {
+    "q": "Which territory did the United States, under President Donald Trump, formally recognize as sovereign Israeli territory?",
+    "a": "The Golan Heights."
+  },
+  {
+    "q": "What new facility was opened for Jewish settlers in the West Bank during the Trump administration, contrasting with previous Washington condemnations?",
+    "a": "A U.S. passport office."
+  },
+  {
+    "q": "According to the article, which Israeli leader and political group considered President Donald Trump's policies as a fulfillment of their long-held goals?",
+    "a": "Prime Minister Benjamin Netanyahu and the Israeli right."
+  },
+  {
+    "q": "What was the ultimate fate of the Iran nuclear deal under the foreign policy of U.S. President Donald Trump?",
+    "a": "It was ripped up."
+  },
+  {
+    "q": "Which specific UN-funded program for Palestinian refugees saw its financial support drastically reduced during the Trump presidency?",
+    "a": "U.N. funding for Palestinian refugees was gutted."
+  }
+]

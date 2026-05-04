@@ -1,0 +1,65 @@
+{
+  "spike_index": 18,
+  "direction": "up",
+  "price_before": 0.555,
+  "price_after": 0.71,
+  "delta": 0.15499999999999992,
+  "abs_delta": 0.15499999999999992,
+  "timestamp_before": "2026-03-07T21:00:28+00:00",
+  "timestamp_after": "2026-03-08T19:30:21+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.newsweek.com/100k-polymarket-winner-wagers-on-us-forces-entering-iran-11633078",
+      "file": "a517bdff21c0.txt",
+      "title": "$100K Polymarket winner wagers on US forces entering Iran - Newsweek",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": null,
+      "text_length": 4487,
+      "status": "ok",
+      "num_tokens": 928
+    },
+    {
+      "url": "http://www.haaretz.com/us-news/2026-03-08/ty-article/.premium/trump-says-deploying-u-s-ground-forces-in-iran-on-the-table/0000019c-ce1e-d8f8-a9de-ff9fc8fc0000",
+      "file": "791349020729.txt",
+      "title": "Trump Says Deploying U.S. Ground Forces in Iran 'On the Table' - U.S. News",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": "Ben Samuels",
+      "text_length": 311,
+      "status": "ok",
+      "num_tokens": 75
+    },
+    {
+      "url": "https://thehill.com/policy/defense/5774803-us-troops-iran-pete-hegseth/",
+      "file": "06a5d6b55ebc.txt",
+      "title": "Pete Hegseth: U.S. may deploy troops in Iran conflict",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "text_length": 1981,
+      "status": "ok",
+      "num_tokens": 440
+    },
+    {
+      "url": "https://fortune.com/2026/03/08/us-special-operation-forces-raid-iran-uranium-nuclear-weapons-program/",
+      "file": "39e24a76e676.txt",
+      "title": "U.S. considers idea of special operation to seize Iran\u2019s uranium | Fortune",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": "Bloomberg",
+      "text_length": 267,
+      "status": "ok",
+      "num_tokens": 47
+    },
+    {
+      "url": "https://www.iranintl.com/en/202603080095",
+      "file": "876de42a0cf1.txt",
+      "title": "US weighs deploying special forces to seize Iran uranium - Bloomberg | Iran International",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": null,
+      "text_length": 215,
+      "status": "ok",
+      "num_tokens": 37
+    }
+  ],
+  "total_tokens": 1527
+}

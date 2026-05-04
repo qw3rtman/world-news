@@ -1,0 +1,47 @@
+{
+  "hash": "2f65f4811594",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.newsweek.com/china-issues-warning-to-trump-as-upcoming-trip-now-in-doubt-11684467",
+      "title": "China Issues New Warning to Trump as Upcoming Trip Could Be Delayed Due to Iran War - Newsweek",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 733,
+      "text_length": 3617
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "604490",
+      "spike_id": 22,
+      "market_question": "Will Trump visit China by March 31?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.44,
+      "spike_timestamp_before": "2026-03-15T09:00:28+00:00",
+      "spike_timestamp_after": "2026-03-16T05:00:24+00:00"
+    },
+    {
+      "market_id": "604490",
+      "spike_id": 23,
+      "market_question": "Will Trump visit China by March 31?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.4375,
+      "spike_timestamp_before": "2026-03-15T14:00:26+00:00",
+      "spike_timestamp_after": "2026-03-16T14:00:25+00:00"
+    },
+    {
+      "market_id": "604490",
+      "spike_id": 24,
+      "market_question": "Will Trump visit China by March 31?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.6075,
+      "spike_timestamp_before": "2026-03-15T23:00:25+00:00",
+      "spike_timestamp_after": "2026-03-16T22:30:25+00:00"
+    }
+  ]
+}

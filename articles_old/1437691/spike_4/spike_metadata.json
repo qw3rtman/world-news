@@ -1,0 +1,65 @@
+{
+  "spike_index": 4,
+  "direction": "up",
+  "price_before": 0.265,
+  "price_after": 0.9995,
+  "delta": 0.7345,
+  "abs_delta": 0.7345,
+  "timestamp_before": "2026-02-27T09:30:22+00:00",
+  "timestamp_after": "2026-02-28T08:30:48+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.reuters.com/graphics/IRAN-CRISIS/MAPS/znpnmelervl/",
+      "file": "8e114d791301.txt",
+      "title": "Maps and charts of the Iran War",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Sudev Kiyada   and\u00a0 Sumanta Sen",
+      "text_length": 36996,
+      "status": "ok",
+      "num_tokens": 7647
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/28/world/gallery/middle-east-iran-attacks",
+      "file": "1fb45aeec72e.txt",
+      "title": "Photos: War in the Middle East after US-Israel strikes on Iran | CNN",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Brett Roegiers",
+      "text_length": 11339,
+      "status": "ok",
+      "num_tokens": 2483
+    },
+    {
+      "url": "https://www.wireless.reuters.com/world/iran-crisis-live-explosions-tehran-israel-announces-strike-2026-02-28/",
+      "file": "4c8ff59eec85.txt",
+      "title": "US-Israeli strikes kill Khamenei and Iranian retaliation shakes Gulf - As it happened | Reuters",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Kylie MacLellan",
+      "text_length": 521,
+      "status": "ok",
+      "num_tokens": 115
+    },
+    {
+      "url": "https://www.npr.org/2026/02/28/nx-s1-5730630/u-s-and-israel-strike-iran-heres-what-we-know",
+      "file": "a87abc1cc0dd.txt",
+      "title": "U.S. and Israel strike Iran. Here's what we know : Sources & Methods : NPR",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 748,
+      "status": "ok",
+      "num_tokens": 152
+    },
+    {
+      "url": "https://now.cnn.com/2026/03/01/politics/cia-ayatollah-ali-khamenei-strike",
+      "file": "9490255d2a97.txt",
+      "title": "Breaking News, Latest News and Videos | CNN",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Monica Sarkar",
+      "text_length": 261,
+      "status": "ok",
+      "num_tokens": 54
+    }
+  ],
+  "total_tokens": 10451
+}

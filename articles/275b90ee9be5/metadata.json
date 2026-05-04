@@ -1,0 +1,37 @@
+{
+  "hash": "275b90ee9be5",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://www.semafor.com/article/02/26/2026/paypal-stripe-not-currently-in-talks",
+      "title": "Paypal, Stripe not currently in talks | Semafor",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 283,
+      "text_length": 1453
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694940",
+      "spike_id": 7,
+      "market_question": "Will GitLab be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.365,
+      "spike_timestamp_before": "2026-02-28T00:00:27+00:00",
+      "spike_timestamp_after": "2026-02-28T19:00:25+00:00"
+    },
+    {
+      "market_id": "694940",
+      "spike_id": 8,
+      "market_question": "Will GitLab be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.375,
+      "spike_timestamp_before": "2026-02-28T12:00:47+00:00",
+      "spike_timestamp_after": "2026-03-01T11:30:35+00:00"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "What was the price of silver per ounce at 8:45 a.m. Eastern Time on Monday, February 23, 2026?",
+    "a": "$86.28"
+  },
+  {
+    "q": "By how much did the price of silver increase between 8:45 a.m. Eastern Time on Sunday, February 22, 2026, and 8:45 a.m. Eastern Time on Monday, February 23, 2026?",
+    "a": "$0.11"
+  },
+  {
+    "q": "What was the approximate year-over-year gain in the price of silver as of Monday, February 23, 2026?",
+    "a": "More than $53"
+  },
+  {
+    "q": "At what specific time on Monday, February 23, 2026, was the silver price of $86.28 per ounce recorded?",
+    "a": "8:45 a.m. Eastern Time"
+  },
+  {
+    "q": "How much higher was the silver price on Monday, February 23, 2026, compared to the price at the same time the previous day?",
+    "a": "$0.11"
+  },
+  {
+    "q": "What was the value of silver per ounce on Monday, February 23, 2026, according to the report published by Fortune?",
+    "a": "$86.28"
+  },
+  {
+    "q": "What is the difference in price per ounce for silver between Monday, February 23, 2026, and the same time one year prior?",
+    "a": "More than $53"
+  },
+  {
+    "q": "On which day of the week in February 2026 was the silver price reported to be $86.28 per ounce?",
+    "a": "Monday"
+  },
+  {
+    "q": "What was the daily price increase for silver between Sunday, February 22, 2026, and Monday, February 23, 2026, at 8:45 a.m. Eastern Time?",
+    "a": "$0.11"
+  },
+  {
+    "q": "How much has the price of silver increased over the past year as of Monday, February 23, 2026?",
+    "a": "More than $53"
+  },
+  {
+    "q": "What was the silver price per ounce at 8:45 a.m. Eastern Time on February 22, 2026, given that it rose by $0.11 to $86.28 the next day?",
+    "a": "$86.17"
+  },
+  {
+    "q": "What specific time zone was used to report the silver price of $86.28 per ounce on Monday, February 23, 2026?",
+    "a": "Eastern Time"
+  },
+  {
+    "q": "What was the year-over-year price gain for silver as of February 23, 2026?",
+    "a": "More than $53"
+  },
+  {
+    "q": "How much did the price of silver change from 8:45 a.m. Eastern Time on February 22, 2026, to 8:45 a.m. Eastern Time on February 23, 2026?",
+    "a": "It increased by $0.11"
+  },
+  {
+    "q": "What was the price of silver per ounce on Monday, February 23, 2026, which represented a gain of more than $53 over the previous year?",
+    "a": "$86.28"
+  },
+  {
+    "q": "What was the silver price per ounce at 8:45 a.m. Eastern Time on Monday, February 23, 2026, and what was the year-over-year gain?",
+    "a": "$86.28; more than $53"
+  },
+  {
+    "q": "What was the silver price per ounce at 8:45 a.m. Eastern Time on Monday, February 23, 2026, and what was the day-over-day gain?",
+    "a": "$86.28; $0.11"
+  },
+  {
+    "q": "If the silver price on Monday, February 23, 2026, was $86.28 per ounce, what was the price at the same time on Sunday, February 22, 2026?",
+    "a": "$86.17"
+  },
+  {
+    "q": "What was the approximate total increase in the price of silver per ounce over the 12-month period ending Monday, February 23, 2026?",
+    "a": "More than $53"
+  },
+  {
+    "q": "What was the exact price of silver per ounce at 8:45 a.m. Eastern Time on Monday, February 23, 2026, and how did it compare to the previous day?",
+    "a": "$86.28; an $0.11 uptick"
+  },
+  {
+    "q": "What was the silver price per ounce at 8:45 a.m. Eastern Time on Monday, February 23, 2026, and how much had it gained since the same time one year earlier?",
+    "a": "$86.28; more than $53"
+  },
+  {
+    "q": "What was the silver price per ounce at 8:45 a.m. Eastern Time on Monday, February 23, 2026, and what was the difference from the price at the same time on February 22, 2026?",
+    "a": "$86.28; $0.11"
+  },
+  {
+    "q": "What was the silver price per ounce at 8:45 a.m. Eastern Time on Monday, February 23, 2026, and what was the cumulative gain over the past year?",
+    "a": "$86.28; more than $53"
+  },
+  {
+    "q": "What was the silver price per ounce at 8:45 a.m. Eastern Time on Monday, February 23, 2026, and what was the daily increase from February 22, 2026?",
+    "a": "$86.28; $0.11"
+  },
+  {
+    "q": "What was the silver price per ounce at 8:45 a.m. Eastern Time on Monday, February 23, 2026, and what was the year-over-year increase?",
+    "a": "$86.28; more than $53"
+  }
+]

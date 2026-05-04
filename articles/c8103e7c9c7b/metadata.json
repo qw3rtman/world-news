@@ -1,0 +1,37 @@
+{
+  "hash": "c8103e7c9c7b",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://www.bbc.com/news/articles/c4g74npdwnyo",
+      "title": "European allies rush to bolster Cyprus defences after drones target British base",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 846,
+      "text_length": 4137
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1466423",
+      "spike_id": 5,
+      "market_question": "Will Iran strike Cyprus in March?",
+      "event_title": "Iran military action against ___ by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.215,
+      "spike_timestamp_before": "2026-03-02T12:30:39+00:00",
+      "spike_timestamp_after": "2026-03-03T12:00:38+00:00"
+    },
+    {
+      "market_id": "1466423",
+      "spike_id": 6,
+      "market_question": "Will Iran strike Cyprus in March?",
+      "event_title": "Iran military action against ___ by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.23500000000000001,
+      "spike_timestamp_before": "2026-03-02T22:30:27+00:00",
+      "spike_timestamp_after": "2026-03-03T17:30:29+00:00"
+    }
+  ]
+}

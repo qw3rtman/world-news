@@ -1,0 +1,65 @@
+{
+  "spike_index": 9,
+  "direction": "down",
+  "price_before": 0.325,
+  "price_after": 0.175,
+  "delta": -0.15000000000000002,
+  "abs_delta": 0.15000000000000002,
+  "timestamp_before": "2026-03-15T21:30:29+00:00",
+  "timestamp_after": "2026-03-16T20:30:43+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.reuters.com/business/energy/middle-east-oil-benchmarks-hit-record-highs-war-cuts-supply-2026-03-16",
+      "file": "01b0d3c8c052.txt",
+      "title": "Middle East oil becomes most expensive in the world as war cuts supply | Reuters",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "Florence Tan",
+      "text_length": 3299,
+      "status": "ok",
+      "num_tokens": 736
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-march-16-crude-continues-to-rise-as-us-iran-war-rages-on-brent-crude-surges-past-105-a-barrel/articleshow/129599496.cms",
+      "file": "5f45ed7f06b1.txt",
+      "title": "Oil prices today: Crude continues to rise as US-Iran war rages on; Brent surges past $105 a barrel - The Times of India",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /  Updated: Mar 16, 2026, 12:33 IST",
+      "text_length": 2419,
+      "status": "ok",
+      "num_tokens": 459
+    },
+    {
+      "url": "https://polling.reuters.com/business/energy/oil-poised-further-gains-middle-east-conflict-threatens-export-facilities-2026-03-15/",
+      "file": "da20bed15b1f.txt",
+      "title": "Oil poised for further gains as Middle East conflict threatens export facilities | Reuters",
+      "published_date": "2026-03-15T00:00:00.000Z",
+      "author": "Florence Tan",
+      "text_length": 2740,
+      "status": "ok",
+      "num_tokens": 550
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/13/oil-100-price-brent-wti-trump-iran-war-surrender-khamenei.html",
+      "file": "cc3437d0913e.txt",
+      "title": "Oil above $100 as as market shrugs off U.S. measures to reduce prices",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": "Chloe Taylor,Spencer Kimball",
+      "text_length": 3793,
+      "status": "ok",
+      "num_tokens": 843
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/analysts-reassess-oil-price-estimates-iran-conflict-disrupts-markets-2026-03-23/",
+      "file": "29467df55a52.txt",
+      "title": "Analysts hike oil price outlooks as Iran conflict persists | Reuters",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": null,
+      "text_length": 1058,
+      "status": "ok",
+      "num_tokens": 249
+    }
+  ],
+  "total_tokens": 2837
+}

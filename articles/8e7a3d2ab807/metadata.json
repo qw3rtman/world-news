@@ -1,0 +1,37 @@
+{
+  "hash": "8e7a3d2ab807",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-and-silver-prices-soar-yellow-metal-hits-rs-1-66-lakh-silver-gains-rs-20000-should-you-buy-on-dips/articleshow/128958316.cms",
+      "title": "Gold and silver prices soar: Yellow metal hits Rs 1.66 lakh, silver gains Rs 20,000 — should you buy on dips? - The Times of India",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /  Updated: Mar 03, 2026, 09:44 IST",
+      "num_tokens": 435,
+      "text_length": 2057
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1032336",
+      "spike_id": 11,
+      "market_question": "Will Silver (SI) hit (HIGH) $120 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.22849999999999998,
+      "spike_timestamp_before": "2026-03-02T01:30:35+00:00",
+      "spike_timestamp_after": "2026-03-03T01:00:34+00:00"
+    },
+    {
+      "market_id": "1032336",
+      "spike_id": 12,
+      "market_question": "Will Silver (SI) hit (HIGH) $120 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.19350000000000006,
+      "spike_timestamp_before": "2026-03-02T15:30:51+00:00",
+      "spike_timestamp_after": "2026-03-03T15:00:47+00:00"
+    }
+  ]
+}

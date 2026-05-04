@@ -1,0 +1,27 @@
+{
+  "hash": "daf4a2d36be4",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.thetimes.com/world/middle-east/article/us-attacks-iran-strikes-trump-latest-news-q39l3fsrd?gaa_at=eafs&gaa_n=AWEtsqc82-l7D3X7T4rIU8aP5KkKoJnv8WeONV7Cmqd_QAgPXxKch_VyBazL&gaa_sig=SBA4xeYhJ0Z9xQ0hEWVVPT7z0Io30srvwLGgSPlIhD1z8-dFwMa49vyssTZQMWgG7n26XKvW6BQEpiZr0EWviw%3D%3D&gaa_ts=69a3a6b2",
+      "title": "US and Israel attack Iran — as it happened",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Dominic Hauschild | Mark Urban | Gabrielle Weiniger, Tel Aviv | Gabriel Pogrund, | Haroon Janjua | Christina Lamb | Charlie Moloney | Oliver Gill | Larisa Brown",
+      "num_tokens": 16051,
+      "text_length": 74805
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1466015",
+      "spike_id": 1,
+      "market_question": "US x Iran ceasefire by March 31?",
+      "event_title": "US x Iran ceasefire by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.30500000000000005,
+      "spike_timestamp_before": "2026-02-28T14:30:22+00:00",
+      "spike_timestamp_after": "2026-02-28T15:30:22+00:00"
+    }
+  ]
+}

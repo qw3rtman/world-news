@@ -1,0 +1,37 @@
+{
+  "hash": "4bbbb320c723",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.thetimes.com/article/7b309634-2048-4016-b021-af39c80c3b42?shareToken=a4a14761c61f77f85366758fd8d360af",
+      "title": "Verifying Device",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "Catherine Philp, World Affairs Editor",
+      "num_tokens": 21,
+      "text_length": 103
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1485771",
+      "spike_id": 4,
+      "market_question": "Will Iran name a successor to Khamenei by March 4?",
+      "event_title": "New Supreme Leader of Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.69,
+      "spike_timestamp_before": "2026-03-03T21:00:54+00:00",
+      "spike_timestamp_after": "2026-03-04T17:00:47+00:00"
+    },
+    {
+      "market_id": "1485771",
+      "spike_id": 5,
+      "market_question": "Will Iran name a successor to Khamenei by March 4?",
+      "event_title": "New Supreme Leader of Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.698,
+      "spike_timestamp_before": "2026-03-03T21:00:54+00:00",
+      "spike_timestamp_after": "2026-03-04T21:00:34+00:00"
+    }
+  ]
+}

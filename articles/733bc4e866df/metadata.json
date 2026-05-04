@@ -1,0 +1,27 @@
+{
+  "hash": "733bc4e866df",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/03/17/gold-little-changed-as-investors-assess-middle-east-fallout-ahead-of-policy-decisions.html",
+      "title": "Gold steady as markets track Iran tensions, await Fed decision",
+      "published_date": "2026-03-17T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 419,
+      "text_length": 1870
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1032272",
+      "spike_id": 9,
+      "market_question": "Will Gold (GC) hit (HIGH) $5,500 by end of June?",
+      "event_title": "What will Gold (GC) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.2595,
+      "spike_timestamp_before": "2026-03-18T19:00:40+00:00",
+      "spike_timestamp_after": "2026-03-19T14:30:48+00:00"
+    }
+  ]
+}

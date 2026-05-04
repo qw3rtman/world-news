@@ -1,0 +1,27 @@
+{
+  "hash": "63885311e6b2",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/rosneft-deutschland-eu-erlaubt-bund-uebernahme-von-kontrolle-a-c7bbb743-8530-43bb-80f7-584e4225bcc1",
+      "title": "Rosneft Deutschland: EU erlaubt Bund Übernahme von Kontrolle - DER SPIEGEL",
+      "published_date": "2026-02-20T00:00:00.000Z",
+      "author": "DER SPIEGEL",
+      "num_tokens": 795,
+      "text_length": 2882
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694937",
+      "spike_id": 6,
+      "market_question": "Will BP be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.165,
+      "spike_timestamp_before": "2026-02-22T19:30:17+00:00",
+      "spike_timestamp_after": "2026-02-23T18:00:31+00:00"
+    }
+  ]
+}

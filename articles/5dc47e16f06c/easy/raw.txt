@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Following the Iranian attacks on Middle Eastern energy facilities in March 2026, by what percentage did Brent crude futures rise in post-settlement trading on Wednesday, March 18, 2026?",
+    "a": "Brent crude futures rose by 5.6%."
+  },
+  {
+    "q": "What was the closing price of U.S. West Texas Intermediate (WTI) crude on Wednesday, March 18, 2026, after it settled up 0.1%?",
+    "a": "WTI crude closed at $96.32 per barrel."
+  },
+  {
+    "q": "Which specific Iranian energy facility, reported by Israeli media to be struck with U.S. consent, triggered the escalation that led to attacks on Gulf energy facilities in March 2026?",
+    "a": "The South Pars gas field."
+  },
+  {
+    "q": "According to Qatar's state oil and gas company, which industrial hub suffered \"extensive damage\" from Iranian missile strikes in March 2026?",
+    "a": "The Ras Laffan Industrial City."
+  },
+  {
+    "q": "What percentage of global oil and LNG supply is handled by the Strait of Hormuz, a shipping route halted by the war in March 2026?",
+    "a": "20%."
+  },
+  {
+    "q": "U.S. President Donald Trump's administration announced a 60-day waiver of which specific shipping law on Wednesday, March 18, 2026, to allow foreign-flagged vessels to move goods between U.S. ports?",
+    "a": "The Jones Act."
+  },
+  {
+    "q": "Which federal restriction on summer-blend gasoline was temporarily lifted by the U.S. administration in March 2026 to help control rising fuel prices?",
+    "a": "Federal smog-cutting restrictions."
+  },
+  {
+    "q": "To what nearly $85 per barrel premium did U.S. diesel futures surge relative to WTI crude in March 2026, the highest level since October 2022?",
+    "a": "The premium was nearly $85 per barrel."
+  },
+  {
+    "q": "Which U.S. Vice President and other key Trump administration officials planned to meet with the American Petroleum Institute in March 2026?",
+    "a": "Vice President JD Vance."
+  },
+  {
+    "q": "Iraq's North Oil Company announced the resumption of crude exports from which specific fields to Turkey's Ceyhan port in March 2026?",
+    "a": "The Kirkuk fields."
+  },
+  {
+    "q": "What was the initial capacity, in barrels per day, for the resumed crude exports from Iraq's Kirkuk fields to Turkey in March 2026?",
+    "a": "250,000 barrels per day."
+  },
+  {
+    "q": "Which Iraqi state oil company signed contracts with international carriers and buyers to export crude via Turkey, Jordan, and Syria in March 2026?",
+    "a": "SOMO (Iraqi state oil company)."
+  },
+  {
+    "q": "According to Phil Flynn of Price Futures Group, what effect does Iraq restarting oil exports have on Iran's ability to use oil as a bargaining chip in March 2026?",
+    "a": "It ramps up pressure on Iran, making it harder for them to use oil as a bargaining chip."
+  },
+  {
+    "q": "Which oil field in Libya saw its flows gradually redirected through alternative pipelines after a fire broke out in March 2026?",
+    "a": "The Sharara oilfield."
+  },
+  {
+    "q": "By how many million barrels did U.S. crude inventories rise in the week ended March 13, 2026, according to the Energy Information Administration?",
+    "a": "Crude inventories rose by 6.2 million barrels."
+  },
+  {
+    "q": "What was the total volume of U.S. crude inventories in the week ended March 13, 2026, after rising by 6.2 million barrels?",
+    "a": "449.3 million barrels."
+  },
+  {
+    "q": "SEB analyst Ole Hvalbye stated in March 2026 that attacks on Iran's South Pars field were boosting prices, and that further escalations to what type of infrastructure would continue to raise prices?",
+    "a": "Energy infrastructure."
+  },
+  {
+    "q": "What was the estimated range of total oil output cuts in the Middle East in March 2026, expressed as a percentage of global demand?",
+    "a": "7% to 10% of global demand."
+  },
+  {
+    "q": "U.S. West Texas Intermediate (WTI) futures had settled at their widest discount to Brent in 11 years in March 2026, pressured by higher supply from a release of what specific reserve?",
+    "a": "The Strategic Petroleum Reserve."
+  },
+  {
+    "q": "Saudi Arabia reported intercepting and destroying multiple ballistic missiles launched toward which city in March 2026?",
+    "a": "Riyadh."
+  },
+  {
+    "q": "Iran issued an evacuation warning for energy facilities in Saudi Arabia, the UAE, and Qatar, stating they would be targeted \"in the coming hours\" on which day in March 2026?",
+    "a": "Wednesday, March 18, 2026."
+  },
+  {
+    "q": "Which organization is identified as the nation’s largest oil trade group that U.S. Vice President JD Vance planned to meet with in March 2026?",
+    "a": "The American Petroleum Institute."
+  },
+  {
+    "q": "The U.S. issued a general license authorizing certain deals involving Venezuela's state oil company, known by which acronym, in March 2026?",
+    "a": "PDVSA."
+  },
+  {
+    "q": "In March 2026, which two parties agreed to restart crude flows from Iraq's Kirkuk fields to Turkey's Ceyhan port via pipeline?",
+    "a": "Baghdad and the Kurdistan Regional Government."
+  },
+  {
+    "q": "What was the estimated range of total oil output cuts in the Middle East in March 2026, expressed in millions of barrels per day?",
+    "a": "7 million to 10 million barrels per day."
+  }
+]

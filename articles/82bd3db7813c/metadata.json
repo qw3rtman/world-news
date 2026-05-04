@@ -1,0 +1,37 @@
+{
+  "hash": "82bd3db7813c",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/03/03/stock-market-today-live-updates.html",
+      "title": "Stock market news for March 4, 2026",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Sean Conlon,Chloe Taylor,Pia Singh",
+      "num_tokens": 558,
+      "text_length": 2656
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694940",
+      "spike_id": 10,
+      "market_question": "Will GitLab be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.365,
+      "spike_timestamp_before": "2026-03-02T02:00:22+00:00",
+      "spike_timestamp_after": "2026-03-02T09:00:23+00:00"
+    },
+    {
+      "market_id": "694940",
+      "spike_id": 11,
+      "market_question": "Will GitLab be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.18499999999999994,
+      "spike_timestamp_before": "2026-03-02T09:00:23+00:00",
+      "spike_timestamp_after": "2026-03-03T07:30:22+00:00"
+    }
+  ]
+}

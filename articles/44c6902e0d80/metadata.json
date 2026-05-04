@@ -1,0 +1,27 @@
+{
+  "hash": "44c6902e0d80",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/03/09/oil-prices-iran-war-middle-east-us-israel-strait-of-hormuz.html?__source=androidappshare",
+      "title": "Oil prices: Analysts raise the alarm as crude soars over Iran war",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "Sam Meredith",
+      "num_tokens": 1037,
+      "text_length": 5125
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1477563",
+      "spike_id": 3,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $150 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.20249999999999999,
+      "spike_timestamp_before": "2026-03-08T04:00:29+00:00",
+      "spike_timestamp_after": "2026-03-09T04:00:25+00:00"
+    }
+  ]
+}

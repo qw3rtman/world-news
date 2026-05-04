@@ -1,0 +1,102 @@
+[
+  {
+    "q": "During the week of February 27, 2026, a Reuters review of public export-control compliance enquiries to China's commerce ministry revealed a surge in queries following the tightening of rare-earth controls in which month and year?",
+    "a": "April 2025"
+  },
+  {
+    "q": "In late March 2026, U.S. President Donald Trump and Chinese President Xi Jinping were scheduled to meet in which city for their second in-person talks since Trump returned to office?",
+    "a": "Beijing"
+  },
+  {
+    "q": "According to a Reuters analysis, the number of Chinese groups added to the U.S. Entity List peaked at 257 in which year, marking the last full year of the Biden administration?",
+    "a": "2024"
+  },
+  {
+    "q": "In 2025, the number of China-related additions to the U.S. Entity List fell to 131, which was roughly half the pace of additions recorded in which previous year?",
+    "a": "2024"
+  },
+  {
+    "q": "Alfredo Montufar-Helu, a Beijing-based managing director at Ankura Consulting, stated in early 2026 that the U.S. reining in of controls was a direct acknowledgement of which country's growing leverage?",
+    "a": "China"
+  },
+  {
+    "q": "Since enacting its Export Control Law in October 2020, China had introduced or expanded export control measures 29 times as of early 2026, compared to how many times between 2015 and 2020?",
+    "a": "Six times"
+  },
+  {
+    "q": "In 2025, export-control compliance enquiries posted publicly to China's commerce ministry jumped to 135, up from how many combined cases reported in the preceding six years?",
+    "a": "43"
+  },
+  {
+    "q": "Nick Myers, chief executive of the U.S. rare-earth startup Phoenix Tailings, described China's licensing system for rare earths as what type of activity in early 2026?",
+    "a": "Economic warfare"
+  },
+  {
+    "q": "Li Xing, a professor at the Guangdong Institute for International Strategies in Guangzhou, stated in early 2026 that China's use of rare earths as leverage was completely learned from which two entities?",
+    "a": "The West and especially the U.S."
+  },
+  {
+    "q": "In 2026, recruitment documents for the national civil-service examination showed that 45 commerce ministry posts could be assigned to export-control-related work, compared to how many such vacancies in both 2022 and 2023?",
+    "a": "11"
+  },
+  {
+    "q": "Earlier in February 2026, the Pentagon briefly published and then withdrew an updated Military End User list that would have added which two Chinese tech giants?",
+    "a": "Alibaba and Baidu"
+  },
+  {
+    "q": "Jensen Huang, CEO of Nvidia, stated in 2025 that export controls were a failure and that U.S. President Donald Trump realized they were the wrong goal, criticizing the controls of which previous administration?",
+    "a": "The Biden administration"
+  },
+  {
+    "q": "China's October 2025 revision to its rare-earth export-control regime reflected lessons from which U.S. rule that allows Washington to assert jurisdiction over foreign-made goods produced with American technology?",
+    "a": "The Foreign Direct Product Rule"
+  },
+  {
+    "q": "Bipartisan U.S. lawmakers criticized the Trump administration in early 2026 for approving certain AI chip exports from which company and for cutting funding to which bureau?",
+    "a": "Nvidia and the Bureau of Industry and Security (BIS)"
+  },
+  {
+    "q": "A Nvidia spokesperson stated in early 2026 that criticism of the administration's decision to greenlight semiconductor shipments to China was unintentionally promoting the interests of which group?",
+    "a": "Foreign competitors"
+  },
+  {
+    "q": "China dominates the processing of rare earths, specifically the conversion of ore into refined oxides and metals used in electric vehicles, wind turbines, and which other major sector?",
+    "a": "Defence systems"
+  },
+  {
+    "q": "In early 2026, the rate of complaints regarding shipment delays and regulatory burdens among Chinese exporters nearly doubled compared to the rate observed in which year?",
+    "a": "2025"
+  },
+  {
+    "q": "Dozens of provincial and municipal governments in China organized compliance seminars and policy briefings over the past year leading up to early 2026, while Beijing convened national export-control work conferences bringing officials from across the country to which capital city?",
+    "a": "Beijing"
+  },
+  {
+    "q": "The actual number of export-control queries from Chinese exporters is likely orders of magnitude larger than public records suggest because many companies use private channels such as contacting provincial and municipal commerce bureaux in which country?",
+    "a": "China"
+  },
+  {
+    "q": "Makers of products ranging from pill boxes, printed billboards, motor components, and optical glass queried China's commerce ministry in early 2026 about whether they require export licences due to controls tightened in which month and year?",
+    "a": "April 2025"
+  },
+  {
+    "q": "U.S. President Donald Trump's second term saw an easing of export restrictions on advanced artificial-intelligence chips targeting which country, after that country's curbs on rare earths threatened to hobble global supply chains?",
+    "a": "China"
+  },
+  {
+    "q": "Alfredo Montufar-Helu of Ankura Consulting described China's rapid construction of an export-control apparatus in early 2026 as designed to weaponize chokepoints across which types of sectors?",
+    "a": "Strategic and non-strategic sectors"
+  },
+  {
+    "q": "The Pentagon official stated in February 2026 that the withdrawn Military End User list was removed because it may require changes based on new information, and that an updated list would be published by which U.S. government branch?",
+    "a": "The Pentagon"
+  },
+  {
+    "q": "China's new rare-earth licensing system, revised in October 2025, reaches into processing and downstream incorporation, affecting a chokepoint deeper in the supply chain than which activity?",
+    "a": "Mining itself"
+  },
+  {
+    "q": "In early 2026, about 16% of the 135 export-control compliance enquiries posted publicly to China's commerce ministry in 2025 were complaints about which two specific issues?",
+    "a": "Shipment delays and increased regulatory burdens"
+  }
+]

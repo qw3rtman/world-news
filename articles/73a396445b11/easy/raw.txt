@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the 2026 State of the Union address delivered on February 24, 2026, what specific claim did President Donald Trump make regarding the admission of illegal aliens to the United States over the preceding nine months?",
+    "a": "Trump claimed that zero illegal aliens had been admitted to the United States in the past nine months."
+  },
+  {
+    "q": "Regarding the 2026 State of the Union address, what action did Representative Al Green of Texas take at the start of the speech, and what was the immediate consequence?",
+    "a": "Representative Al Green held up a sign reading \"Black people aren't apes\" and was escorted out of the House chamber."
+  },
+  {
+    "q": "What was the year-over-year inflation rate in January 2026, and how did it compare to the rate when President Donald Trump took office in January 2025?",
+    "a": "The inflation rate was about 2.4% in January 2026, which was lower than the rate when he took office in January 2025."
+  },
+  {
+    "q": "According to the American Automobile Association data cited for February 24, 2026, which state had the lowest average gasoline price in the United States, and what was that price?",
+    "a": "Oklahoma had the lowest average price at $2.37 a gallon."
+  },
+  {
+    "q": "What discount percentage did the TrumpRX.gov website offer for the fertility medication Cetrotide, reducing its price from $316.12 to $22.50?",
+    "a": "The website offered a 93% discount on Cetrotide."
+  },
+  {
+    "q": "For the newly launched \"Trump accounts\" program, what is the range of birth dates for babies eligible to receive the $1,000 federal seed money?",
+    "a": "Babies born between January 1, 2025, and December 31, 2028, are eligible for the seed money."
+  },
+  {
+    "q": "According to a federal Securities and Exchange Commission investment calculator, what is the projected value of a $1,000 \"Trump account\" after 18 years at a 10% growth rate if no additional contributions are made?",
+    "a": "The projected value is about $6,000."
+  },
+  {
+    "q": "How many vessels did the Trump administration strike in the Caribbean Sea and Eastern Pacific Ocean between September 2025 and the time of the 2026 State of the Union address, and how many people were reported killed?",
+    "a": "The administration struck at least 41 vessels, killing about 152 people."
+  },
+  {
+    "q": "What discrepancy did fact-checkers note between the Department of Homeland Security's report on Border Patrol releases and the Customs and Border Protection's drug seizure data during Trump's second term?",
+    "a": "Border Patrol had not released immigrants for eight months, while Coast Guard drug seizures increased even as CBP seizures dropped."
+  },
+  {
+    "q": "What specific change did Trump's One Big Beautiful Bill Act, passed in August 2025, mandate for parents of dependent children ages 14 and older regarding SNAP benefits?",
+    "a": "It mandated that they work, volunteer, or participate in job training for at least 80 hours a month."
+  },
+  {
+    "q": "Who did President Donald Trump introduce during the 2026 State of the Union address, and what award did he announce he would give to the team's goaltender?",
+    "a": "He introduced the Olympic gold-medal winning men's hockey team and announced he would award goaltender Connor Hellebuyck the Presidential Medal of Freedom."
+  },
+  {
+    "q": "What was the nationwide average gasoline price in the United States when President Donald Trump was inaugurated, compared to the week of February 16, 2026?",
+    "a": "The price fell from $3.11 a gallon at inauguration to $2.92 a gallon the week of February 16, 2026."
+  },
+  {
+    "q": "Why did PolitiFact describe President Donald Trump's claim of 300% to 600% price drops on prescription drugs as mathematical hyperbole?",
+    "a": "Because a 100% drop means the item is free, and drops above 100% would imply manufacturers are paying consumers to take the drugs."
+  },
+  {
+    "q": "Which specific group of people was exempted from the new work requirements for SNAP benefits introduced by Trump's One Big Beautiful Bill Act?",
+    "a": "Native Americans were exempted from the new requirements."
+  },
+  {
+    "q": "What was the reported year-over-year rise in prices for groceries during President Donald Trump's second term, as cited in the fact-check?",
+    "a": "Groceries were up by about 2%."
+  },
+  {
+    "q": "According to the article, why is it considered unknowable how many drugs are actually entering the United States despite data on seizures?",
+    "a": "Because drug seizures only indicate how many drugs are stopped, not the total amount entering the country."
+  },
+  {
+    "q": "What sign did Representative Al Green hold up during the 2026 State of the Union address that referenced a video posted by President Donald Trump on Truth Social?",
+    "a": "The sign read \"Black people aren't apes,\" referencing a video depicting President Barack Obama and First Lady Michelle Obama as apes."
+  },
+  {
+    "q": "What was the average individual monthly benefit amount for SNAP recipients prior to the changes in Trump's One Big Beautiful Bill Act?",
+    "a": "The average individual monthly benefit was about $190."
+  },
+  {
+    "q": "How many U.S. citizens were reported killed by immigration agents during the implementation of President Donald Trump's immigration efforts, as mentioned in the 2026 State of the Union context?",
+    "a": "Two U.S. citizens were shot and killed by immigration agents."
+  },
+  {
+    "q": "What was the Federal Reserve's stated aim for year-over-year inflation, as contrasted with the 2.4% rate observed in January 2026?",
+    "a": "The Federal Reserve aims to keep inflation about 2% year-over-year."
+  },
+  {
+    "q": "Which two states, alongside Oklahoma, had average gasoline prices at or below $2.50 a gallon as of late February 2026?",
+    "a": "Arkansas, Kansas, and Mississippi had average prices at or below $2.50 a gallon."
+  },
+  {
+    "q": "What percentage discount did the TrumpRX.gov website offer for Wegovy pills, reducing the price from $1,349 to $149 a month?",
+    "a": "The website offered an 89% discount on Wegovy pills."
+  },
+  {
+    "q": "According to experts cited in the article, what is the likely historical ranking for the 20% drop in the 2025 murder rate when the final FBI data is released?",
+    "a": "It is likely to become the largest one-year decline ever recorded in U.S. history."
+  },
+  {
+    "q": "What specific condition did the TrumpRX.gov website place on its drug discounts that limited their availability to certain patients?",
+    "a": "The discounts were currently only available for cash-paying patients, not those using insurance."
+  },
+  {
+    "q": "How many Americans were projected to lose access to SNAP benefits due to the passage of Trump's One Big Beautiful Bill Act in August 2025?",
+    "a": "About 2.4 million Americans were projected to lose access to the benefits."
+  }
+]

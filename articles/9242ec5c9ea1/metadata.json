@@ -1,0 +1,27 @@
+{
+  "hash": "9242ec5c9ea1",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.npr.org/2026/02/27/nx-s1-5728865/warner-bros-paramount-ellison-family",
+      "title": "Paramount, Warner Bros deal would unite film, news and social media forces : NPR",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": "David Folkenflik",
+      "num_tokens": 2141,
+      "text_length": 10704
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694941",
+      "spike_id": 9,
+      "market_question": "Will Pizza Hut be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.195,
+      "spike_timestamp_before": "2026-02-27T07:30:35+00:00",
+      "spike_timestamp_after": "2026-02-27T23:30:34+00:00"
+    }
+  ]
+}

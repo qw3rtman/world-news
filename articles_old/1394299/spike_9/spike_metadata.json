@@ -1,0 +1,65 @@
+{
+  "spike_index": 9,
+  "direction": "down",
+  "price_before": 0.73,
+  "price_after": 0.355,
+  "delta": -0.375,
+  "abs_delta": 0.375,
+  "timestamp_before": "2026-03-01T02:30:25+00:00",
+  "timestamp_after": "2026-03-01T11:30:37+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.nbcnews.com/world/iran/us-israel-attacks-iran-protests-nuclear-talks-rcna253784",
+      "file": "bf8079ad4c4c.txt",
+      "title": "U.S. and Israel attack Iran as Trump urges Iranians to 'take over' the government",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 11764,
+      "status": "ok",
+      "num_tokens": 2323
+    },
+    {
+      "url": "https://foreignpolicy.com/2026/02/28/us-israel-strike-iran-trump-nuclear-program-missiles/",
+      "file": "46a8a59bce24.txt",
+      "title": "U.S., Israel Begin 'Major Combat Operations' in Iran as Trump Calls for Regime Change",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Jennifer Williams, Rishi Iyengar, John Haltiwanger",
+      "text_length": 6912,
+      "status": "ok",
+      "num_tokens": 1466
+    },
+    {
+      "url": "https://thehill.com/policy/defense/5760747-trump-iran-regime-change/",
+      "file": "2322b3ae8367.txt",
+      "title": "Five takeaways as Trump wages war on Iran",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 9823,
+      "status": "ok",
+      "num_tokens": 2005
+    },
+    {
+      "url": "https://www.pbs.org/newshour/world/hegseth-insists-the-iran-conflict-is-not-iraq-and-is-not-endless",
+      "file": "b289e34a5ac2.txt",
+      "title": "WATCH: Hegseth insists the Iran conflict is 'not Iraq' and is 'not endless' | PBS News",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 6796,
+      "status": "ok",
+      "num_tokens": 1411
+    },
+    {
+      "url": "https://billsforum.usatoday.com/story/graphics/2026/03/01/us-attack-on-iran-timeline-2026/88933055007/",
+      "file": "d5ad06b4386c.txt",
+      "title": "Latest World & National News & Headlines - USATODAY.com",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 64,
+      "status": "ok",
+      "num_tokens": 10
+    }
+  ],
+  "total_tokens": 7215
+}

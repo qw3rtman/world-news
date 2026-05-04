@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On February 19, 2026, by what amount did silver futures rise in Indian Rupees per kilogram, and what was the resulting price per kilogram?",
+    "a": "Silver futures rose by Rs. 1,037 to reach Rs. 2,45,305 per kg."
+  },
+  {
+    "q": "What was the global price of silver in U.S. dollars per ounce on February 19, 2026, and what was the percentage increase?",
+    "a": "Silver was trading at $78.32 per ounce, which was a 1.46% increase."
+  },
+  {
+    "q": "In which city was the global silver trading data reported on February 19, 2026, and what was the price per ounce?",
+    "a": "The data was reported in New York, where silver traded at $78.32 per ounce."
+  },
+  {
+    "q": "What specific day of the week did silver futures rise to Rs. 2,45,305 per kg in 2026, and what was the exact rupee increase?",
+    "a": "The rise occurred on Thursday, with an increase of Rs. 1,037."
+  },
+  {
+    "q": "According to the report published on February 19, 2026, what global market trend influenced the rise in Indian silver futures?",
+    "a": "The rise was influenced by firm global trends."
+  },
+  {
+    "q": "What was the percentage gain for global silver prices in New York on February 19, 2026, and what was the absolute price per ounce?",
+    "a": "Global silver prices gained 1.46% to reach $78.32 per ounce."
+  },
+  {
+    "q": "How much did the price of silver futures increase in Indian Rupees on the Thursday following the publication of the February 19, 2026 report?",
+    "a": "The price increased by Rs. 1,037."
+  },
+  {
+    "q": "What was the final per-kilogram price of silver futures in India on February 19, 2026, after a rise of Rs. 1,037?",
+    "a": "The final price was Rs. 2,45,305 per kg."
+  },
+  {
+    "q": "On February 19, 2026, what was the difference between the global silver price in New York ($78.32/oz) and the Indian futures price (Rs. 2,45,305/kg) in terms of the reported global percentage change?",
+    "a": "The global price in New York increased by 1.46%."
+  },
+  {
+    "q": "Which news agency provided the data regarding the global silver trading price of $78.32 per ounce in New York on February 19, 2026?",
+    "a": "The data was provided by pti."
+  },
+  {
+    "q": "What was the starting price of silver futures in Indian Rupees per kilogram on February 19, 2026, before the Rs. 1,037 increase?",
+    "a": "The starting price was Rs. 2,44,268 per kg."
+  },
+  {
+    "q": "In February 2026, what was the global silver price per ounce in New York, and how did it compare to the previous day in percentage terms?",
+    "a": "It was $78.32 per ounce, up 1.46%."
+  },
+  {
+    "q": "What specific numerical increase in Indian Rupees per kilogram was recorded for silver futures on Thursday, February 19, 2026?",
+    "a": "The increase was Rs. 1,037."
+  },
+  {
+    "q": "What was the absolute value of silver futures per kilogram in India on February 19, 2026, and what was the corresponding global price per ounce in New York?",
+    "a": "The Indian futures price was Rs. 2,45,305/kg, and the New York price was $78.32/oz."
+  },
+  {
+    "q": "Did silver futures in India rise or fall on February 19, 2026, and what was the magnitude of that change in Rupees?",
+    "a": "Silver futures rose by Rs. 1,037."
+  },
+  {
+    "q": "What was the global percentage increase for silver in New York on February 19, 2026, and what was the resulting price per ounce?",
+    "a": "The increase was 1.46%, resulting in a price of $78.32 per ounce."
+  },
+  {
+    "q": "On the Thursday of February 19, 2026, what was the final trading price of silver futures in India per kilogram?",
+    "a": "The final price was Rs. 2,45,305 per kg."
+  },
+  {
+    "q": "What was the global silver price per ounce in New York on February 19, 2026, and which organization reported this figure?",
+    "a": "The price was $78.32 per ounce, reported by pti."
+  },
+  {
+    "q": "How much did the Indian silver futures price increase in Rupees on February 19, 2026, to reach Rs. 2,45,305 per kg?",
+    "a": "It increased by Rs. 1,037."
+  },
+  {
+    "q": "What was the percentage change in global silver prices in New York on February 19, 2026, and what was the final price per ounce?",
+    "a": "Prices changed by 1.46%, reaching $78.32 per ounce."
+  },
+  {
+    "q": "Which two markets were referenced in the February 19, 2026 report regarding silver prices, and what were their respective prices?",
+    "a": "Indian futures were Rs. 2,45,305/kg, and New York global trading was $78.32/oz."
+  },
+  {
+    "q": "What was the exact date of the silver futures rise to Rs. 2,45,305 per kg, and what was the day of the week?",
+    "a": "The rise occurred on Thursday, February 19, 2026."
+  },
+  {
+    "q": "What was the global silver price per ounce in New York on February 19, 2026, and what was the percentage gain?",
+    "a": "The price was $78.32 per ounce with a 1.46% gain."
+  },
+  {
+    "q": "By how many Indian Rupees did silver futures increase per kilogram on February 19, 2026, and what was the new total price?",
+    "a": "They increased by Rs. 1,037 to Rs. 2,45,305 per kg."
+  },
+  {
+    "q": "What was the global silver trading price in New York on February 19, 2026, and what was the percentage increase compared to the previous day?",
+    "a": "The price was $78.32 per ounce, an increase of 1.46%."
+  }
+]

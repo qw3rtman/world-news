@@ -1,0 +1,102 @@
+[
+  {
+    "q": "According to the U.S.-based Institute for the Study of War, what percentage of Ukrainian territory did Russian forces control as of February 2026, and how does this compare to their peak control in 2022?",
+    "a": "Russia controlled just over 19% of Ukraine, down from more than 26% at the height of its gains in 2022."
+  },
+  {
+    "q": "What specific time period did the Center for Strategic and Strategic Studies (CSIS) cover in its study estimating Russian losses at 1.2 million and Ukrainian losses at up to 600,000?",
+    "a": "The study covered the period from February 2022 to December 2025."
+  },
+  {
+    "q": "Which two individuals were the subjects of an arrest warrant issued by the International Criminal Court (ICC) in March 2023 regarding the deportation of Ukrainian children?",
+    "a": "Russian President Vladimir Putin and Maria Lvova-Belova, the commissioner for children's rights."
+  },
+  {
+    "q": "In which month and year did Russian opposition leader Alexei Navalny die in prison, and what toxin did five European countries later identify in his remains?",
+    "a": "Navalny died in February 2024, and the toxin identified was epibatidine."
+  },
+  {
+    "q": "By what percentage did U.S. aid to Ukraine decline during the first year of the Trump administration, according to the Kiel Institute for the World Economy?",
+    "a": "U.S. aid to Ukraine declined by 99%."
+  },
+  {
+    "q": "What was the estimated number of Ukrainian civilians killed and injured, respectively, as confirmed by the U.N. Human Rights Monitoring Mission through documented evidence?",
+    "a": "The mission confirmed more than 15,000 Ukrainian civilians were killed and another 41,000 were injured."
+  },
+  {
+    "q": "How many Ukrainians were internally displaced and how many left the country as refugees as of February 2026, according to the International Organization for Migration?",
+    "a": "About 3.7 million Ukrainians were displaced internally, and more than 5.3 million left as refugees."
+  },
+  {
+    "q": "Which two Russian energy giants did President Trump approve sanctions against, and in which month and year did he greet Russian President Vladimir Putin in Alaska?",
+    "a": "Sanctions were approved against Lukoil and Rosneft; Trump greeted Putin in August 2025."
+  },
+  {
+    "q": "What percentage of additional Ukrainian territory had Russian forces gained since 2023 as of the article's publication in February 2026?",
+    "a": "Russian forces had gained less than 1.5% of additional Ukrainian territory since 2023."
+  },
+  {
+    "q": "How many Ukrainian children have been identified by Ukraine as being located in Russia, and how many have been repatriated according to the Bring Kids Back UA initiative?",
+    "a": "Ukraine has identified 400 locations with abducted children, and about 2,000 have been repatriated."
+  },
+  {
+    "q": "What range of people does study data estimate have left Russia since 2022 to avoid conscription, and what historical event is this migration compared to?",
+    "a": "Between 500,000 and 1 million people have left Russia, compared to the largest migration since the Bolshevik Revolution of 1917."
+  },
+  {
+    "q": "Which specific types of infrastructure did Ukraine routinely strike deep into Russian territory using air drones as of 2026?",
+    "a": "Ukraine struck oil refineries, military airfields, and ammunition depots."
+  },
+  {
+    "q": "What economic growth rate did Russia experience in 2025, and what was the Trump administration's threat regarding Indian imports?",
+    "a": "Russia's growth dropped to 1% in 2025, and the Trump administration threatened tariffs on Indian imports if India continued buying Russian crude."
+  },
+  {
+    "q": "Which two major social media platforms are blocked in Russia following the passage of repressive laws after the 2022 invasion?",
+    "a": "Facebook and YouTube are blocked."
+  },
+  {
+    "q": "What specific date did the International Criminal Court issue an arrest warrant for Vladimir Putin and Maria Lvova-Belova?",
+    "a": "The arrest warrant was issued in March 2023."
+  },
+  {
+    "q": "Which city in southern Ukraine is cited as an area where U.N. human rights workers could not access to confirm civilian deaths, leading to estimates that the real toll is higher?",
+    "a": "Mariupol."
+  },
+  {
+    "q": "What type of drone technology did Russia introduce to overcome Ukrainian electronic jamming, and what ground-based unmanned vehicle functions does Ukraine utilize?",
+    "a": "Russia introduced fiber-optic drones; Ukraine uses unmanned ground vehicles to evacuate the wounded, plant land mines, and launch assaults."
+  },
+  {
+    "q": "According to the article, what percentage of Ukraine's energy grid was destroyed by Russian missile strikes, affecting civilian life during the winter?",
+    "a": "Most of Ukraine's energy grid was destroyed."
+  },
+  {
+    "q": "Which three crises did the Trump administration attempt to resolve simultaneously, as mentioned in the article's section on Trump's terms?",
+    "a": "Iran, Ukraine, and Gaza."
+  },
+  {
+    "q": "What specific date did trilateral talks between the United States, Ukraine, and Russia take place in Geneva?",
+    "a": "The talks took place on February 17, 2026."
+  },
+  {
+    "q": "How many years had passed since Russia launched its full-scale invasion of Ukraine as of the article's publication date of February 24, 2026?",
+    "a": "Four years had passed."
+  },
+  {
+    "q": "Which European countries, including the U.K., France, and Germany, claimed that Alexei Navalny was killed by a dart frog toxin?",
+    "a": "Five European countries, including the U.K., France, and Germany, made this claim."
+  },
+  {
+    "q": "What justification did the Kremlin give for launching the invasion in the first place, which it equated with European peacekeeper offers?",
+    "a": "The Kremlin cited NATO's expansion eastward as a root cause and equated European peacekeeper offers to NATO-like guarantees."
+  },
+  {
+    "q": "Which Iranian-designed attack drones does Russia regularly launch at Ukrainian cities, and what is their resemblance?",
+    "a": "Russia launches Shaheds, which resemble small planes."
+  },
+  {
+    "q": "What was the estimated number of dead among the total casualties for Russia and Ukraine, according to the CSIS study covering 2022 to 2025?",
+    "a": "Up to 325,000 for Russia and up to 140,000 for Ukraine."
+  }
+]

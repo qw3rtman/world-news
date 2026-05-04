@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the definitive agreement announced in March 2026, what is the purchase price that Zoetis Inc. agreed to pay Neogen Corporation to acquire Neogen’s animal genomics business?",
+    "a": "$160 million, subject to customary closing adjustments."
+  },
+  {
+    "q": "During which half of the calendar year does Zoetis Inc. expect to complete the acquisition of Neogen Corporation’s animal genomics business, as stated in the March 2026 announcement?",
+    "a": "The second half of calendar year 2026."
+  },
+  {
+    "q": "Which five countries host the laboratories for Neogen Corporation’s animal genomics business that are being acquired by Zoetis Inc. in 2026?",
+    "a": "The United States, Brazil, Australia, China, and the United Kingdom."
+  },
+  {
+    "q": "In addition to its five laboratories, in which North American country does Neogen Corporation maintain an office location for its animal genomics business?",
+    "a": "Canada."
+  },
+  {
+    "q": "Which two livestock sectors in the United States is Neogen Corporation’s genomics business identified as a leader in, according to the March 2026 acquisition announcement?",
+    "a": "U.S. beef and dairy genomics."
+  },
+  {
+    "q": "What is the full name and title of the Zoetis Inc. executive who commented on the strategic value of the Neogen Corporation acquisition in March 2026?",
+    "a": "Jamie Brannan, Chief Commercial Officer at Zoetis."
+  },
+  {
+    "q": "What is the stock ticker symbol for Zoetis Inc. as listed on the New York Stock Exchange, referenced in the March 2026 announcement?",
+    "a": "ZTS."
+  },
+  {
+    "q": "What is the stock ticker symbol for Neogen Corporation as listed on the NASDAQ, referenced in the March 2026 announcement?",
+    "a": "NEOG."
+  },
+  {
+    "q": "According to the March 2026 press release, in how many countries does Neogen Corporation’s genomics business serve customers?",
+    "a": "More than 120 countries."
+  },
+  {
+    "q": "What specific technologies does Neogen Corporation’s genomics business leverage for its comprehensive genotyping platform, as described in the March 2026 announcement?",
+    "a": "Fixed array and sequencing technologies, along with software solutions."
+  },
+  {
+    "q": "What is the primary strategic purpose of Zoetis Inc.’s acquisition of Neogen Corporation’s animal genomics business, as stated in March 2026?",
+    "a": "To strengthen Zoetis’ leadership in Precision Animal Health and drive future livestock innovation through genomics."
+  },
+  {
+    "q": "In how many countries does Zoetis Inc. support veterinarians, livestock producers, and pet owners, according to its company description in the March 2026 announcement?",
+    "a": "Over 100 countries."
+  },
+  {
+    "q": "What is the approximate legacy duration of Zoetis Inc. as a company, as mentioned in the 'About Zoetis' section of the March 2026 announcement?",
+    "a": "Nearly 75 years."
+  },
+  {
+    "q": "In how many countries does Neogen Corporation have a presence, according to the 'About Neogen' section of the March 2026 announcement?",
+    "a": "Over 140 countries."
+  },
+  {
+    "q": "What are the three main markets that Neogen Corporation develops comprehensive solutions for, as listed in the 'About Neogen' section of the March 2026 announcement?",
+    "a": "Food Safety, Livestock, and Pet Health & Wellness."
+  },
+  {
+    "q": "Which regulatory condition must be satisfied before Zoetis Inc. can complete its acquisition of Neogen Corporation’s animal genomics business?",
+    "a": "The satisfaction of regulatory requirements."
+  },
+  {
+    "q": "What type of adjustments apply to the $160 million purchase price Zoetis Inc. will pay Neogen Corporation for the genomics business?",
+    "a": "Customary closing adjustments."
+  },
+  {
+    "q": "What specific types of animal species will Zoetis Inc. aim to deliver greater value to through the integration of Neogen Corporation’s genomic technologies?",
+    "a": "Major livestock and companion animal species."
+  },
+  {
+    "q": "What is the name of the business unit that Zoetis Inc. is acquiring from Neogen Corporation in the March 2026 transaction?",
+    "a": "Neogen’s animal genomics business."
+  },
+  {
+    "q": "What is the name of the city and state where the March 2, 2026, press release regarding the Zoetis-Neogen acquisition was issued from?",
+    "a": "Parsippany, N.J."
+  },
+  {
+    "q": "What specific capabilities does Zoetis Inc. state it will expand by integrating Neogen Corporation’s genomic technologies and data solutions?",
+    "a": "Predictive insights, individualized care, and greater value to customers."
+  },
+  {
+    "q": "What is the name of the financial filing where Zoetis Inc. directs readers to find a further list of risks and uncertainties associated with the Neogen acquisition?",
+    "a": "Annual Report on Form 10-K."
+  },
+  {
+    "q": "What is the name of the specific section in Zoetis Inc.’s Annual Report on Form 10-K that describes risks and uncertainties affecting future results?",
+    "a": "Forward-Looking Statements and Factors That May Affect Future Results."
+  },
+  {
+    "q": "What is the name of the section in Zoetis Inc.’s Annual Report on Form 10-K that details Item 1A regarding risk factors?",
+    "a": "Item 1A. Risk Factors."
+  },
+  {
+    "q": "According to the forward-looking statements in the March 2026 announcement, what is the source of the risks and uncertainties regarding the timing of the Zoetis-Neogen transaction?",
+    "a": "Uncertainties as to the timing of the consummation of the proposed transaction or whether it will be completed."
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "At the House GOP’s annual issues conference held in Doral, Florida, on Monday, March 9, 2026, what specific claim did President Donald Trump make regarding the passage of the Safeguard American Voter Eligibility (SAVE) America Act?",
+    "a": "Trump stated that enacting the legislation would 'guarantee the midterms' and warned that failure to pass it would result in 'big trouble.'"
+  },
+  {
+    "q": "What specific voting requirements does the Safeguard American Voter Eligibility (SAVE) America Act, as described in the March 2026 news report, mandate for voters?",
+    "a": "The bill requires proof of citizenship to register to vote and the presentation of an ID to cast a ballot."
+  },
+  {
+    "q": "In February 2026, what was the vote tally when the House of Representatives passed the SAVE America Act, and what is its current legislative status as of March 2026?",
+    "a": "The House passed the bill 218-213; it has since stalled in the Senate."
+  },
+  {
+    "q": "Which U.S. Senate Minority Leader, in response to President Trump’s March 2026 ultimatum, characterized the SAVE Act as 'Jim Crow 2.0' and predicted total gridlock?",
+    "a": "Senate Minority Leader Chuck Schumer (D-N.Y.) made that statement on the social platform X."
+  },
+  {
+    "q": "What two additional policy provisions did President Trump urge House Republicans to include in a new version of the SAVE America Act during his March 9, 2026 speech?",
+    "a": "Trump called for a ban on mail-in ballots except for illness, disability, military, or travel, and a prohibition on transgender athletes playing in women’s sports."
+  },
+  {
+    "q": "What legislative tactic did President Trump suggest Senate Majority Leader John Thune (R-S.D.) use to overcome Democratic opposition to the SAVE America Act in March 2026?",
+    "a": "Trump suggested returning to a 'talking filibuster,' which would require Democrats to speak continuously to delay the bill, allowing Republicans to pass it with 51 votes once they cede the floor."
+  },
+  {
+    "q": "Why did Senate Majority Leader John Thune (R-S.D.) express caution about using a talking filibuster for the SAVE America Act in March 2026?",
+    "a": "Thune stated that a talking filibuster is 'much more complicated and risky' and could hinder the advancement of government funding legislation or bipartisan housing bills."
+  },
+  {
+    "q": "On which social media platform did President Trump post his March 2026 statement that he 'will not sign other Bills until this is passed' regarding the SAVE Act?",
+    "a": "Trump made the statement in a post on Truth Social."
+  },
+  {
+    "q": "According to the March 2026 article, what argument do Democrats present against the passage of the SAVE America Act?",
+    "a": "Democrats argue that the bill would create new barriers to voting and disenfranchise tens of millions of people."
+  },
+  {
+    "q": "What condition did President Trump set for signing any other legislation in March 2026, according to his remarks at the House GOP conference?",
+    "a": "Trump stated he would not sign any other bills until the SAVE America Act is passed."
+  },
+  {
+    "q": "What specific electoral outcome did President Trump promise House Republicans would achieve if they passed the SAVE America Act, as stated in his March 9, 2026 speech?",
+    "a": "Trump claimed that passing the bill would allow Republicans to 'win the midterms and you will win every election for a long time.'"
+  },
+  {
+    "q": "Which two groups did President Trump claim were not being discussed by the public, contrasting them with the demand for the SAVE America Act, during his March 2026 speech?",
+    "a": "Trump stated that people do not talk about 'housing' or 'anything' else, only the SAVE America Act."
+  },
+  {
+    "q": "What vote count was required for Republicans to pass the SAVE America Act if a talking filibuster were utilized, as explained by President Trump in March 2026?",
+    "a": "Republicans would need 51 votes to pass the measure once Democrats cease their continuous speaking on the Senate floor."
+  },
+  {
+    "q": "How did Senate Minority Leader Chuck Schumer (D-N.Y.) respond to President Trump’s threat to block other bills in March 2026?",
+    "a": "Schumer stated that if Trump refuses to sign other bills, 'there will be total gridlock in the Senate' and that Senate Democrats will not help pass the SAVE Act under any circumstances."
+  },
+  {
+    "q": "What specific restriction on mail-in voting did President Trump propose adding to the SAVE America Act in March 2026?",
+    "a": "Trump proposed allowing mail-in ballots only for individuals with illness, disability, military service, or travel."
+  },
+  {
+    "q": "Which U.S. Senate Majority Leader did President Trump urge to bypass Democratic opposition to the SAVE America Act in March 2026?",
+    "a": "Trump called on Senate Majority Leader John Thune (R-S.D.) to sidestep Democratic opposition."
+  },
+  {
+    "q": "What risk did Senate Majority Leader John Thune (R-S.D.) identify regarding the use of a talking filibuster for the SAVE America Act in March 2026?",
+    "a": "Thune warned that a talking filibuster is 'much more complicated and risky' and could delay critical legislation like government funding and housing bills."
+  },
+  {
+    "q": "In what city and state did President Trump deliver his March 9, 2026 speech urging the passage of the SAVE America Act?",
+    "a": "Trump spoke at the House GOP’s annual issues conference in Doral, Florida."
+  },
+  {
+    "q": "What specific action did President Trump threaten to take if the SAVE America Act was not passed, as reported in March 2026?",
+    "a": "Trump threatened that he would not sign any other bills until the SAVE America Act is approved."
+  },
+  {
+    "q": "What distinction did President Trump make between the version of the SAVE America Act sent to the Senate and the version he desired in March 2026?",
+    "a": "Trump rejected the version sent to the Senate as a 'watered-down version' and urged House Republicans to 'go for the gold' by drafting a new, more stringent version."
+  },
+  {
+    "q": "Which political party controls the House of Representatives, according to the context of President Trump’s March 2026 address to House Republicans?",
+    "a": "The Republican Party (GOP) controls the House of Representatives, as Trump was addressing House Republicans."
+  },
+  {
+    "q": "What specific demographic impact did Senate Minority Leader Chuck Schumer (D-N.Y.) predict the SAVE Act would have in March 2026?",
+    "a": "Schumer predicted the act would 'disenfranchise tens of millions of people.'"
+  },
+  {
+    "q": "What type of sports participation did President Trump propose prohibiting in a revised SAVE America Act in March 2026?",
+    "a": "Trump proposed prohibiting transgender athletes from playing in women’s sports."
+  },
+  {
+    "q": "What was the specific vote margin by which the House passed the SAVE America Act in February 2026?",
+    "a": "The House passed the bill by a vote of 218-213."
+  },
+  {
+    "q": "What legislative hurdle must the SAVE America Act overcome in the Senate, as noted in the March 2026 article?",
+    "a": "The measure needs support from at least some Senate Democrats to overcome a filibuster."
+  }
+]

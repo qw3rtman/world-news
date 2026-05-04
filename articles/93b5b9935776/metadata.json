@@ -1,0 +1,27 @@
+{
+  "hash": "93b5b9935776",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.npr.org/2026/03/09/nx-s1-5742375/mojtaba-khamenei-iran-supreme-leader",
+      "title": "Who is Mojtaba Khamenei, Iran’s new supreme leader? : NPR",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "By                  \n   \n       \n      Rachel Treisman",
+      "num_tokens": 1600,
+      "text_length": 7313
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1535972",
+      "spike_id": 1,
+      "market_question": "Iran leadership change by April 30?",
+      "event_title": "Iran leadership change by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.21500000000000002,
+      "spike_timestamp_before": "2026-03-09T03:30:25+00:00",
+      "spike_timestamp_after": "2026-03-09T05:30:24+00:00"
+    }
+  ]
+}

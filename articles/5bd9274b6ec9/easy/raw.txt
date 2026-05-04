@@ -1,0 +1,106 @@
+[
+  {
+    "q": "According to Petro-Logistics data reported in March 2026, by how many million barrels per day did flows of crude and condensate drop due to the U.S.-Israeli war on Iran?",
+    "a": "12 million barrels per day."
+  },
+  {
+    "q": "What record price per barrel did the benchmark Middle East Dubai crude hit on Thursday in March 2026, as reported by Reuters?",
+    "a": "$166.80 a barrel."
+  },
+  {
+    "q": "Which two countries initiated military strikes against Iran on February 28, 2026, causing the supply disruptions described in the article?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "What percentage of the world's oil and gas transits through the Strait of Hormuz, which Iran throttled during the 2026 conflict?",
+    "a": "20%."
+  },
+  {
+    "q": "Which investment bank stated in March 2026 that Brent crude was likely to surpass its all-time high of $147.50 reached in 2008 if outages persisted?",
+    "a": "Goldman Sachs."
+  },
+  {
+    "q": "At what price per barrel did cargoes of European and African crude rise to in March 2026, according to the article?",
+    "a": "$120 per barrel."
+  },
+  {
+    "q": "What was the implied cash price per barrel for Norwegian medium sour crude Johan Sverdrup in the North Sea on Thursday in March 2026?",
+    "a": "About $124 a barrel."
+  },
+  {
+    "q": "What record premium to Brent crude did Norwegian medium sour crude Johan Sverdrup achieve in the North Sea on Thursday in March 2026?",
+    "a": "$11.30 premium."
+  },
+  {
+    "q": "Which U.S. Gulf of Mexico sour crude benchmark reached $107.53 on March 9, 2026, its highest level since July 2008?",
+    "a": "Mars Sour."
+  },
+  {
+    "q": "What record price per barrel did jet fuel in northwest Europe hit, according to LSEG data cited in the March 2026 article?",
+    "a": "Around $220 per barrel."
+  },
+  {
+    "q": "Which commodities information provider's global oil market lead, David Jorbenaze, commented on the tightness of the market in March 2026?",
+    "a": "ICIS."
+  },
+  {
+    "q": "How many million barrels did the United States and other members of the International Energy Agency announce they would release from strategic reserves on March 11, 2026?",
+    "a": "400 million barrels."
+  },
+  {
+    "q": "Which Russian crude grade, typically sold at a discount, traded at a premium to Brent earlier in March 2026 for the first time ever?",
+    "a": "Russia's Urals."
+  },
+  {
+    "q": "What was the settlement price per barrel for benchmark West Texas Intermediate on Thursday in March 2026?",
+    "a": "Around $96."
+  },
+  {
+    "q": "Which senior vice president of trading at BOK Financial, Dennis Kissler, warned in March 2026 that bringing supply back would take longer than expected due to logistics issues?",
+    "a": "Dennis Kissler."
+  },
+  {
+    "q": "By how much did European diesel prices breach $200 a barrel for the first time since 2022 in March 2026?",
+    "a": "It breached the $200 a barrel threshold."
+  },
+  {
+    "q": "What was the refinery profit margin for gasoil in Asia in March 2026, described as the highest since June 2022?",
+    "a": "Over $60 a barrel."
+  },
+  {
+    "q": "Which U.S. government action regarding Russian oil barrels was taken after the IEA announcement in March 2026?",
+    "a": "The U.S. waived sanctions for Russian oil barrels."
+  },
+  {
+    "q": "What specific threat did Iran make regarding ships attempting to sail through the Strait of Hormuz in March 2026?",
+    "a": "Threats to fire on ships."
+  },
+  {
+    "q": "Which type of Middle Eastern crude, known for being medium-density and high in sulphur, did refiners seek substitutes for in March 2026?",
+    "a": "Sour crude."
+  },
+  {
+    "q": "What was the premium of U.S. Mars Sour crude over U.S. crude on Thursday in March 2026?",
+    "a": "About $6."
+  },
+  {
+    "q": "Which Reuters reporter based in London reported on the oil price surge in March 2026?",
+    "a": "Robert Harvey."
+  },
+  {
+    "q": "Which Reuters reporter based in Houston reported on the oil price surge in March 2026?",
+    "a": "Georgina McCartney."
+  },
+  {
+    "q": "What was the session high for benchmark Brent crude on Thursday in March 2026 before it settled around $109?",
+    "a": "$119."
+  },
+  {
+    "q": "Which oil shipments tracker provided data stating that flows dropped by 12% of daily world demand in March 2026?",
+    "a": "Petro-Logistics."
+  },
+  {
+    "q": "In which city and country was an LPG gas tanker anchored in March 2026 amid the conflict, as shown in a Reuters file photo?",
+    "a": "Shinas, Oman."
+  }
+]

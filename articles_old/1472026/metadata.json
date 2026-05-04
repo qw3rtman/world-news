@@ -1,0 +1,22 @@
+{
+  "market_id": "1472026",
+  "question": "Will another country strike Iran by March 31?",
+  "slug": "will-another-country-strike-iran-by-march-31-833",
+  "url": "https://polymarket.com/event/will-another-country-strike-iran-by-march-31",
+  "description": "This market will resolve to \u201cYes\u201d if any country other than Israel or the United States initiates a drone, missile, or air strike on Iranian soil or any official Iranian embassy or consulate by March 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo.\u201d\n\nFor the purposes of this market, a qualifying \u201cstrike\u201d is defined as the use of aerial bombs, drones, or missiles (including cruise or ballistic missiles) launched by a country other than Israel or the United States\u2019 military forces that impact Iranian ground territory or any official Iranian embassy or consulate (e.g., if a weapons depot on Iranian soil is hit by a missile or drone launched by such a country, this market will resolve to \u201cYes\u201d).\n\nMissiles or drones that are intercepted and surface-to-air missile strikes will not be sufficient for a \u201cYes\u201d resolution regardless of whether they land on Iranian territory or cause damage.\n\nActions such as artillery fire, small arms fire, FPV or ATGM strikes directly, ground incursions, naval shelling, cyberattacks, or other operations conducted by ground forces of countries other than Israel or the United States will not qualify.\n\nThe resolution source will be a consensus of credible reporting.",
+  "event_title": "Will another country strike Iran by...?",
+  "event_tags": [
+    "Politics",
+    "Israel",
+    "Iran",
+    "Geopolitics",
+    "Military Strikes"
+  ],
+  "volume_total": 3187217.9969309834,
+  "created_at": "2026-03-01T01:03:10.089625Z",
+  "end_date": "2026-03-31T00:00:00Z",
+  "num_spikes": 19,
+  "max_spike": 0.46499999999999997,
+  "total_tokens": 174708,
+  "total_articles": 95
+}

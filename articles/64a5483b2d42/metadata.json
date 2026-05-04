@@ -1,0 +1,27 @@
+{
+  "hash": "64a5483b2d42",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://quote.bloomberg.com/news/newsletters/2026-02-13/judy-shelton-makes-a-comeback-years-after-missing-out-on-the-fed?srnd=homepage-uk",
+      "title": "Bloomberg Europe",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 34,
+      "text_length": 186
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "572473",
+      "spike_id": 2,
+      "market_question": "Will Trump nominate Judy Shelton as the next Fed chair?",
+      "event_title": "Who will Trump nominate as Fed Chair?",
+      "spike_direction": "down",
+      "spike_delta": -0.46599999999999997,
+      "spike_timestamp_before": "2026-02-25T11:30:20+00:00",
+      "spike_timestamp_after": "2026-02-26T05:00:20+00:00"
+    }
+  ]
+}

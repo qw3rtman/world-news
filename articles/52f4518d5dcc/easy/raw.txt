@@ -1,0 +1,100 @@
+[
+  {
+    "q": "In March 2026, which U.S. President publicly called on Israel's President Isaac Herzog to grant a pardon to Prime Minister Benjamin Netanyahu, and what specific reason did he give for why Netanyahu should not be troubled by other matters?",
+    "a": "U.S. President Donald Trump made the call, stating that Netanyahu should have nothing on his mind but the war with Iran."
+  },
+  {
+    "q": "During an interview with Israel's N12 television news in March 2026, what nickname did U.S. President Donald Trump use for Prime Minister Benjamin Netanyahu, and what did he claim President Isaac Herzog had previously promised him regarding that nickname?",
+    "a": "Trump used the nickname \"Bibi\" and claimed Herzog had promised five times to give Bibi a pardon."
+  },
+  {
+    "q": "As of March 5, 2026, what was the official response from the office of Israel's President Isaac Herzog regarding U.S. President Donald Trump's renewed demand for a pardon for Prime Minister Benjamin Netanyahu?",
+    "a": "Herzog's office stated that while Israel is at war, he is not currently dealing with the matter of Netanyahu's pardon request."
+  },
+  {
+    "q": "In March 2026, Israel's President Isaac Herzog stated that his examination of Prime Minister Benjamin Netanyahu's pardon request would be guided by which four specific criteria?",
+    "a": "The law, the good of the state, his conscience, and being free of any internal or external pressure."
+  },
+  {
+    "q": "What historical legal distinction applies to Prime Minister Benjamin Netanyahu's situation in Israel as of March 2026, and what is the current status of the legal process for his pardon under Israeli law?",
+    "a": "Netanyahu is Israel's first sitting prime minister to be charged with a crime, and while the president has authority to pardon convicts, there is no precedent for issuing a pardon mid-trial."
+  },
+  {
+    "q": "In November 2025, what specific action did Prime Minister Benjamin Netanyahu take regarding his legal troubles, and what are the charges he denies dating back to his 2019 indictment?",
+    "a": "Netanyahu submitted his pardon request, and he denies charges of bribery, fraud, and breach of trust."
+  },
+  {
+    "q": "On what date in March 2026 did the United States and Israel launch a joint bombing campaign against Iran, and how did U.S. President Donald Trump link this event to his demands for Prime Minister Benjamin Netanyahu's pardon?",
+    "a": "The campaign launched on a Saturday in March 2026; Trump stated he did not want Netanyahu troubled by anything other than the war with Iran."
+  },
+  {
+    "q": "What characterization did U.S. President Donald Trump use for Israel's President Isaac Herzog in his March 2026 interview, and what did Herzog's office say about Israel's sovereignty in response?",
+    "a": "Trump called Herzog \"a disgrace,\" and Herzog's office stated that Israel is a sovereign state that abides by the rule of law."
+  },
+  {
+    "q": "Prior to March 2026, how many times had U.S. President Donald Trump called on Israel's President Isaac Herzog to grant a pardon to Prime Minister Benjamin Netanyahu, and what did Herzog dispute regarding these past interactions?",
+    "a": "Trump had called for the pardon several times before, and Herzog disputed Trump's claim that he had promised to grant the pardon.",
+    "q": "Which two news organization personnel are credited with reporting and editing the March 5, 2026, Reuters article about the Trump-Netanyahu pardon dispute?",
+    "a": "The article was reported by Maayan Lubell and edited by Aidan Lewis."
+  },
+  {
+    "q": "In March 2026, what specific television network did U.S. President Donald Trump interview with to renew his call for Prime Minister Benjamin Netanyahu's pardon?",
+    "a": "Israel's N12 television news."
+  },
+  {
+    "q": "What is the timeline of Prime Minister Benjamin Netanyahu's legal indictment mentioned in the March 2026 article, and how does this relate to his status as a sitting prime minister?",
+    "a": "The charges date back to his 2019 indictment, making him the first sitting prime minister in Israel's history to be charged with a crime."
+  },
+  {
+    "q": "According to the March 2026 article, what is the potential duration of the legal process for a pardon in Israel, and what precedent issue complicates Prime Minister Benjamin Netanyahu's case?",
+    "a": "The legal process can be slow, and there is no precedent for issuing a pardon mid-trial."
+  },
+  {
+    "q": "What dual role did Israel's President Isaac Herzog play in the March 2026 dispute, both in his personal response and in the context of the broader geopolitical conflict?",
+    "a": "He stated he was not dealing with the pardon request while at war, but also expressed deep respect for U.S. President Donald Trump's contribution to Israel's security and position on Iran."
+  },
+  {
+    "q": "What specific corruption charges is Prime Minister Benjamin Netanyahu facing as of March 2026, and what is the source of the reporting on U.S. President Donald Trump's comments regarding these charges?",
+    "a": "He faces charges of bribery, fraud, and breach of trust, and the reporting on Trump's comments comes from Reuters."
+  },
+  {
+    "q": "In the context of the March 2026 article, what is the relationship between the joint U.S.-Israel military action against Iran and U.S. President Donald Trump's public statements about Prime Minister Benjamin Netanyahu?",
+    "a": "Trump stated that Netanyahu should have nothing on his mind but the war with Iran, which began with a joint bombing campaign launched by the U.S. and Israel."
+  },
+  {
+    "q": "What specific claim did U.S. President Donald Trump make about Israel's President Isaac Herzog's past commitments in March 2026, and how did Herzog's office characterize the basis for their decision-making on the pardon?",
+    "a": "Trump claimed Herzog promised five times to give Netanyahu a pardon, while Herzog's office said decisions would be based on the law, state good, conscience, and freedom from pressure."
+  },
+  {
+    "q": "What is the unique legal status of Prime Minister Benjamin Netanyahu in Israel as of March 2026, and what authority does Israel's President Isaac Herzog hold that is relevant to this status?",
+    "a": "Netanyahu is the first sitting prime minister charged with a crime, and President Herzog has the authority under Israeli law to pardon convicts."
+  },
+  {
+    "q": "Which two entities launched a joint bombing campaign against Iran in March 2026, and how did this event factor into U.S. President Donald Trump's reasoning for demanding Prime Minister Benjamin Netanyahu's pardon?",
+    "a": "The United States and Israel launched the campaign, and Trump argued Netanyahu should focus only on the war with Iran rather than legal troubles."
+  },
+  {
+    "q": "What specific date did U.S. President Donald Trump renew his call for Prime Minister Benjamin Netanyahu's pardon in the article, and which Israeli news outlet broadcast his comments?",
+    "a": "He renewed the call on Thursday, March 5, 2026, in an interview with Israel's N12 television news."
+  },
+  {
+    "q": "What are the three specific crimes Prime Minister Benjamin Netanyahu denies in relation to his 2019 indictment, and what is the current procedural status of his pardon request as of March 2026?",
+    "a": "He denies bribery, fraud, and breach of trust; his pardon request, submitted in November, is being examined by President Isaac Herzog but is not being actively dealt with during the war."
+  },
+  {
+    "q": "How did Israel's President Isaac Herzog respond to U.S. President Donald Trump's characterization of him as \"a disgrace\" in March 2026, and what principle did he cite to justify his independent handling of the pardon request?",
+    "a": "Herzog's office stated that Israel is a sovereign state that abides by the rule of law, and that the president will act free of external pressure."
+  },
+  {
+    "q": "What is the significance of the timing of Prime Minister Benjamin Netanyahu's pardon request submission in November, relative to the joint U.S.-Israel bombing campaign against Iran in March 2026?",
+    "a": "Netanyahu submitted the request in November 2025, months before the joint bombing campaign began in March 2026, which Trump cited as the only thing Netanyahu should be concerned with."
+  },
+  {
+    "q": "What specific limitation exists in Israeli law regarding the pardon of Prime Minister Benjamin Netanyahu as of March 2026, and how does this differ from the general authority held by Israel's President Isaac Herzog?",
+    "a": "While Herzog has authority to pardon convicts, there is no precedent for issuing a pardon mid-trial, which applies to Netanyahu's ongoing case."
+  },
+  {
+    "q": "In March 2026, what was the stance of U.S. President Donald Trump regarding the separation of Prime Minister Benjamin Netanyahu's legal issues from the geopolitical conflict with Iran?",
+    "a": "Trump insisted that Netanyahu should have nothing on his mind but the war with Iran and demanded President Isaac Herzog grant a pardon immediately."
+  }
+]

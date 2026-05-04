@@ -1,0 +1,27 @@
+{
+  "hash": "407e8c21864a",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://www.reuters.com/commentary/breakingviews/bhps-new-ceo-inherits-ma-conundrum-2026-03-18/",
+      "title": "BHP's new CEO inherits M&A conundrum | Reuters",
+      "published_date": "2026-03-18T00:00:00.000Z",
+      "author": "Antony Currie",
+      "num_tokens": 677,
+      "text_length": 2905
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694937",
+      "spike_id": 10,
+      "market_question": "Will BP be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.15,
+      "spike_timestamp_before": "2026-03-19T06:00:39+00:00",
+      "spike_timestamp_after": "2026-03-19T12:00:27+00:00"
+    }
+  ]
+}

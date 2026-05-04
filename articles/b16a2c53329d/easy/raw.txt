@@ -1,0 +1,106 @@
+[
+  {
+    "q": "On Monday, March 9, 2026, by what percentage did spot gold fall, and what was its settlement price per ounce?",
+    "a": "Spot gold fell 1.5% to $5,091.62 per ounce."
+  },
+  {
+    "q": "What was the settlement price and percentage change for U.S. gold futures for April delivery on March 9, 2026?",
+    "a": "U.S. gold futures for April delivery settled 1.1% lower at $5,103.70."
+  },
+  {
+    "q": "According to Kitco Metals senior analyst Jim Wyckoff, what two conflicting factors are influencing gold prices during the Middle East conflict?",
+    "a": "Inflation worries and higher interest rate expectations are weighing on gold, while safe-haven demand from a prolonged conflict is providing a price floor."
+  },
+  {
+    "q": "Why did the U.S. dollar firm on March 9, 2026, and how does this affect gold prices for holders of other currencies?",
+    "a": "The dollar firmed due to soaring oil prices near $120 a barrel and fears of energy supply disruptions; a stronger dollar makes gold more expensive for non-dollar holders."
+  },
+  {
+    "q": "Which two locations did Israel’s military state it had launched attacks in as of March 9, 2026?",
+    "a": "Israel’s military said it launched attacks in central Iran and struck the Lebanese capital Beirut."
+  },
+  {
+    "q": "What economic consequence has the Middle East war effectively caused regarding the Strait of Hormuz as of March 2026?",
+    "a": "The war has effectively shut the Strait of Hormuz, a critical shipping route for a fifth of global oil and seaborne liquefied gas."
+  },
+  {
+    "q": "Which two U.S. inflation data releases were scheduled for the week of March 9, 2026, and on which days were they due?",
+    "a": "The U.S. consumer price index for February was due on Wednesday, and the Personal Consumption Expenditures (PCE) index was due on Friday."
+  },
+  {
+    "q": "What potential outcome did Jim Wyckoff predict if hot inflationary numbers were released during the week of March 9, 2026?",
+    "a": "He predicted that hot inflation data would put the Federal Reserve in a quandary and could cause a further drop in gold prices."
+  },
+  {
+    "q": "When is the U.S. central bank’s next policy meeting scheduled, and what is the widely expected action regarding interest rates?",
+    "a": "The meeting is scheduled for March 17–18, 2026, and it is widely expected to hold interest rates steady."
+  },
+  {
+    "q": "On March 9, 2026, by what percentage and price did spot silver change, and what was the price of platinum?",
+    "a": "Spot silver was down 0.2% at $84.18 per ounce, and platinum gained 1.1% to $2,158.02."
+  },
+  {
+    "q": "What was the percentage gain and final price for palladium on March 9, 2026?",
+    "a": "Palladium rose 2.4% to $1,663.79."
+  },
+  {
+    "q": "Why is gold considered an inflation hedge, and how do low interest rates affect its appeal as an asset?",
+    "a": "Gold is seen as an inflation hedge, but low rates boost its appeal as a zero-yield asset."
+  },
+  {
+    "q": "What specific oil price level triggered investor scrambling for cash on March 9, 2026, due to fears of global growth hurt?",
+    "a": "Oil prices neared $120 a barrel."
+  },
+  {
+    "q": "Which organization's senior analyst, Jim Wyckoff, commented on the impact of the Middle East conflict on gold prices on March 9, 2026?",
+    "a": "Jim Wyckoff is the senior analyst at Kitco Metals."
+  },
+  {
+    "q": "What percentage of global oil and seaborne liquefied gas is shipped through the Strait of Hormuz?",
+    "a": "A fifth of global oil and seaborne liquefied gas is shipped through the Strait of Hormuz."
+  },
+  {
+    "q": "Which two specific inflation gauges were mentioned as upcoming data releases in the week of March 9, 2026?",
+    "a": "The U.S. consumer price index for February and the Personal Consumption Expenditures (PCE) index."
+  },
+  {
+    "q": "How did the stronger U.S. dollar on March 9, 2026, impact the cost of bullion for holders of other currencies?",
+    "a": "A stronger dollar made greenback-priced bullion more expensive for other currency holders."
+  },
+  {
+    "q": "What military actions did Israel’s military claim to have undertaken in central Iran and Beirut as of March 9, 2026?",
+    "a": "Israel’s military said it had launched attacks in central Iran and struck the Lebanese capital Beirut."
+  },
+  {
+    "q": "What is the expected impact of a prolonged Middle East conflict on gold prices according to Kitco Metals senior analyst Jim Wyckoff?",
+    "a": "A prolonged conflict is expected to sustain safe-haven demand and provide a floor for gold prices."
+  },
+  {
+    "q": "On what specific dates in March 2026 is the Federal Reserve’s next policy meeting scheduled?",
+    "a": "The meeting is scheduled for March 17–18, 2026."
+  },
+  {
+    "q": "What was the price of spot gold per ounce on March 9, 2026, after falling 1.5%?",
+    "a": "Spot gold was down 1.5% at $5,091.62 per ounce."
+  },
+  {
+    "q": "What was the price of U.S. gold futures for April delivery on March 9, 2026, after settling 1.1% lower?",
+    "a": "U.S. gold futures for April delivery settled at $5,103.70."
+  },
+  {
+    "q": "Which two precious metals gained value on March 9, 2026, and what were their respective percentage increases?",
+    "a": "Platinum gained 1.1% and palladium rose 2.4%."
+  },
+  {
+    "q": "What specific concern about energy supplies drove the U.S. dollar to firm on March 9, 2026?",
+    "a": "Investors feared that a protracted Middle East war could severely disrupt energy supplies and hurt global growth."
+  },
+  {
+    "q": "What potential dilemma for the Federal Reserve did Jim Wyckoff highlight if hot inflationary numbers were released in the week of March 9, 2026?",
+    "a": "He stated that hot inflation numbers would put the Federal Reserve into a quandary."
+  },
+  {
+    "q": "What is the relationship between interest rates and gold's appeal as a zero-yield asset, as described in the March 9, 2026 article?",
+    "a": "Low rates boost gold's appeal as a zero-yield asset."
+  }
+]

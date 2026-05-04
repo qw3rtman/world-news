@@ -1,0 +1,26 @@
+{
+  "market_id": "1394368",
+  "question": "Will the U.S. invade Iran by March 31?",
+  "slug": "will-the-us-invade-iran-by-march-31",
+  "url": "https://polymarket.com/event/will-the-us-invade-iran-by-march-31",
+  "description": "This market will resolve to \"Yes\" if the United States commences a military offensive intended to establish control over any portion of Iran by March 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nFor the purposes of this market, land de facto controlled by Iran or the United States as of November 4, 2025 12:00 PM ET, will be considered the sovereign territory of that country.\n\nThe resolution source for this market will be a consensus of credible sources.",
+  "event_title": "Will the U.S. invade Iran by March 31?",
+  "event_tags": [
+    "Israel",
+    "World",
+    "Geopolitics",
+    "Trump",
+    "Iran",
+    "Politics",
+    "Middle East",
+    "U.S. x Iran",
+    "Military Strikes"
+  ],
+  "volume_total": 2583842.234212993,
+  "created_at": "2026-02-18T21:13:28.036463Z",
+  "end_date": "2026-03-31T00:00:00Z",
+  "num_spikes": 5,
+  "max_spike": 0.20999999999999996,
+  "total_tokens": 52354,
+  "total_articles": 25
+}

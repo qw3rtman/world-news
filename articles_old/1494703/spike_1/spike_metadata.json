@@ -1,0 +1,65 @@
+{
+  "spike_index": 1,
+  "direction": "down",
+  "price_before": 0.5,
+  "price_after": 0.215,
+  "delta": -0.28500000000000003,
+  "abs_delta": 0.28500000000000003,
+  "timestamp_before": "2026-03-03T23:00:25+00:00",
+  "timestamp_after": "2026-03-03T23:30:23+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-will-reach-200-a-barrel-iran-warns-against-more-us-israel-strikes-says-will-target-all-economic-centres-in-middle-east/articleshow/128983154.cms",
+      "file": "186b2dffb893.txt",
+      "title": "'Oil price will reach $200 a barrel': Iran warns against more US-Israel strikes, says will target all \u2018economic centres' in Middle East - The Times of India",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /  Updated: Mar 03, 2026, 22:55 IST",
+      "text_length": 1897,
+      "status": "ok",
+      "num_tokens": 378
+    },
+    {
+      "url": "https://www.reuters.com/article/longbridge/show-idUSFWN3ZR19T",
+      "file": "ff1609c4e7e1.txt",
+      "title": "Standard Chartered raises 2026 Brent forecasts following Middle East turmoil | Reuters",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": null,
+      "text_length": 1481,
+      "status": "ok",
+      "num_tokens": 337
+    },
+    {
+      "url": "https://fortune.com/2026/03/03/how-long-will-iran-war-last-stock-market-oil-barrel-price-goldman-sachs",
+      "file": "72701bc66f36.txt",
+      "title": "The stock market thinks the Iran war will last 4 weeks, according to Goldman's head of oil research | Fortune",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Nick Lichtenberg",
+      "text_length": 1090,
+      "status": "ok",
+      "num_tokens": 255
+    },
+    {
+      "url": "https://www.barrons.com/articles/oil-prices-forecast-iran-f6202cd8?mod=RTA",
+      "file": "7f2b7ce4f8f6.txt",
+      "title": "Oil Price Forecast: After Iran, the Worst Case Scenario\u2014$100 a Barrel\u2014Is Here<!-- --> - Barron's",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Avi Salzman",
+      "text_length": 378,
+      "status": "ok",
+      "num_tokens": 87
+    },
+    {
+      "url": "https://eu.usatoday.com/story/money/energy/2026/03/02/oil-prices-iran-war/88944465007/",
+      "file": "906c475c4fd9.txt",
+      "title": "Oil prices rise but stay below doomsday scenarios amid Iran strikes",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Andrea Riquier",
+      "text_length": 2805,
+      "status": "ok",
+      "num_tokens": 584
+    }
+  ],
+  "total_tokens": 1641
+}

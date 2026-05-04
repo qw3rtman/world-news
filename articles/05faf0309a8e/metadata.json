@@ -1,0 +1,77 @@
+{
+  "hash": "05faf0309a8e",
+  "n_appearances": 6,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://uk.mobile.reuters.com/world/carney-says-conservative-mp-has-joined-ruling-liberals-2026-02-18/",
+      "title": "Canada's Carney edges closer to majority government as legislator defects to Liberals | Reuters",
+      "published_date": "2026-02-18T00:00:00.000Z",
+      "author": "David Ljunggren",
+      "num_tokens": 430,
+      "text_length": 2090
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "635521",
+      "spike_id": 1,
+      "market_question": "Will the next Dutch government be VVD + CDA + D66?",
+      "event_title": "Which coalition will form the next Dutch government?",
+      "spike_direction": "down",
+      "spike_delta": -0.42500000000000004,
+      "spike_timestamp_before": "2026-02-20T01:30:27+00:00",
+      "spike_timestamp_after": "2026-02-20T02:00:25+00:00"
+    },
+    {
+      "market_id": "635521",
+      "spike_id": 2,
+      "market_question": "Will the next Dutch government be VVD + CDA + D66?",
+      "event_title": "Which coalition will form the next Dutch government?",
+      "spike_direction": "up",
+      "spike_delta": 0.4275,
+      "spike_timestamp_before": "2026-02-20T02:00:25+00:00",
+      "spike_timestamp_after": "2026-02-21T01:00:33+00:00"
+    },
+    {
+      "market_id": "635528",
+      "spike_id": 1,
+      "market_question": "Will the next Dutch government be PVV + GL/PvdA + VVD + CDA?",
+      "event_title": "Which coalition will form the next Dutch government?",
+      "spike_direction": "up",
+      "spike_delta": 0.413,
+      "spike_timestamp_before": "2026-02-20T01:30:22+00:00",
+      "spike_timestamp_after": "2026-02-20T02:00:20+00:00"
+    },
+    {
+      "market_id": "635528",
+      "spike_id": 2,
+      "market_question": "Will the next Dutch government be PVV + GL/PvdA + VVD + CDA?",
+      "event_title": "Which coalition will form the next Dutch government?",
+      "spike_direction": "down",
+      "spike_delta": -0.413,
+      "spike_timestamp_before": "2026-02-20T02:00:20+00:00",
+      "spike_timestamp_after": "2026-02-20T18:30:22+00:00"
+    },
+    {
+      "market_id": "635536",
+      "spike_id": 1,
+      "market_question": "Will there be no coalition by October 31?",
+      "event_title": "Which coalition will form the next Dutch government?",
+      "spike_direction": "up",
+      "spike_delta": 0.215,
+      "spike_timestamp_before": "2026-02-20T01:30:25+00:00",
+      "spike_timestamp_after": "2026-02-20T02:30:24+00:00"
+    },
+    {
+      "market_id": "635536",
+      "spike_id": 2,
+      "market_question": "Will there be no coalition by October 31?",
+      "event_title": "Which coalition will form the next Dutch government?",
+      "spike_direction": "down",
+      "spike_delta": -0.214,
+      "spike_timestamp_before": "2026-02-20T02:30:24+00:00",
+      "spike_timestamp_after": "2026-02-20T08:30:22+00:00"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On March 9, 2026, what was the percentage drop and closing price per barrel for Brent North Sea crude oil following President Donald Trump's comments about the conflict with Iran?",
+    "a": "Brent North Sea crude oil plunged 9.6 percent to $89.44 per barrel."
+  },
+  {
+    "q": "Which two international oil benchmarks experienced double-digit percentage drops on March 9, 2026, and what were their respective closing prices?",
+    "a": "Brent North Sea crude dropped 9.6 percent to $89.44, and West Texas Intermediate dropped 10.1 percent to $85.19."
+  },
+  {
+    "q": "In the week of March 9, 2026, which Asian stock market indices recorded gains of more than 2.9 percent, and what were their specific closing percentages?",
+    "a": "Seoul's Kospi rose 5.4 percent and Tokyo's Nikkei 225 rose 2.9 percent."
+  },
+  {
+    "q": "Which three major European stock indices gained more than 1.5 percent on March 9, 2026, and what were their respective percentage increases?",
+    "a": "London's FTSE 100 rose 1.6 percent, Paris's CAC 40 rose 1.8 percent, and Frankfurt's DAX rose 2.4 percent."
+  },
+  {
+    "q": "What were the closing point values for the New York Dow, S&P 500, and Nasdaq Composite on March 9, 2026?",
+    "a": "The Dow was at 47,958.52, the S&P 500 at 6,820.58, and the Nasdaq Composite at 22,837.70."
+  },
+  {
+    "q": "According to President Donald Trump's remarks in Florida on Monday, March 9, 2026, how did the timeline for the US-Israeli war on Iran compare to his initial expectations?",
+    "a": "Trump stated the campaign was far ahead of his initial timeline of around a month and would end soon."
+  },
+  {
+    "q": "What specific action did Iran vow to take in response to President Donald Trump's March 9, 2026 comments regarding the end of the war?",
+    "a": "Iran vowed to block Gulf oil exports and asserted it, not the US, would determine the end of the war."
+  },
+  {
+    "q": "Which strategic waterway was all but closed by Iranian attacks in early March 2026, causing a surge in oil prices before they fell on March 9?",
+    "a": "The Strait of Hormuz was all but closed, through which nearly 20 percent of the world's crude oil usually transits."
+  },
+  {
+    "q": "What event triggered Iran's targeting of the Strait of Hormuz and subsequent attacks on shipping in early March 2026?",
+    "a": "Iran targeted the waterway in retaliation for US-Israeli strikes that killed its supreme leader."
+  },
+  {
+    "q": "Which organization met for crisis talks on March 9, 2026, to assess supply security and the potential release of emergency oil stocks?",
+    "a": "Member states of the International Energy Agency met for crisis talks."
+  },
+  {
+    "q": "How did European gas prices change on March 9, 2026, and what impact did this have on inflation concerns?",
+    "a": "European gas prices sank 15 percent, helping ease concerns over a renewed surge of global inflation."
+  },
+  {
+    "q": "What was the value of the Euro/dollar exchange rate on March 9, 2026, and how did it compare to the previous day's value?",
+    "a": "The Euro/dollar was UP at $1.1646, up from $1.1614 on Monday."
+  },
+  {
+    "q": "What was the value of the Pound/dollar exchange rate on March 9, 2026, and how did it compare to the previous day's value?",
+    "a": "The Pound/dollar was UP at $1.3458, up from $1.3427."
+  },
+  {
+    "q": "What was the value of the Dollar/yen exchange rate on March 9, 2026, and how did it compare to the previous day's value?",
+    "a": "The Dollar/yen was DOWN at 157.65 yen, down from 157.85 yen."
+  },
+  {
+    "q": "What was the value of the Euro/pound exchange rate on March 9, 2026, and how did it compare to the previous day's value?",
+    "a": "The Euro/pound was UP at 86.55 pence, up from 86.49 pence."
+  },
+  {
+    "q": "According to shipping experts cited in the article, how many vessels in or near the Strait of Hormuz had come under attack by March 9, 2026?",
+    "a": "About 10 vessels in or near the strait had come under attack."
+  },
+  {
+    "q": "Which analyst from IG trading platform commented that renewed optimism on falling oil prices helped global stock indices recover, particularly in Asia and Europe?",
+    "a": "Analyst Axel Rudolph at IG trading platform made that comment."
+  },
+  {
+    "q": "Which research director at trading group XTB warned that markets were fluid and prices could reverse if headlines deteriorated or the war escalated?",
+    "a": "Kathleen Brooks, research director at trading group XTB, issued that warning."
+  },
+  {
+    "q": "Which Forex.com analyst stated that oil prices were unlikely to retreat dramatically until traders saw confirmation that shipping through the Strait of Hormuz had stabilized?",
+    "a": "Forex.com analyst Fawad Razaqzada made that statement."
+  },
+  {
+    "q": "In addition to the US-Israeli strikes on Iran, which two other countries' oil infrastructure was attacked in early March 2026, contributing to the oil price surge?",
+    "a": "Oil infrastructure in Saudi Arabia and Bahrain was attacked."
+  },
+  {
+    "q": "Which Asian cities' stock markets advanced on March 9, 2026, according to the list provided in the article?",
+    "a": "Stock markets in Hong Kong, Shanghai, Sydney, Singapore, Bangkok, Mumbai, Taipei, Manila, and Jakarta advanced."
+  },
+  {
+    "q": "What was the closing point value for the London FTSE 100 on March 9, 2026, and what was its percentage gain?",
+    "a": "The London FTSE 100 closed at 10,412.24, up 1.6 percent."
+  },
+  {
+    "q": "What was the closing point value for the Paris CAC 40 on March 9, 2026, and what was its percentage gain?",
+    "a": "The Paris CAC 40 closed at 8,057.36, up 1.8 percent."
+  },
+  {
+    "q": "What was the closing point value for the Frankfurt DAX on March 9, 2026, and what was its percentage gain?",
+    "a": "The Frankfurt DAX closed at 23,968.63, up 2.4 percent."
+  },
+  {
+    "q": "What was the closing point value for the Hong Kong Hang Seng Index on March 9, 2026, and what was its percentage gain?",
+    "a": "The Hong Kong Hang Seng Index closed at 25,959.90, up 2.2 percent."
+  }
+]

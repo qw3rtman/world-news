@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On which date did crude oil prices first surpass $100 per barrel since the 2022 Russia-Ukraine invasion, and which specific geographic chokepoint was being closed by Iran at that time?",
+    "a": "Crude oil surpassed $100 per barrel on Sunday, March 8, 2026, while Iran was closing the Strait of Hormuz."
+  },
+  {
+    "q": "What were the specific trading prices and percentage increases for West Texas Intermediate and the global benchmark Brent crude by early Monday, March 9, 2026?",
+    "a": "West Texas Intermediate was at $102 a barrel (up 12%), and Brent crude was trading around $106 (up 15%)."
+  },
+  {
+    "q": "How did U.S. stock market futures react on Monday, March 9, 2026, in terms of point and percentage declines for the Dow, S&P 500, and Nasdaq 100?",
+    "a": "Dow futures were down almost 900 points, S&P 500 futures were 1.6% lower, and Nasdaq 100 futures were 1.7% lower."
+  },
+  {
+    "q": "Which Middle Eastern country offered to release crude oil onto the market on Monday, March 9, 2026, helping Asian markets pare back some of their losses?",
+    "a": "Saudi Arabia offered to release crude oil onto the market."
+  },
+  {
+    "q": "What statement did U.S. President Donald Trump make on Truth Social on Sunday, March 8, 2026, regarding the impact of the rising oil prices?",
+    "a": "Trump stated that short-term oil prices were 'a very small price to pay'."
+  },
+  {
+    "q": "Who was named by Iran as its new supreme leader on Monday, March 9, 2026, replacing Ayatollah Ali Khamenei?",
+    "a": "Mojtaba Khamenei, the son of Ayatollah Ali Khamenei, was named the new supreme leader."
+  },
+  {
+    "q": "What specific diplomatic action did the U.S. embassy in Riyadh take on Monday, March 9, 2026, regarding its staff?",
+    "a": "The U.S. embassy in Riyadh issued its first departure order for non-emergency government employees to leave Saudi Arabia."
+  },
+  {
+    "q": "What was U.S. Energy Secretary Chris Wright's assessment on Sunday, March 8, 2026, regarding the duration of the Strait of Hormuz closure?",
+    "a": "Wright stated the worst case was that the closure would last 'a few weeks' and 'not months'."
+  },
+  {
+    "q": "When is U.S. President Donald Trump scheduled to meet with Chinese President Xi Jinping, and what are the two primary issues being discussed?",
+    "a": "The meeting is scheduled from March 31 to April 2, 2026, to discuss the war in Iran and trade tariffs."
+  },
+  {
+    "q": "What comments did Beijing’s top diplomat Wang Yi make on Sunday, March 8, 2026, regarding the nature of the war in Iran?",
+    "a": "Wang Yi said the war 'should not have happened' and 'does no one any good'."
+  },
+  {
+    "q": "Which seven nations comprise the G7 countries that convened an emergency meeting in early March 2026 to address the Middle East crisis?",
+    "a": "The G7 comprises the United States, Canada, France, Germany, Italy, Japan, and the United Kingdom."
+  },
+  {
+    "q": "According to the Financial Times, what specific action was the G7 group reportedly discussing in early March 2026 to mitigate the oil crisis?",
+    "a": "The G7 was discussing a joint release of emergency oil reserves."
+  },
+  {
+    "q": "How many days after the initial $100 oil price spike on Sunday, March 8, 2026, did the U.S. Energy Secretary Chris Wright give his interview to CNN?",
+    "a": "Chris Wright gave his interview to CNN on Sunday, March 8, 2026, the same day the price spiked."
+  },
+  {
+    "q": "What military action did the U.S. take that U.S. Energy Secretary Chris Wright cited as the reason traffic through the Strait of Hormuz would soon resume?",
+    "a": "The U.S. destroyed Iran’s ability to threaten tankers."
+  },
+  {
+    "q": "Which two specific stock indices futures were reported to be lower than the S&P 500 futures percentage-wise on Monday, March 9, 2026?",
+    "a": "The Nasdaq 100 futures were 1.7% lower, which was higher than the S&P 500's 1.6% decline."
+  },
+  {
+    "q": "What was the last time crude oil had crossed the $100 per barrel mark before the surge in March 2026?",
+    "a": "The last time crude crossed $100 was before Russia invaded Ukraine in 2022."
+  },
+  {
+    "q": "Which two global powers are set to meet from March 31 to April 2, 2026, amid differences over the war in Iran?",
+    "a": "U.S. President Donald Trump and Chinese President Xi Jinping are set to meet."
+  },
+  {
+    "q": "What was the specific percentage drop in Dow futures points on Monday, March 9, 2026, as markets reacted to the oil spike?",
+    "a": "Dow futures were down almost 900 points."
+  },
+  {
+    "q": "Who is the son of Ayatollah Ali Khamenei that Iran named as its new supreme leader in March 2026?",
+    "a": "Mojtaba Khamenei was named the new supreme leader."
+  },
+  {
+    "q": "In which city did the U.S. embassy issue a departure order for non-emergency staff on Monday, March 9, 2026?",
+    "a": "The U.S. embassy in Riyadh issued the departure order."
+  },
+  {
+    "q": "What two specific timeframes did U.S. Energy Secretary Chris Wright rule out or confirm for the duration of the Strait of Hormuz closure in his CNN interview?",
+    "a": "He stated the closure would last 'a few weeks' and 'not months'."
+  },
+  {
+    "q": "Which two topics were cited as the source of differences between U.S. President Donald Trump and Chinese President Xi Jinping during their scheduled March 31 to April 2, 2026, meeting?",
+    "a": "The differences were over the war in Iran and trade tariffs."
+  },
+  {
+    "q": "Which international financial publication reported that the G7 was discussing a joint release of emergency oil reserves in early March 2026?",
+    "a": "The Financial Times reported on the G7's discussion of releasing emergency oil reserves."
+  },
+  {
+    "q": "What was the trading price of Brent crude oil on Monday, March 9, 2026, and how did it compare to West Texas Intermediate?",
+    "a": "Brent crude was trading around $106, which was higher than West Texas Intermediate's $102."
+  },
+  {
+    "q": "Which two Asian markets sank on Monday, March 9, 2026, but pared losses after news of Saudi oil releases?",
+    "a": "Asia markets sank but pared losses slightly after reports of Saudi Arabia offering to release crude oil."
+  }
+]

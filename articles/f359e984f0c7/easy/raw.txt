@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On what date did the U.S. antitrust waiting period for Paramount Skydance Corp's proposed acquisition of Warner Bros Discovery expire?",
+    "a": "February 19, 2026."
+  },
+  {
+    "q": "What was the total cash value of the acquisition bid submitted by Paramount Skydance Corp for Warner Bros Discovery?",
+    "a": "$108.4 billion."
+  },
+  {
+    "q": "Which specific U.S. law established the 10-day antitrust waiting period that expired in February 2026 regarding the Paramount Skydance and Warner Bros Discovery deal?",
+    "a": "The Hart-Scott-Rodino Act."
+  },
+  {
+    "q": "Who is the chief legal officer of Netflix Inc who criticized Paramount Skydance Corp's efforts to acquire Warner Bros Discovery?",
+    "a": "David Hyman."
+  },
+  {
+    "q": "What is the per-share price offered by Netflix Inc in its competing bid for Warner Bros Discovery?",
+    "a": "$27.75 per share."
+  },
+  {
+    "q": "What is the total valuation of the acquisition offer made by Netflix Inc for Warner Bros Discovery?",
+    "a": "$82.7 billion."
+  },
+  {
+    "q": "Which U.S. government department retains the authority to continue investigating and potentially sue to block the Paramount Skydance Corp acquisition of Warner Bros Discovery even after the antitrust waiting period expired?",
+    "a": "The U.S. Department of Justice."
+  },
+  {
+    "q": "In which year did the U.S. Department of Justice sue to block the proposed merger between JetBlue Airways and Sprint Corporation?",
+    "a": "2023."
+  },
+  {
+    "q": "Which streaming platform owns the HBO Max brand, the owner of which Warner Bros Discovery is being targeted for acquisition?",
+    "a": "HBO Max."
+  },
+  {
+    "q": "Which two regions' competition authorities are expected to scrutinize the Netflix Inc and Warner Bros Discovery merger for potential antitrust violations?",
+    "a": "The United States and Europe."
+  },
+  {
+    "q": "What type of agreement does Paramount Skydance Corp lack with Warner Bros Discovery, which has instead signed a deal with Netflix Inc?",
+    "a": "A definitive agreement."
+  },
+  {
+    "q": "What specific asset of Warner Bros Discovery is described as having a century-old history that raises competition concerns if combined with Netflix Inc?",
+    "a": "Its studio assets."
+  },
+  {
+    "q": "What did Paramount Skydance Corp state regarding the legal status of its proposed acquisition of Warner Bros Discovery after the antitrust waiting period expired?",
+    "a": "There is no statutory impediment in the U.S. to closing the acquisition."
+  },
+  {
+    "q": "Which company's proposed merger with Sprint was blocked by a lawsuit from the U.S. Department of Justice after the antitrust waiting period had already expired?",
+    "a": "JetBlue Airways."
+  },
+  {
+    "q": "What did Netflix Inc chief legal officer David Hyman claim Paramount Skydance Corp was doing to its stockholders?",
+    "a": "Misleading them and distracting from the facts."
+  },
+  {
+    "q": "What specific concern do U.S. and European competition authorities have regarding the combination of Netflix Inc's global streaming power with Warner Bros Discovery's assets?",
+    "a": "That it would reduce competition or limit consumer choice."
+  },
+  {
+    "q": "What was the nature of the financial transaction proposed by Paramount Skydance Corp for Warner Bros Discovery?",
+    "a": "An all-cash bid."
+  },
+  {
+    "q": "Which two cities were cited as the locations for the Reuters reporters who covered the Paramount Skydance and Warner Bros Discovery news?",
+    "a": "Bengaluru and Los Angeles."
+  },
+  {
+    "q": "What is the stock ticker symbol for Paramount Skydance Corp as listed in the article?",
+    "a": "PSKY.O."
+  },
+  {
+    "q": "What is the stock ticker symbol for Warner Bros Discovery as listed in the article?",
+    "a": "WBD.O."
+  },
+  {
+    "q": "Who edited the Reuters report regarding the expiration of the antitrust waiting period for the Warner Bros Discovery acquisition?",
+    "a": "Shinjini Ganguli and Alan Barona."
+  },
+  {
+    "q": "What specific milestone did the expiration of the antitrust waiting period represent for Paramount Skydance Corp's bid for Warner Bros Discovery?",
+    "a": "A milestone on the road to a potential deal."
+  },
+  {
+    "q": "What did the expiration of the Hart-Scott-Rodino Act waiting period fail to end regarding the U.S. Department of Justice's role?",
+    "a": "The Department of Justice's review of the deal."
+  },
+  {
+    "q": "What did David Hyman state about Paramount Skydance Corp's progress in securing approvals to close the Warner Bros Discovery acquisition?",
+    "a": "They have not secured the needed approvals and are a long way from doing so."
+  },
+  {
+    "q": "Which specific assets of Warner Bros Discovery is Netflix Inc offering to buy in its competing bid?",
+    "a": "The studios and streaming assets."
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "spike_index": 2,
+  "direction": "down",
+  "price_before": 0.5385,
+  "price_after": 0.362,
+  "delta": -0.1765,
+  "abs_delta": 0.1765,
+  "timestamp_before": "2026-03-01T23:00:36+00:00",
+  "timestamp_after": "2026-03-02T23:00:36+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "http://www.foxnews.com/politics/dhs-funding-stalemate-thaws-white-house-sends-democrats-serious-counteroffer.print",
+      "file": "75b26ffa815e.txt",
+      "title": "DHS funding stalemate thaws as White House sends Democrats 'serious' counteroffer",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": null,
+      "text_length": 3215,
+      "status": "ok",
+      "num_tokens": 619
+    },
+    {
+      "url": "https://eu.usatoday.com/story/news/2026/02/27/government-shutdown-end-today-polymarket-kalshi-shutdown-2026-gov-shutdown-update-news-senate-vote/88898788007/",
+      "file": "bd7a0b4dc1d8.txt",
+      "title": "Will the government shutdown end this weekend? Latest updates, chances",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": "Lori Comstock",
+      "text_length": 6877,
+      "status": "ok",
+      "num_tokens": 1478
+    },
+    {
+      "url": "https://thefalconswire.usatoday.com/story/news/politics/2026/03/01/department-of-homeland-security-shutdown-congress-trump-update/88865677007/",
+      "file": "3512622e1561.txt",
+      "title": "Where things stand in the Homeland Security shutdown standoff",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Zachary Schermele",
+      "text_length": 5451,
+      "status": "ok",
+      "num_tokens": 1054
+    },
+    {
+      "url": "https://thehill.com/homenews/senate/5759555-dhs-funding-shutdown-paychecks/",
+      "file": "1ca00018d00a.txt",
+      "title": "DHS funding impasse deepens as lawmakers blow by first missed paycheck",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 5807,
+      "status": "ok",
+      "num_tokens": 1144
+    },
+    {
+      "url": "https://money.usatoday.com/story/news/politics/2026/03/01/department-of-homeland-security-shutdown-congress-trump-update/88865677007/",
+      "file": "b1a6631b8beb.txt",
+      "title": "USA TODAY - Breaking News and Latest News Today",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 71,
+      "status": "ok",
+      "num_tokens": 16
+    }
+  ],
+  "total_tokens": 4311
+}

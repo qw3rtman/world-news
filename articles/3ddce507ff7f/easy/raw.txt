@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In the military operation launched by the United States and Israel against Iran on the Saturday preceding March 3, 2026, which Iranian leader was reported killed on the first day of strikes?",
+    "a": "Supreme Leader Ayatollah Ali Khamenei"
+  },
+  {
+    "q": "According to U.S. Central Command (CENTCOM) statements released on Monday, March 2, 2026, how many U.S. service members were killed during the operation against Iran?",
+    "a": "Six"
+  },
+  {
+    "q": "Which two individuals were identified by an Israeli strike source as targets in the first round of U.S.-Israeli strikes on Iran?",
+    "a": "Iranian Supreme Leader Ayatollah Ali Khamenei and Iranian President Masoud Pezeshkian"
+  },
+  {
+    "q": "In the CBS News map detailing the conflict starting in early March 2026, which Iranian city known for a major nuclear facility was listed as a strike location alongside Qom, Karaj, Kermanshah, Lorestan, and Tabriz?",
+    "a": "Isfahan"
+  },
+  {
+    "q": "Which specific type of long-range cruise missile did U.S. military officials state was used to suppress Iranian air defenses during the March 2026 strikes?",
+    "a": "Tomahawk Land Attack Missiles (TLAMs)"
+  },
+  {
+    "q": "On March 2, 2026, U.S. Defense Secretary Pete Hegseth outlined objectives for the Iran operation; which specific naval and security assets did he say the U.S. aimed to destroy?",
+    "a": "Iranian navy and other security infrastructure"
+  },
+  {
+    "q": "According to the Iranian Red Crescent, approximately how many people had been killed in Iran by the time of the March 3, 2026 report?",
+    "a": "Nearly 800"
+  },
+  {
+    "q": "In the video statement issued by Israeli Prime Minister Benjamin Netanyahu regarding the March 2026 strikes, which type of military sites did he specify were being targeted?",
+    "a": "Missile installations"
+  },
+  {
+    "q": "The Israel Defense Forces issued a warning to individuals near military industrial factories and infrastructure in Iran on what date, urging immediate evacuation?",
+    "a": "The warning was issued prior to the March 3, 2026 report, during the active strikes in early March 2026"
+  },
+  {
+    "q": "Which nine countries or territories did Iran target with retaliatory strikes in the Mideast region as shown in the CBS News map covering events in early March 2026?",
+    "a": "Israel, Jordan, Kuwait, Iraq, Bahrain, Qatar, United Arab Emirates, Saudi Arabia, and Oman"
+  },
+  {
+    "q": "What was the stated purpose of the U.S.-Israeli attack on Iran launched in early March 2026, according to President Donald Trump?",
+    "a": "To wipe out the regime's military capabilities and eliminate the threat of Iran creating a nuclear weapon"
+  },
+  {
+    "q": "According to the Israel Defense Forces warning issued in early March 2026, what specific risk did the presence of individuals near military infrastructure pose?",
+    "a": "It put their lives at risk"
+  },
+  {
+    "q": "In addition to Tomahawk Land Attack Missiles, what other type of unmanned weapon system did U.S. officials confirm was used in the March 2026 strikes on Iran?",
+    "a": "One-way attack drones"
+  },
+  {
+    "q": "How many people were reported killed in Israel as a result of the conflict escalating in early March 2026?",
+    "a": "At least 11"
+  },
+  {
+    "q": "Which Iranian holy city was listed in news reports as a location of attacks during the March 2026 strikes on Iran?",
+    "a": "Qom"
+  },
+  {
+    "q": "U.S. Defense Secretary Pete Hegseth stated on March 2, 2026, that destroying Iranian missiles and missile production would ensure Iran would never possess what?",
+    "a": "Nuclear weapons"
+  },
+  {
+    "q": "Which CBS News data team created the map showing strike locations across Iran and retaliatory strikes in the Mideast in early March 2026?",
+    "a": "The CBS News data team"
+  },
+  {
+    "q": "According to the CBS News report from March 3, 2026, which Iranian cities were targeted in attacks beyond the nuclear facility in Isfahan and the holy city of Qom?",
+    "a": "Karaj, Kermanshah, Lorestan, and Tabriz"
+  },
+  {
+    "q": "What did Israeli Prime Minister Benjamin Netanyahu say in his video statement regarding the duration of the military attacks on Iran in March 2026?",
+    "a": "The attacks would continue 'as long as necessary'"
+  },
+  {
+    "q": "Which organization provided the casualty figure of nearly 800 killed in Iran in the March 2026 conflict report?",
+    "a": "The Iranian Red Crescent"
+  },
+  {
+    "q": "In the March 2026 conflict, which U.S. military command confirmed the death of six service members?",
+    "a": "U.S. Central Command (CENTCOM)"
+  },
+  {
+    "q": "Which two nations jointly unleashed the major attack on Iran described in the March 2026 CBS News report?",
+    "a": "The United States and Israel"
+  },
+  {
+    "q": "What specific military infrastructure did the Israel Defense Forces warn individuals to evacuate in Iran during the March 2026 strikes?",
+    "a": "Military industrial factories and military infrastructure"
+  },
+  {
+    "q": "Which Iranian president was named as a target in the first round of strikes by a source involved in the Israeli operations in March 2026?",
+    "a": "Masoud Pezeshkian"
+  },
+  {
+    "q": "According to the March 2026 report, which U.S. official described the military objectives as destroying Iranian missiles, production, navy, and security infrastructure?",
+    "a": "Defense Secretary Pete Hegseth"
+  },
+  {
+    "q": "Which CBS News contributors are listed as having contributed to the report on the Iran strikes and retaliatory attacks published on March 3, 2026?",
+    "a": "Faris Tanyos, Tucker Reals, James LaPorta, and John Kelly"
+  }
+]

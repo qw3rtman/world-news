@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the statement reported by Reuters on March 3, 2026, what was U.S. President Donald Trump's stated position regarding negotiations with Iran?",
+    "a": "He said he is not interested in negotiating with Iran."
+  },
+  {
+    "q": "According to the March 3, 2026 report, what condition did U.S. President Donald Trump suggest might be necessary for the Iran war to end?",
+    "a": "The war would end once Tehran no longer has a functioning military and its leadership is completely wiped out."
+  },
+  {
+    "q": "What geopolitical event was occurring in Tehran around March 3, 2026, that coincided with U.S. President Donald Trump's rejection of settlement talks?",
+    "a": "Tehran was nearing a decision on selecting a new leader."
+  },
+  {
+    "q": "In the context of the March 2026 Iran war, what specific outcome did U.S. President Donald Trump indicate regarding the Iranian leadership?",
+    "a": "He indicated that the Iranian leadership must be completely wiped out."
+  },
+  {
+    "q": "What military status did U.S. President Donald Trump imply was required for the Iran war to conclude in his March 3, 2026 comments?",
+    "a": "Tehran must no longer have a functioning military."
+  },
+  {
+    "q": "Who was the U.S. President that rejected settling the Iran war in early March 2026, and what was his stance on negotiation?",
+    "a": "U.S. President Donald Trump rejected settling the war and stated he was not interested in negotiating with Iran."
+  },
+  {
+    "q": "What was the timing of the Iranian leadership transition relative to U.S. President Donald Trump's March 3, 2026 comments on the Iran war?",
+    "a": "Tehran was nearing the decision on a new leader at the time of his comments."
+  },
+  {
+    "q": "According to the March 3, 2026 Reuters report, what two conditions did U.S. President Donald Trump associate with the end of the Iran war?",
+    "a": "The loss of a functioning Iranian military and the complete wiping out of its leadership."
+  },
+  {
+    "q": "What was the nature of the diplomatic approach U.S. President Donald Trump ruled out regarding Iran in March 2026?",
+    "a": "He ruled out negotiating or settling the war with Iran."
+  },
+  {
+    "q": "In March 2026, what internal political development in Iran was occurring alongside U.S. President Donald Trump's hardline stance on the war?",
+    "a": "Iran was nearing a decision on who would become its new leader."
+  },
+  {
+    "q": "What did U.S. President Donald Trump say about the possibility of a negotiated settlement for the Iran war in March 2026?",
+    "a": "He said he is not interested in negotiating, raising the possibility that the war ends only through total military and leadership destruction."
+  },
+  {
+    "q": "What was the specific timeframe of the Reuters report detailing U.S. President Donald Trump's rejection of Iran war settlement?",
+    "a": "The report was published on March 3, 2026."
+  },
+  {
+    "q": "What was the ultimate fate of the Iranian leadership, according to U.S. President Donald Trump's March 3, 2026 comments on the war's conclusion?",
+    "a": "It must be completely wiped out."
+  },
+  {
+    "q": "What was the status of the Iranian military, according to U.S. President Donald Trump's March 3, 2026 remarks on ending the war?",
+    "a": "It must no longer be functioning."
+  },
+  {
+    "q": "Which U.S. President made comments in March 2026 suggesting the Iran war would only end with the destruction of Iran's military and leadership?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "What was the relationship between the Iranian leadership transition and the Iran war status as described in the March 3, 2026 report?",
+    "a": "Tehran was nearing a decision on a new leader while the war continued under U.S. President Donald Trump's refusal to negotiate."
+  },
+  {
+    "q": "Did U.S. President Donald Trump express interest in a diplomatic resolution to the Iran war in March 2026?",
+    "a": "No, he said he is not interested in negotiating with Iran."
+  },
+  {
+    "q": "What were the two components of the 'wiping out' scenario for Iran mentioned by U.S. President Donald Trump in March 2026?",
+    "a": "The loss of a functioning military and the elimination of its leadership."
+  },
+  {
+    "q": "What news source reported U.S. President Donald Trump's March 3, 2026 comments on the Iran war?",
+    "a": "Reuters."
+  },
+  {
+    "q": "What was the implication of U.S. President Donald Trump's March 3, 2026 statement regarding the duration of the Iran war?",
+    "a": "It suggested the war would continue until Iran's military and leadership were destroyed."
+  },
+  {
+    "q": "Who was the leader of the United States during the March 2026 period when he rejected Iran war negotiations?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "What was the political context in Iran around March 3, 2026, as reported by Reuters?",
+    "a": "Tehran was nearing a decision on a new leader."
+  },
+  {
+    "q": "What did U.S. President Donald Trump say about the endgame of the Iran war in March 2026?",
+    "a": "He said it would only end once Tehran has no functioning military and its leadership is wiped out."
+  },
+  {
+    "q": "Was there any indication of willingness to negotiate from U.S. President Donald Trump regarding Iran in March 2026?",
+    "a": "No, he stated he is not interested in negotiating with Iran."
+  },
+  {
+    "q": "What specific outcome for Iran's military did U.S. President Donald Trump cite as necessary for the war to end in March 2026?",
+    "a": "Tehran must no longer have a functioning military."
+  }
+]

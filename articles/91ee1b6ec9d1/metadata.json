@@ -1,0 +1,37 @@
+{
+  "hash": "91ee1b6ec9d1",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://link.cfr.org/click/44714778.62121/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNi8wMy8xNC91cy9wb2xpdGljcy9tYXJpbmVzLWlyYW4td2FyLmh0bWw_dXRtX3NvdXJjZT1kYWlseWJyaWVmJnV0bV9jb250ZW50PTIwMjYwMzE2/6725416fd31ea7c67f0d673cBf992c02f",
+      "title": "How a Marine Unit in the Middle East Could Open New Phase of Iran War - The New York Times",
+      "published_date": "2026-03-14T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 332,
+      "text_length": 1643
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1162940",
+      "spike_id": 14,
+      "market_question": "US forces enter Iran by March 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "up",
+      "spike_delta": 0.18,
+      "spike_timestamp_before": "2026-03-13T01:30:24+00:00",
+      "spike_timestamp_after": "2026-03-14T01:00:33+00:00"
+    },
+    {
+      "market_id": "1162940",
+      "spike_id": 15,
+      "market_question": "US forces enter Iran by March 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "up",
+      "spike_delta": 0.25,
+      "spike_timestamp_before": "2026-03-13T10:00:27+00:00",
+      "spike_timestamp_after": "2026-03-14T09:30:33+00:00"
+    }
+  ]
+}

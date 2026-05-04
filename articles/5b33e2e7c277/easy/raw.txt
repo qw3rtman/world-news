@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2026, which artificial intelligence company announced the acquisition of Python toolmaker Astral to strengthen its portfolio against rival Anthropic?",
+    "a": "OpenAI"
+  },
+  {
+    "q": "Which Microsoft-backed startup's AI coding system, Codex, will incorporate Astral's suite of developer tools following the acquisition announced in March 2026?",
+    "a": "OpenAI"
+  },
+  {
+    "q": "Which rival AI company gained traction with its Claude Code tool among software developers, prompting OpenAI to accelerate its competition in March 2026?",
+    "a": "Anthropic"
+  },
+  {
+    "q": "Who is the founder and CEO of Astral who stated that OpenAI would continue supporting Astral's open-source tools after the deal closes in March 2026?",
+    "a": "Charlie Marsh"
+  },
+  {
+    "q": "In March 2026, how many weekly active users did OpenAI report its Codex platform had reached?",
+    "a": "More than 2 million"
+  },
+  {
+    "q": "According to the March 2026 announcement, by what factor did OpenAI's Codex usage jump since the beginning of the year?",
+    "a": "Five-fold"
+  },
+  {
+    "q": "By what factor did the number of weekly active users for OpenAI's Codex platform increase since the beginning of the year as of March 2026?",
+    "a": "Three-fold"
+  },
+  {
+    "q": "Which specific programming language's development speed and reliability are improved by the tools made by Astral, the company acquired by OpenAI in March 2026?",
+    "a": "Python"
+  },
+  {
+    "q": "In early 2026, which company launched a desktop app for its coding tools as part of its efforts to compete with Anthropic?",
+    "a": "OpenAI"
+  },
+  {
+    "q": "Which startup, backed by Microsoft, launched its Codex platform last year prior to the March 2026 acquisition of Astral?",
+    "a": "OpenAI"
+  },
+  {
+    "q": "What is the name of the AI coding system owned by OpenAI that will receive Astral's developer tools suite following the March 2026 acquisition?",
+    "a": "Codex"
+  },
+  {
+    "q": "Which company did OpenAI acquire in March 2026 to gain more share in the artificial intelligence coding tools market?",
+    "a": "Astral"
+  },
+  {
+    "q": "Who reported the news regarding OpenAI's acquisition of Astral in March 2026 for Reuters?",
+    "a": "Jaspreet Singh"
+  },
+  {
+    "q": "In which city did Reuters reporter Jaspreet Singh file the report on OpenAI's acquisition of Astral in March 2026?",
+    "a": "Bengaluru"
+  },
+  {
+    "q": "Who edited the Reuters report regarding OpenAI's acquisition of Astral published on March 19, 2026?",
+    "a": "Shinjini Ganguli"
+  },
+  {
+    "q": "Which tool developed by rival company Anthropic has gained traction among software developers, serving as a competitor to OpenAI's Codex?",
+    "a": "Claude Code"
+  },
+  {
+    "q": "What type of tools does Astral, acquired by OpenAI in March 2026, primarily design to improve speed and reliability?",
+    "a": "Developer tools for Python"
+  },
+  {
+    "q": "Did OpenAI and Astral disclose the financial terms of their acquisition deal announced in March 2026?",
+    "a": "No, the companies did not disclose the financial terms"
+  },
+  {
+    "q": "Which major player in the Python community did OpenAI acquire in March 2026?",
+    "a": "Astral"
+  },
+  {
+    "q": "What was the primary strategic goal of OpenAI's March 2026 acquisition of Astral regarding its competition with Anthropic?",
+    "a": "To strengthen its portfolio and gain more share in the AI coding tools market"
+  },
+  {
+    "q": "When did OpenAI launch its Codex platform, relative to the March 2026 acquisition of Astral?",
+    "a": "Last year (2025)"
+  },
+  {
+    "q": "What commitment did Astral founder Charlie Marsh make regarding Astral's open-source tools after the OpenAI acquisition closes in March 2026?",
+    "a": "OpenAI will continue supporting them"
+  },
+  {
+    "q": "Which two companies announced an acquisition deal in March 2026 where one would integrate the other's developer tools into its AI coding system?",
+    "a": "OpenAI and Astral"
+  },
+  {
+    "q": "What specific metric did OpenAI highlight in March 2026 to demonstrate the growth of its Codex platform since the beginning of the year?",
+    "a": "A five-fold jump in usage and more than 2 million weekly active users"
+  },
+  {
+    "q": "Which organization's AI coding system, Codex, is being strengthened by the March 2026 acquisition of Astral?",
+    "a": "OpenAI"
+  }
+]

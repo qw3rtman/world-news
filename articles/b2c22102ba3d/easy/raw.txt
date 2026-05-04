@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the first-round local elections held on Sunday, March 15, 2026, which political candidate was leading in the Paris mayoral race according to projections?",
+    "a": "Socialist candidate Emmanuel Gregoire."
+  },
+  {
+    "q": "During the March 15, 2026, French local elections, in which geographic region did the far right appear strong in several cities?",
+    "a": "Southern cities."
+  },
+  {
+    "q": "Who were the authors of the March 15, 2026, Barron's article titled 'Left Leads In Paris, Far Right Eyes Gains In France Local Polls: Projections'?",
+    "a": "Alice Hackman and Anna Smolchenko."
+  },
+  {
+    "q": "What political event, held on Sunday, March 15, 2026, was described in the Barron's article as a political barometer ahead of France's presidential polls?",
+    "a": "The first-round local elections."
+  },
+  {
+    "q": "According to the March 15, 2026, projections, which candidate party held the lead in the Paris mayoral race?",
+    "a": "The Socialist party."
+  },
+  {
+    "q": "In the context of the March 15, 2026, French local elections, which political group was noted for looking strong in several southern cities?",
+    "a": "The far right."
+  },
+  {
+    "q": "Which news agency's bureaus contributed to the March 15, 2026, reporting by Alice Hackman and Anna Smolchenko?",
+    "a": "AFP (Agence France-Presse)."
+  },
+  {
+    "q": "What specific type of election round provided the projections on March 15, 2026, that showed Emmanuel Gregoire leading in Paris?",
+    "a": "The first-round local elections."
+  },
+  {
+    "q": "Which French city saw a Socialist candidate leading in the mayoral race during the March 15, 2026, local election projections?",
+    "a": "Paris."
+  },
+  {
+    "q": "What publication released the article on March 15, 2026, detailing projections from the French local elections?",
+    "a": "Barron's."
+  },
+  {
+    "q": "Who was the Socialist candidate leading in the Paris mayoral race as of the March 15, 2026, election projections?",
+    "a": "Emmanuel Gregoire."
+  },
+  {
+    "q": "In the March 15, 2026, French local elections, which political faction was eyeing gains in several southern cities?",
+    "a": "The far right."
+  },
+  {
+    "q": "What was the primary purpose of the March 15, 2026, first-round local elections in France, as described in the Barron's article?",
+    "a": "To serve as a political barometer ahead of France's presidential polls."
+  },
+  {
+    "q": "Which two journalists wrote the March 15, 2026, Barron's piece on French local election projections?",
+    "a": "Alice Hackman and Anna Smolchenko."
+  },
+  {
+    "q": "During the March 15, 2026, local elections in France, in which capital city was a Socialist candidate leading?",
+    "a": "Paris."
+  },
+  {
+    "q": "What political trend was observed in several southern French cities during the March 15, 2026, local election projections?",
+    "a": "The far right looked strong."
+  },
+  {
+    "q": "Which candidate's lead in the Paris mayoral race was highlighted in the March 15, 2026, Barron's article?",
+    "a": "Emmanuel Gregoire."
+  },
+  {
+    "q": "What type of elections were held in France on Sunday, March 15, 2026, serving as a precursor to the presidential polls?",
+    "a": "Local elections."
+  },
+  {
+    "q": "In the March 15, 2026, French local election projections, which political group was performing well in southern cities?",
+    "a": "The far right."
+  },
+  {
+    "q": "Who was the Socialist candidate ahead in the Paris mayoral race during the March 15, 2026, local election projections?",
+    "a": "Emmanuel Gregoire."
+  },
+  {
+    "q": "Which news organization published the March 15, 2026, article about French local election projections?",
+    "a": "Barron's."
+  },
+  {
+    "q": "In the March 15, 2026, French local elections, which region showed strength for the far right?",
+    "a": "Southern cities."
+  },
+  {
+    "q": "What event on March 15, 2026, was described as a political barometer for France's upcoming presidential polls?",
+    "a": "The first-round local elections."
+  },
+  {
+    "q": "Which Socialist candidate was leading in Paris during the March 15, 2026, local election projections?",
+    "a": "Emmanuel Gregoire."
+  },
+  {
+    "q": "Who were the AFP bureau contributors to the March 15, 2026, Barron's article on French elections?",
+    "a": "Alice Hackman and Anna Smolchenko."
+  }
+]

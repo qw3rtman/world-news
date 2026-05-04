@@ -1,0 +1,65 @@
+{
+  "spike_index": 6,
+  "direction": "up",
+  "price_before": 0.3855,
+  "price_after": 0.6425,
+  "delta": 0.25699999999999995,
+  "abs_delta": 0.25699999999999995,
+  "timestamp_before": "2026-02-23T06:30:16+00:00",
+  "timestamp_after": "2026-02-23T11:00:27+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.thehindu.com/business/markets/silver-futures-rise-5-to-265-lakh-per-kg-amid-global-tariff-tensions/article70665972.ece",
+      "file": "107b9ce8892a.txt",
+      "title": "Silver futures rise 5% to \u20b92.65 lakh per kg - The Hindu",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "PTI",
+      "text_length": 1593,
+      "status": "ok",
+      "num_tokens": 390
+    },
+    {
+      "url": "https://www.cnbc.com/2026/02/23/gold-hits-three-week-high-as-us-tariff-ruling-incites-safe-haven-buying.html",
+      "file": "95f367b393dc.txt",
+      "title": "Gold hits three-week high as U.S. tariff ruling incites safe-haven buying",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": null,
+      "text_length": 2064,
+      "status": "ok",
+      "num_tokens": 440
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-02-23/gold-rises-for-fifth-day-on-us-tariff-uncertainty-iran-tension?fromMostRead=true&srnd=2026-01-30%2Flive-q-amp-a-what-s-next-for-metals-as-new-fed-era-takes-shape",
+      "file": "dc51a55f4599.txt",
+      "title": "Gold Rises for Fifth Day on US Tariff Uncertainty, Iran Tension - Bloomberg",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "Yihui Xie",
+      "text_length": 452,
+      "status": "ok",
+      "num_tokens": 90
+    },
+    {
+      "url": "https://www.thehindu.com/business/markets/gold-futures-rally-to-159-lakh-per-10-gm-amid-strong-global-cues/article70666050.ece",
+      "file": "d235e9dbbae3.txt",
+      "title": "Gold Futures rally to \u20b91.59 lakh per 10 gm - The Hindu",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "PTI",
+      "text_length": 1410,
+      "status": "ok",
+      "num_tokens": 332
+    },
+    {
+      "url": "https://fortune.com/article/current-price-of-silver-2-23-2026/",
+      "file": "9dcc0eac53be.txt",
+      "title": "Current price of silver as of Monday, February 23, 2026 | Fortune",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "Joseph Hostetler",
+      "text_length": 168,
+      "status": "ok",
+      "num_tokens": 49
+    }
+  ],
+  "total_tokens": 1301
+}

@@ -1,0 +1,27 @@
+{
+  "hash": "75bcf38457ba",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.nbcnews.com/world/iran/irans-foreign-minister-rejects-calls-ceasefire-continue-fighting-rcna262291?%243p=e_sailthru&_branch_referrer=H4sIAAAAAAAAAzVP0W7DIAz8mvSNlkAK6aRomrT1N5ADJmElJDJEedu3j0ibZPnss3w%2Bz6Vs%2Be12S6NNeOQrbNs1hvS6ye29EZ3cBjQZQiwz7ZdKrBSmkCCaneIwn8uN%2FGjEs8ZxHNd%2FGbsuJ7NSdBUDQfqDzPxKGKbElpBCLkiM8BttycxCjDUjZPSBkNk1lZB2ZD5Mc60mRjaBUEI82kY%2BbXCN%2FMQlmjQmI7hQXPK%2BEWrPSAaXarrOW65bLQVoBdJ3yttR9soq0eG9u2v34B4lth48t70G1zqtRa%2B5FOiU7h%2F3U68sxsKyQXVdFUdCeFU355%2BXH0KPRLU1I61HvTx8uQl%2FAQ3cc1NWAQAA&user_email=1071732a76a3f46fcb386c624e5457d90fe3e1faf0c87ad1d77287032ed67895",
+      "title": "Iran's foreign minister rejects calls for a ceasefire: 'We need to continue fighting for the sake of our people'",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 956,
+      "text_length": 4582
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1466015",
+      "spike_id": 6,
+      "market_question": "US x Iran ceasefire by March 31?",
+      "event_title": "US x Iran ceasefire by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.23,
+      "spike_timestamp_before": "2026-03-08T22:00:16+00:00",
+      "spike_timestamp_after": "2026-03-09T21:00:18+00:00"
+    }
+  ]
+}

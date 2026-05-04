@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2026, which U.S. President announced the postponement of a planned visit to Beijing, and what specific conflict was cited as the primary reason for delaying the trip?",
+    "a": "President Donald Trump postponed the trip due to the ongoing war with Iran."
+  },
+  {
+    "q": "What were the original travel dates for President Donald Trump's scheduled visit to Beijing in March and April 2026, and how did he describe the new timeline for the rescheduled visit?",
+    "a": "The original dates were March 31 to April 2, 2026, and Trump stated the new visit would occur in \"about five or six weeks.\"",
+  },
+  {
+    "q": "Which two world leaders were scheduled to meet in Beijing in early April 2026, and what was the status of their communication regarding the rescheduled dates as reported by the Chinese embassy spokesperson?",
+    "a": "U.S. President Donald Trump and Chinese President Xi Jinping were scheduled to meet; the Chinese embassy spokesperson confirmed they remained in communication on the dates but had nothing further to add.",
+  },
+  {
+    "q": "How did the postponement of President Donald Trump's March 2026 trip to Beijing impact global markets, specifically regarding oil prices and shipping routes affected by the war with Iran?",
+    "a": "The postponement heightened uncertainty for markets and diplomacy, as the war with Iran had driven oil prices higher and threatened shipping through the Strait of Hormuz.",
+  },
+  {
+    "q": "Beyond the general diplomatic reset, what specific bilateral issues between Washington and Beijing were sidelined by the delay of President Donald Trump's March 2026 visit?",
+    "a": "The delay sidelined talks on Taiwan, tariffs, computer chips, illegal drugs, rare earths, and agriculture.",
+  },
+  {
+    "q": "According to a person briefed on planning in March 2026, why was the image of President Donald Trump on a lavish state visit to Beijing seen as increasingly at odds with domestic realities?",
+    "a": "It was seen as at odds with a struggling U.S. economy and the return of American service members killed in the Middle East.",
+  },
+  {
+    "q": "In response to joint U.S.-Israeli attacks in early 2026, what specific threat did Iran make regarding maritime traffic in the Strait of Hormuz?",
+    "a": "Iran threatened to fire on vessels moving through the Strait of Hormuz.",
+  },
+  {
+    "q": "What was China's response to President Donald Trump's request for assistance regarding the Strait of Hormuz in March 2026, and what statistic highlights China's significant role in global oil consumption?",
+    "a": "China largely rebuffed the request and did not directly respond; China imported around 12 million barrels of oil daily in the first two months of 2026.",
+  },
+  {
+    "q": "What characterization did Lin Jian, a Chinese Foreign Ministry spokesperson, give in March 2026 regarding the description of President Donald Trump's trip delay as being caused by a dispute over the Strait of Hormuz?",
+    "a": "Lin Jian said it would be \"misguided\" to describe the trip as delayed due to a dispute over the strait.",
+  },
+  {
+    "q": "When was the last time President Donald Trump traveled to China prior to the postponed March 2026 visit, and when did he last meet Chinese President Xi Jinping?",
+    "a": "Trump last traveled to China in 2017 and last met Xi in October 2025 in South Korea.",
+  },
+  {
+    "q": "In March 2026, which two officials held talks in Paris to prepare for the rescheduled meeting between President Donald Trump and Chinese President Xi Jinping?",
+    "a": "U.S. Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng held talks in Paris.",
+  },
+  {
+    "q": "What specific agricultural goods were discussed as potential additional purchases by China during the March 2026 Paris talks between U.S. Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng?",
+    "a": "The talks focused on potential purchases of poultry, beef, and non-soybean row crops.",
+  },
+  {
+    "q": "Besides agricultural goods, what other key trade and resource topics were addressed by U.S. Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng in their March 2026 Paris discussions?",
+    "a": "They discussed increasing the flow of rare earth minerals largely controlled by China and new approaches to manage trade and investment between the countries.",
+  },
+  {
+    "q": "How many months into his second term was President Donald Trump when he announced the postponement of his Beijing trip in March 2026?",
+    "a": "He was in the 14th month of his second term.",
+  },
+  {
+    "q": "What did President Donald Trump tell reporters in the Oval Office in March 2026 regarding China's reaction to the postponement of his visit?",
+    "a": "Trump told reporters, \"We are resetting the meeting,\" and added, \"We're working with China. They were fine with it.\"",
+  },
+  {
+    "q": "Did the White House specify a new exact date for President Donald Trump's rescheduled visit to Beijing in March 2026, and what did the Chinese embassy spokesperson say about the scheduling status?",
+    "a": "The White House did not specify a date; the Chinese embassy spokesperson said they remained in communication on the dates but had nothing further to add.",
+  },
+  {
+    "q": "What military and economic consequences did President Donald Trump's campaign in Iran unleash, according to the March 2026 report, and how did this affect his administration's attention?",
+    "a": "The campaign unleashed a wave of military and economic consequences and commanded attention from across his administration.",
+  },
+  {
+    "q": "Why did Beijing never officially announce specific dates for President Donald Trump's March 2026 visit, according to standard diplomatic practices mentioned in the article?",
+    "a": "Beijing normally does not detail Chinese President Xi's schedule more than a few days in advance.",
+  },
+  {
+    "q": "Which two major economies were experiencing delayed efforts to ease tensions due to the postponement of President Donald Trump's March 2026 trip to Beijing?",
+    "a": "The United States and China.",
+  },
+  {
+    "q": "What specific geographic location's shipping was threatened by Iran in early 2026, contributing to the uncertainty surrounding President Donald Trump's postponed visit?",
+    "a": "The Strait of Hormuz.",
+  },
+  {
+    "q": "In the March 2026 Paris talks, what resource largely controlled by China was a focus of discussion between U.S. Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng?",
+    "a": "Rare earth minerals.",
+  },
+  {
+    "q": "What was the status of China's direct response to President Donald Trump's request for assistance regarding the Strait of Hormuz in March 2026, despite China being the world's largest oil importer?",
+    "a": "China had not directly responded to his request.",
+  },
+  {
+    "q": "Which two specific sectors of the U.S. economy or society were cited as being at odds with the image of President Donald Trump's planned lavish state visit to Beijing in March 2026?",
+    "a": "A struggling U.S. economy and the return of American service members killed in the Middle East.",
+  },
+  {
+    "q": "What was the duration of President Donald Trump's planned stay in Beijing for the visit that was postponed in March 2026?",
+    "a": "The planned stay was from March 31 to April 2, 2026."
+  },
+  {
+    "q": "Who was the Chinese Foreign Ministry spokesperson who commented in March 2026 that linking President Donald Trump's trip delay to a Strait of Hormuz dispute was \"misguided\"?",
+    "a": "Lin Jian."
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the March 5, 2026 publication in Scientific Reports, what specific bacterial strain was targeted for enhanced spore production using a cost-effective plant-based medium?",
+    "a": "Bacillus amyloliquefaciens CN12"
+  },
+  {
+    "q": "According to the January 6, 2026 Nature Medicine study by Dong Keon Yon, Soeun Kim, and Jiyeon Oh, what was the general trend in chronic respiratory disease mortality between 1990 and 2023?",
+    "a": "Mortality declined, especially during the COVID-19 pandemic, but the burden on affected people remained substantial."
+  },
+  {
+    "q": "In the December 19, 2025 Scientific Reports article, what type of medical monitoring system was described as open-source and multi-wavelength?",
+    "a": "A non-invasive blood glucose sensing system"
+  },
+  {
+    "q": "What was the primary finding of the January 15, 2026 Nature Medicine phase 3 trial led by Guy E. Thwaites regarding genotype-stratified dexamethasone for tuberculous meningitis in HIV-negative adults?",
+    "a": "Outcomes were not significantly better according to the LTA4H genotype stratification."
+  },
+  {
+    "q": "Which journal published the January 13, 2021 research by Le Van Trung, Nguyen Thi Thu Hang, and Nguyen Thi Kim Ngan on Vietnamese narrative culture?",
+    "a": "Humanities and Social Sciences Communications"
+  },
+  {
+    "q": "In the January 27, 2026 Scientific Reports study, what two factors were investigated as predictors of help-seeking attitudes among university students under perceived stress?",
+    "a": "Psychological and religious predictors"
+  },
+  {
+    "q": "What specific health condition's prevalence, incidence, and risk factors were analyzed in the January 2, 2024 Scientific Reports article titled 'the Vietnam Osteoporosis Study'?",
+    "a": "Vertebral fracture"
+  },
+  {
+    "q": "According to the April 22, 2025 Nature Medicine study by Nicholas J. Kassebaum, Yejun Son, and Sooji Lee, which demographic groups remained at high risk for dietary iron deficiency-associated disease burden despite global improvements from 1990 to 2021?",
+    "a": "Women, children, and residents in low socio-demographic index countries"
+  },
+  {
+    "q": "In the January 16, 2026 Nature Medicine study by Dong Keon Yon, Hyeon Jin Kim, and Jiseung Kang, which country was identified as particularly experiencing increasing prevalence and burden of drug use disorders between 1990 and 2023?",
+    "a": "The USA"
+  },
+  {
+    "q": "What cross-sectional study published in Scientific Reports on May 30, 2025, by Minh Cong Tran, Ha Thu Thi To, and Trang Thi Nguyen examined pregnant women in Vietnam?",
+    "a": "A study on the prevalence of common autosomal recessive and X-linked conditions"
+  },
+  {
+    "q": "What is the name of the multi-modal expert-level academic benchmark described in the January 28, 2026 Nature article by Davide Scaramuzza, Alice Gatti, and Long Phan?",
+    "a": "Humanity’s Last Exam"
+  },
+  {
+    "q": "In the July 5, 2025 Humanities and Social Sciences Communications article by Van Dat Tran and Duc Trung Nguyen, what variable was found to moderate the impact of the community of inquiry on university students’ behavioral intention towards blended learning in Vietnam?",
+    "a": "Understanding Covid-19"
+  },
+  {
+    "q": "What distinct patterns were uncovered by liquid biopsy in the August 12, 2021 Scientific Reports study by Le Son Tran, Ngoc-Phuong Thi Cao, and Hoai-Nghia Nguyen?",
+    "a": "Distinct patterns of DNA methylation and copy number changes in NSCLC patients with different EGFR-TKI resistant mutations"
+  },
+  {
+    "q": "Which clinical evaluation published in Scientific Reports on June 26, 2024, by Alberto Gomez, Nguyen Van Hao, and Phung Tran Huy Nhat focused on ICU patients?",
+    "a": "An evaluation of AI-assisted muscle ultrasound for monitoring muscle wasting"
+  },
+  {
+    "q": "What composite film material was the subject of the May 8, 2020 Scientific Reports experimental and numerical study by Dinh Lam Nguyen, Minh Duc Tran, and Dung T. Nguyen?",
+    "a": "ZnO nanorods/CuO composite film"
+  },
+  {
+    "q": "In the November 26, 2025 Scientific Reports article, what is the name of the motion-dependent physics-informed deep learning framework developed by Nhat Phan Minh, Hoai Tran Van, and Khang Ta Gia?",
+    "a": "ThoR"
+  },
+  {
+    "q": "What rich dataset for anatomical landmarks and lung cancer lesion recognition was introduced in the March 28, 2024 Scientific Data article by Le Sy Vinh, Anh Duc Hoang, and Van Giap Vu?",
+    "a": "BM-BronchoLC"
+  },
+  {
+    "q": "According to the November 11, 2019 Nature Ecology & Evolution study by Andrew Tilker, Van Bang Tran, and An Nguyen, how long had it been since the last scientifically confirmed sightings of the silver-backed chevrotain in the wild before their study?",
+    "a": "More than 25 years"
+  },
+  {
+    "q": "What reference values were established in the January 18, 2021 European Journal of Clinical Nutrition article by Tuan V. Nguyen, Nghi V. Le, and Huy G. Nguyen?",
+    "a": "Body composition parameters for Vietnamese men and women"
+  },
+  {
+    "q": "In the January 23, 2026 Scientific Reports study by Thuat T. Trinh, Nguyen-Hieu Hoang, and Duc Toan Truong, which materials were analyzed for mechanical stability and thermodynamic properties as battery anode materials?",
+    "a": "GeP and GeP3"
+  },
+  {
+    "q": "What potential novel bacteriophages were studied in the October 24, 2025 Scientific Reports article by Hoang A. Hoang, Pham T. Cam, and Trong-Tuong Ho?",
+    "a": "Bacteriophages against multidrug-resistant Edwardsiella tarda isolates from striped catfish Pangasianodon hypophthalmus"
+  },
+  {
+    "q": "Which machine learning models and stability factors were used in the December 21, 2025 Scientific Reports prediction study by Hung-Thinh Pham-Tran, Tan Nguyen, and Tran Vu-Hoang?",
+    "a": "Terzaghi stability factors and Kolmogorov Arnold networks"
+  },
+  {
+    "q": "What specific patient population was studied in the October 29, 2022 npj Biofilms and Microbiomes article by Hao Chung The, Trang Nguyen Hoang Thu, and Hoang N. H. Tran?",
+    "a": "Vietnamese colorectal cancer patients"
+  },
+  {
+    "q": "In the November 9, 2024 Humanities and Social Sciences Communications article by Minh-Hoang Nguyen, Minh-Phuong Thi Duong, and Quan-Hoang Vuong, what values were found to shape biodiversity loss belief among Vietnamese urban residents?",
+    "a": "The aesthetic and diversity values of plants and pets"
+  },
+  {
+    "q": "What sex-difference was investigated in the May 16, 2018 Scientific Reports study by Tuan V. Nguyen, Thao P. Ho-Le, and Lan T. Ho-Pham?",
+    "a": "Bone architecture and bone fragility in Vietnamese individuals"
+  }
+]

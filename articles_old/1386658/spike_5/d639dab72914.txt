@@ -1,0 +1,75 @@
+The Trump administration ordered federal agencies and contractors that work with the military to cease business with Anthropic after the company refused to allow the Pentagon to use its artificial-intelligence technology without restrictions.
+
+Government agencies, including the Pentagon, have six months to phase out use of Anthropic’s products, President Donald Trump said in a post on Truth Social on Friday afternoon. Defense Secretary Pete Hegseth later said on X that Anthropic will be deemed a “supply chain risk,” a type of designation usually reserved for companies thought to be extensions of foreign adversaries.
+
+The dramatic move caps a weeklong showdown between a leading AI company and the government that could shape the future of how the rapidly developing technology is used.
+
+Anthropic has been at odds with the Pentagon over restrictions placed on its popular AI model.
+
+“We believe this designation would both be legally unsound and set a dangerous precedent for any American company that negotiates with the government,” Anthropic said in a statement Friday. “No amount of intimidation or punishment from the Department of War will change our position on mass domestic surveillance or fully autonomous weapons. We will challenge any supply chain risk designation in court.”
+
+The Pentagon, which uses Anthropic’s Claude AI system on its classified networks, wants to be able to use it for “all lawful purposes.” But Anthropic has two redlines for the Pentagon: that Claude will not be used in autonomous weapons, and that it will not be used in the mass surveillance of US citizens.
+
+The Pentagon claims that it has no interest in using AI for and that it needs the freedom to use the technology it is licensing.
+
+## How we got here
+
+The standoff came to a head on Tuesday at a high-stakes meeting at the Pentagon between Hegseth and Anthropic CEO Dario Amodei. While a source familiar with the matter said the meeting was cordial, Trump’s comments on Friday suggest the situation changed.
+
+Anthropic on Thursday announced it had no intention of acquiescing to the Pentagon’s demands.
+
+“Threats do not change our position: we cannot in good conscience accede to their request,” the Amodei said in a statement.
+
+Emil Michael, the Pentagon’s under secretary for research and engineering, said in an interview with Bloomberg that they were “at the final stages” of a deal with Anthropic that would have “agreed to what they wanted in substance” when the company made its Thursday statement.
+
+“This is a simple, common-sense request that will prevent Anthropic from jeopardizing critical military operations and potentially putting our warfighters at risk,” Pentagon spokesperson Sean Parnell wrote on X. “We will not let ANY company dictate the terms regarding how we make operational decisions.”
+
+Trump said on Truth Social on Friday that Anthropic has made a “disastrous mistake” and accused it of trying to dictate how the military operates. Shortly after Trump’s post, the General Services Administration said it would remove Anthropic from USAi.gov, the federal government’s centralized testing ground for AI tools.
+
+“No contractor, supplier, or partner that does business with the United States military” will be permitted to do business with Anthropic, Hegseth said on Friday.
+
+## What work did Anthropic do with the Pentagon?
+
+Anthropic’s Claude was the first AI model to work on the military’s classified networks. The company struck a contract worth up to $200 million with the Pentagon last summer. Other major AI companies like OpenAI have only struck deals with the Pentagon on their unclassified networks.
+
+Within Anthropic’s “acceptable use policy” in the contract are prohibitions against the use of Claude in mass surveillance and autonomous weapons.
+
+“This dispute comes at an awkward time because on the one hand, the user base within the Department of Defense loves Anthropic, loves Claude, and says that their restrictions on usage, at least from the conversations that I have been having, have never been triggered,” Gregory Allen, a senior advisor at the Center for Strategic and International Studies, said on Bloomberg Radio.
+
+But the Pentagon doesn’t want to be constrained by a company’s policies. A Pentagon official told CNN: “You can’t lead tactical (operations) by exception,” and “legality is the Pentagon’s responsibility as the end user.”
+
+In the Pentagon’s view, it doesn’t want to be in the middle of a national security situation, needing to ask a company for permission and guardrails to be dropped.
+
+Cutting ties with Anthropic could be a headache for the Pentagon as well, considering they would need to replace any internal systems that use Claude. Though a Pentagon official said Elon Musk’s Grok AI system is “on board with being used in a classified setting,” Grok is not viewed as being as advanced as Claude.
+
+## How does this affect Anthropic’s business?
+
+Losing a $200 million contract would not pose an existential threat for Anthropic, which was recently valued at around $380 billion. The bigger risk is the supply chain risk designation, which means any company that works with the US military would have to prove they don’t touch anything related to Anthropic in their work with the Pentagon.
+
+Much of Anthropic’s success stems from its enterprise contracts with big companies – many of which may have contracts with the Pentagon.
+
+“It means that Anthropic’s existing customer base, some large portion of it might evaporate, either because they have government contracts or might want them in the future,” said Adam Connor, vice president for technology policy at the Center for American Progress, a Washington think tank.
+
+Jensen Huang, CEO of major AI chipmaker Nvidia, said that while he hopes the Pentagon and Anthropic can come to an agreement, “if it doesn’t get worked out, it’s also not the end of the world” since there are other AI companies the Pentagon can work with and Anthropic has other customers.
+
+Earlier this week, the Pentagon had said that it would also consider compelling Anthropic to work with them via the Defense Procurement Act, a 1950 law that “gives the president significant emergency authority to control domestic industries,” according to the Council on Foreign Relations. It’s not clear if or how the Pentagon would be able to both compel Anthropic to work with them via the DPA and deem them a supply chain risk.
+
+Trump’s post did not say whether the DPA would be used.
+
+Anthropic isn’t the only company under threat, Connor said. The Pentagon’s move is a signal to other AI companies looking to make millions selling their services to the government.
+
+“I think in the broader sense, this sends a message to the other AI companies that they are negotiating with to make sure they do not attempt to put any sort of restrictions on AI’s uses,” said Connor.
+
+If the Pentagon was simply unhappy with Anthropic’s conditions for its model, it could simply terminate the contract and get the AI model it wants from another company, said Alan Rozenshtein, a law professor at the University of Minnesota.
+
+“What the government really wants is it wants is to keep using Anthropic’s technology, and it’s just using every source of leverage possible,” he said. “This is a very powerful source of leverage.”
+
+It’s unclear how the military would replace Anthropic’s systems, or if the administration plans to take further action at this time.
+
+“To take a domestic AI champion at a time when the White House is saying that the AI race with China is equivalent to the space race during the Cold War with the Soviet Union — you do not want to take one of the crown jewels of your industry and light it on fire over something like this,” Allen said on Bloomberg.
+
+“There is a better way to resolve this dispute than the absolutist stance the administration has taken.”
+
+CNN’s Chris Isidore contributed to this report.
+
+This story has been updated with additional content.

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On which specific day in early March 2026 did Qatar announce it would fully shut its gas liquefaction operations?",
+    "a": "Wednesday, March 4, 2026."
+  },
+  {
+    "q": "Which two nations conducted attacks on Iran that precipitated the regional tensions leading to Qatar's shutdown?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "What specific retaliatory action by Iran prompted security concerns for Qatar's energy infrastructure?",
+    "a": "Tehran’s retaliatory strikes across the region."
+  },
+  {
+    "q": "According to Reuters sources, how long will it take for Qatar to reach full capacity after restarting its liquefaction facilities?",
+    "a": "At least another 2 weeks."
+  },
+  {
+    "q": "What is the primary reason cited for Qatar's decision to completely halt its liquefaction facilities?",
+    "a": "Growing security concerns over the widening conflict involving Iran, the United States, and Israel."
+  },
+  {
+    "q": "How does Qatar rank globally in terms of liquefied natural gas (LNG) exports?",
+    "a": "Among the world’s largest LNG exporters."
+  },
+  {
+    "q": "Which news agency provided the sources familiar with Qatar's decision to shut down gas liquefaction operations?",
+    "a": "Reuters."
+  },
+  {
+    "q": "What type of infrastructure is affected by the shutdown announced by Qatar in March 2026?",
+    "a": "Liquefied natural gas (LNG) production infrastructure."
+  },
+  {
+    "q": "What role does Qatar's LNG production infrastructure play in global energy markets?",
+    "a": "It plays a critical role in global energy markets."
+  },
+  {
+    "q": "Who are the two Reuters sources described as being close to the matter regarding Qatar's shutdown?",
+    "a": "Two Reuters sources close to the matter (specific identities not provided in the text)."
+  },
+  {
+    "q": "What is the estimated timeline for restarting operations once Qatar's facilities are halted?",
+    "a": "It will take considerable time, with at least 2 weeks needed to reach full capacity after restart."
+  },
+  {
+    "q": "Which Gulf nation is among the world’s largest LNG exporters and announced a full shutdown in March 2026?",
+    "a": "Qatar."
+  },
+  {
+    "q": "What specific event in the Middle East escalated tensions leading to Qatar's operational halt?",
+    "a": "US and Israeli attacks on Iran and Tehran’s retaliatory strikes."
+  },
+  {
+    "q": "According to early assessments, what is the nature of the process to bring Qatar's facilities back online?",
+    "a": "The process will take time."
+  },
+  {
+    "q": "What is the full name of the organization that conducted attacks on Iran alongside Israel?",
+    "a": "The United States."
+  },
+  {
+    "q": "What is the capital city of the nation conducting retaliatory strikes across the region?",
+    "a": "Tehran."
+  },
+  {
+    "q": "In which month and year did The Times of India publish the report on Qatar's gas shutdown?",
+    "a": "March 2026."
+  },
+  {
+    "q": "What specific operational status did Qatar plan to achieve after restarting its facilities?",
+    "a": "Full capacity."
+  },
+  {
+    "q": "Which country's energy infrastructure is critical to global markets and was fully shut down in March 2026?",
+    "a": "Qatar."
+  },
+  {
+    "q": "What is the minimum time required for Qatar to reach full capacity after a complete shutdown, according to sources?",
+    "a": "At least 2 weeks."
+  },
+  {
+    "q": "Which three countries are explicitly involved in the widening conflict mentioned in the report?",
+    "a": "Iran, the United States, and Israel."
+  },
+  {
+    "q": "What type of gas operations did Qatar fully shut down in response to regional tensions?",
+    "a": "Gas liquefaction operations."
+  },
+  {
+    "q": "Who provided the information about Qatar's shutdown to Reuters?",
+    "a": "Sources familiar with the matter."
+  },
+  {
+    "q": "What is the specific duration mentioned for Qatar to return to full production capacity post-shutdown?",
+    "a": "At least another 2 weeks."
+  },
+  {
+    "q": "Which nation's retaliatory strikes across the region were cited as a security concern for Qatar?",
+    "a": "Iran."
+  }
+]

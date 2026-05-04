@@ -1,0 +1,65 @@
+{
+  "spike_index": 5,
+  "direction": "up",
+  "price_before": 0.505,
+  "price_after": 0.993,
+  "delta": 0.488,
+  "abs_delta": 0.488,
+  "timestamp_before": "2026-02-28T00:30:25+00:00",
+  "timestamp_after": "2026-03-01T00:00:33+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.cnn.com/2026/03/01/middleeast/iran-new-supreme-leader-khamenei-dead-intl-latam",
+      "file": "39e90c202fed.txt",
+      "title": "Who\u2019s running Iran now that the supreme leader is dead? | CNN",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Christian Edwards",
+      "text_length": 8678,
+      "status": "ok",
+      "num_tokens": 1871
+    },
+    {
+      "url": "https://www.reuters.com/world/middle-east/khamenei-killing-shatters-irans-order-triggers-high-stakes-succession-race-2026-03-01/",
+      "file": "31664da60645.txt",
+      "title": "Khamenei killing shatters Iran's order, triggers high-stakes succession race | Reuters",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Samia Nakhoul",
+      "text_length": 6555,
+      "status": "ok",
+      "num_tokens": 1256
+    },
+    {
+      "url": "https://www.axios.com/2026/02/28/iran-khamenei-killed-israel",
+      "file": "323efd73d56c.txt",
+      "title": "Iranian state media confirms Supreme Leader Khamenei is dead",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Barak Ravid,Zachary Basu,Avery Lotz",
+      "text_length": 4703,
+      "status": "ok",
+      "num_tokens": 994
+    },
+    {
+      "url": "https://www.axios.com/2026/02/28/iran-attack-supreme-leader-ali-khamenei",
+      "file": "b19feb2f5689.txt",
+      "title": "Israel targets Khamenei, top leaders in bid to bring down Iran's regime",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Zachary Basu",
+      "text_length": 2353,
+      "status": "ok",
+      "num_tokens": 475
+    },
+    {
+      "url": "https://www.thetimes.com/world/middle-east/article/ayatollah-khamenei-death-end-islamic-revolution-d0ljvcwdm?gaa_at=eafs&gaa_n=AWEtsqfCUDFtOGlmt-tVBz4L6S7lfzTCdGewtZP_V4ANjBAGAXSEeZ7c1b6p&gaa_sig=GtBoZ38Z_ObBdtrhRiY0hA46wgyrsxttZvPWn97cLaGVCuSESLmA_WGVHARH3DWl-GzJEhKAIYrPnP2pZEqurg%3D%3D&gaa_ts=69a55fe0",
+      "file": "3e7a6334f775.txt",
+      "title": "Could Ayatollah Khamenei\u2019s death mark the end of the Islamic Revolution?",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Roger Boyes",
+      "text_length": 5730,
+      "status": "ok",
+      "num_tokens": 1209
+    }
+  ],
+  "total_tokens": 5805
+}

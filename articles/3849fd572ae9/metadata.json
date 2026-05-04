@@ -1,0 +1,27 @@
+{
+  "hash": "3849fd572ae9",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/middle-east/us-is-sinking-irans-navy-trump-says-2026-03-01/",
+      "title": "US is sinking Iran's Navy, Trump says | Reuters",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Phil Stewart",
+      "num_tokens": 213,
+      "text_length": 1014
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1466575",
+      "spike_id": 3,
+      "market_question": "Trump announces end of military operations against Iran by March 31st?",
+      "event_title": "Trump announces end of military operations against Iran by ...?",
+      "spike_direction": "down",
+      "spike_delta": -0.16499999999999992,
+      "spike_timestamp_before": "2026-02-28T22:00:37+00:00",
+      "spike_timestamp_after": "2026-03-01T07:00:29+00:00"
+    }
+  ]
+}

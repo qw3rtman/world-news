@@ -1,0 +1,106 @@
+[
+  {
+    "q": "What are the specific start and end dates for US President Donald Trump's scheduled visit to China as announced in February 2026?",
+    "a": "March 31 to April 2, 2026."
+  },
+  {
+    "q": "Which US Supreme Court decision in late February 2026 impacted the trade context for President Trump's upcoming visit to China?",
+    "a": "The court overturned sweeping tariffs on imported goods imposed under the International Emergency Economic Powers Act."
+  },
+  {
+    "q": "Under which specific US legal authority were the 20 per cent tariffs on China’s US-bound exports imposed that the Supreme Court ruled were overstepped?",
+    "a": "The International Emergency Economic Powers Act."
+  },
+  {
+    "q": "Which two specific US trade authorities, distinct from the International Emergency Economic Powers Act, remain in place for duties on Chinese goods according to the February 2026 report?",
+    "a": "Section 301 and Section 232."
+  },
+  {
+    "q": "What new global tariff rate did US President Donald Trump propose imposing for 150 days following the Supreme Court's ruling in February 2026?",
+    "a": "A new 10 per cent global tariff."
+  },
+  {
+    "q": "In which city and country did US President Donald Trump and Chinese President Xi Jinping last meet in person before the scheduled March 2026 visit?",
+    "a": "Busan, South Korea, during the Asia-Pacific Economic Cooperation summit in October 2025."
+  },
+  {
+    "q": "What specific trade truce measures did Beijing agree to in exchange for US President Trump trimming tariffs on Chinese goods in late 2025?",
+    "a": "Cracking down on the illicit fentanyl trade and pausing export restrictions on critical minerals."
+  },
+  {
+    "q": "Which US arms sale approval to Taiwan, announced in December 2025, is cited as the largest in the context of the February 2026 trade discussions?",
+    "a": "US$11.1 billion in weapons."
+  },
+  {
+    "q": "What agricultural commodity did Chinese President Xi Jinping indicate he would consider increasing purchases from the US during a February 2026 phone call with President Trump?",
+    "a": "Soya beans."
+  },
+  {
+    "q": "Which US president made the most recent prior trip to China in 2017, before President Donald Trump's scheduled 2026 visit?",
+    "a": "US President Donald Trump."
+  },
+  {
+    "q": "What national emergency justifications did the Supreme Court rule President Trump overstepped when imposing the 20 per cent tariffs on China?",
+    "a": "National emergencies related to fentanyl distribution and trade imbalances."
+  },
+  {
+    "q": "Which organization's expert, Dr Scott Kennedy, commented that the Supreme Court ruling likely cemented President Trump's weakness in the eyes of Chinese officials in February 2026?",
+    "a": "The Center for Strategic and International Studies."
+  },
+  {
+    "q": "Which economic analyst from the Peterson Institute of International Economics suggested that the Supreme Court ruling could indirectly increase pressure on Beijing due to differing tariff impacts?",
+    "a": "Mr Martin Chorzempa."
+  },
+  {
+    "q": "What specific display requirement did US President Donald Trump tell foreign leaders visiting Washington on Feb 19, 2026, regarding his upcoming China trip?",
+    "a": "He said they have to put on the biggest display you’ve ever had in the history of China."
+  },
+  {
+    "q": "Which media organization first reported the dates of US President Donald Trump's March 2026 trip to China before the Chinese embassy commented?",
+    "a": "Reuters."
+  },
+  {
+    "q": "What sensitive geopolitical issue did Chinese President Xi Jinping raise with US President Donald Trump during a phone call in February 2026, which was largely sidestepped in their October 2025 meeting?",
+    "a": "US arms sales to Taiwan."
+  },
+  {
+    "q": "Which two countries' trade relations were described as stabilizing in early 2026 after President Trump trimmed tariffs in exchange for Beijing's fentanyl and mineral measures?",
+    "a": "The United States and China."
+  },
+  {
+    "q": "What specific threat from Beijing did Dr Scott Kennedy of the Center for Strategic and International Studies cite as making President Trump 'play defence' in the trade war?",
+    "a": "Beijing’s threat to cut off rare earths."
+  },
+  {
+    "q": "Which region's effective tariff rates might fall more than those on China according to Mr Martin Chorzempa, potentially increasing pressure on Beijing?",
+    "a": "Southeast Asia."
+  },
+  {
+    "q": "What specific action did the Chinese embassy in Washington take regarding the announcement of President Trump's March 2026 visit dates?",
+    "a": "It declined to comment on the dates of the trip."
+  },
+  {
+    "q": "Which two national emergencies were cited by the Trump administration as justification for the global tariffs that were partly overturned by the Supreme Court?",
+    "a": "Trade imbalances that weakened US manufacturing and fentanyl distribution."
+  },
+  {
+    "q": "What specific policy areas did President Trump ease toward Beijing in the months leading up to February 2026, despite initiating a global trade war in January 2025?",
+    "a": "Tariffs, advanced computer chips, and drones."
+  },
+  {
+    "q": "Which US president's 2017 trip to China is identified as the most recent presidential visit to China prior to the scheduled March 2026 trip?",
+    "a": "US President Donald Trump."
+  },
+  {
+    "q": "What specific percentage of tariffs on China’s US-bound exports were imposed under the International Emergency Economic Powers Act before being struck down?",
+    "a": "Twenty per cent."
+  },
+  {
+    "q": "Which US president's second term began in January 2025, initiating the global trade war that influenced the February 2026 Supreme Court ruling?",
+    "a": "US President Donald Trump."
+  },
+  {
+    "q": "What specific weapon sale value to Taiwan was announced in December 2025, which Chinese President Xi Jinping referenced in February 2026 discussions?",
+    "a": "US$11.1 billion."
+  }
+]

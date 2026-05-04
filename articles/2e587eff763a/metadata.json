@@ -1,0 +1,47 @@
+{
+  "hash": "2e587eff763a",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://uk.reuters.com/world/middle-east/israel-says-troops-launch-limited-operations-against-hezbollah-south-lebanon-2026-03-16/",
+      "title": "Reuters | Breaking International News & Views",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 46,
+      "text_length": 236
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "677397",
+      "spike_id": 22,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.18000000000000005,
+      "spike_timestamp_before": "2026-03-14T13:00:35+00:00",
+      "spike_timestamp_after": "2026-03-15T03:30:25+00:00"
+    },
+    {
+      "market_id": "677397",
+      "spike_id": 23,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.20999999999999996,
+      "spike_timestamp_before": "2026-03-14T14:30:26+00:00",
+      "spike_timestamp_after": "2026-03-15T14:00:29+00:00"
+    },
+    {
+      "market_id": "677397",
+      "spike_id": 24,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.20499999999999996,
+      "spike_timestamp_before": "2026-03-15T14:00:29+00:00",
+      "spike_timestamp_after": "2026-03-15T18:00:35+00:00"
+    }
+  ]
+}

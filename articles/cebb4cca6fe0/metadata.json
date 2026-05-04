@@ -1,0 +1,27 @@
+{
+  "hash": "cebb4cca6fe0",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/883456/anthropic-pentagon-department-of-defense-negotiations",
+      "title": "Inside Anthropic’s existential negotiations with the Pentagon | The Verge",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": "Tina Nguyen",
+      "num_tokens": 2188,
+      "text_length": 11186
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "700396",
+      "spike_id": 1,
+      "market_question": "Will Perplexity AI be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.20999999999999996,
+      "spike_timestamp_before": "2026-02-23T16:00:29+00:00",
+      "spike_timestamp_after": "2026-02-24T11:30:30+00:00"
+    }
+  ]
+}

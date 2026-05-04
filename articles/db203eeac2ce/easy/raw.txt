@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On what date did U.S. elite troops capture Venezuelan President Nicolás Maduro, an event that shifted the political landscape and led to the opposition preparing for new elections?",
+    "a": "January 3, 2026"
+  },
+  {
+    "q": "Who was the candidate backed by María Corina Machado who achieved a landslide victory in the July 28, 2024, Venezuelan presidential election?",
+    "a": "Edmundo González"
+  },
+  {
+    "q": "According to the tally sheets collected by election observers, what percentage of the votes did Edmundo González obtain in the July 28, 2024, Venezuelan presidential election?",
+    "a": "67%"
+  },
+  {
+    "q": "In which city is Nicolás Maduro currently imprisoned following his capture by U.S. troops in January 2026?",
+    "a": "New York"
+  },
+  {
+    "q": "Which international organization received the voter tallies from the July 28, 2024, Venezuelan election, supporting diplomatic complaints against the regime?",
+    "a": "The Organization of American States"
+  },
+  {
+    "q": "In which country's bank vaults were the material proof of the 2024 Venezuelan election fraud stored?",
+    "a": "Panama"
+  },
+  {
+    "q": "Which three phases of political process did U.S. Secretary of State Marco Rubio announce for Venezuela following the January 3, 2026, U.S. military intervention?",
+    "a": "Stabilization, reconstruction, and transition"
+  },
+  {
+    "q": "Which Venezuelan opposition leader announced in March 2026 that she would return to Venezuela to prepare for new elections?",
+    "a": "María Corina Machado"
+  },
+  {
+    "q": "What is the name of the organization led by Henry Alviárez that coordinated the defense of the vote on July 28, 2024, and whose members were recently released from prison?",
+    "a": "Comando Con Venezuela"
+  },
+  {
+    "q": "Which political party's secretary general, Henry Ramos Allup, announced support for a potential María Corina Machado candidacy in March 2026?",
+    "a": "Democratic Action"
+  },
+  {
+    "q": "Which Venezuelan Interior Minister warned María Corina Machado in March 2026 that he had a \"surprise\" in store for her upon her return?",
+    "a": "Diosdado Cabello"
+  },
+  {
+    "q": "Who is the current leader of the Chavista government in Venezuela as of March 2026?",
+    "a": "Delcy Rodríguez"
+  },
+  {
+    "q": "Which two Venezuelan institutions essential for elections remain under the control of structures that endorsed the 2024 results, according to the March 2026 article?",
+    "a": "The National Electoral Council (CNI) and the Supreme Court"
+  },
+  {
+    "q": "Which former presidential candidate, who appeared in Washington during Donald Trump’s State of the Union address, said he was not ruling out running for president again in March 2026?",
+    "a": "Enrique Márquez"
+  },
+  {
+    "q": "In which year did the Venezuelan presidential election take place that Edmundo González won according to opposition tallies, but which Nicolás Maduro refused to relinquish power from?",
+    "a": "2024"
+  },
+  {
+    "q": "What specific electoral issue is María Corina Machado’s team working on discreetly in March 2026, which has been denounced by the opposition for years?",
+    "a": "The voter registry"
+  },
+  {
+    "q": "Which organization dedicated to defending the vote was the starting point of María Corina Machado’s political career before she became the most influential opposition figure?",
+    "a": "Súmate"
+  },
+  {
+    "q": "How many countries, including the United States and the 27 members of the European Union, recognized Edmundo González as president-elect after the July 28, 2024, election?",
+    "a": "More than 30"
+  },
+  {
+    "q": "Which Venezuelan opposition leader, who spent nearly two years in prison, was released in February 2026 and stated that July 28 is a fact but new elections should be allowed?",
+    "a": "Henry Alviárez"
+  },
+  {
+    "q": "What slogan did the hardline Venezuelan opposition maintain for more than a year after the July 28, 2024, election to justify abstaining from subsequent local and legislative elections?",
+    "a": "\"Venezuelans have already voted\""
+  },
+  {
+    "q": "Which two bodies in the Venezuelan government resigned in early 2026, interpreted as signs of reforms underway by the Delcy Rodríguez administration?",
+    "a": "The attorney general and the ombudsman"
+  },
+  {
+    "q": "What did U.S. Secretary of State Marco Rubio announce a few days before March 6, 2026, regarding the first phase of the three-phase roadmap for Venezuela?",
+    "a": "That the stabilization phase had already been completed"
+  },
+  {
+    "q": "Which Venezuelan political party did María Corina Machado lead, maintaining that participating in post-2024 elections was tantamount to accepting the regime's attempt to sideline the July 28 results?",
+    "a": "Vente Venezuela"
+  },
+  {
+    "q": "According to María Corina Machado in March 2026, what is the feasible timeframe for organizing new elections if real guarantees and minimal institutional conditions are put in place?",
+    "a": "Less than a year"
+  },
+  {
+    "q": "Which U.S. President's State of the Union address did former political prisoner Enrique Márquez appear in Washington during, as reported in March 2026?",
+    "a": "Donald Trump"
+  }
+]

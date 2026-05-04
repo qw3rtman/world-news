@@ -1,0 +1,65 @@
+{
+  "spike_index": 5,
+  "direction": "down",
+  "price_before": 0.935,
+  "price_after": 0.705,
+  "delta": -0.2300000000000001,
+  "abs_delta": 0.2300000000000001,
+  "timestamp_before": "2026-03-16T17:00:34+00:00",
+  "timestamp_after": "2026-03-17T16:30:40+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://apnews.com/article/france-paris-mayor-municipal-elections-far-right-34784eeeaf04f4735f7e8e3ed33c23ad",
+      "file": "78b6672acb91.txt",
+      "title": "France\u2019s far right makes gains in first-round municipal elections ahead of runoff | AP News",
+      "published_date": "2026-03-17T17:24:27.986Z",
+      "author": null,
+      "text_length": 5144,
+      "status": "ok",
+      "num_tokens": 1069
+    },
+    {
+      "url": "https://france24.com/en/france/20260315-left-wing-candidate-emmanuel-gregoire-tops-first-round-paris-mayoral-race-rachida-dati",
+      "file": "633d14efceb8.txt",
+      "title": "Socialist leads Paris mayoral race but leftist rival threatens to split vote - France 24",
+      "published_date": "2026-03-15T00:00:00.000Z",
+      "author": null,
+      "text_length": 4327,
+      "status": "ok",
+      "num_tokens": 948
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-15/socialists-lead-paris-election-ahead-of-runoff-with-center-right",
+      "file": "1b9c5022c099.txt",
+      "title": "Socialists Lead Paris Mayoral Race, Gregoire Tops First Round Vote - Bloomberg",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "Ania Nussbaum",
+      "text_length": 297,
+      "status": "ok",
+      "num_tokens": 61
+    },
+    {
+      "url": "https://www.france24.com/en/live-news/20260316-race-for-paris-mayor-on-knife-s-edge-after-first-round",
+      "file": "ebd30e88020b.txt",
+      "title": "Race for Paris mayor on knife's edge after first round",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": null,
+      "text_length": 4125,
+      "status": "ok",
+      "num_tokens": 913
+    },
+    {
+      "url": "https://www.france24.com/en/video/20260317-who-will-win-the-race-to-become-paris-mayor",
+      "file": "398a86dc7a7f.txt",
+      "title": "Who will win the race to become Paris mayor? - France 24",
+      "published_date": "2026-03-17T00:00:00.000Z",
+      "author": null,
+      "text_length": 75,
+      "status": "ok",
+      "num_tokens": 26
+    }
+  ],
+  "total_tokens": 3017
+}

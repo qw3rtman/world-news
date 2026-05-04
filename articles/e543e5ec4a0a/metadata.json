@@ -1,0 +1,37 @@
+{
+  "hash": "e543e5ec4a0a",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://now.usatoday.com/story/news/politics/2026/02/28/us-strikes-iran-trump-gamble-wider-war/88916186007/",
+      "title": "USA TODAY - Breaking News and Latest News Today",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 82,
+      "text_length": 393
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1399067",
+      "spike_id": 1,
+      "market_question": "US strikes Iran by March 5, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.17500000000000002,
+      "spike_timestamp_before": "2026-02-27T08:30:24+00:00",
+      "spike_timestamp_after": "2026-02-27T11:00:25+00:00"
+    },
+    {
+      "market_id": "1399067",
+      "spike_id": 2,
+      "market_question": "US strikes Iran by March 5, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.27,
+      "spike_timestamp_before": "2026-02-27T08:30:24+00:00",
+      "spike_timestamp_after": "2026-02-27T14:30:25+00:00"
+    }
+  ]
+}

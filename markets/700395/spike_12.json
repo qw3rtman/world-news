@@ -1,0 +1,65 @@
+{
+  "spike_index": 12,
+  "direction": "up",
+  "price_before": 0.375,
+  "price_after": 0.71,
+  "delta": 0.33499999999999996,
+  "abs_delta": 0.33499999999999996,
+  "timestamp_before": "2026-03-19T04:00:42+00:00",
+  "timestamp_after": "2026-03-19T05:00:40+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2026/03/19/openai-to-acquire-developer-tooling-startup-astral.html",
+      "file": "98d3368b6b43.txt",
+      "title": "OpenAI to acquire developer tooling startup Astral",
+      "published_date": "2026-03-19T00:00:00.000Z",
+      "author": "Ashley Capoot",
+      "text_length": 1867,
+      "status": "ok",
+      "num_tokens": 377
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-acquires-astral-the-python-startup-whose-tools-run-on-millions-of-developer-machines/articleshow/129683748.cms",
+      "file": "4bc44f9e3119.txt",
+      "title": "Astral: OpenAI acquires Astral, the Python startup whose tools run on millions of developer machines | - The Times of India",
+      "published_date": "2026-03-19T00:00:00.000Z",
+      "author": "TOI Tech Desk  / TIMESOFINDIA.COM /   Mar 19, 2026, 22:04 IST",
+      "text_length": 3017,
+      "status": "ok",
+      "num_tokens": 586
+    },
+    {
+      "url": "https://www.cnbc.com/amp/2026/03/19/openai-to-acquire-developer-tooling-startup-astral.html",
+      "file": "2750b46d8340.txt",
+      "title": "OpenAI to acquire developer tooling startup Astral",
+      "published_date": "2026-03-19T00:00:00.000Z",
+      "author": "Ashley Capoot",
+      "text_length": 1763,
+      "status": "ok",
+      "num_tokens": 369
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/19/amazon-acquires-startup-rivr-to-test-robots-for-doorstep-delivery.html",
+      "file": "8270256f0c68.txt",
+      "title": "Amazon acquires startup Rivr to test robots for 'doorstep delivery'",
+      "published_date": "2026-03-19T00:00:00.000Z",
+      "author": "Annie Palmer",
+      "text_length": 3092,
+      "status": "ok",
+      "num_tokens": 591
+    },
+    {
+      "url": "http://polling.reuters.com/technology/openai-buy-python-toolmaker-astral-take-anthropic-2026-03-19/",
+      "file": "5b33e2e7c277.txt",
+      "title": "OpenAI to buy Python toolmaker Astral to take on Anthropic | Reuters",
+      "published_date": "2026-03-19T00:00:00.000Z",
+      "author": null,
+      "text_length": 1356,
+      "status": "ok",
+      "num_tokens": 300
+    }
+  ],
+  "total_tokens": 2223
+}

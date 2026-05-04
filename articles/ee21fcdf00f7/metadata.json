@@ -1,0 +1,27 @@
+{
+  "hash": "ee21fcdf00f7",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://reuters.com/world/paramount-expected-easily-secure-eu-nod-warner-bros-deal-sources-say-2026-02-27/",
+      "title": "Exclusive: Paramount expected to easily secure EU nod for Warner Bros deal, sources say | Reuters",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": "Foo Yun Chee",
+      "num_tokens": 519,
+      "text_length": 2699
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694939",
+      "spike_id": 5,
+      "market_question": "Will Ubisoft be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.16499999999999998,
+      "spike_timestamp_before": "2026-02-27T15:00:21+00:00",
+      "spike_timestamp_after": "2026-02-28T14:30:23+00:00"
+    }
+  ]
+}

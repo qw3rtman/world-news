@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In the March 2, 2026 news report regarding Nepal's upcoming election, which 35-year-old rapper-turned-politician is running for prime minister after serving three years as mayor of Kathmandu?",
+    "a": "Balendra Shah"
+  },
+  {
+    "q": "During the campaign rally in the Chitwan district of Nepal on March 2, 2026, what was the translated message of the AI-generated campaign song sung by supporters of Balendra Shah?",
+    "a": "\"Time's up, Fake leaders, Game Over. We'll ring the bell on 5 March.\""
+  },
+  {
+    "q": "In the 2026 Nepal general election context, which political party did Balendra Shah represent, and what was that party's placement in the previous 2022 general election?",
+    "a": "The Rastriya Swatantra Party (RSP), which came fourth in 2022"
+  },
+  {
+    "q": "Which former Prime Minister of Nepal was forced to resign in September 2025 following deadly anti-corruption protests, and is now facing Balendra Shah in the 2026 election?",
+    "a": "KP Sharma Oli"
+  },
+  {
+    "q": "According to the March 2, 2026 article, how many first-time voters are expected to participate in Nepal's 2026 election, out of a total eligible voter population of nearly 19 million?",
+    "a": "More than 915,000"
+  },
+  {
+    "q": "In the 2026 Nepal election, which two Communist parties and which centrist party have historically dominated Nepal's fragile government coalitions for more than three decades?",
+    "a": "The Communist Party of Nepal Unified Marxist–Leninist (CPN UML), the Nepali Communist Party CPN (Maoist Centre), and the Nepali Congress"
+  },
+  {
+    "q": "What specific youth unemployment rate, cited by the World Bank in the March 2, 2026 article, is a key issue in Balendra Shah's 2026 campaign for Nepal?",
+    "a": "20.6%"
+  },
+  {
+    "q": "In the constituency of Jhapa-5, which has long been a safe seat for KP Sharma Oli, who is the candidate chosen by Balendra Shah to run head-to-head against him in the 2026 election?",
+    "a": "KP Sharma Oli"
+  },
+  {
+    "q": "How many people were killed during the anti-corruption protests in Nepal last September that led to the resignation of Prime Minister KP Sharma Oli?",
+    "a": "Seventy-seven"
+  },
+  {
+    "q": "What initial event sparked the social media ban protests in Nepal that subsequently evolved into the deadly anti-corruption protests of September 2025?",
+    "a": "A social media ban"
+  },
+  {
+    "q": "Which political analyst, named in the March 2, 2026 article, stated that KP Sharma Oli believes the protests were an international conspiracy to oust him?",
+    "a": "Pande"
+  },
+  {
+    "q": "According to the March 2, 2026 report, what specific criticism did rights groups level against Balendra Shah during his tenure as mayor of Kathmandu?",
+    "a": "Using the police against street vendors in a heavy-handed manner"
+  },
+  {
+    "q": "Which 18-year-old protest participant, named in the article, stated that he supports Balendra Shah because he represents the values of the young people who died in the Gen-Z movement?",
+    "a": "Nandav Yadav"
+  },
+  {
+    "q": "In the 2026 Nepal election, which 40-year-old supporter of KP Sharma Oli claimed that the former PM was a victim of a \"grand design\" from outside forces?",
+    "a": "Sushil Karki"
+  },
+  {
+    "q": "Which 82-year-old supporter of KP Sharma Oli, named Narad Prashad Luitel, argued that Oli should be allowed to finish his work on roads and infrastructure?",
+    "a": "Narad Prashad Luitel"
+  },
+  {
+    "q": "According to Nishchal N Pandey, director of the Centre for South Asian Studies in Nepal, what type of contest are Nepali voters seeking in the 2026 election?",
+    "a": "A generational contest between the Gen Z and older politicians from the 1990s"
+  },
+  {
+    "q": "Which 20-year-old rally attendee, named Ispa Sapkota, expressed the sentiment that young Nepalis protested because they did not want the same old parties to rule the country?",
+    "a": "Ispa Sapkota"
+  },
+  {
+    "q": "In the March 2, 2026 article, what did KP Sharma Oli state would be his focus as prime minister if re-elected, specifically regarding sovereignty, peace, and democracy?",
+    "a": "To restore sovereignty, peace, and democracy in Nepal"
+  },
+  {
+    "q": "Which country's election, held just weeks before Nepal's March 2026 vote, is cited in the article as having been made possible by similar deadly anti-corruption protests led by young people?",
+    "a": "Bangladesh"
+  },
+  {
+    "q": "What specific electoral outcome would occur if Balendra Shah defeats KP Sharma Oli in the 2026 Nepal election, regarding the composition of the government?",
+    "a": "It would bring the first government or coalition without a communist party in many years"
+  },
+  {
+    "q": "According to the article, what method did Balendra Shah primarily use to communicate with voters during the 2026 campaign, avoiding traditional press interviews?",
+    "a": "Social media posts"
+  },
+  {
+    "q": "Which group of people, including toddlers, were observed crowding around KP Sharma Oli at one of his canvassing rallies in the March 2, 2026 report?",
+    "a": "Families"
+  },
+  {
+    "q": "What allegation have police, politicians, and some protesters made regarding the involvement of outside agitators in the September 2025 protests, which KP Sharma Oli's party has not provided evidence for?",
+    "a": "That outside agitators and politically driven groups were involved in the protests and subsequent violence"
+  },
+  {
+    "q": "In the 2026 Nepal election, which former Prime Minister is described by political analyst Pande as believing he still has a chance to win due to his party's large grassroots operation?",
+    "a": "KP Sharma Oli"
+  },
+  {
+    "q": "What specific date is cited in the AI-generated campaign song lyrics at the Chitwan rally as the day Nepalis will \"ring the bell\" in the 2026 election?",
+    "a": "5 March"
+  },
+  {
+    "q": "Which three major political parties are identified in the article as having dominated Nepal's revolving door of fragile government coalitions for more than three decades prior to the 2026 election?",
+    "a": "The Communist Party of Nepal Unified Marxist–Leninist (CPN UML), the Nepali Communist Party CPN (Maoist Centre), and the Nepali Congress"
+  }
+]

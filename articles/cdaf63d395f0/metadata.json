@@ -1,0 +1,97 @@
+{
+  "hash": "cdaf63d395f0",
+  "n_appearances": 8,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://links.message.bloomberg.com/s/c/61lxmTVi9FmLGe7FgcaqBOo1putbMbwMTyr96cGVRhavBdg4UeLk1E8E4c9i4mp4QpWB6Ofqxt2nnmSeI8Uj1h_G4J2HKkvdQ2QlSqqtJ8mAC05wf_hS1IfHA4KAMwMfVQJquC80YfO0FclnQ3wpit1UL6x1MC4Fr6rr5k1saaVIbbpNMWLF9yvVtEfM_j2O3wXuZTr9GOOkDNsfwEhHMKQ2G6fYnltwNhpXMensldWndR_IN_Jzvl4dc_FdiiFpFglwbfBcUtXyd6De9LKWyk1xsRvyjpXrNww6guFKvF6suAzYYYi65KNz5NvEyJI9LOM1Mz9qibQPzU2Uta73RLCJylASzbAgJAbK0VXVCjOGPKqItSzQktVdY74/NzXHI2qZiUnFoUsgG9S8Qsu3oSPwc0S5/18",
+      "title": "US x Iran ceasefire by...? Predictions & Odds | Polymarket",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 754,
+      "text_length": 3101
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1466012",
+      "spike_id": 1,
+      "market_question": "US x Iran ceasefire by March 2?",
+      "event_title": "US x Iran ceasefire by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.156,
+      "spike_timestamp_before": "2026-02-28T15:00:24+00:00",
+      "spike_timestamp_after": "2026-02-28T21:00:26+00:00"
+    },
+    {
+      "market_id": "1466015",
+      "spike_id": 1,
+      "market_question": "US x Iran ceasefire by March 31?",
+      "event_title": "US x Iran ceasefire by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.30500000000000005,
+      "spike_timestamp_before": "2026-02-28T14:30:22+00:00",
+      "spike_timestamp_after": "2026-02-28T15:30:22+00:00"
+    },
+    {
+      "market_id": "1466015",
+      "spike_id": 2,
+      "market_question": "US x Iran ceasefire by March 31?",
+      "event_title": "US x Iran ceasefire by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.20500000000000007,
+      "spike_timestamp_before": "2026-02-28T15:30:22+00:00",
+      "spike_timestamp_after": "2026-03-01T00:30:35+00:00"
+    },
+    {
+      "market_id": "1466015",
+      "spike_id": 3,
+      "market_question": "US x Iran ceasefire by March 31?",
+      "event_title": "US x Iran ceasefire by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.21499999999999997,
+      "spike_timestamp_before": "2026-02-28T22:00:28+00:00",
+      "spike_timestamp_after": "2026-03-01T21:00:25+00:00"
+    },
+    {
+      "market_id": "1466015",
+      "spike_id": 4,
+      "market_question": "US x Iran ceasefire by March 31?",
+      "event_title": "US x Iran ceasefire by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.21500000000000002,
+      "spike_timestamp_before": "2026-03-01T11:00:20+00:00",
+      "spike_timestamp_after": "2026-03-02T09:00:19+00:00"
+    },
+    {
+      "market_id": "1466016",
+      "spike_id": 1,
+      "market_question": "US x Iran ceasefire by April 30?",
+      "event_title": "US x Iran ceasefire by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.20500000000000007,
+      "spike_timestamp_before": "2026-02-28T22:00:39+00:00",
+      "spike_timestamp_after": "2026-03-01T21:30:53+00:00"
+    },
+    {
+      "market_id": "1484894",
+      "spike_id": 1,
+      "market_question": "US x Iran ceasefire by May 31?",
+      "event_title": "US x Iran ceasefire by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.265,
+      "spike_timestamp_before": "2026-03-02T18:00:51+00:00",
+      "spike_timestamp_after": "2026-03-03T16:00:31+00:00"
+    },
+    {
+      "market_id": "1484895",
+      "spike_id": 1,
+      "market_question": "US x Iran ceasefire by June 30?",
+      "event_title": "US x Iran ceasefire by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.15999999999999992,
+      "spike_timestamp_before": "2026-03-02T18:30:32+00:00",
+      "spike_timestamp_after": "2026-03-03T17:00:29+00:00"
+    }
+  ]
+}

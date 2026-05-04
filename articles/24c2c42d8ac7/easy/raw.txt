@@ -1,0 +1,102 @@
+[
+  {
+    "q": "As of 9:10 a.m. Eastern Time on February 23, 2026, what was the trading price of gold per ounce?",
+    "a": "$5,150 per ounce."
+  },
+  {
+    "q": "How did the price of gold per ounce on February 23, 2026, compare to the price on February 22, 2026?",
+    "a": "The price was the same on both days."
+  },
+  {
+    "q": "What was the year-over-year increase in the price of gold per ounce as of February 23, 2026, compared to February 23, 2025?",
+    "a": "The price increased by $2,197 per ounce."
+  },
+  {
+    "q": "On February 23, 2026, what specific time was cited for the gold price of $5,150 per ounce?",
+    "a": "9:10 a.m. Eastern Time."
+  },
+  {
+    "q": "What was the price of gold per ounce on February 23, 2025, given that it was $2,197 less than the price on February 23, 2026?",
+    "a": "$2,953 per ounce."
+  },
+  {
+    "q": "Did the price of gold per ounce change between February 22, 2026, and February 23, 2026?",
+    "a": "No, the price remained unchanged at $5,150 per ounce."
+  },
+  {
+    "q": "What is the total monetary increase in the price of gold per ounce over the one-year period ending February 23, 2026?",
+    "a": "$2,197."
+  },
+  {
+    "q": "As of February 23, 2026, how did the gold price compare to its value exactly one year prior?",
+    "a": "It was $2,197 higher than the price on February 23, 2025."
+  },
+  {
+    "q": "What was the gold price per ounce on February 22, 2026, if it was identical to the price recorded at 9:10 a.m. Eastern Time on February 23, 2026?",
+    "a": "$5,150 per ounce."
+  },
+  {
+    "q": "By how much did the price of gold per ounce rise from February 23, 2025, to February 23, 2026?",
+    "a": "It rose by $2,197."
+  },
+  {
+    "q": "What was the trading price of gold per ounce at 9:10 a.m. Eastern Time on February 23, 2026?",
+    "a": "$5,150."
+  },
+  {
+    "q": "Was there a price difference for gold per ounce between February 22, 2026, and February 23, 2026?",
+    "a": "There was no difference; the price was the same."
+  },
+  {
+    "q": "What was the approximate price of gold per ounce on February 23, 2025, based on the $2,197 increase reported on February 23, 2026?",
+    "a": "Approximately $2,953 per ounce."
+  },
+  {
+    "q": "What specific currency value per ounce was associated with gold trading at 9:10 a.m. Eastern Time on February 23, 2026?",
+    "a": "$5,150."
+  },
+  {
+    "q": "How much higher was the gold price per ounce on February 23, 2026, compared to the same date one year earlier?",
+    "a": "It was $2,197 higher."
+  },
+  {
+    "q": "If the gold price on February 23, 2026, was $5,150 per ounce and represented a $2,197 increase from the previous year, what was the price on February 23, 2025?",
+    "a": "$2,953 per ounce."
+  },
+  {
+    "q": "Did the price of gold per ounce fluctuate between February 22, 2026, and the 9:10 a.m. Eastern Time reading on February 23, 2026?",
+    "a": "No, the price was identical on both instances."
+  },
+  {
+    "q": "What was the year-over-year gain in dollars per ounce for gold as of February 23, 2026?",
+    "a": "$2,197."
+  },
+  {
+    "q": "At what time on February 23, 2026, was the gold price of $5,150 per ounce recorded?",
+    "a": "9:10 a.m. Eastern Time."
+  },
+  {
+    "q": "What was the gold price per ounce on February 22, 2026, given that it matched the price at 9:10 a.m. Eastern Time on February 23, 2026?",
+    "a": "$5,150 per ounce."
+  },
+  {
+    "q": "What is the difference in price per ounce between gold on February 23, 2026, and gold on February 23, 2025?",
+    "a": "$2,197."
+  },
+  {
+    "q": "Was the gold price per ounce on February 23, 2026, higher, lower, or the same as on February 22, 2026?",
+    "a": "It was the same."
+  },
+  {
+    "q": "What was the gold price per ounce on February 23, 2025, calculated by subtracting the $2,197 increase from the February 23, 2026, price of $5,150?",
+    "a": "$2,953 per ounce."
+  },
+  {
+    "q": "What specific time and date combination saw gold trading at $5,150 per ounce, which was also the same price as the previous day?",
+    "a": "9:10 a.m. Eastern Time on February 23, 2026."
+  },
+  {
+    "q": "By what dollar amount did the price of gold per ounce increase from February 23, 2025, to February 23, 2026?",
+    "a": "$2,197."
+  }
+]

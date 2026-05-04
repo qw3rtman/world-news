@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In February 2026, which two aircraft carriers were reported to be assembling in the Gulf as part of the US military presence near Iran, and what specific action did one of them take the previous month?",
+    "a": "The USS Gerald R Ford and the USS Abraham Lincoln; the USS Abraham Lincoln shot down an Iranian drone last month."
+  },
+  {
+    "q": "On which two specific military bases did President Donald Trump identify as potential launch points for attacks on Iran in a Truth Social post in February 2026?",
+    "a": "Diego Garcia in the Indian Ocean and RAF Fairford in Gloucestershire, UK."
+  },
+  {
+    "q": "Which US politician's diplomatic deal regarding the Chagos Islands did President Donald Trump withdraw support from in February 2026, and to which country was the territory intended to be ceded?",
+    "a": "UK Prime Minister Sir Keir Starmer; the territory was intended to be ceded to Mauritius."
+  },
+  {
+    "q": "What was the name of the US military operation conducted last year that struck Iran’s nuclear facilities, and what two specific facilities were targeted in that operation?",
+    "a": "Operation Midnight Hammer; the Natanz and Fordow nuclear facilities."
+  },
+  {
+    "q": "Which 1980 military mission failure did President Donald Trump cite as a cautionary tale against military intervention in Iran, and which US President was politically damaged by that event?",
+    "a": "The hostage-rescue mission in the Great Salt Desert; President Jimmy Carter."
+  },
+  {
+    "q": "In January 2026, which Venezuelan leader did President Donald Trump order to be captured, and how did Trump contrast that operation with the 1980 Carter disaster?",
+    "a": "President Nicolas Maduro; Trump expressed relief that the operation was not like the \"Jimmy Carter disaster\" that destroyed Carter's administration."
+  },
+  {
+    "q": "According to Defense Priorities director Dr. Rosemary Kelanic in February 2026, why might the \"rally around the flag\" effect not occur if the US initiates a war with Iran?",
+    "a": "Because the rally effect tends to happen when a country is attacked out of the blue, not when it starts the war."
+  },
+  {
+    "q": "Which three specific Israeli air defense systems did military expert Matthew Savill warn should not be assumed to be an impenetrable shield against Iranian missiles in February 2026?",
+    "a": "Thaad, Arrow 2, and Arrow 3."
+  },
+  {
+    "q": "In which body of water did Russia and Iran stage joint naval drills in February 2026, and what was the Kremlin's stated reason for these exercises?",
+    "a": "The Sea of Oman; the Kremlin stated they were scheduled and should not be a cause for alarm."
+  },
+  {
+    "q": "Which two specific Iranian diplomatic or military targets did analysts suggest the Iranian regime might attack using Iraqi-based proxies in the event of a US war?",
+    "a": "The American embassy in Baghdad and the consulate in Erbil."
+  },
+  {
+    "q": "What global supply chain vulnerability did analysts suggest the Iranian regime might exploit by closing a specific strait in the event of war?",
+    "a": "The Strait of Hormuz, to throttle the global supply of oil."
+  },
+  {
+    "q": "Which US submarine class, armed with Tomahawk cruise missiles, was reported to be positioned to attack Iran in February 2026?",
+    "a": "The Ohio-class submarine."
+  },
+  {
+    "q": "Which US think tank and its director provided analysis in February 2026 stating that there is no case of genuine regime change achieved by air power alone?",
+    "a": "Defense Priorities; Dr. Rosemary Kelanic."
+  },
+  {
+    "q": "Which Royal United Services Institute director stated in February 2026 that the US armada in the Middle East was nowhere near the firepower level of the First Gulf War or the invasion of Iraq?",
+    "a": "Matthew Savill, director of military sciences at the Royal United Services Institute."
+  },
+  {
+    "q": "Which Iranian supreme leader, aged 86, was mentioned as a potential target for deposition by the US in February 2026, drawing a comparison to President George W. Bush's removal of Saddam Hussein?",
+    "a": "Ayatollah Ali Khamenei."
+  },
+  {
+    "q": "Which two Israeli air bases were damaged by Iranian missiles during previous exchanges of fire, despite Israeli air defenses parrying most attacks?",
+    "a": "Nevatim and Tel Nof air bases."
+  },
+  {
+    "q": "What specific military asset did President Donald Trump identify as parked at Camp Thunder Cove in Diego Garcia in February 2026?",
+    "a": "B2 stealth bombers."
+  },
+  {
+    "q": "How many Arleigh Burke-class guided-missile destroyers were reported to be already in the Middle East in February 2026, and how many US aircraft had crossed the Atlantic recently?",
+    "a": "Eight destroyers and more than 120 aircraft."
+  },
+  {
+    "q": "Which news organization reported in February 2026 that President Trump was considering a \"massive, weeks-long campaign\" resembling a \"fully fledged war\" with Iran?",
+    "a": "Axios."
+  },
+  {
+    "q": "What specific demand did the US make to Tehran after striking Iran’s nuclear facilities during Operation Midnight Hammer last year?",
+    "a": "To limit the range of its ballistic missiles and end its support for militias across the Middle East."
+  },
+  {
+    "q": "Which two Israeli cities were identified as likely targets for Iranian retaliation in the event of a US-led war in February 2026?",
+    "a": "Jerusalem and Tel Aviv."
+  },
+  {
+    "q": "What specific political risk did President Donald Trump face regarding an American attack on Iran before the midterm elections in November 2026?",
+    "a": "Significant political risk due to voters' disaffection with \"forever wars\" in the Middle East and his \"America first\" pledge."
+  },
+  {
+    "q": "Which Iranian Revolutionary Guard Corps unit was suggested as a potential target for flattening buildings associated with it by US forces in February 2026?",
+    "a": "The Islamic Revolutionary Guard Corps."
+  },
+  {
+    "q": "What specific legacy goal did President Donald Trump reportedly consider in his 80th year in February 2026, related to events in 1979?",
+    "a": "Reversing the Iranian revolution of 1979."
+  },
+  {
+    "q": "Which US airbase in Qatar was able to have its troops withdrawn and air defenses moved to the region after Iran tipped off the US about its missile salvo last year?",
+    "a": "al-Udeid airbase."
+  }
+]

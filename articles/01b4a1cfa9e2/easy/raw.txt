@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the interview with Fox News' \"Hannity\" program on Monday, March 2, 2026, what duration did Israeli Prime Minister Benjamin Netanyahu predict for the war against Iran?",
+    "a": "Netanyahu stated the war may take \"some time\" but will not take years and is not an endless war."
+  },
+  {
+    "q": "Who was killed in the U.S. and Israeli air war against Iran that began with attacks on Tehran on Saturday, February 28, 2026?",
+    "a": "Iranian Supreme Leader Ali Khamenei was killed in the initial attacks."
+  },
+  {
+    "q": "What was U.S. President Donald Trump's initial projected timeline for the war against Iran before he later sought to justify a broader conflict?",
+    "a": "Trump initially projected the war to last four to five weeks."
+  },
+  {
+    "q": "According to a Reuters/Ipsos poll conducted over the weekend of March 1-2, 2026, what percentage of Americans approved of the U.S. strikes on Iran?",
+    "a": "Only one in four Americans, or 25%, approved of the strikes."
+  },
+  {
+    "q": "Which two countries launched the joint air war against Iran that began on Saturday, February 28, 2026?",
+    "a": "The United States and Israel launched the joint air war."
+  },
+  {
+    "q": "What specific geopolitical outcome did Israeli Prime Minister Benjamin Netanyahu cite as an opportunity created by the war against Iran on March 2, 2026?",
+    "a": "Netanyahu cited the opportunity for lasting peace in the Middle East, including between Israel and Saudi Arabia."
+  },
+  {
+    "q": "Which two previous U.S. wars did the article note made many Americans skeptical of direct involvement in foreign conflicts during the March 2, 2026 reporting period?",
+    "a": "The U.S. wars in Iraq and Afghanistan."
+  },
+  {
+    "q": "What goal did U.S. President Donald Trump imply when he urged Iranians to \"take back your country\" during the announcement of strikes on Saturday, February 28, 2026?",
+    "a": "Trump implied a goal of toppling the Iranian government."
+  },
+  {
+    "q": "What justification did U.S. President Donald Trump provide for the war against Iran in his comments on Monday, March 2, 2026, omitting any mention of toppling the government?",
+    "a": "Trump stated the war was needed to prevent Iran from developing a nuclear weapon and to thwart its long-range ballistic missile program."
+  },
+  {
+    "q": "Which two Middle Eastern nations did Israeli Prime Minister Benjamin Netanyahu claim were jointly creating conditions for the Iranian people to topple their government on March 2, 2026?",
+    "a": "America and Israel."
+  },
+  {
+    "q": "What type of retaliation did Iran launch against Israel and Arab nations following the initial U.S. and Israeli attacks on Tehran on February 28, 2026?",
+    "a": "Iran launched retaliation against Israel and missile attacks at Arab nations with U.S. bases."
+  },
+  {
+    "q": "On which television program did Israeli Prime Minister Benjamin Netanyahu make his remarks about the war against Iran on Monday, March 2, 2026?",
+    "a": "He made the remarks on Fox News' \"Hannity\" program."
+  },
+  {
+    "q": "Which foreign policy shift did the article attribute to U.S. President Donald Trump's actions regarding the war against Iran in early March 2026?",
+    "a": "The actions marked a striking shift from his \"America First\" rhetoric against U.S. interventions during his 2024 election campaign."
+  },
+  {
+    "q": "What did Iranian officials deny seeking, according to the justification provided by U.S. President Donald Trump on March 2, 2026?",
+    "a": "Iran denied seeking to develop a nuclear weapon."
+  },
+  {
+    "q": "Which Middle Eastern country is widely believed to be the only one with nuclear weapons, as noted in the context of the March 2026 conflict?",
+    "a": "Israel."
+  },
+  {
+    "q": "Who are the two Reuters reporters credited with reporting on the war against Iran in the article published on March 3, 2026?",
+    "a": "Kanishka Singh and Ismail Shakil."
+  },
+  {
+    "q": "What did U.S. President Donald Trump say about the potential duration of the war against Iran after his initial four-to-five-week projection?",
+    "a": "He added that the war could go on longer and sought to justify a broad, open-ended war."
+  },
+  {
+    "q": "Which Arab nations were targeted by Iranian missile attacks in retaliation for the U.S. and Israeli strikes on Iran in late February 2026?",
+    "a": "Arab nations with U.S. bases across the Middle East."
+  },
+  {
+    "q": "What did Israeli Prime Minister Benjamin Netanyahu reject regarding the potential duration of the conflict with Iran on March 2, 2026?",
+    "a": "He rejected the idea that the conflict would last years, like previous wars in the region."
+  },
+  {
+    "q": "Which organization conducted the poll showing that only one in four Americans approved of the strikes on Iran over the weekend of March 1-2, 2026?",
+    "a": "Reuters/Ipsos."
+  },
+  {
+    "q": "What specific missile program did U.S. President Donald Trump cite as a target of the war against Iran in his March 2, 2026 comments?",
+    "a": "Iran's long-range ballistic missile program."
+  },
+  {
+    "q": "Which two entities did Netanyahu claim were creating the conditions for the Iranian people to change their government on March 2, 2026?",
+    "a": "America and Israel."
+  },
+  {
+    "q": "What did U.S. President Donald Trump urge Iranians to do when he announced the strikes on Saturday, February 28, 2026?",
+    "a": "He urged Iranians to \"take back your country.\""
+  },
+  {
+    "q": "Which U.S. President initially projected a four-to-five-week timeline for the war against Iran before shifting his stance in early March 2026?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "What regional peace prospect did Israeli Prime Minister Benjamin Netanyahu link to the war against Iran in his March 2, 2026 interview?",
+    "a": "He linked it to a lasting path to peace between Israel and Saudi Arabia."
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "hash": "d2401e34147f",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://sph.straitstimes.com/world/united-states/trump-demands-others-help-secure-strait-of-hormuz-japan-and-australia-say-no-plans-to-send-ships",
+      "title": "Israel says it has plans for at least 3 more weeks of war as air strikes pound Iran | The Straits Times",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1385,
+      "text_length": 6589
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "678747",
+      "spike_id": 5,
+      "market_question": "Will Israel strike 4 countries in 2026?",
+      "event_title": "How many different countries will Israel strike in 2026?",
+      "spike_direction": "down",
+      "spike_delta": -0.22150000000000003,
+      "spike_timestamp_before": "2026-03-15T22:30:48+00:00",
+      "spike_timestamp_after": "2026-03-16T20:30:52+00:00"
+    }
+  ]
+}

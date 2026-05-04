@@ -1,0 +1,106 @@
+[
+  {
+    "q": "On March 4, 2026, by how much did Goldman Sachs Group Inc. raise its average price forecast for Brent crude oil for the second quarter of 2026, and what is the new forecasted price per barrel?",
+    "a": "Goldman Sachs raised the forecast by $10 to $76 per barrel."
+  },
+  {
+    "q": "What specific assumption does Goldman Sachs Group Inc. make in its March 4, 2026 note regarding the Strait of Hormuz that leads to its revised oil price forecasts for the second quarter of 2026?",
+    "a": "The bank assumes that low oil flows via the Strait of Hormuz will lead to large declines in OECD inventories and Middle East oil production in March."
+  },
+  {
+    "q": "According to the March 4, 2026 Reuters report, what percentage of the world’s oil and liquefied natural gas shipments does the Strait of Hormuz handle?",
+    "a": "The Strait of Hormuz handles about a fifth of the world’s oil and liquefied natural gas shipments."
+  },
+  {
+    "q": "If Hormuz volumes were to remain flat for five additional weeks beyond the disruptions noted by Goldman Sachs Group Inc. in March 2026, what price level did the bank predict Brent crude would likely reach?",
+    "a": "Brent prices would likely reach $100 per barrel."
+  },
+  {
+    "q": "What market mechanism did Goldman Sachs Group Inc. state would be triggered if Brent crude prices reached $100 per barrel due to prolonged Strait of Hormuz disruptions in 2026?",
+    "a": "Larger demand destruction would occur to prevent inventories from falling to critically low levels."
+  },
+  {
+    "q": "As of 0408 GMT on March 4, 2026, what was the trading price of Brent crude futures, and how did this compare to its closing price on the previous Tuesday?",
+    "a": "Brent crude futures were near $82.57 per barrel, having closed at their highest since January 2025 on Tuesday."
+  },
+  {
+    "q": "On March 4, 2026, what was the price of U.S. West Texas Intermediate (WTI) crude, and when was its previous highest closing price before this date?",
+    "a": "WTI crude rose to $75.28 per barrel, having last settled at its highest since June in the prior year."
+  },
+  {
+    "q": "By what percentage did both Brent crude and U.S. West Texas Intermediate crude prices rise during the two trading sessions leading up to March 4, 2026?",
+    "a": "Both rose by around 5% or more in the past two sessions."
+  },
+  {
+    "q": "What specific downside risk to oil prices did Goldman Sachs Group Inc. identify in its March 4, 2026 forecast update?",
+    "a": "The downside risk comes from a faster normalization in Hormuz flows."
+  },
+  {
+    "q": "What revised forecast did Goldman Sachs Group Inc. provide on March 4, 2026, for Brent crude oil prices in the fourth quarter of 2026?",
+    "a": "The bank revised its fourth-quarter 2026 forecast for Brent to $66 per barrel."
+  },
+  {
+    "q": "What is the revised forecast for WTI crude oil prices in the fourth quarter of 2026 provided by Goldman Sachs Group Inc. on March 4, 2026?",
+    "a": "Goldman Sachs revised its fourth-quarter 2026 forecast for WTI to $62 per barrel."
+  },
+  {
+    "q": "What average price forecast did Goldman Sachs Group Inc. set for Brent crude oil for the year 2027 in its March 4, 2026 report?",
+    "a": "The forecast for Brent crude oil in 2027 is $70 per barrel."
+  },
+  {
+    "q": "What average price forecast did Goldman Sachs Group Inc. set for WTI crude oil for the year 2027 in its March 4, 2026 report?",
+    "a": "The forecast for WTI crude oil in 2027 is $66 per barrel."
+  },
+  {
+    "q": "In addition to the second-quarter 2026 forecast, by how much did Goldman Sachs Group Inc. raise its forecast for WTI crude oil for the second quarter of 2026 on March 4, 2026?",
+    "a": "Goldman Sachs raised the WTI forecast by $9 to $71 per barrel."
+  },
+  {
+    "q": "What geographic feature does the Strait of Hormuz link, according to the March 4, 2026 Reuters report on Goldman Sachs' oil forecasts?",
+    "a": "The Strait of Hormuz links the Persian Gulf to the Gulf of Oman."
+  },
+  {
+    "q": "What two potential risks did Goldman Sachs Group Inc. cite in its March 4, 2026 note as reasons for its upside-tilted oil price forecasts?",
+    "a": "The risks include a longer-than-expected disruption to exports through the Strait of Hormuz and potential damage at oil production facilities."
+  },
+  {
+    "q": "Who was the reporter credited with writing the March 4, 2026 Reuters article about Goldman Sachs' oil price forecast revision?",
+    "a": "The article was reported by Pablo Sinha."
+  },
+  {
+    "q": "Which editors were credited with editing the March 4, 2026 Reuters article regarding Goldman Sachs' Brent and WTI oil price forecasts?",
+    "a": "The article was edited by Muralikumar Anantharaman and Christian Schmollinger."
+  },
+  {
+    "q": "What was the closing status of Brent crude futures on Tuesday, March 3, 2026, relative to prices seen in January 2025?",
+    "a": "Brent crude futures closed at their highest level since January 2025."
+  },
+  {
+    "q": "What was the closing status of U.S. West Texas Intermediate crude on Tuesday, March 3, 2026, relative to prices seen in the previous June?",
+    "a": "U.S. West Texas Intermediate crude settled at its highest level since June."
+  },
+  {
+    "q": "According to Goldman Sachs Group Inc.'s March 4, 2026 note, which region's oil production was expected to decline in March due to low flows via the Strait of Hormuz?",
+    "a": "Middle East oil production was expected to decline."
+  },
+  {
+    "q": "Which group's inventories did Goldman Sachs Group Inc. predict would see large declines in March 2026 due to low oil flows via the Strait of Hormuz?",
+    "a": "OECD inventories were predicted to see large declines."
+  },
+  {
+    "q": "What specific commodity shipments, other than oil, does the Strait of Hormuz handle approximately one-fifth of the world's volume of, according to the March 4, 2026 report?",
+    "a": "The Strait of Hormuz handles about a fifth of the world’s liquefied natural gas shipments."
+  },
+  {
+    "q": "On March 4, 2026, what was the approximate price of Brent crude futures at 0408 GMT, and how much higher was this than the Goldman Sachs Q2 2026 forecast of $76?",
+    "a": "Brent crude futures were near $82.57 per barrel, which is approximately $6.57 higher than the $76 forecast."
+  },
+  {
+    "q": "What was the approximate price of U.S. West Texas Intermediate crude on March 4, 2026, and how much higher was this than the Goldman Sachs Q2 2026 forecast of $71?",
+    "a": "WTI crude rose to $75.28 per barrel, which is approximately $4.28 higher than the $71 forecast."
+  },
+  {
+    "q": "In the context of the March 4, 2026 Goldman Sachs forecast, what specific condition regarding the Strait of Hormuz was described as a 'critical global energy chokepoint' issue?",
+    "a": "The issue is that the Strait of Hormuz handles about a fifth of the world’s oil and liquefied natural gas shipments."
+  }
+]

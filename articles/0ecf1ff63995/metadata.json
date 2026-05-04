@@ -1,0 +1,37 @@
+{
+  "hash": "0ecf1ff63995",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.npr.org/2026/03/09/nx-s1-5739275/energy-analyst-discusses-how-high-iran-war-could-drive-oil-prices",
+      "title": "Energy analyst discusses how high Iran war could drive oil prices : NPR",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "Michel Martin",
+      "num_tokens": 1372,
+      "text_length": 6156
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1515806",
+      "spike_id": 1,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $130 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.22499999999999998,
+      "spike_timestamp_before": "2026-03-07T18:30:33+00:00",
+      "spike_timestamp_after": "2026-03-08T10:00:30+00:00"
+    },
+    {
+      "market_id": "1515806",
+      "spike_id": 2,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $130 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.26999999999999996,
+      "spike_timestamp_before": "2026-03-08T00:30:30+00:00",
+      "spike_timestamp_after": "2026-03-08T23:00:29+00:00"
+    }
+  ]
+}

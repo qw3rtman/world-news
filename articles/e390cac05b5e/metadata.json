@@ -1,0 +1,47 @@
+{
+  "hash": "e390cac05b5e",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/03/18/odds-of-a-fed-rate-hike-by-june-are-now-higher-than-chances-for-rate-cut.html",
+      "title": "Odds of a Fed rate hike by June are now higher than chances for rate cut",
+      "published_date": "2026-03-18T00:00:00.000Z",
+      "author": "Itzel Franco",
+      "num_tokens": 17,
+      "text_length": 72
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1032343",
+      "spike_id": 30,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "up",
+      "spike_delta": 0.24650000000000005,
+      "spike_timestamp_before": "2026-03-18T09:30:25+00:00",
+      "spike_timestamp_after": "2026-03-19T09:00:43+00:00"
+    },
+    {
+      "market_id": "1032343",
+      "spike_id": 31,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "up",
+      "spike_delta": 0.26149999999999995,
+      "spike_timestamp_before": "2026-03-18T13:00:26+00:00",
+      "spike_timestamp_after": "2026-03-19T13:00:26+00:00"
+    },
+    {
+      "market_id": "906974",
+      "spike_id": 3,
+      "market_question": "Will there be no change in Fed interest rates after the June 2026 meeting?",
+      "event_title": "Fed Decision in June?",
+      "spike_direction": "up",
+      "spike_delta": 0.25,
+      "spike_timestamp_before": "2026-03-18T00:30:32+00:00",
+      "spike_timestamp_after": "2026-03-18T22:00:35+00:00"
+    }
+  ]
+}

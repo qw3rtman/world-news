@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On February 25, 2026, what was the percentage increase and closing price per ounce for spot gold, and which two primary macroeconomic or geopolitical factors were cited as driving this safe-haven demand?",
+    "a": "Spot gold rose 1.1% to $5,202.28 per ounce, driven by concerns over inflation from tariffs and ongoing tensions between Iran and the United States."
+  },
+  {
+    "q": "What specific temporary global import tariff percentage did the United States begin collecting on Tuesday, February 24, 2026, and what higher percentage was the Trump administration reportedly attempting to raise it to?",
+    "a": "The U.S. began collecting a 10% global import tariff, with the Trump administration trying to raise it to 15%."
+  },
+  {
+    "q": "In his State of the Union speech, what claim did U.S. President Donald Trump make regarding other countries' and corporations' desires to maintain existing agreements with Washington, and how did he frame his stance on Iran?",
+    "a": "Trump stated that 'almost all' countries and corporations want to maintain existing tariff and investment agreements with Washington, and he argued he would not allow Iran, described as the world's biggest sponsor of terrorism, to possess a nuclear weapon."
+  },
+  {
+    "q": "Which two entities were scheduled to hold a third round of nuclear talks in Geneva on Thursday, February 26, 2026, and what was the broader context of these negotiations?",
+    "a": "Iran and the United States were set to hold the talks amid tensions where the U.S. was considering an attack on Iran over its nuclear program."
+  },
+  {
+    "q": "According to Bart Melek, global head of commodity strategy at TD Securities, what specific combination of factors creates an inflationary impact that leads investors to hedge by turning to gold?",
+    "a": "Melek cited tariffs and high oil prices, particularly if an attack on Iran is imminent, as creating an inflationary impact that prompts hedging via gold."
+  },
+  {
+    "q": "What record high price did gold reach on January 29, 2026, and what was the approximate year-to-date percentage gain for gold prices as of late February 2026?",
+    "a": "Gold scaled a record high of $5,594.82 on January 29, 2026, and was up about 20% so far in 2026."
+  },
+  {
+    "q": "What price forecast did Bank of America provide for gold over the next 12 months, and what seasonal trend did they anticipate for the spring period?",
+    "a": "Bank of America expects gold prices to hit $6,000 per ounce over the next 12 months, while anticipating a period of potentially weaker prices or consolidation in the spring."
+  },
+  {
+    "q": "By how much did spot silver climb on February 25, 2026, and what was its closing price per ounce, marking a three-week high?",
+    "a": "Spot silver climbed 3.9% to $90.73 per ounce."
+  },
+  {
+    "q": "What all-time peak price did silver reach on January 29, 2026, and what future price level did Bank of America note the white metal could rise above again in 2026?",
+    "a": "Silver scaled an all-time peak of $121.64 on January 29, 2026, and Bank of America noted it could rise above $100 per ounce again this year."
+  },
+  {
+    "q": "What were the percentage gains and closing prices for spot platinum and palladium on February 25, 2026?",
+    "a": "Spot platinum rose 7.1% to $2,320.90 per ounce, and palladium climbed 2.6% to $1,814.41."
+  },
+  {
+    "q": "What was the settlement price for U.S. gold futures for April delivery on February 25, 2026, and what was the approximate percentage increase?",
+    "a": "U.S. gold futures for April delivery settled about 1% higher at $5,226.20."
+  },
+  {
+    "q": "Why is gold widely considered a suitable asset during times of uncertainty, and how does it function despite being a non-yielding asset in a low interest rate environment?",
+    "a": "Gold is seen as a safe-haven asset and a hedge against inflation, which supports its value even as a non-yielding asset in a low interest rate environment."
+  },
+  {
+    "q": "What specific date did the U.S. begin collecting the temporary 10% global import tariff, and which administration official commented on the potential increase to 15%?",
+    "a": "The U.S. began collecting the tariff on Tuesday, February 24, 2026, and a White House official said the Trump administration was trying to raise it to 15%."
+  },
+  {
+    "q": "What location was designated for the third round of nuclear talks between Iran and the United States scheduled for Thursday, February 26, 2026?",
+    "a": "The talks were set to be held in Geneva."
+  },
+  {
+    "q": "Who is Bart Melek, and what role does he play in explaining the market's reaction to geopolitical risks and tariffs regarding gold prices?",
+    "a": "Bart Melek is the global head of commodity strategy at TD Securities, and he explains that investors are hedging against inflationary impacts from tariffs and potential military action."
+  },
+  {
+    "q": "What was the specific price point gold reached on January 29, 2026, which served as a record high before the February 25, 2026, climb?",
+    "a": "Gold scaled a record high of $5,594.82 on January 29, 2026."
+  },
+  {
+    "q": "How did Bank of America characterize the pace of investor exposure increases to gold, and what implication did this have for their spring price outlook?",
+    "a": "Bank of America noted that investors have slowed the pace of increasing gold exposure, leading them to factor in a period of potentially weaker gold prices into spring."
+  },
+  {
+    "q": "What was the closing price of spot silver on February 25, 2026, and how did this performance compare to its all-time peak reached earlier in the year?",
+    "a": "Spot silver closed at $90.73 per ounce, which was below its all-time peak of $121.64 reached on January 29, 2026."
+  },
+  {
+    "q": "What percentage gain did spot platinum achieve on February 25, 2026, and what was its closing price per ounce?",
+    "a": "Spot platinum rose 7.1% to $2,320.90 per ounce."
+  },
+  {
+    "q": "What percentage gain did palladium achieve on February 25, 2026, and what was its closing price per ounce?",
+    "a": "Palladium climbed 2.6% to $1,814.41."
+  },
+  {
+    "q": "What specific threat did U.S. President Donald Trump cite as justification for a possible attack on Iran in his State of the Union speech?",
+    "a": "Trump stated he would not allow Iran, described as the world's biggest sponsor of terrorism, to have a nuclear weapon."
+  },
+  {
+    "q": "What was the approximate year-to-date percentage increase for gold prices as of late February 2026, following its record high in January?",
+    "a": "Gold prices were up about 20% so far in 2026."
+  },
+  {
+    "q": "What long-term price target did Bank of America set for gold, and over what time horizon is this target expected to be reached?",
+    "a": "Bank of America expects gold prices to hit $6,000 per ounce over the next 12 months."
+  },
+  {
+    "q": "What specific date did spot silver reach its all-time peak of $121.64 per ounce, and what was its price on February 25, 2026?",
+    "a": "Silver reached its all-time peak on January 29, 2026, and was priced at $90.73 per ounce on February 25, 2026."
+  },
+  {
+    "q": "What was the closing price for spot gold on February 25, 2026, and how did it compare to the settlement price of U.S. gold futures for April delivery on the same day?",
+    "a": "Spot gold closed at $5,202.28 per ounce, while U.S. gold futures for April delivery settled at $5,226.20."
+  }
+]

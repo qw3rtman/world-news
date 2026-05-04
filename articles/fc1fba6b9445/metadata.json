@@ -1,0 +1,47 @@
+{
+  "hash": "fc1fba6b9445",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.washingtonpost.com/world/2026/01/16/venezuela-us-repatriation-flight/6f59f170-f308-11f0-a4dc-effc74cb25af_story.html",
+      "title": "The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "Teo Armus",
+      "num_tokens": 29,
+      "text_length": 135
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1106813",
+      "spike_id": 10,
+      "market_question": "Will María Corina Machado enter Venezuela by March 31?",
+      "event_title": "María Corina Machado enters Venezuela by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.26499999999999996,
+      "spike_timestamp_before": "2026-03-05T06:00:23+00:00",
+      "spike_timestamp_after": "2026-03-06T02:30:27+00:00"
+    },
+    {
+      "market_id": "1106813",
+      "spike_id": 11,
+      "market_question": "Will María Corina Machado enter Venezuela by March 31?",
+      "event_title": "María Corina Machado enters Venezuela by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.21500000000000002,
+      "spike_timestamp_before": "2026-03-05T20:00:39+00:00",
+      "spike_timestamp_after": "2026-03-06T19:30:32+00:00"
+    },
+    {
+      "market_id": "1106813",
+      "spike_id": 9,
+      "market_question": "Will María Corina Machado enter Venezuela by March 31?",
+      "event_title": "María Corina Machado enters Venezuela by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.26499999999999996,
+      "spike_timestamp_before": "2026-03-05T00:00:29+00:00",
+      "spike_timestamp_after": "2026-03-05T23:00:36+00:00"
+    }
+  ]
+}

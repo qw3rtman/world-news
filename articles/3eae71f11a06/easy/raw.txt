@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the first round of the 2026 French municipal elections held on March 15, 2026, which far-right party reclaimed the city of Perpignan outright and finished second in Marseille?",
+    "a": "The National Rally (RN)."
+  },
+  {
+    "q": "During the March 2026 first-round French municipal elections, in which five major French cities did the National Rally score under 8% of the vote?",
+    "a": "Paris, Lyon, Toulouse, Nantes, and Strasbourg."
+  },
+  {
+    "q": "Which hard-left party, led by Jean-Luc Mélenchon, won the city of Saint-Denis outright in the first round of the March 2026 French municipal elections?",
+    "a": "France Unbowed (LFI)."
+  },
+  {
+    "q": "In the context of the March 2026 French municipal elections, which city in the post-industrial north was France Unbowed (LFI) on track to take, despite recent controversies including the killing of Quentin Deranque?",
+    "a": "Roubaix."
+  },
+  {
+    "q": "Which Green mayor placed only third in the first round of the March 2026 municipal elections in Strasbourg, illustrating the fading momentum of the Green party?",
+    "a": "The incumbent Green mayor of Strasbourg."
+  },
+  {
+    "q": "In the March 2026 French municipal elections, which centrist former Prime Minister won 43.8% of the vote in the first round in Le Havre?",
+    "a": "Edouard Philippe."
+  },
+  {
+    "q": "Which former Prime Minister is widely seen as the centrist candidate best placed to counter the far right in the 2027 French presidential election, following his strong first-round performance in Le Havre in March 2026?",
+    "a": "Edouard Philippe."
+  },
+  {
+    "q": "In the first round of the March 2026 Paris municipal elections, which Socialist candidate led with 38% of the vote to retain control of the capital for more than 25 years?",
+    "a": "Emmanuel Grégoire."
+  },
+  {
+    "q": "Which conservative challenger trailed Socialist Emmanuel Grégoire by more than 10 points in the first round of the March 2026 Paris municipal elections?",
+    "a": "Rachida Dati."
+  },
+  {
+    "q": "Which nationalist fringe candidate captured 10% of the vote in the first round of the March 2026 Paris municipal elections, qualifying for the second round and highlighting the strategic bind for the traditional right?",
+    "a": "Sarah Knafo."
+  },
+  {
+    "q": "Sarah Knafo, who qualified for the second round of the March 2026 Paris municipal elections, attended the inauguration of which U.S. President?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "In the March 2026 French municipal elections, which two major cities saw Green candidates who were not assured of victory in the upcoming runoff votes?",
+    "a": "Bordeaux and Lyon."
+  },
+  {
+    "q": "Which mainstream left-wing parties are expected to strike local alliances with France Unbowed (LFI) in the runoffs of the March 2026 municipal elections, testing the fractured state of the left ahead of the 2027 presidential election?",
+    "a": "The Socialists and the Greens."
+  },
+  {
+    "q": "Which former Prime Minister is under pressure to back Edouard Philippe's candidacy for the 2027 French presidential election following Philippe's strong showing in the March 2026 Le Havre municipal election?",
+    "a": "Gabriel Attal."
+  },
+  {
+    "q": "In the March 2026 French municipal elections, which party's bid to \"normalise\" its image has yet to translate into gains in prosperous, cosmopolitan urban centres outside its Mediterranean heartland?",
+    "a": "The National Rally (RN)."
+  },
+  {
+    "q": "Which far-right activist's killing in Lyon contributed to recent controversy surrounding France Unbowed (LFI) during the campaign for the March 2026 municipal elections?",
+    "a": "Quentin Deranque."
+  },
+  {
+    "q": "In the March 2026 French municipal elections, which city is France's second-largest and where the National Rally finished a strong second in the first round?",
+    "a": "Marseille."
+  },
+  {
+    "q": "Which city is the second-largest in the Paris region and was won outright by France Unbowed (LFI) in the first round of the March 2026 municipal elections?",
+    "a": "Saint-Denis."
+  },
+  {
+    "q": "Which political party rode a global wave of climate activism to major city victories in 2020 but struggled to repeat that performance in the March 2026 municipal elections?",
+    "a": "The Greens."
+  },
+  {
+    "q": "In the March 2026 French municipal elections, which party's first-round results underscored the limits of its appeal, scoring under 8% in cities like Paris, Lyon, Toulouse, Nantes, and Strasbourg?",
+    "a": "The National Rally (RN)."
+  },
+  {
+    "q": "Which candidate, a conservative challenger, endorsed the green-led transformation of Paris under the outgoing mayor in the March 2026 municipal elections?",
+    "a": "Rachida Dati."
+  },
+  {
+    "q": "Which far-right standard-bearer emerged as a new political figure by capturing 10% of the vote in the March 2026 Paris municipal elections, thereby qualifying for the runoff?",
+    "a": "Sarah Knafo."
+  },
+  {
+    "q": "In the March 2026 French municipal elections, which party's strength complicates the mainstream left's electoral calculus ahead of the 2027 presidential election?",
+    "a": "France Unbowed (LFI)."
+  },
+  {
+    "q": "Which centrist camp, led by President Emmanuel Macron, entered the March 2026 mayoral elections with modest ambitions after a poor showing in 2020?",
+    "a": "President Emmanuel Macron's centrist camp."
+  },
+  {
+    "q": "In the March 2026 French municipal elections, which party is described as being strongest in rural France and its traditional battlegrounds, while barely registering in major cosmopolitan urban centres?",
+    "a": "The National Rally (RN)."
+  }
+]

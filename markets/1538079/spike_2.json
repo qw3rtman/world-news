@@ -1,0 +1,65 @@
+{
+  "spike_index": 2,
+  "direction": "up",
+  "price_before": 0.34,
+  "price_after": 0.72,
+  "delta": 0.37999999999999995,
+  "abs_delta": 0.37999999999999995,
+  "timestamp_before": "2026-03-09T19:30:19+00:00",
+  "timestamp_after": "2026-03-09T21:30:22+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://newsweek.com/chances-gas-prices-hitting-five-dollars-march-11644031",
+      "file": "a93263b7ce19.txt",
+      "title": "Chances of gas prices hitting $5 by end of March - Newsweek",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "text_length": 4230,
+      "status": "ok",
+      "num_tokens": 925
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/09/iran-war-oil-prices-congress.html",
+      "file": "51ce429d6d62.txt",
+      "title": "Emmer predicts oil prices will drop after Iran war",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "Justin Papp",
+      "text_length": 1956,
+      "status": "ok",
+      "num_tokens": 406
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/09/recession-odds-kalshi-oil.html",
+      "file": "72fca30c3d67.txt",
+      "title": "Recession odds jump on Kalshi after oil tops $100",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "Alex Harring",
+      "text_length": 1978,
+      "status": "ok",
+      "num_tokens": 408
+    },
+    {
+      "url": "https://www.usatoday.com/story/money/2026/03/09/oil-100-trump-gas-prices-iran-war/89063180007/",
+      "file": "fcf94671f277.txt",
+      "title": "Why oil prices fell below $100 per barrel, giving stocks some relief",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "text_length": 2610,
+      "status": "ok",
+      "num_tokens": 585
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/09/recession-odds-kalshi-oil.html?__source=iosappshare%7Ccom.apple.UIKit.activity.PostToTwitter",
+      "file": "08fd74feaee2.txt",
+      "title": "Recession odds jump on Kalshi after oil tops $100",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "Alex Harring",
+      "text_length": 2001,
+      "status": "ok",
+      "num_tokens": 432
+    }
+  ],
+  "total_tokens": 2756
+}

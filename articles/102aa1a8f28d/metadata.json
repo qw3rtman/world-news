@@ -1,0 +1,37 @@
+{
+  "hash": "102aa1a8f28d",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/set-to-freeze-billions-in-iranian-assets-uae-weighs-response-to-iran-attacks/articleshow/129130398.cms",
+      "title": "Set to freeze billions in Iranian assets? UAE weighs response to Iran attacks - The Times of India",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "TOI World Desk  / TIMESOFINDIA.COM /   Mar 06, 2026, 09:16 IST",
+      "num_tokens": 311,
+      "text_length": 1679
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1472010",
+      "spike_id": 11,
+      "market_question": "Will UAE strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.18000000000000002,
+      "spike_timestamp_before": "2026-03-07T03:30:20+00:00",
+      "spike_timestamp_after": "2026-03-07T10:00:21+00:00"
+    },
+    {
+      "market_id": "1472010",
+      "spike_id": 14,
+      "market_question": "Will UAE strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.53,
+      "spike_timestamp_before": "2026-03-08T11:00:20+00:00",
+      "spike_timestamp_after": "2026-03-09T01:00:18+00:00"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "spike_index": 2,
+  "direction": "down",
+  "price_before": 0.66,
+  "price_after": 0.49,
+  "delta": -0.17000000000000004,
+  "abs_delta": 0.17000000000000004,
+  "timestamp_before": "2026-03-06T11:30:31+00:00",
+  "timestamp_after": "2026-03-06T20:30:30+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.aljazeera.com/economy/2026/3/6/us-job-market-stalls-unemployment-rate-rises-before-fed-decision",
+      "file": "67722ee4b064.txt",
+      "title": "US job market stalls, unemployment rate rises before Fed decision | Business and Economy News | Al Jazeera",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Andy Hirschfeld",
+      "text_length": 2737,
+      "status": "ok",
+      "num_tokens": 596
+    },
+    {
+      "url": "https://www.aljazeera.com/amp/economy/2026/3/6/us-job-market-stalls-unemployment-rate-rises-before-fed-decision",
+      "file": "230be978427d.txt",
+      "title": "US job market stalls, unemployment rate rises before Fed decision | Business and Economy News | Al Jazeera",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Andy Hirschfeld",
+      "text_length": 2737,
+      "status": "ok",
+      "num_tokens": 596
+    },
+    {
+      "url": "https://www.barrons.com/livecoverage/february-jobs-report-data-2026-today?gaa_at=eafs&gaa_n=AWEtsqdrJCUOXFkpZu9ZjWvyTJTgdb_4-ifVdnKozCq9yP1AJvXwteVpERRK&gaa_sig=-sGJcCoq8LXYdtpFKzHnxtNKTrdVir7u0bITE-hGIMPG2xyvEUY7tWS6YFekw4hfpHppZ7V2qibFwgARcMhuvA%3D%3D&gaa_ts=69aad2be",
+      "file": "b630a42226a6.txt",
+      "title": "February Jobs Report Today: Expect a Stable Labor Market, Fed Rates on Hold",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": null,
+      "text_length": 467,
+      "status": "ok",
+      "num_tokens": 100
+    },
+    {
+      "url": "https://www.reuters.com/business/slower-us-job-growth-expected-february-unemployment-rate-forecast-steady-43-2026-03-06/",
+      "file": "44daaacf4324.txt",
+      "title": "Unexpected job losses, rise in unemployment rate fan US labor market doubts | Reuters",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Lucia Mutikani",
+      "text_length": 6727,
+      "status": "ok",
+      "num_tokens": 1410
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/06/fed-governor-miran-says-job-losses-in-february-add-to-the-case-for-more-interest-rate-cuts.html",
+      "file": "92a647a0036c.txt",
+      "title": "Fed Governor Miran says job losses in February add to the case for more interest rate cuts",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Jeff Cox",
+      "text_length": 3212,
+      "status": "ok",
+      "num_tokens": 661
+    }
+  ],
+  "total_tokens": 3363
+}

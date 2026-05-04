@@ -1,0 +1,27 @@
+{
+  "hash": "c10a32fb19e9",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://cnnespanol.cnn.com/2026/03/05/venezuela/video/eeuu-venezuela-cooperacion-recursos-naturales-dusa-tv",
+      "title": "Delcy Rodríguez se reunió con el secretario del Interior de EE.UU. para la cooperación de su país en sectores como la energía | CNN",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 117,
+      "text_length": 448
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1106813",
+      "spike_id": 9,
+      "market_question": "Will María Corina Machado enter Venezuela by March 31?",
+      "event_title": "María Corina Machado enters Venezuela by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.26499999999999996,
+      "spike_timestamp_before": "2026-03-05T00:00:29+00:00",
+      "spike_timestamp_after": "2026-03-05T23:00:36+00:00"
+    }
+  ]
+}

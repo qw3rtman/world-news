@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On February 25, 2026, what was the price per ounce of spot gold after it rose 1.1% amid concerns about tariffs and geopolitical tensions?",
+    "a": "$5,202.28 per ounce."
+  },
+  {
+    "q": "What was the settlement price for U.S. gold futures for April delivery on February 25, 2026, and how much higher did they settle compared to the previous close?",
+    "a": "They settled at $5,226.20, about 1% higher."
+  },
+  {
+    "q": "According to Bart Melek, global head of commodity strategy at TD Securities, what two factors contribute to the inflationary impact that drives investors toward gold?",
+    "a": "Tariffs and high oil prices."
+  },
+  {
+    "q": "On what date did the United States begin collecting a temporary 10% global import tariff, and what higher rate was the Trump administration attempting to raise it to?",
+    "a": "The tariff began on Tuesday, February 24, 2026, and the administration was trying to raise it to 15%."
+  },
+  {
+    "q": "In his State of the Union speech, what did President Donald Trump claim about the desire of countries and corporations regarding their existing tariff and investment agreements with Washington?",
+    "a": "He claimed that \"almost all\" countries and corporations want to maintain their existing agreements."
+  },
+  {
+    "q": "What specific reason did President Donald Trump give in his State of the Union speech for laying out his case for a possible attack on Iran?",
+    "a": "He stated he would not allow Iran, described as the world's biggest sponsor of terrorism, to have a nuclear weapon."
+  },
+  {
+    "q": "When and where were Iran and the United States scheduled to hold a third round of nuclear talks following the events of late February 2026?",
+    "a": "They were set to hold talks on Thursday, February 26, 2026, in Geneva."
+  },
+  {
+    "q": "What record high price did gold reach on January 29, 2026, and approximately how much had prices increased by February 25, 2026?",
+    "a": "Gold reached a record high of $5,594.82, and prices were up about 20% so far in 2026."
+  },
+  {
+    "q": "What period did Bank of America predict for potentially weaker gold prices in spring 2026, and what price target did they set for the next 12 months?",
+    "a": "They predicted a period of consolidation or weaker prices in spring, with a target of $6,000 per ounce over the next 12 months."
+  },
+  {
+    "q": "By what percentage did spot silver climb on February 25, 2026, and what was its price per ounce at that time?",
+    "a": "Spot silver climbed 3.9% to $90.73 per ounce."
+  },
+  {
+    "q": "What all-time peak price did silver scale on January 29, 2026, before its price dropped by late February 2026?",
+    "a": "Silver scaled an all-time peak of $121.64."
+  },
+  {
+    "q": "What price level did Bank of America note that silver could rise above again in 2026?",
+    "a": "Bank of America noted silver could rise above $100 per ounce."
+  },
+  {
+    "q": "What was the percentage increase and final price per ounce for spot platinum on February 25, 2026?",
+    "a": "Spot platinum rose 7.1% to $2,320.90 per ounce."
+  },
+  {
+    "q": "What was the price per ounce of spot platinum on February 25, 2026, and when was its previous highest point recorded?",
+    "a": "It was $2,320.90 per ounce, its highest point since January 29, 2026."
+  },
+  {
+    "q": "By what percentage did palladium climb on February 25, 2026, and what was its price per ounce?",
+    "a": "Palladium climbed 2.6% to $1,814.41 per ounce."
+  },
+  {
+    "q": "Which financial institution's note stated that investors had slowed the pace of increasing their exposure to gold in early 2026?",
+    "a": "Bank of America."
+  },
+  {
+    "q": "Who is the global head of commodity strategy at TD Securities who commented on the inflationary impact of tariffs and oil prices in late February 2026?",
+    "a": "Bart Melek."
+  },
+  {
+    "q": "At what time in Eastern Time did spot gold rise 1.1% to $5,202.28 per ounce on February 25, 2026?",
+    "a": "By 02:00 p.m. ET."
+  },
+  {
+    "q": "What dual role does gold play in a low interest rate environment according to the market perception described in the February 25, 2026 report?",
+    "a": "It is seen as a safe-haven asset during uncertainty and a hedge against inflation."
+  },
+  {
+    "q": "What was the reported reason for gold gaining on February 25, 2026, besides geopolitical tensions between Iran and the United States?",
+    "a": "Concerns that tariffs could stoke inflation."
+  },
+  {
+    "q": "Which U.S. official stated that the Trump administration was trying to raise the temporary global import tariff from 10% to 15% in late February 2026?",
+    "a": "A White House official."
+  },
+  {
+    "q": "What was the price of spot silver on February 25, 2026, and how did it compare to its three-week high status?",
+    "a": "It was $90.73 per ounce, marking a three-week high."
+  },
+  {
+    "q": "Who reported on the gold market movements for Reuters in Bengaluru on February 25, 2026?",
+    "a": "Anmol Choubey."
+  },
+  {
+    "q": "Which two editors were credited with editing the Reuters report on gold and precious metals published on February 25, 2026?",
+    "a": "Shailesh Kuber and Jonathan Ananda."
+  },
+  {
+    "q": "What specific geopolitical event involving Iran and the United States was occurring simultaneously with the tariff concerns in late February 2026?",
+    "a": "Ongoing tensions and a scheduled third round of nuclear talks in Geneva."
+  }
+]

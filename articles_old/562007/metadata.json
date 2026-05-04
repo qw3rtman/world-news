@@ -1,0 +1,24 @@
+{
+  "market_id": "562007",
+  "question": "Will Joe Kent win the 2028 Republican presidential nomination?",
+  "slug": "will-joe-kent-win-the-2028-republican-presidential-nomination",
+  "url": "https://polymarket.com/event/republican-presidential-nominee-2028",
+  "description": "This market will resolve to \u201cYes\u201d if the named individual wins and accepts the 2028 nomination of the Republican Party for U.S. president. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThe resolution source for this market will be a consensus of official Republican Party sources.\n\nAny replacement of the Republican nominee before election day will not change the resolution of the market.",
+  "event_title": "Republican Presidential Nominee 2028",
+  "event_tags": [
+    "Politics",
+    "US Election",
+    "Elections",
+    "World Elections",
+    "Global Elections",
+    "Earn 4%",
+    "Primaries"
+  ],
+  "volume_total": 656876.0240810007,
+  "created_at": "2025-07-10T16:58:24.195439Z",
+  "end_date": "2028-11-07T00:00:00Z",
+  "num_spikes": 3,
+  "max_spike": 0.4795,
+  "total_tokens": 13485,
+  "total_articles": 15
+}

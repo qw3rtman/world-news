@@ -1,0 +1,25 @@
+{
+  "market_id": "661700",
+  "question": "Khamenei out as Supreme Leader of Iran in 2026?",
+  "slug": "khamenei-out-as-supreme-leader-of-iran-by-december-31-2026",
+  "url": "https://polymarket.com/event/khamenei-out-as-supreme-leader-of-iran-by-december-31-2026",
+  "description": "This market will resolve to \"Yes\" if Iran's Supreme Leader, Ali Khamenei, is removed from power for any length of time by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nKhamenei will be considered to be removed from power if he resigns, is detained, or otherwise loses his position or is prevented from fulfilling his duties as Supreme Leader of Iran within this market's timeframe.\n\nThe primary resolution source for this market will be a consensus of credible reporting.",
+  "event_title": "Khamenei out as Supreme Leader of Iran in 2026?",
+  "event_tags": [
+    "Geopolitics",
+    "Middle East",
+    "World",
+    "Politics",
+    "Khamenei",
+    "Iran",
+    "Israel",
+    "Macro Geopolitics"
+  ],
+  "volume_total": 4606547.937479,
+  "created_at": "2025-11-03T14:52:20.925975Z",
+  "end_date": "2026-12-31T00:00:00Z",
+  "num_spikes": 5,
+  "max_spike": 0.488,
+  "total_tokens": 34446,
+  "total_articles": 25
+}

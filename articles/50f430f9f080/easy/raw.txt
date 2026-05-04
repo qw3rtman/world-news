@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On Thursday, February 19, 2026, by what percentage did silver prices in the national capital surge to reach Rs 2,64,000 per kg?",
+    "a": "Silver prices surged by 7.32 per cent."
+  },
+  {
+    "q": "What was the closing price of silver in the national capital on Wednesday, February 18, 2026, before it jumped to Rs 2,64,000 per kg on Thursday?",
+    "a": "Silver closed at Rs 2,46,000 per kg on Wednesday."
+  },
+  {
+    "q": "How much did the price of 99.9 per cent purity gold increase in rupees on Thursday, February 19, 2026, to reach Rs 1,58,650 per 10 grams?",
+    "a": "Gold gained Rs 1,950."
+  },
+  {
+    "q": "What was the price of 99.9 per cent purity gold per 10 grams in the previous session before it rose to Rs 1,58,650 on Thursday, February 19, 2026?",
+    "a": "Gold was priced at Rs 1,56,700 per 10 grams in the previous session."
+  },
+  {
+    "q": "At what price did spot silver trade in overseas markets on Thursday, February 19, 2026, after rising 1.03 per cent?",
+    "a": "Spot silver traded at $77.97 per ounce."
+  },
+  {
+    "q": "What was the hovering price of gold per ounce in overseas markets on Thursday, February 19, 2026?",
+    "a": "Gold hovered at $4,991.24 per ounce."
+  },
+  {
+    "q": "According to Saumil Gandhi of HDFC Securities, around what price per ounce did gold prices rise on Thursday, February 19, 2026, due to safe-haven demand?",
+    "a": "Gold prices rose to around $5,000 per ounce."
+  },
+  {
+    "q": "Which potential military action against Iran was cited by Saumil Gandhi of HDFC Securities as a factor elevating geopolitical risk and supporting gold prices on Thursday, February 19, 2026?",
+    "a": "Potential US military action against Iran."
+  },
+  {
+    "q": "Which stalled negotiations were mentioned by Saumil Gandhi of HDFC Securities as adding to global uncertainty and encouraging investors to shift toward defensive assets on Thursday, February 19, 2026?",
+    "a": "Russia-Ukraine negotiations."
+  },
+  {
+    "q": "What type of assets did capital rotate out of, according to Saumil Gandhi of HDFC Securities, as geopolitical flashpoints intensified on Thursday, February 19, 2026?",
+    "a": "Capital rotated out of risk-sensitive assets."
+  },
+  {
+    "q": "What traditional asset class did capital rotate into, providing sustained support to gold prices, according to Saumil Gandhi of HDFC Securities on Thursday, February 19, 2026?",
+    "a": "Traditional safe-haven assets."
+  },
+  {
+    "q": "Who is Renisha Chainani, and what is her role at Augmont as of February 19, 2026?",
+    "a": "Renisha Chainani is the Head - Research at Augmont."
+  },
+  {
+    "q": "Which two specific US macroeconomic data points did Renisha Chainani of Augmont say investors were watching on Thursday, February 19, 2026, to shape the Federal Reserve’s interest rate outlook?",
+    "a": "US GDP data and Personal Consumption Expenditures (PCE) inflation numbers."
+  },
+  {
+    "q": "Which central bank's interest rate outlook was expected to be shaped by US GDP and PCE data, according to Renisha Chainani of Augmont on Thursday, February 19, 2026?",
+    "a": "The Federal Reserve’s interest rate outlook."
+  },
+  {
+    "q": "By how many rupees did silver prices in the national capital increase on Thursday, February 19, 2026, to reach Rs 2,64,000 per kg?",
+    "a": "Silver prices surged by Rs 18,000."
+  },
+  {
+    "q": "What percentage increase did gold of 99.9 per cent purity experience on Thursday, February 19, 2026, to reach Rs 1,58,650 per 10 grams?",
+    "a": "Gold gained 1.24 per cent."
+  },
+  {
+    "q": "Which news agency reported the surge in silver prices in the national capital on Thursday, February 19, 2026?",
+    "a": "PTI (Press Trust of India) reported the surge."
+  },
+  {
+    "q": "What was the primary driver for the sharp rise in precious metals prices on Thursday, February 19, 2026, according to the article?",
+    "a": "Rising geopolitical tensions and renewed safe-haven buying."
+  },
+  {
+    "q": "In which city did silver prices surge by Rs 18,000 on Thursday, February 19, 2026?",
+    "a": "The national capital (New Delhi)."
+  },
+  {
+    "q": "What was the price of gold per 10 grams in the national capital on Thursday, February 19, 2026, inclusive of all taxes?",
+    "a": "Gold was priced at Rs 1,58,650 per 10 grams."
+  },
+  {
+    "q": "What was the price of silver per kg in the national capital on Thursday, February 19, 2026, inclusive of all taxes?",
+    "a": "Silver was priced at Rs 2,64,000 per kg."
+  },
+  {
+    "q": "Which analyst from HDFC Securities commented on the impact of speculation over US military action against Iran on gold prices on Thursday, February 19, 2026?",
+    "a": "Saumil Gandhi, Senior Analyst - Commodities at HDFC Securities."
+  },
+  {
+    "q": "What global trend supported the rally in precious metals prices on Thursday, February 19, 2026, according to the article?",
+    "a": "Firm global trends supported the rally."
+  },
+  {
+    "q": "By what percentage did spot silver rise in overseas markets on Thursday, February 19, 2026?",
+    "a": "Spot silver traded 1.03 per cent higher."
+  },
+  {
+    "q": "What specific purity level of gold was reported to have advanced on Thursday, February 19, 2026?",
+    "a": "Gold of 99.9 per cent purity."
+  }
+]

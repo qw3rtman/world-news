@@ -1,0 +1,57 @@
+{
+  "hash": "ba5069adf67f",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/03/02/iran-2026-world-cup-news-usa-attacks/88944227007/",
+      "title": "Will Iran be at 2026 World Cup? What we know after USA attack",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 963,
+      "text_length": 4561
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1472026",
+      "spike_id": 5,
+      "market_question": "Will another country strike Iran by March 31?",
+      "event_title": "Will another country strike Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.355,
+      "spike_timestamp_before": "2026-03-02T20:30:33+00:00",
+      "spike_timestamp_after": "2026-03-03T14:30:39+00:00"
+    },
+    {
+      "market_id": "1472026",
+      "spike_id": 6,
+      "market_question": "Will another country strike Iran by March 31?",
+      "event_title": "Will another country strike Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.32500000000000007,
+      "spike_timestamp_before": "2026-03-03T14:30:39+00:00",
+      "spike_timestamp_after": "2026-03-04T13:00:35+00:00"
+    },
+    {
+      "market_id": "1472026",
+      "spike_id": 7,
+      "market_question": "Will another country strike Iran by March 31?",
+      "event_title": "Will another country strike Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.235,
+      "spike_timestamp_before": "2026-03-03T19:00:36+00:00",
+      "spike_timestamp_after": "2026-03-04T18:30:35+00:00"
+    },
+    {
+      "market_id": "1472026",
+      "spike_id": 8,
+      "market_question": "Will another country strike Iran by March 31?",
+      "event_title": "Will another country strike Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.17499999999999993,
+      "spike_timestamp_before": "2026-03-04T18:30:35+00:00",
+      "spike_timestamp_after": "2026-03-05T02:00:34+00:00"
+    }
+  ]
+}

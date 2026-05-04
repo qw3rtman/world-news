@@ -1,0 +1,37 @@
+{
+  "hash": "1594f83c55b6",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/03/19/gold-and-silver-sell-off-as-inflation-fears-grip-global-markets.html?taid=69bbbdfdfec6580001a7eca2",
+      "title": "Gold and silver sell off as inflation fears grip global markets",
+      "published_date": "2026-03-19T00:00:00.000Z",
+      "author": "Chloe Taylor",
+      "num_tokens": 938,
+      "text_length": 4485
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1032343",
+      "spike_id": 30,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "up",
+      "spike_delta": 0.24650000000000005,
+      "spike_timestamp_before": "2026-03-18T09:30:25+00:00",
+      "spike_timestamp_after": "2026-03-19T09:00:43+00:00"
+    },
+    {
+      "market_id": "1032343",
+      "spike_id": 31,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "up",
+      "spike_delta": 0.26149999999999995,
+      "spike_timestamp_before": "2026-03-18T13:00:26+00:00",
+      "spike_timestamp_after": "2026-03-19T13:00:26+00:00"
+    }
+  ]
+}

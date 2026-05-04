@@ -1,0 +1,65 @@
+{
+  "spike_index": 6,
+  "direction": "down",
+  "price_before": 0.91,
+  "price_after": 0.585,
+  "delta": -0.32500000000000007,
+  "abs_delta": 0.32500000000000007,
+  "timestamp_before": "2026-03-03T14:30:39+00:00",
+  "timestamp_after": "2026-03-04T13:00:35+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.al-monitor.com/originals/2026/03/running-out-time-israel-escalates-iran-strikes-trump-weighs-elegant-exit?gift_code=eLXdR3jTGYtGslxpNfCs5uqqpbw",
+      "file": "802c8ce0357a.txt",
+      "title": "Running out of time: Israel escalates Iran strikes as Trump weighs \u2018elegant exit\u2019 - AL-Monitor: The Middle East\u02bcs leading independent news source since 2012",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 7639,
+      "status": "ok",
+      "num_tokens": 1438
+    },
+    {
+      "url": "https://foreignpolicy.com/2026/03/02/iran-israel-us-trump-war-air-defense-missiles-drones",
+      "file": "7b7251cca69f.txt",
+      "title": "As War Escalates in the Middle East, Iran, Israel, and the U.S. Are Racing the Clock",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Amos C. Fox, Franz-Stefan Gady",
+      "text_length": 11190,
+      "status": "ok",
+      "num_tokens": 2135
+    },
+    {
+      "url": "https://foreignpolicy.com/2026/03/02/iran-israel-us-trump-war-air-defense-missiles-drones/?tpcc=recirc_right_rail051524",
+      "file": "cc8dc18e7886.txt",
+      "title": "As War Escalates in the Middle East, Iran, Israel, and the U.S. Are Racing the Clock",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Amos C. Fox, Franz-Stefan Gady",
+      "text_length": 11442,
+      "status": "ok",
+      "num_tokens": 2193
+    },
+    {
+      "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/03/02/iran-2026-world-cup-news-usa-attacks/88944227007/",
+      "file": "ba5069adf67f.txt",
+      "title": "Will Iran be at 2026 World Cup? What we know after USA attack",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 4561,
+      "status": "ok",
+      "num_tokens": 963
+    },
+    {
+      "url": "https://www.cbsnews.com/news/map-iran-strike-locations/",
+      "file": "3ddce507ff7f.txt",
+      "title": "Map shows attack locations across Iran, and Iran's retaliatory strikes on Israel and other U.S. allies in Mideast - CBS News",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": null,
+      "text_length": 2445,
+      "status": "ok",
+      "num_tokens": 497
+    }
+  ],
+  "total_tokens": 7226
+}

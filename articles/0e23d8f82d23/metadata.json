@@ -1,0 +1,27 @@
+{
+  "hash": "0e23d8f82d23",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.foxnews.com/politics/trump-says-u-s-obliterated-targets-strike-key-iranian-oil-hub",
+      "title": "Trump says US ‘obliterated’ military targets in strike on key Iranian oil hub | Fox News",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 899,
+      "text_length": 4388
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "665374",
+      "spike_id": 1,
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "event_title": "Will the U.S. invade Iran before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.18,
+      "spike_timestamp_before": "2026-03-13T13:30:23+00:00",
+      "spike_timestamp_after": "2026-03-14T12:30:21+00:00"
+    }
+  ]
+}

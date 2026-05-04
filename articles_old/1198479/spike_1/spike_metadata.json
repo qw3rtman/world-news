@@ -1,0 +1,65 @@
+{
+  "spike_index": 1,
+  "direction": "up",
+  "price_before": 0.07,
+  "price_after": 0.28,
+  "delta": 0.21000000000000002,
+  "abs_delta": 0.21000000000000002,
+  "timestamp_before": "2026-02-27T09:30:24+00:00",
+  "timestamp_after": "2026-02-27T14:00:26+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.cnn.com/world/live-news/israel-iran-attack-02-28-26-hnk-intl",
+      "file": "81db44399177.txt",
+      "title": "February 28, 2026 \u2014 US-Israeli strikes on Iran | CNN",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Tal Shalev, Mostafa Salem, Adam Pourahmadi, Gawon Bae, Abbas Al Lawati, Christopher Lamb, Lauren Kent, Eugenia Josef, Oren Liebermann, Steven Jiang, Billy Stockwell, Leila Gharagozlou, Sophie Tanno, Catherine Nicholls, Jennifer Hansler, Antoinette Radford, Daria Tarasova-Markina, Christian Edwards, Eugenia Yosef, Sophia Saifi, Frederik Pleitgen, Tim Lister, Deva Lee, Helen Regan, Teele Rebane, Isaac Yee, Karina Tsui, Aleena Fayaz, Brad Lendon, Matt Egan, Bijan  Hosseini, Nick Paton Walsh, Chris Lau, Sandi Sidhu, Ivan Watson, Todd Symons, Riane Lumer, Kareem El Damanhoury, Martin Goillandeau, Michelle Velez, Jomana Karadsheh, Quinta Thomson, Ben Brown, Kylie Atwood, Emma Tucker, Sophia Peyser, Alejandra Jaramillo, Max Saltman, Thomas Bordeaux, Lauren Izso, Nina Giraldo, Kaanita Iyer, Dalia Abdelwahab, Stephen Collinson, Jennifer Hauser, Tori B. Powell, Kit Maher, Aditi Sangal, Adam Cancryn, Gianluca Mezzofiore, Jeremy Diamond, Kristen Holmes, Natasha Bertrand, Mitchell McCluskey, Abeer Salman, Dana Karni, Uriel Blanco, Anabella Gonzalez, Christian Sierra, Haley Britzky, Gul Tuysuz, Farida Elsebai, Yong Xiong, John Miller, Josh Campbell, Alayna Treene, Tala Alrajjal, Auzinea Bacon, Camila DeChalus, CNN Staff, Ellis Kim, Dan Berman, Julia Benbrook, Lou Robinson, Jim Sciutto, Kevin Liptak, Ren\u00e9e Rigdon, Nic Robertson, Samantha Waldenberg, Zachary Cohen, Manu Raju, Jeff Zeleny, Charlotte Reck, Duarte Mendonca, Logan Schiciano, Kaitlan Collins, Angus Watson, Avery Schmitz, Nadeen Ebrahim, Satish Cheney",
+      "text_length": 20604,
+      "status": "ok",
+      "num_tokens": 4205
+    },
+    {
+      "url": "https://www.reuters.com/world/middle-east/israel-says-it-launched-pre-emptive-attack-against-iran-2026-02-28/",
+      "file": "ff0d984ccb64.txt",
+      "title": "US and Israel launch \"pre-emptive\" attack against Iran | Reuters",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": null,
+      "text_length": 2906,
+      "status": "ok",
+      "num_tokens": 558
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk",
+      "file": "e806f1e304ec.txt",
+      "title": "Why the US and Israel attacked Iran; what we know so far | CNN",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Christian Edwards, Karina Tsui, Mitchell McCluskey",
+      "text_length": 11610,
+      "status": "ok",
+      "num_tokens": 2455
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/28/world/video/israel-strikes-iran-us-coordination-hnk-digvid",
+      "file": "f1500206fb7e.txt",
+      "title": "Israel\u2019s strike on Iran was coordinated with the US, Israeli source tells CNN | CNN",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Jeremy Diamond",
+      "text_length": 269,
+      "status": "ok",
+      "num_tokens": 55
+    },
+    {
+      "url": "https://blogs.timesofisrael.com/could-war-between-the-united-states-israel-and-iran-begin-this-weekend/",
+      "file": "dd1bcc688524.txt",
+      "title": "The Blogs: Could war between the United States, Israel and Iran begin this weekend? | Celeo Ramirez | The Times of Israel",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": "Celeo Ramirez",
+      "text_length": 7951,
+      "status": "ok",
+      "num_tokens": 1456
+    }
+  ],
+  "total_tokens": 8729
+}

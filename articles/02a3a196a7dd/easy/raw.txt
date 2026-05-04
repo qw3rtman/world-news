@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the March 5, 2026 article published by The Times of India, what specific price level does Abhilash Koikkara, Head of Forex & Commodities at Nuvama Professional Clients Group, predict gold may rally towards?",
+    "a": "Rs 1.72 lakh per 10 grams."
+  },
+  {
+    "q": "According to the March 5, 2026 analysis by Abhilash Koikkara of Nuvama Professional Clients Group, what price target is set for silver to potentially cross soon?",
+    "a": "Rs 3 lakh per kilogram."
+  },
+  {
+    "q": "In the March 5, 2026 MCX Gold Price Outlook, what specific numerical level is identified as the crucial support zone for the coming week?",
+    "a": "158,000."
+  },
+  {
+    "q": "What is the current market price (CMP) for MCX Gold as listed in the March 5, 2026 trading strategy section?",
+    "a": "163,700."
+  },
+  {
+    "q": "In the March 5, 2026 MCX Silver Price Outlook, what immediate support level is seen near the prior week’s low?",
+    "a": "254,000."
+  },
+  {
+    "q": "What is the current market price (CMP) for MCX Silver as listed in the March 5, 2026 trading strategy section?",
+    "a": "275,300."
+  },
+  {
+    "q": "According to the March 5, 2026 MCX Gold Trading Strategy, what is the specified stop-loss level for gold traders?",
+    "a": "158,000."
+  },
+  {
+    "q": "According to the March 5, 2026 MCX Silver Trading Strategy, what is the specified stop-loss level for silver traders?",
+    "a": "254,000."
+  },
+  {
+    "q": "In the March 5, 2026 article, which expert from Nuvama Professional Clients Group is cited as providing the gold and silver price predictions?",
+    "a": "Abhilash Koikkara."
+  },
+  {
+    "q": "What publication and date are associated with the gold and silver price prediction article featuring Abhilash Koikkara?",
+    "a": "The Times of India, published on March 5, 2026."
+  },
+  {
+    "q": "In the March 5, 2026 MCX Silver Price Outlook, for how many consecutive weeks had silver remained above its recent swing low before the analysis?",
+    "a": "Three straight weeks."
+  },
+  {
+    "q": "What upside resistance zone does the March 5, 2026 MCX Silver Price Outlook suggest silver is positioned to test in the near to medium term?",
+    "a": "300,000."
+  },
+  {
+    "q": "According to the March 5, 2026 MCX Gold Trading Strategy, what is the specified target price for gold?",
+    "a": "172,000."
+  },
+  {
+    "q": "According to the March 5, 2026 MCX Silver Trading Strategy, what is the specified target price for silver?",
+    "a": "300,000."
+  },
+  {
+    "q": "In the March 5, 2026 article, what broader trend bias is described for MCX Gold after bouncing back from its recent high?",
+    "a": "Sideways-to-bullish bias."
+  },
+  {
+    "q": "In the March 5, 2026 article, what technical condition must hold for the broader bullish structure of MCX Gold to remain intact?",
+    "a": "Prices must hold above the key 158,000 support level."
+  },
+  {
+    "q": "In the March 5, 2026 article, what event would likely trigger a deeper correction for MCX Gold if it occurs decisively?",
+    "a": "A decisive close below the rising trend line support on the weekly timeframe."
+  },
+  {
+    "q": "According to the March 5, 2026 MCX Silver Price Outlook, what action is encouraged for traders regarding their positions relative to the prevailing trend?",
+    "a": "Align their positions with the prevailing trend while placing stop-losses near the recent weekly lows."
+  },
+  {
+    "q": "In the March 5, 2026 article, what specific numerical level for MCX Silver is described as a significant resistance zone that prices are nearing?",
+    "a": "300,000."
+  },
+  {
+    "q": "What disclaimer is provided in the March 5, 2026 article regarding the recommendations given by Abhilash Koikkara?",
+    "a": "The opinions do not represent the views of The Times of India."
+  },
+  {
+    "q": "In the March 5, 2026 MCX Gold Price Outlook, what factor is expected to invite fresh buying interest if prices pull back toward the 158,000 level?",
+    "a": "The coincidence with the previous week’s low, strengthening its technical importance."
+  },
+  {
+    "q": "According to the March 5, 2026 MCX Silver Price Outlook, what could weaken the bullish bias for silver?",
+    "a": "A decisive close below the 254,000 support area."
+  },
+  {
+    "q": "In the March 5, 2026 article, which desk of The Times of India is credited with writing the article?",
+    "a": "The TOI Business Desk."
+  },
+  {
+    "q": "What specific monetary value in Indian Rupees does the March 5, 2026 article title ask if gold will rally to per 10 grams?",
+    "a": "Rs 1.72 lakh."
+  },
+  {
+    "q": "What specific monetary value in Indian Rupees does the March 5, 2026 article title ask if silver will cross per kilogram?",
+    "a": "Rs 3 lakh."
+  }
+]

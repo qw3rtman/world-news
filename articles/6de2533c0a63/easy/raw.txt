@@ -1,0 +1,102 @@
+[
+  {
+    "q": "What deadline did U.S. Defense Secretary Pete Hegseth set for Anthropic CEO Dario Amodei to provide a signed document granting full military access to the Claude AI model during their Tuesday morning meeting at the Pentagon?",
+    "a": "5 p.m. Friday."
+  },
+  {
+    "q": "Which U.S. government law are officials considering invoking to compel Anthropic to adhere to military demands for its AI technology?",
+    "a": "The Defense Production Act."
+  },
+  {
+    "q": "What monetary value was assigned to the contract the Pentagon awarded to Anthropic in July for developing AI capabilities to advance U.S. national security?",
+    "a": "$200 million."
+  },
+  {
+    "q": "What specific restriction did Anthropic repeatedly request the Defense Department agree to regarding the Claude AI model's use?",
+    "a": "Guardrails restricting the model from conducting mass surveillance of Americans."
+  },
+  {
+    "q": "Whose AI model, Grok, was described by a senior Pentagon official as being on board for use in a classified setting, unlike the situation with Anthropic?",
+    "a": "Elon Musk's xAI."
+  },
+  {
+    "q": "What analogy did Defense Secretary Pete Hegseth use during his meeting with Anthropic CEO Dario Amodei to argue that the military should have unrestricted use of the Claude AI model?",
+    "a": "The comparison that Boeing has no say in how the Pentagon uses planes it purchases."
+  },
+  {
+    "q": "What specific operational risk did Anthropic CEO Dario Amodei cite as a reason for requiring human involvement in final targeting decisions made by the Claude AI model?",
+    "a": "The potential for hallucinations and unreliable outputs leading to lethal mistakes, unintended escalation, or mission failure."
+  },
+  {
+    "q": "What potential designation might the Pentagon officially apply to Anthropic to push the company out of government contracts if trust issues persist?",
+    "a": "A 'supply chain risk'."
+  },
+  {
+    "q": "What unique status did Anthropic hold among tech companies regarding access to U.S. military infrastructure prior to this dispute?",
+    "a": "It was the first tech company authorized to work on the military's classified networks."
+  },
+  {
+    "q": "What did a senior Pentagon official state in response to claims that the dispute involved mass surveillance and autonomous weapons?",
+    "a": "That the issue has nothing to do with mass surveillance or autonomous weapons and that the Pentagon has only given lawful orders."
+  },
+  {
+    "q": "On what day of the week did Defense Secretary Pete Hegseth hold the meeting with Anthropic CEO Dario Amodei at the Pentagon?",
+    "a": "Tuesday."
+  },
+  {
+    "q": "What was the primary demand made by Defense Secretary Pete Hegseth to Anthropic CEO Dario Amodei during their February 2026 meeting?",
+    "a": "To provide a signed document granting full military access to the Claude AI model."
+  },
+  {
+    "q": "Which company's AI model is named Claude and is the subject of the access dispute between the Pentagon and its creators?",
+    "a": "Anthropic."
+  },
+  {
+    "q": "What did an Anthropic spokesperson state in a public statement regarding the company's ongoing negotiations with the government?",
+    "a": "That they continued good-faith conversations about usage policy to support the national security mission responsibly."
+  },
+  {
+    "q": "What specific type of military activity did Defense officials state they are simply asking for a license to use the Claude AI model for?",
+    "a": "Lawful activities."
+  },
+  {
+    "q": "Who is the CEO of Anthropic who met with Defense Secretary Pete Hegseth at the Pentagon?",
+    "a": "Dario Amodei."
+  },
+  {
+    "q": "What internal discussion occurred among Pentagon officials after Anthropic CEO Dario Amodei left the Tuesday meeting?",
+    "a": "They discussed whether to use the Defense Production Act to exert control over the domestic industry."
+  },
+  {
+    "q": "According to sources, what is the current state of trust between the Pentagon and Anthropic regarding the use of its AI model?",
+    "a": "Trust is breaking down."
+  },
+  {
+    "q": "What potential consequences of relying on AI without human judgment did the source familiar with the meeting highlight regarding the Claude model?",
+    "a": "Unintended escalation or mission failure."
+  },
+  {
+    "q": "Which news outlet reported earlier on the details of the transpired meeting between Defense Secretary Pete Hegseth and Anthropic CEO Dario Amodei?",
+    "a": "Axios."
+  },
+  {
+    "q": "What did Defense Secretary Pete Hegseth argue should be true for the military's use of Claude, based on his analogy with Boeing aircraft?",
+    "a": "That the government should have no restrictions on how it uses the technology it has purchased."
+  },
+  {
+    "q": "What specific time of day was set as the deadline for Anthropic to submit the signed access document?",
+    "a": "5 p.m."
+  },
+  {
+    "q": "Which AI company was identified by a senior Pentagon official as having an AI model (Grok) that is on board for classified use?",
+    "a": "xAI."
+  },
+  {
+    "q": "What did Defense officials note about Anthropic's request to restrict mass surveillance of Americans?",
+    "a": "They noted that such surveillance is illegal and that the military is only seeking a license for lawful activities."
+  },
+  {
+    "q": "What reason did sources give for the Pentagon potentially designating Anthropic as a supply chain risk?",
+    "a": "Officials are unsure they can trust Anthropic at this point."
+  }
+]

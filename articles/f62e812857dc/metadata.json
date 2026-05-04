@@ -1,0 +1,27 @@
+{
+  "hash": "f62e812857dc",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.aljazeera.com/news/2026/2/24/mapping-russian-attacks-and-territorial-gains-across-ukraine?traffic_source=rss",
+      "title": "Mapping Russian attacks and territorial gains across Ukraine | Russia-Ukraine war News | Al Jazeera",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": "Hanna Duggal",
+      "num_tokens": 1871,
+      "text_length": 8840
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1007260",
+      "spike_id": 1,
+      "market_question": "Will Russia capture all of Pokrovsk by February 28?",
+      "event_title": "Will Russia capture all of Pokrovsk by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.9329999999999999,
+      "spike_timestamp_before": "2026-02-25T16:30:17+00:00",
+      "spike_timestamp_after": "2026-02-25T20:00:15+00:00"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "spike_index": 26,
+  "direction": "down",
+  "price_before": 0.585,
+  "price_after": 0.385,
+  "delta": -0.19999999999999996,
+  "abs_delta": 0.19999999999999996,
+  "timestamp_before": "2026-03-14T14:30:27+00:00",
+  "timestamp_after": "2026-03-15T06:30:37+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://reuters.com/business/energy/oil-poised-further-gains-middle-east-conflict-threatens-export-facilities-2026-03-15/",
+      "file": "86ec9e291bfe.txt",
+      "title": "Oil poised for further gains as Middle East conflict threatens export facilities | Reuters",
+      "published_date": "2026-03-15T00:00:00.000Z",
+      "author": "Florence Tan",
+      "text_length": 2740,
+      "status": "ok",
+      "num_tokens": 550
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/15/oil-poised-for-further-gains-as-middle-east-conflict-threatens-export-facilities.html",
+      "file": "660dd1da992d.txt",
+      "title": "Oil poised for gains as Iran war threatens export facilities",
+      "published_date": "2026-03-15T00:00:00.000Z",
+      "author": null,
+      "text_length": 2567,
+      "status": "ok",
+      "num_tokens": 528
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/15/oil-poised-for-further-gains-as-middle-east-conflict-threatens-export-facilities.html?__source=androidappshare",
+      "file": "835ac5ae0581.txt",
+      "title": "Oil poised for gains as Iran war threatens export facilities",
+      "published_date": "2026-03-15T00:00:00.000Z",
+      "author": null,
+      "text_length": 2567,
+      "status": "ok",
+      "num_tokens": 528
+    },
+    {
+      "url": "http://stocks.us.reuters.com/business/energy/oil-poised-further-gains-middle-east-conflict-threatens-export-facilities-2026-03-15/",
+      "file": "a225f026d12d.txt",
+      "title": "Oil poised for further gains as Middle East conflict threatens export facilities | Reuters",
+      "published_date": "2026-03-15T00:00:00.000Z",
+      "author": "Florence Tan",
+      "text_length": 2860,
+      "status": "ok",
+      "num_tokens": 604
+    },
+    {
+      "url": "https://www.reuters.com/business/finance/global-markets-view-usa-2026-03-12/",
+      "file": "eb7f46997dd6.txt",
+      "title": "Morning Bid: Triple digit crude | Reuters",
+      "published_date": "2026-03-12T00:00:00.000Z",
+      "author": "Mike Dolan",
+      "text_length": 3960,
+      "status": "ok",
+      "num_tokens": 855
+    }
+  ],
+  "total_tokens": 3065
+}

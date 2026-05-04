@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On March 20, 2026, what specific action did the Iraqi government take regarding oilfields operated by foreign companies, and what was the stated reason for this action?",
+    "a": "Iraq declared a force majeure at all oilfields operated by foreign companies because it could not ship crude through the Strait of Hormuz."
+  },
+  {
+    "q": "As of the close on March 20, 2026, what was the closing price per barrel of Brent crude futures, and by what percentage did it rise?",
+    "a": "Brent crude futures closed at $112.19 per barrel, rising 3.26%."
+  },
+  {
+    "q": "What were the closing prices for U.S. crude oil and Brent crude futures on March 20, 2026, and which benchmark experienced the higher dollar gain?",
+    "a": "U.S. crude settled at $98.32 per barrel and Brent at $112.19 per barrel; Brent experienced the higher dollar gain of $3.54 compared to U.S. crude's $2.18 gain."
+  },
+  {
+    "q": "Which two specific refineries in Kuwait were struck by drones on Thursday, March 19, 2026, and what immediate operational consequence occurred at the Mina Al Ahmadi refinery?",
+    "a": "The Mina Al-Ahmadi and Mina Abdullah refineries were struck; the Mina Al Ahmadi attack caused fires that prompted a precautionary shutdown of some facility parts."
+  },
+  {
+    "q": "According to the Wall Street Journal report cited on March 20, 2026, what price level do Saudi oil officials expect crude prices could reach if Iran war disruptions last through late April?",
+    "a": "Saudi oil officials expect crude prices could climb above $180 a barrel."
+  },
+  {
+    "q": "What potential policy change did U.S. Treasury Secretary Scott Bessent announce on March 20, 2026, regarding Iranian crude, and how many barrels were involved?",
+    "a": "Bessent stated Washington may soon lift sanctions on about 140 million barrels of Iranian crude stored aboard tankers to ease price pressures."
+  },
+  {
+    "q": "According to U.S. Treasury Secretary Scott Bessent's statement on March 20, 2026, what is the expected timeframe for bringing unsanctioned Iranian crude back into global markets to help cap prices?",
+    "a": "The move is expected to help cap prices over the next 10 to 14 days."
+  },
+  {
+    "q": "What two claims did Israeli Prime Minister Benjamin Netanyahu make to reporters on March 20, 2026, regarding Israel's role in the conflict and Iran's military capabilities?",
+    "a": "Netanyahu stated Israel is assisting U.S. efforts to reopen the Strait of Hormuz and that Iran no longer has the capability to enrich uranium or produce ballistic missiles."
+  },
+  {
+    "q": "What near-term price outlook did Citi lift for Brent and WTI crude oil on March 20, 2026, and over what timeframe?",
+    "a": "Citi lifted its near-term price outlook, expecting Brent and WTI to climb to $120 per barrel over the next one to three months."
+  },
+  {
+    "q": "In its March 20, 2026, analysis, what bull-case scenario price did Citi project for crude oil if Iran conflict disruptions intensify?",
+    "a": "Citi projected a bull-case scenario price of $150 per barrel."
+  },
+  {
+    "q": "What base case de-escalation timeframe did Citi assume in its March 20, 2026, report, and what year-end price range did it forecast for Brent crude under that assumption?",
+    "a": "Citi assumed de-escalation within four to six weeks, forecasting Brent to ease back to $70–$80 by year-end."
+  },
+  {
+    "q": "Why did Citi raise its Brent-WTI spread forecasts in its March 20, 2026, report, and what specific demand factor was cited?",
+    "a": "Citi raised forecasts to reflect elevated freight costs and strong U.S. Gulf Coast demand for inland barrels."
+  },
+  {
+    "q": "What specific event caused oil tanker traffic through the Strait of Hormuz to plunge prior to Iraq's March 20, 2026, force majeure declaration?",
+    "a": "Attacks by Iran caused the plunge in oil tanker traffic through the Strait of Hormuz."
+  },
+  {
+    "q": "Which news organization reported on Saudi oil officials' expectations of crude prices climbing above $180 on March 20, 2026?",
+    "a": "The Wall Street Journal reported on Saudi oil officials' expectations."
+  },
+  {
+    "q": "On which television network did U.S. Treasury Secretary Scott Bessent make his comments about unsanctioning Iranian oil on March 20, 2026?",
+    "a": "Bessent made the comments on the Fox Business Network."
+  },
+  {
+    "q": "What specific percentage increase did U.S. crude oil experience on March 20, 2026, and what was its final settlement price?",
+    "a": "U.S. crude oil gained 2.27% to settle at $98.32 per barrel."
+  },
+  {
+    "q": "Which entity confirmed that the drone attack on the Mina Al Ahmadi refinery resulted in fires in several units on March 19, 2026?",
+    "a": "The Kuwait Petroleum Corporation confirmed the fires and subsequent precautionary shutdown."
+  },
+  {
+    "q": "What dual purpose did U.S. Treasury Secretary Scott Bessent attribute to the potential lifting of sanctions on Iranian crude on March 20, 2026?",
+    "a": "Bessent stated the move would ease price pressures following Iran’s closure of the Strait and help cap prices over the next 10 to 14 days."
+  },
+  {
+    "q": "According to Israeli Prime Minister Benjamin Netanyahu on March 20, 2026, how did he characterize the potential timeline for the end of the war with Iran?",
+    "a": "Netanyahu added that the war could end sooner than many expect."
+  },
+  {
+    "q": "What specific commodity spreads did Citi note had widened sharply in its March 20, 2026, report, prompting a revision of forecasts?",
+    "a": "Citi noted that key crude spreads, specifically the Brent-WTI spread, had widened sharply."
+  },
+  {
+    "q": "What was the dollar amount of the gain for Brent crude futures on March 20, 2026, and what was the corresponding gain for U.S. crude?",
+    "a": "Brent crude gained $3.54 per barrel, while U.S. crude gained $2.18 per barrel."
+  },
+  {
+    "q": "Which two geopolitical actions did U.S. Treasury Secretary Scott Bessent and Israeli Prime Minister Benjamin Netanyahu both address in their March 20, 2026, statements?",
+    "a": "Both addressed the conflict involving Iran and its impact on oil markets and the Strait of Hormuz."
+  },
+  {
+    "q": "What specific volume of Iranian crude did U.S. Treasury Secretary Scott Bessent mention as being on the water and potentially unsanctioned on March 20, 2026?",
+    "a": "Bessent mentioned about 140 million barrels of Iranian oil on the water."
+  },
+  {
+    "q": "What specific operational impact did the drone strikes on Kuwaiti refineries have on the Mina Abdullah refinery, according to the available reports on March 20, 2026?",
+    "a": "The article states that the attack on the Mina Al Ahmadi refinery resulted in fires and a shutdown, but does not specify an operational impact for the Mina Abdullah refinery other than it being struck."
+  },
+  {
+    "q": "What long-term price forecast did Citi provide for Brent crude in its March 20, 2026, report if de-escalation occurs within four to six weeks?",
+    "a": "Citi forecast Brent to ease back to $70–$80 by year-end."
+  }
+]

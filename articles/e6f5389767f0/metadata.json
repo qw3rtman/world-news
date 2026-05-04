@@ -1,0 +1,37 @@
+{
+  "hash": "e6f5389767f0",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.statnews.com/2026/02/19/hims-acquire-eucalyptus-telehealth-international/",
+      "title": "Hims to buy telehealth firm Eucalyptus as it expands internationally",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": "Andrew Joseph",
+      "num_tokens": 162,
+      "text_length": 770
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694938",
+      "spike_id": 3,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.21500000000000002,
+      "spike_timestamp_before": "2026-02-21T07:30:28+00:00",
+      "spike_timestamp_after": "2026-02-21T21:00:38+00:00"
+    },
+    {
+      "market_id": "694938",
+      "spike_id": 4,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.15499999999999997,
+      "spike_timestamp_before": "2026-02-21T21:00:38+00:00",
+      "spike_timestamp_after": "2026-02-22T01:30:30+00:00"
+    }
+  ]
+}

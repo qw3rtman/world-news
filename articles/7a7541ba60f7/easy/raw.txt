@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2026, what specific monetary impact did Ryan Sweet, chief global economist at Oxford Economics, state results from every one-cent increase in gasoline prices over the course of a year?",
+    "a": "It reduces consumer spending by $1.5 billion."
+  },
+  {
+    "q": "On the Thursday in March 2026 reported in the article, what price did Brent crude briefly top following fresh attacks on energy infrastructure?",
+    "a": "$119 per barrel."
+  },
+  {
+    "q": "According to AAA data reported on Thursday in March 2026, what was the average price per gallon of gasoline in the United States?",
+    "a": "$3.88 per gallon."
+  },
+  {
+    "q": "In July 2008, what approximate price per barrel did both Brent crude and West Texas Intermediate reach, marking the previous all-time high for oil prices?",
+    "a": "Around $145 per barrel."
+  },
+  {
+    "q": "In a research note published the week prior to March 19, 2026, what price level did TD Securities analysts suggest oil could eventually top if the Middle East conflict drags on?",
+    "a": "$200 per barrel."
+  },
+  {
+    "q": "Samuel Tombs, chief U.S. economist at Pantheon Macroeconomics, told CBS News in March 2026 that which region's economy would likely not dip into a recession even if oil prices approached 2008 levels?",
+    "a": "The United States."
+  },
+  {
+    "q": "According to a March 11 Oxford Economics research note cited in March 2026, what specific scenario regarding Brent oil prices could cause U.S. layoffs to rise and push up the jobless rate?",
+    "a": "If Brent oil prices rise to $140 per barrel and remain there for two months."
+  },
+  {
+    "q": "In March 2026, which group of households did Ryan Sweet of Oxford Economics identify as bearing the brunt of rising gas prices, forcing them to cut back on discretionary spending?",
+    "a": "Lower-income households."
+  },
+  {
+    "q": "A recent analysis from Pantheon Macroeconomics cited in March 2026 found that if oil prices increased to $150 per barrel for three months, to what annual pace could the Consumer Price Index jump?",
+    "a": "6%."
+  },
+  {
+    "q": "In early March 2026, for the first time since 2022, what fuel price surpassed $5 a gallon, contributing to concerns about higher food prices?",
+    "a": "Diesel."
+  },
+  {
+    "q": "In a research note published on Thursday in March 2026, Ramnivas Mundada of GlobalData warned that which combination of factors increases the likelihood that inflation proves stickier than expected?",
+    "a": "Higher freight costs, longer shipping routes, and insurance costs."
+  },
+  {
+    "q": "In March 2026, experts noted that larger tax refunds resulting from the \"big, beautiful bill\" act would help consumers weather costs related to which specific geopolitical conflict?",
+    "a": "The Iran war."
+  },
+  {
+    "q": "According to the nonpartisan Tax Foundation estimates cited in March 2026, what was the average tax refund amount expected for U.S. households?",
+    "a": "$748."
+  },
+  {
+    "q": "In March 2026, Samuel Tombs of Pantheon Macroeconomics stated that households have a reasonable amount of savings to get through a temporary period of what specific economic condition?",
+    "a": "Higher energy prices."
+  },
+  {
+    "q": "Ryan Sweet of Oxford Economics stated in March 2026 that the U.S. consumer can weather a couple of weeks of high energy prices, but with each passing month, what begins to mount?",
+    "a": "The economic costs."
+  },
+  {
+    "q": "In March 2026, average gasoline prices in the U.S. were reported to be almost how much higher than they were before the war started?",
+    "a": "$1 higher."
+  },
+  {
+    "q": "According to FactSet data cited in the March 2026 article, what was the approximate inflation-adjusted price per barrel of oil in July 2008?",
+    "a": "About $215 per barrel."
+  },
+  {
+    "q": "In March 2026, experts explained that the U.S. is more insulated from global energy spikes than Europe and Asia primarily because the country is a top oil producer and because less consumer spending goes toward what?",
+    "a": "Energy production."
+  },
+  {
+    "q": "Ryan Sweet of Oxford Economics warned in March 2026 that if the stock market falls, higher-income households might pull back on spending, creating knock-on effects for which part of the economy?",
+    "a": "Consumer spending."
+  },
+  {
+    "q": "In March 2026, Ramnivas Mundada of GlobalData noted that even if oil prices stabilize, persistence of higher delivered prices for fuel and intermediate goods is likely due to bottlenecks in which specific global shipping chokepoint?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "In March 2026, the Tax Foundation estimated that the average $748 tax refund would be roughly equal to the additional fuel costs the typical U.S. household will face due to higher prices of what commodity?",
+    "a": "Gasoline."
+  },
+  {
+    "q": "Samuel Tombs of Pantheon Macroeconomics told CBS News in March 2026 that if U.S. layoffs rise due to higher business costs, it creates a \"vicious cycle\" because layoffs also hit what?",
+    "a": "Consumption."
+  },
+  {
+    "q": "In March 2026, experts warned that the conflict driving up diesel prices would lead to higher food prices because diesel is the fuel used by trucks and barges that transport what?",
+    "a": "U.S. goods."
+  },
+  {
+    "q": "According to the March 2026 article, the Consumer Price Index was recorded at what annual pace in February 2026 before potential inflationary spikes from oil prices?",
+    "a": "2.4%."
+  },
+  {
+    "q": "In March 2026, which organization's data showed that the cost of jet fuel was rising, leading some carriers to hike their ticket prices?",
+    "a": "AAA."
+  }
+]

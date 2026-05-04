@@ -1,0 +1,27 @@
+{
+  "hash": "7e56f4d7cd31",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://fortune.com/2026/02/28/iran-death-ground-existential-threat-us-attacks-retaliation-terrorism-cyberattacks-strait-of-hormuz/",
+      "title": "Iran is on 'death ground' amid existential threat from US attacks and could 'go big' in retaliation | Fortune",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Jason Ma",
+      "num_tokens": 175,
+      "text_length": 756
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1394368",
+      "spike_id": 1,
+      "market_question": "Will the U.S. invade Iran by March 31?",
+      "event_title": "Will the U.S. invade Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.17,
+      "spike_timestamp_before": "2026-02-27T12:00:50+00:00",
+      "spike_timestamp_after": "2026-02-28T11:30:28+00:00"
+    }
+  ]
+}

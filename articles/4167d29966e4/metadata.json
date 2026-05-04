@@ -1,0 +1,27 @@
+{
+  "hash": "4167d29966e4",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/sustainability/sustainable-finance-reporting/talk-ai-disruption-wars-oil-rates-dominates-ma-conference-even-deals-soar-2026-03-19/",
+      "title": "Talk of AI disruption, wars, oil and rates dominates M&A conference even as deals soar | Reuters",
+      "published_date": "2026-03-19T00:00:00.000Z",
+      "author": "Svea Herbst-Bayliss",
+      "num_tokens": 760,
+      "text_length": 3521
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694937",
+      "spike_id": 10,
+      "market_question": "Will BP be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.15,
+      "spike_timestamp_before": "2026-03-19T06:00:39+00:00",
+      "spike_timestamp_after": "2026-03-19T12:00:27+00:00"
+    }
+  ]
+}

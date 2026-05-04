@@ -1,0 +1,27 @@
+{
+  "hash": "547b4a87a7d8",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-india-where-is-gold-silver-rate-headed-on-march-11-2026-mcx-gold-futures-outlook-us-iran-war-middle-east-tensions/articleshow/129434161.cms",
+      "title": "Gold, silver price prediction today (March 11, 2026): Where are gold, silver headed in the near-term amid US-Iran war tensions? - The Times of India",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /   Mar 11, 2026, 11:14 IST",
+      "num_tokens": 762,
+      "text_length": 3637
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1032272",
+      "spike_id": 8,
+      "market_question": "Will Gold (GC) hit (HIGH) $5,500 by end of June?",
+      "event_title": "What will Gold (GC) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.18300000000000005,
+      "spike_timestamp_before": "2026-03-12T09:30:25+00:00",
+      "spike_timestamp_after": "2026-03-13T01:00:29+00:00"
+    }
+  ]
+}

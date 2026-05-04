@@ -1,0 +1,47 @@
+{
+  "hash": "94b773ef7f33",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-where-are-gold-rates-headed-on-february-24-2026-and-in-the-near-term-mcx-gold-silver-prices/amp_articleshow/128741684.cms",
+      "title": "Gold price prediction today: Will gold prices continue their uptrend? - The Times of India",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1413,
+      "text_length": 5730
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1032336",
+      "spike_id": 2,
+      "market_question": "Will Silver (SI) hit (HIGH) $120 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.22899999999999998,
+      "spike_timestamp_before": "2026-02-24T13:00:31+00:00",
+      "spike_timestamp_after": "2026-02-25T08:00:31+00:00"
+    },
+    {
+      "market_id": "1032343",
+      "spike_id": 10,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.18800000000000006,
+      "spike_timestamp_before": "2026-02-24T13:30:16+00:00",
+      "spike_timestamp_after": "2026-02-25T07:30:17+00:00"
+    },
+    {
+      "market_id": "1032343",
+      "spike_id": 11,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.17350000000000004,
+      "spike_timestamp_before": "2026-02-24T20:30:18+00:00",
+      "spike_timestamp_after": "2026-02-25T20:30:18+00:00"
+    }
+  ]
+}

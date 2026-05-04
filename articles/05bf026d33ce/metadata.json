@@ -1,0 +1,37 @@
+{
+  "hash": "05bf026d33ce",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://reuters.com/business/nvidia-will-not-be-able-invest-100-billion-openai-due-ipo-ceo-jensen-says-2026-03-04/",
+      "title": "Nvidia CEO hints at end of investments in OpenAI, Anthropic | Reuters",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "Juby Babu",
+      "num_tokens": 340,
+      "text_length": 1652
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694939",
+      "spike_id": 10,
+      "market_question": "Will Ubisoft be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.255,
+      "spike_timestamp_before": "2026-03-06T17:30:20+00:00",
+      "spike_timestamp_after": "2026-03-07T02:00:20+00:00"
+    },
+    {
+      "market_id": "694939",
+      "spike_id": 9,
+      "market_question": "Will Ubisoft be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.33499999999999996,
+      "spike_timestamp_before": "2026-03-05T20:30:20+00:00",
+      "spike_timestamp_after": "2026-03-06T17:30:20+00:00"
+    }
+  ]
+}

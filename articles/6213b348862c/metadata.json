@@ -1,0 +1,57 @@
+{
+  "hash": "6213b348862c",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-02-24/payments-processor-stripe-expresses-interest-in-paypal?campaign_id=4&emc=edit_dk_20260225&instance_id=171608&nl=dealbook&regi_id=74586856&segment_id=215787&user_id=254602a80a45c1f8fedbd702d6003fb9",
+      "title": "Stripe Considers Acquisition of All or Parts of PayPal (PYPL) - Bloomberg",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": "Ryan Gould",
+      "num_tokens": 75,
+      "text_length": 421
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "700395",
+      "spike_id": 1,
+      "market_question": "Will Lovable be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.22,
+      "spike_timestamp_before": "2026-02-23T17:30:48+00:00",
+      "spike_timestamp_after": "2026-02-24T05:30:26+00:00"
+    },
+    {
+      "market_id": "700395",
+      "spike_id": 2,
+      "market_question": "Will Lovable be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.23,
+      "spike_timestamp_before": "2026-02-24T05:30:26+00:00",
+      "spike_timestamp_after": "2026-02-24T08:00:36+00:00"
+    },
+    {
+      "market_id": "700395",
+      "spike_id": 3,
+      "market_question": "Will Lovable be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.335,
+      "spike_timestamp_before": "2026-02-24T11:00:25+00:00",
+      "spike_timestamp_after": "2026-02-24T14:00:25+00:00"
+    },
+    {
+      "market_id": "700395",
+      "spike_id": 4,
+      "market_question": "Will Lovable be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.365,
+      "spike_timestamp_before": "2026-02-24T14:00:25+00:00",
+      "spike_timestamp_after": "2026-02-25T04:30:30+00:00"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the interview with Sky News on Thursday, March 12, 2026, what condition did U.S. Treasury Secretary Scott Bessent state must be met before the U.S. Navy, potentially with an international coalition, begins escorting vessels through the Strait of Hormuz?",
+    "a": "The U.S. must have complete control of the skies and Iran's missile rebuilding capabilities must be completely degraded."
+  },
+  {
+    "q": "Which two countries conducted strikes on Iran that led to Tehran's response, widened regional tensions, and paralyzed shipping through the Strait of Hormuz in early March 2026?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "According to U.S. Treasury Secretary Scott Bessent's statements on March 12, 2026, which specific types of tankers have been observed passing through the Strait of Hormuz, indicating the straits have not been mined?",
+    "a": "Iranian tankers and some Chinese flag tankers."
+  },
+  {
+    "q": "On March 12, 2026, which Iranian military organization stated it would block oil shipments from the Gulf unless U.S. and Israeli attacks ceased?",
+    "a": "Iran's Islamic Revolutionary Guard Corps."
+  },
+  {
+    "q": "In an interview reported on March 12, 2026, which U.S. official stated that the U.S. Navy would escort vessels through the Strait of Hormuz when militarily possible?",
+    "a": "U.S. Treasury Secretary Scott Bessent."
+  },
+  {
+    "q": "What impact did the U.S. and Israeli strikes on Iran and Iran's subsequent response have on global energy markets in early March 2026, according to reports from March 12, 2026?",
+    "a": "They disrupted vital Middle East oil and gas flows and sent energy prices higher."
+  },
+  {
+    "q": "Which news organization reported on March 12, 2026, that U.S. Treasury Secretary Scott Bessent discussed the possibility of an international coalition escorting vessels in the Strait of Hormuz?",
+    "a": "Sky News."
+  },
+  {
+    "q": "According to U.S. Treasury Secretary Scott Bessent on March 12, 2026, what specific military capabilities of Iran must be degraded before escort operations can begin?",
+    "a": "Iran's rebuilding capabilities for missiles."
+  },
+  {
+    "q": "Which two Reuters reporters were credited with reporting the March 12, 2026, story about U.S. Navy escort plans in the Strait of Hormuz?",
+    "a": "William James and Ismail Shakil."
+  },
+  {
+    "q": "Which two editors were credited with editing the March 12, 2026, Reuters report regarding U.S. Treasury Secretary Scott Bessent's comments on the Strait of Hormuz?",
+    "a": "Caitlin Webber and David Ljunggren."
+  },
+  {
+    "q": "In March 2026, which body did U.S. Treasury Secretary Scott Bessent suggest might join the U.S. Navy in escorting vessels through the Strait of Hormuz?",
+    "a": "An international coalition."
+  },
+  {
+    "q": "What specific threat did Iran's Islamic Revolutionary Guard Corps issue on or before March 12, 2026, regarding oil shipments from the Gulf?",
+    "a": "It said it would block oil shipments unless U.S. and Israeli attacks cease."
+  },
+  {
+    "q": "According to Scott Bessent's March 12, 2026, interview, what observation about current tanker movements supports the conclusion that the Strait of Hormuz has not been mined?",
+    "a": "The observation that Iranian tankers and some Chinese flag tankers are coming through now."
+  },
+  {
+    "q": "Which geographic chokepoint's shipping was paralyzed by regional tensions in early March 2026, according to reports citing U.S. Treasury Secretary Scott Bessent?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "What did U.S. Treasury Secretary Scott Bessent describe as the prerequisite for the U.S. Navy to begin escorting vessels in the Strait of Hormuz in March 2026?",
+    "a": "Militarily possible conditions, specifically complete control of the skies and degraded Iranian missile rebuilding capabilities."
+  },
+  {
+    "q": "Which two nations' attacks on Iran were cited in March 2026 reports as the cause for widened regional tensions and paralyzed shipping in the Strait of Hormuz?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "What did the Islamic Revolutionary Guard Corps of Iran claim it would do to oil shipments from the Gulf in early March 2026 if U.S. and Israeli attacks did not stop?",
+    "a": "Block the oil shipments."
+  },
+  {
+    "q": "In the March 12, 2026, interview with Sky News, who was the U.S. official that expressed belief in the eventual escorting of vessels through the Strait of Hormuz?",
+    "a": "U.S. Treasury Secretary Scott Bessent."
+  },
+  {
+    "q": "Which specific national flags were mentioned by U.S. Treasury Secretary Scott Bessent in March 2026 as being present on tankers passing through the Strait of Hormuz?",
+    "a": "Iranian and Chinese."
+  },
+  {
+    "q": "What economic consequence did the paralysis of shipping through the Strait of Hormuz have in early March 2026, according to reports from March 12, 2026?",
+    "a": "It sent energy prices higher."
+  },
+  {
+    "q": "According to the March 12, 2026, report, which organization stated it would block oil shipments from the Gulf unless U.S. and Israeli attacks ceased?",
+    "a": "Iran's Islamic Revolutionary Guard Corps."
+  },
+  {
+    "q": "What two specific military conditions did U.S. Treasury Secretary Scott Bessent cite in March 2026 as necessary before the U.S. Navy could escort vessels in the Strait of Hormuz?",
+    "a": "Complete control of the skies and the complete degradation of Iran's missile rebuilding capabilities."
+  },
+  {
+    "q": "Which international news wire service reported on March 12, 2026, that U.S. Treasury Secretary Scott Bessent discussed escorting vessels in the Strait of Hormuz?",
+    "a": "Reuters."
+  },
+  {
+    "q": "In March 2026, which two countries' military actions were identified as widening regional tensions and disrupting oil and gas flows in the Middle East?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "What did U.S. Treasury Secretary Scott Bessent say about the mining status of the Strait of Hormuz in his March 12, 2026, interview, based on observed tanker movements?",
+    "a": "He stated that they have not mined the straits because Iranian and Chinese flag tankers are passing through."
+  }
+]

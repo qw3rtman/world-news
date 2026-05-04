@@ -1,0 +1,65 @@
+{
+  "spike_index": 1,
+  "direction": "up",
+  "price_before": 0.055,
+  "price_after": 0.211,
+  "delta": 0.156,
+  "abs_delta": 0.156,
+  "timestamp_before": "2026-02-28T15:00:24+00:00",
+  "timestamp_after": "2026-02-28T21:00:26+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://links.message.bloomberg.com/s/c/61lxmTVi9FmLGe7FgcaqBOo1putbMbwMTyr96cGVRhavBdg4UeLk1E8E4c9i4mp4QpWB6Ofqxt2nnmSeI8Uj1h_G4J2HKkvdQ2QlSqqtJ8mAC05wf_hS1IfHA4KAMwMfVQJquC80YfO0FclnQ3wpit1UL6x1MC4Fr6rr5k1saaVIbbpNMWLF9yvVtEfM_j2O3wXuZTr9GOOkDNsfwEhHMKQ2G6fYnltwNhpXMensldWndR_IN_Jzvl4dc_FdiiFpFglwbfBcUtXyd6De9LKWyk1xsRvyjpXrNww6guFKvF6suAzYYYi65KNz5NvEyJI9LOM1Mz9qibQPzU2Uta73RLCJylASzbAgJAbK0VXVCjOGPKqItSzQktVdY74/NzXHI2qZiUnFoUsgG9S8Qsu3oSPwc0S5/18",
+      "file": "cdaf63d395f0.txt",
+      "title": "US x Iran ceasefire by...? Predictions & Odds | Polymarket",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 3101,
+      "status": "ok",
+      "num_tokens": 754
+    },
+    {
+      "url": "https://www.cnn.com/world/live-news/us-israel-iran-attack-03-01-26-intl",
+      "file": "f786c746f9d4.txt",
+      "title": "March 1, 2026 \u2014 Day two of the launch of a US-Israeli military operation against Iran | CNN",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Laura Sharman, John Liu, Helen Regan, Rhea Mogul, Aleena Fayaz, Isaac Yee, Teele Rebane, Martin Goillandeau, Hilary Whiteman, Audry Jeong, Piper Hudspeth Blackburn, Isabelle D\u2019Antonio, Ross Adkin, Eyad Kourdi, Lauren Izso, Alejandra Jaramillo, Adrienne Vogt, Jeremy Diamond, Nic Robertson, Natasha Bertrand, Zachary Cohen, Jennifer Hansler, Jonny Hallam, James Frater, Kaitlan Collins, Toni Odejimi, Haley Britzky, David Goldman, Maureen Chowdhury, Nina Giraldo, Ted  Barrett, Sarah Ferris, Annie Grayer, Oren Liebermann, Manu Raju, Kit Maher, Brian Stelter, Kevin Liptak, Adam Cancryn, Donald Judd, Mitchell McCluskey, Alison Main, Thomas Bordeaux, Alayna Treene, Tal Shalev, Mostafa Salem, Alessandra Freitas, Sophia Saifi, Catherine Nicholls, Tim Lister, Nechirvan Mando, Lauren Kent, Billy Stockwell, Adam Pourahmadi, Samantha Waldenberg, Aileen Graef, Evan Perez, Hannah Rabinowitz, Dana Karni, Sophie Tanno, Gianluca Mezzofiore, Michelle Velez, Lou Robinson, Ren\u00e9e Rigdon, Abbas Al Lawati, Gawon Bae, Kareem El Damanhoury, Frederik Pleitgen, Logan Schiciano",
+      "text_length": 17153,
+      "status": "ok",
+      "num_tokens": 3399
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/02/iran-israel-us-conflict-oil-jumps-trump-netanyahu-what-is-next.html",
+      "file": "3629fa69af2b.txt",
+      "title": "Iran conflict: Where things stand, global responses \u2014 and what comes next",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Anniek Bao",
+      "text_length": 7268,
+      "status": "ok",
+      "num_tokens": 1529
+    },
+    {
+      "url": "https://www.nbcnews.com/world/iran/live-blog/israel-iran-live-updates-rcna261099",
+      "file": "14f11bd8e62d.txt",
+      "title": "Iran Supreme Leader Ali Khamenei is dead after U.S., Israel attack",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "NBC News",
+      "text_length": 1798,
+      "status": "ok",
+      "num_tokens": 420
+    },
+    {
+      "url": "https://www.thetimes.com/world/middle-east/article/us-attacks-iran-strikes-trump-latest-news-q39l3fsrd?gaa_at=eafs&gaa_n=AWEtsqc_g5oV0Bi6vHJHYWsut3X8noI6_QDtpQy6zaatIiClJLHiUpNwk9ON&gaa_sig=Qy77gVqzieqGpvhZgQ4uklBcwQbbTPipxfDxH0VGaMU6wQDTKD_WXWf_ftQNZ8NpknFuNF5YXJzkvS3wFHjRDA%3D%3D&gaa_ts=69a3a741",
+      "file": "b1eeed3c9cea.txt",
+      "title": "US and Israel attack Iran \u2014 as it happened",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Dominic Hauschild | Mark Urban | Gabrielle Weiniger, Tel Aviv | Gabriel Pogrund, | Haroon Janjua | Christina Lamb | Charlie Moloney | Oliver Gill | Larisa Brown",
+      "text_length": 196,
+      "status": "ok",
+      "num_tokens": 46
+    }
+  ],
+  "total_tokens": 6148
+}

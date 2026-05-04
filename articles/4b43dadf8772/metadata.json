@@ -1,0 +1,47 @@
+{
+  "hash": "4b43dadf8772",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.nbcnews.com/now/video/trump-says-putin-wants-to-be-helpful-with-middle-east-259001413748",
+      "title": "Trump says Putin wants to be ‘helpful’ with Middle East",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 65,
+      "text_length": 282
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "618509",
+      "spike_id": 4,
+      "market_question": "Will Trump and Putin not meet?",
+      "event_title": "Where will Trump and Putin meet next?",
+      "spike_direction": "down",
+      "spike_delta": -0.1835,
+      "spike_timestamp_before": "2026-03-10T11:30:22+00:00",
+      "spike_timestamp_after": "2026-03-11T06:00:25+00:00"
+    },
+    {
+      "market_id": "618509",
+      "spike_id": 5,
+      "market_question": "Will Trump and Putin not meet?",
+      "event_title": "Where will Trump and Putin meet next?",
+      "spike_direction": "down",
+      "spike_delta": -0.20350000000000001,
+      "spike_timestamp_before": "2026-03-10T17:00:21+00:00",
+      "spike_timestamp_after": "2026-03-11T16:30:21+00:00"
+    },
+    {
+      "market_id": "618509",
+      "spike_id": 6,
+      "market_question": "Will Trump and Putin not meet?",
+      "event_title": "Where will Trump and Putin meet next?",
+      "spike_direction": "up",
+      "spike_delta": 0.15000000000000002,
+      "spike_timestamp_before": "2026-03-11T20:00:24+00:00",
+      "spike_timestamp_after": "2026-03-12T19:30:23+00:00"
+    }
+  ]
+}

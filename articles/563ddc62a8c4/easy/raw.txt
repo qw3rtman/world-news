@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On March 3, 2026, which French President announced the deployment of the Charles de Gaulle aircraft carrier to the eastern Mediterranean, and what was the primary geopolitical reason cited for this move?",
+    "a": "President Emmanuel Macron announced the deployment in response to the widening conflict in the Middle East following attacks by the United States and Israel against Iran."
+  },
+  {
+    "q": "What specific military assets did President Emmanuel Macron order to set course for the Mediterranean on March 3, 2026, and from which previous deployment location was the flagship carrier diverted?",
+    "a": "Macron ordered the Charles de Gaulle aircraft carrier, its air assets, and its escort of frigates, diverting the carrier from a deployment in the North Atlantic."
+  },
+  {
+    "q": "Which British military base in the Mediterranean island of Cyprus was hit by Iranian-made drones shortly before France announced additional air defense deployments on March 3, 2026?",
+    "a": "The British Royal Air Force (RAF) base of Akrotiri was hit by the drones."
+  },
+  {
+    "q": "According to President Emmanuel Macron’s speech on March 3, 2026, which three Gulf states have defense agreements with France that obligate French forces to defend their airspace?",
+    "a": "Qatar, Kuwait, and the United Arab Emirates."
+  },
+  {
+    "q": "What specific military action did the French frigate Languedoc take in December 2023, and what type of missiles did it use to execute this action?",
+    "a": "The Languedoc shot down drones fired from Yemen by Iran-allied Huthi rebels targeting vessels in the Red Sea, using Aster missiles."
+  },
+  {
+    "q": "How did French President Emmanuel Macron characterize the military operations launched by the United States and Israel against Iran on March 1, 2026, and who did he assign primary responsibility for the situation?",
+    "a": "He stated the operations were conducted outside international law and could not be approved, while assigning primary responsibility to the Islamic Republic of Iran."
+  },
+  {
+    "q": "Which specific Iranian activities did President Emmanuel Macron cite as reasons for assigning primary responsibility to the Islamic Republic of Iran during his March 3, 2026, speech?",
+    "a": "He cited Iran's dangerous nuclear programme, support for regional proxies, and orders to shoot its own people during protests in January."
+  },
+  {
+    "q": "What was the estimated time for the Charles de Gaulle aircraft carrier to reach the eastern Mediterranean from its stopover in Malmo, Sweden, as reported on March 3, 2026?",
+    "a": "The carrier was expected to take 10 days to reach the eastern Mediterranean."
+  },
+  {
+    "q": "What specific air assets are aboard the Charles de Gaulle aircraft carrier, and what is their intended role once it reaches the eastern Mediterranean?",
+    "a": "The carrier carries 20 Rafale fighter jets and two Hawkeye radar aircraft, which will contribute to securing the airspace."
+  },
+  {
+    "q": "Which strategic maritime chokepoints did President Emmanuel Macron identify as being under strain or threat to global oil and gas traffic on March 3, 2026?",
+    "a": "He identified the Strait of Hormuz, the Suez Canal, and the Red Sea."
+  },
+  {
+    "q": "What percentage of the world's oil and liquefied natural gas passes through the Strait of Hormuz, according to President Emmanuel Macron's statement on March 3, 2026?",
+    "a": "Approximately 20 percent."
+  },
+  {
+    "q": "What initiative did President Emmanuel Macron announce on March 3, 2026, to address the disruption of essential sea lanes in the Middle East?",
+    "a": "He announced the initiative to build a coalition to pool resources, including military ones, to restore and secure traffic in these sea lanes."
+  },
+  {
+    "q": "In what capacity did French forces shoot down drones in the early hours of the conflict starting March 1, 2026, according to President Emmanuel Macron?",
+    "a": "They acted in self-defence to defend the airspace of their allies."
+  },
+  {
+    "q": "Which French Foreign Minister stated on March 3, 2026, that France had deployed Rafale fighter jets over the United Arab Emirates to protect its naval and air bases?",
+    "a": "Foreign Minister Jean-Noel Barrot."
+  },
+  {
+    "q": "How many French military personnel are stationed at air, naval, and land bases in the United Arab Emirates, and what major equipment do they operate alongside Rafales?",
+    "a": "There are 900 military personnel, who operate Leclerc tanks and Caesar artillery alongside Rafales."
+  },
+  {
+    "q": "At which specific base near Abu Dhabi are French Rafale aircraft stationed, according to Foreign Minister Jean-Noel Barrot's statements in early March 2026?",
+    "a": "Al-Dhafra base."
+  },
+  {
+    "q": "What incident occurred at a French base in the United Arab Emirates on Sunday, March 1, 2026, as reported by Foreign Minister Jean-Noel Barrot?",
+    "a": "A hangar at the base was hit by a drone."
+  },
+  {
+    "q": "According to President Emmanuel Macron’s speech on March 3, 2026, what was the nature of the damage sustained by two French bases since the start of the conflict?",
+    "a": "The bases sustained limited strikes causing material damage."
+  },
+  {
+    "q": "Which United Nations peacekeeping force is France contributing 700 troops to in Lebanon, as noted in the context of French military deployments in early March 2026?",
+    "a": "The UN Interim Force in Lebanon (UNIFIL)."
+  },
+  {
+    "q": "What additional air defence assets did President Emmanuel Macron announce were deployed to Cyprus on Tuesday, March 3, 2026, alongside the frigate Languedoc?",
+    "a": "Rafale jets, air-defence systems, and airborne radar aircraft."
+  },
+  {
+    "q": "Which country also positioned a warship off Cyprus in response to the escalating conflict, as mentioned in President Emmanuel Macron's address on March 3, 2026?",
+    "a": "Britain."
+  },
+  {
+    "q": "What specific threat did Iran pose to global shipping in the Middle East following its retaliation against the US and Israel, as described in the article dated March 1, 2026?",
+    "a": "Iran threatened shipping in the area, in addition to targeting Gulf states, Israel, and US facilities."
+  },
+  {
+    "q": "Which French frigate, equipped with Aster missiles, had previously engaged Huthi rebels in the Red Sea in December 2023, and what was the outcome of that engagement?",
+    "a": "The frigate Languedoc shot down drones fired from Yemen by Iran-allied Huthi rebels."
+  },
+  {
+    "q": "What was the status of the Strait of Hormuz as of March 3, 2026, according to President Emmanuel Macron, and how does this impact the global economy?",
+    "a": "The Strait of Hormuz was effectively closed, threatening the passage of around 20 percent of the world's oil and liquefied natural gas."
+  },
+  {
+    "q": "What did Foreign Minister Jean-Noel Barrot tell BFMTV regarding the mobilization of French Rafales and pilots in the United Arab Emirates in response to Iranian drone activity?",
+    "a": "He stated they were mobilized to ensure the security of French facilities after a hangar was hit by a drone."
+  }
+]

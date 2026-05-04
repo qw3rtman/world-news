@@ -1,0 +1,106 @@
+[
+  {
+    "q": "On March 2, 2026, which clinical-stage biopharmaceutical company headquartered in Los Angeles, California, announced it had entered into binding terms to acquire exclusive worldwide rights to the drug CL-273?",
+    "a": "Kairos Pharma, Ltd. (NYSE American: KAPA)"
+  },
+  {
+    "q": "From which privately held biotechnology company, backed by OrbiMed and Torrey Pines Investment and headquartered in Dover, Delaware, did Kairos Pharma, Ltd. acquire the exclusive worldwide rights to CL-273 on March 2, 2026?",
+    "a": "Celyn Therapeutics, Inc."
+  },
+  {
+    "q": "What is the specific type of cancer targeted by the AI-designed pan-EGFR inhibitor CL-273, which Kairos Pharma, Ltd. agreed to acquire from Celyn Therapeutics, Inc. in March 2026?",
+    "a": "EGFR-mutant non-small cell lung cancer (NSCLC)"
+  },
+  {
+    "q": "According to the March 2, 2026 announcement by Kairos Pharma, Ltd., what is the estimated size of the EGFR-mutated lung cancer treatment market in 2026?",
+    "a": "$16.2 billion"
+  },
+  {
+    "q": "Who served as the sole financial advisor for the transaction in which Kairos Pharma, Ltd. acquired CL-273 from Celyn Therapeutics, Inc. in March 2026?",
+    "a": "D. Boral Capital, LLC"
+  },
+  {
+    "q": "What is the name of the lead candidate antibody developed by Kairos Pharma, Ltd. that targets the protein CD105, as described in the company's March 2, 2026 press release?",
+    "a": "ENV-105"
+  },
+  {
+    "q": "In which two clinical trial phases was Kairos Pharma, Ltd.'s lead candidate ENV-105 conducting studies as of March 2, 2026, and for which specific cancer types?",
+    "a": "Phase 2 for castrate-resistant prostate cancer and Phase 1 for non-small cell lung cancer"
+  },
+  {
+    "q": "Which investment firms provided backing for Celyn Therapeutics, Inc., the seller of CL-273 rights to Kairos Pharma, Ltd. in March 2026?",
+    "a": "OrbiMed and Torrey Pines Investment"
+  },
+  {
+    "q": "What percentage of non-small cell lung cancer (NSCLC) cases in Western populations contain EGFR mutations, according to data cited by Kairos Pharma, Ltd. in its March 2, 2026 announcement?",
+    "a": "Approximately 10–15%"
+  },
+  {
+    "q": "What percentage of non-small cell lung cancer (NSCLC) cases in Asian populations contain EGFR mutations, according to data cited by Kairos Pharma, Ltd. in its March 2, 2026 announcement?",
+    "a": "Up to 50%"
+  },
+  {
+    "q": "Which stock exchange lists the shares of Kairos Pharma, Ltd., the company that announced the acquisition of CL-273 on March 2, 2026?",
+    "a": "NYSE American"
+  },
+  {
+    "q": "What is the ticker symbol for Kairos Pharma, Ltd., the biopharmaceutical company that acquired CL-273 rights in March 2026?",
+    "a": "KAPA"
+  },
+  {
+    "q": "According to John Yu, M.D., who is the Chief Executive Officer of Kairos Pharma, Ltd., what specific profile of CL-273 positions it as a potentially best-in-class asset?",
+    "a": "Its AI-designed, wild-type-sparing pan-EGFR profile"
+  },
+  {
+    "q": "What proprietary technology platform was used to discover CL-273, the drug acquired by Kairos Pharma, Ltd. from Celyn Therapeutics, Inc. in March 2026?",
+    "a": "A proprietary AI-driven drug discovery platform"
+  },
+  {
+    "q": "What is the chemical classification of CL-273, the investigational drug acquired by Kairos Pharma, Ltd. in March 2026?",
+    "a": "A reversible, wild-type-sparing pan-EGFR small-molecule inhibitor"
+  },
+  {
+    "q": "Which organization estimated the EGFR-mutated lung cancer treatment market to be worth $16.2 billion in 2026, a figure cited in Kairos Pharma, Ltd.'s March 2, 2026 announcement?",
+    "a": "Future Market Insights"
+  },
+  {
+    "q": "Which organization provided the data regarding EGFR mutation prevalence in NSCLC cases in Western and Asian populations, cited in Kairos Pharma, Ltd.'s March 2, 2026 announcement?",
+    "a": "CoherentMI"
+  },
+  {
+    "q": "In which U.S. state are the principal offices of Celyn Therapeutics, Inc., the company that sold CL-273 rights to Kairos Pharma, Ltd. in March 2026?",
+    "a": "Delaware"
+  },
+  {
+    "q": "Where is D. Boral Capital, LLC, the sole financial advisor for Kairos Pharma, Ltd.'s March 2, 2026 CL-273 acquisition, headquartered?",
+    "a": "New York"
+  },
+  {
+    "q": "According to the March 2, 2026 press release, has ENV-105, Kairos Pharma, Ltd.'s lead candidate, been approved as safe or effective by the United States Food and Drug Administration?",
+    "a": "No, it has not been approved"
+  },
+  {
+    "q": "What specific mechanism of action does CL-273 use to address resistance in EGFR tyrosine kinase inhibitors, as described in Kairos Pharma, Ltd.'s March 2, 2026 announcement?",
+    "a": "It targets resistant mutations and reverses resistance"
+  },
+  {
+    "q": "What is the name of the legal act under which the forward-looking statements in Kairos Pharma, Ltd.'s March 2, 2026 press release are defined?",
+    "a": "The Private Securities Litigation Reform Act of 1995"
+  },
+  {
+    "q": "Which U.S. government agency's website hosts the Annual Report on Form 10-K for Kairos Pharma, Ltd., referenced in the March 2, 2026 press release?",
+    "a": "The Securities and Exchange Commission (SEC)"
+  },
+  {
+    "q": "What specific protein does Kairos Pharma, Ltd.'s lead candidate ENV-105 target to aim at reversing drug resistance and disease relapse?",
+    "a": "CD105"
+  },
+  {
+    "q": "According to the March 2, 2026 announcement, what type of oncology drug development expertise does Celyn Therapeutics, Inc. bring to the transaction involving CL-273?",
+    "a": "Deep domain expertise in small-molecule oncology drug development"
+  },
+  {
+    "q": "What is the primary therapeutic goal of Kairos Pharma, Ltd.'s lead candidate ENV-105 regarding standard therapies across multiple cancer types?",
+    "a": "To restore the effectiveness of standard therapies"
+  }
+]

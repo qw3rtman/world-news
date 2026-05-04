@@ -1,0 +1,106 @@
+[
+  {
+    "q": "On March 12, 2026, by what percentage did Brent Crude oil prices rise, and to what specific dollar amount per barrel did they climb?",
+    "a": "Brent Crude rose 9.3% to $100.50 per barrel."
+  },
+  {
+    "q": "What was the percentage increase and final price per barrel for West Texas Intermediate (WTI) crude oil on March 12, 2026, around 0305 GMT?",
+    "a": "WTI rose 8.8% to $94.92 per barrel."
+  },
+  {
+    "q": "Which two entities did the United States Department of Energy coordinate with to release a combined total of 572 million barrels of oil from strategic reserves in March 2026?",
+    "a": "The United States and the International Energy Agency (IEA)."
+  },
+  {
+    "q": "How many barrels of crude oil did the United States Department of Energy announce it would release from the Strategic Petroleum Reserve starting in the week following March 11, 2026?",
+    "a": "172 million barrels."
+  },
+  {
+    "q": "According to the United States Department of Energy, how many days does it take for the announced release of 172 million barrels from the Strategic Petroleum Reserve to reach markets?",
+    "a": "Approximately 120 days."
+  },
+  {
+    "q": "What is the largest coordinated release of oil from emergency reserves ever agreed upon by the International Energy Agency (IEA) member countries, and when was it announced relative to the 2022 Russia-Ukraine invasion response?",
+    "a": "400 million barrels, which is significantly higher than the 182.7 million barrels released in 2022."
+  },
+  {
+    "q": "Which Middle Eastern country intercepted a drone headed toward the Shaybah oil field on March 12, 2026, during the ongoing conflict with Iran and Israel?",
+    "a": "Saudi Arabia."
+  },
+  {
+    "q": "On March 12, 2026, which three US technology companies did Iran issue warnings to, labeling them as 'legitimate targets'?",
+    "a": "Google, Amazon, and Microsoft."
+  },
+  {
+    "q": "Which critical shipping route connecting the Persian Gulf with the Gulf of Oman was effectively shut down by March 12, 2026, disrupting nearly 20% of the world’s oil trade?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "On what date did the US and Israeli strikes against Iran begin, leading to the retaliatory attacks that escalated into the conflict active on March 12, 2026?",
+    "a": "February 28, 2026."
+  },
+  {
+    "q": "Which US President indicated in an interview with Local 12 television in Cincinnati, Ohio, that Washington could tap emergency reserves to help bring down oil prices?",
+    "a": "US President Donald Trump."
+  },
+  {
+    "q": "Which major economy announced it could begin releasing oil from its strategic reserves as early as Monday, March 16, 2026, to help stabilize global markets?",
+    "a": "Japan."
+  },
+  {
+    "q": "Which European country announced plans to release oil supplies in March 2026 but had not specified a timeline for the release?",
+    "a": "Germany."
+  },
+  {
+    "q": "To what price did Brent crude oil briefly surge earlier in the week of March 12, 2026, before easing back to around $102 on Monday?",
+    "a": "$120 per barrel."
+  },
+  {
+    "q": "Which country's media reports attributed the strikes on oil tankers in the Gulf region to Iran on March 12, 2026?",
+    "a": "Iraq."
+  },
+  {
+    "q": "How many consecutive days had the conflict between Iran, the United States, and Israel lasted as of Thursday, March 12, 2026?",
+    "a": "13 consecutive days."
+  },
+  {
+    "q": "What percentage of the world’s oil trade normally passes through the Strait of Hormuz, the route disrupted by the March 2026 conflict?",
+    "a": "Nearly 20%."
+  },
+  {
+    "q": "Which oil-rich Gulf producer was reported to be cutting output in early March 2026, adding pressure to global supplies already strained by Strait of Hormuz disruptions?",
+    "a": "Saudi Arabia."
+  },
+  {
+    "q": "Where did US President Donald Trump give an interview to Local 12 television regarding the potential use of the US Strategic Petroleum Reserve in March 2026?",
+    "a": "Cincinnati, Ohio."
+  },
+  {
+    "q": "What was the price of Brent Crude oil at around 0100 GMT on March 12, 2026, before it surged further to $100.50 later in the session?",
+    "a": "$98.60 per barrel."
+  },
+  {
+    "q": "What was the price of West Texas Intermediate (WTI) crude oil at around 0100 GMT on March 12, 2026, before it rose to $94.92?",
+    "a": "$92.96 per barrel."
+  },
+  {
+    "q": "Which Paris-based agency announced that its member countries agreed to release 400 million barrels of oil from emergency reserves in March 2026?",
+    "a": "The International Energy Agency (IEA)."
+  },
+  {
+    "q": "Which US government department stated on Wednesday, March 11, 2026, that it would release 172 million barrels of crude oil from the Strategic Petroleum Reserve?",
+    "a": "The United States Department of Energy."
+  },
+  {
+    "q": "In addition to the United States and the International Energy Agency, which two other nations joined the effort to release oil from strategic reserves in March 2026?",
+    "a": "Japan and Germany."
+  },
+  {
+    "q": "What specific type of infrastructure attacks heightened fears of major disruptions and caused oil prices to jump on March 12, 2026?",
+    "a": "Strikes on oil tankers and energy supplies in the Middle East."
+  },
+  {
+    "q": "Which organization's member countries agreed to a coordinated release of 400 million barrels, described as the largest coordinated release ever, in March 2026?",
+    "a": "The International Energy Agency (IEA)."
+  }
+]

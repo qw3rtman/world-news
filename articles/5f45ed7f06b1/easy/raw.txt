@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On Monday, March 16, 2026, what percentage increase and specific price per barrel did Brent crude oil reach, according to CNN?",
+    "a": "Brent crude jumped 2.9% to almost $106.12 a barrel."
+  },
+  {
+    "q": "As of March 16, 2026, by what percentage did US oil prices rise, and what was the resulting price per barrel?",
+    "a": "US oil was up 2.6%, reaching $101.53."
+  },
+  {
+    "q": "During the week of March 16, 2026, by what percentage had both Brent crude and US oil benchmarks surged since the beginning of the month?",
+    "a": "Both benchmarks had surged by more than 40%."
+  },
+  {
+    "q": "In March 2026, to what year's levels did oil prices rise, marking their highest point since then?",
+    "a": "Prices touched their highest levels since 2022."
+  },
+  {
+    "q": "Following the US-Israeli attacks on Iran in early 2026, what specific shipping route did Tehran disrupt?",
+    "a": "Tehran disrupted shipping through the Strait of Hormuz."
+  },
+  {
+    "q": "What fraction of global oil supply was cut off by the closure of the Strait of Hormuz in March 2026?",
+    "a": "The closure cut off around a fifth of global oil supply."
+  },
+  {
+    "q": "On Sunday, March 15, 2026, what did US President Donald Trump ask other countries to help secure?",
+    "a": "He called on other countries to help secure the Strait of Hormuz."
+  },
+  {
+    "q": "As of March 2026, which US president indicated skepticism about Iran's preparedness to engage in meaningful negotiations to end the conflict?",
+    "a": "US President Donald Trump indicated this skepticism."
+  },
+  {
+    "q": "In late March 2026, which Iranian island, responsible for roughly 90% of the country’s oil exports, was threatened with further strikes by Donald Trump?",
+    "a": "Kharg Island."
+  },
+  {
+    "q": "After US forces targeted military sites in Iran in March 2026, which specific oil terminal in the United Arab Emirates was targeted by Iranian drones?",
+    "a": "A key oil terminal in Fujairah."
+  },
+  {
+    "q": "As of mid-March 2026, what was the status of oil loading activities at the Fujairah oil terminal following the drone attack?",
+    "a": "Oil loading activities had resumed, though it was uncertain if operations had fully returned to normal levels."
+  },
+  {
+    "q": "In March 2026, which organization announced it would release over 400 million barrels of crude from strategic reserves?",
+    "a": "The International Energy Agency."
+  },
+  {
+    "q": "What was the stated purpose of the International Energy Agency's record draw of over 400 million barrels of crude in March 2026?",
+    "a": "To counter the surge in prices triggered by the ongoing Middle East conflict."
+  },
+  {
+    "q": "According to the International Energy Agency in March 2026, from which regions would supplies from strategic reserves begin flowing immediately?",
+    "a": "Supplies from Asia and Oceania."
+  },
+  {
+    "q": "By when did the International Energy Agency expect stocks held in Europe and the Americas to be released in March 2026?",
+    "a": "By the end of March."
+  },
+  {
+    "q": "In March 2026, what did the US administration signal regarding the duration of the Middle East crisis?",
+    "a": "They signaled that the crisis may persist for several more weeks."
+  },
+  {
+    "q": "As of March 16, 2026, which crucial energy corridor was Donald Trump urging other nations to help police?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "In March 2026, which two countries' attacks on Iran preceded the disruption of shipping through the Strait of Hormuz?",
+    "a": "The US and Israel."
+  },
+  {
+    "q": "What specific hub on Kharg Island handles roughly 90% of Iran’s oil exports, as noted in March 2026?",
+    "a": "The oil export hub."
+  },
+  {
+    "q": "In March 2026, which two global oil benchmarks saw their highest levels since 2022?",
+    "a": "Brent crude and US oil."
+  },
+  {
+    "q": "According to sources in March 2026, what was the operational status of the Fujairah oil terminal after Iranian drone strikes?",
+    "a": "Oil loading activities had resumed, but full return to normal levels was uncertain."
+  },
+  {
+    "q": "In March 2026, which organization's record draw of crude from strategic reserves was intended to counter price surges from the Middle East conflict?",
+    "a": "The International Energy Agency."
+  },
+  {
+    "q": "As of March 2026, which regions' strategic crude reserves were expected to be released by the end of the month, according to the International Energy Agency?",
+    "a": "Europe and the Americas."
+  },
+  {
+    "q": "In March 2026, which Iranian island was identified as responsible for handling roughly 90% of the country’s oil exports?",
+    "a": "Kharg Island."
+  },
+  {
+    "q": "In March 2026, which US president held discussions with several nations about taking steps to police the Strait of Hormuz?",
+    "a": "US President Donald Trump."
+  }
+]

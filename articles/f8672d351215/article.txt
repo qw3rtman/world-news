@@ -1,0 +1,63 @@
+Luma launches creative AI agents powered by its new ‘Unified Intelligence’ models | TechCrunch
+
+AI
+
+     
+
+# Luma launches creative AI agents powered by its new ‘Unified Intelligence’ models
+
+Rebecca Bellan
+
+10:11 AM PST · March 5, 2026
+
+     
+
+AI video-generation startup Luma on Thursday launched Luma Agents, designed to handle end-to-end creative work across text, image, video, and audio. Luma Agents are powered by the startup’s Unified Intelligence family of models, with architecture trained on a single multimodal reasoning system.
+
+Luma Agents are being pitched as a new way of doing work for ad agencies, marketing teams, design studios, and enterprises. Luma says its agents are capable of planning and generating text, image, video, and audio while coordinating with other AI models, including Luma’s Ray 3.14, Google’s Veo 3 and Nano Banana Pro, ByteDance’s Seedream, and ElevenLabs’ voice models.
+
+Luma’s agents are built on the startup’s Uni-1 model, the first of its Unified Intelligence family of AI models. It has been trained on audio, video, image, language, and spatial reasoning, according to Amit Jain, chief executive officer and co-founder of Luma.
+
+Jain told TechCrunch that the Uni-1 model can “think in language and imagine and render in pixels or images … we call it ‘intelligence in pixels.’” Other output capabilities like audio and video will come in subsequent model releases, he added.
+
+“Our customers aren’t buying the tool; they’re redoing how business is done,” Jain said.
+
+Image Credits:Luma AI
+
+Luma has already started rolling out its new agentic platform with existing customers, including global ad agencies Publicis Groupe and Serviceplan, as well as for brands like Adidas, Mazda, and Saudi AI company Humain.
+
+Jain said the Luma Agents are a game changer because they can maintain persistent context across assets, collaborators, and creative iterations. They can also evaluate and refine outputs, improving their own results through an iterative self-critique, according to Jain.
+
+This sort of check-your-work capability is what has made coding agents so useful, Jain said. “You need that ability to evaluate your work, fix it, and do that loop until the solution is good and accurate.”
+
+Jain said the current workflow for using AI tools in creative environments doesn’t have the same acceleration of benefits people in the creative industry expect from AI. Instead, it’s more like: “Here are 100 models. Learn how to prompt them,” he said.
+
+He said what makes Luma Agents different is that you don’t need to prompt back and forth for each iteration on an image or idea — the system instead generates large sets of variations and lets users steer the direction through conversation.
+
+“With Unified Intelligence, because these models understand in addition to being able to generate, we are able to build a system that is able to do this sort of end-to-end work,” Jain said.
+
+Take, for instance, a human architect designing a building. As they draw the lines, they are creating an internal mental representation of the structure, light, spatial dynamics, and lived experience. This, Jain says, is the same principle upon which Unified Intelligence is built.
+
+Jain said the system could significantly speed up creative workflows. In a demonstration, he showed how a 200-word brief and an image of a product (a tube of lipstick) led the system to generate various ideas for locations, models, and color schemes for an ad campaign.
+
+In another example, Luma Agents turned a brand’s $15 million, year-long ad campaign into multiple localized ads for different countries in 40 hours for under $20,000, passing the brand’s internal quality controls and accuracy checks, Jain said.
+
+While Luma Agents is now publicly available via API, Jain said the startup plans to roll out access gradually to ensure users maintain reliable access and avoid workflow disruptions.
+
+Topics
+
+AI, AI agents, ai video, Exclusive, Luma, luma agents, Startups
+
+     
+
+Rebecca Bellan
+
+Senior Reporter
+
+ 
+
+Rebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications.
+
+You can contact or verify outreach from Rebecca by emailing rebecca.bellan@techcrunch.com or via encrypted message at rebeccabellan.491 on Signal.
+
+View Bio

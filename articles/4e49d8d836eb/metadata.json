@@ -1,0 +1,27 @@
+{
+  "hash": "4e49d8d836eb",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://us.cnn.com/2026/02/24/politics/nuclear-program-iran-trump-strike",
+      "title": "Analysis: If Trump said Iran’s nuclear program was ‘obliterated,’ why is he looking to strike again? | CNN Politics",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": "Aaron Blake",
+      "num_tokens": 1524,
+      "text_length": 7342
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1437691",
+      "spike_id": 1,
+      "market_question": "US strikes Iran by March 8, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.185,
+      "spike_timestamp_before": "2026-02-25T23:30:21+00:00",
+      "spike_timestamp_after": "2026-02-26T18:30:24+00:00"
+    }
+  ]
+}

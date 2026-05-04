@@ -1,0 +1,27 @@
+{
+  "hash": "6ab0b9e07282",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.abc.net.au/listen/programs/am/invasion-of-lebanon-looms/106458474",
+      "title": "Invasion of Lebanon looms - ABC listen",
+      "published_date": "2026-03-15T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 23,
+      "text_length": 148
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "677397",
+      "spike_id": 24,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.20499999999999996,
+      "spike_timestamp_before": "2026-03-15T14:00:29+00:00",
+      "spike_timestamp_after": "2026-03-15T18:00:35+00:00"
+    }
+  ]
+}

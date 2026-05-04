@@ -1,0 +1,27 @@
+{
+  "hash": "c3894d7e37c2",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://canary.haaretz.com/israel-news/israel-security/2026-03-03/ty-article/.premium/as-israeli-defense-officials-push-for-a-long-offensive-trump-still-has-doubts/0000019c-b066-df64-a59c-fa76f1da0000",
+      "title": "As Israeli Defense Officials Push for a Long Offensive, Trump Still Has Doubts - Israel Security",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Amos Harel",
+      "num_tokens": 65,
+      "text_length": 265
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "677397",
+      "spike_id": 11,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.16500000000000004,
+      "spike_timestamp_before": "2026-03-03T08:00:29+00:00",
+      "spike_timestamp_after": "2026-03-03T17:00:30+00:00"
+    }
+  ]
+}

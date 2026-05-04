@@ -1,0 +1,37 @@
+{
+  "hash": "ed70aa327396",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/03/03/european-markets-stoxx-600-ftse-dax-cac-iran-latest-spring-statement-uk.html",
+      "title": "European markets: Stoxx 600, FTSE, DAX, CAC, Iran latest",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Chloe Taylor,Hugh Leask,Holly Ellyatt",
+      "num_tokens": 783,
+      "text_length": 3507
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "665307",
+      "spike_id": 5,
+      "market_question": "Will Iran close the Strait of Hormuz before 2027?",
+      "event_title": "Will Iran close the Strait of Hormuz by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.15449999999999997,
+      "spike_timestamp_before": "2026-03-01T19:00:24+00:00",
+      "spike_timestamp_after": "2026-03-02T09:00:24+00:00"
+    },
+    {
+      "market_id": "665307",
+      "spike_id": 6,
+      "market_question": "Will Iran close the Strait of Hormuz before 2027?",
+      "event_title": "Will Iran close the Strait of Hormuz by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.3475,
+      "spike_timestamp_before": "2026-03-02T00:00:41+00:00",
+      "spike_timestamp_after": "2026-03-02T21:00:24+00:00"
+    }
+  ]
+}

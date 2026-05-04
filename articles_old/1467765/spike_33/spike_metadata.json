@@ -1,0 +1,65 @@
+{
+  "spike_index": 33,
+  "direction": "up",
+  "price_before": 0.267,
+  "price_after": 0.5715,
+  "delta": 0.3045,
+  "abs_delta": 0.3045,
+  "timestamp_before": "2026-03-18T11:00:31+00:00",
+  "timestamp_after": "2026-03-18T15:00:43+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://fortune.com/2026/03/18/oil-prices-110-crude-brent-iran-war-israel-strait-hormuz-lng/",
+      "file": "a415c93ca2c6.txt",
+      "title": "Oil prices hit nearly $110 as Iran vows to escalate the war in \u2018new ways\u2019 | Fortune",
+      "published_date": "2026-03-18T00:00:00.000Z",
+      "author": "Eva Roytburg",
+      "text_length": 1222,
+      "status": "ok",
+      "num_tokens": 292
+    },
+    {
+      "url": "https://www.semafor.com/article/03/18/2026/oil-prices-top-110-a-barrel",
+      "file": "8cac94beae62.txt",
+      "title": "Oil prices top $110 a barrel | Semafor",
+      "published_date": "2026-03-18T00:00:00.000Z",
+      "author": null,
+      "text_length": 760,
+      "status": "ok",
+      "num_tokens": 152
+    },
+    {
+      "url": "https://cbsnews.com/news/iran-war-gas-oil-prices-brent-west-texas-intermediate/",
+      "file": "c575f473fcf9.txt",
+      "title": "Gas prices rise as oil hits $111 a barrel - CBS News",
+      "published_date": "2026-03-18T00:00:00.000Z",
+      "author": null,
+      "text_length": 2157,
+      "status": "ok",
+      "num_tokens": 482
+    },
+    {
+      "url": "https://today.reuters.com/business/energy/oil-prices-drop-us-crude-inventories-show-an-increase-2026-03-18/",
+      "file": "5dc47e16f06c.txt",
+      "title": "Oil extends gains to rise 5.6% after Iran attacks Gulf energy facilities | Reuters",
+      "published_date": "2026-03-18T00:00:00.000Z",
+      "author": "Siddharth Cavale",
+      "text_length": 4226,
+      "status": "ok",
+      "num_tokens": 888
+    },
+    {
+      "url": "https://fortune.com/article/price-of-oil-03-18-2026/",
+      "file": "602d597a6bf2.txt",
+      "title": "Current price of oil as of March 18, 2026 | Fortune",
+      "published_date": "2026-03-18T00:00:00.000Z",
+      "author": "Joseph Hostetler",
+      "text_length": 249,
+      "status": "ok",
+      "num_tokens": 63
+    }
+  ],
+  "total_tokens": 1877
+}

@@ -1,0 +1,47 @@
+{
+  "hash": "28d484ad5891",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://m.france24.com/fr/info-en-continu/20260317-municipales-%C3%A0-paris-gr%C3%A9goire-voit-dans-le-retrait-de-bournazel-un-ultime-d%C3%A9saveu-pour-dati",
+      "title": "Municipales à Paris: Grégoire voit dans le retrait de Bournazel un \"ultime désaveu\" pour Dati",
+      "published_date": "2026-03-17T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 776,
+      "text_length": 2599
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "645997",
+      "spike_id": 4,
+      "market_question": "Will Rachida Dati win the Paris mayor election?",
+      "event_title": "Paris Mayoral Election",
+      "spike_direction": "up",
+      "spike_delta": 0.21000000000000002,
+      "spike_timestamp_before": "2026-03-16T14:30:32+00:00",
+      "spike_timestamp_after": "2026-03-17T11:00:38+00:00"
+    },
+    {
+      "market_id": "645997",
+      "spike_id": 5,
+      "market_question": "Will Rachida Dati win the Paris mayor election?",
+      "event_title": "Paris Mayoral Election",
+      "spike_direction": "up",
+      "spike_delta": 0.21000000000000002,
+      "spike_timestamp_before": "2026-03-16T17:00:35+00:00",
+      "spike_timestamp_after": "2026-03-17T16:30:42+00:00"
+    },
+    {
+      "market_id": "645997",
+      "spike_id": 6,
+      "market_question": "Will Rachida Dati win the Paris mayor election?",
+      "event_title": "Paris Mayoral Election",
+      "spike_direction": "up",
+      "spike_delta": 0.19,
+      "spike_timestamp_before": "2026-03-16T22:30:35+00:00",
+      "spike_timestamp_after": "2026-03-17T19:00:42+00:00"
+    }
+  ]
+}

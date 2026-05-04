@@ -1,0 +1,37 @@
+{
+  "hash": "1cfdc200b2fc",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://origin.www.bloomberg.com/news/articles/2026-02-20/paramount-gets-early-antitrust-nod-from-doj-for-warner-bros?srnd=undefined",
+      "title": "Paramount Wins Early DOJ Antitrust Clearance for Warner Bros. Acquisition - Bloomberg",
+      "published_date": "2026-02-20T00:00:00.000Z",
+      "author": "Molly Schuetz",
+      "num_tokens": 141,
+      "text_length": 587
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694939",
+      "spike_id": 1,
+      "market_question": "Will Ubisoft be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.16999999999999998,
+      "spike_timestamp_before": "2026-02-20T02:30:17+00:00",
+      "spike_timestamp_after": "2026-02-20T09:30:15+00:00"
+    },
+    {
+      "market_id": "694939",
+      "spike_id": 2,
+      "market_question": "Will Ubisoft be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.15499999999999997,
+      "spike_timestamp_before": "2026-02-22T13:00:15+00:00",
+      "spike_timestamp_after": "2026-02-23T13:00:14+00:00"
+    }
+  ]
+}

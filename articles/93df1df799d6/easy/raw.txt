@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On March 12, 2026, what percentage gain did the international benchmark Brent crude oil experience, and what was its closing price per barrel?",
+    "a": "Brent crude gained 9.22% to close at $100.46 per barrel."
+  },
+  {
+    "q": "Who is the new supreme leader of Iran who vowed to keep the Strait of Hormuz closed as of March 2026, and who was his predecessor?",
+    "a": "The new supreme leader is Mojtaba Khamenei, and his predecessor was Ayatollah Ali Khamenei."
+  },
+  {
+    "q": "In March 2026, when did Brent oil last close above $100 per barrel prior to the recent surge?",
+    "a": "Brent oil last closed above $100 per barrel in August 2022."
+  },
+  {
+    "q": "What was the settlement price for U.S. West Texas Intermediate futures on March 12, 2026, and what was the percentage increase?",
+    "a": "U.S. West Texas Intermediate futures settled at $95.73, rising 9.72%."
+  },
+  {
+    "q": "According to U.S. Energy Secretary Chris Wright in March 2026, what is the primary focus of U.S. military assets in the region?",
+    "a": "U.S. military assets are focused on destroying Iran’s offensive capabilities."
+  },
+  {
+    "q": "What did U.S. Energy Secretary Chris Wright state regarding the U.S. Navy's readiness to escort tankers through the Strait of Hormuz in March 2026?",
+    "a": "He stated that the U.S. Navy is not ready to escort tankers through the Strait yet."
+  },
+  {
+    "q": "Which two countries' coasts were targeted by strikes on two oil tankers and a cargo ship in the days leading up to March 12, 2026?",
+    "a": "The attacks occurred off the coasts of Iraq and the United Arab Emirates."
+  },
+  {
+    "q": "What percentage of the global oil supply passes through the Strait of Hormuz, according to the article published on March 12, 2026?",
+    "a": "Roughly a fifth of global oil supply passes through the Strait."
+  },
+  {
+    "q": "How many barrels of oil did the International Energy Agency member countries agree to release from emergency reserves on March 11, 2026?",
+    "a": "They agreed to release 400 million barrels of oil."
+  },
+  {
+    "q": "How many barrels of oil did the United States announce it would release from its Strategic Petroleum Reserve as part of the IEA effort in March 2026?",
+    "a": "The U.S. announced it would release 172 million barrels."
+  },
+  {
+    "q": "According to Dutch bank ING strategists in a March 2026 research note, what is the only way for oil prices to trade lower on a sustained basis?",
+    "a": "The only way is by getting oil flowing through the Strait of Hormuz."
+  },
+  {
+    "q": "What fraction of the supply gap triggered by the closure of the Strait of Hormuz will the record IEA stock release close, according to energy analyst Saul Kavonic?",
+    "a": "The release will close up to a quarter of the supply gap."
+  },
+  {
+    "q": "What did energy analyst Saul Kavonic suggest the IEA's decision to release stockpiles signals about the likely duration of the war in March 2026?",
+    "a": "It signals that the IEA does not believe the war is likely to end soon."
+  },
+  {
+    "q": "How many days did U.S. Energy Secretary Chris Wright state it would take for the United States to complete the release of its barrels from the Strategic Petroleum Reserve?",
+    "a": "It will take 120 days for the U.S. to complete the release."
+  },
+  {
+    "q": "What time frame did Raymond James senior investment strategist Pavel Molchanov estimate for oil to meaningfully reach the market after the IEA announcement in March 2026?",
+    "a": "He estimated it could take 60 to 90 days before the oil meaningfully reaches the market."
+  },
+  {
+    "q": "Who was killed by the U.S. and Israel in the opening strikes of the war that preceded the March 2026 Strait of Hormuz closure?",
+    "a": "Ayatollah Ali Khamenei was killed in the opening strikes."
+  },
+  {
+    "q": "What specific action did the International Energy Agency take in March 2026 that was described as the largest emergency release of crude reserves in history?",
+    "a": "The IEA announced the release of 400 million barrels of oil from emergency reserves."
+  },
+  {
+    "q": "According to Pavel Molchanov of Raymond James in March 2026, how does the current oil supply disruption compare to historical disruptions?",
+    "a": "He described it as the largest oil supply disruption since at least the 1970s."
+  },
+  {
+    "q": "What did strategists at Dutch bank ING predict would happen to market highs if oil failed to flow through the Strait of Hormuz in March 2026?",
+    "a": "They predicted that market highs are still ahead."
+  },
+  {
+    "q": "Why did the oil market shrug off the IEA's stockpile release in March 2026, according to the article?",
+    "a": "Traders were skeptical that the measure could bridge the supply gap triggered by the closure of the Strait."
+  },
+  {
+    "q": "What logistical constraint did Saul Kavonic and Pavel Molchanov highlight regarding the distribution of oil from separate IEA member country stockpiles in March 2026?",
+    "a": "Technical and logistical constraints could slow the flow of barrels, preventing immediate relief."
+  },
+  {
+    "q": "What was the monetary value increase for Brent crude oil per barrel on March 12, 2026?",
+    "a": "Brent crude gained $8.48 per barrel."
+  },
+  {
+    "q": "What was the monetary value increase for U.S. West Texas Intermediate futures per barrel on March 12, 2026?",
+    "a": "U.S. West Texas Intermediate futures rose $8.48 per barrel."
+  },
+  {
+    "q": "Which organization announced its largest emergency release of crude reserves in history just before the March 12, 2026 oil price surge?",
+    "a": "The International Energy Agency (IEA) announced the release."
+  },
+  {
+    "q": "According to Saul Kavonic of MST Marquee in March 2026, what is expected to happen to prices even after the war ends?",
+    "a": "Stock draws will need to be replaced later, portending higher prices."
+  }
+]

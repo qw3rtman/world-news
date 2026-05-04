@@ -1,0 +1,37 @@
+{
+  "hash": "9c48863cfe7c",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://markets.ft.com/data/announce/full?dockey=600-202603031605BIZWIRE_USPRX____20260303_BW140705-1",
+      "title": "GitLab Reports Fourth Quarter and Full Year Fiscal Year 2026 Financial Results; Board of Directors Authorizes $400 million for Share Repurchase Program – Company Announcement - FT.com",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 3551,
+      "text_length": 16167
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694940",
+      "spike_id": 10,
+      "market_question": "Will GitLab be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.365,
+      "spike_timestamp_before": "2026-03-02T02:00:22+00:00",
+      "spike_timestamp_after": "2026-03-02T09:00:23+00:00"
+    },
+    {
+      "market_id": "694940",
+      "spike_id": 9,
+      "market_question": "Will GitLab be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.395,
+      "spike_timestamp_before": "2026-03-01T03:30:25+00:00",
+      "spike_timestamp_after": "2026-03-02T02:00:22+00:00"
+    }
+  ]
+}

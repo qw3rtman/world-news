@@ -1,0 +1,67 @@
+{
+  "hash": "2b8b3f28da37",
+  "n_appearances": 5,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/when-will-the-iran-war-end-trump-hints-at-mutual-decision-with-netanyahu/articleshow/129309840.cms",
+      "title": "When will the Iran war end? Trump hints at 'mutual' decision with Netanyahu - The Times of India",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "TOI World Desk  / TIMESOFINDIA.COM /  Updated: Mar 09, 2026, 12:28 IST",
+      "num_tokens": 453,
+      "text_length": 2223
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1466150",
+      "spike_id": 9,
+      "market_question": "Iran x Israel/US conflict ends by March 31?",
+      "event_title": "Iran x Israel/US conflict ends by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.22999999999999998,
+      "spike_timestamp_before": "2026-03-09T02:00:25+00:00",
+      "spike_timestamp_after": "2026-03-09T21:00:36+00:00"
+    },
+    {
+      "market_id": "1472026",
+      "spike_id": 16,
+      "market_question": "Will another country strike Iran by March 31?",
+      "event_title": "Will another country strike Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.20999999999999996,
+      "spike_timestamp_before": "2026-03-09T14:30:25+00:00",
+      "spike_timestamp_after": "2026-03-09T21:00:39+00:00"
+    },
+    {
+      "market_id": "1484894",
+      "spike_id": 2,
+      "market_question": "US x Iran ceasefire by May 31?",
+      "event_title": "US x Iran ceasefire by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.18999999999999995,
+      "spike_timestamp_before": "2026-03-08T23:30:22+00:00",
+      "spike_timestamp_after": "2026-03-09T21:00:32+00:00"
+    },
+    {
+      "market_id": "1484914",
+      "spike_id": 3,
+      "market_question": "Iran x Israel/US conflict ends by May 15?",
+      "event_title": "Iran x Israel/US conflict ends by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.17500000000000004,
+      "spike_timestamp_before": "2026-03-09T00:30:23+00:00",
+      "spike_timestamp_after": "2026-03-09T21:30:26+00:00"
+    },
+    {
+      "market_id": "1484949",
+      "spike_id": 5,
+      "market_question": "Netanyahu out by March 31?",
+      "event_title": "Netanyahu out by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.1835,
+      "spike_timestamp_before": "2026-03-09T18:00:41+00:00",
+      "spike_timestamp_after": "2026-03-10T03:00:36+00:00"
+    }
+  ]
+}

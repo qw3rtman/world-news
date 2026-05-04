@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In the Tuesday primary election for the Texas Republican U.S. Senate race, which two candidates were projected by the Associated Press to advance to a May runoff because neither secured a majority of the vote?",
+    "a": "Texas Attorney General Ken Paxton and U.S. Senator John Cornyn."
+  },
+  {
+    "q": "Under Texas law, what specific vote percentage threshold must a candidate exceed to avoid a runoff in the Texas Republican U.S. Senate primary?",
+    "a": "More than 50 percent of the vote."
+  },
+  {
+    "q": "Which U.S. Representative was the third candidate in the Texas Republican U.S. Senate primary field alongside Ken Paxton and John Cornyn?",
+    "a": "U.S. Representative Wesley Hunt."
+  },
+  {
+    "q": "According to a RealClearPolling average cited in the article, what were the polling percentages for Texas Attorney General Ken Paxton and U.S. Senator John Cornyn prior to the primary election?",
+    "a": "Paxton was at 37.3 percent and Cornyn was at 35 percent."
+  },
+  {
+    "q": "On prediction market Polymarket, what was the pricing percentage for Texas Attorney General Ken Paxton to win the Texas Republican U.S. Senate primary compared to U.S. Senator John Cornyn?",
+    "a": "Paxton was priced at 82 percent and Cornyn at 17 percent."
+  },
+  {
+    "q": "Which former White House adviser to President Donald Trump stated that the Trump team should have stayed out of the Texas Republican U.S. Senate primary race?",
+    "a": "Steve Bannon."
+  },
+  {
+    "q": "In a statement to reporters on February 16, what was President Donald Trump's expressed stance regarding the candidates in the Texas Republican U.S. Senate primary?",
+    "a": "He stated he supports all three candidates."
+  },
+  {
+    "q": "D. Stephen Voss, a political science professor at the University of Kentucky, noted that Donald Trump won Texas by more than what margin in the 2024 election?",
+    "a": "13 percentage points."
+  },
+  {
+    "q": "How much money did Republican leadership-aligned groups spend on advertising to support U.S. Senator John Cornyn in the Texas Republican U.S. Senate primary?",
+    "a": "More than $50 million."
+  },
+  {
+    "q": "What specific historical event from 2023 was a focal point of advertising messaging contrasting U.S. Senator John Cornyn with Texas Attorney General Ken Paxton?",
+    "a": "Paxton’s 2023 impeachment."
+  },
+  {
+    "q": "Which organization's survey listed Texas Attorney General Ken Paxton ahead of U.S. Senator John Cornyn by 4 points in the Texas Republican U.S. Senate primary race?",
+    "a": "Emerson College."
+  },
+  {
+    "q": "What prediction market showed similar pricing to Polymarket for the Texas Republican U.S. Senate primary, with Paxton’s “Yes” shares trading at 82 cents and Cornyn’s at 18 cents?",
+    "a": "Kalshi."
+  },
+  {
+    "q": "According to D. Stephen Voss, when was the last time Texans elected a Democrat to the U.S. Senate?",
+    "a": "Since the Eighties."
+  },
+  {
+    "q": "What type of political entities spent tens of millions of dollars on television, digital ads, and mail in the Texas Republican U.S. Senate primary race?",
+    "a": "The candidates and allied super PACs."
+  },
+  {
+    "q": "Which pro-Paxton super PAC organized additional campaign stops ahead of early voting in the Texas Republican U.S. Senate primary?",
+    "a": "A pro-Paxton super PAC."
+  },
+  {
+    "q": "What specific aspect of Texas Attorney General Ken Paxton’s career did his campaign advertising promote alongside his alignment with President Donald Trump?",
+    "a": "His record as attorney general."
+  },
+  {
+    "q": "What did U.S. Senator John Cornyn rely on for his campaign strategy in the Texas Republican U.S. Senate primary, according to the article?",
+    "a": "His long tenure in the Senate and backing from Republican leadership-aligned groups."
+  },
+  {
+    "q": "In the three-way Texas Republican U.S. Senate primary field, did any candidate consistently poll above 40 percent according to the polling data cited?",
+    "a": "No, neither candidate consistently polled above 40 percent."
+  },
+  {
+    "q": "What specific date range did D. Stephen Voss reference when discussing Donald Trump's performance in Texas to contextualize the GOP primary race?",
+    "a": "The 2024 election."
+  },
+  {
+    "q": "Which news outlet did Steve Bannon give his comments about the Trump team staying out of the Texas Republican U.S. Senate primary to?",
+    "a": "Politico’s Playbook."
+  },
+  {
+    "q": "What month is the runoff election scheduled for to decide the Republican nominee for the U.S. Senate from Texas?",
+    "a": "May."
+  },
+  {
+    "q": "According to the article, how long has it been since Texas elected a Democrat to statewide federal office?",
+    "a": "More than three decades."
+  },
+  {
+    "q": "What did D. Stephen Voss suggest both Republicans and Democrats seem to lean toward nominating, which might discourage swing voters?",
+    "a": "Candidates most likely to discourage swing voters."
+  },
+  {
+    "q": "Which two prediction markets provided pricing data for the Texas Republican U.S. Senate primary that indicated stronger confidence in Ken Paxton than the actual primary result?",
+    "a": "Polymarket and Kalshi."
+  },
+  {
+    "q": "What specific type of advertising did Texas Attorney General Ken Paxton and outside groups invest heavily in to promote his alignment with President Donald Trump?",
+    "a": "Television, digital ads, and mail."
+  },
+  {
+    "q": "What did the final days of the Texas Republican U.S. Senate primary feature regarding public polling, according to the article?",
+    "a": "A narrow edge for Paxton but a competitive race overall."
+  }
+]

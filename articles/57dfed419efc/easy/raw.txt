@@ -1,0 +1,102 @@
+[
+  {
+    "q": "What percentage increase did China’s domestic crude oil futures experience in the week following the start of the U.S.-Iran war, compared to the 12% rise in Brent and U.S. crude oil futures over the same period?",
+    "a": "China’s crude oil futures rose by 31%."
+  },
+  {
+    "q": "By how much did the daily chartering cost for a very large crude carrier (VLCC) transporting crude oil from the Middle East to China increase after fighting erupted in late February 2026?",
+    "a": "The cost jumped from around $120,000 a day to more than $450,000 a day."
+  },
+  {
+    "q": "What percentage increase did nearby European natural gas futures contracts record in the week following the start of the U.S.-Iran war?",
+    "a": "Nearby European gas futures contracts soared by close to 70%."
+  },
+  {
+    "q": "Which nation paused loadings of liquefied natural gas after its main gas liquefaction facilities were hit by Iranian drones over the weekend of the late February 2026 conflict?",
+    "a": "Qatar."
+  },
+  {
+    "q": "What was the percentage gain for December 2026 European natural gas futures contracts during the week following the start of the U.S.-Iran war?",
+    "a": "Prices for December 2026 gained around 40%."
+  },
+  {
+    "q": "By what percentage did nearby May Brent crude oil futures rise since Friday in the week following the start of the U.S.-Iran war?",
+    "a": "Nearby May futures rose by around 12%."
+  },
+  {
+    "q": "What percentage increase did year-end Brent crude oil futures experience in the week following the start of the U.S.-Iran war?",
+    "a": "Year-end prices rose by around 3%."
+  },
+  {
+    "q": "By what percentage did nearby U.S. gasoline contracts climb since late last week in the week following the start of the U.S.-Iran war?",
+    "a": "Nearby U.S. gasoline contracts climbed by around 10%."
+  },
+  {
+    "q": "What was the average percentage increase for all U.S. gasoline contracts through 2026 in the week following the start of the U.S.-Iran war?",
+    "a": "Prices for all 2026 contracts rose an average of 6%."
+  },
+  {
+    "q": "What specific proposal did U.S. President Donald Trump announce in the week following the start of the U.S.-Iran war to help lower energy costs for U.S. consumers?",
+    "a": "A proposal for the U.S. Navy to escort tankers through the Strait of Hormuz."
+  },
+  {
+    "q": "What proportion of global oil, fuel, and LNG travels through the Strait of Hormuz, the maritime chokepoint closed during the late February 2026 U.S.-Iran war?",
+    "a": "Around a fifth of global oil, fuel, and LNG."
+  },
+  {
+    "q": "Which three nations were identified as stepping up bombing efforts and widening damage to energy and logistics channels across the Middle East in the week following the start of the U.S.-Iran war?",
+    "a": "The U.S., Israel, and Iran."
+  },
+  {
+    "q": "What was the status of European local gas stockpiles in the months leading up to the late February 2026 U.S.-Iran war?",
+    "a": "They had been depleted to multi-year lows."
+  },
+  {
+    "q": "Which two specific shipping routes saw fuel tanker rates jump higher in the week following the start of the U.S.-Iran war due to global energy supply tightness?",
+    "a": "From Singapore to Japan and from the U.S. to Europe."
+  },
+  {
+    "q": "How did China’s crude oil futures prices compare to Brent and Murban prices for most of the year 2026 prior to the late February crisis?",
+    "a": "They had been below Brent and Murban prices."
+  },
+  {
+    "q": "What percentage increase did prices for all Brent crude oil contracts through 2031 experience in the week following the start of the U.S.-Iran war?",
+    "a": "Prices for all contracts through 2031 rose."
+  },
+  {
+    "q": "What percentage increase did year-end U.S. gasoline prices experience in the week following the start of the U.S.-Iran war?",
+    "a": "Year-end prices were up by 4%."
+  },
+  {
+    "q": "Which global benchmark for crude oil saw its nearby May futures rise by around 12% in the week following the start of the U.S.-Iran war?",
+    "a": "Brent."
+  },
+  {
+    "q": "What specific event caused Qatar to pause loadings of liquefied natural gas in the late February 2026 U.S.-Iran war?",
+    "a": "Iranian drones hitting its main gas liquefaction facilities."
+  },
+  {
+    "q": "What percentage increase did nearby gas prices experience in the wake of Iran's strikes on Qatar during the late February 2026 conflict?",
+    "a": "Nearby gas prices soared by more than 50%."
+  },
+  {
+    "q": "What percentage increase did nearby crude oil prices experience in the wake of the Iran strikes during the late February 2026 conflict?",
+    "a": "Nearby crude oil prices jumped by 12%."
+  },
+  {
+    "q": "What logistical issue is forcing Middle East producers to consider cutting output if they cannot resume exports soon, as noted in the week following the start of the U.S.-Iran war?",
+    "a": "Storage tanks across the Middle East are rapidly filling up."
+  },
+  {
+    "q": "Which sector was identified as one of the hardest hit in the aftermath of the late February 2026 U.S.-Iran war due to the closure of the Strait of Hormuz?",
+    "a": "The global tanker fleet."
+  },
+  {
+    "q": "What was the approximate daily cost to charter a very large crude carrier (VLCC) from the Middle East to China last week, before the late February 2026 fighting erupted?",
+    "a": "Around $120,000 a day."
+  },
+  {
+    "q": "What percentage increase did Brent crude oil futures experience over the same period that China’s crude oil futures rose by 31% in the week following the start of the U.S.-Iran war?",
+    "a": "Brent crude oil futures increased by 12%."
+  }
+]

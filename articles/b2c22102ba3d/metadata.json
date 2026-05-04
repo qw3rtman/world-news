@@ -1,0 +1,57 @@
+{
+  "hash": "b2c22102ba3d",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.barrons.com/articles/left-leads-in-paris-far-right-eyes-gains-in-france-local-polls-projections-d3aac70a?gaa_at=eafs&gaa_n=AWEtsqf3LBB_YHQCTLwdRMuOGnqB_tfoBHUTJ2uUfQthnFN0N40mhR9NrYUg&gaa_sig=86XG2gL9MnIBj_Gh_xCtnTR7EEKPZKpYAmB7jZ2xc6EGk3fp5ypmToMrTRWJhx4p2ZMHen6a2O-PaT5ksvh3AA%3D%3D&gaa_ts=69b7b551",
+      "title": "Left Leads In Paris, Far Right Eyes Gains In France Local Polls: Projections<!-- --> - Barron's",
+      "published_date": "2026-03-15T00:00:00.000Z",
+      "author": "Alice Hackman and Anna Smolchenko with AFP bureaus",
+      "num_tokens": 134,
+      "text_length": 605
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "645997",
+      "spike_id": 1,
+      "market_question": "Will Rachida Dati win the Paris mayor election?",
+      "event_title": "Paris Mayoral Election",
+      "spike_direction": "down",
+      "spike_delta": -0.22499999999999998,
+      "spike_timestamp_before": "2026-03-15T20:00:40+00:00",
+      "spike_timestamp_after": "2026-03-15T23:00:39+00:00"
+    },
+    {
+      "market_id": "645997",
+      "spike_id": 2,
+      "market_question": "Will Rachida Dati win the Paris mayor election?",
+      "event_title": "Paris Mayoral Election",
+      "spike_direction": "down",
+      "spike_delta": -0.255,
+      "spike_timestamp_before": "2026-03-15T20:00:40+00:00",
+      "spike_timestamp_after": "2026-03-16T03:00:47+00:00"
+    },
+    {
+      "market_id": "645997",
+      "spike_id": 3,
+      "market_question": "Will Rachida Dati win the Paris mayor election?",
+      "event_title": "Paris Mayoral Election",
+      "spike_direction": "down",
+      "spike_delta": -0.26,
+      "spike_timestamp_before": "2026-03-15T20:00:40+00:00",
+      "spike_timestamp_after": "2026-03-16T08:00:33+00:00"
+    },
+    {
+      "market_id": "646003",
+      "spike_id": 1,
+      "market_question": "Will Emmanuel Grégoire win the Paris mayor election?",
+      "event_title": "Paris Mayoral Election",
+      "spike_direction": "up",
+      "spike_delta": 0.245,
+      "spike_timestamp_before": "2026-03-15T20:00:38+00:00",
+      "spike_timestamp_after": "2026-03-15T23:00:36+00:00"
+    }
+  ]
+}

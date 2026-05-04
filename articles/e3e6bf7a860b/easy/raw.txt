@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On March 15, 2026, what price did U.S. crude oil hit as the U.S.-Israeli war with Iran continued, and what was the subsequent price of Brent crude?",
+    "a": "U.S. crude oil hit $100 per barrel, and Brent crude rose to $106 per barrel."
+  },
+  {
+    "q": "What collective action did the 32 countries of the International Energy Agency agree to on Wednesday, March 11, 2026, and what was the immediate market reaction?",
+    "a": "They agreed to release 400 million barrels of oil, causing prices to momentarily fall below $80 a barrel before rising again."
+  },
+  {
+    "q": "How much have U.S. oil prices risen since the start of the war with Iran, and what is the year-to-date increase as of March 15, 2026?",
+    "a": "Prices have risen nearly 50% since the war started and nearly 75% so far this year."
+  },
+  {
+    "q": "What was the national average price per gallon of unleaded gas on Sunday, March 15, 2026, and how much had it increased since the U.S. and Israel launched strikes on Iran?",
+    "a": "The average was around $3.70 per gallon, up about 70 cents since the strikes began."
+  },
+  {
+    "q": "Which critical waterway remains closed for the foreseeable future due to the conflict, and what percentage of the world's oil supply passes through it?",
+    "a": "The Strait of Hormuz is closed, and more than 20% of the world's oil supply passes through it."
+  },
+  {
+    "q": "On Friday, March 13, 2026, which specific Iranian location did the U.S. strike, and what percentage of Iran's oil exports originate from there?",
+    "a": "The U.S. struck Kharg Island, from which Iran exports around 90% of its oil."
+  },
+  {
+    "q": "What did U.S. President Donald Trump tell NBC News on Saturday, March 14, 2026, regarding future strikes on Kharg Island?",
+    "a": "He stated, \"We may hit [Kharg Island] a few more times, just for fun.\""
+  },
+  {
+    "q": "Did U.S. President Donald Trump indicate readiness to negotiate a cease-fire with Iran during his March 14, 2026, interview with NBC News?",
+    "a": "No, he said he was not yet ready to negotiate a cease-fire with Iran."
+  },
+  {
+    "q": "Who is the chief commodities strategist at RBC Capital Markets who commented on the closure of the Strait of Hormuz, and what was her assessment of the situation?",
+    "a": "Helima Croft stated that they have never had the most important waterway for energy effectively closed."
+  },
+  {
+    "q": "According to U.S. Energy Secretary Chris Wright on Sunday, March 15, 2026, is the Strait of Hormuz currently safe for ships?",
+    "a": "No, he stated it is not safe for ships to pass."
+  },
+  {
+    "q": "What timeline did U.S. Energy Secretary Chris Wright provide for when military escorts might be possible for oil tankers in the Strait of Hormuz?",
+    "a": "He said it could still be a number of weeks before military escorts are possible."
+  },
+  {
+    "q": "What prediction did longtime industry expert Andy Lipow make about the $100 oil price mark on March 15, 2026?",
+    "a": "He said the $100 mark may just be a short-term price target on its way to higher levels as the conflict drags on."
+  },
+  {
+    "q": "What reason did Andy Lipow give for why oil prices might continue to rise beyond $100 per barrel in March 2026?",
+    "a": "He cited throttled oil production and oil storage filling up because tankers are unable to load."
+  },
+  {
+    "q": "What did the White House propose to help secure the Strait of Hormuz, and had they provided details on this proposal as of mid-March 2026?",
+    "a": "The White House proposed naval escorts to protect oil tankers but had not provided any details yet."
+  },
+  {
+    "q": "Which two nations launched wide-scale strikes on targets in Iran that led to the surge in oil prices and gas costs in early 2026?",
+    "a": "The United States and Israel launched the strikes."
+  },
+  {
+    "q": "What specific retaliatory actions by Iran have deepened fears of a protracted regional conflict, according to the article?",
+    "a": "Iran launched retaliatory attacks across the region on ships, infrastructure, and ports through which oil tankers transit."
+  },
+  {
+    "q": "Who did U.S. President Donald Trump ask to help secure the Strait of Hormuz in his March 14, 2026, interview?",
+    "a": "He asked numerous countries affected by the actions of Iran to help secure the strait."
+  },
+  {
+    "q": "What was the price of U.S. crude oil when futures trading resumed at 6 p.m. ET on March 15, 2026?",
+    "a": "It jumped more than 2% to around $102 per barrel."
+  },
+  {
+    "q": "What was the international oil benchmark price on March 15, 2026, after it also jumped following the resumption of trading?",
+    "a": "Brent crude rose to $106 per barrel."
+  },
+  {
+    "q": "How many countries make up the International Energy Agency that agreed to the emergency oil release in March 2026?",
+    "a": "32 countries make up the International Energy Agency."
+  },
+  {
+    "q": "What was the largest emergency release of oil ever agreed upon by the International Energy Agency in March 2026?",
+    "a": "The collective release was 400 million barrels of oil."
+  },
+  {
+    "q": "What did U.S. Energy Secretary Chris Wright identify as one of the objectives at the end of the conflict with Iran?",
+    "a": "Making it safe for ships to pass through the Strait of Hormuz."
+  },
+  {
+    "q": "Which specific crude oil benchmark crossed the $100 mark on Sunday evening, March 15, 2026?",
+    "a": "West Texas Intermediate crude oil crossed the $100 mark."
+  },
+  {
+    "q": "What did Helima Croft say is the only way the crisis regarding the Strait of Hormuz will abate?",
+    "a": "She said it requires reopening the Strait and giving confidence to shipping companies that their tankers will not be attacked."
+  },
+  {
+    "q": "Did U.S. President Donald Trump claim that the strikes on Kharg Island affected the island's oil infrastructure?",
+    "a": "No, he said the strikes did not affect the island's oil infrastructure."
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "hash": "89ad4d012314",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2026/03/02/paramount-and-hbo-max-to-merge-into-one-streaming-service-after-wbd-deal-closes/",
+      "title": "Paramount+ and HBO Max to merge into one streaming service after WBD deal closes | TechCrunch",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Lauren Forristal",
+      "num_tokens": 583,
+      "text_length": 2980
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694939",
+      "spike_id": 8,
+      "market_question": "Will Ubisoft be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.25,
+      "spike_timestamp_before": "2026-03-04T20:30:24+00:00",
+      "spike_timestamp_after": "2026-03-05T05:00:20+00:00"
+    }
+  ]
+}

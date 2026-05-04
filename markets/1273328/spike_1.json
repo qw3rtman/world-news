@@ -1,0 +1,65 @@
+{
+  "spike_index": 1,
+  "direction": "up",
+  "price_before": 0.0775,
+  "price_after": 0.234,
+  "delta": 0.15650000000000003,
+  "abs_delta": 0.15650000000000003,
+  "timestamp_before": "2026-02-23T09:30:28+00:00",
+  "timestamp_after": "2026-02-23T23:30:28+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-what-is-the-gold-rate-outlook-for-february-23-2026-week-should-you-buy-or-sell-mcx-gold/articleshow/128701104.cms",
+      "file": "239d89115bfa.txt",
+      "title": "Gold price prediction today: Where are gold prices headed this week & what are the key levels? - The Times of India",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /   Feb 23, 2026, 11:22 IST",
+      "text_length": 2296,
+      "status": "ok",
+      "num_tokens": 453
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-outlook-will-trump-tariffs-and-middle-east-tensions-drive-next-leg-of-rally/amp_articleshow/128681426.cms",
+      "file": "5dd4a13bd887.txt",
+      "title": "Gold, silver rate outlook: Will Trump tariffs and Middle East tensions drive next leg of rally? - The Times of India",
+      "published_date": "2026-02-22T00:00:00.000Z",
+      "author": null,
+      "text_length": 3264,
+      "status": "ok",
+      "num_tokens": 680
+    },
+    {
+      "url": "http://fortune.com/article/current-price-of-gold-02-23-2026/",
+      "file": "24c2c42d8ac7.txt",
+      "title": "Current price of gold: February 23, 2026 | Fortune",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "Danny Bakst",
+      "text_length": 161,
+      "status": "ok",
+      "num_tokens": 45
+    },
+    {
+      "url": "http://origin.www.bloomberg.com/news/articles/2026-02-23/gold-rises-for-fifth-day-on-us-tariff-uncertainty-iran-tension?srnd=undefined",
+      "file": "4d9268ca78d4.txt",
+      "title": "Gold Rises for Fifth Day on US Tariff Uncertainty, Iran Tension - Bloomberg",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "Yihui Xie",
+      "text_length": 452,
+      "status": "ok",
+      "num_tokens": 90
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business-india-business-gold-rate-today-silver-price-live-updates-22-carat-24k-gold-rate-silver-per-kg-mcx-comex-etf-precious-metal-february-city-wise-cost-latest-news/liveblog/128697566.cms",
+      "file": "4f711d8b323f.txt",
+      "title": "Gold, Silver Rate Today Live Updates: Gold, silver prices down after seeing biggest rise in 3 weeks  - The Times of India",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": null,
+      "text_length": 22155,
+      "status": "ok",
+      "num_tokens": 4784
+    }
+  ],
+  "total_tokens": 6052
+}

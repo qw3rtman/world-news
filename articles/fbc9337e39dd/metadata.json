@@ -1,0 +1,27 @@
+{
+  "hash": "fbc9337e39dd",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://origin.www.bloomberg.com/news/articles/2026-03-02/strait-of-hormuz-how-iran-conflict-is-disrupting-key-oil-shipping-route",
+      "title": "Strait of Hormuz: How Iran Conflict Is Disrupting Key Oil Shipping Route - Bloomberg",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Julian Lee",
+      "num_tokens": 163,
+      "text_length": 802
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "665307",
+      "spike_id": 6,
+      "market_question": "Will Iran close the Strait of Hormuz before 2027?",
+      "event_title": "Will Iran close the Strait of Hormuz by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.3475,
+      "spike_timestamp_before": "2026-03-02T00:00:41+00:00",
+      "spike_timestamp_after": "2026-03-02T21:00:24+00:00"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "hash": "8efbb9cd832d",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.statnews.com/2026/03/06/servier-dayone-pediatric-cancer/",
+      "title": "Servier to acquire Day One, pediatric cancer drug maker, for $2.5B",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Andrew Joseph",
+      "num_tokens": 142,
+      "text_length": 606
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694938",
+      "spike_id": 27,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.375,
+      "spike_timestamp_before": "2026-03-06T03:30:41+00:00",
+      "spike_timestamp_after": "2026-03-06T22:00:35+00:00"
+    },
+    {
+      "market_id": "694938",
+      "spike_id": 28,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.25,
+      "spike_timestamp_before": "2026-03-06T22:00:35+00:00",
+      "spike_timestamp_after": "2026-03-07T00:30:34+00:00"
+    },
+    {
+      "market_id": "694938",
+      "spike_id": 29,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.17500000000000004,
+      "spike_timestamp_before": "2026-03-08T16:30:30+00:00",
+      "spike_timestamp_after": "2026-03-08T17:30:29+00:00"
+    },
+    {
+      "market_id": "694938",
+      "spike_id": 30,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.15000000000000002,
+      "spike_timestamp_before": "2026-03-08T17:30:29+00:00",
+      "spike_timestamp_after": "2026-03-08T23:00:31+00:00"
+    }
+  ]
+}

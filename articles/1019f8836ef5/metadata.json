@@ -1,0 +1,27 @@
+{
+  "hash": "1019f8836ef5",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://uat.apnews.com/article/trump-tariffs-supreme-court-whats-next-b8b6d5d44ebb3640a88f7202754cb361",
+      "title": "What happens next after the Supreme Court slapped down Trump's tariffs | AP News",
+      "published_date": "2026-02-20T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1398,
+      "text_length": 6962
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "586301",
+      "spike_id": 1,
+      "market_question": "Supreme Court rules in favor of Trump's tariffs?",
+      "event_title": "Supreme Court rules in favor of Trump's tariffs?",
+      "spike_direction": "down",
+      "spike_delta": -0.2645,
+      "spike_timestamp_before": "2026-02-20T09:30:20+00:00",
+      "spike_timestamp_after": "2026-02-20T15:30:20+00:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "hash": "4f4887c0b7bd",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://www.aljazeera.com/opinions/2026/3/6/will-the-houthis-join-irans-war",
+      "title": "Will the Houthis join Iran’s war? | Houthis | Al Jazeera",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Ahmed al-Shalafi",
+      "num_tokens": 1605,
+      "text_length": 8674
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1487679",
+      "spike_id": 6,
+      "market_question": "Houthi strike on Israel by March 15, 2026?",
+      "event_title": "Houthi strike on Israel by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.30000000000000004,
+      "spike_timestamp_before": "2026-03-07T21:30:25+00:00",
+      "spike_timestamp_after": "2026-03-08T11:30:23+00:00"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "spike_index": 5,
+  "direction": "down",
+  "price_before": 0.725,
+  "price_after": 0.027,
+  "delta": -0.698,
+  "abs_delta": 0.698,
+  "timestamp_before": "2026-03-03T21:00:54+00:00",
+  "timestamp_after": "2026-03-04T21:00:34+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-crisis-ayatollahs-son-mojtaba-khamenei-emerges-as-front-runner-to-succeed-slain-supreme-leader/articleshow/128997689.cms",
+      "file": "ebf36cf8dbc5.txt",
+      "title": "Mojtaba Khamenei: Iran crisis: Ayatollah\u2019s son Mojtaba Khamenei elected as successor of slain Supreme Leader - report - The Times of India",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "TOI World Desk  / TIMESOFINDIA.COM /  Updated: Mar 04, 2026, 08:17 IST",
+      "text_length": 5279,
+      "status": "ok",
+      "num_tokens": 1118
+    },
+    {
+      "url": "https://www.thetimes.com/article/7b309634-2048-4016-b021-af39c80c3b42?shareToken=a4a14761c61f77f85366758fd8d360af",
+      "file": "4bbbb320c723.txt",
+      "title": "Verifying Device",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "Catherine Philp, World Affairs Editor",
+      "text_length": 46,
+      "status": "ok",
+      "num_tokens": 10
+    },
+    {
+      "url": "https://www.pbs.org/newshour/world/here-are-some-of-the-contenders-to-be-irans-supreme-leader-after-the-killing-of-khamenei",
+      "file": "16cd26ff40fa.txt",
+      "title": "Here are some of the contenders to be Iran's supreme leader after the killing of Khamenei | PBS News",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 3441,
+      "status": "ok",
+      "num_tokens": 741
+    },
+    {
+      "url": "https://uat.apnews.com/article/iran-supreme-leader-khamenei-succession-c1d1505581d36ffc84d3ededcb10a7d5",
+      "file": "ca3b3cb900f6.txt",
+      "title": "How Iran's next supreme leader is chosen | AP News",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 4064,
+      "status": "ok",
+      "num_tokens": 881
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/01/middleeast/iran-new-supreme-leader-khamenei-dead-intl-latam",
+      "file": "39e90c202fed.txt",
+      "title": "Who\u2019s running Iran now that the supreme leader is dead? | CNN",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Christian Edwards",
+      "text_length": 8893,
+      "status": "ok",
+      "num_tokens": 1916
+    }
+  ],
+  "total_tokens": 4666
+}

@@ -1,0 +1,27 @@
+{
+  "hash": "ea1351a110f1",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://origin.www.bloomberg.com/news/newsletters/2026-03-03/thoma-bravo-s-latest-software-deal-is-a-bet-on-the-real-economy?srnd=undefined",
+      "title": "Thoma Bravo’s Latest Software Deal Is a Bet on the Real Economy - Bloomberg",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Ryan Gould",
+      "num_tokens": 93,
+      "text_length": 382
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694940",
+      "spike_id": 11,
+      "market_question": "Will GitLab be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.18499999999999994,
+      "spike_timestamp_before": "2026-03-02T09:00:23+00:00",
+      "spike_timestamp_after": "2026-03-03T07:30:22+00:00"
+    }
+  ]
+}

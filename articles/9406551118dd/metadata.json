@@ -1,0 +1,37 @@
+{
+  "hash": "9406551118dd",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202602260705BIZWIRE_USPRX____20260226_BW157030-1",
+      "title": "Victory Capital Affirms Fully Financed, Clearly Superior Proposal to Acquire Janus Henderson – Company Announcement - FT.com",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 4128,
+      "text_length": 22475
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694938",
+      "spike_id": 15,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.17500000000000004,
+      "spike_timestamp_before": "2026-02-26T07:30:31+00:00",
+      "spike_timestamp_after": "2026-02-27T07:00:36+00:00"
+    },
+    {
+      "market_id": "694938",
+      "spike_id": 16,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.16500000000000004,
+      "spike_timestamp_before": "2026-02-27T04:00:36+00:00",
+      "spike_timestamp_after": "2026-02-27T11:00:41+00:00"
+    }
+  ]
+}

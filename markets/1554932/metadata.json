@@ -1,0 +1,23 @@
+{
+  "market_id": "1554932",
+  "question": "US escorts commercial ship through Hormuz by March 31?",
+  "slug": "us-escorts-commercial-ship-through-hormuz-by-march-31",
+  "url": "https://polymarket.com/event/us-escorts-commercial-ship-through-hormuz-by-march-31",
+  "description": "This market will resolve to \u201cYes\u201d if the United States military or federal government officially announces that it will escort, is escorting, or has escorted, any commercial ship through the Strait of Hormuz by March 31, 2026, 11:59 PM ET. Otherwise this market will resolve to \u201cNo\u201d.\n\nEscort refers to United States military or government personnel accompanying or actively providing protective overwatch for a specific commercial vessel or convoy during its transit through the Strait of Hormuz. Personnel do not need to be aboard the commercial vessel to qualify. Escort may occur from a separate naval vessel or from aerial assets assigned to accompany or protect the transit.\n\nA qualifying announcement must be definitive. Suggestions, unconfirmed reports, or other non-definitive statements will not count.\n\nA widespread consensus of credible reporting that United States military or government personnel have escorted at least one commercial vessel on a journey through the Strait of Hormuz will also be sufficient for a \u201cYes\u201d resolution.\n\nThe primary resolution source for this market will be official information from the government and military of the United States; however, a consensus of credible reporting may also be used.",
+  "event_title": "US escorts commercial ship through Hormuz by...?",
+  "event_tags": [
+    "Strait of Hormuz",
+    "Trump",
+    "Geopolitics",
+    "Oil",
+    "U.S. x Iran",
+    "Iran"
+  ],
+  "volume_total": 1141096.276586004,
+  "created_at": "2026-03-10T22:05:45.062442Z",
+  "end_date": "2026-03-31T00:00:00Z",
+  "num_spikes": 3,
+  "max_spike": 0.18,
+  "total_tokens": 13925,
+  "total_articles": 15
+}

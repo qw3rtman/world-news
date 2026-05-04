@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the January 27, 2026 Supreme Court ruling, which specific legal statute did the Court strike down as an unconstitutional basis for President Donald Trump’s tariff agenda?",
+    "a": "The International Emergency Economic Powers Act of 1977 (IEEPA)."
+  },
+  {
+    "q": "According to John Ricco of the Yale University Budget Lab, what was the U.S. average effective tariff rate in early 2026, and how does it compare to the pre-Trump second-term baseline?",
+    "a": "The rate was 16.9%, which is significantly higher than the roughly 2% rate before President Donald Trump started his second term."
+  },
+  {
+    "q": "A paper published by researchers at the Federal Reserve Bank of New York estimated what percentage of the economic burden of 2025 tariffs was borne by U.S. firms and consumers?",
+    "a": "Roughly 90%."
+  },
+  {
+    "q": "According to the Tax Foundation, what was the estimated cost of President Donald Trump’s tariffs to each U.S. household in 2025, and what is the projected cost for 2026?",
+    "a": "The cost was $1,000 per household in 2025 and is projected to be $1,300 per household in 2026."
+  },
+  {
+    "q": "If the Supreme Court had not struck down the IEEPA tariffs, what range of additional annual cost did the Yale University Budget Lab estimate for the average consumer in 2026 compared to pre-2025 levels?",
+    "a": "An additional $1,300 to $1,700."
+  },
+  {
+    "q": "Gary Hufbauer, a nonresident senior fellow at the Peterson Institute for International Economics, predicted what outcome regarding tariff levels if the Supreme Court ruled IEEPA tariffs unconstitutional?",
+    "a": "He predicted the President would use other statutes to impose virtually the same tariffs, resulting in little change for consumers."
+  },
+  {
+    "q": "According to a Cato Institute analysis of federal data, how much tariff revenue did U.S. Customs and Border Protection collect under IEEPA in fiscal year 2025 and through December 14, 2026?",
+    "a": "About $133.5 billion."
+  },
+  {
+    "q": "On what date in April 2025 did President Donald Trump invoke IEEPA to impose a 10% baseline tariff on all U.S. trading partners?",
+    "a": "Liberation Day."
+  },
+  {
+    "q": "Which three countries did President Donald Trump impose IEEPA tariffs on for allegedly failing to prevent fentanyl trafficking since his Inauguration Day?",
+    "a": "Canada, China, and Mexico."
+  },
+  {
+    "q": "Section 232 of the Trade Expansion Act of 1962 is cited as an existing authority President Donald Trump could use to reimpose tariffs; which specific goods were previously subject to these Section 232 tariffs?",
+    "a": "Steel, aluminum, automobiles, auto parts, copper, trucks, and wood products."
+  },
+  {
+    "q": "Mark Zandi, chief economist at Moody’s, estimated what probability that impacted businesses would receive compensation from the federal government if the Supreme Court struck down IEEPA tariffs?",
+    "a": "Better than even odds."
+  },
+  {
+    "q": "The Tax Policy Center estimated that if IEEPA tariffs were ruled unconstitutional and not replaced, what would be the total reduction in taxes on households over a 10-year period?",
+    "a": "$1.4 trillion."
+  },
+  {
+    "q": "If IEEPA tariffs were struck down, by approximately how much would the annual consumer burden fall in 2026, according to John Ricco of the Yale University Budget Lab?",
+    "a": "By about half, to approximately $600 to $800."
+  },
+  {
+    "q": "President Donald Trump invoked IEEPA to suspend which specific customs rule that previously exempted imports under a certain value from tariffs?",
+    "a": "The de minimis rule."
+  },
+  {
+    "q": "According to a Congressional Research Service analysis in January, President Donald Trump used IEEPA to put levies on India and Brazil for what specific reasons?",
+    "a": "India was levied for importing Russian oil, and Brazil was levied for the prosecution of former President Jair Bolsonaro."
+  },
+  {
+    "q": "Chris Krueger, a strategist in TD Cowen’s Washington Research Group, stated in a January research note that the White House could recreate existing tariffs using other statutes within what timeframe if IEEPA were struck down?",
+    "a": "Within days."
+  },
+  {
+    "q": "What was the effective tariff rate that would remain if the Supreme Court struck down IEEPA tariffs, according to John Ricco of the Yale University Budget Lab?",
+    "a": "About 9%."
+  },
+  {
+    "q": "President Donald Trump floated the idea of sending Americans tariff \"dividend\" checks of what specific monetary amount?",
+    "a": "$2,000."
+  },
+  {
+    "q": "Mark Zandi of Moody’s stated that sending tariff dividend checks to consumers would require legislation and predicted Congress would not pass it even under what legislative procedure?",
+    "a": "Reconciliation."
+  },
+  {
+    "q": "The Yale University Budget Lab reported that tariffs made which four categories of consumer goods more expensive?",
+    "a": "Furniture, clothing, food, and electronics (also cars)."
+  },
+  {
+    "q": "During oral arguments in which month did a majority of Supreme Court justices appear skeptical about the legality of IEEPA tariffs?",
+    "a": "November."
+  },
+  {
+    "q": "White House officials disputed findings from a Federal Reserve Bank of New York paper regarding who bore the economic burden of 2025 tariffs; what did the paper claim they bore?",
+    "a": "The bulk, roughly 90%, of the economic burden."
+  },
+  {
+    "q": "The Supreme Court ruling in January 2026 addressed tariffs levied under a law that no president had previously used for what specific purpose?",
+    "a": "Imposing tariffs."
+  },
+  {
+    "q": "Gary Hufbauer of the Peterson Institute for International Economics noted that using other statutes to reimpose tariffs would \"take away some of the relief\" for consumers; which institute is he affiliated with?",
+    "a": "The Peterson Institute for International Economics."
+  },
+  {
+    "q": "According to the article, U.S. entities that import items largely pay the cost of tariffs rather than which other group?",
+    "a": "Foreign exporters."
+  }
+]

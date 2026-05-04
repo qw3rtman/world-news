@@ -1,0 +1,37 @@
+{
+  "hash": "1ba3467b7297",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.semafor.com/article/02/18/2026/prediction-markets-won-over-trump-but-the-rest-of-washington-will-be-harder",
+      "title": "Prediction markets won over Trump, but the rest of Washington will be harder | Semafor",
+      "published_date": "2026-02-18T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1539,
+      "text_length": 7773
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1370894",
+      "spike_id": 1,
+      "market_question": "Judy Shelton Fed Chair Nomination Odds >5% by Feb 20?",
+      "event_title": "Judy Shelton Fed Chair Nomination Odds above ___  by Feb 20?",
+      "spike_direction": "up",
+      "spike_delta": 0.2955,
+      "spike_timestamp_before": "2026-02-20T04:00:17+00:00",
+      "spike_timestamp_after": "2026-02-20T09:00:26+00:00"
+    },
+    {
+      "market_id": "1370894",
+      "spike_id": 2,
+      "market_question": "Judy Shelton Fed Chair Nomination Odds >5% by Feb 20?",
+      "event_title": "Judy Shelton Fed Chair Nomination Odds above ___  by Feb 20?",
+      "spike_direction": "down",
+      "spike_delta": -0.301,
+      "spike_timestamp_before": "2026-02-20T09:00:26+00:00",
+      "spike_timestamp_after": "2026-02-21T05:00:18+00:00"
+    }
+  ]
+}

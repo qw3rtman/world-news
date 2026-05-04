@@ -1,0 +1,27 @@
+{
+  "hash": "00f89b607d48",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://uat.apnews.com/article/fed-interest-rates-inflation-jobs-powell-trump-5ff8aec596588afed4a7449322bf956c",
+      "title": "Fed projects one rate cut this year as Powell vows to stay on until DOJ investigation is finished | AP News",
+      "published_date": "2026-03-18T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1121,
+      "text_length": 5387
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "906974",
+      "spike_id": 3,
+      "market_question": "Will there be no change in Fed interest rates after the June 2026 meeting?",
+      "event_title": "Fed Decision in June?",
+      "spike_direction": "up",
+      "spike_delta": 0.25,
+      "spike_timestamp_before": "2026-03-18T00:30:32+00:00",
+      "spike_timestamp_after": "2026-03-18T22:00:35+00:00"
+    }
+  ]
+}

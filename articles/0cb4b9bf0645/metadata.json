@@ -1,0 +1,27 @@
+{
+  "hash": "0cb4b9bf0645",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://thehill.com/policy/international/5760393-uk-france-germany-iran-strikes-negotiations/amp/",
+      "title": "Germany, France, UK urge US to restart Iran talks after strikes",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 518,
+      "text_length": 2753
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1385748",
+      "spike_id": 1,
+      "market_question": "Will France, UK, or Germany strike Iran by March 31?",
+      "event_title": "Will France, UK, or Germany strike Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.15100000000000002,
+      "spike_timestamp_before": "2026-02-27T19:30:39+00:00",
+      "spike_timestamp_after": "2026-02-28T19:00:37+00:00"
+    }
+  ]
+}

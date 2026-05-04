@@ -1,0 +1,37 @@
+{
+  "hash": "9357a1e3e443",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://theverge.com/policy/891686/dhs-government-shutdown-ice-cbp-tsa-airports",
+      "title": "The government shutdown is hitting airports — but not ICE | The Verge",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "Gaby Del Valle",
+      "num_tokens": 1565,
+      "text_length": 7996
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1378925",
+      "spike_id": 6,
+      "market_question": "Will the DHS shutdown end after March 31, 2026?",
+      "event_title": "When will the DHS shutdown end?",
+      "spike_direction": "down",
+      "spike_delta": -0.251,
+      "spike_timestamp_before": "2026-03-09T15:30:31+00:00",
+      "spike_timestamp_after": "2026-03-10T14:30:41+00:00"
+    },
+    {
+      "market_id": "1378925",
+      "spike_id": 7,
+      "market_question": "Will the DHS shutdown end after March 31, 2026?",
+      "event_title": "When will the DHS shutdown end?",
+      "spike_direction": "up",
+      "spike_delta": 0.1775,
+      "spike_timestamp_before": "2026-03-10T14:30:41+00:00",
+      "spike_timestamp_after": "2026-03-11T10:30:37+00:00"
+    }
+  ]
+}

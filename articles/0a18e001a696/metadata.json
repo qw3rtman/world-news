@@ -1,0 +1,37 @@
+{
+  "hash": "0a18e001a696",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://www.dw.com/en/state-elections-could-spell-doom-for-germanys-oldest-party/a-76024710",
+      "title": "State elections spell doom for Germany's oldest party",
+      "published_date": "2026-02-18T00:00:00.000Z",
+      "author": "Sabine Kinkartz  Reporter and author @SGCKi",
+      "num_tokens": 1388,
+      "text_length": 6520
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "635536",
+      "spike_id": 1,
+      "market_question": "Will there be no coalition by October 31?",
+      "event_title": "Which coalition will form the next Dutch government?",
+      "spike_direction": "up",
+      "spike_delta": 0.215,
+      "spike_timestamp_before": "2026-02-20T01:30:25+00:00",
+      "spike_timestamp_after": "2026-02-20T02:30:24+00:00"
+    },
+    {
+      "market_id": "635536",
+      "spike_id": 2,
+      "market_question": "Will there be no coalition by October 31?",
+      "event_title": "Which coalition will form the next Dutch government?",
+      "spike_direction": "down",
+      "spike_delta": -0.214,
+      "spike_timestamp_before": "2026-02-20T02:30:24+00:00",
+      "spike_timestamp_after": "2026-02-20T08:30:22+00:00"
+    }
+  ]
+}

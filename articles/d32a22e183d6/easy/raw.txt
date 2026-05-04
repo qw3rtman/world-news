@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2026, what was the approximate monetary value of the unsolicited bid made by UniCredit SpA for Commerzbank AG, and what percentage of Commerzbank shares did UniCredit already own at that time?",
+    "a": "The bid was worth around 35 billion euros ($40 billion), and UniCredit already owned nearly 30% of Commerzbank."
+  },
+  {
+    "q": "Who is the CEO of UniCredit SpA who architected the 2026 acquisition attempt of Commerzbank AG, and what previous failed acquisition is he noted for having attempted in the prior year?",
+    "a": "Andrea Orcel is the CEO, and he had previously failed to buy an Italian lender last year."
+  },
+  {
+    "q": "What was the stance of Bettina Orlopp, the CEO of Commerzbank AG, regarding UniCredit SpA's March 2026 unsolicited bid, and what did she state about the coordination of the move?",
+    "a": "She argued for the bank's independence and stated that the move was not coordinated with Commerzbank."
+  },
+  {
+    "q": "Which German political figure, serving as chancellor in 2026, reiterated Germany's desire for an independent Commerzbank AG, and what percentage stake does the German government hold in the bank?",
+    "a": "Friedrich Merz is the chancellor, and the German government owns almost 13% of Commerzbank."
+  },
+  {
+    "q": "Who is the German finance minister in 2026 who oversees the government's stake in Commerzbank AG and has described UniCredit SpA's advances as \"unfriendly\"?",
+    "a": "Lars Klingbeil is the German finance minister."
+  },
+  {
+    "q": "What was the position of Italian Prime Minister Giorgia Meloni in 2026 regarding UniCredit SpA CEO Andrea Orcel's plans for foreign expansion into Germany?",
+    "a": "She has never expressed support for his foreign expansion plans and only discussed the government's view on the domestic banking market."
+  },
+  {
+    "q": "Which Italian finance minister in 2026 actively fought against UniCredit SpA's bid for the smaller rival Banco BPM SpA, contributing to the failure of that deal?",
+    "a": "Giancarlo Giorgetti is the Italian finance minister."
+  },
+  {
+    "q": "What specific ownership threshold did the European Central Bank authorize UniCredit SpA to cross in the 2026 Commerzbank AG saga, and what was the resulting ownership level?",
+    "a": "The European Central Bank authorized UniCredit to cross the 10% threshold to get to 29.9%."
+  },
+  {
+    "q": "Which regulatory body would get involved in assessing the UniCredit SpA and Commerzbank AG deal if UniCredit were to acquire a controlling majority, acting as the competition watchdog?",
+    "a": "The EU Commission would get involved in assessing the deal."
+  },
+  {
+    "q": "Which German labour union in 2026 is fiercely against the takeover of Commerzbank AG, and how many people does Commerzbank employ approximately?",
+    "a": "The German labour union Verdi is against the takeover, and Commerzbank employs nearly 40,000 people."
+  },
+  {
+    "q": "Who is Sascha Uebel, and what did he tell the German news agency DPA regarding UniCredit SpA's March 2026 move toward Commerzbank AG?",
+    "a": "Sascha Uebel is the chairman of Commerzbank’s works council and a deputy of the bank's supervisory board; he told DPA that the move was shameful and hostile."
+  },
+  {
+    "q": "Which group of stakeholders from Germany's corporate elite pleaded with Commerzbank AG's CEO to reject a deal in the 2026 UniCredit SpA saga?",
+    "a": "A group of customers from Germany's corporate elite pleaded with the CEO to reject a deal."
+  },
+  {
+    "q": "Which investor in the 2026 Commerzbank AG and UniCredit SpA saga called for a constructive dialogue between the banks, despite many other shareholders remaining quiet?",
+    "a": "Union Investment called for a constructive dialogue between the banks."
+  },
+  {
+    "q": "In which month and year did UniCredit SpA initially buy a stake in Commerzbank AG, starting the saga that led to the March 2026 unsolicited bid?",
+    "a": "UniCredit bought a stake in Commerzbank in September 2024."
+  },
+  {
+    "q": "What freedom does UniCredit SpA gain in 2027 as a result of its March 2026 unsolicited bid for Commerzbank AG, given that it already owns nearly 30% of the bank?",
+    "a": "UniCredit gains the freedom to acquire more shares on the open market in 2027."
+  },
+  {
+    "q": "How does the 2026 potential merger between UniCredit SpA and Commerzbank AG compare in scale to previous European cross-border banking deals since the 2008 financial crisis?",
+    "a": "It would be one of the biggest European cross-border banking deals since the 2008 financial crisis."
+  },
+  {
+    "q": "What was the duration of the stalemate over the potential UniCredit SpA and Commerzbank AG merger that the March 2026 bid aimed to unlock?",
+    "a": "The bid aimed to unlock an 18-month stalemate."
+  },
+  {
+    "q": "Which two thresholds, besides the 10% threshold already cleared, does the European Central Bank need to clear for UniCredit SpA in the 2026 Commerzbank AG acquisition process?",
+    "a": "The European Central Bank needs to clear further thresholds, such as 30% and 50%."
+  },
+  {
+    "q": "What is the exchange rate provided in the March 2026 article for converting US dollars to euros, and how does this relate to the 35 billion euro bid value?",
+    "a": "The exchange rate is $1 = 0.8700 euros, which corresponds to the bid being worth around $40 billion."
+  },
+  {
+    "q": "Which two news agencies are credited with reporting on the Commerzbank AG and UniCredit SpA saga in the March 2026 article, and who are the three reporters named?",
+    "a": "Reuters reported the saga, with reporting by Valentina Za, Tom Sims, and Tommy Reggiori Wilkes."
+  },
+  {
+    "q": "What is the full name of the German bank that is the target of the March 2026 unsolicited bid by UniCredit SpA, and where is it based?",
+    "a": "The target is Commerzbank AG, which is based in Frankfurt."
+  },
+  {
+    "q": "What is the full name of the Italian bank that made the March 2026 unsolicited bid for Commerzbank AG, and what is its stock ticker symbol mentioned in the article?",
+    "a": "The Italian bank is UniCredit SpA, with the ticker symbol CRDI.MI."
+  },
+  {
+    "q": "Which smaller Italian rival bank did UniCredit SpA previously attempt to acquire, a bid that was actively fought by Italian Finance Minister Giancarlo Giorgetti and ultimately failed?",
+    "a": "UniCredit SpA previously attempted to acquire Banco BPM SpA."
+  },
+  {
+    "q": "What specific role does the EU Commission play in the 2026 UniCredit SpA and Commerzbank AG potential merger, and under what condition would it intervene?",
+    "a": "The EU Commission acts as the competition watchdog and would get involved if UniCredit were to acquire a controlling majority of Commerzbank."
+  },
+  {
+    "q": "What is the name of the German news agency that received a statement from Sascha Uebel regarding the hostility of UniCredit SpA's March 2026 move toward Commerzbank AG?",
+    "a": "Sascha Uebel told the German news agency DPA."
+  }
+]

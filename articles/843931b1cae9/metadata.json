@@ -1,0 +1,47 @@
+{
+  "hash": "843931b1cae9",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://thehill.com/policy/defense/5775816-us-ground-troops-iran-poll/",
+      "title": "Roughly 3 in 4 oppose sending US ground troops into Iran: Survey",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 598,
+      "text_length": 2679
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1162940",
+      "spike_id": 10,
+      "market_question": "US forces enter Iran by March 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.23500000000000004,
+      "spike_timestamp_before": "2026-03-08T20:00:22+00:00",
+      "spike_timestamp_after": "2026-03-09T20:00:22+00:00"
+    },
+    {
+      "market_id": "1162940",
+      "spike_id": 8,
+      "market_question": "US forces enter Iran by March 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.15000000000000002,
+      "spike_timestamp_before": "2026-03-08T19:30:21+00:00",
+      "spike_timestamp_after": "2026-03-09T03:30:19+00:00"
+    },
+    {
+      "market_id": "1162940",
+      "spike_id": 9,
+      "market_question": "US forces enter Iran by March 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.16500000000000004,
+      "spike_timestamp_before": "2026-03-08T19:30:21+00:00",
+      "spike_timestamp_after": "2026-03-09T15:30:21+00:00"
+    }
+  ]
+}

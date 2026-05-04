@@ -1,0 +1,27 @@
+{
+  "hash": "327551db3e32",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/03/01/experts-weigh-potential-scenarios-for-oil-if-strait-of-hormuz-closes.html",
+      "title": "Experts weigh potential scenarios for oil if Strait of Hormuz closes",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Lee Ying Shan",
+      "num_tokens": 1108,
+      "text_length": 5372
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "665307",
+      "spike_id": 8,
+      "market_question": "Will Iran close the Strait of Hormuz before 2027?",
+      "event_title": "Will Iran close the Strait of Hormuz by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.33799999999999997,
+      "spike_timestamp_before": "2026-03-03T14:00:31+00:00",
+      "spike_timestamp_after": "2026-03-03T20:00:26+00:00"
+    }
+  ]
+}

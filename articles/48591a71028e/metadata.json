@@ -1,0 +1,37 @@
+{
+  "hash": "48591a71028e",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://in.reuters.com/world/us-military-says-three-its-service-members-killed-iran-operation-2026-03-01/",
+      "title": "Reuters | Breaking International News & Views",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 60,
+      "text_length": 307
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1162940",
+      "spike_id": 1,
+      "market_question": "US forces enter Iran by March 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "up",
+      "spike_delta": 0.175,
+      "spike_timestamp_before": "2026-02-27T08:30:22+00:00",
+      "spike_timestamp_after": "2026-02-28T08:00:35+00:00"
+    },
+    {
+      "market_id": "1162940",
+      "spike_id": 2,
+      "market_question": "US forces enter Iran by March 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "up",
+      "spike_delta": 0.255,
+      "spike_timestamp_before": "2026-02-27T17:00:28+00:00",
+      "spike_timestamp_after": "2026-02-28T16:30:39+00:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "hash": "c19ad7ff0bc1",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.al-monitor.com/originals/2026/03/oil-prices-jump-despite-strategic-reserve-release",
+      "title": "Oil prices jump despite strategic reserve release - AL-Monitor: The Middle Eastʼs leading independent news source since 2012",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 997,
+      "text_length": 4166
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1467763",
+      "spike_id": 1,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $120 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.42,
+      "spike_timestamp_before": "2026-02-28T19:30:32+00:00",
+      "spike_timestamp_after": "2026-02-28T21:00:35+00:00"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "spike_index": 9,
+  "direction": "down",
+  "price_before": 0.31,
+  "price_after": 0.16,
+  "delta": -0.15,
+  "abs_delta": 0.15,
+  "timestamp_before": "2026-03-16T14:00:23+00:00",
+  "timestamp_after": "2026-03-17T04:00:29+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://fortune.com/article/price-of-oil-03-17-2026/",
+      "file": "ee7d4dab03bb.txt",
+      "title": "Current price of oil as of March 17, 2026 | Fortune",
+      "published_date": "2026-03-17T00:00:00.000Z",
+      "author": "Joseph Hostetler",
+      "text_length": 240,
+      "status": "ok",
+      "num_tokens": 65
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-march-17-2026-crude-continues-to-climb-amid-hormuz-supply-crisis-brent-wti-jump-2/articleshow/129622921.cms",
+      "file": "14943ae1c3b7.txt",
+      "title": "Oil price today (March 17, 2026): Crude continues to climb amid Hormuz supply crisis; Brent, WTI jump 2% - The Times of India",
+      "published_date": "2026-03-17T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /  Updated: Mar 17, 2026, 12:48 IST",
+      "text_length": 2629,
+      "status": "ok",
+      "num_tokens": 528
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/middle-east-oil-benchmarks-hit-record-highs-war-cuts-supply-2026-03-16",
+      "file": "01b0d3c8c052.txt",
+      "title": "Middle East oil becomes most expensive in the world as war cuts supply | Reuters",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "Florence Tan",
+      "text_length": 3269,
+      "status": "ok",
+      "num_tokens": 696
+    },
+    {
+      "url": "https://www.nbcnews.com/business/energy/oil-prices-iran-war-trump-wti-rcna263397",
+      "file": "e3e6bf7a860b.txt",
+      "title": "U.S. oil tops $100 as Iran war shows no sign of ending soon",
+      "published_date": "2026-03-15T00:00:00.000Z",
+      "author": null,
+      "text_length": 3499,
+      "status": "ok",
+      "num_tokens": 744
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/oil-gains-over-2-market-weighs-iran-war-supply-risks-2026-03-17/",
+      "file": "f2dffabc2bd7.txt",
+      "title": "Oil prices settle\u00a0up 3% after renewed Iranian attacks on UAE | Reuters",
+      "published_date": "2026-03-17T00:00:00.000Z",
+      "author": "Stephanie Kelly",
+      "text_length": 3866,
+      "status": "ok",
+      "num_tokens": 820
+    }
+  ],
+  "total_tokens": 2853
+}

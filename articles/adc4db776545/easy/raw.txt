@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In an interview with NBC News published on March 7, 2026, what condition did U.S. President Donald Trump state was required for any deal with Iran, and what did he say about a potential U.S. ground invasion?",
+    "a": "Trump stated there would be no deal without Iran's \"unconditional surrender\" and called a U.S. ground invasion a \"waste of time.\""
+  },
+  {
+    "q": "According to Iranian state media reported on March 7, 2026, how many people had been killed in Iran by Israeli and American strikes, and how many service members had the U.S. government identified as killed?",
+    "a": "More than 940 people had been killed in Iran, and the U.S. government had identified six service members as killed."
+  },
+  {
+    "q": "What did the Israeli Defense Forces (IDF) claim to have destroyed in central Tehran on March 7, 2026, and who was the intended occupant of this facility?",
+    "a": "The IDF claimed to have dismantled an underground bunker intended for slain Supreme Leader Ayatollah Ali Khamenei."
+  },
+  {
+    "q": "Who is the Iranian Foreign Minister who told NBC Nightly News on March 7, 2026, that Iran was not asking for a ceasefire, and what was his stance on a potential U.S. ground invasion?",
+    "a": "Iranian Foreign Minister Abbas Araghchi stated Iran was not asking for a ceasefire and was ready for any U.S. ground invasion."
+  },
+  {
+    "q": "How many people were reported killed in Lebanon by Israeli strikes as of March 7, 2026, and how many people had died in Israel due to Iranian fireback?",
+    "a": "123 people had been killed in Lebanon, and 11 people had died in Israel."
+  },
+  {
+    "q": "According to a U.S. official and another person familiar with preliminary findings reported on March 7, 2026, what was the likely cause of the strike on a school in Iran that killed scores of children?",
+    "a": "It looked increasingly likely that a U.S. munition was responsible for the strike."
+  },
+  {
+    "q": "What did U.S. President Donald Trump tell NBC News on March 7, 2026, regarding his thoughts on Iran's leadership following the death of Ayatollah Ali Khamenei?",
+    "a": "Trump said he would like Iran to have a \"good leader\" and that he has some names in mind for Khamenei's replacement."
+  },
+  {
+    "q": "As of March 7, 2026, how many American citizens had returned to the U.S. since the war began on the preceding Saturday, according to the State Department?",
+    "a": "Nearly 20,000 American citizens had returned to the U.S."
+  },
+  {
+    "q": "What two cities did Israel target with intense overnight bombardment on the night of March 6-7, 2026, that shook windows and woke residents?",
+    "a": "Israel targeted the Lebanese capital, Beirut, and the Iranian capital, Tehran."
+  },
+  {
+    "q": "Who were the clerics mentioned in state media reports on March 7, 2026, that were making plans to \"introduce the future leader\" of Iran after the power vacuum created by the U.S.-Israeli attack?",
+    "a": "The clerics choosing the new figurehead were making plans to introduce the future leader."
+  },
+  {
+    "q": "On social media on March 7, 2026, what did U.S. President Donald Trump add to his statement regarding negotiations with Iran?",
+    "a": "He stated that there would be no deal without Iran's \"unconditional surrender.\""
+  },
+  {
+    "q": "What type of weapons did Iran continue to use to strike neighboring Gulf nations as reported on March 7, 2026?",
+    "a": "Iran continued to strike with missiles and drones."
+  },
+  {
+    "q": "Which Iranian official, Abbas Araghchi, made statements to NBC Nightly News on March 7, 2026, regarding Iran's readiness for conflict?",
+    "a": "Iranian Foreign Minister Abbas Araghchi stated Iran was ready for any U.S. ground invasion."
+  },
+  {
+    "q": "According to the article updated on March 7, 2026, what event created a power vacuum in Iran for the first time in decades?",
+    "a": "The U.S.-Israeli attack that killed Supreme Leader Ayatollah Ali Khamenei."
+  },
+  {
+    "q": "How many people had died in Israel as a result of Iran firing back, according to reports on March 7, 2026?",
+    "a": "11 people had died in Israel."
+  },
+  {
+    "q": "What did the State Department report on March 7, 2026, regarding the status of American citizens in the Middle East since the war began on the preceding Saturday?",
+    "a": "Nearly 20,000 had returned to the U.S., but thousands remained stranded in the Middle East."
+  },
+  {
+    "q": "Which two capitals were subjected to intense overnight bombardment by Israel on the night of March 6-7, 2026, according to the report?",
+    "a": "Beirut and Tehran."
+  },
+  {
+    "q": "What did Iranian state media report on March 7, 2026, regarding the plans of the clerics choosing Iran's new figurehead?",
+    "a": "They were making plans to \"introduce the future leader.\""
+  },
+  {
+    "q": "According to a U.S. official and another person familiar with preliminary findings on March 7, 2026, what was the suspected cause of the school strike in Iran?",
+    "a": "A U.S. munition was likely responsible."
+  },
+  {
+    "q": "What did U.S. President Donald Trump tell NBC News on March 7, 2026, about his preferences for Iran's leadership structure?",
+    "a": "He said he would like Iran to have a \"good leader\" and has some names in mind for Ayatollah Ali Khamenei's replacement."
+  },
+  {
+    "q": "How many people were reported killed in Iran by Israeli and American strikes according to Iranian state media on March 7, 2026?",
+    "a": "More than 940 people."
+  },
+  {
+    "q": "What did the Israeli military claim on March 7, 2026, regarding an underground facility in central Tehran?",
+    "a": "It had dismantled an underground bunker intended for slain Supreme Leader Ayatollah Ali Khamenei."
+  },
+  {
+    "q": "Which Iranian Foreign Minister told NBC Nightly News on March 7, 2026, that Iran was not asking for a ceasefire?",
+    "a": "Abbas Araghchi."
+  },
+  {
+    "q": "How many U.S. service members had been identified as killed by the U.S. government as of March 7, 2026?",
+    "a": "Six service members."
+  },
+  {
+    "q": "What did U.S. President Donald Trump say on social media on March 7, 2026, in addition to his comments to NBC News?",
+    "a": "He stated there would be no deal without Iran's \"unconditional surrender.\""
+  }
+]

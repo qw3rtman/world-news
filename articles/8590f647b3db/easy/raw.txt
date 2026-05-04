@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Following the United States and Israel's initial attacks on Iran on February 28, 2026, what specific price threshold did analysts initially warn oil could exceed, and what higher range are market watchers seriously considering less than three weeks into the conflict?",
+    "a": "Analysts initially warned prices could exceed $100 a barrel; market watchers are now considering the possibility of prices surpassing $150 or even $200."
+  },
+  {
+    "q": "On what date did Brent crude hit nearly $120, and on what date did it drop below the $100 threshold, marking the start of its sustained stay above that level?",
+    "a": "Brent crude hit nearly $120 on March 9, 2026, and has not dropped below $100 since March 13, 2026."
+  },
+  {
+    "q": "What specific Israeli military action on March 18, 2026, prompted Iranian attacks on oil and gas facilities in Qatar, Saudi Arabia, and the United Arab Emirates, and what was the resulting impact on crude prices?",
+    "a": "An Israeli strike on Iran’s South Pars gasfield prompted the retaliatory attacks, pushing crude prices up to more than $108 a barrel."
+  },
+  {
+    "q": "According to Vandana Hari, founder of Vanda Insights, which two benchmark Middle Eastern crudes had already crossed the $150 threshold by March 2026, even if Brent and West Texas Intermediate had not?",
+    "a": "Oman and Dubai crudes had already crossed the $150 threshold."
+  },
+  {
+    "q": "Which four countries' flagged vessels were primarily allowed to pass through the Strait of Hormuz in recent days after Iran declared the strait closed in early 2026?",
+    "a": "Indian, Pakistani, Turkish, and Chinese-flagged vessels."
+  },
+  {
+    "q": "How many million barrels of oil did the Singapore-based OCBC Group Research estimate the global market was facing as a daily shortfall in March 2026, even after accounting for emergency reserves?",
+    "a": "About 10 million barrels."
+  },
+  {
+    "q": "Which two entities coordinated the release of 400 million barrels of oil from emergency stockpiles in response to the March 2026 shipping disruptions, and did these reserves fully offset the halt of shipping?",
+    "a": "Countries coordinated with the International Energy Agency; the reserves could not fully offset the halt of shipping."
+  },
+  {
+    "q": "What specific prediction did Wood Mackenzie analysts make in late March 2026 regarding the potential for Brent crude to reach $150 and $200 in 2026?",
+    "a": "They said Brent could soon hit $150 and that $200 was not “outside the realms of possibility” in 2026."
+  },
+  {
+    "q": "Through which specific channel did Iran warn the world to “get ready” for a potential $200 oil spike in late March 2026?",
+    "a": "A military spokesperson."
+  },
+  {
+    "q": "According to Chad Norville, president of Rigzone, what condition must be met for prices to approach $200, and how did he compare the current conditions to those of the Gulf War?",
+    "a": "Prices would approach $200 if flows through the Strait of Hormuz were materially disrupted for a sustained period; he stated current conditions could allow for a more dramatic move than the Gulf War."
+  },
+  {
+    "q": "What specific economic impacts did the International Monetary Fund estimate would result from every 10 percent sustained rise in oil prices over a year?",
+    "a": "A 0.4 percent increase in global inflation and a 0.15 percent reduction in economic growth."
+  },
+  {
+    "q": "What was the all-time peak price for Brent crude in 2008, and what is that amount equivalent to in today's dollars according to the article?",
+    "a": "The peak was $147.50 per barrel, which equates to about $224 in today's dollars."
+  },
+  {
+    "q": "What specific negative economic impacts did Adi Imsirovic of the University of Oxford predict if oil hit $200 a barrel in 2026?",
+    "a": "He predicted it would impact inflation, growth, employment, and cause shortages of materials such as fertilizers and plastics."
+  },
+  {
+    "q": "Which five countries did Sasha Foss of Marex, London, cite as having substantially increased oil output as a reason for optimism against $200 oil prices in 2026?",
+    "a": "The US, Canada, Argentina, Brazil, and Guyana."
+  },
+  {
+    "q": "What specific alternative supply route did Sasha Foss of Marex, London, identify as a factor supporting oil supply in 2026?",
+    "a": "Saudi Arabia’s East-West Pipeline."
+  },
+  {
+    "q": "What economic phenomenon did Bob McNally of Rapidan Energy Group describe as occurring when buyers cut back on consumption once prices rise above a certain level?",
+    "a": "Demand destruction."
+  },
+  {
+    "q": "According to Bob McNally, president of Rapidan Energy Group, what previous nominal high might the price level for demand destruction exceed in 2026?",
+    "a": "Previous nominal highs at $147 a barrel."
+  },
+  {
+    "q": "What two countervailing tendencies did Gregor Semieniuk of the University of Massachusetts Amherst identify as determining how high oil prices would rise in 2026?",
+    "a": "Buyers chasing fewer barrels at any cost versus buyers exiting the market through demand destruction."
+  },
+  {
+    "q": "Which specific global oil benchmark remained below the $150 threshold in mid-March 2026, unlike Oman and Dubai crudes?",
+    "a": "Brent crude and West Texas Intermediate."
+  },
+  {
+    "q": "What proportion of global oil supplies flows through the Strait of Hormuz in peacetime, according to analysts in March 2026?",
+    "a": "About one-fifth."
+  },
+  {
+    "q": "Why did US President Donald Trump fail to reopen the Strait of Hormuz to shipping in March 2026, according to the article?",
+    "a": "He failed to attract international support for a naval convoy to reopen the strait."
+  },
+  {
+    "q": "What specific threat did Iran make regarding ships attempting to pass through the Strait of Hormuz after declaring it closed in early 2026?",
+    "a": "Iran threatened to strike any ships attempting to pass."
+  },
+  {
+    "q": "Which energy expert from the University of Oxford described the prospect of oil hitting $200 a barrel in 2026 as “perfectly possible”?",
+    "a": "Adi Imsirovic."
+  },
+  {
+    "q": "Which energy market analyst from Marex, London, called the prospect of $200 Brent crude “pretty outlandish” in March 2026?",
+    "a": "Sasha Foss."
+  },
+  {
+    "q": "What specific date in March 2026 is cited for the display of gasoline prices at a petrol station in Portland, Oregon, in the article's context?",
+    "a": "March 16, 2026."
+  }
+]

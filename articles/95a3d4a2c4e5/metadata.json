@@ -1,0 +1,57 @@
+{
+  "hash": "95a3d4a2c4e5",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/middle-east/israels-netanyahu-says-there-are-signs-that-iranian-supreme-leader-khamenei-is-2026-02-28/",
+      "title": "Israel's Netanyahu says many signs that Khamenei 'is no longer' | Reuters",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 210,
+      "text_length": 980
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1180303",
+      "spike_id": 1,
+      "market_question": "Khamenei out as Supreme Leader of Iran by February 28?",
+      "event_title": "Khamenei out as Supreme Leader of Iran by February 28?",
+      "spike_direction": "up",
+      "spike_delta": 0.453,
+      "spike_timestamp_before": "2026-02-28T05:30:25+00:00",
+      "spike_timestamp_after": "2026-02-28T14:00:41+00:00"
+    },
+    {
+      "market_id": "1180303",
+      "spike_id": 2,
+      "market_question": "Khamenei out as Supreme Leader of Iran by February 28?",
+      "event_title": "Khamenei out as Supreme Leader of Iran by February 28?",
+      "spike_direction": "up",
+      "spike_delta": 0.9329999999999999,
+      "spike_timestamp_before": "2026-02-28T05:30:25+00:00",
+      "spike_timestamp_after": "2026-02-28T20:00:26+00:00"
+    },
+    {
+      "market_id": "1180303",
+      "spike_id": 3,
+      "market_question": "Khamenei out as Supreme Leader of Iran by February 28?",
+      "event_title": "Khamenei out as Supreme Leader of Iran by February 28?",
+      "spike_direction": "up",
+      "spike_delta": 0.965,
+      "spike_timestamp_before": "2026-02-28T05:30:25+00:00",
+      "spike_timestamp_after": "2026-02-28T22:00:31+00:00"
+    },
+    {
+      "market_id": "1484987",
+      "spike_id": 1,
+      "market_question": "Netanyahu out by June 30?",
+      "event_title": "Netanyahu out by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.375,
+      "spike_timestamp_before": "2026-03-02T18:30:39+00:00",
+      "spike_timestamp_after": "2026-03-02T22:00:33+00:00"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "spike_index": 2,
+  "direction": "up",
+  "price_before": 0.105,
+  "price_after": 0.9995,
+  "delta": 0.8945000000000001,
+  "abs_delta": 0.8945000000000001,
+  "timestamp_before": "2026-02-27T09:00:39+00:00",
+  "timestamp_after": "2026-02-28T08:30:53+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.reuters.com/business/aerospace-defense/us-deploys-suicide-drones-tomahawk-missiles-iran-strikes-2026-03-01/",
+      "file": "a2bdcf395083.txt",
+      "title": "US uses Anthropic AI, B-2 bombers and suicide drones in Iran strikes | Reuters",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 4548,
+      "status": "ok",
+      "num_tokens": 996
+    },
+    {
+      "url": "https://www.npr.org/2026/03/01/nx-s1-5731365/us-israeli-strikes-region",
+      "file": "004b38f9c979.txt",
+      "title": "U.S.-Israeli strikes in Iran continue into 2nd day : NPR",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Jane Arraf",
+      "text_length": 8342,
+      "status": "ok",
+      "num_tokens": 1702
+    },
+    {
+      "url": "http://ww1.usatoday.com/story/news/nation/2026/03/01/trump-iran-strikes-comments/88934089007/",
+      "file": "ccdcad56a2a9.txt",
+      "title": "USA TODAY - Breaking News and Latest News Today",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 439,
+      "status": "ok",
+      "num_tokens": 88
+    },
+    {
+      "url": "https://af.reuters.com/business/aerospace-defense/us-deploys-suicide-drones-tomahawk-missiles-iran-strikes-2026-03-01/",
+      "file": "f5f53b48966d.txt",
+      "title": "Reuters | Breaking International News & Views",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 255,
+      "status": "ok",
+      "num_tokens": 51
+    },
+    {
+      "url": "https://now.cnn.com/2026/03/01/politics/cia-ayatollah-ali-khamenei-strike",
+      "file": "9490255d2a97.txt",
+      "title": "Breaking News, Latest News and Videos | CNN",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Monica Sarkar",
+      "text_length": 82,
+      "status": "ok",
+      "num_tokens": 16
+    }
+  ],
+  "total_tokens": 2853
+}

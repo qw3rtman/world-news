@@ -1,0 +1,65 @@
+{
+  "spike_index": 1,
+  "direction": "up",
+  "price_before": 0.043,
+  "price_after": 0.235,
+  "delta": 0.192,
+  "abs_delta": 0.192,
+  "timestamp_before": "2026-03-05T09:30:29+00:00",
+  "timestamp_after": "2026-03-05T15:00:42+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.nature.com/search?author=Duc+Minh+Tran",
+      "file": "e499e3140e2f.txt",
+      "title": "Nature Search",
+      "published_date": "2026-03-05T00:00:00.000Z",
+      "author": null,
+      "text_length": 14701,
+      "status": "ok",
+      "num_tokens": 3944
+    },
+    {
+      "url": "https://www.axios.com/2026/03/05/iran-leader-trump-khamenei",
+      "file": "8721a3ceced2.txt",
+      "title": "Exclusive: Trump says he must be involved in picking Iran's next leader",
+      "published_date": "2026-03-05T00:00:00.000Z",
+      "author": "Barak Ravid,Zachary Basu",
+      "text_length": 2802,
+      "status": "ok",
+      "num_tokens": 581
+    },
+    {
+      "url": "https://preview-www.nature.com/search?author=Minh+Ly",
+      "file": "a3f8ddf41635.txt",
+      "title": "Nature Search",
+      "published_date": "2026-03-05T00:00:00.000Z",
+      "author": null,
+      "text_length": 15814,
+      "status": "ok",
+      "num_tokens": 4031
+    },
+    {
+      "url": "https://preview-www.nature.com/search?author=Tu+Minh+Nguyen",
+      "file": "b03e78dc06f0.txt",
+      "title": "Nature Search",
+      "published_date": "2026-03-05T00:00:00.000Z",
+      "author": null,
+      "text_length": 14024,
+      "status": "ok",
+      "num_tokens": 3757
+    },
+    {
+      "url": "https://www.nature.com/search?author=Minh+Ly",
+      "file": "80ae2548a617.txt",
+      "title": "Nature Search",
+      "published_date": "2026-03-05T00:00:00.000Z",
+      "author": null,
+      "text_length": 16004,
+      "status": "ok",
+      "num_tokens": 4072
+    }
+  ],
+  "total_tokens": 16385
+}

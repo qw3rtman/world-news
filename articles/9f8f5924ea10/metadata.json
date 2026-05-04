@@ -1,0 +1,37 @@
+{
+  "hash": "9f8f5924ea10",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://thehill.com/policy/defense/5762676-boots-ground-iran-hegseth/",
+      "title": "Pete Hegseth does not rule out US troops in Iran",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1095,
+      "text_length": 5070
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1394299",
+      "spike_id": 13,
+      "market_question": "US forces enter Iran by December 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "up",
+      "spike_delta": 0.255,
+      "spike_timestamp_before": "2026-03-03T09:00:27+00:00",
+      "spike_timestamp_after": "2026-03-04T02:30:26+00:00"
+    },
+    {
+      "market_id": "1394299",
+      "spike_id": 14,
+      "market_question": "US forces enter Iran by December 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.16000000000000003,
+      "spike_timestamp_before": "2026-03-04T02:30:26+00:00",
+      "spike_timestamp_after": "2026-03-04T12:30:32+00:00"
+    }
+  ]
+}

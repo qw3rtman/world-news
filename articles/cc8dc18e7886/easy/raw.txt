@@ -1,0 +1,102 @@
+[
+  {
+    "q": "During the February 28, 2026 Operation Epic Fury, what specific type of missile did the Arleigh Burke-class guided-missile destroyer USS Frank E. Petersen Jr. fire?",
+    "a": "A Tomahawk missile."
+  },
+  {
+    "q": "In the June 2025 conflict, how many missiles did Iran reportedly launch, and what percentage did Israel claim to have intercepted?",
+    "a": "Iran launched 631 missiles, and Israel claimed an 86 percent interception rate."
+  },
+  {
+    "q": "Which specific anti-ballistic missile interceptor system, whose stocks were running critically low for Israel during the 2025 conflict, requires the United States to provide additional assets like SM-2, SM-3, and SM-6 interceptors?",
+    "a": "The Arrow 3 system."
+  },
+  {
+    "q": "Which historical battle against the Islamic State in Iraq, occurring between 2016 and 2017, is cited as having a similar attritional logic to the 2025 Israel-Iran strike campaign?",
+    "a": "The nine-month Battle of Mosul."
+  },
+  {
+    "q": "What is the name of the military concept involving tightly coordinated, intelligence-led campaigns across air, land, sea, cyber, information, and space domains that the United States and Israel use to envision modern warfare?",
+    "a": "Multidomain operations, or MDO."
+  },
+  {
+    "q": "Which two countries are currently engaged in a slow, grinding contest dominated by precision firepower that has failed to produce rapid, decisive results, according to the article's analysis of 21st-century warfare?",
+    "a": "Russia and Ukraine."
+  },
+  {
+    "q": "Who was the U.S. President who ordered the attack on Iran despite being briefed on the U.S. military’s concerns about dwindling stockpiles of precision munitions?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "During the first 48 hours of the war starting in late February 2026, how many missiles and drones did Iran fire in an attempt to saturate Israeli, U.S., and Gulf air defenses?",
+    "a": "More than 1,200 missiles and drones."
+  },
+  {
+    "q": "According to Israeli military sources, how many of Iran’s ballistic missile launchers had been destroyed by early March 2026?",
+    "a": "200 ballistic missile launchers."
+  },
+  {
+    "q": "Which specific ground-based missile defense system, along with guided missile destroyers, did the United States rush to the region to support Israel during the 2025 conflict?",
+    "a": "Ground-based THAAD systems."
+  },
+  {
+    "q": "What economic consequence did the June 2025 conflict force upon Israel, described as an unsustainable strain due to the campaign costing hundreds of millions of dollars daily?",
+    "a": "A wartime lockdown."
+  },
+  {
+    "q": "What specific strategic risk does the United States face if it must take munitions from stockpiles reserved for other contingencies to support the war against Iran?",
+    "a": "Reduced readiness for a possible war with Russia in Europe or China in East Asia."
+  },
+  {
+    "q": "Which famous quote about war, attributed to Leon Trotsky, is paraphrased in the article to illustrate that attrition is interested in military planners even if they are not interested in it?",
+    "a": "You may not be interested in attrition, but attrition is certainly interested in you."
+  },
+  {
+    "q": "What specific type of munitions are described as having production that is too slow and expensive to replenish large numbers of supplies in an ongoing 21st-century campaign?",
+    "a": "Precision-guided munitions."
+  },
+  {
+    "q": "Which two major powers were the subjects of recent high-intensity warfare scenario testing in war games that revealed how quickly inventories of precision munitions become exhausted?",
+    "a": "Russia and China."
+  },
+  {
+    "q": "What specific capability does Israel lose if it does not have the Arrow 3 system, according to the analysis of the June 2025 conflict?",
+    "a": "The ability to neutralize threats above the atmosphere."
+  },
+  {
+    "q": "What specific political objective assumption do MDO planners make regarding decapitation strikes at the outset of a campaign against Iran?",
+    "a": "That decapitation strikes can lead to the rapid collapse of enemy resistance."
+  },
+  {
+    "q": "Which specific regional allies of the United States and Israel are mentioned as having their air defenses targeted by Iran’s saturation strategy in the 2026 conflict?",
+    "a": "Gulf country targets (or Persian Gulf countries)."
+  },
+  {
+    "q": "What specific term does the article use to describe the historical feature of great-power wars where militaries pause fighting until they receive new shells?",
+    "a": "Shell hunger."
+  },
+  {
+    "q": "Which specific military domains are included in the definition of multidomain operations (MDO) as described in the article?",
+    "a": "Air, land, sea, cyber, information, and space."
+  },
+  {
+    "q": "What specific outcome does the article predict if the United States runs out of targets after a week of strikes and the Iranian regime has not collapsed?",
+    "a": "The White House would have to decide whether to stop and call it a victory."
+  },
+  {
+    "q": "Which specific historical bombing campaigns are cited as examples of wars that were rarely won from the air?",
+    "a": "The Allied bombing campaigns in World War II."
+  },
+  {
+    "q": "What specific type of strikes do MDO planners assume will paralyze Iran’s resistance by eliminating key nodes such as specific leaders and military installations?",
+    "a": "Decapitation strikes."
+  },
+  {
+    "q": "What specific strategic approach is Iran pursuing in the 2026 conflict to counter the U.S.-Israeli timeline for a quick victory?",
+    "a": "An attritional strategy to play for time."
+  },
+  {
+    "q": "Which specific class of guided-missile destroyer is identified in the article as firing a Tomahawk missile during Operation Epic Fury on February 28, 2026?",
+    "a": "Arleigh Burke-class."
+  }
+]

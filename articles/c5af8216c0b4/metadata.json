@@ -1,0 +1,57 @@
+{
+  "hash": "c5af8216c0b4",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.npr.org/transcripts/1123499337",
+      "title": "Iran's Supreme Leader Ayatollah Ali Khamenei killed by Israel at 86 : NPR",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1510,
+      "text_length": 6609
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1117242",
+      "spike_id": 1,
+      "market_question": "Nothing Ever Happens: Khamenei",
+      "event_title": "Nothing Ever Happens: Khamenei",
+      "spike_direction": "down",
+      "spike_delta": -0.35,
+      "spike_timestamp_before": "2026-02-27T11:00:20+00:00",
+      "spike_timestamp_after": "2026-02-28T09:00:26+00:00"
+    },
+    {
+      "market_id": "1117242",
+      "spike_id": 2,
+      "market_question": "Nothing Ever Happens: Khamenei",
+      "event_title": "Nothing Ever Happens: Khamenei",
+      "spike_direction": "down",
+      "spike_delta": -0.5650000000000001,
+      "spike_timestamp_before": "2026-02-27T18:30:21+00:00",
+      "spike_timestamp_after": "2026-02-28T14:00:39+00:00"
+    },
+    {
+      "market_id": "1117242",
+      "spike_id": 3,
+      "market_question": "Nothing Ever Happens: Khamenei",
+      "event_title": "Nothing Ever Happens: Khamenei",
+      "spike_direction": "down",
+      "spike_delta": -0.605,
+      "spike_timestamp_before": "2026-02-27T18:30:21+00:00",
+      "spike_timestamp_after": "2026-02-28T17:00:33+00:00"
+    },
+    {
+      "market_id": "1117242",
+      "spike_id": 4,
+      "market_question": "Nothing Ever Happens: Khamenei",
+      "event_title": "Nothing Ever Happens: Khamenei",
+      "spike_direction": "down",
+      "spike_delta": -0.736,
+      "spike_timestamp_before": "2026-02-27T20:30:23+00:00",
+      "spike_timestamp_after": "2026-02-28T20:00:25+00:00"
+    }
+  ]
+}

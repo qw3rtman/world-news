@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In February 2026, which three prediction market platforms were cited as benefiting from Commodity Futures Trading Commission Chair Mike Selig’s assertion of federal authority over them?",
+    "a": "Kalshi, Polymarket, and their cohorts."
+  },
+  {
+    "q": "During the week of February 18, 2026, which two Republican U.S. Senators and one state governor expressed support or opposition respectively regarding Commodity Futures Trading Commission Chair Mike Selig’s decision to supervise prediction markets?",
+    "a": "Sens. Bill Hagerty and Dave McCormick voiced support, while Utah Gov. Spencer Cox panned the move."
+  },
+  {
+    "q": "As of February 2026, which Republican U.S. Senators had previously raised concerns about federal regulation of prediction markets or joined Democrats in a September letter to the Commodity Futures Trading Commission?",
+    "a": "Sens. Mike Lee, Cindy Hyde-Smith, and John Curtis."
+  },
+  {
+    "q": "In February 2026, what label did Senate Agriculture Committee Chair John Boozman use to describe the current state of prediction market regulation, and how did Commodity Futures Trading Commission Chair Mike Selig characterize that same label?",
+    "a": "Boozman called it the \"Wild West,\" while Selig described the label as unfairly attached by critics."
+  },
+  {
+    "q": "In February 2026, what specific legislative action did trade groups push lawmakers to include in a pending cryptocurrency bill regarding prediction markets?",
+    "a": "Language that reinforces existing law and prohibits gaming through Commodity Futures Trading Commission-registered platforms."
+  },
+  {
+    "q": "In February 2026, which Democratic U.S. Senator criticized Commodity Futures Trading Commission Chair Mike Selig’s actions as being at odds with the law and stated that the agency needs to follow its own rules?",
+    "a": "Sen. Catherine Cortez Masto."
+  },
+  {
+    "q": "In early 2026, what Biden-era rule did Commodity Futures Trading Commission Chair Mike Selig strike down, and what new rulemaking did he direct staff to draft?",
+    "a": "He struck down a rule banning wagers on sports or politics and directed staff to draft an event contracts rulemaking."
+  },
+  {
+    "q": "In February 2026, which former House Democratic campaigns chief became the CEO of the Center for Prediction Markets and began hiring Democratic advocates to explain the industry's federal regulation?",
+    "a": "Sean Patrick Maloney."
+  },
+  {
+    "q": "In February 2026, which New York Democratic U.S. Representative proposed narrower regulations targeting specific issues like insider trading that prediction market members had already banned?",
+    "a": "Rep. Ritchie Torres."
+  },
+  {
+    "q": "In February 2026, which two specific concerns did Senate Agriculture Committee Chair John Boozman identify as problems for lawmakers to examine regarding prediction markets?",
+    "a": "Underage betting and sports betting."
+  },
+  {
+    "q": "According to legal arguments cited in February 2026, which Supreme Court ruling from 2018 did states and tribes rely on to argue that prediction markets fall under state and local jurisdiction?",
+    "a": "The ruling that allowed states to permit sports gambling."
+  },
+  {
+    "q": "In February 2026, what types of events did federal law explicitly allow the Commodity Futures Trading Commission to prohibit on prediction markets?",
+    "a": "Illegal activity, assassinations, terrorism, war, or games."
+  },
+  {
+    "q": "In February 2026, which senior analyst described the prediction market debate as a states’ rights issue driven by money and consumer protectionism?",
+    "a": "Chad Beynon of Macquarie."
+  },
+  {
+    "q": "In February 2026, which social media company launched a prediction market with Crypto.com, and how did Commodity Futures Trading Commission Chair Mike Selig respond to this venture?",
+    "a": "Truth Social launched the market, and Selig defended it."
+  },
+  {
+    "q": "In February 2026, what investment and advisory roles did Donald Trump Jr. hold in relation to prediction market platforms?",
+    "a": "He invested in Polymarket and advised Kalshi."
+  },
+  {
+    "q": "In February 2026, what staffing issue was the Commodity Futures Trading Commission grappling with, specifically regarding its commission seats?",
+    "a": "Four out of five seats on the commission remained empty."
+  },
+  {
+    "q": "In February 2026, what potential benefits of prediction markets did Center for Prediction Markets CEO Sean Patrick Maloney suggest for small businesses, young people, and politicians?",
+    "a": "Small businesses could plan around tariffs, young people could treat them as a side hustle, and politicians could use them to replace polls."
+  },
+  {
+    "q": "In February 2026, which consumer-protection advocate argued that the prediction market industry’s argument stretched the law beyond reasonable interpretation and faced judicial roadblocks?",
+    "a": "Dennis Kelleher of Better Markets."
+  },
+  {
+    "q": "In February 2026, which political technology sector did analyst Chad Beynon compare to prediction markets due to both seeking federal preemption of state regulation?",
+    "a": "Artificial Intelligence (AI)."
+  },
+  {
+    "q": "In February 2026, what time horizon did online sportsbooks operating in prediction markets reportedly aim to recoup their investments, according to Macquarie senior analyst Chad Beynon?",
+    "a": "Three years, with a view that the opportunity would not go beyond 2028."
+  },
+  {
+    "q": "In February 2026, which former Commodity Futures Trading Commission chair told Politico that the agency lacked the expertise and staff needed to police prediction markets?",
+    "a": "A former CFTC chair (unnamed in the article)."
+  },
+  {
+    "q": "In February 2026, in which publication did Commodity Futures Trading Commission Chair Mike Selig elaborate on his rationale for supervising prediction markets?",
+    "a": "The Wall Street Journal."
+  },
+  {
+    "q": "In February 2026, which Democratic U.S. Senator had previously voted for stablecoin legislation but was leading the charge against Commodity Futures Trading Commission Chair Mike Selig’s prediction market supervision?",
+    "a": "Sen. Catherine Cortez Masto."
+  },
+  {
+    "q": "In February 2026, what distinction did the article draw between the regulatory goals of crypto exchanges and prediction markets regarding long-term certainty?",
+    "a": "Crypto exchanges seek existential market structure legislation for long-term certainty, while prediction markets lack a clear long-term game plan."
+  },
+  {
+    "q": "In February 2026, which two types of entities did Senate Agriculture Committee Chair John Boozman say lawmakers had talked to regarding prediction market regulation?",
+    "a": "The tribes and the rest of the gambling world."
+  }
+]

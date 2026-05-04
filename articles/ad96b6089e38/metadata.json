@@ -1,0 +1,27 @@
+{
+  "hash": "ad96b6089e38",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.al-monitor.com/originals/2026/03/israeli-troops-seize-new-positions-lebanon-army-says-creating-buffer-zone",
+      "title": "Israel says creating buffer zone in Lebanon, troops seize new positions - AL-Monitor: The Middle Eastʼs leading independent news source since 2012",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 871,
+      "text_length": 4673
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "677397",
+      "spike_id": 13,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.21499999999999997,
+      "spike_timestamp_before": "2026-03-05T10:00:44+00:00",
+      "spike_timestamp_after": "2026-03-05T23:30:28+00:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "hash": "f8b3eed52fb5",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://origin.www.bloomberg.com/news/articles/2026-02-23/portugal-appoints-ex-police-chief-neves-as-interior-minister?srnd=undefined",
+      "title": "Portugal Appoints Ex-Police Chief Neves as Interior Minister - Bloomberg",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "Henrique Almeida",
+      "num_tokens": 99,
+      "text_length": 568
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1223152",
+      "spike_id": 1,
+      "market_question": "Will António José Seguro win the second round by 20–30%?",
+      "event_title": "Portugal Presidential Election Margin of Victory: Second Round",
+      "spike_direction": "up",
+      "spike_delta": 0.494,
+      "spike_timestamp_before": "2026-02-22T04:30:16+00:00",
+      "spike_timestamp_after": "2026-02-23T04:00:19+00:00"
+    },
+    {
+      "market_id": "1223152",
+      "spike_id": 2,
+      "market_question": "Will António José Seguro win the second round by 20–30%?",
+      "event_title": "Portugal Presidential Election Margin of Victory: Second Round",
+      "spike_direction": "down",
+      "spike_delta": -0.494,
+      "spike_timestamp_before": "2026-02-23T04:00:19+00:00",
+      "spike_timestamp_after": "2026-02-23T14:00:16+00:00"
+    }
+  ]
+}

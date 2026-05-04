@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On March 3, 2026, what market activity caused gold prices to edge higher despite the dollar strengthening, according to the Bloomberg report?",
+    "a": "Dip-buyers entered the market as traders weighed Middle East risk."
+  },
+  {
+    "q": "As of March 3, 2026, how many days had the war in the Middle East lasted during the period described in the Bloomberg report?",
+    "a": "The war had been ongoing for five days."
+  },
+  {
+    "q": "In the context of the March 2026 Middle East conflict reported by Bloomberg, which two countries' forces were described as bombing targets in the Islamic Republic?",
+    "a": "Israeli and American forces."
+  },
+  {
+    "q": "According to the March 3, 2026 Bloomberg report, what specific military action did the United States take against an Iranian warship?",
+    "a": "The US sank the Iranian warship in international waters."
+  },
+  {
+    "q": "As of early March 2026, which nation was reported by Bloomberg to have come under fire during the Middle East conflict?",
+    "a": "Turkey."
+  },
+  {
+    "q": "In the March 2026 Middle East war scenario described by Bloomberg, which country did Tehran target alongside Israel and Gulf states?",
+    "a": "Tehran targeted Israel and Gulf states."
+  },
+  {
+    "q": "According to the US statement reported by Bloomberg on March 3, 2026, what was the status of Iran’s military capabilities?",
+    "a": "The US stated that Iran’s military capabilities are \"evaporating.\""
+  },
+  {
+    "q": "As of March 3, 2026, approximately how many nations had become embroiled in the Middle East war according to the Bloomberg report?",
+    "a": "About a dozen nations."
+  },
+  {
+    "q": "In the March 2026 geopolitical context reported by Bloomberg, which country did the US say it would attack deeper into?",
+    "a": "Iran."
+  },
+  {
+    "q": "What specific recovery did gold prices experience on March 3, 2026, according to the Bloomberg report?",
+    "a": "Gold recovered some of the previous session’s losses."
+  },
+  {
+    "q": "According to the March 3, 2026 Bloomberg report, which entity was described as targeting Gulf states during the Middle East conflict?",
+    "a": "Tehran (Iran)."
+  },
+  {
+    "q": "In the March 2026 Middle East conflict reported by Bloomberg, in what type of waters did the US sink an Iranian warship?",
+    "a": "International waters."
+  },
+  {
+    "q": "As of March 3, 2026, which two countries were identified by Bloomberg as being involved in bombing targets in the Islamic Republic?",
+    "a": "Israel and the United States."
+  },
+  {
+    "q": "According to the Bloomberg report published on March 3, 2026, what was the primary risk factor influencing traders' behavior in the gold market?",
+    "a": "Risk on the Middle East war."
+  },
+  {
+    "q": "In the context of the March 2026 Middle East war reported by Bloomberg, which country's military capabilities were stated by the US to be \"evaporating\"?",
+    "a": "Iran."
+  },
+  {
+    "q": "According to the March 3, 2026 Bloomberg report, which nation was reported to have come under fire during the ongoing Middle East conflict?",
+    "a": "Turkey."
+  },
+  {
+    "q": "As of March 3, 2026, what was the duration of the Middle East war that was influencing gold prices according to the Bloomberg report?",
+    "a": "The fifth day of the war."
+  },
+  {
+    "q": "In the March 2026 Middle East conflict described by Bloomberg, which countries did Tehran target?",
+    "a": "Israel and Gulf states."
+  },
+  {
+    "q": "According to the Bloomberg report from March 3, 2026, what was the US stance on attacking deeper into Iran?",
+    "a": "The US said it would attack deeper into Iran."
+  },
+  {
+    "q": "In the March 2026 Middle East war reported by Bloomberg, what specific action did the US take against Iranian military assets?",
+    "a": "The US sank an Iranian warship."
+  },
+  {
+    "q": "As of March 3, 2026, how many nations were reported to be embroiled in the Middle East war according to Bloomberg?",
+    "a": "About a dozen nations."
+  },
+  {
+    "q": "According to the March 3, 2026 Bloomberg report, which country was targeted by Tehran in addition to Israel?",
+    "a": "Gulf states."
+  },
+  {
+    "q": "In the March 2026 Middle East conflict reported by Bloomberg, which country was described as coming under fire?",
+    "a": "Turkey."
+  },
+  {
+    "q": "According to the Bloomberg report published on March 3, 2026, what was the US assessment of Iran’s military capabilities?",
+    "a": "The US stated they are \"evaporating.\""
+  },
+  {
+    "q": "In the context of the March 2026 Middle East war reported by Bloomberg, which forces were bombing targets in the Islamic Republic?",
+    "a": "Israeli and American forces."
+  }
+]

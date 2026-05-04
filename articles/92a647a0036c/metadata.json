@@ -1,0 +1,27 @@
+{
+  "hash": "92a647a0036c",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/03/06/fed-governor-miran-says-job-losses-in-february-add-to-the-case-for-more-interest-rate-cuts.html",
+      "title": "Fed Governor Miran says job losses in February add to the case for more interest rate cuts",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Jeff Cox",
+      "num_tokens": 661,
+      "text_length": 3212
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "906974",
+      "spike_id": 2,
+      "market_question": "Will there be no change in Fed interest rates after the June 2026 meeting?",
+      "event_title": "Fed Decision in June?",
+      "spike_direction": "down",
+      "spike_delta": -0.17000000000000004,
+      "spike_timestamp_before": "2026-03-06T11:30:31+00:00",
+      "spike_timestamp_after": "2026-03-06T20:30:30+00:00"
+    }
+  ]
+}

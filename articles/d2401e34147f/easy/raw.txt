@@ -1,0 +1,106 @@
+[
+  {
+    "q": "According to Israeli military spokesperson Nadav Shoshani in a briefing on March 16, 2026, for how many additional weeks did Israel have detailed operational plans for its war with Iran?",
+    "a": "At least three more weeks."
+  },
+  {
+    "q": "In the week of March 16, 2026, which U.S. President warned that the NATO alliance faces a \"very bad\" future if its members fail to aid the U.S.-Israeli war effort against Iran?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "During the U.S.-Israeli war with Iran in March 2026, what percentage of the world’s oil and liquefied natural gas flow was shut down by the closure of the Strait of Hormuz?",
+    "a": "20 per cent."
+  },
+  {
+    "q": "On March 16, 2026, which Iranian official stated that Tehran had not asked for a ceasefire or exchanged messages with the United States?",
+    "a": "Iran’s Foreign Minister Abbas Araqchi."
+  },
+  {
+    "q": "In overnight strikes on March 15-16, 2026, how many people were reported killed and how many wounded in Markazi province, central Iran, according to Iran’s Mehr news agency?",
+    "a": "Five people were killed and seven were wounded."
+  },
+  {
+    "q": "On March 16, 2026, which three Iranian cities did the Israeli military state it was carrying out air strikes against?",
+    "a": "Tehran, Shiraz, and Tabriz."
+  },
+  {
+    "q": "In March 2026, how many reservists had the Israeli military mobilized for its war with Iran?",
+    "a": "Over 110,000 reservists."
+  },
+  {
+    "q": "On March 16, 2026, which UAE port saw oil loading operations suspended following an Iranian drone strike?",
+    "a": "The port of Fujairah."
+  },
+  {
+    "q": "In March 2026, which airport was temporarily shut down for several hours after a drone strike hit a nearby fuel storage facility?",
+    "a": "Dubai International Airport."
+  },
+  {
+    "q": "On March 16, 2026, how many drones did Saudi Arabia intercept in its eastern region in a single hour?",
+    "a": "34 drones."
+  },
+  {
+    "q": "As of March 16, 2026, by how much had Brent crude oil prices risen above US$104.50?",
+    "a": "More than 1 per cent."
+  },
+  {
+    "q": "On March 15, 2026, which countries did U.S. President Donald Trump hope would participate in a coalition to help reopen the Strait of Hormuz?",
+    "a": "China, France, Japan, South Korea, and Britain."
+  },
+  {
+    "q": "On March 16, 2026, which British Prime Minister stated that Britain would not be drawn into a wider war with Iran but would work to reopen the key waterway?",
+    "a": "British Prime Minister Keir Starmer."
+  },
+  {
+    "q": "In March 2026, which country’s Defence Minister Boris Pistorius ruled out his country’s participation in any military activity in the Iran war?",
+    "a": "Germany."
+  },
+  {
+    "q": "On March 15, 2026, which U.S. President told the Financial Times he may postpone a meeting with Chinese President Xi Jinping if China does not help unblock the Strait of Hormuz?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "On March 16, 2026, which international body’s foreign ministers discussed bolstering a small naval mission in the Middle East without extending its role to the Strait of Hormuz?",
+    "a": "The European Union."
+  },
+  {
+    "q": "In March 2026, which Iran-backed militant group’s positions in southern Lebanon did Israeli troops begin limited ground operations against?",
+    "a": "Hezbollah."
+  },
+  {
+    "q": "On March 16, 2026, which U.S. airbase in Abu Dhabi was attacked by Iran’s Revolutionary Guards?",
+    "a": "The US Al-Dhafra airbase."
+  },
+  {
+    "q": "In March 2026, which U.S. naval base in Bahrain was targeted in attacks claimed by Iran’s Revolutionary Guards?",
+    "a": "The US naval base in Bahrain."
+  },
+  {
+    "q": "On March 16, 2026, which Iranian city’s boys’ school was targeted in strikes that caused damage to the surrounding area but no casualties?",
+    "a": "Khomeyn city."
+  },
+  {
+    "q": "In March 2026, which Iranian province was reported to have a residential area on the outskirts of Arak city attacked during overnight strikes?",
+    "a": "Markazi province."
+  },
+  {
+    "q": "On March 16, 2026, which UAE airbase was listed among the targets attacked by Iran’s Revolutionary Guards?",
+    "a": "Bahrain’s Sheikh Issa airbase."
+  },
+  {
+    "q": "In March 2026, which country said it would send a military surveillance aircraft and missiles to help defend the UAE but would not send its navy to the Strait of Hormuz?",
+    "a": "Australia."
+  },
+  {
+    "q": "On March 16, 2026, which country said it had no plans to dispatch naval vessels to the Strait of Hormuz?",
+    "a": "Japan."
+  },
+  {
+    "q": "In March 2026, which Iranian city was identified as the location where a resident known as Ms Shahnaz reported being cut off from the internet and using Starlink?",
+    "a": "Tehran."
+  },
+  {
+    "q": "On March 16, 2026, which Israeli military spokesperson stated that the military’s objectives were limited to weakening Iran’s capacity to threaten Israel?",
+    "a": "Lieutenant-Colonel Nadav Shoshani."
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "hash": "96b10b64d521",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.thetimes.com/article/russia-ukraine-war-maps-invasion-battles-9c2xvwvwv",
+      "title": "The Russia-Ukraine war in maps and charts — four years on",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": "Marieta Marinova | George Willoughby",
+      "num_tokens": 1576,
+      "text_length": 7214
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1007260",
+      "spike_id": 1,
+      "market_question": "Will Russia capture all of Pokrovsk by February 28?",
+      "event_title": "Will Russia capture all of Pokrovsk by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.9329999999999999,
+      "spike_timestamp_before": "2026-02-25T16:30:17+00:00",
+      "spike_timestamp_after": "2026-02-25T20:00:15+00:00"
+    }
+  ]
+}

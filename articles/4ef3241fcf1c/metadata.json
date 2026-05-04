@@ -1,0 +1,37 @@
+{
+  "hash": "4ef3241fcf1c",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://timesofindia.indiatimes.com/technology/gaming/after-major-restructuring-ubisoft-ceo-yves-guillemot-says-multiple-far-cry-and-assassins-creed-games-are-in-development-we-have-a-solid-/articleshow/128671044.cms",
+      "title": "After major restructuring, Ubisoft CEO Yves Guillemot says multiple Far Cry and Assassin's Creed games are in development: 'We have a solid...' - The Times of India",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "TOI Tech Desk  / TIMESOFINDIA.COM /   Feb 23, 2026, 07:19 IST",
+      "num_tokens": 594,
+      "text_length": 3085
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694939",
+      "spike_id": 3,
+      "market_question": "Will Ubisoft be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.15500000000000003,
+      "spike_timestamp_before": "2026-02-25T19:00:19+00:00",
+      "spike_timestamp_after": "2026-02-26T02:30:19+00:00"
+    },
+    {
+      "market_id": "694939",
+      "spike_id": 4,
+      "market_question": "Will Ubisoft be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.17,
+      "spike_timestamp_before": "2026-02-25T19:00:19+00:00",
+      "spike_timestamp_after": "2026-02-26T09:00:20+00:00"
+    }
+  ]
+}

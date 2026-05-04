@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2026, which two countries were targeted by Iranian attacks on energy infrastructure, specifically involving oil refineries and a natural gas facility?",
+    "a": "Kuwait and Qatar."
+  },
+  {
+    "q": "As of March 19, 2026, what specific price per barrel was oil approaching following the market's reaction to geopolitical events?",
+    "a": "$115 per barrel."
+  },
+  {
+    "q": "What percentage of the world’s liquified natural gas supply is provided by the key natural gas facility in Qatar that was attacked in March 2026?",
+    "a": "One-fifth (or 20 percent)."
+  },
+  {
+    "q": "Which specific energy infrastructure assets in Kuwait were targeted by Iran in the attacks reported in March 2026?",
+    "a": "Two oil refineries."
+  },
+  {
+    "q": "According to the March 19, 2026 report by Fortune, what market realization regarding oil prices is described as 'very possible'?",
+    "a": That oil prices will remain 'higher for longer'."
+  },
+  {
+    "q": "On what specific date did global energy prices soar after Iran attacked facilities in Kuwait and Qatar, as reported in the March 2026 article?",
+    "a": "Thursday, March 19, 2026."
+  },
+  {
+    "q": "Which news organization published the report on March 19, 2026, detailing oil approaching $115 per barrel due to Iranian attacks?",
+    "a": "Fortune."
+  },
+  {
+    "q": "Who are the authors credited with writing the March 19, 2026 Fortune article about oil prices and Iranian attacks?",
+    "a": "Elaine Kurtenbach, David McHugh, and The Associated Press."
+  },
+  {
+    "q": "In the context of the March 2026 energy crisis, which specific facility in Qatar was targeted by Iran, and what type of energy does it supply?",
+    "a": "A key natural gas facility that supplies liquified natural gas."
+  },
+  {
+    "q": "What was the immediate market reaction described in the March 19, 2026 report following the Iranian attacks on Kuwaiti and Qatari infrastructure?",
+    "a": "Global energy prices soared."
+  },
+  {
+    "q": "Which U.S. financial market location was pictured in the March 19, 2026 article to illustrate the trading environment during this period?",
+    "a": "The New York Stock Exchange."
+  },
+  {
+    "q": "Who took the photograph of traders on the floor of the New York Stock Exchange on March 18, 2026, which was included in the March 19, 2026 Fortune article?",
+    "a": "Seth Wenig."
+  },
+  {
+    "q": "What specific type of natural gas product is the Qatari facility targeted in March 2026 capable of supplying a significant portion of the world's supply of?",
+    "a": "Liquified natural gas."
+  },
+  {
+    "q": "How many oil refineries in Kuwait were attacked by Iran in the events leading to the March 2026 oil price surge?",
+    "a": "Two."
+  },
+  {
+    "q": "What is the specific time stamp of the Fortune article published on March 19, 2026, regarding the oil price approaching $115?",
+    "a": "9:24 AM ET."
+  },
+  {
+    "q": "Which two distinct types of energy infrastructure were targeted by Iran in March 2026, one in Kuwait and one in Qatar?",
+    "a": "Oil refineries and a natural gas facility."
+  },
+  {
+    "q": "What geopolitical actor was responsible for the attacks on energy infrastructure in Kuwait and Qatar that caused oil prices to approach $115 in March 2026?",
+    "a": "Iran."
+  },
+  {
+    "q": "In the March 2026 report, what fraction of the global supply of liquified natural gas is associated with the targeted Qatari facility?",
+    "a": "One-fifth."
+  },
+  {
+    "q": "What specific market sentiment regarding future oil prices is highlighted in the March 19, 2026 Fortune article headline?",
+    "a": "That 'higher for longer' is very possible."
+  },
+  {
+    "q": "Which photo agency provided the image of the New York Stock Exchange floor used in the March 19, 2026 Fortune article?",
+    "a": "The Associated Press."
+  },
+  {
+    "q": "What was the specific location of the oil refineries attacked by Iran in March 2026?",
+    "a": "Kuwait."
+  },
+  {
+    "q": "What was the specific location of the natural gas facility attacked by Iran in March 2026?",
+    "a": "Qatar."
+  },
+  {
+    "q": "Which publication reported on March 19, 2026, that oil was approaching $115 per barrel due to Iranian attacks?",
+    "a": "Fortune."
+  },
+  {
+    "q": "What was the date of the photograph showing people working on the floor of the New York Stock Exchange, which was published in the March 19, 2026 article?",
+    "a": "Wednesday, March 18, 2026."
+  },
+  {
+    "q": "What specific monetary value was oil approaching in March 2026, as reported by Fortune, due to the realization that prices might stay high?",
+    "a": "$115 per barrel."
+  }
+]

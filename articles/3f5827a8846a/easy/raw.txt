@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In the Texas Republican U.S. Senate primary held on March 3, 2026, which two candidates advanced to a runoff election scheduled for May 26, 2026, after neither reached the 50% threshold?",
+    "a": "Incumbent U.S. Senator John Cornyn and Texas Attorney General Ken Paxton."
+  },
+  {
+    "q": "During the March 3, 2026, Texas Republican primary, which incumbent governor won his primary handily, and which Democratic challenger is predicted to lose to him in November?",
+    "a": "Texas Governor Greg Abbott won the primary; Democratic challenger Gina Hinojosa is predicted to lose."
+  },
+  {
+    "q": "In the March 3, 2026, Texas House District 2 Republican primary, which Navy SEAL-turned-congressman trailed his challenger Steve Toth?",
+    "a": "Incumbent U.S. Representative Dan Crenshaw."
+  },
+  {
+    "q": "Which two Democrats competed in the closely contested Texas Senate primary on March 3, 2026, leading U.S. Representative Jasmine Crockett to threaten legal action over voting confusion in Dallas County?",
+    "a": "State Representative James Talarico and U.S. Representative Jasmine Crockett."
+  },
+  {
+    "q": "According to the article, which Texas Attorney General faced a 2023 impeachment trial that cost the state $5.1 million and a securities fraud scandal settled in 2024?",
+    "a": "Ken Paxton."
+  },
+  {
+    "q": "Which U.S. President is predicted to likely endorse John Cornyn over Ken Paxton in the May 26, 2026, Texas Senate runoff to help keep the Senate majority?",
+    "a": "President Donald Trump."
+  },
+  {
+    "q": "On February 25, 2026, which CNN data analyst posted on X that Texas Democrats might outvote Republicans in the midterm primary for the first time since 2002?",
+    "a": "Harry Enten."
+  },
+  {
+    "q": "Which former U.S. Representative ran for Senate in 2018 against Republican Senator Ted Cruz, sought the 2020 presidential nomination, and lost the 2022 Texas gubernatorial race to Greg Abbott?",
+    "a": "Beto O'Rourke."
+  },
+  {
+    "q": "In the March 3, 2026, Texas Democratic Senate primary, which candidate is described as a \"much more moderate Texas kind of Democrat\" compared to Jasmine Crockett?",
+    "a": "State Representative James Talarico."
+  },
+  {
+    "q": "Which Texas Republican U.S. Senator is characterized in the article as representing the \"old guard establishment\" in contrast to the \"scandal-ridden MAGA\" faction?",
+    "a": "John Cornyn."
+  },
+  {
+    "q": "According to CNN data analyst Harry Enten's February 25, 2026 analysis, since which year has the party with higher primary turnout won the House every time?",
+    "a": "2006."
+  },
+  {
+    "q": "Which Texas Attorney General's reputation is described as marred by a messy divorce and a securities fraud scandal that reached a settlement in 2024 after nearly a decade?",
+    "a": "Ken Paxton."
+  },
+  {
+    "q": "In the March 3, 2026, Texas elections, which incumbent U.S. Representative from House District 2 is trailing challenger Steve Toth in a race appearing headed toward an upset?",
+    "a": "Dan Crenshaw."
+  },
+  {
+    "q": "Which Democratic U.S. Representative threatened to sue following voting confusion in Dallas County during the March 3, 2026, Texas Senate primary?",
+    "a": "Jasmine Crockett."
+  },
+  {
+    "q": "Which Texas Governor is predicted to defeat Democratic challenger Gina Hinojosa in November following his handily won Republican primary on March 3, 2026?",
+    "a": "Greg Abbott."
+  },
+  {
+    "q": "According to the article, which two political factions are Texans torn between in the Republican party, represented respectively by John Cornyn and Ken Paxton?",
+    "a": "The old guard establishment and the populist MAGA base."
+  },
+  {
+    "q": "Which Texas state lawmaker is identified as a moderate Democrat who is expected to make the general election race tighter against either John Cornyn or Ken Paxton?",
+    "a": "James Talarico."
+  },
+  {
+    "q": "Which U.S. Senator lost to Ted Cruz in 2018 and later ran for governor against Greg Abbott in 2022, serving as a contrast to the current Democratic candidates?",
+    "a": "Beto O'Rourke."
+  },
+  {
+    "q": "In the March 3, 2026, Texas Republican primary, which candidate aligned with the populist MAGA base and was considered by half of the voters despite controversies?",
+    "a": "Ken Paxton."
+  },
+  {
+    "q": "Which Texas Attorney General was acquitted in a 2023 impeachment trial that cost Texas $5.1 million?",
+    "a": "Ken Paxton."
+  },
+  {
+    "q": "Which Democratic candidate is described as \"too extreme for Texas\" by the columnist, potentially making her easier for a Republican to beat in November?",
+    "a": "Jasmine Crockett."
+  },
+  {
+    "q": "Which CNN data analyst noted on February 25, 2026, that Texas Democrats may outvote Republicans in the midterm primary for the first time since 2002?",
+    "a": "Harry Enten."
+  },
+  {
+    "q": "Which Texas Republican incumbent won his primary handily on March 3, 2026, and is predicted to beat Democratic challenger Gina Hinojosa in November?",
+    "a": "Greg Abbott."
+  },
+  {
+    "q": "Which two candidates are heading to a May 26, 2026, runoff in the Texas Republican U.S. Senate race after failing to reach 50% in the March 3, 2026, primary?",
+    "a": "John Cornyn and Ken Paxton."
+  },
+  {
+    "q": "Which incumbent U.S. Representative from House District 2 is trailing Steve Toth in the March 3, 2026, Republican primary?",
+    "a": "Dan Crenshaw."
+  },
+  {
+    "q": "Which Texas Democratic Senate primary candidate is described as a \"far cry\" from the \"abysmal and unqualified\" former Rep. Beto O'Rourke?",
+    "a": "James Talarico."
+  }
+]

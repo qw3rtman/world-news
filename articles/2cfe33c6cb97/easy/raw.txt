@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In the joint military operation conducted on Monday, March 09, 2026, by the United States and Israel, how many top Iranian leaders were reported killed in a single day?",
+    "a": "49 top leaders."
+  },
+  {
+    "q": "What specific decision is the White House, under U.S. President Donald Trump, facing regarding Iran following the airstrikes of March 2026?",
+    "a": "Whether to launch a full-scale ground invasion."
+  },
+  {
+    "q": "According to the March 9, 2026, analysis by The Times, what is the primary political constraint driving the White House's approach to the post-strike situation in Iran?",
+    "a": "A determination to avoid \"nation-building.\""
+  },
+  {
+    "q": "Which two groups are described as having conflicting perspectives on the future of Iran in the scenarios analyzed on March 9, 2026?",
+    "a": "Exiled activists and the White House."
+  },
+  {
+    "q": "What outcome does the White House demand from the Iran conflict despite its reluctance to engage in nation-building, as of March 2026?",
+    "a": "Total victory."
+  },
+  {
+    "q": "What specific type of military action did the United States and Israel jointly execute against Iran's leadership on March 9, 2026?",
+    "a": "Airstrikes."
+  },
+  {
+    "q": "How did the speed of the joint US-Israeli operation in Iran compare to expectations, according to the report published on March 9, 2026?",
+    "a": "It moved faster than anyone anticipated."
+  },
+  {
+    "q": "What volatile question does the vacuum left by the destruction of Iran’s leadership pose, as identified in the March 9, 2026, article?",
+    "a": "What comes next."
+  },
+  {
+    "q": "How many emerging scenarios for Iran’s future were examined in the March 9, 2026, analysis by The Times?",
+    "a": "Four."
+  },
+  {
+    "q": "Which publication published the analysis titled \"How will the Iran war end?\" on March 9, 2026?",
+    "a": "The Times."
+  },
+  {
+    "q": "What specific vulnerability did the joint US-Israeli operation exploit in Iran on March 9, 2026, resulting in a leadership vacuum?",
+    "a": "Iran’s leadership."
+  },
+  {
+    "q": "Which two nations are identified as the perpetrators of the airstrikes that killed 49 Iranian leaders on March 9, 2026?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "What is the stated hope of exiled activists regarding Iran's future, as contrasted with White House pragmatism in the March 9, 2026, report?",
+    "a": "Hopes for Iran's future (implied positive change/reconstruction, though the text contrasts them with pragmatism, the specific hope is not detailed beyond being weighed against pragmatism; however, the question asks what is weighed. The text says \"weighing the hopes of exiled activists against the cold pragmatism\". The answer is simply that their hopes are weighed against White House pragmatism. Let's refine the answer to be strictly factual from text: Their hopes are weighed against the cold pragmatism of the White House.)"
+  },
+  {
+    "q": "What characterizes the White House's approach to the Iran situation in March 2026, according to The Times?",
+    "a": "Cold pragmatism."
+  },
+  {
+    "q": "What specific consequence of the March 9, 2026, airstrikes is described as posing a \"volatile question\"?",
+    "a": "The vacuum left behind."
+  },
+  {
+    "q": "Who is responsible for deciding on a full-scale ground invasion of Iran following the events of March 9, 2026?",
+    "a": "Washington (the United States government)."
+  },
+  {
+    "q": "What was the immediate result of the joint US-Israeli operation on Iran's leadership structure as of March 9, 2026?",
+    "a": "It was destroyed."
+  },
+  {
+    "q": "In the context of the March 9, 2026, Iran conflict, what term is used to describe the type of military engagement the White House wishes to avoid?",
+    "a": "\"Nation-building.\""
+  },
+  {
+    "q": "What numerical figure represents the number of top Iranian leaders killed in the single-day operation on March 9, 2026?",
+    "a": "49."
+  },
+  {
+    "q": "Which two entities are jointly conducting the military operation against Iran as of March 9, 2026?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "What is the central question posed by the article \"How will the Iran war end?\" published on March 9, 2026?",
+    "a": "How will the Iran war end?"
+  },
+  {
+    "q": "What is the relationship between the hopes of exiled activists and the White House's stance in the March 9, 2026, analysis?",
+    "a": "The hopes of exiled activists are weighed against the cold pragmatism of the White House."
+  },
+  {
+    "q": "What specific condition does the White House demand alongside its avoidance of nation-building in the Iran conflict of March 2026?",
+    "a": "Total victory."
+  },
+  {
+    "q": "What type of political and military vacuum was created in Iran following the March 9, 2026, airstrikes?",
+    "a": "A leadership vacuum."
+  },
+  {
+    "q": "Which publication's analysis from March 9, 2026, outlines four scenarios for Iran's future?",
+    "a": "The Times."
+  },
+  {
+    "q": "What is the specific timeframe during which the joint US-Israeli operation killed 49 top Iranian leaders?",
+    "a": "Monday, March 09, 2026."
+  }
+]

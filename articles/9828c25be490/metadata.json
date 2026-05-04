@@ -1,0 +1,127 @@
+{
+  "hash": "9828c25be490",
+  "n_appearances": 11,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://v2.iranintl.com/en/202602281568",
+      "title": "Khamenei is dead: The dictator a nation longed to see gone | Iran International",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Naeimeh Doostdar",
+      "num_tokens": 3474,
+      "text_length": 17079
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1117242",
+      "spike_id": 1,
+      "market_question": "Nothing Ever Happens: Khamenei",
+      "event_title": "Nothing Ever Happens: Khamenei",
+      "spike_direction": "down",
+      "spike_delta": -0.35,
+      "spike_timestamp_before": "2026-02-27T11:00:20+00:00",
+      "spike_timestamp_after": "2026-02-28T09:00:26+00:00"
+    },
+    {
+      "market_id": "1117242",
+      "spike_id": 2,
+      "market_question": "Nothing Ever Happens: Khamenei",
+      "event_title": "Nothing Ever Happens: Khamenei",
+      "spike_direction": "down",
+      "spike_delta": -0.5650000000000001,
+      "spike_timestamp_before": "2026-02-27T18:30:21+00:00",
+      "spike_timestamp_after": "2026-02-28T14:00:39+00:00"
+    },
+    {
+      "market_id": "1117242",
+      "spike_id": 3,
+      "market_question": "Nothing Ever Happens: Khamenei",
+      "event_title": "Nothing Ever Happens: Khamenei",
+      "spike_direction": "down",
+      "spike_delta": -0.605,
+      "spike_timestamp_before": "2026-02-27T18:30:21+00:00",
+      "spike_timestamp_after": "2026-02-28T17:00:33+00:00"
+    },
+    {
+      "market_id": "1117242",
+      "spike_id": 4,
+      "market_question": "Nothing Ever Happens: Khamenei",
+      "event_title": "Nothing Ever Happens: Khamenei",
+      "spike_direction": "down",
+      "spike_delta": -0.736,
+      "spike_timestamp_before": "2026-02-27T20:30:23+00:00",
+      "spike_timestamp_after": "2026-02-28T20:00:25+00:00"
+    },
+    {
+      "market_id": "1117242",
+      "spike_id": 5,
+      "market_question": "Nothing Ever Happens: Khamenei",
+      "event_title": "Nothing Ever Happens: Khamenei",
+      "spike_direction": "down",
+      "spike_delta": -0.7645000000000001,
+      "spike_timestamp_before": "2026-02-28T03:30:23+00:00",
+      "spike_timestamp_after": "2026-03-01T02:30:24+00:00"
+    },
+    {
+      "market_id": "1180303",
+      "spike_id": 1,
+      "market_question": "Khamenei out as Supreme Leader of Iran by February 28?",
+      "event_title": "Khamenei out as Supreme Leader of Iran by February 28?",
+      "spike_direction": "up",
+      "spike_delta": 0.453,
+      "spike_timestamp_before": "2026-02-28T05:30:25+00:00",
+      "spike_timestamp_after": "2026-02-28T14:00:41+00:00"
+    },
+    {
+      "market_id": "1180303",
+      "spike_id": 2,
+      "market_question": "Khamenei out as Supreme Leader of Iran by February 28?",
+      "event_title": "Khamenei out as Supreme Leader of Iran by February 28?",
+      "spike_direction": "up",
+      "spike_delta": 0.9329999999999999,
+      "spike_timestamp_before": "2026-02-28T05:30:25+00:00",
+      "spike_timestamp_after": "2026-02-28T20:00:26+00:00"
+    },
+    {
+      "market_id": "1180303",
+      "spike_id": 3,
+      "market_question": "Khamenei out as Supreme Leader of Iran by February 28?",
+      "event_title": "Khamenei out as Supreme Leader of Iran by February 28?",
+      "spike_direction": "up",
+      "spike_delta": 0.965,
+      "spike_timestamp_before": "2026-02-28T05:30:25+00:00",
+      "spike_timestamp_after": "2026-02-28T22:00:31+00:00"
+    },
+    {
+      "market_id": "1180303",
+      "spike_id": 4,
+      "market_question": "Khamenei out as Supreme Leader of Iran by February 28?",
+      "event_title": "Khamenei out as Supreme Leader of Iran by February 28?",
+      "spike_direction": "up",
+      "spike_delta": 0.9895,
+      "spike_timestamp_before": "2026-02-28T05:30:25+00:00",
+      "spike_timestamp_after": "2026-03-01T03:30:27+00:00"
+    },
+    {
+      "market_id": "1180303",
+      "spike_id": 5,
+      "market_question": "Khamenei out as Supreme Leader of Iran by February 28?",
+      "event_title": "Khamenei out as Supreme Leader of Iran by February 28?",
+      "spike_direction": "up",
+      "spike_delta": 0.935,
+      "spike_timestamp_before": "2026-02-28T13:00:26+00:00",
+      "spike_timestamp_after": "2026-03-01T09:00:39+00:00"
+    },
+    {
+      "market_id": "661699",
+      "spike_id": 4,
+      "market_question": "Khamenei out as Supreme Leader of Iran by June 30?",
+      "event_title": "Khamenei out as Supreme Leader of Iran by June 30?",
+      "spike_direction": "up",
+      "spike_delta": 0.604,
+      "spike_timestamp_before": "2026-02-28T02:30:34+00:00",
+      "spike_timestamp_after": "2026-02-28T22:30:36+00:00"
+    }
+  ]
+}

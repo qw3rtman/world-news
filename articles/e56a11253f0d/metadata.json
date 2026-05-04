@@ -1,0 +1,27 @@
+{
+  "hash": "e56a11253f0d",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/legal/transactional/medtronic-buy-scientia-vascular-550-million-deal-2026-03-10/?taid=69b029c5bee120000189c4b3",
+      "title": "Medtronic to buy Scientia Vascular in $550 million deal | Reuters",
+      "published_date": "2026-03-10T00:00:00.000Z",
+      "author": "Sahil Pandey",
+      "num_tokens": 313,
+      "text_length": 1509
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694938",
+      "spike_id": 31,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.15999999999999998,
+      "spike_timestamp_before": "2026-03-11T14:00:39+00:00",
+      "spike_timestamp_after": "2026-03-12T13:30:43+00:00"
+    }
+  ]
+}

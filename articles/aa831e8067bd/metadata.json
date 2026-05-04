@@ -1,0 +1,67 @@
+{
+  "hash": "aa831e8067bd",
+  "n_appearances": 5,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://it.reuters.com/business/aerospace-defense/israel-us-launch-strikes-iran-2026-02-28/",
+      "title": "Reuters | Breaking International News & Views",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 65,
+      "text_length": 307
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1367195",
+      "spike_id": 1,
+      "market_question": "US strikes Iran by March 15, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.235,
+      "spike_timestamp_before": "2026-02-27T09:30:26+00:00",
+      "spike_timestamp_after": "2026-02-27T13:00:30+00:00"
+    },
+    {
+      "market_id": "1399065",
+      "spike_id": 1,
+      "market_question": "US strikes Iran by March 3, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.285,
+      "spike_timestamp_before": "2026-02-27T07:30:17+00:00",
+      "spike_timestamp_after": "2026-02-27T14:30:19+00:00"
+    },
+    {
+      "market_id": "984441",
+      "spike_id": 1,
+      "market_question": "US strikes Iran by March 31, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.15500000000000003,
+      "spike_timestamp_before": "2026-02-26T21:30:27+00:00",
+      "spike_timestamp_after": "2026-02-27T13:00:29+00:00"
+    },
+    {
+      "market_id": "984441",
+      "spike_id": 2,
+      "market_question": "US strikes Iran by March 31, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.16000000000000003,
+      "spike_timestamp_before": "2026-02-26T21:30:27+00:00",
+      "spike_timestamp_after": "2026-02-27T15:00:33+00:00"
+    },
+    {
+      "market_id": "984441",
+      "spike_id": 3,
+      "market_question": "US strikes Iran by March 31, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.15499999999999992,
+      "spike_timestamp_before": "2026-02-26T23:00:26+00:00",
+      "spike_timestamp_after": "2026-02-27T22:30:30+00:00"
+    }
+  ]
+}

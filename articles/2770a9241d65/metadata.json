@@ -1,0 +1,27 @@
+{
+  "hash": "2770a9241d65",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.pbs.org/newshour/politics/texas-gop-sen-cornyn-tries-to-hold-his-seat-for-a-5th-term-while-democrats-crockett-talarico-face-off",
+      "title": "Texas GOP Sen. Cornyn tries to hold his seat for a 5th term while Democrats Crockett, Talarico face off | PBS News",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1463,
+      "text_length": 6922
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "562187",
+      "spike_id": 1,
+      "market_question": "Will John Cornyn win the 2026 Texas Republican Primary?",
+      "event_title": "Texas Republican Senate Primary Winner",
+      "spike_direction": "up",
+      "spike_delta": 0.365,
+      "spike_timestamp_before": "2026-03-03T08:30:34+00:00",
+      "spike_timestamp_after": "2026-03-04T03:30:34+00:00"
+    }
+  ]
+}

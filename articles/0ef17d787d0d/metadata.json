@@ -1,0 +1,27 @@
+{
+  "hash": "0ef17d787d0d",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://reuters.com/world/asia-pacific/boj-hike-policy-rate-1-by-end-june-sooner-than-forecast-before-election-2026-02-19/",
+      "title": "POLL BOJ to hike policy rate to 1% by end-June, sooner than forecast before election | Reuters",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": "Satoshi Sugiyama",
+      "num_tokens": 756,
+      "text_length": 3244
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "991022",
+      "spike_id": 1,
+      "market_question": "No change in Bank of Japan's interest rates after March 2026 meeting?",
+      "event_title": "Bank of Japan Decision in March?",
+      "spike_direction": "down",
+      "spike_delta": -0.33599999999999997,
+      "spike_timestamp_before": "2026-02-20T17:30:24+00:00",
+      "spike_timestamp_after": "2026-02-20T20:00:27+00:00"
+    }
+  ]
+}

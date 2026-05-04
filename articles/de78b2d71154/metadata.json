@@ -1,0 +1,27 @@
+{
+  "hash": "de78b2d71154",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-weigh-special-forces-raid-to-seize-irans-nuclear-stockpile-as-war-rages-on/articleshow/129254812.cms",
+      "title": "US, Israel weigh special forces raid to seize Iran’s nuclear stockpile as war rages on - The Times of India",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": "TOI World Desk  / TIMESOFINDIA.COM /   Mar 08, 2026, 11:32 IST",
+      "num_tokens": 729,
+      "text_length": 4005
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1472026",
+      "spike_id": 15,
+      "market_question": "Will another country strike Iran by March 31?",
+      "event_title": "Will another country strike Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.46499999999999997,
+      "spike_timestamp_before": "2026-03-08T09:30:27+00:00",
+      "spike_timestamp_after": "2026-03-08T11:00:30+00:00"
+    }
+  ]
+}

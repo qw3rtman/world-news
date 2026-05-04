@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In which year did the United States supply the Tehran Research Reactor to Iran under the \"Atoms for Peace\" program?",
+    "a": "1967"
+  },
+  {
+    "q": "Which Iranian leader returned to Tehran in 1979 to lead the Islamic Revolution after the Shah fled the country?",
+    "a": "Ayatollah Ruhollah Khomeini"
+  },
+  {
+    "q": "In August 2002, which two entities revealed the existence of Iran's secret Natanz nuclear enrichment facility?",
+    "a": "Western intelligence services and an Iranian opposition group"
+  },
+  {
+    "q": "Which three European nations engaged Iran in nuclear negotiations starting in June 2003?",
+    "a": "Britain, France, and Germany"
+  },
+  {
+    "q": "After which 2009 Iranian presidential election did the Green Movement protests and a government crackdown occur?",
+    "a": "The election in which Mahmoud Ahmadinejad was reelected"
+  },
+  {
+    "q": "In July 2015, what agreement did world powers and Iran announce regarding uranium enrichment and economic sanctions?",
+    "a": "A long-term, comprehensive nuclear agreement that limits enrichment in exchange for lifting sanctions"
+  },
+  {
+    "q": "On May 8, 2018, what action did U.S. President Donald Trump take regarding the nuclear agreement, and how did he describe it?",
+    "a": "He unilaterally withdrew the U.S. from the agreement, calling it the \"worst deal ever\""
+  },
+  {
+    "q": "On January 3, 2020, a U.S. drone strike in Baghdad killed which high-ranking Iranian military official?",
+    "a": "Gen. Qassem Soleimani"
+  },
+  {
+    "q": "How many people were killed when the Iranian Revolutionary Guard shot down a Ukrainian passenger plane on January 8, 2020?",
+    "a": "176"
+  },
+  {
+    "q": "In April 2021, up to what percentage of purity did Iran begin enriching uranium, marking its highest level at that time?",
+    "a": "60 percent"
+  },
+  {
+    "q": "On October 7, 2023, how many people did Hamas militants kill and how many take hostage when they stormed into Israel?",
+    "a": "Around 1,200 people were killed and 251 others were taken hostage"
+  },
+  {
+    "q": "On April 14, 2024, Iran launched an unprecedented direct attack on Israel involving over how many missiles and attack drones?",
+    "a": "Over 300"
+  },
+  {
+    "q": "Which Hamas leader was assassinated in Tehran on July 31, 2024, shortly after the inauguration of President Masoud Pezeshkian?",
+    "a": "Ismail Haniyeh"
+  },
+  {
+    "q": "On June 13, 2025, which country launched a war against Iran, hitting nuclear and military sites over 12 days?",
+    "a": "Israel"
+  },
+  {
+    "q": "On June 22, 2025, how many Iranian nuclear sites did the United States attack when it intervened in the war?",
+    "a": "Three"
+  },
+  {
+    "q": "Who announced a ceasefire in the Iran-Israel war on June 24, 2025?",
+    "a": "U.S. President Donald Trump"
+  },
+  {
+    "q": "On August 28, 2025, which three countries said they had started the process to \"snapback\" U.N. sanctions on Iran?",
+    "a": "France, Germany, and the United Kingdom"
+  },
+  {
+    "q": "On December 28, 2025, to what record low value did the Iranian rial plunge against the U.S. dollar, triggering protests in Tehran?",
+    "a": "1.42 million rials to one U.S. dollar"
+  },
+  {
+    "q": "On January 8, 2026, what measures did the Iranian government take in response to nationwide protests following a call from the exiled crown prince?",
+    "a": "It blocked the internet and international telephone calls"
+  },
+  {
+    "q": "Which U.S. Navy aircraft carrier and how many accompanying warships arrived in the Middle East on January 26, 2026?",
+    "a": "The USS Abraham Lincoln and three accompanying warships"
+  },
+  {
+    "q": "On February 3, 2026, what action did a U.S. Navy fighter jet take regarding an Iranian drone in the Arabian Sea?",
+    "a": "It shot down the drone"
+  },
+  {
+    "q": "In which city did Iran and the U.S. hold indirect nuclear talks on February 6, 2026, with the head of the U.S. military's Central Command also present?",
+    "a": "Oman"
+  },
+  {
+    "q": "On February 17, 2026, in which city did Iran and the U.S. hold talks while Tehran claimed to have temporarily closed the Strait of Hormuz?",
+    "a": "Geneva"
+  },
+  {
+    "q": "As of late February 2026, which U.S. President was attempting to force Iran into a deal by assembling the largest fleet of warplanes and aircraft in the Mideast in decades?",
+    "a": "President Donald Trump"
+  },
+  {
+    "q": "On February 26, 2026, in which city were Iran and the U.S. due to hold another round of nuclear talks?",
+    "a": "Geneva"
+  }
+]

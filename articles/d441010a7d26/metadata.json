@@ -1,0 +1,27 @@
+{
+  "hash": "d441010a7d26",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/china/any-trump-xi-rescheduling-would-be-over-logistics-bessent-says-2026-03-16/",
+      "title": "Any Trump-Xi rescheduling would be over logistics, Bessent says | Reuters",
+      "published_date": null,
+      "author": null,
+      "num_tokens": 296,
+      "text_length": 1248
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "706279",
+      "spike_id": 9,
+      "market_question": "Will Trump visit China by April 30?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.265,
+      "spike_timestamp_before": "2026-03-17T09:00:48+00:00",
+      "spike_timestamp_after": "2026-03-17T17:00:43+00:00"
+    }
+  ]
+}

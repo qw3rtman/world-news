@@ -1,0 +1,27 @@
+{
+  "hash": "b630a42226a6",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.barrons.com/livecoverage/february-jobs-report-data-2026-today?gaa_at=eafs&gaa_n=AWEtsqdrJCUOXFkpZu9ZjWvyTJTgdb_4-ifVdnKozCq9yP1AJvXwteVpERRK&gaa_sig=-sGJcCoq8LXYdtpFKzHnxtNKTrdVir7u0bITE-hGIMPG2xyvEUY7tWS6YFekw4hfpHppZ7V2qibFwgARcMhuvA%3D%3D&gaa_ts=69aad2be",
+      "title": "February Jobs Report Today: Expect a Stable Labor Market, Fed Rates on Hold",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 100,
+      "text_length": 467
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "906974",
+      "spike_id": 2,
+      "market_question": "Will there be no change in Fed interest rates after the June 2026 meeting?",
+      "event_title": "Fed Decision in June?",
+      "spike_direction": "down",
+      "spike_delta": -0.17000000000000004,
+      "spike_timestamp_before": "2026-03-06T11:30:31+00:00",
+      "spike_timestamp_after": "2026-03-06T20:30:30+00:00"
+    }
+  ]
+}

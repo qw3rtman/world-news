@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the article published on March 1, 2026, what specific term did The Associated Press decide to use to describe the joint U.S.-Israeli strikes on Iran and Iran’s subsequent retaliation, and what primary reason did the organization cite for this classification?",
+    "a": "The Associated Press used the term \"war\" because the scope and intensity of the fighting met the criteria for armed hostile conflict."
+  },
+  {
+    "q": "According to the March 1, 2026, AP article, which Iranian leader was killed during the joint U.S.-Israeli strikes, and what was his official title?",
+    "a": "Supreme Leader Ayatollah Ali Khamenei was killed during the strikes."
+  },
+  {
+    "q": "In the context of the March 2026 U.S.-Israeli strikes on Iran, which Gulf Arab states were targeted by Iran’s retaliatory missile and drone attacks?",
+    "a": "Iran launched missiles and drones at several Gulf Arab states that host U.S. armed forces."
+  },
+  {
+    "q": "What definition of \"war\" did The Associated Press cite from Merriam-Webster to justify its terminology in the March 1, 2026, article regarding the conflict with Iran?",
+    "a": "The AP cited the definition: \"A state of usually open and declared armed hostile conflict between states or nations,\" or \"a state of hostility, conflict, or antagonism.\""
+  },
+  {
+    "q": "Despite no official declaration of war, which two specific actions did The Associated Press identify in its March 1, 2026, article as sufficient to classify the U.S.-Israeli strikes on Iran as a war?",
+    "a": "The decision by the Trump administration and Israeli leaders to attack, and the subsequent destruction and casualties."
+  },
+  {
+    "q": "In the March 1, 2026, AP article, what specific political goal did U.S. President Donald Trump call for regarding the Iranian government, which contributed to the escalation of the conflict?",
+    "a": "President Donald Trump called for the overthrow of the decades-old Islamic Republic."
+  },
+  {
+    "q": "Why did The Associated Press state in its March 1, 2026, article that using the word \"war\" for one-sided attacks or non-escalating conflicts could be problematic?",
+    "a": "It could diminish the word’s importance, causing people to not understand the significance when actual war breaks out."
+  },
+  {
+    "q": "In June 2025, what was the duration of the conflict between Israel and Iran that The Associated Press previously classified as a \"war,\" and what were the major impacts on Iran?",
+    "a": "The war lasted 12 days, and Israeli and American strikes greatly weakened Iran’s air defenses, military leadership, and nuclear program."
+  },
+  {
+    "q": "Besides the 2025 conflict with Iran, which two other major conflicts did The Associated Press begin describing as \"war\" in the days and weeks after fighting began, according to the March 1, 2026, article?",
+    "a": "The conflicts between Russia and Ukraine, and between Israel and Hamas."
+  },
+  {
+    "q": "What four specific factors did The Associated Press editors consider when deciding to use the term \"war\" for the Russia-Ukraine and Israel-Hamas conflicts, as noted in the March 1, 2026, article?",
+    "a": "The number of casualties, the intensity of fighting, the involvement of each party, and what each country was calling the conflict."
+  },
+  {
+    "q": "In the March 1, 2026, article, why did The Associated Press choose to write the word \"war\" in lowercase rather than capitalized?",
+    "a": "AP capitalizes \"War\" only as part of a formal name, which did not exist for this conflict at that time."
+  },
+  {
+    "q": "According to the March 1, 2026, AP article, who is responsible for monitoring developments and determining if the terminology for the U.S.-Iran conflict needs to change?",
+    "a": "AP’s news leaders and standards editors."
+  },
+  {
+    "q": "If the fighting between the United States, Israel, and Iran were to end soon, how did The Associated Press state it would describe the historical nature of the conflict in its March 1, 2026, article?",
+    "a": "AP would continue saying the countries had been at war."
+  },
+  {
+    "q": "In the March 1, 2026, article, what did remaining Iranian leaders vow to do following the death of Supreme Leader Ayatollah Ali Khamenei?",
+    "a": "Remaining leaders vowed revenge over Khamenei’s death."
+  },
+  {
+    "q": "What potential regional consequence did The Associated Press warn could result from the killing of Ayatollah Ali Khamenei and U.S. President Donald Trump’s calls for regime change, as described in the March 1, 2026, article?",
+    "a": "It could lead to prolonged conflict that could envelop the Middle East."
+  },
+  {
+    "q": "Which two nations conducted the joint military strikes on Iran that The Associated Press classified as a war in its March 1, 2026, article?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "Did any of the countries involved in the March 2026 conflict officially declare war, according to The Associated Press article?",
+    "a": "No, none of the countries had officially declared war."
+  },
+  {
+    "q": "In the June 2025 conflict between Israel and Iran, what specific military capabilities of Iran were significantly weakened by the strikes, according to the March 1, 2026, AP article?",
+    "a": "Iran’s air defenses, military leadership, and nuclear program."
+  },
+  {
+    "q": "What type of weapons did Iran launch in retaliation against Israel and Gulf Arab states in the conflict described in the March 1, 2026, article?",
+    "a": "Missiles and drones."
+  },
+  {
+    "q": "According to the March 1, 2026, article, why is it important for The Associated Press to use correct language to describe military action between sovereign nations?",
+    "a": "To ensure people understand the significance of the conflict and do not diminish the importance of the term \"war.\""
+  },
+  {
+    "q": "In the March 1, 2026, article, what did U.S. President Donald Trump himself use to describe the conflict with Iran?",
+    "a": "He used the word \"war.\""
+  },
+  {
+    "q": "What key difference did The Associated Press note between the current U.S.-Iran conflict and previous instances where it avoided using the word \"war\"?",
+    "a": "Previous instances involved one-sided attacks without further action or conflicts that did not escalate, whereas the current situation involves intense retaliation and prolonged conflict potential."
+  },
+  {
+    "q": "Which specific government targets in Iran were attacked by the United States and Israel, leading to the death of Supreme Leader Ayatollah Ali Khamenei, as reported in the March 1, 2026, article?",
+    "a": "Key military targets and government leaders."
+  },
+  {
+    "q": "According to the March 1, 2026, AP article, what role did the presence of U.S. armed forces play in Iran’s decision to retaliate?",
+    "a": "Iran launched missiles and drones at Gulf Arab states that host U.S. armed forces as part of its retaliation."
+  },
+  {
+    "q": "What was the AP's stance on whether the classification of the U.S.-Iran conflict as a \"war\" could change in real time, as stated in the March 1, 2026, article?",
+    "a": "Decisions happen in real time, and editors will continue to monitor developments to see whether changes are necessary."
+  }
+]

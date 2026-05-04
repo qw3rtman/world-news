@@ -1,0 +1,37 @@
+{
+  "hash": "a8371cc55594",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202602180800BIZWIRE_USPRX____20260218_BW671123-1",
+      "title": "Viking Announces New Mississippi and Ohio River Voyages for 2027 – Company Announcement - FT.com",
+      "published_date": "2026-02-18T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1428,
+      "text_length": 6630
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694938",
+      "spike_id": 1,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.17500000000000004,
+      "spike_timestamp_before": "2026-02-20T11:00:26+00:00",
+      "spike_timestamp_after": "2026-02-20T12:00:36+00:00"
+    },
+    {
+      "market_id": "694938",
+      "spike_id": 2,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.21000000000000008,
+      "spike_timestamp_before": "2026-02-20T11:00:26+00:00",
+      "spike_timestamp_after": "2026-02-20T16:30:33+00:00"
+    }
+  ]
+}

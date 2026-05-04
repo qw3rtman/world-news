@@ -1,0 +1,27 @@
+{
+  "hash": "3bc2ded164ce",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/03/10/crude-oil-prices-today-iran-war.html?taid=69af776ef9dd4700013ed20c",
+      "title": "Oil extends slide as investors assess Trump comments on Iran war",
+      "published_date": "2026-03-10T00:00:00.000Z",
+      "author": "Lee Ying Shan",
+      "num_tokens": 964,
+      "text_length": 4686
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1538079",
+      "spike_id": 5,
+      "market_question": "Will Crude Oil (CL) hit (LOW) $80 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.41500000000000004,
+      "spike_timestamp_before": "2026-03-10T17:30:24+00:00",
+      "spike_timestamp_after": "2026-03-10T23:00:24+00:00"
+    }
+  ]
+}

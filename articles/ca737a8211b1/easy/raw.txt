@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In late February 2026, which U.S. President ordered military strikes on Tehran that sparked a debate over war powers in Congress?",
+    "a": "President Donald Trump"
+  },
+  {
+    "q": "Which three Republican lawmakers publicly opposed President Donald Trump’s unauthorized military strikes on Iran in February 2026?",
+    "a": "Representatives Thomas Massie and Warren Davidson, and Senator Rand Paul"
+  },
+  {
+    "q": "What specific constitutional argument did Senator Rand Paul use to oppose the military action against Iran in February 2026?",
+    "a": "He argued the Constitution conferred the power to declare war to Congress to make war less likely"
+  },
+  {
+    "q": "Which Democratic Representative from California compared President Trump’s unilateral military action against Iran to a \"slap in the face\" of Congress?",
+    "a": "Representative Ro Khanna"
+  },
+  {
+    "q": "What historical congressional vote did Representative Ro Khanna compare the upcoming Iran war powers vote to in February 2026?",
+    "a": "The 2002 vote authorizing the U.S. invasion of Iraq"
+  },
+  {
+    "q": "Which two Republican leaders praised President Trump’s actions in Iran in February 2026 despite the controversy?",
+    "a": "Speaker Mike Johnson and Senate Majority Leader John Thune"
+  },
+  {
+    "q": "What was the name of the military operation against Iran that Senator Thom Tillis expected Congress to be briefed on in February 2026?",
+    "a": "Operation Epic Fury"
+  },
+  {
+    "q": "Which two officials provided a classified update to the \"Gang of Eight\" congressional leaders regarding the Iran strikes in February 2026?",
+    "a": "Secretary of State Marco Rubio and CIA Director John Ratcliffe"
+  },
+  {
+    "q": "Representative Don Bacon of Nebraska stated that the Iranian regime killed approximately how many Americans to justify his support for bombing?",
+    "a": "About 2,000 Americans"
+  },
+  {
+    "q": "Which Republican Representative from Ohio, a former Army Ranger, stated unequivocally that war requires Congressional authorization?",
+    "a": "Representative Warren Davidson"
+  },
+  {
+    "q": "What procedural hurdle must Democrats and opposing Republicans overcome if their measure rebuking President Trump’s Iran strikes passes the House or Senate in February 2026?",
+    "a": "A presidential veto and a two-thirds vote in Congress to override it"
+  },
+  {
+    "q": "Which Republican Senator from North Carolina, who is retiring, stated that Trump \"rightfully determined\" the Iranian theocratic dictatorship could not be allowed?",
+    "a": "Senator Thom Tillis"
+  },
+  {
+    "q": "Which Republican Representative from Nebraska expressed a desire for more dialogue with the White House before the Iran strikes in February 2026?",
+    "a": "Representative Don Bacon"
+  },
+  {
+    "q": "Who did Democratic leaders quietly work with to convince lawmakers to deliver an official rebuke to the White House regarding the Iran strikes in February 2026?",
+    "a": "Representative Thomas Massie"
+  },
+  {
+    "q": "According to sources in February 2026, at least how many pro-Israel Democrats opposed the measure to constrain President Trump’s war powers?",
+    "a": "At least three"
+  },
+  {
+    "q": "Which Republican Representative from Kentucky declared that the war in Iran was not \"America First\"?",
+    "a": "Representative Thomas Massie"
+  },
+  {
+    "q": "What specific group of lawmakers did Secretary of State Marco Rubio notify in advance of the overnight strikes on Iran in February 2026?",
+    "a": "The \"Gang of Eight\" congressional leaders"
+  },
+  {
+    "q": "Which Republican Representative from Ohio sits on the House Foreign Affairs Committee and condemned the unauthorized attack on Iran?",
+    "a": "Representative Warren Davidson"
+  },
+  {
+    "q": "What did Representative Don Bacon of Nebraska say the U.S. should do to Iran, contrasting with keeping \"boots on the ground\"?",
+    "a": "Bomb them"
+  },
+  {
+    "q": "Which Democratic Representative from California stated that President Trump did not consult with Congress or allow for a debate before the Iran strikes?",
+    "a": "Representative Ro Khanna"
+  },
+  {
+    "q": "What did Senator Rand Paul say his oath of office required him to do regarding the presidential war in Iran in February 2026?",
+    "a": "Oppose it with studied care"
+  },
+  {
+    "q": "Which Republican Representative from Nebraska, with nearly 30 years in the Air Force, said he had no concerns with the regime falling because it killed Americans?",
+    "a": "Representative Don Bacon"
+  },
+  {
+    "q": "What did multiple GOP sources tell CNN about the political standing of Representatives Massie, Paul, and Davidson regarding the Iran strikes in February 2026?",
+    "a": "They were likely on an island in their own party"
+  },
+  {
+    "q": "Which Republican Senator from North Carolina expected the White House to be forthcoming about the details of Operation Epic Fury?",
+    "a": "Senator Thom Tillis"
+  },
+  {
+    "q": "What did Representative Ro Khanna say the vote on Iran war powers would be seen as, even if it didn't change the president's actions?",
+    "a": "A stunning rebuke of the administration"
+  },
+  {
+    "q": "Which Republican Representative from Ohio had already telegraphed support for a Democratic-led bill requiring Trump to make the case to Congress for military actions?",
+    "a": "Representative Warren Davidson"
+  }
+]

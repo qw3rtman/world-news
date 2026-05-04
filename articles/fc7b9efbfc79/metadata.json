@@ -1,0 +1,27 @@
+{
+  "hash": "fc7b9efbfc79",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/03/14/fertitta-caesars-talks-casino-acquisition.html",
+      "title": "Fertitta and Caesars in weekend deal talks to acquire casino",
+      "published_date": "2026-03-14T00:00:00.000Z",
+      "author": "Contessa Brewer,Sandy Cannold",
+      "num_tokens": 1138,
+      "text_length": 5148
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694937",
+      "spike_id": 9,
+      "market_question": "Will BP be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.27,
+      "spike_timestamp_before": "2026-03-16T06:00:33+00:00",
+      "spike_timestamp_after": "2026-03-16T12:30:25+00:00"
+    }
+  ]
+}

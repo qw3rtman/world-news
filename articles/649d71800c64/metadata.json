@@ -1,0 +1,27 @@
+{
+  "hash": "649d71800c64",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.barrons.com/articles/hims-hers-stock-telehealth-acquisition-e7bb9649?mod=mw_quote_news_topstories",
+      "title": "Hims & Hers Looks to Expand Globally With Buy of Australian Telehealth Provider  <!-- --> - Barron's",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": "Mackenzie Tatananni",
+      "num_tokens": 78,
+      "text_length": 317
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694938",
+      "spike_id": 3,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.21500000000000002,
+      "spike_timestamp_before": "2026-02-21T07:30:28+00:00",
+      "spike_timestamp_after": "2026-02-21T21:00:38+00:00"
+    }
+  ]
+}

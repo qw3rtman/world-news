@@ -1,0 +1,65 @@
+{
+  "spike_index": 2,
+  "direction": "down",
+  "price_before": 0.265,
+  "price_after": 0.0005,
+  "delta": -0.2645,
+  "abs_delta": 0.2645,
+  "timestamp_before": "2026-02-24T01:30:23+00:00",
+  "timestamp_after": "2026-02-24T13:00:26+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.pbs.org/newshour/world/a-timeline-of-tensions-over-irans-nuclear-program-as-talks-with-u-s-approach",
+      "file": "7562f78cda80.txt",
+      "title": "A timeline of tensions over Iran's nuclear program as talks with U.S. approach | PBS News",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": null,
+      "text_length": 11707,
+      "status": "ok",
+      "num_tokens": 2704
+    },
+    {
+      "url": "https://www.thetimes.com/us/american-politics/article/will-the-us-go-to-war-with-iran-news-attack-bwtdhkbnm?gaa_at=eafs&gaa_n=AWEtsqcLt8WUu7Eg4Bqnv0VIeRGTMY7mYjO6BDRDnbkmAMAUjOWGYqOBNRRw&gaa_sig=65XC4OgeQQPhgFQBcg75_AUFh7hzZEgBKa5wpcZ8qXRaDQjzq1b2K35f8FHctw2pcO5ZZ030wO4frP6YoaHhcw%3D%3D&gaa_ts=699b274e",
+      "file": "646db598aa4f.txt",
+      "title": "Will the US go to war with Iran?",
+      "published_date": "2026-02-22T00:00:00.000Z",
+      "author": "George Grylls, Washington",
+      "text_length": 9038,
+      "status": "ok",
+      "num_tokens": 1831
+    },
+    {
+      "url": "https://www.foreignaffairs.com/middle-east/why-iran-will-escalate",
+      "file": "c40c3c82a228.txt",
+      "title": "Why Iran Will Escalate: U.S. Military Strikes and the Risk of a Quagmire",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": null,
+      "text_length": 13277,
+      "status": "ok",
+      "num_tokens": 2585
+    },
+    {
+      "url": "http://www.cnn.com/2026/02/24/politics/iran-trump-military-options-nuclear",
+      "file": "f41f064b345b.txt",
+      "title": "A look at Trump\u2019s three main options on Iran | CNN Politics",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": "Kevin Liptak, Kylie Atwood, Zachary Cohen, Jennifer Hansler",
+      "text_length": 9878,
+      "status": "ok",
+      "num_tokens": 1938
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/25/us/decoding-trump-iran-strategy",
+      "file": "728635ca702b.txt",
+      "title": "Analysis: Decoding Trump\u2019s Iran strategy | CNN",
+      "published_date": "2026-02-25T00:00:00.000Z",
+      "author": "John Miller",
+      "text_length": 6852,
+      "status": "ok",
+      "num_tokens": 1376
+    }
+  ],
+  "total_tokens": 10434
+}

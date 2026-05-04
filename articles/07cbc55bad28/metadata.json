@@ -1,0 +1,57 @@
+{
+  "hash": "07cbc55bad28",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-crude-slides-6-after-touching-nearly-120-as-trump-signals-iran-war-may-end/articleshow/129370843.cms",
+      "title": "Oil price today: Crude slides 6% after touching nearly $120 as Trump signals Iran war may end - The Times of India",
+      "published_date": "2026-03-10T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /  Updated: Mar 10, 2026, 12:18 IST",
+      "num_tokens": 597,
+      "text_length": 2870
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1467763",
+      "spike_id": 17,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $120 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.645,
+      "spike_timestamp_before": "2026-03-09T04:00:25+00:00",
+      "spike_timestamp_after": "2026-03-10T01:00:27+00:00"
+    },
+    {
+      "market_id": "1467763",
+      "spike_id": 18,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $120 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.15999999999999998,
+      "spike_timestamp_before": "2026-03-10T01:00:27+00:00",
+      "spike_timestamp_after": "2026-03-10T20:00:33+00:00"
+    },
+    {
+      "market_id": "1538079",
+      "spike_id": 3,
+      "market_question": "Will Crude Oil (CL) hit (LOW) $80 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.415,
+      "spike_timestamp_before": "2026-03-09T19:30:19+00:00",
+      "spike_timestamp_after": "2026-03-10T15:00:27+00:00"
+    },
+    {
+      "market_id": "1538079",
+      "spike_id": 4,
+      "market_question": "Will Crude Oil (CL) hit (LOW) $80 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.56,
+      "spike_timestamp_before": "2026-03-09T19:30:19+00:00",
+      "spike_timestamp_after": "2026-03-10T17:30:24+00:00"
+    }
+  ]
+}

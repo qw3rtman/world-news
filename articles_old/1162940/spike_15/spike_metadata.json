@@ -1,0 +1,65 @@
+{
+  "spike_index": 15,
+  "direction": "up",
+  "price_before": 0.245,
+  "price_after": 0.495,
+  "delta": 0.25,
+  "abs_delta": 0.25,
+  "timestamp_before": "2026-03-13T10:00:27+00:00",
+  "timestamp_after": "2026-03-14T09:30:33+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://thetimes.com/world/middle-east/article/iran-us-war-ground-operation-isfahan-nuclear-facility-bp8rbhs2n",
+      "file": "83bbc461ac5e.txt",
+      "title": "Elite US troops may launch \u2018snatch raid\u2019 on Iran\u2019s nuclear stockpile",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": "Larisa Brown, Defence Editor",
+      "text_length": 5073,
+      "status": "ok",
+      "num_tokens": 1064
+    },
+    {
+      "url": "https://link.cfr.org/click/44714778.62121/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNi8wMy8xNC91cy9wb2xpdGljcy9tYXJpbmVzLWlyYW4td2FyLmh0bWw_dXRtX3NvdXJjZT1kYWlseWJyaWVmJnV0bV9jb250ZW50PTIwMjYwMzE2/6725416fd31ea7c67f0d673cBf992c02f",
+      "file": "91ee1b6ec9d1.txt",
+      "title": "How a Marine Unit in the Middle East Could Open New Phase of Iran War - The New York Times",
+      "published_date": "2026-03-14T00:00:00.000Z",
+      "author": null,
+      "text_length": 1643,
+      "status": "ok",
+      "num_tokens": 332
+    },
+    {
+      "url": "https://fortune.com/2026/03/13/us-marines-amphibious-assault-ship-tripoli-mideast-iran-war-taiwan/",
+      "file": "de1396f32967.txt",
+      "title": "US to send 2500 Marines and amphibious assault ship to Mideast, pulling them from waters near Taiwan | Fortune",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": "The Associated Press",
+      "text_length": 212,
+      "status": "ok",
+      "num_tokens": 47
+    },
+    {
+      "url": "https://www.cbc.ca/news/world/iran-tehran-strikes-israel-united-states-strait-of-hormuz-9.7127055",
+      "file": "c435ee6d6293.txt",
+      "title": "U.S. orders 2,500 marines, amphibious assault ship to Mideast after almost 2 weeks of war | CBC News",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": "The Associated Press    \u00b7  Posted: Mar 13, 2026 8:32 AM EDT | Last Updated: March 13",
+      "text_length": 8281,
+      "status": "ok",
+      "num_tokens": 1692
+    },
+    {
+      "url": "https://www.pbs.org/newshour/world/tehran-claims-the-u-s-attacked-it-from-the-uae-as-iran-war-enters-its-third-week",
+      "file": "80d3599b82fb.txt",
+      "title": "Tehran claims the U.S. attacked it from the UAE as Iran war enters its third week | PBS News",
+      "published_date": "2026-03-14T00:00:00.000Z",
+      "author": null,
+      "text_length": 5780,
+      "status": "ok",
+      "num_tokens": 1232
+    }
+  ],
+  "total_tokens": 4367
+}

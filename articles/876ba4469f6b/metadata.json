@@ -1,0 +1,27 @@
+{
+  "hash": "876ba4469f6b",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://ara.reuters.com/world/americas/unprecedented-military-raid-is-risky-gamble-mexicos-sheinbaum-2026-02-23/",
+      "title": "Reuters | Breaking International News & Views",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 67,
+      "text_length": 336
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1301522",
+      "spike_id": 2,
+      "market_question": "U.S. anti-cartel ground operation in Mexico by March 31?",
+      "event_title": "U.S. anti-cartel ground operation in Mexico by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.16,
+      "spike_timestamp_before": "2026-02-22T19:30:27+00:00",
+      "spike_timestamp_after": "2026-02-23T11:30:20+00:00"
+    }
+  ]
+}

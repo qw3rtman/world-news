@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the study published in Scientific Reports on March 5, 2026, titled \"Cost-effective plant-based medium for enhanced spore production of B. amyloliquefaciens CN1 for biofertilizer application,\" who are the three authors listed?",
+    "a": "Thuan Phuoc Dinh, Tu Cam Ly, and Tuan Nguyen."
+  },
+  {
+    "q": "Who authored the December 19, 2025 Scientific Reports article titled \"The open-source multi-wavelength non-invasive blood glucose sensing system\"?",
+    "a": "Trung Nghia Tran, Thanh Ven Huynh, and Anh Thu Pham Nguyen."
+  },
+  {
+    "q": "In the January 16, 2026 Communications Medicine study by Mesinovic et al., which country's people living with HIV were screened for cardiovascular disease using AI foundation models and low-cost wearable sensors?",
+    "a": "Vietnam."
+  },
+  {
+    "q": "Which country was identified in the December 11, 2023 Nature Communications study by Rachel Lowe, Felipe J. Colón-González, and Rory Gibb as one of the most severely affected by the expanding geographic distribution of dengue driven by climate change and urban infrastructure?",
+    "a": "Vietnam."
+  },
+  {
+    "q": "Who are the authors of the February 4, 2026 Humanities and Social Sciences Communications article titled \"Harnessing Artificial Intelligence (AI) for enhanced organizational performance in public sectors\"?",
+    "a": "Bac Truong Cong and Nhon Hoang Thanh."
+  },
+  {
+    "q": "In the September 12, 2024 Nature Communications study by Stephen T. Reece, Aishwarya Krishna, and Stephen Baker, what type of mice were immunized to define protective human antibody reactivity against antibiotic-resistant Acinetobacter baumannii?",
+    "a": "Human antibody immune repertoire transgenic mice."
+  },
+  {
+    "q": "Nick Goldman, Myrthe Willemsen, and Nicola De Maio published a February 9, 2026 Nature Methods article on pandemic-scale phylogenetics; how many severe acute respiratory syndrome coronavirus 2 genomes were included in the improved global phylogenetic tree they developed?",
+    "a": "More than 2 million."
+  },
+  {
+    "q": "Who are the authors of the November 26, 2025 Scientific Reports article titled \"ThoR: A Motion-Dependent Physics-Informed Deep Learning Framework with Constraint-Centric Theory of Functional Connections for Rainfall Nowcasting\"?",
+    "a": "Nhat Phan Minh, Hoai Tran Van, and Khang Ta Gia."
+  },
+  {
+    "q": "In the June 1, 2024 Nature Communications study by Christian Thomas Mayer, Anna Minh Newen, and Mikala JoAnn Simpson, what mechanism was argued against as a major mechanism to eliminate self-reactive and polyreactive B cell clones because the reactivity of apoptotic B cells did not differ from viable cells?",
+    "a": "Apoptosis."
+  },
+  {
+    "q": "Who authored the October 29, 2020 Scientific Reports article titled \"Combining semi-quantitative risk assessment, composite indicator and fuzzy logic for evaluation of hazardous chemical accidents\"?",
+    "a": "Tho Tien Do, Tram Thi Bich Ly, and Huyen Thi Thu Do."
+  },
+  {
+    "q": "In the January 11, 2026 Scientific Reports article titled \"Multimodal skin care system using combined image and impedance-based diagnostics,\" who are the three authors listed?",
+    "a": "Trung Hau Nguyen, Minh Quan Tran, and Bich Tuyen Nguyen."
+  },
+  {
+    "q": "Which political party's reform process was analyzed in the November 7, 2024 Humanities and Social Sciences Communications article by Nguyen Dung Anh, Nguyen Hai Thanh, and Nguyen Van Quang regarding Friedrich Engels’s view on theoretical thinking?",
+    "a": "The Communist Party of Vietnam."
+  },
+  {
+    "q": "Who are the authors of the February 5, 2026 Scientific Reports study titled \"Assessment of cognitive load through photoplethysmography and bioimpedance responses during mental arithmetic tasks\"?",
+    "a": "Trung-Hau Nguyen, Thao Nguyen Tran, and Dang Nguyen Huynh."
+  },
+  {
+    "q": "In the September 10, 2006 Nature Medicine article by Jeremy Farrar, Cameron P. Simmons, and Menno D. de Jong, what two factors were associated with the fatal outcome of human influenza A (H5N1)?",
+    "a": "High viral load and hypercytokinemia."
+  },
+  {
+    "q": "Who are the authors of the January 31, 2026 Scientific Reports article titled \"Dynamic chain for scheduling of the multi-AGV systems with load-aware motion profiling\"?",
+    "a": "Ha Quang Thinh Ngo, Hung Nguyen, and Thanh Phuong Nguyen."
+  },
+  {
+    "q": "In the May 6, 2023 Humanities and Social Sciences Communications study by Nguyen Hai Thanh and Nguyen Van Quang, which region of Vietnam was the focus of the assessment of local government response capacity to natural disasters?",
+    "a": "The Central Highlands Provinces."
+  },
+  {
+    "q": "Who are the authors of the August 15, 2025 Scientific Reports article titled \"Numerical and experimental investigation of the solar air heater with latent heat storage and fin\"?",
+    "a": "Nguyen Minh Phu, Phan Thanh Nhan, and Nguyen Van Hap."
+  },
+  {
+    "q": "In the November 21, 2025 Scientific Reports study by Luong Dai Ly, Phola Thi Thach, and Phong Vu Nhat Nguyen, which demographic was evaluated for the effectiveness of a digital diabetes self-management education and support program?",
+    "a": "Vietnamese adults with type 2 diabetes."
+  },
+  {
+    "q": "Who are the authors of the November 25, 2025 Scientific Reports article titled \"Cervical image visualization and improvement for clinical support in diagnosis and treatment\"?",
+    "a": "Ngoc Khuong Cat Phan, Thanh Hai Pham, and Van Tien Tran."
+  },
+  {
+    "q": "Nick Goldman, Nhan Ly-Trong, and Nicola De Maio published a November 5, 2025 Nature article describing a method using subtree pruning and regrafting-based tree assessment (SPRTA); which virus's variants were specifically mentioned as benefiting from this enhanced interpretability?",
+    "a": "SARS-CoV-2."
+  },
+  {
+    "q": "In the October 24, 2025 Scientific Reports study by Hoang A. Hoang, Pham T. Cam, and Trong-Tuong Ho, which fish species was the source of multidrug-resistant Edwardsiella tarda isolates targeted by novel bacteriophages?",
+    "a": "Striped catfish Pangasianodon hypophthalmus."
+  },
+  {
+    "q": "Who are the authors of the March 27, 2025 Scientific Reports article titled \"Experience with single transscrotal orchidopexy for palpable cryptorchidism in Vietnamese children\"?",
+    "a": "Ho T. Ban, Lai V. Chu, and Thach N. Pham."
+  },
+  {
+    "q": "In the February 6, 2026 Scientific Reports study by Mitsutoshi Senoh, Luong Minh Hoa, and Le Huy Hoang, which bacterial species' novel sequence type emergence and spread was investigated in Vietnam?",
+    "a": "Corynebacterium diphtheriae."
+  },
+  {
+    "q": "Rebecca H. Ritchie, Lauren T. May, and Cheng Xue Qin published a February 7, 2017 Nature Communications article showing that compound 17b, a novel agonist of which GPCR family member, robustly activates cardioprotective signaling in a mouse model of cardiac infarction?",
+    "a": "Formyl peptide receptor (FPR)."
+  },
+  {
+    "q": "Who are the authors of the December 21, 2025 Scientific Reports article titled \"Prediction of bearing capacity of ring footings on cohesive frictional soils using Terzaghi stability factors and Kolmogorov Arnold networks\"?",
+    "a": "Hung-Thinh Pham-Tran, Tan Nguyen, and Tran Vu-Hoang."
+  }
+]

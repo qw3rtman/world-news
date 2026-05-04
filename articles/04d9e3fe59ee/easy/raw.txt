@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In a phone interview with CBS News published on March 9, 2026, what did U.S. President Donald Trump state regarding the status of the war with Iran?",
+    "a": "He stated that the war is 'pretty much complete' and that Iran has no navy, communications, or Air Force."
+  },
+  {
+    "q": "Regarding the timeline for the conflict with Iran, how did U.S. President Donald Trump compare the current progress to his initial expectations in the March 9, 2026 CBS News interview?",
+    "a": "He said the United States is 'very far' ahead of his initial timeline of four to five weeks."
+  },
+  {
+    "q": "In the March 9, 2026 interview, what did U.S. President Donald Trump say when asked about Iran’s new supreme leader Mojtaba Khamenei?",
+    "a": "He stated he had 'no message for him. None, whatsoever.'"
+  },
+  {
+    "q": "During the March 9, 2026 CBS News interview, what did U.S. President Donald Trump reveal about his plans regarding Mojtaba Khamenei?",
+    "a": "He added that he has someone in mind to replace Khamenei but did not provide further details."
+  },
+  {
+    "q": "What was U.S. President Donald Trump's stated position on the Strait of Hormuz during the March 9, 2026 CBS News interview?",
+    "a": "He noted that ships are currently moving through the waterway but that he is 'thinking about taking it over.'"
+  },
+  {
+    "q": "What warning did U.S. President Donald Trump issue to Tehran in the March 9, 2026 interview regarding further escalation?",
+    "a": "He warned that Iran has 'shot everything they have to shoot' and that trying 'anything cute' would be 'the end of that country.'"
+  },
+  {
+    "q": "According to the March 9, 2026 CBS News interview, which specific military capabilities did U.S. President Donald Trump claim Iran had lost?",
+    "a": "He claimed Iran has no navy, no communications, and no Air Force."
+  },
+  {
+    "q": "In the March 9, 2026 interview, how did U.S. President Donald Trump describe the current state of naval and air traffic in the Strait of Hormuz?",
+    "a": "He said ships are currently moving through the waterway."
+  },
+  {
+    "q": "What did U.S. President Donald Trump say about his relationship with Mojtaba Khamenei in the March 9, 2026 CBS News interview?",
+    "a": "He stated he has no message for the new supreme leader, whom he had previously criticized."
+  },
+  {
+    "q": "In the March 9, 2026 interview, what did U.S. President Donald Trump imply about the future leadership of Iran?",
+    "a": "He indicated he has someone in mind to replace Mojtaba Khamenei."
+  },
+  {
+    "q": "What did U.S. President Donald Trump say about the duration of the war with Iran in the March 9, 2026 CBS News interview?",
+    "a": "He said the conflict is 'pretty much complete' and is progressing faster than his initial four-to-five-week timeline."
+  },
+  {
+    "q": "During the March 9, 2026 interview, what did U.S. President Donald Trump say about Iran's military capacity?",
+    "a": "He stated that Iran has 'shot everything they have to shoot' and lacks a navy, communications, and Air Force."
+  },
+  {
+    "q": "What potential action did U.S. President Donald Trump consider regarding the Strait of Hormuz in the March 9, 2026 CBS News interview?",
+    "a": "He said he is 'thinking about taking it over.'"
+  },
+  {
+    "q": "In the March 9, 2026 CBS News interview, what did U.S. President Donald Trump say about the consequences if Iran attempts further escalation?",
+    "a": "He warned that it would be 'the end of that country.'"
+  },
+  {
+    "q": "Who did U.S. President Donald Trump identify as Iran’s new supreme leader in the March 9, 2026 CBS News interview?",
+    "a": "He identified Mojtaba Khamenei as the new supreme leader."
+  },
+  {
+    "q": "What did U.S. President Donald Trump say about his communication with Mojtaba Khamenei in the March 9, 2026 CBS News interview?",
+    "a": "He stated he has 'no message for him. None, whatsoever.'"
+  },
+  {
+    "q": "In the March 9, 2026 CBS News interview, how did U.S. President Donald Trump characterize the progress of the war with Iran relative to his initial plan?",
+    "a": "He said the U.S. is 'very far' ahead of his initial timeline of four to five weeks."
+  },
+  {
+    "q": "What did U.S. President Donald Trump say about Iran's current military arsenal in the March 9, 2026 CBS News interview?",
+    "a": "He stated that Iran has 'shot everything they have to shoot.'"
+  },
+  {
+    "q": "In the March 9, 2026 CBS News interview, what did U.S. President Donald Trump say about the status of the Strait of Hormuz?",
+    "a": "He noted that ships are currently moving through the waterway but he is considering taking it over."
+  },
+  {
+    "q": "What did U.S. President Donald Trump say about replacing Mojtaba Khamenei in the March 9, 2026 CBS News interview?",
+    "a": "He said he has someone in mind to replace Khamenei but did not provide further details."
+  },
+  {
+    "q": "In the March 9, 2026 CBS News interview, what did U.S. President Donald Trump say about Iran's air force?",
+    "a": "He stated that Iran has no Air Force."
+  },
+  {
+    "q": "What did U.S. President Donald Trump say about Iran's naval capabilities in the March 9, 2026 CBS News interview?",
+    "a": "He stated that Iran has no navy."
+  },
+  {
+    "q": "In the March 9, 2026 CBS News interview, what did U.S. President Donald Trump say about Iran's communications infrastructure?",
+    "a": "He stated that Iran has no communications."
+  },
+  {
+    "q": "What did U.S. President Donald Trump say about the potential end of Iran as a country in the March 9, 2026 CBS News interview?",
+    "a": "He warned that if Iran tries 'anything cute,' it would be 'the end of that country.'"
+  },
+  {
+    "q": "In the March 9, 2026 CBS News interview, what did U.S. President Donald Trump say about the current status of the war with Iran?",
+    "a": "He said the war is 'very complete, pretty much.'"
+  }
+]

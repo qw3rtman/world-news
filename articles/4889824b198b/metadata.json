@@ -1,0 +1,47 @@
+{
+  "hash": "4889824b198b",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://origin.www.bloomberg.com/news/articles/2026-02-20/conocophillips-considers-selling-permian-assets-worth-2-billion?srnd=undefined",
+      "title": "ConocoPhillips Considers Selling Permian Assets Worth $2 Billion - Bloomberg",
+      "published_date": "2026-02-20T00:00:00.000Z",
+      "author": "David Carnevali",
+      "num_tokens": 80,
+      "text_length": 384
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694937",
+      "spike_id": 3,
+      "market_question": "Will BP be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.23,
+      "spike_timestamp_before": "2026-02-20T16:00:20+00:00",
+      "spike_timestamp_after": "2026-02-21T10:30:16+00:00"
+    },
+    {
+      "market_id": "694937",
+      "spike_id": 4,
+      "market_question": "Will BP be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.24000000000000002,
+      "spike_timestamp_before": "2026-02-21T10:30:16+00:00",
+      "spike_timestamp_after": "2026-02-21T17:00:18+00:00"
+    },
+    {
+      "market_id": "694937",
+      "spike_id": 5,
+      "market_question": "Will BP be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.24000000000000002,
+      "spike_timestamp_before": "2026-02-21T17:00:18+00:00",
+      "spike_timestamp_after": "2026-02-22T02:00:18+00:00"
+    }
+  ]
+}

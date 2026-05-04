@@ -1,0 +1,65 @@
+{
+  "spike_index": 2,
+  "direction": "down",
+  "price_before": 0.155,
+  "price_after": 0.0005,
+  "delta": -0.1545,
+  "abs_delta": 0.1545,
+  "timestamp_before": "2026-03-03T11:30:44+00:00",
+  "timestamp_after": "2026-03-04T09:30:29+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.cbsnews.com/news/texas-primary-democratic-results-2026-midterm-elections-james-talarico-jasmine-crockett/",
+      "file": "a74301634b27.txt",
+      "title": "James Talarico projected to win Texas Democratic Senate primary, defeating Jasmine Crockett - CBS News",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "text_length": 5276,
+      "status": "ok",
+      "num_tokens": 1087
+    },
+    {
+      "url": "https://fortune.com/2026/03/04/who-won-texas-senate-primary-democratic-party-talarico-crockett/",
+      "file": "43b9f73c8059.txt",
+      "title": "Talarico defeats Crockett in heated primary as Democrats seek first Texas Senate seat in decades | Fortune",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "The Associated Press",
+      "text_length": 892,
+      "status": "ok",
+      "num_tokens": 207
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/04/politics/james-talarico-texas-senate-primary",
+      "file": "7a4a0dab7bdb.txt",
+      "title": "James Talarico defeats Jasmine Crockett to win Democratic primary in Texas Senate race | CNN Politics",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "Arlette Saenz",
+      "text_length": 4760,
+      "status": "ok",
+      "num_tokens": 974
+    },
+    {
+      "url": "https://thehill.com/homenews/senate/5757060-talarico-wins-texas-democratic-senate-primary/",
+      "file": "3ae0c6ea3e6b.txt",
+      "title": "James Talarico beats Jasmine Crockett in Texas Democratic Senate primary",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "text_length": 3801,
+      "status": "ok",
+      "num_tokens": 833
+    },
+    {
+      "url": "https://www-m.cnn.com/2026/03/04/politics/james-talarico-texas-senate-primary",
+      "file": "b93c944d2d6f.txt",
+      "title": "James Talarico defeats Jasmine Crockett to win Democratic primary in Texas Senate race | CNN Politics",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "Arlette Saenz",
+      "text_length": 4789,
+      "status": "ok",
+      "num_tokens": 955
+    }
+  ],
+  "total_tokens": 4056
+}

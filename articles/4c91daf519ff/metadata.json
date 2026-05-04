@@ -1,0 +1,27 @@
+{
+  "hash": "4c91daf519ff",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-15-26?post-id=cmmrp9h4t000n3b6uar9gk79z",
+      "title": "Day 16 of Middle East conflict — Trump ramps up call to secure Hormuz strait, says he may delay China summit | CNN",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "Christina Macfarlane, Sana Noor Haq, Alessandra Freitas, Yumi Asada, Lex Harvey, Laura Sharman, Brad Lendon, Teele Rebane, Rhea Mogul, Kocha Olarn, Xiaoqian Lin, Piper Hudspeth Blackburn, Hilary Whiteman, Alejandra Jaramillo, David Goldman, Auzinea Bacon, Mohammed Tawfeeq, Jonny Hallam, Tal Shalev, Nina Giraldo, Oren Liebermann, Aqeel Najim, Christian Sierra, Aileen Graef, Charbel Mallo, Catherine Nicholls, Evan John, Billy Stockwell, Maureen Chowdhury, Gianluca Mezzofiore, Kaanita Iyer, Logan Schiciano, Fadel Allassan, Christopher Lamb, Sophie Tanno, Lauren Said-Moorhouse, Chris Lau, Nic Robertson, Diego Mendoza, Adam Pourahmadi, Hanako Montgomery, Hanna Ziady, Brian Stelter, Aleena Fayaz, Hanna Park",
+      "num_tokens": 5337,
+      "text_length": 26191
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "678747",
+      "spike_id": 5,
+      "market_question": "Will Israel strike 4 countries in 2026?",
+      "event_title": "How many different countries will Israel strike in 2026?",
+      "spike_direction": "down",
+      "spike_delta": -0.22150000000000003,
+      "spike_timestamp_before": "2026-03-15T22:30:48+00:00",
+      "spike_timestamp_after": "2026-03-16T20:30:52+00:00"
+    }
+  ]
+}

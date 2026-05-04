@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On March 10, 2026, which White House official confirmed that the US Navy had not escorted any oil tanker through the Strait of Hormuz?",
+    "a": "White House Press Secretary Karoline Leavitt."
+  },
+  {
+    "q": "Which US official's social media post on March 10, 2026, falsely claimed that the US Navy had escorted an oil tanker, causing oil prices to drop sharply before the post was deleted?",
+    "a": "Energy Secretary Chris Wright."
+  },
+  {
+    "q": "According to the White House statement on March 10, 2026, what was the official stance regarding the US Navy's role in escorting vessels through the Strait of Hormuz?",
+    "a": "The US Navy had not escorted a tanker or vessel at that time, though it remained an option."
+  },
+  {
+    "q": "How did Iran's Revolutionary Guards respond to Energy Secretary Chris Wright's deleted claim on March 10, 2026, regarding US Navy escort activities?",
+    "a": "They called the claim a \"pure falsehood\" and stated no US Navy vessel had dared approach the Strait of Hormuz."
+  },
+  {
+    "q": "What reason did an Energy Department spokesperson give on March 10, 2026, for deleting a video clip from Energy Secretary Chris Wright's official X account?",
+    "a": "The clip was determined to be incorrectly captioned by Department of Energy staff."
+  },
+  {
+    "q": "Between March 1 and March 10, 2026, how many oil tankers in or near the Strait of Hormuz were struck, targeted, or reported attacked according to data from the UK Maritime Trade Organisation and others?",
+    "a": "At least 10 oil tankers."
+  },
+  {
+    "q": "Since the war launched on February 28, 2026, how many US ships were confirmed to have escorted oil tankers in the Strait of Hormuz as of March 10, 2026?",
+    "a": "No US ships were confirmed to have escorted oil tankers."
+  },
+  {
+    "q": "What specific claim did Energy Secretary Chris Wright make in his deleted post on March 10, 2026, that was later retracted by the White House?",
+    "a": "He claimed the US Navy successfully escorted an oil tanker through the Strait of Hormuz to ensure oil flows to global markets."
+  },
+  {
+    "q": "What percentage of global oil production passes through the Strait of Hormuz, according to the article published on March 10, 2026?",
+    "a": "Nearly a fifth of global oil production."
+  },
+  {
+    "q": "What vow did Tehran make on March 10, 2026, regarding oil exports from the Gulf during the ongoing war?",
+    "a": "Tehran vowed that no oil would be exported from the Gulf while the war is ongoing."
+  },
+  {
+    "q": "According to AFP analysis of Marine Traffic data, how many commercial vessels were detected crossing the Strait of Hormuz since March 2, 2026?",
+    "a": "More than 20 commercial vessels."
+  },
+  {
+    "q": "What tactic did some vessels use to conceal their position while crossing the Strait of Hormuz after the war began on February 28, 2026?",
+    "a": "They passed through with their transponders switched off."
+  },
+  {
+    "q": "What was the daily average number of ships that transited the Strait of Hormuz before the war launched on February 28, 2026?",
+    "a": "A daily average of 138 ships."
+  },
+  {
+    "q": "What steps has President Donald Trump's administration taken since launching the war on February 28, 2026, to reassure global markets?",
+    "a": "They offered reinsurance to shipping companies and the US Navy's services to escort tankers."
+  },
+  {
+    "q": "By how much did crude oil prices jump on Monday, March 9, 2026, due to supply disruptions, before retreating?",
+    "a": "Crude prices jumped 30 percent to nearly $120 per barrel."
+  },
+  {
+    "q": "What hint did President Donald Trump give on Monday, March 9, 2026, that contributed to falling oil prices?",
+    "a": "He hinted that the war may end soon."
+  },
+  {
+    "q": "What did US Defense Secretary Lloyd Austin vow to do on Tuesday, March 10, 2026, despite President Trump's hints about the war ending?",
+    "a": "He vowed to carry out the \"most intense day of strikes inside Iran.\""
+  },
+  {
+    "q": "What types of targets have been struck in Iran and wealthy Gulf countries since the war began on February 28, 2026?",
+    "a": "Oil depots in Iran and energy infrastructure in Gulf countries."
+  },
+  {
+    "q": "Which two organizations, along with Iranian authorities, compiled data indicating at least 10 oil tanker attacks in the Strait of Hormuz between March 1 and 10, 2026?",
+    "a": "The UK Maritime Trade Organisation (UKMTO) and the International Maritime Organization (IMO)."
+  },
+  {
+    "q": "On which date did Energy Secretary Chris Wright post and subsequently delete his false claim about US Navy escorting an oil tanker?",
+    "a": "March 10, 2026."
+  },
+  {
+    "q": "Which US official's initial comments on March 10, 2026, marked the first time a US official stated that the US Navy had escorted an oil tanker through the Strait of Hormuz?",
+    "a": "Energy Secretary Chris Wright."
+  },
+  {
+    "q": "What was the reaction of oil markets to Energy Secretary Chris Wright's deleted post on March 10, 2026?",
+    "a": "Oil prices dropped sharply after the initial post and pared back some losses after it was deleted."
+  },
+  {
+    "q": "According to the article, what did President Donald Trump's administration offer to shipping companies to help reassure global markets during the war?",
+    "a": "Reinsurance to shipping companies."
+  },
+  {
+    "q": "What did Iranian authorities and international organizations report regarding attacks on oil tankers in the Strait of Hormuz during the first 10 days of March 2026?",
+    "a": "At least 10 oil tankers were struck, targeted, or reported attacked."
+  },
+  {
+    "q": "What statement did White House Press Secretary Karoline Leavitt make on March 10, 2026, regarding the US Navy's current escort capabilities in the Strait of Hormuz?",
+    "a": "She confirmed the US Navy had not escorted a tanker at that time, though it was an option."
+  }
+]

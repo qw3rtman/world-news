@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In the February 24, 2026 dispute between the U.S. Department of Defense and Anthropic, what specific deadline did Defense Secretary Pete Hegseth give CEO Dario Amodei to provide unfettered military access to the Claude AI model?",
+    "a": "Friday evening."
+  },
+  {
+    "q": "During the Tuesday meeting in late February 2026 between Defense Secretary Pete Hegseth and Anthropic CEO Dario Amodei, what two specific punitive actions did Hegseth threaten if Anthropic did not comply with Pentagon demands?",
+    "a": "Cutting ties and declaring Anthropic a \"supply chain risk,\" or invoking the Defense Production Act."
+  },
+  {
+    "q": "Which AI model, currently used by the Pentagon for its most sensitive classified work, was the subject of the February 2026 standoff between the U.S. Department of Defense and Anthropic?",
+    "a": "Claude."
+  },
+  {
+    "q": "What two specific restrictions did Anthropic CEO Dario Amodei state in February 2026 that the company would not allow regarding the use of its Claude model by the U.S. military?",
+    "a": "Mass surveillance of Americans and the development of weapons that fire without human involvement."
+  },
+  {
+    "q": "Which U.S. government official did Defense Secretary Pete Hegseth join in the February 2026 meeting with Anthropic CEO Dario Amodei, serving as the Pentagon's top lawyer?",
+    "a": "Earl Matthews."
+  },
+  {
+    "q": "In the February 2026 dispute, which AI software company did the Pentagon claim Anthropic had contacted regarding concerns about using Claude during the Maduro raid, a claim Anthropic CEO Dario Amodei denied?",
+    "a": "Palantir."
+  },
+  {
+    "q": "What specific authority does the Defense Production Act grant the President of the United States, which Defense Secretary Pete Hegseth threatened to invoke against Anthropic in February 2026?",
+    "a": "The authority to compel private companies to accept and prioritize particular contracts as required for national defense."
+  },
+  {
+    "q": "Which rival AI model, developed by Elon Musk's xAI, had recently signed a contract in early 2026 to enter classified settings as a potential alternative to Anthropic's Claude?",
+    "a": "Grok."
+  },
+  {
+    "q": "Which Google AI model was identified by sources in February 2026 as a potential replacement for Claude, contingent on Google allowing the Pentagon to use it for \"all lawful purposes\"?",
+    "a": "Gemini."
+  },
+  {
+    "q": "What specific military capability area was cited in February 2026 as a domain where Anthropic's Claude model was considered ahead of competitors like OpenAI and Google?",
+    "a": "Offensive cyber capabilities."
+  },
+  {
+    "q": "Which three U.S. Department of Defense officials, besides Secretary Pete Hegseth, were present in the February 2026 meeting with Anthropic CEO Dario Amodei?",
+    "a": "Deputy Secretary Steve Feinberg, Under Secretary for Research and Engineering Emil Michael, and Under Secretary for Acquisition and Sustainment Michael Duffey."
+  },
+  {
+    "q": "What specific designation would the Pentagon assign to Anthropic if it severed ties in February 2026, requiring other contractors to certify their workflows did not use Claude?",
+    "a": "A supply chain risk."
+  },
+  {
+    "q": "Which two major AI companies was the Pentagon reportedly speeding up conversations with in early 2026 regarding moving their models from unclassified to classified systems?",
+    "a": "OpenAI and Google."
+  },
+  {
+    "q": "What legal argument did a defense consultant suggest Anthropic could use in court to challenge the Pentagon's use of the Defense Production Act in February 2026?",
+    "a": "That Claude is custom-built software tailored to sensitive government uses, not a commercially available product for which the DPA can expedite production."
+  },
+  {
+    "q": "Which historical event was cited by a senior Defense official in February 2026 as an example of the Defense Production Act being used to increase production of vaccines and ventilators?",
+    "a": "The COVID-19 pandemic."
+  },
+  {
+    "q": "What specific operational concern did Defense Secretary Pete Hegseth tell Anthropic CEO Dario Amodei he would not allow any company to dictate regarding Pentagon operational decisions in February 2026?",
+    "a": "The terms under which the Pentagon makes operational decisions or objections to individual use cases."
+  },
+  {
+    "q": "Which specific military operation, involving Venezuela, was referenced in February 2026 as the context for the Pentagon's claim that Anthropic raised concerns with Palantir about using Claude?",
+    "a": "The Maduro raid."
+  },
+  {
+    "q": "What was the tone of the February 2026 meeting between Defense Secretary Pete Hegseth and Anthropic CEO Dario Amodei, according to one source who described it as having no voices raised?",
+    "a": "Cordial."
+  },
+  {
+    "q": "Which two individuals served as Pentagon spokesperson and general counsel respectively in the February 2026 meeting with Anthropic CEO Dario Amodei?",
+    "a": "Sean Parnell and Earl Matthews."
+  },
+  {
+    "q": "What specific type of bureaucratic functions within the U.S. military, besides classified systems, was Claude used for in early 2026, making it difficult to replace?",
+    "a": "A wide variety of more bureaucratic functions."
+  },
+  {
+    "q": "According to an Anthropic spokesperson in February 2026, what did CEO Dario Amodei express appreciation for during his meeting with Defense Secretary Pete Hegseth?",
+    "a": "The Department's work and thanked the Secretary for his service."
+  },
+  {
+    "q": "Which company's CEO, Dario Amodei, faced a ultimatum from Defense Secretary Pete Hegseth in February 2026 regarding AI model access?",
+    "a": "Anthropic."
+  },
+  {
+    "q": "What specific risk did the Pentagon warn other companies would face if they continued using Claude after Anthropic was declared a supply chain risk in February 2026?",
+    "a": "They would be required to certify that Claude wasn't used in their workflows."
+  },
+  {
+    "q": "Which AI model did a source familiar with February 2026 discussions identify as currently ahead of others in military applications such as offensive cyber capabilities?",
+    "a": "Claude."
+  },
+  {
+    "q": "What specific condition did Google need to meet for its Gemini model to be considered a viable replacement for Anthropic's Claude by the Pentagon in early 2026?",
+    "a": "Google must let the Pentagon use its model for \"all lawful purposes.\""
+  },
+  {
+    "q": "Which senior Defense official described the February 2026 meeting between the Pentagon and Anthropic as \"not warm and fuzzy at all\"?",
+    "a": "A senior Defense official."
+  }
+]

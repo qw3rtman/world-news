@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In February 2026, after the U.S. captured President Nicolas Maduro in January 2026, what specific regulatory action did the U.S. government take regarding Venezuela's energy sector?",
+    "a": "The U.S. eased sanctions by issuing general licenses that allow global energy companies to operate oil and gas projects in Venezuela."
+  },
+  {
+    "q": "What was the outcome of the exploration and production license granted in 2024 to BP and Trinidad and Tobago's National Gas Company for the Manakin-Cocuina gas field, and when did the U.S. revoke the previous authorization?",
+    "a": "The project's planning was stalled when the U.S. revoked the previous license in April 2025."
+  },
+  {
+    "q": "How much heavy crude did Chevron export from Venezuela to the U.S. Gulf Coast in November and December 2025, according to ship monitoring data?",
+    "a": "Chevron exported around 150,000 barrels per day in November and some 100,000 barrels per day in December."
+  },
+  {
+    "q": "What is the range of daily production for the four Chevron-PDVSA joint oil ventures, and what percentage growth in gross production did Chevron say it could achieve in the short term?",
+    "a": "The ventures produce between 240,000 and 250,000 barrels per day, and Chevron said it could grow gross production by about 50% in the short term."
+  },
+  {
+    "q": "How much money has ConocoPhillips collected so far in connection with an arbitration award regarding the expropriation of its assets during the Hugo Chávez era?",
+    "a": "The company has collected $794 million, with collection actions still ongoing for the remaining balance of the approximately $12 billion owed."
+  },
+  {
+    "q": "What amount did Italy's Eni say Venezuela owed it as of June 2025, and what U.S. decision contributed to this debt increasing from the previous year?",
+    "a": "Eni said Venezuela owed it $2.3 billion as of June 2025, a rise attributed to the U.S. decision in March 2025 to revoke all licenses to recover money owed via PDVSA crude oil cargoes."
+  },
+  {
+    "q": "In 2023, what compensation amount did ExxonMobil state Venezuela owed it following international arbitration cases stemming from the 2007 expropriation of its Cerro Negro and La Ceiba projects?",
+    "a": "ExxonMobil said Venezuela owed it $984.5 million."
+  },
+  {
+    "q": "Which U.S. official stated in February 2026 that ExxonMobil was in talks with the Venezuelan government, despite CEO Darren Woods having called Venezuela uninvestable in January 2026 without major reforms?",
+    "a": "U.S. Secretary of Energy Chris Wright."
+  },
+  {
+    "q": "What was the average gross production at the Urdaneta Oeste field in January 2026, and what percentage stake does Maurel & Prom's M&P Iberoamerica business hold in this field?",
+    "a": "Gross production averaged about 21,000 barrels per day, and M&P Iberoamerica holds a 40% stake."
+  },
+  {
+    "q": "How much debt is Repsol owed by the Venezuelan state as of February 2026, and how much of this debt has the company written down over several years?",
+    "a": "Repsol is owed 4.55 billion euros ($5.37 billion) and has written down around 3.6 billion euros of this debt."
+  },
+  {
+    "q": "In March 2025, which company was notified by the U.S. that its license to operate in Venezuela had been revoked, leading to its current efforts to increase gas production by 10%?",
+    "a": "Spain's Repsol."
+  },
+  {
+    "q": "According to Repsol CEO Josu Jon Imaz in February 2026, by what percentage could Repsol increase its oil output in 12 months, and what is the timeframe for tripling it?",
+    "a": "Repsol can increase output by 50% in 12 months and triple it within three years."
+  },
+  {
+    "q": "In 2020, to which state-owned company did Russia's Rosneft sell its stakes in Venezuelan projects for an estimated equity value of around $5 billion?",
+    "a": "Roszarubezhneft."
+  },
+  {
+    "q": "Which two companies were set to operate the yet-to-produce Dragon gas field in Venezuelan waters, and what was the intended destination for the output?",
+    "a": "Shell and Trinidad and Tobago's National Gas Company were set to operate the field, with output sent to Trinidad to be turned into liquefied natural gas."
+  },
+  {
+    "q": "In October 2025, which two entities did the U.S. government authorize to restart planning for the Dragon gas field project?",
+    "a": "Shell and Trinidad and Tobago."
+  },
+  {
+    "q": "What did Shell CEO Wael Sawan say in February 2026 regarding the expected production start date for the Dragon gas field?",
+    "a": "He hoped Dragon would start producing within three years."
+  },
+  {
+    "q": "Which Chinese private company planned to invest more than $1 billion in two oilfields in Venezuela to produce 60,000 barrels per day by the end of 2026?",
+    "a": "China Concord Resources Corp."
+  },
+  {
+    "q": "Which three geopolitical rivals did U.S. government officials state were no longer welcome in Venezuela's energy sector in February 2026?",
+    "a": "China, Russia, and Iran."
+  },
+  {
+    "q": "In the 2000s, which former Venezuelan President expropriated assets from foreign oil companies to strengthen state-owned PDVSA's control?",
+    "a": "Hugo Chávez."
+  },
+  {
+    "q": "Which Italian energy company produces gas from the Perla offshore field in a 50-50 joint venture with Spain's Repsol?",
+    "a": "Eni."
+  },
+  {
+    "q": "How much Venezuelan crude does Chevron currently process at its U.S. refineries, and how much additional capacity does it have to process crude through U.S. Gulf and West coast refineries?",
+    "a": "Chevron currently processes 50,000 barrels per day and can process an additional 100,000 barrels per day."
+  },
+  {
+    "q": "What did U.S. court recognition in September 2025 pertain to regarding ExxonMobil and Venezuela?",
+    "a": "It recognized Venezuela's obligation to pay ExxonMobil $984.5 million in compensation for expropriated projects."
+  },
+  {
+    "q": "Which French oil producer included in a U.S. general license in February 2026 reported that its activities in the Urdaneta Oeste field were running satisfactorily?",
+    "a": "Maurel & Prom."
+  },
+  {
+    "q": "What specific debt component is included in the 4.55 billion euros owed to Repsol by the Venezuelan state, related to the Petroquiriquire field?",
+    "a": "947 million euros in financing for Petroquiriquire."
+  },
+  {
+    "q": "Which company declined to migrate its projects to joint ventures with PDVSA, resulting in ExxonMobil having no longer presence in Venezuela?",
+    "a": "ExxonMobil."
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2026, by what percentage did oil prices surge following the International Energy Agency's announcement of the largest crude stockpile release in its 50-year history?",
+    "a": "Oil prices surged more than 17%."
+  },
+  {
+    "q": "During the week of March 14, 2026, at what price level did Brent oil prices close for the second consecutive session?",
+    "a": "Brent oil prices closed above $100 per barrel."
+  },
+  {
+    "q": "In March 2026, how many nations agreed to release a combined total of 400 million barrels of oil to counter supply disruptions from the Iran war?",
+    "a": "More than 30 nations agreed to the release."
+  },
+  {
+    "q": "In March 2026, what percentage of the International Energy Agency's total 400 million barrel emergency release was contributed by the United States?",
+    "a": "The United States contributed 43% (172 million barrels)."
+  },
+  {
+    "q": "In March 2026, which critical maritime chokepoint remained basically closed, prompting the International Energy Agency's emergency stockpile release?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "In March 2026, which Iranian official vowed to keep the Strait of Hormuz shut, contributing to the oil supply disruption?",
+    "a": "Iran’s new supreme leader."
+  },
+  {
+    "q": "In March 2026, what daily export volume in barrels per day did Tamas Varga and Tom Liles identify as being bottlenecked through the Strait of Hormuz due to the war?",
+    "a": "Around 9 million barrels per day."
+  },
+  {
+    "q": "In March 2026, how many days of lost supply from the Strait of Hormuz closure would the 400 million emergency barrels theoretically cover, according to Rystad Energy analyst Tom Liles?",
+    "a": "About 40 days."
+  },
+  {
+    "q": "In March 2026, over what time period did the United States plan to release its 172 million barrels from the Strategic Petroleum Reserve?",
+    "a": "Over a 120-day period."
+  },
+  {
+    "q": "In March 2026, what percentage of the daily supply lost due to the Strait of Hormuz closure did the U.S. release rate of 1.4 million barrels per day represent?",
+    "a": "15%."
+  },
+  {
+    "q": "In March 2026, how many days did it take for barrels to hit the market after U.S. President Donald Trump authorized the Strategic Petroleum Reserve release?",
+    "a": "13 days."
+  },
+  {
+    "q": "In March 2026, what was the combined high daily release rate of emergency stockpiles achieved by International Energy Agency members during the response to Russia’s invasion of Ukraine in September 2022?",
+    "a": "1.3 million barrels per day."
+  },
+  {
+    "q": "In March 2026, what daily release rate did consulting firm Rapidan Energy suggest the International Energy Agency could potentially boost the emergency stockpile release to?",
+    "a": "Closer to 2 million barrels per day."
+  },
+  {
+    "q": "In March 2026, what percentage of the International Energy Agency's total 1.2 billion member-state stockpiles did the 400 million barrel release represent?",
+    "a": "33%."
+  },
+  {
+    "q": "In March 2026, what percentage of the 415 million barrels currently held in the U.S. Strategic Petroleum Reserve did the planned 172 million barrel release represent?",
+    "a": "41%."
+  },
+  {
+    "q": "In March 2026, how many barrels did U.S. Energy Secretary Chris Wright say the White House planned to replace within the next year?",
+    "a": "200 million barrels."
+  },
+  {
+    "q": "In March 2026, what percentage of global liquefied natural gas exports were unable to reach the market due to the closure of the Strait of Hormuz?",
+    "a": "20%."
+  },
+  {
+    "q": "In March 2026, which consulting firm's analysts told clients that the emergency stockpile action would have limited impact on the trajectory of oil prices?",
+    "a": "Bernstein."
+  },
+  {
+    "q": "In March 2026, what Brent oil price did Rystad Energy forecast for April if the Iran war lasted two months?",
+    "a": "$110 per barrel."
+  },
+  {
+    "q": "In March 2026, what Brent oil price did Rystad Energy forecast for June if the Iran war lasted four months?",
+    "a": "$135 per barrel."
+  },
+  {
+    "q": "In March 2026, which London-based oil broker employed analyst Tamas Varga, who stated that policy announcements would have limited impact until transit was reactivated?",
+    "a": "PVM."
+  },
+  {
+    "q": "In March 2026, which consulting firm employed senior vice president Tom Liles, who noted that limited volume could be released over a given period?",
+    "a": "Rystad Energy."
+  },
+  {
+    "q": "In March 2026, which organization is tasked with maintaining the energy security of its members during global crises and announced the largest stockpile release in its 50-year history?",
+    "a": "The International Energy Agency."
+  },
+  {
+    "q": "In March 2026, which four countries were identified as having exported around 14 million barrels per day before the war began?",
+    "a": "Saudi Arabia, Iraq, Kuwait, and the United Arab Emirates."
+  },
+  {
+    "q": "In March 2026, which two countries' pipelines terminating at the Red Sea and Gulf of Oman were identified as capable of exporting around 5 to 6 million barrels per day?",
+    "a": "Saudi Arabia and the United Arab Emirates."
+  }
+]

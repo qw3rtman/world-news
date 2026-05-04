@@ -1,0 +1,27 @@
+{
+  "hash": "f2a2b10b2319",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://in.mobile.reuters.com/business/media-telecom/paramounts-110-billion-warner-bros-deal-poised-win-fcc-backing-ft-reports-2026-03-03/",
+      "title": "Paramount's $110 billion Warner Bros deal likely to secure FCC backing, FT reports | Reuters",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 366,
+      "text_length": 1874
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694939",
+      "spike_id": 9,
+      "market_question": "Will Ubisoft be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.33499999999999996,
+      "spike_timestamp_before": "2026-03-05T20:30:20+00:00",
+      "spike_timestamp_after": "2026-03-06T17:30:20+00:00"
+    }
+  ]
+}

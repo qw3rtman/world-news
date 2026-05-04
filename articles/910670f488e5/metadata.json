@@ -1,0 +1,27 @@
+{
+  "hash": "910670f488e5",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/merz-says-he-urged-trump-increase-pressure-putin-2026-03-03/",
+      "title": "Merz says he urged Trump to increase pressure on Putin | Reuters",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 166,
+      "text_length": 793
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "618509",
+      "spike_id": 3,
+      "market_question": "Will Trump and Putin not meet?",
+      "event_title": "Where will Trump and Putin meet next?",
+      "spike_direction": "down",
+      "spike_delta": -0.17000000000000004,
+      "spike_timestamp_before": "2026-03-05T09:00:19+00:00",
+      "spike_timestamp_after": "2026-03-05T16:30:20+00:00"
+    }
+  ]
+}

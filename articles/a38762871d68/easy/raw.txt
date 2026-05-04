@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On what date was the Bloomberg article titled \"Iran Strikes: Tehran Switches to Survival Mode After Killing of Khamenei\" published?",
+    "a": "March 1, 2026"
+  },
+  {
+    "q": "In the article published on March 1, 2026, what specific phrase did an Iranian state TV reporter accidentally say live on air instead of \"death to America\"?",
+    "a": "\"Death to Khamenei\""
+  },
+  {
+    "q": "According to the article published on March 1, 2026, what political event was the Iranian state TV reporter covering when he made his on-air slip of the tongue?",
+    "a": "State-organized rallies marking the anniversary of the 1979 revolution"
+  },
+  {
+    "q": "What was the professional consequence for the Iranian state TV reporter who accidentally said \"death to Khamenei\" during a live broadcast?",
+    "a": "He lost his job"
+  },
+  {
+    "q": "Which two countries conducted the airstrikes that killed former Supreme Leader Ayatollah Ali Khamenei, as reported in the article published on March 1, 2026?",
+    "a": "The United States and Israel"
+  },
+  {
+    "q": "On which day of the week did the US and Israeli airstrikes kill Ayatollah Ali Khamenei, according to the article published on March 1, 2026?",
+    "a": "Saturday"
+  },
+  {
+    "q": "For approximately how many years did Ayatollah Ali Khamenei rule Iran before his death, as described in the article published on March 1, 2026?",
+    "a": "Almost 40 years"
+  },
+  {
+    "q": "What type of political system was ushered in by the 1979 revolution that the Iranian reporter was covering, as noted in the article published on March 1, 2026?",
+    "a": "A theocratic regime"
+  },
+  {
+    "q": "According to the article published on March 1, 2026, what was the approximate population of Iran during Ayatollah Ali Khamenei's rule?",
+    "a": "More than 90 million people"
+  },
+  {
+    "q": "How does the article published on March 1, 2026, characterize Ayatollah Ali Khamenei's rule over Iran?",
+    "a": "Rigid rule"
+  },
+  {
+    "q": "What public sentiment toward Ayatollah Ali Khamenei did the reporter's slip of the tongue crystallize, according to the article published on March 1, 2026?",
+    "a": "Antipathy"
+  },
+  {
+    "q": "In the article published on March 1, 2026, how long before the publication date did the incident with the Iranian state TV reporter occur?",
+    "a": "Two weeks ago"
+  },
+  {
+    "q": "What was the intended phrase of the Iranian state TV reporter who accidentally said \"death to Khamenei\" during the live broadcast?",
+    "a": "\"Death to America\""
+  },
+  {
+    "q": "Which former Supreme Leader of Iran was killed in US and Israeli airstrikes, as reported in the article published on March 1, 2026?",
+    "a": "Ayatollah Ali Khamenei"
+  },
+  {
+    "q": "What specific type of media outlet featured the Iranian reporter who accidentally insulted Ayatollah Ali Khamenei?",
+    "a": "Iranian state TV"
+  },
+  {
+    "q": "According to the article published on March 1, 2026, what was the nature of the rallies the reporter was covering when he made his error?",
+    "a": "State-organized rallies"
+  },
+  {
+    "q": "What historical event's anniversary was being marked by the rallies in Iran when the reporter made his slip of the tongue?",
+    "a": "The 1979 revolution"
+  },
+  {
+    "q": "How does the article published on March 1, 2026, describe the unprecedented nature of the reporter's action on Iranian state TV?",
+    "a": "A reporter blurted out \"death to Khamenei\" live on air"
+  },
+  {
+    "q": "What was the demographic context of Iran mentioned in the article published on March 1, 2026, regarding its population size during Khamenei's rule?",
+    "a": "A country of more than 90 million people"
+  },
+  {
+    "q": "According to the article published on March 1, 2026, what was the duration of Ayatollah Ali Khamenei's tenure as Supreme Leader?",
+    "a": "Almost 40 years"
+  },
+  {
+    "q": "What political regime was established by the 1979 revolution that was being commemorated in the rallies covered by the reporter?",
+    "a": "Iran's theocratic regime"
+  },
+  {
+    "q": "In the article published on March 1, 2026, who were the perpetrators of the airstrikes that resulted in the death of Ayatollah Ali Khamenei?",
+    "a": "The United States and Israel"
+  },
+  {
+    "q": "What specific consequence did the Iranian state TV reporter face for his on-air error, as detailed in the article published on March 1, 2026?",
+    "a": "He lost his job"
+  },
+  {
+    "q": "According to the article published on March 1, 2026, what did the reporter's slip of the tongue reveal about the public's view of Ayatollah Ali Khamenei?",
+    "a": "It crystallized the extent of his antipathy among the population"
+  },
+  {
+    "q": "What was the specific timing of the airstrikes that killed Ayatollah Ali Khamenei, as referenced in the article published on March 1, 2026?",
+    "a": "On Saturday"
+  }
+]

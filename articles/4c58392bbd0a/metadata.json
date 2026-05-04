@@ -1,0 +1,27 @@
+{
+  "hash": "4c58392bbd0a",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://origin.www.bloomberg.com/news/articles/2026-02-23/honeywell-is-said-to-cut-price-for-johnson-matthey-s-catalyst?srnd=undefined",
+      "title": "Honeywell to Buy Johnson Matthey Catalyst Unit for £1.33 Billion - Bloomberg",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "Liana Baker",
+      "num_tokens": 195,
+      "text_length": 801
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694937",
+      "spike_id": 6,
+      "market_question": "Will BP be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.165,
+      "spike_timestamp_before": "2026-02-22T19:30:17+00:00",
+      "spike_timestamp_after": "2026-02-23T18:00:31+00:00"
+    }
+  ]
+}

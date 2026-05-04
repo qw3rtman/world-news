@@ -1,0 +1,57 @@
+{
+  "hash": "424012adefae",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.thetimes.com/world/middle-east/article/iran-us-israel-dubai-latest-news-attack-live-09r2rh666?gaa_at=eafs&gaa_n=AWEtsqfeBjxx2aXIqP1OaQokcQj4nq-HO0lhBhLL_juVa_AL4HhQbBPx7c4X&gaa_sig=EkvOicX6Ry5AILKLmR5WiWEYjYIVIIo82blOu9moHdu7X_RTm-J5WomuWapWPL0QUudPr_nnWcKSNH4SutYi-g%3D%3D&gaa_ts=69a4c8c3",
+      "title": "Iran latest: Britain to let US use bases to strike Iran",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Larisa Brown | Haroon Janjua | Gabrielle Weiniger | Bruno Waterfield | Steven Swinford | Charlie Moloney | Constance Kampfner | David Chazan | Lara Spirit | Herbie Russell",
+      "num_tokens": 14131,
+      "text_length": 65523
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1472011",
+      "spike_id": 1,
+      "market_question": "Will UK strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.305,
+      "spike_timestamp_before": "2026-03-01T01:30:32+00:00",
+      "spike_timestamp_after": "2026-03-01T04:30:31+00:00"
+    },
+    {
+      "market_id": "1472011",
+      "spike_id": 2,
+      "market_question": "Will UK strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.335,
+      "spike_timestamp_before": "2026-03-01T01:30:32+00:00",
+      "spike_timestamp_after": "2026-03-01T09:30:31+00:00"
+    },
+    {
+      "market_id": "1472011",
+      "spike_id": 3,
+      "market_question": "Will UK strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.3,
+      "spike_timestamp_before": "2026-03-01T09:30:31+00:00",
+      "spike_timestamp_after": "2026-03-01T20:30:32+00:00"
+    },
+    {
+      "market_id": "1472011",
+      "spike_id": 4,
+      "market_question": "Will UK strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.22499999999999998,
+      "spike_timestamp_before": "2026-03-01T20:30:32+00:00",
+      "spike_timestamp_after": "2026-03-02T20:00:34+00:00"
+    }
+  ]
+}

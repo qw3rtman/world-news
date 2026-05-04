@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the January debate between Rep. Jasmine Crockett (D-Texas) and state Rep. James Talarico, which demographic group is predicted to likely decide the outcome of their primary contest?",
+    "a": "Latino voters."
+  },
+  {
+    "q": "On December 19, 2025, whose name was added to the facade of the Kennedy Center, an event that coincided with a growing list of artists backing out of events at the institution?",
+    "a": "President Donald Trump."
+  },
+  {
+    "q": "Which three specific artists—composer Philip Glass, soprano Renée Fleming, and banjoist Béla Fleck—are mentioned as having joined a long list of groups backing out of events at the Kennedy Center?",
+    "a": "Composer Philip Glass, soprano Renée Fleming, and banjoist Béla Fleck."
+  },
+  {
+    "q": "At the 184-year-old Cleveland Plain Dealer, what specific editorial push by a top editor is described as boosting traffic while simultaneously spooking staffers?",
+    "a": "A push to let AI draft news articles."
+  },
+  {
+    "q": "Due to western warmth, how did the meteorological winter of the 2025–2026 season preliminarily rank on the record for the contiguous United States as of late February 2026?",
+    "a": "Second-warmest on record."
+  },
+  {
+    "q": "In late February 2026, which U.S. state was predicted to receive more snow on Sunday following a blizzard that made a specific sculpture possible?",
+    "a": "New York."
+  },
+  {
+    "q": "Which national park is reported to be dropping its reservation systems, thereby raising concerns about overcrowding and prompting strategies for a more relaxed summer vacation?",
+    "a": "Yosemite National Park."
+  },
+  {
+    "q": "If Democrats take control of the chamber after the 2026 midterm elections, what specific action are they planning to take regarding President Donald Trump?",
+    "a": "Summon him to testify."
+  },
+  {
+    "q": "Following the 2026 midterm elections, what additional legislative action are Democrats planning to launch against the administration if they gain control of the chamber?",
+    "a": "An array of probes of the administration."
+  },
+  {
+    "q": "At a White House event for Black History Month in February 2026, what historical milestone did President Donald Trump’s views on race and progress microcosmically reflect?",
+    "a": "The centennial of what became Black History Month."
+  },
+  {
+    "q": "Which two representatives, Robert Garcia (D-California) and James Comer (R-Kentucky), are pictured together in the context of the political stakes surrounding the 2026 midterm elections?",
+    "a": "Reps. Robert Garcia and James Comer."
+  },
+  {
+    "q": "What two factors are identified as heightening the political stakes of military action in the context of the 2026 midterm elections?",
+    "a": "The midterm elections and a growing battle over the party’s post-Trump identity."
+  },
+  {
+    "q": "Rep. Jasmine Crockett and state Rep. James Talarico are described as stylistic opposites in a primary contest that is expected to be influenced by Latino voters in which state?",
+    "a": "Texas."
+  },
+  {
+    "q": "Which cultural institution saw a long list of groups and artists back out of events, including the addition of President Donald Trump’s name to its facade in December 2025?",
+    "a": "The Kennedy Center."
+  },
+  {
+    "q": "In the 2026 political landscape, which newspaper’s 184-year history is noted alongside a top editor’s controversial decision to use AI for drafting news articles?",
+    "a": "The Cleveland Plain Dealer."
+  },
+  {
+    "q": "What was the preliminary ranking of the meteorological winter ending in early 2026 for the contiguous United States, attributed to western warmth?",
+    "a": "Second-warmest on record."
+  },
+  {
+    "q": "Which state was expected to get more snow on a Sunday in late February 2026, following a blizzard that enabled the creation of a notable sculpture?",
+    "a": "New York."
+  },
+  {
+    "q": "Which national park is dropping reservation systems in 2026, leading to concerns about overcrowding and prompting new vacation strategies?",
+    "a": "Yosemite National Park."
+  },
+  {
+    "q": "If Democrats win the chamber after the 2026 midterms, what specific target of their planned probes is the administration of which President?",
+    "a": "President Donald Trump."
+  },
+  {
+    "q": "The centennial of what became Black History Month was marked in February 2026, offering a microcosm of President Donald Trump’s views on race and progress.",
+    "a": "Black History Month."
+  },
+  {
+    "q": "Which two rising stars, Rep. Jasmine Crockett and state Rep. James Talarico, are facing a primary contest where Latino voters are predicted to be decisive?",
+    "a": "Rep. Jasmine Crockett and state Rep. James Talarico."
+  },
+  {
+    "q": "Which composer, soprano, and banjoist are explicitly named as having backed out of events at the Kennedy Center, joining a long list of artists who did the same?",
+    "a": "Composer Philip Glass, soprano Renée Fleming, and banjoist Béla Fleck."
+  },
+  {
+    "q": "At the Cleveland Plain Dealer, what specific technological implementation by a top editor is boosting traffic but spooking staffers?",
+    "a": "Letting AI draft news articles."
+  },
+  {
+    "q": "What was the preliminary rank of the 2025–2026 meteorological winter for the contiguous United States, a result of western warmth?",
+    "a": "Second-warmest on record."
+  },
+  {
+    "q": "In late February 2026, which state was predicted to receive more snow on Sunday after a blizzard that made a sculpture possible?",
+    "a": "New York."
+  }
+]

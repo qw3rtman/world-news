@@ -1,0 +1,65 @@
+{
+  "spike_index": 4,
+  "direction": "up",
+  "price_before": 0.1,
+  "price_after": 0.275,
+  "delta": 0.17500000000000002,
+  "abs_delta": 0.17500000000000002,
+  "timestamp_before": "2026-03-01T04:00:31+00:00",
+  "timestamp_after": "2026-03-01T19:00:28+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.pbs.org/newshour/world/what-to-know-about-the-joint-u-s-israeli-attacks-on-iran",
+      "file": "1a79c4f0b8fc.txt",
+      "title": "What to know about the joint U.S.-Israeli attacks on Iran | PBS News",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 7319,
+      "status": "ok",
+      "num_tokens": 1441
+    },
+    {
+      "url": "https://www.pbs.org/newshour/world/live-updates-u-s-israel-conflict-with-iran-widens",
+      "file": "c9f7cc96f30e.txt",
+      "title": "Live Updates: U.S.-Israel conflict with Iran widens | PBS News",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 67020,
+      "status": "ok",
+      "num_tokens": 13637
+    },
+    {
+      "url": "https://www.al-monitor.com/originals/2026/03/israel-says-creating-buffer-zone-lebanon-troops-seize-new-positions",
+      "file": "fead5179f5dd.txt",
+      "title": "Israel says creating buffer zone in Lebanon, troops seize new positions - AL-Monitor: The Middle East\u02bcs leading independent news source since 2012",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 4862,
+      "status": "ok",
+      "num_tokens": 921
+    },
+    {
+      "url": "https://www.foxnews.com/live-news/israel-us-continue-strikes-iran-after-khamenei-death",
+      "file": "a5062acf8d50.txt",
+      "title": "Israel expands offensive with new wave of coordinated strikes in Iran and Lebanon | Live Updates from Fox News Digital",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Posted by Landon Mion",
+      "text_length": 1085,
+      "status": "ok",
+      "num_tokens": 212
+    },
+    {
+      "url": "https://canary.haaretz.com/middle-east-news/iran/2026-03-01/ty-article/.premium/israeli-army-officials-urge-a-prolonged-offensive-to-weaken-irans-capabilities/0000019c-aaa0-d513-ab9e-eee96db20000",
+      "file": "d0be1b5991d5.txt",
+      "title": "Israeli Army Officials Urge a Prolonged Offensive to Weaken Iran's Capabilities - Iran News",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Yaniv Kubovich",
+      "text_length": 316,
+      "status": "ok",
+      "num_tokens": 68
+    }
+  ],
+  "total_tokens": 16279
+}

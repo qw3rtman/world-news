@@ -1,0 +1,65 @@
+{
+  "spike_index": 1,
+  "direction": "up",
+  "price_before": 0.185,
+  "price_after": 0.335,
+  "delta": 0.15000000000000002,
+  "abs_delta": 0.15000000000000002,
+  "timestamp_before": "2026-02-27T08:00:25+00:00",
+  "timestamp_after": "2026-02-27T18:30:24+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.aljazeera.com/amp/news/2026/2/27/ukraine-claws-back-southern-territory-as-russias-war-enters-fifth-year",
+      "file": "ac81fcc76fdf.txt",
+      "title": "Ukraine claws back southern territory as Russia\u2019s war enters fifth year | Russia-Ukraine war News | Al Jazeera",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": "John T Psaropoulos",
+      "text_length": 6007,
+      "status": "ok",
+      "num_tokens": 1264
+    },
+    {
+      "url": "http://www.aljazeera.com/news/2026/2/26/us-ukraine-to-meet-in-geneva-as-russia-attacks-kyiv-with-missiles-drones",
+      "file": "2b047f984a82.txt",
+      "title": "Ukraine\u2019s Zelenskyy says next Russia talks likely in Abu Dhabi next month | Russia-Ukraine war News | Al Jazeera",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": "Al Jazeera Staff",
+      "text_length": 6504,
+      "status": "ok",
+      "num_tokens": 1311
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-02-28/russia-weighs-halt-to-peace-talks-unless-ukraine-cedes-territory",
+      "file": "e1bc8a95d076.txt",
+      "title": "Russia Weighs Halt to Peace Talks Unless Ukraine Cedes Land - Bloomberg",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 933,
+      "status": "ok",
+      "num_tokens": 207
+    },
+    {
+      "url": "https://www.foreignaffairs.com/russia/ukraine-losing-war?utm=",
+      "file": "7383b97b9314.txt",
+      "title": "Ukraine Is Losing the War | Foreign Affairs",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": null,
+      "text_length": 18965,
+      "status": "ok",
+      "num_tokens": 3721
+    },
+    {
+      "url": "https://origin.www.bloomberg.com/news/articles/2026-02-27/how-russia-ukraine-peace-talks-are-at-impasse-over-donbas-and-other-territory?srnd=undefined",
+      "file": "90ef97c51a6f.txt",
+      "title": "How Russia-Ukraine Peace Talks Are at Impasse Over Donbas and Other Territory - Bloomberg",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": "Aliaksandr Kudrytski",
+      "text_length": 883,
+      "status": "ok",
+      "num_tokens": 205
+    }
+  ],
+  "total_tokens": 6708
+}

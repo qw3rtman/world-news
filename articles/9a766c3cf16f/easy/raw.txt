@@ -1,0 +1,107 @@
+[
+  {
+    "q": "On what date did the U.S. Transportation Department approve American Airlines' request to operate flights to Venezuela, and which two Venezuelan cities were included in this approval?",
+    "a": "The approval occurred on March 4, 2026, for flights to Caracas and Maracaibo."
+  },
+  {
+    "q": "Which specific regional carrier, wholly owned by American Airlines, will operate the approved flights to Venezuela, and from which U.S. city will these flights depart?",
+    "a": "Envoy will operate the flights, departing from Miami."
+  },
+  {
+    "q": "Who is the U.S. Transportation Secretary who rescinded the 2019 order barring U.S. airlines from flying to Venezuela, and in which month did this rescission occur?",
+    "a": "U.S. Transportation Secretary Sean Duffy rescinded the order in January 2026."
+  },
+  {
+    {
+    "q": "For how long is the U.S. Transportation Department's order approving American Airlines' flights to Venezuela valid?",
+    "a": "The order is valid for two years."
+  },
+  {
+    "q": "In which year did American Airlines originally suspend its service to Venezuela, and what was the primary reason cited for this suspension?",
+    "a": "American Airlines suspended service in 2019 due to a U.S. ban."
+  },
+  {
+    "q": "Which U.S. agency visited Caracas last week prior to March 4, 2026, to review airport security procedures, and why was this step necessary?",
+    "a": "The U.S. Transportation Security Administration visited to review security procedures, a step needed to resume flights."
+  },
+  {
+    "q": "Who is the acting President of Venezuela who discussed lifting flight restrictions with President Donald Trump in January 2026?",
+    "a": "The acting President of Venezuela is Delcy Rodríguez."
+  },
+  {
+    "q": "What significant military event involving Venezuelan leader Nicolas Maduro occurred shortly before American Airlines announced its plans to resume service?",
+    "a": "The U.S. military seized the country’s leader, Nicolas Maduro."
+  },
+  {
+    "q": "In which month did the U.S. State Department add Venezuela to its 'Do Not Travel' list for Americans, and had this designation been removed by March 4, 2026?",
+    "a": "Venezuela was added to the list in December, and the designation had not been removed by March 4, 2026."
+  },
+  {
+    "q": "Since what year had American Airlines been operating in Venezuela before suspending service in 2019?",
+    "a": "American Airlines started operating in Venezuela in 1987."
+  },
+  {
+    "q": "What is the planned frequency of American Airlines' flights to Venezuela, and what types of travel do these flights aim to facilitate?",
+    "a": "The planned daily flights aim to facilitate business, leisure, and humanitarian travel."
+  },
+  {
+    "q": "What was American Airlines' status in Venezuela before it suspended service in 2019?",
+    "a": "It was the largest U.S. airline in Venezuela before the suspension."
+  },
+  {
+    "q": "Which U.S. President directed Transportation Secretary Sean Duffy to rescind the 2019 order barring flights to Venezuela?",
+    "a": "President Donald Trump directed the rescission."
+  },
+  {
+    "q": "How many years had passed since American Airlines last operated flights to Venezuela before the March 4, 2026 approval?",
+    "a": "More than six years had passed since the last flights."
+  },
+  {
+    "q": "What specific concern did the U.S. State Department raise regarding Venezuela in its travel advisory, and when was this advisory issued?",
+    "a": "The State Department added Venezuela to its 'Do Not Travel' list in December due to safety concerns."
+  },
+  {
+    "q": "Which organization reported that the U.S. Transportation Security Administration was in Caracas to review airport security procedures?",
+    "a": "Reuters reported that the U.S. Transportation Security Administration was in Caracas."
+  },
+  {
+    "q": "What is the ticker symbol for American Airlines as referenced in the U.S. Transportation Department's announcement?",
+    "a": "The ticker symbol is AAL.O."
+  },
+  {
+    "q": "Who is the Reuters reporter who covered the U.S. Transportation Department's approval of American Airlines' flights to Venezuela?",
+    "a": "The reporter is David Shepardson."
+  },
+  {
+    "q": "What was the original purpose of the 2019 order issued by the U.S. Transportation Department that was rescinded in January 2026?",
+    "a": "The 2019 order barred U.S. airlines from flying to Venezuela."
+  },
+  {
+    "q": "Did American Airlines provide an immediate comment regarding the resumption of services to Venezuela on March 4, 2026?",
+    "a": "No, the company did not immediately respond to a request for comment."
+  },
+  {
+    "q": "What type of military operations near Venezuela raised concerns about aircraft safety according to the article?",
+    "a": "Military operations near Venezuela raised serious concerns about the safety of aircraft operations."
+  },
+  {
+    "q": "Which two Venezuelan cities were specifically mentioned as destinations for the approved American Airlines flights?",
+    "a": "The approved flights were to Caracas and Maracaibo."
+  },
+  {
+    "q": "What was the duration of the ban on U.S. airline flights to Venezuela before it was lifted in January 2026?",
+    "a": "The ban was in place from 2019 until January 2026."
+  },
+  {
+    "q": "Who is the U.S. Transportation Secretary responsible for lifting the flight restrictions to Venezuela in January 2026?",
+    "a": "U.S. Transportation Secretary Sean Duffy lifted the restrictions."
+  },
+  {
+    "q": "What is the name of the acting President of Venezuela who spoke with President Donald Trump about lifting flight bans?",
+    "a": "The acting President of Venezuela is Delcy Rodríguez."
+  },
+  {
+    "q": "What was the status of the U.S. State Department's 'Do Not Travel' advisory for Venezuela as of March 4, 2026?",
+    "a": "Venezuela remained on the 'Do Not Travel' list."
+  }
+]

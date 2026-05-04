@@ -1,0 +1,47 @@
+{
+  "hash": "524c7dfbd6ab",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://www.foxnews.com/opinion/america-strikes-iran-again-has-washington-planned-what-comes-next.print",
+      "title": "America strikes Iran again — has Washington planned for what comes next?",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1103,
+      "text_length": 5808
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1422367",
+      "spike_id": 6,
+      "market_question": "Will the US strike Iran next?",
+      "event_title": "Next Country US Strikes",
+      "spike_direction": "up",
+      "spike_delta": 0.385,
+      "spike_timestamp_before": "2026-02-27T07:00:24+00:00",
+      "spike_timestamp_after": "2026-02-28T00:30:26+00:00"
+    },
+    {
+      "market_id": "1422367",
+      "spike_id": 7,
+      "market_question": "Will the US strike Iran next?",
+      "event_title": "Next Country US Strikes",
+      "spike_direction": "down",
+      "spike_delta": -0.9505,
+      "spike_timestamp_before": "2026-02-28T08:00:36+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:49+00:00"
+    },
+    {
+      "market_id": "1422367",
+      "spike_id": 8,
+      "market_question": "Will the US strike Iran next?",
+      "event_title": "Next Country US Strikes",
+      "spike_direction": "down",
+      "spike_delta": -0.9545,
+      "spike_timestamp_before": "2026-02-28T08:00:36+00:00",
+      "spike_timestamp_after": "2026-02-28T11:30:27+00:00"
+    }
+  ]
+}

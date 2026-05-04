@@ -1,0 +1,25 @@
+{
+  "market_id": "665374",
+  "question": "Will the U.S. invade Iran before 2027?",
+  "slug": "will-the-us-invade-iran-before-2027",
+  "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027",
+  "description": "This market will resolve to \"Yes\" if the United States commences a military offensive intended to establish control over any portion of Iran by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nFor the purposes of this market, land de facto controlled by Iran or the United States as of November 4, 2025 12:00 PM ET, will be considered the sovereign territory of that country.\n\nThe resolution source for this market will be a consensus of credible sources.",
+  "event_title": "Will the U.S. invade Iran before 2027?",
+  "event_tags": [
+    "Geopolitics",
+    "Politics",
+    "Middle East",
+    "Israel",
+    "Iran",
+    "Trump",
+    "World",
+    "Military Strikes"
+  ],
+  "volume_total": 1003019.4063070011,
+  "created_at": "2025-11-04T19:52:57.799278Z",
+  "end_date": "2026-12-31T00:00:00Z",
+  "num_spikes": 1,
+  "max_spike": 0.18,
+  "total_tokens": 10888,
+  "total_articles": 5
+}

@@ -1,0 +1,27 @@
+{
+  "hash": "7ecb7b0bf794",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.npr.org/2026/03/01/g-s1-112094/iran-war-trump-israel-attack-photos-bahrain",
+      "title": "Photos: Reactions from Iran, Israel, Bahrain after strikes : NPR",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "By                  \n   \n       \n      Nickolai Hammar",
+      "num_tokens": 865,
+      "text_length": 3608
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1399042",
+      "spike_id": 2,
+      "market_question": "US strikes Iran by March 1, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.9185000000000001,
+      "spike_timestamp_before": "2026-02-27T08:30:19+00:00",
+      "spike_timestamp_after": "2026-02-28T08:00:33+00:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "hash": "fc672a304b90",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://today.reuters.com/world/middle-east/us-iran-nuclear-talks-resume-geneva-against-backdrop-military-threat-2026-02-26/",
+      "title": "US-Iran talks end with no deal but potential signs of progress | Reuters",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": "Parisa Hafezi",
+      "num_tokens": 1088,
+      "text_length": 5482
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1402792",
+      "spike_id": 2,
+      "market_question": "US-Iran nuclear deal by March 31?",
+      "event_title": "US-Iran nuclear deal by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.175,
+      "spike_timestamp_before": "2026-02-28T07:30:31+00:00",
+      "spike_timestamp_after": "2026-03-01T03:30:36+00:00"
+    },
+    {
+      "market_id": "1466016",
+      "spike_id": 1,
+      "market_question": "US x Iran ceasefire by April 30?",
+      "event_title": "US x Iran ceasefire by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.20500000000000007,
+      "spike_timestamp_before": "2026-02-28T22:00:39+00:00",
+      "spike_timestamp_after": "2026-03-01T21:30:53+00:00"
+    }
+  ]
+}

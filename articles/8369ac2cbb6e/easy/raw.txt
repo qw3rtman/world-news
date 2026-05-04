@@ -1,0 +1,106 @@
+[
+  {
+    "q": "Which three European nations announced the deployment of air-defence forces to Cyprus in early March 2026 following a drone strike on the Royal Air Force Akrotiri base?",
+    "a": "Britain, France, and Greece."
+  },
+  {
+    "q": "What specific type of drone did senior Cypriot officials identify as having struck the runway of the British Royal Air Force Akrotiri base on Tuesday, March 3, 2026?",
+    "a": "An Iranian-made Shahed drone."
+  },
+  {
+    "q": "From which country and which organization were the drones that struck the Royal Air Force Akrotiri base most likely launched, according to senior Cypriot officials?",
+    "a": "They were most likely launched by Iran-backed Hezbollah from Lebanon."
+  },
+  {
+    "q": "Which French frigate did President Emmanuel Macron confirm would be sent to Cyprus as part of France's air-defence reinforcement plan communicated on Tuesday, March 3, 2026?",
+    "a": "The French frigate Languedoc."
+  },
+  {
+    "q": "Which British Type 45 destroyer was deployed to the Eastern Mediterranean to strengthen defences at the Royal Air Force Akrotiri base in March 2026?",
+    "a": "HMS Dragon."
+  },
+  {
+    "q": "What missile system is fitted to the British destroyer HMS Dragon to help detect and destroy aerial threats, including drones?",
+    "a": "The Sea Viper missile system."
+  },
+  {
+    "q": "Which two types of British helicopters, armed with Martlet missiles, were deployed to Cyprus alongside HMS Dragon in March 2026?",
+    "a": "Two Wildcat helicopters."
+  },
+  {
+    "q": "How many F-16 fighter jets did Greece send to assist in the defence of Cyprus in March 2026?",
+    "a": "Four F-16 fighter jets."
+  },
+  {
+    "q": "What specific anti-drone jamming system, previously used against Houthi attacks off Yemen, was carried on one of the Greek frigates sent to Cyprus?",
+    "a": "The Centauros anti-drone jamming system."
+  },
+  {
+    "q": "Which Greek Defence Minister visited Nicosia in March 2026 to state that Greece would continue to assist in the defence of the Republic of Cyprus?",
+    "a": "Nikos Dendias."
+  },
+  {
+    "q": "Which British Prime Minister stated on the social media platform X that London was 'fully committed to the security of Cyprus' in March 2026?",
+    "a": "Keir Starmer."
+  },
+  {
+    "q": "Who is the President of Cyprus who received communication from France regarding the deployment of anti-missile and anti-drone systems in early March 2026?",
+    "a": "Nikos Christodoulides."
+  },
+  {
+    "q": "What air-defence system has Cyprus been purchasing in recent years to modernize its modest defence capabilities, which include no air force?",
+    "a": "The Barak MX air-defence system."
+  },
+  {
+    "q": "Which British jets engaged Iranian drones over Jordan for the first time in the 24 hours preceding the March 3, 2026, deployment to Cyprus?",
+    "a": "RAF F-35B jets."
+  },
+  {
+    "q": "Why did hundreds of Cypriots evacuate their homes following the drone strike on the Royal Air Force Akrotiri base in March 2026?",
+    "a": "Because the base is close to populated areas inhabited by Cypriots."
+  },
+  {
+    "q": "How many drones were intercepted in addition to the Shahed drone that hit the runway of the Royal Air Force Akrotiri base?",
+    "a": "Two other drones were intercepted."
+  },
+  {
+    "q": "What capability does the Centauros system possess regarding low-flying drones, as described in the context of Greece's contribution to Cyprus's defence in March 2026?",
+    "a": "It can detect and incapacitate low-flying drones, even those hugging terrain or skimming the sea surface."
+  },
+  {
+    "q": "Which European Union member state was unexpectedly pulled into regional turmoil following U.S. and Israeli strikes on Iran in March 2026?",
+    "a": "Cyprus."
+  },
+  {
+    "q": "What did the British Ministry of Defence state was the purpose of deploying HMS Dragon and other assets to the Eastern Mediterranean in March 2026?",
+    "a": "To strengthen defences and enhance the ability to detect, track, and destroy aerial threats, including drones."
+  },
+  {
+    "q": "Which Cypriot government spokesperson communicated France's plan to send anti-missile and anti-drone systems to the island?",
+    "a": "Konstantinos Letymbiotis."
+  },
+  {
+    "q": "According to French armed forces statements in March 2026, under what framework were they acting in coordination with regional partners?",
+    "a": "Under existing defence agreements."
+  },
+  {
+    "q": "Which two Greek frigates were sent to Cyprus, one of which carried the Centauros anti-drone jamming system?",
+    "a": "Two frigates, including one carrying the Centauros system."
+  },
+  {
+    "q": "What did British Prime Minister Keir Starmer say he had done with Cypriot President Nikos Christodoulides regarding the security deployment in March 2026?",
+    "a": "He had spoken with him about the move."
+  },
+  {
+    "q": "Which British base on the island of Cyprus was struck by a drone, prompting the military response from European allies in March 2026?",
+    "a": "The Royal Air Force Akrotiri base."
+  },
+  {
+    "q": "What method did the Shahed drone use to evade radar before striking the Royal Air Force Akrotiri base runway?",
+    "a": "It flew at low altitude."
+  },
+  {
+    "q": "Which reporter covered the story for Reuters from Nicosia in the March 3, 2026, article about the air-defence deployment?",
+    "a": "Michele Kambas."
+  }
+]

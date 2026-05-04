@@ -1,0 +1,102 @@
+[
+  {
+    "q": "According to Praveen Singh, Head Currencies and Commodities at Mirae Asset ShareKhan, which commodity's price movements are dictating the moves in gold and most other commodities as of March 17, 2026?",
+    "a": "Crude oil prices."
+  },
+  {
+    "q": "What was the percentage loss for gold prices on March 13, 2026, and what was the closing price in US dollars on that date?",
+    "a": "Gold closed with a loss of 1.2% at $5019.",
+  },
+  {
+    "q": "On which date did the US Dollar Index peek above the crucial 100-mark for the first time since November 25, 2025, contributing to gold's weekly loss?",
+    "a": "The article states this occurred around March 13, 2026, leading to a weekly loss of around 3% for gold.",
+  },
+  {
+    "q": "What was the price of spot gold and the percentage daily change on March 16, 2026, at the time of writing?",
+    "a": "Spot gold was changing hands at $4995, down nearly 0.5% for the day.",
+  },
+  {
+    "q": "Which UAE oil-export terminal suspended loadings temporarily after Iran struck new targets across the Persian Gulf in the conflict ongoing in March 2026?",
+    "a": "The Fujairah oil-export terminal.",
+  },
+  {
+    "q": "How many million barrels of oil does the US intend to release as part of the IEA’s coordinated plan in response to the Middle East war in March 2026?",
+    "a": "The US intends to release 170 million barrels.",
+  },
+  {
+    "q": "What was the total known global ETF holdings for gold as of February 13, 2026, and how much had it increased year-to-date?",
+    "a": "Total holdings stood at 99.73 MOz, up by around 0.78 MOz YTD.",
+  },
+  {
+    "q": "By what percentage did registered COMEX gold inventory fall from its record peak of 24.25 MOz seen in April 2025, and to what level did it fall by March 2026?",
+    "a": "It fell by over 31% to 16.69 MOz.",
+  },
+  {
+    "q": "What was the value of the Empire Manufacturing Index in March 2026, and how did it compare to the February 2026 reading?",
+    "a": "It fell to -0.2 in March from 7.1 in February.",
+  },
+  {
+    "q": "What was the annualized Q4 GDP figure released by the US in late February 2026, and how did it compare to the forecast?",
+    "a": "It came in at 0.7%, below the forecast of 1.4%.",
+  },
+  {
+    "q": "What was the closing value of the US Dollar Index on Friday, March 13, 2026, and what was its weekly gain percentage?",
+    "a": "It closed at 100.36, posting a weekly gain of around 1.36%.",
+  },
+  {
+    "q": "What was the yield on two-year US Treasury notes as of mid-March 2026, and when was the last time it was at this level?",
+    "a": "Two-year US yields were at 3.73%, the highest since August 2022.",
+  },
+  {
+    "q": "How many Fed rate cuts do investors now expect for the year 2026 following the surge in oil prices and inflationary concerns, as of March 2026?",
+    "a": "Investors look for slightly more than one Fed rate cut this year.",
+  },
+  {
+    "q": "By how many net-long positions did money managers increase their bullish gold bets in the week ending March 10, 2026?",
+    "a": "They increased their bullish gold bets by 1,381 net-long positions.",
+  },
+  {
+    "q": "What was the total number of long-only positions held by money managers in the week ending March 10, 2026?",
+    "a": "Long-only positions rose to 126,132 lots.",
+  },
+  {
+    "q": "To what amount did India's trade deficit narrow in February 2026, and what was the primary driver for this change?",
+    "a": "It narrowed to $27.1 billion, driven by a pullback in gold imports.",
+  },
+  {
+    "q": "What was the value of gold and silver imports into India in February 2026, and how did it compare to January 2026?",
+    "a": "Imports fell to $9.1 billion from $14.1 billion in January.",
+  },
+  {
+    "q": "At what rate is the US Federal Open Market Committee (FOMC) expected to keep the overnight Fed Fund rate unchanged during its March 18, 2026 decision?",
+    "a": "The rate is expected to remain unchanged at 3.50-3.75%.",
+  },
+  {
+    "q": "What benchmark rate is the Bank of Japan expected to keep unchanged in its monetary policy decision on March 19, 2026?",
+    "a": "The Bank of Japan is expected to keep the benchmark rate unchanged at 0.75%.",
+  },
+  {
+    "q": "What key US economic data release is scheduled for March 18, 2026, according to the upcoming data section?",
+    "a": "The Feb. PPI (Producer Price Index) is scheduled for release.",
+  },
+  {
+    "q": "What support level is gold expected to test if the US Dollar Index rises further on reduced rate cut probability, as of March 2026?",
+    "a": "Gold may test support at $4840.",
+  },
+  {
+    "q": "What are the resistance levels for gold prices identified in the outlook as of March 17, 2026?",
+    "a": "Resistance is at $5250/$5450.",
+  },
+  {
+    "q": "Which central bank officials expressed the opinion that their bank may be forced to hike rates sooner than expected due to inflation risks from the Middle East war in March 2026?",
+    "a": "Some of the ECB (European Central Bank) officials.",
+  },
+  {
+    "q": "What was the value of net inflows into ETFs for precious metals in India in February 2026, and how did it compare to January 2026?",
+    "a": "Net inflows dropped to 44.3 billion rupees from 335.0 billion rupees in January.",
+  },
+  {
+    "q": "What was the January Core PCE price index year-over-year rise, and how did it compare to the forecast in the late February 2026 data release?",
+    "a": "The Index rose 3.1% y-o-y, matching the forecast of 3.1%."
+  }
+]

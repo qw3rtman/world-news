@@ -1,0 +1,65 @@
+{
+  "spike_index": 26,
+  "direction": "up",
+  "price_before": 0.52,
+  "price_after": 0.835,
+  "delta": 0.31499999999999995,
+  "abs_delta": 0.31499999999999995,
+  "timestamp_before": "2026-03-15T14:00:29+00:00",
+  "timestamp_after": "2026-03-16T11:00:24+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://thetimes.com/world/middle-east/article/israel-lebanon-ground-operation-hezbollah-h8ct0d939",
+      "file": "3344b90bdeaf.txt",
+      "title": "IDF prepares for Lebanon offensive: \u2018We don\u2019t know how this ends\u2019",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "Tom Ball, Hula Valley, Israel",
+      "text_length": 278,
+      "status": "ok",
+      "num_tokens": 65
+    },
+    {
+      "url": "https://canary.haaretz.com/israel-news/2026-03-16/ty-article/.premium/idf-says-its-expanding-ground-operations-in-lebanon/0000019c-f586-df33-a99d-f5d6e2670000",
+      "file": "ba3b26e31684.txt",
+      "title": "IDF Says It's Expanding Ground Offensive Against Hezbollah in Lebanon - Israel News",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "Yaniv Kubovich",
+      "text_length": 235,
+      "status": "ok",
+      "num_tokens": 40
+    },
+    {
+      "url": "https://haaretz.com/israel-news/israel-security/2026-03-16/ty-article/.premium/idf-lebanon-offensive-will-defend-border-not-stop-hezbollah-rocket-attacks/0000019c-f865-df16-a3dc-fef56fbb0000",
+      "file": "72132264e012.txt",
+      "title": "IDF Officials Say Lebanon Ground Operation Focused on Border Defense, Not Halting Hezbollah Rocket Fire - Israel Security",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "Yaniv Kubovich",
+      "text_length": 269,
+      "status": "ok",
+      "num_tokens": 59
+    },
+    {
+      "url": "http://in.mobile.reuters.com/world/middle-east/canada-france-germany-uk-warn-against-major-israeli-ground-offensive-lebanon-2026-03-16/",
+      "file": "ae5842013804.txt",
+      "title": "Canada, France, Germany, UK warn against major Israeli ground offensive in Lebanon | Reuters",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "Kanishka Singh",
+      "text_length": 1619,
+      "status": "ok",
+      "num_tokens": 334
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/13/middleeast/israel-strikes-hezbollah-lebanon-intl-cmd",
+      "file": "3817cd8dce9f.txt",
+      "title": "The war that never ended: Israel seizes moment to finish fight against Hezbollah, Iran\u2019s proxy in Lebanon | CNN",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": "Tal Shalev",
+      "text_length": 8958,
+      "status": "ok",
+      "num_tokens": 1713
+    }
+  ],
+  "total_tokens": 2211
+}

@@ -1,0 +1,167 @@
+{
+  "hash": "2322b3ae8367",
+  "n_appearances": 15,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://thehill.com/policy/defense/5760747-trump-iran-regime-change/",
+      "title": "Five takeaways as Trump wages war on Iran",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1977,
+      "text_length": 9690
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1162940",
+      "spike_id": 4,
+      "market_question": "US forces enter Iran by March 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.25,
+      "spike_timestamp_before": "2026-03-01T01:30:26+00:00",
+      "spike_timestamp_after": "2026-03-01T11:30:38+00:00"
+    },
+    {
+      "market_id": "1198523",
+      "spike_id": 1,
+      "market_question": "Will US or Israel strike Iran by March 31, 2026?",
+      "event_title": "US/Israel strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.17999999999999994,
+      "spike_timestamp_before": "2026-02-26T20:30:29+00:00",
+      "spike_timestamp_after": "2026-02-27T14:30:27+00:00"
+    },
+    {
+      "market_id": "1198523",
+      "spike_id": 2,
+      "market_question": "Will US or Israel strike Iran by March 31, 2026?",
+      "event_title": "US/Israel strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.16999999999999993,
+      "spike_timestamp_before": "2026-02-26T23:30:25+00:00",
+      "spike_timestamp_after": "2026-02-27T23:00:33+00:00"
+    },
+    {
+      "market_id": "1394299",
+      "spike_id": 10,
+      "market_question": "US forces enter Iran by December 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.39499999999999996,
+      "spike_timestamp_before": "2026-03-01T02:30:25+00:00",
+      "spike_timestamp_after": "2026-03-01T17:00:24+00:00"
+    },
+    {
+      "market_id": "1394299",
+      "spike_id": 11,
+      "market_question": "US forces enter Iran by December 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "up",
+      "spike_delta": 0.22500000000000003,
+      "spike_timestamp_before": "2026-03-01T18:00:27+00:00",
+      "spike_timestamp_after": "2026-03-02T17:00:43+00:00"
+    },
+    {
+      "market_id": "1394299",
+      "spike_id": 12,
+      "market_question": "US forces enter Iran by December 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.18000000000000005,
+      "spike_timestamp_before": "2026-03-02T17:00:43+00:00",
+      "spike_timestamp_after": "2026-03-02T21:00:26+00:00"
+    },
+    {
+      "market_id": "1394299",
+      "spike_id": 8,
+      "market_question": "US forces enter Iran by December 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "up",
+      "spike_delta": 0.33499999999999996,
+      "spike_timestamp_before": "2026-02-28T10:00:29+00:00",
+      "spike_timestamp_after": "2026-03-01T02:30:25+00:00"
+    },
+    {
+      "market_id": "1394299",
+      "spike_id": 9,
+      "market_question": "US forces enter Iran by December 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.375,
+      "spike_timestamp_before": "2026-03-01T02:30:25+00:00",
+      "spike_timestamp_after": "2026-03-01T11:30:37+00:00"
+    },
+    {
+      "market_id": "1394368",
+      "spike_id": 1,
+      "market_question": "Will the U.S. invade Iran by March 31?",
+      "event_title": "Will the U.S. invade Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.17,
+      "spike_timestamp_before": "2026-02-27T12:00:50+00:00",
+      "spike_timestamp_after": "2026-02-28T11:30:28+00:00"
+    },
+    {
+      "market_id": "1394368",
+      "spike_id": 2,
+      "market_question": "Will the U.S. invade Iran by March 31?",
+      "event_title": "Will the U.S. invade Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.16,
+      "spike_timestamp_before": "2026-02-28T11:30:28+00:00",
+      "spike_timestamp_after": "2026-02-28T23:00:27+00:00"
+    },
+    {
+      "market_id": "1472017",
+      "spike_id": 1,
+      "market_question": "Will Qatar strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.455,
+      "spike_timestamp_before": "2026-03-01T01:30:29+00:00",
+      "spike_timestamp_after": "2026-03-01T03:30:32+00:00"
+    },
+    {
+      "market_id": "1472017",
+      "spike_id": 2,
+      "market_question": "Will Qatar strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.25,
+      "spike_timestamp_before": "2026-03-01T03:30:32+00:00",
+      "spike_timestamp_after": "2026-03-01T20:00:30+00:00"
+    },
+    {
+      "market_id": "984441",
+      "spike_id": 1,
+      "market_question": "US strikes Iran by March 31, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.15500000000000003,
+      "spike_timestamp_before": "2026-02-26T21:30:27+00:00",
+      "spike_timestamp_after": "2026-02-27T13:00:29+00:00"
+    },
+    {
+      "market_id": "984441",
+      "spike_id": 2,
+      "market_question": "US strikes Iran by March 31, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.16000000000000003,
+      "spike_timestamp_before": "2026-02-26T21:30:27+00:00",
+      "spike_timestamp_after": "2026-02-27T15:00:33+00:00"
+    },
+    {
+      "market_id": "984441",
+      "spike_id": 3,
+      "market_question": "US strikes Iran by March 31, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.15499999999999992,
+      "spike_timestamp_before": "2026-02-26T23:00:26+00:00",
+      "spike_timestamp_after": "2026-02-27T22:30:30+00:00"
+    }
+  ]
+}

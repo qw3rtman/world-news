@@ -1,0 +1,102 @@
+[
+  {
+    "q": "During their first telephone call of 2026, which three specific geopolitical or economic topics did U.S. President Donald Trump and Russian President Vladimir Putin discuss?",
+    "a": "Russian ideas for ending the conflict in Iran, the military situation in Ukraine, and the impact of events in Venezuela on the global oil market."
+  },
+  {
+    "q": "What specific condition did U.S. President Donald Trump state was necessary for Russian President Vladimir Putin to be \"more helpful\" regarding the conflict in Iran?",
+    "a": "Putin needed to get the Ukraine-Russia war over with."
+  },
+  {
+    "q": "Which two major stock market regions staged a recovery on Tuesday after the oil price surge triggered by the U.S.-Israeli war on Iran?",
+    "a": "Asian and European share prices."
+  },
+  {
+    "q": "Where did U.S. President Donald Trump hold a press conference on Monday, March 10, 2026, where he commented on his call with Russian President Vladimir Putin?",
+    "a": "At his Florida golf club."
+  },
+  {
+    "q": "According to Russian President Vladimir Putin, which specific geographic location near Iran's coast was at risk of halting oil production transport?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "What offer did Russian President Vladimir Putin make to European customers regarding energy cooperation, given Russia's status as the world's second-largest oil exporter?",
+    "a": "Russia was ready to work again with European customers if they wanted to return to long-term cooperation."
+  },
+  {
+    "q": "Which U.S. Treasury Secretary stated on Friday that the United States could free more Russian oil from sanctions?",
+    "a": "Scott Bessent."
+  },
+  {
+    "q": "What specific temporary measure did the United States allow India to take last week to cope with cuts to Middle East oil supply?",
+    "a": "India was allowed to temporarily buy Russian crude oil already on tankers at sea."
+  },
+  {
+    "q": "Who is the Russian special presidential envoy on investment who stated on Saturday that he was discussing the issue of easing sanctions with Washington?",
+    "a": "Kirill Dmitriev."
+  },
+  {
+    "q": "What was the Kremlin's stated position on Tuesday regarding the level of detail in discussions with Washington about lifting oil sanctions?",
+    "a": "The idea of lifting oil sanctions had not been discussed in detail with Washington."
+  },
+  {
+    "q": "What potential penalty did sources indicate certain countries, such as India, might face if they bought Russian oil without U.S. sanctions relief?",
+    "a": "U.S. penalties, including tariffs."
+  },
+  {
+    "q": "What specific military action did U.S. President Donald Trump suggest the U.S. Navy and its partners might undertake if needed?",
+    "a": "Escorting tankers through the Strait of Hormuz."
+  },
+  {
+    "q": "Which conflict did Russian President Vladimir Putin warn had triggered a global energy crisis, causing the biggest spike in oil prices since Russia's 2022 invasion of Ukraine?",
+    "a": "The U.S.-Israeli war on Iran."
+  },
+  {
+    "q": "What was the primary intended outcome of the U.S. administration's consideration of reducing oil sanctions on Russia?",
+    "a": "To boost world supplies of oil following disruptions to Middle East shipments."
+  },
+  {
+    "q": "What potential complication did sources identify regarding the U.S. consideration of easing Russian oil sanctions?",
+    "a": "It could complicate U.S. efforts to deprive Russia of revenue for its war in Ukraine."
+  },
+  {
+    "q": "On which day of the week did U.S. President Donald Trump and Russian President Vladimir Putin hold their first telephone call of 2026?",
+    "a": "Monday."
+  },
+  {
+    "q": "Which two countries were explicitly mentioned as having their oil market or supply situations discussed by Russian President Vladimir Putin and U.S. President Donald Trump?",
+    "a": "Iran and Venezuela."
+  },
+  {
+    "q": "What did U.S. President Donald Trump tell reporters regarding the future status of sanctions on certain countries until the oil situation \"straightens out\"?",
+    "a": "They were going to take those sanctions off until the situation straightens out."
+  },
+  {
+    "q": "Which Russian official's statement on Saturday regarding discussions with Washington was reported by the Kremlin on Tuesday?",
+    "a": "Kirill Dmitriev, Russia's special presidential envoy on investment."
+  },
+  {
+    "q": "What did U.S. President Donald Trump claim might happen regarding sanctions if \"there'll be so much peace\"?",
+    "a": "Maybe they won't have to put the sanctions back on."
+  },
+  {
+    "q": "Which two Reuters reporters were credited with reporting on the meeting between U.S. President Donald Trump and Russian President Vladimir Putin?",
+    "a": "Dmitry Antonov and Maxim Rodionov."
+  },
+  {
+    "q": "What did Russian President Vladimir Putin caution about oil production dependent on transport through the Strait of Hormuz?",
+    "a": "It could soon come to a halt."
+  },
+  {
+    "q": "Which U.S. President stated that he had a \"very good call\" with Russian President Vladimir Putin?",
+    "a": "Donald Trump."
+  },
+  {
+    "q": "What did the Kremlin say both Putin and Trump understood regarding the impact of sanctions?",
+    "a": "The impact of sanctions on the world economy."
+  },
+  {
+    "q": "Which U.S. President's administration was considering reducing oil sanctions on Russia, according to three sources familiar with the planning?",
+    "a": "Donald Trump."
+  }
+]

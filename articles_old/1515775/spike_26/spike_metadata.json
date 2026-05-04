@@ -1,0 +1,65 @@
+{
+  "spike_index": 26,
+  "direction": "up",
+  "price_before": 0.405,
+  "price_after": 0.6835,
+  "delta": 0.27849999999999997,
+  "abs_delta": 0.27849999999999997,
+  "timestamp_before": "2026-03-18T10:30:34+00:00",
+  "timestamp_after": "2026-03-18T21:00:54+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://fortune.com/2026/03/18/oil-prices-110-crude-brent-iran-war-israel-strait-hormuz-lng/?preview_id=4443594",
+      "file": "4971a133d9f9.txt",
+      "title": "Oil prices hit nearly $110 as Iran vows to escalate the war in \u2018new ways\u2019 | Fortune",
+      "published_date": "2026-03-18T00:00:00.000Z",
+      "author": "Eva Roytburg",
+      "text_length": 1224,
+      "status": "ok",
+      "num_tokens": 292
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-march-16-crude-continues-to-rise-as-us-iran-war-rages-on-brent-crude-surges-past-105-a-barrel/articleshow/129599496.cms",
+      "file": "5f45ed7f06b1.txt",
+      "title": "Oil prices today: Crude continues to rise as US-Iran war rages on; Brent surges past $105 a barrel - The Times of India",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /  Updated: Mar 16, 2026, 12:33 IST",
+      "text_length": 2419,
+      "status": "ok",
+      "num_tokens": 459
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-march-17-2026-crude-continues-to-climb-amid-hormuz-supply-crisis-brent-wti-jump-2/articleshow/129622921.cms",
+      "file": "14943ae1c3b7.txt",
+      "title": "Oil price today (March 17, 2026): Crude continues to climb amid Hormuz supply crisis; Brent, WTI jump 2% - The Times of India",
+      "published_date": "2026-03-17T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /  Updated: Mar 17, 2026, 12:48 IST",
+      "text_length": 2519,
+      "status": "ok",
+      "num_tokens": 495
+    },
+    {
+      "url": "https://today.reuters.com/business/energy/oil-prices-drop-us-crude-inventories-show-an-increase-2026-03-18/",
+      "file": "5dc47e16f06c.txt",
+      "title": "Oil extends gains to rise 5.6% after Iran attacks Gulf energy facilities | Reuters",
+      "published_date": "2026-03-18T00:00:00.000Z",
+      "author": "Siddharth Cavale",
+      "text_length": 4276,
+      "status": "ok",
+      "num_tokens": 905
+    },
+    {
+      "url": "https://in.mobile.reuters.com/business/energy/oil-prices-drop-us-crude-inventories-show-an-increase-2026-03-18/",
+      "file": "61c6aedb06c5.txt",
+      "title": "Oil extends gains to rise 5.6% after Iran attacks Gulf energy facilities | Reuters",
+      "published_date": "2026-03-18T00:00:00.000Z",
+      "author": "Siddharth Cavale",
+      "text_length": 4616,
+      "status": "ok",
+      "num_tokens": 981
+    }
+  ],
+  "total_tokens": 3132
+}

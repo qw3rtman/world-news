@@ -1,0 +1,102 @@
+[
+  {
+    "q": "What are the specific start and end dates for U.S. President Donald Trump's scheduled trip to China, and which Chinese leader is he expected to meet?",
+    "a": "The trip is scheduled from March 31 to April 2, 2026, and he is expected to meet Chinese leader Xi Jinping."
+  },
+  {
+    "q": "Which U.S. court overturned President Donald Trump's sweeping tariffs against imported goods, and on what day of the week was this ruling delivered relative to the White House confirmation of the China trip?",
+    "a": "The U.S. Supreme Court overturned the tariffs, delivering the ruling on a Friday, just before the White House official confirmed the trip."
+  },
+  {
+    "q": "Under which specific U.S. legal act were the 20% tariffs on China's U.S.-bound exports imposed, and what national emergencies were cited as justification for these tariffs?",
+    "a": "The tariffs were imposed under the International Emergency Economic Powers Act (IEEPA), citing national emergencies related to fentanyl distribution and trade imbalances."
+  },
+  {
+    "q": "Which two specific U.S. legislative trade authorities, distinct from the IEEPA, remain in place for duties on Chinese goods after the Supreme Court's ruling?",
+    "a": "Section 301 and Section 232 remain in place for duties on Chinese goods."
+  },
+  {
+    "q": "What percentage increase did U.S. President Donald Trump announce for the global tariff on Saturday, and what was the previous global tariff rate he had announced one day earlier?",
+    "a": "He announced an increase from a global 10% tariff to 15%."
+  },
+  {
+    "q": "When was the last time a U.S. president traveled to China, and who was the U.S. president at that time?",
+    "a": "The last trip was in 2017 by U.S. President Donald Trump."
+  },
+  {
+    "q": "In which South Korean city did U.S. President Donald Trump and Chinese leader Xi Jinping hold their previous bilateral meeting in October 2025?",
+    "a": "They met in Busan, South Korea."
+  },
+  {
+    "q": "What two specific concessions did Beijing provide in exchange for U.S. President Donald Trump trimming tariffs on China during the recent trade truce negotiations?",
+    "a": "Beijing agreed to crack down on the illicit fentanyl trade and pause export restrictions on critical minerals."
+  },
+  {
+    "q": "What monetary value was associated with the largest-ever U.S. arms sale approval to Taiwan announced in December 2025?",
+    "a": "The arms sale approval included $11.1 billion in weapons."
+  },
+  {
+    "q": "Which U.S. economics expert from the Center for Strategic and International Studies stated that the Supreme Court's tariff defeat likely 'cements' U.S. President Donald Trump's weakness in the eyes of Chinese officials?",
+    "a": "Scott Kennedy made that statement."
+  },
+  {
+    "q": "What specific agricultural product did Chinese leader Xi Jinping say he would consider increasing purchases from during a February 2026 call with U.S. President Donald Trump?",
+    "a": "Xi Jinping said he would consider further increasing soybean purchases."
+  },
+  {
+    "q": "In which month and year did U.S. President Donald Trump begin his second term as president, initiating the global trade war described in the article?",
+    "a": "He began his second term in January 2025."
+  },
+  {
+    "q": "Which senior fellow at the Peterson Institute of International Economics suggested that the Supreme Court ruling could indirectly increase pressure on Beijing by affecting effective tariff rates on other countries more than on China?",
+    "a": "Martin Chorzempa made that suggestion."
+  },
+  {
+    "q": "What specific display did U.S. President Donald Trump tell foreign leaders visiting Washington in late February 2026 that he planned to put on during his upcoming China visit?",
+    "a": "He said, 'We have to put on the biggest display you've ever had in the history of China.'"
+  },
+  {
+    "q": "Which specific island's arms sales were raised by Chinese leader Xi Jinping during his February 2026 conversation with U.S. President Donald Trump, a topic largely sidestepped during their October 2025 meeting?",
+    "a": "Xi raised the issue of U.S. arms sales to Taiwan."
+  },
+  {
+    "q": "What specific export restriction measure did Chinese leader Xi Jinping agree to pause in exchange for U.S. tariff trims, according to the article?",
+    "a": "Xi agreed to pause export restrictions on critical minerals."
+  },
+  {
+    "q": "Which country's rare earth supply threat did China economics expert Scott Kennedy cite as evidence that U.S. President Donald Trump had been 'playing defense' in the trade war?",
+    "a": "He cited Beijing's threat to cut off rare earths."
+  },
+  {
+    "q": "What specific type of advanced technology products did U.S. President Donald Trump ease policy toward Beijing on in recent months, alongside tariffs?",
+    "a": "He eased policy on advanced computer chips and drones."
+  },
+  {
+    "q": "Which two regions or countries did critics argue were alienated by U.S. President Donald Trump's global trade war, including allies, potentially insulating Beijing?",
+    "a": "Critics argued the trade war alienated other trading partners, including allies, and reduced incentives to move supply chains out of China."
+  },
+  {
+    "q": "What specific Southeast Asian region did Martin Chorzempa identify as potentially seeing greater reductions in effective tariff rates than China following the Supreme Court ruling?",
+    "a": "He identified Southeast Asia."
+  },
+  {
+    "q": "Which U.S. government body did not respond to a request for comment regarding U.S. President Donald Trump's scheduled China trip?",
+    "a": "The Chinese Embassy in Washington did not respond."
+  },
+  {
+    "q": "What specific trade truce issue was expected to be the focus of U.S. President Donald Trump's talks with Chinese leader Xi Jinping before the Supreme Court's ruling?",
+    "a": "The talks were expected to revolve around extending a trade truce that kept both countries from further hiking tariffs."
+  },
+  {
+    "q": "Which specific U.S. manufacturing sector struggle did the Trump administration cite as a national emergency necessitating global tariffs?",
+    "a": "The administration cited trade imbalances that have weakened U.S. manufacturing."
+  },
+  {
+    "q": "What specific political constituency for U.S. President Donald Trump is highlighted as being affected by Chinese soybean purchases?",
+    "a": "Struggling U.S. farmers are a major political constituency for Trump."
+  },
+  {
+    "q": "Which specific legal mechanism did Martin Chorzempa describe as 'well-established' and 'much more legally durable' for tariffs on China compared to other countries?",
+    "a": "He described the legislated trade authorities, specifically Section 301 and Section 232, as the durable mechanism."
+  }
+]

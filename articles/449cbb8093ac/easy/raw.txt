@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In early March 2026, Viking Mines reported a 16-fold increase in grade for its Linka tungsten project in Nevada’s Spencer Hot Springs Mining District using which specific processing method?",
+    "a": "Gravity separation."
+  },
+  {
+    "q": "What were the specific tungsten trioxide grades of the initial sample and the resulting rougher concentrate from Viking Mines’ Linka Pit project metallurgical tests conducted in February or March 2026?",
+    "a": "The initial sample graded 1.4 per cent tungsten trioxide, and the rougher concentrate assayed 22.9 per cent tungsten trioxide."
+  },
+  {
+    "q": "Which company did Viking Metals commence discussions with in March 2026 to evaluate low-cost modular processing solutions for its Nevada tungsten projects?",
+    "a": "Mineral Technologies."
+  },
+  {
+    "q": "What recovery percentage did Viking Mines achieve for tungsten at the coarsest grind size of 200 microns during its initial gravity separation tests on the Linka project?",
+    "a": "63.7 per cent recovery."
+  },
+  {
+    "q": "Who is the managing director and chief executive officer of Viking Metals who described the 16-times grade upgrade as a \"fantastic result\" in March 2026?",
+    "a": "Julian Woodcock."
+  },
+  {
+    "q": "Which two technical consulting and laboratory firms were overseeing Viking Mines’ metallurgical test work program for the Linka project in Nevada to ensure world-class standards?",
+    "a": "IMO and Base Met Labs."
+  },
+  {
+    "q": "What is the primary waste mineral identified by QEMSCAN analysis in the Linka project skarn system, and how does its presence benefit processing compared to calcite?",
+    "a": "Garnet is the primary waste mineral; its minimal presence alongside low calcite simplifies processing and reduces reagent consumption."
+  },
+  {
+    "q": "During which historical conflicts did the Linka mine in Nevada’s Spencer Hot Springs Mining District previously produce tungsten before government buying programs ended?",
+    "a": "World War II and the Korean War era."
+  },
+  {
+    "q": "How many tonnes of ore grading 0.54 per cent tungsten trioxide did Viking Mines’ broader Nevada portfolio, acquired late last year, previously produce across four historic sites?",
+    "a": "123,000 tonnes."
+  },
+  {
+    "q": "Which three countries classify tungsten as a critical mineral due to its role in defence, aerospace, electronics, and manufacturing sectors?",
+    "a": "The United States, the United Kingdom, and Australia."
+  },
+  {
+    "q": "Approximately what percentage of global tungsten consumption is used in tungsten carbide applications such as drill bits and metal cutting tools?",
+    "a": "Roughly 60 per cent."
+  },
+  {
+    "q": "What was the recent all-time high price per metric tonne unit for ammonium paratungstate, the primary industrial intermediate product for tungsten, as reported in March 2026?",
+    "a": "US$1,850."
+  },
+  {
+    "q": "Which country dominates global tungsten production, creating high supply risk for Western governments seeking to secure critical mineral chains?",
+    "a": "China."
+  },
+  {
+    "q": "What type of geological system hosts the high-grade scheelite mineralisation at Viking Mines’ Linka project in Nevada?",
+    "a": "A classic skarn system formed at the contact between Ordovician limestone and granitic intrusives."
+  },
+  {
+    "q": "At what distance and relative location to Highway 50 is the Linka project situated within Nevada’s Spencer Hot Springs Mining District?",
+    "a": "About 7 kilometres south of Highway 50."
+  },
+  {
+    "q": "What are the two most common tungsten minerals mentioned in the article, with scheelite being separated via gravity separation due to its density?",
+    "a": "Scheelite and wolframite."
+  },
+  {
+    "q": "What specific future test work did Viking Mines plan to conduct on the fine scheelite found in the tails to potentially improve recoveries beyond the initial gravity separation results?",
+    "a": "New flotation test work."
+  },
+  {
+    "q": "What was the reported tungsten trioxide production grade range for the historic Linka mine during World War II and the Korean War era?",
+    "a": "Between 0.69 and 0.98 per cent tungsten trioxide."
+  },
+  {
+    "q": "Why is gravity separation considered the cheapest and simplest beneficiation route for scheelite compared to other methods?",
+    "a": "It relies on simple physics and density differences without requiring exotic chemistry or complex circuits."
+  },
+  {
+    "q": "What strategic advantage are US-based tungsten projects like Viking’s enjoying due to Western governments scrambling to secure critical mineral chains away from Chinese dominance?",
+    "a": "Geopolitical tailwinds."
+  },
+  {
+    "q": "What specific grind size in microns was used to achieve the 63.7 per cent recovery in Viking Mines’ initial gravity separation tests?",
+    "a": "200 microns."
+  },
+  {
+    "q": "What type of geological model is Viking Mines advancing to map out drill targets for the June quarter of 2026?",
+    "a": "A 3D geological model."
+  },
+  {
+    "q": "What is the name of the tungsten carbide application that uses roughly 60 per cent of global tungsten consumption, including drill bits for mining and oil and gas?",
+    "a": "Cemented carbides."
+  },
+  {
+    "q": "What specific federal action is Viking Mines lining up to get rigs turning at its Nevada tungsten grounds?",
+    "a": "Required federal permitting."
+  },
+  {
+    "q": "What is the full name of the ASX-listed company’s contact person for interesting developments, as listed at the end of the March 3, 2026 article?",
+    "a": "Matt Birney."
+  }
+]

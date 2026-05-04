@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On what date did the US Supreme Court issue its ruling against President Donald Trump’s sweeping tariffs, and what specific action did the Court take regarding the lower-court decision?",
+    "a": "The ruling was issued on Friday, February 20, 2026, and the Supreme Court upheld the lower-court ruling that struck down the tariffs."
+  },
+  {
+    "q": "What are the confirmed dates for President Donald Trump’s visit to Beijing, and which news organization exclusively reported these dates prior to the Supreme Court decision?",
+    "a": "The visit is scheduled from March 31 to April 2, 2026, and The South China Morning Post exclusively reported the trip dates last week."
+  },
+  {
+    "q": "Under what legal authority did President Donald Trump impose the tariffs that were invalidated by the US Supreme Court, and what specific tool did this invalidation remove from the White House?",
+    "a": "The tariffs were imposed under emergency presidential powers, and their invalidation removed a powerful tool the White House used to pressure Beijing."
+  },
+  {
+    "q": "How did President Donald Trump describe the US Supreme Court justices who voted against his tariffs during his Friday, February 20, 2026 press briefing?",
+    "a": "He called them \"disloyal and unpatriotic,\" a \"disgrace to our nation,\" and claimed they were swayed by foreign interests and a political movement."
+  },
+  {
+    "q": "Which specific section of which Act did President Donald Trump cite to announce new global tariffs effective immediately on Friday, February 20, 2026?",
+    "a": "He cited Section 122 of the Trade Act of 1974."
+  },
+  {
+    "q": "What is the percentage rate of the new global tariffs announced by President Donald Trump on Friday, February 20, 2026, and what is the stated purpose of the legal authority under which they were imposed?",
+    "a": "The new tariffs are 10 per cent, and the legal authority (Section 122 of the Trade Act of 1974) grants the president limited, temporary authority to impose import restrictions to deal with balance-of-payments emergencies."
+  },
+  {
+    "q": "According to the article, how might the US Supreme Court's decision invalidating emergency tariffs weaken Washington’s position in its upcoming talks with Beijing?",
+    "a": "It removes a powerful tool the White House had used to pressure Beijing, potentially weakening Washington’s bargaining position."
+  },
+  {
+    "q": "Which five journalists are credited with writing the article published by The South China Morning Post on February 20, 2026?",
+    "a": "The journalists are Khushboo Razdan, Bochen Han, Xinmei Shen, Lucy Quaggin, and Mark Magnier."
+  },
+  {
+    "q": "What immediate financial consequence did the US Supreme Court's ruling have on the tariffs imposed under emergency presidential powers?",
+    "a": "The decision wiped out some China tariffs before the Beijing talks."
+  },
+  {
+    "q": "How did the US Supreme Court's ruling on February 20, 2026, complicate Washington’s trade negotiations beyond its relationship with Beijing?",
+    "a": "It complicated Washington’s trade negotiations worldwide, even as some countries had already signed deals with the US."
+  },
+  {
+    "q": "What specific criticism did President Donald Trump levy against the US Supreme Court regarding its motivations in the February 20, 2026 tariff ruling?",
+    "a": "He stated that the court \"has been swayed by foreign interests and a political movement.\""
+  },
+  {
+    "q": "What is the specific legal distinction between the authority used for the invalidated tariffs and the authority used for the new 10 per cent global tariffs announced on February 20, 2026?",
+    "a": "The invalidated tariffs were imposed under emergency presidential powers, while the new tariffs were imposed under Section 122 of the Trade Act of 1974, which allows for limited, temporary import restrictions for balance-of-payments emergencies."
+  },
+  {
+    "q": "Which news outlet provided the exclusive report on President Donald Trump’s March 31 to April 2, 2026, visit to Beijing?",
+    "a": "The South China Morning Post."
+  },
+  {
+    "q": "What was President Donald Trump’s emotional reaction to the US Supreme Court's ruling on February 20, 2026, as described in his press briefing?",
+    "a": "He slammed the ruling as \"deeply disappointing\" and said he was \"ashamed of certain members of the court.\""
+  },
+  {
+    "q": "How many justices did President Donald Trump explicitly accuse of being \"disloyal and unpatriotic\" in his February 20, 2026, comments, and how did he characterize their loyalty to the nation?",
+    "a": "He did not specify a number but referred to \"certain members\" and \"those justices,\" characterizing them as a \"disgrace to our nation.\""
+  },
+  {
+    "q": "What is the effective date of the new 10 per cent global tariffs announced by President Donald Trump on Friday, February 20, 2026?",
+    "a": "The tariffs are effective immediately."
+  },
+  {
+    "q": "What specific type of emergency does Section 122 of the Trade Act of 1974 allow the US President to address by imposing import restrictions?",
+    "a": "Balance-of-payments emergencies."
+  },
+  {
+    "q": "How did the US Supreme Court's decision affect the administration's trade agenda ahead of the Xi-Trump summit?",
+    "a": "The decision threatened the administration’s trade agenda and cast a shadow on the Xi-Trump summit."
+  },
+  {
+    "q": "What was the relationship between the US Supreme Court's ruling on February 20, 2026, and the lower-court ruling it addressed?",
+    "a": "The US Supreme Court upheld the lower-court ruling that had struck down President Donald Trump’s tariffs."
+  },
+  {
+    "q": "Which two major trade relationships were impacted by the US Supreme Court's February 20, 2026 decision, one directly and one globally?",
+    "a": "The decision directly impacted the US-China trade war by wiping out some China tariffs, and it complicated trade negotiations worldwide."
+  },
+  {
+    "q": "What specific phrase did President Donald Trump use to describe the justices who voted against his tariffs, implying a lack of national loyalty?",
+    "a": "He called them \"disloyal and unpatriotic.\""
+  },
+  {
+    "q": "What is the time frame of the article's publication and update as listed in The South China Morning Post?",
+    "a": "Published at 11:06pm on February 20, 2026, and updated at 8:27am on February 21, 2026."
+  },
+  {
+    "q": "What specific power did the White House lose due to the US Supreme Court's February 20, 2026 ruling that it had previously used to influence international trade?",
+    "a": "It lost the ability to impose tariffs under emergency presidential powers, which was a tool used to pressure Beijing."
+  },
+  {
+    "q": "What was the immediate pivot strategy of the Trump administration following the US Supreme Court's February 20, 2026 ruling?",
+    "a": "President Donald Trump announced new 10 per cent global tariffs effective immediately under Section 122 of the Trade Act of 1974."
+  },
+  {
+    "q": "How did the US Supreme Court's ruling on February 20, 2026, impact the bargaining position of Washington in its negotiations with Beijing?",
+    "a": "It potentially weakened Washington’s bargaining position by removing a powerful pressure tool."
+  }
+]

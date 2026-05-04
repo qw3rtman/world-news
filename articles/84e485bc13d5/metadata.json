@@ -1,0 +1,97 @@
+{
+  "hash": "84e485bc13d5",
+  "n_appearances": 8,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202602230601BIZWIRE_USPRX____20260222_BW105602-1",
+      "title": "Gilead Sciences to Acquire Arcellx to Maximize Long-Term Potential of Anito-cel – Company Announcement - FT.com",
+      "published_date": "2026-02-22T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 3245,
+      "text_length": 15253
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694938",
+      "spike_id": 10,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.34,
+      "spike_timestamp_before": "2026-02-24T07:30:43+00:00",
+      "spike_timestamp_after": "2026-02-25T00:30:40+00:00"
+    },
+    {
+      "market_id": "694938",
+      "spike_id": 3,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.21500000000000002,
+      "spike_timestamp_before": "2026-02-21T07:30:28+00:00",
+      "spike_timestamp_after": "2026-02-21T21:00:38+00:00"
+    },
+    {
+      "market_id": "694938",
+      "spike_id": 4,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.15499999999999997,
+      "spike_timestamp_before": "2026-02-21T21:00:38+00:00",
+      "spike_timestamp_after": "2026-02-22T01:30:30+00:00"
+    },
+    {
+      "market_id": "694938",
+      "spike_id": 5,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.17999999999999994,
+      "spike_timestamp_before": "2026-02-22T16:00:33+00:00",
+      "spike_timestamp_after": "2026-02-23T05:30:36+00:00"
+    },
+    {
+      "market_id": "694938",
+      "spike_id": 6,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.21999999999999997,
+      "spike_timestamp_before": "2026-02-22T16:00:33+00:00",
+      "spike_timestamp_after": "2026-02-23T10:30:32+00:00"
+    },
+    {
+      "market_id": "694938",
+      "spike_id": 7,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.25999999999999995,
+      "spike_timestamp_before": "2026-02-22T16:00:33+00:00",
+      "spike_timestamp_after": "2026-02-23T16:00:29+00:00"
+    },
+    {
+      "market_id": "694938",
+      "spike_id": 8,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.29999999999999993,
+      "spike_timestamp_before": "2026-02-23T00:30:30+00:00",
+      "spike_timestamp_after": "2026-02-24T00:30:29+00:00"
+    },
+    {
+      "market_id": "694938",
+      "spike_id": 9,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.505,
+      "spike_timestamp_before": "2026-02-24T00:30:29+00:00",
+      "spike_timestamp_after": "2026-02-24T07:30:43+00:00"
+    }
+  ]
+}

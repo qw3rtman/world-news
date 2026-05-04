@@ -1,0 +1,87 @@
+{
+  "hash": "ebf36cf8dbc5",
+  "n_appearances": 7,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-crisis-ayatollahs-son-mojtaba-khamenei-emerges-as-front-runner-to-succeed-slain-supreme-leader/articleshow/128997689.cms",
+      "title": "Mojtaba Khamenei: Iran crisis: Ayatollah’s son Mojtaba Khamenei elected as successor of slain Supreme Leader - report - The Times of India",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "TOI World Desk  / TIMESOFINDIA.COM /  Updated: Mar 04, 2026, 08:17 IST",
+      "num_tokens": 1282,
+      "text_length": 6107
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1469737",
+      "spike_id": 7,
+      "market_question": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
+      "event_title": "Iran leader end of 2026?",
+      "spike_direction": "down",
+      "spike_delta": -0.44999999999999996,
+      "spike_timestamp_before": "2026-03-03T21:30:59+00:00",
+      "spike_timestamp_after": "2026-03-04T10:30:52+00:00"
+    },
+    {
+      "market_id": "1469737",
+      "spike_id": 8,
+      "market_question": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
+      "event_title": "Iran leader end of 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.2395,
+      "spike_timestamp_before": "2026-03-04T10:30:52+00:00",
+      "spike_timestamp_after": "2026-03-04T17:30:32+00:00"
+    },
+    {
+      "market_id": "1485771",
+      "spike_id": 4,
+      "market_question": "Will Iran name a successor to Khamenei by March 4?",
+      "event_title": "New Supreme Leader of Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.69,
+      "spike_timestamp_before": "2026-03-03T21:00:54+00:00",
+      "spike_timestamp_after": "2026-03-04T17:00:47+00:00"
+    },
+    {
+      "market_id": "1485771",
+      "spike_id": 5,
+      "market_question": "Will Iran name a successor to Khamenei by March 4?",
+      "event_title": "New Supreme Leader of Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.698,
+      "spike_timestamp_before": "2026-03-03T21:00:54+00:00",
+      "spike_timestamp_after": "2026-03-04T21:00:34+00:00"
+    },
+    {
+      "market_id": "1485771",
+      "spike_id": 6,
+      "market_question": "Will Iran name a successor to Khamenei by March 4?",
+      "event_title": "New Supreme Leader of Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.46399999999999997,
+      "spike_timestamp_before": "2026-03-04T00:00:40+00:00",
+      "spike_timestamp_after": "2026-03-05T00:00:37+00:00"
+    },
+    {
+      "market_id": "1485771",
+      "spike_id": 7,
+      "market_question": "Will Iran name a successor to Khamenei by March 4?",
+      "event_title": "New Supreme Leader of Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.3785,
+      "spike_timestamp_before": "2026-03-04T03:30:30+00:00",
+      "spike_timestamp_after": "2026-03-05T03:30:24+00:00"
+    },
+    {
+      "market_id": "1485771",
+      "spike_id": 8,
+      "market_question": "Will Iran name a successor to Khamenei by March 4?",
+      "event_title": "New Supreme Leader of Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.2345,
+      "spike_timestamp_before": "2026-03-04T05:30:29+00:00",
+      "spike_timestamp_after": "2026-03-05T05:30:29+00:00"
+    }
+  ]
+}

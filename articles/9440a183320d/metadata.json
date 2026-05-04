@@ -1,0 +1,37 @@
+{
+  "hash": "9440a183320d",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://blogs.timesofisrael.com/counting-fronts/",
+      "title": "The Blogs: Counting Fronts | Sabine Sterk | The Times of Israel",
+      "published_date": "2026-03-18T00:00:00.000Z",
+      "author": "Sabine Sterk",
+      "num_tokens": 1130,
+      "text_length": 5677
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "678747",
+      "spike_id": 6,
+      "market_question": "Will Israel strike 4 countries in 2026?",
+      "event_title": "How many different countries will Israel strike in 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.2665,
+      "spike_timestamp_before": "2026-03-18T03:00:49+00:00",
+      "spike_timestamp_after": "2026-03-18T20:00:56+00:00"
+    },
+    {
+      "market_id": "678747",
+      "spike_id": 7,
+      "market_question": "Will Israel strike 4 countries in 2026?",
+      "event_title": "How many different countries will Israel strike in 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.16699999999999998,
+      "spike_timestamp_before": "2026-03-18T21:30:41+00:00",
+      "spike_timestamp_after": "2026-03-18T23:30:41+00:00"
+    }
+  ]
+}

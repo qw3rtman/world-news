@@ -1,0 +1,23 @@
+{
+  "market_id": "1169205",
+  "question": "Iran Strike on Israel by February 28?",
+  "slug": "iran-strike-on-israel-by-february-28",
+  "url": "https://polymarket.com/event/iran-strike-on-israel-by",
+  "description": "This market will resolve to \"Yes\" if an Iran-initiated drone, missile, or air strike on the soil of Israel is announced or credibly reported to have occurred by the listed date, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nFor the purposes of this market, a qualifying \"strike\" is defined as the use of aerial bombs, drones, or missiles (including FPV and ATGM strikes as well as cruise or ballistic missiles) launched by any Iranian operatives, including military forces, intelligence agencies, or other Iranian government operatives, that physically impact ground territory within the listed country.\n\nA strike on any area within the terrestrial territory (including rivers, lakes, ports, but excluding territorial sea) of the listed country counts.\n\nMissiles or drones that are intercepted and surface-to-air missile strikes will not be sufficient for a \"Yes\" resolution, regardless of whether they land in Israeli territory or cause damage.\n\nActions such as artillery fire, small arms fire, ground incursions, naval shelling, or cyberattacks will not qualify.\n\nThe primary resolution source will be a consensus of credible reporting.\n\nIf no qualifying strike is confirmed by the resolution date this market will remain open until the end of the second day after the resolution time. If the date/time of a qualifying strike cannot be confirmed by a consensus of credible reporting by that time, it will resolve to \"No\" regardless of whether a strike was later confirmed to have taken place.",
+  "event_title": "Iran Strike on Israel by...?",
+  "event_tags": [
+    "Middle East",
+    "Khamenei",
+    "Politics",
+    "Israel",
+    "Iran",
+    "Geopolitics"
+  ],
+  "volume_total": 5006328.70815,
+  "created_at": "2026-01-12T18:33:18.58731Z",
+  "end_date": "2026-02-28T00:00:00Z",
+  "num_spikes": 2,
+  "max_spike": 0.9395,
+  "total_tokens": 17386,
+  "total_articles": 10
+}

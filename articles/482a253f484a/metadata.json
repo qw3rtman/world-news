@@ -1,0 +1,37 @@
+{
+  "hash": "482a253f484a",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://www.explorezlhiver.cbc.ca/news/world/israel-troops-lebanon-hezbollah-9.7113533",
+      "title": "Israel sends troops to southern Lebanon, as Hezbollah vows it's ready for 'open war' | CBC News",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "The Associated Press    ·  Posted: Mar 03, 2026 7:49 PM EST | Last Updated: March 4",
+      "num_tokens": 1045,
+      "text_length": 5305
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "677397",
+      "spike_id": 12,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.19000000000000006,
+      "spike_timestamp_before": "2026-03-03T17:00:30+00:00",
+      "spike_timestamp_after": "2026-03-04T10:30:48+00:00"
+    },
+    {
+      "market_id": "677397",
+      "spike_id": 13,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.21499999999999997,
+      "spike_timestamp_before": "2026-03-05T10:00:44+00:00",
+      "spike_timestamp_after": "2026-03-05T23:30:28+00:00"
+    }
+  ]
+}

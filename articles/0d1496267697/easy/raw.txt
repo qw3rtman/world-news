@@ -1,0 +1,102 @@
+[
+  {
+    "q": "What was the year-over-year increase in Japan’s consumer prices excluding fresh food in January 2026, as reported by the Ministry of Internal Affairs and Communications?",
+    "a": "2%"
+  },
+  {
+    "q": "Which Japanese government ministry released the January 2026 consumer price index data showing the slowest inflation pace in two years?",
+    "a": "The Ministry of Internal Affairs and Communications"
+  },
+  {
+    "q": "How did the yen react in the foreign exchange market following the release of Japan’s January 2026 inflation data?",
+    "a": "The yen weakened"
+  },
+  {
+    "q": "What was the year-over-year increase in Japan’s consumer prices excluding fresh food in December 2025, prior to the January 2026 reading?",
+    "a": "2.4%"
+  },
+  {
+    "q": "When was the last time Japan’s consumer prices excluding fresh food rose by 2% or less before the January 2026 report?",
+    "a": "January 2024"
+  },
+  {
+    "q": "Did the January 2026 inflation figure for Japan match the median economist forecast at the time of the report?",
+    "a": "Yes, it matched the median forecast"
+  },
+  {
+    "q": "What specific inflation gauge is described as easing to its slowest pace in two years in the February 2026 Bloomberg report?",
+    "a": "Japan’s consumer prices excluding fresh food"
+  },
+  {
+    "q": "Which central bank is facing a communication challenge due to the cooling inflation data in Japan as of February 2026?",
+    "a": "The Bank of Japan"
+  },
+  {
+    "q": "What monetary policy action is the Bank of Japan likely to pursue when the timing is right, according to the February 2026 report?",
+    "a": "Raise the benchmark interest rate"
+  },
+  {
+    "q": "By how many percentage points did Japan’s year-over-year consumer price growth (excluding fresh food) decline from December 2025 to January 2026?",
+    "a": "0.4 percentage points"
+  },
+  {
+    "q": "On which day of the week did the Ministry of Internal Affairs and Communications release the January 2026 inflation data?",
+    "a": "Friday"
+  },
+  {
+    "q": "What is the publication date of the Bloomberg article titled 'Japan’s CPI Cools to Slowest Pace in Two Years on Distortions'?",
+    "a": "February 19, 2026"
+  },
+  {
+    "q": "How does the January 2026 inflation rate for Japan compare to the rate recorded in the previous month?",
+    "a": "It was slower (2% vs 2.4%)"
+  },
+  {
+    "q": "Which country’s key inflation gauge is the subject of the February 2026 report detailing a two-year low in price growth?",
+    "a": "Japan"
+  },
+  {
+    "q": "What specific component of consumer prices was excluded from the January 2026 inflation calculation reported by the Ministry of Internal Affairs and Communications?",
+    "a": "Fresh food"
+  },
+  {
+    "q": "What is the median economist forecast for Japan’s January 2026 consumer price increase excluding fresh food?",
+    "a": "2%"
+  },
+  {
+    "q": "Which financial instrument weakened against other currencies following the release of Japan’s January 2026 inflation statistics?",
+    "a": "The yen"
+  },
+  {
+    "q": "What was the year-over-year inflation rate for Japan’s consumer prices excluding fresh food in the month immediately preceding January 2026?",
+    "a": "2.4%"
+  },
+  {
+    "q": "According to the February 2026 report, what challenge does the cooling inflation pace pose for the Bank of Japan?",
+    "a": "A communication challenge"
+  },
+  {
+    "q": "What is the specific time frame referenced as the last instance of similarly low inflation (2%) in Japan before January 2026?",
+    "a": "January 2024"
+  },
+  {
+    "q": "Which economic indicator’s slowdown is described as posing a challenge for the central bank’s interest rate strategy in the February 2026 article?",
+    "a": "Japan’s key inflation gauge (consumer prices excluding fresh food)"
+  },
+  {
+    "q": "How did the January 2026 inflation reading compare to the 2.4% reading recorded in December 2025?",
+    "a": "It was lower"
+  },
+  {
+    "q": "What is the full name of the Japanese government body that reported the January 2026 consumer price data?",
+    "a": "The Ministry of Internal Affairs and Communications"
+  },
+  {
+    "q": "What is the exact year-over-year percentage increase in Japan’s consumer prices excluding fresh food for January 2026?",
+    "a": "2%"
+  },
+  {
+    "q": "In the context of the February 2026 report, what is the Bank of Japan’s stated determination regarding interest rates despite the cooling inflation?",
+    "a": "To raise the benchmark interest rate when the timing is right"
+  }
+]

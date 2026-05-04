@@ -1,0 +1,47 @@
+{
+  "hash": "4f759ec1ac3a",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://www.europe.cnn.com/2026/03/01/middleeast/iran-israel-us-analysis-npw-int-hnk",
+      "title": "Breaking News, Latest News and Videos | CNN",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Monica Sarkar",
+      "num_tokens": 1273,
+      "text_length": 5286
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1466150",
+      "spike_id": 1,
+      "market_question": "Iran x Israel/US conflict ends by March 31?",
+      "event_title": "Iran x Israel/US conflict ends by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.37499999999999994,
+      "spike_timestamp_before": "2026-02-28T16:00:33+00:00",
+      "spike_timestamp_after": "2026-02-28T20:00:33+00:00"
+    },
+    {
+      "market_id": "666696",
+      "spike_id": 2,
+      "market_question": "Israel x Iran ceasefire broken by March 31, 2026?",
+      "event_title": "Israel x Iran ceasefire broken by...? ",
+      "spike_direction": "up",
+      "spike_delta": 0.49250000000000005,
+      "spike_timestamp_before": "2026-02-27T09:30:28+00:00",
+      "spike_timestamp_after": "2026-02-28T07:30:30+00:00"
+    },
+    {
+      "market_id": "666696",
+      "spike_id": 3,
+      "market_question": "Israel x Iran ceasefire broken by March 31, 2026?",
+      "event_title": "Israel x Iran ceasefire broken by...? ",
+      "spike_direction": "up",
+      "spike_delta": 0.48450000000000004,
+      "spike_timestamp_before": "2026-02-27T10:30:37+00:00",
+      "spike_timestamp_after": "2026-02-28T10:00:35+00:00"
+    }
+  ]
+}

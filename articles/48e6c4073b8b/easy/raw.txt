@@ -1,0 +1,102 @@
+[
+  {
+    "q": "During the week of March 17, 2026, what specific interest rate range did the Federal Reserve maintain as its target, and what was the market-implied probability of a rate cut at the March meeting?",
+    "a": "The Federal Reserve maintained its key interest rate target between 3.5% and 3.75%, while markets priced in a near-zero chance of a rate cut at the March meeting."
+  },
+  {
+    "q": "According to CME Group’s FedWatch pricing as of March 2026, when did traders expect the Federal Open Market Committee to begin cutting interest rates, and how many cuts were anticipated for the remainder of the year?",
+    "a": "Traders expected the committee to wait until at least September, more likely October, to begin easing, with just a single cut anticipated for the year."
+  },
+  {
+    "q": "Which U.S. President lashed out at Federal Reserve Chair Jerome Powell on the Monday before March 17, 2026, and what specific action did he claim Powell should have taken?",
+    "a": "U.S. President Donald Trump lashed out at Powell, claiming Powell should have called a special meeting to cut interest rates."
+  },
+  {
+    "q": "Why was the Senate Banking Committee’s consideration of Kevin Warsh’s nomination to succeed Jerome Powell as Federal Reserve Chair delayed as of March 2026?",
+    "a": "The nomination was being held up by a case U.S. Attorney Jeanine Pirro was pursuing against Powell over the Fed’s headquarters renovation, which Senator Thom Tillis vowed to block."
+  },
+  {
+    "q": "Which geopolitical event was cited as a primary factor complicating the Federal Reserve’s March 2026 decision-making alongside inflation fears and labor market signals?",
+    "a": "The Iran war, including its impact on oil prices and inflation, was cited as a key complicating factor."
+  },
+  {
+    "q": "What specific document containing individual officials’ interest rate expectations was investors awaiting from the Federal Reserve during the week of March 17, 2026?",
+    "a": "Investors were awaiting the Summary of Economic Projections, which includes the Fed’s “dot plot” grid."
+  },
+  {
+    "q": "According to BeiChen Lin, senior investment strategist at Russell Investments, what was the expected outcome of the Federal Reserve’s March 2026 meeting regarding interest rates?",
+    "a": "Lin stated that a rate hold at the March meeting was almost guaranteed."
+  },
+  {
+    "q": "How did the Iran war affect market expectations for Federal Reserve rate cuts compared to pre-war expectations in March 2026?",
+    "a": "The attacks changed the market’s calculus by introducing fears of an inflation spike due to oil impacts, pushing expected cuts from June to at least September or October."
+  },
+  {
+    "q": "What was former Fed Vice Chair Roger Ferguson’s stated concern regarding the Federal Reserve’s inflation target as of March 2026?",
+    "a": "Ferguson expressed worry that the Fed had been away from its 2% inflation target for multiple years and that its commitment to that target was being questioned."
+  },
+  {
+    "q": "Which U.S. Senator indicated he would block Kevin Warsh’s nomination to the Federal Reserve Board until the legal case against Jerome Powell was resolved?",
+    "a": "Senator Thom Tillis, R-N.C., said he would block the nomination in the Senate Banking Committee."
+  },
+  {
+    "q": "What did Bank of America Fed-watchers identify as the key constraint on Jerome Powell’s ability to guide markets during his next-to-last meeting as chair in March 2026?",
+    "a": "They identified the constraint as the need for markets to perceive Powell’s comments as representing the committee’s consensus rather than his own views."
+  },
+  {
+    "q": "What specific time was the Federal Reserve’s interest rate decision scheduled for release on Wednesday, March 18, 2026?",
+    "a": "The decision was scheduled for release at 2 p.m. ET."
+  },
+  {
+    "q": "According to David Kelly, chief global strategist at JPMorgan Asset Management, how were the Federal Reserve’s forecasts expected to compare to the previous update in December 2025?",
+    "a": "Kelly wrote that the forecasts could look remarkably similar to those from three months prior, despite added uncertainty from the Middle East conflict."
+  },
+  {
+    "q": "What legal action by U.S. Attorney Jeanine Pirro was cited as the reason for delaying Kevin Warsh’s nomination to the Federal Reserve Board?",
+    "a": "Pirro was pursuing a case against Jerome Powell over the Fed’s headquarters renovation."
+  },
+  {
+    "q": "What did CME Group’s FedWatch pricing indicate about the likelihood of an April interest rate cut as of March 2026?",
+    "a": "The pricing indicated that an April cut was almost entirely priced out."
+  },
+  {
+    "q": "Which two conflicting economic forces were explicitly mentioned as challenging the Federal Reserve’s March 2026 policy decision?",
+    "a": "The Fed was navigating fears of an inflation spike and mixed signals from the labor market."
+  },
+  {
+    "q": "What did Senator Thom Tillis, R-N.C., say he would do regarding Kevin Warsh’s nomination to the Federal Reserve Board?",
+    "a": "Tillis said he would block the Warsh nomination in the Senate Banking Committee until the case against Jerome Powell was resolved."
+  },
+  {
+    "q": "According to BeiChen Lin of Russell Investments, what was the status of the U.S. economy’s footing as of March 2026?",
+    "a": "Lin stated that the U.S. economy was still on solid footing."
+  },
+  {
+    "q": "What did former Fed Vice Chair Roger Ferguson say the Fed should focus on when weighing the labor market against inflation?",
+    "a": "Ferguson said he would prefer the Fed focus on prices."
+  },
+  {
+    "q": "What did David Kelly of JPMorgan Asset Management expect the Federal Reserve to emphasize regarding the conflict in the Middle East?",
+    "a": "Kelly expected the Fed to emphasize that the conflict had added further uncertainty to the outlook for both inflation and employment."
+  },
+  {
+    "q": "How many interest rate cuts did Federal Reserve officials indicate they saw for the year 2026 in December 2025, and was this consensus expected to hold in March 2026?",
+    "a": "Officials indicated they saw just one cut this year, and the consensus was figured to hold even with recent dissents."
+  },
+  {
+    "q": "What did U.S. President Donald Trump say about the timing of interest rate cuts in his appearance before media members on the Monday before March 17, 2026?",
+    "a": "Trump said, “What’s a better time to cut interest rates than now? A third-grade student would know that.”"
+  },
+  {
+    "q": "Which organization’s FedWatch pricing was cited as showing that traders expected the Federal Open Market Committee to wait until at least September to cut rates?",
+    "a": "CME Group’s FedWatch pricing was cited."
+  },
+  {
+    "q": "What was the expected change to the Federal Reserve’s economic and rate projections in the Summary of Economic Projections released in March 2026?",
+    "a": "Most observers expected few changes, though the Fed could nudge up economic growth and inflation slightly from the December update."
+  },
+  {
+    "q": "What role did Kevin Warsh hold in relation to Jerome Powell as of the nomination discussions in March 2026?",
+    "a": "Kevin Warsh was nominated by President Donald Trump to succeed Jerome Powell as Federal Reserve Chair in May."
+  }
+]

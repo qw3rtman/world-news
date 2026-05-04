@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In February 2026, what specific military action did satellite imagery suggest the Egyptian government had been carrying out in Sudan against the paramilitary Rapid Support Forces?",
+    "a": "Drone strikes."
+  },
+  {
+    "q": "In December 2025, which country became the first to formally recognize Somaliland, a move that prompted Egyptian President Abdel Fattah el-Sisi to call it a dangerous precedent?",
+    "a": "Israel."
+  },
+  {
+    "q": "How many soldiers did Egypt deploy to Somalia in early 2026 as part of the African Union Support and Stabilization Mission (AUSSOM) to support counterterrorism efforts against al-Shabab?",
+    "a": "Around 1,100 soldiers."
+  },
+  {
+    "q": "What specific infrastructure dispute has been the center of the long-standing rivalry between Egypt and Ethiopia, leading Cairo to argue that the project negatively impacts its access to the Nile’s water supply?",
+    "a": "The construction of Ethiopia’s Grand Ethiopian Renaissance Dam."
+  },
+  {
+    "q": "In late 2025, Egypt reached agreements to upgrade the port of Doraleh in Djibouti and which other port in Eritrea, moves analysts viewed as encircling Ethiopia?",
+    "a": "The port of Assab."
+  },
+  {
+    "q": "According to reports in February 2026, Saudi Arabia was finalizing an agreement on a new military coalition with Somalia and which other North African nation to counter the United Arab Emirates’ regional influence?",
+    "a": "Egypt."
+  },
+  {
+    "q": "What is the estimated cost of the new administrative capital in Egypt, a mega-project that critics describe as a smokescreen for corruption and a distraction from the worsening economy?",
+    "a": "$59 billion."
+  },
+  {
+    "q": "In February 2026, an intelligence report commissioned by which country’s parliament revealed that more than 1,000 of its citizens were fighting for Russia in Ukraine after being misled by false promises of civilian jobs?",
+    "a": "Kenya."
+  },
+  {
+    "q": "On February 25, 2026, Chad closed its eastern border with Sudan after fighting between the Rapid Support Forces and militia fighters allied with Sudan’s government spilled over into which country’s territory?",
+    "a": "Chad."
+  },
+  {
+    "q": "In February 2026, a Tunisian court ordered the release of prominent lawyer Ahmed Souab, who had been sentenced to five years in prison for allegedly forming a terrorist group and spreading fake news; he is a fierce critic of which Tunisian president?",
+    "a": "Kais Saied."
+  },
+  {
+    "q": "In February 2026, another Tunisian court sentenced lawmaker Ahmed Saidani to eight months in prison over Facebook posts mocking President Kais Saied; what specific nickname did Saidani use for Saied regarding his flood response?",
+    "a": "The supreme commander of sanitation and rainwater drainage."
+  },
+  {
+    "q": "In early 2026, Google launched an open access data set for 21 African languages, including Luganda, Malagasy, Swahili, and Yoruba, for use in which type of software?",
+    "a": "Artificial intelligence voice recognition software."
+  },
+  {
+    "q": "In February 2026, European soccer clubs including Inter Milan and Atlético Madrid played friendly matches in eastern Libya as part of a state-backed campaign financed by which body overseen by Belgacem Haftar?",
+    "a": "The Libya Development and Reconstruction Fund."
+  },
+  {
+    "q": "According to the February 2026 article, what percentage of global trade flows through the Red Sea, a maritime corridor that Israel sought to access by recognizing Somaliland?",
+    "a": "12 percent."
+  },
+  {
+    "q": "In February 2026, South Africa announced it secured the release of 17 of its citizens who had been duped into fighting for Russia in Ukraine; how many of these men had returned to South Africa by that time?",
+    "a": "Four."
+  },
+  {
+    "q": "Which paramilitary group has been fighting the Sudanese military since 2023 and is the target of alleged Egyptian drone strikes in Sudan as of early 2026?",
+    "a": "The Rapid Support Forces (RSF)."
+  },
+  {
+    "q": "In February 2026, Egyptian President Abdel Fattah el-Sisi’s regime was accused of using military expansion and infrastructure projects to distract from public anger over the worsening economy, including a megacity on the Mediterranean with what estimated cost?",
+    "a": "$35 billion."
+  },
+  {
+    "q": "According to the February 2026 article, the military in Egypt controls up to what percentage of public projects, shielding linked firms from financial audits and parliamentary scrutiny?",
+    "a": "90 percent."
+  },
+  {
+    "q": "In February 2026, the newly opened Grand Egyptian Museum, which cost $1 billion to build, was noted for having few Egyptian visitors among crowds of tourists from which two regions?",
+    "a": "Western and East Asian tourists."
+  },
+  {
+    "q": "Which organization leads a delegation to Venezuela from February 25 to 26, 2026, aimed at strengthening oil and gas cooperation?",
+    "a": "The African Energy Chamber."
+  },
+  {
+    "q": "Where in South Africa did Africa’s Green Economy Summit continue from February 25 to 27, 2026?",
+    "a": "Cape Town."
+  },
+  {
+    "q": "In February 2026, the Russian Embassy in Nairobi refuted claims that its country was recruiting Kenyans for war in Ukraine, calling the allegations what kind of propaganda?",
+    "a": "Dangerous and misleading propaganda."
+  },
+  {
+    "q": "According to Chadian Communications Minister Mahamat Gassim Cherif in February 2026, the decision to close the border with Sudan followed repeated incursions and violations committed by forces involved in the conflict of which country?",
+    "a": "Sudan."
+  },
+  {
+    "q": "In February 2026, which specific jihadist group in Somalia is Egypt supporting counterterrorism efforts against through its deployment of troops to the African Union Support and Stabilization Mission?",
+    "a": "Al-Shabab."
+  },
+  {
+    "q": "Which warlord controls eastern Libya and is the father of Belgacem Haftar, who oversees the Libya Development and Reconstruction Fund financing soccer matches in Benghazi as of early 2026?",
+    "a": "Khalifa Haftar."
+  }
+]

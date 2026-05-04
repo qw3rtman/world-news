@@ -1,0 +1,27 @@
+{
+  "hash": "c7ec5adb552f",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.scmp.com/business/china-business/article/3345952/oil-above-us100-may-persist-goldman-warns-rally-not-over?module=topic_widget&pgtype=article",
+      "title": "Oil above US$100 may persist as Goldman warns rally not over | South China Morning Post",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 297,
+      "text_length": 1393
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1494703",
+      "spike_id": 6,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $200 by end of June?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.15500000000000003,
+      "spike_timestamp_before": "2026-03-09T02:00:18+00:00",
+      "spike_timestamp_after": "2026-03-09T21:00:21+00:00"
+    }
+  ]
+}

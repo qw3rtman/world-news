@@ -1,0 +1,27 @@
+{
+  "hash": "4d9268ca78d4",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://origin.www.bloomberg.com/news/articles/2026-02-23/gold-rises-for-fifth-day-on-us-tariff-uncertainty-iran-tension?srnd=undefined",
+      "title": "Gold Rises for Fifth Day on US Tariff Uncertainty, Iran Tension - Bloomberg",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "Yihui Xie",
+      "num_tokens": 90,
+      "text_length": 452
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1273328",
+      "spike_id": 1,
+      "market_question": "Will Gold (GC) hit (HIGH) $5,500 by end of February?",
+      "event_title": "What will Gold (GC) hit__ by end of February?",
+      "spike_direction": "up",
+      "spike_delta": 0.15650000000000003,
+      "spike_timestamp_before": "2026-02-23T09:30:28+00:00",
+      "spike_timestamp_after": "2026-02-23T23:30:28+00:00"
+    }
+  ]
+}

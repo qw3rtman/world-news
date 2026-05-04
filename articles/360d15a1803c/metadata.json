@@ -1,0 +1,37 @@
+{
+  "hash": "360d15a1803c",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://fortune.com/2026/03/04/openai-codex-growth-enterprise-ai-agents/",
+      "title": "OpenAI reports Codex usage is surging, says it plans to make Codex heart of wider agent push | Fortune",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "Jeremy Kahn",
+      "num_tokens": 251,
+      "text_length": 1156
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "801450",
+      "spike_id": 1,
+      "market_question": "Will OpenAI have the best AI model at the end of March 2026?",
+      "event_title": "Which company has the best AI model end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.1795,
+      "spike_timestamp_before": "2026-03-05T18:30:33+00:00",
+      "spike_timestamp_after": "2026-03-05T19:30:33+00:00"
+    },
+    {
+      "market_id": "801450",
+      "spike_id": 2,
+      "market_question": "Will OpenAI have the best AI model at the end of March 2026?",
+      "event_title": "Which company has the best AI model end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.203,
+      "spike_timestamp_before": "2026-03-05T18:30:33+00:00",
+      "spike_timestamp_after": "2026-03-06T02:30:37+00:00"
+    }
+  ]
+}

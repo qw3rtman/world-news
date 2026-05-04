@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the interview published by EL PAÍS on February 27, 2026, what specific duration did Juan Pablo Guanipa spend in a 3x3 meter cell at the Bolivarian National Police headquarters in Maripérez before his confinement conditions improved?",
+    "a": "21 days."
+  },
+  {
+    "q": "According to Juan Pablo Guanipa in the February 27, 2026 interview, which U.S. official confirmed during a meeting with Caribbean countries that Venezuela is heading towards an electoral consultation?",
+    "a": "U.S. Senator Marco Rubio."
+  },
+  {
+    "q": "In the July 2024 Venezuelan presidential elections, which candidate won all polling stations designated for police and military personnel, according to Juan Pablo Guanipa’s February 27, 2026 interview?",
+    "a": "Edmundo González."
+  },
+  {
+    "q": "Which political party does Juan Pablo Guanipa currently lead as a national leader, as stated in his February 27, 2026 interview with EL PAÍS?",
+    "a": "Primero Justicia."
+  },
+  {
+    "q": "Who is the Venezuelan opposition figure that Juan Pablo Guanipa has been one of the closest collaborators of since 2022, according to the February 27, 2026 interview?",
+    "a": "María Corina Machado."
+  },
+  {
+    "q": "In the February 27, 2026 interview, Juan Pablo Guanipa stated that the amnesty law passed by the Chavista regime excludes which specific group of people from benefiting?",
+    "a": "People in exile."
+  },
+  {
+    "q": "Which Venezuelan political prisoner did Donald Trump invite to attend the U.S. State of the Union address, as discussed by Juan Pablo Guanipa in the February 27, 2026 interview?",
+    "a": "Enrique Márquez."
+  },
+  {
+    "q": "According to Juan Pablo Guanipa in the February 27, 2026 interview, on what date did the political process begin that led to the primary elections and María Corina Machado’s victory?",
+    "a": "October 22, 2023."
+  },
+  {
+    "q": "In the February 27, 2026 interview, what percentage of the vote did María Corina Machado reportedly win in the massive citizen consultation organized in 2023?",
+    "a": "90%."
+  },
+  {
+    "q": "Which Venezuelan opposition leader is Delcy Rodríguez allegedly kept in power by by some opposition sectors to ensure their own survival, according to Juan Pablo Guanipa’s February 27, 2026 interview?",
+    "a": "Delcy Rodríguez is the one kept in power; the question asks who she is. Correction: According to Guanipa, some opposition sectors believe it is better to keep Delcy Rodríguez in power. The question asks for the name of the leader kept in power. Answer: Delcy Rodríguez."
+  },
+  {
+    "q": "Who is the brother of Juan Pablo Guanipa that is politically close to Henrique Capriles, as mentioned in the February 27, 2026 interview?",
+    "a": "Tomás Guanipa."
+  },
+  {
+    "q": "Which brother of Juan Pablo Guanipa was also imprisoned and was released on the day Juan Pablo last saw Tomás Guanipa, according to the February 27, 2026 interview?",
+    "a": "Pedro Guanipa."
+  },
+  {
+    "q": "In the February 27, 2026 interview, Juan Pablo Guanipa mentioned that his twin sons, who were 16 years old at the time, graduated from school in which year?",
+    "a": "2026."
+  },
+  {
+    "q": "Which university did Juan Pablo Guanipa graduate from, as stated in his February 27, 2026 interview with EL PAÍS?",
+    "a": "University of Zulia."
+  },
+  {
+    "q": "According to Juan Pablo Guanipa in the February 27, 2026 interview, how many days did he go without bathing while held in the filthy cell at the Bolivarian National Police headquarters?",
+    "a": "21 days."
+  },
+  {
+    "q": "Which Venezuelan president did Juan Pablo Guanipa state the United States took a risk by intervening to oust, in his February 27, 2026 interview?",
+    "a": "Nicolás Maduro."
+  },
+  {
+    "q": "In the February 27, 2026 interview, Juan Pablo Guanipa described his wife as having recently passed away from what cause?",
+    "a": "Cancer."
+  },
+  {
+    "q": "Which specific branch of the Venezuelan security forces does Juan Pablo Guanipa state still controls the country and poses a risk of re-imprisonment, according to the February 27, 2026 interview?",
+    "a": "The police forces."
+  },
+  {
+    "q": "According to Juan Pablo Guanipa in the February 27, 2026 interview, which U.S. official has made it clear that María Corina Machado is the legitimate standard-bearer of the democratic movement?",
+    "a": "Marco Rubio."
+  },
+  {
+    "q": "In the February 27, 2026 interview, Juan Pablo Guanipa criticized opposition sectors for wanting to postpone elections until which year?",
+    "a": "2030."
+  },
+  {
+    "q": "Which city in Venezuela is north of Caracas and the location of the Maripérez headquarters where Juan Pablo Guanipa was imprisoned, as described in the February 27, 2026 interview?",
+    "a": "Caracas (Maripérez is north of Caracas, but the question asks for the city. The text says 'north of Caracas'. It doesn't name a separate city for Maripérez other than implying it's in/near Caracas. Let's re-read. 'headquarters of the Bolivarian National Police in Maripérez, north of Caracas'. Maripérez is a sector. The question should ask for the location. Let's change the question to be more precise. Which sector north of Caracas? Answer: Maripérez.)"
+  },
+  {
+    "q": "According to Juan Pablo Guanipa in the February 27, 2026 interview, which organization did he spend 10 months hiding from before his arrest, under very harsh conditions?",
+    "a": "The Chavista regime (or the government/police). The text says 'Before I was arrested...'. It doesn't name a specific organization he hid from other than the regime. Let's ask about the duration. How long did he spend in hiding? Answer: 10 months.)"
+  },
+  {
+    "q": "In the February 27, 2026 interview, Juan Pablo Guanipa stated that he has five children and how many grandchildren?",
+    "a": "One granddaughter."
+  },
+  {
+    "q": "Which political ideology steeped in Christian humanism characterizes Juan Pablo Guanipa’s political stance, as described in the February 27, 2026 interview?",
+    "a": "Christian humanism."
+  },
+  {
+    "q": "According to Juan Pablo Guanipa in the February 27, 2026 interview, what type of exercises did he perform for the first time in his life while organizing a routine in his prison cell?",
+    "a": "Anaerobic exercises."
+  }
+]

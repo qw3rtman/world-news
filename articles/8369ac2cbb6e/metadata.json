@@ -1,0 +1,37 @@
+{
+  "hash": "8369ac2cbb6e",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://reuters.com/business/aerospace-defense/france-send-anti-drone-systems-cyprus-after-british-base-attack-report-says-2026-03-03/",
+      "title": "Britain, France and Greece send air-defence forces to Cyprus base after drone strike | Reuters",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Michele Kambas",
+      "num_tokens": 689,
+      "text_length": 3192
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1466423",
+      "spike_id": 5,
+      "market_question": "Will Iran strike Cyprus in March?",
+      "event_title": "Iran military action against ___ by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.215,
+      "spike_timestamp_before": "2026-03-02T12:30:39+00:00",
+      "spike_timestamp_after": "2026-03-03T12:00:38+00:00"
+    },
+    {
+      "market_id": "1466423",
+      "spike_id": 6,
+      "market_question": "Will Iran strike Cyprus in March?",
+      "event_title": "Iran military action against ___ by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.23500000000000001,
+      "spike_timestamp_before": "2026-03-02T22:30:27+00:00",
+      "spike_timestamp_after": "2026-03-03T17:30:29+00:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "hash": "bc29a649b0d9",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.nbcnews.com/politics/donald-trump/state-of-union-fact-check-trump-speech-2026-rcna259900",
+      "title": "Fact-checking Trump 2026 State of the Union address on jobs, inflation, crime, immigration and more",
+      "published_date": "2026-02-25T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 3526,
+      "text_length": 17020
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1385895",
+      "spike_id": 3,
+      "market_question": "Will the US next strike Iran during the week of March 1-7, 2026 (ET)?",
+      "event_title": "When will the US next strike Iran? (Week)",
+      "spike_direction": "down",
+      "spike_delta": -0.429,
+      "spike_timestamp_before": "2026-02-27T23:30:38+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:17+00:00"
+    },
+    {
+      "market_id": "1385895",
+      "spike_id": 4,
+      "market_question": "Will the US next strike Iran during the week of March 1-7, 2026 (ET)?",
+      "event_title": "When will the US next strike Iran? (Week)",
+      "spike_direction": "down",
+      "spike_delta": -0.4295,
+      "spike_timestamp_before": "2026-02-27T23:30:38+00:00",
+      "spike_timestamp_after": "2026-02-28T13:00:37+00:00"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "spike_index": 1,
+  "direction": "up",
+  "price_before": 0.0385,
+  "price_after": 0.6685,
+  "delta": 0.63,
+  "abs_delta": 0.63,
+  "timestamp_before": "2026-02-20T12:30:23+00:00",
+  "timestamp_after": "2026-02-20T15:00:19+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.reuters.com/world/china/trump-travel-china-march-31-april-2-amid-trade-tensions-2026-02-20/",
+      "file": "5ca6b3fd882a.txt",
+      "title": "Trump to travel to China next month, with US tariffs in focus | Reuters",
+      "published_date": "2026-02-20T00:00:00.000Z",
+      "author": "Trevor Hunnicutt",
+      "text_length": 5677,
+      "status": "ok",
+      "num_tokens": 1116
+    },
+    {
+      "url": "https://today.reuters.com/world/china/trump-travel-china-march-31-april-2-amid-trade-tensions-2026-02-20/",
+      "file": "f974d4a44c03.txt",
+      "title": "Trump to travel to China next month, with US tariffs in focus | Reuters",
+      "published_date": "2026-02-20T00:00:00.000Z",
+      "author": "Trevor Hunnicutt",
+      "text_length": 5680,
+      "status": "ok",
+      "num_tokens": 1116
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-02-20/trump-will-travel-to-china-in-late-march-for-high-stakes-xi-meet",
+      "file": "53f713cac0a6.txt",
+      "title": "Trump Plans China Trip for Xi Meeting Focused on Trade, Taiwan Issues - Bloomberg",
+      "published_date": "2026-02-20T00:00:00.000Z",
+      "author": "Jennifer A Dlouhy",
+      "text_length": 973,
+      "status": "ok",
+      "num_tokens": 226
+    },
+    {
+      "url": "https://www.japantimes.co.jp/news/2026/02/21/asia-pacific/politics/trump-china-visit-trade",
+      "file": "0576bb3a6452.txt",
+      "title": "Trump to travel to China next month, with U.S. trade policy in focus - The Japan Times",
+      "published_date": "2026-02-20T00:00:00.000Z",
+      "author": "No Author",
+      "text_length": 5061,
+      "status": "ok",
+      "num_tokens": 1003
+    },
+    {
+      "url": "https://www.straitstimes.com/world/united-states/trump-to-travel-to-china-from-march-31-to-april-2-amid-trade-tensions",
+      "file": "d962555d8821.txt",
+      "title": "Trump to travel to China from March 31 to April 2 amid trade tensions | The Straits Times",
+      "published_date": "2026-02-20T00:00:00.000Z",
+      "author": null,
+      "text_length": 2553,
+      "status": "ok",
+      "num_tokens": 524
+    }
+  ],
+  "total_tokens": 3985
+}

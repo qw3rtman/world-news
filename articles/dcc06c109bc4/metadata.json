@@ -1,0 +1,57 @@
+{
+  "hash": "dcc06c109bc4",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/kremlin-putin-phone-call-with-trump-shares-proposals-end-iran-war-quickly-2026-03-09/",
+      "title": "Trump, Putin talk of war and peace as US weighs easing Russian oil sanctions | Reuters",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "Guy Faulconbridge",
+      "num_tokens": 1088,
+      "text_length": 5323
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "618509",
+      "spike_id": 4,
+      "market_question": "Will Trump and Putin not meet?",
+      "event_title": "Where will Trump and Putin meet next?",
+      "spike_direction": "down",
+      "spike_delta": -0.1835,
+      "spike_timestamp_before": "2026-03-10T11:30:22+00:00",
+      "spike_timestamp_after": "2026-03-11T06:00:25+00:00"
+    },
+    {
+      "market_id": "618509",
+      "spike_id": 5,
+      "market_question": "Will Trump and Putin not meet?",
+      "event_title": "Where will Trump and Putin meet next?",
+      "spike_direction": "down",
+      "spike_delta": -0.20350000000000001,
+      "spike_timestamp_before": "2026-03-10T17:00:21+00:00",
+      "spike_timestamp_after": "2026-03-11T16:30:21+00:00"
+    },
+    {
+      "market_id": "618509",
+      "spike_id": 6,
+      "market_question": "Will Trump and Putin not meet?",
+      "event_title": "Where will Trump and Putin meet next?",
+      "spike_direction": "up",
+      "spike_delta": 0.15000000000000002,
+      "spike_timestamp_before": "2026-03-11T20:00:24+00:00",
+      "spike_timestamp_after": "2026-03-12T19:30:23+00:00"
+    },
+    {
+      "market_id": "618509",
+      "spike_id": 7,
+      "market_question": "Will Trump and Putin not meet?",
+      "event_title": "Where will Trump and Putin meet next?",
+      "spike_direction": "up",
+      "spike_delta": 0.15200000000000002,
+      "spike_timestamp_before": "2026-03-12T05:30:22+00:00",
+      "spike_timestamp_after": "2026-03-13T03:30:23+00:00"
+    }
+  ]
+}

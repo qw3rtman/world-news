@@ -1,0 +1,37 @@
+{
+  "hash": "5eb6d539f654",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://thehill.com/policy/international/5760555-gulf-unity-pushing-back-iran/",
+      "title": "Gulf countries coming under attack from Iran warn of retaliation",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 874,
+      "text_length": 4578
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "678747",
+      "spike_id": 1,
+      "market_question": "Will Israel strike 4 countries in 2026?",
+      "event_title": "How many different countries will Israel strike in 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.18949999999999997,
+      "spike_timestamp_before": "2026-02-28T06:00:42+00:00",
+      "spike_timestamp_after": "2026-02-28T11:00:35+00:00"
+    },
+    {
+      "market_id": "678747",
+      "spike_id": 2,
+      "market_question": "Will Israel strike 4 countries in 2026?",
+      "event_title": "How many different countries will Israel strike in 2026?",
+      "spike_direction": "down",
+      "spike_delta": -0.16999999999999998,
+      "spike_timestamp_before": "2026-02-28T11:00:35+00:00",
+      "spike_timestamp_after": "2026-02-28T18:30:38+00:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "hash": "d88afee01d9a",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.bbc.com/news/articles/cn8146l0n55o",
+      "title": "Trump brings in new 10% tariff as Supreme Court rejects his global import taxes",
+      "published_date": "2026-02-21T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1545,
+      "text_length": 7693
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "586301",
+      "spike_id": 1,
+      "market_question": "Supreme Court rules in favor of Trump's tariffs?",
+      "event_title": "Supreme Court rules in favor of Trump's tariffs?",
+      "spike_direction": "down",
+      "spike_delta": -0.2645,
+      "spike_timestamp_before": "2026-02-20T09:30:20+00:00",
+      "spike_timestamp_after": "2026-02-20T15:30:20+00:00"
+    }
+  ]
+}

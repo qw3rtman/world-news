@@ -1,0 +1,57 @@
+{
+  "hash": "69ea57d11b57",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://sph.straitstimes.com/world/united-states/trumps-trip-to-beijing-could-be-cancelled-says-analyst",
+      "title": "Trump’s trip to Beijing could be cancelled after US-Israel strikes on Iran: Analyst | The Straits Times",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 657,
+      "text_length": 3176
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "604490",
+      "spike_id": 10,
+      "market_question": "Will Trump visit China by March 31?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.15349999999999997,
+      "spike_timestamp_before": "2026-02-28T15:00:26+00:00",
+      "spike_timestamp_after": "2026-03-01T10:30:23+00:00"
+    },
+    {
+      "market_id": "604490",
+      "spike_id": 11,
+      "market_question": "Will Trump visit China by March 31?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.16600000000000004,
+      "spike_timestamp_before": "2026-02-28T19:30:26+00:00",
+      "spike_timestamp_after": "2026-03-01T16:00:27+00:00"
+    },
+    {
+      "market_id": "604490",
+      "spike_id": 12,
+      "market_question": "Will Trump visit China by March 31?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.22300000000000003,
+      "spike_timestamp_before": "2026-02-28T19:30:26+00:00",
+      "spike_timestamp_after": "2026-03-01T19:00:24+00:00"
+    },
+    {
+      "market_id": "604490",
+      "spike_id": 9,
+      "market_question": "Will Trump visit China by March 31?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.15799999999999992,
+      "spike_timestamp_before": "2026-02-28T07:30:25+00:00",
+      "spike_timestamp_after": "2026-03-01T07:00:22+00:00"
+    }
+  ]
+}

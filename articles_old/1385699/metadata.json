@@ -1,0 +1,24 @@
+{
+  "market_id": "1385699",
+  "question": "Will Balendra \u201cBalen\u201d Shah be the next Prime Minister of Nepal?",
+  "slug": "will-balendra-balen-shah-be-the-next-prime-minister-of-nepal",
+  "url": "https://polymarket.com/event/next-prime-minister-of-nepal",
+  "description": "Elections for Nepal\u2019s House of Representatives are scheduled for March 5, 2026. \n\nThis market will resolve to the next individual who is officially sworn in as Prime Minister of Nepal following the next parliamentary election.\n\nTo count for resolution, the individual must be formally sworn in. Any interim or caretaker Prime Minister will not count toward the resolution of this market.\n\nIf no such Prime Minister is sworn in by December 31, 2026, 11:59 PM ET, this market will resolve to \u201cOther\u201d.\n\nThe primary resolution source for this market will be official information from the Government of Nepal; however, a consensus of credible reporting may also be used.",
+  "event_title": "Next Prime Minister of Nepal",
+  "event_tags": [
+    "Elections",
+    "World",
+    "Global Elections",
+    "Nepal",
+    "World Elections",
+    "Nepal Election",
+    "Politics"
+  ],
+  "volume_total": 1249156.6483190048,
+  "created_at": "2026-02-16T16:11:34.727218Z",
+  "end_date": "2026-03-05T00:00:00Z",
+  "num_spikes": 10,
+  "max_spike": 0.2599999999999999,
+  "total_tokens": 71329,
+  "total_articles": 50
+}

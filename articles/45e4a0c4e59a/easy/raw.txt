@@ -1,0 +1,103 @@
+[
+  {
+    "q": "According to CNN reporting published on February 20, 2026, what specific types of facilities has Iran taken steps to repair and fortify in response to the US military forces buildup in the Middle East?",
+    "a": "Nuclear and missile sites."
+  },
+  {
+    "q": "In the CNN report dated February 20, 2026, what visual evidence was used to reveal Iran's preparations for potential US strikes?",
+    "a": "Satellite images."
+  },
+  {
+    "q": "Who is the CNN reporter credited with reporting on Iran's preparations for US strikes in the article published on February 20, 2026?",
+    "a": "Isobel Yeung."
+  },
+  {
+    "q": "What geopolitical context involving US military activity in the Middle East prompted Iran's repair and fortification efforts as described in the February 20, 2026 CNN report?",
+    "a": "The US military forces buildup in the Middle East."
+  },
+  {
+    "q": "What specific actions did Iran undertake at its nuclear and missile sites as revealed by satellite images in the February 20, 2026 CNN report?",
+    "a": "Repair and fortify."
+  },
+  {
+    {
+    "q": "Which news organization published the report on February 20, 2026, detailing Iran's preparations for US strikes?",
+    "a": "CNN."
+  },
+  {
+    "q": "What is the title of the CNN report published on February 20, 2026, that discusses Iran's preparations for US strikes?",
+    "a": "How is Iran preparing for US strikes?"
+  },
+  {
+    "q": "In the February 20, 2026 CNN report, what is the primary subject of the investigation regarding Iran's activities?",
+    "a": "How Iran is preparing for US strikes."
+  },
+  {
+    "q": "What type of military activity by the United States is cited in the February 20, 2026 CNN report as a factor in Iran's defensive preparations?",
+    "a": "Military forces buildup in the Middle East."
+  },
+  {
+    "q": "According to the February 20, 2026 CNN report, what specific infrastructure categories are being targeted by Iran's repair and fortification efforts?",
+    "a": "Nuclear and missile sites."
+  },
+  {
+    "q": "What medium provided the visual proof of Iran's preparations for US strikes in the CNN report published on February 20, 2026?",
+    "a": "Satellite images."
+  },
+  {
+    "q": "Who reported on the satellite images showing Iran's nuclear and missile site preparations in the February 20, 2026 CNN article?",
+    "a": "CNN’s Isobel Yeung."
+  },
+  {
+    "q": "What is the date of publication for the CNN report titled 'How is Iran preparing for US strikes?'",
+    "a": "February 20, 2026."
+  },
+  {
+    "q": "In the context of the February 20, 2026 CNN report, what is the relationship between the US military buildup and Iran's actions?",
+    "a": "Iran has taken steps to repair and fortify nuclear and missile sites in response to the US military forces buildup."
+  },
+  {
+    "q": "What specific defensive measures did Iran implement at its strategic sites as shown in the February 20, 2026 CNN report?",
+    "a": "Repair and fortify."
+  },
+  {
+    "q": "Which region's US military buildup is mentioned in the February 20, 2026 CNN report as a catalyst for Iran's preparations?",
+    "a": "The Middle East."
+  },
+  {
+    "q": "What kind of sites did Iran focus on for repair and fortification according to the satellite images cited in the February 20, 2026 CNN report?",
+    "a": "Nuclear and missile sites."
+  },
+  {
+    "q": "Who is the journalist associated with the February 20, 2026 CNN report on Iran's preparations for US strikes?",
+    "a": "Isobel Yeung."
+  },
+  {
+    "q": "What evidence did CNN use in its February 20, 2026 report to illustrate Iran's preparations for potential US strikes?",
+    "a": "Satellite images."
+  },
+  {
+    "q": "According to the February 20, 2026 CNN report, what is the nature of Iran's activities at its nuclear and missile facilities?",
+    "a": "Repair and fortify."
+  },
+  {
+    "q": "What is the specific timeframe of the US military activity that Iran is responding to, as described in the February 20, 2026 CNN report?",
+    "a": "The US military forces buildup in the Middle East."
+  },
+  {
+    "q": "In the February 20, 2026 CNN report, what is the source of the information regarding Iran's repair and fortification efforts?",
+    "a": "Satellite images."
+  },
+  {
+    "q": "What is the primary focus of the CNN report published on February 20, 2026, regarding Iran's strategic preparations?",
+    "a": "How Iran is preparing for US strikes."
+  },
+  {
+    "q": "Which two types of strategic sites did Iran repair and fortify as revealed in the February 20, 2026 CNN report?",
+    "a": "Nuclear and missile sites."
+  },
+  {
+    "q": "What is the name of the CNN reporter who covered the story of Iran's preparations for US strikes on February 20, 2026?",
+    "a": "Isobel Yeung."
+  }
+]

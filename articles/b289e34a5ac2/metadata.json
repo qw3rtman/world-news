@@ -1,0 +1,47 @@
+{
+  "hash": "b289e34a5ac2",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.pbs.org/newshour/world/hegseth-insists-the-iran-conflict-is-not-iraq-and-is-not-endless",
+      "title": "WATCH: Hegseth insists the Iran conflict is 'not Iraq' and is 'not endless' | PBS News",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1386,
+      "text_length": 6694
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1394299",
+      "spike_id": 10,
+      "market_question": "US forces enter Iran by December 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.39499999999999996,
+      "spike_timestamp_before": "2026-03-01T02:30:25+00:00",
+      "spike_timestamp_after": "2026-03-01T17:00:24+00:00"
+    },
+    {
+      "market_id": "1394299",
+      "spike_id": 14,
+      "market_question": "US forces enter Iran by December 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.16000000000000003,
+      "spike_timestamp_before": "2026-03-04T02:30:26+00:00",
+      "spike_timestamp_after": "2026-03-04T12:30:32+00:00"
+    },
+    {
+      "market_id": "1394299",
+      "spike_id": 9,
+      "market_question": "US forces enter Iran by December 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.375,
+      "spike_timestamp_before": "2026-03-01T02:30:25+00:00",
+      "spike_timestamp_after": "2026-03-01T11:30:37+00:00"
+    }
+  ]
+}

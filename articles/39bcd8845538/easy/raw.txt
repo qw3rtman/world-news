@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2026, which U.S. President announced that Senator Markwayne Mullin would replace Kristi Noem as the head of the Department of Homeland Security, and what was the effective date specified in that announcement?",
+    "a": "President Donald Trump announced the appointment, specifying an effective date of March 31, 2026."
+  },
+  {
+    "q": "During the week of March 9, 2026, which four U.S. Senators were identified as having voted with Republicans in the House to fund the Department of Homeland Security through September, and which specific Democratic Senator praised Markwayne Mullin as \"competent\" and \"honest\"?",
+    "a": "Four unnamed Democrats voted with Republicans; Senator Peter Welch praised Markwayne Mullin."
+  },
+  {
+    "q": "As of March 2026, which U.S. Senator criticized the firing of Kristi Noem as \"very good news\" but questioned whether it would change the Trump administration's migrant crackdown policies, specifically noting that Stephen Miller remained at the White House?",
+    "a": "Senator Chris Van Hollen."
+  },
+  {
+    "q": "In March 2026, which U.S. President declared he would not sign any bills into law until the Senate approved the Safeguard American Voter Eligibility (SAVE) America Act, a move that Senate Minority Leader Chuck Schumer warned would cause total gridlock?",
+    "a": "President Donald Trump."
+  },
+  {
+    "q": "During the third week of the Homeland Security shutdown in March 2026, which two Republican Senators reported that airports were tracking longer TSA wait times, with specific delays noted at Houston George Bush Intercontinental Airport and St. Louis Lambert International Airport?",
+    "a": "Senate Appropriations Committee Chair Susan Collins and Senator Katie Britt."
+  },
+  {
+    "q": "In March 2026, which U.S. Senator called on Democratic colleagues to reopen the Department of Homeland Security, arguing that blocking funding punishes ordinary federal workers and does not advance immigration enforcement reforms?",
+    "a": "Senator John Fetterman."
+  },
+  {
+    "q": "As of March 2026, which U.S. Senator announced a Democratic proposal to fund the Transportation Security Administration, the Coast Guard, and FEMA separately from Immigration and Customs Enforcement and Customs and Border Protection?",
+    "a": "Senator Patty Murray."
+  },
+  {
+    "q": "In March 2026, which U.S. Senate Majority Leader described Kristi Noem’s departure from the Department of Homeland Security as a \"major step\" that should move negotiations closer to a deal?",
+    "a": "Senate Majority Leader John Thune."
+  },
+  {
+    "q": "During the Homeland Security funding negotiations in March 2026, which two reforms did Republicans rule out that Democrats had placed atop their priority list, specifically regarding judicial warrants and officer attire?",
+    "a": "Requiring judicial warrants for immigration enforcement raids and banning federal immigration and border officers from wearing masks."
+  },
+  {
+    "q": "In March 2026, which U.S. Senator, who was President Trump’s pick to replace Kristi Noem, extended an olive branch to Democrats by offering to sit down with Senate Minority Leader Chuck Schumer to hear complaints about Noem’s leadership?",
+    "a": "Senator Markwayne Mullin."
+  },
+  {
+    "q": "As of March 2026, which U.S. Senator, the Chair of the Senate Homeland Security Committee, declined to comment on Markwayne Mullin’s nomination and had not yet announced the timing of a confirmation hearing?",
+    "a": "Senator Rand Paul."
+  },
+  {
+    "q": "During the third week of the Homeland Security shutdown in March 2026, how many Transportation Security Administration agents and screeners missed their first paychecks, and what percentage of unscheduled absences were administration officials expecting to rise to in the following weeks?",
+    "a": "More than 50,000 agents missed paychecks, and officials expected unscheduled absences to rise to 10 percent."
+  },
+  {
+    "q": "In March 2026, which two airports experienced specific TSA security screening wait times of 62 minutes and 54 minutes respectively, as reported by Republican Senators Susan Collins and Katie Britt?",
+    "a": "Houston George Bush Intercontinental Airport and St. Louis Lambert International Airport."
+  },
+  {
+    "q": "During the March 2026 negotiations to end the Homeland Security shutdown, which U.S. Senator stated that the White House had offered substantial concessions to Senate Minority Leader Chuck Schumer, according to GOP leaders and aides familiar with the talks?",
+    "a": "The article cites anonymous Republican senators and aides, but does not name a specific Republican senator who made this statement about the concessions."
+  },
+  {
+    "q": "In March 2026, which U.S. Vice Chair of the Senate Appropriations Committee argued that the Democratic proposal to split funding was necessary to ensure TSA agents get paid and FEMA is fully funded while negotiations continue?",
+    "a": "Senator Patty Murray."
+  },
+  {
+    "q": "During the Homeland Security funding talks in March 2026, which U.S. Senator stated that Republicans were dragging their feet on basic immigration enforcement reforms and that separating ICE from DHS was a nonstarter for Republicans?",
+    "a": "A senior Republican senator, whose name was not provided in the article."
+  },
+  {
+    "q": "In March 2026, which U.S. President’s pick for Homeland Security Secretary, Senator Markwayne Mullin, received positive reviews from some Democratic colleagues who believed his appointment would open the door to addressing problems at the department?",
+    "a": "President Donald Trump."
+  },
+  {
+    "q": "As of March 2026, which U.S. Senator predicted that Markwayne Mullin would be confirmed by the Senate and stated that Mullin’s appointment would give Democrats an opportunity to have a real discussion about the Department of Homeland Security?",
+    "a": "Senator Peter Welch."
+  },
+  {
+    "q": "During the week of March 9, 2026, which U.S. Senator stated that he refuses to punish government workers and will not put a significant part of the government in shutdown, distinguishing his views from the rest of his caucus?",
+    "a": "Senator John Fetterman."
+  },
+  {
+    "q": "In March 2026, which U.S. Senator questioned whether Kristi Noem’s firing would significantly change the administration’s aggressive crackdown on migrants, noting that Stephen Miller was still at the White House?",
+    "a": "Senator Chris Van Hollen."
+  },
+  {
+    "q": "During the Homeland Security shutdown negotiations in March 2026, which U.S. Senate Majority Leader said that Republican leaders hoped Noem’s departure would persuade a group of centrists to break with their leadership and vote for a bill to reopen the government?",
+    "a": "Senate Majority Leader John Thune."
+  },
+  {
+    "q": "In March 2026, which U.S. Senator warned that if President Trump insisted on passing the SAVE America Act before signing other bills, there would be total gridlock in the Senate?",
+    "a": "Senate Minority Leader Chuck Schumer."
+  },
+  {
+    "q": "As of March 2026, which U.S. Senator, a centrist, called on Democratic colleagues to reopen the Department of Homeland Security, asserting that blocking funding hurts ordinary federal workers without advancing immigration enforcement reforms?",
+    "a": "Senator John Fetterman."
+  },
+  {
+    "q": "During the March 2026 Homeland Security funding negotiations, which U.S. Senator stated that the White House brought forth new ideas earlier in the week that were rejected by Democratic negotiators?",
+    "a": "A Republican senator who requested anonymity."
+  },
+  {
+    "q": "In March 2026, which U.S. Senator, the Chair of the Appropriations Subcommittee on Homeland Security, reported alongside Susan Collins that airports were tracking longer TSA wait times?",
+    "a": "Senator Katie Britt."
+  }
+]

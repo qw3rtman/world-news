@@ -1,0 +1,27 @@
+{
+  "hash": "b89b33d6dbf6",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.thetimes.com/world/middle-east/israel-iran/article/iran-war-gulf-states-whats-next-dg7z798vg?gaa_at=eafs&gaa_n=AWEtsqdIVDHeTnCAMT7WGkdjAsmLfrg4XGDZS3S3Z4q65DvKaYD4dvLx4qMw&gaa_sig=ZkIsxcS3M1uxANU7XqhMkv3F5ROSxb4CSHSbfntgGeSjVL3-TxscIG01mw0mcjPlMY5I1GwjArFA-l6gOv4mxw%3D%3D&gaa_ts=69a6469e",
+      "title": "Gulf states risk being dragged into a war they do not want",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Samer Al-Atrush, Dubai",
+      "num_tokens": 1056,
+      "text_length": 4950
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1472010",
+      "spike_id": 6,
+      "market_question": "Will UAE strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.15499999999999997,
+      "spike_timestamp_before": "2026-03-02T11:30:22+00:00",
+      "spike_timestamp_after": "2026-03-02T17:00:35+00:00"
+    }
+  ]
+}

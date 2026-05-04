@@ -1,0 +1,47 @@
+{
+  "hash": "2c76e12ebb50",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.aljazeera.com/news/2026/2/22/somaliland-minister-says-us-may-access-its-minerals-military-bases-report",
+      "title": "Somaliland minister says US may access its minerals, military bases: Report | News | Al Jazeera",
+      "published_date": "2026-02-22T00:00:00.000Z",
+      "author": "AFP",
+      "num_tokens": 468,
+      "text_length": 2361
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1422365",
+      "spike_id": 1,
+      "market_question": "Will the US strike Somalia next?",
+      "event_title": "Next Country US Strikes",
+      "spike_direction": "up",
+      "spike_delta": 0.355,
+      "spike_timestamp_before": "2026-02-24T01:00:25+00:00",
+      "spike_timestamp_after": "2026-02-24T02:00:31+00:00"
+    },
+    {
+      "market_id": "1422365",
+      "spike_id": 2,
+      "market_question": "Will the US strike Somalia next?",
+      "event_title": "Next Country US Strikes",
+      "spike_direction": "down",
+      "spike_delta": -0.21499999999999997,
+      "spike_timestamp_before": "2026-02-24T02:00:31+00:00",
+      "spike_timestamp_after": "2026-02-24T14:00:26+00:00"
+    },
+    {
+      "market_id": "1422365",
+      "spike_id": 3,
+      "market_question": "Will the US strike Somalia next?",
+      "event_title": "Next Country US Strikes",
+      "spike_direction": "up",
+      "spike_delta": 0.18999999999999995,
+      "spike_timestamp_before": "2026-02-24T14:00:26+00:00",
+      "spike_timestamp_after": "2026-02-24T22:30:26+00:00"
+    }
+  ]
+}

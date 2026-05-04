@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In February 2026, which company stated that U.S. general licenses for oil and gas exploration in Venezuela would allow it to progress with its Dragon natural gas project?",
+    "a": "Shell (SHEL.L)"
+  },
+  {
+    "q": "What is the estimated size of the natural gas reserves in the Dragon field located in Venezuelan waters, as described in the February 2026 report?",
+    "a": "4.5 trillion cubic feet"
+  },
+  {
+    "q": "Which company spokesperson told Reuters in February 2026 that the issuance of recent U.S. general licenses was a positive signal for the Dragon project?",
+    "a": "A Shell company spokesperson"
+  },
+  {
+    "q": "In February 2026, which facility did Shell hope to use to eventually export gas from Venezuela's Dragon project?",
+    "a": "The Atlantic LNG facility in Trinidad and Tobago"
+  },
+  {
+    "q": "According to a recent statement by CEO Wael Sawan in early 2026, what is Shell's target timeframe for producing gas from Venezuela's Dragon field?",
+    "a": "Three years"
+  },
+  {
+    "q": "As of February 2026, what percentage ownership stake does Shell hold in the Atlantic LNG facility?",
+    "a": "45%"
+  },
+  {
+    "q": "Which other major energy company, alongside Shell, owns a 45% stake in the Atlantic LNG facility as of February 2026?",
+    "a": "BP (BP.L)"
+  },
+  {
+    "q": "What percentage ownership stake does NGC hold in the Atlantic LNG facility as of February 2026?",
+    "a": "10%"
+  },
+  {
+    "q": "What is the production capacity of the Atlantic LNG facility, as reported in February 2026?",
+    "a": "12 million metric tonnes per annum"
+  },
+  {
+    "q": "According to LSEG data cited in February 2026, how much gas did the Atlantic LNG facility export in 2025?",
+    "a": "9 million metric tonnes"
+  },
+  {
+    "q": "What was the primary reason cited for the reduced output of the Atlantic LNG facility in 2025, according to data reported in February 2026?",
+    "a": "Gas supply shortages"
+  },
+  {
+    "q": "In 2025, what percentage of Shell's global LNG production came from the Atlantic LNG facility, according to LSEG data reported in February 2026?",
+    "a": "10%"
+  },
+  {
+    "q": "In 2025, what percentage of BP's LNG exports came from the Atlantic LNG facility, according to LSEG data reported in February 2026?",
+    "a": "15%"
+  },
+  {
+    "q": "Which news agency reported on February 19, 2026, that Shell could progress with its Dragon project due to new U.S. licenses?",
+    "a": "Reuters"
+  },
+  {
+    "q": "In which two cities did Reuters reporters Curtis Williams and the editing team base their reporting on the Shell-Venezuela news in February 2026?",
+    "a": "Houston and London"
+  },
+  {
+    "q": "Who was the Reuters editor responsible for editing the report on Shell's Venezuela project published on February 19, 2026?",
+    "a": "Nathan Crooks and Rod Nickel"
+  },
+  {
+    "q": "What specific type of licenses did the U.S. issue in February 2026 that impacted Shell's operations in Venezuela?",
+    "a": "General licenses for oil and gas exploration"
+  },
+  {
+    "q": "Which country's waters contain the Dragon natural gas field that Shell is seeking to develop, as reported in February 2026?",
+    "a": "Venezuela"
+  },
+  {
+    "q": "In which Caribbean nation is the Atlantic LNG facility located, which Shell plans to use for exporting gas from Venezuela?",
+    "a": "Trinidad and Tobago"
+  },
+  {
+    "q": "What financial firm provided the data regarding Atlantic LNG's 2025 export volumes and production shares cited in the February 2026 Reuters report?",
+    "a": "LSEG"
+  },
+  {
+    "q": "Who is the CEO of Shell who stated in early 2026 that the company hopes to produce gas from the Dragon field in three years?",
+    "a": "Wael Sawan"
+  },
+  {
+    "q": "What historical issue has affected the Dragon project in Venezuelan waters prior to the February 2026 news?",
+    "a": "Starts and stops due to shifting U.S. policy toward Venezuela"
+  },
+  {
+    "q": "What is the ticker symbol for Shell as listed in the February 19, 2026 Reuters article?",
+    "a": "SHEL.L"
+  },
+  {
+    "q": "What is the ticker symbol for BP as listed in the February 19, 2026 Reuters article?",
+    "a": "BP.L"
+  },
+  {
+    "q": "According to the February 2026 report, what was the total annual production capacity of the Atlantic LNG facility in million metric tonnes?",
+    "a": "12 million metric tonnes"
+  },
+  {
+    "q": "In the February 2026 report, which entity owns the remaining 10% of the Atlantic LNG facility not owned by Shell or BP?",
+    "a": "NGC"
+  }
+]

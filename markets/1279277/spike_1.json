@@ -1,0 +1,65 @@
+{
+  "spike_index": 1,
+  "direction": "up",
+  "price_before": 0.02,
+  "price_after": 0.7945,
+  "delta": 0.7745,
+  "abs_delta": 0.7745,
+  "timestamp_before": "2026-02-27T19:00:37+00:00",
+  "timestamp_after": "2026-02-28T10:00:40+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.aljazeera.com/news/2026/2/28/missile-debris-injures-eight-in-qatar-after-iran-launches-barrage",
+      "file": "437de2ebb918.txt",
+      "title": "Missile debris injures 16 in Qatar after Iran launches barrage | US-Israel war on Iran News | Al Jazeera",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Enes Abuomer",
+      "text_length": 2881,
+      "status": "ok",
+      "num_tokens": 540
+    },
+    {
+      "url": "https://www.dawn.com/news/1976424/qatar-intercepts-two-iranian-missiles-official",
+      "file": "614185aba12d.txt",
+      "title": "Qatar intercepts two Iranian missiles: official - DAWN.COM",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 391,
+      "status": "ok",
+      "num_tokens": 84
+    },
+    {
+      "url": "https://www.iranintl.com/en/202602289193",
+      "file": "7681f15d91bc.txt",
+      "title": "Qatar says air base housing US troops targeted in missile attack | Iran International",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 85,
+      "status": "ok",
+      "num_tokens": 15
+    },
+    {
+      "url": "https://edition.cnn.com/world/live-news/israel-iran-attack-02-28-26-hnk-intl",
+      "file": "25920197eb26.txt",
+      "title": "February 28, 2026 \u2014 US-Israeli strikes on Iran | CNN",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Tal Shalev, Mostafa Salem, Adam Pourahmadi, Gawon Bae, Abbas Al Lawati, Christopher Lamb, Lauren Kent, Eugenia Josef, Oren Liebermann, Steven Jiang, Billy Stockwell, Leila Gharagozlou, Sophie Tanno, Catherine Nicholls, Jennifer Hansler, Antoinette Radford, Daria Tarasova-Markina, Christian Edwards, Eugenia Yosef, Sophia Saifi, Frederik Pleitgen, Tim Lister, Deva Lee, Helen Regan, Teele Rebane, Isaac Yee, Karina Tsui, Aleena Fayaz, Brad Lendon, Matt Egan, Bijan  Hosseini, Nick Paton Walsh, Chris Lau, Sandi Sidhu, Ivan Watson, Todd Symons, Riane Lumer, Kareem El Damanhoury, Martin Goillandeau, Michelle Velez, Jomana Karadsheh, Quinta Thomson, Ben Brown, Kylie Atwood, Emma Tucker, Sophia Peyser, Alejandra Jaramillo, Max Saltman, Thomas Bordeaux, Lauren Izso, Nina Giraldo, Kaanita Iyer, Dalia Abdelwahab, Stephen Collinson, Jennifer Hauser, Tori B. Powell, Kit Maher, Aditi Sangal, Adam Cancryn, Gianluca Mezzofiore, Jeremy Diamond, Kristen Holmes, Natasha Bertrand, Mitchell McCluskey, Abeer Salman, Dana Karni, Uriel Blanco, Anabella Gonzalez, Christian Sierra, Haley Britzky, Gul Tuysuz, Farida Elsebai, Yong Xiong, John Miller, Josh Campbell, Alayna Treene, Tala Alrajjal, Auzinea Bacon, Camila DeChalus, CNN Staff, Ellis Kim, Dan Berman, Julia Benbrook, Lou Robinson, Jim Sciutto, Kevin Liptak, Ren\u00e9e Rigdon, Nic Robertson, Samantha Waldenberg, Zachary Cohen, Manu Raju, Jeff Zeleny, Charlotte Reck, Duarte Mendonca, Logan Schiciano, Kaitlan Collins, Angus Watson, Avery Schmitz, Nadeen Ebrahim, Satish Cheney",
+      "text_length": 19949,
+      "status": "ok",
+      "num_tokens": 4043
+    },
+    {
+      "url": "https://www.npr.org/2026/02/28/nx-s1-5730239/gulf-countries-that-host-u-s-military-bases-say-iran-has-retaliated-to-u-s-strikes",
+      "file": "21e5dab22327.txt",
+      "title": "Gulf countries that host U.S. military bases say Iran has retaliated to U.S. strikes : NPR",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 4755,
+      "status": "ok",
+      "num_tokens": 1045
+    }
+  ],
+  "total_tokens": 5727
+}

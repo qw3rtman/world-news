@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the article published on March 6, 2026, what specific price threshold did Goldman Sachs warn oil prices might exceed next week if flows through the Strait of Hormuz do not recover?",
+    "a": "$100 per barrel."
+  },
+  {
+    "q": "According to the March 6, 2026 Reuters report, what percentage decrease in average daily flows through the Strait of Hormuz did Goldman Sachs currently estimate?",
+    "a": "90%."
+  },
+  {
+    "q": "In the March 6, 2026 article, which two historical years did Goldman Sachs note as benchmarks for oil price peaks that refined products might exceed if Strait of Hormuz flows remain depressed throughout March?",
+    "a": "2008 and 2022."
+  },
+  {
+    "q": "What was Goldman Sachs' base-case Brent crude oil price forecast for March 2026 as reported in the March 6, 2026 article?",
+    "a": "In the $80s."
+  },
+  {
+    "q": "According to the March 6, 2026 report, what was Goldman Sachs' base-case Brent crude oil price forecast for the second quarter of 2026?",
+    "a": "The high $70s."
+  },
+  {
+    "q": "In the March 6, 2026 article, which financial institution warned that Brent crude could potentially test $120 a barrel if the Middle East conflict persists for another couple of weeks?",
+    "a": "Barclays."
+  },
+  {
+    "q": "According to the March 6, 2026 Reuters report, which group's spokesman challenged U.S. President Donald Trump to deploy U.S. naval vessels to escort oil tankers through the Strait of Hormuz?",
+    "a": "Iran’s Revolutionary Guards."
+  },
+  {
+    "q": "In the March 6, 2026 article, what specific demand did U.S. President Donald Trump make of Iran, which escalated his demands a week into the war he launched alongside Israel?",
+    "a": "Unconditional surrender."
+  },
+  {
+    "q": "According to the March 6, 2026 report, for which week was crude oil set to record its strongest weekly gain since the extreme volatility of the COVID-19 pandemic in spring 2020?",
+    "a": "The week ending Friday, March 6, 2026."
+  },
+  {
+    "q": "In the March 6, 2026 article, which two countries were identified as having launched a war that halted shipping and energy exports through the Strait of Hormuz?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "According to the March 6, 2026 Reuters report, what condition did Goldman Sachs state would cause it to revisit its oil price forecast soon?",
+    "a": "If it does not see evidence supporting its assumption of a gradual normalization in Strait of Hormuz flows over the next few days."
+  },
+  {
+    "q": "In the March 6, 2026 article, which specific geographic chokepoint's disruption was cited as the primary cause for the severe disruption in oil flows and the resulting price warnings?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "According to the March 6, 2026 report, which specific type of oil products did Goldman Sachs highlight as likely to exceed 2008 and 2022 peaks if Strait of Hormuz flows remain depressed throughout March?",
+    "a": "Refined products."
+  },
+  {
+    "q": "In the March 6, 2026 article, what was the specific timeframe mentioned by Goldman Sachs for the potential depression of Strait of Hormuz flows that would trigger price peaks above 2008 and 2022 levels?",
+    "a": "Throughout March 2026."
+  },
+  {
+    "q": "According to the March 6, 2026 Reuters report, which historical event's spring 2020 volatility was used as a benchmark for the strength of the weekly crude oil gain expected in March 2026?",
+    "a": "The COVID-19 pandemic."
+  },
+  {
+    "q": "In the March 6, 2026 article, what was the specific escalation in U.S. President Donald Trump's rhetoric toward Iran that a spokesman for Iran’s Revolutionary Guards responded to by challenging him to deploy naval vessels?",
+    "a": "Trump's demand for Iran's unconditional surrender."
+  },
+  {
+    "q": "According to the March 6, 2026 report, which two major financial institutions issued warnings about oil prices exceeding $100 per barrel due to the Strait of Hormuz disruption?",
+    "a": "Goldman Sachs and Barclays."
+  },
+  {
+    "q": "In the March 6, 2026 article, what specific outcome did Goldman Sachs warn could make it more difficult to negotiate a swift end to hostilities in the Middle East?",
+    "a": "Trump's demand for Iran's unconditional surrender."
+  },
+  {
+    "q": "According to the March 6, 2026 Reuters report, what was the specific percentage drop in average daily flows through the Strait of Hormuz that Goldman Sachs estimated at the time of publication?",
+    "a": "90%."
+  },
+  {
+    "q": "In the March 6, 2026 article, which specific quarter's Brent crude forecast did Goldman Sachs place in the high $70s, contrasting with its March forecast?",
+    "a": "The second quarter of 2026."
+  },
+  {
+    "q": "According to the March 6, 2026 report, which specific entity did Iran’s Revolutionary Guards spokesman challenge to deploy U.S. naval vessels for escorting oil tankers?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "In the March 6, 2026 article, what specific type of risk did Goldman Sachs state was rapidly growing further regarding its base-case oil price forecast?",
+    "a": "Upside risks."
+  },
+  {
+    "q": "According to the March 6, 2026 Reuters report, which specific conflict in the Middle East was identified as keeping shipping and energy exports through the Strait of Hormuz halted?",
+    "a": "The war launched by the United States alongside Israel."
+  },
+  {
+    "q": "In the March 6, 2026 article, what specific timeframe did Barclays suggest for the potential persistence of the Middle East conflict that could cause Brent crude to test $120 a barrel?",
+    "a": "Another couple of weeks."
+  },
+  {
+    "q": "According to the March 6, 2026 report, which specific historical price peaks from 2008 and 2022 did Goldman Sachs warn refined products might exceed if Strait of Hormuz flows remained depressed throughout March 2026?",
+    "a": "The 2008 and 2022 peaks."
+  }
+]

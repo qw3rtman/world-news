@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the partnership announced on February 25, 2026, between Danish drugmaker Novo Nordisk and U.S.-based Vivtex Corp, what is the maximum total value of the deal for developing next-generation oral drugs for obesity and diabetes?",
+    "a": "Up to $2.1 billion."
+  },
+  {
+    "q": "Regarding the February 25, 2026 partnership between Novo Nordisk and Vivtex Corp, which company is responsible for the global development and commercialization of the drugs under the agreement?",
+    "a": "Novo Nordisk."
+  },
+  {
+    "q": "Under the February 25, 2026 agreement between Novo Nordisk and Vivtex Corp, what are the two types of future financial payments Novo Nordisk will make to Vivtex besides the undisclosed upfront payment?",
+    "a": "Milestone payments and royalties on future product sales."
+  },
+  {
+    "q": "What is the primary scientific aim of the February 25, 2026 partnership between Novo Nordisk and Vivtex Corp regarding the administration of biologic drugs?",
+    "a": "To make oral forms of biologic drugs that would otherwise be given as injections by improving how they are absorbed in the gut."
+  },
+  {
+    "q": "According to the February 25, 2026 announcement, what three specific tools or technologies does Vivtex Corp's platform use to help make biologic drugs work as pills?",
+    "a": "Gut-screening tests, delivery technologies, and AI tools."
+  },
+  {
+    "q": "Which GLP-1 drugs for obesity and type 2 diabetes, including the oral diabetes drug Rybelsus, were already being offered by Novo Nordisk as of the February 25, 2026 partnership announcement?",
+    "a": "Wegovy and Ozempic."
+  },
+  {
+    "q": "In January 2026, what specific product did Novo Nordisk launch in the U.S. that was described as the world's first oral drug for obesity?",
+    "a": "The Wegovy pill."
+  },
+  {
+    "q": "Under the February 25, 2026 deal between Novo Nordisk and Vivtex Corp, what specific aspect of drug development is licensed by the privately held Vivtex Corp to the partnership?",
+    "a": "Some of its oral drug-delivery technology."
+  },
+  {
+    "q": "What is the stock ticker symbol for Danish drugmaker Novo Nordisk as cited in the February 25, 2026 Reuters report?",
+    "a": "NOVOb.CO."
+  },
+  {
+    "q": "In the February 25, 2026 partnership between Novo Nordisk and Vivtex Corp, what is the status of the upfront payment amount that Novo Nordisk will make to Vivtex?",
+    "a": "It is undisclosed."
+  },
+  {
+    "q": "Which two medical conditions are the next-generation oral drugs being developed under the February 25, 2026 Novo Nordisk and Vivtex Corp partnership intended to treat?",
+    "a": "Obesity and diabetes."
+  },
+  {
+    "q": "What is the legal status of Vivtex Corp as described in the February 25, 2026 announcement regarding its partnership with Novo Nordisk?",
+    "a": "It is a privately held company."
+  },
+  {
+    "q": "Which company takes charge of global development and commercialization under the February 25, 2026 partnership agreement between Novo Nordisk and Vivtex Corp?",
+    "a": "Novo Nordisk."
+  },
+  {
+    "q": "What mechanism does the February 25, 2026 Novo Nordisk and Vivtex Corp partnership aim to improve in order to convert injectable biologic drugs into oral forms?",
+    "a": "How they are absorbed in the gut."
+  },
+  {
+    "q": "Besides gut-screening tests and delivery technologies, what advanced computational tool does Vivtex Corp utilize in its platform for oral biologic drug development as of the February 25, 2026 announcement?",
+    "a": "AI tools."
+  },
+  {
+    "q": "Which specific oral diabetes drug was already part of Novo Nordisk's portfolio as of the February 25, 2026 partnership announcement?",
+    "a": "Rybelsus."
+  },
+  {
+    "q": "In which country did Novo Nordisk launch the world's first oral drug for obesity in January 2026?",
+    "a": "The U.S."
+  },
+  {
+    "q": "What type of payment structure, involving future product sales, is included in the February 25, 2026 deal between Novo Nordisk and Vivtex Corp?",
+    "a": "Royalties."
+  },
+  {
+    "q": "Which U.S.-based corporation partnered with Danish drugmaker Novo Nordisk on February 25, 2026, to develop oral obesity and diabetes drugs?",
+    "a": "Vivtex Corp."
+  },
+  {
+    "q": "What class of drugs, including Wegovy and Ozempic, does Novo Nordisk offer for obesity and type 2 diabetes as of the February 25, 2026 report?",
+    "a": "GLP-1 drugs."
+  },
+  {
+    "q": "What is the specific date on which Novo Nordisk and Vivtex Corp announced their partnership deal worth up to $2.1 billion?",
+    "a": "February 25, 2026."
+  },
+  {
+    "q": "Under the February 25, 2026 agreement, what is the primary role of Vivtex Corp's licensed technology in the development of new drugs?",
+    "a": "Oral drug-delivery technology."
+  },
+  {
+    "q": "Which drug, launched by Novo Nordisk in January 2026, holds the distinction of being the world's first oral drug for obesity?",
+    "a": "Wegovy pill."
+  },
+  {
+    "q": "What are the two distinct types of future financial incentives, besides royalties, that Novo Nordisk will pay to Vivtex Corp under the February 25, 2026 deal?",
+    "a": "Milestone payments."
+  },
+  {
+    "q": "In the February 25, 2026 partnership, what is the specific geographic scope of Novo Nordisk's responsibilities for the drugs developed using Vivtex's technology?",
+    "a": "Global development and commercialization."
+  }
+]

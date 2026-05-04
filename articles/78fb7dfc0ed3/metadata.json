@@ -1,0 +1,27 @@
+{
+  "hash": "78fb7dfc0ed3",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://m.cnn.com/2026/02/28/politics/trump-iran-strikes-decision",
+      "title": "Trump deliberated on Iran for weeks. His ‘massive and ongoing’ operation comes with acknowledgment US lives could be lost | CNN Politics",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1608,
+      "text_length": 8201
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1399072",
+      "spike_id": 2,
+      "market_question": "US strikes Iran by March 6, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.7945000000000001,
+      "spike_timestamp_before": "2026-02-27T09:00:29+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:46+00:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "hash": "cd96e8c4f0e5",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/business/finance/iran-conflict-threat-economic-growth-ebrd-president-says-2026-03-05/",
+      "title": "Iran conflict a risk to economic growth, EBRD president says | Reuters",
+      "published_date": "2026-03-05T00:00:00.000Z",
+      "author": "Jonathan Spicer",
+      "num_tokens": 395,
+      "text_length": 1836
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "665307",
+      "spike_id": 11,
+      "market_question": "Will Iran close the Strait of Hormuz before 2027?",
+      "event_title": "Will Iran close the Strait of Hormuz by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.18899999999999995,
+      "spike_timestamp_before": "2026-03-06T04:30:23+00:00",
+      "spike_timestamp_after": "2026-03-07T02:30:22+00:00"
+    }
+  ]
+}

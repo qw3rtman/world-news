@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the context of the escalation of the Iran war as of late March 2026, what specific infrastructure did Iran warn it would strike if U.S. President Donald Trump followed through on his threat to attack its electricity grid?",
+    "a": "Energy and water infrastructure across the Gulf."
+  },
+  {
+    "q": "What specific regional dependency was cited as a reason for fears of mass disruption following Iran's threats in March 2026?",
+    "a": "Heavy dependence on desalination for drinking water."
+  },
+  {
+    "q": "As of March 21, 2026, how long had the Iran war been escalating beyond the control of U.S. President Donald Trump?",
+    "a": "Three weeks."
+  },
+  {
+    "q": "In March 2026, what condition did Iran state regarding the Strait of Hormuz being open to ships?",
+    "a": "It is open to all ships except those linked to enemies."
+  },
+  {
+    "q": "Regarding the Bahrain blast in March 2026, what type of missile was identified as likely being U.S.-operated?",
+    "a": "A Patriot missile."
+  },
+  {
+    "q": "In the image description from Reuters dated March 21, 2026, where was the tanker seen sitting at anchor with lightning flashing in the distance?",
+    "a": "Off Sultan Qaboos Port in Muscat, Oman."
+  },
+  {
+    "q": "Who is the photographer credited for the Reuters image of a tanker off Sultan Qaboos Port in Muscat, Oman, in March 2026?",
+    "a": "Stelios Misinas."
+  },
+  {
+    "q": "What ultimatum did U.S. President Donald Trump issue in early 2026 that led to Iran's threats against Gulf infrastructure?",
+    "a": "A threat to attack Iran's electricity grid."
+  },
+  {
+    "q": "Which two types of infrastructure did Iran threaten to target in the Gulf region in March 2026?",
+    "a": "Energy and water infrastructure."
+  },
+  {
+    "q": "What specific water source technology is the Gulf region heavily dependent on, according to reports in March 2026?",
+    "a": "Desalination."
+  },
+  {
+    "q": "In the context of the March 2026 Iran war escalation, which U.S. military system was involved in a blast in Bahrain?",
+    "a": "The Patriot missile system."
+  },
+  {
+    "q": "What distinction did Iran make in March 2026 regarding which ships were allowed to pass through the Strait of Hormuz?",
+    "a": "Ships linked to enemies were excluded."
+  },
+  {
+    "q": "Which port in Oman is featured in a Reuters image from March 21, 2026, showing a tanker and lightning?",
+    "a": "Sultan Qaboos Port."
+  },
+  {
+    "q": "What was the status of the Iran war as of late March 2026 in relation to U.S. President Donald Trump's control?",
+    "a": "It had escalated beyond his control."
+  },
+  {
+    "q": "What specific action by U.S. President Donald Trump triggered Iran's warning to strike Gulf energy and water infrastructure in March 2026?",
+    "a": "His threat to attack Iran's electricity grid."
+  },
+  {
+    "q": "Which country's port was the location of the tanker image described in the Reuters article from March 21, 2026?",
+    "a": "Oman."
+  },
+  {
+    "q": "In March 2026, what was the primary concern regarding the potential Iranian strike on Gulf water infrastructure?",
+    "a": "Mass disruption of drinking water supplies due to reliance on desalination."
+  },
+  {
+    "q": "What type of news coverage did Reuters provide regarding the Bahrain blast in March 2026?",
+    "a": "An exclusive report stating the Patriot missile involved was likely U.S.-operated."
+  },
+  {
+    "q": "Who was the U.S. President issuing threats against Iran's electricity grid in early 2026?",
+    "a": "Donald Trump."
+  },
+  {
+    "q": "What geographic region was the focus of Iran's threats against energy and water infrastructure in March 2026?",
+    "a": "The Gulf."
+  },
+  {
+    "q": "In the Reuters image from March 21, 2026, what weather phenomenon was visible in the distance off the coast of Oman?",
+    "a": "Lightning."
+  },
+  {
+    "q": "What was the timeline of the Iran war escalation as described in the article published on March 10, 2026, regarding events three weeks prior?",
+    "a": "The war had escalated beyond U.S. President Donald Trump's control."
+  },
+  {
+    "q": "Which specific entity did Iran claim was operating the Patriot missile involved in the Bahrain blast in March 2026?",
+    "a": "The United States."
+  },
+  {
+    "q": "What was the stated consequence of Iran's threats against Gulf infrastructure in March 2026?",
+    "a": "Fears of mass disruption in the region."
+  },
+  {
+    "q": "Which news agency published the article titled 'Iran threatens to retaliate against Gulf energy and water after Trump ultimatum' on March 10, 2026?",
+    "a": "Reuters."
+  }
+]

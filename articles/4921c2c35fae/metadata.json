@@ -1,0 +1,57 @@
+{
+  "hash": "4921c2c35fae",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://uat.apnews.com/article/iran-trump-diplomacy-airstrikes-cia-khamenei-talks-d605cf78898ab93fa992b32d0c47da2a",
+      "title": "US intel did not suggest a preemptive strike from Iran, AP sources say | AP News",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1240,
+      "text_length": 6534
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1465969",
+      "spike_id": 3,
+      "market_question": "Will US or Israel strike Iran on March 4, 2026?",
+      "event_title": "US/Israel strikes Iran on...?",
+      "spike_direction": "up",
+      "spike_delta": 0.26,
+      "spike_timestamp_before": "2026-02-28T14:30:27+00:00",
+      "spike_timestamp_after": "2026-03-01T08:00:27+00:00"
+    },
+    {
+      "market_id": "1465969",
+      "spike_id": 4,
+      "market_question": "Will US or Israel strike Iran on March 4, 2026?",
+      "event_title": "US/Israel strikes Iran on...?",
+      "spike_direction": "up",
+      "spike_delta": 0.31000000000000005,
+      "spike_timestamp_before": "2026-02-28T14:30:27+00:00",
+      "spike_timestamp_after": "2026-03-01T13:00:25+00:00"
+    },
+    {
+      "market_id": "1465969",
+      "spike_id": 5,
+      "market_question": "Will US or Israel strike Iran on March 4, 2026?",
+      "event_title": "US/Israel strikes Iran on...?",
+      "spike_direction": "up",
+      "spike_delta": 0.21500000000000008,
+      "spike_timestamp_before": "2026-02-28T21:30:42+00:00",
+      "spike_timestamp_after": "2026-03-01T15:30:35+00:00"
+    },
+    {
+      "market_id": "1465969",
+      "spike_id": 6,
+      "market_question": "Will US or Israel strike Iran on March 4, 2026?",
+      "event_title": "US/Israel strikes Iran on...?",
+      "spike_direction": "up",
+      "spike_delta": 0.22999999999999998,
+      "spike_timestamp_before": "2026-02-28T21:30:42+00:00",
+      "spike_timestamp_after": "2026-03-01T21:30:42+00:00"
+    }
+  ]
+}

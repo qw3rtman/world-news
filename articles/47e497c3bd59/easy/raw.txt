@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On March 5, 2026, what specific geopolitical conflict was cited as the driver for rising gold and silver prices in India, and on which day of that conflict did the price movement occur?",
+    "a": "The US-Israel-Iran conflict, which was in its sixth day."
+  },
+  {
+    "q": "As of March 5, 2026, what was the domestic futures price of 24-carat gold per 10 grams on the Multi Commodity Exchange (MCX), and what was the percentage increase?",
+    "a": "Rs 1,62,600, representing an increase of nearly 0.67%."
+  },
+  {
+    "q": "On March 5, 2026, by what percentage did silver surge on the Multi Commodity Exchange (MCX), and what was its price per kilogram?",
+    "a": "Silver surged 1.9% to Rs 2,70,596 per kilogram."
+  },
+  {
+    "q": "According to the Bullions website on March 5, 2026, what were the quoted prices for gold per 10 grams and silver per kilogram in India?",
+    "a": "Gold was quoted at Rs 1,62,100 per 10 grams, and silver was quoted at Rs 2,66,360 per kg."
+  },
+  {
+    "q": "As of 7:59 a.m. Singapore time on March 5, 2026, what was the spot price of gold per ounce, and by what percentage did it rise?",
+    "a": "Spot gold rose 0.5 percent to $5,164.57 an ounce."
+  },
+  {
+    "q": "On March 5, 2026, what was the spot price of silver per ounce in overseas trade, and what was its performance in the previous session according to Bloomberg?",
+    "a": "Silver was $83.98 an ounce, building on a nearly 2 percent advance in the previous session."
+  },
+  {
+    "q": "Among the major Indian metros listed on March 5, 2026, which city quoted the highest retail rate for 24-carat gold per 10 grams, and what was that rate?",
+    "a": "Chennai quoted the highest rate at Rs 1,62,280 per 10 grams."
+  },
+  {
+    "q": "On March 5, 2026, what was the retail gold price per 10 grams in Delhi, and how did it compare to the price in Mumbai?",
+    "a": "Delhi was Rs 1,61,530 per 10 grams, which was lower than Mumbai's rate of Rs 1,61,810 per 10 grams."
+  },
+  {
+    "q": "Which three Indian cities had gold prices above Rs 1,62,000 per 10 grams on March 5, 2026, and what were their respective rates?",
+    "a": "Chennai (Rs 1,62,280), Hyderabad (Rs 1,62,070), and Bengaluru (Rs 1,61,940)."
+  },
+  {
+    "q": "On March 5, 2026, which Indian city quoted the highest retail rate for silver per kilogram, and what was that specific rate?",
+    "a": "Chennai quoted the highest rate at Rs 2,66,650 per kg."
+  },
+  {
+    "q": "What was the silver price per kilogram in Kolkata on March 5, 2026, and how did it compare to the price in Delhi?",
+    "a": "Kolkata was Rs 2,65,530 per kg, which was higher than Delhi's rate of Rs 2,65,420 per kg."
+  },
+  {
+    "q": "Among the cities listed for silver prices on March 5, 2026, which city had the lowest rate per kilogram, and what was that rate?",
+    "a": "Delhi had the lowest rate at Rs 2,65,420 per kg."
+  },
+  {
+    "q": "According to the article dated March 5, 2026, what four factors influence gold prices in India?",
+    "a": "International bullion markets, the dollar's trajectory, import duties, and local demand."
+  },
+  {
+    "q": "On March 5, 2026, which specific sector was cited as a key driver of local demand for gold in India?",
+    "a": "The jewellery trade."
+  },
+  {
+    "q": "Why do precious metals like gold typically draw buying interest during periods of geopolitical strain and financial volatility, according to the March 5, 2026 article?",
+    "a": "Investors look to diversify risk."
+  },
+  {
+    "q": "Historically, what function has gold served during episodes of currency swings and inflationary pressures, as noted in the March 5, 2026 article?",
+    "a": "Gold has functioned as a store of value."
+  },
+  {
+    "q": "On March 5, 2026, how did the equity markets perform relative to the rise in gold and silver prices?",
+    "a": "Equity markets faced pressure while precious metals rose."
+  },
+  {
+    "q": "What was the specific percentage gain for silver in the trading session prior to March 5, 2026, according to Bloomberg reports cited in the article?",
+    "a": "Silver had a nearly 2 percent advance in the previous session."
+  },
+  {
+    "q": "In the list of Indian metro gold prices on March 5, 2026, which city had a rate of Rs 1,61,940 per 10 grams?",
+    "a": "Bengaluru."
+  },
+  {
+    "q": "On March 5, 2026, what was the silver price per kilogram in Hyderabad, and how did it rank compared to Chennai and Bengaluru?",
+    "a": "Hyderabad was Rs 2,66,300 per kg, ranking second behind Chennai (Rs 2,66,650) and ahead of Bengaluru (Rs 2,66,090)."
+  },
+  {
+    "q": "Which two Indian cities had silver prices below Rs 2,65,600 per kilogram on March 5, 2026, and what were their rates?",
+    "a": "Mumbai (Rs 2,65,880) and Delhi (Rs 2,65,420)."
+  },
+  {
+    "q": "On March 5, 2026, what was the exact spot price of gold in US dollars per ounce as reported from Singapore trade?",
+    "a": "$5,164.57 an ounce."
+  },
+  {
+    "q": "Which website was cited in the March 5, 2026 article as the source for the current quoted prices of gold and silver in India?",
+    "a": "The Bullions website."
+  },
+  {
+    "q": "On March 5, 2026, what was the gold price per 10 grams in Kolkata, and how did it compare to the price in Mumbai?",
+    "a": "Kolkata was Rs 1,61,600 per 10 grams, which was lower than Mumbai's Rs 1,61,810 per 10 grams."
+  },
+  {
+    "q": "According to the March 5, 2026 article, what was the status of de-escalation clarity regarding the US-Israel-Iran conflict that was driving market interest?",
+    "a": "There was no clarity on de-escalation."
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "hash": "93c6c6a1332e",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnn.com/2026/03/03/world/video/strait-of-hormuz-blocked-iran-stout-vrtc",
+      "title": "Iran threatens critical oil shipping channel | CNN",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Henry Zeris",
+      "num_tokens": 39,
+      "text_length": 212
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "665307",
+      "spike_id": 10,
+      "market_question": "Will Iran close the Strait of Hormuz before 2027?",
+      "event_title": "Will Iran close the Strait of Hormuz by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.15149999999999997,
+      "spike_timestamp_before": "2026-03-05T02:00:26+00:00",
+      "spike_timestamp_after": "2026-03-05T20:00:38+00:00"
+    }
+  ]
+}

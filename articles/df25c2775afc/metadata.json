@@ -1,0 +1,27 @@
+{
+  "hash": "df25c2775afc",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.nbcnews.com/politics/donald-trump/trump-decided-strike-iran-rcna261205",
+      "title": "How Trump decided to strike Iran: What led up to his attack",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 2436,
+      "text_length": 11317
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "984442",
+      "spike_id": 1,
+      "market_question": "US strikes Iran by June 30, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.34450000000000003,
+      "spike_timestamp_before": "2026-02-27T08:30:35+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:17+00:00"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "spike_index": 9,
+  "direction": "up",
+  "price_before": 0.235,
+  "price_after": 0.56,
+  "delta": 0.32500000000000007,
+  "abs_delta": 0.32500000000000007,
+  "timestamp_before": "2026-03-17T06:00:44+00:00",
+  "timestamp_after": "2026-03-18T05:30:41+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://fortune.com/2026/03/17/mastercard-bvnk-acquisition-stablecoins-1-8-billion/",
+      "file": "8a6e15ed6ba7.txt",
+      "title": "Mastercard to acquire crypto startup BVNK for up to $1.8 billion in largest stablecoin deal to date | Fortune",
+      "published_date": "2026-03-17T00:00:00.000Z",
+      "author": "Ben Weiss",
+      "text_length": 1011,
+      "status": "ok",
+      "num_tokens": 235
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/upgrad-signs-term-sheet-to-acquire-unacademy-in-all-stock-deal/articleshow/129592490.cms",
+      "file": "26482e89116d.txt",
+      "title": "Upgrad Acquisition Of Unacademy: Upgrad signs term sheet to acquire Unacademy in all-stock deal - The Times of India",
+      "published_date": "2026-03-15T00:00:00.000Z",
+      "author": "Supriya Roy  / TNN /   Mar 15, 2026, 22:05 IST",
+      "text_length": 4821,
+      "status": "ok",
+      "num_tokens": 1057
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/15/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-indias-edtech-sector-consolidates/",
+      "file": "e092f057e4a9.txt",
+      "title": "Unacademy to be acquired by upGrad in share-swap deal as India\u2019s edtech sector consolidates | TechCrunch",
+      "published_date": "2026-03-15T00:00:00.000Z",
+      "author": "Jagmeet Singh",
+      "text_length": 3490,
+      "status": "ok",
+      "num_tokens": 707
+    },
+    {
+      "url": "https://markets.ft.com/data/announce/full?dockey=600-202603170800BIZWIRE_USPRX____20260317_BW174940-1",
+      "file": "ebc84268d294.txt",
+      "title": "Mastercard to Acquire BVNK to Connect On-Chain Payments and Fiat Rails \u2013 Company Announcement - FT.com",
+      "published_date": "2026-03-17T00:00:00.000Z",
+      "author": null,
+      "text_length": 8099,
+      "status": "ok",
+      "num_tokens": 1528
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/16/apple-acquires-video-editing-software-company-motionvfx",
+      "file": "beed8d772321.txt",
+      "title": "Apple acquires video editing software company MotionVFX | TechCrunch",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "Aisha Malik",
+      "text_length": 2031,
+      "status": "ok",
+      "num_tokens": 425
+    }
+  ],
+  "total_tokens": 3952
+}

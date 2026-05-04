@@ -1,0 +1,57 @@
+{
+  "hash": "c65176d79631",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/video/2026/03/06/jeremy-siegel-oil-could-hit-100-if-no-breakthrough-in-iran.html",
+      "title": "Jeremy Siegel: Oil could hit $100 if no breakthrough in Iran",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 50,
+      "text_length": 231
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1467766",
+      "spike_id": 10,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $100 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.41,
+      "spike_timestamp_before": "2026-03-06T02:30:28+00:00",
+      "spike_timestamp_after": "2026-03-06T21:00:27+00:00"
+    },
+    {
+      "market_id": "1467766",
+      "spike_id": 11,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $100 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.445,
+      "spike_timestamp_before": "2026-03-06T02:30:28+00:00",
+      "spike_timestamp_after": "2026-03-07T01:00:25+00:00"
+    },
+    {
+      "market_id": "1467766",
+      "spike_id": 12,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $100 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.5,
+      "spike_timestamp_before": "2026-03-06T07:30:22+00:00",
+      "spike_timestamp_after": "2026-03-07T06:00:32+00:00"
+    },
+    {
+      "market_id": "1515775",
+      "spike_id": 2,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $105 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.18500000000000005,
+      "spike_timestamp_before": "2026-03-07T05:00:25+00:00",
+      "spike_timestamp_after": "2026-03-07T17:30:23+00:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "hash": "e4e877ee2571",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/03/02/gold-price-jumps-on-middle-east-turmoil-what-to-know-before-investing.html",
+      "title": "Gold price jumps on Middle East turmoil. What to know before investing",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Sarah Agostino",
+      "num_tokens": 1128,
+      "text_length": 5185
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1032343",
+      "spike_id": 20,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "up",
+      "spike_delta": 0.1935,
+      "spike_timestamp_before": "2026-03-01T21:30:37+00:00",
+      "spike_timestamp_after": "2026-03-02T04:30:21+00:00"
+    }
+  ]
+}

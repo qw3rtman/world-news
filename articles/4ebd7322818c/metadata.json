@@ -1,0 +1,37 @@
+{
+  "hash": "4ebd7322818c",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://building.theatlantic.com/gemini-3-deep-think-shocked-everyone-why-benchmarks-are-the-new-turing-test-arc-agi-2-hle-c35562cd5190",
+      "title": "Gemini 3 Deep Think Shocked Everyone: What ARC-AGI-2, HLE, MMMU-Pro, Codeforces Measure | Data Science Collective",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": "Luca Zavarella",
+      "num_tokens": 351,
+      "text_length": 1376
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "801449",
+      "spike_id": 1,
+      "market_question": "Will Anthropic have the best AI model at the end of March 2026?",
+      "event_title": "Which company has the best AI model end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.22799999999999998,
+      "spike_timestamp_before": "2026-02-21T21:30:22+00:00",
+      "spike_timestamp_after": "2026-02-22T12:30:20+00:00"
+    },
+    {
+      "market_id": "801449",
+      "spike_id": 2,
+      "market_question": "Will Anthropic have the best AI model at the end of March 2026?",
+      "event_title": "Which company has the best AI model end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.23250000000000004,
+      "spike_timestamp_before": "2026-02-21T21:30:22+00:00",
+      "spike_timestamp_after": "2026-02-22T16:30:19+00:00"
+    }
+  ]
+}

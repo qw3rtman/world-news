@@ -1,0 +1,37 @@
+{
+  "hash": "5b33e2e7c277",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://polling.reuters.com/technology/openai-buy-python-toolmaker-astral-take-anthropic-2026-03-19/",
+      "title": "OpenAI to buy Python toolmaker Astral to take on Anthropic | Reuters",
+      "published_date": "2026-03-19T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 283,
+      "text_length": 1260
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "700395",
+      "spike_id": 11,
+      "market_question": "Will Lovable be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.18499999999999994,
+      "spike_timestamp_before": "2026-03-18T07:30:41+00:00",
+      "spike_timestamp_after": "2026-03-19T01:00:39+00:00"
+    },
+    {
+      "market_id": "700395",
+      "spike_id": 12,
+      "market_question": "Will Lovable be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.33499999999999996,
+      "spike_timestamp_before": "2026-03-19T04:00:42+00:00",
+      "spike_timestamp_after": "2026-03-19T05:00:40+00:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "hash": "28d2552d487d",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://uk.mobile.reuters.com/legal/transactional/paramount-submits-higher-offer-warner-bros-discovery-bid-block-netflix-source-2026-02-23/",
+      "title": "Paramount submits higher offer for Warner Bros Discovery in bid to block Netflix, source says  | Reuters",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "Dawn Chmielewski",
+      "num_tokens": 1154,
+      "text_length": 5740
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694939",
+      "spike_id": 2,
+      "market_question": "Will Ubisoft be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.15499999999999997,
+      "spike_timestamp_before": "2026-02-22T13:00:15+00:00",
+      "spike_timestamp_after": "2026-02-23T13:00:14+00:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "hash": "1bb2cf34e923",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://cbc.ca/news/entertainment/james-cameron-warner-bros-netflix-paramount-mergers-9.7099666",
+      "title": "Netflix backs away from Warner Bros. bid, clearing the way for Paramount. Here’s a breakdown of both deals | CBC News",
+      "published_date": "2026-02-20T00:00:00.000Z",
+      "author": "Griffin Jaeger    ·  CBC News    ·  Posted: Feb 20, 2026 6:29 PM EST | Last Updated: February 27",
+      "num_tokens": 1325,
+      "text_length": 6769
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694939",
+      "spike_id": 1,
+      "market_question": "Will Ubisoft be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.16999999999999998,
+      "spike_timestamp_before": "2026-02-20T02:30:17+00:00",
+      "spike_timestamp_after": "2026-02-20T09:30:15+00:00"
+    }
+  ]
+}

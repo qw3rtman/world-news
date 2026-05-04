@@ -1,0 +1,37 @@
+{
+  "hash": "646db598aa4f",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.thetimes.com/us/american-politics/article/will-the-us-go-to-war-with-iran-news-attack-bwtdhkbnm?gaa_at=eafs&gaa_n=AWEtsqcLt8WUu7Eg4Bqnv0VIeRGTMY7mYjO6BDRDnbkmAMAUjOWGYqOBNRRw&gaa_sig=65XC4OgeQQPhgFQBcg75_AUFh7hzZEgBKa5wpcZ8qXRaDQjzq1b2K35f8FHctw2pcO5ZZ030wO4frP6YoaHhcw%3D%3D&gaa_ts=699b274e",
+      "title": "Will the US go to war with Iran?",
+      "published_date": "2026-02-22T00:00:00.000Z",
+      "author": "George Grylls, Washington",
+      "num_tokens": 1702,
+      "text_length": 8440
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1422362",
+      "spike_id": 1,
+      "market_question": "Will the US strike Yemen next?",
+      "event_title": "Next Country US Strikes",
+      "spike_direction": "down",
+      "spike_delta": -0.225,
+      "spike_timestamp_before": "2026-02-24T01:30:23+00:00",
+      "spike_timestamp_after": "2026-02-24T09:30:22+00:00"
+    },
+    {
+      "market_id": "1422362",
+      "spike_id": 2,
+      "market_question": "Will the US strike Yemen next?",
+      "event_title": "Next Country US Strikes",
+      "spike_direction": "down",
+      "spike_delta": -0.2645,
+      "spike_timestamp_before": "2026-02-24T01:30:23+00:00",
+      "spike_timestamp_after": "2026-02-24T13:00:26+00:00"
+    }
+  ]
+}

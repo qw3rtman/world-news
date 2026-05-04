@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the article published on March 11, 2026, what specific monetary amount did Nvidia invest in the AI cloud company Nebius?",
+    "a": "$2 billion"
+  },
+  {
+    "q": "According to the Barron's article dated March 11, 2026, which two major technology companies have cloud-computing deals with Nebius?",
+    "a": "Microsoft and Meta Platforms"
+  },
+  {
+    "q": "In the context of the March 11, 2026, report by Adam Clark, how did Nebius stock perform on the Wednesday prior to publication?",
+    "a": "It rose by double-digits"
+  },
+  {
+    "q": "As described in the March 11, 2026, Barron's article, what industry does Nvidia belong to and what is its strategic action regarding the artificial-intelligence boom?",
+    "a": "Nvidia is a chip maker that continues to backstop the artificial-intelligence boom"
+  },
+  {
+    "q": "In the March 11, 2026, article by Adam Clark, what is the specific business classification of Nebius?",
+    "a": "AI cloud company"
+  },
+  {
+    "q": "According to the Barron's article published on March 11, 2026, besides CoreWeave, what other type of investment play is Nebius considered to be?",
+    "a": "A 'NeoCloud' play"
+  },
+  {
+    "q": "In the March 11, 2026, report, which company is identified as the chip maker investing in Nebius?",
+    "a": "Nvidia"
+  },
+  {
+    "q": "What is the full name of the news outlet that published the article on March 11, 2026, regarding Nvidia's investment in Nebius?",
+    "a": "Barron's"
+  },
+  {
+    "q": "According to the article dated March 11, 2026, what is the stock ticker symbol for Nebius?",
+    "a": "NBIS"
+  },
+  {
+    "q": "In the March 11, 2026, Barron's article, who is the author of the report on Nvidia's investment?",
+    "a": "Adam Clark"
+  },
+  {
+    "q": "As of the March 11, 2026, publication, which company's stock is mentioned as not being the only 'NeoCloud' play in the context of Nvidia's investment?",
+    "a": "CoreWeave"
+  },
+  {
+    "q": "In the article published on March 11, 2026, what specific day of the week did Nebius stock rise by double-digits?",
+    "a": "Wednesday"
+  },
+  {
+    "q": "According to the March 11, 2026, Barron's article, what sector is Nvidia continuing to backstop with its investments?",
+    "a": "The artificial-intelligence boom"
+  },
+  {
+    "q": "In the context of the March 11, 2026, report, which two tech giants are listed as having cloud-computing deals with Nebius?",
+    "a": "Microsoft and Meta Platforms"
+  },
+  {
+    "q": "What is the investment amount of $2 billion associated with in the March 11, 2026, Barron's article?",
+    "a": "Nvidia's investment in Nebius stock"
+  },
+  {
+    "q": "According to the article dated March 11, 2026, what is the primary business focus of the company receiving the $2 billion investment from Nvidia?",
+    "a": "Cloud computing"
+  },
+  {
+    "q": "In the March 11, 2026, Barron's article, what term is used to describe companies like Nebius and CoreWeave in the context of the AI trade?",
+    "a": "NeoCloud"
+  },
+  {
+    "q": "Which company, identified as a chip maker, made a $2 billion investment in Nebius as reported on March 11, 2026?",
+    "a": "Nvidia"
+  },
+  {
+    "q": "According to the March 11, 2026, article by Adam Clark, which two companies are partners of Nebius in cloud-computing deals?",
+    "a": "Microsoft and Meta Platforms"
+  },
+  {
+    "q": "In the Barron's article published on March 11, 2026, what was the magnitude of the rise in Nebius stock on the Wednesday prior to publication?",
+    "a": "Double-digits"
+  },
+  {
+    "q": "What is the specific date of publication for the Barron's article discussing Nvidia's $2 billion investment in Nebius?",
+    "a": "March 11, 2026"
+  },
+  {
+    "q": "According to the March 11, 2026, report, which company is cited as a comparison point for Nebius being a 'NeoCloud' play?",
+    "a": "CoreWeave"
+  },
+  {
+    "q": "In the article dated March 11, 2026, what is the full name of the AI cloud company that received a $2 billion investment from Nvidia?",
+    "a": "Nebius"
+  },
+  {
+    "q": "Which two major technology firms are explicitly named in the March 11, 2026, Barron's article as having cloud-computing deals with Nebius?",
+    "a": "Microsoft and Meta Platforms"
+  },
+  {
+    "q": "According to the March 11, 2026, Barron's article, what is the role of Nvidia in relation to the artificial-intelligence boom?",
+    "a": "It continues to backstop the boom"
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "spike_index": 10,
+  "direction": "down",
+  "price_before": 0.745,
+  "price_after": 0.38,
+  "delta": -0.365,
+  "abs_delta": 0.365,
+  "timestamp_before": "2026-03-02T02:00:22+00:00",
+  "timestamp_after": "2026-03-02T09:00:23+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2026/03/03/stock-market-today-live-updates.html",
+      "file": "82bd3db7813c.txt",
+      "title": "Stock market news for March 4, 2026",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Sean Conlon,Chloe Taylor,Pia Singh",
+      "text_length": 2656,
+      "status": "ok",
+      "num_tokens": 558
+    },
+    {
+      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202603031605BIZWIRE_USPRX____20260303_BW140705-1",
+      "file": "0df539e92b76.txt",
+      "title": "GitLab Reports Fourth Quarter and Full Year Fiscal Year 2026 Financial Results; Board of Directors Authorizes $400 million for Share Repurchase Program \u2013 Company Announcement - FT.com",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": null,
+      "text_length": 16144,
+      "status": "ok",
+      "num_tokens": 3539
+    },
+    {
+      "url": "https://markets.ft.com/data/announce/full?dockey=600-202603031605BIZWIRE_USPRX____20260303_BW140705-1",
+      "file": "9c48863cfe7c.txt",
+      "title": "GitLab Reports Fourth Quarter and Full Year Fiscal Year 2026 Financial Results; Board of Directors Authorizes $400 million for Share Repurchase Program \u2013 Company Announcement - FT.com",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": null,
+      "text_length": 16167,
+      "status": "ok",
+      "num_tokens": 3551
+    },
+    {
+      "url": "http://www.dw.com/ru/paramount-kupit-warner-bros-discovery-za-110-mlrd-dollarov-posle-sryva-sdelki-s-netflix/a-76159843",
+      "file": "b9aed0cae45f.txt",
+      "title": "Paramount \u043a\u0443\u043f\u0438\u0442 Warner Bros. Discovery \u0437\u0430 110 \u043c\u043b\u0440\u0434 \u0434\u043e\u043b\u043b\u0430\u0440\u043e\u0432",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 2330,
+      "status": "ok",
+      "num_tokens": 958
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/28/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
+      "file": "1fc61b48f69d.txt",
+      "title": "What to know about the landmark Warner Bros.\u00a0Discovery sale | TechCrunch",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Lauren Forristal",
+      "text_length": 7498,
+      "status": "ok",
+      "num_tokens": 1457
+    }
+  ],
+  "total_tokens": 10063
+}

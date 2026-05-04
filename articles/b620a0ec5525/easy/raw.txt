@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In February 2026, which U.S. government agency did an NPR investigation find had withheld and removed documents from the public Epstein files database that mentioned President Donald Trump?",
+    "a": "The U.S. Justice Department."
+  },
+  {
+    "q": "What specific type of documents, totaling more than 50 pages, did the Justice Department withhold from the public Epstein files database despite a law mandating their release, according to the February 2026 NPR investigation?",
+    "a": "FBI interviews and notes from conversations with a woman who accused President Trump of sexual abuse."
+  },
+  {
+    "q": "Which House Oversight Committee ranking member, a Democrat from California, stated in February 2026 that the Justice Department appeared to have illegally withheld FBI interviews with a survivor who accused President Trump?",
+    "a": "Representative Robert Garcia."
+  },
+  {
+    "q": "In February 2026, which two U.S. officials insisted in a letter to Congress that no Epstein records were withheld or redacted on the basis of embarrassment, reputational harm, or political sensitivity?",
+    "a": "Attorney General Pam Bondi and Deputy Attorney General Todd Blanche."
+  },
+  {
+    "q": "According to the February 2026 NPR investigation, how many pages of interview documents and notes related to the first accuser of President Trump appear to be missing from the public Epstein database?",
+    "a": "53 pages."
+  },
+  {
+    "q": "Which woman, identified as Testifying Witness 3500 in the Ghislaine Maxwell trial files, claimed in an FBI interview that Jeffrey Epstein introduced her to Donald Trump at Mar-a-Lago when she was around 13 years old?",
+    "a": "The second accuser mentioned in the article (NPR does not name her)."
+  },
+  {
+    "q": "In February 2026, which White House spokeswoman stated that President Trump had been \"totally exonerated\" on anything relating to Jeffrey Epstein and had done more for Epstein's victims than anyone before him?",
+    "a": "Abigail Jackson."
+  },
+  {
+    "q": "Which convicted sex trafficker, currently serving a 20-year prison sentence, is seeking clemency from President Donald Trump and had a co-conspirator trial that involved the release of files mentioning Trump?",
+    "a": "Ghislaine Maxwell."
+  },
+  {
+    "q": "On what date in 2019 was the first FBI interview with the woman who accused President Trump of sexual abuse conducted, which is the only interview from that accuser currently in the public database?",
+    "a": "July 24, 2019."
+  },
+  {
+    "q": "Which independent journalist first reported the discrepancy in the file for the first Trump accuser, noting that only seven of 15 listed documents were in the Epstein files database?",
+    "a": "Roger Sollenberger."
+  },
+  {
+    "q": "In the February 2026 NPR investigation, which two specific women's allegations against President Trump were cited as reasons for the Justice Department removing and reuploading thousands of pages to fix improperly redacted victim names?",
+    "a": "The first accuser (Jane Doe 4) and the second accuser (Testifying Witness 3500)."
+  },
+  {
+    "q": "Which U.S. Representative from New York and which U.S. Representative from the Virgin Islands did the White House spokeswoman Abigail Jackson cite in February 2026 as having yet to explain why they solicited money and meetings from Jeffrey Epstein?",
+    "a": "Hakeem Jeffries and Stacey Plaskett."
+  },
+  {
+    "q": "According to an FBI internal memo from July 22, 2025, what did an agent write regarding the status of President Trump's name in the larger case files and a victim's claim of abuse?",
+    "a": "That Trump's name was in the files and one identified victim claimed abuse by Trump but ultimately refused to cooperate."
+  },
+  {
+    "q": "Which attorney for the woman who testified against Ghislaine Maxwell criticized the Justice Department in February 2026 for releasing victim names and failing to keep them anonymous?",
+    "a": "Robert Glassman."
+  },
+  {
+    "q": "In the February 2026 report, what specific physical actions did the first accuser claim Donald Trump took against her after she bit his exposed penis in an incident around 1983?",
+    "a": "He punched her in the head and kicked her out."
+  },
+  {
+    "q": "Which organization's National Threat Operations Center collected the list of salacious allegations mentioning President Trump that were internally circulated by the FBI in late July and early August 2025?",
+    "a": "The FBI (Federal Bureau of Investigation)."
+  },
+  {
+    "q": "What act, signed by President Donald Trump, mandated the release of the Epstein files that are the subject of the February 2026 controversy over withheld documents?",
+    "a": "The Epstein Files Transparency Act."
+  },
+  {
+    "q": "Which DOJ spokeswoman, Natalie Baldassarre, reiterated in February 2026 that any documents not published are privileged, duplicates, or relate to an ongoing federal investigation?",
+    "a": "Natalie Baldassarre."
+  },
+  {
+    "q": "In the February 2026 investigation, which specific location did the second accuser claim Jeffrey Epstein took her to meet Donald Trump when she was a minor?",
+    "a": "Trump's Mar-a-Lago Club."
+  },
+  {
+    "q": "Which victim lawsuit filing, made in December 2019 by \"Jane Doe 4,\" did not mention President Trump, although her biographical details aligned with the FBI interview of the first accuser?",
+    "a": "A lawsuit against Epstein's estate."
+  },
+  {
+    "q": "According to the February 2026 report, which interview with the mother of the second accuser remained offline in the public database because it required additional redactions?",
+    "a": "The interview with the mother of the second accuser (Testifying Witness 3500)."
+  },
+  {
+    "q": "Which two U.S. House committees or subcommitments opened investigations in February 2026 regarding the Justice Department's decision not to release specific Epstein documents mentioning President Trump?",
+    "a": "The House Oversight Committee."
+  },
+  {
+    "q": "In the February 2026 article, which specific date did the Justice Department initially publish the dataset that NPR compared with current document metadata to find missing pages?",
+    "a": "January 30, 2026."
+  },
+  {
+    "q": "Which journalist from NPR contributed to the reporting on the withheld Epstein files alongside Saige Miller and Ryan Lucas in the February 2026 article?",
+    "a": "Stephen Fowler."
+  },
+  {
+    "q": "What specific claim did the mother of the second accuser recall hearing about Donald Trump and a prince visiting Jeffrey Epstein's house, which was included in the file that was temporarily removed?",
+    "a": "That if they were there, then Epstein could not be a criminal."
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the context of the Iran war escalating beyond U.S. President Donald Trump's control as of late March 2026, what specific infrastructure threat did Iran issue against Gulf states, and what is the primary reason this threat is considered especially acute for those nations?",
+    "a": "Iran threatened to attack desalination plants; this is acute because the desert countries' populations and economies depend on these facilities for survival."
+  },
+  {
+    "q": "Regarding the Strait of Hormuz closure during the Iran war that began in early 2026, what specific impact did the closure have on global oil supply over the 22-day period of the conflict?",
+    "a": "The closure resulted in a loss of a full four days of global supply."
+  },
+  {
+    "q": "What specific operational detail was revealed in an exclusive report regarding the blast in Bahrain in March 2026, and which missile system was involved?",
+    "a": "The Patriot missile involved in the blast was likely U.S.-operated."
+  },
+  {
+    "q": "In the context of the Iran conflict's impact on the global economy as of March 2026, what specific GDP projection was made for Qatar for that year, and what percentage of its LNG capacity had been taken out by attacks?",
+    "a": "Qatar's GDP was projected to sink 13% in 2026, with 17% of its LNG capacity taken out."
+  },
+  {
+    "q": "What financial assets did Qatar possess that could be utilized to cover lost revenue and liquidity during the Iran conflict, according to reports from March 2026?",
+    "a": "Qatar could sell assets from its $580 billion wealth fund and sell gold from its central bank."
+  },
+  {
+    "q": "How did the U.S. oil blockade affect Cuba's energy infrastructure in early 2026, specifically regarding a Russian-origin tanker and the subsequent power status of Havana?",
+    "a": "The blockade caused a Russian-origin tanker carrying fuel to divert to Trinidad, and Havana lost power after a second grid collapse in a week."
+  },
+  {
+    "q": "What was the stated position of Cuban Deputy Foreign Minister Carlos Fernandez de Cossio in late March 2026 regarding a potential military engagement with the United States?",
+    "a": "He stated that Cuba was prepared for the unlikely possibility of a military engagement with the U.S."
+  },
+  {
+    "q": "What specific legal action did longevity expert Peter Attia take against Oura Ring and its Finnish parent company in 2026, and what factor did the company cite as a reason for potentially severing ties?",
+    "a": "Attia sued for breach of contract regarding stock options; Oura cited his ties to Jeffrey Epstein as a reason it would not have allowed his involvement."
+  },
+  {
+    "q": "What ethical scandal involving Jackson Walker law firm led to a partial deal with the U.S. Trustee in 2026, and what was the core issue regarding the firm's fees?",
+    "a": "A former bankruptcy judge admitted he shared a home with a former partner at the firm, casting doubt over millions of dollars in legal fees."
+  },
+  {
+    "q": "In the March 2026 French municipal elections, which political party failed to win control of the southern cities of Marseille and Toulon, providing a hopeful sign for mainstream parties?",
+    "a": "France's far-right National Rally (RN) failed to win control of those cities."
+  },
+  {
+    "q": "What technological integration did Tencent announce in 2026 involving its WeChat platform, and what broader trend among tech firms did this reflect?",
+    "a": "Tencent integrated WeChat with the OpenClaw AI agent, reflecting a trend of tech firms exploring business opportunities in agent products despite security warnings."
+  },
+  {
+    "q": "Which two condiment brands were previously associated with McCormick in deals that set the stage for a potential bold move by Unilever in the mayonnaise market in 2026?",
+    "a": "Frank's RedHot and French's mustard."
+  },
+  {
+    "q": "What was the primary economic goal of China's commerce minister when meeting with pharmaceutical executives in 2026?",
+    "a": "China was pushing to reverse its declining foreign direct investment."
+  },
+  {
+    "q": "In the March 2026 Premier League match between Sunderland and Newcastle, who scored the winning goal and in which minute?",
+    "a": "Striker Brian Brobbey scored a 90th-minute winner."
+  },
+  {
+    "q": "What was the final score and outcome of the match where Nottingham Forest played against Tottenham Hotspur in March 2026?",
+    "a": "Forest won 3-0, leapingfrogging relegation rivals."
+  },
+  {
+    "q": "What personal dilemma was tennis player Naomi Osaka weighing regarding her career in 2026?",
+    "a": "She was weighing the clay court season against motherhood."
+  },
+  {
+    "q": "Why did Giants running back Cam Skattebo issue an apology in 2026?",
+    "a": "He apologized for a 'tasteless joke'."
+  },
+  {
+    "q": "Which golfer claimed the LIV Golf South Africa title in 2026 after a playoff, and what was his emotional state during the victory?",
+    "a": "Emotional Bryson DeChambeau claimed the title."
+  },
+  {
+    "q": "Which U.S. Senate nomination was advanced in 2026, paving the way for a confirmation vote, and who was the nominee?",
+    "a": "The nomination of Kristi Noem (referred to as Mullin in the text, likely a typo for Noem or a specific nominee named Mullin, but text says Mullin) for Homeland Security was advanced. (Note: Text says 'Mullin', so I will use Mullin). The nomination of Mullin for Homeland Security was advanced."
+  },
+  {
+    "q": "What was U.S. President Donald Trump's reaction to the death of Robert Mueller in 2026?",
+    "a": "Trump said, 'I'm glad he's dead.'"
+  },
+  {
+    "q": "What was the status of U.S. F-16 deliveries to Taiwan as reported in 2026?",
+    "a": "Taiwan said delayed U.S. F-16s were to start arriving that year."
+  },
+  {
+    "q": "What election result did Vietnam's Communist Party secure in 2026?",
+    "a": "The party secured nearly 97% of assembly seats."
+  },
+  {
+    "q": "Which political party led in Slovenia's parliamentary polls in 2026, according to the article?",
+    "a": "Populist Jansa's SDS Party led in the polls."
+  },
+  {
+    "q": "What event did Orthodox Georgians participate in during 2026 regarding their religious leadership?",
+    "a": "They bid final farewell to the longstanding patriarch."
+  },
+  {
+    "q": "According to the World Health Organization (WHO) in 2026, what was the casualty count and operational status of a Sudan hospital following a strike?",
+    "a": "The strike killed at least 64 people and took the facility out of service."
+  }
+]

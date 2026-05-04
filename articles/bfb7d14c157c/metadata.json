@@ -1,0 +1,67 @@
+{
+  "hash": "bfb7d14c157c",
+  "n_appearances": 5,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.nbcnews.com/politics/2026-election/texas-senate-primary-cornyn-paxton-hunt-talarico-crockett-rcna261447",
+      "title": "James Talarico wins Texas Democratic Senate primary as John Cornyn and Ken Paxton go to a GOP runoff",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1752,
+      "text_length": 8105
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "562186",
+      "spike_id": 1,
+      "market_question": "Will Ken Paxton win the 2026 Texas Republican Primary?",
+      "event_title": "Texas Republican Senate Primary Winner",
+      "spike_direction": "down",
+      "spike_delta": -0.345,
+      "spike_timestamp_before": "2026-03-03T08:30:26+00:00",
+      "spike_timestamp_after": "2026-03-04T03:30:28+00:00"
+    },
+    {
+      "market_id": "562186",
+      "spike_id": 2,
+      "market_question": "Will Ken Paxton win the 2026 Texas Republican Primary?",
+      "event_title": "Texas Republican Senate Primary Winner",
+      "spike_direction": "down",
+      "spike_delta": -0.7100000000000001,
+      "spike_timestamp_before": "2026-03-03T21:00:51+00:00",
+      "spike_timestamp_after": "2026-03-04T20:30:28+00:00"
+    },
+    {
+      "market_id": "679229",
+      "spike_id": 1,
+      "market_question": "Will James Talarico be the Democratic nominee for Senate in Texas?",
+      "event_title": "Texas Democratic Senate Primary Winner",
+      "spike_direction": "up",
+      "spike_delta": 0.1695000000000001,
+      "spike_timestamp_before": "2026-03-03T02:00:35+00:00",
+      "spike_timestamp_after": "2026-03-04T02:00:24+00:00"
+    },
+    {
+      "market_id": "679229",
+      "spike_id": 2,
+      "market_question": "Will James Talarico be the Democratic nominee for Senate in Texas?",
+      "event_title": "Texas Democratic Senate Primary Winner",
+      "spike_direction": "up",
+      "spike_delta": 0.16800000000000004,
+      "spike_timestamp_before": "2026-03-03T06:00:22+00:00",
+      "spike_timestamp_after": "2026-03-04T05:30:24+00:00"
+    },
+    {
+      "market_id": "679229",
+      "spike_id": 3,
+      "market_question": "Will James Talarico be the Democratic nominee for Senate in Texas?",
+      "event_title": "Texas Democratic Senate Primary Winner",
+      "spike_direction": "up",
+      "spike_delta": 0.15450000000000008,
+      "spike_timestamp_before": "2026-03-03T10:30:35+00:00",
+      "spike_timestamp_after": "2026-03-04T08:30:23+00:00"
+    }
+  ]
+}

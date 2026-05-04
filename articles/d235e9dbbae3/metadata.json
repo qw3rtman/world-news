@@ -1,0 +1,37 @@
+{
+  "hash": "d235e9dbbae3",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.thehindu.com/business/markets/gold-futures-rally-to-159-lakh-per-10-gm-amid-strong-global-cues/article70666050.ece",
+      "title": "Gold Futures rally to ₹1.59 lakh per 10 gm - The Hindu",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "PTI",
+      "num_tokens": 332,
+      "text_length": 1410
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1032343",
+      "spike_id": 6,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "up",
+      "spike_delta": 0.25699999999999995,
+      "spike_timestamp_before": "2026-02-23T06:30:16+00:00",
+      "spike_timestamp_after": "2026-02-23T11:00:27+00:00"
+    },
+    {
+      "market_id": "1032343",
+      "spike_id": 7,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.20999999999999996,
+      "spike_timestamp_before": "2026-02-23T11:00:27+00:00",
+      "spike_timestamp_after": "2026-02-23T17:00:15+00:00"
+    }
+  ]
+}

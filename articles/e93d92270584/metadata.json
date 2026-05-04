@@ -1,0 +1,47 @@
+{
+  "hash": "e93d92270584",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://now.cnn.com/2026/03/11/politics/cornyn-paxton-trump-endorse-texas",
+      "title": "Breaking News, Latest News and Videos | CNN",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": "Monica Sarkar",
+      "num_tokens": 11,
+      "text_length": 56
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "562186",
+      "spike_id": 3,
+      "market_question": "Will Ken Paxton win the 2026 Texas Republican Primary?",
+      "event_title": "Texas Republican Senate Primary Winner",
+      "spike_direction": "up",
+      "spike_delta": 0.16,
+      "spike_timestamp_before": "2026-03-09T04:00:21+00:00",
+      "spike_timestamp_after": "2026-03-10T03:30:25+00:00"
+    },
+    {
+      "market_id": "562186",
+      "spike_id": 4,
+      "market_question": "Will Ken Paxton win the 2026 Texas Republican Primary?",
+      "event_title": "Texas Republican Senate Primary Winner",
+      "spike_direction": "up",
+      "spike_delta": 0.165,
+      "spike_timestamp_before": "2026-03-09T06:30:21+00:00",
+      "spike_timestamp_after": "2026-03-10T06:00:28+00:00"
+    },
+    {
+      "market_id": "562186",
+      "spike_id": 5,
+      "market_question": "Will Ken Paxton win the 2026 Texas Republican Primary?",
+      "event_title": "Texas Republican Senate Primary Winner",
+      "spike_direction": "up",
+      "spike_delta": 0.17,
+      "spike_timestamp_before": "2026-03-09T09:30:18+00:00",
+      "spike_timestamp_after": "2026-03-10T09:00:35+00:00"
+    }
+  ]
+}

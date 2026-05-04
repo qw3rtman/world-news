@@ -1,0 +1,57 @@
+Inside Anthropic’s existential negotiations with the Pentagon
+
+A former Uber exec is playing hardball, but for the AI lab, it’s more than just a $200 million military contract at stake.
+
+by Tina Nguyen
+
+and Hayden Field
+
+Feb 24, 2026, 11:00 AM UTC
+
+Anthropic’s weekslong battle with the Department of Defense has played out over social media posts, admonishing public statements, and direct quotes from unnamed Pentagon officials to the news media. But the future of the $380 billion AI startup comes down to just three words: “any lawful use.” The new terms, which OpenAI and xAI have reportedly already agreed to, would give the US military carte blanche to use services for mass surveillance and lethal autonomous weapons, AI that has full power to track and kill targets with no humans involved in the decision-making process.
+
+The negotiations have turned ugly, with Pentagon CTO Emil Michael, formerly a top executive at the ridehailing company Uber, driving the government’s threats to designate Anthropic as a “supply chain risk,” according to two people familiar with negotiations. This classification is usually reserved for threats to national security, including malicious foreign influence or cyber warfare. Anthropic CEO Dario Amodei will reportedly meet with Secretary Pete Hegseth on Tuesday at the Pentagon, and an unnamed Defense official described it as a “shit-or-get-off-the-pot meeting.”
+
+The Pentagon issuing this threat to an American company is unprecedented. But the Pentagon publicly issuing this threat is even more bizarre.
+
+For security purposes, the Pentagon does not publicly disclose what companies are on these lists, to say nothing of publicly threatening those companies if their views don’t align. In fact, Geoffrey Gertz, a senior fellow at the Center for a New American Security (CNAS), told The Verge that under current federal regulations the Pentagon could have classified Anthropic as a risk without informing the public at all or stating why. “It’s the extra step of trying to specifically label them a national security risk, and keep other companies from doing business with Anthropic, that goes above and beyond here.”
+
+The clash is over Anthropic’s enforcement of its “acceptable use policy”
+
+If the classification were to be made official, it would end Anthropic’s $200 million contract with the Pentagon, but it would have a more devastating ripple effect on Anthropic’s overall bottom line. Major defense contractors and tech companies, like AWS, Palantir, and Anduril, use Anthropic’s Claude in their work for the Pentagon, due to the fact that it was the first AI model cleared to use classified information. Put more bluntly: If Anthropic is labeled a “supply chain risk,” any company that currently works with the military or ever hopes to get a military contract would have to drop Anthropic’s AI systems, which are thought to be some of the best in the industry. (The evening before Amodei’s scheduled meeting with Hegseth, the Pentagon confirmed that it had signed an agreement to use Grok, the controversial AI model made by Elon Musk’s xAI, in classified systems. The Pentagon did not have an immediate response after a request for comment.)
+
+This could be implemented in a very narrow sense — or an extremely broad one. “I suspect the more logical explanation would be the narrower definition, that Anthropic can’t be used as part of a specific statement of work for the Pentagon,” said Gertz. “But based on some of the reporting and effort to make this seem like a punitive move against Anthropic, it’s worth thinking through both of those scenarios.”
+
+Although the Pentagon and their media allies have gone on a campaign to label Anthropic “woke,” they have yet to make any real accusations about security vulnerabilities or potential for espionage. Instead, the clash is over Anthropic’s enforcement of its “acceptable use policy,” according to people familiar with the internal discussions.
+
+A source familiar with the situation, who requested anonymity due to the sensitive nature of the negotiations, told The Verge that Anthropic has been very clear to the government about its red lines, and that there are two narrow things the company won’t agree to: autonomous kinetic operations and mass domestic surveillance. The latter, the source said, is due to the fact that the “laws haven’t caught up to what AI can do” and that it may infringe on American civil liberties. For the former — lethal autonomous weapons — the source said that the technology “isn’t there yet for fully autonomous weapons with no humans in loop.”
+
+Hamza Chaudhry, the AI and national security lead at the Future of Life Institute, a nonpartisan research group focused on AI governance, noted that Anthropic’s red lines already reflected current government directives that have not been repealed.
+
+“DoD Directive 3000.09 requires that all autonomous weapon systems be designed so that commanders and operators be able to ‘exercise appropriate levels of human judgment over the use of force’ and the Political Declaration on Military Use of AI launched by the US Government and endorsed by 50 states enshrines this principle,” he told The Verge over text. “And DoD Directive 5240.01, reinforced by provisions in the FY2017 NDAA and the Trump-era Responsible AI Implementation Pathway, prohibits intelligence components from collecting information on U.S. persons except under specific legal authorities such as FISA or Title 50.
+
+“Anthropic’s acceptable use policy reflects these same lines, and until the Pentagon formally renounces, clarifies or updates these policy positions, the big question is whether the company can be compelled out of a policy that the government itself has committed to in principle.”
+
+Negotiating on behalf of the Pentagon is Michael, a Trump appointee and the Undersecretary of Defense for research and engineering, a position often described as the Pentagon’s chief technology officer. The first source described Michael, who built an aggressive reputation as Uber’s chief business officer and once bragged about conducting opposition research on reporters, as a “tough negotiator.” (Michael was pushed out of Uber in 2017, after the company’s board of directors conducted an investigation into the company’s culture of sexual harassment, sparked by him and several executives visiting a South Korean escort bar.)
+
+“This is truly a matter of principle for Emil,” said a second person familiar with the matter, saying that Michael was unhappy that a private company was attempting to restrain the government’s use of their technology. It is unclear if the White House or David Sacks, the venture capitalist and powerful AI and crypto czar, had approved of Michael’s hardball tactics in advance.
+
+At present, Anthropic’s “acceptable use policy” is baked into a $200 million contract it signed with the Department of Defense last July. In its announcement, the company mentioned “responsible AI” five times. “At the heart of this work lies our conviction that the most powerful technologies carry the greatest responsibility,” they wrote, stating that in the context of government, “where decisions affect millions and stakes couldn’t be higher,” responsibility was “essential” for ensuring that “AI development strengthens democratic values globally by maintaining technological leadership to protect against authoritarian misuse.”
+
+“The designation would require every defense contractor seeking government work to certify they have removed all Anthropic technology from their systems”
+
+But in January, Hegseth published a memo announcing that the department would become “an ‘AI-first’ warfighting force across all components” and that the “any lawful use” language should be incorporated into any AI services procurement contract within 180 days, including existing guidance.
+
+In Hegseth’s memo, he repeatedly highlighted that the department would prioritize speed at all costs, writing that the country must “eliminate blockers to data sharing … [and] approach risk tradeoffs, ‘equities’, and other subjective questions as if we were at war.” He also said that when it comes to the development and experimentation of AI agents, the department would integrate them “from campaign planning to kill chain execution,” as well as turn “intel into weapons in hours.”
+
+Hegseth repeatedly prioritized speed over safety and potential errors: “We must accept that the risks of not moving fast enough outweigh the risks of imperfect alignment.” He doubled down later in the memo, writing that “responsible AI” would see big changes at the department, both on the battlefield and within the military’s ranks. “Diversity, Equity, and Inclusion and social ideology have no place in the DoW,” he wrote, adding that the department “must also utilize models free from usage policy constraints that may limit lawful military applications.” Similar to Trump’s anti-“woke AI” executive order, Hegseth announced that benchmarks for model objectivity would be a new primary procurement criterion for AI services.
+
+OpenAI, xAI, and Google immediately renegotiated their own $200 million contracts with the Pentagon to align with Hegseth’s memo. But none of those companies’ models hold an Impact Level 6 security classification, meaning that ChatGPT, Grok, and Gemini could not immediately replace Claude should Anthropic get blacklisted — a single-supplier vulnerability that would backfire on the Pentagon.
+
+“Claude is the only frontier AI model operating on fully classified Pentagon networks, deployed through Palantir’s AI Platform and Amazon’s Top Secret Cloud, meaning it sits at the center of workflows that most other models cannot yet access,” noted Chaudhry. “The designation would require every defense contractor seeking government work to certify they have removed all Anthropic technology from their systems.”
+
+This has given Anthropic leverage in its clashes with the Pentagon, which have grown more intense after the company reportedly learned that its models were used in the capture of Venezuelan President Nicolás Maduro, violating their current agreement.
+
+Anthropic technically can’t attempt to coordinate or band together with the other AI labs being offered the new terms, even on the chance they’d be open to agreeing, since that would go against federal procurement rules. But since the fight is playing out in the public eye, tech workers, AI employees, and others currently or formerly working in the tech industry have expressed frustration that other companies aren’t fighting for the same terms as Anthropic. Others seemed to think it would only be a matter of time before Anthropic gave in.
+
+“It would be a really good time for [other labs] to be like, ‘Wait, what are you doing with our technology?’” said William Fitzgerald, a former Google employee who now runs an advocacy firm called The Worker Agency. “These AI labs people have so much power. They’re smaller teams, and they’re still kind of shaping who they’re going to be … I do think that they can justify their valuations without the military work. There’s other ways that you can run a business without killing people in your business model.”

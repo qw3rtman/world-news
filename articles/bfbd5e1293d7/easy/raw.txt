@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Following the death of Supreme Leader Ayatollah Ali Khamenei in an airstrike campaign by the United States and Israel, which three specific officials were named in March 2026 to form the temporary leadership council tasked with assuming his duties?",
+    "a": "Iran’s sitting president Masoud Pezeshkian, judiciary chief Gholamhossein Mohseni Ejei, and a member of the Guardian Council chosen by the Expediency Council."
+  },
+  {
+    "q": "In the succession process for Iran’s supreme leader that began after Ayatollah Ali Khamenei’s death in early March 2026, what is the name of the 88-member panel of Shiite clerics responsible for picking his successor, and how often are its members popularly elected?",
+    "a": "The Assembly of Experts, whose members are elected every eight years."
+  },
+  {
+    "q": "Which constitutional watchdog body disqualified former Iranian President Hassan Rouhani from running in the March 2024 election for the Assembly of Experts, and what major international agreement did Rouhani’s administration strike during his tenure?",
+    "a": "The Guardian Council disqualified him; his administration struck the 2015 nuclear deal with world powers."
+  },
+  {
+    "q": "After the death of Supreme Leader Ayatollah Ali Khamenei in March 2026, which of his sons was identified as a potential candidate for the position despite never having held government office, and what was the previous presumed successor’s name and cause of death?",
+    "a": "Mojtaba Khamenei is a potential candidate; the previous presumed successor was President Ebrahim Raisi, who died in a May 2024 helicopter crash."
+  },
+  {
+    "q": "What historical precedent existed for the transfer of power in Iran’s supreme leadership role before the succession following Ayatollah Ali Khamenei’s death in 2026, and who was the previous supreme leader?",
+    "a": "The only other transfer occurred in 1989, when Grand Ayatollah Ruhollah Khomeini died."
+  },
+  {
+    "q": "Which paramilitary force, designated a terrorist organization by the United States in 2019, serves under the command of Iran’s supreme leader and leads the so-called Axis of Resistance?",
+    "a": "The Islamic Revolutionary Guard Corps."
+  },
+  {
+    "q": "Who composed the temporary leadership council formed in Iran in March 2026 to govern after the death of Supreme Leader Ayatollah Ali Khamenei, and which specific advisory body chooses one of its three members?",
+    "a": "The council consists of the sitting president, the judiciary chief, and a Guardian Council member chosen by the Expediency Council."
+  },
+  {
+    "q": "What specific military conflict launched by Israel in June 2025 preceded the airstrike campaign by the United States and Israel that killed Supreme Leader Ayatollah Ali Khamenei in early March 2026?",
+    "a": "Israel launched a 12-day war against Iran."
+  },
+  {
+    "q": "Why might a father-to-son transfer of the supreme leadership from Ayatollah Ali Khamenei to his son Mojtaba Khamenei be viewed negatively by some Iranians and system supporters, according to the article published in March 2026?",
+    "a": "It could be seen as creating a new religious dynasty, similar to the U.S.-backed Shah Mohammad Reza Pahlavi’s government that collapsed in 1979, and as un-Islamic."
+  },
+  {
+    "q": "What are the two primary constitutional roles held by Iran’s supreme leader, as described in the context of the succession following Ayatollah Ali Khamenei’s death in March 2026?",
+    "a": "He serves as the commander-in-chief of the country’s military and the Revolutionary Guard, and has final say over all matters of state."
+  },
+  {
+    "q": "Which two political factions in Iran are represented by the members of the temporary leadership council formed in March 2026, specifically referring to President Masoud Pezeshkian and Judiciary Chief Gholamhossein Mohseni Ejei?",
+    "a": "Masoud Pezeshkian is a reformist, and Gholamhossein Mohseni Ejei is a hard-liner."
+  },
+  {
+    "q": "What is the name of the body that advises the supreme leader and settles disputes with parliament, and which is responsible for selecting one member of the temporary leadership council formed after Ayatollah Ali Khamenei’s death in March 2026?",
+    "a": "The Expediency Council."
+  },
+  {
+    "q": "How many members constitute the Assembly of Experts panel that must pick Iran’s next supreme leader, and what is the minimum timeframe specified by Iranian law for this selection to occur after the vacancy?",
+    "a": "The panel has 88 members and must act \"as soon as possible.\""
+  },
+  {
+    "q": "Which former Iranian president, who was barred from the March 2024 Assembly of Experts election by the Guardian Council, was known as a relative moderate whose administration negotiated a nuclear deal with world powers?",
+    "a": "Hassan Rouhani."
+  },
+  {
+    "q": "What is the age and religious title of Mojtaba Khamenei, the son of the late Supreme Leader Ayatollah Ali Khamenei, as identified as a potential successor in the March 2026 succession process?",
+    "a": "He is a 56-year-old Shiite cleric."
+  },
+  {
+    "q": "In the context of Iran’s political structure, which organization is described as a constitutional watchdog known for disqualifying candidates in various elections, including the March 2024 Assembly of Experts election?",
+    "a": "The Guardian Council."
+  },
+  {
+    "q": "What specific event in May 2024 removed Ebrahim Raisi from consideration as a successor to Supreme Leader Ayatollah Ali Khamenei, and what was Raisi’s position at the time of his death?",
+    "a": "He was killed in a helicopter crash while serving as President."
+  },
+  {
+    "q": "Which militant groups and allies across the Middle East, described as the \"Axis of Resistance,\" are led by the Islamic Revolutionary Guard Corps to counter the United States and Israel?",
+    "a": "The article describes them as a series of militant groups and allies, but does not name specific groups beyond the collective term \"Axis of Resistance.\""
+  },
+  {
+    "q": "What year did the 1979 Islamic Revolution occur, which established the office of the supreme leader and led to the collapse of the government led by Shah Mohammad Reza Pahlavi?",
+    "a": "1979."
+  },
+  {
+    "q": "Who was the figurehead of the 1979 Islamic Revolution and led Iran through its eight-year war with Iraq before dying in 1989?",
+    "a": "Grand Ayatollah Ruhollah Khomeini."
+  },
+  {
+    "q": "What specific designation did the United States place on the Islamic Revolutionary Guard Corps in 2019, and what role did Supreme Leader Ayatollah Ali Khamenei play regarding this force during his rule?",
+    "a": "The United States designated it a terrorist organization; Khamenei empowered the Guard during his rule."
+  },
+  {
+    "q": "How long did Supreme Leader Ayatollah Ali Khamenei serve in power before his death in an airstrike campaign by the United States and Israel in early March 2026?",
+    "a": "Almost 37 years."
+  },
+  {
+    "q": "Which three entities make up the temporary leadership council formed in Iran in March 2026 to assume the duties of the late Supreme Leader Ayatollah Ali Khamenei?",
+    "a": "The sitting president, the head of the judiciary, and a member of the Guardian Council chosen by the Expediency Council."
+  },
+  {
+    "q": "What is the full name of the former Iranian President who was disqualified by the Guardian Council from the March 2024 Assembly of Experts election, and what year was the nuclear deal he negotiated with world powers signed?",
+    "a": "Hassan Rouhani; the deal was signed in 2015."
+  },
+  {
+    "q": "Which two countries launched the airstrike campaign in early March 2026 that resulted in the death of Supreme Leader Ayatollah Ali Khamenei, following a 12-day war launched by one of them in June 2025?",
+    "a": "The United States and Israel."
+  }
+]

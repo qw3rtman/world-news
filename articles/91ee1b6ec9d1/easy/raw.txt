@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In mid-March 2026, approximately how many U.S. Marines were deployed to the Middle East as part of the 31st Marine Expeditionary Unit, and what specific Iranian military tactic involving the Strait of Hormuz prompted this deployment?",
+    "a": "About 2,500 Marines were deployed to counter Iranian forces mining the Strait of Hormuz."
+  },
+  {
+    "q": "According to U.S. defense officials in March 2026, from which geographic region was the 31st Marine Expeditionary Unit deployed to the Middle East?",
+    "a": "The unit was deployed from the Indo-Pacific region."
+  },
+  {
+    "q": "What specific change in Iranian naval strategy, driven by U.S. airstrikes in the two-week-old war as of March 2026, led to the use of fast boats carrying mines?",
+    "a": "U.S. airstrikes forced Iran to abandon larger naval vessels in favor of fast boats that can evade aircraft."
+  },
+  {
+    "q": "In March 2026, where did a retired senior defense official state the 31st Marine Expeditionary Unit would likely launch raids to target Iranian mine-laying operations?",
+    "a": "Raids would be launched onto an archipelago of islands closer to the Strait of Hormuz."
+  },
+  {
+    "q": "Which U.S. President authorized smaller-scale military operations, such as the January raid to capture Venezuelan President Nicolás Maduro, raising escalation risks in the March 2026 Iran conflict?",
+    "a": "President Donald Trump authorized those operations."
+  },
+  {
+    "q": "On which specific date in March 2026 did President Trump announce via social media that the U.S. military had conducted a bombing raid on Kharg Island?",
+    "a": "He announced it on Friday, March 13, 2026."
+  },
+  {
+    "q": "What dual role does Kharg Island serve for Iran, as identified in President Trump's March 2026 announcement regarding U.S. bombing raids?",
+    "a": "It serves as a key port and Iran’s primary oil export hub."
+  },
+  {
+    "q": "What specific constraint did President Trump place on the March 2026 U.S. bombing raid on Kharg Island, and what reason did he give for this decision?",
+    "a": "He directed the Pentagon not to damage oil infrastructure, citing \"reasons of decency.\""
+  },
+  {
+    "q": "What claim did President Trump make on social media in March 2026 regarding the status of military forces on Kharg Island after the U.S. bombing raid?",
+    "a": "He claimed the raid had \"totally obliterated\" military forces on the island."
+  },
+  {
+    "q": "In the context of the March 2026 war in Iran, what fraction of the world’s oil passes through the Strait of Hormuz, which was the target of Iranian mining activities?",
+    "a": "A fifth of the world’s oil passes through the strait."
+  },
+  {
+    "q": "What logistical capabilities did the 31st Marine Expeditionary Unit bring to the Pentagon's March 2026 operations in the Middle East, according to a retired senior defense official?",
+    "a": "The unit provided infantry Marines with logistics and air support for raids."
+  },
+  {
+    "q": "How long had the war in Iran been ongoing as of the March 2026 deployment of the 31st Marine Expeditionary Unit?",
+    "a": "The war had been two weeks old."
+  },
+  {
+    "q": "Which specific U.S. military branch's unit, officially known as the 31st Marine Expeditionary Unit, was deployed to the Middle East in March 2026?",
+    "a": "The United States Marine Corps."
+  },
+  {
+    "q": "What specific type of vessels did Iranian forces deploy to evade U.S. aircraft during the March 2026 conflict, after being forced to forego larger naval vessels?",
+    "a": "Fast boats carrying mines."
+  },
+  {
+    "q": "In January 2026, what specific military operation did President Trump authorize that is cited as an example of the smaller-scale operations raising escalation risks in the March 2026 Iran war?",
+    "a": "The raid to capture Venezuelan President Nicolás Maduro."
+  },
+  {
+    "q": "What specific risk did the deployment of the 31st Marine Expeditionary Unit in March 2026 raise, according to the analysis of President Trump's military strategy?",
+    "a": "It raised the risk of escalation."
+  },
+  {
+    "q": "Which organization was vexed by the problem of the Iranian military’s ability to mine the Strait of Hormuz in March 2026?",
+    "a": "The Pentagon."
+  },
+  {
+    "q": "From what specific geographic location did Iranian fast boats carrying mines likely launch during the March 2026 conflict?",
+    "a": "An archipelago of islands closer to the Strait of Hormuz."
+  },
+  {
+    "q": "What specific infrastructure on Kharg Island did President Trump explicitly order the Pentagon to spare from damage during the March 2026 bombing raid?",
+    "a": "Its oil infrastructure."
+  },
+  {
+    "q": "How many U.S. defense officials confirmed the official name of the Marine unit deployed to the Middle East in March 2026?",
+    "a": "Two U.S. defense officials."
+  },
+  {
+    "q": "What specific type of support would the infantry Marines of the 31st Marine Expeditionary Unit have during raids in March 2026, according to a retired senior defense official?",
+    "a": "They would have logistics and air support."
+  },
+  {
+    "q": "In March 2026, which Iranian military capability was the primary focus of the Pentagon's concern regarding the Strait of Hormuz?",
+    "a": "The ability to mine the strait."
+  },
+  {
+    "q": "What specific social media announcement did President Trump make in March 2026 regarding the outcome of the U.S. bombing raid on Kharg Island?",
+    "a": "He announced that the raid had \"totally obliterated\" military forces on the island."
+  },
+  {
+    "q": "Which two entities are linked by the March 2026 deployment of the 31st Marine Expeditionary Unit in terms of military strategy: the U.S. unit and the Iranian target location?",
+    "a": "The 31st Marine Expeditionary Unit and the archipelago of islands near the Strait of Hormuz."
+  },
+  {
+    "q": "What specific reason did President Trump give in March 2026 for directing the Pentagon not to damage oil infrastructure on Kharg Island during the bombing raid?",
+    "a": "He cited \"reasons of decency.\""
+  }
+]

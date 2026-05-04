@@ -1,0 +1,27 @@
+{
+  "hash": "67722ee4b064",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.aljazeera.com/economy/2026/3/6/us-job-market-stalls-unemployment-rate-rises-before-fed-decision",
+      "title": "US job market stalls, unemployment rate rises before Fed decision | Business and Economy News | Al Jazeera",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Andy Hirschfeld",
+      "num_tokens": 596,
+      "text_length": 2737
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "906974",
+      "spike_id": 2,
+      "market_question": "Will there be no change in Fed interest rates after the June 2026 meeting?",
+      "event_title": "Fed Decision in June?",
+      "spike_direction": "down",
+      "spike_delta": -0.17000000000000004,
+      "spike_timestamp_before": "2026-03-06T11:30:31+00:00",
+      "spike_timestamp_after": "2026-03-06T20:30:30+00:00"
+    }
+  ]
+}

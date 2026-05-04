@@ -1,0 +1,65 @@
+{
+  "spike_index": 12,
+  "direction": "up",
+  "price_before": 0.745,
+  "price_after": 0.935,
+  "delta": 0.19000000000000006,
+  "abs_delta": 0.19000000000000006,
+  "timestamp_before": "2026-03-03T17:00:30+00:00",
+  "timestamp_after": "2026-03-04T10:30:48+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.globeandmail.com/world/article-israel-expands-war-southern-lebanon-hezbollah/",
+      "file": "d6732ef48f5e.txt",
+      "title": "Israel expands war with incursion into southern Lebanon to push Hezbollah back - The Globe and Mail",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "text_length": 8097,
+      "status": "ok",
+      "num_tokens": 1636
+    },
+    {
+      "url": "http://www.explorezlhiver.cbc.ca/news/world/israel-troops-lebanon-hezbollah-9.7113533",
+      "file": "482a253f484a.txt",
+      "title": "Israel sends troops to southern Lebanon, as Hezbollah vows it's ready for 'open war' | CBC News",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "The Associated Press    \u00b7  Posted: Mar 03, 2026 7:49 PM EST | Last Updated: March 4",
+      "text_length": 5305,
+      "status": "ok",
+      "num_tokens": 1045
+    },
+    {
+      "url": "https://canary.haaretz.com/middle-east-news/2026-03-02/ty-article/.premium/idf-prepares-for-lebanon-operation-to-create-defense-line-for-border-communities/0000019c-adb4-df60-afdf-fdfc5a5e0000",
+      "file": "4335816e72c4.txt",
+      "title": "IDF Prepares for Lebanon Operation to Create Defensive Buffer for Border Communities - Middle East News",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Yaniv Kubovich",
+      "text_length": 236,
+      "status": "ok",
+      "num_tokens": 39
+    },
+    {
+      "url": "https://www.pbs.org/newshour/world/live-updates-u-s-israel-conflict-with-iran-widens",
+      "file": "c9f7cc96f30e.txt",
+      "title": "Live Updates: U.S.-Israel conflict with Iran widens | PBS News",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 35644,
+      "status": "ok",
+      "num_tokens": 7359
+    },
+    {
+      "url": "https://www.pbs.org/newshour/world/what-to-know-about-the-joint-u-s-israeli-attacks-on-iran",
+      "file": "1a79c4f0b8fc.txt",
+      "title": "What to know about the joint U.S.-Israeli attacks on Iran | PBS News",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 7555,
+      "status": "ok",
+      "num_tokens": 1488
+    }
+  ],
+  "total_tokens": 11567
+}

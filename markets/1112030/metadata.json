@@ -1,0 +1,21 @@
+{
+  "market_id": "1112030",
+  "question": "Will Khamenei leave Iran by March 31?",
+  "slug": "will-khamenei-leave-iran-by-march-31-224-161-138-998",
+  "url": "https://polymarket.com/event/will-khamenei-leave-iran-by-friday",
+  "description": "This market will resolve to \"Yes\" if it is confirmed that Ali Khamenei has left Iran for any length of time by March 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nIn cases where Ali Khamenei may have exited Iranian airspace on a plane, he must be confirmed to have exited the plane in a country other than Iran for this market to resolve to \"Yes\". If Ali Khamenei exits Iranian maritime territory on a boat to international waters, this market may resolve to \"Yes\".\n\nIf it is not confirmed by the resolution date that Ali Khamenei left Iran, this market will resolve to \"No\".\n\nThe resolution source for this market will be a consensus of credible reporting.\n",
+  "event_title": "Will Khamenei leave Iran by...?",
+  "event_tags": [
+    "Geopolitics",
+    "World",
+    "Politics",
+    "Iran"
+  ],
+  "volume_total": 1672175.328228,
+  "created_at": "2026-01-05T05:08:17.818028Z",
+  "end_date": "2026-01-09T00:00:00Z",
+  "num_spikes": 3,
+  "max_spike": 0.1765,
+  "total_tokens": 5603,
+  "total_articles": 15
+}

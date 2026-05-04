@@ -1,0 +1,65 @@
+{
+  "spike_index": 11,
+  "direction": "up",
+  "price_before": 0.794,
+  "price_after": 0.983,
+  "delta": 0.18899999999999995,
+  "abs_delta": 0.18899999999999995,
+  "timestamp_before": "2026-03-06T04:30:23+00:00",
+  "timestamp_after": "2026-03-07T02:30:22+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.npr.org/2026/03/04/nx-s1-5736104/iran-war-oil-trump-israel-strait-hormuz-closed-energy-crisis/",
+      "file": "da710e91bd16.txt",
+      "title": "The Iran war has effectively closed the Strait of Hormuz : NPR",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "Camila Domonoske",
+      "text_length": 5282,
+      "status": "ok",
+      "num_tokens": 1100
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2026/3/4/irgc-says-iran-in-complete-control-of-strait-of-hormuz-amid-trump-threats",
+      "file": "8be9f699f90f.txt",
+      "title": "IRGC says Iran in \u2018complete control\u2019 of Strait of Hormuz amid Trump threats | Oil and Gas News | Al Jazeera",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "Al Jazeera Staff",
+      "text_length": 3026,
+      "status": "ok",
+      "num_tokens": 648
+    },
+    {
+      "url": "https://www.reuters.com/business/finance/iran-conflict-threat-economic-growth-ebrd-president-says-2026-03-05/",
+      "file": "cd96e8c4f0e5.txt",
+      "title": "Iran conflict a risk to economic growth, EBRD president says | Reuters",
+      "published_date": "2026-03-05T00:00:00.000Z",
+      "author": "Jonathan Spicer",
+      "text_length": 1836,
+      "status": "ok",
+      "num_tokens": 395
+    },
+    {
+      "url": "https://www.npr.org/nx-s1-5736104",
+      "file": "316dbc2be3a5.txt",
+      "title": "The Iran war has effectively closed the Strait of Hormuz : NPR",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "Camila Domonoske",
+      "text_length": 5303,
+      "status": "ok",
+      "num_tokens": 1104
+    },
+    {
+      "url": "http://reuters.com/business/energy/hormuz-shutdown-worsens-after-us-hits-iranian-warship-tankers-stranded-fifth-day-2026-03-04/",
+      "file": "2af0d655840b.txt",
+      "title": "Gulf shipping crisis deepens as tankers stranded for fifth day, US sinks Iranian warship | Reuters",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "Jonathan Saul",
+      "text_length": 5414,
+      "status": "ok",
+      "num_tokens": 1159
+    }
+  ],
+  "total_tokens": 4406
+}

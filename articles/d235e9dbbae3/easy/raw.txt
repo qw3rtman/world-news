@@ -1,0 +1,106 @@
+[
+  {
+    "q": "On February 23, 2026, by what amount did gold futures rise on the Multi Commodity Exchange (MCX), and what was the resulting price per 10 grams?",
+    "a": "Gold futures rose by ₹2,946 to ₹1,59,822 per 10 grams."
+  },
+  {
+    "q": "What was the percentage increase and the specific dollar amount gained by gold futures on the Comex international market on February 23, 2026?",
+    "a": "Gold futures advanced by 1.9% or $96.61 to $5,177.51 per ounce."
+  },
+  {
+    "q": "Which U.S. President announced plans on February 21, 2026, to raise global tariffs from 10% to 15%?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "According to Jigar Trivedi of Indusind Securities, what primary factor prompted the rush to safe-haven assets that drove gold prices up in early February 2026?",
+    "a": "Renewed global tariff worries."
+  },
+  {
+    "q": "What specific judicial action by the U.S. Supreme Court preceded U.S. President Donald Trump's announcement of increased tariffs on February 21, 2026?",
+    "a": "The rejection of his 'reciprocal tariffs'."
+  },
+  {
+    "q": "On which date in February 2026 was the business turnover for April delivery gold futures on the Multi Commodity Exchange (MCX) recorded at 7,515 lots?",
+    "a": "Monday, February 23, 2026."
+  },
+  {
+    "q": "Which country postponed negotiations for an interim trade deal with Washington following U.S. President Donald Trump's tariff announcements in February 2026?",
+    "a": "India."
+  },
+  {
+    "q": "When are negotiators scheduled to meet again in Geneva regarding nuclear talks with Iran, as noted in reports from late February 2026?",
+    "a": "Thursday, February 26, 2026."
+  },
+  {
+    "q": "What specific military threat were investors fearing in late February 2026, contributing to gold's safe-haven appeal?",
+    "a": "A potential U.S. military strike on Iran."
+  },
+  {
+    "q": "What was the status of nuclear talks between the United States and Iran as of late February 2026, according to the article?",
+    "a": "The talks were at an impasse."
+  },
+  {
+    "q": "Who is identified as the Senior Research Analyst at Indusind Securities who commented on the international gold market trends in February 2026?",
+    "a": "Jigar Trivedi."
+  },
+  {
+    "q": "What was the exact price per ounce of gold futures on the Comex market on February 23, 2026?",
+    "a": "$5,177.51."
+  },
+  {
+    "q": "Did U.S. President Donald Trump sign an official document confirming the new tariff duties before they were scheduled to take effect in February 2026?",
+    "a": "It remained unclear whether he had signed any official document."
+  },
+  {
+    "q": "What was the percentage rally for gold futures for April delivery on the Multi Commodity Exchange (MCX) on February 23, 2026?",
+    "a": "1.88%."
+  },
+  {
+    "q": "Which two major financial exchanges are mentioned in the article as having recorded gold price movements in February 2026?",
+    "a": "The Multi Commodity Exchange (MCX) and the Comex."
+  },
+  {
+    "q": "What was the initial global tariff rate that U.S. President Donald Trump planned to raise to 15% in his February 21, 2026 announcement?",
+    "a": "10%."
+  },
+  {
+    "q": "In which city were the next scheduled meetings for nuclear negotiators with Iran located in late February 2026?",
+    "a": "Geneva."
+  },
+  {
+    "q": "What type of assets did investors rush to buy due to tariff worries, as described by Jigar Trivedi in February 2026?",
+    "a": "Safe-haven assets."
+  },
+  {
+    "q": "What was the total business turnover in lots for gold futures on the Multi Commodity Exchange (MCX) on February 23, 2026?",
+    "a": "7,515 lots."
+  },
+  {
+    "q": "Which specific delivery month for gold futures rallied on the Multi Commodity Exchange (MCX) on February 23, 2026?",
+    "a": "April delivery."
+  },
+  {
+    "q": "What was the price of gold per 10 grams on the Multi Commodity Exchange (MCX) before the ₹2,946 surge on February 23, 2026?",
+    "a": "₹1,56,876."
+  },
+  {
+    "q": "What was the dollar price of gold per ounce on the Comex market before the $96.61 advance on February 23, 2026?",
+    "a": "$5,080.90."
+  },
+  {
+    "q": "Which nation's central banks were described as turning away from the U.S. dollar, affecting gold prices in the context of the February 2026 market trends?",
+    "a": "The article mentions central banks generally turning away from the U.S. dollar, without specifying a single nation's central bank as the sole actor, but notes this trend alongside tariff worries."
+  },
+  {
+    "q": "What was the specific date of the U.S. Supreme Court's rejection of U.S. President Donald Trump's 'reciprocal tariffs' relative to his February 21, 2026 announcement?",
+    "a": "The article states the rejection preceded the February 21, 2026 announcement, but does not provide the specific date of the rejection."
+  },
+  {
+    "q": "What was the relationship between the international gold market trend and the Multi Commodity Exchange (MCX) gold price movement on February 23, 2026?",
+    "a": "The MCX gold futures tracked strong trends in the international market, rising in tandem with Comex advances."
+  },
+  {
+    "q": "What was the stated reason for India postponing negotiations for an interim trade deal with Washington in February 2026?",
+    "a": "U.S. President Donald Trump's announcement of plans to raise global tariffs."
+  }
+]

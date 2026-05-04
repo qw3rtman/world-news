@@ -1,0 +1,37 @@
+{
+  "hash": "d7cbcac8351c",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-02-28/can-iran-close-the-strait-of-hormuz-oil-market-impact-explained?srnd=phx-latinamerica",
+      "title": "Can Iran Close the Strait of Hormuz? Oil Market Impact Explained - Bloomberg",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Julian Lee",
+      "num_tokens": 265,
+      "text_length": 1142
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "665307",
+      "spike_id": 1,
+      "market_question": "Will Iran close the Strait of Hormuz before 2027?",
+      "event_title": "Will Iran close the Strait of Hormuz by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.16000000000000003,
+      "spike_timestamp_before": "2026-02-27T11:00:21+00:00",
+      "spike_timestamp_after": "2026-02-28T07:30:25+00:00"
+    },
+    {
+      "market_id": "665307",
+      "spike_id": 2,
+      "market_question": "Will Iran close the Strait of Hormuz before 2027?",
+      "event_title": "Will Iran close the Strait of Hormuz by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.574,
+      "spike_timestamp_before": "2026-02-27T19:00:23+00:00",
+      "spike_timestamp_after": "2026-02-28T16:30:35+00:00"
+    }
+  ]
+}

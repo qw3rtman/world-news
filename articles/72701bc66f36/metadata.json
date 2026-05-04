@@ -1,0 +1,27 @@
+{
+  "hash": "72701bc66f36",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://fortune.com/2026/03/03/how-long-will-iran-war-last-stock-market-oil-barrel-price-goldman-sachs",
+      "title": "The stock market thinks the Iran war will last 4 weeks, according to Goldman's head of oil research | Fortune",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Nick Lichtenberg",
+      "num_tokens": 255,
+      "text_length": 1090
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1494703",
+      "spike_id": 1,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $200 by end of June?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.28500000000000003,
+      "spike_timestamp_before": "2026-03-03T23:00:25+00:00",
+      "spike_timestamp_after": "2026-03-03T23:30:23+00:00"
+    }
+  ]
+}

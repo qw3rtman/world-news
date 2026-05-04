@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the article published on March 12, 2026, by Bloomberg journalist Riley Griffin, what is the primary subject of the report regarding Meta's operations?",
+    "a": "The effort to develop Meta's own in-house AI processors."
+  },
+  {
+    "q": "According to the March 12, 2026, Bloomberg report, what specific investment amount is Nvidia committing to a deal with Nebius?",
+    "a": "$2 billion."
+  },
+  {
+    "q": "In the March 12, 2026, Bloomberg article, what is the headquarters location of the company Nebius, which is partnering with Nvidia?",
+    "a": "Amsterdam."
+  },
+  {
+    "q": "According to the deal announced in the March 12, 2026, Bloomberg report, by what date are Nvidia and Nebius aiming to develop and build AI data centers with 5 gigawatts of power?",
+    "a": "By the end of 2030."
+  },
+  {
+    "q": "What is the name of the Bloomberg daily newsletter about the business of tech that featured the March 12, 2026, article by Riley Griffin?",
+    "a": "Tech In Depth."
+  },
+  {
+    "q": "In the March 12, 2026, Bloomberg report, what specific type of processors is Meta attempting to develop in-house?",
+    "a": "AI processors."
+  },
+  {
+    "q": "According to the March 12, 2026, Bloomberg article, what is the power capacity target for the AI data centers being developed by Nvidia and Nebius?",
+    "a": "5 gigawatts."
+  },
+  {
+    "q": "Which two companies are involved in the $2 billion deal to develop AI data centers, as reported by Bloomberg on March 12, 2026?",
+    "a": "Nvidia and Nebius."
+  },
+  {
+    "q": "What is the full name of the Bloomberg journalist who reported on Meta's chip lab and Nvidia's investment in the March 12, 2026, article?",
+    "a": "Riley Griffin."
+  },
+  {
+    "q": "According to the March 12, 2026, Bloomberg report, what is the specific deadline for the completion of the Nvidia and Nebius AI data center project?",
+    "a": "The end of 2030."
+  },
+  {
+    "q": "In the context of the March 12, 2026, Bloomberg article, what is the primary focus of Meta's internal efforts described in the text?",
+    "a": "Developing its own AI processors."
+  },
+  {
+    "q": "What is the publication date of the Bloomberg article titled 'Meta Spends Millions on Effort to Make In-House AI Chips'?",
+    "a": "March 12, 2026."
+  },
+  {
+    "q": "According to the March 12, 2026, Bloomberg report, what is the total monetary value of the investment Nvidia is putting into the deal with Nebius?",
+    "a": "$2 billion."
+  },
+  {
+    "q": "In the March 12, 2026, Bloomberg article, which company is described as an Amsterdam-based entity partnering with Nvidia?",
+    "a": "Nebius."
+  },
+  {
+    "q": "What specific infrastructure is Nvidia and Nebius aiming to build with 5 gigawatts of power, as stated in the March 12, 2026, Bloomberg report?",
+    "a": "AI data centers."
+  },
+  {
+    "q": "According to the March 12, 2026, Bloomberg article, what is the name of the newsletter series that includes the report on Meta's chip lab?",
+    "a": "Tech In Depth."
+  },
+  {
+    "q": "In the March 12, 2026, Bloomberg report, what is the specific time of day the article was published?",
+    "a": "11:02 AM UTC."
+  },
+  {
+    "q": "What is the relationship between Meta and the in-house AI chip effort described in the March 12, 2026, Bloomberg article?",
+    "a": "Meta is spending millions on the effort to make its own in-house AI chips."
+  },
+  {
+    "q": "According to the March 12, 2026, Bloomberg report, what is the power specification for the AI data centers being developed by Nvidia and Nebius?",
+    "a": "5 gigawatts."
+  },
+  {
+    "q": "In the March 12, 2026, Bloomberg article, which company is the subject of the report regarding its investment in AI data centers with Nebius?",
+    "a": "Nvidia."
+  },
+  {
+    "q": "What is the specific goal of the $2 billion deal between Nvidia and Nebius, as reported by Bloomberg on March 12, 2026?",
+    "a": "To develop and build AI data centers with 5 gigawatts of power by the end of 2030."
+  },
+  {
+    "q": "According to the March 12, 2026, Bloomberg article, what is the source of the report on Meta's chip lab?",
+    "a": "Bloomberg journalist Riley Griffin."
+  },
+  {
+    "q": "In the March 12, 2026, Bloomberg report, what is the target completion year for the Nvidia and Nebius AI data center project?",
+    "a": "2030."
+  },
+  {
+    "q": "What is the primary topic of the Bloomberg newsletter 'Tech In Depth' as described in the March 12, 2026, article?",
+    "a": "The business of tech."
+  },
+  {
+    "q": "According to the March 12, 2026, Bloomberg article, what is the specific power capacity that the AI data centers developed by Nvidia and Nebius will have?",
+    "a": "5 gigawatts."
+  }
+]

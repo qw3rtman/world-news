@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2026, which two Indian education technology firms signed a term sheet for an all-stock acquisition, and who is the founder of the acquiring company?",
+    "a": "Upgrad and Unacademy; Ronnie Screwvala is the founder of Upgrad."
+  },
+  {
+    "q": "Who is the chief executive of Unacademy who will continue to lead the company following the March 2026 acquisition term sheet signed by Upgrad?",
+    "a": "Gaurav Munjal."
+  },
+  {
+    "q": "What specific clause did Upgrad founder Ronnie Screwvala state is included in the March 2026 term sheet for the acquisition of Unacademy, indicating the deal has moved beyond exploratory discussions?",
+    "a": "A break fee clause if the transaction does not close."
+  },
+  {
+    "q": "What percentage of share-swap transaction did Unacademy cofounder Gaurav Munjal confirm in his March 2026 announcement regarding the acquisition by Upgrad?",
+    "a": "100% share-swap transaction."
+  },
+  {
+    "q": "According to Unacademy cofounder Gaurav Munjal in March 2026, what was the monetary value of the ESOP buyback completed by Unacademy, and what percentage of former employees participated?",
+    "a": "Rs 50 crore, with nearly 40% of former employees participating."
+  },
+  {
+    "q": "Which global product of Unacademy did cofounder Gaurav Munjal highlight as gaining traction in the US, UK, Germany, and Canada in his March 2026 post?",
+    "a": "Airlearn."
+  },
+  {
+    "q": "As of March 2026, what amount of cash reserves did Unacademy cofounder Gaurav Munjal state the company currently holds?",
+    "a": "More than $100 million."
+  },
+  {
+    "q": "In which year was Unacademy founded, and during which period did the company expand rapidly before narrowing its focus to core test-preparation business?",
+    "a": "Founded in 2015; expanded rapidly during the pandemic-driven edtech boom."
+  },
+  {
+    "q": "According to Unacademy cofounder Gaurav Munjal in March 2026, what term did he use to describe the company's financial status after reducing cash burn and maintaining reserves of around Rs 1,200 crore?",
+    "a": "\"Default alive.\""
+  },
+  {
+    "q": "According to Tracxn data cited in March 2026, what was the last valuation of Unacademy in 2021, and how much funding had the company raised across multiple rounds?",
+    "a": "Valued at around $3.5 billion in 2021; raised about $880 million."
+  },
+  {
+    "q": "According to Tracxn data cited in March 2026, what was the last valuation of Upgrad in 2024, and how much funding had the company raised?",
+    "a": "Valued at about $2.25 billion in 2024; raised roughly $329 million."
+  },
+  {
+    "q": "Which five companies did Unacademy acquire prior to the March 2026 Upgrad deal, as listed in Tracxn data?",
+    "a": "PrepLadder, CodeChef, NeoStencil, Mastree, and SwifLearn."
+  },
+  {
+    "q": "Which five startups did Upgrad acquire prior to the March 2026 Unacademy deal, as listed in Tracxn data?",
+    "a": "Harappa Education, Talentedge, KnowledgeHut, Centum Learning, and Internshala."
+  },
+  {
+    "q": "What three segments of education did Upgrad founder Ronnie Screwvala state the combined entity of Upgrad and Unacademy could build a broader learning platform spanning in March 2026?",
+    "a": "K-12 education, higher education, and lifelong professional learning."
+  },
+  {
+    "q": "According to Upgrad founder Ronnie Screwvala in March 2026, what technology does he believe Unacademy plans to use to disrupt the sector again after its initial disruption?",
+    "a": "AI (Artificial Intelligence)."
+  },
+  {
+    "q": "What specific social media platform did founders Ronnie Screwvala and Gaurav Munjal use to announce the March 2026 term sheet signing between Upgrad and Unacademy?",
+    "a": "X."
+  },
+  {
+    "q": "What was the primary reason cited for the stalling of earlier discussions between Upgrad and Unacademy before the March 2026 term sheet was signed?",
+    "a": "Valuation differences."
+  },
+  {
+    "q": "According to Unacademy cofounder Gaurav Munjal in March 2026, what operational changes did the company undergo in the past year to refocus its operations?",
+    "a": "Consolidating offline learning centres with franchise partners and concentrating efforts on building core online education products."
+  },
+  {
+    "q": "What leadership changes occurred at Unacademy in the months preceding the March 2026 acquisition announcement, as described by cofounder Gaurav Munjal?",
+    "a": "Cofounders stepped back from operational roles and management attention consolidated around its main revenue-generating vertical."
+  },
+  {
+    "q": "What cost-cutting measures did Unacademy undertake in recent years prior to the March 2026 acquisition, as funding conditions tightened across the sector?",
+    "a": "Multiple rounds of layoffs and other cost-cutting measures."
+  },
+  {
+    "q": "According to Tracxn data cited in March 2026, what is the last valuation year for Upgrad, and what was that valuation amount?",
+    "a": "2024; about $2.25 billion."
+  },
+  {
+    "q": "Which two companies are described as having pursued acquisition-led expansion strategies prior to the March 2026 Upgrad-Unacademy deal?",
+    "a": "Unacademy and Upgrad."
+  },
+  {
+    "q": "What specific business segment did Unacademy narrow its focus to after the pandemic-driven edtech boom, according to the March 2026 article?",
+    "a": "Core test-preparation business."
+  },
+  {
+    "q": "In March 2026, Upgrad founder Ronnie Screwvala stated that valuation details for the Unacademy acquisition would be disclosed only after what two events are completed?",
+    "a": "The deal closes and regulatory filings are completed."
+  },
+  {
+    "q": "According to the March 2026 article, what market position did Unacademy hold among startups during the pandemic-driven edtech boom?",
+    "a": "Among the startups that expanded rapidly."
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "spike_index": 5,
+  "direction": "down",
+  "price_before": 0.367,
+  "price_after": 0.0805,
+  "delta": -0.2865,
+  "abs_delta": 0.2865,
+  "timestamp_before": "2026-03-09T04:00:25+00:00",
+  "timestamp_after": "2026-03-09T20:00:27+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html",
+      "file": "53a19a2cebdb.txt",
+      "title": "Oil prices fall as Trump weighs taking over Strait of Hormuz",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": "Spencer Kimball",
+      "text_length": 4478,
+      "status": "ok",
+      "num_tokens": 934
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/09/oil-prices-iran-war-middle-east-us-israel-strait-of-hormuz.html",
+      "file": "ec65aa824ab3.txt",
+      "title": "Oil prices: Analysts raise the alarm as crude soars over Iran war",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "Sam Meredith",
+      "text_length": 5108,
+      "status": "ok",
+      "num_tokens": 1032
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/09/oil-prices-iran-war-middle-east-us-israel-strait-of-hormuz.html?taid=69ae9d58f9dd4700013ec84d",
+      "file": "556d194ec0f4.txt",
+      "title": "Oil prices: Analysts raise the alarm as crude soars over Iran war",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "Sam Meredith",
+      "text_length": 5101,
+      "status": "ok",
+      "num_tokens": 1028
+    },
+    {
+      "url": "http://us.cnn.com/2026/03/08/business/oil-prices-war-iran-trump",
+      "file": "fbb25f6feb4b.txt",
+      "title": "Oil prices soar past $100 a barrel as war escalates in Iran | CNN Business",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": "Auzinea Bacon, David Goldman",
+      "text_length": 4733,
+      "status": "ok",
+      "num_tokens": 1030
+    },
+    {
+      "url": "http://us.cnn.com/2026/03/09/economy/oil-price-shock",
+      "file": "799b25a394fd.txt",
+      "title": "Oil prices surge above $100: This is the biggest oil disruption in history | CNN Business",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "David Goldman, Matt Egan",
+      "text_length": 4658,
+      "status": "ok",
+      "num_tokens": 1013
+    }
+  ],
+  "total_tokens": 5037
+}

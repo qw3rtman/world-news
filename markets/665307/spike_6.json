@@ -1,0 +1,65 @@
+{
+  "spike_index": 6,
+  "direction": "up",
+  "price_before": 0.4025,
+  "price_after": 0.75,
+  "delta": 0.3475,
+  "abs_delta": 0.3475,
+  "timestamp_before": "2026-03-02T00:00:41+00:00",
+  "timestamp_after": "2026-03-02T21:00:24+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://timesofindia.indiatimes.com/business/international-business/middle-east-crisis-global-oil-markets-on-edge-as-iran-closes-strait-of-hormuz-why-it-matters/articleshow/128954824.cms",
+      "file": "b8f777e27b3f.txt",
+      "title": "'Will set on fire any ship that passes through': Iran shuts down Strait of Hormuz - Why it matters - The Times of India",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /  Updated: Mar 03, 2026, 02:43 IST",
+      "text_length": 3746,
+      "status": "ok",
+      "num_tokens": 760
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-01/energy-in-focus-as-global-equity-traders-brace-for-iran-impact",
+      "file": "66b4f40b1c1d.txt",
+      "title": "Global Stocks Face Volatility as Iran Conflict Drives Shift to Energy, Defense - Bloomberg",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Matthew Griffin",
+      "text_length": 1066,
+      "status": "ok",
+      "num_tokens": 259
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/03/european-markets-stoxx-600-ftse-dax-cac-iran-latest-spring-statement-uk.html",
+      "file": "ed70aa327396.txt",
+      "title": "European markets: Stoxx 600, FTSE, DAX, CAC, Iran latest",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Chloe Taylor,Hugh Leask,Holly Ellyatt",
+      "text_length": 3507,
+      "status": "ok",
+      "num_tokens": 783
+    },
+    {
+      "url": "https://origin.www.bloomberg.com/news/articles/2026-03-02/strait-of-hormuz-how-iran-conflict-is-disrupting-key-oil-shipping-route",
+      "file": "fbc9337e39dd.txt",
+      "title": "Strait of Hormuz: How Iran Conflict Is Disrupting Key Oil Shipping Route - Bloomberg",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Julian Lee",
+      "text_length": 802,
+      "status": "ok",
+      "num_tokens": 163
+    },
+    {
+      "url": "https://www.foxnews.com/politics/gas-prices-could-jump-middle-east-tensions-threaten-global-oil-supply",
+      "file": "5331ecbb055a.txt",
+      "title": "Gas prices could rise 25-50 cents amid Middle East tensions, experts warn | Fox News",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 4772,
+      "status": "ok",
+      "num_tokens": 921
+    }
+  ],
+  "total_tokens": 2886
+}

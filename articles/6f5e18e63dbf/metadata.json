@@ -1,0 +1,37 @@
+{
+  "hash": "6f5e18e63dbf",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://billswire.usatoday.com/story/news/politics/2026/02/28/us-strikes-iran-trump-gamble-wider-war/88916186007/",
+      "title": "US strikes Iran: Trump rolls the dice as fears of wider war surge",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1311,
+      "text_length": 6241
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1422365",
+      "spike_id": 5,
+      "market_question": "Will the US strike Somalia next?",
+      "event_title": "Next Country US Strikes",
+      "spike_direction": "down",
+      "spike_delta": -0.42999999999999994,
+      "spike_timestamp_before": "2026-02-27T10:00:32+00:00",
+      "spike_timestamp_after": "2026-02-28T00:30:31+00:00"
+    },
+    {
+      "market_id": "1422365",
+      "spike_id": 6,
+      "market_question": "Will the US strike Somalia next?",
+      "event_title": "Next Country US Strikes",
+      "spike_direction": "up",
+      "spike_delta": 0.9600000000000001,
+      "spike_timestamp_before": "2026-02-28T08:00:41+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:02+00:00"
+    }
+  ]
+}

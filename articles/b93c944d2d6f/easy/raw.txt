@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the Democratic primary for U.S. Senate in Texas held in March 2026, which candidate defeated U.S. Representative Jasmine Crockett?",
+    "a": "State Representative James Talarico"
+  },
+  {
+    "q": "Who were the two Republican candidates heading to a May 26, 2026, runoff for the U.S. Senate seat in Texas following the March 2026 primaries?",
+    "a": "U.S. Senator John Cornyn and Texas Attorney General Ken Paxton"
+  },
+  {
+    "q": "What specific numerical milestone did the March 2026 Texas Democratic U.S. Senate primary achieve regarding vote count compared to historical midterm primaries?",
+    "a": "More than 2.2 million votes were tallied, the most in a midterm primary for the party since at least 1970"
+  },
+  {
+    "q": "Which late-night television host's failed attempt to interview James Talarico due to FCC concerns generated millions of online views for the Texas state legislator in 2026?",
+    "a": "\"Late Show\" host Stephen Colbert"
+  },
+  {
+    "q": "How much money did James Talarico raise since launching his candidacy in September 2025 compared to the $3.7 million raised by Jasmine Crockett since her December 2025 launch?",
+    "a": "Talarico raised more than $20 million"
+  },
+  {
+    "q": "What additional funds did Jasmine Crockett transfer from her House campaign account to support her 2026 U.S. Senate bid in Texas?",
+    "a": "$4.8 million"
+  },
+  {
+    "q": "Which former U.S. Representative abandoned his Senate bid in Texas to run for a House seat after Jasmine Crockett entered the race in December 2025?",
+    "a": "Former Representative Colin Allred"
+  },
+  {
+    "q": "What specific accusation did a TikTok activist make against James Talarico that prompted Colin Allred to endorse Jasmine Crockett in the 2026 Texas Senate race?",
+    "a": "The activist accused Talarico of referring to Allred as a \"mediocre Black man\""
+  },
+  {
+    "q": "What strategic difference did Jasmine Crockett advocate for in the 2026 Texas Democratic primary regarding voter outreach?",
+    "a": "She argued the party should focus on reenergizing base voters, including Black and young voters, rather than targeting moderates"
+  },
+  {
+    "q": "What strategic difference did James Talarico advocate for in the 2026 Texas Democratic primary regarding voter outreach?",
+    "a": "He argued Democrats should appeal to independents who are souring on President Donald Trump"
+  },
+  {
+    "q": "Which super PAC supporting James Talarico in the 2026 Texas Senate race faced criticism from Jasmine Crockett for airing ads questioning her electability?",
+    "a": "A super PAC supporting Talarico (specific name not provided in article, but identified as supporting Talarico)"
+  },
+  {
+    "q": "What religious background and former profession did James Talarico, the winner of the March 2026 Texas Democratic Senate primary, have before entering politics?",
+    "a": "He was a Presbyterian seminarian and former teacher from Round Rock"
+  },
+  {
+    "q": "In the March 2026 Texas Democratic primary, what was the age difference between the winner James Talarico and the runner-up Jasmine Crockett?",
+    "a": "Talarico was 36 and Crockett was 44, an 8-year difference"
+  },
+  {
+    "q": "Which U.S. Senator from Texas was mentioned as a potential general election opponent for the winner of the March 2026 Democratic primary?",
+    "a": "U.S. Senator John Cornyn"
+  },
+  {
+    "q": "What historical political context did the article cite to highlight the difficulty of the 2026 Texas Senate race for Democrats?",
+    "a": "No Democrat has won a statewide office in Texas in more than three decades"
+  },
+  {
+    "q": "What specific phrase did James Talarico use in his victory speech in Austin on March 4, 2026, to describe the hope provided by the primary result?",
+    "a": "\"A little bit of hope is a dangerous thing\""
+  },
+  {
+    "q": "Which Texas state legislative body did both James Talarico and Jasmine Crockett serve in together before their 2026 U.S. Senate primary?",
+    "a": "The Texas state House"
+  },
+  {
+    "q": "What reason did Jasmine Crockett give in her concession statement on March 4, 2026, for urging Democrats to unite behind James Talarico?",
+    "a": "She stated that the election is about the future of all 30 million Texans and getting America back on track"
+  },
+  {
+    "q": "How did Jasmine Crockett characterize the questions about her electability in the 2026 Texas Senate race?",
+    "a": "She called it a \"dog whistle\""
+  },
+  {
+    "q": "Which Republican candidate for the May 26, 2026, runoff was identified as the Texas Attorney General?",
+    "a": "Ken Paxton"
+  },
+  {
+    "q": "What was the total approximate number of votes counted in the March 2026 Texas Democratic U.S. Senate primary, and how did it compare to the 2008 presidential race?",
+    "a": "More than 2.2 million votes were counted, which was second only to the 2008 presidential race"
+  },
+  {
+    "q": "What specific action did James Talarico's campaign take in response to the accusation that he called Colin Allred a \"mediocre Black man\"?",
+    "a": "His campaign argued his comments were mischaracterized"
+  },
+  {
+    "q": "Which two distinct approaches to fighting the political system did the article say James Talarico and Jasmine Crockett showcased during the 2026 primary?",
+    "a": "Crockett pointed to her experience tangling with the president and GOP in Washington, while Talarico talked about taking on a \"broken, corrupt political system\""
+  },
+  {
+    "q": "What was the date of the CNN Politics article update that reported James Talarico's victory in the Texas Democratic primary?",
+    "a": "March 4, 2026"
+  },
+  {
+    "q": "Which two potential general election opponents for the Democratic nominee were identified as heading to a runoff in May 2026?",
+    "a": "U.S. Senator John Cornyn and Texas Attorney General Ken Paxton"
+  }
+]

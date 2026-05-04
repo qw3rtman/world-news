@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In February 2026, what specific deadline did U.S. Defense Secretary Pete Hegseth give to Anthropic CEO Dario Amodei regarding the company's artificial intelligence technology, and what was the stated consequence for non-compliance?",
+    "a": "Hegseth gave Amodei a Friday deadline to open Anthropic’s AI technology for unrestricted military use or risk losing the company’s government contract."
+  },
+  {
+    "q": "Which two specific military applications did Anthropic CEO Dario Amodei identify as ethical lines that the company would not cross during negotiations with the Pentagon in early 2026?",
+    "a": "The two restricted applications were fully autonomous military targeting operations and domestic surveillance of U.S. citizens."
+  },
+  {
+    "q": "As of February 2026, which four artificial intelligence companies were awarded defense contracts worth up to $200 million each by the Pentagon?",
+    "a": "The four companies were Anthropic, Google, OpenAI, and Elon Musk’s xAI."
+  },
+  {
+    "q": "In January 2026, what did U.S. Defense Secretary Pete Hegseth state regarding AI models that do not allow for fighting wars, and at which company’s facility did he make this speech?",
+    "a": "Hegseth stated he was shrugging off any AI models that would not allow the U.S. military to fight wars, and he made this speech at a SpaceX facility in South Texas."
+  },
+  {
+    "q": "Which AI chatbot, operated by Elon Musk’s xAI company, was announced in early 2026 to join the secure but unclassified Pentagon AI network known as GenAI.mil?",
+    "a": "The Grok chatbot was announced to join the GenAI.mil network."
+  },
+  {
+    "q": "In early February 2026, which artificial intelligence company announced it would join the Pentagon’s GenAI.mil network to enable service members to use a custom version of its chatbot for unclassified tasks?",
+    "a": "OpenAI announced it would join GenAI.mil, allowing the use of a custom version of ChatGPT."
+  },
+  {
+    "q": "According to a senior Pentagon official in February 2026, what two potential legal or regulatory mechanisms could the U.S. Department of Defense use to compel Anthropic to provide broader access to its AI technology?",
+    "a": "The Pentagon could designate Anthropic as a supply chain risk or use the Defense Production Act to gain more authority over its products."
+  },
+  {
+    "q": "In a January 2026 essay, what specific public sentiment capability did Anthropic CEO Dario Amodei warn a powerful AI could possess regarding billions of conversations?",
+    "a": "Amodei warned that an AI could gauge public sentiment, detect pockets of disloyalty forming, and stamp them out before they grow."
+  },
+  {
+    "q": "Which AI company, described as the last of its major peers in early 2026, had not yet supplied its technology to the new U.S. military internal network due to CEO Dario Amodei’s ethical concerns?",
+    "a": "Anthropic was the last peer to not supply its technology to the new U.S. military internal network."
+  },
+  {
+    "q": "In October 2025, what specific accusation did David Sacks, President Donald Trump’s top AI adviser, make against Anthropic regarding its lobbying strategy?",
+    "a": "David Sacks accused Anthropic of running a sophisticated regulatory capture strategy based on fear-mongering."
+  },
+  {
+    "q": "Which former White House official from Donald Trump’s first term did Anthropic recently add to its board of directors in an effort to signal a bipartisan approach in 2026?",
+    "a": "Anthropic added Chris Liddell, a former White House official from Trump’s first term, to its board of directors."
+  },
+  {
+    "q": "In early 2026, which AI company publicly criticized chipmaker Nvidia for supporting President Donald Trump’s proposals to loosen export controls on AI computer chips for sale in China?",
+    "a": "Anthropic publicly criticized Nvidia for supporting Trump’s proposals to loosen export controls to enable some AI computer chips to be sold in China."
+  },
+  {
+    "q": "Which U.S. military network, described as secure but unclassified, was announced in early 2026 to include both Elon Musk’s Grok and a custom version of OpenAI’s ChatGPT?",
+    "a": "The network is called GenAI.mil."
+  },
+  {
+    "q": "According to Owen Daniels of Georgetown University’s Center for Security and Emerging Technology in early 2026, why did he argue that Anthropic’s bargaining power with the Pentagon was limited?",
+    "a": "Daniels argued Anthropic’s bargaining power was limited because its peers, including Meta, Google, and xAI, were willing to comply with the department’s policy on using models for all lawful applications."
+  },
+  {
+    "q": "In early 2026, which AI company was the first to get approved for classified military networks, where it works with partners like Palantir?",
+    "a": "Anthropic was the first AI company to get approved for classified military networks."
+  },
+  {
+    "q": "Which AI company’s chatbot, embedded into the X social media network, drew global scrutiny in early 2026 for generating highly sexualized deepfake images of people without their consent?",
+    "a": "Elon Musk’s xAI company’s Grok chatbot drew scrutiny for generating highly sexualized deepfake images of people without their consent."
+  },
+  {
+    "q": "In early 2026, what did U.S. Defense Secretary Pete Hegseth vow to root out in the armed forces, a goal he linked to his vision for military AI systems to operate without ideological constraints?",
+    "a": "Hegseth vowed to root out what he called a “woke culture” in the armed forces."
+  },
+  {
+    "q": "Which organization’s senior counsel, Amos Toh, stated in early 2026 that the law is not keeping up with the rapid evolution of AI technology used by the Department of Defense?",
+    "a": "Amos Toh, senior counsel at the Brennan Center’s Liberty and National Security Program at New York University, made this statement."
+  },
+  {
+    "q": "In early 2026, which AI company aligned itself with President Joe Biden’s Democratic administration by volunteering to subject its AI systems to third-party scrutiny to guard against national security risks?",
+    "a": "Anthropic closely aligned with President Joe Biden’s Democratic administration by volunteering to subject its AI systems to third-party scrutiny."
+  },
+  {
+    "q": "Which two U.S. political entities were on opposite sides of a lobbying push to regulate AI in U.S. states as reported in early 2026?",
+    "a": "Trump’s Republican administration and Anthropic were on opposite sides of the lobbying push to regulate AI in U.S. states."
+  },
+  {
+    "q": "In early 2026, which space flight company that recently merged with xAI did not immediately return a request for comment regarding its AI readiness for classified settings?",
+    "a": "SpaceX did not immediately return a request for comment regarding its AI readiness for classified settings."
+  },
+  {
+    "q": "Which AI company’s CEO, Dario Amodei, argued in a January 2026 essay that the world was considerably closer to real AI danger in 2026 than it was in 2023?",
+    "a": "Anthropic CEO Dario Amodei argued that the world was considerably closer to real danger in 2026 than in 2023."
+  },
+  {
+    "q": "In early 2026, which AI company hired a number of ex-Biden officials after President Donald Trump’s return to the White House while also trying to signal a bipartisan approach?",
+    "a": "Anthropic hired a number of ex-Biden officials after Trump’s return to the White House."
+  },
+  {
+    "q": "Which AI company, founded in 2021 by former OpenAI employees, has long pitched itself as the more responsible and safety-minded leader in the industry?",
+    "a": "Anthropic, founded in 2021 by former OpenAI employees, has long pitched itself as the more responsible and safety-minded leader."
+  },
+  {
+    "q": "In early 2026, which AI company’s tools were described by a senior Pentagon official as needing to operate without built-in limitations because military operations require such tools?",
+    "a": "The Pentagon official argued that Anthropic’s tools needed to operate without built-in limitations because military operations require tools without such constraints."
+  }
+]

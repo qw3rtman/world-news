@@ -1,0 +1,37 @@
+{
+  "hash": "4bcf952d90fa",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://foreignpolicy.com/2026/03/11/ayatollah-mojtaba-khamenei-iran-war-supreme-leader/",
+      "title": "Appointment of Mojtaba Khamenei As Iran's Next Supreme Leader Signals Regime Exhaustion",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": "Saeid Golkar",
+      "num_tokens": 1463,
+      "text_length": 7224
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1535972",
+      "spike_id": 4,
+      "market_question": "Iran leadership change by April 30?",
+      "event_title": "Iran leadership change by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.15500000000000003,
+      "spike_timestamp_before": "2026-03-13T09:30:30+00:00",
+      "spike_timestamp_after": "2026-03-14T07:30:30+00:00"
+    },
+    {
+      "market_id": "1535972",
+      "spike_id": 5,
+      "market_question": "Iran leadership change by April 30?",
+      "event_title": "Iran leadership change by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.15500000000000003,
+      "spike_timestamp_before": "2026-03-13T18:00:38+00:00",
+      "spike_timestamp_after": "2026-03-14T15:00:39+00:00"
+    }
+  ]
+}

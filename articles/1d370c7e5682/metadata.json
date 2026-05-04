@@ -1,0 +1,27 @@
+{
+  "hash": "1d370c7e5682",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.npr.org/2026/02/24/nx-s1-5721139/russia-ukraine-war",
+      "title": "Russia thought it'd take days to seize Ukraine. 4 years later war rages on : NPR",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 2559,
+      "text_length": 12680
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1007260",
+      "spike_id": 1,
+      "market_question": "Will Russia capture all of Pokrovsk by February 28?",
+      "event_title": "Will Russia capture all of Pokrovsk by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.9329999999999999,
+      "spike_timestamp_before": "2026-02-25T16:30:17+00:00",
+      "spike_timestamp_after": "2026-02-25T20:00:15+00:00"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "spike_index": 1,
+  "direction": "up",
+  "price_before": 0.335,
+  "price_after": 0.515,
+  "delta": 0.18,
+  "abs_delta": 0.18,
+  "timestamp_before": "2026-03-13T13:30:23+00:00",
+  "timestamp_after": "2026-03-14T12:30:21+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://thetimes.com/world/middle-east/article/iran-us-war-ground-operation-isfahan-nuclear-facility-bp8rbhs2n",
+      "file": "83bbc461ac5e.txt",
+      "title": "Elite US troops may launch \u2018snatch raid\u2019 on Iran\u2019s nuclear stockpile",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": "Larisa Brown, Defence Editor",
+      "text_length": 5010,
+      "status": "ok",
+      "num_tokens": 1048
+    },
+    {
+      "url": "http://www.abc.net.au/news/2026-03-12/donald-trump-and-iran-oil-could-involve-kharg-island/106429772",
+      "file": "313e5fbf98d7.txt",
+      "title": "Kharg Island could be Iran's weak spot as Washington reportedly considers ground invasion options - ABC News",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": null,
+      "text_length": 9790,
+      "status": "ok",
+      "num_tokens": 2004
+    },
+    {
+      "url": "https://www.foxnews.com/politics/trump-says-u-s-obliterated-targets-strike-key-iranian-oil-hub",
+      "file": "0e23d8f82d23.txt",
+      "title": "Trump says US \u2018obliterated\u2019 military targets in strike on key Iranian oil hub | Fox News",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": null,
+      "text_length": 4388,
+      "status": "ok",
+      "num_tokens": 899
+    },
+    {
+      "url": "https://www.aljazeera.com/amp/news/2026/3/11/could-the-us-deploy-troops-to-iran-and-how-could-that-play-out",
+      "file": "dc5368723c54.txt",
+      "title": "Could the US deploy troops to Iran, and how could that play out? | US-Israel war on Iran News | Al Jazeera",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": "Shola Lawal",
+      "text_length": 10736,
+      "status": "ok",
+      "num_tokens": 2155
+    },
+    {
+      "url": "https://thehill.com/homenews/ap/ap-international/ap-the-latest-us-hits-iran-with-intense-strikes-as-iranian-air-campaign-drives-oil-prices-higher/",
+      "file": "e745f40d0c8d.txt",
+      "title": "The Latest: US is deploying Marines to Middle East as it pounds Iran | The Hill",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": null,
+      "text_length": 23349,
+      "status": "ok",
+      "num_tokens": 4782
+    }
+  ],
+  "total_tokens": 10888
+}

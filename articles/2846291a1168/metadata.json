@@ -1,0 +1,27 @@
+{
+  "hash": "2846291a1168",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-11-march-2026-crude-falls-to-88-a-barrel-after-iea-proposes-largest-oil-reserve-release/amp_articleshow/129438052.cms",
+      "title": "Oil price today (March 11, 2026): Crude falls to $88 a barrel after IEA proposes largest oil reserve release - The Times of India",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 717,
+      "text_length": 3619
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1538079",
+      "spike_id": 6,
+      "market_question": "Will Crude Oil (CL) hit (LOW) $80 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.24,
+      "spike_timestamp_before": "2026-03-10T23:00:24+00:00",
+      "spike_timestamp_after": "2026-03-11T04:30:24+00:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "hash": "df58927c6b8c",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/middle-east/iran-fallout-pushes-market-views-next-fed-rate-cut-further-away-2026-03-03/",
+      "title": "Fed faces new inflation, growth risks despite US energy resilience | Reuters",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Howard Schneider",
+      "num_tokens": 1151,
+      "text_length": 5521
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "906974",
+      "spike_id": 1,
+      "market_question": "Will there be no change in Fed interest rates after the June 2026 meeting?",
+      "event_title": "Fed Decision in June?",
+      "spike_direction": "up",
+      "spike_delta": 0.18000000000000005,
+      "spike_timestamp_before": "2026-03-02T15:00:56+00:00",
+      "spike_timestamp_after": "2026-03-03T12:00:48+00:00"
+    }
+  ]
+}

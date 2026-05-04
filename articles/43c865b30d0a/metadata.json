@@ -1,0 +1,27 @@
+{
+  "hash": "43c865b30d0a",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://now.cnn.com/2026/03/11/europe/russia-putin-trump-iran-war-opportunity-intl",
+      "title": "Breaking News, Latest News and Videos | CNN",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": "Monica Sarkar",
+      "num_tokens": 39,
+      "text_length": 192
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "618509",
+      "spike_id": 7,
+      "market_question": "Will Trump and Putin not meet?",
+      "event_title": "Where will Trump and Putin meet next?",
+      "spike_direction": "up",
+      "spike_delta": 0.15200000000000002,
+      "spike_timestamp_before": "2026-03-12T05:30:22+00:00",
+      "spike_timestamp_after": "2026-03-13T03:30:23+00:00"
+    }
+  ]
+}

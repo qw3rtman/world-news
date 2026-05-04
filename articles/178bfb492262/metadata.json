@@ -1,0 +1,27 @@
+{
+  "hash": "178bfb492262",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://as.ft.com/r/2810a28a-eac6-4a47-9e1b-53789c92e4ca",
+      "title": "Client Challenge",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 41,
+      "text_length": 200
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1370894",
+      "spike_id": 1,
+      "market_question": "Judy Shelton Fed Chair Nomination Odds >5% by Feb 20?",
+      "event_title": "Judy Shelton Fed Chair Nomination Odds above ___  by Feb 20?",
+      "spike_direction": "up",
+      "spike_delta": 0.2955,
+      "spike_timestamp_before": "2026-02-20T04:00:17+00:00",
+      "spike_timestamp_after": "2026-02-20T09:00:26+00:00"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "spike_index": 9,
+  "direction": "up",
+  "price_before": 0.1965,
+  "price_after": 0.3665,
+  "delta": 0.16999999999999998,
+  "abs_delta": 0.16999999999999998,
+  "timestamp_before": "2026-03-08T01:30:26+00:00",
+  "timestamp_after": "2026-03-08T21:30:25+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.reuters.com/world/europe/trump-rejects-settling-iran-war-raises-prospect-killing-all-its-potential-2026-03-08/",
+      "file": "0a1686d8a84f.txt",
+      "title": "Iran names Khamenei's hardline son Mojtaba as new supreme leader, oil surges | Reuters",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "Parisa Hafezi",
+      "text_length": 5844,
+      "status": "ok",
+      "num_tokens": 1305
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/c043260749ko",
+      "file": "96534553ea66.txt",
+      "title": "Mojtaba Khamenei to succeed his father as Iran's supreme leader",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": null,
+      "text_length": 3789,
+      "status": "ok",
+      "num_tokens": 828
+    },
+    {
+      "url": "https://thehill.com/homenews/5765690-mojtaba-khamenei-iran-supreme-leader/",
+      "file": "7e54400db45e.txt",
+      "title": "Iranian clerics choose Mojtaba Khamenei as new leader",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": null,
+      "text_length": 3841,
+      "status": "ok",
+      "num_tokens": 816
+    },
+    {
+      "url": "https://english.elpais.com/international/2026-03-06/mojtaba-khamenei-son-of-the-deceased-ayatollah-emerges-as-frontrunner-to-become-irans-new-supreme-leader.html",
+      "file": "9dbdc35b18b8.txt",
+      "title": "Mojtaba Khamenei, son of the deceased ayatollah, emerges as frontrunner to become Iran\u2019s new supreme leader | International | EL PA\u00cdS English",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Ali Falahi",
+      "text_length": 8273,
+      "status": "ok",
+      "num_tokens": 1667
+    },
+    {
+      "url": "http://www.abc.net.au/news/2026-03-07/iran-supreme-leader-son-mojtaba-khamenei-and-war/106419508",
+      "file": "c971115ad982.txt",
+      "title": "'Mini supreme leader' Mojtaba Khamenei could soon rise but he's already the 'power behind the robes' - ABC News",
+      "published_date": "2026-03-07T00:00:00.000Z",
+      "author": null,
+      "text_length": 10674,
+      "status": "ok",
+      "num_tokens": 2329
+    }
+  ],
+  "total_tokens": 6945
+}

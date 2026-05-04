@@ -1,0 +1,27 @@
+{
+  "hash": "d9aa7db994f0",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-what-is-the-gold-rate-outlook-for-march-13-2026-should-you-buy-or-sell-mcx-gold/articleshow/129538988.cms",
+      "title": "Gold price prediction amid US-Iran war: What's the gold rate outlook for March 13, 2026? Resistance seen near Rs 1,60,300 - The Times of India",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /   Mar 13, 2026, 11:00 IST",
+      "num_tokens": 480,
+      "text_length": 2218
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1032272",
+      "spike_id": 8,
+      "market_question": "Will Gold (GC) hit (HIGH) $5,500 by end of June?",
+      "event_title": "What will Gold (GC) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.18300000000000005,
+      "spike_timestamp_before": "2026-03-12T09:30:25+00:00",
+      "spike_timestamp_after": "2026-03-13T01:00:29+00:00"
+    }
+  ]
+}

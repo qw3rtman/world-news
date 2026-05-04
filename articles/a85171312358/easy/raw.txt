@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the State of the Union address delivered on Tuesday, February 24, 2026, what specific claim did U.S. President Donald Trump make regarding Iran's missile capabilities?",
+    "a": "Trump claimed that Iran was \"working on missiles that will soon reach\" the United States."
+  },
+  {
+    "q": "According to three sources familiar with the reports in late February 2026, how does U.S. intelligence view President Donald Trump's claim that Iran will soon have a missile capable of hitting the United States?",
+    "a": "The claim is not backed by U.S. intelligence reports and appears to be exaggerated."
+  },
+  {
+    "q": "What timeline did the unclassified 2025 U.S. Defense Intelligence Agency assessment establish for Iran to develop a militarily viable intercontinental ballistic missile (ICBM)?",
+    "a": "The assessment stated that Iran could take until 2035 to develop such a missile from its existing space-launch vehicles."
+  },
+  {
+    "q": "What was White House spokesperson Anna Kelly's response to reports that U.S. intelligence did not support President Trump's claim about imminent Iranian missile threats in late February 2026?",
+    "a": "She stated that President Trump is \"absolutely right to highlight the grave concern posed by Iran\" as a country possessing intercontinental ballistic missiles."
+  },
+  {
+    "q": "According to a source speaking on condition of anonymity in late February 2026, what is the earliest estimated time Iran would need to produce an operational ICBM even if receiving technological assistance from China or North Korea?",
+    "a": "The source estimated it would take up to eight years at the earliest."
+  },
+  {
+    "q": "Which news organization first reported in late February 2026 that U.S. intelligence agencies believe Iran is probably years away from having missiles capable of hitting the United States?",
+    "a": "The New York Times."
+  },
+  {
+    "q": "How did U.S. Secretary of State Marco Rubio characterize Iran's ballistic missile program in a statement on Wednesday, February 25, 2026, compared to President Trump's claims?",
+    "a": "Rubio stated that Tehran is \"on a pathway to one day being able to develop weapons that could reach the continental U.S.,\" using less definitive terms than Trump."
+  },
+  {
+    "q": "What justification did Iranian Foreign Minister Abbas Araghchi provide for Iran's missile capabilities in an interview with India Today TV released on Wednesday, February 25, 2026?",
+    "a": "He stated that Iran intentionally limits its missile range to below 2000 kilometers for defensive purposes and deterrence, denying the development of long-range missiles."
+  },
+  {
+    "q": "According to the International Atomic Energy Agency (IAEA) and the U.S. intelligence community in late February 2026, in what year did Iran shutter its nuclear weapons development program?",
+    "a": "The program was shuttered in 2003."
+  },
+  {
+    "q": "What did U.S. President Donald Trump claim about the status of Iran's nuclear program in his State of the Union address on Tuesday, February 24, 2026?",
+    "a": "He claimed that Tehran was beginning to rebuild a nuclear program that he asserted had been \"obliterated\" by U.S. airstrikes last June."
+  },
+  {
+    "q": "What specific threat did U.S. President Donald Trump issue regarding Iran in late February 2026 if Tehran fails to agree on a nuclear deal or executes protesters?",
+    "a": "Trump threatened to attack Iran if it executes people arrested during the nationwide anti-government protests in January 2026 or fails to agree to a deal on its nuclear program."
+  },
+  {
+    "q": "According to former U.N. nuclear inspector David Albright in late February 2026, what specific technical component is Iran lacking to mount a nuclear warhead on a missile?",
+    "a": "Albright stated that Iran needs lots of work to develop an adequate re-entry vehicle (RV) that can survive the extreme heat and forces of plunging through Earth’s atmosphere."
+  },
+  {
+    "q": "What impact did Israeli airstrikes in 2024 and the previous year have on Iran's ballistic missile production facilities, according to experts noted in late February 2026?",
+    "a": "The airstrikes badly damaged key facilities where Tehran produces liquid- and solid-fuel ballistic missiles."
+  },
+  {
+    "q": "What distinction did experts in late February 2026 draw between space-launch vehicles (SLVs) and intercontinental ballistic missiles (ICBMs) regarding their payloads?",
+    "a": "SLVs loft satellites, whereas ICBMs release re-entry vehicles designed to protect warheads from the high temperatures and forces of atmospheric re-entry."
+  },
+  {
+    "q": "What three specific threats did U.S. President Donald Trump cite in his State of the Union address on Tuesday, February 24, 2026, to justify potential strikes against Iran?",
+    "a": "He pointed to Tehran's support for militant groups, its killing of protesters, and the country's missile and nuclear programs."
+  },
+  {
+    "q": "What is the current status of Iran's uranium enrichment activities as reported by the IAEA in late February 2026, despite the shuttering of its nuclear weapons program in 2003?",
+    "a": "Tehran has continued enriching uranium in recent years, including to near weapons-grade levels."
+  },
+  {
+    "q": "What region does Iran's ballistic missile force, described as the largest in the Middle East in late February 2026, have the capability to strike?",
+    "a": "Iran's missiles can strike Israel, U.S. bases in the region, and parts of Europe."
+  },
+  {
+    "q": "Who are the three Reuters reporters credited with reporting the article published on February 27, 2026, regarding Trump's Iranian missile claim?",
+    "a": "Jonathan Landay, Humeyra Pamuk, and Gram Slattery."
+  },
+  {
+    "q": "What condition did the three sources familiar with the intelligence reports set for speaking to Reuters in late February 2026?",
+    "a": "They spoke on the condition of anonymity to discuss sensitive intelligence."
+  },
+  {
+    "q": "What did the sources familiar with U.S. intelligence reports in late February 2026 say about the existence of any assessments indicating Iran was developing a missile that could soon range the U.S. homeland?",
+    "a": "They were unaware of any such assessments but did not rule out the possibility of a new intelligence report they had not seen."
+  },
+  {
+    "q": "What did Iranian Foreign Minister Abbas Araghchi state regarding Iran's intent for its missile capabilities in the interview with India Today TV released on Wednesday, February 25, 2026?",
+    "a": "He stated, \"We don’t want it to be a global threat. We only have (them) to defend ourselves. Our missiles build deterrence.\""
+  },
+  {
+    "q": "What did David Albright, president of the Institute for Science and International Security think tank, say about Iran's ability to launch long-range missiles in late February 2026?",
+    "a": "He said Iran can launch a very long-range missile because of its space launch program, but it is a long way away from mounting a nuclear warhead-carrying re-entry vehicle."
+  },
+  {
+    "q": "What specific sites did U.S. President Donald Trump claim were targeted by U.S. airstrikes last June in his State of the Union address on Tuesday, February 24, 2026?",
+    "a": "He claimed the airstrikes targeted three major sites involved with uranium enrichment."
+  },
+  {
+    "q": "What was the context of the negotiations between U.S. and Iranian representatives in late February 2026 when President Trump made his missile claims?",
+    "a": "The representatives were negotiating over Tehran's nuclear program with no signs of a breakthrough that could avert potential U.S. strikes amid a massive military buildup in the region."
+  },
+  {
+    "q": "What did the unclassified 2025 U.S. Defense Intelligence Agency assessment conclude Iran would need to modify to develop a militarily viable intercontinental ballistic missile?",
+    "a": "The assessment concluded Iran would need to modify its existing satellite-lofting space-launch vehicles (SLVs)."
+  }
+]

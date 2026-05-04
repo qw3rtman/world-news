@@ -1,0 +1,47 @@
+{
+  "hash": "c0f2af356646",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.thetimes.com/article/7af8a83d-a391-4717-8065-518a1224f65f?shareToken=49c79141c8b1dcfefedf89ff3499cd09",
+      "title": "How will the war in Iran end? The scenarios explained",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "Richard Spencer | Samer Al-Atrush",
+      "num_tokens": 1930,
+      "text_length": 9213
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1466150",
+      "spike_id": 6,
+      "market_question": "Iran x Israel/US conflict ends by March 31?",
+      "event_title": "Iran x Israel/US conflict ends by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.15500000000000003,
+      "spike_timestamp_before": "2026-03-03T15:00:43+00:00",
+      "spike_timestamp_after": "2026-03-04T14:00:34+00:00"
+    },
+    {
+      "market_id": "1466150",
+      "spike_id": 7,
+      "market_question": "Iran x Israel/US conflict ends by March 31?",
+      "event_title": "Iran x Israel/US conflict ends by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.17,
+      "spike_timestamp_before": "2026-03-03T19:00:34+00:00",
+      "spike_timestamp_after": "2026-03-04T18:30:34+00:00"
+    },
+    {
+      "market_id": "1466150",
+      "spike_id": 8,
+      "market_question": "Iran x Israel/US conflict ends by March 31?",
+      "event_title": "Iran x Israel/US conflict ends by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.24,
+      "spike_timestamp_before": "2026-03-03T23:00:34+00:00",
+      "spike_timestamp_after": "2026-03-04T23:00:31+00:00"
+    }
+  ]
+}

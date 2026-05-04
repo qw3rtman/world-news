@@ -1,0 +1,65 @@
+{
+  "spike_index": 11,
+  "direction": "down",
+  "price_before": 0.315,
+  "price_after": 0.16,
+  "delta": -0.155,
+  "abs_delta": 0.155,
+  "timestamp_before": "2026-03-05T23:00:39+00:00",
+  "timestamp_after": "2026-03-06T23:00:26+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-05-26?post-id=cmmdap1w600003b6s5xfcj2op",
+      "file": "d3d33423ea5d.txt",
+      "title": "Day 6 of Middle East conflict \u2014 countries intercepting Iranian strikes, US ramps up campaign | CNN",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Helen Regan, Paula Newton, Michael Rios, Aditi Sangal, Austin Culpepper, Nina Giraldo, Tamar Michaelis, Vasco Cotovio, Clarissa Ward, Nechirvan Mando, Mitchell McCluskey, Sharon Braithwaite, Max Saltman, Haley Britzky, Tori B. Powell, Maureen Chowdhury, Oren Liebermann, Samantha Waldenberg, Piper Hudspeth Blackburn, Adam Cancryn, Sarah Ferris, Annie Grayer, Matt Egan, John Towfighi, Thomas Bordeaux, Gianluca Mezzofiore, Lauren Kent, Sophie Tanno, Joseph Ataman, Alex  Leeds Matthews, Soph Warnes, Rosa de Acosta, Rhyannon Bartlett-Imadegawa, Lou Robinson, Ren\u00e9e Rigdon, Yahya Salem, Jennifer Hansler, Zachary Cohen, Eyad Kourdi, Charbel Mallo, Nina Subkhanberdina, Sana Noor Haq, Alejandra Jaramillo, Zeena Saifi, Avery Schmitz, Mostafa Salem, Rebekah Riess, Charlotte Reck, Tala Alrajjal, Billy Stockwell, Kaanita Iyer, Logan Schiciano, Brian Stelter, Barbie Latza Nadeau, Chris Isidore, Leila Gharagozlou, Olesya Dmitracova, Eugenia Yosef, Jessie Yeung, Todd Symons, Antoinette Radford, Rhea Mogul, Laura Sharman, Yoonjung Seo, Karina Tsui, Will Ripley, Kareem El Damanhoury, Frederik Pleitgen, Ivan Watson, Yumi Asada, Katherine Dautrich",
+      "text_length": 19506,
+      "status": "ok",
+      "num_tokens": 3890
+    },
+    {
+      "url": "https://www.timesofisrael.com/saudi-arabia-said-to-intensify-talks-with-iran-to-defuse-mideast-war/",
+      "file": "ffb14d915369.txt",
+      "title": "Saudi Arabia said talking with Iran; Gulf states complain at lack of notice before war | The Times of Israel",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Agencies  and  ToI Staff",
+      "text_length": 9361,
+      "status": "ok",
+      "num_tokens": 1799
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-06/saudi-arabia-has-intensified-direct-line-to-iran-to-defuse-war?srnd=phx-economics-v2",
+      "file": "d22aabfb9792.txt",
+      "title": "Saudi Arabia Intensifies Engagement With Iran to Defuse War - Bloomberg",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Donato Paolo Mancini",
+      "text_length": 554,
+      "status": "ok",
+      "num_tokens": 95
+    },
+    {
+      "url": "http://haaretz.com/israel-news/2026-03-03/ty-article/.premium/netanyahu-iran-strikes-will-pave-way-for-israel-saudi-arabia-normalization/0000019c-b2ca-db5a-a99f-b3cf0f410000",
+      "file": "1bc63f1e4c16.txt",
+      "title": "Netanyahu: U.S.-Israel Strikes Will Foster Regime Change in Iran, Pave Way to Normalization With Saudi Arabia - Israel News",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Ben Samuels",
+      "text_length": 403,
+      "status": "ok",
+      "num_tokens": 82
+    },
+    {
+      "url": "http://reuters.com/world/middle-east/netanyahus-war-alliance-with-trump-faces-test-iran-crisis-widens-2026-03-04/",
+      "file": "003383799aa6.txt",
+      "title": "Netanyahu's war alliance with Trump faces test as Iran crisis widens | Reuters",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "Maayan Lubell",
+      "text_length": 8220,
+      "status": "ok",
+      "num_tokens": 1657
+    }
+  ],
+  "total_tokens": 7523
+}

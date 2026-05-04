@@ -1,0 +1,27 @@
+{
+  "hash": "c099512faa0a",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/business/energy/oil-derivatives-signal-traders-see-middle-east-shock-short-lived-2026-03-06/",
+      "title": "Oil derivatives signal traders see Middle East shock as short-lived | Reuters",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Mehnaz Yasmin",
+      "num_tokens": 912,
+      "text_length": 4235
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1515775",
+      "spike_id": 2,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $105 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.18500000000000005,
+      "spike_timestamp_before": "2026-03-07T05:00:25+00:00",
+      "spike_timestamp_after": "2026-03-07T17:30:23+00:00"
+    }
+  ]
+}

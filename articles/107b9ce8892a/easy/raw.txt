@@ -1,0 +1,106 @@
+[
+  {
+    "q": "On February 23, 2026, by what percentage did silver futures rise on the Multi Commodity Exchange (MCX), and what was the final price per kilogram for the March delivery contract?",
+    "a": "Silver futures rose 4.88% to ₹2,65,282 per kilogram."
+  },
+  {
+    "q": "What specific global policy change initiated by U.S. President Donald Trump contributed to the rise in safe-haven asset demand in late February 2026?",
+    "a": "President Trump raised a global levy from 10% to 15% after the U.S. Supreme Court rejected his 'reciprocal' tariffs."
+  },
+  {
+    "q": "In the international COMEX market on February 23, 2026, what was the price per ounce for March silver futures, and by what percentage did it increase?",
+    "a": "The price rose 5.58% to $86.93 per ounce."
+  },
+  {
+    "q": "Which Indian financial institution's Senior Research Analyst, Jigar Trivedi, attributed the silver price climb to renewed tariff tensions and safe-haven demand?",
+    "a": "Indusind Securities."
+  },
+  {
+    "q": "How many lots of silver futures were traded on the Multi Commodity Exchange (MCX) on February 23, 2026, as prices hit ₹2,65,282 per kg?",
+    "a": "6,024 lots."
+  },
+  {
+    "q": "Which country delayed talks aimed at finalizing an interim trade deal with Washington in response to the tariff tensions in late February 2026?",
+    "a": "India."
+  },
+  {
+    "q": "According to Jigar Trivedi of Indusind Securities, what potential military action were investors fearing the Trump administration might initiate against Iran in late February 2026?",
+    "a": "Military action against Iran amid stalled nuclear negotiations."
+  },
+  {
+    "q": "In which city were diplomats scheduled to reconvene on Thursday, February 26, 2026, regarding stalled nuclear negotiations with Iran?",
+    "a": "Geneva."
+  },
+  {
+    "q": "Which Chinese financial market event was expected to boost trading volumes for silver and other metals in late February 2026?",
+    "a": "The reopening of Chinese markets following a long holiday."
+  },
+  {
+    "q": "For how many consecutive trading sessions had silver prices extended their gains by February 23, 2026, according to Indusind Securities analyst Jigar Trivedi?",
+    "a": "A fourth session."
+  },
+  {
+    "q": "What was the exact rupee increase in the price of March delivery silver futures on the Multi Commodity Exchange (MCX) on February 23, 2026?",
+    "a": "₹12,338."
+  },
+  {
+    "q": "What was the dollar amount increase in the price of March contract COMEX silver futures on February 23, 2026?",
+    "a": "$4.5."
+  },
+  {
+    "q": "Which body rejected U.S. President Donald Trump's 'reciprocal' tariffs, leading to the subsequent increase in the global levy?",
+    "a": "The U.S. Supreme Court."
+  },
+  {
+    "q": "What type of assets saw increased demand due to the global tariff tensions and uncertainties in late February 2026, as noted by market analysts?",
+    "a": "Safe-haven assets."
+  },
+  {
+    "q": "Which specific delivery month's silver futures contract was highlighted as rising on the Multi Commodity Exchange (MCX) on February 23, 2026?",
+    "a": "March delivery."
+  },
+  {
+    "q": "What was the publication time of The Hindu article reporting the silver price surge on February 23, 2026?",
+    "a": "12:50 pm IST."
+  },
+  {
+    "q": "Which two major metals were mentioned as likely to see higher trading volumes in late February 2026 due to Chinese market reopenings and geopolitical fears?",
+    "a": "Silver and other metals."
+  },
+  {
+    "q": "What was the initial global levy percentage before U.S. President Donald Trump raised it to 15% in late February 2026?",
+    "a": "10%."
+  },
+  {
+    "q": "Which Indian news organization published the report on February 23, 2026, detailing the 5% rise in silver futures?",
+    "a": "The Hindu."
+  },
+  {
+    "q": "What specific economic document was cited in the article's sub-headline as predicting that gold and silver prices would remain elevated amid global uncertainties?",
+    "a": "The Economic Survey."
+  },
+  {
+    "q": "Who is the Senior Research Analyst at Indusind Securities who provided commentary on silver price trends and geopolitical risks in late February 2026?",
+    "a": "Jigar Trivedi."
+  },
+  {
+    "q": "What was the total number of lots traded for March delivery silver futures on the Multi Commodity Exchange (MCX) on February 23, 2026?",
+    "a": "6,024 lots."
+  },
+  {
+    "q": "Which international futures market saw COMEX silver futures rise to $86.93 per ounce on February 23, 2026?",
+    "a": "The COMEX market."
+  },
+  {
+    "q": "What diplomatic event involving Iran was scheduled for Thursday, February 26, 2026, in Geneva?",
+    "a": "Diplomats were set to reconvene regarding stalled nuclear negotiations."
+  },
+  {
+    "q": "Which country's markets reopening after a long holiday was expected to increase trading volumes for silver and other metals in late February 2026?",
+    "a": "China."
+  },
+  {
+    "q": "What was the final price per kilogram of silver futures on the Multi Commodity Exchange (MCX) on February 23, 2026, after a nearly 5% rise?",
+    "a": "₹2,65,282 per kg."
+  }
+]

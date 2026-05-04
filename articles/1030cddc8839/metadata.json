@@ -1,0 +1,37 @@
+{
+  "hash": "1030cddc8839",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.iranintl.com/en/202603010908",
+      "title": "Retired US general says Persian Gulf states preparing offensive operations against Iran | Iran International",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 13,
+      "text_length": 87
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1472017",
+      "spike_id": 1,
+      "market_question": "Will Qatar strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.455,
+      "spike_timestamp_before": "2026-03-01T01:30:29+00:00",
+      "spike_timestamp_after": "2026-03-01T03:30:32+00:00"
+    },
+    {
+      "market_id": "1472017",
+      "spike_id": 2,
+      "market_question": "Will Qatar strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.25,
+      "spike_timestamp_before": "2026-03-01T03:30:32+00:00",
+      "spike_timestamp_after": "2026-03-01T20:00:30+00:00"
+    }
+  ]
+}

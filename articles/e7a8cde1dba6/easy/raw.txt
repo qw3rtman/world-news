@@ -1,0 +1,102 @@
+[
+  {
+    "q": "According to a report by the Times newspaper published on March 3, 2026, which British warship was discussed by Defence Minister John Healey and senior military figures for deployment to defend the Royal Air Force Akrotiri base in Cyprus?",
+    "a": "HMS Duncan"
+  },
+  {
+    "q": "On the early hours of which day in March 2026 did an Iranian-made drone strike hit a runway at the Royal Air Force Akrotiri base in Cyprus?",
+    "a": "Monday"
+  },
+  {
+    "q": "Which semi-official news agency reported on Tuesday, March 3, 2026, that France plans to send anti-missile and anti-drone systems to Cyprus?",
+    "a": "Cyprus News Agency (CNA)"
+  },
+  {
+    "q": "Which British government official held a meeting with senior military figures on Tuesday, March 3, 2026, to discuss sending a warship to the region?",
+    "a": "Defence Minister John Healey"
+  },
+  {
+    "q": "Which newspaper reported on Tuesday, March 3, 2026, that Britain is planning to send a warship to defend its Royal Air Force Akrotiri base in Cyprus from Iranian attacks?",
+    "a": "The Times"
+  },
+  {
+    "q": "Which country's assets were targeted by Iran in the drone strike on the Royal Air Force Akrotiri base in Cyprus, as stated by the British government?",
+    "a": "United Kingdom (UK)"
+  },
+  {
+    "q": "Which specific military base in Cyprus was the target of an Iranian-made drone strike in early March 2026?",
+    "a": "Royal Air Force Akrotiri base"
+  },
+  {
+    "q": "What type of military systems does France plan to send to Cyprus, according to the Cyprus News Agency report on March 3, 2026?",
+    "a": "Anti-missile and anti-drone systems"
+  },
+  {
+    "q": "Which ministry did not immediately respond to a request for comment on the Times newspaper report regarding the deployment of HMS Duncan on March 3, 2026?",
+    "a": "Ministry of Defence"
+  },
+  {
+    "q": "Who was the Reuters reporter credited with writing the article published on March 3, 2026, about Britain's plans to send a warship to Cyprus?",
+    "a": "Sarah Young"
+  },
+  {
+    "q": "Which organization is described as \"the Middle East's leading independent news source since 2012\" in the metadata of the article published on March 1, 2026?",
+    "a": "AL-Monitor"
+  },
+  {
+    "q": "According to the Times newspaper report cited on March 3, 2026, from which country did the drone that struck the Royal Air Force Akrotiri base originate?",
+    "a": "Iran"
+  },
+  {
+    "q": "On which day of the week did the Times newspaper publish its report about Britain's planned warship deployment to Cyprus in March 2026?",
+    "a": "Tuesday"
+  },
+  {
+    "q": "Which specific unit of the Royal Air Force located in Cyprus was the subject of the planned British warship defense deployment discussed in March 2026?",
+    "a": "Royal Air Force Akrotiri base"
+  },
+  {
+    "q": "What was the specific infrastructure damage caused by the Iranian-made drone strike on the Royal Air Force Akrotiri base in early March 2026?",
+    "a": "A runway was hit"
+  },
+  {
+    "q": "Which French government's military aid plans to Cyprus were reported by the Cyprus News Agency on Tuesday, March 3, 2026?",
+    "a": "France"
+  },
+  {
+    "q": "In the context of the March 2026 report, which two nations were involved in the conflict dynamic where one attacked a British base and the other planned to send defensive systems to the host nation?",
+    "a": "Iran and France"
+  },
+  {
+    "q": "Which British warship was the subject of discussions between Defence Minister John Healey and senior military figures on March 3, 2026?",
+    "a": "HMS Duncan"
+  },
+  {
+    "q": "Who edited the Reuters article published on March 3, 2026, regarding the UK's defense of its Cyprus base?",
+    "a": "William James"
+  },
+  {
+    "q": "Which newspaper cited three sources to report on the meeting between John Healey and senior military figures on March 3, 2026?",
+    "a": "The Times"
+  },
+  {
+    "q": "What was the stated purpose of the British warship deployment discussed in March 2026, according to the Times newspaper?",
+    "a": "To defend the Royal Air Force Akrotiri base in Cyprus from Iranian attacks"
+  },
+  {
+    "q": "Which agency provided the report on March 3, 2026, that France intends to deploy anti-missile and anti-drone systems to Cyprus?",
+    "a": "Cyprus News Agency (CNA)"
+  },
+  {
+    "q": "Which British official is identified in the March 3, 2026, report as having met with senior military figures to discuss the HMS Duncan deployment?",
+    "a": "Defence Minister John Healey"
+  },
+  {
+    "q": "What was the nature of the attack on the Royal Air Force Akrotiri base in Cyprus in early March 2026, as described in the Reuters report?",
+    "a": "An Iranian-made drone strike"
+  },
+  {
+    "q": "Which two countries' military actions were highlighted in the news reports on March 3, 2026: one attacking a base and the other sending defensive systems?",
+    "a": "Iran and France"
+  }
+]

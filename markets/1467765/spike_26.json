@@ -1,0 +1,65 @@
+{
+  "spike_index": 26,
+  "direction": "up",
+  "price_before": 0.555,
+  "price_after": 0.7785,
+  "delta": 0.22349999999999992,
+  "abs_delta": 0.22349999999999992,
+  "timestamp_before": "2026-03-13T17:00:28+00:00",
+  "timestamp_after": "2026-03-14T12:00:42+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.reuters.com/business/energy/analysts-reassess-oil-price-estimates-iran-conflict-disrupts-markets-2026-03-23/",
+      "file": "29467df55a52.txt",
+      "title": "Analysts hike oil price outlooks as Iran conflict persists | Reuters",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": null,
+      "text_length": 1058,
+      "status": "ok",
+      "num_tokens": 249
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-crude-crosses-100-per-barrel-again-amid-middle-east-tensions/articleshow/129533177.cms",
+      "file": "4b3c6671904b.txt",
+      "title": "Oil price today: Crude crosses $100 per barrel again amid Middle East tensions - The Times of India",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /   Mar 13, 2026, 07:44 IST",
+      "text_length": 2975,
+      "status": "ok",
+      "num_tokens": 580
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/13/oil-100-price-brent-wti-trump-iran-war-surrender-khamenei.html?__source=androidappshare",
+      "file": "f91e5fdfa94a.txt",
+      "title": "Oil above $100 as as market shrugs off U.S. measures to reduce prices",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": "Chloe Taylor,Spencer Kimball",
+      "text_length": 3774,
+      "status": "ok",
+      "num_tokens": 837
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/13/oil-100-price-brent-wti-trump-iran-war-surrender-khamenei.html",
+      "file": "cc3437d0913e.txt",
+      "title": "Oil above $100 as as market shrugs off U.S. measures to reduce prices",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": "Chloe Taylor,Spencer Kimball",
+      "text_length": 3779,
+      "status": "ok",
+      "num_tokens": 849
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-march-12-2026-crude-jumps-after-tanker-strikes-in-iraq-supply-fears-persist/articleshow/129487734.cms",
+      "file": "8ca1cfa152c3.txt",
+      "title": "Oil price today (March 12, 2026): Crude jumps after tanker strikes in Iraq; supply fears persist - The Times of India",
+      "published_date": "2026-03-12T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /  Updated: Mar 12, 2026, 08:49 IST",
+      "text_length": 4245,
+      "status": "ok",
+      "num_tokens": 836
+    }
+  ],
+  "total_tokens": 3351
+}

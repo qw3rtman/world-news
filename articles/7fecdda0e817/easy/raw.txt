@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the March 2026 parliamentary elections in Nepal, which political party led by former Kathmandu Mayor Balendra Shah was projected to secure an absolute two-thirds majority, and what specific seat total did RSP Vice President Dol Prasad Aryal predict for his party?",
+    "a": "The Rastriya Swatantra Party (RSP) was projected to win, with Dol Prasad Aryal predicting 186 seats."
+  },
+  {
+    "q": "During the March 2026 Nepal parliamentary election, what was the vote margin and final vote count for Balendra Shah in the Jhapa-5 constituency against former Prime Minister KP Sharma Oli, and who was the third-place candidate?",
+    "a": "Balendra Shah received 13,654 votes, leading KP Sharma Oli (3,011 votes) by more than 10,000; Samir Tamang of the Shram Sanskriti Party was third with 1,517 votes."
+  },
+  {
+    "q": "Following the September 2025 Gen Z-led protests in Nepal that resulted in at least 77 deaths, which interim leader praised the orderly conduct of the March 2026 election, and what was the estimated voter turnout percentage reported by the Election Commission?",
+    "a": "Interim Prime Minister Sushila Karki praised the vote, and the Election Commission estimated voter turnout at approximately 60%."
+  },
+  {
+    "q": "In the March 2026 Nepal parliamentary election, which two Nepali Congress candidates won seats in Gandaki province, and what were their respective vote totals and victory margins?",
+    "a": "Tek Bahadur Gurung won Manang-1 with 2,415 votes (margin 1,961), and Yogesh Gauchan Thakali won Mustang-1 with 3,307 votes (margin 1,501)."
+  },
+  {
+    "q": "Which three Rastriya Swatantra Party (RSP) candidates won parliamentary seats in Kathmandu constituencies during the March 2026 election, and what were their specific vote counts and victory margins?",
+    "a": "Ranju Neupane (Kathmandu-1) won with 15,455 votes (margin 9,091); Shishir Khanal (Kathmandu-6) won with 27,916 votes (margin 21,249); and Biraj Bhakta Shrestha (Kathmandu-8) won with 24,592 votes (margin 21,375)."
+  },
+  {
+    "q": "During the March 2026 Nepal election, what were the vote counts for Pushpa Kamal Dahal in Rukum East-1 and his victory margin, and which two opponents trailed him in that constituency?",
+    "a": "Pushpa Kamal Dahal secured 10,240 votes with a victory margin of 6,778, leading Nepali Congress candidate Kusum Devi Thapa (1,261 votes) and CPN-UML candidate Lilamani Gautam (907 votes)."
+  },
+  {
+    "q": "In the context of the March 2026 Nepal parliamentary election, which RSP candidate led in Kathmandu-1 with over 12,000 votes, and what were the vote counts for the Nepali Congress and CPN-UML candidates in that same constituency?",
+    "a": "Ranju (Darshana) Neupane led with over 12,000 votes; Nepali Congress candidate Krishna Baniya had 1,310 votes, and CPN-UML candidate Aman Kumar Maskey had 1,086 votes."
+  },
+  {
+    "q": "Who was the RSP candidate that led in Kathmandu-7 during the March 2026 election with 4,677 votes, and what were the vote totals for the CPN-UML and Nepali Congress candidates in that constituency?",
+    "a": "Ganesh Parajuli led with 4,677 votes; CPN-UML candidate Prakash Shrestha received 904 votes, and Nepali Congress candidate Pramodhari Guragain received 720 votes."
+  },
+  {
+    "q": "In the March 2026 Nepal election, which RSP candidate led in Kathmandu-10 with 5,765 votes, and who were the vote-getters from the Nepali Congress and Rastriya Prajatantra Party in that constituency?",
+    "a": "Pradip Bista led with 5,765 votes; Nepali Congress candidate Himal Karki received 1,078 votes, and Rastriya Prajatantra Party candidate Balaram Thapa received 953 votes."
+  },
+  {
+    "q": "During the March 2026 Nepal parliamentary election, which RSP candidate led in Bhaktapur Constituency-1 with 3,452 votes, and what were the vote counts for the Nepal Majdoor Kisan Party and Nepali Congress candidates in that seat?",
+    "a": "Rukesh Ranjit led with 3,452 votes; Nepal Majdoor Kisan Party candidate Prem Suwal received 1,982 votes, and Nepali Congress candidate Kiran Neupane received 519 votes."
+  },
+  {
+    "q": "In the March 2026 Nepal election, which RSP candidate led in Bhaktapur Constituency-2 with 3,060 votes, and what were the vote totals for the CPN-UML and Nepali Congress candidates in that constituency?",
+    "a": "Rajiv Khatri led with 3,060 votes; CPN-UML candidate Mahesh Basnet received 1,573 votes, and Nepali Congress candidate Kabir Rana received 484 votes."
+  },
+  {
+    "q": "Which RSP candidate led in Morang Constituency-4 with 10,771 votes during the March 2026 election, and who were the leading candidates from the Shram Sanskriti Party and RSP in Constituency-3 and Constituency-5 respectively?",
+    "a": "Santosh Rajbanshi led in Morang-4 with 10,771 votes; Anil Magar (Shram Sanskriti Party) led in Constituency-3 with 590 votes, and Asha Jha (RSP) led in Constituency-5 with 3,983 votes."
+  },
+  {
+    "q": "In the March 2026 Nepal parliamentary election, who was the RSP candidate leading in Morang Constituency-6 with 4,679 votes, and what was the vote count for the RSP candidate in Constituency-2?",
+    "a": "Rubina Acharya led in Morang-6 with 4,679 votes; Krishna Bahadur Karki of the RSP led in Constituency-2 with 1,181 votes."
+  },
+  {
+    "q": "During the March 2026 Nepal election, which RSP candidate secured a strong lead in Chitwan-2 with 9,234 votes, and who were the rivals from the Nepali Congress and CPN-UML mentioned in the context of that contest?",
+    "a": "Rabi Lamichhane of the RSP led with 9,234 votes; the article notes he was ahead of rivals from the Nepali Congress and CPN-UML, though specific vote counts for those opponents in Chitwan-2 were not provided in the final tally updates."
+  },
+  {
+    "q": "In the March 2026 Nepal parliamentary election, which RSP candidate had a commanding lead in Lalitpur-3 with 6,972 votes, and which RSP candidate led in Tanahun-1 with 2,928 votes?",
+    "a": "Tosima Karki led in Lalitpur-3 with 6,972 votes, and Swarnim Wagle led in Tanahun-1 with 2,928 votes."
+  },
+  {
+    "q": "Who was the RSP candidate leading in Bhaktapur-2 with 7,002 votes during the March 2026 Nepal election, and which former Prime Minister was trailing in Jhapa-5 against Balendra Shah?",
+    "a": "Rajiv Khatri led in Bhaktapur-2 with 7,002 votes; former Prime Minister KP Sharma Oli was trailing in Jhapa-5."
+  },
+  {
+    "q": "In the March 2026 Nepal parliamentary election, which candidate from the Nepali Communist Party led in Rukum East-1 with 4,398 votes, and which Nepali Congress candidate trailed him with 1,261 votes?",
+    "a": "Pushpa Kamal Dahal led with 4,398 votes; Nepali Congress candidate Kusum Devi Thapa trailed with 1,261 votes."
+  },
+  {
+    "q": "During the March 2026 Nepal election, which RSP candidate led in Chitwan-3 against Renu Dahal, and who is Renu Dahal's father?",
+    "a": "Sobita Gautam of the RSP led in Chitwan-3; Renu Dahal is the daughter of former Prime Minister Pushpa Kamal Dahal."
+  },
+  {
+    "q": "Which acting Chief Election Commissioner of Nepal stated that preliminary turnout crossed 60% by 5pm on polling day in March 2026, and what was the total number of seats in the House of Representatives?",
+    "a": "Acting Chief Election Commissioner Ram Prasad Bhandari made the statement; the House of Representatives has 275 seats."
+  },
+  {
+    "q": "In the March 2026 Nepal parliamentary election, how many seats were allocated through proportional representation, and how many candidates contested the directly elected seats?",
+    "a": "110 seats were allocated through proportional representation, and more than 3,400 candidates contested the 165 directly elected seats."
+  },
+  {
+    "q": "Who was the Kathmandu voter quoted in March 2026 hoping for a new leader to guide the country, and what was her name?",
+    "a": "Mira Ranjit was the Kathmandu voter quoted expressing hope for new leadership."
+  },
+  {
+    "q": "During the March 2026 Nepal election, what specific attire and accessory became popularly associated with Balendra Shah, and what was his previous profession before politics?",
+    "a": "He was associated with a trademark dark blazer and black sunglasses known as \"Balen Shah glasses\"; he was previously a rapper and engineer."
+  },
+  {
+    "q": "In the March 2026 Nepal parliamentary election, which party did Gagan Thapa lead, and which party did KP Sharma Oli chair?",
+    "a": "Gagan Thapa led the Nepali Congress party, and KP Sharma Oli chaired the Communist Party of Nepal–Unified Marxist Leninist (CPN-UML)."
+  },
+  {
+    "q": "Which interim Prime Minister of Nepal praised the orderly conduct of the March 2026 election, and what year did the youth-led uprising occur that led to the formation of her interim administration?",
+    "a": "Interim Prime Minister Sushila Karki praised the vote; the uprising occurred in September 2025."
+  },
+  {
+    "q": "In the March 2026 Nepal election, which RSP candidate led in Morang Constituency-1 with 4,125 votes, and which Shram Sanskriti Party candidate led in Constituency-3 with 590 votes?",
+    "a": "Yagyamani Neupane of the RSP led in Morang-1 with 4,125 votes; Anil Magar of the Shram Sanskriti Party led in Constituency-3 with 590 votes."
+  }
+]

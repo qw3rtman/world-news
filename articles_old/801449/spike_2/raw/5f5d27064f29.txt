@@ -1,0 +1,53 @@
+Google announces Gemini 3.1 Pro, says it's better at complex problem-solving - Ars Technica
+
+Text settings
+
+Story text
+
+Size Small Standard Large Width * Standard Wide Links Standard Orange
+
+* Subscribers only Learn more
+
+Minimize to nav
+
+Another day, another Google AI model. Google has really been pumping out new AI tools lately, having just released Gemini 3 in November. Today, it’s bumping the flagship model to version 3.1. The new Gemini 3.1 Pro is rolling out (in preview) for developers and consumers today with the promise of better problem-solving and reasoning capabilities.
+
+Google announced improvements to its Deep Think tool last week, and apparently, the “core intelligence” behind that update was Gemini 3.1 Pro. As usual, Google’s latest model announcement comes with a plethora of benchmarks that show mostly modest improvements. In the popular Humanity’s Last Exam, which tests advanced domain-specific knowledge, Gemini 3.1 Pro scored a record 44.4 percent. Gemini 3 Pro managed 37.5 percent, while OpenAI’s GPT 5.2 got 34.5 percent.
+
+
+
+Credit: Google
+
+Credit: Google
+
+Google also calls out the model’s improvement in ARC-AGI-2, which features novel logic problems that can’t be directly trained into an AI. Gemini 3 was a bit behind on this evaluation, reaching a mere 31.1 percent versus scores in the 50s and 60s for competing models. Gemini 3.1 Pro more than doubles Google’s score, reaching a lofty 77.1 percent.
+
+Google has often gloated when it releases new models that they’ve already hit the top of the Arena leaderboard (formerly LM Arena), but that’s not the case this time. For text, Claude Opus 4.6 edges out the new Gemini by four points at 1504. For code, Opus 4.6, Opus 4.5, and GPT 5.2 High all run ahead of Gemini 3.1 Pro by a bit more. It’s worth noting, however, that the Arena leaderboard is run on vibes. Users vote on the outputs they like best, which can reward outputs that look correct regardless of whether they are.
+
+To demonstrate the improvements in Gemini 3.1 Pro, Google focused on the model’s ability to generate graphics and simulations. The example SVGs shown in the comparison video above do seem much more elegant, but these are the examples Google has chosen to show. Big benchmark numbers and curated demos are all well and good, but will you feel any difference when using the model? If you’re asking abstract questions and expecting detailed, nuanced answers, Gemini 3.1 Pro will probably produce better outputs than 3.0. Developers using Gemini to create agentic workflows are likely to see an improvement—Gemini 3.1 Pro almost doubled its score in the APEX-Agents benchmark.
+
+The updated model is coming to AI Studio and the Antigravity IDE in preview today. Enterprise users will see 3.1 Pro in Vertex AI and Gemini Enterprise. For regular users, Gemini 3.1 Pro is available for both the Gemini app and NotebookLM today. The API cost for developers has not changed ($2 input and $12 output per 1M tokens), nor has the context window (1M input and 64k output tokens). If Google’s pattern holds, there will most likely be a 3.1 update for its faster and cheaper Flash model in the near future.
+
+
+
+Ryan Whitwam Senior Technology Reporter
+
+Ryan Whitwam Senior Technology Reporter
+
+Ryan Whitwam is a senior technology reporter at Ars Technica, covering the ways Google, AI, and mobile technology continue to change the world. Over his 20-year career, he's written for Android Police, ExtremeTech, Wirecutter, NY Times, and more. He has reviewed more phones than most people will ever own. You can follow him on Bluesky, where you will see photos of his dozens of mechanical keyboards.
+
+98 Comments
+
+
+
+1. A unique NASA satellite is falling out of orbit—this team is trying to rescue it
+
+2. There can (still) be only one: Highlander is 40
+
+3. You're likely already infected with a brain-eating virus you've never heard of
+
+4. Once again, ULA can't deliver when the US military needs a satellite in orbit
+
+5. TCL’s German QLED ban puts pressure on TV brands to be more honest about QDs
+
+Customize

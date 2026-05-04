@@ -1,0 +1,47 @@
+{
+  "hash": "28f60fa38cc1",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-13-26?post-id=cmmp8ftbz0000356vio9mk3rq",
+      "title": "Day 14 of Middle East conflict — Trump says US ‘totally obliterated every military target’ at Iran oil hub | CNN",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": "Kit Maher, Aleena Fayaz, Samantha Waldenberg, Nina Giraldo, Kareem El Damanhoury, Hira Humayun, Dana Karni, Christian Edwards, Frederik Pleitgen, David Goldman, John Towfighi, Katie Polglase, Pallabi Munsi, Billy Stockwell, Max Saltman, Natasha Bertrand, Jennifer Hansler, Avery Schmitz, Joseph Ataman, Isobel Yeung, Brice Laine, Sarah Dadouch, Haley Britzky, Sophie Tanno, Catherine Nicholls, Michael Williams, Alayna Treene, Donald Judd, Betsy Klein, Charbel Mallo, Ivana Kottasová, Alejandra Jaramillo, Christopher Lamb, Kaanita Iyer, Pierre P Bairin, Daria Tarasova-Markina, Issy Ronald, Chris Isidore, Adrienne Vogt, Sebastian Shukla, Luciana Lopez, Stephanie Yang, Tal Shalev, Mustafa Qadri, Patrick Sung Cuadrado, Mostafa Salem, Katherine Dautrich, Adam Pourahmadi, Xiaoqian Lin, Helen Regan, Wayne Chang, John Liu, Hanako Montgomery, Laura Sharman, Lex Harvey, Mohammed Tawfeeq, Hilary Whiteman, Brad Lendon, Mary Kay Mallonee, Isaac Yee, Jessie Yeung, Will Ripley, Lauren Izso, Rhea Mogul, Zachary Cohen, Phil Mattingly, Kevin Liptak, Kylie Atwood, Ross Adkin",
+      "num_tokens": 5242,
+      "text_length": 25612
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1162940",
+      "spike_id": 16,
+      "market_question": "US forces enter Iran by March 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.15000000000000002,
+      "spike_timestamp_before": "2026-03-14T09:30:33+00:00",
+      "spike_timestamp_after": "2026-03-15T09:00:49+00:00"
+    },
+    {
+      "market_id": "1162940",
+      "spike_id": 17,
+      "market_question": "US forces enter Iran by March 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.16000000000000003,
+      "spike_timestamp_before": "2026-03-14T13:00:55+00:00",
+      "spike_timestamp_after": "2026-03-15T13:00:36+00:00"
+    },
+    {
+      "market_id": "1162940",
+      "spike_id": 18,
+      "market_question": "US forces enter Iran by March 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.16999999999999998,
+      "spike_timestamp_before": "2026-03-14T18:00:49+00:00",
+      "spike_timestamp_after": "2026-03-15T17:30:35+00:00"
+    }
+  ]
+}

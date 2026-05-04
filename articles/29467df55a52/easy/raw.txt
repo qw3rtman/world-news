@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In March 2026, by what percentage did oil prices surge during the month as the U.S.-Israeli war on Iran continued?",
+    "a": "More than 50%."
+  },
+  {
+    "q": "What specific 2026 average forecast did Goldman Sachs raise its Brent crude oil price to, and from what previous level?",
+    "a": "It raised the forecast to $85 a barrel from $77."
+  },
+  {
+    "q": "Which two factors did Goldman Sachs cite as reasons for raising its 2026 Brent crude oil forecast in March 2026?",
+    "a": "Prolonged disruptions in Strait of Hormuz shipments and increased strategic stockpiling."
+  },
+  {
+    "q": "What average Brent crude oil price did J.P. Morgan expect for the second quarter of 2026?",
+    "a": "$100 per barrel."
+  },
+  {
+    "q": "By the end of 2026, what average Brent crude oil price did J.P. Morgan expect prices to fall back to?",
+    "a": "$80 per barrel."
+  },
+  {
+    "q": "What was the price of Brent crude futures by 0202 GMT in March 2026, and how did it compare to its previous high?",
+    "a": "It was steady at $112.18 a barrel, settling at its highest level since July 2022."
+  },
+  {
+    "q": "What was the price of U.S. West Texas Intermediate crude in March 2026, and by how much did it rise?",
+    "a": "It was $98.75, up 52 cents."
+  },
+  {
+    "q": "What specific infrastructure did Iran warn it would strike across the Gulf if U.S. President Donald Trump attacked its electricity grid?",
+    "a": "Energy and water infrastructure."
+  },
+  {
+    "q": "As of March 2026, for how long had the conflict in the Middle East between the U.S., Israel, and Iran continued?",
+    "a": "More than three weeks."
+  },
+  {
+    "q": "Which major brokerage revised its 2026 average oil price forecasts in March 2026 due to the ongoing U.S.-Israeli war on Iran?",
+    "a": "Goldman Sachs."
+  },
+  {
+    "q": "Which major brokerage expected Brent crude prices to average $100 per barrel in the second quarter of 2026?",
+    "a": "J.P. Morgan."
+  },
+  {
+    "q": "What was the highest settlement level for Brent crude futures in March 2026, and when was the previous time it reached a similar high?",
+    "a": "It settled at its highest since July 2022."
+  },
+  {
+    "q": "Who reported the news about analysts hiking oil price outlooks in March 2026?",
+    "a": "Pablo Sinha."
+  },
+  {
+    "q": "In which city was the reporting for the March 2026 oil price article conducted?",
+    "a": "Bengaluru."
+  },
+  {
+    "q": "Who edited the Reuters article regarding the March 2026 oil price outlooks?",
+    "a": "Rashmi Aich."
+  },
+  {
+    "q": "What threat did U.S. President Donald Trump make that prompted Iran to warn of strikes on Gulf infrastructure in March 2026?",
+    "a": "A threat to attack Iran's electricity grid."
+  },
+  {
+    "q": "What was the specific numerical increase in U.S. West Texas Intermediate crude prices in March 2026?",
+    "a": "52 cents."
+  },
+  {
+    "q": "Which geographic shipping route did Goldman Sachs cite as having prolonged disruptions affecting oil markets in March 2026?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "What type of stockpiling did Goldman Sachs identify as tightening the oil market in March 2026?",
+    "a": "Strategic stockpiling."
+  },
+  {
+    "q": "What was the exact price of Brent crude futures by 0202 GMT in March 2026?",
+    "a": "$112.18 a barrel."
+  },
+  {
+    "q": "What was the exact price of U.S. West Texas Intermediate crude in March 2026?",
+    "a": "$98.75."
+  },
+  {
+    "q": "Which two entities were engaged in a war on Iran that caused oil prices to surge in March 2026?",
+    "a": "The U.S. and Israel."
+  },
+  {
+    "q": "What was J.P. Morgan's forecast for Brent crude oil prices by the end of 2026?",
+    "a": "$80 per barrel."
+  },
+  {
+    "q": "What was Goldman Sachs' original 2026 Brent crude oil forecast before it was raised in March 2026?",
+    "a": "$77 a barrel."
+  },
+  {
+    "q": "Which infrastructure types did Iran threaten to strike in response to potential U.S. attacks on its power grid in March 2026?",
+    "a": "Energy and water infrastructure."
+  },
+  {
+    "q": "How many weeks had the U.S.-Israeli war on Iran lasted as of the March 2026 reporting?",
+    "a": "More than three weeks."
+  }
+]

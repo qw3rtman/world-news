@@ -1,0 +1,106 @@
+[
+  {
+    "q": "Who was the 79th person charged in connection with the Feeding Our Future fraud scheme in Minnesota, and what specific count of wire fraud was she charged with?",
+    "a": "Fahima Mahamud was charged with one count of wire fraud."
+  },
+  {
+    "q": "What was the name of the day care center operated by Fahima Mahamud in south Minneapolis that was implicated in the Feeding Our Future fraud scheme?",
+    "a": "Future Leaders Early Learning Center."
+  },
+  {
+    "q": "According to charges filed in February 2026, how many children did the Future Leaders Early Learning Center falsely claim to serve monthly?",
+    "a": "60,000 children."
+  },
+  {
+    "q": "During the period from December 2020 through July 2021, what was the approximate amount of money the Future Leaders Early Learning Center spent on food despite receiving over $850,000 from Feeding Our Future?",
+    "a": "About $125,000."
+  },
+  {
+    "q": "On what date did Fahima Mahamud notify the Minnesota Department of Children, Youth and Families of her plan to close the Future Leaders Early Learning Center?",
+    "a": "February 10, 2026."
+  },
+  {
+    "q": "Who was found guilty in March 2025 as the ringleader of the Feeding Our Future fraud scheme, and what is the maximum prison sentence she could face?",
+    "a": "Aimee Bock was found guilty and could face up to 33 years in prison."
+  },
+  {
+    "q": "What specific criminal counts, including conspiracy charges, was Aimee Bock convicted of in March 2025?",
+    "a": "Conspiracy to commit wire fraud and conspiracy to commit federal programs bribery."
+  },
+  {
+    "q": "As of February 2026, how many other people besides Fahima Mahamud have been charged in connection with the Feeding Our Future fraud scheme?",
+    "a": "78 other people."
+  },
+  {
+    "q": "Among the 78 individuals previously charged in the Feeding Our Future fraud scheme, how many had pleaded guilty and how many had been convicted at trial as of February 2026?",
+    "a": "51 had pleaded guilty and seven were convicted at trial."
+  },
+  {
+    "q": "What is the total amount of money prosecutors say the Feeding Our Future fraud scheme bilked from the program?",
+    "a": "More than $250 million."
+  },
+  {
+    "q": "Which federal nutrition program was the target of the fraud scheme involving Fahima Mahamud and Aimee Bock?",
+    "a": "Feeding Our Future."
+  },
+  {
+    "q": "In which city and region of Minnesota did Fahima Mahamud operate the Future Leaders Early Learning Center?",
+    "a": "South Minneapolis."
+  },
+  {
+    "q": "What action did prosecutors allege Mahamud took to justify reimbursement from Feeding Our Future for the Future Leaders Early Learning Center?",
+    "a": "Falsifying invoices."
+  },
+  {
+    "q": "What event occurred on February 11, 2026, at the location of the Future Leaders Early Learning Center after Mahamud announced its closure?",
+    "a": "A new center unassociated with Mahamud registered to open in the same place."
+  },
+  {
+    "q": "Which government department did Fahima Mahamud notify on February 10, 2026, regarding her intention to close her day care center?",
+    "a": "The Minnesota Department of Children, Youth and Families."
+  },
+  {
+    "q": "What was the scheduled court appearance date for Fahima Mahamud following her wire fraud charges in February 2026?",
+    "a": "Thursday."
+  },
+  {
+    "q": "What type of fraud was Fahima Mahamud charged with in connection with the Feeding Our Future scheme?",
+    "a": "Wire fraud."
+  },
+  {
+    "q": "How many counts of wire fraud was Fahima Mahamud charged with in February 2026?",
+    "a": "One count."
+  },
+  {
+    "q": "What was the total financial loss to the Feeding Our Future program attributed to the fraud scheme led by Aimee Bock?",
+    "a": "More than $250 million."
+  },
+  {
+    "q": "What was the status of Aimee Bock's sentencing as of February 2026, following her March 2025 conviction?",
+    "a": "She has yet to be sentenced."
+  },
+  {
+    "q": "Which organization was responsible for registering a new day care center to open in the same location as Mahamud's closed center on February 11, 2026?",
+    "a": "A new center unassociated with Mahamud."
+  },
+  {
+    "q": "What was the duration of the period during which the Future Leaders Early Learning Center received over $850,000 from Feeding Our Future?",
+    "a": "From December 2020 through July 2021."
+  },
+  {
+    "q": "How many people in total, including Fahima Mahamud, had been charged in the Feeding Our Future fraud scheme as of February 2026?",
+    "a": "79 people."
+  },
+  {
+    "q": "What specific allegation did prosecutors make regarding the number of children served by the Future Leaders Early Learning Center compared to the actual food spending?",
+    "a": "The center claimed to serve 60,000 children monthly but spent only about $125,000 on food."
+  },
+  {
+    "q": "What were the two conspiracy charges for which Aimee Bock was found guilty in March 2025?",
+    "a": "Conspiracy to commit wire fraud and conspiracy to commit federal programs bribery."
+  },
+  {
+    "q": "Which Minnesota state department was notified by Fahima Mahamud about closing her day care center in February 2026?",
+    "a": "The Minnesota Department of Children, Youth and Families."
+  }
+]

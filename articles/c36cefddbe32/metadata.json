@@ -1,0 +1,57 @@
+{
+  "hash": "c36cefddbe32",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.npr.org/2026/02/24/nx-s1-5723968/justice-department-withheld-and-removed-some-epstein-files-related-to-trump",
+      "title": "DOJ removed, withheld Epstein files related to accusations about Trump : NPR",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": "Stephen Fowler",
+      "num_tokens": 2152,
+      "text_length": 11399
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1316529",
+      "spike_id": 2,
+      "market_question": "Will Alexandria Ocasio-Cortez be named in newly released Epstein files by February 28?",
+      "event_title": "Who will be named in newly released Epstein files by February 28?",
+      "spike_direction": "down",
+      "spike_delta": -0.2385,
+      "spike_timestamp_before": "2026-02-25T17:30:31+00:00",
+      "spike_timestamp_after": "2026-02-26T02:00:32+00:00"
+    },
+    {
+      "market_id": "1316529",
+      "spike_id": 3,
+      "market_question": "Will Alexandria Ocasio-Cortez be named in newly released Epstein files by February 28?",
+      "event_title": "Who will be named in newly released Epstein files by February 28?",
+      "spike_direction": "down",
+      "spike_delta": -0.239,
+      "spike_timestamp_before": "2026-02-25T17:30:31+00:00",
+      "spike_timestamp_after": "2026-02-26T08:30:31+00:00"
+    },
+    {
+      "market_id": "1316529",
+      "spike_id": 4,
+      "market_question": "Will Alexandria Ocasio-Cortez be named in newly released Epstein files by February 28?",
+      "event_title": "Who will be named in newly released Epstein files by February 28?",
+      "spike_direction": "down",
+      "spike_delta": -0.243,
+      "spike_timestamp_before": "2026-02-25T17:30:31+00:00",
+      "spike_timestamp_after": "2026-02-26T16:00:51+00:00"
+    },
+    {
+      "market_id": "1316529",
+      "spike_id": 5,
+      "market_question": "Will Alexandria Ocasio-Cortez be named in newly released Epstein files by February 28?",
+      "event_title": "Who will be named in newly released Epstein files by February 28?",
+      "spike_direction": "down",
+      "spike_delta": -0.1745,
+      "spike_timestamp_before": "2026-02-25T20:00:47+00:00",
+      "spike_timestamp_after": "2026-02-26T18:30:36+00:00"
+    }
+  ]
+}

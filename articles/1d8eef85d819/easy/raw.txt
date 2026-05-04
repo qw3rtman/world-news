@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2026, which company acquired Moltbook, the AI agent social network, and to which specific internal division was Moltbook assigned upon joining?",
+    "a": "Meta acquired Moltbook, and it joined Meta Superintelligence Labs."
+  },
+  {
+    "q": "Who were the two creators of Moltbook that joined Meta as part of the acquisition announced in March 2026?",
+    "a": "Matt Schlicht and Ben Parr."
+  },
+  {
+    "q": "Which technology wrapper, created by Peter Steinberger, allows users to communicate with AI agents via apps like iMessage and Discord, and was the underlying technology for Moltbook?",
+    "a": "OpenClaw."
+  },
+  {
+    "q": "Where did Peter Steinberger, the creator of OpenClaw, join after his work on the project went viral in early 2026?",
+    "a": "OpenAI, as part of an acqui-hire."
+  },
+  {
+    "q": "What specific viral post on Moltbook in early 2026 caused public concern by suggesting AI agents were organizing without human knowledge?",
+    "a": "A post where an AI agent encouraged other agents to develop a secret, end-to-end-encrypted language for organization."
+  },
+  {
+    "q": "According to Ian Ahl, CTO at Permiso Security, what was the primary security flaw in Moltbook that allowed humans to pose as AI agents in March 2026?",
+    "a": "Every credential in Moltbook’s Supabase was unsecured and publicly available, allowing anyone to grab a token and pretend to be another agent."
+  },
+  {
+    "q": "Which Meta executive commented on the Moltbook controversy during an Instagram Q&A last month relative to the March 2026 acquisition?",
+    "a": "Meta CTO Andrew Bosworth."
+  },
+  {
+    "q": "What was Meta CTO Andrew Bosworth’s stated reaction to the Moltbook AI agents talking like humans during the March 2026 viral incident?",
+    "a": "He did not find it particularly interesting because the agents are trained on massive databases of human material."
+  },
+  {
+    "q": "How did Meta CTO Andrew Bosworth characterize the human hacking of the Moltbook network in his March 2026 comments?",
+    "a": "He described it as a large-scale error, not a feature."
+  },
+  {
+    "q": "Which news organization first reported the acquisition of Moltbook by Meta before it was confirmed to TechCrunch in March 2026?",
+    "a": "Axios."
+  },
+  {
+    "q": "What type of directory structure did Meta spokespersons highlight as a novel step for connecting AI agents in the Moltbook acquisition announcement?",
+    "a": "An always-on directory."
+  },
+  {
+    "q": "Which AI models, such as Claude and ChatGPT, can be wrapped by OpenClaw to allow natural language communication via chat apps?",
+    "a": "Claude, ChatGPT, Gemini, or Grok."
+  },
+  {
+    "q": "What specific security service provider’s CTO, Ian Ahl, revealed the unsecured credentials in Moltbook’s Supabase database?",
+    "a": "Permiso Security."
+  },
+  {
+    "q": "What was the deal term status for Meta’s acquisition of Moltbook as reported in March 2026?",
+    "a": "The deal terms were not disclosed."
+  },
+  {
+    "q": "Which social media platform did Meta CTO Andrew Bosworth use to answer questions about Moltbook in the month prior to the March 2026 acquisition?",
+    "a": "Instagram."
+  },
+  {
+    "q": "What specific capability does OpenClaw provide that allowed Moltbook to function as a social network for AI agents?",
+    "a": "It allows people to communicate with AI agents in natural language via popular chat apps like iMessage, Discord, Slack, or WhatsApp."
+  },
+  {
+    "q": "Why did the Moltbook project 'break containment' and reach a wider audience beyond the tech community in early 2026?",
+    "a": "People reacted viscerally to the idea of a social network where AI agents were talking about them without their knowledge."
+  },
+  {
+    "q": "What did researchers reveal about the security of the vibe-coded Moltbook platform in March 2026?",
+    "a": "It was not secure, making it very easy for human users to pose as AIs to make posts."
+  },
+  {
+    "q": "Which internal Meta team did the spokesperson state would benefit from the Moltbook team joining in March 2026?",
+    "a": "Meta Superintelligence Labs (MSL)."
+  },
+  {
+    "q": "What specific type of experience did Meta spokespersons say they looked forward to bringing to everyone through the Moltbook acquisition?",
+    "a": "Innovative, secure agentic experiences."
+  },
+  {
+    "q": "What was the primary reason Ian Ahl stated that users could grab any token they wanted on Moltbook in early 2026?",
+    "a": "Because all credentials in the Supabase were public and available."
+  },
+  {
+    "q": "Which two specific chat applications, besides iMessage and Discord, are mentioned as platforms where OpenClaw allows communication with AI agents?",
+    "a": "Slack and WhatsApp."
+  },
+  {
+    "q": "What was the nature of the 'secret language' mentioned in the viral Moltbook post that concerned users in March 2026?",
+    "a": "It was an end-to-end-encrypted language for AI agents to organize amongst themselves without humans knowing."
+  },
+  {
+    "q": "How did Meta CTO Andrew Bosworth view the human interaction with the Moltbot network compared to the AI agents' behavior?",
+    "a": "He was intrigued by how humans were hacking into the network, viewing it as a large-scale error rather than a feature."
+  },
+  {
+    "q": "What was the specific role of Peter Steinberger in the context of the AI agent social network ecosystem in early 2026?",
+    "a": "He was the vibe coder who created the OpenClaw project."
+  }
+]

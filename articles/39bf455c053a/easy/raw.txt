@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In March 2026, what specific date range did the United States Treasury license authorize for the delivery and sale of Russian crude and petroleum products that were loaded on vessels as of March 12?",
+    "a": "The license authorized shipments through April 11, 2026."
+  },
+  {
+    "q": "On March 13, 2026, what percentage decrease and final price per barrel did Brent crude, the global oil benchmark, experience after the Trump administration announced a temporary waiver for Russian oil?",
+    "a": "Brent crude fell 1.3% to just over $99 a barrel."
+  },
+  {
+    "q": "Who is the US Treasury Secretary that stated on social media in March 2026 that the temporary authorization for Russian oil would not provide significant financial benefit to the Russian government?",
+    "a": "Treasury Secretary Scott Bessent."
+  },
+  {
+    "q": "In March 2026, what was the settlement price of WTI, the US oil benchmark, on the Thursday prior to the March 13 reporting, marking its highest level since 2022?",
+    "a": "WTI settled at $100.46 a barrel."
+  },
+  {
+    "q": "Which geographic chokepoint, flanked by Iran and responsible for one-fifth of the world’s oil output, saw its effective closure in early 2026 leading to a surge in crude oil prices?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "According to Mohit Kumar, an economist at Jefferies investment bank, what is the approximate daily oil production volume of Russia in 2026?",
+    "a": "Russia produces around 10 million barrels of oil per day."
+  },
+  {
+    "q": "In March 2026, how many oil tankers, cargo ships, and other vessels had been attacked in and around the Strait of Hormuz, the Arabian Gulf, and the Gulf of Oman in the preceding two weeks, according to the UKMTO?",
+    "a": "At least 16 vessels had been attacked."
+  },
+  {
+    "q": "Which US President suggested in a March 2026 interview with Fox News that oil tanker crews in the Strait of Hormuz should \"show some guts\" and insisted there was nothing to fear?",
+    "a": "US President Donald Trump."
+  },
+  {
+    "q": "In March 2026, which Democratic US Senator from New Hampshire criticized the Trump administration's decision to lift sanctions on Russian oil, arguing it filled the Kremlin’s war coffars?",
+    "a": "Democratic Sen. Jeanne Shaheen."
+  },
+  {
+    "q": "What specific reduction in global oil flow, in million barrels per day, did Mohit Kumar of Jefferies attribute to the blockage of the Strait of Hormuz in his March 2026 analysis?",
+    "a": "The blockage reduces oil flow by 13-14 million barrels per day."
+  },
+  {
+    "q": "In March 2026, by what percentage did Goldman Sachs revise its price forecast higher for Brent crude oil for the year, and what price did it expect for March under the assumption of a three-week disruption?",
+    "a": "Goldman Sachs revised its forecast 20% higher, expecting $100 a barrel in March."
+  },
+  {
+    "q": "According to CNN reporting in March 2026, which US entity significantly underestimated Iran’s willingness to close the Strait of Hormuz and the resulting risk of a global energy crisis?",
+    "a": "US national security officials."
+  },
+  {
+    "q": "In March 2026, what end-of-year price forecast for Brent crude did Goldman Sachs project if the closure of the Strait of Hormuz extended to two months, compared to its previous forecast?",
+    "a": "The forecast was pushed from $71 a barrel to $93 a barrel."
+  },
+  {
+    "q": "Which country's refiners were previously granted a 30-day waiver by the United States in early 2026 to buy Russian oil stranded at sea, a move Treasury Secretary Scott Bessent said was to enable oil to keep flowing?",
+    "a": "Indian refiners."
+  },
+  {
+    "q": "In March 2026, how many minelayers did the US military say it had sunk in the area of the Strait of Hormuz earlier in the week?",
+    "a": "The US military said it had sunk 16 minelayers."
+  },
+  {
+    "q": "What specific action did Iran reportedly take in the Strait of Hormuz in early 2026, prompting US military countermeasures?",
+    "a": "Iran has reportedly been laying mines in the strait."
+  },
+  {
+    "q": "In March 2026, what price did Goldman Sachs expect for Brent crude oil in April, assuming a three-week disruption to the Strait of Hormuz?",
+    "a": "Goldman Sachs expected $85 a barrel in April."
+  },
+  {
+    "q": "Which global oil benchmark settled at $100.46 a barrel on the Thursday before March 13, 2026, representing its highest settlement level since 2022?",
+    "a": "Brent crude."
+  },
+  {
+    "q": "According to Treasury Secretary Scott Bessent in March 2026, from where does the Russian government derive the majority of its energy revenue?",
+    "a": "The Russian government derives the majority of its energy revenue from taxes assessed at the point of extraction."
+  },
+  {
+    "q": "In March 2026, which investment bank's economist, Mohit Kumar, concluded that it was \"not obvious\" to what extent the easing of US sanctions would improve global oil supply?",
+    "a": "Jefferies."
+  },
+  {
+    "q": "What warning did Iran issue in March 2026 regarding retaliation for any attacks on its own energy infrastructure?",
+    "a": "Iran warned it would set the Middle East’s oil and natural gas \"on fire.\""
+  },
+  {
+    "q": "In March 2026, what was the trading price of WTI, the US oil benchmark, on Friday after it dropped 2%?",
+    "a": "WTI traded at $93.70 a barrel."
+  },
+  {
+    "q": "Which organization monitors maritime traffic and reported in March 2026 that at least 16 vessels had been attacked in the region surrounding the Strait of Hormuz?",
+    "a": "The UKMTO (United Kingdom Maritime Trade Operations)."
+  },
+  {
+    "q": "In March 2026, what specific type of US license, posted to the US Treasury website, applied only to Russian crude and petroleum products loaded on vessels as of March 12?",
+    "a": "A temporary authorization license."
+  },
+  {
+    "q": "According to the March 2026 article, what historic disruption to energy supply has caused countries to scramble by curbing consumption, capping fuel prices, and tapping into emergency oil reserves?",
+    "a": "The effective closure of the Strait of Hormuz."
+  },
+  {
+    "q": "In March 2026, what was the specific date by which the US Treasury's temporary authorization for stranded Russian oil shipments was set to expire?",
+    "a": "April 11, 2026."
+  }
+]

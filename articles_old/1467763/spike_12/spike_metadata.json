@@ -1,0 +1,65 @@
+{
+  "spike_index": 12,
+  "direction": "up",
+  "price_before": 0.34,
+  "price_after": 0.63,
+  "delta": 0.29,
+  "abs_delta": 0.29,
+  "timestamp_before": "2026-03-07T13:00:32+00:00",
+  "timestamp_after": "2026-03-08T08:00:27+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "http://mainichi.jp/english/articles/20260309/p2g/00m/0bu/025000c",
+      "file": "3a3527375c5b.txt",
+      "title": "Crude oil briefly tops $111 on Middle East risks, highest since July 2022 - The Mainichi",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "text_length": 1273,
+      "status": "ok",
+      "num_tokens": 255
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html",
+      "file": "53a19a2cebdb.txt",
+      "title": "Oil prices fall as Trump weighs taking over Strait of Hormuz",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": "Spencer Kimball",
+      "text_length": 4478,
+      "status": "ok",
+      "num_tokens": 934
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/c79542n0grwo",
+      "file": "4eeef6a436a5.txt",
+      "title": "G7 to take 'necessary measures' to support energy supplies",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": null,
+      "text_length": 6272,
+      "status": "ok",
+      "num_tokens": 1335
+    },
+    {
+      "url": "http://us.cnn.com/2026/03/08/business/oil-prices-war-iran-trump",
+      "file": "fbb25f6feb4b.txt",
+      "title": "Oil prices soar past $100 a barrel as war escalates in Iran | CNN Business",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": "Auzinea Bacon, David Goldman",
+      "text_length": 4888,
+      "status": "ok",
+      "num_tokens": 1069
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/goldman-sachs-warns-oil-may-surge-above-100bbl-if-hormuz-flows-dont-recover-2026-03-06/",
+      "file": "cd3e767a5496.txt",
+      "title": "Goldman Sachs warns oil may surge above $100/bbl if Hormuz flows don\u2019t recover | Reuters",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": null,
+      "text_length": 1711,
+      "status": "ok",
+      "num_tokens": 346
+    }
+  ],
+  "total_tokens": 3939
+}

@@ -1,0 +1,67 @@
+{
+  "hash": "8db6d13079c7",
+  "n_appearances": 5,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-22-24k-carat-gold-price-per-kg-silver-india-mcx-comex-etf-stocks-march-city-wise-cost-us-israel-iran-war-middle-east-crisis-latest-news/liveblog/129129730.cms",
+      "title": "Gold, Silver Rate Today Highlights: Gold, silver prices in focus on safe haven buying; where are the precious metals headed?  - The Times of India",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 2597,
+      "text_length": 12565
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1032343",
+      "spike_id": 25,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.1725,
+      "spike_timestamp_before": "2026-03-06T03:30:21+00:00",
+      "spike_timestamp_after": "2026-03-06T06:30:20+00:00"
+    },
+    {
+      "market_id": "1032343",
+      "spike_id": 26,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.21549999999999997,
+      "spike_timestamp_before": "2026-03-06T03:30:21+00:00",
+      "spike_timestamp_after": "2026-03-06T20:00:20+00:00"
+    },
+    {
+      "market_id": "1032343",
+      "spike_id": 27,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.21599999999999997,
+      "spike_timestamp_before": "2026-03-06T03:30:21+00:00",
+      "spike_timestamp_after": "2026-03-07T00:00:29+00:00"
+    },
+    {
+      "market_id": "1032343",
+      "spike_id": 28,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.21999999999999997,
+      "spike_timestamp_before": "2026-03-06T03:30:21+00:00",
+      "spike_timestamp_after": "2026-03-07T03:00:23+00:00"
+    },
+    {
+      "market_id": "1032343",
+      "spike_id": 29,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "up",
+      "spike_delta": 0.15599999999999997,
+      "spike_timestamp_before": "2026-03-08T23:00:18+00:00",
+      "spike_timestamp_after": "2026-03-09T02:30:17+00:00"
+    }
+  ]
+}

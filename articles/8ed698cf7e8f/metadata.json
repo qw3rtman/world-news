@@ -1,0 +1,47 @@
+{
+  "hash": "8ed698cf7e8f",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-05-26",
+      "title": "Day 6 of Middle East conflict — countries intercepting Iranian strikes, US ramps up campaign | CNN",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Helen Regan, Paula Newton, Michael Rios, Aditi Sangal, Austin Culpepper, Nina Giraldo, Tamar Michaelis, Vasco Cotovio, Clarissa Ward, Nechirvan Mando, Mitchell McCluskey, Sharon Braithwaite, Max Saltman, Haley Britzky, Tori B. Powell, Maureen Chowdhury, Oren Liebermann, Samantha Waldenberg, Piper Hudspeth Blackburn, Adam Cancryn, Sarah Ferris, Annie Grayer, Matt Egan, John Towfighi, Thomas Bordeaux, Gianluca Mezzofiore, Lauren Kent, Sophie Tanno, Joseph Ataman, Alex  Leeds Matthews, Soph Warnes, Rosa de Acosta, Rhyannon Bartlett-Imadegawa, Lou Robinson, Renée Rigdon, Yahya Salem, Jennifer Hansler, Zachary Cohen, Eyad Kourdi, Charbel Mallo, Nina Subkhanberdina, Sana Noor Haq, Alejandra Jaramillo, Zeena Saifi, Avery Schmitz, Mostafa Salem, Rebekah Riess, Charlotte Reck, Tala Alrajjal, Billy Stockwell, Kaanita Iyer, Logan Schiciano, Brian Stelter, Barbie Latza Nadeau, Chris Isidore, Leila Gharagozlou, Olesya Dmitracova, Eugenia Yosef, Jessie Yeung, Todd Symons, Antoinette Radford, Rhea Mogul, Laura Sharman, Yoonjung Seo, Karina Tsui, Will Ripley, Kareem El Damanhoury, Frederik Pleitgen, Ivan Watson, Yumi Asada, Katherine Dautrich",
+      "num_tokens": 3316,
+      "text_length": 16487
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1472011",
+      "spike_id": 5,
+      "market_question": "Will UK strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.25,
+      "spike_timestamp_before": "2026-03-05T09:00:31+00:00",
+      "spike_timestamp_after": "2026-03-05T11:00:39+00:00"
+    },
+    {
+      "market_id": "1472011",
+      "spike_id": 6,
+      "market_question": "Will UK strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.21000000000000002,
+      "spike_timestamp_before": "2026-03-05T11:00:39+00:00",
+      "spike_timestamp_after": "2026-03-05T16:00:30+00:00"
+    },
+    {
+      "market_id": "1472026",
+      "spike_id": 12,
+      "market_question": "Will another country strike Iran by March 31?",
+      "event_title": "Will another country strike Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.18000000000000005,
+      "spike_timestamp_before": "2026-03-06T17:30:42+00:00",
+      "spike_timestamp_after": "2026-03-06T20:30:32+00:00"
+    }
+  ]
+}

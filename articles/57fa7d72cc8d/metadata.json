@@ -1,0 +1,27 @@
+{
+  "hash": "57fa7d72cc8d",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://origin.www.bloomberg.com/news/articles/2026-03-03/us-oil-stocks-halt-gains-as-price-rally-seen-as-short-term?srnd=undefined",
+      "title": "US Oil Stocks Stall as Investors Doubt Longevity of Price Surge - Bloomberg",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Kevin Crowley",
+      "num_tokens": 109,
+      "text_length": 561
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1467771",
+      "spike_id": 8,
+      "market_question": "Will Crude Oil (CL) hit (LOW) $65 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.15999999999999998,
+      "spike_timestamp_before": "2026-03-02T22:30:35+00:00",
+      "spike_timestamp_after": "2026-03-03T20:30:38+00:00"
+    }
+  ]
+}

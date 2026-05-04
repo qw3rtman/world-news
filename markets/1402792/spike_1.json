@@ -1,0 +1,65 @@
+{
+  "spike_index": 1,
+  "direction": "down",
+  "price_before": 0.285,
+  "price_after": 0.075,
+  "delta": -0.20999999999999996,
+  "abs_delta": 0.20999999999999996,
+  "timestamp_before": "2026-02-27T14:00:31+00:00",
+  "timestamp_after": "2026-02-28T07:30:31+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "http://origin.www.bloomberg.com/news/articles/2026-02-26/us-iran-to-hold-nuclear-talks-as-trump-s-deal-deadline-looms?srnd=undefined",
+      "file": "9d20e3a6b8eb.txt",
+      "title": "US, Iran Resume Nuclear Talks as Trump\u2019s Deal Deadline Approaches - Bloomberg",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": "Patrick Sykes",
+      "text_length": 1665,
+      "status": "ok",
+      "num_tokens": 422
+    },
+    {
+      "url": "https://www.npr.org/2026/02/26/g-s1-111595/u-s-iran-to-third-round-nuclear-talks",
+      "file": "7f983547a99f.txt",
+      "title": "U.S.-Iran talks conclude with no deal as war risk looms : NPR",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": "By\u00a0                 \n   \n       \n      The Associated Press",
+      "text_length": 6424,
+      "status": "ok",
+      "num_tokens": 1276
+    },
+    {
+      "url": "https://www.pbs.org/video/iran-talks-tape-1772141801/",
+      "file": "f9a6adc187bb.txt",
+      "title": "PBS News Hour | U.S.-Iran talks end without deal, mediator reports progress | Season 2026 | PBS",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": null,
+      "text_length": 408,
+      "status": "ok",
+      "num_tokens": 80
+    },
+    {
+      "url": "https://www.cbsnews.com/amp/news/trump-us-iran-nuclear-deal-to-avert-war-prospects-for-geneva-talks/",
+      "file": "97f87ca56190.txt",
+      "title": "Can the U.S. and Iran reach a nuclear deal to avert a war? - CBS News",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": "By\n                        \n              \n                   Tucker  Reals",
+      "text_length": 12328,
+      "status": "ok",
+      "num_tokens": 2547
+    },
+    {
+      "url": "https://apnews.com/article/iran-us-nuclear-timeline-war-146b4072f1f6cc43cfd3bde740313a5c",
+      "file": "274f2c327bcc.txt",
+      "title": "The long, fraught timeline of Iran nuclear tensions | AP News",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": null,
+      "text_length": 11179,
+      "status": "ok",
+      "num_tokens": 2590
+    }
+  ],
+  "total_tokens": 6915
+}

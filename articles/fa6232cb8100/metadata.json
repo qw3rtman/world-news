@@ -1,0 +1,27 @@
+{
+  "hash": "fa6232cb8100",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://uk.mobile.reuters.com/business/eu-commission-clears-berlins-control-rosnefts-german-assets-2026-02-20/",
+      "title": "EU allows Berlin to take long-term control of Rosneft's German assets | Reuters",
+      "published_date": "2026-02-20T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 378,
+      "text_length": 1938
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694937",
+      "spike_id": 4,
+      "market_question": "Will BP be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.24000000000000002,
+      "spike_timestamp_before": "2026-02-21T10:30:16+00:00",
+      "spike_timestamp_after": "2026-02-21T17:00:18+00:00"
+    }
+  ]
+}

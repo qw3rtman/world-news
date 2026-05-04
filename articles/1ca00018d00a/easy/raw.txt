@@ -1,0 +1,106 @@
+[
+  {
+    "q": "As of late February 2026, which U.S. federal agency is experiencing a funding impasse that has resulted in missed paychecks for its employees and a shutdown lasting two weeks?",
+    "a": "The Department of Homeland Security (DHS)."
+  },
+  {
+    "q": "Which two specific DHS sub-agencies, alongside the Secret Service and the Coast Guard, are currently operating without pay because they were not covered by the $75 billion funding passed in the previous year's legislation?",
+    "a": "The Transportation Security Administration (TSA) and the Federal Emergency Management Agency (FEMA)."
+  },
+  {
+    "q": "On what date did Democratic negotiators make their last counteroffer to Republicans regarding the DHS funding, which remained unanswered for nearly two weeks?",
+    "a": "February 16, 2026."
+  },
+  {
+    "q": "Which White House official stated that Democrats need to make a move to end the shutdown before more Americans are harmed by a lack of funding for critical services like disaster relief?",
+    "a": "A White House official."
+  },
+  {
+    "q": "Which two Democratic leaders' spokespeople issued a statement saying they were reviewing the White House's latest offer while remaining committed to fighting for reforms to rein in ICE?",
+    "a": "Senate Minority Leader Chuck Schumer and House Minority Leader Hakeem Jeffries."
+  },
+  {
+    "q": "Which Democratic U.S. Senator from Colorado expressed uncertainty about how either side could achieve a political win in the DHS funding negotiations?",
+    "a": "Senator John Hickenlooper."
+  },
+  {
+    "q": "What specific immigration enforcement tactics are Democrats demanding be banned or tightened, including warrant requirements, face-covering bans, and ending roving patrols?",
+    "a": "Tightening warrant requirements for immigration arrests, banning immigration agents from covering their faces, and ending roving patrols in communities."
+  },
+  {
+    "q": "Which incident in Minneapolis, involving immigration agents fatally shooting two U.S. citizens, spurred the Democratic demands for DHS reforms?",
+    "a": "The immigration crackdown in Minneapolis."
+  },
+  {
+    "q": "According to a recent ABC News/Washington Post poll cited in late February 2026, what percentage of respondents disapproved of President Trump’s handling of immigration?",
+    "a": "58 percent."
+  },
+  {
+    "q": "By what margin did respondents in the ABC News/Washington Post poll oppose the tactics used by Immigration and Customs Enforcement (ICE)?",
+    "a": "By a 2-to-1 margin, with 62 percent opposing and 31 percent supporting."
+  },
+  {
+    "q": "Which Republican U.S. Senator from South Dakota stated that Democrats seem to have concluded that the DHS impasse might be good politics for them?",
+    "a": "Senate Majority Leader John Thune."
+  },
+  {
+    "q": "Which Republican U.S. Senator from Louisiana warned that TSA employees working indefinitely without pay would inevitably impact airline flight performance?",
+    "a": "Senator John Kennedy."
+  },
+  {
+    "q": "Which DHS program, announced to be suspended last weekend, remained shuttered as of late February 2026, unlike TSA PreCheck which had its suspension reversed?",
+    "a": "The Global Entry program."
+  },
+  {
+    "q": "Which DHS Secretary indicated that TSA PreCheck could still be shut down if the funding impasse continued?",
+    "a": "DHS Secretary Kristi Noem."
+  },
+  {
+    "q": "Which Republican U.S. Senator from Missouri described the administration's potential to pull more levers to make the shutdown more painful as being responsible?",
+    "a": "Senator Eric Schmitt."
+  },
+  {
+    "q": "What specific amount of money, passed in the \"big, beautiful bill\" last year, is cited by Republicans as covering border operations and ICE, leaving other agencies like TSA and FEMA unfunded?",
+    "a": "$75 billion."
+  },
+  {
+    "q": "Which Republican U.S. Senator from South Dakota stated that the two sides were continuing to trade paper in hopes of finding a sweet spot?",
+    "a": "Senate Majority Leader John Thune."
+  },
+  {
+    "q": "Which Democratic U.S. Senator from New York told reporters that discussions were stagnant and that Republicans were just passing paper back and forth with no new changes?",
+    "a": "Senate Minority Leader Chuck Schumer."
+  },
+  {
+    "q": "Which DHS sub-agency is lawmakers most acutely concerned about regarding employees refusing to come to work due to lack of pay?",
+    "a": "The Transportation Security Administration (TSA)."
+  },
+  {
+    "q": "What fiscal year are lawmakers attempting to fund the Department of Homeland Security for, as of the negotiations in late February 2026?",
+    "a": "Fiscal year 2026."
+  },
+  {
+    "q": "Which two U.S. citizens were fatally shot by immigration agents during the Minneapolis crackdown that influenced Democratic policy demands?",
+    "a": "Two U.S. citizens."
+  },
+  {
+    "q": "Which Republican U.S. Senator from Louisiana stated that he expected airline flights to be impacted if the shutdown lasted well into the future?",
+    "a": "Senator John Kennedy."
+  },
+  {
+    "q": "What specific date did the White House formally respond to the Democratic counteroffer that had been made on February 16, 2026?",
+    "a": "Late Thursday night (of the week preceding February 28, 2026)."
+  },
+  {
+    "q": "Which agency's employees were reported to be reporting to work regardless of the funding lapse, despite the missed paychecks?",
+    "a": "Most DHS employees."
+  },
+  {
+    "q": "What percentage of respondents in the ABC News/Washington Post poll opposed ICE tactics, compared to the 31 percent who supported them?",
+    "a": "62 percent."
+  },
+  {
+    "q": "Which DHS Secretary warned that the administration might pull more levers in the coming days and weeks to make the shutdown more painful?",
+    "a": "DHS Secretary Kristi Noem."
+  }
+]

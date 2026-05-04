@@ -1,0 +1,65 @@
+{
+  "spike_index": 2,
+  "direction": "up",
+  "price_before": 0.1065,
+  "price_after": 0.2675,
+  "delta": 0.16100000000000003,
+  "abs_delta": 0.16100000000000003,
+  "timestamp_before": "2026-02-28T22:30:35+00:00",
+  "timestamp_after": "2026-03-01T10:00:42+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.al-monitor.com/originals/2026/03/france-germany-uk-ready-take-defensive-action-against-iran",
+      "file": "222445f752ab.txt",
+      "title": "France, Germany, UK ready to take 'defensive action' against Iran - AL-Monitor: The Middle East\u02bcs leading independent news source since 2012",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 2116,
+      "status": "ok",
+      "num_tokens": 413
+    },
+    {
+      "url": "https://www.thehindu.com/news/international/france-germany-uk-ready-to-take-defensive-action-against-iran/article70692886.ece",
+      "file": "c7956d700e77.txt",
+      "title": "Iran Israel Conflict | France, Germany, U.K. ready to take \u2018defensive action\u2019 against Iran - The Hindu",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Agencies",
+      "text_length": 2907,
+      "status": "ok",
+      "num_tokens": 645
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/02/politics/iran-after-48-hours-tactical-success-strategic-uncertainty",
+      "file": "046af74e3f29.txt",
+      "title": "Analysis: Ten issues that matter most in the Iran conflict and what to watch next | CNN Politics",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Brett H. McGurk",
+      "text_length": 8648,
+      "status": "ok",
+      "num_tokens": 1720
+    },
+    {
+      "url": "https://www.dawn.com/news/1977160/france-germany-uk-ready-to-take-defensive-action-against-iran",
+      "file": "ca3fec707d2b.txt",
+      "title": "France, Germany, UK ready to take \u2018defensive action\u2019 against Iran - DAWN.COM",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 693,
+      "status": "ok",
+      "num_tokens": 126
+    },
+    {
+      "url": "https://www.reuters.com/world/middle-east/us-aircraft-leave-spain-after-government-says-bases-cannot-be-used-iran-attacks-2026-03-02/",
+      "file": "baaa880e9b2b.txt",
+      "title": "US aircraft leave Spain after government says bases cannot be used for Iran attacks | Reuters",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 1746,
+      "status": "ok",
+      "num_tokens": 359
+    }
+  ],
+  "total_tokens": 3263
+}

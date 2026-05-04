@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Following the confirmation of the death of Iran’s Supreme Leader Ali Khamenei on March 1, 2026, which three individuals were mandated by the constitution to form the interim leadership council?",
+    "a": "President Masoud Pezeshkian, Judiciary Chief Gholam-Hossein Mohseni-Ejei, and senior conservative cleric Alireza Arafi."
+  },
+  {
+    "q": "In the context of the succession crisis triggered by Ali Khamenei's death in early March 2026, what specific constitutional body is required to choose the new supreme leader?",
+    "a": "The Assembly of Experts."
+  },
+  {
+    "q": "Who is the 55-year-old mid-ranking cleric and second son of the late Ali Khamenei who is considered a potential successor due to his ties with the security establishment?",
+    "a": "Mojtaba Khamenei."
+  },
+  {
+    "q": "Which 65-year-old member of the interim leadership council, also serving as head of Iran’s seminaries and a member of the Guardian Council, is viewed as a potential consensus candidate for Supreme Leader?",
+    "a": "Alireza Arafi."
+  },
+  {
+    "q": "What are the three constitutional qualifications required for a person to be chosen as Iran’s supreme leader, as outlined in the article published on March 2, 2026?",
+    "a": "Distinguished religious scholarship, deep knowledge of Islamic jurisprudence and politics, and strong managerial ability."
+  },
+  {
+    "q": "Which 53-year-old grandson of Islamic Republic founder Ruhollah Khomeini, who teaches in Qom and was disqualified from the 2016 Assembly of Experts election, is listed as a potential successor?",
+    "a": "Hassan Khomeini."
+  },
+  {
+    "q": "According to the March 2, 2026 article, which military organization’s senior commanders are widely believed to play a decisive role in shaping elite consensus for the new supreme leader?",
+    "a": "The Islamic Revolutionary Guard Corps (IRGC)."
+  },
+  {
+    "q": "What is the composition and election cycle of the body responsible for selecting Iran’s supreme leader, as described in the succession analysis of March 2026?",
+    "a": "The Assembly of Experts is composed of 88 clerics elected every eight years in nationwide polls."
+  },
+  {
+    "q": "Which 63-year-old hardline cleric and member of the Assembly of Experts, known for his alignment with conservative currents, is mentioned as a potential successor to Ali Khamenei?",
+    "a": "Mohammad-Mehdi Mirbagheri."
+  },
+  {
+    "q": "In the event of the death or incapacitation of the supreme leader, how many members constitute the temporary council that assumes power until a successor is selected?",
+    "a": "Three members."
+  },
+  {
+    "q": "Which 69-year-old former Guardian Council member with experience in international religious outreach is cited as a possible contender for Iran’s supreme leadership?",
+    "a": "Mohsen Araki."
+  },
+  {
+    "q": "What specific powers does the interim leadership council formed after Ali Khamenei's death in March 2026 oversee?",
+    "a": "The armed forces, national security, and key institutions."
+  },
+  {
+    "q": "Which group of senior clerics, particularly grand ayatollahs with independent religious authority, may indirectly influence the selection of Iran’s next supreme leader despite holding no formal voting role?",
+    "a": "Senior clerics in Qom."
+  },
+  {
+    "q": "What is the voting threshold required for the Assembly of Experts to select a new supreme leader, and what happens if no candidate fully meets constitutional criteria?",
+    "a": "A majority is sufficient; if no candidate fully meets criteria, members may select a figure based on overall leadership capacity."
+  },
+  {
+    "q": "Who serves as the commander-in-chief of the armed forces and appoints the head of the judiciary under the powers of the Iranian supreme leader?",
+    "a": "The supreme leader."
+  },
+  {
+    "q": "Which political circles is Hassan Khomeini associated with, and what symbolic asset does he possess that could strengthen his standing for supreme leadership?",
+    "a": "He is associated with reformist and centrist political circles and possesses the symbolic lineage of being the grandson of Ruhollah Khomeini."
+  },
+  {
+    "q": "What is the primary overriding priority for many within the Iranian system regarding the succession of Ali Khamenei, as noted in the March 2026 analysis?",
+    "a": "Continuity and institutional survival."
+  },
+  {
+    "q": "Which two institutions are mentioned as being able to shape the outcome of the supreme leader selection through internal assessments of potential candidates?",
+    "a": "Intelligence and judicial institutions."
+  },
+  {
+    "q": "What is the formal authority of the Assembly of Experts regarding the performance of the supreme leader, and how has it acted in practice under Ali Khamenei?",
+    "a": "It has the authority to dismiss him if deemed unfit, but in practice, it has consistently endorsed his leadership without public dissent."
+  },
+  {
+    "q": "Who is the Judiciary Chief that served on the interim leadership council formed immediately after the death of Ali Khamenei in March 2026?",
+    "a": "Gholam-Hossein Mohseni-Ejei."
+  },
+  {
+    "q": "What is the name of the conservative cleric who serves as head of Iran’s seminaries and was a member of the interim leadership council following Ali Khamenei's death?",
+    "a": "Alireza Arafi."
+  },
+  {
+    "q": "According to the article, what are the two contrasting strategic considerations Tehran faces regarding the timing of appointing a successor to Ali Khamenei during an active war?",
+    "a": "Appointing a successor quickly to project continuity and stability versus delaying to avoid creating a new focal point for external pressure."
+  },
+  {
+    "q": "Which candidate for Iran’s supreme leadership is described as having close ties to parts of the security establishment despite never holding senior elected office?",
+    "a": "Mojtaba Khamenei."
+  },
+  {
+    "q": "What specific role does the Guardian Council play in the process of selecting Iran’s supreme leader candidates?",
+    "a": "It vets all candidates for religious and political qualifications before they can run for the Assembly of Experts."
+  },
+  {
+    "q": "In the succession process described for March 2026, who has the authority to dismiss the supreme leader if deemed unfit, and what is the practical reality of this power?",
+    "a": "The Assembly of Experts has the authority, but it has consistently endorsed the leader without public dissent."
+  }
+]

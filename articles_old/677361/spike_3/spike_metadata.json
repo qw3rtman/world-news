@@ -1,0 +1,65 @@
+{
+  "spike_index": 3,
+  "direction": "down",
+  "price_before": 0.415,
+  "price_after": 0.245,
+  "delta": -0.16999999999999998,
+  "abs_delta": 0.16999999999999998,
+  "timestamp_before": "2026-03-02T04:30:24+00:00",
+  "timestamp_after": "2026-03-02T19:30:29+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "http://www.reuters.com/world/europe/ukraines-military-makes-gains-southeast-region-zaporizhzhia-kyiv-says-2026-03-02/",
+      "file": "04c04aacdf5b.txt",
+      "title": "Ukraine's military makes gains in southeast region of Zaporizhzhia, Kyiv says | Reuters",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Olena Harmash",
+      "text_length": 2791,
+      "status": "ok",
+      "num_tokens": 613
+    },
+    {
+      "url": "https://www.reuters.com/world/ukraines-zelenskiy-says-russia-will-have-difficulty-fulfilling-planned-advances-2026-03-02/",
+      "file": "cc5245c34f59.txt",
+      "title": "Ukraine's Zelenskiy says Russia will have difficulty fulfilling planned advances | Reuters",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 2063,
+      "status": "ok",
+      "num_tokens": 461
+    },
+    {
+      "url": "https://straitstimes.com/world/europe/ukraines-military-makes-gains-in-southeast-region-of-zaporizhzhia-kyiv-says",
+      "file": "9ca49ee1055d.txt",
+      "title": "Ukraine's military makes gains in southeast region of Zaporizhzhia, Kyiv says | The Straits Times",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 2925,
+      "status": "ok",
+      "num_tokens": 633
+    },
+    {
+      "url": "https://reuters.com/world/europe/ukraine-russia-peace-talks-still-expected-this-week-zelenskiy-says-2026-03-02/",
+      "file": "a6f2235f0c63.txt",
+      "title": "Ukraine-Russia peace talks still expected this week, Zelenskiy says | Reuters",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 2229,
+      "status": "ok",
+      "num_tokens": 472
+    },
+    {
+      "url": "https://reuters.com/world/europe/kremlin-says-continuing-talks-with-ukraine-is-russias-own-interests-2026-03-02/",
+      "file": "25112efabcdf.txt",
+      "title": "Kremlin says continuing talks with Ukraine is in Russia's own interests | Reuters",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 1447,
+      "status": "ok",
+      "num_tokens": 286
+    }
+  ],
+  "total_tokens": 2465
+}

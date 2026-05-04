@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the research note published on Sunday, March 1, 2026, what price threshold did TD Cowen analysts predict crude oil would exceed due to the geopolitical crisis in the Middle East?",
+    "a": "TD Cowen predicted crude oil prices would top $90 a barrel."
+  },
+  {
+    "q": "According to the March 1, 2026 analysis by TD Cowen, what percentage of the world’s oil passes through the Straits of Hormuz?",
+    "a": "20% of the world’s oil passes through the Straits of Hormuz."
+  },
+  {
+    "q": "How did TD Cowen analysts describe the status of the Straits of Hormuz shipping route in their March 1, 2026 research note?",
+    "a": "They described the route as \"effectively closed.\""
+  },
+  {
+    "q": "What specific factors did TD Cowen analysts cite as causing oil flows through the Straits of Hormuz to slow to \"a trickle\" in early March 2026?",
+    "a": "Increased insurance costs and associated risks."
+  },
+  {
+    "q": "In their March 1, 2026 report, what range of risk premium did TD Cowen analysts say traders were likely to apply to crude oil because of the Middle East conflict?",
+    "a": "A risk premium of $15 to $20 a barrel."
+  },
+  {
+    "q": "Who authored the research note published on Sunday, March 1, 2026, that predicted crude oil prices would exceed $90 a barrel?",
+    "a": "TD Cowen analysts."
+  },
+  {
+    "q": "What geopolitical event was identified by TD Cowen in its March 1, 2026 note as the primary driver for crude oil prices potentially topping $90 a barrel?",
+    "a": "The geopolitical crisis in the Middle East."
+  },
+  {
+    "q": "Which specific maritime chokepoint was described by TD Cowen analysts in early March 2026 as being effectively closed due to ongoing conflict?",
+    "a": "The Straits of Hormuz."
+  },
+  {
+    "q": "According to the March 1, 2026 TD Cowen report, what was the estimated impact of the conflict on the volume of oil flowing through the Straits of Hormuz?",
+    "a": "Flows were slowed to \"a trickle.\""
+  },
+  {
+    "q": "What publication date did the TD Cowen research note carry, which forecasted crude oil prices would rise above $90 a barrel?",
+    "a": "Sunday, March 1, 2026."
+  },
+  {
+    "q": "In the March 1, 2026 TD Cowen analysis, what was the stated consequence of the conflict on insurance costs for oil shipping through the Straits of Hormuz?",
+    "a": "Insurance costs increased."
+  },
+  {
+    "q": "What specific numerical range did TD Cowen analysts assign to the risk premium traders would add to crude oil prices in their March 1, 2026 note?",
+    "a": "$15 to $20 a barrel."
+  },
+  {
+    "q": "Which financial institution released a research note on March 1, 2026, stating that the Straits of Hormuz was effectively closed?",
+    "a": "TD Cowen."
+  },
+  {
+    "q": "According to the TD Cowen report published on March 1, 2026, what fraction of global oil supply is routed through the Straits of Hormuz?",
+    "a": "20%."
+  },
+  {
+    "q": "What two distinct factors did TD Cowen analysts list in their March 1, 2026 note as reasons for the disruption of oil flows through the Straits of Hormuz?",
+    "a": "Increased insurance costs and associated risks."
+  },
+  {
+    "q": "In the March 1, 2026 TD Cowen forecast, what was the predicted minimum price per barrel for crude oil?",
+    "a": "$90."
+  },
+  {
+    "q": "What term did TD Cowen analysts use in their March 1, 2026 report to characterize the operational status of the Straits of Hormuz?",
+    "a": "\"Effectively closed.\""
+  },
+  {
+    "q": "Which region's geopolitical crisis was cited by TD Cowen in its March 1, 2026 note as the cause for the potential $90-a-barrel oil price?",
+    "a": "The Middle East."
+  },
+  {
+    "q": "What was the upper limit of the risk premium range that TD Cowen analysts said traders would apply to crude oil in their March 1, 2026 report?",
+    "a": "$20 a barrel."
+  },
+  {
+    "q": "According to the TD Cowen note published on March 1, 2026, how did the conflict affect the shipping flows through the Straits of Hormuz?",
+    "a": "It slowed flows to \"a trickle.\""
+  },
+  {
+    "q": "What specific percentage of world oil transit was impacted by the effective closure of the Straits of Hormuz, as noted by TD Cowen on March 1, 2026?",
+    "a": "20%."
+  },
+  {
+    "q": "In the March 1, 2026 TD Cowen analysis, what was the lower limit of the risk premium range attributed to the Middle East conflict?",
+    "a": "$15 a barrel."
+  },
+  {
+    "q": "Which organization predicted in a March 1, 2026 research note that crude oil would top $90 a barrel due to disruptions in the Straits of Hormuz?",
+    "a": "TD Cowen."
+  },
+  {
+    "q": "What was the primary reason given by TD Cowen in its March 1, 2026 note for traders applying a $15 to $20 risk premium to crude oil?",
+    "a": "The conflict in the Middle East."
+  },
+  {
+    "q": "According to the TD Cowen report from March 1, 2026, what was the status of the Straits of Hormuz, a route carrying 20% of global oil?",
+    "a": "It was effectively closed."
+  }
+]

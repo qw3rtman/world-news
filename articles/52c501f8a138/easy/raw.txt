@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In the market snapshot published on Friday, 20 March 2026, at approximately 4:30pm AEDT, what was the closing price per barrel for Brent crude oil?",
+    "a": "$US107.40"
+  },
+  {
+    "q": "Which Australian financial institution, led by chief economist Shane Oliver, forecast a possible oil price peak of $US150 a barrel in March 2026?",
+    "a": "AMP"
+  },
+  {
+    "q": "According to the Commonwealth Bank of Australia (CBA) economics note released in March 2026, what specific price range did they judge there to be a strong likelihood of oil prices lifting to?",
+    "a": "$US120‑150"
+  },
+  {
+    "q": "In the market snapshot published on Friday, 20 March 2026, at approximately 12:30pm AEDT, what was the price per ounce for spot gold?",
+    "a": "$US4,653"
+  },
+  {
+    "q": "How much value, expressed in billions of Australian dollars, had been wiped off Australian stocks by mid-March 2026 due to the conflict in the Middle East?",
+    "a": "$250 billion"
+  },
+  {
+    "q": "Which Australian government official convened a special meeting of the Council of Financial Regulators on 20 March 2026 to discuss the Middle East conflict's economic implications?",
+    "a": "Treasurer Jim Chalmers"
+  },
+  {
+    "q": "According to the British multinational research firm BMI, which specific LNG facility in Qatar was attacked by Iran on 18 March 2026?",
+    "a": "Ras Laffan LNG facilities"
+  },
+  {
+    "q": "What was the yield on the Australia 10-Year Treasury bond at 2:15pm AEDT on Friday, 20 March 2026?",
+    "a": "5.01%"
+  },
+  {
+    "q": "Which two major Australian mining companies experienced falls of 1.5% and 2.8% respectively during the trading session on Friday, 20 March 2026?",
+    "a": "BHP and Rio Tinto"
+  },
+  {
+    "q": "According to NAB chief economist Sally Auld in March 2026, in which month did she expect the Reserve Bank of Australia to release its forecasts regarding stagflation?",
+    "a": "Early May"
+  },
+  {
+    "q": "What was the closing level of the S&P/ASX 200 index on Friday, 20 March 2026, after it fell 0.8%?",
+    "a": "8,428 points"
+  },
+  {
+    "q": "How many litres of petrol and diesel did the Australian government release from domestic reserves to address fuel security concerns in March 2026?",
+    "a": "762 million litres"
+  },
+  {
+    "q": "According to Westpac economics, what was the projected gross domestic product (GDP) growth for the first quarter of 2026?",
+    "a": "Around 0.6%"
+  },
+  {
+    "q": "Which Japanese share market was closed on Friday, 20 March 2026, due to the northern spring equinox holiday?",
+    "a": "Japan's share market"
+  },
+  {
+    "q": "What was the value of the Australian dollar in US cents at approximately 4:30pm AEDT on Friday, 20 March 2026?",
+    "a": "70.87 US cents"
+  },
+  {
+    "q": "Which company's securities trading was halted by the ASX on Friday, 20 March 2026, pending an announcement?",
+    "a": "Sequoia Financial Group"
+  },
+  {
+    "q": "According to BMI's report in March 2026, what feedstock shortage resulting from gas shortages could jeopardize food supply later in 2026 or 2027?",
+    "a": "Fertiliser production"
+  },
+  {
+    "q": "What percentage drop from its record high defines a market correction, a threshold the All Ordinaries index was approaching in March 2026?",
+    "a": "10%"
+  },
+  {
+    "q": "Which two entities started the war against Iran shortly before the Australian share market began its significant sell-off in March 2026?",
+    "a": "Israel and the United States"
+  },
+  {
+    "q": "What was the closing level of the Nasdaq index on Friday, 20 March 2026, at approximately 4:30pm AEDT?",
+    "a": "22,090 points"
+  },
+  {
+    "q": "Who did Treasurer Jim Chalmers engage with on 19 March 2026 to discuss responses to the Middle East conflict and fuel security plans?",
+    "a": "New Zealand’s Finance Minister, Nicola Willis"
+  },
+  {
+    "q": "What was the value of Bitcoin at approximately 4:30pm AEDT on Friday, 20 March 2026?",
+    "a": "$US70,636"
+  },
+  {
+    "q": "Which organization, consisting of leaders from the Reserve Bank, ASIC, APRA, and others, was convened by Treasurer Jim Chalmers in March 2026?",
+    "a": "The Council of Financial Regulators"
+  },
+  {
+    "q": "According to AMP chief economist Shane Oliver in March 2026, what was his base case assumption regarding the duration of the war and oil supply shock?",
+    "a": "That it would be relatively short"
+  },
+  {
+    "q": "What was the closing level of the FTSE index on Friday, 20 March 2026, at approximately 4:30pm AEDT?",
+    "a": "10,064 points"
+  },
+  {
+    "q": "What specific action did the Australian government take regarding fuel standards in March 2026 to help get more petrol to service stations?",
+    "a": "Temporarily relaxed fuel standards"
+  }
+]

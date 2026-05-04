@@ -1,0 +1,27 @@
+{
+  "hash": "1ca00018d00a",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://thehill.com/homenews/senate/5759555-dhs-funding-shutdown-paychecks/",
+      "title": "DHS funding impasse deepens as lawmakers blow by first missed paycheck",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1144,
+      "text_length": 5807
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1378925",
+      "spike_id": 2,
+      "market_question": "Will the DHS shutdown end after March 31, 2026?",
+      "event_title": "When will the DHS shutdown end?",
+      "spike_direction": "down",
+      "spike_delta": -0.1765,
+      "spike_timestamp_before": "2026-03-01T23:00:36+00:00",
+      "spike_timestamp_after": "2026-03-02T23:00:36+00:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "hash": "e119de126009",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/asia-pacific/white-house-says-china-agreed-postpone-trumps-beijing-trip-2026-03-18/",
+      "title": "White House says China agreed to postpone Trump's Beijing trip | Reuters",
+      "published_date": "2026-03-18T17:16:36.976Z",
+      "author": null,
+      "num_tokens": 177,
+      "text_length": 846
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "706279",
+      "spike_id": 10,
+      "market_question": "Will Trump visit China by April 30?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.265,
+      "spike_timestamp_before": "2026-03-18T19:00:44+00:00",
+      "spike_timestamp_after": "2026-03-19T16:30:43+00:00"
+    }
+  ]
+}

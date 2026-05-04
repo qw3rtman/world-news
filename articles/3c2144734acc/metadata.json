@@ -1,0 +1,27 @@
+{
+  "hash": "3c2144734acc",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://reuters.com/business/media-telecom/netflix-has-ample-room-increase-its-offer-battle-warner-bros-sources-say-2026-02-19/",
+      "title": "Exclusive: Netflix has ample room to increase its offer in battle for Warner Bros, sources say | Reuters",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": "Amy-Jo Crowley",
+      "num_tokens": 817,
+      "text_length": 3953
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694939",
+      "spike_id": 1,
+      "market_question": "Will Ubisoft be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.16999999999999998,
+      "spike_timestamp_before": "2026-02-20T02:30:17+00:00",
+      "spike_timestamp_after": "2026-02-20T09:30:15+00:00"
+    }
+  ]
+}

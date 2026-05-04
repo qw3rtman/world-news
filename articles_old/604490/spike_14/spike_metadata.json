@@ -1,0 +1,65 @@
+{
+  "spike_index": 14,
+  "direction": "up",
+  "price_before": 0.406,
+  "price_after": 0.571,
+  "delta": 0.16499999999999992,
+  "abs_delta": 0.16499999999999992,
+  "timestamp_before": "2026-03-02T01:00:23+00:00",
+  "timestamp_after": "2026-03-02T16:30:24+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-03/us-china-trade-chiefs-to-meet-mid-march-before-trump-xi-summit",
+      "file": "726259dec591.txt",
+      "title": "US, China Trade Chiefs to Meet Mid-March Before Trump-Xi Summit - Bloomberg",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 230,
+      "status": "ok",
+      "num_tokens": 42
+    },
+    {
+      "url": "https://www.reuters.com/world/china/china-says-it-seeks-communications-with-us-vows-hold-its-red-lines-2026-03-04/",
+      "file": "d819cc931d84.txt",
+      "title": "China says it seeks communication\u00a0with US but vows to hold its 'red lines' | Reuters",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": null,
+      "text_length": 1752,
+      "status": "ok",
+      "num_tokens": 341
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-04/china-signals-stability-in-ties-with-us-before-xi-trump-summit",
+      "file": "204e61c70746.txt",
+      "title": "China Signals Desire for Stable Ties With US Ahead of Planned Xi-Trump Summit - Bloomberg",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": null,
+      "text_length": 633,
+      "status": "ok",
+      "num_tokens": 136
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-01/trump-s-removal-of-another-xi-friend-complicates-planned-summit",
+      "file": "c91bf644b8c2.txt",
+      "title": "Trump\u2019s Removal of Another Xi Friend Complicates Planned Summit - Bloomberg",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 692,
+      "status": "ok",
+      "num_tokens": 134
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/02/khameneis-death-trump-china-visit-uncertainty-iran-strikes-trade-truce.html",
+      "file": "a9507acc7a21.txt",
+      "title": "Khamenei's death raises questions about Trump's China trip",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Evelyn Cheng",
+      "text_length": 5639,
+      "status": "ok",
+      "num_tokens": 1162
+    }
+  ],
+  "total_tokens": 1815
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the phone call between Russian President Vladimir Putin and U.S. President Donald Trump on Monday, March 9, 2026, what denial did Russian officials provide regarding their relationship with Iran, according to U.S. special envoy Steve Witkoff?",
+    "a": "Russian officials denied that they are sharing intelligence on U.S. military assets with Iran."
+  },
+  {
+    "q": "What specific belief did U.S. intelligence officials hold as of the ABC News report on Friday, March 6, 2026, regarding Russian actions in the Middle East?",
+    "a": "U.S. intelligence believed that Russia has been providing Iran with the locations of American troops, including aircraft and ships."
+  },
+  {
+    "q": "Which two U.S. officials accompanied President Donald Trump on Air Force One on March 7, 2026, while traveling to Miami?",
+    "a": "Special Envoy to the Middle East Steve Witkoff and Secretary of Defense Pete Hegseth."
+  },
+  {
+    "q": "What potential military threat did an intelligence official identify as a risk if Russia continued providing Iran with intelligence on U.S. troop locations?",
+    "a": "The intelligence sharing could enable Iranians to target specific locations with ballistic missiles and drones, putting U.S. service members at risk."
+  },
+  {
+    "q": "What message did White House Press Secretary Karoline Leavitt state was sent to Russia on Tuesday, March 10, 2026, regarding the alleged intelligence sharing?",
+    "a": "The message was that the U.S. would not be happy if intelligence sharing was taking place and hoped it was not happening."
+  },
+  {
+    "q": "Which U.S. Navy aircraft carrier was preparing ordnance on its flight deck on March 4, 2026, in support of Operation Epic Fury?",
+    "a": "The Nimitz-class aircraft carrier USS Abraham Lincoln."
+  },
+  {
+    "q": "What did President Donald Trump say about Vladimir Putin's reaction to Operation Epic Fury during a news conference on Monday, March 9, 2026?",
+    "a": "Trump said Putin was \"very impressed\" with Operation Epic Fury and had never seen anything quite like it."
+  },
+  {
+    "q": "Who did Russian President Vladimir Putin congratulate and reaffirm \"unwavering support\" for in a statement issued by the Kremlin?",
+    "a": "Iran's new Supreme Leader Mojtaba Khamenei."
+  },
+  {
+    "q": "What was U.S. special envoy Steve Witkoff's stance on accepting Russia's denial of intelligence sharing during his CNBC interview on Tuesday, March 10, 2026?",
+    "a": "Witkoff said, \"We can take them at their word,\" but noted it was a better question for intelligence officials."
+  },
+  {
+    "q": "How long did the phone conversation last between President Donald Trump and Russian President Vladimir Putin on Monday, March 9, 2026?",
+    "a": "The call lasted for about an hour."
+  },
+  {
+    "q": "Where did President Donald Trump hold a news conference on Monday, March 9, 2026, where he downplayed Russia's involvement in the conflict?",
+    "a": "Trump National Doral Miami in Doral, Florida."
+  },
+  {
+    "q": "What did President Donald Trump tell reporters on Air Force One over the weekend regarding the effectiveness of any intelligence Russia might have shared with Iran?",
+    "a": "Trump said that if Iran was getting information, it was not helping them much given what had happened to Iran in the last week."
+  },
+  {
+    "q": "Which organization confirmed to ABC News that U.S. intelligence believed Russia was providing intelligence to Iran, without specifying the exact type of information?",
+    "a": "An intelligence official confirmed the belief to ABC News."
+  },
+  {
+    "q": "In which room of the White House did Press Secretary Karoline Leavitt speak during a news briefing on Tuesday, March 10, 2026?",
+    "a": "The James S. Brady Press Briefing Room."
+  },
+  {
+    "q": "What did Russian President Vladimir Putin state in a letter to Iran's new Supreme Leader Mojtaba Khamenei regarding Russia's stance on Tehran?",
+    "a": "Putin reaffirmed Russia's \"unwavering support for Tehran and our solidarity with Iranian friends.\""
+  },
+  {
+    "q": "Who is the U.S. special envoy that stated on Tuesday, March 10, 2026, that Russian officials denied sharing intelligence on U.S. military assets with Iran?",
+    "a": "Steve Witkoff."
+  },
+  {
+    "q": "What operation were U.S. Sailors supporting on the flight deck of the USS Abraham Lincoln on March 4, 2026?",
+    "a": "Operation Epic Fury."
+  },
+  {
+    "q": "What did White House Press Secretary Karoline Leavitt say about divulging further details of the conversation between President Trump and President Putin?",
+    "a": "Leavitt said she would leave it to the president to divulge any more of that conversation."
+  },
+  {
+    "q": "Which two individuals were pictured with President Donald Trump during a news conference at Trump National Doral Miami on March 9, 2026?",
+    "a": "Special Envoy to the Middle East Steve Witkoff and Secretary of Defense Pete Hegseth."
+  },
+  {
+    "q": "What did President Donald Trump say about Vladimir Putin's desire to be helpful regarding Iran during the March 9, 2026, news conference?",
+    "a": "Trump said, \"... he wants to be helpful,\" referring to Putin and his involvement with Iran."
+  },
+  {
+    "q": "According to two people familiar with the intelligence reported by ABC News on Friday, March 6, 2026, what specific assets were Russia allegedly providing to Iran?",
+    "a": "The locations of American troops in the Middle East, including aircraft and ships."
+  },
+  {
+    "q": "Who did U.S. special envoy Steve Witkoff suggest should determine the truth about Russia's intelligence sharing with Iran?",
+    "a": "The intel people (intelligence officials)."
+  },
+  {
+    "q": "What did Russian President Vladimir Putin do in Moscow on March 4, 2026, as reported in the article?",
+    "a": "Putin spoke at a meeting in Moscow."
+  },
+  {
+    "q": "What did President Donald Trump say about the impact of potential Russian intelligence sharing on Iran's recent performance over the weekend?",
+    "a": "Trump stated that any intelligence sharing was inconsequential and not helping Iran much."
+  },
+  {
+    "q": "Which U.S. official told reporters on Tuesday, March 10, 2026, that President Trump and Special Envoy Steve Witkoff sent a message to Russia?",
+    "a": "White House Press Secretary Karoline Leavitt."
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "hash": "ec98ed5af5f0",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://usatoday.com/story/news/politics/2026/02/24/who-is-boycotting-state-of-the-union/88852080007/",
+      "title": "Who is boycotting the 2026 State of the Union? See a list",
+      "published_date": "2026-02-25T00:00:00.000Z",
+      "author": "Fernando Cervantes Jr.",
+      "num_tokens": 1348,
+      "text_length": 4193
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1321388",
+      "spike_id": 4,
+      "market_question": "Will Nick Shirley attend the 2026 State of the Union address?",
+      "event_title": "Who will attend the State of the Union address?",
+      "spike_direction": "down",
+      "spike_delta": -0.25,
+      "spike_timestamp_before": "2026-02-25T01:30:27+00:00",
+      "spike_timestamp_after": "2026-02-25T04:30:31+00:00"
+    },
+    {
+      "market_id": "1321388",
+      "spike_id": 5,
+      "market_question": "Will Nick Shirley attend the 2026 State of the Union address?",
+      "event_title": "Who will attend the State of the Union address?",
+      "spike_direction": "up",
+      "spike_delta": 0.252,
+      "spike_timestamp_before": "2026-02-25T04:30:31+00:00",
+      "spike_timestamp_after": "2026-02-25T14:00:32+00:00"
+    }
+  ]
+}

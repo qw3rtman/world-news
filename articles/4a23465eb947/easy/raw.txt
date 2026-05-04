@@ -1,0 +1,106 @@
+[
+  {
+    "q": "Following the U.S. and Israeli strikes on Iran that continued on Sunday night in early March 2026, what were the specific price increases and closing levels for Brent crude and U.S. West Texas Intermediate oil on Monday?",
+    "a": "Brent crude rose 7.6% to $78.41, and U.S. West Texas Intermediate rose more than 7.4% to $72.01."
+  },
+  {
+    "q": "In pre-market trading on Monday, March 2, 2026, what were the percentage gains for Exxon Mobil, Chevron, Totalenergies, Shell, and BP?",
+    "a": "Exxon Mobil was up 4.1%, Chevron up 3.9%, Totalenergies up 3.6%, Shell up 2.2%, and BP up 1.8%."
+  },
+  {
+    "q": "What name did U.S. President Donald Trump give to the military offensive against Iran that he stated would continue until U.S. objectives were achieved?",
+    "a": "Operation Epic Fury."
+  },
+  {
+    "q": "According to Amrita Sen of Energy Aspects in early March 2026, what percentage of global oil supply flows through the Strait of Hormuz, and what is the daily barrel volume range?",
+    "a": "20% of global supply, representing 13-15 million barrels per day."
+  },
+  {
+    "q": "Which five oil-producing countries are identified as relying on the Strait of Hormuz as a key shipping channel?",
+    "a": "Saudi Arabia, the UAE, Iraq, Iran, and Kuwait."
+  },
+  {
+    "q": "What alternative oil transport methods did Amrita Sen identify for bypassing the Strait of Hormuz in the event of a closure in March 2026?",
+    "a": "Oman and certain UAE grids can bypass the strait, and Saudi Arabia can use the East-West pipeline to the Red Sea."
+  },
+  {
+    "q": "According to Amrita Sen in early March 2026, what is the maximum volume of oil that can be moved through alternative methods, and how much remains stuck if the Strait is closed?",
+    "a": "5 million barrels can be moved through other methods, leaving about 10 million barrels stuck."
+  },
+  {
+    "q": "What oil price level did Amrita Sen predict if energy infrastructure is hit during the conflict in March 2026?",
+    "a": "Oil prices could hit $100."
+  },
+  {
+    "q": "How long did U.S. President Donald Trump hint the military operation against Iran could last, potentially increasing upward pressure on oil prices?",
+    "a": "Up to four or five weeks."
+  },
+  {
+    "q": "What was Albert Chu's assessment of the market consensus regarding the duration of the U.S. military operation in early March 2026?",
+    "a": "The consensus expected a faster resolution than the four-to-five-week timeline hinted by President Trump."
+  },
+  {
+    "q": "What specific risk did Amrita Sen identify as the bigger threat to oil supplies compared to a total closure of the Strait of Hormuz?",
+    "a": "One-off attacks on vessels passing through the area."
+  },
+  {
+    "q": "How many tankers were hit over the weekend preceding the March 2, 2026, reporting, causing shippers to become extremely cautious?",
+    "a": "Three tankers."
+  },
+  {
+    "q": "Which two entities launched fresh strikes against Iran and Hezbollah targets in Lebanon late on Sunday night in early March 2026?",
+    "a": "The U.S. and Israel."
+  },
+  {
+    "q": "What specific military capabilities was the U.S. targeting in Iran as of early March 2026?",
+    "a": "Iranian air defense systems and naval capabilities."
+  },
+  {
+    "q": "What time did Brent crude prices reach $78.41 on Monday in early March 2026?",
+    "a": "6:00 a.m. ET."
+  },
+  {
+    "q": "Who is the founder and director of research at Energy Aspects who provided analysis on oil prices and the Strait of Hormuz in March 2026?",
+    "a": "Amrita Sen."
+  },
+  {
+    "q": "Who is the portfolio manager at Man Group who commented on the potential for extended Strait of Hormuz closures in early March 2026?",
+    "a": "Albert Chu."
+  },
+  {
+    "q": "According to Albert Chu, what condition would cause the 'real issues' to begin regarding oil prices and the Strait of Hormuz?",
+    "a": "If the closure of the Strait of Hormuz gets extended beyond a couple of days."
+  },
+  {
+    "q": "What specific question did Amrita Sen raise regarding the logistics of Asian refiners in early March 2026?",
+    "a": "How Asian refiners actually get the volumes from the Middle East."
+  },
+  {
+    "q": "What did Amrita Sen state about the U.S. and Israel's military capability regarding Iran's ability to shut off the Strait of Hormuz?",
+    "a": "They have superior military power to ultimately neutralize Iran's ability to completely shut off the Strait."
+  },
+  {
+    "q": "What was the primary concern for shippers after three tankers were hit over the weekend in early March 2026?",
+    "a": "They became extremely cautious about going into the Strait of Hormuz."
+  },
+  {
+    "q": "What did Albert Chu say about the premium already in oil prices if the Strait of Hormuz is closed for only a couple of days?",
+    "a": "The premium is somewhat already in the prices."
+  },
+  {
+    "q": "Which European oil companies and their listed locations were mentioned as trading higher in early March 2026?",
+    "a": "France's Totalenergies and London-listed Shell."
+  },
+  {
+    "q": "What did Amrita Sen say about the likelihood of the Strait of Hormuz being closed altogether?",
+    "a": "It is unlikely that the Strait of Hormuz would be closed altogether."
+  },
+  {
+    "q": "What did U.S. President Donald Trump say about the continuation of the military offensive against Iran?",
+    "a": "It would continue until the U.S.'s objectives are achieved."
+  },
+  {
+    "q": "What did Amrita Sen warn her clients about throughout the conflict in early March 2026?",
+    "a": "She warned them about the risk of one-off attacks on vessels passing through the Strait of Hormuz."
+  }
+]

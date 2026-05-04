@@ -1,0 +1,106 @@
+[
+  {
+    "q": "On March 10, 2026, what were the closing prices for Brent crude futures and US West Texas Intermediate (WTI) crude, and what percentage decline did each represent compared to the previous day?",
+    "a": "Brent crude futures closed at $92.45 a barrel (down 6.6%), and WTI crude closed at $88.65 a barrel (down 6.5%)."
+  },
+  {
+    "q": "During the sharp rally on March 9, 2026, what were the peak prices reached by Brent crude and WTI crude, marking the highest levels since mid-2022?",
+    "a": "Brent crude climbed to $119.50 a barrel, and WTI touched $119.48 a barrel."
+  },
+  {
+    "q": "Which two national leaders held a call on or around March 9, 2026, during which Russian President Vladimir Putin presented proposals for a swift settlement to the US-Israeli war with Iran?",
+    "a": "Russian President Vladimir Putin and U.S. President Donald Trump."
+  },
+  {
+    "q": "In an interview with CBS News around March 9, 2026, what did U.S. President Donald Trump state regarding the status of the war against Iran and the timeline he had initially projected?",
+    "a": "He stated the war was \"very complete\" and that Washington was \"very far ahead\" of the initial four- to five-week timeline."
+  },
+  {
+    "q": "What specific warning did Iran’s Revolutionary Guards (IRGC) issue in response to U.S. and Israeli strikes on or around March 9, 2026?",
+    "a": "They warned that Tehran would not allow \"one litre of oil\" to be exported from the region if the strikes continued."
+  },
+  {
+    "q": "According to multiple sources cited around March 9, 2026, what two measures was U.S. President Donald Trump exploring to help contain rising global oil prices linked to the Iran conflict?",
+    "a": "Easing oil sanctions on Russia and releasing emergency crude stockpiles."
+  },
+  {
+    "q": "What price range did IG market analyst Tony Sycamore predict crude oil would trade within in the sessions following the volatility of March 9-10, 2026?",
+    "a": "He predicted trading within a wide range between $75ish and $105ish."
+  },
+  {
+    "q": "By the weekend prior to March 10, 2026, by what percentage did Iraq slash output at its key southern oilfields, and what was the resulting production level?",
+    "a": "Iraq slashed output by 70%, bringing production down to 1.3 million barrels per day."
+  },
+  {
+    "q": "What action did the Kuwait Petroleum Corporation take regarding its oil production on or around March 9, 2026, due to disruptions in shipping routes?",
+    "a": "It started reducing output and declared force majeure."
+  },
+  {
+    "q": "Which Gulf state producer began trimming production on Monday, March 9, 2026, according to sources, amid the disruption of shipping routes by the US-Israeli war with Iran?",
+    "a": "Saudi Arabia."
+  },
+  {
+    "q": "What stance did G7 countries express on or around March 9, 2026, regarding the surging global oil prices, specifically concerning emergency reserves?",
+    "a": "They said they were ready to take \"necessary measures\" but stopped short of committing to the release of emergency reserves."
+  },
+  {
+    "q": "What event caused oil prices to jump past the $100-per-barrel mark on Monday, March 9, 2026, before sliding on Tuesday, March 10, 2026?",
+    "a": "Concerns over energy flow rising as Saudi Arabia and other producers moved to cut supply amid the expanding US-Israeli war with Iran."
+  },
+  {
+    "q": "How much did Brent crude futures drop in dollar terms by 0018 GMT on March 10, 2026, and what was the new price per barrel?",
+    "a": "Brent crude futures dropped $6.51 to $92.45 a barrel."
+  },
+  {
+    "q": "How much did US West Texas Intermediate (WTI) crude drop in dollar terms by 0018 GMT on March 10, 2026, and what was the new price per barrel?",
+    "a": "WTI crude dropped $6.12 to $88.65 a barrel."
+  },
+  {
+    "q": "Which news organization reported that Russian President Vladimir Putin presented proposals to U.S. President Donald Trump aimed at settling the war involving Iran?",
+    "a": "Reuters, citing a Kremlin aide."
+  },
+  {
+    "q": "What did U.S. President Donald Trump tell CBS News regarding the trajectory of the conflict with Iran on or around March 9, 2026?",
+    "a": "He signaled optimism, stating that Washington was \"very far ahead\" of the initial four- to five-week timeline."
+  },
+  {
+    "q": "Which entity stated it would \"determine the end of the war\" and threatened to halt oil exports from the region if strikes continued, in response to U.S. and Israeli actions around March 9, 2026?",
+    "a": "Iran’s Revolutionary Guards (IRGC)."
+  },
+  {
+    "q": "What percentage decline did oil prices experience on Tuesday, March 10, 2026, after touching nearly $120 the previous day?",
+    "a": "Oil prices slid approximately 6% (Brent down 6.6% and WTI down 6.5%)."
+  },
+  {
+    "q": "Which country slashed output at its key southern oilfields by 70% over the weekend prior to March 10, 2026, reducing production to 1.3 million barrels per day?",
+    "a": "Iraq."
+  },
+  {
+    "q": "Which Gulf producer declared force majeure and started reducing output due to disrupted shipping routes in the region around March 9, 2026?",
+    "a": "Kuwait Petroleum Corporation."
+  },
+  {
+    "q": "What specific options was U.S. President Donald Trump exploring, as reported by multiple sources around March 9, 2026, to address global oil price spikes linked to the Iran conflict?",
+    "a": "Easing oil sanctions on Russia and releasing emergency crude stockpiles."
+  },
+  {
+    "q": "Who is the IG market analyst that predicted crude oil would trade between $75ish and $105ish in the sessions following the March 9-10, 2026 volatility?",
+    "a": "Tony Sycamore."
+  },
+  {
+    "q": "Which group of nations stated they were ready to take \"necessary measures\" to address surging global oil prices around March 9, 2026, without committing to releasing emergency reserves?",
+    "a": "G7 countries."
+  },
+  {
+    "q": "What was the highest price reached by WTI crude during the session on Monday, March 9, 2026, before the subsequent decline?",
+    "a": "WTI touched $119.48 a barrel."
+  },
+  {
+    "q": "Which two producers were cited as moving to cut supply amid the expanding US-Israeli war with Iran, fuelling worries about global oil flow disruptions around March 9, 2026?",
+    "a": "Saudi Arabia and other producers (specifically Iraq and Kuwait were noted for cuts)."
+  },
+  {
+    "q": "According to the article published on March 10, 2026, what was the primary reason for the easing of fears regarding long-lasting supply disruptions on Tuesday?",
+    "a": "Signs that the Middle East conflict could see some diplomatic movement, including a call between Putin and Trump."
+  }
+]

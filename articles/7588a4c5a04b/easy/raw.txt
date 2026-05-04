@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On Monday, March 2, 2026, what specific price level did Brent crude futures briefly reach as the conflict in the Middle East widened and escalated?",
+    "a": "$80 a barrel"
+  },
+  {
+    "q": "In the article published by Barron's on March 2, 2026, what headline question is posed regarding the potential ceiling for crude oil prices amid the U.S.-Iran conflict?",
+    "a": "Is $120 a barrel possible?"
+  },
+  {
+    "q": "According to the March 2, 2026, Barron's report, how did oil prices behave on Monday morning relative to their earlier highs during the escalation of the Middle East conflict?",
+    "a": "Oil prices dipped below their earlier highs."
+  },
+  {
+    "q": "Which three authors are credited with writing the March 2, 2026, Barron's article titled 'Oil Price Today: Crude Spikes on Iran News. How High Can Prices Go?'",
+    "a": "Alex Kozul-Wright, Anita Hamilton, and Callum Keown"
+  },
+  {
+    "q": "In the context of the March 2, 2026, news report, which two countries' conflict is cited as the primary driver for the spike in crude oil prices?",
+    "a": "The United States and Iran"
+  },
+  {
+    "q": "What specific type of crude oil futures are mentioned in the March 2, 2026, Barron's article as having hit $80 a barrel?",
+    "a": "Brent crude futures"
+  },
+  {
+    "q": "As of the March 2, 2026, publication in Barron's, what region's widening conflict is linked to the dip in oil prices below earlier highs?",
+    "a": "The Middle East"
+  },
+  {
+    "q": "In the March 2, 2026, Barron's analysis, what is the specific dollar-per-barrel figure raised as a potential high-water mark for crude oil prices?",
+    "a": "$120"
+  },
+  {
+    "q": "What was the market behavior of oil prices on the Monday morning of March 2, 2026, specifically in relation to the escalation of hostilities?",
+    "a": "They dipped below earlier highs."
+  },
+  {
+    "q": "Which publication released the article on March 2, 2026, discussing the potential for crude oil to reach $120 a barrel due to U.S.-Iran tensions?",
+    "a": "Barron's"
+  },
+  {
+    "q": "In the March 2, 2026, article, what event caused Brent crude futures to briefly hit $80 a barrel before dipping?",
+    "a": "The widening and escalation of the conflict in the Middle East"
+  },
+  {
+    "q": "What is the full title of the Barron's article published on March 2, 2026, that addresses the spike in oil prices?",
+    "a": "Oil Price Today: Crude Spikes on Iran News. How High Can Prices Go?"
+  },
+  {
+    "q": "According to the March 2, 2026, report, what specific commodity's price is being analyzed for its potential to reach $120 a barrel?",
+    "a": "Crude oil"
+  },
+  {
+    "q": "In the March 2, 2026, Barron's piece, what was the brief peak price for Brent crude futures before prices dipped?",
+    "a": "$80 a barrel"
+  },
+  {
+    "q": "What geopolitical situation is identified in the March 2, 2026, article as the cause for crude oil prices dipping below earlier highs?",
+    "a": "The U.S.-Iran conflict and the widening of the Middle East conflict"
+  },
+  {
+    "q": "Which specific futures contract is named in the March 2, 2026, Barron's article as hitting $80 a barrel?",
+    "a": "Brent crude futures"
+  },
+  {
+    "q": "In the March 2, 2026, article, what is the implied question regarding the upper limit of crude oil prices amidst the Iran news?",
+    "a": "How high can prices go?"
+  },
+  {
+    "q": "What was the specific date of the Barron's article that discusses the $120 a barrel possibility for crude oil?",
+    "a": "March 2, 2026"
+  },
+  {
+    "q": "In the March 2, 2026, report, what action did oil prices take on Monday morning relative to their previous peaks?",
+    "a": "They dipped below their earlier highs."
+  },
+  {
+    "q": "Which two nations are in conflict in the scenario described in the March 2, 2026, Barron's article?",
+    "a": "The United States and Iran"
+  },
+  {
+    "q": "What is the specific price point mentioned in the March 2, 2026, article as a potential ceiling for crude oil?",
+    "a": "$120 a barrel"
+  },
+  {
+    "q": "In the March 2, 2026, Barron's article, what was the brief high for Brent crude futures during the Monday morning trading session?",
+    "a": "$80 a barrel"
+  },
+  {
+    "q": "What regional conflict is cited in the March 2, 2026, article as the background for the oil price spike?",
+    "a": "The conflict in the Middle East"
+  },
+  {
+    "q": "In the March 2, 2026, Barron's report, what is the relationship between the Middle East conflict escalation and Brent crude futures prices?",
+    "a": "Brent crude futures briefly hit $80 a barrel as the conflict widened."
+  },
+  {
+    "q": "What is the specific dollar amount per barrel that the March 2, 2026, Barron's article questions as a possible high for crude oil?",
+    "a": "$120"
+  }
+]

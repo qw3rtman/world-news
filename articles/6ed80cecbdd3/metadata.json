@@ -1,0 +1,37 @@
+{
+  "hash": "6ed80cecbdd3",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/middle-east/several-loud-blasts-heard-over-dubai-doha-second-day-witnesses-say-2026-03-01/",
+      "title": "Abu Dhabi complex housing embassies damaged as retaliatory strikes widen in Gulf | Reuters",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Maha El Dahan",
+      "num_tokens": 631,
+      "text_length": 3132
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1385895",
+      "spike_id": 3,
+      "market_question": "Will the US next strike Iran during the week of March 1-7, 2026 (ET)?",
+      "event_title": "When will the US next strike Iran? (Week)",
+      "spike_direction": "down",
+      "spike_delta": -0.429,
+      "spike_timestamp_before": "2026-02-27T23:30:38+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:17+00:00"
+    },
+    {
+      "market_id": "1385895",
+      "spike_id": 4,
+      "market_question": "Will the US next strike Iran during the week of March 1-7, 2026 (ET)?",
+      "event_title": "When will the US next strike Iran? (Week)",
+      "spike_direction": "down",
+      "spike_delta": -0.4295,
+      "spike_timestamp_before": "2026-02-27T23:30:38+00:00",
+      "spike_timestamp_after": "2026-02-28T13:00:37+00:00"
+    }
+  ]
+}

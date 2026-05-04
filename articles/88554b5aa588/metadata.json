@@ -1,0 +1,27 @@
+{
+  "hash": "88554b5aa588",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.statnews.com/2026/03/09/talkspace-to-be-acquired-for-835-million-by-mental-health-services-giant/",
+      "title": "Talkspace to be acquired by mental health services giant",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "Mario Aguilar",
+      "num_tokens": 199,
+      "text_length": 985
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694936",
+      "spike_id": 2,
+      "market_question": "Will Nebius Group be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.15499999999999997,
+      "spike_timestamp_before": "2026-03-08T14:00:22+00:00",
+      "spike_timestamp_after": "2026-03-09T04:00:20+00:00"
+    }
+  ]
+}

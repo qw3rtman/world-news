@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the February 25, 2026 announcement, what was the cash purchase price GSK agreed to pay for the Canadian biotech company 35Pharma?",
+    "a": "$950 million."
+  },
+  {
+    "q": "Who is the new CEO of GSK who took over from Emma Walmsley in January 2026 and struck the deal to acquire 35Pharma?",
+    "a": "Luke Miels."
+  },
+  {
+    "q": "What was the total value of the January 2026 deal in which GSK acquired RAPT Therapeutics, marking the first of CEO Luke Miels' major bolt-on acquisitions?",
+    "a": "$2.2 billion."
+  },
+  {
+    "q": "What is the name of the experimental pulmonary hypertension drug from 35Pharma that GSK acquired in February 2026?",
+    "a": "HS235."
+  },
+  {
+    "q": "Which global pharmaceutical company produces Winrevair, an injectable treatment for pulmonary hypertension mentioned in the February 2026 GSK acquisition context?",
+    "a": "Merck."
+  },
+  {
+    "q": "According to the February 2026 report, how many people globally are affected by pulmonary hypertension, the condition targeted by GSK's new acquisition?",
+    "a": "More than 80 million people."
+  },
+  {
+    "q": "What percentage rise in GSK shares had occurred so far in 2026 as of the February 25, 2026 announcement?",
+    "a": "Nearly 21%."
+  },
+  {
+    "q": "What specific downstream effects of obesity did CEO Luke Miels state GSK would focus on, noting that the obesity treatment market is becoming crowded?",
+    "a": "Liver and heart diseases."
+  },
+  {
+    "q": "In which specific patient population was the drug HS235 being developed to treat pulmonary hypertension, according to the February 2026 article?",
+    "a": "Obese patients."
+  },
+  {
+    "q": "What type of heart condition, known as preserved ejection fraction, was studied in obese mice to demonstrate HS235's ability to reduce fat mass and boost heart function?",
+    "a": "Preserved ejection fraction."
+  },
+  {
+    "q": "What is the potential dosing frequency for the injectable drug HS235 if it proves successful in clinical trials, as stated in the February 2026 report?",
+    "a": "Once every four weeks or potentially less often."
+  },
+  {
+    "q": "On the Tuesday before the February 25, 2026 announcement, what was the maximum value of the deal GSK agreed to for global rights to develop therapies from Frontier Biotechnologies?",
+    "a": "Up to $1 billion."
+  },
+  {
+    "q": "What type of diseases do the therapies from Frontier Biotechnologies, for which GSK acquired global development rights in early 2026, target?",
+    "a": "Kidney diseases."
+  },
+  {
+    "q": "Which previous CEO of GSK did Luke Miels succeed when he took over the role in January 2026?",
+    "a": "Emma Walmsley."
+  },
+  {
+    "q": "What class of drugs, facing looming patent expiries, was GSK attempting to counter through bolt-on deals like the 35Pharma acquisition in early 2026?",
+    "a": "Top-selling HIV drugs."
+  },
+  {
+    "q": "What is the ticker symbol for GSK as listed in the February 25, 2026 Reuters report?",
+    "a": "GSK.L."
+  },
+  {
+    "q": "What is the ticker symbol for RAPT Therapeutics as listed in the January 2026 deal context within the February 2026 article?",
+    "a": "RAPT.O."
+  },
+  {
+    "q": "What is the ticker symbol for Merck as listed in the February 2026 article when discussing the competitor drug Winrevair?",
+    "a": "MRK.N."
+  },
+  {
+    "q": "What is the ticker symbol for Frontier Biotechnologies as listed in the February 2026 article regarding GSK's kidney disease therapy deal?",
+    "a": "688221.SS."
+  },
+  {
+    "q": "In which country is the biotech company 35Pharma, acquired by GSK for $950 million in February 2026, based?",
+    "a": "Canada."
+  },
+  {
+    "q": "What is the nationality of the drugmaker GSK, which acquired 35Pharma in February 2026?",
+    "a": "British."
+  },
+  {
+    "q": "What specific pipeline area did the acquisition of 35Pharma's HS235 bolster for GSK, as described in the February 2026 announcement?",
+    "a": "Respiratory medicines."
+  },
+  {
+    "q": "What was the primary strategic goal of CEO Luke Miels in striking deals like the 35Pharma acquisition and the RAPT Therapeutics purchase in early 2026?",
+    "a": "To accelerate development of new medicines."
+  },
+  {
+    "q": "In which year did GSK experience a turbulent period that preceded its strong recovery in share performance in 2026?",
+    "a": "2025."
+  },
+  {
+    "q": "What specific mechanism of action did HS235 demonstrate in studies of obese mice with preserved ejection fraction, according to the February 2026 report?",
+    "a": "It selectively reduced fat mass and boosted heart function."
+  }
+]

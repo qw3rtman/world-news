@@ -1,0 +1,27 @@
+{
+  "hash": "75e6a653c7cd",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.nbcnews.com/world/asia/trump-china-trip-iran-war-delay-beijing-trade-oil-hormuz-rcna263844",
+      "title": "Trump's China trip thrown into doubt by Iran war, but Beijing doesn't seem to mind waiting",
+      "published_date": null,
+      "author": null,
+      "num_tokens": 1206,
+      "text_length": 5875
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "706279",
+      "spike_id": 9,
+      "market_question": "Will Trump visit China by April 30?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.265,
+      "spike_timestamp_before": "2026-03-17T09:00:48+00:00",
+      "spike_timestamp_after": "2026-03-17T17:00:43+00:00"
+    }
+  ]
+}

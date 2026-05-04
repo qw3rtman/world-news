@@ -1,0 +1,106 @@
+[
+  {
+    "q": "According to U.S. Central Command (CENTCOM) on Monday, March 2, 2026, how many U.S. service members were killed during Iran's initial attacks in response to U.S. and Israeli strikes on Saturday, March 1, 2026?",
+    "a": "Six U.S. service members."
+  },
+  {
+    "q": "What specific cause did U.S. Central Command (CENTCOM) cite on Monday, March 2, 2026, for the crash of three U.S. F-15E fighter jets in Kuwait on Sunday, March 1, 2026?",
+    "a": "An apparent friendly fire incident where Kuwaiti air defenses mistakenly shot down the jets."
+  },
+  {
+    "q": "How many Iranian fatalities did the Iranian Red Crescent Society report on Monday, March 2, 2026, since the start of the joint U.S.-Israeli military campaign on Saturday, March 1, 2026?",
+    "a": "At least 555 Iranians."
+  },
+  {
+    "q": "Which Iranian political and religious leader did Iranian officials confirm was killed in a direct hit on a school that also resulted in the deaths of more than 168 schoolgirls?",
+    "a": "Supreme Leader Ayatollah Ali Khamenei."
+  },
+  {
+    "q": "What four specific objectives did President Donald Trump state on Monday, March 2, 2026, as the reasons for the U.S. attacks on Iran?",
+    "a": "To stop Iran from producing new missiles, eliminate its navy, prevent it from acquiring a nuclear weapon, and stop it from arming, funding, and directing terrorist armies outside its borders."
+  },
+  {
+    "q": "Which Iran-backed militant group in Lebanon stated on Monday, March 2, 2026, that it launched attacks on Israel in revenge for the killing of Ayatollah Ali Khamenei?",
+    "a": "Hezbollah."
+  },
+  {
+    "q": "According to Lebanon's Health Ministry on Monday, March 2, 2026, how many people were killed and how many were wounded in Israeli airstrikes, primarily in southern Lebanon?",
+    "a": "At least 31 people were killed and at least 149 were wounded."
+  },
+  {
+    "q": "How many people were killed when a missile hit a public shelter outside Jerusalem on Sunday, March 1, 2026, during Iranian missile attacks on Israeli cities?",
+    "a": "Nine people."
+  },
+  {
+    "q": "Which country's citizen, identified as a caregiver, was killed in a missile attack in Tel Aviv on Sunday, March 1, 2026?",
+    "a": "The Philippines."
+  },
+  {
+    "q": "What was the stated position of top Iranian security official Ali Larijani on Monday, March 2, 2026, regarding negotiations with the United States?",
+    "a": "He stated that Iran would not negotiate with the United States."
+  },
+  {
+    "q": "Which two U.S. military installations in Iraq did Iran-backed militias claim responsibility for attacking on Monday, March 2, 2026?",
+    "a": "A U.S. base in Irbil and U.S. forces at Baghdad airport."
+  },
+  {
+    "q": "What did the British Defence Ministry report on Monday, March 2, 2026, regarding a drone strike on a British air force base in Cyprus?",
+    "a": "A drone strike hit the base, but there were no casualties reported."
+  },
+  {
+    "q": "Which major Saudi Arabian refinery did Saudi Arabia state on Monday, March 2, 2026, was targeted by two drones that it shot down, causing a limited fire?",
+    "a": "The Ras Tanura refinery."
+  },
+  {
+    "q": "How many Iranian warships did President Donald Trump claim on Monday, March 2, 2026, the U.S. had sunk during the conflict?",
+    "a": "Nine Iranian warships."
+  },
+  {
+    "q": "Which global financial indicator surged and which market indicator fell as the war with Iran entered its third day on Monday, March 2, 2026?",
+    "a": "Global crude oil prices surged and stocks fell."
+  },
+  {
+    "q": "What action did Iran's Revolutionary Guard Corps claim on Saturday, March 1, 2026, it had taken regarding the Strait of Hormuz?",
+    "a": "It claimed it was closing the Strait of Hormuz."
+  },
+  {
+    "q": "How many Middle Eastern countries did the U.S. State Department urge Americans to depart from immediately on Monday, March 2, 2026?",
+    "a": "14 Middle Eastern countries."
+  },
+  {
+    "q": "Which U.S. embassy announced on Monday, March 2, 2026, that it would be closed on Tuesday, March 3, 2026, due to the conflict?",
+    "a": "The U.S. embassy in Lebanon."
+  },
+  {
+    "q": "Which British government official stated on Monday, March 2, 2026, that the UK government was considering arranging evacuations for citizens in the region?",
+    "a": "British Foreign Secretary Yvette Cooper."
+  },
+  {
+    "q": "What duration did President Donald Trump state on Monday, March 2, 2026, that his administration expected the conflict with Iran to last?",
+    "a": "Four to five weeks."
+  },
+  {
+    "q": "Where were the six U.S. service members killed in action on Monday, March 2, 2026, stationed according to a U.S. official?",
+    "a": "They were ground-based forces stationed in Kuwait."
+  },
+  {
+    "q": "What condition did U.S. Central Command (CENTCOM) report on Monday, March 2, 2026, regarding the six crew members ejected from the crashed F-15E jets in Kuwait?",
+    "a": "They were safely recovered and in stable condition."
+  },
+  {
+    "q": "Which U.S. official stated on Monday, March 2, 2026, that the attacks on Iran were necessary because the country was weakened and preemptive action was needed to avoid higher casualties?",
+    "a": "Secretary of State Marco Rubio."
+  },
+  {
+    "q": "What reason did Iranian Foreign Minister Abbas Araghchi give on Monday, March 2, 2026, for the breakdown of negotiations with the United States?",
+    "a": "He stated that President Trump ordered the bombing of the negotiating table instead of sealing a deal."
+  },
+  {
+    "q": "Which Iranian military target did the U.S. military state it had hit on Sunday, March 1, 2026, causing the warship to sink in an Iranian port?",
+    "a": "An Iranian warship."
+  },
+  {
+    "q": "What did the Iranian Red Crescent Society report on Monday, March 2, 2026, regarding the death of Supreme Leader Ayatollah Ali Khamenei and his family?",
+    "a": "They reported that at least 555 Iranians had been killed since the beginning of the campaign, including Khamenei and members of his family."
+  }
+]

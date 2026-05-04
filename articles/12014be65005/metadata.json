@@ -1,0 +1,47 @@
+{
+  "hash": "12014be65005",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://reuters.com/business/energy/iran-conflict-boosts-us-gulf-oil-prices-highest-since-2020-2026-03-06/",
+      "title": "Iran conflict boosts US Gulf oil prices to highest since 2020 | Reuters",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Siddharth Cavale",
+      "num_tokens": 414,
+      "text_length": 2016
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1467765",
+      "spike_id": 5,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $110 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.265,
+      "spike_timestamp_before": "2026-03-05T15:30:28+00:00",
+      "spike_timestamp_after": "2026-03-06T15:00:51+00:00"
+    },
+    {
+      "market_id": "1467765",
+      "spike_id": 6,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $110 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.335,
+      "spike_timestamp_before": "2026-03-05T22:30:33+00:00",
+      "spike_timestamp_after": "2026-03-06T20:00:29+00:00"
+    },
+    {
+      "market_id": "1467765",
+      "spike_id": 9,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $110 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.16500000000000004,
+      "spike_timestamp_before": "2026-03-07T13:00:31+00:00",
+      "spike_timestamp_after": "2026-03-07T21:00:38+00:00"
+    }
+  ]
+}

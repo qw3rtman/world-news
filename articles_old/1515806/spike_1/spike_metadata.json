@@ -1,0 +1,65 @@
+{
+  "spike_index": 1,
+  "direction": "up",
+  "price_before": 0.255,
+  "price_after": 0.48,
+  "delta": 0.22499999999999998,
+  "abs_delta": 0.22499999999999998,
+  "timestamp_before": "2026-03-07T18:30:33+00:00",
+  "timestamp_after": "2026-03-08T10:00:30+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "http://mainichi.jp/english/articles/20260309/p2g/00m/0bu/025000c",
+      "file": "3a3527375c5b.txt",
+      "title": "Crude oil briefly tops $111 on Middle East risks, highest since July 2022 - The Mainichi",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "text_length": 1273,
+      "status": "ok",
+      "num_tokens": 255
+    },
+    {
+      "url": "https://www.npr.org/2026/03/09/nx-s1-5739275/energy-analyst-discusses-how-high-iran-war-could-drive-oil-prices",
+      "file": "0ecf1ff63995.txt",
+      "title": "Energy analyst discusses how high Iran war could drive oil prices : NPR",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "Michel Martin",
+      "text_length": 6156,
+      "status": "ok",
+      "num_tokens": 1372
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/goldman-sachs-warns-oil-may-surge-above-100bbl-if-hormuz-flows-dont-recover-2026-03-06/",
+      "file": "cd3e767a5496.txt",
+      "title": "Goldman Sachs warns oil may surge above $100/bbl if Hormuz flows don\u2019t recover | Reuters",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": null,
+      "text_length": 1841,
+      "status": "ok",
+      "num_tokens": 409
+    },
+    {
+      "url": "http://us.cnn.com/2026/03/08/business/oil-prices-war-iran-trump",
+      "file": "fbb25f6feb4b.txt",
+      "title": "Oil prices soar past $100 a barrel as war escalates in Iran | CNN Business",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": "Auzinea Bacon, David Goldman",
+      "text_length": 4755,
+      "status": "ok",
+      "num_tokens": 1038
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html",
+      "file": "53a19a2cebdb.txt",
+      "title": "Oil prices fall as Trump weighs taking over Strait of Hormuz",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": "Spencer Kimball",
+      "text_length": 4478,
+      "status": "ok",
+      "num_tokens": 934
+    }
+  ],
+  "total_tokens": 4008
+}

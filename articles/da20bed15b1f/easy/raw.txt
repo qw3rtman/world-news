@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2026, what record volume of oil reserves did the International Energy Agency announce would begin flowing to the market to combat price spikes from the U.S.-Israeli war against Iran?",
+    "a": "More than 400 million barrels."
+  },
+  {
+    "q": "As of March 2026, by what percentage had Brent and U.S. West Texas Intermediate crude futures surged since the start of the month due to the conflict involving the United States, Israel, and Iran?",
+    "a": "More than 40%."
+  },
+  {
+    "q": "Which strategic maritime chokepoint, responsible for a fifth of global oil supply, did Iran halt shipping through in response to U.S.-Israeli attacks in March 2026?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "In late March 2026, which two regions' oil reserves were scheduled to be released by the International Energy Agency at the end of the month, following immediate releases from Asia Oceania?",
+    "a": "Europe and the Americas."
+  },
+  {
+    "q": "Which U.S. President planned to announce a coalition to escort ships through the Strait of Hormuz in March 2026, as reported by the Wall Street Journal?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "After U.S. strikes on military targets on Kharg Island in March 2026, which Iranian oil export hub did U.S. President Donald Trump threaten to strike again?",
+    "a": "Kharg Island."
+  },
+  {
+    "q": "Which United Arab Emirates oil terminal was hit by Iranian drones shortly after the March 2026 U.S.-Israeli attacks on Iran's Kharg Island?",
+    "a": "The Fujairah oil terminal."
+  },
+  {
+    "q": "Which JP Morgan analyst described the Iranian drone attack on the Fujairah oil terminal in March 2026 as an escalation in the conflict?",
+    "a": "Natasha Kaneva."
+  },
+  {
+    "q": "Besides the Fujairah terminal in the United Arab Emirates, which two Saudi Arabian energy facilities did JPMorgan analysts list as critical and highly vulnerable in March 2026?",
+    "a": "The Ras Tanura export terminal and the Abqaiq oil processing facilities."
+  },
+  {
+    "q": "In March 2026, what was the approximate daily output volume of the UAE's flagship Murban crude oil exported through the Fujairah terminal?",
+    "a": "About 1 million barrels per day."
+  },
+  {
+    "q": "According to the International Energy Agency in March 2026, by how many million barrels per day was global oil supply expected to fall due to shipping disruptions and production cuts by Middle Eastern producers?",
+    "a": "18 million barrels per day (8 million from shipping disruptions and 10 million from production cuts)."
+  },
+  {
+    "q": "Which U.S. Energy Secretary stated in March 2026 that he expected the war with Iran to end within the next few weeks?",
+    "a": "U.S. Energy Secretary Chris Wright."
+  },
+  {
+    "q": "In March 2026, which Middle Eastern allies did the Trump administration rebuff regarding efforts to start diplomatic negotiations, according to sources familiar with the efforts?",
+    "a": "Middle Eastern allies."
+  },
+  {
+    "q": "What condition did Iran state in March 2026 before it would consider any ceasefire in the conflict with the United States and Israel?",
+    "a": "U.S. and Israeli strikes must end."
+  },
+  {
+    "q": "In March 2026, which country's flagship Murban crude oil accounts for about 1% of world demand via the Fujairah terminal?",
+    "a": "The United Arab Emirates."
+  },
+  {
+    "q": "Which two nations were conducting war against Iran in March 2026, entering a third week of conflict that threatened oil infrastructure?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "As of March 2026, to what highest levels since which year had Brent and U.S. West Texas Intermediate crude futures surged?",
+    "a": "Their highest levels since 2022."
+  },
+  {
+    "q": "Which organization reported in March 2026 that stocks from Asia Oceania would be released immediately while those from Europe and the Americas would be available at the end of March?",
+    "a": "The International Energy Agency."
+  },
+  {
+    "q": "In March 2026, which specific Iranian island, known as an oil export hub, was hit by U.S. military targets, prompting threats of further strikes from President Donald Trump?",
+    "a": "Kharg Island."
+  },
+  {
+    "q": "Which industry source told Reuters in March 2026 that oil loading operations had resumed at the Fujairah terminal?",
+    "a": "A Fujairah-based industry source."
+  },
+  {
+    "q": "According to U.S. Energy Secretary Chris Wright in March 2026, what two outcomes were expected after the war with Iran ended?",
+    "a": "Oil supplies would rebound and energy costs would decline."
+  },
+  {
+    "q": "In March 2026, which strategic gateway did U.S. President Donald Trump urge allies to deploy warships to help secure?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "Which two countries' forces entered a third week of war against Iran in March 2026, causing the Strait of Hormuz to be shut?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "In March 2026, which Iranian facility, a key oil export hub, was targeted by U.S. military strikes, leading to a defiant response from Tehran?",
+    "a": "Kharg Island."
+  },
+  {
+    "q": "Which analyst from JP Morgan identified the Ras Tanura export terminal and Abqaiq oil processing facilities as critical and highly vulnerable energy facilities in the Gulf in March 2026?",
+    "a": "JP Morgan analysts."
+  }
+]

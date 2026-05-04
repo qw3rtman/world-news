@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2026, which Swedish private equity firm was exploring a potential sale of the open-source software company SUSE for up to $6 billion?",
+    "a": "EQT AB"
+  },
+  {
+    "q": "Which investment bank did EQT AB hire in early 2026 to sound out private equity investors regarding a possible sale of SUSE?",
+    "a": "Arma Partners"
+  },
+  {
+    "q": "What was the valuation of SUSE when EQT AB took the company private in 2023?",
+    "a": "2.72 billion euros ($2.96 billion)"
+  },
+  {
+    "q": "According to sources in March 2026, what revenue figure does SUSE generate annually?",
+    "a": "About $800 million"
+  },
+  {
+    "q": "What is the approximate EBITDA figure for SUSE, as reported by sources in March 2026?",
+    "a": "More than $250 million"
+  },
+  {
+    "q": "What does the German acronym SUSE stand for?",
+    "a": "Software und System-Entwicklung"
+  },
+  {
+    "q": "In what year were Roland Dyroff, Thomas Fehr, Hubert Mantel, and Burchard Steinbild founded SUSE?",
+    "a": "1992"
+  },
+  {
+    "q": "What distinction does SUSE hold in the history of enterprise Linux distributions?",
+    "a": "It is the world’s first provider of an enterprise Linux distribution"
+  },
+  {
+    "q": "Which three major corporations are listed as customers of SUSE on its website?",
+    "a": "Walmart, Deutsche Bank, and Intel"
+  },
+  {
+    "q": "What percentage of Fortune 500 companies rely on SUSE to power some of their workloads, according to the company?",
+    "a": "More than 60%"
+  },
+  {
+    "q": "In which country is SUSE headquartered?",
+    "a": "Luxembourg"
+  },
+  {
+    "q": "What broader market trend in early 2026 disrupted mergers and acquisitions activity, affecting the potential SUSE sale?",
+    "a": "A selloff in software stocks"
+  },
+  {
+    "q": "What technology concern is weighing on technology valuations and making deals harder to price in early 2026?",
+    "a": "New artificial intelligence tools displacing existing software products"
+  },
+  {
+    "q": "Why do some investors view SUSE as a potential beneficiary of AI adoption in 2026?",
+    "a": "Demand for enterprise-grade infrastructure software is likely to grow as companies build and deploy more AI applications"
+  },
+  {
+    "q": "What range of sale prices for SUSE was indicated by sources in March 2026?",
+    "a": "Between $4 billion and $6 billion"
+  },
+  {
+    "q": "How much did EQT AB pay to take SUSE private in 2023 in U.S. dollars?",
+    "a": "$2.96 billion"
+  },
+  {
+    "q": "What type of software products does SUSE provide to help businesses run applications on cloud servers and mainframe computers?",
+    "a": "Open-source products"
+  },
+  {
+    "q": "Which specific types of computing environments does SUSE help businesses run applications on, besides cloud servers and mainframes?",
+    "a": "Devices at the edges of networks"
+  },
+  {
+    "q": "Did EQT AB provide a comment to Reuters regarding the potential sale of SUSE in March 2026?",
+    "a": "No, EQT declined to comment"
+  },
+  {
+    "q": "Did Arma Partners respond to Reuters' requests for comment regarding the SUSE sale talks in March 2026?",
+    "a": "No, it did not immediately respond"
+  },
+  {
+    "q": "Did SUSE respond to Reuters' requests for comment regarding the potential sale in March 2026?",
+    "a": "No, it did not immediately respond"
+  },
+  {
+    "q": "What is the approximate euro equivalent of the $6 billion potential valuation for SUSE mentioned in March 2026?",
+    "a": "5.1 billion euros"
+  },
+  {
+    "q": "How many years did it take for the potential $6 billion valuation of SUSE to roughly double its 2023 private valuation?",
+    "a": "About two and a half years"
+  },
+  {
+    "q": "Who are the four founders of SUSE, including the engineer and three students?",
+    "a": "Roland Dyroff, Thomas Fehr, Hubert Mantel, and Burchard Steinbild"
+  },
+  {
+    "q": "What is the primary business focus of SUSE as described in the March 2026 article?",
+    "a": "Enterprise software and open-source products"
+  }
+]

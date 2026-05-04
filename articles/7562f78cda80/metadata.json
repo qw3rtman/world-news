@@ -1,0 +1,37 @@
+{
+  "hash": "7562f78cda80",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.pbs.org/newshour/world/a-timeline-of-tensions-over-irans-nuclear-program-as-talks-with-u-s-approach",
+      "title": "A timeline of tensions over Iran's nuclear program as talks with U.S. approach | PBS News",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 2701,
+      "text_length": 11708
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1422362",
+      "spike_id": 1,
+      "market_question": "Will the US strike Yemen next?",
+      "event_title": "Next Country US Strikes",
+      "spike_direction": "down",
+      "spike_delta": -0.225,
+      "spike_timestamp_before": "2026-02-24T01:30:23+00:00",
+      "spike_timestamp_after": "2026-02-24T09:30:22+00:00"
+    },
+    {
+      "market_id": "1422362",
+      "spike_id": 2,
+      "market_question": "Will the US strike Yemen next?",
+      "event_title": "Next Country US Strikes",
+      "spike_direction": "down",
+      "spike_delta": -0.2645,
+      "spike_timestamp_before": "2026-02-24T01:30:23+00:00",
+      "spike_timestamp_after": "2026-02-24T13:00:26+00:00"
+    }
+  ]
+}

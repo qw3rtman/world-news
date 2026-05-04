@@ -1,0 +1,27 @@
+{
+  "hash": "fbbf3fa49887",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/business/retail-consumer/amazons-50-billion-openai-investment-may-depend-ipo-or-agi-milestone-information-2026-02-26/",
+      "title": "Amazon's $50 billion OpenAI investment may depend on IPO or AGI, The Information reports | Reuters",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 294,
+      "text_length": 1511
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694940",
+      "spike_id": 7,
+      "market_question": "Will GitLab be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.365,
+      "spike_timestamp_before": "2026-02-28T00:00:27+00:00",
+      "spike_timestamp_after": "2026-02-28T19:00:25+00:00"
+    }
+  ]
+}

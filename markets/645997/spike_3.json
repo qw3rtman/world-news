@@ -1,0 +1,65 @@
+{
+  "spike_index": 3,
+  "direction": "down",
+  "price_before": 0.305,
+  "price_after": 0.045,
+  "delta": -0.26,
+  "abs_delta": 0.26,
+  "timestamp_before": "2026-03-15T20:00:40+00:00",
+  "timestamp_after": "2026-03-16T08:00:33+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://france24.com/en/france/20260315-left-wing-candidate-emmanuel-gregoire-tops-first-round-paris-mayoral-race-rachida-dati",
+      "file": "633d14efceb8.txt",
+      "title": "Socialist leads Paris mayoral race but leftist rival threatens to split vote - France 24",
+      "published_date": "2026-03-15T00:00:00.000Z",
+      "author": null,
+      "text_length": 3776,
+      "status": "ok",
+      "num_tokens": 829
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-15/socialists-lead-paris-election-ahead-of-runoff-with-center-right",
+      "file": "1b9c5022c099.txt",
+      "title": "Socialists Lead Paris Mayoral Race, Gregoire Tops First Round Vote - Bloomberg",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "Ania Nussbaum",
+      "text_length": 297,
+      "status": "ok",
+      "num_tokens": 61
+    },
+    {
+      "url": "https://www.france24.com/fr/info-en-continu/20260315-municipales-%C3%A0-paris-gr%C3%A9goire-en-t%C3%AAte-dati-largement-distanc%C3%A9e",
+      "file": "cfc42500697c.txt",
+      "title": "Municipales \u00e0 Paris: quinquangulaire en vue, Gr\u00e9goire finit largement devant",
+      "published_date": "2026-03-15T00:00:00.000Z",
+      "author": null,
+      "text_length": 4498,
+      "status": "ok",
+      "num_tokens": 1310
+    },
+    {
+      "url": "https://www.barrons.com/articles/left-leads-in-paris-far-right-eyes-gains-in-france-local-polls-projections-d3aac70a?gaa_at=eafs&gaa_n=AWEtsqf3LBB_YHQCTLwdRMuOGnqB_tfoBHUTJ2uUfQthnFN0N40mhR9NrYUg&gaa_sig=86XG2gL9MnIBj_Gh_xCtnTR7EEKPZKpYAmB7jZ2xc6EGk3fp5ypmToMrTRWJhx4p2ZMHen6a2O-PaT5ksvh3AA%3D%3D&gaa_ts=69b7b551",
+      "file": "b2c22102ba3d.txt",
+      "title": "Left Leads In Paris, Far Right Eyes Gains In France Local Polls: Projections<!-- --> - Barron's",
+      "published_date": "2026-03-15T00:00:00.000Z",
+      "author": "Alice Hackman and Anna Smolchenko with AFP bureaus",
+      "text_length": 605,
+      "status": "ok",
+      "num_tokens": 134
+    },
+    {
+      "url": "https://www.france24.com/en/live-news/20260316-race-for-paris-mayor-on-knife-s-edge-after-first-round",
+      "file": "ebd30e88020b.txt",
+      "title": "Race for Paris mayor on knife's edge after first round",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": null,
+      "text_length": 4107,
+      "status": "ok",
+      "num_tokens": 909
+    }
+  ],
+  "total_tokens": 3243
+}

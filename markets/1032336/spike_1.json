@@ -1,0 +1,65 @@
+{
+  "spike_index": 1,
+  "direction": "up",
+  "price_before": 0.3345,
+  "price_after": 0.5645,
+  "delta": 0.22999999999999998,
+  "abs_delta": 0.22999999999999998,
+  "timestamp_before": "2026-02-23T23:00:30+00:00",
+  "timestamp_after": "2026-02-24T13:00:31+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.thehindu.com/business/markets/silver-futures-rise-5-to-265-lakh-per-kg-amid-global-tariff-tensions/article70665972.ece",
+      "file": "107b9ce8892a.txt",
+      "title": "Silver futures rise 5% to \u20b92.65 lakh per kg - The Hindu",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "PTI",
+      "text_length": 1332,
+      "status": "ok",
+      "num_tokens": 308
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business-india-business-gold-rate-today-silver-price-live-updates-22-carat-24k-gold-rate-silver-per-kg-mcx-comex-etf-precious-metal-february-city-wise-cost-latest-news/liveblog/128697566.cms",
+      "file": "4f711d8b323f.txt",
+      "title": "Gold, Silver Rate Today Live Updates: Gold, silver prices down after seeing biggest rise in 3 weeks  - The Times of India",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": null,
+      "text_length": 22155,
+      "status": "ok",
+      "num_tokens": 4784
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-02-23/gold-rises-for-fifth-day-on-us-tariff-uncertainty-iran-tension?fromMostRead=true&srnd=2026-01-30%2Flive-q-amp-a-what-s-next-for-metals-as-new-fed-era-takes-shape",
+      "file": "dc51a55f4599.txt",
+      "title": "Gold Rises for Fifth Day on US Tariff Uncertainty, Iran Tension - Bloomberg",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "Yihui Xie",
+      "text_length": 452,
+      "status": "ok",
+      "num_tokens": 90
+    },
+    {
+      "url": "http://www.fortune.com/article/current-price-of-silver-2-24-2026/",
+      "file": "6dbc86773823.txt",
+      "title": "Current price of silver as of Tuesday, February 24, 2026 | Fortune",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": "Joseph Hostetler",
+      "text_length": 425,
+      "status": "ok",
+      "num_tokens": 121
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-where-are-gold-rates-headed-on-february-24-2026-and-in-the-near-term-mcx-gold-silver-prices/articleshow/128741684.cms",
+      "file": "9f1eb66ef340.txt",
+      "title": "Gold price prediction today: Will gold prices continue their uptrend? - The Times of India",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /   Feb 24, 2026, 11:21 IST",
+      "text_length": 5794,
+      "status": "ok",
+      "num_tokens": 1415
+    }
+  ],
+  "total_tokens": 6718
+}

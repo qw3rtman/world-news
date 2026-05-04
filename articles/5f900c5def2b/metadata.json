@@ -1,0 +1,37 @@
+{
+  "hash": "5f900c5def2b",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/02/27/gold-heads-for-seventh-straight-monthly-gain-on-safe-haven-demand.html",
+      "title": "Gold nears one-month high, set for seventh straight monthly rise",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 514,
+      "text_length": 2229
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1032272",
+      "spike_id": 3,
+      "market_question": "Will Gold (GC) hit (HIGH) $5,500 by end of June?",
+      "event_title": "What will Gold (GC) hit__ by end of June?",
+      "spike_direction": "up",
+      "spike_delta": 0.21550000000000002,
+      "spike_timestamp_before": "2026-02-27T10:30:24+00:00",
+      "spike_timestamp_after": "2026-02-28T10:00:29+00:00"
+    },
+    {
+      "market_id": "1032272",
+      "spike_id": 4,
+      "market_question": "Will Gold (GC) hit (HIGH) $5,500 by end of June?",
+      "event_title": "What will Gold (GC) hit__ by end of June?",
+      "spike_direction": "up",
+      "spike_delta": 0.21899999999999997,
+      "spike_timestamp_before": "2026-02-27T13:30:21+00:00",
+      "spike_timestamp_after": "2026-02-28T13:00:27+00:00"
+    }
+  ]
+}

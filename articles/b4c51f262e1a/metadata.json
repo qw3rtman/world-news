@@ -1,0 +1,27 @@
+{
+  "hash": "b4c51f262e1a",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.usatoday.com/story/news/nation/2026/02/28/trump-stance-ending-daylight-saving-time/88859552007/",
+      "title": "Is Trump ending daylight saving time? See his stance on the issue.",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 945,
+      "text_length": 4259
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "666860",
+      "spike_id": 2,
+      "market_question": "Trump out as President by March 31?",
+      "event_title": "Trump out as President by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.26999999999999996,
+      "spike_timestamp_before": "2026-02-28T08:30:59+00:00",
+      "spike_timestamp_after": "2026-02-28T13:00:36+00:00"
+    }
+  ]
+}

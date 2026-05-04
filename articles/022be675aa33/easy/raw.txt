@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In February 2026, what specific military action did U.S. President Donald Trump order against Iran, and what was his stated primary justification for this decision?",
+    "a": "He ordered military strikes on Iran's nuclear program, stating that Iranian officials had rejected every opportunity to renounce their nuclear ambitions."
+  },
+  {
+    "q": "According to International Atomic Energy Agency estimates cited in February 2026, how many pounds of 60%-enriched uranium did Iran possess as of mid-June 2025, and how does this compare to the amount held in February 2025?",
+    "a": "Iran possessed 972 pounds in mid-June 2025, compared to 605.8 pounds in February 2025."
+  },
+  {
+    "q": "What did the U.S. Defense Intelligence Agency estimate in May 2025 regarding the time required for Iran to produce enough weapons-grade uranium for its first bomb if it decided to do so?",
+    "a": "The agency estimated it would take Iran probably less than one week."
+  },
+  {
+    "q": "Which three specific Iranian nuclear facilities or sites were targeted by U.S. airstrikes in June 2025?",
+    "a": "The Fordo and Natanz enrichment facilities and a research site near the city of Isfahan."
+  },
+  {
+    "q": "What was the position of U.N. International Atomic Energy Agency Director-General Rafael Grossi in February 2026 regarding whether Iran was currently working to develop a nuclear weapon?",
+    "a": "He stated that the agency had not seen any indication that Iran was currently working to develop a nuclear weapon."
+  },
+  {
+    "q": "According to U.S. Secretary of State Marco Rubio in February 2026, what was the status of Iran's uranium enrichment activities at that time?",
+    "a": "Iran was not currently enriching uranium, though Rubio alleged they were trying to reach a point where they ultimately could."
+  },
+  {
+    "q": "In 2015, which U.S. President's administration struck the Joint Comprehensive Plan of Action (JCPOA) with Iran and other global powers?",
+    "a": "Then-President Barack Obama's administration."
+  },
+  {
+    "q": "What action did U.S. President Donald Trump take regarding the JCPOA three years after its 2015 signing, and what campaign did he subsequently impose on Iran?",
+    "a": "He withdrew the U.S. unilaterally from the deal and imposed a \"maximum pressure\" campaign of harsh sanctions."
+  },
+  {
+    "q": "What percentage of purity did Iran achieve in its uranium enrichment for the first time after the U.S. withdrawal from the JCPOA, as noted in February 2026?",
+    "a": "60% purity."
+  },
+  {
+    "q": "How did Iranian Foreign Minister Abbas Araghchi describe Iran's nuclear enrichment program in a February 2026 interview with CBS News?",
+    "a": "He described it as a \"matter of dignity and pride\" and a sovereign right."
+  },
+  {
+    "q": "According to a confidential IAEA report confirmed by CBS News in February 2026, what activity was Iran conducting at nuclear sites that had been bombed by the U.S.?",
+    "a": "Iran was conducting unexplained activity at those sites."
+  },
+  {
+    "q": "What did satellite images from late January 2026 show regarding the Natanz and Isfahan nuclear sites, potentially indicating Iran's post-strike efforts?",
+    "a": "They showed roofs built over damaged buildings, potentially indicating efforts to salvage remaining materials."
+  },
+  {
+    "q": "What was the assessment of the U.S. intelligence community in the spring of 2025 regarding whether Iran had restarted its nuclear weapons program after halting it in 2003?",
+    "a": "The assessment was that the program had not restarted."
+  },
+  {
+    "q": "How much 60%-enriched uranium is required, according to U.N. watchdog metrics, to build a single nuclear weapon if enriched further?",
+    "a": "About 92.5 pounds."
+  },
+  {
+    "q": "What range of time did a U.S. intelligence summary from last year (prior to 2026) find that Iran could make a nuclear device, assuming no technical or logistical delays?",
+    "a": "Three to eight months."
+  },
+  {
+    "q": "What did Iranian Foreign Minister Abbas Araghchi tell Fox News in January 2026 regarding the impact of the U.S. strikes on Iran's technological capabilities?",
+    "a": "He argued that while facilities and machines were destroyed, the technology and determination could not be bombed."
+  },
+  {
+    "q": "What did U.S. President Donald Trump claim in February 2026 about the impact of the June 2025 strikes on Iran's nuclear program?",
+    "a": "He claimed the strikes \"obliterated\" the sites and set back the program by \"basically decades.\""
+  },
+  {
+    "q": "What did IAEA Director-General Rafael Grossi tell CBS News in June 2025 regarding the extent of damage caused by the U.S. strikes on Iran's nuclear program?",
+    "a": "He said the strikes caused \"severe damage\" but not \"total damage.\""
+  },
+  {
+    "q": "What action did Iran take regarding cooperation with the IAEA in the month following the June 2025 U.S. strikes?",
+    "a": "Iran moved to suspend cooperation with the agency."
+  },
+  {
+    "q": "Why did the IAEA withdraw its inspectors from Iran shortly after the June 2025 strikes, and what limitation did the agency face in November 2025 regarding inspections?",
+    "a": "The IAEA withdrew inspectors for safety reasons, and in November 2025, it could conduct inspections but not at any of the sites struck by U.S. forces."
+  },
+  {
+    "q": "What did U.S. President Donald Trump say on February 27, 2026, regarding Iran's need for uranium enrichment given its oil resources?",
+    "a": "He said, \"They want to enrich a little bit. You don't have to enrich when you have that much oil,\" and stated, \"I say, no enrichment.\""
+  },
+  {
+    "q": "Which country is described by the IAEA as \"the only non-nuclear-weapon State to produce\" uranium enriched far beyond levels needed for non-military uses?",
+    "a": "Iran."
+  },
+  {
+    "q": "When did Iran allegedly begin developing or acquiring technology to build centrifuges for uranium enrichment, according to the IAEA?",
+    "a": "By the mid-1980s."
+  },
+  {
+    "q": "What did the IAEA state in 2025 about Iran's status regarding the production of highly enriched nuclear material?",
+    "a": "Iran is \"the only non-nuclear-weapon State to produce such nuclear material.\""
+  },
+  {
+    "q": "What did U.S. President Donald Trump say in a video announcement in February 2026 about his attempts to negotiate with Iran prior to ordering strikes?",
+    "a": "He said he had \"sought repeatedly to make a deal,\" but Iranian officials \"rejected every opportunity to renounce their nuclear ambitions.\""
+  }
+]

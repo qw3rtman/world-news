@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the election held in early March 2026 reported by Iranian state media, which body selected Mojtaba Khamenei as the new Supreme Leader of Iran, and how many members did this body comprise?",
+    "a": "A body of 88 Iranian clerics."
+  },
+  {
+    "q": "On what specific date in February 2026 did the United States confirm it killed former Supreme Leader Ayatollah Ali Khamenei, and what was the method of his death?",
+    "a": "The United States confirmed the killing occurred on February 28, 2026, via an airstrike."
+  },
+  {
+    "q": "According to a 2019 U.S. sanction, why was Mojtaba Khamenei targeted despite never holding an elected or appointed government position?",
+    "a": "He was sanctioned for taking on significant ruling authority."
+  },
+  {
+    "q": "Why does CNN report that father-to-son succession in the Iranian clerical establishment is frowned upon, specifically referencing historical events?",
+    "a": "It mirrors the hereditary monarchy that the Shiite Muslim clerical establishment overthrew in 1979."
+  },
+  {
+    "q": "What conflicting objectives did U.S. President Donald Trump state regarding the war with Iran that began in late February 2026?",
+    "a": "He pushed for regime change but also stated the U.S. wanted to eliminate Iran’s military threat."
+  },
+  {
+    "q": "What three specific conditions did U.S. President Donald Trump signal would be required for the Iranian regime to remain in power?",
+    "a": "No uranium enrichment for nuclear weapons, an end to the ballistic missile program, and an end to supporting terrorist proxies."
+  },
+  {
+    "q": "Which four entities or sectors fall under the constitutional authority of Iran’s Supreme Leader as described in the article?",
+    "a": "The judiciary, the regular armed forces, the Islamic Revolutionary Guard Corps (IRGC), and state-controlled media."
+  },
+  {
+    "q": "Who is Ali Larijani, and what unusual role did he assume in the weeks leading up to the March 2026 leadership transition?",
+    "a": "He is the secretary of Iran’s Supreme National Security Council, and he was granted extraordinary freedom to run the country."
+  },
+  {
+    "q": "According to the U.S. Treasury Department, which two Iranian military or paramilitary groups did Mojtaba Khamenei work closely with to advance his father's ambitions?",
+    "a": "The Islamic Revolutionary Guard Corps (IRGC) and the Basij Resistance Force."
+  },
+  {
+    "q": "During the popular protests between December 2025 and January 2026, approximately how many people were killed in a violent crackdown involving the IRGC and Basij forces?",
+    "a": "Approximately 7,000 people."
+  },
+  {
+    "q": "How does the nonprofit organization United Against Nuclear Iran (UANI) describe Mojtaba Khamenei's functional role within the Iranian system?",
+    "a": "As a combination of aide-de-camp, confidant, gatekeeper, and power broker."
+  },
+  {
+    "q": "In which military unit did Mojtaba Khamenei serve during the Iran-Iraq War, and how did this service facilitate his future influence?",
+    "a": "He served in the Habib battalion, which facilitated relationships with future leading figures in the IRGC."
+  },
+  {
+    "q": "In what year was Mojtaba Khamenei's father, Ali Khamenei, elected supreme leader, and how long did his tenure last?",
+    "a": "Ali Khamenei was elected in 1989, serving for more than three decades."
+  },
+  {
+    "q": "Who is Mojtaba Khamenei married to, and what political position did her father previously hold?",
+    "a": "He is married to the daughter of Gholam Ali Haddad-Adel, the former Speaker of Parliament."
+  },
+  {
+    "q": "What is Mojtaba Khamenei's age as of the March 2026 election, and what is his birth order among his father's sons?",
+    "a": "He is 56 years old and is the second son of the former leader."
+  },
+  {
+    "q": "What was the age of the late Supreme Leader Ayatollah Ali Khamenei at the time of his death in February 2026?",
+    "a": "He was 86 years old."
+  },
+  {
+    "q": "Which U.S. administration official stated that the U.S. does not intend to hold diplomatic talks with Iran until the military operation concludes?",
+    "a": "U.S. officials."
+  },
+  {
+    "q": "What specific domestic objective did the U.S. Treasury Department allege Mojtaba Khamenei helped advance through his work with the IRGC and Basij?",
+    "a": "Oppressive domestic objectives."
+  },
+  {
+    "q": "According to UANI, what early life experience influenced Mojtaba Khamenei's worldview regarding his father's revolutionary preaching?",
+    "a": "He experienced his father being forced into exile for years."
+  },
+  {
+    "q": "What political milestone did Mojtaba Khamenei witness when his father returned to Iran in 1979?",
+    "a": "He witnessed his father return to a postrevolution Iran and rise through the political ranks."
+  },
+  {
+    "q": "What educational policy did Mojtaba Khamenei's father implement that benefited families of regime elites?",
+    "a": "He allowed access to education for families of regime elites."
+  },
+  {
+    "q": "Which organization described Mojtaba Khamenei as an \"enigmatic but powerful figure\" in its assessment of the Iranian system?",
+    "a": "United Against Nuclear Iran (UANI)."
+  },
+  {
+    "q": "What is the primary military task of the Islamic Revolutionary Guard Corps (IRGC) as defined in the article?",
+    "a": "To protect the supreme leader."
+  },
+  {
+    "q": "What is the stated responsibility of Iran’s clerical system regarding activities outside Iran’s borders?",
+    "a": "Exporting the Islamic Revolution, supporting terrorist proxy groups, and carrying out attacks around the world."
+  },
+  {
+    "q": "Who is identified as the most powerful of Iran’s supreme leader’s sons according to the United Against Nuclear Iran (UANI)?",
+    "a": "Mojtaba Khamenei."
+  }
+]

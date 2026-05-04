@@ -1,0 +1,47 @@
+{
+  "hash": "74ec52ee95f4",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/video/2026/02/27/david-roche.html",
+      "title": "Iran regime could be gone in a year: Quantum Strategy's David Roche",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 67,
+      "text_length": 317
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "663583",
+      "spike_id": 1,
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "event_title": "Will the Iranian regime fall before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.16000000000000003,
+      "spike_timestamp_before": "2026-02-27T07:30:40+00:00",
+      "spike_timestamp_after": "2026-02-28T07:00:40+00:00"
+    },
+    {
+      "market_id": "663583",
+      "spike_id": 2,
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "event_title": "Will the Iranian regime fall before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.21499999999999997,
+      "spike_timestamp_before": "2026-02-27T10:00:37+00:00",
+      "spike_timestamp_after": "2026-02-28T09:30:39+00:00"
+    },
+    {
+      "market_id": "663583",
+      "spike_id": 3,
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "event_title": "Will the Iranian regime fall before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.25,
+      "spike_timestamp_before": "2026-02-27T23:00:46+00:00",
+      "spike_timestamp_after": "2026-02-28T22:30:36+00:00"
+    }
+  ]
+}

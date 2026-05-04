@@ -1,0 +1,37 @@
+{
+  "hash": "04bc356f17a2",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://www.abc.net.au/news/2026-02-28/iran-israel-explosion-tehran/106400716",
+      "title": "Trump says US has launched 'major operation' against Iran, with Israel calling 'pre-emptive' attack a joint effort - ABC News",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1414,
+      "text_length": 7336
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1198451",
+      "spike_id": 2,
+      "market_question": "Israel strikes Iran by February 28, 2026?",
+      "event_title": "Israel strikes Iran by February 28, 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.195,
+      "spike_timestamp_before": "2026-02-27T10:00:20+00:00",
+      "spike_timestamp_after": "2026-02-28T00:30:23+00:00"
+    },
+    {
+      "market_id": "1198451",
+      "spike_id": 3,
+      "market_question": "Israel strikes Iran by February 28, 2026?",
+      "event_title": "Israel strikes Iran by February 28, 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.9395,
+      "spike_timestamp_before": "2026-02-27T10:00:20+00:00",
+      "spike_timestamp_after": "2026-02-28T08:00:32+00:00"
+    }
+  ]
+}

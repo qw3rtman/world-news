@@ -1,0 +1,27 @@
+{
+  "hash": "9e47fb4cf6f8",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://sph.straitstimes.com/world/middle-east/hezbollah-returns-to-guerrilla-roots-awaits-israeli-invasion",
+      "title": "Hezbollah returns to guerrilla roots, awaits Israeli invasion | The Straits Times",
+      "published_date": "2026-03-10T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 906,
+      "text_length": 4428
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "677397",
+      "spike_id": 19,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.15000000000000002,
+      "spike_timestamp_before": "2026-03-09T21:00:32+00:00",
+      "spike_timestamp_after": "2026-03-10T14:00:30+00:00"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "spike_index": 2,
+  "direction": "up",
+  "price_before": 0.055,
+  "price_after": 0.465,
+  "delta": 0.41000000000000003,
+  "abs_delta": 0.41000000000000003,
+  "timestamp_before": "2026-03-01T07:00:24+00:00",
+  "timestamp_after": "2026-03-01T22:30:25+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.thetimes.com/uk/politics/article/cyprus-iran-missiles-john-healey-uk-3zgpvvllr",
+      "file": "800757d0b376.txt",
+      "title": "John Healey warns Iran is \u2018lashing out\u2019 as missiles fire at Cyprus",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Larisa Brown, Defence Editor",
+      "text_length": 4101,
+      "status": "ok",
+      "num_tokens": 897
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-stikes-on-iran-tehran-fired-missiles-towards-uk-bases-in-cyprus-says-defence-secretary/articleshow/128913012.cms",
+      "file": "b035a8ab944a.txt",
+      "title": "US-Israel stikes on Iran: Tehran fired missiles towards UK bases in Cyprus, says defence secretary - The Times of India",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "TOI World Desk  / TIMESOFINDIA.COM /  Updated: Mar 01, 2026, 16:19 IST",
+      "text_length": 3077,
+      "status": "ok",
+      "num_tokens": 629
+    },
+    {
+      "url": "https://al-monitor.com/originals/2026/03/uk-planning-send-warship-defend-cyprus-military-base-times-newspaper-says",
+      "file": "e7a8cde1dba6.txt",
+      "title": "UK planning to send warship to defend Cyprus military base, Times newspaper says - AL-Monitor: The Middle East\u02bcs leading independent news source since 2012",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 796,
+      "status": "ok",
+      "num_tokens": 166
+    },
+    {
+      "url": "https://www.iranintl.com/en/202603016756",
+      "file": "282a006283ed.txt",
+      "title": "Iranian missiles intercepted near UK base in Cyprus | Iran International",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 72,
+      "status": "ok",
+      "num_tokens": 12
+    },
+    {
+      "url": "https://www.iranintl.com/en/202603012039",
+      "file": "4670cd69c2fb.txt",
+      "title": "UK defense chief calls Iran\u2019s response \u2018indiscriminate\u2019 after missiles near Cyprus | Iran International",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 103,
+      "status": "ok",
+      "num_tokens": 19
+    }
+  ],
+  "total_tokens": 1723
+}

@@ -1,0 +1,37 @@
+{
+  "hash": "00fabf38409c",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://dev.abcnews.go.com/Politics/large-us-special-ops-force-needed-ground-seize/story?id=130935450",
+      "title": "Large US special ops force needed on ground to seize Iran's uranium, experts say - ABC News",
+      "published_date": "2026-03-10T00:00:00.000Z",
+      "author": "ABC News",
+      "num_tokens": 1197,
+      "text_length": 5793
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1162940",
+      "spike_id": 13,
+      "market_question": "US forces enter Iran by March 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "up",
+      "spike_delta": 0.17,
+      "spike_timestamp_before": "2026-03-10T17:00:23+00:00",
+      "spike_timestamp_after": "2026-03-11T06:00:32+00:00"
+    },
+    {
+      "market_id": "1394299",
+      "spike_id": 19,
+      "market_question": "US forces enter Iran by December 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.18499999999999994,
+      "spike_timestamp_before": "2026-03-10T08:30:24+00:00",
+      "spike_timestamp_after": "2026-03-10T16:00:31+00:00"
+    }
+  ]
+}

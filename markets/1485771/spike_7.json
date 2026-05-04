@@ -1,0 +1,65 @@
+{
+  "spike_index": 7,
+  "direction": "down",
+  "price_before": 0.385,
+  "price_after": 0.0065,
+  "delta": -0.3785,
+  "abs_delta": 0.3785,
+  "timestamp_before": "2026-03-04T03:30:30+00:00",
+  "timestamp_after": "2026-03-05T03:30:24+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-crisis-ayatollahs-son-mojtaba-khamenei-emerges-as-front-runner-to-succeed-slain-supreme-leader/articleshow/128997689.cms",
+      "file": "ebf36cf8dbc5.txt",
+      "title": "Mojtaba Khamenei: Iran crisis: Ayatollah\u2019s son Mojtaba Khamenei elected as successor of slain Supreme Leader - report - The Times of India",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "TOI World Desk  / TIMESOFINDIA.COM /  Updated: Mar 04, 2026, 08:17 IST",
+      "text_length": 5279,
+      "status": "ok",
+      "num_tokens": 1118
+    },
+    {
+      "url": "https://thehill.com/policy/international/5766537-mojtaba-khamenei-succession-iran/",
+      "file": "edbda9e0b5c8.txt",
+      "title": "Who is Mojtaba Khamenei, possible candidate to replace father as Iran leader?",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "text_length": 3919,
+      "status": "ok",
+      "num_tokens": 898
+    },
+    {
+      "url": "https://www.pbs.org/newshour/world/here-are-some-of-the-contenders-to-be-irans-supreme-leader-after-the-killing-of-khamenei",
+      "file": "16cd26ff40fa.txt",
+      "title": "Here are some of the contenders to be Iran's supreme leader after the killing of Khamenei | PBS News",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 3443,
+      "status": "ok",
+      "num_tokens": 741
+    },
+    {
+      "url": "https://www.nbcnews.com/world/iran/khamenei-dead-powerful-hard-line-military-corps-rcna261296",
+      "file": "3777ed061102.txt",
+      "title": "Who is set to be in charge in Iran now that Khamenei is dead? A powerful hard-line military corps",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "text_length": 5225,
+      "status": "ok",
+      "num_tokens": 1129
+    },
+    {
+      "url": "https://www.npr.org/2026/03/03/nx-s1-5732841/who-will-succeed-khamenei",
+      "file": "a57a74d4ae15.txt",
+      "title": "Who will succeed Khamenei? : NPR",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Connor Donevan",
+      "text_length": 7432,
+      "status": "ok",
+      "num_tokens": 1623
+    }
+  ],
+  "total_tokens": 5509
+}

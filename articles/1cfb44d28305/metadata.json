@@ -1,0 +1,27 @@
+{
+  "hash": "1cfb44d28305",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.scmp.com/news/us/article/3346937/trump-confirms-delay-beijing-meeting-xi-amid-iran-conflict?pgtype=live",
+      "title": "Trump confirms delay of Xi meeting in Beijing as China ‘maintains communication’ | South China Morning Post",
+      "published_date": "2026-03-17T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 288,
+      "text_length": 1397
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "604490",
+      "spike_id": 25,
+      "market_question": "Will Trump visit China by March 31?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.24150000000000002,
+      "spike_timestamp_before": "2026-03-16T17:00:26+00:00",
+      "spike_timestamp_after": "2026-03-17T16:30:31+00:00"
+    }
+  ]
+}

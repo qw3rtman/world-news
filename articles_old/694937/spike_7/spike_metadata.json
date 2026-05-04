@@ -1,0 +1,65 @@
+{
+  "spike_index": 7,
+  "direction": "up",
+  "price_before": 0.225,
+  "price_after": 0.545,
+  "delta": 0.32000000000000006,
+  "abs_delta": 0.32000000000000006,
+  "timestamp_before": "2026-02-25T23:00:18+00:00",
+  "timestamp_after": "2026-02-26T09:00:20+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://origin.www.bloomberg.com/news/articles/2026-02-24/payments-processor-stripe-expresses-interest-in-paypal?srnd=undefined",
+      "file": "38301bdd433f.txt",
+      "title": "Stripe Considers Acquisition of All or Parts of PayPal (PYPL) - Bloomberg",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": "Ryan Gould",
+      "text_length": 421,
+      "status": "ok",
+      "num_tokens": 75
+    },
+    {
+      "url": "https://uk.mobile.reuters.com/business/stripe-is-considering-acquisition-all-or-parts-paypal-bloomberg-news-reports-2026-02-24/",
+      "file": "c8de2d35d2e9.txt",
+      "title": "Stripe is considering acquisition of all or parts of PayPal, Bloomberg News reports | Reuters",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": null,
+      "text_length": 1995,
+      "status": "ok",
+      "num_tokens": 380
+    },
+    {
+      "url": "https://quote.bloomberg.com/news/articles/2026-03-03/stonepeak-bernhard-in-advanced-talks-to-buy-cleco-power?srnd=phx-latinamerica",
+      "file": "0e592abec776.txt",
+      "title": "Bloomberg Europe",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": null,
+      "text_length": 63,
+      "status": "ok",
+      "num_tokens": 13
+    },
+    {
+      "url": "https://origin.www.bloomberg.com/news/articles/2026-02-25/momentum-midstream-explores-sale-that-could-fetch-gas-pipeline-firm-5-billion?srnd=undefined",
+      "file": "63da3b06c5fe.txt",
+      "title": "Momentum Midstream Explores Sale That Could Fetch Gas Pipeline Firm $5 Billion - Bloomberg",
+      "published_date": "2026-02-25T00:00:00.000Z",
+      "author": "David Carnevali",
+      "text_length": 490,
+      "status": "ok",
+      "num_tokens": 107
+    },
+    {
+      "url": "https://mobile.reuters.com/business/energy/engie-shares-jump-14-billion-uk-power-grid-deal-2026-02-26/",
+      "file": "c4a050d3b90c.txt",
+      "title": "Engie shares surge on $14 billion UK power grid deal | Reuters",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": "America Hernandez",
+      "text_length": 3353,
+      "status": "ok",
+      "num_tokens": 748
+    }
+  ],
+  "total_tokens": 1323
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "What specific error message is displayed to the user if the device verification process fails in the text published on March 4, 2026?",
+    "a": "Verification failed. Please try again."
+  },
+  {
+    "q": "What is the initial instruction given to the user at the start of the device verification process described in the article from March 4, 2026?",
+    "a": "Verifying your device, please wait"
+  },
+  {
+    "q": "What is the final action recommended to the user in the text published on March 4, 2026, after a verification failure?",
+    "a": "Try Again"
+  },
+  {
+    "q": "What is the title of the article published on March 4, 2026, that contains the device verification messages?",
+    "a": "Verifying Device"
+  },
+  {
+    "q": "In the sequence of messages presented in the article published on March 4, 2026, which message appears immediately after 'Verifying your device, please wait'?",
+    "a": "Verification failed. Please try again."
+  },
+  {
+    "q": "What is the publication date of the article titled 'Verifying Device' that outlines a device verification protocol?",
+    "a": "March 4, 2026"
+  },
+  {
+    "q": "What is the second line of text in the article published on March 4, 2026, which serves as a status update for the user?",
+    "a": "Verification failed. Please try again."
+  },
+  {
+    "q": "What is the third and final line of text in the article published on March 4, 2026, instructing the user on the next step?",
+    "a": "Try Again"
+  },
+  {
+    "q": "What specific phrase indicates a successful or ongoing process in the text published on March 4, 2026?",
+    "a": "Verifying your device, please wait"
+  },
+  {
+    "q": "What specific phrase indicates a failed process in the text published on March 4, 2026?",
+    "a": "Verification failed. Please try again."
+  },
+  {
+    "q": "What is the exact capitalization of the title of the article published on March 4, 2026?",
+    "a": "Verifying Device"
+  },
+  {
+    "q": "How many distinct lines of instructional or status text are provided in the article published on March 4, 2026?",
+    "a": "Three lines: 'Verifying your device, please wait', 'Verification failed. Please try again.', and 'Try Again'."
+  },
+  {
+    "q": "What is the full text of the first line in the article published on March 4, 2026?",
+    "a": "Verifying your device, please wait"
+  },
+  {
+    "q": "What is the full text of the second line in the article published on March 4, 2026?",
+    "a": "Verification failed. Please try again."
+  },
+  {
+    "q": "What is the full text of the third line in the article published on March 4, 2026?",
+    "a": "Try Again"
+  },
+  {
+    "q": "In the article published on March 4, 2026, which message contains a period after the word 'wait'?",
+    "a": "None; the first message is 'Verifying your device, please wait' without a period."
+  },
+  {
+    "q": "In the article published on March 4, 2026, which message contains a period after the word 'again'?",
+    "a": "The second message: 'Verification failed. Please try again.'"
+  },
+  {
+    "q": "What is the only imperative command in the article published on March 4, 2026 that does not include a period?",
+    "a": "Try Again"
+  },
+  {
+    "q": "What is the publication date of the text titled 'Verifying Device'?",
+    "a": "2026-03-04"
+  },
+  {
+    "q": "What is the first word of the article published on March 4, 2026?",
+    "a": "Verifying"
+  },
+  {
+    "q": "What is the last word of the article published on March 4, 2026?",
+    "a": "Again"
+  },
+  {
+    "q": "What is the second word of the article published on March 4, 2026?",
+    "a": "Device"
+  },
+  {
+    "q": "What is the first word of the body text in the article published on March 4, 2026?",
+    "a": "Verifying"
+  },
+  {
+    "q": "What is the last word of the body text in the article published on March 4, 2026?",
+    "a": "Again"
+  },
+  {
+    "q": "What is the title of the document published on March 4, 2026, that describes a device verification failure?",
+    "a": "Verifying Device"
+  }
+]

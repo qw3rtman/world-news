@@ -1,0 +1,102 @@
+[
+  {
+    "q": "According to Israeli officials reporting on Sunday, March 15, 2026, who is leading the Israeli delegation for expected talks with Lebanon, and which European country was involved in the initiative?",
+    "a": "Ron Dermer, Prime Minister Benjamin Netanyahu's confidante, is leading the talks, with France involved in the initiative."
+  },
+  {
+    "q": "What specific condition did Lebanese President Joseph Aoun demand as the first point for negotiations to take place, according to three Lebanese officials on Saturday, March 14, 2026?",
+    "a": "President Joseph Aoun demanded a full ceasefire to allow negotiations to take place."
+  },
+  {
+    "q": "On March 2, 2026, what action did Hezbollah take that sucked Lebanon into the war in the Middle East, and what reason did the group give for this action?",
+    "a": "Hezbollah opened fire at Israel, stating it aimed to avenge the killing of Iran's supreme leader."
+  },
+  {
+    "q": "As of mid-March 2026, what are the reported human costs of Israel's offensive in Lebanon, specifically regarding casualties and displacements?",
+    "a": "The offensive has killed more than 800 people in Lebanon and forced more than 800,000 from their homes."
+  },
+  {
+    "q": "What decision did the Beirut government make this month regarding Hezbollah, and how did the group respond to this decision?",
+    "a": "The Beirut government banned Hezbollah's military activities, and the group rejected the move and continued fighting by firing hundreds of rockets at Israel."
+  },
+  {
+    "q": "Which Israeli newspaper first reported the expected talks between Israel and Lebanon, and on what date did this report appear?",
+    "a": "Israel's newspaper Haaretz first reported the talks on Saturday, March 14, 2026."
+  },
+  {
+    "q": "Where did Ron Dermer visit last week prior to the March 15, 2026 reports, and what was the purpose of that visit according to Israel's Army Radio?",
+    "a": "Ron Dermer visited Saudi Arabia to discuss talks that would begin once the current military campaign against Hezbollah is exhausted."
+  },
+  {
+    "q": "What was the stance of Israeli Foreign Minister Gideon Saar on Sunday, March 15, 2026, regarding the existence of talks with Lebanon?",
+    "a": "Foreign Minister Gideon Saar denied that any talks with Lebanon were being held."
+  },
+  {
+    "q": "According to an Israeli official speaking to Reuters on Friday, March 13, 2026, how is the campaign against Hezbollah expected to evolve even after strikes on Iran die down?",
+    "a": "The campaign against Hezbollah would likely be intensified and continue."
+  },
+  {
+    "q": "Who is leading the Lebanese delegation formation for talks with Israel, and what was the status of the timing and terms for these talks as of mid-March 2026?",
+    "a": "Beirut is forming a delegation, but no date has been set and the timing and terms have yet to be agreed upon."
+  },
+  {
+    "q": "What did a Lebanese official state on Sunday, March 15, 2026, regarding official notification from Israel about the discussions?",
+    "a": "Lebanon has not yet received official notification from Israel on discussions."
+  },
+  {
+    "q": "What is the stated goal of the expected talks between Israel and Lebanon, as described by two Israeli officials on Sunday, March 15, 2026?",
+    "a": "The talks aim to secure a durable ceasefire that would see Hezbollah disarmed."
+  },
+  {
+    "q": "How did Netanyahu's office respond to a request for comment on Sunday, March 15, 2026, regarding the reported talks?",
+    "a": "Netanyahu's office did not respond to a request for comment."
+  },
+  {
+    "q": "What internal tension within Lebanon has sharpened at the time of the readiness for talks with Israel, as noted in the article?",
+    "a": "Tensions have sharpened over Hezbollah's status as an armed group."
+  },
+  {
+    "q": "What is President Joseph Aoun's expressed willingness regarding direct engagement with Israel, as stated in the article?",
+    "a": "President Joseph Aoun has expressed willingness for direct talks with Israel to secure an end to the war."
+  },
+  {
+    "q": "Which group did Israel identify as the target of its current military campaign that is expected to be exhausted before talks begin?",
+    "a": "The Iran-backed group Hezbollah."
+  },
+  {
+    "q": "What specific role did Ron Dermer previously hold in the Israeli government before leading the talks for Prime Minister Benjamin Netanyahu?",
+    "a": "Ron Dermer previously served as minister of strategic affairs."
+  },
+  {
+    "q": "According to the article, what event involving Iran's supreme leader triggered Hezbollah's actions on March 2, 2026?",
+    "a": "The killing of Iran's supreme leader."
+  },
+  {
+    "q": "How many people were forced from their homes in Lebanon due to Israel's offensive as of the reporting in mid-March 2026?",
+    "a": "More than 800,000 people were forced from their homes."
+  },
+  {
+    "q": "What did the Beirut government ban this month, and what did Hezbollah do in response to this ban?",
+    "a": "The Beirut government banned Hezbollah's military activities, and Hezbollah responded by fighting on and firing hundreds of rockets at Israel."
+  },
+  {
+    "q": "Who reported the expected talks between Israel and Lebanon first, and what was the reaction of Lebanese officials regarding notification from Israel?",
+    "a": "Israel's newspaper Haaretz reported the talks first; Lebanese officials stated they had not yet received official notification from Israel."
+  },
+  {
+    "q": "What did Foreign Minister Gideon Saar deny on Sunday, March 15, 2026, and who was the Israeli official leading the talks for Israel?",
+    "a": "Foreign Minister Gideon Saar denied that any talks with Lebanon were being held; Ron Dermer was leading the talks for Israel."
+  },
+  {
+    "q": "What was the purpose of Ron Dermer's visit to Saudi Arabia last week, according to Israel's Army Radio?",
+    "a": "The visit was to discuss talks that would begin once the current military campaign against Hezbollah is exhausted."
+  },
+  {
+    "q": "What condition did Lebanese President Joseph Aoun set for negotiations to take place, as demanded in his first point?",
+    "a": "A full ceasefire."
+  },
+  {
+    "q": "What was the stated aim of Hezbollah's opening fire at Israel on March 2, 2026?",
+    "a": "To avenge the killing of Iran's supreme leader."
+  }
+]

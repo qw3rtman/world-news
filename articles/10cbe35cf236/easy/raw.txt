@@ -1,0 +1,106 @@
+[
+  {
+    "q": "On March 6, 2026, what specific price level did Jateen Trivedi, VP Research Analyst at LKP Securities, identify as the trading level for Gold April futures on the MCX after a sharp correction?",
+    "a": "₹1,60,500"
+  },
+  {
+    "q": "In the technical setup for gold prices on March 6, 2026, which specific exponential moving average was described as acting as dynamic resistance while the 8 EMA was flattening?",
+    "a": "The 21 EMA"
+  },
+  {
+    "q": "According to the March 6, 2026 gold price analysis by LKP Securities, what specific price zone must be sustained above to potentially trigger short covering and support a recovery move?",
+    "a": "The ₹1,60,300–₹1,60,500 zone"
+  },
+  {
+    "q": "On March 6, 2026, what was the specific Relative Strength Index (RSI) level hovering near, which indicated improving momentum for gold prices after recovering from oversold levels?",
+    "a": "46"
+  },
+  {
+    "q": "For gold intraday trading on March 6, 2026, what was the specified stop-loss level below which weakness would resume according to the LKP Securities analysis?",
+    "a": "Below ₹1,59,600"
+  },
+  {
+    "q": "In the March 6, 2026 gold trading strategy outlined by LKP Securities, what was the designated entry level for buying on dips?",
+    "a": "₹1,60,300"
+  },
+  {
+    "q": "What was the first upside target price for gold intraday trading on March 6, 2026, as specified in the LKP Securities trading view?",
+    "a": "₹1,61,000"
+  },
+  {
+    "q": "What was the second upside target price for gold intraday trading on March 6, 2026, as specified in the LKP Securities trading view?",
+    "a": "₹1,61,300"
+  },
+  {
+    "q": "On March 6, 2026, which specific chart indicator remained in negative territory but showed signs of flattening, indicating that selling pressure was losing strength?",
+    "a": "The MACD (Moving Average Convergence Divergence)"
+  },
+  {
+    "q": "Which organization's VP Research Analyst, Jateen Trivedi, provided the gold price prediction and technical setup analysis on March 6, 2026?",
+    "a": "LKP Securities"
+  },
+  {
+    "q": "On March 6, 2026, which specific commodity exchange was cited as the venue where Gold April futures were trading near ₹1,60,500?",
+    "a": "MCX (Multi Commodity Exchange)"
+  },
+  {
+    "q": "According to the March 6, 2026 analysis, what formation in recent gold candles indicated accumulation at lower levels?",
+    "a": "Formation of higher lows"
+  },
+  {
+    "q": "In the March 6, 2026 gold technical analysis, toward which specific Bollinger band level was gold attempting to bounce after testing the lower band?",
+    "a": "The mid-band"
+  },
+  {
+    "q": "Which specific news organization's Business Desk published the gold price prediction article on March 6, 2026?",
+    "a": "The Times of India"
+  },
+  {
+    "q": "On March 6, 2026, what was the immediate support band level near which gold buyers were attempting to defend lower prices?",
+    "a": "Near ₹1,60,300–₹1,60,500"
+  },
+  {
+    "q": "What specific strategy did Jateen Trivedi of LKP Securities recommend for investors on March 6, 2026, given that gold prices were volatile with dips?",
+    "a": "Buy on dips"
+  },
+  {
+    "q": "In the March 6, 2026 gold analysis, what condition was stated as necessary for a technical rebound during the session?",
+    "a": "The decline nearing exhaustion"
+  },
+  {
+    "q": "On March 6, 2026, what was the specific price level below which gold weakness would resume, according to the intraday trading view?",
+    "a": "₹1,59,600"
+  },
+  {
+    "q": "Which specific moving average cluster were gold prices attempting to stabilize around on March 6, 2026?",
+    "a": "The short-term moving average cluster"
+  },
+  {
+    "q": "According to the March 6, 2026 article, what was the stated status of the MACD indicator regarding selling pressure?",
+    "a": "It was showing signs of flattening, indicating selling pressure was losing strength"
+  },
+  {
+    "q": "What specific disclaimer did The Times of India include in its March 6, 2026 article regarding the recommendations given by experts like Jateen Trivedi?",
+    "a": "The opinions do not represent the views of The Times of India"
+  },
+  {
+    "q": "On March 6, 2026, what was the specific RSI territory that gold was recovering from, which suggested improving momentum?",
+    "a": "Oversold levels"
+  },
+  {
+    "q": "What specific zone was identified as bullish for gold prices on March 6, 2026, above which the upward trend was expected to continue?",
+    "a": "Above ₹1,60,300"
+  },
+  {
+    "q": "Which specific unit of LKP Securities did Jateen Trivedi hold the position of VP Research Analyst for on March 6, 2026?",
+    "a": "Commodity and Currency"
+  },
+  {
+    "q": "On March 6, 2026, what specific market action was described as allowing investors to buy, amidst volatile gold prices?",
+    "a": "Dips"
+  },
+  {
+    "q": "What specific outcome was suggested by the chart reflecting a sharp intraday decline followed by consolidation near support on March 6, 2026?",
+    "a": "Downside momentum may be slowing, allowing room for a corrective upside move"
+  }
+]

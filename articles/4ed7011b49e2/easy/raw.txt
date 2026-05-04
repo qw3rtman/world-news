@@ -1,0 +1,106 @@
+[
+  {
+    "q": "During the State of the Union address delivered by U.S. President Donald Trump on Tuesday, February 24, 2026, which two officials are seated directly behind the president in the House chamber?",
+    "a": "Vice President JD Vance and Republican House Speaker Mike Johnson."
+  },
+  {
+    "q": "In the seating arrangement for the February 24, 2026 State of the Union address, where does Vice President JD Vance sit relative to the viewers' perspective?",
+    "a": "To the left of the president."
+  },
+  {
+    "q": "Which former House Speaker ripped up pages of a president's speech during a 2020 joint address to Congress, illustrating potential awkwardness in divided government seating?",
+    "a": "Nancy Pelosi."
+  },
+  {
+    "q": "Why is the seating arrangement for Vice President JD Vance and House Speaker Mike Johnson during the February 2026 State of the Union address unlikely to produce the awkwardness seen in past divided governments?",
+    "a": "Because both Vance and Johnson are Republicans and vocal defenders of President Trump."
+  },
+  {
+    "q": "Where are Supreme Court justices typically seated during the State of the Union address to signify their role in stewarding the Constitution?",
+    "a": "In a front row of the House chamber floor."
+  },
+  {
+    "q": "Which four Supreme Court justices attended President Trump's joint address to Congress in 2025?",
+    "a": "Chief Justice John Roberts and Associate Justices Elena Kagan, Brett Kavanaugh, and Amy Coney Barrett."
+  },
+  {
+    "q": "What major legal ruling by the Supreme Court four days before the February 2026 State of the Union address created potential awkwardness for the justices attending?",
+    "a": "The ruling that President Trump does not have the authority to impose sweeping tariffs under an emergency powers law."
+  },
+  {
+    "q": "On which two mornings is the Supreme Court issuing opinions surrounding the February 24, 2026 State of the Union address?",
+    "a": "The morning of the State of the Union and the morning after."
+  },
+  {
+    "q": "Where is the First Lady's box located during the State of the Union address?",
+    "a": "In the gallery seating above the chamber floor, on the right from the viewers' perspective."
+  },
+  {
+    "q": "Who typically sits in the First Lady's box along with the First Lady during the State of the Union address?",
+    "a": "The Second Lady."
+  },
+  {
+    "q": "Approximately how many guests may the First Lady invite to sit in her box during the State of the Union address?",
+    "a": "About two dozen."
+  },
+  {
+    "q": "How is seating generally assigned for members of Congress during the State of the Union address?",
+    "a": "It is first-come, first-served, with many members arriving early."
+  },
+  {
+    "q": "How are members of Congress typically seated relative to their party affiliation during the State of the Union address?",
+    "a": "Republicans sit on one side and Democrats sit on the other."
+  },
+  {
+    "q": "Which group of legislators typically occupies rows closer to the front during the State of the Union address?",
+    "a": "Senators."
+  },
+  {
+    "q": "Which group of legislators typically occupies rows closer to the back during the State of the Union address?",
+    "a": "House members."
+  },
+  {
+    "q": "What is the typical seating location for Cabinet members during the State of the Union address?",
+    "a": "Front-row seats."
+  },
+  {
+    "q": "What is the significance of the location, location, location saying in the context of the State of the Union address?",
+    "a": "The most coveted spots are those close to the president in the House chamber."
+  },
+  {
+    "q": "Which official is the designated survivor and therefore does not attend the State of the Union address?",
+    "a": "The designated survivor."
+  },
+  {
+    "q": "What type of address did President Trump deliver in 2025, which was technically not his first official State of the Union?",
+    "a": "A joint address to Congress."
+  },
+  {
+    "q": "Which three branches of government are represented by attendees expected at the February 24, 2026 State of the Union address?",
+    "a": "The executive (Cabinet members), legislative (members of Congress), and judicial (Supreme Court justices) branches."
+  },
+  {
+    "q": "Who released an official seating chart for the February 24, 2026 State of the Union address?",
+    "a": "Neither the Trump administration nor Congress released an official seating chart."
+  },
+  {
+    "q": "What policy of President Trump's second term was challenged by the Supreme Court ruling shortly before the February 2026 State of the Union?",
+    "a": "The imposition of sweeping tariffs under an emergency powers law."
+  },
+  {
+    "q": "After the Supreme Court ruling on tariffs, what did President Trump vow to do regarding import tariffs?",
+    "a": "Rely on other authorities to impose tariffs on imports."
+  },
+  {
+    "q": "In the event of a divided government, what is the uncommon behavior of a House speaker from a different party than the president during the State of the Union?",
+    "a": "The speaker remains seated while the vice president stands and applauds."
+  },
+  {
+    "q": "What photo file is referenced in the article regarding lighting and sound checks in the House Chamber?",
+    "a": "A file showing technicians doing lighting and a sound check in the House Chamber on February 17, 1993, ahead of Bill Clinton's address to Congress."
+  },
+  {
+    "q": "Who is the photographer credited for the image of technicians in the House Chamber on February 17, 1993?",
+    "a": "John Duricka."
+  }
+]

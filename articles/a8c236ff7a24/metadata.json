@@ -1,0 +1,57 @@
+{
+  "hash": "a8c236ff7a24",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://af.reuters.com/world/us-military-says-three-its-service-members-killed-iran-operation-2026-03-01/",
+      "title": "Reuters | Breaking International News & Views",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 72,
+      "text_length": 362
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1394299",
+      "spike_id": 6,
+      "market_question": "US forces enter Iran by December 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "up",
+      "spike_delta": 0.22499999999999998,
+      "spike_timestamp_before": "2026-02-27T20:00:24+00:00",
+      "spike_timestamp_after": "2026-02-28T18:00:29+00:00"
+    },
+    {
+      "market_id": "1394299",
+      "spike_id": 7,
+      "market_question": "US forces enter Iran by December 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "up",
+      "spike_delta": 0.275,
+      "spike_timestamp_before": "2026-02-27T22:30:26+00:00",
+      "spike_timestamp_after": "2026-02-28T21:30:37+00:00"
+    },
+    {
+      "market_id": "1466030",
+      "spike_id": 1,
+      "market_question": "US forces enter Iran by March 3?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.235,
+      "spike_timestamp_before": "2026-02-28T14:30:26+00:00",
+      "spike_timestamp_after": "2026-02-28T20:30:38+00:00"
+    },
+    {
+      "market_id": "1466030",
+      "spike_id": 2,
+      "market_question": "US forces enter Iran by March 3?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.26,
+      "spike_timestamp_before": "2026-02-28T14:30:26+00:00",
+      "spike_timestamp_after": "2026-02-28T23:00:25+00:00"
+    }
+  ]
+}

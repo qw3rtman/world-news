@@ -1,0 +1,37 @@
+{
+  "hash": "ad9cab8e0f1f",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-what-is-the-gold-rate-outlook-for-february-27-2026-should-you-buy-or-sell-mcx-gold/articleshow/128841612.cms",
+      "title": "Gold price prediction: What's the gold rate outlook for February 27, 2026 & should you buy on dips? - The Times of India",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /   Feb 27, 2026, 13:53 IST",
+      "num_tokens": 672,
+      "text_length": 3104
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1032336",
+      "spike_id": 3,
+      "market_question": "Will Silver (SI) hit (HIGH) $120 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "up",
+      "spike_delta": 0.16750000000000004,
+      "spike_timestamp_before": "2026-02-26T22:00:32+00:00",
+      "spike_timestamp_after": "2026-02-27T20:30:36+00:00"
+    },
+    {
+      "market_id": "1032343",
+      "spike_id": 17,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.22000000000000003,
+      "spike_timestamp_before": "2026-02-27T01:30:20+00:00",
+      "spike_timestamp_after": "2026-02-28T01:00:22+00:00"
+    }
+  ]
+}

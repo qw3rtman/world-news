@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In February 2026, which private company was reported by Bloomberg sources to be considering an acquisition of some or all of PayPal Holdings?",
+    "a": "Stripe"
+  },
+  {
+    "q": "What was the valuation of Stripe as announced in its annual letter released on February 24, 2026?",
+    "a": "$159 billion"
+  },
+  {
+    "q": "By what percentage did Stripe's valuation increase from the previous year according to the annual letter released in February 2026?",
+    "a": "74%"
+  },
+  {
+    "q": "Which two investment firms were identified as investors buying employee shares in Stripe's tender offer announced in February 2026?",
+    "a": "Andreessen Horowitz and Thrive Capital"
+  },
+  {
+    "q": "As of February 2026, in which city is Stripe based?",
+    "a": "Dublin"
+  },
+  {
+    "q": "Who is the co-founder and CEO of Stripe who stated in a recent CNBC interview that going public was not a priority as of early 2026?",
+    "a": "Patrick Collison"
+  },
+  {
+    "q": "What was the approximate market capitalization of PayPal Holdings in February 2026?",
+    "a": "Around $40 billion"
+  },
+  {
+    "q": "Which digital wallet service, owned by PayPal Holdings, was mentioned as part of the company's portfolio in reports from February 2026?",
+    "a": "Venmo"
+  },
+  {
+    "q": "What was the status of the acquisition talks between Stripe and PayPal Holdings as reported in February 2026?",
+    "a": "The talks were in their very early stages and the deal may not happen"
+  },
+  {
+    "q": "How did PayPal Holdings' stock react to the reports of Stripe's interest in an acquisition in February 2026?",
+    "a": "It rose slightly"
+  },
+  {
+    "q": "Which media outlet reported that Stripe was considering a deal to buy PayPal Holdings in February 2026?",
+    "a": "Bloomberg"
+  },
+  {
+    "q": "What action did Stripe take regarding its own stock, in addition to the tender offer, as stated in its February 2026 annual letter?",
+    "a": "It will buy back some stock"
+  },
+  {
+    "q": "What was Stripe's status in the industry as of February 2026, according to its valuation?",
+    "a": "One of the industry’s most valuable private companies"
+  },
+  {
+    "q": "Which publicly traded company includes the flagship product PayPal and services like Venmo, and was the subject of acquisition rumors in February 2026?",
+    "a": "PayPal Holdings"
+  },
+  {
+    "q": "What specific financial instrument did Stripe make a tender offer for, as detailed in its February 2026 annual letter?",
+    "a": "Employee shares"
+  },
+  {
+    "q": "Did Stripe provide a comment to the press regarding the acquisition rumors in February 2026?",
+    "a": "Stripe declined to comment"
+  },
+  {
+    "q": "Which publication published the report about Stripe eyeing a deal to buy PayPal on February 24, 2026?",
+    "a": "TechCrunch"
+  },
+  {
+    "q": "Who is the author of the TechCrunch article published on February 24, 2026, reporting on Stripe's potential acquisition of PayPal?",
+    "a": "Dominic-Madori Davis"
+  },
+  {
+    "q": "What was the primary update on Stripe's business provided in the annual letter released on February 24, 2026?",
+    "a": "The company was making a tender offer valuing it at $159 billion"
+  },
+  {
+    "q": "Which news network did Patrick Collison speak to recently, prior to February 2026, regarding Stripe's IPO priorities?",
+    "a": "CNBC"
+  },
+  {
+    "q": "What was the relationship between the release of Stripe's annual letter and the news of the potential PayPal acquisition in February 2026?",
+    "a": "The news came the same day the annual letter was released"
+  },
+  {
+    "q": "What specific part of PayPal Holdings was Stripe reportedly considering buying in the February 2026 reports?",
+    "a": "Some or all of PayPal Holdings"
+  },
+  {
+    "q": "Which venture capital firm, known for backing high-growth startups, was listed as an investor in Stripe's tender offer in February 2026?",
+    "a": "Thrive Capital"
+  },
+  {
+    "q": "What was the approximate market cap of PayPal Holdings compared to Stripe's $159 billion valuation in February 2026?",
+    "a": "PayPal's market cap was around $40 billion"
+  },
+  {
+    "q": "What did Patrick Collison, CEO of Stripe, indicate about the company's public listing status in interviews prior to February 2026?",
+    "a": "Going public was not on his list of priorities"
+  },
+  {
+    "q": "In the context of the February 2026 reports, which company was described as having a flagship product named PayPal?",
+    "a": "PayPal Holdings"
+  }
+]

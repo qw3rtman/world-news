@@ -1,0 +1,27 @@
+{
+  "hash": "a2bdcf395083",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/business/aerospace-defense/us-deploys-suicide-drones-tomahawk-missiles-iran-strikes-2026-03-01/",
+      "title": "US uses Anthropic AI, B-2 bombers and suicide drones in Iran strikes | Reuters",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 996,
+      "text_length": 4548
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1399064",
+      "spike_id": 2,
+      "market_question": "US strikes Iran by March 2, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.8945000000000001,
+      "spike_timestamp_before": "2026-02-27T09:00:39+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:53+00:00"
+    }
+  ]
+}

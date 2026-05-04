@@ -1,0 +1,26 @@
+{
+  "market_id": "706279",
+  "question": "Will Trump visit China by April 30?",
+  "slug": "will-trump-visit-china-by-april-30",
+  "url": "https://polymarket.com/event/will-trump-visit-china-by",
+  "description": "If U.S. President Donald Trump visits China by April 30, 2026, 11:59 PM ET, this market will resolve to \"Yes\". Otherwise, this market will resolve to \"No\".\n\nFor the purpose of this market, a \"visit\" is defined as Trump physically entering the terrestrial or maritime territory of the listed country. Whether or not Trump enters the country's airspace during the timeframe of this market will have no bearing on a positive resolution.\n\nThe primary resolution source for this information will be official information from government of the United States of America, official information from Trump or released by his verified social media accounts (e.g. https://twitter.com/POTUS), however, a consensus of credible reporting will also be used.",
+  "event_title": "Will Trump visit China by...?",
+  "event_tags": [
+    "Trump Presidency",
+    "Trump",
+    "Politics",
+    "China",
+    "TikTok",
+    "World",
+    "Trump-Xi",
+    "Trade War",
+    "Tariffs"
+  ],
+  "volume_total": 2147088.9473570017,
+  "created_at": "2025-11-26T20:57:06.549705Z",
+  "end_date": "2026-04-30T00:00:00Z",
+  "num_spikes": 10,
+  "max_spike": 0.56,
+  "total_tokens": 34619,
+  "total_articles": 50
+}

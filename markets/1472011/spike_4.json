@@ -1,0 +1,65 @@
+{
+  "spike_index": 4,
+  "direction": "down",
+  "price_before": 0.35,
+  "price_after": 0.125,
+  "delta": -0.22499999999999998,
+  "abs_delta": 0.22499999999999998,
+  "timestamp_before": "2026-03-01T20:30:32+00:00",
+  "timestamp_after": "2026-03-02T20:00:34+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.thetimes.com/uk/defence/article/is-uk-war-iran-news-today-lhbgshz9s?gaa_at=eafs&gaa_n=AWEtsqeQ-wHEYYZNchiXdVSZ8jCPrmFNNYnvhxiaTtbtA3WiV51QM8Qvem-s&gaa_sig=OxE7vxUepG44mcn-7oPAaazKzSSg2szl7x6PWxQHCcdtqnW5DxrFZaP27x8qb-r-a6aEkcE_-hZjDHaZgb8ajg%3D%3D&gaa_ts=69a5ec85",
+      "file": "a533525328ea.txt",
+      "title": "Could the UK go to war with Iran? Britain\u2019s situation explained",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Charlie Parker",
+      "text_length": 212,
+      "status": "ok",
+      "num_tokens": 42
+    },
+    {
+      "url": "https://www.thetimes.com/uk/defence/article/is-uk-war-iran-news-today-lhbgshz9s?gaa_at=eafs&gaa_n=AWEtsqchdPKbNBHyJGDYRo3luPr8nHQCGcLfchQQltjTghvXqqy8TCITFriK&gaa_sig=fK5X6275PYp5o0TU3TInkZ6Erk9cqwrvoL5jb6IlVREpvzOFmBjHyaZncsiHn80-Z6JzACvXi9lStEZqLyJVlg%3D%3D&gaa_ts=69a603db",
+      "file": "3d612e42e382.txt",
+      "title": "Could the UK go to war with Iran? Britain\u2019s situation explained",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Charlie Parker",
+      "text_length": 212,
+      "status": "ok",
+      "num_tokens": 42
+    },
+    {
+      "url": "https://www.thetimes.com/world/middle-east/article/iran-us-israel-dubai-latest-news-attack-live-09r2rh666?gaa_at=eafs&gaa_n=AWEtsqfeBjxx2aXIqP1OaQokcQj4nq-HO0lhBhLL_juVa_AL4HhQbBPx7c4X&gaa_sig=EkvOicX6Ry5AILKLmR5WiWEYjYIVIIo82blOu9moHdu7X_RTm-J5WomuWapWPL0QUudPr_nnWcKSNH4SutYi-g%3D%3D&gaa_ts=69a4c8c3",
+      "file": "424012adefae.txt",
+      "title": "Iran latest: Britain to let US use bases to strike Iran",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Larisa Brown | Haroon Janjua | Gabrielle Weiniger | Bruno Waterfield | Steven Swinford | Charlie Moloney | Constance Kampfner | David Chazan | Lara Spirit | Herbie Russell",
+      "text_length": 65251,
+      "status": "ok",
+      "num_tokens": 14070
+    },
+    {
+      "url": "https://www.pbs.org/newshour/world/what-to-know-about-the-joint-u-s-israeli-attacks-on-iran",
+      "file": "1a79c4f0b8fc.txt",
+      "title": "What to know about the joint U.S.-Israeli attacks on Iran | PBS News",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 7672,
+      "status": "ok",
+      "num_tokens": 1509
+    },
+    {
+      "url": "https://www.npr.org/2026/02/28/nx-s1-5730352/world-leaders-reaction-operation-epic-fury",
+      "file": "417cbe622ce9.txt",
+      "title": "Here\u2019s how world leaders are reacting to operation 'Epic Fury' : NPR",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "By\u00a0                 \n   \n       \n      NPR's International Desk",
+      "text_length": 6319,
+      "status": "ok",
+      "num_tokens": 1236
+    }
+  ],
+  "total_tokens": 16899
+}

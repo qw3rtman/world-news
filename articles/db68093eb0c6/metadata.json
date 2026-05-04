@@ -1,0 +1,37 @@
+{
+  "hash": "db68093eb0c6",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://today.reuters.com/world/asia-pacific/toyota-plans-hike-offer-price-group-firm-tico-extend-deadline-again-2026-03-02/",
+      "title": "Toyota bumps offer for supplier to $30 billion, in a victory for activist fund Elliott | Reuters",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Daniel Leussink",
+      "num_tokens": 780,
+      "text_length": 3850
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694938",
+      "spike_id": 18,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.16500000000000004,
+      "spike_timestamp_before": "2026-03-02T04:00:34+00:00",
+      "spike_timestamp_after": "2026-03-02T13:00:36+00:00"
+    },
+    {
+      "market_id": "694938",
+      "spike_id": 19,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.175,
+      "spike_timestamp_before": "2026-03-02T04:00:34+00:00",
+      "spike_timestamp_after": "2026-03-02T16:00:37+00:00"
+    }
+  ]
+}

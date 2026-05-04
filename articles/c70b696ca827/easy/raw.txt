@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In February 2026, what annual recurring revenue (ARR) milestone did the Stockholm-based company Lovable confirm it had crossed?",
+    "a": "$400 million"
+  },
+  {
+    "q": "As of March 2026, what valuation did Lovable achieve, a figure influenced by its ability to secure enterprise clients like Klarna and HubSpot?",
+    "a": "$6.6 billion"
+  },
+  {
+    "q": "In late February 2026, how many full-time employees did Lovable have while achieving $400 million in annual recurring revenue?",
+    "a": "146"
+  },
+  {
+    "q": "During the week of March 8, 2026, how many projects were built or updated on Lovable’s platform during its SheBuilds initiative for International Women’s Day?",
+    "a": "Over 500,000"
+  },
+  {
+    "q": "In February 2026, what specific brand campaign did Lovable begin running across social platforms, YouTube, and connected TV?",
+    "a": "\"Earworm\""
+  },
+  {
+    "q": "As of March 2026, what is the total number of users Lovable has attracted since its launch less than a year prior?",
+    "a": "Approximately 8 million"
+  },
+  {
+    "q": "In January 2026, what was Lovable’s reported annual recurring revenue (ARR) before it reached $400 million in February?",
+    "a": "$300 million"
+  },
+  {
+    "q": "As of March 2026, in which five locations or modes is Lovable hiring to fill its 70 open positions?",
+    "a": "Boston, London, New York, San Francisco, and remotely"
+  },
+  {
+    "q": "In November 2025, what percentage of Fortune 500 companies did Lovable CEO Anton Osika claim were using the platform at Web Summit?",
+    "a": "More than half"
+  },
+  {
+    "q": "As of March 2026, what is Lovable’s revenue-to-employee ratio in annual recurring revenue per employee?",
+    "a": "$2.77 million"
+  },
+  {
+    "q": "In July 2025, what annual recurring revenue (ARR) figure did Lovable previously report?",
+    "a": "$100 million"
+  },
+  {
+    "q": "In November 2025, what annual recurring revenue (ARR) figure did Lovable report before reaching $300 million in January 2026?",
+    "a": "$200 million"
+  },
+  {
+    "q": "As of March 2026, what is the seating capacity of Lovable’s recently inaugurated office space in Stockholm?",
+    "a": "300 people"
+  },
+  {
+    "q": "In March 2026, which Swedish band performed the song featured in Lovable’s \"Earworm\" brand campaign?",
+    "a": "Boko Yout"
+  },
+  {
+    "q": "As of March 2026, what is the typical daily average number of projects built or updated on Lovable, compared to the spike seen during the March 8 promotion?",
+    "a": "Approximately 200,000"
+  },
+  {
+    "q": "In March 2026, which two AI coding tools from major labs Anthropic and OpenAI were noted as not being vibe-coding platforms but potentially future competitors?",
+    "a": "Claude Code and Codex"
+  },
+  {
+    "q": "As of March 2026, what specific initiative did Lovable launch for International Women’s Day that made its platform free for one day?",
+    "a": "SheBuilds"
+  },
+  {
+    "q": "In February 2026, did Lovable confirm whether it was still projecting to reach $1 billion ARR by the end of the year?",
+    "a": "No, it declined to say"
+  },
+  {
+    "q": "As of March 2026, what term describes the practice of creating websites and apps using natural language, a category Lovable and Cursor belong to?",
+    "a": "Vibe coding"
+  },
+  {
+    "q": "In March 2026, which research firm predicted that a new wave of unicorns would emerge by 2030 with $2 million ARR per employee?",
+    "a": "Gartner"
+  },
+  {
+    "q": "As of March 2026, who is the chief revenue officer of Lovable who disclosed the company’s employee count to Business Insider?",
+    "a": "Ryan Meadows"
+  },
+  {
+    "q": "In November 2025, at which major tech conference did Lovable CEO Anton Osika declare that more than half of Fortune 500 companies were using Lovable?",
+    "a": "Web Summit"
+  },
+  {
+    "q": "As of March 2026, what is the approximate number of open positions Lovable has despite its small workforce?",
+    "a": "70"
+  },
+  {
+    "q": "In February 2026, which three companies were named as enterprise clients of Lovable alongside HubSpot and Klarna?",
+    "a": "Cursor and Mercor were mentioned as peers, but no other specific enterprise clients were named in that specific list; the article states \"Klarna, HubSpot, and others\"."
+  },
+  {
+    "q": "As of March 2026, what is the age of Lovable in years since its launch?",
+    "a": "Three years"
+  },
+  {
+    "q": "In March 2026, what specific type of features did Lovable add to convince businesses to use it for more than prototyping?",
+    "a": "Security-related features"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the acquisition announced on March 11, 2026, which customer service software company is acquiring the agentic AI startup Forethought, and what is the expected closing timeframe for this deal?",
+    "a": "Zendesk is acquiring Forethought, and the deal is expected to close by the end of March 2026."
+  },
+  {
+    "q": "Which startup pitch competition did Forethought win in 2018, and how does this timeline compare to the launch date of ChatGPT?",
+    "a": "Forethought won the 2018 TechCrunch Battlefield competition, whereas ChatGPT did not launch until late 2022."
+  },
+  {
+    "q": "By 2025, how many monthly customer interactions was Forethought supporting, and which four marquee customers were cited as having used its services?",
+    "a": "Forethought supported more than a billion monthly interactions, with marquee customers including Upwork, Grammarly, Airtable, and Datadog."
+  },
+  {
+    "q": "What was the total funding amount raised by Forethought, and which private equity firms are listed among its backers?",
+    "a": "Forethought raised $115 million in total funding, with backers including Blue Cloud Ventures, NEA, Industry Ventures, Neo, Village Global, and Sound Ventures."
+  },
+  {
+    "q": "Which notable angel investors backed Forethought during its $25 million funding round last year, and what are their associated companies or professions?",
+    "a": "Angel investors included May Habib (Writer), Scott Wu (Cognition), Karan Goel (Cartesia), and Gwyneth Paltrow."
+  },
+  {
+    "q": "Who is the co-founder and chairman of Forethought AI, and on which social media platform did he describe the acquisition as a milestone?",
+    "a": "Deon Nicholas is the co-founder and chairman, and he posted about the acquisition on LinkedIn."
+  },
+  {
+    "q": "In his LinkedIn post regarding the Zendesk acquisition, what specific event did Deon Nicholas reference as the moment Forethought first launched its vision?",
+    "a": "He referenced launching Forethought at TechCrunch Disrupt."
+  },
+  {
+    "q": "Before the acquisition announcement, on which podcast did Forethought co-founder Deon Nicholas appear to discuss agentic tech and browser control?",
+    "a": "He appeared on TechCrunch’s Build Mode podcast."
+  },
+  {
+    "q": "Which specific AI capabilities does Zendesk plan to integrate from Forethought into its own products, and how much does the company say the acquisition accelerates its product roadmap?",
+    "a": "Zendesk plans to integrate specialized agents, self-improving AI, voice automation, and more autonomous capabilities, accelerating its roadmap by more than a year."
+  },
+  {
+    "q": "Since when has Zendesk been privately held, and which two private equity firms led the consortium that acquired it for $10.2 billion?",
+    "a": "Zendesk has been privately held since November 2022, when Hellman & Friedman and Permira led the acquisition."
+  },
+  {
+    "q": "What was the acquisition price Zendesk paid for the live-chat company Zopim in 2014, and what was the price for analytics firm BIME in 2015?",
+    "a": "Zendesk paid $29.8 million for Zopim in 2014 and $45 million for BIME in 2015."
+  },
+  {
+    "q": "How many acquisitions has Zendesk made since its founding in 2007, and what is the general pattern regarding the disclosure of terms for these deals?",
+    "a": "Zendesk has made roughly a dozen acquisitions, and it typically does not disclose the terms of these deals."
+  },
+  {
+    "q": "What is the primary business focus of the startup Forethought, as described in the March 2026 acquisition announcement?",
+    "a": "Forethought builds software to automate customer service interactions."
+  },
+  {
+    "q": "Which organization is currently accepting applications for its 2026 Startup Battlefield competition, as mentioned in the context of Forethought’s 2018 win?",
+    "a": "TechCrunch is accepting applications for the 2026 TechCrunch Startup Battlefield."
+  },
+  {
+    "q": "What specific type of customer service products is Zendesk best known for, according to the article?",
+    "a": "Zendesk is best known for its self-help customer service products."
+  },
+  {
+    "q": "Who is the U.S. actress and entrepreneur that served as an angel investor in Forethought’s $25 million funding round?",
+    "a": "Gwyneth Paltrow."
+  },
+  {
+    "q": "What specific technology trend, particularly for customer service, is described as being 'all the rage' in the context of Forethought’s acquisition by Zendesk?",
+    "a": "AI agents."
+  },
+  {
+    "q": "Which company did Deon Nicholas identify as being associated with angel investor Scott Wu in Forethought’s investor list?",
+    "a": "Cognition."
+  },
+  {
+    "q": "Which company did Deon Nicholas identify as being associated with angel investor Karan Goel in Forethought’s investor list?",
+    "a": "Cartesia."
+  },
+  {
+    "q": "What specific year did Zendesk acquire the analytics firm BIME, and what was the disclosed price for that transaction?",
+    "a": "Zendesk acquired BIME in 2015 for $45 million."
+  },
+  {
+    "q": "What specific year did Zendesk acquire the live-chat company Zopim, and what was the disclosed price for that transaction?",
+    "a": "Zendesk acquired Zopim in 2014 for $29.8 million."
+  },
+  {
+    "q": "Which private equity firm, alongside Permira, led the $10.2 billion consortium that acquired Zendesk in November 2022?",
+    "a": "Hellman & Friedman."
+  },
+  {
+    "q": "What specific date range is cited for the expected closing of the Zendesk and Forethought acquisition announced in March 2026?",
+    "a": "By the end of March 2026."
+  },
+  {
+    "q": "Which startup pitch competition did Forethought win in 2018, and what is the name of the podcast where co-founder Deon Nicholas later discussed his preparation for that win?",
+    "a": "Forethought won TechCrunch Battlefield, and Nicholas discussed it on TechCrunch’s Build Mode podcast."
+  },
+  {
+    "q": "According to Deon Nicholas, what ambitious idea did he and his team set out to pursue more than seven years ago regarding AI and customer experience?",
+    "a": "The idea that AI could transform the customer experience."
+  }
+]

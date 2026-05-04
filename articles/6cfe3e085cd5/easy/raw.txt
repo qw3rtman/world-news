@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the article published on March 9, 2026, which six-member organization is described as often struggling with cooperation, particularly regarding plans for a common currency and a railway across the Arabian peninsula?",
+    "a": "The Gulf Co-operation Council (GCC)."
+  },
+  {
+    "q": "According to the March 9, 2026 article, what specific infrastructure projects of the Gulf Co-operation Council are described as being decades behind schedule?",
+    "a": "Plans for a common currency and a railway across the Arabian peninsula."
+  },
+  {
+    "q": "In the March 9, 2026 article, what type of disputes are cited as having led to years-long ruptures between the monarchs of the Gulf Co-operation Council member states?",
+    "a": "Foreign-policy disputes."
+  },
+  {
+    "q": "Based on the March 9, 2026 article, what three factors are identified as hampering a unified response from the Gulf states regarding potential attacks on Iran?",
+    "a": "A lack of trust in America and Israel, internal divisions, and the risk of domestic strife."
+  },
+  {
+    "q": "In the article published on March 9, 2026, which two countries' trust issues are highlighted as contributing to the Gulf states' hesitation in joining attacks on Iran?",
+    "a": "America and Israel."
+  },
+  {
+    "q": "What is the primary subject of the question posed in the title of the article published on March 9, 2026, regarding the Gulf states?",
+    "a": "Whether the Gulf states should join attacks on Iran."
+  },
+  {
+    "q": "According to the March 9, 2026 article, what internal characteristic of the Gulf Co-operation Council members is described as leading to years-long ruptures between monarchs?",
+    "a": "Foreign-policy disputes."
+  },
+  {
+    "q": "In the context of the March 9, 2026 article, what specific risk to domestic stability is listed as a hampering factor for the Gulf states' unified response?",
+    "a": "The risk of domestic strife."
+  },
+  {
+    "q": "Which organization's members are described in the March 9, 2026 article as struggling with the 'co-operation bit' in their collective efforts?",
+    "a": "The Gulf Co-operation Council (GCC)."
+  },
+  {
+    "q": "According to the March 9, 2026 article, how far behind schedule are the Gulf Co-operation Council's plans for a common currency and a trans-peninsula railway?",
+    "a": "Decades behind schedule."
+  },
+  {
+    "q": "In the March 9, 2026 article, what geopolitical entities are the Gulf states reportedly lacking trust in, which hampers their unified response?",
+    "a": "America and Israel."
+  },
+  {
+    "q": "What specific type of internal division among the Gulf Co-operation Council members is cited in the March 9, 2026 article as causing ruptures between monarchs?",
+    "a": "Foreign-policy disputes."
+  },
+  {
+    "q": "According to the article published on March 9, 2026, what is the estimated timeline for the completion of the Gulf Co-operation Council's common currency and railway plans?",
+    "a": "They are decades behind schedule."
+  },
+  {
+    "q": "In the March 9, 2026 article, what combination of external distrust and internal risks is said to prevent the Gulf states from forming a unified response?",
+    "a": "Lack of trust in America and Israel, internal divisions, and the risk of domestic strife."
+  },
+  {
+    "q": "Which six-member body is the focus of the March 9, 2026 article's discussion on cooperation struggles and infrastructure delays?",
+    "a": "The Gulf Co-operation Council (GCC)."
+  },
+  {
+    "q": "According to the March 9, 2026 article, what specific consequence of foreign-policy disputes has occurred between the monarchs of the Gulf Co-operation Council?",
+    "a": "Years-long ruptures."
+  },
+  {
+    "q": "In the article published on March 9, 2026, what domestic concern is listed alongside lack of trust in America and Israel as a barrier to Gulf state unity?",
+    "a": "The risk of domestic strife."
+  },
+  {
+    "q": "What specific infrastructure ambitions of the Gulf Co-operation Council are described as significantly delayed in the March 9, 2026 article?",
+    "a": "A common currency and a railway across the Arabian peninsula."
+  },
+  {
+    "q": "According to the March 9, 2026 article, what three distinct categories of obstacles hinder the Gulf states' unified response to the question of attacking Iran?",
+    "a": "Lack of trust in America and Israel, internal divisions, and the risk of domestic strife."
+  },
+  {
+    "q": "In the March 9, 2026 article, what is the relationship between foreign-policy disputes and the monarchs of the Gulf Co-operation Council?",
+    "a": "Foreign-policy disputes have led to years-long ruptures between them."
+  },
+  {
+    "q": "Which two nations' trust issues are explicitly named in the March 9, 2026 article as hampering the Gulf states' unified response?",
+    "a": "America and Israel."
+  },
+  {
+    "q": "According to the March 9, 2026 article, what is the status of the Gulf Co-operation Council's plans for a common currency?",
+    "a": "They are decades behind schedule."
+  },
+  {
+    "q": "In the article published on March 9, 2026, what specific risk to internal stability is mentioned as a factor preventing Gulf state unity?",
+    "a": "The risk of domestic strife."
+  },
+  {
+    "q": "What is the primary subject of the inquiry in the title of the March 9, 2026 article, concerning the Gulf states and Iran?",
+    "a": "Whether the Gulf states should join attacks on Iran."
+  },
+  {
+    "q": "According to the March 9, 2026 article, what is the general state of cooperation among the six members of the Gulf Co-operation Council?",
+    "a": "They often struggle with the cooperation bit."
+  }
+]

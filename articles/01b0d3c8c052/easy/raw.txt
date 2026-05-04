@@ -1,0 +1,102 @@
+[
+  {
+    "q": "What record price per barrel did the cash Dubai crude benchmark reach for May-loading cargoes in March 2026, according to S&P Global Platts?",
+    "a": "$157.66 per barrel."
+  },
+  {
+    "q": "Which historical Brent futures price level did the March 2026 Dubai crude benchmark surpass, and what was that 2008 all-time high?",
+    "a": "It surpassed Brent's 2008 all-time high of $147.50 per barrel."
+  },
+  {
+    "q": "What was the premium of Dubai crude over swaps in early March 2026, and how did it compare to the average premium in February 2026?",
+    "a": "The premium jumped to $60.82 per barrel, compared to an average of 90 cents in February 2026."
+  },
+  {
+    "q": "What record high price per barrel did Oman crude futures hit in March 2026, and what was its resulting premium to Dubai swaps?",
+    "a": "Oman crude hit $152.58 per barrel, setting a premium to Dubai swaps of $55.74."
+  },
+  {
+    "q": "How did Middle East crude exports in March 2026 compare to February 2026 levels and March 2025 levels, according to analytics firm Kpler?",
+    "a": "Exports fell to 11.665 million barrels per day in March 2026 from nearly 19 million in February 2026, down about 32% versus March 2025."
+  },
+  {
+    "q": "Which specific geographic chokepoint's shipping halt was cited as the cause for the 32% drop in Middle East crude exports in March 2026?",
+    "a": "The war halted shipping through the Strait of Hormuz."
+  },
+  {
+    "q": "What price per barrel did Murban futures settle at in March 2026, creating a distorted gap with Dubai prices?",
+    "a": "Murban futures settled at $114.03 per barrel."
+  },
+  {
+    "q": "Which three crude grades did S&P Global Platts drop from its pricing process, contributing to supply concerns for Middle Eastern benchmarks?",
+    "a": "Platts dropped three crude grades that transit via the Strait of Hormuz."
+  },
+  {
+    "q": "Which French energy major was identified by traders as the main buyer of Middle East crude cargoes during the Platts window in March 2026?",
+    "a": "TotalEnergies (TTEF.PA)."
+  },
+  {
+    "q": "How many barrels of Oman and Murban crude did TotalEnergies purchase in March 2026, and how many individual cargoes did this comprise?",
+    "a": "TotalEnergies snapped up 21 million barrels, comprising 42 cargoes."
+  },
+  {
+    "q": "What action did S&P Global Platts announce it was taking regarding its methodology in March 2026?",
+    "a": "Platts said it was seeking immediate feedback on the deliverability of Middle East crude and its Platts Dubai crude benchmark methodology."
+  },
+  {
+    "q": "What record premium range did traders report for Brazilian spot crude relative to dated Brent in March 2026?",
+    "a": "Premiums hit records of $12-$15 a barrel to dated Brent."
+  },
+  {
+    "q": "How did the premium for April-loading West African crude on a free-on-board basis change in March 2026 compared to a month prior?",
+    "a": "The premium was up about $1 a barrel from a month ago."
+  },
+  {
+    "q": "Which two crude benchmarks became the primary remaining grades for pricing Middle Eastern and some Russian barrels after Platts dropped others?",
+    "a": "Oman and Murban."
+  },
+  {
+    "q": "What percentage drop in Middle East crude exports versus March 2025 levels was reported by analytics firm Kpler for March 2026?",
+    "a": "Exports were down about 32% versus March 2025 levels."
+  },
+  {
+    "q": "Which specific Platts assessment process was blamed by some refining sources for the price spike due to reduced supply availability?",
+    "a": "The Platts Market on Close (MOC) process."
+  },
+  {
+    "q": "What was the average premium for Dubai crude over swaps in February 2026 before the surge in March 2026?",
+    "a": "The average premium was 90 cents per barrel."
+  },
+  {
+    "q": "What was the average premium for Oman crude over Dubai swaps in February 2026 before the surge in March 2026?",
+    "a": "The average premium was 75 cents per barrel."
+  },
+  {
+    "q": "Which two cities were listed as the reporting locations for the Reuters article published on March 16, 2026?",
+    "a": "Singapore and New Delhi."
+  },
+  {
+    "q": "What specific condition did the refining sources cite for arguing that the remaining crude grades (Oman and Murban) were not representative of the benchmark?",
+    "a": "The sources argued the grades were not representative because they are not the benchmarks used to price Middle Eastern and some Russian barrels."
+  },
+  {
+    "q": "How many barrels of crude did TotalEnergies purchase in March 2026, and what was the average size of each cargo?",
+    "a": "TotalEnergies purchased 21 million barrels across 42 cargoes, averaging 500,000 barrels per cargo."
+  },
+  {
+    "q": "Which specific crude benchmark's methodology did S&P Global Platts state it was seeking feedback on in March 2026?",
+    "a": "The Platts Dubai crude benchmark methodology."
+  },
+  {
+    "q": "What was the price difference per barrel between the record Dubai crude price ($157.66) and the settled Murban futures price ($114.03) in March 2026?",
+    "a": "The difference was $43.63 per barrel."
+  },
+  {
+    "q": "Which two regions' spot premiums rose as Asian refiners sought alternative supply in March 2026?",
+    "a": "The Americas and Africa."
+  },
+  {
+    "q": "What was the exact date of the Reuters article that reported Middle East oil becoming the most expensive in the world?",
+    "a": "March 16, 2026."
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "spike_index": 6,
+  "direction": "down",
+  "price_before": 0.58,
+  "price_after": 0.315,
+  "delta": -0.26499999999999996,
+  "abs_delta": 0.26499999999999996,
+  "timestamp_before": "2026-03-05T04:30:21+00:00",
+  "timestamp_after": "2026-03-05T13:30:27+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.newsweek.com/100k-polymarket-winner-wagers-on-us-forces-entering-iran-11633078",
+      "file": "a517bdff21c0.txt",
+      "title": "$100K Polymarket winner wagers on US forces entering Iran - Newsweek",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": null,
+      "text_length": 4492,
+      "status": "ok",
+      "num_tokens": 929
+    },
+    {
+      "url": "http://reuters.com/world/asia-pacific/us-kurds-discuss-potential-iran-military-operation-sources-say-2026-03-04/",
+      "file": "3308de0eb549.txt",
+      "title": "U.S., Kurds discuss potential Iran military operation, sources say | Reuters",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "Erin Banco",
+      "text_length": 4414,
+      "status": "ok",
+      "num_tokens": 900
+    },
+    {
+      "url": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-05-26?post-id=cmmdap1w600003b6s5xfcj2op",
+      "file": "d3d33423ea5d.txt",
+      "title": "Day 6 of Middle East conflict \u2014 countries intercepting Iranian strikes, US ramps up campaign | CNN",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Helen Regan, Paula Newton, Michael Rios, Aditi Sangal, Austin Culpepper, Nina Giraldo, Tamar Michaelis, Vasco Cotovio, Clarissa Ward, Nechirvan Mando, Mitchell McCluskey, Sharon Braithwaite, Max Saltman, Haley Britzky, Tori B. Powell, Maureen Chowdhury, Oren Liebermann, Samantha Waldenberg, Piper Hudspeth Blackburn, Adam Cancryn, Sarah Ferris, Annie Grayer, Matt Egan, John Towfighi, Thomas Bordeaux, Gianluca Mezzofiore, Lauren Kent, Sophie Tanno, Joseph Ataman, Alex  Leeds Matthews, Soph Warnes, Rosa de Acosta, Rhyannon Bartlett-Imadegawa, Lou Robinson, Ren\u00e9e Rigdon, Yahya Salem, Jennifer Hansler, Zachary Cohen, Eyad Kourdi, Charbel Mallo, Nina Subkhanberdina, Sana Noor Haq, Alejandra Jaramillo, Zeena Saifi, Avery Schmitz, Mostafa Salem, Rebekah Riess, Charlotte Reck, Tala Alrajjal, Billy Stockwell, Kaanita Iyer, Logan Schiciano, Brian Stelter, Barbie Latza Nadeau, Chris Isidore, Leila Gharagozlou, Olesya Dmitracova, Eugenia Yosef, Jessie Yeung, Todd Symons, Antoinette Radford, Rhea Mogul, Laura Sharman, Yoonjung Seo, Karina Tsui, Will Ripley, Kareem El Damanhoury, Frederik Pleitgen, Ivan Watson, Yumi Asada, Katherine Dautrich",
+      "text_length": 21774,
+      "status": "ok",
+      "num_tokens": 4356
+    },
+    {
+      "url": "https://www.nbcnews.com/politics/national-security/russia-providing-intelligence-iran-location-us-forces-sources-say-rcna262115",
+      "file": "39169345c400.txt",
+      "title": "Russia is providing intelligence to Iran on the location of U.S. forces, sources say",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": null,
+      "text_length": 4400,
+      "status": "ok",
+      "num_tokens": 890
+    },
+    {
+      "url": "https://content.usatoday.com/story/news/world/2026/03/02/how-us-military-launched-iran-war/88942259007/",
+      "file": "ae1038ca6e53.txt",
+      "title": "USA TODAY - Breaking News and Latest News Today",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "text_length": 452,
+      "status": "ok",
+      "num_tokens": 97
+    }
+  ],
+  "total_tokens": 7172
+}

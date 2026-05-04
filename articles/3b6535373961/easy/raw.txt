@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In the ultimatum delivered by U.S. War Secretary Pete Hegseth to Anthropic CEO Dario Amodei during a Tuesday meeting in late February 2026, what specific deadline was given for Anthropic to lift restrictions on its Claude AI system, and what was the primary financial consequence threatened if the company failed to comply?",
+    "a": "The deadline was Friday, and the threatened consequence was the cancellation of a $200 million Pentagon contract."
+  },
+  {
+    "q": "What specific military operation in January 2026 triggered the dispute between the Pentagon and Anthropic, and which Venezuelan leader was captured during that operation?",
+    "a": "The operation was the U.S. military raid to capture Venezuelan leader Nicolás Maduro."
+  },
+  {
+    "q": "According to sources, what two specific policy restrictions does Anthropic maintain regarding its Claude AI system that the Pentagon argues are unacceptable for lawful military use?",
+    "a": "Anthropic prohibits the use of its products for fully autonomous weapons and mass surveillance of Americans."
+  },
+  {
+    "q": "Beyond contract termination, what two alternative punitive measures did U.S. War Secretary Pete Hegseth warn Anthropic could face if it refused to allow all lawful military uses of Claude?",
+    "a": "The measures were designation as a supply chain risk and possible invocation of the Defense Production Act."
+  },
+  {
+    "q": "In which season of which year was the $200 million contract awarded to Anthropic for operating Claude inside the Pentagon’s classified networks?",
+    "a": "The contract was awarded in the summer of 2025."
+  },
+  {
+    "q": "Which other AI chatbot, developed by Elon Musk, had reportedly agreed to allow its products for all lawful purposes, including integration into classified systems, as of late February 2026?",
+    "a": "Elon Musk’s Grok AI chatbot."
+  },
+  {
+    "q": "What specific comparison did U.S. War Secretary Pete Hegseth use during his meeting with Anthropic CEO Dario Amodei to illustrate the Pentagon’s frustration with categorical restrictions on technology use?",
+    "a": "Hegseth compared the situation to being told the military could not use a specific aircraft for a mission."
+  },
+  {
+    "q": "What specific concern did a senior Pentagon official cite to argue that the department’s position on AI usage had nothing to do with mass surveillance or autonomous targeting?",
+    "a": "The official stated that there is always a human involved and the department always follows the law."
+  },
+  {
+    "q": "What potential operational disruption did Pentagon officials cite as a consequence of terminating Anthropic’s contract, given Claude’s status in the defense infrastructure?",
+    "a": "Cancellation could disrupt existing workflows and require the department to transition sensitive systems to an alternative provider."
+  },
+  {
+    "q": "What specific legal mechanism did U.S. War Secretary Pete Hegseth explicitly reference as a potential tool to compel access to frontier AI systems deemed critical to defense needs?",
+    "a": "The Defense Production Act."
+  },
+  {
+    "q": "Who is the CEO of Anthropic who met with U.S. War Secretary Pete Hegseth at the Pentagon in late February 2026?",
+    "a": "Dario Amodei."
+  },
+  {
+    "q": "What specific designation could restrict Anthropic’s ability to work with federal vendors and contractors if the company is deemed to pose reliability or governance concerns?",
+    "a": "Supply chain risk designation."
+  },
+  {
+    "q": "According to the article, what is the current status of Claude within the Pentagon’s infrastructure as of February 2026?",
+    "a": "Claude is the only advanced, commercial AI model of its kind operating inside the Pentagon’s classified networks."
+  },
+  {
+    "q": "What did Anthropic CEO Dario Amodei argue to U.S. War Secretary Pete Hegseth regarding the impact of the company’s restrictions on War Department operations?",
+    "a": "Amodei argued that the restrictions would not interfere with lawful, legitimate War Department operations."
+  },
+  {
+    "q": "What did Anthropic’s spokesperson say the company continued to do with the Department of Defense regarding usage policies in late February 2026?",
+    "a": "They continued good-faith conversations to ensure Anthropic can continue to support the government's national security mission responsibly."
+  },
+  {
+    "q": "Which U.S. government official is named in a lawsuit along with other defendants, as noted in the article captioned with a photo from February 2026?",
+    "a": "U.S. War Secretary Pete Hegseth."
+  },
+  {
+    "q": "What specific type of accounts did a top AI firm allege Chinese labs used to siphon U.S. tech, as mentioned in the article header in February 2026?",
+    "a": "24,000 fake accounts."
+  },
+  {
+    "q": "What broader strategic test does the dispute between the Pentagon and Anthropic represent regarding the control of advanced AI guardrails?",
+    "a": "It represents an early test of whether private companies or the Pentagon controls the guardrails on advanced AI inside U.S. defense systems."
+  },
+  {
+    "q": "What specific claim did the Pentagon make about Anthropic’s inquiry regarding the January 2026 Venezuelan operation that escalated the conflict?",
+    "a": "The Pentagon claimed Anthropic asked whether its product was used in the operation in a way that suggested the company may not approve if it was."
+  },
+  {
+    "q": "How did U.S. War Secretary Pete Hegseth characterize his relationship with Anthropic’s technology during the ultimatum meeting in late February 2026?",
+    "a": "He praised the company’s technology and said the department wants to continue working with the firm."
+  },
+  {
+    "q": "What specific risk does invoking the Defense Production Act represent in the context of the Pentagon’s leverage over Anthropic?",
+    "a": "It represents a rare attempt to use national security authorities to compel access to frontier AI systems."
+  },
+  {
+    "q": "What did Anthropic state as the purpose of its safety-oriented policies in the context of advanced AI systems becoming more powerful?",
+    "a": "The policies are meant to reduce the risk of misuse."
+  },
+  {
+    "q": "Which news organization published the article detailing the Pentagon’s ultimatum to Anthropic on February 24, 2026?",
+    "a": "Fox News."
+  },
+  {
+    "q": "What specific consequence did a supply chain risk designation signal regarding Anthropic’s reliability or governance?",
+    "a": "It signaled the company poses reliability or governance concerns."
+  },
+  {
+    "q": "What did other frontier AI firms reportedly indicate they were close to achieving with the Pentagon as of late February 2026?",
+    "a": "They were close to similar arrangements as Grok, allowing their products for all lawful purposes."
+  },
+  {
+    "q": "What specific outcome did the article suggest could shape how the military partners with leading AI developers in the future?",
+    "a": "The outcome of the dispute could shape how the military partners with leading AI developers as it moves to integrate more powerful machine learning tools into national security operations."
+  }
+]

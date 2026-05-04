@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the March 5, 2026 vote to fund the Department of Homeland Security, what was the final tally in the U.S. House of Representatives, and which party held the majority?",
+    "a": "The vote was 221 to 209, with Republicans holding the majority."
+  },
+  {
+    "q": "During the week of March 5, 2026, how many times had the U.S. Senate failed to reach the 60-vote threshold needed to advance the Department of Homeland Security funding bill?",
+    "a": "The Senate had failed for a third time to reach the 60-vote threshold."
+  },
+  {
+    "q": "Which two specific fatal shootings involving federal agents in Minneapolis in January 2026 prompted Democrats to oppose Department of Homeland Security funding without reforms?",
+    "a": "The first fatal shooting of an unspecified individual and the second fatal shooting of American citizen Alex Pretti."
+  },
+  {
+    "q": "On March 5, 2026, which U.S. President announced the replacement of Kristi Noem as the Secretary of the Department of Homeland Security?",
+    "a": "U.S. President Donald Trump announced the replacement."
+  },
+  {
+    "q": "Which U.S. Senator from Connecticut stated that the firing of Kristi Noem might make it easier for Democrats to negotiate on Department of Homeland Security funding?",
+    "a": "Democratic Senator Richard Blumenthal of Connecticut."
+  },
+  {
+    "q": "According to South Dakota Republican U.S. Senator John Thune in early March 2026, why is the funding of the Department of Homeland Security more urgent due to the war with Iran?",
+    "a": "Because of enhanced terror threats from Iran and Iran-funded terrorist groups."
+  },
+  {
+    "q": "In a statement issued on Tuesday, March 3, 2026, which U.S. House Speaker argued that military action in Iran makes it crucial to have a fully staffed Department of Homeland Security?",
+    "a": "Louisiana Republican U.S. House Speaker Mike Johnson."
+  },
+  {
+    "q": "On Wednesday, March 4, 2026, which Louisiana Republican U.S. House Majority Leader accused Democrats of playing political games by voting against Department of Homeland Security funding?",
+    "a": "Louisiana Republican U.S. House Majority Leader Steve Scalise."
+  },
+  {
+    "q": "Which specific deadly incident in Austin, Texas, did Steve Scalise cite on March 4, 2026, to argue for the need for a fully functioning Department of Homeland Security?",
+    "a": "A deadly shooting at a bar in Austin, Texas."
+  },
+  {
+    "q": "On what date in February 2026 did funding for the Department of Homeland Security lapse, leading to the partial government shutdown?",
+    "a": "Funding lapsed on February 14, 2026."
+  },
+  {
+    "q": "According to New York Democratic U.S. Senate Minority Leader Chuck Schumer in early March 2026, what was the status of negotiations between Democrats and the White House regarding immigration enforcement restraints?",
+    "a": "Both sides were still negotiating and exchanging proposals, but Schumer stated they were still far apart."
+  },
+  {
+    "q": "What three specific reforms did Democrats demand for federal immigration agents following the fatal shooting of Alex Pretti in Minnesota?",
+    "a": "Requiring agents to wear body cameras and identification, banning them from wearing masks, and mandating judicial warrants for arrests on private property."
+  },
+  {
+    "q": "Which three agencies under the Department of Homeland Security were mentioned as continuing operations during the March 2026 shutdown, alongside Immigration and Customs Enforcement and Customs and Border Protection?",
+    "a": "The Transportation Security Administration, the Coast Guard, and the Federal Emergency Management Agency."
+  },
+  {
+    "q": "Which piece of legislation passed last summer provided the multibillion-dollar cash infusion that kept the Trump administration's immigration enforcement campaign funded during the March 2026 shutdown?",
+    "a": "The One Big Beautiful Bill Act."
+  },
+  {
+    "q": "In a news conference on Tuesday, March 3, 2026, which New York Democratic U.S. House Minority Leader criticized the use of the Iran war as an excuse for unrestricted ICE operations?",
+    "a": "New York Democratic U.S. House Minority Leader Hakeem Jeffries."
+  },
+  {
+    "q": "How many House Democrats supported the Department of Homeland Security funding bill when it was passed in January 2026, before the second fatal shooting in Minneapolis?",
+    "a": "Just seven House Democrats supported the measure."
+  },
+  {
+    "q": "Which U.S. Senator from South Dakota described using the Department of Homeland Security as a political pawn as a terrible idea in early March 2026?",
+    "a": "Republican U.S. Senate Majority Leader John Thune."
+  },
+  {
+    "q": "What specific time period did the House-approved measure in March 2026 aim to fund the Department of Homeland Security through?",
+    "a": "The measure aimed to fund the department through September 2026."
+  },
+  {
+    "q": "Which two federal agencies were the primary center of the standoff between Democrats and the White House regarding immigration enforcement restraints during the March 2026 shutdown?",
+    "a": "Immigration and Customs Enforcement and Customs and Border Protection."
+  },
+  {
+    "q": "What specific concern did House Speaker Mike Johnson express on March 3, 2026, regarding America's adversaries watching for signs of weakness?",
+    "a": "He stated that global tensions are high and threats are constantly evolving, so America's adversaries are watching for weakness."
+  },
+  {
+    "q": "Which U.S. President's administration's immigration enforcement campaign remained funded during the March 2026 shutdown due to funds from the One Big Beautiful Bill Act?",
+    "a": "The Trump administration's immigration enforcement campaign."
+  },
+  {
+    "q": "What specific action did Senate Democrats take on March 5, 2026, regarding the similar legislation to fund the Department of Homeland Security that the House had just passed?",
+    "a": "Senate Democrats blocked similar legislation, preventing it from advancing."
+  },
+  {
+    "q": "Which U.S. Senator from New York stated that both sides were still exchanging proposals but remained far apart on restraints for federal immigration agents in early March 2026?",
+    "a": "Democratic U.S. Senate Minority Leader Chuck Schumer."
+  },
+  {
+    "q": "What specific justification did Steve Scalise give on March 4, 2026, for why it is dangerous to continue the Department of Homeland Security shutdown?",
+    "a": "He argued that the heightened threat environment and global tensions require a fully functioning department with all capabilities."
+  },
+  {
+    "q": "Which U.S. House Minority Leader characterized the entire situation of funding DHS while spending billions on Iran as 'insane' in a March 2026 news conference?",
+    "a": "New York Democratic U.S. House Minority Leader Hakeem Jeffries."
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "hash": "f43b5e46b63a",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202603170810BIZWIRE_USPRX____20260316_BW779192-1",
+      "title": "CrowdStrike and Nebius Partner to Unify Security Across the Next Generation of AI Cloud Infrastructure – Company Announcement - FT.com",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 690,
+      "text_length": 3720
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694936",
+      "spike_id": 5,
+      "market_question": "Will Nebius Group be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.18499999999999997,
+      "spike_timestamp_before": "2026-03-14T18:30:24+00:00",
+      "spike_timestamp_after": "2026-03-15T18:00:27+00:00"
+    }
+  ]
+}

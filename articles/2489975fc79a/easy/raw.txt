@@ -1,0 +1,102 @@
+[
+  {
+    "q": "What percentage increase did West Texas Intermediate (WTI) Futures experience by the close of trade in New York, and what was the resulting price per barrel?",
+    "a": "WTI Futures surged 12 percent, reaching $90.90 per barrel."
+  },
+  {
+    "q": "Which specific geographic chokepoint was halted by the Middle East war, causing a major disruption to global fuel supplies, and what percentage of the world's crude supplies does it transport?",
+    "a": "The Strait of Hormuz was halted, and it transports roughly 20 percent of the world's crude supplies."
+  },
+  {
+    "q": "To what historical milestone does the roughly 35 percent weekly increase in WTI crude oil price date back, and in what year did the futures contract begin?",
+    "a": "It marks the biggest weekly gain in the history of the futures contract, which dates to 1983."
+  },
+  {
+    "q": "What was the settlement price and weekly percentage gain for the global benchmark Brent crude oil, and when was its last comparable weekly gain?",
+    "a": "Brent rallied 8 percent to settle at $92.69 per barrel, with its last largest gain occurring in April 2020."
+  },
+  {
+    "q": "Who is the NRMA spokesperson who warned that the price of unleaded petrol could soar if Tapis pushes past $133 per barrel?",
+    "a": "Peter Khoury is the National Roads and Motorists' Association (NRMA) spokesperson."
+  },
+  {
+    "q": "What specific benchmark for Australian petrol prices did NRMA spokesperson Peter Khoury cite as potentially exceeding $133 per barrel?",
+    "a": "He cited Tapis, the benchmark for Australian petrol prices."
+  },
+  {
+    "q": "Which investment management firm employs Michael Arone, the chief investment strategist who stated that oil prices are marching closer to $100 per barrel?",
+    "a": "Michael Arone is the chief investment strategist at State Street Investment Management."
+  },
+  {
+    "q": "What scenario did AMP economist My Bui warn could be sparked by persisted rising oil prices and higher commodity costs?",
+    "a": "My Bui warned of a global \"stagflation\" scenario."
+  },
+  {
+    "q": "According to AMP economist My Bui, what is the potential price per barrel for oil in the case of a prolonged war?",
+    "a": "Oil could reach $150 per barrel in the case of a prolonged war."
+  },
+  {
+    "q": "Which US President announced a plan to offer insurance guarantees and naval escorts to ships crossing the Strait of Hormuz?",
+    "a": "President Donald Trump announced the plan."
+  },
+  {
+    "q": "On which day of the week did Iranian media report that the Strait of Hormuz was closed and Iranian officials threatened to attack passing ships?",
+    "a": "Iranian media reported this on Monday."
+  },
+  {
+    "q": "What two factors did AMP economist My Bui identify as causing households and businesses to delay big purchases and hold back investment plans?",
+    "a": "Higher geopolitical risk and economic uncertainty."
+  },
+  {
+    "q": "Which organization offers advocacy for motorists and monitors the impact of oil prices on them?",
+    "a": "The National Roads and Motorists' Association (NRMA)."
+  },
+  {
+    "q": "What specific phrase did NRMA spokesperson Peter Khoury use to describe his concern about the future of oil prices?",
+    "a": "He said, \"Our concern is that there's more pain to come.\""
+  },
+  {
+    "q": "What type of ships have already been hit since the war in the Middle East broke out, according to the article?",
+    "a": "A number of tankers have been hit."
+  },
+  {
+    "q": "Which US government official's plan details were given on Friday regarding naval escorts for ships in the Strait of Hormuz?",
+    "a": "The plan was announced by President Donald Trump."
+  },
+  {
+    "q": "What effect did the US government's Friday announcement about insurance guarantees and naval escorts have on the market?",
+    "a": "It had little effect on the market."
+  },
+  {
+    "q": "According to AMP economist My Bui, how might higher household energy costs and manufacturing input costs affect household demand?",
+    "a": "They could reduce households' demand for discretionary consumption."
+  },
+  {
+    "q": "What specific date range does the article cover regarding the publication of the news about the oil price surge?",
+    "a": "The article was published on March 6, 2026."
+  },
+  {
+    "q": "What was the weekly gain percentage for Brent crude oil, and how does it compare to the WTI gain percentage?",
+    "a": "Brent rallied 8 percent, which is lower than WTI's 12 percent surge."
+  },
+  {
+    "q": "What two channels did AMP economist My Bui say rising oil prices could spark fear of global stagflation through?",
+    "a": "Higher commodity prices leading to increased costs, and higher geopolitical risk forcing delays in purchases."
+  },
+  {
+    "q": "Which specific futures contract recorded its biggest weekly gain in history during the week described in the article?",
+    "a": "The West Texas Intermediate (WTI) Futures contract."
+  },
+  {
+    "q": "What did Iranian officials threaten to do to any ship trying to pass through the Strait of Hormuz?",
+    "a": "They threatened to attack any ship trying to pass through."
+  },
+  {
+    "q": "What two types of costs did AMP economist My Bui say could rise due to supply disruption and higher commodity prices?",
+    "a": "Household energy costs and manufacturing input costs."
+  },
+  {
+    "q": "What specific concern did Michael Arone, chief investment strategist at State Street Investment Management, cite as a result of oil prices marching closer to $100 per barrel?",
+    "a": "He cited much greater volatility and anxiety."
+  }
+]

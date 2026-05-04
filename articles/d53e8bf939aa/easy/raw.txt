@@ -1,0 +1,106 @@
+[
+  {
+    "q": "On March 9, 2026, by what percentage did Brent crude oil futures rise to settle at $98.96 a barrel, marking the highest settlement price since August 2022?",
+    "a": "Brent crude oil futures rose by 6.8%."
+  },
+  {
+    "q": "During the trading session on March 9, 2026, what was the intraday high price reached by U.S. West Texas Intermediate (WTI) crude, and when was the last time it reached a comparable level?",
+    "a": "WTI hit a session high of $119.48 a barrel, its highest since June 2022."
+  },
+  {
+    "q": "Following the U.S. and Israeli bombing of Iran on February 28, 2026, by what percentage had Brent crude oil surged by March 9, 2026?",
+    "a": "Brent crude had surged by as much as 65%."
+  },
+  {
+    "q": "Which five OPEC members, besides Saudi Arabia, were reported to be cutting oil supplies or running out of storage during the conflict in March 2026?",
+    "a": "The United Arab Emirates, Iraq, Kuwait, and Qatar."
+  },
+  {
+    "q": "Who is the new Supreme Leader of Iran, whose rise was proclaimed by hardliners on March 9, 2026, and which dashed hopes for a swift end to the war?",
+    "a": "Ayatollah Mojtaba Khamenei."
+  },
+  {
+    "q": "What percentage of the world's oil and liquefied natural gas passes through the Strait of Hormuz, which was virtually shut during the Iran war in March 2026?",
+    "a": "Roughly one-fifth (20%) of the world's oil and liquefied natural gas."
+  },
+  {
+    "q": "According to data analytics firm Kpler in March 2026, how long would it likely take for Gulf oil exports to return to full capacity even if the Strait of Hormuz opened immediately?",
+    "a": "It would likely take six to seven weeks."
+  },
+  {
+    "q": "How much Saudi crude did Saudi Aramco offer in rare tenders in March 2026 to counteract the closure of the Strait of Hormuz?",
+    "a": "More than 4 million barrels."
+  },
+  {
+    "q": "Which U.S. President was expected to review options to tame oil prices, including a possible joint release from strategic reserves, in March 2026?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "What specific option involving domestic shipping regulations was cited by anonymous sources as a potential measure for U.S. President Donald Trump to lower oil prices in March 2026?",
+    "a": "Lifting legal requirements that domestic fuel move only on U.S.-flagged ships."
+  },
+  {
+    "q": "Which analyst from UBS stated in March 2026 that tapping strategic oil reserves would be \"a drop in the ocean\" compared to the potential supply disruption from a closed Strait of Hormuz?",
+    "a": "Giovanni Staunovo."
+  },
+  {
+    "q": "Did the Group of Seven (G7) nations commit to releasing emergency oil reserves in response to surging prices in March 2026?",
+    "a": "No, they stopped short of committing to release emergency reserves."
+  },
+  {
+    "q": "Which country's Prime Minister, Shehbaz Sharif, announced school closures and remote work for office workers in March 2026 to cut fuel use due to the Iran war?",
+    "a": "Pakistan."
+  },
+  {
+    "q": "Which European country's Prime Minister, Viktor Orban, announced a cap on fuel prices and urged the European Union to suspend sanctions on Russian energy in March 2026?",
+    "a": "Hungary."
+  },
+  {
+    "q": "What was the settlement price for U.S. West Texas Intermediate (WTI) crude on March 9, 2026, after rising $3.87?",
+    "a": "$94.77 a barrel."
+  },
+  {
+    "q": "Which Greek-operated vessel was reported to have sailed through the Strait of Hormuz with Saudi crude in March 2026, signaling that some commercial navigation was still possible?",
+    "a": "A Greek-operated oil tanker."
+  },
+  {
+    "q": "What were the all-time high prices for Brent and WTI crude oil in July 2008, which were compared to the March 2026 intraday highs?",
+    "a": "$147.50 a barrel for Brent and $147.27 for WTI."
+  },
+  {
+    "q": "Which two crude benchmarks were reported to have given back all their session gains and traded below Friday's settlement price shortly after the March 9, 2026 close?",
+    "a": "WTI and Brent."
+  },
+  {
+    "q": "What technical market condition was cited by analysts as a factor in the market retreat from session highs on March 9, 2026, with WTI being the most overbought on record?",
+    "a": "Profit-taking in a technically overbought market."
+  },
+  {
+    "q": "Which central bank policy tool is generally used to combat rising inflation caused by surging energy prices, and what is its typical effect on economic growth?",
+    "a": "Boosting interest rates, which lifts borrowing costs and can slow economic growth."
+  },
+  {
+    "q": "By what percentage did WTI crude oil rise during the trading session on March 9, 2026?",
+    "a": "4.3%."
+  },
+  {
+    "q": "Which port in Saudi Arabia can Saudi Aramco use to divert some oil flows away from the Strait of Hormuz?",
+    "a": "The Red Sea port of Yanbu."
+  },
+  {
+    "q": "What fear regarding airline operations was sparked by the surge in jet fuel prices due to the Iran war in March 2026?",
+    "a": "Fears of a deep travel slump and the potential for the widespread grounding of planes."
+  },
+  {
+    "q": "Which Group of Seven (G7) countries were considering tapping strategic petroleum reserves in March 2026 to limit inflation pressures?",
+    "a": "The U.S. and other Group of Seven (G7) countries."
+  },
+  {
+    "q": "What did Pakistan's Prime Minister Shehbaz Sharif announce regarding government spending in March 2026 to cope with surging oil prices?",
+    "a": "He announced measures to cut government spending."
+  },
+  {
+    "q": "Which two crude benchmarks reached their highest settlement prices since August 2022 on March 9, 2026?",
+    "a": "Brent and U.S. West Texas Intermediate (WTI) crude."
+  }
+]

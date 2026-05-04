@@ -1,0 +1,27 @@
+{
+  "hash": "705a5687d005",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://apnews.com/article/iran-israel-us-march-9-2026-b2aa51ef51d4b57103ffee0c95bc2ff7",
+      "title": "Trump says Iran war could be over soon | AP News",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1687,
+      "text_length": 8174
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1466016",
+      "spike_id": 3,
+      "market_question": "US x Iran ceasefire by April 30?",
+      "event_title": "US x Iran ceasefire by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.26000000000000006,
+      "spike_timestamp_before": "2026-03-09T01:30:28+00:00",
+      "spike_timestamp_after": "2026-03-09T21:00:41+00:00"
+    }
+  ]
+}

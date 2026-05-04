@@ -1,0 +1,37 @@
+{
+  "hash": "8c3db2206182",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnn.com/2026/03/19/middleeast/us-israel-iran-middle-east-war-day-20-what-we-know-intl-hnk",
+      "title": "What we know on the 20th day of the US and Israel’s war with Iran | CNN",
+      "published_date": "2026-03-18T17:24:37.594Z",
+      "author": "Jessie Yeung",
+      "num_tokens": 1455,
+      "text_length": 7204
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "678747",
+      "spike_id": 6,
+      "market_question": "Will Israel strike 4 countries in 2026?",
+      "event_title": "How many different countries will Israel strike in 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.2665,
+      "spike_timestamp_before": "2026-03-18T03:00:49+00:00",
+      "spike_timestamp_after": "2026-03-18T20:00:56+00:00"
+    },
+    {
+      "market_id": "678747",
+      "spike_id": 7,
+      "market_question": "Will Israel strike 4 countries in 2026?",
+      "event_title": "How many different countries will Israel strike in 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.16699999999999998,
+      "spike_timestamp_before": "2026-03-18T21:30:41+00:00",
+      "spike_timestamp_after": "2026-03-18T23:30:41+00:00"
+    }
+  ]
+}

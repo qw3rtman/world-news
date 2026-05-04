@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In an interview with Sky News on March 12, 2026, what condition did U.S. Treasury Secretary Scott Bessent state must be met before the U.S. Navy, potentially with an international coalition, begins escorting vessels through the Strait of Hormuz?",
+    "a": "The U.S. must have complete control of the skies and Iran’s missile rebuilding capabilities must be completely degraded."
+  },
+  {
+    "q": "When asked by Sky News on March 12, 2026, whether there was a financial cost that would cause U.S. Treasury Secretary Scott Bessent to confront President Donald Trump about the affordability of the war on Iran, what was his response?",
+    "a": "He answered \"absolutely not.\""
+  },
+  {
+    "q": "According to a Reuters report from March 11, 2026, what was the estimated cost to the United States for the first six days of the war on Iran, as stated during a congressional briefing by Trump administration officials?",
+    "a": "At least $11.3 billion."
+  },
+  {
+    "q": "On March 11, 2026, which entity did the Trump administration announce it would release 172 million barrels of oil from to help reduce soaring energy prices?",
+    "a": "The strategic petroleum reserve."
+  },
+  {
+    "q": "Which organization, identified as Iran’s Islamic Revolutionary Guard Corps, stated in March 2026 that it would block oil shipments from the Gulf unless U.S. and Israeli attacks ceased?",
+    "a": "Iran’s Islamic Revolutionary Guard Corps."
+  },
+  {
+    "q": "In an interview on March 12, 2026, U.S. Treasury Secretary Scott Bessent noted that which two types of tankers had recently passed through the Strait of Hormuz, indicating that the straits had not been mined?",
+    "a": "Iranian tankers and some Chinese flag tankers."
+  },
+  {
+    "q": "As of March 12, 2026, what price level had Brent crude oil reached due to worsening supply concerns from Iran's attacks on shipping?",
+    "a": "It topped $100 a barrel."
+  },
+  {
+    "q": "Which two countries' military strikes on Iran, followed by Tehran's response, were cited in March 2026 as the causes for widened regional tensions and paralyzed shipping through the Strait of Hormuz?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "In the March 12, 2026 interview with Sky News, U.S. Treasury Secretary Scott Bessent stated that the U.S. Navy would escort vessels through the Strait of Hormuz when it was militarily possible, potentially alongside which group?",
+    "a": "An international coalition."
+  },
+  {
+    "q": "According to the March 12, 2026 reporting, the paralysis of shipping through the Strait of Hormuz disrupted vital flows of which two energy commodities in West Asia?",
+    "a": "Oil and gas."
+  },
+  {
+    "q": "On March 12, 2026, U.S. Treasury Secretary Scott Bessent told Sky News that the plan to escort ships would proceed as soon as Iran’s capabilities for rebuilding what specific military asset were completely degraded?",
+    "a": "Missiles."
+  },
+  {
+    "q": "Which publication reported on March 11, 2026, that Trump administration officials estimated the first six days of the war on Iran cost the U.S. at least $11.3 billion?",
+    "a": "Reuters."
+  },
+  {
+    "q": "In March 2026, which Iranian entity claimed it would block oil shipments from the Gulf unless the United States and Israel stopped their attacks?",
+    "a": "Iran’s Islamic Revolutionary Guard Corps."
+  },
+  {
+    "q": "On March 12, 2026, U.S. Treasury Secretary Scott Bessent identified which specific geographic chokepoint as the location where the U.S. Navy would escort vessels, potentially with an international coalition?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "According to the March 12, 2026 article, the U.S. decision to release 172 million barrels of oil from the strategic petroleum reserve was intended to address what economic issue?",
+    "a": "Soaring energy prices."
+  },
+  {
+    "q": "In the March 12, 2026 interview, U.S. Treasury Secretary Scott Bessent stated that Iranian tankers and Chinese flag tankers had come through the Strait of Hormuz, proving that the waters had not been subjected to what specific military action?",
+    "a": "Mining."
+  },
+  {
+    "q": "Which two nations' attacks on Iran were cited in March 2026 as having sent energy prices higher by disrupting oil and gas flows in West Asia?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "On March 12, 2026, U.S. Treasury Secretary Scott Bessent told Sky News that the U.S. Navy would begin escorting vessels through the Strait of Hormuz only after achieving what level of air dominance?",
+    "a": "Complete control of the skies."
+  },
+  {
+    "q": "According to the March 11, 2026 Reuters report, during which specific timeframe of the war on Iran did the United States incur costs estimated at least $11.3 billion?",
+    "a": "The first six days of the war."
+  },
+  {
+    "q": "In March 2026, which Iranian military organization warned that it would block oil shipments from the Gulf unless U.S. and Israeli attacks ceased?",
+    "a": "The Islamic Revolutionary Guard Corps."
+  },
+  {
+    "q": "On March 12, 2026, U.S. Treasury Secretary Scott Bessent stated that the U.S. Navy would escort vessels through the Strait of Hormuz as soon as it was militarily possible, potentially with which type of allied group?",
+    "a": "An international coalition."
+  },
+  {
+    "q": "Which two types of vessels did U.S. Treasury Secretary Scott Bessent cite in his March 12, 2026 Sky News interview as evidence that the Strait of Hormuz had not been mined?",
+    "a": "Iranian tankers and Chinese flag tankers."
+  },
+  {
+    "q": "According to the March 12, 2026 article, the U.S. and Israeli strikes on Iran and Tehran's subsequent response led to the paralysis of shipping through which strategic waterway?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "In March 2026, which U.S. official stated that there was no price that would cause him to confront President Donald Trump about the war on Iran becoming unaffordable?",
+    "a": "U.S. Treasury Secretary Scott Bessent."
+  },
+  {
+    "q": "On March 11, 2026, which organization reported that Trump administration officials estimated the first six days of the war on Iran cost the U.S. at least $11.3 billion?",
+    "a": "Reuters."
+  }
+]

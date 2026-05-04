@@ -1,0 +1,27 @@
+{
+  "hash": "73a396445b11",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.pbs.org/newshour/politics/fact-checking-trumps-state-of-the-union-claims-on-the-economy-immigration-and-crime",
+      "title": "Fact-checking Trump's State of the Union claims on the economy, immigration and crime | PBS News",
+      "published_date": "2026-02-25T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 2447,
+      "text_length": 11475
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "666860",
+      "spike_id": 1,
+      "market_question": "Trump out as President by March 31?",
+      "event_title": "Trump out as President by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.27099999999999996,
+      "spike_timestamp_before": "2026-02-27T09:00:49+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:59+00:00"
+    }
+  ]
+}

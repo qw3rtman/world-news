@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In February 2026, who is the U.S. President scheduled to address a joint session of the 119th Congress, and who formally invited him to speak in January?",
+    "a": "President Donald Trump is addressing the Congress, and House Speaker Mike Johnson formally invited him."
+  },
+  {
+    "q": "During the February 2026 State of the Union address by President Donald Trump, who are the two officials expected to be seated directly behind him on either side?",
+    "a": "Vice President JD Vance and House Speaker Mike Johnson."
+  },
+  {
+    "q": "According to the seating arrangement for the February 2026 State of the Union address, which groups are seated in front of President Donald Trump on the dais?",
+    "a": "Cabinet members, Supreme Court justices, Joint Chiefs of Staff, former members of Congress, and members of the diplomatic corps."
+  },
+  {
+    "q": "How are seats allocated for Senators and House members during the February 2026 State of the Union address, according to the Congressional Research Service?",
+    "a": "Seats are not assigned; they are seated on a first-come, first-served basis."
+  },
+  {
+    "q": "Approximately how many guests does the President and First Lady typically invite to sit in the gallery during the State of the Union address?",
+    "a": "About two dozen guests."
+  },
+  {
+    "q": "Who was the designated survivor for the 2025 State of the Union address, and what is the purpose of this role?",
+    "a": "Doug Collins, Secretary of the Department of Veterans Affairs, was the designated survivor; the role ensures continuity of government in case of catastrophe."
+  },
+  {
+    "q": "Which U.S. Cabinet member is absent from the February 2026 State of the Union address because they are serving as the designated survivor?",
+    "a": "The designated survivor is absent; the article notes Doug Collins held this role in 2025, implying a current incumbent holds it in 2026, but does not name the 2026 individual."
+  },
+  {
+    "q": "What is the primary purpose of the President's address to a joint session of Congress, as described in the February 2026 context?",
+    "a": "To outline the administration’s goals and address the nation’s most pressing issues."
+  },
+  {
+    "q": "In the February 2026 State of the Union address, which branch of government's leaders are seated in front of the President, alongside Cabinet members and Supreme Court justices?",
+    "a": "The Joint Chiefs of Staff."
+  },
+  {
+    "q": "Who is the U.S. President accepting the formal invitation from House Speaker Mike Johnson in January to speak at the 119th Congress joint session?",
+    "a": "President Donald Trump."
+  },
+  {
+    "q": "What is the seating policy for the general chamber during the February 2026 State of the Union address, as opposed to the dais?",
+    "a": "Seats in the rest of the chamber are not assigned, and Senators and House members use a first-come, first-served basis."
+  },
+  {
+    "q": "Which specific government official's role as designated survivor is explicitly named in the article in relation to the 2025 State of the Union address?",
+    "a": "Doug Collins, the Secretary of the Department of Veterans Affairs."
+  },
+  {
+    "q": "What is the function of the designated survivor during the State of the Union address?",
+    "a": "To remain in a secure location to ensure continuity of government in case of a catastrophe."
+  },
+  {
+    "q": "Who is expected to sit behind President Donald Trump on his left or right during the February 2026 State of the Union address?",
+    "a": "Vice President JD Vance and House Speaker Mike Johnson."
+  },
+  {
+    "q": "Which two groups of former or current officials are seated in front of the President during the February 2026 State of the Union address?",
+    "a": "Former members of Congress and members of the diplomatic corps."
+  },
+  {
+    "q": "What is the significance of the two dozen guests invited to the gallery during the February 2026 State of the Union address?",
+    "a": "To help put a human face to the President’s message for policymakers and viewers at home."
+  },
+  {
+    "q": "Which U.S. legislative body is holding a joint session for the February 2026 address by President Donald Trump?",
+    "a": "The 119th Congress."
+  },
+  {
+    "q": "Who formally invited President Donald Trump to speak at the joint session of the 119th Congress in January?",
+    "a": "House Speaker Mike Johnson."
+  },
+  {
+    "q": "Which Supreme Court officials are seated in front of the President during the February 2026 State of the Union address?",
+    "a": "Supreme Court justices."
+  },
+  {
+    "q": "What distinguishes the seating arrangement for the dais versus the rest of the chamber during the February 2026 State of the Union address?",
+    "a": "The dais has assigned seats for specific officials, while the rest of the chamber is first-come, first-served."
+  },
+  {
+    "q": "Who was the designated survivor for the State of the Union address in the previous year, 2025?",
+    "a": "Doug Collins, Secretary of the Department of Veterans Affairs."
+  },
+  {
+    "q": "What is the role of the Joint Chiefs of Staff during the February 2026 State of the Union address seating arrangement?",
+    "a": "They are seated in front of the President on the dais."
+  },
+  {
+    "q": "Which two high-ranking executive branch officials are seated behind President Donald Trump during the February 2026 State of the Union address?",
+    "a": "Vice President JD Vance and House Speaker Mike Johnson."
+  },
+  {
+    "q": "What is the purpose of inviting guests to the gallery during the February 2026 State of the Union address?",
+    "a": "To put a human face on the President’s message for policymakers and viewers."
+  },
+  {
+    "q": "Which Cabinet department did Doug Collins lead when he served as the designated survivor in 2025?",
+    "a": "The Department of Veterans Affairs."
+  }
+]

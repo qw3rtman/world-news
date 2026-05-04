@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the March 2, 2026 article published by The Verge, what specific merger did Paramount Skydance CEO David Ellison propose between Warner Bros. Discovery’s streaming service and Paramount Skydance’s streaming service, contingent on regulatory approval?",
+    "a": "The merger of HBO Max and Paramount Plus."
+  },
+  {
+    "q": "According to the March 2, 2026 report, what total subscriber count did Paramount Skydance CEO David Ellison claim the combined entity would possess if the acquisition of Warner Bros. Discovery for approximately $110 billion is approved?",
+    "a": "A little over 200 million direct-to-consumer subscribers."
+  },
+  {
+    "q": "In the context of the March 2026 bidding war for Warner Bros. Discovery, what specific per-share price did Paramount Skydance raise its offer to, causing Netflix to withdraw from the negotiations?",
+    "a": "$31 per share."
+  },
+  {
+    "q": "What was the monetary value of the previously agreed-upon deal between Netflix and Warner Bros. Discovery that collapsed in early March 2026 before Paramount Skydance’s hostile takeover bid?",
+    "a": "$83 billion."
+  },
+  {
+    "q": "During an investor call on March 2, 2026, what annual theatrical release commitment did Paramount Skydance CEO David Ellison state the merged company would make, citing Paramount’s 2026 plan of 15 movies as evidence?",
+    "a": "At least 30 films annually."
+  },
+  {
+    "q": "Which executive did Paramount Skydance CEO David Ellison commend for running HBO’s programming during the March 2, 2026 investor call, and what specific praise did he offer?",
+    "a": "Casey Bloys, who was described as doing an \"absolutely a remarkable job.\""
+  },
+  {
+    "q": "In the March 2, 2026 article, what condition did Paramount Skydance CEO David Ellison place on the future operation of the HBO brand if the $110 billion acquisition of Warner Bros. Discovery is completed?",
+    "a": "The HBO brand should operate with independence."
+  },
+  {
+    "q": "What was the initial hostile takeover bid amount announced by Paramount Skydance for Warner Bros. Discovery after the Netflix deal fell through in early March 2026?",
+    "a": "$108 billion."
+  },
+  {
+    "q": "Which specific cable news channel, owned by Warner Bros. Discovery, was mentioned in the March 2, 2026 report as part of the assets included in Paramount Skydance’s acquisition bid?",
+    "a": "CNN."
+  },
+  {
+    "q": "According to the March 2, 2026 report, what strategic advantage did Paramount Skydance CEO David Ellison cite for merging the streaming platforms of Warner Bros. Discovery and Paramount Skydance?",
+    "a": "Allowing all content to reach a broader audience than standalone platforms could achieve."
+  },
+  {
+    "q": "What was the specific financial figure cited in the March 2, 2026 article for Paramount Skydance’s final offer to acquire the entirety of Warner Bros. Discovery?",
+    "a": "About $110 billion."
+  },
+  {
+    "q": "In the March 2026 bidding war for Warner Bros. Discovery, which company initially agreed to an $83 billion deal to absorb the legacy studio’s TV and film production units before withdrawing?",
+    "a": "Netflix."
+  },
+  {
+    "q": "What specific date and time was the article by Charles Pulliam-Moore published, detailing the potential merger of HBO Max and Paramount Plus?",
+    "a": "March 2, 2026, at 4:21 PM UTC."
+  },
+  {
+    "q": "Which two major media entities were the primary competitors in the bidding war for Warner Bros. Discovery that concluded with Paramount Skydance as the frontrunner in early March 2026?",
+    "a": "Paramount Skydance and Netflix."
+  },
+  {
+    "q": "What specific operational detail did Paramount Skydance CEO David Ellison omit discussing during the March 2, 2026 investor call regarding Warner Bros. Discovery?",
+    "a": "Any potential leadership changes at WBD."
+  },
+  {
+    "q": "According to the March 2, 2026 article, how many movies did Paramount plan to release in 2026, which CEO David Ellison used to support the claim that the merged company could release 30 films annually?",
+    "a": "15 movies."
+  },
+  {
+    "q": "What was the nature of Paramount Skydance’s initial response to the failed Netflix-Warner Bros. Discovery deal in early March 2026?",
+    "a": "A hostile $108 billion takeover bid and a series of sweetened offers."
+  },
+  {
+    "q": "Which streaming service did Paramount Skydance CEO David Ellison explicitly state should \"stay HBO\" and continue as a leader in the space, even if the platforms were merged?",
+    "a": "HBO Max."
+  },
+  {
+    "q": "What specific type of assets did Netflix agree to absorb in its failed $83 billion deal with Warner Bros. Discovery, as reported in March 2026?",
+    "a": "The legacy studio’s TV and film production units."
+  },
+  {
+    "q": "In the March 2, 2026 report, what was the primary reason given by Paramount Skydance CEO David Ellison for wanting to bring the streaming platforms together?",
+    "a": "To enable all content to reach a broader audience."
+  },
+  {
+    "q": "Which specific executive role at HBO did Casey Bloys hold, as referenced in the March 2, 2026 article regarding David Ellison’s comments?",
+    "a": "Head of programming."
+  },
+  {
+    "q": "What was the final offer price per share that Paramount Skydance presented to Warner Bros. Discovery shareholders in the March 2026 bidding war, leading to Netflix’s exit?",
+    "a": "$31 per share."
+  },
+  {
+    "q": "According to the March 2, 2026 article, what was the total estimated value of the acquisition deal that would merge Warner Bros. Discovery and Paramount Skydance?",
+    "a": "About $110 billion."
+  },
+  {
+    "q": "What specific commitment did Paramount Skydance CEO David Ellison make regarding theatrical releases for the merged entity in the March 2, 2026 investor call?",
+    "a": "To commit to the theatrical release of at least 30 films annually."
+  },
+  {
+    "q": "Which two streaming services were proposed to be merged by Paramount Skydance CEO David Ellison in the March 2, 2026 article, pending regulatory approval of the Warner Bros. Discovery acquisition?",
+    "a": "Paramount Plus and HBO Max."
+  }
+]

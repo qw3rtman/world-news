@@ -1,0 +1,102 @@
+[
+  {
+    "q": "During the market sell-off on Thursday, March 19, 2026, what were the approximate percentage declines for spot gold and spot silver, and what specific price did spot gold settle at?",
+    "a": "Spot gold fell more than 3% to $4,654.29 an ounce, while spot silver slid more than 3% to $72.62 an ounce."
+  },
+  {
+    "q": "In the premarket trading session on Thursday, March 19, 2026, how much did the ProShares Ultra Silver ETF decline, and what was the percentage drop for the iShares Silver Trust ETF?",
+    "a": "The ProShares Ultra Silver ETF shed 20%, while the iShares Silver Trust ETF was down 4.4%."
+  },
+  {
+    "q": "Which two mining companies experienced share price drops of more than 6% and 5% respectively during the sell-off on Thursday, March 19, 2026?",
+    "a": "First Majestic Silver fell more than 6%, and Coeur Mining fell more than 5%."
+  },
+  {
+    "q": "During the European trading session on Thursday, March 19, 2026, by what percentage did the Stoxx Europe Basic Resources index trade lower, and what was the share price decline for Fresnillo?",
+    "a": "The Stoxx Europe Basic Resources index traded 6% lower, and Fresnillo shares were down 9.3%."
+  },
+  {
+    "q": "As of Wednesday, March 18, 2026, what decision did the U.S. Federal Reserve make regarding interest rates, and what reason did it cite regarding the conflict in the Middle East?",
+    "a": "The U.S. Federal Reserve held rates steady and cited \"uncertain\" impacts arising from the conflict."
+  },
+  {
+    "q": "On Wednesday, March 18, 2026, what interest rate decision did the Bank of Japan make, and how did it characterize the inflation risks associated with the Iran war?",
+    "a": "The Bank of Japan kept interest rates steady, noting that inflation risks were tilted to the upside due to the Iran war."
+  },
+  {
+    "q": "When did the Swiss National Bank announce its decision to hold its key policy rate at 0%, and what did it say about its willingness to intervene in the foreign exchange market?",
+    "a": "The Swiss National Bank announced the decision on Thursday, March 19, 2026, stating its willingness to intervene was rising as the war dragged on."
+  },
+  {
+    "q": "In the year 2025, by what percentages did gold and silver prices surge over the course of the year, according to the article?",
+    "a": "Gold surged 66% and silver surged 135% over the course of 2025."
+  },
+  {
+    "q": "Who is Paul Surguy, and what did he tell CNBC on Tuesday, March 17, 2026, regarding the transmission of gold given the closure of airspace and shipping lanes?",
+    "a": "Paul Surguy is the managing director and head of investment management and proposition at Kingswood Group; he stated that the transmission of gold would be more expensive or impossible due to closed airspace and shipping lanes."
+  },
+  {
+    "q": "According to Iain Barnes, the CIO at British wealth management firm Netwealth, who are the marginal buyers of gold and what are they doing in response to higher borrowing costs?",
+    "a": "Financial, rather than fundamental investors are the marginal buyers of gold, and they are reducing risk across the board, especially fast-moving, leveraged funds."
+  },
+  {
+    "q": "In a Tuesday morning note on March 17, 2026, what two reasons did Dan Coatsworth, head of markets at AJ Bell, suggest for the decline in gold prices?",
+    "a": "Dan Coatsworth suggested investors were either liquidating assets that had previously served them well or reacting to a further strengthening in the U.S. dollar."
+  },
+  {
+    "q": "On Tuesday, March 17, 2026, oil and gas prices spiked after energy facilities in which two countries were hit by strikes?",
+    "a": "Energy facilities in Iran and Qatar were hit by strikes."
+  },
+  {
+    "q": "As of Thursday, March 19, 2026, how long had the U.S.-Iran war been ongoing, and what specific economic concern was it fueling regarding energy?",
+    "a": "The conflict was heading toward its third week, fueling concerns about an energy shock that would add inflationary pressure to economies across the globe."
+  },
+  {
+    "q": "During the European trading session on Thursday, March 19, 2026, by what percentage was the share price of mining giant Antofagasta lower?",
+    "a": "Antofagasta was 8.2% lower."
+  },
+  {
+    "q": "What was the settlement price for silver futures on Thursday, March 19, 2026, and by what percentage did they lose?",
+    "a": "Silver futures lost more than 8% to settle at $71.25."
+  },
+  {
+    "q": "Which ETF, described as being at the center of a so-called meme trade earlier in 2026, declined by 4.4% in premarket trading on Thursday, March 19, 2026?",
+    "a": "The iShares Silver Trust ETF."
+  },
+  {
+    "q": "On Thursday, March 19, 2026, which central banks in Europe were due to update their respective monetary policies later that day?",
+    "a": "The central banks of the U.K. and the euro zone were due to update their respective monetary policies."
+  },
+  {
+    "q": "According to Paul Surguy of Kingswood Group, why might perceived safe haven assets like gold be sold during the broad market selloffs?",
+    "a": "Investors are selling perceived safe haven assets to fund purchases of assets that may have overacted to the current situation."
+  },
+  {
+    "q": "Why does Dan Coatsworth of AJ Bell state that gold often declines when the U.S. dollar appreciates?",
+    "a": "Gold becomes more expensive for buyers of other currencies when the U.S. dollar appreciates."
+  },
+  {
+    "q": "What specific single-day event did silver futures suffer at the end of January 2026, as described in the article?",
+    "a": "Silver futures suffered their biggest single-day blow since the 1980s."
+  },
+  {
+    "q": "Which company is identified as the world’s leading silver producer and a major gold producer, and by what percentage did its shares fall during the European trading session on Thursday, March 19, 2026?",
+    "a": "Fresnillo is the world’s leading silver producer and major gold producer; its shares were down 9.3%."
+  },
+  {
+    "q": "What was the price of front-month gold futures on Thursday, March 19, 2026, and by what percentage were they down?",
+    "a": "Front-month gold futures were down around 5% at about $4,648.20."
+  },
+  {
+    "q": "Which ETF linked to silver slid more than 4% in premarket trading on Thursday, March 19, 2026?",
+    "a": "Aberdeen’s Physical Silver Shares ETF."
+  },
+  {
+    "q": "According to the article, what broader market sentiment has seen global equities and government bonds fall in tandem with the gold and silver sell-off on Thursday, March 19, 2026?",
+    "a": "Risk-off sentiment."
+  },
+  {
+    "q": "What did the Swiss National Bank flag as a reason for its rising willingness to intervene in the foreign exchange market on Thursday, March 19, 2026?",
+    "a": "The war in Iran."
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "hash": "172a22a85002",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://apnews.com/live/iran-war-israel-trump-lebanon-march-04-2026",
+      "title": "Senate rejects war powers bill to halt attacks against Iran | AP News",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 6903,
+      "text_length": 33059
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1484894",
+      "spike_id": 1,
+      "market_question": "US x Iran ceasefire by May 31?",
+      "event_title": "US x Iran ceasefire by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.265,
+      "spike_timestamp_before": "2026-03-02T18:00:51+00:00",
+      "spike_timestamp_after": "2026-03-03T16:00:31+00:00"
+    }
+  ]
+}

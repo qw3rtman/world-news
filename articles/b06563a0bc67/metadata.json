@@ -1,0 +1,37 @@
+{
+  "hash": "b06563a0bc67",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://apnews.com/article/iran-us-us-israel-trump-979a41042f073f8f4004e34e67b470f5",
+      "title": "What to know about US-Israeli attacks on Iran | AP News",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1294,
+      "text_length": 5954
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1288111",
+      "spike_id": 2,
+      "market_question": "Will Israel or the US target an Iranian nuclear facility?",
+      "event_title": "What will the U.S./Israel target in Iran by February 28?",
+      "spike_direction": "up",
+      "spike_delta": 0.733,
+      "spike_timestamp_before": "2026-03-01T00:30:41+00:00",
+      "spike_timestamp_after": "2026-03-01T06:00:42+00:00"
+    },
+    {
+      "market_id": "1288111",
+      "spike_id": 3,
+      "market_question": "Will Israel or the US target an Iranian nuclear facility?",
+      "event_title": "What will the U.S./Israel target in Iran by February 28?",
+      "spike_direction": "down",
+      "spike_delta": -0.7075,
+      "spike_timestamp_before": "2026-03-01T06:00:42+00:00",
+      "spike_timestamp_after": "2026-03-01T19:00:27+00:00"
+    }
+  ]
+}

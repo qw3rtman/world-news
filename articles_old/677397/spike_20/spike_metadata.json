@@ -1,0 +1,65 @@
+{
+  "spike_index": 20,
+  "direction": "up",
+  "price_before": 0.535,
+  "price_after": 0.715,
+  "delta": 0.17999999999999994,
+  "abs_delta": 0.17999999999999994,
+  "timestamp_before": "2026-03-11T05:00:30+00:00",
+  "timestamp_after": "2026-03-11T21:00:42+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-12/israel-expands-war-on-hezbollah-in-lebanon-as-crisis-grows",
+      "file": "e42f67e1dcb1.txt",
+      "title": "Israel Launches Broader Campaign Against Hezbollah in Southern Lebanon - Bloomberg",
+      "published_date": "2026-03-12T00:00:00.000Z",
+      "author": "Dana Khraiche",
+      "text_length": 409,
+      "status": "ok",
+      "num_tokens": 72
+    },
+    {
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-israel-strait-of-hormuz-ship-attacks-persian-gulf-drones-missiles/",
+      "file": "9024f5a21073.txt",
+      "title": "Trump vows to end war soon as Iran hits ships, threatens banks, and toll on U.S. forces emerges",
+      "published_date": "2026-03-12T00:00:00.000Z",
+      "author": null,
+      "text_length": 923,
+      "status": "ok",
+      "num_tokens": 196
+    },
+    {
+      "url": "https://cn.ft.com/interactive/255121/en",
+      "file": "bd88891b0020.txt",
+      "title": "Israel expects Lebanon offensive to outlast Iran conflict - FT\u4e2d\u6587\u7f51",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "text_length": 884,
+      "status": "ok",
+      "num_tokens": 179
+    },
+    {
+      "url": "https://ca.reuters.com/world/middle-east/israeli-military-expands-orders-people-southern-lebanon-leave-2026-03-12/",
+      "file": "71e5b2a8d69f.txt",
+      "title": "Reuters | Breaking International News & Views",
+      "published_date": "2026-03-12T00:00:00.000Z",
+      "author": null,
+      "text_length": 336,
+      "status": "ok",
+      "num_tokens": 69
+    },
+    {
+      "url": "https://www.atlanticcouncil.org/dispatches/dispatch-from-beirut-is-this-hezbollahs-last-war-with-israel/",
+      "file": "4808ba4f7ac8.txt",
+      "title": "Dispatch from Beirut: Is this Hezbollah\u2019s \u2018last war\u2019 with Israel? - Atlantic Council",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": "jcookson",
+      "text_length": 11042,
+      "status": "ok",
+      "num_tokens": 2141
+    }
+  ],
+  "total_tokens": 2657
+}

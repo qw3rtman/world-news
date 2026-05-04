@@ -1,0 +1,37 @@
+{
+  "hash": "606ad56e0443",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://reuters.com/world/americas/new-us-military-led-group-aided-mexicos-hunt-el-mencho-cartel-boss-2026-02-22/",
+      "title": "Exclusive: New US military-led group aided Mexico's hunt for 'El Mencho' cartel boss | Reuters",
+      "published_date": "2026-02-22T00:00:00.000Z",
+      "author": "Phil Stewart",
+      "num_tokens": 1117,
+      "text_length": 5465
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1301522",
+      "spike_id": 1,
+      "market_question": "U.S. anti-cartel ground operation in Mexico by March 31?",
+      "event_title": "U.S. anti-cartel ground operation in Mexico by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.195,
+      "spike_timestamp_before": "2026-02-22T00:00:28+00:00",
+      "spike_timestamp_after": "2026-02-22T19:30:27+00:00"
+    },
+    {
+      "market_id": "1301522",
+      "spike_id": 2,
+      "market_question": "U.S. anti-cartel ground operation in Mexico by March 31?",
+      "event_title": "U.S. anti-cartel ground operation in Mexico by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.16,
+      "spike_timestamp_before": "2026-02-22T19:30:27+00:00",
+      "spike_timestamp_after": "2026-02-23T11:30:20+00:00"
+    }
+  ]
+}

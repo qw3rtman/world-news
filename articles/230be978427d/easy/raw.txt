@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In the February 2026 jobs report released by the US Labor Department, what was the total number of jobs lost in the United States economy, and how did this compare to the median forecast of 59,000 gains predicted by a Reuters survey of economists?",
+    "a": "The US economy lost 92,000 jobs, contrasting sharply with the forecasted gain of 59,000."
+  },
+  {
+    "q": "What was the US unemployment rate in February 2026, and by how much did it increase from the January 2026 rate of 4.3 percent?",
+    "a": "The unemployment rate rose to 4.4 percent, an increase of 0.1 percent."
+  },
+  {
+    "q": "Which specific US industry sector experienced the largest job loss in February 2026, and how many jobs were eliminated in that sector?",
+    "a": "The healthcare sector lost 28,000 jobs."
+  },
+  {
+    "q": "How many jobs were lost in the federal government industry in February 2026, and in which three US states were strikes noted as a contributing factor to these cuts?",
+    "a": "There were 10,000 fewer jobs, with strikes occurring in California, Hawaii, and New York."
+  },
+  {
+    "q": "Despite the overall February 2026 job losses, how many total jobs did the ADP private payroll report indicate were added for the month, and how many of those were in education and health services?",
+    "a": "The ADP report showed 63,000 jobs added, with 58,000 in education and health services."
+  },
+  {
+    "q": "In February 2026, how many jobs were lost in the transportation and warehousing sector, and what is the total job loss in that industry compared to the same time last year?",
+    "a": "The sector lost 11,000 jobs in February, contributing to a total loss of 157,000 jobs over the past year."
+  },
+  {
+    "q": "Which four US industries saw no change in job numbers in February 2026 compared to the previous month, despite import duties being struck down by the US Supreme Court earlier that month?",
+    "a": "Construction, wholesale trade, retail, and leisure and hospitality saw no change."
+  },
+  {
+    "q": "What global tariff percentage did US President Donald Trump impose moving forward in February 2026, and to what percentage did he state it would soon rise?",
+    "a": "Trump imposed a 10 percent global tariff, stating it would soon rise to 15 percent."
+  },
+  {
+    "q": "On what dates in March 2026 does the US Federal Reserve hold its next policy meeting, and what benchmark overnight interest rate range do economists expect it to maintain?",
+    "a": "The meeting is on March 17-18, 2026, with expectations to keep rates in the 3.50 percent–3.75 percent range."
+  },
+  {
+    "q": "According to Ellen Zentner, chief economic strategist at Morgan Stanley Wealth Management, what two conflicting factors place the US Federal Reserve between a rock and a hard place regarding interest rate decisions?",
+    "a": "Significant weakening in the labor market supports a rate cut, while higher-for-longer oil prices risk triggering an inflation surge."
+  },
+  {
+    "q": "How did the US dollar perform against a basket of currencies following the release of the February 2026 jobs report, and what happened to US Treasury yields?",
+    "a": "The dollar was little changed, and US Treasury yields fell."
+  },
+  {
+    "q": "In midday trading following the February 2026 jobs report release, by what percentage did the Nasdaq, the S&P 500, and the Dow Jones Industrial Average decline respectively?",
+    "a": "The Nasdaq fell 0.8 percent, the S&P 500 fell 1 percent, and the Dow Jones Industrial Average fell 1.1 percent."
+  },
+  {
+    "q": "What was the revised job gain figure for January 2026, and how does this downward revision contextualize the February 2026 job losses?",
+    "a": "January saw a downwardly revised gain of 126,000 jobs."
+  },
+  {
+    "q": "What proportion of unemployed workers in the United States had been without a job for more than 27 weeks as of the February 2026 report?",
+    "a": "More than 25 percent of unemployed workers had been jobless for more than 27 weeks."
+  },
+  {
+    "q": "Which news agencies provided specific forecasts for job gains in February 2026, and what were their respective predicted numbers?",
+    "a": "Reuters predicted 59,000 gains, Bloomberg News predicted 55,000, and Dow Jones predicted 50,000."
+  },
+  {
+    "q": "How many jobs were lost in the transportation and warehousing sector in February 2026, and which US Supreme Court action earlier in the month did not prevent job stagnation in other sectors like construction and retail?",
+    "a": "11,000 jobs were lost in transportation and warehousing; the Supreme Court striking down import duties did not help other sectors."
+  },
+  {
+    "q": "What is the sixth contraction of the US job market attributed to during the Trump administration, and what was the specific job loss figure for February 2026?",
+    "a": "It is the sixth contraction under the Trump administration, with 92,000 jobs lost in February 2026."
+  },
+  {
+    "q": "Which US central bank official's comments were cited regarding the risk of oil prices triggering inflation, and what is her title at Morgan Stanley Wealth Management?",
+    "a": "Ellen Zentner, chief economic strategist at Morgan Stanley Wealth Management."
+  },
+  {
+    "q": "What was the unemployment rate in January 2026, and what was the rate in February 2026, indicating a rise of 0.1 percent?",
+    "a": "The rate was 4.3 percent in January and rose to 4.4 percent in February."
+  },
+  {
+    "q": "Which three US states were mentioned as having strikes that underscored the job cuts in the federal government industry in February 2026?",
+    "a": "California, Hawaii, and New York."
+  },
+  {
+    "q": "What total number of jobs were added in the education and health services sector according to the ADP private payroll report released on Thursday prior to the February 2026 jobs report?",
+    "a": "58,000 jobs were added in education and health services."
+  },
+  {
+    "q": "What global tariff rate did US President Donald Trump impose after the US Supreme Court struck down earlier import duties, and what was the subsequent target rate he announced?",
+    "a": "He imposed a 10 percent global tariff, with plans to raise it to 15 percent."
+  },
+  {
+    "q": "How did US markets react in midday trading after the February 2026 jobs report, specifically regarding the percentage drops in the Nasdaq, S&P 500, and Dow Jones Industrial Average?",
+    "a": "The Nasdaq dropped 0.8 percent, the S&P 500 dropped 1 percent, and the Dow Jones Industrial Average dropped 1.1 percent."
+  },
+  {
+    "q": "What was the total number of jobs lost in the healthcare sector in February 2026, and how many of those losses were attributed to cuts in the federal government industry?",
+    "a": "The healthcare sector lost 28,000 jobs, with 10,000 of those in the federal government industry."
+  },
+  {
+    "q": "Which four US industries experienced no change in job numbers in February 2026 compared to the previous month, despite the broader economic stall?",
+    "a": "Construction, wholesale trade, retail, and leisure and hospitality."
+  },
+  {
+    "q": "What is the expected outcome for the US Federal Reserve's benchmark overnight interest rate following the February 2026 jobs data, and on what dates is the next policy meeting scheduled?",
+    "a": "Economists expect rates to remain in the 3.50 percent–3.75 percent range, with the meeting on March 17-18, 2026."
+  }
+]

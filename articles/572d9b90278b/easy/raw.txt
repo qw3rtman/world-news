@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the February 2026 acquisition announced by Gilead Sciences, what was the per-share value assigned to Arcellx stock?",
+    "a": "$115 per share."
+  },
+  {
+    "q": "What percentage premium did Gilead Sciences offer over Arcellx's Friday closing stock price in its February 2026 acquisition deal?",
+    "a": "79%."
+  },
+  {
+    "q": "What is the total monetary value of the deal announced in February 2026 for Gilead Sciences to acquire Arcellx?",
+    "a": "$7.8 billion."
+  },
+  {
+    "q": "In the February 2026 Gilead Sciences and Arcellx deal, what additional payment per share are Arcellx shareholders eligible for based on future sales targets?",
+    "a": "$5 per share."
+  },
+  {
+    "q": "Which experimental CAR-T therapy, initially developed by Arcellx, serves as the centerpiece of the February 2026 Gilead Sciences acquisition?",
+    "a": "anito-cel."
+  },
+  {
+    "q": "For which medical condition was the anito-cel CAR-T therapy being co-developed by Gilead Sciences and Arcellx as of February 2026?",
+    "a": "Multiple myeloma."
+  },
+  {
+    "q": "Which specific division of Gilead Sciences has been co-developing the anito-cel therapy with Arcellx since 2023?",
+    "a": "Kite Pharma."
+  },
+  {
+    "q": "In what year did the collaboration and co-marketing agreement between Kite Pharma and Arcellx for the anito-cel therapy begin?",
+    "a": "2023."
+  },
+  {
+    "q": "What type of therapy is anito-cel, which is central to the February 2026 Gilead Sciences acquisition of Arcellx?",
+    "a": "CAR-T therapy."
+  },
+  {
+    "q": "On which day of the week did Gilead Sciences announce its February 2026 acquisition of Arcellx?",
+    "a": "Monday."
+  },
+  {
+    "q": "What was the reference point for the 79% premium Gilead Sciences offered for Arcellx stock in February 2026?",
+    "a": "The stock’s Friday close."
+  },
+  {
+    "q": "Which two biotech companies merged in the February 2026 deal where Gilead Sciences acquired Arcellx?",
+    "a": "Gilead Sciences and Arcellx."
+  },
+  {
+    "q": "What condition must be met for Arcellx shareholders to receive the additional $5 per share payment in the February 2026 Gilead Sciences deal?",
+    "a": "Achieving a future sales target."
+  },
+  {
+    "q": "Which organization is the cell therapy division of Gilead Sciences that collaborated with Arcellx on anito-cel?",
+    "a": "Kite Pharma."
+  },
+  {
+    "q": "What was the initial developer of the anito-cel therapy that became the focus of the February 2026 Gilead Sciences acquisition?",
+    "a": "Arcellx."
+  },
+  {
+    "q": "What kind of agreement existed between Kite Pharma and Arcellx regarding anito-cel prior to the February 2026 acquisition?",
+    "a": "A collaboration and co-marketing agreement."
+  },
+  {
+    "q": "How much did Gilead Sciences pay per share to acquire Arcellx in the February 2026 transaction?",
+    "a": "$115."
+  },
+  {
+    "q": "What was the base value of the Gilead Sciences acquisition of Arcellx announced in February 2026, excluding potential future payments?",
+    "a": "$7.8 billion."
+  },
+  {
+    "q": "Which specific disease was the anito-cel therapy targeting in its co-development between Arcellx and Gilead’s Kite Pharma division?",
+    "a": "Multiple myeloma."
+  },
+  {
+    "q": "What was the relationship between Kite Pharma and Arcellx regarding the anito-cel therapy starting in 2023?",
+    "a": "They were co-developing it."
+  },
+  {
+    "q": "In the February 2026 deal, what was the total per-share consideration for Arcellx shareholders if the future sales target was met?",
+    "a": "$120 per share ($115 base plus $5 additional)."
+  },
+  {
+    "q": "Which company’s cell therapy division, Kite Pharma, had been working with Arcellx on anito-cel before the February 2026 acquisition?",
+    "a": "Gilead Sciences."
+  },
+  {
+    "q": "What was the premium percentage offered by Gilead Sciences to Arcellx shareholders in the February 2026 acquisition announcement?",
+    "a": "79%."
+  },
+  {
+    "q": "What is the name of the experimental CAR-T therapy that Gilead Sciences acquired along with Arcellx in February 2026?",
+    "a": "anito-cel."
+  },
+  {
+    "q": "What specific financial metric did Gilead Sciences use as the baseline for calculating the 79% premium in its February 2026 Arcellx offer?",
+    "a": "Arcellx’s Friday closing stock price."
+  }
+]

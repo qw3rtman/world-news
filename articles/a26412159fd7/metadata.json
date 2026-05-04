@@ -1,0 +1,27 @@
+{
+  "hash": "a26412159fd7",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.al-monitor.com/originals/2026/03/what-future-iranian-leadership-after-khameneis-death",
+      "title": "What future for Iranian leadership after Khamenei's death? - AL-Monitor: The Middle Eastʼs leading independent news source since 2012",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 995,
+      "text_length": 4880
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1112030",
+      "spike_id": 3,
+      "market_question": "Will Khamenei leave Iran by March 31?",
+      "event_title": "Will Khamenei leave Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.1765,
+      "spike_timestamp_before": "2026-02-28T07:30:30+00:00",
+      "spike_timestamp_after": "2026-03-01T07:00:28+00:00"
+    }
+  ]
+}

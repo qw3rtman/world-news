@@ -1,0 +1,102 @@
+[
+  {
+    "q": "What specific monetary amount did Nvidia plan to invest in Nebius Group, as announced on Wednesday, March 11, 2026?",
+    "a": "$2 billion"
+  },
+  {
+    "q": "Which company's stock was described as riding momentum due to the rapid buildout of artificial-intelligence infrastructure in March 2026?",
+    "a": "Nebius Group"
+  },
+  {
+    "q": "In the article published on March 11, 2026, what metaphor did the author use to describe Nvidia’s $2 billion investment in Nebius Group?",
+    "a": "Icing on the technical cake"
+  },
+  {
+    "q": "What global trend was cited as the primary driver of momentum for Nebius Group stock in the March 2026 Barron's article?",
+    "a": "The rapid buildout of artificial-intelligence infrastructure"
+  },
+  {
+    "q": "Which technology giant announced a planned investment in Nebius Group on Wednesday, March 11, 2026?",
+    "a": "Nvidia"
+  },
+  {
+    "q": "According to the March 11, 2026 report, how did the author characterize the impact of Nvidia's investment relative to Nebius Group's existing stock momentum?",
+    "a": "It was described as 'icing on the technical cake,' implying it was a supplementary benefit rather than the sole cause of momentum."
+  },
+  {
+    "q": "What was the publication date of the Barron's article titled 'Nebius Stock Charts Show Strong Momentum. Nvidia’s Backing Will Help.'?",
+    "a": "March 11, 2026"
+  },
+  {
+    "q": "Which two entities were linked by a $2 billion investment announcement in the news cycle of March 11, 2026?",
+    "a": "Nvidia and Nebius Group"
+  },
+  {
+    "q": "In the context of the March 11, 2026 article, what sector's infrastructure buildout was driving the stock performance of Nebius Group?",
+    "a": "Artificial-intelligence"
+  },
+  {
+    "q": "What specific day of the week did Nvidia announce its $2 billion investment in Nebius Group, according to the March 11, 2026 article?",
+    "a": "Wednesday"
+  },
+  {
+    "q": "Which company's stock charts were described as showing strong momentum in the Barron's article published on March 11, 2026?",
+    "a": "Nebius Group"
+  },
+  {
+    "q": "What was the total planned investment value from Nvidia into Nebius Group as reported in March 2026?",
+    "a": "$2 billion"
+  },
+  {
+    "q": "Which organization published the article discussing Nebius Group's stock momentum and Nvidia's investment on March 11, 2026?",
+    "a": "Barron's"
+  },
+  {
+    "q": "What was the primary external factor contributing to Nebius Group's stock momentum prior to Nvidia's investment announcement in March 2026?",
+    "a": "The rapid global buildout of artificial-intelligence infrastructure"
+  },
+  {
+    "q": "In the March 11, 2026 article, which company was referred to as providing 'backing' that would help Nebius Group?",
+    "a": "Nvidia"
+  },
+  {
+    "q": "What specific type of infrastructure buildout was cited as the reason for Nebius Group's stock momentum in the March 2026 report?",
+    "a": "Artificial-intelligence infrastructure"
+  },
+  {
+    "q": "Which investment firm's planned $2 billion injection into Nebius Group was described as 'icing on the technical cake' in March 2026?",
+    "a": "Nvidia"
+  },
+  {
+    "q": "What was the relationship between the global buildout of artificial-intelligence infrastructure and Nebius Group's stock performance as of March 2026?",
+    "a": "The rapid buildout was driving the stock's momentum."
+  },
+  {
+    "q": "Which two companies were the subject of an investment announcement on Wednesday, March 11, 2026, involving a sum of $2 billion?",
+    "a": "Nvidia and Nebius Group"
+  },
+  {
+    "q": "How did the author of the March 11, 2026 Barron's article describe the nature of Nvidia's $2 billion investment in Nebius Group?",
+    "a": "As 'icing on the technical cake'"
+  },
+  {
+    "q": "What specific financial instrument's performance was highlighted in the March 11, 2026 article due to momentum from AI infrastructure trends?",
+    "a": "Nebius Group stock"
+  },
+  {
+    "q": "Which entity's stock was already experiencing momentum before the announcement of Nvidia's $2 billion investment in March 2026?",
+    "a": "Nebius Group"
+  },
+  {
+    "q": "What was the stated purpose or context of the $2 billion investment from Nvidia to Nebius Group in the March 2026 article?",
+    "a": "It was part of the broader context of rapid global buildout of artificial-intelligence infrastructure."
+  },
+  {
+    "q": "In the March 11, 2026 article, which company was identified as the recipient of a $2 billion planned investment from Nvidia?",
+    "a": "Nebius Group"
+  },
+  {
+    "q": "What date did the Barron's article appear that discussed Nebius Group's stock momentum and Nvidia's investment?",
+    "a": "March 11, 2026"
+  }
+]

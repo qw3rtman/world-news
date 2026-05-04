@@ -1,0 +1,27 @@
+{
+  "hash": "d6c67bb98d74",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://quote.bloomberg.com/news/articles/2026-03-02/trump-says-military-campaign-in-iran-will-do-whatever-it-takes?srnd=homepage-asia",
+      "title": "Bloomberg - Business News, Stock Markets, Finance, Breaking & World News",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 267,
+      "text_length": 1207
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1399064",
+      "spike_id": 1,
+      "market_question": "US strikes Iran by March 2, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.275,
+      "spike_timestamp_before": "2026-02-27T07:00:27+00:00",
+      "spike_timestamp_after": "2026-02-27T14:30:29+00:00"
+    }
+  ]
+}

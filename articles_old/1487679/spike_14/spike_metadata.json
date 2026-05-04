@@ -1,0 +1,65 @@
+{
+  "spike_index": 14,
+  "direction": "down",
+  "price_before": 0.375,
+  "price_after": 0.095,
+  "delta": -0.28,
+  "abs_delta": 0.28,
+  "timestamp_before": "2026-03-11T17:30:29+00:00",
+  "timestamp_after": "2026-03-12T05:30:29+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://canary.haaretz.com/israel-news/security-aviation/2026-03-12/ty-article-magazine/.premium/11-iranian-cluster-missiles-penetrated-one-dropped-70-bombs-over-central-israel/0000019c-e1d3-dffd-a3fc-e1df09ed0000",
+      "file": "5e17a62a7902.txt",
+      "title": "11 Iranian Cluster Missiles Penetrated. One Dropped 70 Bombs Over Central Israel - National Security & Cyber",
+      "published_date": "2026-03-12T00:00:00.000Z",
+      "author": "Bar Peleg",
+      "text_length": 10751,
+      "status": "ok",
+      "num_tokens": 2236
+    },
+    {
+      "url": "https://www.reuters.com/world/middle-east/irans-shiite-allies-step-up-strikes-despite-weakened-hand-2026-03-12/",
+      "file": "c87a109d7149.txt",
+      "title": "Iran's Shi'ite allies step up strikes despite weakened hand | Reuters",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": "Laila Bassam",
+      "text_length": 7613,
+      "status": "ok",
+      "num_tokens": 1584
+    },
+    {
+      "url": "https://beta.japantimes.co.jp/news/2026/03/11/world/israel-red-sea-houthis/",
+      "file": "c6bf47f6330c.txt",
+      "title": "Israel plans new foothold on the Red Sea to fight the Houthis - The Japan Times",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": "Simon Marks",
+      "text_length": 1063,
+      "status": "ok",
+      "num_tokens": 213
+    },
+    {
+      "url": "https://www.reuters.com/world/middle-east/why-havent-houthis-irans-allies-yemen-stepped-into-war-2026-03-13/",
+      "file": "2adf17848627.txt",
+      "title": "Why haven\u2019t the Houthis, Iran\u2019s allies in Yemen, stepped into the war?\u00a0 | Reuters",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": "Timour Azhari",
+      "text_length": 3780,
+      "status": "ok",
+      "num_tokens": 811
+    },
+    {
+      "url": "https://foreignpolicy.com/2026/03/11/why-houthis-havent-fired-iran/",
+      "file": "9be227fdaaf5.txt",
+      "title": "Houthis Are Holding Fire in the Iran War",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": "Fatima Abo Alasrar",
+      "text_length": 11314,
+      "status": "ok",
+      "num_tokens": 2218
+    }
+  ],
+  "total_tokens": 7062
+}

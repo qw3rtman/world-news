@@ -1,0 +1,27 @@
+{
+  "hash": "bbcbeed7513c",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.semafor.com/article/03/15/2026/israel-says-it-is-prepared-for-at-least-three-more-weeks-of-war",
+      "title": "Israel says it is prepared for at least three more weeks of war | Semafor",
+      "published_date": "2026-03-15T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 148,
+      "text_length": 772
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "678747",
+      "spike_id": 5,
+      "market_question": "Will Israel strike 4 countries in 2026?",
+      "event_title": "How many different countries will Israel strike in 2026?",
+      "spike_direction": "down",
+      "spike_delta": -0.22150000000000003,
+      "spike_timestamp_before": "2026-03-15T22:30:48+00:00",
+      "spike_timestamp_after": "2026-03-16T20:30:52+00:00"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In the acquisition announced on March 17, 2026, what is the maximum total purchase price Mastercard agreed to pay for BVNK, and how much of that amount is designated as contingent payments?",
+    "a": "The maximum total purchase price is up to $1.8 billion, which includes $300 million in contingent payments."
+  },
+  {
+    "q": "Who is the Chief Product Officer of Mastercard who stated that adding on-chain rails would support speed and programmability for virtually every type of transaction in the March 17, 2026 announcement?",
+    "a": "Jorn Lambert is the Chief Product Officer of Mastercard who made that statement."
+  },
+  {
+    "q": "According to the March 17, 2026 press release, what was the estimated volume of digital currency payment use cases reached in 2025?",
+    "a": "Digital currency payment use cases reached at least $350 billion in volume in 2025."
+  },
+  {
+    "q": "When was BVNK founded, and in how many countries does its platform currently enable sending and receiving payments on major blockchain networks as of the March 17, 2026 announcement?",
+    "a": "BVNK was founded in 2021, and its platform enables payments in 130+ countries."
+  },
+  {
+    "q": "Who is the Co-Founder and CEO of BVNK who commented on the deal bringing together complementary capabilities to define the future of money in the March 17, 2026 announcement?",
+    "a": "Jesse Hemson-Struthers is the Co-Founder and CEO of BVNK who made that comment."
+  },
+  {
+    "q": "What specific program did Mastercard recently commit to, alongside the March 17, 2026 acquisition of BVNK, to foster collaboration and innovation in on-chain payments?",
+    "a": "The Mastercard Crypto Partner Program."
+  },
+  {
+    "q": "Which three industry leaders are named as trusting BVNK and processing billions annually as of the March 17, 2026 announcement?",
+    "a": "Worldpay, Deel, and Flywire."
+  },
+  {
+    "q": "What is the anticipated timeline for the closing of the Mastercard acquisition of BVNK announced on March 17, 2026, subject to regulatory review?",
+    "a": "The transaction is anticipated to close before the end of 2026."
+  },
+  {
+    "q": "What are the two main types of digital currency infrastructure components that BVNK’s acquisition helps Mastercard connect, according to the March 17, 2026 announcement?",
+    "a": "On-chain payments (stablecoins/digital assets) and fiat rails."
+  },
+  {
+    "q": "In the March 17, 2026 announcement, which specific use cases for stablecoins and tokenized deposits are identified as having incremental opportunities beyond current card payments?",
+    "a": "Cross-border remittances, payouts, P2P (peer-to-peer) payments, and B2B (business-to-business) payments."
+  },
+  {
+    "q": "What is the passcode required to access the replay of the investment community call regarding the BVNK acquisition, scheduled for March 17, 2026?",
+    "a": "The passcode is 6451878."
+  },
+  {
+    "q": "Which U.S. phone number should callers within the United States use to dial into the live investment community call about the BVNK acquisition on March 17, 2026?",
+    "a": "Callers in the U.S. should use 888-330-2508."
+  },
+  {
+    "q": "What is the specific legal act cited in the March 17, 2026 press release under whose safe harbor provisions the forward-looking statements are made?",
+    "a": "The Private Securities Litigation Reform Act of 1995."
+  },
+  {
+    "q": "According to the March 17, 2026 announcement, what approach will the combined activities of Mastercard and BVNK deliver regarding digital assets and blockchain chains?",
+    "a": "A digital asset- and chain-agnostic approach."
+  },
+  {
+    "q": "What specific type of infrastructure is BVNK described as a leader in within the context of the March 17, 2026 acquisition by Mastercard?",
+    "a": "Stablecoin infrastructure."
+  },
+  {
+    "q": "Which two entities are combining their capabilities to deliver trusted interoperability at scale between fiat and digital currencies across multiple chains, as announced on March 17, 2026?",
+    "a": "Mastercard and BVNK."
+  },
+  {
+    "q": "What is the website URL provided in the March 17, 2026 press release where presentation slides and the replay of the investor call can be accessed?",
+    "a": "www.mastercard.com/investor"
+  },
+  {
+    "q": "In the March 17, 2026 announcement, what global reach does Mastercard claim to have in terms of countries and territories where it powers economies?",
+    "a": "Mastercard operates in 200+ countries and territories worldwide."
+  },
+  {
+    "q": "What specific financial instruments are mentioned in the March 17, 2026 announcement as enabling new use cases for financial institutions alongside stablecoins?",
+    "a": "Tokenized deposits and tokenized assets."
+  },
+  {
+    "q": "Who is identified as the acquiring company in the definitive agreement announced on March 17, 2026, to purchase BVNK?",
+    "a": "Mastercard."
+  },
+  {
+    "q": "What specific phone number is listed for callers outside the United States to access the replay of the March 17, 2026 investment community call?",
+    "a": "647-362-9199"
+  },
+  {
+    "q": "According to the March 17, 2026 announcement, what standard does Mastercard aim to apply when connecting digital currency rails to existing fiat rails?",
+    "a": "Security, reliability, and compliance standards."
+  },
+  {
+    "q": "What is the primary function of the BVNK platform as described in the March 17, 2026 press release regarding blockchain networks?",
+    "a": "It enables sending and receiving payments for customers on all major blockchain networks."
+  },
+  {
+    "q": "Which specific regulatory condition is listed as a customary closing condition for the Mastercard acquisition of BVNK announced on March 17, 2026?",
+    "a": "Regulatory review."
+  },
+  {
+    "q": "What year does the March 17, 2026 press release cite as the point when digital currency payment use cases reached at least $350 billion in volume?",
+    "a": "2025"
+  },
+  {
+    "q": "What is the title of the person at Mastercard who stated that the acquisition reinforces the company's use of innovation and technology to power economies?",
+    "a": "Chief Product Officer"
+  }
+]

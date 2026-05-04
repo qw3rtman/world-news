@@ -1,0 +1,37 @@
+{
+  "hash": "fcc4c91a9971",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/03/11/stocks-making-the-biggest-moves-midday-orcl-nbis-cpb-serv-cdre.html",
+      "title": "Stocks making the biggest moves midday: ORCL, NBIS, CPB, SERV, CDRE",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": "Scott Schnipper",
+      "num_tokens": 797,
+      "text_length": 3490
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694936",
+      "spike_id": 3,
+      "market_question": "Will Nebius Group be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.15999999999999998,
+      "spike_timestamp_before": "2026-03-11T20:30:27+00:00",
+      "spike_timestamp_after": "2026-03-12T20:30:25+00:00"
+    },
+    {
+      "market_id": "694936",
+      "spike_id": 4,
+      "market_question": "Will Nebius Group be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.16,
+      "spike_timestamp_before": "2026-03-13T14:00:26+00:00",
+      "spike_timestamp_after": "2026-03-14T14:00:26+00:00"
+    }
+  ]
+}

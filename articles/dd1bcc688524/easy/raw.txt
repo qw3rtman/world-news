@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On what date did the USS Gerald R. Ford carrier strike group depart Souda Bay, Crete, following its arrival on February 24, 2026?",
+    "a": "February 26, 2026."
+  },
+  {
+    "q": "What specific date in January 2026 did the USS Abraham Lincoln carrier strike group enter the US Central Command area of responsibility?",
+    "a": "January 26, 2026."
+  },
+  {
+    "q": "According to US officials and assessments cited in the article, how many days of sustained high-intensity strikes could US forces and munitions in the theater support if a major campaign began?",
+    "a": "About seven to ten days."
+  },
+  {
+    "q": "In June 2025, what specific quantity of uranium enriched to 60 percent had the IAEA reported Iran had accumulated prior to US strikes?",
+    "a": "Approximately 408 kilograms."
+  },
+  {
+    "q": "What is the commonly cited amount of uranium enriched to 90 percent, considered sufficient for one nuclear device’s worth of fissile material?",
+    "a": "Roughly 42 kilograms."
+  },
+  {
+    "q": "In which city did US and Iranian negotiators meet on February 26, 2026, for talks mediated by Oman?",
+    "a": "Geneva."
+  },
+  {
+    "q": "Which specific medical center in Beersheba was severely damaged during the June 2025 conflict, leading to a subsequent disinformation battle over fabricated maps?",
+    "a": "Soroka Medical Center."
+  },
+  {
+    "q": "What is the primary strategic impasse between US and Iranian negotiators regarding the scope of a potential deal, as described in the article?",
+    "a": "The US demands constraints on Iran’s missile program and regional proxies, while Iran argues for separating nuclear and non-nuclear issues."
+  },
+  {
+    "q": "Under which international framework have US government assessments raised compliance concerns regarding Iran’s research and development of chemical and biological agents?",
+    "a": "The Chemical Weapons Convention."
+  },
+  {
+    "q": "Since which decade have Israeli building regulations required reinforced safe rooms in new residences?",
+    "a": "The early 1990s."
+  },
+  {
+    "q": "What specific day of the week is identified in the article as offering an inherent shelter advantage for Israeli civilians due to families being at home?",
+    "a": "Saturday (or Friday evening and Saturday)."
+  },
+  {
+    "q": "Which two US aircraft carrier strike groups are identified as being within operational range of Iran in late February 2026?",
+    "a": "The USS Abraham Lincoln and the USS Gerald R. Ford."
+  },
+  {
+    "q": "What did the IAEA state regarding its ability to verify Iran’s stockpile of near weapons-grade uranium after the June 2025 strikes?",
+    "a": "It has not been able to verify the stockpile and has lost continuity of knowledge about parts of the inventory."
+  },
+  {
+    "q": "During the June 2025 conflict, what type of munitions were reported to have been launched toward Israeli territory, striking residential areas?",
+    "a": "Hundreds of ballistic missiles and drones."
+  },
+  {
+    "q": "What specific logistical factors are cited as reasons why a peak military buildup cannot be sustained indefinitely?",
+    "a": "Maintenance cycles, crew fatigue, and logistics."
+  },
+  {
+    "q": "Which country mediated the US-Iranian talks that resumed in Geneva on February 26, 2026?",
+    "a": "Oman."
+  },
+  {
+    "q": "What is the daily operating cost estimate for maintaining a fully staffed carrier strike group, as described in the article?",
+    "a": "Single-digit millions per day."
+  },
+  {
+    "q": "What specific outcome did independent analysis conclude regarding the maps circulated online to justify the strike on Soroka Medical Center?",
+    "a": "The maps were fabricated."
+  },
+  {
+    "q": "What type of existential threat perception by Tehran is noted as widening the menu of escalation pathways in a crisis?",
+    "a": "The perception of an existential threat, particularly in the wake of the 12-day war and June 2025 conflict."
+  },
+  {
+    "q": "How many days of truly intensive operations do Israeli intelligence assessments suggest US forces could support, compared to the seven-to-ten-day US estimate?",
+    "a": "Even shorter windows, with longer duration only possible at lower intensity."
+  },
+  {
+    "q": "What specific date range in 2025 is referenced as the time of the '12-day war' that preceded the current tensions?",
+    "a": "June 2025."
+  },
+  {
+    "q": "What structural assumption about Israeli civilian defense becomes operationally decisive when large portions of the population are at home?",
+    "a": "The requirement for reinforced safe rooms in new residences."
+  },
+  {
+    "q": "Which organization documented impacts on populated areas and the use of munitions that raised serious humanitarian law concerns during the June 2025 conflict?",
+    "a": "International organizations."
+  },
+  {
+    "q": "What specific level of uranium enrichment is described as far closer to weapons-grade than to civilian reactor fuel?",
+    "a": "60 percent."
+  },
+  {
+    "q": "What is the primary reason given for why a weekend would not be surprising if a preemptive strike were chosen by Washington or Jerusalem?",
+    "a": "Civilian defense geometry makes certain timing choices rational because families are at home closer to protected spaces."
+  }
+]

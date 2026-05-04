@@ -1,0 +1,27 @@
+{
+  "hash": "c6eebac13efb",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://timesofindia.indiatimes.com/world/us/donald-trump-to-announce-strait-of-hormuz-escort-coalition-as-tensions-with-iran-intensify/articleshow/129597886.cms",
+      "title": "Trump plans global coalition to escort ships in Strait of Hormuz amid Iran tensions: Report - The Times of India",
+      "published_date": "2026-03-15T00:00:00.000Z",
+      "author": "TOI World Desk  / TIMESOFINDIA.COM /  Updated: Mar 16, 2026, 09:54 IST",
+      "num_tokens": 458,
+      "text_length": 2331
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1554932",
+      "spike_id": 3,
+      "market_question": "US escorts commercial ship through Hormuz by March 31?",
+      "event_title": "US escorts commercial ship through Hormuz by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.175,
+      "spike_timestamp_before": "2026-03-16T18:30:36+00:00",
+      "spike_timestamp_after": "2026-03-17T18:00:46+00:00"
+    }
+  ]
+}

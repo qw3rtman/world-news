@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Following the U.S. and Israeli strikes that killed Supreme Leader Ayatollah Ali Khamenei in early March 2026, which individual is identified as a frontrunner to succeed him as the leader of the Islamic Republic of Iran?",
+    "a": "Mojtaba Khamenei"
+  },
+  {
+    "q": "In the context of the March 2026 U.S.-Israeli conflict with Iran, what specific official volunteer militia did Ali Ansari, a modern history professor at the University of St Andrews in the UK, reference when discussing the narrowing support base for the regime?",
+    "a": "The Basij"
+  },
+  {
+    "q": "According to official results from the last Iranian presidential election prior to March 2026, how many votes did the hardline candidate Saeed Jalili receive in the second round?",
+    "a": "13 million"
+  },
+  {
+    "q": "Mahdi Rastegari, a 32-year-old religion teacher and member of the Basij militia in Iran, stated in March 2026 that he was prepared to do what for the successor to Ayatollah Ali Khamenei?",
+    "a": "Give his life"
+  },
+  {
+    "q": "Ali Mohammad Hosseini, a 29-year-old Basij member living in the Shi'ite Muslim seminary city of Qom, Iran, stated in March 2026 that he viewed supporting the replacement for Ayatollah Ali Khamenei as what kind of duty?",
+    "a": "A religious duty"
+  },
+  {
+    "q": "In March 2026, which Shi'ite shrine city in Iran is home to a Basij member named Hassan who expressed doubts about the survival of the Islamic Republic?",
+    "a": "Mashhad"
+  },
+  {
+    "q": "Babak, a 34-year-old businessman in Arak, Iran, who requested anonymity in March 2026, stated that the people have nothing compared to the regime's forces, which number in the tens of thousands. Which organization did he imply holds these forces?",
+    "a": "The Guards (Islamic Revolutionary Guard Corps)"
+  },
+  {
+    "q": "According to the March 2026 Reuters report, over what total number of eligible voters in Iran did the hardline candidate Saeed Jalili receive approximately 9 million votes in the first round of the last presidential election?",
+    "a": "61 million"
+  },
+  {
+    "q": "In early March 2026, following the death of Ayatollah Ali Khamenei, what specific state-backed activity did hardliners in Iran continue to hold every night despite ongoing airstrikes?",
+    "a": "Mourning ceremonies"
+  },
+  {
+    "q": "Ali Mohammad Hosseini, a Basij member in Qom, Iran, stated in March 2026 that he spends his evenings manning checkpoints to deter public dissent. What is his primary stated reason for this activity?",
+    "a": "Preserving the regime"
+  },
+  {
+    "q": "In March 2026, Hassan, a 29-year-old Basij member in Mashhad, Iran, cited which two specific infrastructural losses as evidence of the economy's collapse and difficulty in rebuilding?",
+    "a": "Airports and ports"
+  },
+  {
+    "q": "Which two countries conducted the strikes in early March 2026 that killed Supreme Leader Ayatollah Ali Khamenei and initiated the conflict described in the Reuters report?",
+    "a": "The United States and Israel"
+  },
+  {
+    "q": "According to Ali Ansari, a modern history professor at the University of St Andrews in the UK, what is the strategic outcome of choosing a hardliner like Mojtaba Khamenei as the new leader of Iran in March 2026?",
+    "a": "It consolidates the base but results in an increasingly small circle of supporters"
+  },
+  {
+    "q": "In the March 2026 Reuters report, which specific city in Iran is identified as the location of the supreme leader's now bombed-out office?",
+    "a": "Tehran"
+  },
+  {
+    "q": "What specific privileges, including preferential university places and subsidised bank loans, have members of the Basij and loyalists in Iran enjoyed for decades, which Hassan in Mashhad suggested could end due to economic collapse in March 2026?",
+    "a": "Privileges"
+  },
+  {
+    "q": "Parisa Hafezi and Angus McDowall reported on the political situation in Iran in March 2026. Which organization did they report for?",
+    "a": "Reuters"
+  },
+  {
+    "q": "In March 2026, which specific group of people did the Islamic Republic rely on to crush opposition protests and show up at the ballot box, despite their numbers being thinner than in earlier decades?",
+    "a": "Loyalists"
+  },
+  {
+    "q": "According to the March 2026 report, what specific external factor has given rise to fears of chaos among Iranians, alongside the hardliners' status as a small minority?",
+    "a": "Continued bombardment"
+  },
+  {
+    "q": "Mojtaba Khamenei, the son of the late Ayatollah Ali Khamenei, is seen as a frontrunner for leadership in Iran in March 2026. What specific type of political figure is he described as?",
+    "a": "A hardliner"
+  },
+  {
+    "q": "In the March 2026 Reuters report, which specific city in Iran is home to Babak, the businessman who claimed the people have nothing compared to the regime's forces?",
+    "a": "Arak"
+  },
+  {
+    "q": "What specific historical event from 1979 is cited in the March 2026 report as the origin of the Islamic Republic, which was initially backed by millions of Iranians?",
+    "a": "The revolution"
+  },
+  {
+    "q": "According to the March 2026 report, what specific negative attributes of the Islamic Republic's decades of rule have thinned its support base and alienated many ordinary people?",
+    "a": "Corruption, repression, and mismanagement"
+  },
+  {
+    "q": "In March 2026, which specific official volunteer militia member named Mahdi Rastegari stated that the group has given many martyrs and sacrificed themselves for their leader?",
+    "a": "The Basij"
+  },
+  {
+    "q": "What specific demographic of the Iranian population, described as true believers ready to die as martyrs, is distinguished in the March 2026 report from those with mercenary motives?",
+    "a": "Hardliners"
+  },
+  {
+    "q": "In the March 2026 Reuters report, which specific network of power is described as extending from the supreme leader's office in Tehran to every village and city neighbourhood to stand in the way of internal opposition?",
+    "a": "The network of loyalists (or the Basij network)"
+  }
+]

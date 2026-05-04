@@ -1,0 +1,57 @@
+{
+  "hash": "d1c0d76df353",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://foreignpolicy.com/2026/03/11/iran-war-houthis-yemen-military-operations-calculus-ground-force-mobilization/",
+      "title": "Houthis Are Holding Fire in the Iran War",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": "Fatima Abo Alasrar",
+      "num_tokens": 2196,
+      "text_length": 11255
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1487679",
+      "spike_id": 10,
+      "market_question": "Houthi strike on Israel by March 15, 2026?",
+      "event_title": "Houthi strike on Israel by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.18999999999999997,
+      "spike_timestamp_before": "2026-03-09T04:30:22+00:00",
+      "spike_timestamp_after": "2026-03-10T01:30:40+00:00"
+    },
+    {
+      "market_id": "1487679",
+      "spike_id": 11,
+      "market_question": "Houthi strike on Israel by March 15, 2026?",
+      "event_title": "Houthi strike on Israel by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.18500000000000003,
+      "spike_timestamp_before": "2026-03-09T06:00:33+00:00",
+      "spike_timestamp_after": "2026-03-10T05:30:27+00:00"
+    },
+    {
+      "market_id": "1487679",
+      "spike_id": 12,
+      "market_question": "Houthi strike on Israel by March 15, 2026?",
+      "event_title": "Houthi strike on Israel by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.15999999999999998,
+      "spike_timestamp_before": "2026-03-09T18:30:24+00:00",
+      "spike_timestamp_after": "2026-03-10T11:30:27+00:00"
+    },
+    {
+      "market_id": "1487679",
+      "spike_id": 13,
+      "market_question": "Houthi strike on Israel by March 15, 2026?",
+      "event_title": "Houthi strike on Israel by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.28,
+      "spike_timestamp_before": "2026-03-11T12:30:38+00:00",
+      "spike_timestamp_after": "2026-03-11T17:30:29+00:00"
+    }
+  ]
+}

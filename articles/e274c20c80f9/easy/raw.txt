@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On what specific date did U.S. stocks close higher following news reports that Iran had signaled openness to talks and a pledge by President Donald Trump to steady oil markets?",
+    "a": "March 4, 2026"
+  },
+  {
+    "q": "Which U.S. President pledged to steady oil markets in early March 2026, contributing to a rebound in U.S. stocks?",
+    "a": "Donald Trump"
+  },
+  {
+    "q": "Which country signaled openness to talks in late February or early March 2026, leading to calmed investor anxiety about a Middle East clash?",
+    "a": "Iran"
+  },
+  {
+    "q": "Which sector led the rebound in U.S. stocks on March 4, 2026, after investor anxiety about a Middle East clash eased?",
+    "a": "The technology sector"
+  },
+  {
+    "q": "What specific geopolitical event caused investor anxiety that was calmed by news of Iran's openness to talks in early March 2026?",
+    "a": "A Middle East clash"
+  },
+  {
+    "q": "In the week of March 4, 2026, which nation's diplomatic signaling contributed to U.S. stocks closing higher?",
+    "a": "Iran"
+  },
+  {
+    "q": "Which U.S. President made a pledge regarding oil markets in early March 2026 that helped calm investor anxiety?",
+    "a": "Donald Trump"
+  },
+  {
+    "q": "What was the primary driver for the rise in U.S. stock prices on Wednesday, March 4, 2026, according to the report?",
+    "a": "Hopes for Iran diplomacy and a pledge by President Donald Trump to steady oil markets"
+  },
+  {
+    "q": "Which specific news report about Iran in early March 2026 helped calm investor anxiety about a Middle East clash?",
+    "a": "A report that Iran had signaled openness to talks"
+  },
+  {
+    "q": "On March 4, 2026, which U.S. President's actions regarding oil markets helped lead a stock market rebound?",
+    "a": "Donald Trump"
+  },
+  {
+    "q": "What sector of the U.S. stock market led the gains on March 4, 2026, amidst hopes for Iran diplomacy?",
+    "a": "Technology stocks"
+  },
+  {
+    "q": "Which two factors combined to calm investor anxiety about a Middle East clash in early March 2026?",
+    "a": "News that Iran signaled openness to talks and President Donald Trump's pledge to steady oil markets"
+  },
+  {
+    "q": "In early March 2026, which country's diplomatic stance shift contributed to U.S. stocks closing up?",
+    "a": "Iran"
+  },
+  {
+    "q": "Which U.S. President pledged to steady oil markets in March 2026, aiding a stock market rebound?",
+    "a": "Donald Trump"
+  },
+  {
+    "q": "What was the outcome for U.S. stocks on March 4, 2026, following news of Iran's diplomatic openness?",
+    "a": "They closed up"
+  },
+  {
+    "q": "Which sector led the rebound in U.S. stocks on March 4, 2026, after anxiety about a Middle East clash eased?",
+    "a": "The technology sector"
+  },
+  {
+    "q": "What specific geopolitical tension was eased in early March 2026 by news of Iran's openness to talks?",
+    "a": "A Middle East clash"
+  },
+  {
+    "q": "Which U.S. President's pledge to steady oil markets helped calm investor anxiety in early March 2026?",
+    "a": "Donald Trump"
+  },
+  {
+    "q": "On March 4, 2026, which country's signal of openness to talks contributed to higher U.S. stock closures?",
+    "a": "Iran"
+  },
+  {
+    "q": "Which U.S. stock market sector led the gains on March 4, 2026, amidst hopes for Iran diplomacy?",
+    "a": "Technology"
+  },
+  {
+    "q": "What two events in early March 2026 calmed investor anxiety about a Middle East clash?",
+    "a": "Iran signaling openness to talks and President Donald Trump's pledge to steady oil markets"
+  },
+  {
+    "q": "Which nation's diplomatic signaling in early March 2026 helped U.S. stocks close higher?",
+    "a": "Iran"
+  },
+  {
+    "q": "Which U.S. President made a pledge to steady oil markets in March 2026, contributing to a stock market rebound?",
+    "a": "Donald Trump"
+  },
+  {
+    "q": "What was the result for U.S. stocks on Wednesday, March 4, 2026, following news of Iran's diplomatic openness?",
+    "a": "They closed up"
+  },
+  {
+    "q": "Which sector led the rebound in U.S. stocks on March 4, 2026, after investor anxiety about a Middle East clash eased?",
+    "a": "The technology sector"
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "hash": "c11ece0342fe",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://dev.abcnews.go.com/Politics/russia-denies-giving-iran-intelligence-us-troops-middle/story?id=130940730",
+      "title": "Russia denies giving Iran intelligence on US troops in Middle East, Witkoff says - ABC News",
+      "published_date": "2026-03-10T00:00:00.000Z",
+      "author": "ABC News",
+      "num_tokens": 837,
+      "text_length": 3923
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "618509",
+      "spike_id": 7,
+      "market_question": "Will Trump and Putin not meet?",
+      "event_title": "Where will Trump and Putin meet next?",
+      "spike_direction": "up",
+      "spike_delta": 0.15200000000000002,
+      "spike_timestamp_before": "2026-03-12T05:30:22+00:00",
+      "spike_timestamp_after": "2026-03-13T03:30:23+00:00"
+    }
+  ]
+}

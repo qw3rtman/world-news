@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the February 26, 2026 letter sent by Victory Capital Holdings Inc. to Janus Henderson Group plc, what was the total per-share consideration offered to Janus Henderson shareholders, and how was that amount composed in terms of cash and stock?",
+    "a": "The total consideration was $57.04 per share, composed of $30.00 in cash and a fixed exchange ratio of 0.350 shares of Victory Capital common stock."
+  },
+  {
+    "q": "As of February 26, 2026, what premium did Victory Capital Holdings Inc.'s acquisition proposal represent over Janus Henderson Group plc’s unaffected share price as of October 24, 2025, and what premium did it represent over the transaction then contemplated with Trian Fund Management, L.P.?",
+    "a": "The proposal represented a 37% premium to Janus Henderson’s unaffected share price as of October 24, 2025, and an approximately 16% premium over the transaction with Trian Fund Management, L.P."
+  },
+  {
+    "q": "According to the February 26, 2026 announcement, what percentage ownership in the combined company would Janus Henderson Group plc shareholders hold after a potential acquisition by Victory Capital Holdings Inc., and what was the estimated total enterprise value of that combined entity?",
+    "a": "Janus Henderson shareholders would own approximately 38% of the combined company, which would have a total enterprise value of approximately $16 billion."
+  },
+  {
+    "q": "What specific financial and legal advisors did Victory Capital Holdings Inc. retain for its February 26, 2026 proposal to acquire Janus Henderson Group plc?",
+    "a": "PJT Partners served as the financial advisor, and Willkie Farr & Gallagher LLP served as the legal advisor."
+  },
+  {
+    "q": "In the February 26, 2026 letter, what was Victory Capital Holdings Inc.'s preliminary estimated cost synergy figure for the proposed acquisition of Janus Henderson Group plc, and what were the primary drivers of these synergies?",
+    "a": "The estimated cost synergies were $500 million, driven primarily by efficiencies in the middle and back office, operational and administrative infrastructure, vendor consolidation, and leveraging economies of scale."
+  },
+  {
+    "q": "What termination fee percentage did Victory Capital Holdings Inc. propose in its February 26, 2026 merger agreement with Janus Henderson Group plc, and how did this compare to the termination fee in the existing agreement with Trian Fund Management, L.P.?",
+    "a": "Victory Capital proposed a 3% termination fee, which was lower than the 4% termination fee in the Trian Fund Management, L.P. agreement."
+  },
+  {
+    "q": "Regarding client consent conditions in the February 26, 2026 proposal, what threshold did Victory Capital Holdings Inc. set for closing, and how did this differ from the threshold in the Trian Fund Management, L.P. agreement?",
+    "a": "Victory Capital proposed a 75% client consent closing condition, reducing it from the 80% threshold required in the Trian Fund Management, L.P. agreement."
+  },
+  {
+    "q": "What provision regarding expense reimbursements did Victory Capital Holdings Inc. eliminate in its February 26, 2026 proposal compared to the Trian Fund Management, L.P. agreement, specifically concerning Janus Henderson Group plc shareholders' failure to approve the merger?",
+    "a": "Victory Capital eliminated the requirement for Janus Henderson to pay the buyer $111.42 million in expense reimbursements if Janus Henderson shareholders fail to approve the merger, a provision present in the Trian agreement."
+  },
+  {
+    "q": "What was Victory Capital Holdings Inc.'s proposed pro forma gross leverage ratio for 2025 EBITDA including synergies, and how did this compare to the gross leverage ratio of the Trian Fund Management, L.P. transaction?",
+    "a": "Victory Capital proposed a pro forma gross leverage of 2.6x 2025 EBITDA including synergies, compared to the Trian transaction's 4.6x gross debt to 2025 EBITDA."
+  },
+  {
+    "q": "In the February 26, 2026 letter, what specific remedy did Victory Capital Holdings Inc. offer Janus Henderson Group plc in the event of a financing failure, and how did this differ from the remedy available under the Trian Fund Management, L.P. agreement?",
+    "a": "Victory Capital offered full specific performance protection, whereas the Trian agreement only provided for a $222.85 million reverse termination fee payable by equity investors if financing failed."
+  },
+  {
+    "q": "What was the total termination fee amount due to Trian Fund Management, L.P. if the Janus Henderson Group plc board terminated the existing merger agreement to accept Victory Capital Holdings Inc.'s superior proposal, as of February 26, 2026?",
+    "a": "The termination fee payable to Trian Fund Management, L.P. would be $297.13 million, representing 4% of equity value."
+  },
+  {
+    "q": "Which past acquisition did David C. Brown, Chairman and CEO of Victory Capital Holdings Inc., cite in February 2026 as a recent demonstration of the firm's ability to unlock value through synergy realization and growth?",
+    "a": "David C. Brown cited Victory Capital's acquisition of Pioneer as a recent demonstration of its track record."
+  },
+  {
+    "q": "What voting standard under Jersey law did Victory Capital Holdings Inc. expect to satisfy to approve the merger with Janus Henderson Group plc, and did Victory Capital require a voting agreement from Trian Fund Management, L.P. to consummate the transaction?",
+    "a": "Victory Capital expected to satisfy the two-thirds voting standard under Jersey law and stated it did not require a voting agreement from Trian Fund Management, L.P."
+  },
+  {
+    "q": "As of January 31, 2026, what was the total client assets managed by Victory Capital Holdings Inc., according to the 'About Victory Capital' section of the February 26, 2026 announcement?",
+    "a": "Victory Capital Holdings Inc. managed $323.2 billion in total client assets as of January 31, 2026."
+  },
+  {
+    "q": "What specific percentage increase in Victory Capital Holdings Inc.'s share price occurred following the announcement of the Pioneer Memorandum of Understanding, as cited in the February 26, 2026 letter?",
+    "a": "Victory Capital's share price increased approximately 80% following the announcement of the Pioneer Memorandum of Understanding."
+  },
+  {
+    "q": "In the February 26, 2026 letter, what was the total percentage increase in Total Shareholder Return (TSR) for Victory Capital Holdings Inc. shareholders since Trian Fund Management, L.P. initially disclosed its investment in Janus Henderson Group plc in October 2020?",
+    "a": "Victory Capital outperformed Janus Henderson by in excess of 200% TSR for its shareholders since October 2020."
+  },
+  {
+    "q": "What was the Total Shareholder Return (TSR) for Victory Capital Holdings Inc. since its Management Buyout (MBO) in 2013, as stated in the February 26, 2026 announcement?",
+    "a": "The TSR for Victory Capital Holdings Inc. was over 2,000% since its MBO in 2013."
+  },
+  {
+    "q": "What client consent closing condition threshold did the Janus Henderson Group plc Special Committee reportedly seek from Trian Fund Management, L.P. prior to signing their merger agreement, which Victory Capital Holdings Inc. matched in its February 26, 2026 proposal?",
+    "a": "The Special Committee had sought a 75% client consent threshold from Trian Fund Management, L.P."
+  },
+  {
+    "q": "Which two specific past acquisitions by Victory Capital Holdings Inc. were cited in the February 26, 2026 letter as examples of successfully obtaining required mutual fund consents for large mutual fund complexes?",
+    "a": "The Pioneer and USAA Asset Management transactions were cited as examples of successfully obtaining mutual fund consents."
+  },
+  {
+    "q": "What was the fixed exchange ratio of Victory Capital Holdings Inc. common stock offered per Janus Henderson Group plc share in the February 26, 2026 proposal, and what was the basis for this ratio?",
+    "a": "The fixed exchange ratio was 0.350 shares of Victory Capital common stock, based on Victory Capital’s closing stock price as of February 25, 2026."
+  },
+  {
+    "q": "Did Victory Capital Holdings Inc. intend to retain the Janus Henderson Group plc brand and investment professionals following the proposed acquisition, as stated in the February 26, 2026 letter?",
+    "a": "Yes, Victory Capital intended to retain substantially all Janus Henderson investment professionals and preserve the Janus Henderson brand."
+  },
+  {
+    "q": "What was the specific dollar amount of the 'reverse' termination fee that Trian Fund Management, L.P.'s equity investors would pay Janus Henderson Group plc in the event of a debt or preferred equity financing failure under the existing merger agreement?",
+    "a": "The reverse termination fee was $222.85 million."
+  },
+  {
+    "q": "According to the February 26, 2026 letter, what was the percentage increase in Victory Capital Holdings Inc.'s share price in the year following the USAA Asset Management announcement?",
+    "a": "Victory Capital's share price increased approximately 120% in the year following the USAA Asset Management announcement."
+  },
+  {
+    "q": "What was the Total Shareholder Return (TSR) for Victory Capital Holdings Inc. since its IPO, as described in the February 26, 2026 announcement?",
+    "a": "Victory Capital achieved a TSR of approximately 600% since its IPO."
+  },
+  {
+    "q": "In the February 26, 2026 letter, what specific date did Victory Capital Holdings Inc. state it had previously submitted proposals to Janus Henderson Group plc’s Special Committee that were clearly superior to alternatives?",
+    "a": "Victory Capital stated it submitted proposals on November 24, 2025, December 8, 2025, and December 22, 2025."
+  }
+]

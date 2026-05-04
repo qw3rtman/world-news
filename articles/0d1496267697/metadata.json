@@ -1,0 +1,27 @@
+{
+  "hash": "0d1496267697",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://origin.www.bloomberg.com/news/articles/2026-02-19/japan-s-cpi-cools-to-slowest-pace-in-two-years-on-distortions?srnd=undefined",
+      "title": "Japan’s CPI Cools to Slowest Pace in Two Years on Distortions - Bloomberg",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": "Toru Fujioka",
+      "num_tokens": 105,
+      "text_length": 541
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "991022",
+      "spike_id": 1,
+      "market_question": "No change in Bank of Japan's interest rates after March 2026 meeting?",
+      "event_title": "Bank of Japan Decision in March?",
+      "spike_direction": "down",
+      "spike_delta": -0.33599999999999997,
+      "spike_timestamp_before": "2026-02-20T17:30:24+00:00",
+      "spike_timestamp_after": "2026-02-20T20:00:27+00:00"
+    }
+  ]
+}

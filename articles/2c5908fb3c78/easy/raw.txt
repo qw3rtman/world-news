@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the tender offer reported on February 24, 2026, what valuation was assigned to the payments company Stripe, and how did this figure compare to its valuation from the previous year?",
+    "a": "Stripe was valued at $159 billion, which represents a jump from its $107 billion valuation last year."
+  },
+  {
+    "q": "According to the annual letter released in early 2026, what was the total payments volume processed by Stripe in 2025, and what was the percentage increase compared to the prior year?",
+    "a": "Stripe processed $1.9 trillion in payments volume in 2025, an increase of 34% compared to the year prior."
+  },
+  {
+    "q": "Who is the President of Stripe, and what primary factor did he attribute the company's payments growth to in his statements regarding the 2025 performance?",
+    "a": "Stripe President John Collison attributed the growth to rising enterprise usage."
+  },
+  {
+    "q": "Which three specific investors were named as participants in Stripe's tender offer that valued the company at $159 billion in February 2026?",
+    "a": "The named investors were Thrive, Coatue, and a16z."
+  },
+  {
+    "q": "Which three major technology clients were cited by Stripe President John Collison as examples of the enterprise usage driving Stripe's 2025 payments volume growth?",
+    "a": "The cited clients were Microsoft, Nvidia, and Amazon."
+  },
+  {
+    "q": "What was the growth rate of the 2025 startup cohort compared to prior cohorts, according to the description provided in Stripe's annual letter?",
+    "a": "The 2025 startup cohort had grown 50% faster than the prior cohorts."
+  },
+  {
+    "q": "In early February 2026, what valuation figure was initially discussed by investors regarding Stripe before the final tender offer details were confirmed?",
+    "a": "Investors were initially discussing a valuation of over $140 billion."
+  },
+  {
+    "q": "Which media outlet first broke the news of Stripe's tender offer in early February 2026?",
+    "a": "Axios Pro first broke the news of the tender offer."
+  },
+  {
+    "q": "What was the fastest-growing segment for Stripe by total dollars in 2025, and what annual run rate was it expected to hit in the year following 2025?",
+    "a": "The fastest-growing segment was its revenue suite, which was expected to hit a $1 billion annual run rate."
+  },
+  {
+    "q": "What specific software functions are handled by Stripe's revenue suite, which became its fastest-growing segment in 2025?",
+    "a": "The revenue suite handles billing, tax, and invoicing automation."
+  },
+  {
+    "q": "Did Stripe disclose its revenue figures in its annual report for the period ending in 2025, and what statement did the report make regarding the company's profitability?",
+    "a": "Stripe did not disclose its revenue; the annual report stated that the company 'remains robustly profitable.'"
+  },
+  {
+    "q": "Besides new and existing investors, who else provided the majority of the shares for sale in Stripe's tender offer announced in February 2026?",
+    "a": "Stripe itself provided the majority of the sale by buying back shares."
+  },
+  {
+    "q": "Why does Stripe President John Collison note that Microsoft's business relationship with Stripe is significant in the context of 2025 growth?",
+    "a": "Microsoft shifted a 'significant fraction' of its payment volumes to Stripe."
+  },
+  {
+    "q": "What strategic reason did Stripe give for increasingly seeking to diversify its business beyond its core payments processing in the years leading up to 2026?",
+    "a": "Stripe sought to diversify because payments are an often lumpy source of revenue."
+  },
+  {
+    "q": "How did the 2025 startup cohort's size and speed compare to previous cohorts, according to the characterization in Stripe's annual letter?",
+    "a": "It was described as the strongest, biggest, and fastest cohort Stripe had ever seen."
+  },
+  {
+    "q": "What does Stripe's developer-first approach make it, according to the editorial summary of the February 2026 news report?",
+    "a": "It makes Stripe an index for the tech industry."
+  },
+  {
+    "q": "What does the tender offer process, in which Stripe buys back shares from investors, indicate about the company's plans for an initial public offering (IPO) as of February 2026?",
+    "a": "The offer is a sign that Stripe is in no rush to IPO."
+  },
+  {
+    "q": "What specific metric served as an imperfect proxy for the direction of Stripe's revenue, according to the analysis of its 2025 annual report?",
+    "a": "Payments volume served as an imperfect proxy for the direction of the company's revenue."
+  },
+  {
+    "q": "Which two entities, along with a16z, were identified as investors participating in the $159 billion valuation tender offer for Stripe in February 2026?",
+    "a": "The other two investors were Thrive and Coatue."
+  },
+  {
+    "q": "What was the specific percentage increase in Stripe's payments volume in 2025 compared to 2024, according to the data in its annual letter?",
+    "a": "The payments volume increased by 34%."
+  },
+  {
+    "q": "Which major cloud computing and software company is noted for shifting a significant fraction of its volumes to Stripe, contributing to the 2025 growth?",
+    "a": "Microsoft shifted a significant fraction of its volumes to Stripe."
+  },
+  {
+    "q": "What is the expected annual run rate for Stripe's revenue suite segment in the year following its 2025 performance?",
+    "a": "The revenue suite is expected to hit a $1 billion annual run rate."
+  },
+  {
+    "q": "Who provided the initial report on Stripe's tender offer in early February 2026, prior to the broader publication of the $159 billion valuation?",
+    "a": "Axios Pro provided the initial report."
+  },
+  {
+    "q": "In the context of the February 2026 tender offer, which two major tech companies besides Microsoft were listed as clients contributing to Stripe's enterprise usage growth?",
+    "a": "Nvidia and Amazon were listed as other clients."
+  },
+  {
+    "q": "What characterization did Stripe President John Collison give to the 2025 startup cohort in terms of its growth rate relative to historical data?",
+    "a": "He stated it had grown 50% faster than the prior cohorts."
+  }
+]

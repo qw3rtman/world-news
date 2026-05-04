@@ -1,0 +1,27 @@
+{
+  "hash": "526711504b78",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://polling.reuters.com/world/china/us-ambassador-urges-portugal-buy-f-35s-join-top-tier-air-forces-2026-02-23/",
+      "title": "US ambassador urges Portugal to buy F-35s, join top-tier air forces | Reuters",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "Sergio Goncalves",
+      "num_tokens": 487,
+      "text_length": 2142
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1223152",
+      "spike_id": 2,
+      "market_question": "Will António José Seguro win the second round by 20–30%?",
+      "event_title": "Portugal Presidential Election Margin of Victory: Second Round",
+      "spike_direction": "down",
+      "spike_delta": -0.494,
+      "spike_timestamp_before": "2026-02-23T04:00:19+00:00",
+      "spike_timestamp_after": "2026-02-23T14:00:16+00:00"
+    }
+  ]
+}

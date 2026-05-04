@@ -1,0 +1,37 @@
+{
+  "hash": "a6c4b48930b9",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://www.cnn.com/2026/03/03/politics/john-cornyn-ken-paxton-texas-senate-primary-runoff",
+      "title": "John Cornyn and Ken Paxton will advance to a runoff in Texas’ US Senate Republican primary, CNN projects | CNN Politics",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "David Wright",
+      "num_tokens": 1108,
+      "text_length": 5314
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "562187",
+      "spike_id": 1,
+      "market_question": "Will John Cornyn win the 2026 Texas Republican Primary?",
+      "event_title": "Texas Republican Senate Primary Winner",
+      "spike_direction": "up",
+      "spike_delta": 0.365,
+      "spike_timestamp_before": "2026-03-03T08:30:34+00:00",
+      "spike_timestamp_after": "2026-03-04T03:30:34+00:00"
+    },
+    {
+      "market_id": "562187",
+      "spike_id": 2,
+      "market_question": "Will John Cornyn win the 2026 Texas Republican Primary?",
+      "event_title": "Texas Republican Senate Primary Winner",
+      "spike_direction": "up",
+      "spike_delta": 0.7150000000000001,
+      "spike_timestamp_before": "2026-03-04T00:30:34+00:00",
+      "spike_timestamp_after": "2026-03-04T20:00:44+00:00"
+    }
+  ]
+}

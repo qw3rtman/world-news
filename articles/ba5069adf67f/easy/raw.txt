@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the context of the active war between the United States and Iran that began in late February 2026, which four nations were drawn into Group G of the 2026 World Cup alongside Iran?",
+    "a": "Belgium, Egypt, and New Zealand."
+  },
+  {
+    "q": "Which Iranian official, speaking to Iran state television after the U.S. attacks on February 28, 2026, cast doubt on the country's participation in the 2026 World Cup?",
+    "a": "Mehdi Taj, the president of Iran's soccer federation."
+  },
+  {
+    "q": "Under Article 6.7 of FIFA’s World Cup regulations regarding the 2026 tournament, what authority does FIFA hold if a participating member association withdraws or is excluded?",
+    "a": "FIFA has sole discretion to decide on the matter and take whatever action is deemed necessary."
+  },
+  {
+    "q": "Which two cities in the United States were scheduled to host Iran's group-stage matches in the 2026 World Cup before the outbreak of war in February 2026?",
+    "a": "Los Angeles and Seattle."
+  },
+  {
+    "q": "Which country was identified as the next potential replacement for Iran in the 2026 World Cup, having qualified for an inter-confederation playoff in March 2026?",
+    "a": "Iraq."
+  },
+  {
+    "q": "Who is the FIFA secretary general who stated in the immediate aftermath of the February 28, 2026 attacks that the organization was focused on all teams participating in the 2026 World Cup as planned?",
+    "a": "Mattias Grafstrom."
+  },
+  {
+    "q": "If Iraq were to replace Iran in the 2026 World Cup, which nation would appear next in line to take Iraq's place in the inter-confederation playoff?",
+    "a": "The United Arab Emirates."
+  },
+  {
+    "q": "Which U.S. President stated on March 2, 2026, that he expected the military operation against Iran to last four weeks but was ahead of schedule?",
+    "a": "President Donald Trump."
+  },
+  {
+    "q": "What specific exemption exists within the Trump administration's June 2025 travel ban barring visitors from Iran from entering the United States?",
+    "a": "An exemption for athletes, coaches, and support staff from teams in the 2026 World Cup."
+  },
+  {
+    "q": "Which Soviet official's refusal to play Chile in a playoff in 1974 is cited as the most recent boycott before the potential 2026 World Cup situation?",
+    "a": "The Soviet Union refused to play Chile."
+  },
+  {
+    "q": "Which two World Cup editions were canceled due to World War II, providing historical context for the 2026 tournament's potential disruptions?",
+    "a": "The 1942 and 1946 World Cups."
+  },
+  {
+    "q": "Which controversial award was given to U.S. President Donald Trump at the December 2025 World Cup Draw, noting that FIFA President Gianni Infantino had yet to respond to the February 2026 attacks?",
+    "a": "The inaugural FIFA Peace Prize."
+  },
+  {
+    "q": "What are the two primary options for FIFA if Iran withdraws from the 2026 World Cup, other than replacing them with another team?",
+    "a": "Moving forward with 47 teams instead of 48, or having Group G operate with just three teams."
+  },
+  {
+    "q": "Against which team did Iraq defeat the United Arab Emirates in an AFC playoff in November 2025 to clinch a berth in the inter-confederation playoff?",
+    "a": "Iraq defeated the United Arab Emirates."
+  },
+  {
+    "q": "Which three nations are co-hosting the 2026 World Cup, which is scheduled to run from June 11 to July 19, 2026?",
+    "a": "The United States, Mexico, and Canada."
+  },
+  {
+    "q": "On what date did the United States and Israel begin striking Iran, an event that killed Supreme Leader Ayatollah Ali Khamenei and dozens of top officials?",
+    "a": "February 28, 2026."
+  },
+  {
+    "q": "Which team was scheduled to face either Bolivia or Suriname on March 31, 2026, for a spot in the 2026 World Cup?",
+    "a": "Iraq."
+  },
+  {
+    "q": "How many countries and one entire continent have boycotted the World Cup since its first edition in 1930, according to the article?",
+    "a": "Nine countries."
+  },
+  {
+    "q": "Which Iranian Supreme Leader was killed in the U.S. and Israeli strikes that began on February 28, 2026?",
+    "a": "Ayatollah Ali Khamenei."
+  },
+  {
+    "q": "What is the specific date range during which the 2026 World Cup is scheduled to take place?",
+    "a": "June 11 to July 19, 2026."
+  },
+  {
+    "q": "Which governing body has broad latitude under FIFA regulations to replace a country that withdraws from the 2026 World Cup?",
+    "a": "FIFA (Fédération Internationale de Football Association)."
+  },
+  {
+    "q": "Which Asian Football Confederation (AFC) team was identified as the next in line to replace Iraq if Iraq were to take Iran's place in the 2026 World Cup?",
+    "a": "The United Arab Emirates."
+  },
+  {
+    "q": "What is the name of the U.S. President who was controversially awarded the inaugural FIFA Peace Prize at the December 2025 World Cup Draw?",
+    "a": "Donald Trump."
+  },
+  {
+    "q": "Which two group-stage match dates were originally scheduled for Iran in Los Angeles during the 2026 World Cup?",
+    "a": "June 15 and June 21, 2026."
+  },
+  {
+    "q": "Which country withdrew from the World Cup after qualifying for the last time in 1950, prior to the 1974 Soviet Union boycott?",
+    "a": "The article notes countries withdrew after qualifying in 1950 but does not name the specific country."
+  }
+]

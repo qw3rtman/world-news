@@ -1,0 +1,65 @@
+{
+  "spike_index": 2,
+  "direction": "up",
+  "price_before": 0.06,
+  "price_after": 0.34,
+  "delta": 0.28,
+  "abs_delta": 0.28,
+  "timestamp_before": "2026-03-03T14:30:34+00:00",
+  "timestamp_after": "2026-03-03T19:00:31+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://thehill.com/policy/international/5766537-mojtaba-khamenei-succession-iran/",
+      "file": "edbda9e0b5c8.txt",
+      "title": "Who is Mojtaba Khamenei, possible candidate to replace father as Iran leader?",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "text_length": 4016,
+      "status": "ok",
+      "num_tokens": 939
+    },
+    {
+      "url": "https://www.pbs.org/newshour/world/who-is-mojtaba-khamenei-a-son-of-irans-late-supreme-leader-is-a-rising-contender-to-replace-him",
+      "file": "c4aa5b20fa58.txt",
+      "title": "Who is Mojtaba Khamenei? A son of Iran's late supreme leader is a rising contender to replace him | PBS News",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "text_length": 6667,
+      "status": "ok",
+      "num_tokens": 1466
+    },
+    {
+      "url": "https://www.nbcnews.com/world/iran/khamenei-dead-powerful-hard-line-military-corps-rcna261296",
+      "file": "3777ed061102.txt",
+      "title": "Who is set to be in charge in Iran now that Khamenei is dead? A powerful hard-line military corps",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "text_length": 5940,
+      "status": "ok",
+      "num_tokens": 1298
+    },
+    {
+      "url": "https://br.reuters.com/world/middle-east/who-is-mojtaba-khamenei-frontrunner-be-irans-supreme-leader-2026-03-04/",
+      "file": "9875d1e1cd8f.txt",
+      "title": "Reuters | Breaking International News & Views",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "text_length": 302,
+      "status": "ok",
+      "num_tokens": 66
+    },
+    {
+      "url": "https://www.pbs.org/newshour/world/here-are-some-of-the-contenders-to-be-irans-supreme-leader-after-the-killing-of-khamenei",
+      "file": "16cd26ff40fa.txt",
+      "title": "Here are some of the contenders to be Iran's supreme leader after the killing of Khamenei | PBS News",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 3441,
+      "status": "ok",
+      "num_tokens": 741
+    }
+  ],
+  "total_tokens": 4510
+}

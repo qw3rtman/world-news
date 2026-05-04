@@ -1,0 +1,47 @@
+{
+  "hash": "8badfc375438",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://on.theverge.com/business/891104/palmer-luckey-modretro-anduril-funding",
+      "title": "The arms dealer’s Game Boy company is reportedly in talks with potential new investors. | The Verge",
+      "published_date": "2026-03-07T00:00:00.000Z",
+      "author": "Richard Lawler",
+      "num_tokens": 183,
+      "text_length": 800
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694939",
+      "spike_id": 10,
+      "market_question": "Will Ubisoft be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.255,
+      "spike_timestamp_before": "2026-03-06T17:30:20+00:00",
+      "spike_timestamp_after": "2026-03-07T02:00:20+00:00"
+    },
+    {
+      "market_id": "694939",
+      "spike_id": 11,
+      "market_question": "Will Ubisoft be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.16000000000000003,
+      "spike_timestamp_before": "2026-03-07T02:00:20+00:00",
+      "spike_timestamp_after": "2026-03-07T18:00:22+00:00"
+    },
+    {
+      "market_id": "694939",
+      "spike_id": 12,
+      "market_question": "Will Ubisoft be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.2,
+      "spike_timestamp_before": "2026-03-07T18:00:22+00:00",
+      "spike_timestamp_after": "2026-03-08T17:30:18+00:00"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+Cetuximab co-treatment with KRAS G12C inhibitors fulzerasib and sotorasib in human KRAS G12C non-small cell lung cancer cells | Cell Death Discovery
+
+Download PDF
+
+### Subjects
+
+- Non-small-cell lung cancer
+- Tumour biomarkers
+
+## Abstract
+
+Resistance to KRAS G12C inhibitors is a major cause of poor prognosis in non-small cell lung cancer (NSCLC). Sotorasib and fulzerasib target the KRAS protein in the guanosine diphosphate (GDP)-bound inactive state. Used in monotherapy in non-small cell lung cancer (NSCLC) patients, these drugs yielded response rates of 41% and 49% and median progression-free survival of 6.3 and 9.7 months, respectively. Mounting evidence points out that feedback activation of epidermal growth factor receptor (EGFR) inhibits the hydrolysis of KRAS guanosine triphosphate (GTP)-bound active state and reactivates RAS-mitogen-activated protein kinase (MAPK) signaling, leading to drug resistance. Here, we demonstrated that cetuximab enhanced the antitumor growth effect of fulzerasib in vitro in H358 cells and prolonged the survival of mice bearing subcutaneous H358 xenografts. Moreover, we demonstrated that cotreatment suppressed the expression of ERK, AKT, as well as MRAS and YAP1. Additionally, the combination of fulzerasib with cetuximab also abolished the viability of H358 cells, being less effective for H23 and H2030 cells. This effect was accompanied by YAP1 and MRAS overexpression, especially in H2030 cells. Ultimately, we demonstrated that MIG6, a feedback negative regulator of EGFR, is suppressed in the three cell lines starting at the 24-h time point with fulzerasib or sotorasib. Concurrently, ASS1, initially low in all three cell lines, was upregulated following therapy with fulzerasib or sotorasib, with or without cetuximab. These alterations were associated with increased fumarate levels in all three cell lines examined. Notably, the cotreatment response of H358 cells mirrors clinical trials with KRAS G12C colorectal cancer and NSCLC patients, where the combination of cetuximab with KRAS G12C inhibitors resulted in increased response and progression-free survival. Our findings provide insight into further tailoring EGFR inhibitor cotreatment in KRAS G12C NSCLC patients.
+
+## Data availability
+
+The datasets analyzed during the current study are available from the corresponding author on reasonable request. All relevant data supporting the findings of this study are included within the article and its Supplementary Information files.
+
+## Acknowledgements
+
+We would like to thank GenFleet Therapeutics (Shanghai) for their kind support.
+
+## Funding
+
+This work was supported by generous funding from Julián Santamaría Valiño to the IOR Foundation.
+
+## Author information
+
+### Authors and Affiliations
+
+FIOR Group, Dexeus University Hospital, Barcelona, Spain
+
+Daniel Olmo-González & Rafael Rosell
+
+Department of Biochemistry and Molecular Biomedicine, University of Barcelona, Faculty of Biology, Barcelona, Spain
+
+Daniel Olmo-González & Ana Giménez-Capitán
+
+FIOR Group, FIGTP - Fundació Institut d’Investigació Germans Trias i Pujol, Badalona, Spain
+
+Mengxin Zhou, Jèssica González, Kevin València-Clua, Jordi Codony-Servat & Rafael Rosell
+
+Research Institute for Medicines (iMed.ULisboa), Faculty of Pharmacy, Universidade de Lisboa, Lisboa, Portugal
+
+Nuno G. Oliveira
+
+GenFleet Therapeutics (Shanghai) Inc., Shanghai, China
+
+Fusheng Zhou & Feng Yan
+
+Pangaea Oncology, Dexeus University Hospital, Barcelona, Spain
+
+Miguel Angel Molina-Vila, Jordi Bertrán-Alamillo & Ana Giménez-Capitán
+
+Instituto Oncológico Dr. Rosell-IOR, Dexeus University Hospital, Barcelona, Spain
+
+Rafael Rosell
+
+Authors
+
+Daniel Olmo-González
+
+View author publications
+
+Search author on: PubMed Google Scholar
+
+Mengxin Zhou
+
+View author publications
+
+Search author on: PubMed Google Scholar
+
+Nuno G. Oliveira
+
+View author publications
+
+Search author on: PubMed Google Scholar
+
+Fusheng Zhou
+
+View author publications
+
+Search author on: PubMed Google Scholar
+
+Feng Yan
+
+View author publications
+
+Search author on: PubMed Google Scholar
+
+Jèssica González
+
+View author publications
+
+Search author on: PubMed Google Scholar
+
+Kevin València-Clua
+
+View author publications
+
+Search author on: PubMed Google Scholar
+
+Miguel Angel Molina-Vila
+
+View author publications
+
+Search author on: PubMed Google Scholar
+
+Jordi Bertrán-Alamillo
+
+View author publications
+
+Search author on: PubMed Google Scholar
+
+Ana Giménez-Capitán
+
+View author publications
+
+Search author on: PubMed Google Scholar
+
+Jordi Codony-Servat
+
+View author publications
+
+Search author on: PubMed Google Scholar
+
+Rafael Rosell
+
+View author publications
+
+Search author on: PubMed Google Scholar
+
+### Contributions
+
+RR and JC performed study concept and design; DO, NGO, JC and RR performed development of methodology and writing, review and revision of the paper; FZ, FY, JG, KV, MAM, JB and AG provided acquisition, analysis and interpretation of data, and statistical analysis; DO and JC provided technical and material support. All authors have read and approved the final paper.
+
+### Corresponding author
+
+Correspondence to Rafael Rosell.
+
+## Ethics declarations
+
+### Competing interests
+
+The authors declare no competing interests.
+
+### Ethics statement
+
+All methods were performed in accordance with the relevant guidelines and regulations. All the procedures related to animal handling, care and treatment in the study were performed according to the guidelines approved by the Institutional Animal Care and Use Committee (IACUC) of Shanghai LIDE Biotech (Approval number: LDIACUC 010), following the guidance of the Association for Assessment and Accreditation of Laboratory Animal Care (AAALAC).

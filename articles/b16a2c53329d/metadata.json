@@ -1,0 +1,27 @@
+{
+  "hash": "b16a2c53329d",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/03/09/gold-prices-fall-on-firmer-dollar-dimming-rate-cut-hopes.html",
+      "title": "Gold slips on stronger dollar, higher rate expectations",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 458,
+      "text_length": 1873
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1032343",
+      "spike_id": 29,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "up",
+      "spike_delta": 0.15599999999999997,
+      "spike_timestamp_before": "2026-03-08T23:00:18+00:00",
+      "spike_timestamp_after": "2026-03-09T02:30:17+00:00"
+    }
+  ]
+}

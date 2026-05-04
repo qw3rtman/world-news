@@ -1,0 +1,23 @@
+{
+  "market_id": "1288111",
+  "question": "Will Israel or the US target an Iranian nuclear facility?",
+  "slug": "will-israel-or-the-us-target-an-iranian-nuclear-facility-276",
+  "url": "https://polymarket.com/event/what-will-the-usisrael-target-in-iran-by-february-28",
+  "description": "This market will resolve to \"Yes\" if Israel or the United States carry out a kinetic military strike against any Iranian facility used for the development, enrichment, storage, or processing of nuclear material or technology, including reactors, enrichment facilities, uranium mines, and research centers located on Iranian soil, between market creation and February 28, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nThis includes, but is not limited to drone and missile strikes, aerial bombings, and kinetic actions carried out by US Israeli operatives on the ground. Cyber attacks, sanctions, or diplomatic actions will not count towards the resolution of this market.\n\nIsraeli missile and drone strikes which are shot down or miss their targets will not be considered for this market.\n\nThe resolution source for this market is official statements from the US, Israeli, and Iranian governments, however a consensus of credible reporting will also be used.\n\nNote: Cyber attacks will not qualify, even if they have kinetic effects.",
+  "event_title": "What will the U.S./Israel target in Iran by February 28?",
+  "event_tags": [
+    "Politics",
+    "Middle East",
+    "Israel",
+    "Iran",
+    "Trump",
+    "Geopolitics"
+  ],
+  "volume_total": 5031421.008729,
+  "created_at": "2026-01-29T00:57:10.538831Z",
+  "end_date": "2026-02-28T00:00:00Z",
+  "num_spikes": 9,
+  "max_spike": 0.8420000000000001,
+  "total_tokens": 71709,
+  "total_articles": 45
+}

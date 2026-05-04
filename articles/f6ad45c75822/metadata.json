@@ -1,0 +1,27 @@
+{
+  "hash": "f6ad45c75822",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/03/04/us-iran-war-live-updates.html",
+      "title": "Senate votes to block war powers resolution",
+      "published_date": "2026-03-05T00:00:00.000Z",
+      "author": "Kevin Breuninger,Azhar Sukri,Emma Graham,Chloe Taylor,Lee Ying Shan,Anniek Bao,Victor Loh",
+      "num_tokens": 308,
+      "text_length": 1539
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1394299",
+      "spike_id": 14,
+      "market_question": "US forces enter Iran by December 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.16000000000000003,
+      "spike_timestamp_before": "2026-03-04T02:30:26+00:00",
+      "spike_timestamp_after": "2026-03-04T12:30:32+00:00"
+    }
+  ]
+}

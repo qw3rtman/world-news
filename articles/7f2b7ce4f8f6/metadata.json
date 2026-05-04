@@ -1,0 +1,27 @@
+{
+  "hash": "7f2b7ce4f8f6",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.barrons.com/articles/oil-prices-forecast-iran-f6202cd8?mod=RTA",
+      "title": "Oil Price Forecast: After Iran, the Worst Case Scenario—$100 a Barrel—Is Here<!-- --> - Barron's",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Avi Salzman",
+      "num_tokens": 87,
+      "text_length": 378
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1494703",
+      "spike_id": 1,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $200 by end of June?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.28500000000000003,
+      "spike_timestamp_before": "2026-03-03T23:00:25+00:00",
+      "spike_timestamp_after": "2026-03-03T23:30:23+00:00"
+    }
+  ]
+}

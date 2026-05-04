@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the Reuters report published on February 25, 2026, what long-term forecast did JP Morgan raise for gold prices, and what was its unchanged year-end 2026 forecast?",
+    "a": "JP Morgan raised its long-term gold price forecast to $4,500 an ounce while keeping its 2026 year-end forecast at $6,300 an ounce."
+  },
+  {
+    "q": "According to the February 25, 2026 article, what was the record peak price for spot gold on January 29, and what three-week high did it reach on the Tuesday prior to the report?",
+    "a": "Spot gold hit a record peak of $5,594.82 an ounce on January 29 and reached a three-week high of $5,248.89 an ounce on Tuesday."
+  },
+  {
+    "q": "What percentage surge did gold experience in 2025, as noted in the February 25, 2026 Reuters report, and what approximate rise has it seen year-to-date at that time?",
+    "a": "Gold surged more than 64% in 2025 and had risen by about 20% in the year leading up to late February 2026."
+  },
+  {
+    "q": "Which four factors did JP Morgan identify in its February 25, 2026 analysis as drivers for gold reaching multiple record highs over the past year?",
+    "a": "The factors were geopolitical risks, the U.S. Federal Reserve's interest rate easing cycle, central bank buying, and flows into bullion-backed exchange-traded funds."
+  },
+  {
+    "q": "Why does low interest rates make gold more attractive to investors, according to the explanation provided in the February 25, 2026 article?",
+    "a": "Low interest rates make non-yielding gold a more attractive proposition for investors because it offers an alternative to interest-bearing assets."
+  },
+  {
+    "q": "What price target did Bank of America set for gold over the next 12 months in its note cited in the February 25, 2026 report?",
+    "a": "Bank of America saw a pathway for gold to hit $6,000 an ounce over the next 12 months."
+  },
+  {
+    "q": "What were Bank of America's near-term and longer-term outlooks for silver prices as reported on February 25, 2026?",
+    "a": "Bank of America was concerned silver prices could pull back further in the near term but could rise again above $100 an ounce this year."
+  },
+  {
+    "q": "What was the trading price of spot silver on Wednesday, February 25, 2026, and how did it compare to its record high touched in late January?",
+    "a": "Spot silver was trading around $90.70 per ounce on Wednesday, down from a record of $121.64 touched in late January."
+  },
+  {
+    "q": "JP Morgan stated it remains bullish on gold through which year, and what structural trend did it cite as supporting continued price increases in its February 25, 2026 report?",
+    "a": "JP Morgan remains bullish on gold prices through 2026 and cited a continued structural diversification trend into the metal."
+  },
+  {
+    "q": "According to JP Morgan's February 25, 2026 forecast, which two groups are expected to provide enough demand to push gold prices to $6,300 an ounce by the end of 2026?",
+    "a": "JP Morgan forecasts enough demand from central banks and investors to push gold prices to $6,300 an ounce by the end of 2026."
+  },
+  {
+    "q": "On what specific date in January 2026 did spot gold hit its record peak of $5,594.82 an ounce, as mentioned in the February 25, 2026 article?",
+    "a": "Spot gold hit its record peak on January 29, 2026."
+  },
+  {
+    "q": "What was the approximate percentage increase in gold prices year-to-date as of the Tuesday before the February 25, 2026 report, and what was the specific price level reached that day?",
+    "a": "Gold had risen by about 20% this year, hitting a three-week high of $5,248.89 an ounce on Tuesday."
+  },
+  {
+    "q": "Which financial institution raised its long-term gold forecast to $4,500 an ounce on Wednesday, February 25, 2026, while maintaining a higher year-end target?",
+    "a": "JP Morgan raised its long-term forecast to $4,500 an ounce while keeping its 2026 year-end forecast at $6,300."
+  },
+  {
+    "q": "In the context of the February 25, 2026 market report, what specific type of investment vehicle saw flows that contributed to gold's record highs?",
+    "a": "Flows into bullion-backed exchange-traded funds contributed to gold's record highs."
+  },
+  {
+    "q": "What was the record high price for silver in late January 2026, and what was its trading level on Wednesday, February 25, 2026?",
+    "a": "Silver touched a record of $121.64 in late January 2026 and was trading around $90.70 per ounce on Wednesday, February 25, 2026."
+  },
+  {
+    "q": "According to the February 25, 2026 article, what role does the U.S. Federal Reserve play in the current gold market dynamics?",
+    "a": "The U.S. Federal Reserve's interest rate easing cycle is cited as a factor driving gold to multiple record highs."
+  },
+  {
+    "q": "What is the specific long-term price target JP Morgan set for gold in its February 25, 2026 update, and how does it differ from its 2026 year-end forecast?",
+    "a": "JP Morgan set a long-term forecast of $4,500 an ounce, which is lower than its 2026 year-end forecast of $6,300 an ounce."
+  },
+  {
+    "q": "Which bank expressed concern about a near-term pullback in silver prices but predicted it could rise above $100 an ounce in 2026, as reported on February 25, 2026?",
+    "a": "Bank of America expressed concern about a near-term pullback in silver prices but predicted it could rise above $100 an ounce in 2026."
+  },
+  {
+    "q": "What was the percentage gain for gold in 2025, described as a surge in the widely regarded safe-haven investment, according to the February 25, 2026 report?",
+    "a": "Gold experienced a surge of more than 64% in 2025."
+  },
+  {
+    "q": "In the February 25, 2026 Reuters report, what two distinct price forecasts did JP Morgan provide for gold, and what timeframes do they cover?",
+    "a": "JP Morgan provided a long-term forecast of $4,500 an ounce and a 2026 year-end forecast of $6,300 an ounce."
+  },
+  {
+    "q": "What specific event on Tuesday prior to February 25, 2026, marked a three-week high for spot gold, and what was that price?",
+    "a": "Spot gold hit a three-week high of $5,248.89 an ounce on Tuesday."
+  },
+  {
+    "q": "According to the February 25, 2026 article, why is gold considered a safe-haven investment that has seen structural diversification?",
+    "a": "Gold is regarded as a safe-haven investment, and JP Morgan notes a continued structural diversification trend into the metal with further room to run."
+  },
+  {
+    "q": "What was the record high price for silver in late January 2026, and what was the approximate trading price on Wednesday, February 25, 2026?",
+    "a": "Silver's record high was $121.64 in late January 2026, and it was trading around $90.70 per ounce on Wednesday, February 25, 2026."
+  },
+  {
+    "q": "Which central bank activity and which investor behavior did JP Morgan cite in its February 25, 2026 report as drivers for pushing gold to $6,300 by year-end 2026?",
+    "a": "JP Morgan cited central bank buying and flows into bullion-backed exchange-traded funds as drivers for the price increase."
+  },
+  {
+    "q": "What is the specific price target Bank of America set for gold over the next 12 months in its note cited in the February 25, 2026 report?",
+    "a": "Bank of America set a price target of $6,000 an ounce for gold over the next 12 months."
+  }
+]

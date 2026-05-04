@@ -1,0 +1,37 @@
+{
+  "hash": "de1396f32967",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://fortune.com/2026/03/13/us-marines-amphibious-assault-ship-tripoli-mideast-iran-war-taiwan/",
+      "title": "US to send 2500 Marines and amphibious assault ship to Mideast, pulling them from waters near Taiwan | Fortune",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": "The Associated Press",
+      "num_tokens": 47,
+      "text_length": 212
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1162940",
+      "spike_id": 14,
+      "market_question": "US forces enter Iran by March 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "up",
+      "spike_delta": 0.18,
+      "spike_timestamp_before": "2026-03-13T01:30:24+00:00",
+      "spike_timestamp_after": "2026-03-14T01:00:33+00:00"
+    },
+    {
+      "market_id": "1162940",
+      "spike_id": 15,
+      "market_question": "US forces enter Iran by March 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "up",
+      "spike_delta": 0.25,
+      "spike_timestamp_before": "2026-03-13T10:00:27+00:00",
+      "spike_timestamp_after": "2026-03-14T09:30:33+00:00"
+    }
+  ]
+}

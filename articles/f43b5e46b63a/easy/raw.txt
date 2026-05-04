@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In March 2026, which two publicly traded companies announced a partnership to integrate cybersecurity into AI cloud infrastructure, and what are their respective Nasdaq ticker symbols?",
+    "a": "CrowdStrike (NASDAQ: CRWD) and Nebius (NASDAQ: NBIS)."
+  },
+  {
+    "q": "During the week of March 17, 2026, which specific CrowdStrike platform was announced to be integrated into Nebius’s AI cloud environment?",
+    "a": "The Falcon platform."
+  },
+  {
+    "q": "As of March 2026, where are the headquarters of CrowdStrike and Nebius respectively, and which city was listed alongside Austin, Texas in the announcement dateline?",
+    "a": "Nebius is headquartered in Amsterdam; the announcement dateline listed Austin, Texas and Amsterdam."
+  },
+  {
+    "q": "In the March 2026 partnership announcement, who is Daniel Bernard, what is his title at CrowdStrike, and what key assertion did he make regarding security in the AI era?",
+    "a": "Daniel Bernard is the chief business officer at CrowdStrike, and he stated that CrowdStrike is the cybersecurity foundation for the AI era, securing AI wherever it runs."
+  },
+  {
+    "q": "In March 2026, who is Mark Boroditsky, what is his title at Nebius, and what primary benefit did he cite for customers using CrowdStrike on Nebius infrastructure?",
+    "a": "Mark Boroditsky is the Chief Revenue Officer at Nebius, and he stated that customers can run AI workloads without disrupting existing security controls and processes."
+  },
+  {
+    "q": "As of March 2026, what specific hardware infrastructure provider is combined with Nebius AI Cloud to support distributed AI workloads?",
+    "a": "NVIDIA."
+  },
+  {
+    "q": "In the March 2026 announcement, what three core capabilities does the integration of the Falcon platform deliver across infrastructure and runtime environments?",
+    "a": "Unified visibility, AI-powered detection, and response."
+  },
+  {
+    "q": "As of March 2026, what specific architectural feature of the CrowdStrike Falcon platform allows for rapid and scalable deployment with reduced complexity?",
+    "a": "A single lightweight-agent architecture."
+  },
+  {
+    "q": "In March 2026, what four types of data or intelligence sources does the CrowdStrike Falcon platform leverage to deliver hyper-accurate detections and automated protection?",
+    "a": "Real-time indicators of attack, threat intelligence, evolving adversary tradecraft, and enriched telemetry from across the enterprise."
+  },
+  {
+    "q": "As of March 2026, what specific types of enterprise risk areas does CrowdStrike protect using its cloud-native platform?",
+    "a": "Endpoints, cloud workloads, identity, and data."
+  },
+  {
+    "q": "In the March 2026 partnership, what specific Nebius AI Cloud features are built in to support tenant isolation, encryption, and access controls?",
+    "a": "Dedicated NVIDIA AI infrastructure, high-performance NVIDIA networking, and an integrated software stack."
+  },
+  {
+    "q": "As of March 2026, what is the stated mission statement or tagline of CrowdStrike?",
+    "a": "We stop breaches."
+  },
+  {
+    "q": "In March 2026, what specific email addresses were provided as media contacts for CrowdStrike and Nebius respectively?",
+    "a": "press@crowdstrike.com for CrowdStrike and media@nebius.com for Nebius."
+  },
+  {
+    "q": "As of March 2026, what specific website was listed for more information about Nebius?",
+    "a": "www.nebius.com."
+  },
+  {
+    "q": "In the March 2026 announcement, what specific types of AI activities does Nebius AI Cloud support at scale?",
+    "a": "Training and inference."
+  },
+  {
+    "q": "As of March 2026, who are the primary customers served by Nebius in terms of business size and type?",
+    "a": "Startups and enterprises."
+  },
+  {
+    "q": "In March 2026, what specific type of cloud platform is Nebius described as building for developers and companies?",
+    "a": "A full-stack platform."
+  },
+  {
+    "q": "As of March 2026, what specific operational characteristic of Nebius is highlighted regarding its global presence?",
+    "a": "It operates at scale with a rapidly expanding global footprint."
+  },
+  {
+    "q": "In the March 2026 partnership, what specific outcome does the collaboration aim to ensure for organizations regarding security operations?",
+    "a": "Organizations can extend unified security operations to the next generation of AI cloud infrastructure from day one."
+  },
+  {
+    "q": "As of March 2026, what specific power source drives the CrowdStrike Falcon platform's detection and protection capabilities?",
+    "a": "The CrowdStrike Security Cloud and world-class AI."
+  },
+  {
+    "q": "In March 2026, what specific types of security services does the Falcon platform provide beyond detection and automated protection?",
+    "a": "Elite threat hunting and prioritized observability of vulnerabilities."
+  },
+  {
+    "q": "As of March 2026, what specific benefit does the Falcon platform deliver regarding time-to-value for customers?",
+    "a": "Immediate time-to-value."
+  },
+  {
+    "q": "In the March 2026 announcement, what specific infrastructure characteristic does Mark Boroditsky say AI companies need beyond just more GPUs?",
+    "a": "Infrastructure that performs predictably at scale and fits into how their organizations already operate."
+  },
+  {
+    "q": "As of March 2026, what specific type of isolation and control mechanisms are built into Nebius AI Cloud?",
+    "a": "Tenant isolation, encryption, and access controls."
+  },
+  {
+    "q": "In March 2026, what specific stock exchange listings are mentioned for both CrowdStrike and Nebius?",
+    "a": "Both are listed on Nasdaq."
+  },
+  {
+    "q": "As of March 2026, what specific source was cited for the press release announcing the partnership?",
+    "a": "CrowdStrike."
+  }
+]

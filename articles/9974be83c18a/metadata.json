@@ -1,0 +1,47 @@
+{
+  "hash": "9974be83c18a",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://fortune.com/2026/03/04/who-won-texas-senate-primary-democratic-party-talarico-crockett/",
+      "title": "Talarico defeats Crockett in heated primary as Democrats seek first Texas Senate seat in decades | Fortune",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "The Associated Press",
+      "num_tokens": 207,
+      "text_length": 892
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "679229",
+      "spike_id": 1,
+      "market_question": "Will James Talarico be the Democratic nominee for Senate in Texas?",
+      "event_title": "Texas Democratic Senate Primary Winner",
+      "spike_direction": "up",
+      "spike_delta": 0.1695000000000001,
+      "spike_timestamp_before": "2026-03-03T02:00:35+00:00",
+      "spike_timestamp_after": "2026-03-04T02:00:24+00:00"
+    },
+    {
+      "market_id": "679229",
+      "spike_id": 2,
+      "market_question": "Will James Talarico be the Democratic nominee for Senate in Texas?",
+      "event_title": "Texas Democratic Senate Primary Winner",
+      "spike_direction": "up",
+      "spike_delta": 0.16800000000000004,
+      "spike_timestamp_before": "2026-03-03T06:00:22+00:00",
+      "spike_timestamp_after": "2026-03-04T05:30:24+00:00"
+    },
+    {
+      "market_id": "679229",
+      "spike_id": 3,
+      "market_question": "Will James Talarico be the Democratic nominee for Senate in Texas?",
+      "event_title": "Texas Democratic Senate Primary Winner",
+      "spike_direction": "up",
+      "spike_delta": 0.15450000000000008,
+      "spike_timestamp_before": "2026-03-03T10:30:35+00:00",
+      "spike_timestamp_after": "2026-03-04T08:30:23+00:00"
+    }
+  ]
+}

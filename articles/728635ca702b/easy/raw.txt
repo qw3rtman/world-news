@@ -1,0 +1,106 @@
+[
+  {
+    "q": "During which specific U.S. presidential address did President Donald Trump provide his highest-profile explanation for amassing U.S. military assets around Iran in February 2026?",
+    "a": "The State of the Union address on Tuesday, February 24, 2026."
+  },
+  {
+    "q": "What specific nuclear-related commitment did President Donald Trump state he wanted Iran to make during his February 24, 2026, State of the Union address?",
+    "a": "That Iran would never have a nuclear weapon."
+  },
+  {
+    "q": "Which Iranian facility was shown in a June 14, 2025, satellite image as having no visible damage despite being targeted by Israel?",
+    "a": "The Fordow Fuel Enrichment Plant."
+  },
+  {
+    "q": "According to U.S. Defense Intelligence Agency estimates cited in the February 2026 analysis, what type of missile system would allow Iran to carry nuclear warheads across the globe?",
+    "a": "An intercontinental ballistic missile (ICBM) program."
+  },
+  {
+    "q": "Which elite Iranian military force is described as having recruited, trained, and supplied the \"Axis of Resistance\" terrorist and insurgent network?",
+    "a": "The Iranian Revolutionary Guard Corps (IRGC)."
+  },
+  {
+    "q": "Who is the spokesperson for Iran’s foreign ministry who accused the White House of carrying out a \"disinformation\" campaign against Iran in a statement posted to X on Wednesday morning in February 2026?",
+    "a": "Esmaeil Baqaei."
+  },
+  {
+    "q": "Which U.S. aircraft carrier was photographed sailing in formation in the Arabian Sea on February 6, 2026, as part of the increased U.S. military presence in the Persian Gulf?",
+    "a": "The USS Abraham Lincoln."
+  },
+  {
+    "q": "Which Venezuelan leader was removed from office by President Donald Trump, an event cited in the February 2026 analysis as an example of regime change that did not fundamentally alter the ruling party structure?",
+    "a": "Nicolás Maduro."
+  },
+  {
+    "q": "Who succeeded Nicolás Maduro as the vice president of Venezuela, remaining in office with his cabinet despite Maduro's removal in early 2026?",
+    "a": "Delcy Rodríguez."
+  },
+  {
+    "q": "Which Iranian supreme leader was pictured in Tehran on October 17, 2023, and is identified in the February 2026 analysis as the key decision-maker regarding a potential deal with the United States?",
+    "a": "Ayatollah Ali Khamenei."
+  },
+  {
+    "q": "What specific verification requirement does the February 2026 analysis argue must be included in any deal with Iran to prevent economic gains from financing weapons or terrorist groups?",
+    "a": "A verification process to ensure money from a more vibrant economy does not find its way back to finance weapons or terrorist groups."
+  },
+  {
+    "q": "Which two diplomatic achievements from President Donald Trump’s first term and second term are cited in the February 2026 analysis as evidence of his focus on a sweeping Middle East reset?",
+    "a": "The Abraham Accords (first term) and the Israel ceasefire, \"Board of Peace,\" and agreements with Saudis and UAE (second term)."
+  },
+  {
+    "q": "What specific economic and political conditions in Iran are cited in the February 2026 analysis as factors that might cause the weakened regime to \"bend further than it ever has\"?",
+    "a": "Sweeping protests despite a violent crackdown and a collapsing economy."
+  },
+  {
+    "q": "Which two major regional powers did the Maduro loyalists in Venezuela cut off from, according to the February 2026 analysis of post-regime-change dynamics?",
+    "a": "Cuba and China."
+  },
+  {
+    "q": "What specific terrorist network, severely damaged by Israeli strikes and assassinations during the Hamas conflict, is part of the \"Axis of Resistance\" supplied by Iran?",
+    "a": "Hezbollah."
+  },
+  {
+    "q": "Which Houthi group in Yemen is identified in the February 2026 analysis as part of the \"Axis of Resistance\" network that Iran would have to commit not to rebuild?",
+    "a": "The Houthis."
+  },
+  {
+    "q": "What specific date did a satellite image show no visible damage to Iran's Fordow Fuel Enrichment Plant, contradicting claims that Israel obliterated key nuclear enrichment sites?",
+    "a": "June 14, 2025."
+  },
+  {
+    "q": "Which organization is credited with developing the intercontinental ballistic missile (ICBM) program mentioned in the February 2026 analysis as a potential threat to a much larger reach than the Middle East?",
+    "a": "Maxar Technologies."
+  },
+  {
+    "q": "What specific role did John Miller hold in the U.S. government between 2009 and 2010, as noted in his biography in the February 25, 2026, CNN article?",
+    "a": "Deputy Assistant Director of National Intelligence."
+  },
+  {
+    "q": "Which two CNN contributors are credited with contributing to the February 25, 2026, analysis of President Donald Trump’s Iran strategy?",
+    "a": "Kevin Liptak and Rhea Mogul."
+  },
+  {
+    "q": "What specific comparison does the February 2026 analysis make between the potential outcome of a deal with Iran and the concept of \"mirror imaging\"?",
+    "a": "It warns that assuming Iran would choose economic prosperity over building arsenals is \"mirror imaging,\" a trap of assuming the adversary thinks the same way as the U.S."
+  },
+  {
+    "q": "Which specific U.S. military action in June 2025 is cited in the February 2026 analysis as having made the Iranian vision for a nuclear weapons program \"much further out of reach\"?",
+    "a": "Israel and the US claiming to have obliterated key nuclear enrichment sites."
+  },
+  {
+    "q": "What specific statement did Iran’s foreign ministry make regarding President Donald Trump’s remarks in his February 24, 2026, State of the Union address?",
+    "a": "That Trump repeated \"big lies\" about Iran."
+  },
+  {
+    "q": "Which specific U.S. president’s past actions in Venezuela are cited in the February 2026 analysis to illustrate that removing a leader does not necessarily change the regime or its underlying party structure?",
+    "a": "President Donald Trump."
+  },
+  {
+    "q": "What specific consequence does the February 2026 analysis suggest would result if a weakened Iran were allowed to rebuild weapons programs and terrorist networks over time?",
+    "a": "It would create the recurring need for more strikes, described as \"stealth bomber Groundhog Day.\""
+  },
+  {
+    "q": "Which specific Iranian official is identified in the February 25, 2026, article as the counterpart to President Donald Trump who faces a \"moment of decision\" regarding military assets and diplomacy?",
+    "a": "Iran’s Supreme Leader Ali Khamenei."
+  }
+]

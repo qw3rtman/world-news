@@ -1,0 +1,27 @@
+{
+  "hash": "1517dee32618",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.newsweek.com/trump-strikes-iran-the-5-scenarios-for-what-happens-next-11597274",
+      "title": "Trump Strikes Iran: The 5 Scenarios for What Happens Next - Newsweek",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1181,
+      "text_length": 6017
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1359798",
+      "spike_id": 1,
+      "market_question": "Will the US next strike Iran before March 2026 (ET)?",
+      "event_title": "US next strikes Iran on...?",
+      "spike_direction": "up",
+      "spike_delta": 0.195,
+      "spike_timestamp_before": "2026-02-27T06:30:59+00:00",
+      "spike_timestamp_after": "2026-02-27T14:30:32+00:00"
+    }
+  ]
+}

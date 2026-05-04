@@ -1,0 +1,37 @@
+{
+  "hash": "f1500206fb7e",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnn.com/2026/02/28/world/video/israel-strikes-iran-us-coordination-hnk-digvid",
+      "title": "Israel’s strike on Iran was coordinated with the US, Israeli source tells CNN | CNN",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Jeremy Diamond",
+      "num_tokens": 52,
+      "text_length": 249
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1198451",
+      "spike_id": 1,
+      "market_question": "Israel strikes Iran by February 28, 2026?",
+      "event_title": "Israel strikes Iran by February 28, 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.15,
+      "spike_timestamp_before": "2026-02-27T10:00:20+00:00",
+      "spike_timestamp_after": "2026-02-27T15:30:21+00:00"
+    },
+    {
+      "market_id": "1198479",
+      "spike_id": 1,
+      "market_question": "Will US or Israel strike Iran by February 28, 2026?",
+      "event_title": "US/Israel strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.21000000000000002,
+      "spike_timestamp_before": "2026-02-27T09:30:24+00:00",
+      "spike_timestamp_after": "2026-02-27T14:00:26+00:00"
+    }
+  ]
+}

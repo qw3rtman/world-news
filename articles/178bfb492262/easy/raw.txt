@@ -1,0 +1,102 @@
+[
+  {
+    "q": "What is the title of the news article published on February 19, 2026, that contains factual information about a client challenge?",
+    "a": "The article contains no factual information because the provided text is an error message indicating a loading issue, not a news article."
+  },
+  {
+    "q": "Who is the author of the news article titled 'Client Challenge' published on February 19, 2026?",
+    "a": "The author cannot be identified because the provided text is an error message stating there is no article content to extract."
+  },
+  {
+    "q": "What specific event did the 'Client Challenge' article published on February 19, 2026, report on?",
+    "a": "The article reported on no event because the provided text is an error message indicating a site component loading issue."
+  },
+  {
+    "q": "What date range does the 'Client Challenge' article published on February 19, 2026, cover?",
+    "a": "The article covers no date range because the provided text is an error message indicating no article content exists."
+  },
+  {
+    "q": "What monetary amounts were discussed in the 'Client Challenge' article published on February 19, 2026?",
+    "a": "No monetary amounts were discussed because the provided text is an error message indicating a loading issue with no article content."
+  },
+  {
+    "q": "Which organizations were mentioned in the 'Client Challenge' article published on February 19, 2026?",
+    "a": "No organizations were mentioned because the provided text is an error message indicating no article content to extract."
+  },
+  {
+    "q": "What named statements or quotes were included in the 'Client Challenge' article published on February 19, 2026?",
+    "a": "No named statements or quotes were included because the provided text is an error message indicating a site component loading issue."
+  },
+  {
+    "q": "What vote totals or numerical figures were reported in the 'Client Challenge' article published on February 19, 2026?",
+    "a": "No vote totals or numerical figures were reported because the provided text is an error message indicating no article content."
+  },
+  {
+    "q": "Which places or jurisdictions were referenced in the 'Client Challenge' article published on February 19, 2026?",
+    "a": "No places or jurisdictions were referenced because the provided text is an error message indicating a loading issue with no article content."
+  },
+  {
+    "q": "What sequence of events was described in the 'Client Challenge' article published on February 19, 2026?",
+    "a": "No sequence of events was described because the provided text is an error message indicating no article content to extract."
+  },
+  {
+    "q": "What organizational decisions were detailed in the 'Client Challenge' article published on February 19, 2026?",
+    "a": "No organizational decisions were detailed because the provided text is an error message indicating a site component loading issue."
+  },
+  {
+    "q": "Who were the named participants in the events described in the 'Client Challenge' article published on February 19, 2026?",
+    "a": "There were no named participants because the provided text is an error message indicating no article content."
+  },
+  {
+    "q": "What outcomes were reported in the 'Client Challenge' article published on February 19, 2026?",
+    "a": "No outcomes were reported because the provided text is an error message indicating a loading issue with no article content to extract."
+  },
+  {
+    "q": "What specific dates were mentioned in the 'Client Challenge' article published on February 19, 2026?",
+    "a": "No specific dates were mentioned in the article content because the provided text is an error message indicating no article content."
+  },
+  {
+    "q": "What was the main topic of the 'Client Challenge' article published on February 19, 2026?",
+    "a": "The main topic cannot be determined because the provided text is an error message indicating a site component loading issue."
+  },
+  {
+    "q": "Did the 'Client Challenge' article published on February 19, 2026, contain any factual questions about a client challenge?",
+    "a": "No, it did not contain any factual questions because the provided text is an error message indicating no article content to extract."
+  },
+  {
+    "q": "What was the publication status of the 'Client Challenge' article published on February 19, 2026?",
+    "a": "The publication status was that of an error message or loading issue notification, not a valid news article."
+  },
+  {
+    "q": "Was there any news article content available in the raw text for 'Client Challenge' published on February 19, 2026?",
+    "a": "No, there was no news article content available because the raw text contained only an error message."
+  },
+  {
+    "q": "What error message was displayed in the raw text associated with 'Client Challenge' published on February 19, 2026?",
+    "a": "The error message indicated a loading issue related to a site component and that there was no article content to extract."
+  },
+  {
+    "q": "Can a reader interpret the 'Client Challenge' article published on February 19, 2026, without seeing the error message?",
+    "a": "No, a reader cannot interpret it because the provided text is an error message stating there is no article content."
+  },
+  {
+    "q": "What time anchor is provided in the 'Client Challenge' article published on February 19, 2026?",
+    "a": "The only time anchor provided is the publication date of February 19, 2026, as the article content itself is an error message."
+  },
+  {
+    "q": "Are there any full entity names in the 'Client Challenge' article published on February 19, 2026?",
+    "a": "No, there are no full entity names because the provided text is an error message indicating no article content."
+  },
+  {
+    "q": "Is the scope of the 'Client Challenge' article published on February 19, 2026, unambiguous?",
+    "a": "The scope is unambiguous only in that it is an error message; there is no article content to define a broader scope."
+  },
+  {
+    "q": "Does the 'Client Challenge' article published on February 19, 2026, have a unique event identifier?",
+    "a": "No, it does not have a unique event identifier because the provided text is an error message indicating no article content."
+  },
+  {
+    "q": "What is the relationship between the title 'Client Challenge' and the content published on February 19, 2026?",
+    "a": "There is no relationship because the content is an error message stating there is no article content to extract, despite the title."
+  }
+]

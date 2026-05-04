@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On which date did U.S. Senate Majority Leader John Thune announce that the Senate would not hold a vote on the DHS funding bill, thereby delaying the effort to reopen the government?",
+    "a": "Thursday, March 5, 2026."
+  },
+  {
+    "q": "Which two individuals were killed by federal agents during an ICE surge in Minneapolis in January 2026, prompting Democrats to demand changes to DHS tactics?",
+    "a": "Alex Pretti and Renee Good."
+  },
+  {
+    "q": "What specific tactical reforms did Senate Democrats demand be implemented for ICE agents, including requirements regarding masks, body cameras, and home searches?",
+    "a": "Barring ICE agents from wearing masks, mandating body cameras, and requiring federal agents to obtain warrants to search homes."
+  },
+  {
+    "q": "On what date did the House of Representatives pass the DHS funding bill (HR 7744) that was subsequently expected to face a Senate vote?",
+    "a": "Thursday, March 5, 2026."
+  },
+  {
+    "q": "Which U.S. President removed Kristi Noem from the position of Homeland Security Secretary, and on what date did this removal occur?",
+    "a": "President Donald Trump removed Kristi Noem on March 5, 2026."
+  },
+  {
+    "q": "What is the expected date and time for the U.S. Senate to return to session to vote on ending the partial government shutdown in March 2026?",
+    "a": "Monday, March 9, 2026, at 3 p.m. ET."
+  },
+  {
+    "q": "How many votes are required in the U.S. Senate for the DHS funding bill to pass and end the partial government shutdown?",
+    "a": "60 votes."
+  },
+  {
+    "q": "Which DHS agencies remained fully funded despite the partial government shutdown, thanks to President Donald Trump's signature $170 billion One Big Beautiful Bill?",
+    "a": "ICE (Immigration and Customs Enforcement) and Border Patrol."
+  },
+  {
+    "q": "What was the duration in days of the longest government shutdown in U.S. history, which occurred in 2025?",
+    "a": "43 days."
+  },
+  {
+    "q": "During which specific dates did the longest government shutdown in U.S. history, which lasted 43 days, take place in 2025?",
+    "a": "From October 1, 2025, to November 12, 2025."
+  },
+  {
+    "q": "Which U.S. Senate Minority Leader vowed to vote against the DHS funding measure unless ICE tactics were reined in?",
+    "a": "Senate Minority Leader Chuck Schumer."
+  },
+  {
+    "q": "How many days had the partial government shutdown lasted as of the article's publication date of March 8, 2026?",
+    "a": "21 days."
+  },
+  {
+    "q": "Which two U.S. Senate leaders engaged in fiery floor proceedings regarding security fears at airports and the upcoming World Cup during the 2026 shutdown negotiations?",
+    "a": "Senate Minority Leader Chuck Schumer and Senate Majority Leader John Thune."
+  },
+  {
+    "q": "What disaster relief agency's funds did Senate Majority Leader John Thune describe as \"rapidly deteriorating\" during a live Senate hearing on March 5, 2026?",
+    "a": "FEMA (Federal Emergency Management Agency)."
+  },
+  {
+    "q": "How many TSA agents received only partial paychecks during the 2026 partial government shutdown?",
+    "a": "50,000 TSA agents."
+  },
+  {
+    "q": "On what date did the House of Representatives fail to pass a war powers vote to rein in President Donald Trump's war in Iran?",
+    "a": "Thursday, March 5, 2026."
+  },
+  {
+    "q": "Which two streaming or cable platforms are explicitly mentioned as providing live coverage of Senate sessions alongside C-SPAN?",
+    "a": "FuboTV and Philo (also Hulu Live, DIRECTV, and YouTubeTV are mentioned)."
+  },
+  {
+    "q": "What was the total monetary value of the \"One Big Beautiful Bill\" signed by President Donald Trump that kept ICE and Border Patrol fully funded during the 2026 shutdown?",
+    "a": "$170 billion."
+  },
+  {
+    "q": "Which DHS agencies were cited by Senate Majority Leader John Thune as facing a funding lapse during the 2026 partial government shutdown?",
+    "a": "ICE, Border Patrol, the Coast Guard, TSA, and the Secret Service (though ICE and Border Patrol were fully funded by separate legislation)."
+  },
+  {
+    "q": "On what date did the U.S. Senate return to session weekdays after a weeklong recess, according to the 2026 Senate schedule?",
+    "a": "Monday, January 26, 2026."
+  },
+  {
+    "q": "Which journalist from the Mid-Atlantic Connect Team authored the article regarding the 2026 government shutdown and DHS funding bill?",
+    "a": "Lori Comstock."
+  },
+  {
+    "q": "What specific security threat context did Republicans cite as a reason for seeking swift action on the DHS bill in March 2026?",
+    "a": "Heightened U.S. security threats amid President Donald Trump's war in Iran."
+  },
+  {
+    "q": "How many times had the Senate failed to pass a DHS funding measure in the 2026 budget prior to the expected March 9, 2026 vote?",
+    "a": "Two times."
+  },
+  {
+    "q": "What temporary funding bill date did Congress pass before failing to agree on a short-term deal for the 2025 government shutdown?",
+    "a": "January 30, 2026."
+  },
+  {
+    "q": "Which luxury-related controversy involving DHS Secretary Kristi Noem led to a bipartisan grilling shortly before her removal in March 2026?",
+    "a": "Her department's massive spending on a luxury plane."
+  }
+]

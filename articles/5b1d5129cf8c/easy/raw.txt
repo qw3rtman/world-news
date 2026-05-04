@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In the procedural vote held on Thursday, March 5, 2026, what was the final tally that caused the Senate to fail in passing the Department of Homeland Security funding bill?",
+    "a": "The vote was 51-45, falling short of the 60 votes needed to proceed."
+  },
+  {
+    "q": "Which specific U.S. government agency's funding bill remained outstanding as of early March 2026, despite Congress completing 11 of 12 appropriations bills for that year?",
+    "a": "The Department of Homeland Security (DHS) funding bill."
+  },
+  {
+    "q": "Who is the U.S. President who fired DHS Secretary Kristi Noem moments before the March 5, 2026, Senate vote on the DHS funding bill?",
+    "a": "President Donald Trump."
+  },
+  {
+    "q": "Which two federal immigration enforcement agencies did Senate Democrats refuse to fund in the DHS bill passed by the House on March 5, 2026?",
+    "a": "Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP)."
+  },
+  {
+    "q": "What was the vote count in the U.S. House of Representatives on March 5, 2026, when it passed the Department of Homeland Security funding bill?",
+    "a": "221-209."
+  },
+  {
+    "q": "On what date did the federal shutdown of the Department of Homeland Security begin, necessitating a bipartisan compromise by March 2026?",
+    "a": "February 14, 2026."
+  },
+  {
+    "q": "Which Republican U.S. Senator stated that Democrats would bear responsibility for future terrorist attacks and said, \"Blood will be on their hands,\" during the March 5, 2026, debate?",
+    "a": "Sen. John Barrasso."
+  },
+  {
+    "q": "Which Democratic U.S. Representative from Massachusetts criticized the DHS bill as lacking guardrails against ICE and CBP after the killing of Alex Pretti?",
+    "a": "Rep. Jim McGovern."
+  },
+  {
+    "q": "Who is the Senate Democratic leader who responded to the firing of DHS Secretary Kristi Noem by saying, \"Good riddance,\" on March 5, 2026?",
+    "a": "Sen. Chuck Schumer."
+  },
+  {
+    "q": "Which incident involving Border Patrol officers in Minneapolis was cited by Democrats in early 2026 as a reason for seeking new restraints on immigration enforcement tactics?",
+    "a": "The killing of ICU nurse Alex Pretti."
+  },
+  {
+    "q": "What specific financial provision did Republicans note was included in the DHS bill for equipping immigration enforcement agents with body-worn cameras?",
+    "a": "$20 million."
+  },
+  {
+    "q": "Which Republican U.S. Senator from Alabama characterized Democrats as \"the party of open borders\" during the March 5, 2026, Senate debate?",
+    "a": "Sen. Katie Britt."
+  },
+  {
+    "q": "Which Democratic U.S. Senator from Montana, the top Democrat on the Senate Appropriations Committee, offered an alternative bill to fund all DHS agencies except ICE, CBP, and the secretary's office?",
+    "a": "Sen. Patty Murray."
+  },
+  {
+    "q": "Which federal agency's training for first responders was canceled due to the DHS shutdown as of March 2026?",
+    "a": "The Federal Emergency Management Agency (FEMA)."
+  },
+  {
+    "q": "Which agency canceled various assessments to determine vulnerabilities to critical infrastructure due to the DHS shutdown in early 2026?",
+    "a": "The Cybersecurity and Infrastructure Security Agency (CISA)."
+  },
+  {
+    "q": "Which Republican U.S. Senator from South Dakota, the Senate Majority Leader, warned that the DHS shutdown was causing financial stress for hardworking Americans in March 2026?",
+    "a": "Sen. John Thune."
+  },
+  {
+    "q": "What specific operational change did Democrats seek regarding ICE enforcement operations at sensitive locations such as schools and churches?",
+    "a": "Prohibiting ICE enforcement operations at those locations."
+  },
+  {
+    "q": "What requirement did Democrats seek for federal agents before they could forcibly enter private homes or nonpublic spaces without consent?",
+    "a": "Requiring warrants to be signed by judges."
+  },
+  {
+    "q": "Which event in Austin, Texas, did Sen. Katie Britt and other Republicans cite in March 2026 as an example of the dangerous threat environment following the conflict with Iran?",
+    "a": "A mass shooting."
+  },
+  {
+    "q": "What potential consequence for airport travelers did Republicans warn could result from unscheduled absences by Transportation Security Administration agents during the DHS shutdown?",
+    "a": "Longer wait times at the nation's airports."
+  },
+  {
+    "q": "How much money did the DHS bill direct toward de-escalation training for immigration enforcement agents?",
+    "a": "The article does not specify a dollar amount for de-escalation training, only $20 million for body-worn cameras."
+  },
+  {
+    "q": "Which two entities were negotiating and exchanging proposals in recent weeks prior to March 2026, according to Senate Democratic leader Chuck Schumer?",
+    "a": "The White House and congressional Democrats."
+  },
+  {
+    "q": "What specific demand did Democrats make regarding independent investigations into alleged wrongdoing by federal agents?",
+    "a": "Allowing independent investigations into alleged wrongdoing."
+  },
+  {
+    "q": "What clothing or identification requirement did Democrats seek for federal agents, including the removal of masks?",
+    "a": "Requiring agents to wear identification and remove their masks."
+  },
+  {
+    "q": "Which U.S. Senator from Wyoming, the No. 2 Republican in the Senate, blamed Democrats for potential future cyberattacks during the March 5, 2026, debate?",
+    "a": "Sen. John Barrasso."
+  },
+  {
+    "q": "What was the status of the DHS shutdown regarding employee paychecks as of the week of March 5, 2026?",
+    "a": "Many essential employees would not receive a full paycheck that week."
+  }
+]

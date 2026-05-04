@@ -1,0 +1,25 @@
+{
+  "market_id": "1402792",
+  "question": "US-Iran nuclear deal by March 31?",
+  "slug": "us-iran-nuclear-deal-by-march-31",
+  "url": "https://polymarket.com/event/us-iran-nuclear-deal-by-march-31",
+  "description": "This market will resolve to \"Yes\" if an official agreement over Iranian nuclear research and/or nuclear weapon development, defined as a publicly announced mutual agreement, is reached between the United States and Iran by March 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nIf such an agreement is officially reached before the resolution date, this market will resolve to \"Yes\", regardless of if/when the agreement goes into effect.\n\nAgreements that include the United States and Iran as parties, even if they also involve other countries (e.g., a multilateral deal like the JCPOA), will qualify for resolution.\n\nThe primary resolution source for this market will be an official announcement by the United States and/or the Islamic Republic of Iran, however an overwhelming consensus of credible reporting confirming an agreement has been reached will also qualify.",
+  "event_title": "US-Iran nuclear deal by March 31?",
+  "event_tags": [
+    "World",
+    "Iran",
+    "Israel",
+    "Middle East",
+    "Politics",
+    "Geopolitics",
+    "Diplomacy & Ceasefire",
+    "Nuclear"
+  ],
+  "volume_total": 1107696.9632170016,
+  "created_at": "2026-02-20T16:28:05.746036Z",
+  "end_date": "2026-03-31T00:00:00Z",
+  "num_spikes": 2,
+  "max_spike": 0.20999999999999996,
+  "total_tokens": 14209,
+  "total_articles": 10
+}

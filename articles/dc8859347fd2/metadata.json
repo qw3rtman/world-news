@@ -1,0 +1,87 @@
+{
+  "hash": "dc8859347fd2",
+  "n_appearances": 7,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://wikicurve.smh.com.au/business/companies/viking-upgrades-nevada-tungsten-16-fold-in-gravity-win-20260303-p5o75b.html",
+      "title": "Viking upgrades Nevada tungsten 16-fold in gravity win",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Rowena Duckworth",
+      "num_tokens": 1024,
+      "text_length": 5212
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694938",
+      "spike_id": 20,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.16999999999999998,
+      "spike_timestamp_before": "2026-03-02T16:00:37+00:00",
+      "spike_timestamp_after": "2026-03-03T10:30:58+00:00"
+    },
+    {
+      "market_id": "694938",
+      "spike_id": 21,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.175,
+      "spike_timestamp_before": "2026-03-02T16:00:37+00:00",
+      "spike_timestamp_after": "2026-03-03T13:30:37+00:00"
+    },
+    {
+      "market_id": "694938",
+      "spike_id": 22,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.175,
+      "spike_timestamp_before": "2026-03-03T13:30:37+00:00",
+      "spike_timestamp_after": "2026-03-03T15:30:46+00:00"
+    },
+    {
+      "market_id": "694938",
+      "spike_id": 23,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.19,
+      "spike_timestamp_before": "2026-03-03T13:30:37+00:00",
+      "spike_timestamp_after": "2026-03-03T23:00:41+00:00"
+    },
+    {
+      "market_id": "694938",
+      "spike_id": 24,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.28500000000000003,
+      "spike_timestamp_before": "2026-03-03T13:30:37+00:00",
+      "spike_timestamp_after": "2026-03-04T11:30:36+00:00"
+    },
+    {
+      "market_id": "694938",
+      "spike_id": 25,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.345,
+      "spike_timestamp_before": "2026-03-04T14:00:39+00:00",
+      "spike_timestamp_after": "2026-03-04T15:30:53+00:00"
+    },
+    {
+      "market_id": "694938",
+      "spike_id": 26,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.175,
+      "spike_timestamp_before": "2026-03-04T14:30:40+00:00",
+      "spike_timestamp_after": "2026-03-05T14:30:38+00:00"
+    }
+  ]
+}

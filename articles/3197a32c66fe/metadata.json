@@ -1,0 +1,27 @@
+{
+  "hash": "3197a32c66fe",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://fortune.com/2026/03/07/saudi-arabia-diplomatic-engagement-back-channels-iran-war-us-israel/",
+      "title": "Saudi Arabia intensifies engagement with Iran to defuse war | Fortune",
+      "published_date": "2026-03-07T00:00:00.000Z",
+      "author": "Bloomberg",
+      "num_tokens": 34,
+      "text_length": 192
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1472019",
+      "spike_id": 19,
+      "market_question": "Will Saudi Arabia strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.2,
+      "spike_timestamp_before": "2026-03-09T05:00:22+00:00",
+      "spike_timestamp_after": "2026-03-10T02:30:27+00:00"
+    }
+  ]
+}

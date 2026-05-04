@@ -1,0 +1,65 @@
+{
+  "spike_index": 25,
+  "direction": "down",
+  "price_before": 0.263,
+  "price_after": 0.0215,
+  "delta": -0.24150000000000002,
+  "abs_delta": 0.24150000000000002,
+  "timestamp_before": "2026-03-16T17:00:26+00:00",
+  "timestamp_after": "2026-03-17T16:30:31+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.scmp.com/news/us/article/3346937/trump-confirms-delay-beijing-meeting-xi-amid-iran-conflict",
+      "file": "fb9bfd180c14.txt",
+      "title": "Trump confirms delay of Beijing meeting with Xi amid Iran conflict | South China Morning Post",
+      "published_date": "2026-03-17T00:00:00.000Z",
+      "author": null,
+      "text_length": 1222,
+      "status": "ok",
+      "num_tokens": 250
+    },
+    {
+      "url": "https://www.reuters.com/world/china/trump-postpones-trip-beijing-iran-war-delays-china-reset-2026-03-17/",
+      "file": "e191c90a8055.txt",
+      "title": "Trump postpones trip to Beijing as Iran war delays China reset | Reuters",
+      "published_date": "2026-03-17T17:13:03.426Z",
+      "author": "Trevor Hunnicutt",
+      "text_length": 4385,
+      "status": "ok",
+      "num_tokens": 917
+    },
+    {
+      "url": "https://uk.mobile.reuters.com/world/china/trump-postpones-trip-beijing-iran-war-delays-china-reset-2026-03-17/",
+      "file": "1c805385fc8a.txt",
+      "title": "Trump postpones trip to Beijing as Iran war delays China reset | Reuters",
+      "published_date": "2026-03-17T00:00:00.000Z",
+      "author": "Trevor Hunnicutt",
+      "text_length": 4385,
+      "status": "ok",
+      "num_tokens": 917
+    },
+    {
+      "url": "https://apnews.com/article/3ef73e58116cc0d89aab39ed15219bf6",
+      "file": "fec286f02701.txt",
+      "title": "Trump delays China trip to focus on war in Iran | AP News",
+      "published_date": "2026-03-17T00:00:00.000Z",
+      "author": null,
+      "text_length": 4390,
+      "status": "ok",
+      "num_tokens": 957
+    },
+    {
+      "url": "https://www.scmp.com/news/us/article/3346937/trump-confirms-delay-beijing-meeting-xi-amid-iran-conflict?pgtype=live",
+      "file": "1cfb44d28305.txt",
+      "title": "Trump confirms delay of Xi meeting in Beijing as China \u2018maintains communication\u2019 | South China Morning Post",
+      "published_date": "2026-03-17T00:00:00.000Z",
+      "author": null,
+      "text_length": 1397,
+      "status": "ok",
+      "num_tokens": 288
+    }
+  ],
+  "total_tokens": 3329
+}

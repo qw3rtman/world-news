@@ -1,0 +1,27 @@
+{
+  "hash": "223cb285396a",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cbsnews.com/texas/video/u-s-and-israel-kill-irans-supreme-leader-in-massive-multi-city-strike/",
+      "title": "U.S. and Israel kill Iran’s Supreme Leader in massive multi‑city strike - CBS Texas",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 65,
+      "text_length": 295
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "791705",
+      "spike_id": 1,
+      "market_question": "Israel strikes Iran by March 31, 2026?",
+      "event_title": "Israel strikes Iran by March 31, 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.20000000000000007,
+      "spike_timestamp_before": "2026-02-27T08:30:22+00:00",
+      "spike_timestamp_after": "2026-02-27T14:30:23+00:00"
+    }
+  ]
+}

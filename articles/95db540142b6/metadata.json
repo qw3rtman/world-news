@@ -1,0 +1,27 @@
+{
+  "hash": "95db540142b6",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.npr.org/nx-s1-5739370",
+      "title": "Netflix strikes deal with Ben Affleck’s InterPositive AI company \n : NPR",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Chloe Veltman",
+      "num_tokens": 724,
+      "text_length": 3691
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694936",
+      "spike_id": 1,
+      "market_question": "Will Nebius Group be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.19999999999999998,
+      "spike_timestamp_before": "2026-03-07T20:00:22+00:00",
+      "spike_timestamp_after": "2026-03-08T14:00:22+00:00"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In March 2026, what average Brent crude oil price forecast did UBS raise for the first quarter of that year?",
+    "a": "$71 per barrel"
+  },
+  {
+    "q": "What specific geopolitical event did UBS cite in March 2026 as a primary driver for its revised oil price forecasts?",
+    "a": "Escalating conflict in the Middle East and the near de facto closure of the Strait of Hormuz"
+  },
+  {
+    "q": "By how much did UBS increase its full-year 2026 Brent crude oil price forecast in March 2026 compared to its previous estimate?",
+    "a": "$10 per barrel"
+  },
+  {
+    "q": "What average Brent crude oil price did UBS forecast for the full year 2026 in its March 2026 update?",
+    "a": "$72 per barrel"
+  },
+  {
+    "q": "In March 2026, what average Brent crude oil price did UBS maintain unchanged for the year 2027?",
+    "a": "$70 per barrel"
+  },
+  {
+    "q": "In March 2026, what average Brent crude oil price did UBS maintain unchanged for the year 2028?",
+    "a": "$75 per barrel"
+  },
+  {
+    "q": "According to UBS in March 2026, what specific infrastructure target could lift Brent crude prices above $90 per barrel?",
+    "a": "Strikes on regional energy infrastructure like Qatar LNG"
+  },
+  {
+    "q": "According to UBS in March 2026, what potential scenario could drive Brent crude prices past $100 per barrel?",
+    "a": "A prolonged Strait of Hormuz closure"
+  },
+  {
+    "q": "What price level did UBS state in March 2026 was unlikely to be seen again for Brent crude, despite near-term de-escalation risks?",
+    "a": "$60 per barrel"
+  },
+  {
+    "q": "At what price per barrel was Brent crude trading in March 2026, after closing at its highest level since January 2025?",
+    "a": "Near $82.32 per barrel"
+  },
+  {
+    "q": "In March 2026, at what price per barrel was U.S. West Texas Intermediate crude trading?",
+    "a": "Around $74.73 per barrel"
+  },
+  {
+    "q": "In March 2026, U.S. West Texas Intermediate crude settled at its highest level since which month?",
+    "a": "June"
+  },
+  {
+    "q": "Which financial institution raised its Brent crude oil price forecasts for 2026 in a report published on March 4, 2026?",
+    "a": "UBS"
+  },
+  {
+    "q": "In March 2026, what implied price per barrel for March did UBS derive from its first-quarter average Brent forecast?",
+    "a": "Around $80 per barrel"
+  },
+  {
+    "q": "What direction of risk did UBS indicate for its oil price forecasts for 2027 and 2028 in March 2026?",
+    "a": "To the upside"
+  },
+  {
+    "q": "Which two Reuters reporters were credited with reporting on UBS's March 2026 oil price forecast revision?",
+    "a": "Anjana Anil and Sarah Qureshi"
+  },
+  {
+    "q": "Which two Reuters editors were credited with editing the article about UBS's March 2026 oil price forecast revision?",
+    "a": "Jan Harvey and Kirsten Donovan"
+  },
+  {
+    "q": "In March 2026, U.S. West Texas Intermediate crude closed at its highest level since which month?",
+    "a": "June"
+  },
+  {
+    "q": "What was the specific date of the Reuters article reporting UBS's March 2026 oil price forecast changes?",
+    "a": "March 4, 2026"
+  },
+  {
+    "q": "According to UBS in March 2026, what near-term event could unwind some of the risk premium on oil prices?",
+    "a": "A near-term de-escalation"
+  },
+  {
+    "q": "In March 2026, at what price per barrel was Brent crude trading after closing at its highest since January 2025?",
+    "a": "Near $82.32 per barrel"
+  },
+  {
+    "q": "What was the previous full-year 2026 Brent crude oil price forecast by UBS before it was raised to $72 in March 2026?",
+    "a": "$62 per barrel"
+  },
+  {
+    "q": "Which strait's closure was cited by UBS in March 2026 as a key factor in its oil price forecast revision?",
+    "a": "The Strait of Hormuz"
+  },
+  {
+    "q": "In March 2026, what specific type of energy infrastructure was mentioned by UBS as a potential target for strikes that could raise prices?",
+    "a": "Qatar LNG"
+  },
+  {
+    "q": "What was the trading price of U.S. West Texas Intermediate crude in March 2026, following its settlement at a multi-month high?",
+    "a": "Around $74.73 per barrel"
+  },
+  {
+    "q": "In March 2026, UBS stated that prices were unlikely to retreat to the level seen at the start of which year?",
+    "a": "2026"
+  }
+]

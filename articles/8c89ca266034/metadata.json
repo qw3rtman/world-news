@@ -1,0 +1,37 @@
+{
+  "hash": "8c89ca266034",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.timesofisrael.com/knew-they-were-next-hezbollah-rearmed-for-months-after-concluding-war-inevitable/",
+      "title": "'Knew they were next': Hezbollah rearmed for months after concluding war inevitable | The Times of Israel",
+      "published_date": "2026-03-07T00:00:00.000Z",
+      "author": "Reuters  and  ToI Staff",
+      "num_tokens": 1157,
+      "text_length": 5961
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "677397",
+      "spike_id": 17,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.35000000000000003,
+      "spike_timestamp_before": "2026-03-08T11:30:24+00:00",
+      "spike_timestamp_after": "2026-03-09T09:30:20+00:00"
+    },
+    {
+      "market_id": "677397",
+      "spike_id": 18,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.31000000000000005,
+      "spike_timestamp_before": "2026-03-09T09:30:20+00:00",
+      "spike_timestamp_after": "2026-03-09T21:00:32+00:00"
+    }
+  ]
+}

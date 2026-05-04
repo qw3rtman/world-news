@@ -1,0 +1,65 @@
+{
+  "spike_index": 13,
+  "direction": "up",
+  "price_before": 0.215,
+  "price_after": 0.385,
+  "delta": 0.17,
+  "abs_delta": 0.17,
+  "timestamp_before": "2026-03-10T17:00:23+00:00",
+  "timestamp_after": "2026-03-11T06:00:32+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://thehill.com/policy/defense/5774803-us-troops-iran-pete-hegseth/",
+      "file": "06a5d6b55ebc.txt",
+      "title": "Pete Hegseth: U.S. may deploy troops in Iran conflict",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "text_length": 1981,
+      "status": "ok",
+      "num_tokens": 440
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/09/politics/iran-uranium-us-ground-forces-nuclear",
+      "file": "b37f42b06ec5.txt",
+      "title": "Capturing Iran\u2019s highly enriched uranium would require a large US ground force, sources say | CNN Politics",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "Natasha Bertrand, Zachary Cohen, Haley Britzky, Avery Schmitz",
+      "text_length": 6371,
+      "status": "ok",
+      "num_tokens": 1247
+    },
+    {
+      "url": "https://dev.abcnews.go.com/Politics/large-us-special-ops-force-needed-ground-seize/story?id=130935450",
+      "file": "00fabf38409c.txt",
+      "title": "Large US special ops force needed on ground to seize Iran's uranium, experts say - ABC News",
+      "published_date": "2026-03-10T00:00:00.000Z",
+      "author": "ABC News",
+      "text_length": 5793,
+      "status": "ok",
+      "num_tokens": 1197
+    },
+    {
+      "url": "https://fortune.com/2026/03/08/us-special-operation-forces-raid-iran-uranium-nuclear-weapons-program/",
+      "file": "39e24a76e676.txt",
+      "title": "U.S. considers idea of special operation to seize Iran\u2019s uranium | Fortune",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": "Bloomberg",
+      "text_length": 267,
+      "status": "ok",
+      "num_tokens": 47
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/11/us-strikes-iran-mine-ships-strait-of-hormuz-war-oil.html",
+      "file": "59d985c1d121.txt",
+      "title": "U.S. forces sink 16 Iranian minelayers as reports say Tehran is mining the Strait of Hormuz",
+      "published_date": "2026-03-10T00:00:00.000Z",
+      "author": "Lim Hui Jie",
+      "text_length": 4254,
+      "status": "ok",
+      "num_tokens": 899
+    }
+  ],
+  "total_tokens": 3830
+}

@@ -1,0 +1,27 @@
+{
+  "hash": "8546336f7279",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.npr.org/2026/03/02/nx-s1-5732287/iran-war-oil-gasoline-prices",
+      "title": "Oil prices surge because of Iran war : NPR",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Camila Domonoske",
+      "num_tokens": 1405,
+      "text_length": 6511
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "665307",
+      "spike_id": 7,
+      "market_question": "Will Iran close the Strait of Hormuz before 2027?",
+      "event_title": "Will Iran close the Strait of Hormuz by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.36749999999999994,
+      "spike_timestamp_before": "2026-03-02T17:00:39+00:00",
+      "spike_timestamp_after": "2026-03-03T14:00:31+00:00"
+    }
+  ]
+}

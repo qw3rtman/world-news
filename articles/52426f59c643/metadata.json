@@ -1,0 +1,27 @@
+{
+  "hash": "52426f59c643",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.axios.com/pro/supply-chain-deals/2026/02/23/sap-fourkites-offer",
+      "title": "SAP offered $600M for supply chain visibility platform FourKites",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "Colin Campbell",
+      "num_tokens": 48,
+      "text_length": 255
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694940",
+      "spike_id": 1,
+      "market_question": "Will GitLab be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.18000000000000002,
+      "spike_timestamp_before": "2026-02-23T18:00:33+00:00",
+      "spike_timestamp_after": "2026-02-23T21:00:18+00:00"
+    }
+  ]
+}

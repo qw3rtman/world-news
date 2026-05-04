@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On what date did the United States conduct a submarine strike on an Iranian warship off the coast of Sri Lanka, an event that widened the U.S.–Iran war and coincided with President Donald Trump's pledge to provide navy escorts for Middle East energy exports?",
+    "a": "Wednesday, March 4, 2026."
+  },
+  {
+    "q": "According to Reuters estimates based on MarineTraffic data as of March 4, 2026, how many ships remained at anchor in open waters off the coasts of Iraq, Saudi Arabia, and Qatar due to the Strait of Hormuz shipping crisis?",
+    "a": "At least 200 ships."
+  },
+  {
+    "q": "Which Maltese-flagged container ship was damaged by a projectile while sailing toward the northern end of the Strait of Hormuz on Wednesday, March 4, 2026, prompting its crew to abandon ship?",
+    "a": "The Safeen Prestige."
+  },
+  {
+    "q": "Which two vessels, the Marshall Islands crude oil tanker Libra Trader and the Panama-flagged bulker Gold Oak, sustained minor damage from projectiles 7-10 nautical miles off the UAE port of Fujairah on Wednesday, March 4, 2026?",
+    "a": "The Libra Trader and the Gold Oak."
+  },
+  {
+    "q": "What force majeure declaration did QatarEnergy make on Wednesday, March 4, 2026, regarding its LNG shipments, and what was the expected duration for its return to normal production?",
+    "a": "It declared force majeure on LNG shipments and will not return to normal production and exports for at least a month."
+  },
+  {
+    "q": "Which country cut its oil production on Wednesday, March 4, 2026, because it ran out of storage and was unable to load tankers, while Saudi Arabia, the UAE, and Kuwait struggled with loading but had not yet confirmed output cuts?",
+    "a": "Iraq."
+  },
+  {
+    "q": "Which Suezmax tanker, identified as the Pola, sailed through the Strait of Hormuz to the UAE on Tuesday, March 3, 2026, after switching off its AIS transponder late on March 2?",
+    "a": "The Pola."
+  },
+  {
+    "q": "Which U.S. government agency did President Donald Trump instruct on Tuesday, March 3, 2026, to provide political-risk insurance and financial guarantees for maritime trade in the Gulf?",
+    "a": "The U.S. International Development Finance Corporation."
+  },
+  {
+    "q": "By what factor did commercial war risk insurance costs increase in recent days leading up to March 4, 2026, according to insurance broker Angus Blayney of Gallagher?",
+    "a": "At least five-fold."
+  },
+  {
+    "q": "By what percentage had oil prices risen since the war started on Saturday, March 1, 2026, despite dipping on Wednesday, March 4, 2026?",
+    "a": "12%."
+  },
+  {
+    "q": "What new forecast did Goldman Sachs raise on Wednesday, March 4, 2026, for Brent crude oil in the second quarter, and what was the new price per barrel?",
+    "a": "It raised the forecast by $10 to $76 per barrel."
+  },
+  {
+    "q": "What new forecast did Goldman Sachs raise on Wednesday, March 4, 2026, for WTI crude oil, and what was the new price per barrel?",
+    "a": "It raised the prediction by $9 to $71 per barrel."
+  },
+  {
+    "q": "Which shipping association's chief safety and security officer, Jakob Larsen, stated on Wednesday, March 4, 2026, that providing protection for all tankers in areas threatened by Iran is unrealistic due to the required number of military assets?",
+    "a": "BIMCO (the shipping association)."
+  },
+  {
+    "q": "Which two Indian companies, India's Mangalore Refinery and Petrochemicals and Petronet LNG, issued force majeure notices on or around Wednesday, March 4, 2026, due to disruptions in receiving replacement cargoes from the Gulf?",
+    "a": "India's Mangalore Refinery and Petrochemicals and Petronet LNG."
+  },
+  {
+    "q": "What percentage of its oil does Asia source from the Middle East, a dependency that left the region vulnerable to the shipping standstill as of March 4, 2026?",
+    "a": "60%."
+  },
+  {
+    "q": "Which two Asian countries, Indonesia and Japan, began sourcing more oil from the U.S. to replace the shortfall from the Middle East as of March 4, 2026?",
+    "a": "Indonesia and Japan."
+  },
+  {
+    "q": "Which country's refiners were considering buying more oil from Russia to address the shortfall caused by the Gulf shipping crisis, according to sources at two companies as of March 4, 2026?",
+    "a": "India."
+  },
+  {
+    "q": "Which Saudi Aramco facility, described as its largest domestic refinery and key crude export terminal, was struck on Wednesday, March 4, 2026?",
+    "a": "Ras Tanura."
+  },
+  {
+    "q": "How many vessels had suffered damage in the Strait of Hormuz area since the Iran conflict began on Saturday, March 1, 2026, according to data cited in the article published on March 4, 2026?",
+    "a": "At least eight vessels."
+  },
+  {
+    "q": "For how many consecutive days had the Strait of Hormuz been paralysed by the shipping crisis as of Wednesday, March 4, 2026?",
+    "a": "Five days."
+  },
+  {
+    "q": "Which two countries' strikes on Iran, in addition to U.S. actions, disrupted Middle East supplies and contributed to the 12% rise in oil prices by March 4, 2026?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "What specific risk did Goldman Sachs cite on Wednesday, March 4, 2026, as a reason for raising its oil price forecasts, involving the long-term status of exports through a key waterway?",
+    "a": "Longer-than-expected disruption to exports of oil and gas through the Strait of Hormuz."
+  },
+  {
+    "q": "Which two entities did Goldman Sachs assume would see large declines in March 2026 due to low oil flows through the Strait of Hormuz, as stated in its Wednesday, March 4, 2026, report?",
+    "a": "OECD inventories and Middle East production."
+  },
+  {
+    "q": "Which British navy agency, UKMTO, reported on Wednesday, March 4, 2026, that the crew of the container ship Safeen Prestige abandoned ship after it was damaged by a projectile?",
+    "a": "UKMTO (United Kingdom Maritime Trade Operations)."
+  },
+  {
+    "q": "Which two Gulf producers, Iraq and Qatar, were explicitly mentioned as having major disruptions to their oil or gas loading and production capabilities as of Wednesday, March 4, 2026?",
+    "a": "Iraq and Qatar."
+  }
+]

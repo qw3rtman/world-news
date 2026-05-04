@@ -1,0 +1,37 @@
+{
+  "hash": "6ea0057b03c0",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://fortune.com/2026/02/25/defense-secretary-pete-hegseth-meets-anthropic-ceo-dario-amodei-woke-ai",
+      "title": "Hegseth issues an ultimatum to ‘woke AI’ startup Anthropic: Get with military program by Friday or lose $200 million | Fortune",
+      "published_date": "2026-02-25T00:00:00.000Z",
+      "author": "Jake Angelo",
+      "num_tokens": 194,
+      "text_length": 810
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1386658",
+      "spike_id": 2,
+      "market_question": "Will Pete Hegseth ban Claude by March 31?",
+      "event_title": "Will Pete Hegseth ban Claude by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.32999999999999996,
+      "spike_timestamp_before": "2026-02-24T12:30:27+00:00",
+      "spike_timestamp_after": "2026-02-25T02:30:23+00:00"
+    },
+    {
+      "market_id": "1386658",
+      "spike_id": 3,
+      "market_question": "Will Pete Hegseth ban Claude by March 31?",
+      "event_title": "Will Pete Hegseth ban Claude by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.345,
+      "spike_timestamp_before": "2026-02-24T12:30:27+00:00",
+      "spike_timestamp_after": "2026-02-25T05:00:20+00:00"
+    }
+  ]
+}

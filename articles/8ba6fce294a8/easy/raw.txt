@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On what date did Google begin rolling out the Gemini 3.1 Pro AI model to users via the Gemini app and NotebookLM?",
+    "a": "February 19, 2026"
+  },
+  {
+    "q": "Which AI model did Google describe as representing a step forward in core reasoning in its February 2026 announcement?",
+    "a": "Gemini 3.1 Pro"
+  },
+  {
+    "q": "In February 2026, which two Google applications were identified as the initial platforms for the rollout of the Gemini 3.1 Pro AI model?",
+    "a": "The Gemini app and NotebookLM"
+  },
+  {
+    "q": "According to Google's February 2026 description, what specific capability is the Gemini 3.1 Pro AI model designed to improve for complex tasks?",
+    "a": "Advanced reasoning"
+  },
+  {
+    "q": "What type of practical application does Google state the Gemini 3.1 Pro model can help with by providing clear, visual explanations of complex topics?",
+    "a": "Tasks where a simple answer is not enough"
+  },
+  {
+    "q": "Which organization announced the release of the Gemini 3.1 Pro AI model on February 19, 2026?",
+    "a": "Google"
+  },
+  {
+    "q": "What specific data handling task does Google say the Gemini 3.1 Pro model can assist with by synthesizing data into a single view?",
+    "a": "Synthesizing data into a single view"
+  },
+  {
+    "q": "For what category of challenges does Google state the Gemini 3.1 Pro model is specifically designed in its February 2026 release notes?",
+    "a": "The user's hardest challenges"
+  },
+  {
+    "q": "Which AI model was reported by The Verge on February 19, 2026, to represent a step forward in core reasoning?",
+    "a": "Gemini 3.1 Pro"
+  },
+  {
+    "q": "What creative function does Google attribute to the Gemini 3.1 Pro model in its February 2026 announcement?",
+    "a": "Bringing a creative project to life"
+  },
+  {
+    "q": "On which date did The Verge publish its report regarding the rollout of Google's Gemini 3.1 Pro AI model?",
+    "a": "February 19, 2026"
+  },
+  {
+    "q": "Which Google product, alongside the Gemini app, was listed as a destination for the Gemini 3.1 Pro rollout in February 2026?",
+    "a": "NotebookLM"
+  },
+  {
+    "q": "What improvement in intelligence does Google claim the Gemini 3.1 Pro model provides for practical applications as of February 2026?",
+    "a": "Improved intelligence for advanced reasoning"
+  },
+  {
+    "q": "According to the February 2026 announcement, what is the primary limitation of simple answers that the Gemini 3.1 Pro model aims to address?",
+    "a": "They are not enough for complex tasks"
+  },
+  {
+    "q": "Which specific AI model did Google state is designed to make advanced reasoning useful for difficult challenges in February 2026?",
+    "a": "Gemini 3.1 Pro"
+  },
+  {
+    "q": "What two distinct practical applications did Google highlight for the Gemini 3.1 Pro model in its February 2026 release description?",
+    "a": "Providing visual explanations of complex topics and synthesizing data into a single view"
+  },
+  {
+    "q": "Who is the author of the February 19, 2026, article titled 'The new Gemini 3.1 Pro AI model represents a step forward in core reasoning' published by The Verge?",
+    "a": "Jay Peters"
+  },
+  {
+    "q": "In the context of the February 2026 Gemini 3.1 Pro rollout, what type of explanation does the model offer for complex topics?",
+    "a": "Clear, visual explanations"
+  },
+  {
+    "q": "What specific outcome does Google associate with the Gemini 3.1 Pro model's ability to synthesize data in its February 2026 announcement?",
+    "a": "Bringing data into a single view"
+  },
+  {
+    "q": "Which AI model's rollout was described by Google in February 2026 as being intended for tasks requiring more than a simple answer?",
+    "a": "Gemini 3.1 Pro"
+  },
+  {
+    "q": "What time was the article about the Gemini 3.1 Pro AI model posted on The Verge on February 19, 2026?",
+    "a": "6:32 PM UTC"
+  },
+  {
+    "q": "Which Google service was mentioned as receiving the Gemini 3.1 Pro model update starting in February 2026?",
+    "a": "NotebookLM"
+  },
+  {
+    "q": "According to Google's February 2026 statement, what is the core reasoning improvement associated with the Gemini 3.1 Pro model?",
+    "a": "It represents a step forward in core reasoning"
+  },
+  {
+    "q": "What specific type of project assistance does the Gemini 3.1 Pro model provide according to Google's February 2026 description?",
+    "a": "Bringing a creative project to life"
+  },
+  {
+    "q": "Which publication reported on the February 19, 2026, release of Google's Gemini 3.1 Pro AI model?",
+    "a": "The Verge"
+  }
+]

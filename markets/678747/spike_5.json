@@ -1,0 +1,65 @@
+{
+  "spike_index": 5,
+  "direction": "down",
+  "price_before": 0.343,
+  "price_after": 0.1215,
+  "delta": -0.22150000000000003,
+  "abs_delta": 0.22150000000000003,
+  "timestamp_before": "2026-03-15T22:30:48+00:00",
+  "timestamp_after": "2026-03-16T20:30:52+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.cnn.com/us-israel-iran-middle-east-war-what-we-know-intl-hnk",
+      "file": "580d17ed525d.txt",
+      "title": "The US-Israel war with Iran has entered a third week. Here\u2019s what we know | CNN",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": "Helen Regan, Issy Ronald",
+      "text_length": 6740,
+      "status": "ok",
+      "num_tokens": 1367
+    },
+    {
+      "url": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-15-26?post-id=cmmrp9h4t000n3b6uar9gk79z",
+      "file": "4c91daf519ff.txt",
+      "title": "Day 16 of Middle East conflict \u2014 Trump ramps up call to secure Hormuz strait, says he may delay China summit | CNN",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "Christina Macfarlane, Sana Noor Haq, Alessandra Freitas, Yumi Asada, Lex Harvey, Laura Sharman, Brad Lendon, Teele Rebane, Rhea Mogul, Kocha Olarn, Xiaoqian Lin, Piper Hudspeth Blackburn, Hilary Whiteman, Alejandra Jaramillo, David Goldman, Auzinea Bacon, Mohammed Tawfeeq, Jonny Hallam, Tal Shalev, Nina Giraldo, Oren Liebermann, Aqeel Najim, Christian Sierra, Aileen Graef, Charbel Mallo, Catherine Nicholls, Evan John, Billy Stockwell, Maureen Chowdhury, Gianluca Mezzofiore, Kaanita Iyer, Logan Schiciano, Fadel Allassan, Christopher Lamb, Sophie Tanno, Lauren Said-Moorhouse, Chris Lau, Nic Robertson, Diego Mendoza, Adam Pourahmadi, Hanako Montgomery, Hanna Ziady, Brian Stelter, Aleena Fayaz, Hanna Park",
+      "text_length": 26191,
+      "status": "ok",
+      "num_tokens": 5337
+    },
+    {
+      "url": "https://www.semafor.com/article/03/15/2026/israel-says-it-is-prepared-for-at-least-three-more-weeks-of-war",
+      "file": "bbcbeed7513c.txt",
+      "title": "Israel says it is prepared for at least three more weeks of war | Semafor",
+      "published_date": "2026-03-15T00:00:00.000Z",
+      "author": null,
+      "text_length": 772,
+      "status": "ok",
+      "num_tokens": 148
+    },
+    {
+      "url": "https://sph.straitstimes.com/world/united-states/trump-demands-others-help-secure-strait-of-hormuz-japan-and-australia-say-no-plans-to-send-ships",
+      "file": "d2401e34147f.txt",
+      "title": "Israel says it has plans for at least 3 more weeks of war as air strikes pound Iran | The Straits Times",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": null,
+      "text_length": 6589,
+      "status": "ok",
+      "num_tokens": 1385
+    },
+    {
+      "url": "https://www.iranintl.com/en/202603153753",
+      "file": "07dbd6ced956.txt",
+      "title": "Israeli military says expanding strikes to western, central Iran | Iran International",
+      "published_date": "2026-03-15T00:00:00.000Z",
+      "author": null,
+      "text_length": 146,
+      "status": "ok",
+      "num_tokens": 24
+    }
+  ],
+  "total_tokens": 8261
+}

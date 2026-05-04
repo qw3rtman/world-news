@@ -1,0 +1,27 @@
+{
+  "hash": "af631910fd98",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://foxnews.com/politics/why-keeping-lawmakers-dc-during-shutdown-may-have-caused-more-harm-than-good",
+      "title": "Homeland Security funding crisis deepens amid ongoing political standoff | Fox News",
+      "published_date": "2026-02-22T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1468,
+      "text_length": 7106
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1378925",
+      "spike_id": 1,
+      "market_question": "Will the DHS shutdown end after March 31, 2026?",
+      "event_title": "When will the DHS shutdown end?",
+      "spike_direction": "down",
+      "spike_delta": -0.15299999999999997,
+      "spike_timestamp_before": "2026-02-22T18:30:45+00:00",
+      "spike_timestamp_after": "2026-02-23T18:00:56+00:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "hash": "4a8fc437b162",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://today.reuters.com/commentary/breakingviews/what-happens-if-openai-or-anthropic-fail-2026-03-11/",
+      "title": "What happens if OpenAI or Anthropic fail? | Reuters",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": "Karen Kwok",
+      "num_tokens": 1239,
+      "text_length": 6042
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1298649",
+      "spike_id": 4,
+      "market_question": "OpenAI IPO closing market cap above $1T?",
+      "event_title": "OpenAI IPO closing market cap above ___ ?",
+      "spike_direction": "down",
+      "spike_delta": -0.16000000000000003,
+      "spike_timestamp_before": "2026-03-10T01:30:48+00:00",
+      "spike_timestamp_after": "2026-03-11T01:00:37+00:00"
+    }
+  ]
+}

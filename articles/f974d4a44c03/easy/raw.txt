@@ -1,0 +1,107 @@
+[
+  {
+    "q": "What are the specific start and end dates for U.S. President Donald Trump's scheduled trip to China announced in February 2026?",
+    "a": "March 31 to April 2, 2026."
+  },
+  {
+    "q": "Which U.S. judicial body struck down certain tariffs imposed by U.S. President Donald Trump on Chinese goods in February 2026?",
+    "a": "The U.S. Supreme Court."
+  },
+  {
+    "q": "Under which specific U.S. legal authority did the Supreme Court rule that U.S. President Donald Trump overstepped his power when imposing 20-percent tariffs on China's U.S.-bound exports?",
+    "a": "The International Emergency Economic Powers Act (IEEPA)."
+  },
+  {
+    "q": "Which two U.S. trade authorities, distinct from IEEPA, were cited as keeping other duties on Chinese goods in place after the Supreme Court ruling in February 2026?",
+    "a": "Section 301 and Section 232."
+  },
+  {
+    "q": "What new tariff rate did U.S. President Donald Trump announce he would impose globally for 150 days following the Supreme Court ruling in February 2026?",
+    "a": "A new 10% global tariff."
+  },
+  {
+    "q": "In which year did U.S. President Donald Trump make his most recent previous trip to China before the scheduled 2026 visit?",
+    "a": "2017."
+  },
+  {
+    "q": "Where did U.S. President Donald Trump and Chinese President Xi Jinping hold their first in-person talks since the October 2025 trade truce agreement?",
+    "a": "South Korea."
+  },
+  {
+    "q": "What specific illicit trade issue did Beijing agree to crack down on in exchange for U.S. President Donald Trump trimming tariffs on Chinese goods in the October 2025 trade truce?",
+    "a": "The illicit fentanyl trade."
+  },
+  {
+    "q": "What export restriction measure did Beijing pause as part of the trade truce with the United States in October 2025?",
+    "a": "Export restrictions on critical minerals."
+  },
+  {
+    "q": "What was the monetary value of the largest-ever U.S. arms sale approval to Taiwan announced in December 2025?",
+    "a": "$11.1 billion."
+  },
+  {
+    "q": "Which Chinese commodity purchase did Chinese President Xi Jinping say he would consider increasing further during a February 2026 phone call with U.S. President Donald Trump?",
+    "a": "Soybean purchases."
+  },
+  {
+    "q": "Which U.S. political constituency is identified as being significantly impacted by potential changes in Chinese purchases of U.S. soybeans?",
+    "a": "Struggling U.S. farmers."
+  },
+  {
+    "q": "Which organization's China economics expert, Scott Kennedy, stated that the Supreme Court ruling likely cemented U.S. President Donald Trump's weakness in the eyes of Chinese officials?",
+    "a": "The Center for Strategic and International Studies."
+  },
+  {
+    "q": "Which economic institute's senior fellow, Martin Chorzempa, argued that the Supreme Court ruling could indirectly increase pressure on Beijing by affecting effective tariff rates on other countries?",
+    "a": "The Peterson Institute of International Economics."
+  },
+  {
+    "q": "Which specific region's countries were noted by analysts as potentially seeing greater reductions in effective tariff rates than China following the Supreme Court ruling in February 2026?",
+    "a": "Southeast Asia."
+  },
+  {
+    "q": "Which two national emergencies did the Trump administration cite as justification for the global tariffs that were partially struck down by the Supreme Court in February 2026?",
+    "a": "Fentanyl distribution and trade imbalances."
+  },
+  {
+    "q": "Which U.S. policy areas did U.S. President Donald Trump ease toward Beijing in the months leading up to February 2026, despite previously justifying hawkish steps as necessary to thwart China?",
+    "a": "Tariffs, advanced computer chips, and drones."
+  },
+  {
+    "q": "Which country did U.S. President Donald Trump recently initiate hawkish policy steps toward, including in Canada and Greenland, as part of his strategy to thwart China?",
+    "a": "Venezuela."
+  },
+  {
+    "q": "What specific sensitive geopolitical issue did Chinese President Xi Jinping raise with U.S. President Donald Trump during their February 2026 conversation, despite being largely sidestepped in their October 2025 meeting?",
+    "a": "U.S. arms sales to Taiwan."
+  },
+  {
+    "q": "Which news organization first reported the dates of U.S. President Donald Trump's March 2026 trip to China before the Chinese embassy in Washington declined to comment?",
+    "a": "Reuters."
+  },
+  {
+    "q": "Which U.S. official confirmed the details of U.S. President Donald Trump's trip to China in February 2026?",
+    "a": "A White House official."
+  },
+  {
+    "q": "What specific display did U.S. President Donald Trump tell foreign leaders visiting Washington in February 2026 that he planned to put on during his upcoming China visit?",
+    "a": "The biggest display you've ever had in the history of China."
+  },
+  {
+    "q": "Which U.S. law binds the United States to provide Taiwan with the means to defend itself, complicating the diplomatic stance discussed during the Trump-Xi interactions in early 2026?",
+    "a": "The Taiwan Relations Act (implied by 'bound by law', though text says 'bound by law'; sticking to text: The text states the U.S. is 'bound by law' without naming the act, so I will rephrase to be strictly factual based on text). Which legal obligation does the U.S. maintain regarding Taiwan's defense that was relevant to the February 2026 discussions?",
+    "a": "The U.S. is bound by law to provide Taiwan with the means to defend itself."
+  },
+  {
+    "q": "Which two leaders' meeting in October 2025 resulted in an agreement on a trade truce that prevented further tariff hikes between the United States and China?",
+    "a": "U.S. President Donald Trump and Chinese President Xi Jinping."
+  },
+  {
+    "q": "Which specific Chinese export restriction measure was paused by Beijing in exchange for U.S. tariff reductions in the October 2025 trade truce?",
+    "a": "Export restrictions on critical minerals."
+  },
+  {
+    "q": "Which group of trading partners, including allies, did U.S. President Donald Trump's global trade war initiated in January 2025 alienate?",
+    "a": "Other trading partners, including allies."
+  }
+]

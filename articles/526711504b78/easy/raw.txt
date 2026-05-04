@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In February 2026, what specific aircraft did U.S. Ambassador to Portugal John Arrigo urge Lisbon to purchase to replace its aging F-16 fighter jets?",
+    "a": "Lockheed Martin's F-35 stealth fighter."
+  },
+  {
+    "q": "According to U.S. Ambassador John Arrigo's statements in late February 2026, what percentage of Portugal's gross domestic product does he aim to help the country ramp up its defense spending to by 2035?",
+    "a": "5%."
+  },
+  {
+    "q": "What was the approximate defense spending percentage of Portugal's GDP cited by Ambassador John Arrigo in February 2026 as the current level before his proposed increase?",
+    "a": "2%."
+  },
+  {
+    "q": "In November of the year prior to February 2026, what did Portuguese Defence Minister Nuno Melo state regarding the selection process for replacing Portugal's fighter jets?",
+    "a": "He stated that the selection process had not yet started."
+  },
+  {
+    "q": "How many F-35 aircraft did Ambassador John Arrigo claim were in service or on order across Europe in his February 2026 remarks?",
+    "a": "More than 900."
+  },
+  {
+    "q": "What percentage of the F-35 aircraft's components did Ambassador John Arrigo note were made with European parts in February 2026?",
+    "a": "25%."
+  },
+  {
+    "q": "During a late February 2026 interview with CNN Portugal, how did Ambassador John Arrigo characterize the Trump administration's stance on Portugal choosing between Washington and Beijing?",
+    "a": "He stated the U.S. was not pushing Portugal to choose between the two or decouple from China."
+  },
+  {
+    "q": "What term did Ambassador John Arrigo use in February 2026 to describe the U.S. strategy regarding economic relations with China, emphasizing cybersecurity and investment screening?",
+    "a": "\"De-risking.\""
+  },
+  {
+    "q": "Following which major economic event did Chinese companies expand their presence in Portugal, according to Ambassador John Arrigo's February 2026 comments?",
+    "a": "The 2011-14 bailout."
+  },
+  {
+    "q": "In May 2011, which three international organizations provided Portugal with a 78 billion euro bailout to address soaring borrowing costs during the eurozone debt crisis?",
+    "a": "The EU, IMF, and ECB."
+  },
+  {
+    "q": "Which Chinese company holds a 21.4% stake in the Portuguese utility EDP, as noted in the context of China's economic expansion in Portugal?",
+    "a": "China Three Gorges."
+  },
+  {
+    "q": "What percentage of the grid operator REN does China State Grid own, according to the article's details on Chinese investment in Portugal?",
+    "a": "25%."
+  },
+  {
+    "q": "Hong Kong-listed Fosun controls what percentage of the insurer Fidelidade, as part of the Chinese investment landscape in Portugal described in the report?",
+    "a": "85%."
+  },
+  {
+    "q": "In December 2018, which international infrastructure initiative did Portugal join, prompting Ambassador John Arrigo to suggest Lisbon could exit to improve U.S. relations?",
+    "a": "China's Belt and Road Initiative."
+  },
+  {
+    "q": "Which European country did Ambassador John Arrigo cite in February 2026 as an example of a nation that exited China's Belt and Road Initiative in 2023?",
+    "a": "Italy."
+  },
+  {
+    "q": "What percentage stake does Hong Kong-listed Fosun control in the bank Millennium BCP, according to the article's data on Chinese ownership in Portugal?",
+    "a": "20%."
+  },
+  {
+    "q": "Ambassador John Arrigo compared the Portuguese Air Force's potential status with the F-35 to what sports analogy in his February 2026 statements?",
+    "a": "Getting them into the Champions League."
+  },
+  {
+    "q": "What specific type of fighter jet did Ambassador John Arrigo describe as a \"fifth-generation stealth fighter\" in his February 2026 remarks?",
+    "a": "The F-35."
+  },
+  {
+    "q": "Which Portuguese newspaper did Ambassador John Arrigo give an interview to in late February 2026 regarding defense spending and aircraft purchases?",
+    "a": "CNN Portugal."
+  },
+  {
+    "q": "What harsh economic measure did Portugal have to agree to as part of the conditions for its May 2011 bailout from the EU, IMF, and ECB?",
+    "a": "Harsh austerity."
+  },
+  {
+    "q": "According to Ambassador John Arrigo's February 2026 comments, what did he say the U.S. wants to do with any adversary of Portugal?",
+    "a": "Keep it at arm's length."
+  },
+  {
+    "q": "What was the primary reason cited for Portugal being cut off from markets in May 2011, leading to its 78 billion euro bailout?",
+    "a": "Soaring borrowing costs during the eurozone debt crisis."
+  },
+  {
+    "q": "In February 2026, Ambassador John Arrigo stated that Lisbon's partnership with the U.S. would flourish if Lisbon exited which specific initiative?",
+    "a": "China's Belt and Road Initiative."
+  },
+  {
+    "q": "Which utility company in Portugal has a significant stake held by China Three Gorges, as detailed in the article's section on Chinese economic influence?",
+    "a": "EDP."
+  },
+  {
+    "q": "What specific outcome did Ambassador John Arrigo predict for the U.S.-Portugal partnership if Portugal exited China's Belt and Road Initiative, referencing Italy's 2023 decision?",
+    "a": "He said the partnership would \"flourish.\""
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "hash": "7ece1f6eb9d9",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://blogs.aljazeera.com/news/2026/3/1/missile-strikes-continue-as-iranian-leaders-project-defiance-after-khamenei",
+      "title": "Breaking News, World News and Video from Al Jazeera",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 691,
+      "text_length": 3320
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "666696",
+      "spike_id": 2,
+      "market_question": "Israel x Iran ceasefire broken by March 31, 2026?",
+      "event_title": "Israel x Iran ceasefire broken by...? ",
+      "spike_direction": "up",
+      "spike_delta": 0.49250000000000005,
+      "spike_timestamp_before": "2026-02-27T09:30:28+00:00",
+      "spike_timestamp_after": "2026-02-28T07:30:30+00:00"
+    },
+    {
+      "market_id": "666696",
+      "spike_id": 3,
+      "market_question": "Israel x Iran ceasefire broken by March 31, 2026?",
+      "event_title": "Israel x Iran ceasefire broken by...? ",
+      "spike_direction": "up",
+      "spike_delta": 0.48450000000000004,
+      "spike_timestamp_before": "2026-02-27T10:30:37+00:00",
+      "spike_timestamp_after": "2026-02-28T10:00:35+00:00"
+    }
+  ]
+}

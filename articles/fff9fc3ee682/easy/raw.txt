@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the context of the Russia-Ukraine war four years after its start in 2022, what specific types of data visualizations are highlighted in the February 2026 coverage to illustrate the changing front lines and casualty numbers?",
+    "a": "Maps and charts."
+  },
+  {
+    "q": "As of February 2026, how many years have passed since the beginning of the Russia-Ukraine war in 2022, according to the article's title?",
+    "a": "Four years."
+  },
+  {
+    "q": "Which two major categories of human cost are explicitly mentioned in the February 2026 article as being tracked through maps and charts regarding the Russia-Ukraine war?",
+    "a": "Civilian deaths and military deaths."
+  },
+  {
+    "q": "According to the February 2026 article, what demographic movement of the Ukrainian population is being visualized alongside front-line changes and death tolls?",
+    "a": "Displacement."
+  },
+  {
+    "q": "The February 2026 article titled 'The Russia-Ukraine war in maps and charts — four years on' focuses on changes occurring since which specific year?",
+    "a": "2022."
+  },
+  {
+    "q": "In the February 2026 analysis of the Russia-Ukraine war, what geographical feature's evolution is tracked using maps to show the progress of the conflict since 2022?",
+    "a": "The front lines."
+  },
+  {
+    "q": "Beyond front-line shifts and displacement, what numerical data points concerning human loss are included in the February 2026 charts about the Russia-Ukraine war?",
+    "a": "The numbers of civilian and military deaths."
+  },
+  {
+    "q": "What is the publication date of the article titled 'The Russia-Ukraine war in maps and charts — four years on'?",
+    "a": "February 24, 2026."
+  },
+  {
+    "q": "The February 2026 article uses visual data to compare the state of the Russia-Ukraine war in 2026 against its status in which earlier year?",
+    "a": "2022."
+  },
+  {
+    "q": "Which specific group of casualties is distinguished from military deaths in the February 2026 article's description of the Russia-Ukraine war data?",
+    "a": "Civilian deaths."
+  },
+  {
+    "q": "What is the primary subject of the visualizations described in the February 2026 article regarding the conflict between Russia and Ukraine?",
+    "a": "The war's impact on front lines, deaths, and displacement."
+  },
+  {
+    "q": "In the February 2026 article, what term is used to describe the movement of people affected by the Russia-Ukraine war that is being charted?",
+    "a": "Displacement."
+  },
+  {
+    "q": "The February 2026 article highlights that the Russia-Ukraine war has been ongoing for four years as of which specific month and year?",
+    "a": "February 2026."
+  },
+  {
+    "q": "What two distinct types of death tolls are combined in the charts mentioned in the February 2026 article about the Russia-Ukraine war?",
+    "a": "Civilian and military deaths."
+  },
+  {
+    "q": "According to the February 2026 article, what geographical aspect of the Russia-Ukraine war is shown to have changed since 2022?",
+    "a": "The front lines."
+  },
+  {
+    "q": "What is the full title of the article published on February 24, 2026, that discusses the Russia-Ukraine war in visual formats?",
+    "a": "The Russia-Ukraine war in maps and charts — four years on."
+  },
+  {
+    "q": "In the February 2026 article, what is the starting year for the data visualization period regarding the Russia-Ukraine war's front lines and casualties?",
+    "a": "2022."
+  },
+  {
+    "q": "Which two nations are the primary belligerents in the war analyzed in the February 2026 article titled 'The Russia-Ukraine war in maps and charts — four years on'?",
+    "a": "Russia and Ukraine."
+  },
+  {
+    "q": "The February 2026 article mentions that Ukrainians have been displaced; what is the broader context for this displacement in the article's summary?",
+    "a": "It is part of the war's impact tracked alongside front-line changes and death tolls since 2022."
+  },
+  {
+    "q": "What specific time marker does the February 2026 article use to define the duration of the Russia-Ukraine war in its title?",
+    "a": "Four years on."
+  },
+  {
+    "q": "In the February 2026 article, what is the relationship between the year 2022 and the current analysis of the Russia-Ukraine war?",
+    "a": "2022 is the starting point from which front lines, deaths, and displacement are tracked."
+  },
+  {
+    "q": "What type of visual aids are explicitly named in the February 2026 article to present data on the Russia-Ukraine war?",
+    "a": "Maps and charts."
+  },
+  {
+    "q": "According to the February 2026 article, what specific demographic of the Ukrainian population is noted as being displaced?",
+    "a": "Ukrainians."
+  },
+  {
+    "q": "The February 2026 article summarizes the Russia-Ukraine war's progress by referencing changes in front lines and numbers of deaths since which year?",
+    "a": "2022."
+  },
+  {
+    "q": "What is the publication date of the article that provides a four-year overview of the Russia-Ukraine war using maps and charts?",
+    "a": "February 24, 2026."
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2026, which artificial intelligence company released a new model named GPT-5.4, described as its most capable system for professional use?",
+    "a": "OpenAI"
+  },
+  {
+    "q": "What is the name of the new AI model released by OpenAI in March 2026 that combines advanced reasoning and coding capabilities?",
+    "a": "GPT-5.4"
+  },
+  {
+    "q": "Which competitor's stronghold in the enterprise customer market is OpenAI targeting with the March 2026 launch of GPT-5.4?",
+    "a": "Anthropic"
+  },
+  {
+    "q": "Who is the CEO of OpenAI, as pictured in the March 5, 2026, Fortune article regarding the GPT-5.4 launch?",
+    "a": "Sam Altman"
+  },
+  {
+    "q": "Which tech reporter authored the Fortune article published on March 5, 2026, covering OpenAI's release of GPT-5.4?",
+    "a": "Beatrice Nolan"
+  },
+  {
+    "q": "What three specific capabilities does OpenAI say GPT-5.4 combines, according to the March 2026 announcement?",
+    "a": "Advanced reasoning, coding, and the ability to autonomously operate computers and software"
+  },
+  {
+    "q": "In the March 2026 competition for enterprise customers, which company is OpenAI positioning GPT-5.4 against as a direct shot at their stronghold?",
+    "a": "Anthropic"
+  },
+  {
+    "q": "What specific type of work is OpenAI describing GPT-5.4 as its most powerful model for, in the March 2026 release?",
+    "a": "Enterprise work"
+  },
+  {
+    "q": "Which news organization published the article on March 5, 2026, announcing that OpenAI had released GPT-5.4?",
+    "a": "Fortune"
+  },
+  {
+    "q": "According to the March 5, 2026, report, what action does OpenAI's release of GPT-5.4 take regarding the competition for enterprise customers?",
+    "a": "It turns up the heat on the competition"
+  },
+  {
+    "q": "What is the full name of the AI model that OpenAI launched in March 2026, which is capable of autonomously operating software?",
+    "a": "GPT-5.4"
+  },
+  {
+    "q": "Which company's CEO, Sam Altman, is associated with the March 2026 launch of the GPT-5.4 model?",
+    "a": "OpenAI"
+  },
+  {
+    "q": "In the March 2026 AI landscape, which company is identified as having a stronghold on enterprise customers that OpenAI is now challenging with GPT-5.4?",
+    "a": "Anthropic"
+  },
+  {
+    "q": "What date was the Fortune article by Beatrice Nolan published, detailing OpenAI's launch of GPT-5.4?",
+    "a": "March 5, 2026"
+  },
+  {
+    "q": "Besides advanced reasoning and coding, what additional autonomous capability does OpenAI claim GPT-5.4 possesses in its March 2026 release?",
+    "a": "The ability to autonomously operate computers and software"
+  },
+  {
+    "q": "Which artificial intelligence firm released GPT-5.4 in March 2026, claiming it is their most capable system for professional use?",
+    "a": "OpenAI"
+  },
+  {
+    "q": "Who is the tech reporter for Fortune who wrote the March 5, 2026, article about OpenAI and GPT-5.4?",
+    "a": "Beatrice Nolan"
+  },
+  {
+    "q": "What specific market segment is Anthropic known for holding a stronghold in, which OpenAI is targeting with GPT-5.4 in March 2026?",
+    "a": "Enterprise customers"
+  },
+  {
+    "q": "Which image credit is associated with the photo of OpenAI CEO Sam Altman in the March 2026 Fortune article?",
+    "a": "Kyle Grillot/Bloomberg via Getty Images"
+  },
+  {
+    "q": "What is the primary purpose of the GPT-5.4 model released by OpenAI in March 2026, according to the company's description?",
+    "a": "Professional use"
+  },
+  {
+    "q": "In March 2026, which two AI companies are described as being in direct competition for enterprise customers, with OpenAI launching GPT-5.4?",
+    "a": "OpenAI and Anthropic"
+  },
+  {
+    "q": "What specific combination of skills does OpenAI highlight for GPT-5.4 in its March 2026 announcement to distinguish it for enterprise work?",
+    "a": "Advanced reasoning, coding, and autonomous computer and software operation"
+  },
+  {
+    "q": "Which publication reported on March 5, 2026, that OpenAI had released its most powerful model for enterprise work?",
+    "a": "Fortune"
+  },
+  {
+    "q": "Who is the CEO of the company that released GPT-5.4 in March 2026, as identified in the Fortune article?",
+    "a": "Sam Altman"
+  },
+  {
+    "q": "What strategic move did OpenAI make in March 2026 by releasing GPT-5.4, specifically targeting a competitor's stronghold?",
+    "a": "A direct shot at Anthropic"
+  }
+]

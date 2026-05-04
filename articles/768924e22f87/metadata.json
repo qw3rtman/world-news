@@ -1,0 +1,27 @@
+{
+  "hash": "768924e22f87",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.iranintl.com/en/202603101133",
+      "title": "Tehran not seeking ceasefire, Iran parliament speaker says  | Iran International",
+      "published_date": "2026-03-10T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 153,
+      "text_length": 665
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1466016",
+      "spike_id": 4,
+      "market_question": "US x Iran ceasefire by April 30?",
+      "event_title": "US x Iran ceasefire by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.16500000000000004,
+      "spike_timestamp_before": "2026-03-09T21:00:41+00:00",
+      "spike_timestamp_after": "2026-03-10T04:00:34+00:00"
+    }
+  ]
+}

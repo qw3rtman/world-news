@@ -1,0 +1,65 @@
+{
+  "spike_index": 6,
+  "direction": "up",
+  "price_before": 0.185,
+  "price_after": 0.98,
+  "delta": 0.7949999999999999,
+  "abs_delta": 0.7949999999999999,
+  "timestamp_before": "2026-02-26T21:30:25+00:00",
+  "timestamp_after": "2026-02-27T21:00:30+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.cnn.com/2026/02/27/tech/anthropic-pentagon-deadline",
+      "file": "d639dab72914.txt",
+      "title": "Trump administration orders military contractors and federal agencies to cease business with Anthropic | CNN Business",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": "Hadas Gold",
+      "text_length": 8660,
+      "status": "ok",
+      "num_tokens": 1734
+    },
+    {
+      "url": "https://www.axios.com/2026/02/24/anthropic-pentagon-claude-hegseth-dario",
+      "file": "80dccafc3547.txt",
+      "title": "Exclusive: Hegseth gives Anthropic until Friday to back down on AI safeguards",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": "Dave Lawler,Maria Curi",
+      "text_length": 5140,
+      "status": "ok",
+      "num_tokens": 1006
+    },
+    {
+      "url": "https://www.cnbc.com/2026/02/24/anthropic-ai-hegseth-spying-defense.html",
+      "file": "31e11c3fdabf.txt",
+      "title": "Anthropic faces Friday deadline in Defense AI clash with Hegseth",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": "Ashley Capoot,Kate Rooney",
+      "text_length": 2749,
+      "status": "ok",
+      "num_tokens": 539
+    },
+    {
+      "url": "https://www.cbsnews.com/news/hegseth-anthropic-full-access-claude-ai-model/",
+      "file": "6de2533c0a63.txt",
+      "title": "Hegseth demands full military access to Anthropic's AI model Claude and sets deadline for end of week - CBS News",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": null,
+      "text_length": 2962,
+      "status": "ok",
+      "num_tokens": 566
+    },
+    {
+      "url": "https://us.cnn.com/2026/02/24/tech/hegseth-anthropic-ai-military-amodei",
+      "file": "ee042ecd8e4c.txt",
+      "title": "Pentagon threatens to make Anthropic a pariah if it refuses to drop AI guardrails | CNN Business",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": "Hadas Gold, Haley Britzky",
+      "text_length": 5426,
+      "status": "ok",
+      "num_tokens": 1113
+    }
+  ],
+  "total_tokens": 4958
+}

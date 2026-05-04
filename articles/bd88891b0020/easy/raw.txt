@@ -1,0 +1,102 @@
+[
+  {
+    "q": "According to the article published on March 9, 2026, which Lebanese militant group is the Israel Defense Forces preparing an extended campaign against?",
+    "a": "Hizbollah"
+  },
+  {
+    "q": "In the article dated March 9, 2026, which country's nuclear and ballistic missile capabilities are Israeli officials attempting to destroy?",
+    "a": "Iran"
+  },
+  {
+    "q": "According to the March 9, 2026 article, which U.S. President stated that the war with Iran was ahead of schedule?",
+    "a": "Donald Trump"
+  },
+  {
+    "q": "In the article from March 9, 2026, what specific time frame did Israeli officials estimate the U.S.-Israeli war with Iran would last?",
+    "a": "Weeks"
+  },
+  {
+    "q": "According to the March 9, 2026 article, which two main security pillars is Israel attempting to destroy in Iran?",
+    "a": "The main security pillars holding up the Islamic republic"
+  },
+  {
+    "q": "In the article dated March 9, 2026, which two entities are described as preparing for discussions regarding an extended campaign against Hizbollah?",
+    "a": "Israeli officials"
+  },
+  {
+    "q": "According to the March 9, 2026 article, which organization is expected to have an offensive that outlasts the conflict with Iran?",
+    "a": "Israel"
+  },
+  {
+    "q": "In the article from March 9, 2026, what did U.S. President Donald Trump say about the completeness of the war with Iran?",
+    "a": "Very complete, pretty much"
+  },
+  {
+    "q": "According to the March 9, 2026 article, which group is identified as the target of the Israel Defense Forces' extended campaign?",
+    "a": "Hizbollah"
+  },
+  {
+    "q": "In the article dated March 9, 2026, which country's security structure is Israel aiming to dismantle alongside its nuclear capabilities?",
+    "a": "Iran"
+  },
+  {
+    "q": "According to the March 9, 2026 article, who provided the information about Israeli officials preparing for an extended campaign against Hizbollah?",
+    "a": "People familiar with discussions"
+  },
+  {
+    "q": "In the article from March 9, 2026, which U.S. President appeared to hedge his view on the duration of the war with Iran?",
+    "a": "Donald Trump"
+  },
+  {
+    "q": "According to the March 9, 2026 article, what type of capabilities is Israel attempting to destroy in Tehran?",
+    "a": "Nuclear and ballistic missile capabilities"
+  },
+  {
+    "q": "In the article dated March 9, 2026, which militant group is located in Lebanon and is the target of the Israeli offensive?",
+    "a": "Hizbollah"
+  },
+  {
+    "q": "According to the March 9, 2026 article, which two countries are engaged in a war that Israeli officials expect to last weeks?",
+    "a": "The United States and Israel"
+  },
+  {
+    "q": "In the article from March 9, 2026, what form of government does Iran have, as referenced by the security pillars Israel aims to destroy?",
+    "a": "Islamic republic"
+  },
+  {
+    "q": "According to the March 9, 2026 article, which official stated that the war with Iran was ahead of schedule?",
+    "a": "U.S. President Donald Trump"
+  },
+  {
+    "q": "In the article dated March 9, 2026, which group is Hizbollah classified as by Israeli officials?",
+    "a": "Lebanese militant group"
+  },
+  {
+    "q": "According to the March 9, 2026 article, which two nations are involved in the conflict that Israel expects to be shorter than the Lebanon offensive?",
+    "a": "The United States and Iran"
+  },
+  {
+    "q": "In the article from March 9, 2026, what did Israeli officials say last week regarding the expected duration of the war with Iran?",
+    "a": "Weeks"
+  },
+  {
+    "q": "According to the March 9, 2026 article, which president commented on the progress of the war with Iran on a Monday?",
+    "a": "Donald Trump"
+  },
+  {
+    "q": "In the article dated March 9, 2026, which organization is the Israel Defense Forces preparing an extended campaign against?",
+    "a": "Hizbollah"
+  },
+  {
+    "q": "According to the March 9, 2026 article, what specific capabilities in Iran are targeted for destruction by the U.S.-Israeli war?",
+    "a": "Nuclear and ballistic missile capabilities"
+  },
+  {
+    "q": "In the article from March 9, 2026, which two entities are involved in the discussions that Israeli officials are preparing for an extended campaign?",
+    "a": "Israeli officials"
+  },
+  {
+    "q": "According to the March 9, 2026 article, which country's main security pillars is Israel attempting to destroy?",
+    "a": "Iran"
+  }
+]

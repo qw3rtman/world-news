@@ -1,0 +1,57 @@
+{
+  "hash": "c28c749ff7f2",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://timesofindia.indiatimes.com/world/us/trump-mulls-targeted-strike-on-iran-followed-by-larger-attack-negotiators-to-meet-thursday-forlast-ditch-talks/articleshow/128727952.cms",
+      "title": "Trump mulls targeted strike on Iran, followed by larger attack;  Negotiators to meet Thursday forlast-ditch talks - The Times of India",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "Julian E Barnes  / NYT News Service /  Updated: Feb 24, 2026, 00:58 IST",
+      "num_tokens": 1871,
+      "text_length": 9821
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1422367",
+      "spike_id": 1,
+      "market_question": "Will the US strike Iran next?",
+      "event_title": "Next Country US Strikes",
+      "spike_direction": "down",
+      "spike_delta": -0.395,
+      "spike_timestamp_before": "2026-02-24T01:00:19+00:00",
+      "spike_timestamp_after": "2026-02-24T01:30:20+00:00"
+    },
+    {
+      "market_id": "1422367",
+      "spike_id": 2,
+      "market_question": "Will the US strike Iran next?",
+      "event_title": "Next Country US Strikes",
+      "spike_direction": "down",
+      "spike_delta": -0.41000000000000003,
+      "spike_timestamp_before": "2026-02-24T01:00:19+00:00",
+      "spike_timestamp_after": "2026-02-24T05:30:20+00:00"
+    },
+    {
+      "market_id": "1422367",
+      "spike_id": 3,
+      "market_question": "Will the US strike Iran next?",
+      "event_title": "Next Country US Strikes",
+      "spike_direction": "up",
+      "spike_delta": 0.19999999999999998,
+      "spike_timestamp_before": "2026-02-24T05:30:20+00:00",
+      "spike_timestamp_after": "2026-02-24T07:30:24+00:00"
+    },
+    {
+      "market_id": "1422367",
+      "spike_id": 4,
+      "market_question": "Will the US strike Iran next?",
+      "event_title": "Next Country US Strikes",
+      "spike_direction": "down",
+      "spike_delta": -0.18,
+      "spike_timestamp_before": "2026-02-24T07:30:24+00:00",
+      "spike_timestamp_after": "2026-02-24T22:30:20+00:00"
+    }
+  ]
+}

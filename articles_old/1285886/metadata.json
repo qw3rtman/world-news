@@ -1,0 +1,25 @@
+{
+  "market_id": "1285886",
+  "question": " Iran agrees to end enrichment of uranium by March 31?",
+  "slug": "iran-agrees-to-end-enrichment-of-uranium-by-march-31",
+  "url": "https://polymarket.com/event/iran-agrees-to-end-enrichment-of-uranium-by-march-31",
+  "description": "This market will resolve to \"Yes\" if Iran publicly agrees to end all enrichment of uranium by March 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nAn official pledge by Iran to end all enrichment of Uranium will qualify for a \u201cYes\u201d resolution whether as a unilateral announcement or part of an agreement with the U.S. or Israel.\n\nAny agreement or pledge made before the resolution date of this market will qualify, regardless of if/when the agreement goes into effect.\n\nAn agreement by Iran to end all enrichment of uranium for any amount of time will count.\n\nAn agreement by Iran to end all enrichment of uranium as a precondition of a more comprehensive peace process or deal will qualify, even if the agreement is not finalized or part of a formalized peace deal. \n\nAgreements to merely limit or cap the level or quality of enrichment\u2014such as reducing enrichment to below weapons-grade thresholds\u2014will not qualify.\n\nThe primary resolution source for this market will be a consensus of credible reporting. ",
+  "event_title": " Iran agrees to end enrichment of uranium by March 31?",
+  "event_tags": [
+    "Geopolitics",
+    "Trump",
+    "Nuclear",
+    "Politics",
+    "Iran",
+    "World",
+    "Middle East",
+    "Diplomacy & Ceasefire"
+  ],
+  "volume_total": 1895685.4109210009,
+  "created_at": "2026-01-28T17:08:47.170785Z",
+  "end_date": "2026-03-31T00:00:00Z",
+  "num_spikes": 3,
+  "max_spike": 0.214,
+  "total_tokens": 12606,
+  "total_articles": 15
+}

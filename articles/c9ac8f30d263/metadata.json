@@ -1,0 +1,27 @@
+{
+  "hash": "c9ac8f30d263",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.bbc.com/news/live/cn5ge95q6y7t",
+      "title": "Trump says ‘there will likely be more’ US deaths as Iran strikes to continue until ‘all’ goals achieved - BBC News",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 3725,
+      "text_length": 17625
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1394368",
+      "spike_id": 2,
+      "market_question": "Will the U.S. invade Iran by March 31?",
+      "event_title": "Will the U.S. invade Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.16,
+      "spike_timestamp_before": "2026-02-28T11:30:28+00:00",
+      "spike_timestamp_after": "2026-02-28T23:00:27+00:00"
+    }
+  ]
+}

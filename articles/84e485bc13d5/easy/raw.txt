@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the definitive agreement announced by Gilead Sciences Inc. and Arcellx Inc. on February 23, 2026, what is the total implied equity value of the acquisition, and what is the cash price per share offered to Arcellx shareholders?",
+    "a": "The implied equity value is $7.8 billion, and the cash price is $115 per share."
+  },
+  {
+    "q": "What contingent value right (CVR) is included in Gilead Sciences Inc.'s February 23, 2026, acquisition offer for Arcellx Inc., and what specific sales milestone must be achieved for holders to receive the additional payment?",
+    "a": "The offer includes one non-transferable CVR worth $5 per share, contingent on cumulative global net sales of anito-cel reaching at least $6.0 billion from launch through year-end 2029."
+  },
+  {
+    "q": "What is the anticipated Prescription Drug User Fee Act (PDUFA) action date for the Biologics License Application (BLA) for anito-cel submitted to the U.S. Food and Drug Administration, as stated in the February 23, 2026, announcement?",
+    "a": "The anticipated PDUFA action date is December 23, 2026."
+  },
+  {
+    "q": "Which two clinical studies support the BLA for anito-cel as a fourth-line treatment for relapsed or refractory multiple myeloma, and what are their respective clinical trial numbers?",
+    "a": "The studies are the Phase 1 study (NCT04155749) and the pivotal Phase 2 iMMagine1 study (NCT05396885)."
+  },
+  {
+    "q": "What percentage premium does the $115 per share cash offer from Gilead Sciences Inc. represent over Arcellx Inc.'s 30-day volume-weighted average share price as of February 20, 2026?",
+    "a": "The offer represents a 68 percent premium."
+  },
+  {
+    "q": "When is the completion of the acquisition of Arcellx Inc. by Gilead Sciences Inc. anticipated, and what is one of the key regulatory or shareholder conditions required for closing?",
+    "a": "The transaction is anticipated to close during the second quarter of 2026, subject to receiving regulatory approvals and the tender of shares equaling at least a majority of Arcellx’s outstanding common stock."
+  },
+  {
+    "q": "What is Gilead Sciences Inc.'s current ownership stake in Arcellx Inc. as of the February 23, 2026, announcement, and how will it acquire the remaining shares if the tender offer is successful?",
+    "a": "Gilead currently owns approximately 11.5 percent of Arcellx’s outstanding common stock and will acquire the remaining shares through a second-step merger for the same consideration."
+  },
+  {
+    "q": "Which financial advisors are acting for Gilead Sciences Inc. and which are acting for Arcellx Inc. in the February 23, 2026, acquisition transaction?",
+    "a": "BofA Securities, Inc. and Morgan Stanley & Co. LLC are advising Gilead, while Centerview Partners LLC is the exclusive financial advisor to Arcellx."
+  },
+  {
+    "q": "What is the name of the investigational BCMA-directed CAR T-cell therapy developed through the collaboration between Kite (a Gilead company) and Arcellx Inc.?",
+    "a": "The therapy is named anitocabtagene autoleucel, commonly referred to as anito-cel."
+  },
+  {
+    "q": "According to Daniel O’Day, Chairman and Chief Executive Officer of Gilead Sciences Inc., what potential future application beyond the initial launch of anito-cel is highlighted in the February 23, 2026, announcement?",
+    "a": "Anito-cel could become a foundational treatment for multiple myeloma in earlier lines of therapy, and its D-domain BCMA binder could be important for in vivo cell therapy work."
+  },
+  {
+    "q": "What is the expected financial impact on Gilead Sciences Inc.'s earnings per share following FDA approval of anito-cel, as projected in the February 23, 2026, transaction announcement?",
+    "a": "The transaction is expected to be accretive to earnings per share in 2028 and thereafter."
+  },
+  {
+    "q": "Which law firms are serving as legal counsel to Gilead Sciences Inc. and Arcellx Inc. respectively in the February 23, 2026, acquisition deal?",
+    "a": "Ropes & Gray LLP is serving as legal counsel to Gilead, and Wilson Sonsini Goodrich & Rosati, P.C. is serving as legal counsel to Arcellx."
+  },
+  {
+    "q": "What is the specific disease indication for which the BLA for anito-cel was accepted by the U.S. Food and Drug Administration, and what patient population is targeted?",
+    "a": "The BLA is for the treatment of adult patients with relapsed or refractory multiple myeloma."
+  },
+  {
+    "q": "What technology platform owned by Arcellx Inc. has generated proprietary target-binding domains with improved specificity, as mentioned in the February 23, 2026, announcement?",
+    "a": "The platform is called the D-Domain CAR technology platform."
+  },
+  {
+    "q": "What is the full name of the wholly-owned subsidiary of Gilead Sciences Inc. that will commence the tender offer for Arcellx Inc. shares?",
+    "a": "The subsidiary is named Ravens Sub, Inc."
+  },
+  {
+    "q": "What is the implied equity value of the Arcellx Inc. acquisition by Gilead Sciences Inc., and how is this value primarily payable at closing?",
+    "a": "The implied equity value is $7.8 billion, payable in cash at closing."
+  },
+  {
+    "q": "In the February 23, 2026, announcement, what did Rami Elghandour, Chairman and Chief Executive Officer of Arcellx Inc., identify as the primary reason for being proud of the company's contribution to the myeloma field?",
+    "a": "He cited the impact that anito-cel and the D-Domain platform are poised to have for patients and clinicians."
+  },
+  {
+    "q": "What is the specific date range for the period during which cumulative global net sales of anito-cel must reach $6.0 billion for the contingent value right holders to receive payment?",
+    "a": "The sales must be achieved from launch through year-end 2029."
+  },
+  {
+    "q": "Which two companies announced the definitive agreement to acquire Arcellx Inc. for $115 per share in cash on February 23, 2026?",
+    "a": "Gilead Sciences Inc. and Arcellx Inc."
+  },
+  {
+    "q": "What is the ticker symbol for Gilead Sciences Inc. on the Nasdaq, as listed in the February 23, 2026, company announcement?",
+    "a": "GILD"
+  },
+  {
+    "q": "What is the ticker symbol for Arcellx Inc. on the Nasdaq, as listed in the February 23, 2026, company announcement?",
+    "a": "ACLX"
+  },
+  {
+    "q": "What is the location of Gilead Sciences Inc.'s headquarters, as stated in the 'About Gilead Sciences' section of the February 23, 2026, announcement?",
+    "a": "Foster City, Calif."
+  },
+  {
+    "q": "What is the location of Arcellx Inc.'s headquarters, as indicated by the dateline of the February 23, 2026, joint announcement?",
+    "a": "Redwood City, Calif."
+  },
+  {
+    "q": "What is the specific time and date stamp associated with the Business Wire release of the Gilead Sciences Inc. and Arcellx Inc. acquisition announcement?",
+    "a": "Feb. 23 2026 11:01 GMT"
+  },
+  {
+    "q": "What is the name of the new class of innovative immunotherapies that Arcellx Inc. is focused on delivering for patients with cancer and other incurable diseases?",
+    "a": "Cell therapies."
+  }
+]

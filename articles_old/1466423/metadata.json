@@ -1,0 +1,28 @@
+{
+  "market_id": "1466423",
+  "question": "Will Iran strike Cyprus in March?",
+  "slug": "will-iran-strike-cyprus-in-march",
+  "url": "https://polymarket.com/event/which-countries-will-iran-strike-in-march",
+  "description": "This market will resolve to \"Yes\" if Iran initiates a drone, missile, or air strike on a listed country's soil or any official embassy or consulate of a listed country between March 1, 2026, 12:00 AM ET and March 31, 2026, 11:59 PM ET(ET). Otherwise, this market will resolve to \"No\".\n\nFor the purposes of this market, a qualifying \"strike\" is defined as the use of aerial bombs, drones or missiles (including cruise or ballistic missiles) launched by Iranian military forces that impact a listed country's ground territory or any official embassy or consulate of that country (e.g., if a weapons depot on a listed country soil is hit by an Iranian missile, this market will resolve to \"Yes\").\n\nMissiles or drones which are intercepted and surface-to-air missile strikes will not be sufficient for a \"Yes\" resolution regardless of whether they land on a listed country's territory or cause damage.\n\nStrikes within the West Bank or the Gaza Strip, will be counted as Israel.\n\nOnly military actions by Iranian forces explicitly claimed by the Islamic Republic of Iran, or confirmed to have originated from Iranian territory will count toward the resolution of this market. Attacks by proxy forces (i.e. Hezbollah, Houthis, etc.) will not count toward the resolution of this market.\n\nActions such as artillery fire, small arms fire, FPV or ATGM strikes directly, ground incursions, naval shelling, cyberattacks, or other operations conducted by US or Israeli ground operatives will not qualify.\n\nThe resolution source will be a consensus of credible reporting.\n\nIf the date/time of a strike cannot be confirmed by a consensus of credible reporting by the end of the third calendar date after this market's end date, it will resolve to \"No\" regardless of whether a strike was later confirmed to have taken place.",
+  "event_title": "Iran military action against ___ by March 31?",
+  "event_tags": [
+    "Politics",
+    "Iran",
+    "Geopolitics",
+    "Israel",
+    "Middle East",
+    "World",
+    "Trump",
+    "Iran Offensive Strikes",
+    "Regional Spillover",
+    "Military Strikes",
+    "strike"
+  ],
+  "volume_total": 1188684.9333309992,
+  "created_at": "2026-02-28T14:53:08.449401Z",
+  "end_date": "2026-03-07T00:00:00Z",
+  "num_spikes": 6,
+  "max_spike": 0.41000000000000003,
+  "total_tokens": 14639,
+  "total_articles": 30
+}

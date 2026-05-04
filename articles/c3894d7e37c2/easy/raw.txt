@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the news report published on March 3, 2026, by Amos Harel, what is the stated status of the war against Iran on the third day of the conflict regarding the achievement of its objectives?",
+    "a": "It appears there is still a long way before its objectives are met."
+  },
+  {
+    "q": "According to the March 3, 2026 article by Amos Harel, which group of officials is pushing for a long offensive in the war against Iran?",
+    "a": "Israeli Defense Officials."
+  },
+  {
+    "q": "In the context of the March 2026 war against Iran, what is the stance of U.S. President Donald Trump as reported by Amos Harel?",
+    "a": "Trump still has doubts."
+  },
+  {
+    "q": "What is the specific day of the war against Iran mentioned in the March 3, 2026 report by Amos Harel, and what is the assessment of the progress toward objectives?",
+    "a": "It is the end of the third day, and it appears there is still a long way before objectives are met."
+  },
+  {
+    "q": "Who is the author of the March 3, 2026 article titled 'As Israeli Defense Officials Push for a Long Offensive, Trump Still Has Doubts - Israel Security'?",
+    "a": "Amos Harel."
+  },
+  {
+    "q": "As of March 3, 2026, which two parties are described as having conflicting or distinct positions regarding the duration of the offensive in the war against Iran?",
+    "a": "Israeli Defense Officials, who are pushing for a long offensive, and U.S. President Donald Trump, who still has doubts."
+  },
+  {
+    "q": "What is the publication time and date of the article by Amos Harel discussing the war against Iran?",
+    "a": "04:40 AM IST on March 3, 2026."
+  },
+  {
+    "q": "In the March 3, 2026 report, what is the relationship between the third day of the war against Iran and the assessment of its objectives?",
+    "a": "At the end of the third day, it appears there is still a long way before the objectives are met."
+  },
+  {
+    "q": "Which U.S. President is reported to have doubts about the war against Iran as of March 3, 2026?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "According to the March 3, 2026 article, what is the general sentiment among Israeli Defense Officials regarding the offensive against Iran?",
+    "a": "They are pushing for a long offensive."
+  },
+  {
+    "q": "What is the title of the article by Amos Harel published on March 3, 2026, concerning the war against Iran?",
+    "a": "As Israeli Defense Officials Push for a Long Offensive, Trump Still Has Doubts - Israel Security."
+  },
+  {
+    "q": "In the March 3, 2026 news report, how does the progress of the war against Iran compare to its stated objectives at the end of the third day?",
+    "a": "There is still a long way before its objectives are met."
+  },
+  {
+    "q": "Which two entities are contrasted in the March 3, 2026 article regarding their views on the length of the offensive in the war against Iran?",
+    "a": "Israeli Defense Officials and U.S. President Donald Trump."
+  },
+  {
+    "q": "What is the specific conflict described in the March 3, 2026 article by Amos Harel?",
+    "a": "The war against Iran."
+  },
+  {
+    "q": "As of March 3, 2026, what is the reported position of U.S. President Donald Trump regarding the war against Iran?",
+    "a": "He still has doubts."
+  },
+  {
+    "q": "What is the reported stance of Israeli Defense Officials in the war against Iran as of March 3, 2026?",
+    "a": "They are pushing for a long offensive."
+  },
+  {
+    "q": "In the article published on March 3, 2026, what is the timeline reference for the assessment that objectives in the war against Iran are not yet met?",
+    "a": "At the end of the third day of the war."
+  },
+  {
+    "q": "Who is the journalist that reported on the conflicting views between Israeli Defense Officials and U.S. President Donald Trump regarding the war against Iran on March 3, 2026?",
+    "a": "Amos Harel."
+  },
+  {
+    "q": "What is the time of publication for the article by Amos Harel discussing the war against Iran on March 3, 2026?",
+    "a": "04:40 AM IST."
+  },
+  {
+    "q": "According to the March 3, 2026 report, what is the current state of the war against Iran's objectives at the end of the third day?",
+    "a": "It appears there is still a long way before its objectives are met."
+  },
+  {
+    "q": "Which U.S. President is mentioned in the March 3, 2026 article as having doubts about the war against Iran?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "What is the specific group within the Israeli government pushing for a long offensive in the war against Iran, as reported on March 3, 2026?",
+    "a": "Israeli Defense Officials."
+  },
+  {
+    "q": "In the March 3, 2026 article, what is the juxtaposition between the Israeli Defense Officials' push and the U.S. President's stance?",
+    "a": "Israeli Defense Officials are pushing for a long offensive, while U.S. President Donald Trump still has doubts."
+  },
+  {
+    "q": "What is the date of the article by Amos Harel that discusses the war against Iran and the differing views of Israeli Defense Officials and U.S. President Donald Trump?",
+    "a": "March 3, 2026."
+  },
+  {
+    "q": "As of the end of the third day of the war against Iran in March 2026, what is the assessment of the progress toward meeting its objectives?",
+    "a": "It appears there is still a long way before its objectives are met."
+  }
+]

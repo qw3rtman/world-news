@@ -1,0 +1,65 @@
+{
+  "spike_index": 4,
+  "direction": "up",
+  "price_before": 0.34,
+  "price_after": 0.9,
+  "delta": 0.56,
+  "abs_delta": 0.56,
+  "timestamp_before": "2026-03-09T19:30:19+00:00",
+  "timestamp_after": "2026-03-10T17:30:24+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-crude-slides-6-after-touching-nearly-120-as-trump-signals-iran-war-may-end/articleshow/129370843.cms",
+      "file": "07cbc55bad28.txt",
+      "title": "Oil price today: Crude slides 6% after touching nearly $120 as Trump signals Iran war may end - The Times of India",
+      "published_date": "2026-03-10T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /  Updated: Mar 10, 2026, 12:18 IST",
+      "text_length": 2968,
+      "status": "ok",
+      "num_tokens": 620
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/international-business/day-after-3-year-high-global-oil-prices-cool-to-below-90-per-barrel/articleshow/129419213.cms",
+      "file": "77a449625e20.txt",
+      "title": "Day after 3-year high, global oil prices cool to below $90 per barrel - The Times of India",
+      "published_date": "2026-03-10T00:00:00.000Z",
+      "author": "TNN /   Mar 11, 2026, 02:17 IST",
+      "text_length": 1916,
+      "status": "ok",
+      "num_tokens": 398
+    },
+    {
+      "url": "http://beta.next.cnn.com/2026/03/11/business/oil-lower-when-will-gas-follow",
+      "file": "054a19c07dbe.txt",
+      "title": "Breaking News, Latest News and Videos | CNN",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": "Monica Sarkar",
+      "text_length": 621,
+      "status": "ok",
+      "num_tokens": 135
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/10/business/oil-prices-fall-iran-war-intl",
+      "file": "460e73b006f1.txt",
+      "title": "Oil prices dive as Trump says Iran war will end \u2018very soon\u2019 | CNN Business",
+      "published_date": "2026-03-10T00:00:00.000Z",
+      "author": "Hanna Ziady",
+      "text_length": 4201,
+      "status": "ok",
+      "num_tokens": 878
+    },
+    {
+      "url": "https://www.wireless.reuters.com/business/energy/brent-oil-prices-remain-above-95bbl-over-next-2-months-mideast-conflict-eia-says-2026-03-10/",
+      "file": "f3f5479f0fe4.txt",
+      "title": "Brent to trade above $95 for next two months on Iran war, EIA says\u00a0 | Reuters",
+      "published_date": "2026-03-10T00:00:00.000Z",
+      "author": "Georgina Mccartney",
+      "text_length": 2308,
+      "status": "ok",
+      "num_tokens": 565
+    }
+  ],
+  "total_tokens": 2596
+}

@@ -1,0 +1,27 @@
+{
+  "hash": "328446d48f47",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.axios.com/2026/02/28/iran-attack-trump-us-israel-strikes",
+      "title": "U.S and Israel begin \"major combat operations\" in Iran",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Barak Ravid,Dave Lawler",
+      "num_tokens": 1244,
+      "text_length": 6029
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "984442",
+      "spike_id": 1,
+      "market_question": "US strikes Iran by June 30, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.34450000000000003,
+      "spike_timestamp_before": "2026-02-27T08:30:35+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:17+00:00"
+    }
+  ]
+}

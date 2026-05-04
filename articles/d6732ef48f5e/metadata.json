@@ -1,0 +1,27 @@
+{
+  "hash": "d6732ef48f5e",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.globeandmail.com/world/article-israel-expands-war-southern-lebanon-hezbollah/",
+      "title": "Israel expands war with incursion into southern Lebanon to push Hezbollah back - The Globe and Mail",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1636,
+      "text_length": 8097
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "677397",
+      "spike_id": 12,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.19000000000000006,
+      "spike_timestamp_before": "2026-03-03T17:00:30+00:00",
+      "spike_timestamp_after": "2026-03-04T10:30:48+00:00"
+    }
+  ]
+}

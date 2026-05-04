@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the draft peace agreement first reported by Axios in November 2025, what specific territorial concessions did the Trump administration propose regarding Crimea, Donetsk, Luhansk, Kherson, and Zaporizhzhia?",
+    "a": "The agreement proposed recognizing Crimea, Donetsk, and Luhansk as de facto Russian territory and retaining Russian control over occupied parts of Kherson and Zaporizhzhia."
+  },
+  {
+    "q": "As of the end of 2025, what were the estimated total Russian military deaths reported by Mediazona and the killed-in-action figures reported by the Ukrainian NGO UA Losses?",
+    "a": "Mediazona estimated 219,000 total Russian dead, while UA Losses reported 87,045 Ukrainian killed in action."
+  },
+  {
+    "q": "What is the ratio of Ukraine’s population to Russia’s population, and how does this demographic disparity affect their respective capacities to sustain military losses?",
+    "a": "Ukraine’s population is about 26 percent of Russia’s, allowing Russia to sustain larger total losses due to its significantly larger manpower pool."
+  },
+  {
+    "q": "What specific recruitment practice has Ukraine employed to meet its goal of enrolling 30,000 men per month, and what is the typical profile of those recruited through this method?",
+    "a": "Ukraine has used \"busification,\" grabbing men off the street, which typically nets older, less healthy, and unwilling soldiers who often desert."
+  },
+  {
+    "q": "As of 2025, how did Russia’s inventory of major weapons systems compare to Ukraine’s in terms of tanks, infantry fighting vehicles, and combat aircraft?",
+    "a": "Russia outnumbered Ukraine in tanks nearly five to one, had more than three times as many infantry fighting vehicles, and had 163 combat aircraft to Ukraine’s 66."
+  },
+  {
+    "q": "What were the 2024 GDP figures for Russia and Ukraine, and how did their respective defense spending as a percentage of GDP translate to total defense budgets?",
+    "a": "Russia’s GDP was almost $7 trillion with a $484 billion defense budget (7% of GDP), while Ukraine’s GDP was $657 billion with a $197 billion budget (30% of GDP)."
+  },
+  {
+    "q": "What are the two primary strategic objectives emphasized by the Russian government regarding Ukraine, as stated in the article?",
+    "a": "The objectives are control of the Ukrainian regions of Donetsk, Kherson, Luhansk, and Zaporizhzhia, and keeping Ukraine out of NATO."
+  },
+  {
+    "q": "In which year did Russia formally recognize the Donetsk and Luhansk People’s Republics as independent, and in which year did it formally annex those regions plus Kherson and Zaporizhzhia?",
+    "a": "Russia recognized them as independent on the eve of the invasion in February 2022 and formally annexed them in September 2022."
+  },
+  {
+    "q": "What percentage of the Ukrainian regions of Luhansk, Kherson, Zaporizhzhia, and Donetsk did Russia control at the time of the article's publication in February 2026?",
+    "a": "Russia controlled 99 percent of Luhansk, 76 percent of Kherson, 74 percent of Zaporizhzhia, and 72 percent of Donetsk."
+  },
+  {
+    "q": "What defensive fortification system did the Russian military use to break the Ukrainian counteroffensive in June 2023, and how did Ukraine’s defensive preparations compare?",
+    "a": "Russia used the Surovikin Line, a system of well-built fortifications, while Ukraine had only belatedly begun digging similar defenses."
+  },
+  {
+    "q": "How many troops did Ukraine have on its 620-mile frontline in 2026, and how did this density compare to the Cold War standard for successful border defense?",
+    "a": "Ukraine had about 300,000 troops (483 per mile), which was less than half the approximately 1,500 soldiers per mile considered necessary for successful defense."
+  },
+  {
+    "q": "What is the estimated ratio of Russian to Ukrainian drone production and deployment on the battlefield, and what tactical shift did Russian forces make during the 2024 incursion into the Kursk region?",
+    "a": "Russia has an estimated ten-to-one advantage in drones; during the Kursk incursion, they switched to fiber-optic guidance and began attacking logistics and drone operators."
+  },
+  {
+    "q": "What infantry tactic, resembling those used by Germans in World War I, have Russian forces increasingly employed to penetrate Ukrainian lines?",
+    "a": "Russian forces use small assault groups of three or four storm troopers or sabotage and reconnaissance groups to infiltrate through drone-infested kill zones."
+  },
+  {
+    "q": "Which European leaders explicitly called trading Ukrainian territory for peace a \"trap\" or declared that international borders must not be changed by force?",
+    "a": "EU High Representative Kaja Kallas called it a \"trap,\" while German Chancellor Friedrich Merz, French President Emmanuel Macron, and European Commission President Ursula von der Leyen declared borders must not change by force."
+  },
+  {
+    "q": "Which Ukrainian \"fortress cities\" were cited as critical links in defense, and which cities had Russia recently surrounded, isolated, or cleared through infiltration tactics?",
+    "a": "Kramatorsk and Sloviansk were cited as critical links; Russia had recently cleared Chasiv Yar, Huliapole, Pokrovsk, and Siversk."
+  },
+  {
+    "q": "How much territory did Russia take control of between October 2024 and October 2025, and at that rate, how long would it take to conquer the remaining unoccupied Ukraine east of the Dnieper River?",
+    "a": "Russia took 1,703 square miles; at that rate, it would take more than 30 years to conquer the remaining 57,066 square miles."
+  },
+  {
+    "q": "How much territory remained under Kyiv’s control in the Donetsk region, and how long would it take Russia to take it at the previous year's rate of advance?",
+    "a": "Roughly 2,866 square miles remained under Kyiv’s control, which Russia could take in a year and a half at the previous year's rate."
+  },
+  {
+    "q": "Who is Kirill Budanov, and what was his assessment regarding the impact of Ukrainian deep strikes on Russia’s \"shadow fleet\" of oil tankers?",
+    "a": "Kirill Budanov is the presidential chief of staff and former head of military intelligence; he assessed that such strikes hurt Russia but would not end the war soon."
+  },
+  {
+    "q": "What economic shift had Ukraine already begun before the 2022 Russian invasion, and what reforms does the article suggest could strengthen Ukraine’s future defense?",
+    "a": "Ukraine was shifting its economic center from the Donbas to the postindustrial center and west; reforms include anticorruption efforts and investing in drone-optimized defensive positions."
+  },
+  {
+    "q": "What specific advantage do reconnaissance drones provide to Russian forces regarding artillery and indirect fire systems?",
+    "a": "They provide much more effective fire correction for aiming targets than ground observers, enabling Russia to weaken Ukrainian defenses and interdict forces behind the frontline."
+  },
+  {
+    "q": "Why are \"penny packets\" of soldiers less attractive targets for Ukrainian reconnaissance compared to armored vehicles, and how do Russian forces use environmental conditions during infiltration?",
+    "a": "Small groups of soldiers are not attractive targets like tanks; Russians use bad weather and darkness to evade Ukrainian reconnaissance during infiltrations."
+  },
+  {
+    "q": "What comparison did the article make between the current Russian advance in the Donbas and the Sudetenland crisis of 1938?",
+    "a": "The article argued the Donbas is not the Sudetenland because current Russian tactics are not blitzkrieg and would take decades to conquer the rest of Ukraine, posing little immediate threat to Europe."
+  },
+  {
+    "q": "What is the density of Russian troops in occupied Ukrainian territory, and how does this allow Russia to conduct offensive operations?",
+    "a": "Russia has a density of at least 1,129 troops per mile, allowing it to concentrate forces for offense while defending the rest of the line with lower numbers."
+  },
+  {
+    "q": "Which two countries does the article identify as allies that Russia relies on to some extent for its military needs, despite having a large indigenous defense industry?",
+    "a": "China and North Korea."
+  },
+  {
+    "q": "What specific limitation does Ukraine face in adopting infiltration tactics similar to Russia’s, given its smaller manpower numbers?",
+    "a": "Ukraine remains heavily reliant on highly visible and vulnerable armored vehicles to deliver troops, limiting the effectiveness of its infiltration attempts."
+  }
+]

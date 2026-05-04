@@ -1,0 +1,65 @@
+{
+  "spike_index": 3,
+  "direction": "up",
+  "price_before": 0.18,
+  "price_after": 0.425,
+  "delta": 0.245,
+  "abs_delta": 0.245,
+  "timestamp_before": "2026-02-28T06:00:30+00:00",
+  "timestamp_after": "2026-03-01T01:30:26+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://edition.cnn.com/world/live-news/iran-israel-us-attack-03-02-26-intl-hnk?post-id=cmm8qxqkd000d3b6qbij74h0d",
+      "file": "f04e60ca0690.txt",
+      "title": "March 2, 2026 - Day three of the US-Israeli war with Iran | CNN",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Leila Gharagozlou, Jessie Yeung, Helen Regan, Ross Adkin, Jennifer Hansler, Brad Lendon, Rhea Mogul, Hilary Whiteman, Nic Anderson, Hanna Park, Hanna Ziady, Aditi Sangal, Avery Schmitz, Alison Main, Manu Raju, Sarah Ferris, Morgan Rimmer, Lauren Fox, Lauren Izso, Michael Rios, Hira Humayun, Maureen Chowdhury, Billy Stockwell, Jim Sciutto, Dana Karni, Adam Cancryn, Tal Shalev, Oren Liebermann, Nick Paton Walsh, Kit Maher, Ted  Barrett, Haley Britzky, Ruba Alhenawi, Jomana Karadsheh, Alejandra Jaramillo, Jeremy Diamond, Thomas Bordeaux, Arlette Saenz, Kaanita Iyer, Jennifer Hauser, Nechirvan Mando, Michael Williams, Francesca Street, Tamar Michaelis, Catherine Nicholls, Donald Judd, Samantha Waldenberg, Sana Noor Haq, Mostafa Salem, Lauren Kent, Jake Tapper, Chris Isidore, Matt Egan, Charlotte Reck, Zachary Cohen, Muhammad Darwish, Kara Fox, Becky Anderson, Kevin Liptak, Bijan  Hosseini, Antoinette Radford, Tim Lister, Zahra Ullah, Adam Pourahmadi, Tala Alrajjal, Logan Schiciano, Clay Voytek, Zahid Mahmood, Isabelle D\u2019Antonio, Mitchell McCluskey, Pierre P Bairin, Eyad Kourdi, Niamh Kennedy, Bijan Hosseini, Lucas Lilieholm, Isaac Yee, Teele Rebane, Karina Tsui, Ally Barnard, Karla Cripps, Esha Mitra, John Liu, Martin Goillandeau, Laura Sharman, Todd Symons, Aleena Fayaz, Deva Lee, Kristie Lu Stout",
+      "text_length": 10075,
+      "status": "ok",
+      "num_tokens": 1982
+    },
+    {
+      "url": "https://www.npr.org/2026/03/02/g-s1-112151/iran-war-widens-threatens-to-engulf-lebanon",
+      "file": "ec1902397e42.txt",
+      "title": "6 U.S. soldiers killed as Iran war expands in Middle East : NPR",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "By\u00a0                 \n   \n       \n      NPR Staff",
+      "text_length": 9517,
+      "status": "ok",
+      "num_tokens": 1970
+    },
+    {
+      "url": "https://www.npr.org/2026/03/02/nx-s1-5732860/what-operation-epic-fury-means-for-the-us-iran-and-beyond",
+      "file": "0b10622641ed.txt",
+      "title": "What operation \u2018Epic Fury\u2019 means for the US, Iran, and beyond : 1A : NPR",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 1012,
+      "status": "ok",
+      "num_tokens": 194
+    },
+    {
+      "url": "https://foreignpolicy.com/2026/02/28/us-israel-strike-iran-trump-nuclear-program-missiles/",
+      "file": "46a8a59bce24.txt",
+      "title": "U.S., Israel Begin 'Major Combat Operations' in Iran as Trump Calls for Regime Change",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Jennifer Williams, Rishi Iyengar, John Haltiwanger",
+      "text_length": 6884,
+      "status": "ok",
+      "num_tokens": 1452
+    },
+    {
+      "url": "https://billsforum.usatoday.com/story/graphics/2026/03/01/us-attack-on-iran-timeline-2026/88933055007/",
+      "file": "d5ad06b4386c.txt",
+      "title": "Latest World & National News & Headlines - USATODAY.com",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 64,
+      "status": "ok",
+      "num_tokens": 10
+    }
+  ],
+  "total_tokens": 5608
+}

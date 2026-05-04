@@ -1,0 +1,37 @@
+{
+  "hash": "f62a17daa407",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://reuters.com/business/energy/oil-falls-over-6-trump-predicts-middle-east-de-escalation-2026-03-10/",
+      "title": "Oil dives, settles down 11% after Trump predicts Middle East de-escalation | Reuters",
+      "published_date": "2026-03-10T00:00:00.000Z",
+      "author": "Laila Kearney",
+      "num_tokens": 1152,
+      "text_length": 5464
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1538079",
+      "spike_id": 7,
+      "market_question": "Will Crude Oil (CL) hit (LOW) $80 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.40499999999999997,
+      "spike_timestamp_before": "2026-03-11T04:30:24+00:00",
+      "spike_timestamp_after": "2026-03-12T03:00:28+00:00"
+    },
+    {
+      "market_id": "1538079",
+      "spike_id": 8,
+      "market_question": "Will Crude Oil (CL) hit (LOW) $80 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.3350000000000001,
+      "spike_timestamp_before": "2026-03-11T21:30:25+00:00",
+      "spike_timestamp_after": "2026-03-12T20:00:26+00:00"
+    }
+  ]
+}

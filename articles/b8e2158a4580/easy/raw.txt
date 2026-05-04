@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the months leading up to the US military strike on Iran in early 2026, which two Middle Eastern leaders engaged in parallel lobbying efforts in Washington, D.C., to advocate for the attack?",
+    "a": "Saudi Crown Prince Mohammed bin Salman and Israeli leaders."
+  },
+  {
+    "q": "According to media reports cited in March 2026, what contradictory stance did Saudi Crown Prince Mohammed bin Salman take regarding US attacks on Iran during his private communications with US President Donald Trump?",
+    "a": "He privately advocated for a US attack while publicly pledging that Saudi airspace or territory would not be used in such an attack."
+  },
+  {
+    "q": "Following a phone call with Iranian President Masoud Pezeshkian in early 2026, what specific commitment did Saudi Crown Prince Mohammed bin Salman make regarding Saudi territory in the context of a potential US strike on Iran?",
+    "a": "He pledged that Saudi airspace or territory would not be used in an attack on Iran."
+  },
+  {
+    "q": "What warning did Saudi Crown Prince Mohammed bin Salman reportedly give to US officials in early 2026 regarding the outcome if the United States failed to strike Iran immediately?",
+    "a": "He warned that Iran would come away stronger and more dangerous if the US did not strike now."
+  },
+  {
+    "q": "Which news organization reported on Sunday in March 2026 that Saudi Crown Prince Mohammed bin Salman suggested a 'double game' by warning US officials about the consequences of inaction against Iran?",
+    "a": "The Washington Post."
+  },
+  {
+    "q": "Since the 1979 Islamic Revolution, what strategy has the Iranian government under Tehran sought to employ to build influence across the Middle East region?",
+    "a": "Exporting its model of governance and building influence through a network of allied militias and political movements."
+  },
+  {
+    "q": "Which three countries are cited in the March 2026 article as locations where Iran has deepened its influence, prompting Saudi and Israeli officials to amplify warnings in Washington?",
+    "a": "Iraq, Syria, and Lebanon."
+  },
+  {
+    "q": "According to intelligence assessments in Washington reported in March 2026, what was the likelihood of Iran’s forces posing an immediate threat to the US mainland within the next decade?",
+    "a": "Iran’s forces were unlikely to pose an immediate threat to the US mainland within the next decade."
+  },
+  {
+    "q": "What significant event involving Iranian leadership occurred during the US military strike on Iran in early 2026, marking a break from decades of American policy?",
+    "a": "The stunning assassination of Iran’s leader."
+  },
+  {
+    "q": "What primary motivation did Saudi Arabia have for urging a US strike on Iran in early 2026, specifically regarding its position in the Islamic world?",
+    "a": "To blunt Iran’s capacity to project power into the Arab heartland and reassert its own claim to leadership in the Islamic world."
+  },
+  {
+    "q": "What primary military objective did Israel aim to achieve by urging a US strike on Iran in early 2026?",
+    "a": "To degrade Iran’s military infrastructure and nuclear facilities."
+  },
+  {
+    "q": "Which geographic chokepoint, through which roughly a fifth of the world’s traded oil passes, is identified as a critical energy dimension affected by the March 2026 US attack on Iran?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "Which country, described as the world’s largest oil exporter, has spare capacity that could cushion supply shocks from instability near the Strait of Hormuz in early 2026?",
+    "a": "Saudi Arabia."
+  },
+  {
+    "q": "Which two Asian countries are specifically named in the March 2026 article as importers that would feel the brunt of prolonged oil supply disruptions from the Iran conflict?",
+    "a": "India and China."
+  },
+  {
+    "q": "Which US President in early 2026 is described as having principals with deep financial ties to Riyadh, influencing the decision to act under pressure from Saudi Arabia and Israel?",
+    "a": "US President Donald Trump."
+  },
+  {
+    "q": "Which Lebanese militant group faced pressure to respond to the March 2026 US attack on Iran, potentially widening the conflict?",
+    "a": "Hezbollah."
+  },
+  {
+    "q": "In which Saudi Arabian province, noted for having a significant Shiite population, could public opinion tilt sharply against Washington and its Gulf partners following the 2026 attack on Iran?",
+    "a": "The Eastern Province."
+  },
+  {
+    "q": "What ideological narrative did Iran potentially use to recast itself after the March 2026 US-led attack, according to the article?",
+    "a": "The aggrieved defender of Muslim sovereignty."
+  },
+  {
+    "q": "Which two countries are listed alongside Saudi Arabia, Egypt, and Jordan as Sunni-majority states that have historically aligned to counterbalance Iranian influence?",
+    "a": "Most Gulf monarchies."
+  },
+  {
+    "q": "What specific type of allied entities did Iran build influence through across the region from Iraq to Lebanon and Yemen since the 1979 Islamic Revolution?",
+    "a": "A network of allied militias and political movements."
+  },
+  {
+    "q": "Which two capitals viewed Washington’s earlier diplomatic outreach to Tehran as a strategic error that legitimized Iranian power without constraining its regional activism?",
+    "a": "Riyadh and Jerusalem."
+  },
+  {
+    "q": "What did Israeli leaders long warn would happen to the regional balance if Iran became nuclear-capable?",
+    "a": "It would alter the regional balance irreversibly."
+  },
+  {
+    "q": "Which two entities are described as having found common cause in what they view as Tehran’s expanding arc of influence, despite being long divided by ideology and history?",
+    "a": "Sunni-majority Saudi Arabia and the Jewish state of Israel."
+  },
+  {
+    "q": "What global market consequence could result from sustained instability in the Strait of Hormuz following the March 2026 attack on Iran?",
+    "a": "Spike in insurance costs and soaring crude prices."
+  },
+  {
+    "q": "Which country’s fractured polity and Shiite-led government are cited as places where public opinion could tilt sharply against Washington and its Gulf partners after the 2026 strike?",
+    "a": "Iraq."
+  }
+]

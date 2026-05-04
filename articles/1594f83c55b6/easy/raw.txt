@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On March 19, 2026, what were the approximate percentage declines for spot gold and spot silver during the global market sell-off driven by inflation fears and the Iran war?",
+    "a": "Spot gold slid more than 3% and spot silver slid more than 3%."
+  },
+  {
+    "q": "What were the specific settlement prices for front-month gold futures and silver futures on March 19, 2026, following their respective declines?",
+    "a": "Front-month gold futures settled at about $4,648.20, and silver futures settled at $71.25."
+  },
+  {
+    "q": "How did the ProShares Ultra Silver ETF and the iShares Silver Trust ETF perform in premarket trading on March 19, 2026, and what historical context is noted for the iShares fund?",
+    "a": "The ProShares Ultra Silver ETF shed 20%, while the iShares Silver Trust ETF was down 4.4%; the iShares fund was at the center of a so-called meme trade earlier in 2026."
+  },
+  {
+    "q": "Which three mining companies experienced significant stock drops on March 19, 2026, and what were their respective percentage declines?",
+    "a": "Teck Resources slid more than 3%, First Majestic Silver fell more than 6%, and Coeur Mining fell more than 5%."
+  },
+  {
+    "q": "In the European trading session on March 19, 2026, what was the performance of the Stoxx Europe Basic Resources index, and how did shares of Fresnillo and Antofagasta compare?",
+    "a": "The Stoxx Europe Basic Resources index traded 6% lower, while Fresnillo shares were down 9.3% and Antofagasta was 8.2% lower."
+  },
+  {
+    "q": "As of mid-March 2026, into which week was the U.S.-Iran war heading, and what specific economic concern was this conflict fueling regarding energy facilities in Iran and Qatar?",
+    "a": "The conflict was heading toward its third week, fueling concerns about an energy shock that would add inflationary pressure after strikes hit energy facilities in Iran and Qatar."
+  },
+  {
+    "q": "What monetary policy decisions did the U.S. Federal Reserve and the Bank of Japan make in mid-March 2026, and what specific rationale did each provide regarding the Iran war?",
+    "a": "Both held rates steady; the U.S. Federal Reserve cited \"uncertain\" impacts from the conflict, while the Bank of Japan noted inflation risks were tilted to the upside due to the war."
+  },
+  {
+    "q": "What decision did the Swiss National Bank announce in mid-March 2026 regarding its key policy rate, and what did it say about its willingness to intervene in the foreign exchange market?",
+    "a": "It held its key policy rate at 0% and said its willingness to intervene in the foreign exchange market was rising as the war dragged on."
+  },
+  {
+    "q": "What were the percentage gains for gold and silver during their record-smashing rallies in 2025, and how did silver futures perform in late January 2026?",
+    "a": "Gold surged 66% and silver surged 135% in 2025; in late January 2026, silver futures suffered their biggest single-day blow since the 1980s."
+  },
+  {
+    "q": "According to Paul Surguy of the Kingswood Group in a Tuesday email in March 2026, why might investors be selling perceived safe haven assets like gold?",
+    "a": "Investors are selling safe haven assets to fund purchases of assets that may have overacted to the current situation."
+  },
+  {
+    "q": "What logistical challenge regarding the transmission of gold did Paul Surguy highlight in his March 2026 commentary, and why does this matter for the asset's safety function?",
+    "a": "He noted that closed airspace and shipping lanes make transmission more expensive or impossible, which matters because gold is a physical asset that needs to be in possession to offer safety."
+  },
+  {
+    "q": "What explanation did Iain Barnes, CIO at Netwealth, provide in March 2026 for the increased volatility in gold prices?",
+    "a": "He stated that financial, rather than fundamental, investors are the marginal buyers and are reducing risk, especially fast-moving leveraged funds facing higher borrowing costs."
+  },
+  {
+    "q": "According to Dan Coatsworth of AJ Bell in a Tuesday morning note in March 2026, what two factors might explain the decline in gold prices?",
+    "a": "Investors might be liquidating previously successful assets or reacting to a further strengthening in the U.S. dollar."
+  },
+  {
+    "q": "Why does gold often decline when the U.S. dollar appreciates, according to the analysis provided by Dan Coatsworth in March 2026?",
+    "a": "Because the metal becomes more expensive for buyers of other currencies."
+  },
+  {
+    "q": "What was the specific percentage drop for the Aberdeen’s Physical Silver Shares ETF in premarket trading on March 19, 2026?",
+    "a": "It slid more than 4%."
+  },
+  {
+    "q": "Which global equities and bonds moved in tandem during the risk-off sentiment observed in mid-March 2026, and what was the specific movement of European stocks in early trade?",
+    "a": "Global equities and government bonds fell in tandem; European stocks moved sharply lower in early trade."
+  },
+  {
+    "q": "Which central banks in Europe were scheduled to update their monetary policies later in the day on March 19, 2026?",
+    "a": "The central banks of the U.K. and the euro zone."
+  },
+  {
+    "q": "What was the settlement price for spot gold on March 19, 2026, and how did this compare to the decline in front-month gold futures?",
+    "a": "Spot gold slid to $4,654.29 an ounce, while front-month gold futures were down around 5% at about $4,648.20."
+  },
+  {
+    "q": "What was the settlement price for spot silver on March 19, 2026, and how did this compare to the loss in silver futures?",
+    "a": "Spot silver slid to $72.62 an ounce, while silver futures lost more than 8% to settle at $71.25."
+  },
+  {
+    "q": "Which company is identified as the world’s leading silver producer and a major gold producer, and what was its share performance in the European session on March 19, 2026?",
+    "a": "Fresnillo was identified as the leading producer, and its shares were down 9.3%."
+  },
+  {
+    "q": "What mining giant saw its shares drop 8.2% in the European trading session on March 19, 2026?",
+    "a": "Antofagasta."
+  },
+  {
+    "q": "According to Paul Surguy of the Kingswood Group, what broader market behavior is driving the sell-off in safe haven assets like gold in March 2026?",
+    "a": "Investors are searching for the quickest assets to sell to fund purchases of assets that may have overacted to the current situation."
+  },
+  {
+    "q": "What specific risk did Iain Barnes of Netwealth identify as affecting fast-moving, leveraged funds in March 2026?",
+    "a": "Higher borrowing costs."
+  },
+  {
+    "q": "What historical comparison did the article make regarding silver futures' performance in late January 2026?",
+    "a": "Silver futures suffered their biggest single-day blow since the 1980s."
+  },
+  {
+    "q": "What two specific events in Iran and Qatar contributed to the spike in oil and gas prices on Tuesday, March 17, 2026?",
+    "a": "Energy facilities in Iran and Qatar were hit by strikes."
+  }
+]

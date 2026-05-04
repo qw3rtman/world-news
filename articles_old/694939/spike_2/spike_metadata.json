@@ -1,0 +1,65 @@
+{
+  "spike_index": 2,
+  "direction": "up",
+  "price_before": 0.26,
+  "price_after": 0.415,
+  "delta": 0.15499999999999997,
+  "abs_delta": 0.15499999999999997,
+  "timestamp_before": "2026-02-22T13:00:15+00:00",
+  "timestamp_after": "2026-02-23T13:00:14+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://bloomberg.com/news/articles/2026-02-23/paramount-is-said-to-submit-higher-offer-for-warner-bros",
+      "file": "ee6e98a25991.txt",
+      "title": "Paramount Raises Bid for Warner Bros. in Takeover Battle With Netflix - Bloomberg",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "Lucas Shaw",
+      "text_length": 568,
+      "status": "ok",
+      "num_tokens": 109
+    },
+    {
+      "url": "https://uk.mobile.reuters.com/legal/transactional/paramount-submits-higher-offer-warner-bros-discovery-bid-block-netflix-source-2026-02-23/",
+      "file": "28d2552d487d.txt",
+      "title": "Paramount submits higher offer for Warner Bros Discovery in bid to block Netflix, source says  | Reuters",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "Dawn Chmielewski",
+      "text_length": 5740,
+      "status": "ok",
+      "num_tokens": 1154
+    },
+    {
+      "url": "https://origin.www.bloomberg.com/news/articles/2026-02-20/paramount-gets-early-antitrust-nod-from-doj-for-warner-bros?srnd=undefined",
+      "file": "1cfdc200b2fc.txt",
+      "title": "Paramount Wins Early DOJ Antitrust Clearance for Warner Bros. Acquisition - Bloomberg",
+      "published_date": "2026-02-20T00:00:00.000Z",
+      "author": "Molly Schuetz",
+      "text_length": 379,
+      "status": "ok",
+      "num_tokens": 81
+    },
+    {
+      "url": "https://origin.www.bloomberg.com/news/articles/2026-02-23/paypal-attracts-takeover-interest-after-stock-slump?srnd=undefined",
+      "file": "8092f490919e.txt",
+      "title": "PayPal Attracts Takeover Interest After Stock Slump - Bloomberg",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "Ryan Gould",
+      "text_length": 593,
+      "status": "ok",
+      "num_tokens": 117
+    },
+    {
+      "url": "https://www.reuters.com/legal/transactional/gilead-acquire-cancer-therapy-developer-arcellx-up-78-billion-2026-02-23/",
+      "file": "6121811d4405.txt",
+      "title": "Gilead to buy cancer therapy developer Arcellx for up to $7.8 billion | Reuters",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "Christy Santhosh",
+      "text_length": 2837,
+      "status": "ok",
+      "num_tokens": 669
+    }
+  ],
+  "total_tokens": 2130
+}

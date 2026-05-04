@@ -1,0 +1,65 @@
+{
+  "spike_index": 8,
+  "direction": "down",
+  "price_before": 0.828,
+  "price_after": 0.49,
+  "delta": -0.33799999999999997,
+  "abs_delta": 0.33799999999999997,
+  "timestamp_before": "2026-03-03T14:00:31+00:00",
+  "timestamp_after": "2026-03-03T20:00:26+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.npr.org/2026/03/04/nx-s1-5736104/iran-war-oil-trump-israel-strait-hormuz-closed-energy-crisis/",
+      "file": "da710e91bd16.txt",
+      "title": "The Iran war has effectively closed the Strait of Hormuz : NPR",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "Camila Domonoske",
+      "text_length": 5282,
+      "status": "ok",
+      "num_tokens": 1100
+    },
+    {
+      "url": "https://foreignpolicy.com/2026/03/03/iran-strikes-hormuz-shipping-oil-2/",
+      "file": "b21b0592af1d.txt",
+      "title": "Iran Strikes, Strait of Hormuz Closure Are Causing Chaos for Global Shipping",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Elisabeth Braw",
+      "text_length": 7192,
+      "status": "ok",
+      "num_tokens": 1582
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/01/experts-weigh-potential-scenarios-for-oil-if-strait-of-hormuz-closes.html",
+      "file": "327551db3e32.txt",
+      "title": "Experts weigh potential scenarios for oil if Strait of Hormuz closes",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Lee Ying Shan",
+      "text_length": 5372,
+      "status": "ok",
+      "num_tokens": 1108
+    },
+    {
+      "url": "http://www.cbsnews.com/news/strait-of-hormuz-iran-oil-prices-us/",
+      "file": "7dc4f23ddff1.txt",
+      "title": "Strait of Hormuz remains shut as Trump pushes U.S. allies to help open the key waterway. Here's what to know. - CBS News",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 7627,
+      "status": "ok",
+      "num_tokens": 1600
+    },
+    {
+      "url": "https://www.foxnews.com/politics/gas-prices-could-jump-middle-east-tensions-threaten-global-oil-supply",
+      "file": "5331ecbb055a.txt",
+      "title": "Gas prices could rise 25-50 cents amid Middle East tensions, experts warn | Fox News",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 5380,
+      "status": "ok",
+      "num_tokens": 1085
+    }
+  ],
+  "total_tokens": 6475
+}

@@ -1,0 +1,65 @@
+{
+  "spike_index": 3,
+  "direction": "up",
+  "price_before": 0.135,
+  "price_after": 0.295,
+  "delta": 0.15999999999999998,
+  "abs_delta": 0.15999999999999998,
+  "timestamp_before": "2026-03-11T20:30:27+00:00",
+  "timestamp_after": "2026-03-12T20:30:25+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://uk.mobile.reuters.com/technology/nvidia-invest-2-billion-ai-cloud-firm-nebius-2026-03-11/",
+      "file": "85d3dd8f0538.txt",
+      "title": "Nvidia to invest $2 billion in neocloud Nebius amid AI data center push | Reuters",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": null,
+      "text_length": 2170,
+      "status": "ok",
+      "num_tokens": 507
+    },
+    {
+      "url": "https://www.barrons.com/articles/nebius-stock-price-nbis-nvidia-coreweave-35a090d3?gaa_at=eafs&gaa_n=AWEtsqendDtHU-apTb3ohgOfBfbN37Tlm5i7NKQtmiKEhYyMdC4RPU7Z02Dq&gaa_sig=CBS_WnMzCMwZwpoZHQlfac8j1D8GALpZvyPJ48-3PyKG3EIUUEgU4J17IwLnSGKk2XNLj6Qn2dU8zfeeTV-c0Q%3D%3D&gaa_ts=69b2cb43",
+      "file": "63fd752b55c2.txt",
+      "title": "Nvidia Invests $2B in Nebius (NBIS) Stock. What It Means for CoreWeave, AI Trade<!-- --> - Barron's",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": "Adam Clark",
+      "text_length": 383,
+      "status": "ok",
+      "num_tokens": 91
+    },
+    {
+      "url": "https://www.barrons.com/articles/nebius-stock-charts-ai-nvidia-investment-0ca891bf?mod=mw_quote_news_topstories",
+      "file": "0ab72a311dac.txt",
+      "title": "Nebius Stock Charts Show Strong Momentum. Nvidia\u2019s Backing Will Help. - Barron's",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": "Doug Busch",
+      "text_length": 264,
+      "status": "ok",
+      "num_tokens": 50
+    },
+    {
+      "url": "https://www.barrons.com/articles/nebius-nbis-stock-price-nvidia-coreweave-35a090d3?gaa_at=eafs&gaa_n=AWEtsqfoFqMD0aB6Nfx2NVbTCd5v-a6MXHyILb7xgLB3oxHMw5MeB1xMC7sV&gaa_sig=L9qeBPKFucn8nkvFq78nPSNzX5Dt-vPgwrT3Dd2s1YpqRDmoX7dWx_poZm1S_D8I6RmKcH2Q9o0J5psrgx3lQw%3D%3D&gaa_ts=69b3309c",
+      "file": "99a11ea23c5f.txt",
+      "title": "Nvidia Invests $2B in Nebius (NBIS) Stock. What It Means for CoreWeave, AI Trade<!-- --> - Barron's",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": "Adam Clark",
+      "text_length": 383,
+      "status": "ok",
+      "num_tokens": 91
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/11/stocks-making-the-biggest-moves-midday-orcl-nbis-cpb-serv-cdre.html",
+      "file": "fcc4c91a9971.txt",
+      "title": "Stocks making the biggest moves midday: ORCL, NBIS, CPB, SERV, CDRE",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": "Scott Schnipper",
+      "text_length": 3490,
+      "status": "ok",
+      "num_tokens": 797
+    }
+  ],
+  "total_tokens": 1536
+}

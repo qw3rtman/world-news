@@ -1,0 +1,37 @@
+{
+  "hash": "c245dfbfe565",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://polling.reuters.com/world/europe/top-european-spies-sceptical-us-will-clinch-ukraine-peace-deal-this-year-2026-02-19/",
+      "title": "Exclusive: Top European spies sceptical US will clinch Ukraine peace deal this year | Reuters",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": "Tom Balmforth",
+      "num_tokens": 1134,
+      "text_length": 5664
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "635536",
+      "spike_id": 1,
+      "market_question": "Will there be no coalition by October 31?",
+      "event_title": "Which coalition will form the next Dutch government?",
+      "spike_direction": "up",
+      "spike_delta": 0.215,
+      "spike_timestamp_before": "2026-02-20T01:30:25+00:00",
+      "spike_timestamp_after": "2026-02-20T02:30:24+00:00"
+    },
+    {
+      "market_id": "635536",
+      "spike_id": 2,
+      "market_question": "Will there be no coalition by October 31?",
+      "event_title": "Which coalition will form the next Dutch government?",
+      "spike_direction": "down",
+      "spike_delta": -0.214,
+      "spike_timestamp_before": "2026-02-20T02:30:24+00:00",
+      "spike_timestamp_after": "2026-02-20T08:30:22+00:00"
+    }
+  ]
+}

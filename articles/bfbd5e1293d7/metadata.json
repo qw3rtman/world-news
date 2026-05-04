@@ -1,0 +1,67 @@
+{
+  "hash": "bfbd5e1293d7",
+  "n_appearances": 5,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://apnews.com/article/iran-supreme-leader-khamenei-succession-c1d1505581d36ffc84d3ededcb10a7d5",
+      "title": "How Iran's next supreme leader is chosen | AP News",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 920,
+      "text_length": 4173
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1469737",
+      "spike_id": 1,
+      "market_question": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
+      "event_title": "Iran leader end of 2026?",
+      "spike_direction": "down",
+      "spike_delta": -0.24,
+      "spike_timestamp_before": "2026-03-01T00:30:50+00:00",
+      "spike_timestamp_after": "2026-03-01T01:00:35+00:00"
+    },
+    {
+      "market_id": "1469737",
+      "spike_id": 2,
+      "market_question": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
+      "event_title": "Iran leader end of 2026?",
+      "spike_direction": "down",
+      "spike_delta": -0.39,
+      "spike_timestamp_before": "2026-03-01T00:30:50+00:00",
+      "spike_timestamp_after": "2026-03-01T03:30:35+00:00"
+    },
+    {
+      "market_id": "1469737",
+      "spike_id": 3,
+      "market_question": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
+      "event_title": "Iran leader end of 2026?",
+      "spike_direction": "down",
+      "spike_delta": -0.4805,
+      "spike_timestamp_before": "2026-03-01T00:30:50+00:00",
+      "spike_timestamp_after": "2026-03-01T08:30:30+00:00"
+    },
+    {
+      "market_id": "1469737",
+      "spike_id": 4,
+      "market_question": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
+      "event_title": "Iran leader end of 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.28049999999999997,
+      "spike_timestamp_before": "2026-03-01T08:30:30+00:00",
+      "spike_timestamp_after": "2026-03-01T10:30:30+00:00"
+    },
+    {
+      "market_id": "1469737",
+      "spike_id": 5,
+      "market_question": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
+      "event_title": "Iran leader end of 2026?",
+      "spike_direction": "down",
+      "spike_delta": -0.2635,
+      "spike_timestamp_before": "2026-03-01T10:30:30+00:00",
+      "spike_timestamp_after": "2026-03-02T07:30:30+00:00"
+    }
+  ]
+}

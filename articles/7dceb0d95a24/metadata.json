@@ -1,0 +1,27 @@
+{
+  "hash": "7dceb0d95a24",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.nbcnews.com/video/decades-of-tensions-with-cuba-in-the-spotlight-after-deadly-boat-shooting-258543685853",
+      "title": "Decades of tensions with Cuba in the spotlight after deadly boat shooting",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 67,
+      "text_length": 309
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1107582",
+      "spike_id": 3,
+      "market_question": "US strike on Cuba by December 31?",
+      "event_title": "US strike on Cuba by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.15500000000000003,
+      "spike_timestamp_before": "2026-03-01T03:00:29+00:00",
+      "spike_timestamp_after": "2026-03-01T17:00:25+00:00"
+    }
+  ]
+}

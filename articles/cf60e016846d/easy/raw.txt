@@ -1,0 +1,106 @@
+[
+  {
+    "q": "What was the name of the joint military operation launched by the United States and Israel against Iran on February 28, 2026, as described in a press release from U.S. Central Command?",
+    "a": "Epic Fury"
+  },
+  {
+    "q": "Which Iranian supreme leader was killed during the U.S.-Israeli strikes that began on February 28, 2026?",
+    "a": "Ayatollah Ali Khamenei"
+  },
+  {
+    "q": "On what date did the United States and Israel launch their initial strikes against Iran, an event that resulted in the death of Supreme Leader Ayatollah Ali Khamenei?",
+    "a": "February 28, 2026"
+  },
+  {
+    "q": "How many strikes did U.S. and Israeli officials state they had launched against Iran by early March 2026, according to the article?",
+    "a": "Over 1,200 strikes"
+  },
+  {
+    "q": "Which two countries launched joint military strikes against Iran starting on February 28, 2026?",
+    "a": "The United States and Israel"
+  },
+  {
+    "q": "According to U.S. President Donald Trump, what was the primary objective of the military strikes launched against Iran on February 28, 2026?",
+    "a": "To target Iran's missile capabilities"
+  },
+  {
+    "q": "On which date did Israel bomb the southern Lebanese city of Tyre, targeting the offices of the Hezbollah-linked financial institution Al-Qard al-Hassan?",
+    "a": "March 2, 2026"
+  },
+  {
+    "q": "Which Iranian official stated in an interview published on March 15, 2026, that the war with the United States and Israel would only end when Tehran was certain it would not be restarted?",
+    "a": "Iran's Foreign Minister"
+  },
+  {
+    "q": "In which Iranian capital did rescue workers gather outside damaged residential buildings on March 12, 2026, following the U.S.-Israeli strikes?",
+    "a": "Tehran"
+  },
+  {
+    "q": "What specific infrastructure targets were the U.S. and Israeli strikes in February and March 2026 aimed at destroying, according to officials?",
+    "a": "Iran's ballistic missile and nuclear development programs"
+  },
+  {
+    "q": "On what date did explosions erupt near the Azadi Tower and Mehrabad International Airport in Tehran?",
+    "a": "March 7, 2026"
+  },
+  {
+    "q": "Which U.S. government agency released images of an unmanned aerial vehicle and a rocket launch from a ship to accompany the press release for the operation 'Epic Fury'?",
+    "a": "U.S. Central Command (CENTCOM)"
+  },
+  {
+    "q": "On what date did fresh strikes rock Iran and Lebanon, prompting Israel to vow to escalate the war to a new phase?",
+    "a": "March 6, 2026"
+  },
+  {
+    "q": "On March 5, 2026, which Iranian military targets were struck by Iran in response to Israel pounding Tehran?",
+    "a": "Kurdish guerilla groups in Iraq"
+  },
+  {
+    "q": "Where was a police station struck in Tehran on March 4, 2026, during the U.S.-Israeli conflict with Iran?",
+    "a": "Tehran, Iran"
+  },
+  {
+    "q": "What landmark in Tehran was near the site of an explosion on March 3, 2026, where an Iranian flag was placed amidst rubble near Ferdowsi square?",
+    "a": "Ferdowsi square"
+  },
+  {
+    "q": "Which U.S. President confirmed the killing of Ayatollah Ali Khamenei on Truth Social following the February 28, 2026 strikes?",
+    "a": "Donald Trump"
+  },
+  {
+    "q": "Where did U.S. President Donald Trump disembark from Air Force One on February 27, 2026, hours before making comments about the military strikes against Iran?",
+    "a": "Palm Beach International Airport in West Palm Beach, Florida"
+  },
+  {
+    "q": "Which entity announced it had launched a 'preemptive strike' on Iran as sirens sounded in Jerusalem on February 28, 2026?",
+    "a": "Israel's defence ministry"
+  },
+  {
+    "q": "What type of financial institution located in Tyre, Lebanon, was targeted by an Israeli airstrike on March 2, 2026?",
+    "a": "Al-Qard al-Hassan, a Hezbollah-linked financial institution"
+  },
+  {
+    "q": "On which dates in early March 2026 did smoke and fire rise from airstrike sites in central Tehran, indicating fresh strikes by Israel and the U.S.?",
+    "a": "March 5, 2026 and March 6, 2026"
+  },
+  {
+    "q": "What global sectors were upended by the war between the U.S., Israel, and Iran that began in late February 2026?",
+    "a": "The world's energy and transport sectors"
+  },
+  {
+    "q": "Which two loud blasts were heard in Tehran on the morning of February 28, 2026, according to AFP journalists?",
+    "a": "Two loud blasts"
+  },
+  {
+    "q": "Who confirmed to USA TODAY that Supreme Leader Ayatollah Ali Khamenei was killed in the joint strikes with Israel on Iran?",
+    "a": "An Israeli source"
+  },
+  {
+    "q": "In which city did people rush to inspect the site of an Israeli airstrike on March 2, 2026, that targeted a Hezbollah-linked financial institution?",
+    "a": "Tyre"
+  },
+  {
+    "q": "What did Iran target in Iraq on March 5, 2026, as part of its retaliation for Israel pounding Tehran?",
+    "a": "Kurdish guerilla groups"
+  }
+]

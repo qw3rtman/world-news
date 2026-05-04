@@ -1,0 +1,27 @@
+{
+  "hash": "2b06eee8264b",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.pbs.org/newshour/politics/republicans-cornyn-and-paxton-advance-to-texas-senate-runoff",
+      "title": "Republicans Cornyn and Paxton advance to Texas Senate runoff | PBS News",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1041,
+      "text_length": 5051
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "562187",
+      "spike_id": 1,
+      "market_question": "Will John Cornyn win the 2026 Texas Republican Primary?",
+      "event_title": "Texas Republican Senate Primary Winner",
+      "spike_direction": "up",
+      "spike_delta": 0.365,
+      "spike_timestamp_before": "2026-03-03T08:30:34+00:00",
+      "spike_timestamp_after": "2026-03-04T03:30:34+00:00"
+    }
+  ]
+}

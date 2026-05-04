@@ -1,0 +1,57 @@
+{
+  "hash": "800757d0b376",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.thetimes.com/uk/politics/article/cyprus-iran-missiles-john-healey-uk-3zgpvvllr",
+      "title": "John Healey warns Iran is ‘lashing out’ as missiles fire at Cyprus",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Larisa Brown, Defence Editor",
+      "num_tokens": 891,
+      "text_length": 4056
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1466423",
+      "spike_id": 1,
+      "market_question": "Will Iran strike Cyprus in March?",
+      "event_title": "Iran military action against ___ by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.36,
+      "spike_timestamp_before": "2026-03-01T07:00:24+00:00",
+      "spike_timestamp_after": "2026-03-01T10:00:30+00:00"
+    },
+    {
+      "market_id": "1466423",
+      "spike_id": 2,
+      "market_question": "Will Iran strike Cyprus in March?",
+      "event_title": "Iran military action against ___ by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.41000000000000003,
+      "spike_timestamp_before": "2026-03-01T07:00:24+00:00",
+      "spike_timestamp_after": "2026-03-01T22:30:25+00:00"
+    },
+    {
+      "market_id": "1466423",
+      "spike_id": 3,
+      "market_question": "Will Iran strike Cyprus in March?",
+      "event_title": "Iran military action against ___ by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.38,
+      "spike_timestamp_before": "2026-03-01T20:30:27+00:00",
+      "spike_timestamp_after": "2026-03-02T11:00:23+00:00"
+    },
+    {
+      "market_id": "1466423",
+      "spike_id": 4,
+      "market_question": "Will Iran strike Cyprus in March?",
+      "event_title": "Iran military action against ___ by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.28,
+      "spike_timestamp_before": "2026-03-02T11:00:23+00:00",
+      "spike_timestamp_after": "2026-03-02T17:30:26+00:00"
+    }
+  ]
+}

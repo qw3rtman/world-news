@@ -1,0 +1,27 @@
+{
+  "hash": "a0ec135f2da9",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://fortune.com/article/current-price-of-silver-3-3-2026/",
+      "title": "Current price of silver as of Tuesday, March 3, 2026 | Fortune",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Joseph Hostetler",
+      "num_tokens": 54,
+      "text_length": 185
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1032343",
+      "spike_id": 23,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "up",
+      "spike_delta": 0.2415,
+      "spike_timestamp_before": "2026-03-03T08:00:21+00:00",
+      "spike_timestamp_after": "2026-03-03T22:30:22+00:00"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On what date did Brent crude oil prices first surge past $100 per barrel, marking the first time this threshold was crossed since Russia’s 2022 invasion of Ukraine?",
+    "a": "Sunday, March 8, 2026."
+  },
+  {
+    "q": "What specific price did Brent crude oil near during early trading on Monday, March 9, 2026, before paring gains to trade around $104?",
+    "a": "$120 a barrel."
+  },
+  {
+    "q": "How much did WTI (West Texas Intermediate) crude oil rise on Monday, March 9, 2026, and what was its trading price at that time?",
+    "a": "It soared more than 11% to $101 a barrel."
+  },
+  {
+    "q": "In a Truth Social post on Sunday, March 8, 2026, how did U.S. President Donald Trump characterize the surging oil costs?",
+    "a": "He called them a 'very small price to pay' for U.S. and world safety and peace."
+  },
+  {
+    "q": "Who did Iran appoint as its next supreme leader, a decision that investors viewed as a sign of a prolonged war and hardline approach?",
+    "a": "Mojtaba Khamenei."
+  },
+  {
+    "q": "Which former Iranian supreme leader was killed in the first wave of U.S. and Israeli strikes, prompting the appointment of his son as successor?",
+    "a": "Ali Khamenei."
+  },
+  {
+    "q": "According to Neil Wilson, a strategist at UK trading platform Saxo Markets, what sentiment replaced complacency in financial markets regarding the Iran conflict?",
+    "a": "A degree of panic."
+  },
+  {
+    "q": "What percentage of the world’s oil transits through the Strait of Hormuz, which Iran has threatened to disrupt?",
+    "a": "20%."
+  },
+  {
+    "q": "What price did Homayoun Falakshahi, lead crude research analyst at Kpler, project oil could reach by the end of March 2026 if travel through the Strait of Hormuz does not resume?",
+    "a": "$150 a barrel."
+  },
+  {
+    "q": "How many points did Dow futures drop on the day reported in the article, and what was the corresponding percentage decline?",
+    "a": "More than 800 points, or 1.7%."
+  },
+  {
+    "q": "What was the average price of gasoline in America on Sunday, March 8, 2026, and how much had it increased from the prior week?",
+    "a": "$3.45 a gallon, up 16% from the week prior."
+  },
+  {
+    "q": "Which two major U.S. stock market indices saw their futures fall by 1.6% due to fears of prolonged oil price spikes?",
+    "a": "The S&P 500 and the Nasdaq."
+  },
+  {
+    "q": "What specific plan did the Trump administration announce on Sunday, March 8, 2026, to address insurance concerns for oil tankers in the Strait of Hormuz?",
+    "a": "A plan to supply insurance to oil tankers passing through the strait."
+  },
+  {
+    "q": "Which senior Iranian official warned that the conflict had entered a 'new phase' following Israel’s strikes against Iranian oil storage sites?",
+    "a": "A senior Iranian official (unnamed in the text)."
+  },
+  {
+    "q": "What did Energy Secretary Chris Wright state on CNN’s 'State of the Union' regarding U.S. plans to strike Iran’s oil industry?",
+    "a": "The U.S. does not plan to strike Iran’s oil industry or other energy infrastructure sites."
+  },
+  {
+    "q": "Which country is identified as China’s only major buyer of Iranian oil, which is heavily sanctioned?",
+    "a": "China."
+  },
+  {
+    "q": "What action are many oil producers taking because they have no more room to store the oil they are pumping?",
+    "a": "Reducing their output."
+  },
+  {
+    "q": "By what percentage did Brent crude oil gain on Monday, March 9, 2026, when it traded around $104?",
+    "a": "12%."
+  },
+  {
+    "q": "What specific region's oil-rich refineries have been attacked, contributing to worries about prolonged restrictions on global oil flow?",
+    "a": "The Middle East."
+  },
+  {
+    "q": "Which maritime entity stated they would not cover ships in the region if attacked, prompting the U.S. administration's insurance plan?",
+    "a": "Maritime insurers."
+  },
+  {
+    "q": "What political consequence does the article suggest a prolonged spike in oil and gas prices could exacerbate for Trump and Republicans ahead of the midterm elections?",
+    "a": "America’s struggles with affordability."
+  },
+  {
+    "q": "Who contributed to the CNN Business report titled 'Oil prices soar past $100 a barrel as war escalates in Iran'?",
+    "a": "Kate Trafecante, Fred Pleitgen, Kit Maher, Maureen Chowdhury, and Hanna Ziady."
+  },
+  {
+    "q": "What did Homayoun Falakshahi of Kpler say would be required for the market to calm down regarding the Iran conflict?",
+    "a": "A significant de-escalation."
+  },
+  {
+    "q": "Which two countries led the military campaign against Iran that the Trump administration attempted to assuage fears about?",
+    "a": "The U.S. and Israel."
+  },
+  {
+    "q": "What specific date did the initial strikes in Iran occur that triggered the shock leading to the gasoline price surge?",
+    "a": "February 28, 2026."
+  }
+]

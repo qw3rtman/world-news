@@ -1,0 +1,27 @@
+{
+  "hash": "2a4bfc1d8147",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://thehill.com/homenews/house/5776058-trump-republicans-save-america-act-midterms/",
+      "title": "Donald Trump tells House Republicans: SAVE America Act will ‘guarantee the midterms’",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 740,
+      "text_length": 3461
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1378925",
+      "spike_id": 7,
+      "market_question": "Will the DHS shutdown end after March 31, 2026?",
+      "event_title": "When will the DHS shutdown end?",
+      "spike_direction": "up",
+      "spike_delta": 0.1775,
+      "spike_timestamp_before": "2026-03-10T14:30:41+00:00",
+      "spike_timestamp_after": "2026-03-11T10:30:37+00:00"
+    }
+  ]
+}

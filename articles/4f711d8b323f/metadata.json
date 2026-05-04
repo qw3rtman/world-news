@@ -1,0 +1,37 @@
+{
+  "hash": "4f711d8b323f",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://timesofindia.indiatimes.com/business-india-business-gold-rate-today-silver-price-live-updates-22-carat-24k-gold-rate-silver-per-kg-mcx-comex-etf-precious-metal-february-city-wise-cost-latest-news/liveblog/128697566.cms",
+      "title": "Gold, Silver Rate Today Live Updates: Gold, silver prices down after seeing biggest rise in 3 weeks  - The Times of India",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 4784,
+      "text_length": 22155
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1032336",
+      "spike_id": 1,
+      "market_question": "Will Silver (SI) hit (HIGH) $120 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "up",
+      "spike_delta": 0.22999999999999998,
+      "spike_timestamp_before": "2026-02-23T23:00:30+00:00",
+      "spike_timestamp_after": "2026-02-24T13:00:31+00:00"
+    },
+    {
+      "market_id": "1273328",
+      "spike_id": 1,
+      "market_question": "Will Gold (GC) hit (HIGH) $5,500 by end of February?",
+      "event_title": "What will Gold (GC) hit__ by end of February?",
+      "spike_direction": "up",
+      "spike_delta": 0.15650000000000003,
+      "spike_timestamp_before": "2026-02-23T09:30:28+00:00",
+      "spike_timestamp_after": "2026-02-23T23:30:28+00:00"
+    }
+  ]
+}

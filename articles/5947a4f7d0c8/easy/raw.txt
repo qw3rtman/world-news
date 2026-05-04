@@ -1,0 +1,102 @@
+[
+  {
+    "q": "According to the report published by Fortune on February 27, 2026, what was the price per ounce of silver at 8:45 a.m. Eastern Time on that specific Friday?",
+    "a": "$92.06 per ounce"
+  },
+  {
+    "q": "In the Fortune article dated February 27, 2026, what was the monetary increase in the price of silver over the 24-hour period preceding the 8:45 a.m. Eastern Time report?",
+    "a": "$4.99"
+  },
+  {
+    "q": "Based on the data provided in the February 27, 2026 Fortune article, what was the total gain in the price of silver over the past year as of that date?",
+    "a": "More than $60"
+  },
+  {
+    "q": "Who is the Staff Writer for Personal Finance at Fortune who authored the article titled 'Current price of silver as of Friday, February 27, 2026'?",
+    "a": "Joseph Hostetler"
+  },
+  {
+    "q": "On which specific day of the week did the silver price of $92.06 per ounce occur, as reported by Fortune in late February 2026?",
+    "a": "Friday"
+  },
+  {
+    "q": "What was the exact time in Eastern Time when silver exchanged hands at $92.06 per ounce, according to the February 27, 2026 Fortune report?",
+    "a": "8:45 a.m."
+  },
+  {
+    "q": "In the context of the February 27, 2026 Fortune article, how does the one-year gain in silver prices compare to the 24-hour gain reported?",
+    "a": "The one-year gain was more than $60, while the 24-hour gain was $4.99"
+  },
+  {
+    "q": "What publication reported the current price of silver on February 27, 2026, and who was the author?",
+    "a": "Fortune, authored by Joseph Hostetler"
+  },
+  {
+    "q": "According to the February 27, 2026 article, what was the price of silver per ounce, and how much had it risen from the previous day?",
+    "a": "$92.06 per ounce, with a $4.99 rise"
+  },
+  {
+    "q": "What specific date and time anchor does the Fortune article use to establish the silver price of $92.06 per ounce?",
+    "a": "Friday, February 27, 2026, at 8:45 a.m. Eastern Time"
+  },
+  {
+    "q": "How much did the price of silver increase over the past year as stated in the Fortune article published on February 27, 2026?",
+    "a": "More than $60"
+  },
+  {
+    "q": "What was the 24-hour price change for silver reported in the Fortune article from February 27, 2026?",
+    "a": "A $4.99 uptick"
+  },
+  {
+    "q": "Which personal finance staff writer for Fortune reported on the silver price movement on February 27, 2026?",
+    "a": "Joseph Hostetler"
+  },
+  {
+    "q": "As of February 27, 2026, what was the trading price of silver per ounce, and what was its approximate gain over the preceding 12 months?",
+    "a": "$92.06 per ounce, with a gain of more than $60"
+  },
+  {
+    "q": "In the Fortune report from February 27, 2026, what was the specific dollar amount by which silver prices had risen compared to 24 hours prior?",
+    "a": "$4.99"
+  },
+  {
+    "q": "What was the exact exchange price of silver per ounce at 8:45 a.m. Eastern Time on February 27, 2026, according to Fortune?",
+    "a": "$92.06"
+  },
+  {
+    "q": "According to the February 27, 2026 Fortune article, what is the relationship between the 24-hour price change and the one-year price change for silver?",
+    "a": "The 24-hour change was $4.99, while the one-year change was over $60"
+  },
+  {
+    "q": "Who wrote the Fortune article detailing the silver price on February 27, 2026, and what was their role?",
+    "a": "Joseph Hostetler, Staff Writer for Personal Finance"
+  },
+  {
+    "q": "What was the silver price per ounce reported by Fortune on February 27, 2026, and on which day of the week did this price occur?",
+    "a": "$92.06 per ounce on Friday"
+  },
+  {
+    "q": "In the February 27, 2026 Fortune article, what was the total value gain for silver over the past year as of the reporting date?",
+    "a": "More than $60"
+  },
+  {
+    "q": "What was the specific time of day in Eastern Time when the silver price of $92.06 was recorded in the February 27, 2026 Fortune article?",
+    "a": "8:45 a.m."
+  },
+  {
+    "q": "How much did the price of silver increase from 24 hours prior to the 8:45 a.m. Eastern Time report on February 27, 2026?",
+    "a": "$4.99"
+  },
+  {
+    "q": "What was the silver price per ounce and the corresponding 24-hour gain reported in the Fortune article published on February 27, 2026?",
+    "a": "$92.06 per ounce and a $4.99 gain"
+  },
+  {
+    "q": "Which author from Fortune's Personal Finance staff reported the silver price data on February 27, 2026?",
+    "a": "Joseph Hostetler"
+  },
+  {
+    "q": "According to the Fortune article from February 27, 2026, what was the silver price per ounce and how did it compare to the previous year's price?",
+    "a": "$92.06 per ounce, representing a gain of more than $60 over the past year"
+  }
+]

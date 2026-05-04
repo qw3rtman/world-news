@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the article published on March 2, 2026, what former leadership position did U.S. Senator John Cornyn hold under Senate Majority Leader Mitch McConnell?",
+    "a": "He served as a top lieutenant to Mitch McConnell."
+  },
+  {
+    "q": "According to the March 2, 2026 report, how many reelection races had U.S. Senator John Cornyn won without facing a primary challenger he could not defeat?",
+    "a": "He defeated every primary challenger in three reelection races."
+  },
+  {
+    "q": "As of the March 2, 2026 publication, what political party affiliation and state does U.S. Senator John Cornyn represent?",
+    "a": "He is a Republican from Texas."
+  },
+  {
+    "q": "The March 2, 2026 article describes U.S. Senator John Cornyn as an architect of the Republican takeover of which state, now described as the country’s biggest red state?",
+    "a": "Texas."
+  },
+  {
+    "q": "In the context of the March 2, 2026 article, which Kentucky senator served as the majority leader under whom John Cornyn worked as a top lieutenant?",
+    "a": "Senator Mitch McConnell."
+  },
+  {
+    "q": "According to the March 2, 2026 Washington Post article, how long had U.S. Senator John Cornyn served in the Senate when he was described as having built a reputation as a staunch conservative?",
+    "a": "More than two decades."
+  },
+  {
+    "q": "The March 2, 2026 article identifies U.S. Senator John Cornyn as an enormously prolific fundraiser for which political party?",
+    "a": "The Republican Party."
+  },
+  {
+    "q": "In the March 2, 2026 article, what specific political trait is attributed to U.S. Senator John Cornyn regarding his ability to work across the aisle?",
+    "a": "He could still compromise with Democrats."
+  },
+  {
+    "q": "According to the March 2, 2026 report, which publication authored the article titled \"John Cornyn’s primary may be GOP Senate’s loss, Texas Democrats’ gain\"?",
+    "a": "The Washington Post."
+  },
+  {
+    "q": "In the March 2, 2026 article, who are the three authors credited with writing the piece about U.S. Senator John Cornyn?",
+    "a": "Matthew Choi, Theodoric Meyer, and Molly Hennessy-Fiske."
+  },
+  {
+    "q": "The March 2, 2026 article notes that U.S. Senator John Cornyn came close to becoming the Senate’s most powerful Republican roughly how long before the article's publication?",
+    "a": "Barely a year ago."
+  },
+  {
+    "q": "According to the March 2, 2026 article, what is the current status of U.S. Senator John Cornyn’s primary election prospects as framed by the headline?",
+    "a": "It may be a loss for the GOP Senate and a gain for Texas Democrats."
+  },
+  {
+    "q": "In the March 2, 2026 article, which state is identified as the country’s biggest red state, which U.S. Senator John Cornyn helped the Republicans take over?",
+    "a": "Texas."
+  },
+  {
+    "q": "The March 2, 2026 article describes U.S. Senator John Cornyn’s reputation over more than two decades in the Senate as being that of a staunch conservative who could do what?",
+    "a": "Compromise with Democrats."
+  },
+  {
+    "q": "According to the March 2, 2026 Washington Post article, which U.S. Senator from Kentucky held the position of majority leader when John Cornyn was his top lieutenant?",
+    "a": "Mitch McConnell."
+  },
+  {
+    "q": "In the March 2, 2026 article, how many reelection races had U.S. Senator John Cornyn completed prior to the primary discussed in the piece?",
+    "a": "Three."
+  },
+  {
+    "q": "The March 2, 2026 article states that U.S. Senator John Cornyn demolished every primary challenger he faced in his previous three reelection races. What does this imply about his primary election history?",
+    "a": "He had never lost a primary election."
+  },
+  {
+    "q": "According to the March 2, 2026 article, what role did U.S. Senator John Cornyn play in the political landscape of Texas?",
+    "a": "He was an architect of the Republican takeover of Texas."
+  },
+  {
+    "q": "In the March 2, 2026 article, which political party is U.S. Senator John Cornyn affiliated with, and which party is expected to gain from his potential primary loss?",
+    "a": "He is a Republican; Texas Democrats are expected to gain."
+  },
+  {
+    "q": "The March 2, 2026 article mentions that U.S. Senator John Cornyn was a former top lieutenant to which specific Senate leader?",
+    "a": "Senate Majority Leader Mitch McConnell."
+  },
+  {
+    "q": "According to the March 2, 2026 article, what is the title of the piece discussing U.S. Senator John Cornyn’s primary challenges?",
+    "a": "\"John Cornyn’s primary may be GOP Senate’s loss, Texas Democrats’ gain\"."
+  },
+  {
+    "q": "In the March 2, 2026 article, which state’s Democratic party is suggested to benefit if U.S. Senator John Cornyn loses his primary?",
+    "a": "Texas."
+  },
+  {
+    "q": "The March 2, 2026 article describes U.S. Senator John Cornyn as an enormously prolific fundraiser. For which political entity did he raise funds?",
+    "a": "The Republican Party."
+  },
+  {
+    "q": "According to the March 2, 2026 article, what is the political affiliation of the party that U.S. Senator John Cornyn helped take over Texas?",
+    "a": "The Republican Party."
+  },
+  {
+    "q": "In the March 2, 2026 article, which two political groups are mentioned as potentially losing and gaining from U.S. Senator John Cornyn’s primary outcome?",
+    "a": "The GOP Senate may lose, and Texas Democrats may gain."
+  }
+]

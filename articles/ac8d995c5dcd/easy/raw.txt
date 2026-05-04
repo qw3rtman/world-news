@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2026, which technology company announced an agreement to pay up to $27 billion for artificial intelligence infrastructure services?",
+    "a": "Meta Platforms Inc."
+  },
+  {
+    "q": "Over what specific time period did Meta Platforms Inc. agree to pay up to $27 billion for AI infrastructure services in its March 2026 announcement?",
+    "a": "The next five years."
+  },
+  {
+    "q": "Which cloud provider, described as a neocloud with a strategic partnership with Nvidia Corp., signed the March 2026 infrastructure deal with Meta Platforms Inc.?",
+    "a": "Nebius Group NV."
+  },
+  {
+    "q": "What is the total monetary value of the artificial intelligence infrastructure deal announced in March 2026 between Meta Platforms Inc. and Nebius Group NV?",
+    "a": "Up to $27 billion."
+  },
+  {
+    "q": "Starting in early 2027, how much dedicated capacity will Nebius Group NV provide to Meta Platforms Inc. under their March 2026 agreement?",
+    "a": "$12 billion."
+  },
+  {
+    "q": "In the March 2026 agreement between Meta Platforms Inc. and Nebius Group NV, how much additional capacity is Meta committed to purchasing from infrastructure being built for third-party customers?",
+    "a": "Up to $15 billion."
+  },
+  {
+    "q": "On which day of the week did Nebius Group NV issue the statement regarding its March 2026 infrastructure partnership with Meta Platforms Inc.?",
+    "a": "Monday."
+  },
+  {
+    "q": "Which two companies are involved in the March 2026 agreement where one pays for AI infrastructure and the other provides data center capacity?",
+    "a": "Meta Platforms Inc. and Nebius Group NV."
+  },
+  {
+    "q": "What specific type of infrastructure service is Nebius Group NV providing to Meta Platforms Inc. in the deal announced in March 2026?",
+    "a": "Artificial intelligence infrastructure."
+  },
+  {
+    "q": "Which company operates data centers and has a strategic partnership with Nvidia Corp. as part of the March 2026 deal with Meta Platforms Inc.?",
+    "a": "Nebius Group NV."
+  },
+  {
+    "q": "What is the breakdown of the $27 billion total commitment made by Meta Platforms Inc. to Nebius Group NV in March 2026?",
+    "a": "$12 billion for dedicated capacity and up to $15 billion for additional capacity."
+  },
+  {
+    "q": "In the March 2026 announcement, what is the specific start date for the $12 billion dedicated capacity provision from Nebius Group NV to Meta Platforms Inc.?",
+    "a": "Early 2027."
+  },
+  {
+    "q": "Which Dutch company announced the March 2026 infrastructure deal with Meta Platforms Inc.?",
+    "a": "Nebius Group NV."
+  },
+  {
+    "q": "What is the primary strategic reason cited for Meta Platforms Inc.'s aggressive spending on AI infrastructure in the March 2026 announcement?",
+    "a": "To compete with the industry’s top frontier models."
+  },
+  {
+    "q": "Which tech giant is spending aggressively to compete with industry top frontier models by paying up to $27 billion to Nebius Group NV in March 2026?",
+    "a": "Meta Platforms Inc."
+  },
+  {
+    "q": "What type of business model is Nebius Group NV described as having in the context of its March 2026 partnership with Meta Platforms Inc.?",
+    "a": "A neocloud."
+  },
+  {
+    "q": "In the March 2026 deal, what portion of the $27 billion commitment is tied to capacity that Nebius Group NV is building for third-party customers?",
+    "a": "Up to $15 billion."
+  },
+  {
+    "q": "Which company stated that it would provide $12 billion of dedicated AI capacity starting in early 2027 to Meta Platforms Inc.?",
+    "a": "Nebius Group NV."
+  },
+  {
+    "q": "What is the name of the cloud provider that has a strategic partnership with Nvidia Corp. and signed a multi-billion dollar deal with Meta Platforms Inc. in March 2026?",
+    "a": "Nebius Group NV."
+  },
+  {
+    "q": "How many distinct components make up the financial commitment of Meta Platforms Inc. to Nebius Group NV in the March 2026 agreement?",
+    "a": "Two: $12 billion for dedicated capacity and up to $15 billion for additional capacity."
+  },
+  {
+    "q": "Which organization is Meta Platforms Inc. aiming to compete against by investing in AI infrastructure from Nebius Group NV in March 2026?",
+    "a": "The industry’s top frontier models."
+  },
+  {
+    "q": "What is the full name of the entity that operates data centers and entered a March 2026 agreement to supply AI infrastructure to Meta Platforms Inc.?",
+    "a": "Nebius Group NV."
+  },
+  {
+    "q": "In the March 2026 announcement, which company is the buyer and which is the seller in the $27 billion AI infrastructure deal?",
+    "a": "Meta Platforms Inc. is the buyer and Nebius Group NV is the seller."
+  },
+  {
+    "q": "What is the specific monetary value of the dedicated capacity that Nebius Group NV will provide to Meta Platforms Inc. starting in early 2027?",
+    "a": "$12 billion."
+  },
+  {
+    "q": "Which company announced in March 2026 that it would spend up to $27 billion over five years to access AI infrastructure from Nebius Group NV?",
+    "a": "Meta Platforms Inc."
+  }
+]

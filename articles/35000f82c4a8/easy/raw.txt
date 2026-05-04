@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In late February 2026, what percentage did PayPal’s stock surge following Bloomberg’s report that Stripe was considering an acquisition?",
+    "a": "Nearly 7%."
+  },
+  {
+    "q": "As of February 24, 2026, what was Stripe’s valuation following a secondary stock sale for employees and shareholders?",
+    "a": "$159 billion."
+  },
+  {
+    "q": "Who was appointed as the new CEO of PayPal, scheduled to start at the beginning of March 2026?",
+    "a": "Enrique Lores."
+  },
+  {
+    "q": "In early 2026, by what percentage had PayPal’s stock plummeted since the start of the year?",
+    "a": "More than 19%."
+  },
+  {
+    "q": "What was Stripe’s valuation one year prior to February 2026?",
+    "a": "$91.5 billion."
+  },
+  {
+    "q": "Which fintech startup did Stripe acquire in January 2026?",
+    "a": "Metronome."
+  },
+  {
+    "q": "According to a business update in early 2026, what annual run rate of revenue was Stripe’s revenue suite slated to reach for services beyond payments?",
+    "a": "$1 billion."
+  },
+  {
+    "q": "Who is the co-founder and president of Stripe who told CNBC in February 2026 that the company was not aiming for an IPO?",
+    "a": "John Collison."
+  },
+  {
+    "q": "On which CNBC list did Stripe rank 10th in the previous year prior to 2026?",
+    "a": "The Disruptor 50 list."
+  },
+  {
+    "q": "What was the primary reason cited for PayPal’s stock plunging earlier in February 2026?",
+    "a": "Lackluster profit guidance."
+  },
+  {
+    "q": "Which news organization reported in late February 2026 that Stripe was weighing a buyout of PayPal?",
+    "a": "Bloomberg."
+  },
+  {
+    "q": "What was the status of the acquisition discussions between Stripe and PayPal as reported by Bloomberg in February 2026?",
+    "a": "The discussions were in early stages."
+  },
+  {
+    "q": "What portion of PayPal’s business was Stripe considering buying, according to the February 2026 report?",
+    "a": "All or some segments of PayPal’s business."
+  },
+  {
+    "q": "How much of its value did PayPal shed in 2025?",
+    "a": "Nearly a third."
+  },
+  {
+    "q": "Which former HP executive was named PayPal’s new CEO in February 2026?",
+    "a": "Enrique Lores."
+  },
+  {
+    "q": "In February 2026, which CNBC interviewer spoke with Stripe co-founder John Collison regarding the company’s IPO plans?",
+    "a": "Andrew Ross Sorkin."
+  },
+  {
+    "q": "What reason did John Collison give in February 2026 for Stripe not aiming for an IPO?",
+    "a": "It would sidetrack current product and business growth."
+  },
+  {
+    "q": "Which company’s board appointed Enrique Lores as CEO in February 2026?",
+    "a": "PayPal."
+  },
+  {
+    "q": "What type of stock sale did Stripe conduct in February 2026 that contributed to its $159 billion valuation?",
+    "a": "A secondary stock sale for employees and shareholders."
+  },
+  {
+    "q": "Which billing startup did Stripe acquire in January 2026?",
+    "a": "Metronome."
+  },
+  {
+    "q": "What was PayPal’s stock performance trend leading up to the February 2026 acquisition rumors?",
+    "a": "It had plummeted more than 19% since the start of the year."
+  },
+  {
+    "q": "Which two companies declined to comment on the acquisition rumors in late February 2026?",
+    "a": "PayPal and Stripe."
+  },
+  {
+    "q": "What was Stripe’s valuation in February 2025, one year before its $159 billion valuation?",
+    "a": "$91.5 billion."
+  },
+  {
+    "q": "Which executive from HP was appointed to lead PayPal starting in March 2026?",
+    "a": "Enrique Lores."
+  },
+  {
+    "q": "What specific financial metric did Stripe’s business update in early 2026 project for its non-payment services?",
+    "a": "An annual run rate of $1 billion."
+  },
+  {
+    "q": "Which list did Stripe rank 10th on in the year prior to 2026?",
+    "a": "CNBC’s Disruptor 50 list."
+  }
+]

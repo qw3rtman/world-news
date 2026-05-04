@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Which AI startup did Anthropic acquire on February 25, 2026, and what was the name of the startup's product that functioned as a cloud-based computer-use agent for remote Apple MacBooks?",
+    "a": "Anthropic acquired Vercept, and its product was named Vy."
+  },
+  {
+    "q": "In December 2025, which coding agent engine did Anthropic acquire to help scale Claude Code, preceding its February 2026 acquisition of Vercept?",
+    "a": "Anthropic acquired the coding agent engine Bun."
+  },
+  {
+    "q": "On what specific date in March 2026 will Anthropic shutter Vercept’s product Vy as part of the acquisition deal announced in February 2026?",
+    "a": "Anthropic will shutter the product on March 25, 2026."
+  },
+  {
+    "q": "Which Seattle-based AI-focused incubator, spawned from the Allen Institute for AI, was Vercept a graduate of, and who was the founding leader of that institute?",
+    "a": "Vercept was a graduate of AI2, and Oren Etzioni was the founding leader of the Allen Institute for AI."
+  },
+  {
+    "q": "Which co-founder of Vercept, Matt Deitke, previously negotiated a $250 million salary to join Meta’s Superintelligence Lab, and on which social media platform did he congratulate his former colleagues on February 25, 2026?",
+    "a": "Matt Deitke posted his congratulations on X."
+  },
+  {
+    "q": "According to Vercept CEO Kiana Ehsani’s LinkedIn post in February 2026, what was the total amount of money the startup had raised, and who was identified as the lead investor?",
+    "a": "Vercept had raised a total of $50 million, with Seth Bannon of Fifty Years as the lead investor."
+  },
+  {
+    "q": "In January 2026, what specific seed round amount did Vercept previously announce it had raised before its February 2026 acquisition by Anthropic?",
+    "a": "Vercept announced it had raised a $16 million seed round."
+  },
+  {
+    "q": "Which four high-profile investors were listed as angel investors in Vercept, including former Google CEO Eric Schmidt, Google DeepMind chief scientist Jeff Dean, Cruise founder Kyle Vogt, and Dropbox co-founder Arash Ferdowsi?",
+    "a": "The angel investors were Eric Schmidt, Jeff Dean, Kyle Vogt, and Arash Ferdowsi."
+  },
+  {
+    "q": "Which three co-founders of Vercept were named by Anthropic in its February 2026 acquisition announcement as joining the team, excluding Oren Etzioni and Matt Deitke?",
+    "a": "The co-founders joining Anthropic were Kiana Ehsani, Luca Weihs, and Ross Girshick."
+  },
+  {
+    "q": "Which Vercept co-founder and investor, Oren Etzioni, posted on LinkedIn on February 25, 2026, expressing disappointment that the startup was \"throwing in the towel\" after just over a year?",
+    "a": "Oren Etzioni posted the message on LinkedIn."
+  },
+  {
+    "q": "Who is the lead investor in Vercept, Seth Bannon, and which venture capital firm is he associated with, as corrected in the February 25, 2026 reporting?",
+    "a": "Seth Bannon is a VC with Fifty Years."
+  },
+  {
+    "q": "In the LinkedIn exchange on February 25, 2026, which Vercept lead investor, Seth Bannon, accused co-founder Oren Etzioni of disparaging the heroic work of the founders?",
+    "a": "Seth Bannon made the accusation against Oren Etzioni."
+  },
+  {
+    "q": "Which professor at the University of Washington and founding leader of the Allen Institute for AI, Oren Etzioni, did not respond to a request for comment regarding the Vercept acquisition in February 2026?",
+    "a": "Oren Etzioni did not respond to the request for comment."
+  },
+  {
+    "q": "According to Oren Etzioni’s February 25, 2026 LinkedIn post, who did he accuse of being \"partly responsible\" for Vercept not hiring the correct business people?",
+    "a": "Etzioni accused Seth Bannon of being partly responsible."
+  },
+  {
+    "q": "Which Vercept CEO, Kiana Ehsani, stated in a February 2026 LinkedIn post that joining Anthropic was an \"easy choice\" to accelerate their vision rather than building independently?",
+    "a": "Kiana Ehsani made that statement in her LinkedIn post."
+  },
+  {
+    "q": "Which two Vercept co-founders, Matt Deitke and Oren Etzioni, are explicitly stated as not joining Anthropic in the February 2026 acquisition deal?",
+    "a": "Matt Deitke and Oren Etzioni are not joining Anthropic."
+  },
+  {
+    "q": "What product did Vercept create that allowed a cloud-based agent to operate a remote Apple MacBook, which was scheduled to be shut down by Anthropic in March 2026?",
+    "a": "The product was named Vy."
+  },
+  {
+    "q": "Which startup incubator, AI2, spawned from the Allen Institute for AI and produced Vercept, which was acquired by Anthropic in February 2026?",
+    "a": "AI2 is the incubator that spawned from the Allen Institute for AI."
+  },
+  {
+    "q": "Who is the former Google CEO and angel investor in Vercept, Eric Schmidt, and which other DeepMind chief scientist, Jeff Dean, also invested in the startup acquired by Anthropic in February 2026?",
+    "a": "Eric Schmidt and Jeff Dean were angel investors in Vercept."
+  },
+  {
+    "q": "In the February 25, 2026 acquisition announcement, which three individuals were named by Anthropic as co-founders of Vercept joining the company, specifically Kiana Ehsani, Luca Weihs, and who else?",
+    "a": "The third co-founder named was Ross Girshick."
+  },
+  {
+    "q": "Which Vercept co-founder, Oren Etzioni, told GeekWire in February 2026 that he was pleased to have gotten a positive return but disappointed that the team was \"throwing in the towel\"?",
+    "a": "Oren Etzioni told GeekWire this."
+  },
+  {
+    "q": "Which venture capital firm’s board member, Seth Bannon of Fifty Years, led the investment in Vercept, which was acquired by Anthropic in February 2026?",
+    "a": "Seth Bannon of Fifty Years led the investment."
+  },
+  {
+    "q": "Which two Vercept co-founders, Matt Deitke and Oren Etzioni, had roots with the Allen Institute for AI, where they previously worked as researchers?",
+    "a": "Matt Deitke and Oren Etzioni were previously researchers at the Allen Institute for AI."
+  },
+  {
+    "q": "Which Cruise founder, Kyle Vogt, and Dropbox co-founder, Arash Ferdowsi, were listed among the angel investors in Vercept according to GeekWire reporting prior to its February 2026 acquisition by Anthropic?",
+    "a": "Kyle Vogt and Arash Ferdowsi were angel investors in Vercept."
+  },
+  {
+    "q": "Which Vercept CEO, Kiana Ehsani, announced on LinkedIn in February 2026 that the startup had raised a total of $50 million and named Seth Bannon as the lead investor?",
+    "a": "Kiana Ehsani announced the $50 million total and named Seth Bannon as lead investor."
+  }
+]

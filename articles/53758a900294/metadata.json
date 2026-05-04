@@ -1,0 +1,27 @@
+{
+  "hash": "53758a900294",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/business/media-telecom/warner-bros-oscar-triumph-bittersweet-moment-paramount-deal-looms-2026-03-16/",
+      "title": "Warner Bros' Oscar triumph a bittersweet moment as Paramount deal looms | Reuters",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "Dawn Chmielewski",
+      "num_tokens": 775,
+      "text_length": 3533
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694937",
+      "spike_id": 8,
+      "market_question": "Will BP be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.29000000000000004,
+      "spike_timestamp_before": "2026-03-15T06:30:32+00:00",
+      "spike_timestamp_after": "2026-03-16T06:00:33+00:00"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "spike_index": 1,
+  "direction": "up",
+  "price_before": 0.585,
+  "price_after": 0.765,
+  "delta": 0.18000000000000005,
+  "abs_delta": 0.18000000000000005,
+  "timestamp_before": "2026-03-02T18:30:32+00:00",
+  "timestamp_after": "2026-03-02T21:00:29+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://canary.haaretz.com/us-news/2026-03-01/ty-article/.premium/trump-says-he-agreed-to-talk-with-iran-while-calling-attacks-ahead-of-schedule/0000019c-aa77-db44-a1dd-ae7fd35f0000",
+      "file": "cbd1c94b039c.txt",
+      "title": "Trump Says Iran War to Last 'Four Weeks or Less' After Signaling Agreement to Talks - U.S. News",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Ben Samuels",
+      "text_length": 380,
+      "status": "ok",
+      "num_tokens": 82
+    },
+    {
+      "url": "http://haaretz.com/middle-east-news/iran/2026-03-02/ty-article/.premium/trump-main-wave-of-joint-u-s-israeli-strikes-on-iran-yet-to-come-report-says/0000019c-aef1-d284-addf-bef9fcf80000",
+      "file": "688bdae6ff7b.txt",
+      "title": "Trump: U.S. Ahead of Schedule in Iran but Can Extend Fighting Beyond Projected 4-5 Weeks - Iran News",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Ben Samuels",
+      "text_length": 190,
+      "status": "ok",
+      "num_tokens": 41
+    },
+    {
+      "url": "https://www.newsweek.com/how-long-will-iran-conflict-last-what-trump-has-said-11602697",
+      "file": "bc4e8991c86b.txt",
+      "title": "How Long Will Iran Conflict Last? What Trump Has Said - Newsweek",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 2605,
+      "status": "ok",
+      "num_tokens": 548
+    },
+    {
+      "url": "https://in.reuters.com/world/middle-east/netanyahu-says-us-israel-war-iran-not-going-take-years-2026-03-03/",
+      "file": "13c5daf92574.txt",
+      "title": "Reuters | Breaking International News & Views",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": null,
+      "text_length": 226,
+      "status": "ok",
+      "num_tokens": 59
+    },
+    {
+      "url": "https://www.pbs.org/newshour/world/live-updates-u-s-israel-conflict-with-iran-widens",
+      "file": "c9f7cc96f30e.txt",
+      "title": "Live Updates: U.S.-Israel conflict with Iran widens | PBS News",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 67146,
+      "status": "ok",
+      "num_tokens": 13662
+    }
+  ],
+  "total_tokens": 14392
+}

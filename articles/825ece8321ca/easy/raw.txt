@@ -1,0 +1,102 @@
+[
+  {
+    "q": "What was the percentage increase for U.S. West Texas Intermediate crude oil futures during the week ending on Friday, March 6, 2026?",
+    "a": "12.21%"
+  },
+  {
+    "q": "What was the closing price per barrel for West Texas Intermediate crude oil futures on Friday, March 6, 2026?",
+    "a": "$90.90"
+  },
+  {
+    "q": "How much did the price of West Texas Intermediate crude oil futures increase in dollar terms during the week ending on March 6, 2026?",
+    "a": "$9.89"
+  },
+  {
+    "q": "What was the percentage rally for the global benchmark Brent crude oil during the week ending on Friday, March 6, 2026?",
+    "a": "8.52%"
+  },
+  {
+    "q": "What was the settlement price per barrel for Brent crude oil on Friday, March 6, 2026?",
+    "a": "$92.69"
+  },
+  {
+    "q": "How much did the price of Brent crude oil increase in dollar terms during the week ending on March 6, 2026?",
+    "a": "$7.28"
+  },
+  {
+    "q": "According to the report published on March 6, 2026, what historical record did the weekly surge in U.S. crude oil futures set?",
+    "a": "The biggest gain in futures trading history."
+  },
+  {
+    "q": "What geopolitical event was cited as the cause for the major disruption to global fuel supplies in early March 2026?",
+    "a": "The escalating war in the Middle East."
+  },
+  {
+    "q": "What was the approximate overall surge percentage for oil prices during the week ending on March 6, 2026, described as the biggest gain in futures trading history?",
+    "a": "35%"
+  },
+  {
+    "q": "Which specific crude oil benchmark closed at $90.90 per barrel on Friday, March 6, 2026?",
+    "a": "West Texas Intermediate."
+  },
+  {
+    "q": "Which global benchmark crude oil settled at $92.69 per barrel on Friday, March 6, 2026?",
+    "a": "Brent."
+  },
+  {
+    "q": "What was the date of the publication reporting that U.S. crude oil posted its biggest weekly gain in futures trading history?",
+    "a": "March 6, 2026."
+  },
+  {
+    "q": "What day of the week did U.S. crude oil post its biggest weekly gain in futures trading history, according to the March 6, 2026 report?",
+    "a": "Friday."
+  },
+  {
+    "q": "What was the total dollar increase for West Texas Intermediate futures that contributed to the 12.21% weekly gain in early March 2026?",
+    "a": "$9.89"
+  },
+  {
+    "q": "What was the total dollar increase for Brent futures that contributed to the 8.52% weekly rally in early March 2026?",
+    "a": "$7.28"
+  },
+  {
+    "q": "Which two major crude oil benchmarks are explicitly named in the March 6, 2026 report regarding their price surges?",
+    "a": "West Texas Intermediate and Brent."
+  },
+  {
+    "q": "What type of market activity is described as having its biggest weekly gain record broken by oil prices in the week ending March 6, 2026?",
+    "a": "Futures trading."
+  },
+  {
+    "q": "What regional conflict was identified in the March 6, 2026 article as triggering disruptions to global fuel supplies?",
+    "a": "The war in the Middle East."
+  },
+  {
+    "q": "Did West Texas Intermediate or Brent have a higher percentage gain during the week ending on March 6, 2026?",
+    "a": "West Texas Intermediate, with a 12.21% gain compared to Brent's 8.52%."
+  },
+  {
+    "q": "Did West Texas Intermediate or Brent have a higher closing price per barrel on Friday, March 6, 2026?",
+    "a": "Brent, at $92.69 compared to West Texas Intermediate's $90.90."
+  },
+  {
+    "q": "What was the specific weekly gain percentage for West Texas Intermediate futures that closed at $90.90 on March 6, 2026?",
+    "a": "12.21%"
+  },
+  {
+    "q": "What was the specific weekly gain percentage for Brent futures that settled at $92.69 on March 6, 2026?",
+    "a": "8.52%"
+  },
+  {
+    "q": "What was the combined approximate percentage surge for oil prices described in the March 6, 2026 report as the biggest gain in futures trading history?",
+    "a": "35%"
+  },
+  {
+    "q": "Which crude oil benchmark experienced a $9.89 per barrel increase to close at $90.90 on Friday, March 6, 2026?",
+    "a": "West Texas Intermediate."
+  },
+  {
+    "q": "Which crude oil benchmark experienced a $7.28 per barrel increase to settle at $92.69 on Friday, March 6, 2026?",
+    "a": "Brent."
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "q": "On March 1, 2026, what specific security measure did Campaign Monitor require from users logging in from a new device?",
+    "a": "A two-factor authentication code sent via email."
+  },
+  {
+    "q": "In the Campaign Monitor login interface described on March 1, 2026, what folder should users check if the verification code email does not arrive?",
+    "a": "The spam folder."
+  },
+  {
+    "q": "What is the duration for which the Campaign Monitor platform allows users to opt out of being asked for device verification on a specific device, as of March 1, 2026?",
+    "a": "30 days."
+  },
+  {
+    "q": "Which two primary credentials are required for login on the Campaign Monitor platform, alongside a verification code, as of March 1, 2026?",
+    "a": "Email and Password."
+  },
+  {
+    "q": "What option is available to users who have lost their authenticator device when attempting to log in to Campaign Monitor on March 1, 2026?",
+    "a": "A link labeled 'Lost your authenticator?'."
+  },
+  {
+    "q": "What action can a user take if they do not receive the verification code email for Campaign Monitor login on March 1, 2026?",
+    "a": "Click the 'Resend code' link."
+  },
+  {
+    "q": "What message is displayed to users attempting to log in to Campaign Monitor on March 1, 2026, if they are accessing the service from a new device?",
+    "a": "\"You are logging in from a new device.\""
+  },
+  {
+    "q": "What security justification does Campaign Monitor provide for sending a verification code to users logging in from a new device on March 1, 2026?",
+    "a": "To make sure it is really the user."
+  },
+  {
+    "q": "What status message appears on the Campaign Monitor login button during the authentication process on March 1, 2026?",
+    "a": "\"Log in Loading…\""
+  },
+  {
+    "q": "What recovery option is provided for users who cannot recall their password for Campaign Monitor on March 1, 2026?",
+    "a": "A link labeled \"Can't remember your password?\""
+  },
+  {
+    {
+    "q": "What is the name of the digital platform that implemented the new device login security protocol described on March 1, 2026?",
+    "a": "Campaign Monitor."
+  },
+  {
+    "q": "What specific type of code is requested in the field labeled 'Two-factor authentication code' on the Campaign Monitor login page as of March 1, 2026?",
+    "a": "A verification code."
+  },
+  {
+    "q": "What is the default behavior regarding device recognition on the Campaign Monitor platform for users who do not select the 'Don't ask again' option on March 1, 2026?",
+    "a": "The system will ask for verification on subsequent logins from that device."
+  },
+  {
+    "q": "Which email-related action is explicitly suggested to users if the Campaign Monitor verification code is not visible in their inbox on March 1, 2026?",
+    "a": "Check the spam folder."
+  },
+  {
+    "q": "What is the exact label of the button used to initiate the login process on the Campaign Monitor interface on March 1, 2026?",
+    "a": "\"Log in\"."
+  },
+  {
+    "q": "What is the time frame specified for the 'Don't ask again' device recognition feature on the Campaign Monitor platform on March 1, 2026?",
+    "a": "30 days."
+  },
+  {
+    "q": "What is the purpose of the email sent by Campaign Monitor to users logging in from a new device on March 1, 2026?",
+    "a": "To provide a verification code for two-factor authentication."
+  },
+  {
+    "q": "What specific hyperlink text is provided for users who need to retrieve a new verification code on the Campaign Monitor login page on March 1, 2026?",
+    "a": "\"Resend code\"."
+  },
+  {
+    "q": "What is the first step in the security protocol for Campaign Monitor users logging in from a new device on March 1, 2026?",
+    "a": "Receiving an email with a verification code."
+  },
+  {
+    "q": "What input fields are explicitly listed on the Campaign Monitor login form on March 1, 2026?",
+    "a": "Email, Password, and Two-factor authentication code."
+  },
+  {
+    "q": "What is the consequence of clicking 'Don't ask again on this device for 30 days' on the Campaign Monitor login page on March 1, 2026?",
+    "a": "The user will not be asked for verification on that specific device for 30 days."
+  },
+  {
+    "q": "What troubleshooting step is suggested for users who have lost access to their authenticator app for Campaign Monitor on March 1, 2026?",
+    "a": "Click the 'Lost your authenticator?' link."
+  },
+  {
+    "q": "What is the full title of the page displayed to users attempting to access their Campaign Monitor account on March 1, 2026?",
+    "a": "\"Log in to your account | Campaign Monitor\"."
+  },
+  {
+    "q": "What message indicates the state of the login process on the Campaign Monitor button on March 1, 2026?",
+    "a": "\"Log in Loading…\""
+  },
+  {
+    "q": "What is the specific duration mentioned in the Campaign Monitor option to skip future device verification checks on March 1, 2026?",
+    "a": "30 days."
+  }
+]

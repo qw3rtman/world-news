@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the March 12, 2026 price prediction article published by The Times of India, what is the specified stoploss level for the MCX Gold trading strategy?",
+    "a": "158,000"
+  },
+  {
+    "q": "According to the March 12, 2026 article from The Times of India, what is the upper target price set for MCX Gold in the proposed trading strategy?",
+    "a": "170,000"
+  },
+  {
+    "q": "What is the Current Market Price (CMP) listed for MCX Gold in the trading strategy section of the March 12, 2026 The Times of India article?",
+    "a": "162,300"
+  },
+  {
+    "q": "In the March 12, 2026 The Times of India article, what key support level is identified for MCX Gold that, if breached, could lead to a deeper correction?",
+    "a": "158,000"
+  },
+  {
+    "q": "What specific price mark does the March 12, 2026 The Times of India article suggest gold is poised to extend its rally toward in the upcoming sessions?",
+    "a": "170,000"
+  },
+  {
+    "q": "According to the March 12, 2026 The Times of India article, for how many consecutive weeks has MCX Gold been moving back into its established range on the weekly chart?",
+    "a": "Three"
+  },
+  {
+    "q": "In the March 12, 2026 The Times of India article, what is the immediate support level located near the previous week’s low for MCX Silver?",
+    "a": "254,000"
+  },
+  {
+    "q": "What is the stoploss level specified for the MCX Silver trading strategy in the March 12, 2026 The Times of India article?",
+    "a": "254,000"
+  },
+  {
+    "q": "What is the upper target price set for MCX Silver in the trading strategy outlined in the March 12, 2026 The Times of India article?",
+    "a": "300,000"
+  },
+  {
+    "q": "What is the Current Market Price (CMP) for MCX Silver listed in the trading strategy section of the March 12, 2026 The Times of India article?",
+    "a": "270,900"
+  },
+  {
+    "q": "According to the March 12, 2026 The Times of India article, near which resistance zone is silver expected to retest in the near to medium term?",
+    "a": "300,000"
+  },
+  {
+    "q": "In the March 12, 2026 The Times of India article, for how many consecutive weeks has silver remained above its recent swing low on the weekly chart?",
+    "a": "Three"
+  },
+  {
+    "q": "What publication released the gold and silver price prediction article on March 12, 2026, which includes the disclaimer that views do not represent their opinions?",
+    "a": "The Times of India"
+  },
+  {
+    "q": "According to the March 12, 2026 The Times of India article, what technical pattern is MCX Gold showing on the weekly chart after retreating from its recent high?",
+    "a": "Sideways-to-bullish bias"
+  },
+  {
+    "q": "In the March 12, 2026 The Times of India article, what specific price level is likely to serve as a key support zone for gold in the coming week, aligning with the previous week’s low?",
+    "a": "158,000"
+  },
+  {
+    "q": "What trendline is described as supporting the solid base built by MCX Gold near the breakout zone on the weekly timeframe in the March 12, 2026 The Times of India article?",
+    "a": "A strong rising trendline"
+  },
+  {
+    "q": "According to the March 12, 2026 The Times of India article, what condition must be met for the broader bullish structure of MCX Gold to remain intact?",
+    "a": "Prices must remain above the key support level of 158,000"
+  },
+  {
+    "q": "In the March 12, 2026 The Times of India article, what action by traders is advised to manage risk effectively regarding MCX Silver positions?",
+    "a": "Aligning positions with the prevailing trend while keeping stop-loss levels near the recent weekly lows"
+  },
+  {
+    "q": "What price movement did MCX Silver experience at the beginning of the week described in the March 12, 2026 The Times of India article, reinforcing the sideways-to-bullish momentum?",
+    "a": "Prices moved above last week’s high"
+  },
+  {
+    "q": "According to the March 12, 2026 The Times of India article, what could a decisive close below the 254,000 level do to the bullish bias for MCX Silver?",
+    "a": "It could weaken the bullish bias"
+  },
+  {
+    "q": "What specific monetary value in Indian Rupees per 10 grams is mentioned in the title of the March 12, 2026 The Times of India article as a potential gold price target?",
+    "a": "Rs 1.70 lakh"
+  },
+  {
+    "q": "What specific monetary value in Indian Rupees per kilogram is mentioned in the title of the March 12, 2026 The Times of India article as a potential silver price target?",
+    "a": "Rs 3 lakh"
+  },
+  {
+    "q": "In the March 12, 2026 The Times of India article, what type of bias is attributed to MCX Silver following its recovery from support and approach to the resistance zone?",
+    "a": "Sideways-to-bullish bias"
+  },
+  {
+    "q": "According to the March 12, 2026 The Times of India article, what factor is expected to attract renewed buying interest if gold declines toward the 158,000 support area?",
+    "a": "The technical significance of the level aligning with the previous week’s low"
+  },
+  {
+    "q": "In the March 12, 2026 The Times of India article, what outcome is suggested if silver sustains a move toward the 300,000 resistance zone?",
+    "a": "It would further confirm the prevailing bullish trend"
+  }
+]

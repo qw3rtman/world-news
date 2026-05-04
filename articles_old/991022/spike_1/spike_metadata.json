@@ -1,0 +1,65 @@
+{
+  "spike_index": 1,
+  "direction": "down",
+  "price_before": 0.951,
+  "price_after": 0.615,
+  "delta": -0.33599999999999997,
+  "abs_delta": 0.33599999999999997,
+  "timestamp_before": "2026-02-20T17:30:24+00:00",
+  "timestamp_after": "2026-02-20T20:00:27+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://br.reuters.com/world/asia-pacific/japans-core-inflation-slows-2-year-low-complicates-boj-rate-hike-timing-2026-02-20/",
+      "file": "45242e3f9981.txt",
+      "title": "Reuters | Breaking International News & Views",
+      "published_date": "2026-02-20T00:00:00.000Z",
+      "author": null,
+      "text_length": 772,
+      "status": "ok",
+      "num_tokens": 152
+    },
+    {
+      "url": "https://www.cnbc.com/2026/02/20/japan-core-inflation-january-boj-target-gdp-growth.html",
+      "file": "281d08ec2843.txt",
+      "title": "Japan inflation falls below BOJ's 2% target for first time since March 2022",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": "Lim Hui Jie",
+      "text_length": 2411,
+      "status": "ok",
+      "num_tokens": 562
+    },
+    {
+      "url": "http://jp.reuters.com/economy/bank-of-japan/W4IHWTOTZBOFTMHDBNRFZJGLZI-2026-02-19/",
+      "file": "8c1940d31ada.txt",
+      "title": "\u65e5\u9280\u30013\u6708\u304b4\u6708\u4f1a\u5408\u3067\u5229\u4e0a\u3052\u306e\u53ef\u80fd\u6027\u300c\u76f8\u5fdc\u306b\u3042\u308b\u300d\uff1d\u5168\u9280\u5354\u4f1a\u9577 | \u30ed\u30a4\u30bf\u30fc",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": "\u5ca1\u5742\u5065\u592a\u90ce",
+      "text_length": 521,
+      "status": "ok",
+      "num_tokens": 620
+    },
+    {
+      "url": "http://origin.www.bloomberg.com/news/articles/2026-02-19/japan-s-cpi-cools-to-slowest-pace-in-two-years-on-distortions?srnd=undefined",
+      "file": "0d1496267697.txt",
+      "title": "Japan\u2019s CPI Cools to Slowest Pace in Two Years on Distortions - Bloomberg",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": "Toru Fujioka",
+      "text_length": 541,
+      "status": "ok",
+      "num_tokens": 105
+    },
+    {
+      "url": "https://reuters.com/world/asia-pacific/boj-hike-policy-rate-1-by-end-june-sooner-than-forecast-before-election-2026-02-19/",
+      "file": "0ef17d787d0d.txt",
+      "title": "POLL BOJ to hike policy rate to 1% by end-June, sooner than forecast before election | Reuters",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": "Satoshi Sugiyama",
+      "text_length": 3244,
+      "status": "ok",
+      "num_tokens": 756
+    }
+  ],
+  "total_tokens": 2195
+}

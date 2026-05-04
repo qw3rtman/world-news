@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Following the death of Ayatollah Ali Khamenei in March 2026 due to joint U.S.-Israeli airstrikes, which three individuals were reported by local media to comprise the temporary leadership council assuming his duties?",
+    "a": "President Masoud Pezeshkian, Judiciary Chief Gholam-Hossein Mohseni-Ejei, and Ayatollah Alireza Arafi."
+  },
+  {
+    "q": "Under Iran’s constitution, which 88-member clerical body is responsible for appointing the supreme leader, and how often is this body elected by the public?",
+    "a": "The Assembly of Experts, which is elected every eight years."
+  },
+  {
+    "q": "In the process of selecting Iran's supreme leader, which body is responsible for vetting candidates for the Assembly of Experts before they can run?",
+    "a": "The Guardian Council."
+  },
+  {
+    "q": "What specific vote threshold is required for the Assembly of Experts to successfully select a successor to the supreme leader?",
+    "a": "A simple majority vote."
+  },
+  {
+    "q": "As of early March 2026, who was identified as the narrow frontrunner on the prediction market Polymarket for becoming Iran's next supreme leader, and at what approximate percentage was he priced?",
+    "a": "Gholam-Hossein Mohseni-Ejei, priced at roughly 18%."
+  },
+  {
+    "q": "Which prediction market outcome was trading close behind the leading contender for Iran's supreme leadership, suggesting speculation about a potential structural change to the office?",
+    "a": "The 'Position abolished' outcome."
+  },
+  {
+    "q": "Since July 2021, what position has Gholam-Hossein Mohseni-Ejei held, and what were his previous roles in the Iranian government between 2005 and 2021?",
+    "a": "He has been Chief Justice of Iran since July 2021; previously he served as minister of intelligence (2005–2009), prosecutor-general (2009–2014), and first deputy head and spokesperson of the judiciary (2014–2021)."
+  },
+  {
+    "q": "According to the Council on Foreign Relations, why might Hassan Khomeini, the grandchild of Ayatollah Ruhollah Khomeini, be a viable candidate for Iran's supreme leadership?",
+    "a": "He could serve as a bridge between the revolutionary system and reform-minded constituencies, potentially easing international isolation and addressing domestic dissatisfaction."
+  },
+  {
+    "q": "What key roles within Iran’s religious and political hierarchy has Ayatollah Alireza Arafi held, including his position as a representative to the Guardian Council?",
+    "a": "He has served as director of Iran’s seminaries, Friday Prayer leader in Qom, and member of both the Guardian Council and the Assembly of Experts."
+  },
+  {
+    "q": "Under Article 111 of Iran’s constitution, what action is immediately triggered by the death or incapacity of the supreme leader?",
+    "a": "The formation of a temporary leadership council to exercise his powers until a successor is chosen."
+  },
+  {
+    "q": "While Iran’s constitution does not set a strict deadline for the Assembly of Experts to appoint a new leader, what standard of timing does it require for the appointment?",
+    "a": "The Assembly must act 'in the shortest possible time.'"
+  },
+  {
+    "q": "Amin Saikal, professor emeritus at the University of Western Australia, cautioned that the succession process for Iran's supreme leader would likely involve what type of political dynamic?",
+    "a": "Intense elite bargaining and 'horse-trading,' potentially resulting in a compromise candidate."
+  },
+  {
+    "q": "According to Amin Saikal, what is the likely policy difference between a hardline successor versus a more moderate figure for Iran's supreme leadership?",
+    "a": "A hardline successor would likely continue confrontational and security-first policies, while a moderate figure might seek limited reforms to ease domestic restrictions and improve foreign relations."
+  },
+  {
+    "q": "Michael McFaul, former U.S. ambassador to Russia and Stanford University professor, questioned how current U.S. strikes targeting military assets would translate into broader regime change in Iran.",
+    "a": "He noted that historically air campaigns rarely lead to regime overthrow."
+  },
+  {
+    "q": "Which Iranian cleric, identified as a senior figure in the Islamic Republic’s religious hierarchy, also serves as the Guardian Council’s representative on the temporary leadership council?",
+    "a": "Ayatollah Alireza Arafi."
+  },
+  {
+    "q": "What is the constitutional status of the provisional three-member leadership council in Iran following the vacancy of the supreme leader position?",
+    "a": "Its authority is strictly transitional, while the Assembly of Experts retains sole constitutional power to choose the next supreme leader."
+  },
+  {
+    "q": "Before becoming Chief Justice in 2021, Gholam-Hossein Mohseni-Ejei held a national security role as minister of intelligence during which years?",
+    "a": "From 2005 until 2009."
+  },
+  {
+    "q": "Which two individuals, besides Gholam-Hossein Mohseni-Ejei, are listed as top contenders for Iran's supreme leadership on the Polymarket prediction platform?",
+    "a": "Alireza Arafi and Hassan Khomeini."
+  },
+  {
+    "q": "What specific advisory body to Iran’s leadership has Gholam-Hossein Mohseni-Ejei been a longtime member of, spanning his career in judicial and security apparatuses?",
+    "a": "The Expediency Discernment Council."
+  },
+  {
+    "q": "According to the Council on Foreign Relations, what potential benefit could elevating Hassan Khomeini to supreme leader provide to the Islamic Republic?",
+    "a": "It might help preserve the core structure of the Islamic Republic while addressing popular dissatisfaction at home."
+  },
+  {
+    "q": "Who serves as the Judiciary Chief of Iran and is a member of the temporary leadership council formed after Ayatollah Ali Khamenei's death in March 2026?",
+    "a": "Gholam-Hossein Mohseni-Ejei."
+  },
+  {
+    "q": "What is the primary function of the Guardian Council in the context of selecting Iran's next supreme leader?",
+    "a": "To vet candidates for the Assembly of Experts, ensuring the field is tightly screened."
+  },
+  {
+    "q": "Which former U.S. ambassador to Russia suggested that the current U.S. strikes on Iran, which target military assets, might not lead to the regime change Washington has signaled?",
+    "a": "Michael McFaul."
+  },
+  {
+    "q": "In the interim period before a new supreme leader is appointed, who assumes the duties of the supreme leader in Iran?",
+    "a": "A provisional three-member leadership council."
+  },
+  {
+    "q": "What specific roles has Ayatollah Alireza Arafi held that have made him a central fixture in Iran’s clerical power structure and theological education shaping?",
+    "a": "Director of Iran’s seminaries and Friday Prayer leader in Qom."
+  }
+]

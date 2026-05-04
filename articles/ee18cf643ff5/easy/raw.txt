@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In February 2026, what percentage did Google’s Gemini 3.1 Pro achieve on the ARC-AGI-2 benchmark, and how did this score compare to its predecessor’s result?",
+    "a": "Gemini 3.1 Pro scored 77.1%, more than doubling its predecessor’s score of 31.1%."
+  },
+  {
+    "q": "As of February 2026, what valuation is OpenAI reportedly achieving in its finalizing funding round, and what is the company’s planned compute expenditure by 2030?",
+    "a": "OpenAI is valuing itself at $730 billion and expects to spend $600 billion on compute by 2030."
+  },
+  {
+    "q": "In the February 2026 AI news cycle, what specific equity stake did Nvidia receive in exchange for a $100 billion multi-year commitment to OpenAI?",
+    "a": "Nvidia received a $30 billion direct equity stake in OpenAI."
+  },
+  {
+    "q": "During the week of February 22, 2026, what is the name of the SWE agent introduced by Google that autonomously diagnoses and patches continuous integration failures?",
+    "a": "The agent is named CI Fixer for Jules."
+  },
+  {
+    "q": "In February 2026, what is the name of the music generation model released by Google in the Gemini app that creates 30-second tracks with SynthID watermarks?",
+    "a": "The model is named Lyria 3."
+  },
+  {
+    "q": "As of February 2026, how many malicious apps did Google’s AI-driven safeguards block from the Play Store in the previous year of 2025?",
+    "a": "Google’s safeguards blocked 1.75 million malicious apps."
+  },
+  {
+    "q": "In the February 2026 partnership announcement, which Indian conglomerate did OpenAI partner with under the Stargate initiative to secure AI data center capacity?",
+    "a": "OpenAI partnered with the Tata Group."
+  },
+  {
+    "q": "During the February 2026 India AI Impact Summit, which two CEOs shared a visibly awkward moment onstage, highlighting the rivalry between their respective companies?",
+    "a": "OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei shared the moment."
+  },
+  {
+    "q": "In February 2026, what is the name of the adversarial benchmark released by OpenAI that tests AI agents against smart contracts securing over $100 billion in crypto assets?",
+    "a": "The benchmark is called EVMbench."
+  },
+  {
+    "q": "As of February 2026, what success rate did GPT-5.3-Codex achieve in exploit mode on the EVMbench benchmark?",
+    "a": "GPT-5.3-Codex achieved a 72.2% success rate."
+  },
+  {
+    "q": "In February 2026, what is the name of the London-based AI startup founded by DeepMind veteran David Silver that is raising a $1 billion seed round to build superintelligence without large language models?",
+    "a": "The startup is named Ineffable."
+  },
+  {
+    "q": "During the week of February 22, 2026, which Saudi Arabian AI venture invested $3 billion into Elon Musk’s AI company xAI?",
+    "a": "The venture is named Humain."
+  },
+  {
+    "q": "In February 2026, what compensation package amount is ByteDance offering to poach approximately 100 US-based AI researchers?",
+    "a": "ByteDance is offering compensation packages of over $800,000."
+  },
+  {
+    "q": "As of February 2026, which company published results for AlphaFold 4 and chose to keep the code proprietary rather than open-sourcing it?",
+    "a": "Isomorphic Labs published the results and kept the code proprietary."
+  },
+  {
+    "q": "In February 2026, how much money did Meta pour into state-level elections to back AI-friendly politicians and preempt state-level AI regulation?",
+    "a": "Meta poured $65 million into state-level elections."
+  },
+  {
+    "q": "During the week of February 22, 2026, which U.S. government agency launched the AI Agent Standards Initiative as autonomous AI moves from prototype to production?",
+    "a": "The National Institute of Standards and Technology (NIST) launched the initiative."
+  },
+  {
+    "q": "In February 2026, which technology company developed technology capable of identifying original music embedded in AI-generated audio to extract licensing fees?",
+    "a": "Sony developed the music fingerprinting technology."
+  },
+  {
+    "q": "As of February 2026, which document workflow tool brings an AI-native workspace to Word, Excel, and PDF workflows?",
+    "a": "The tool is named Interpreter."
+  },
+  {
+    "q": "In the February 2026 AI tools roundup, which service targets the emerging market of AI agent commerce with commission-free contracts and automated invoicing?",
+    "a": "The service is named Contra."
+  },
+  {
+    "q": "During the week of February 22, 2026, which open-source desktop app allows users to inspect Claude Code sessions by reconstructing tool calls and token usage from local logs without an API key?",
+    "a": "The app is named claude-devtools."
+  },
+  {
+    "q": "In February 2026, which brand management tool monitors how a brand is represented across AI-native search engines including ChatGPT, Claude, Perplexity, Grok, and DeepSeek?",
+    "a": "The tool is named SearchSeal."
+  },
+  {
+    "q": "As of February 2026, which organization reported that Anthropic is growing 10x per year and could surpass OpenAI in revenue by mid-2026?",
+    "a": "Epoch AI reported this growth prediction."
+  },
+  {
+    "q": "In the February 2026 OpenAI funding structure, which Japanese investment firm is contributing $30 billion to the company’s capital stack?",
+    "a": "SoftBank is contributing $30 billion."
+  },
+  {
+    "q": "During the week of February 22, 2026, which U.S. company is weighing an investment of up to $50 billion in OpenAI?",
+    "a": "Amazon is weighing the investment."
+  },
+  {
+    "q": "In February 2026, how much money did OpenAI commit to defensive security research credits for the EVMbench initiative?",
+    "a": "OpenAI committed $10 million in credits."
+  },
+  {
+    "q": "As of February 2026, how much money did OpenAI commit to The Alignment Project to address dual-use risks associated with AI security?",
+    "a": "OpenAI committed $7.5 million to The Alignment Project."
+  }
+]

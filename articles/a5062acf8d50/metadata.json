@@ -1,0 +1,27 @@
+{
+  "hash": "a5062acf8d50",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.foxnews.com/live-news/israel-us-continue-strikes-iran-after-khamenei-death",
+      "title": "Israel expands offensive with new wave of coordinated strikes in Iran and Lebanon | Live Updates from Fox News Digital",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Posted by Landon Mion",
+      "num_tokens": 212,
+      "text_length": 1085
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "677397",
+      "spike_id": 4,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.17500000000000002,
+      "spike_timestamp_before": "2026-03-01T04:00:31+00:00",
+      "spike_timestamp_after": "2026-03-01T19:00:28+00:00"
+    }
+  ]
+}

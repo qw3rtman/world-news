@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In early March 2026, which two specific naval vessels did the United Kingdom and France respectively announce they were sending to Cyprus to bolster its defenses after the drone attack on RAF Akrotiri?",
+    "a": "The United Kingdom announced the deployment of the Type 45 Destroyer HMS Dragon, and France confirmed the arrival of the frigate Languedoc."
+  },
+  {
+    "q": "What specific military assets did Greece agree to send to Cyprus in March 2026, and what is the name of the anti-drone system equipped on one of the accompanying frigates?",
+    "a": "Greece agreed to send four F-16 fighter jets and two frigates, including the ship Psara, which is equipped with the Centauros anti-drone system."
+  },
+  {
+    "q": "On what date did the drone strike occur at RAF Akrotiri that prompted the evacuation of British families and local Cypriots, and which former military strategist commented on the cost-benefit ratio of the UK's defensive response?",
+    "a": "The strike occurred on Sunday, February 28, 2026 (reported as Sunday night in the March 3 article), and former military strategist Mikey Kay commented on the cost-benefit ratio."
+  },
+  {
+    "q": "Which Iranian-backed group does the Cypriot government suspect was responsible for the drone attack on RAF Akrotiri in late February 2026, and which British Prime Minister had recently announced the use of British bases for limited defensive strikes?",
+    "a": "The Cypriot government suspects the Iran-backed group Hezbollah in Lebanon, and the British Prime Minister was Keir Starmer."
+  },
+  {
+    "q": "What percentage of land on the island of Cyprus is covered by the sovereign base areas retained by the United Kingdom since the island's independence in 1960, and what is the approximate area in square miles?",
+    "a": "The British sovereign base areas cover just under 3% of the land on the island, totaling approximately 98 square miles."
+  },
+  {
+    "q": "Which French President confirmed in a televised address in early March 2026 that a French frigate would arrive in Cyprus, and which Greek Defense Minister visited Nicosia to promise assistance?",
+    "a": "French President Emmanuel Macron confirmed the arrival of the frigate, and Greek Defense Minister Nikos Dendias visited Nicosia to promise assistance."
+  },
+  {
+    "q": "According to the UK Ministry of Defence on Tuesday, March 3, 2026, what specific defensive action did RAF F-35 jets flying over Jordan take regarding an Iranian drone?",
+    "a": "The RAF F-35 jets shot down an Iranian drone."
+  },
+  {
+    "q": "What was the last known attack on RAF Akrotiri prior to the February 2026 drone incident, and in what year did it occur?",
+    "a": "The last known attack was conducted by pro-Libyan militants in 1986, which wounded three people."
+  },
+  {
+    "q": "Which UK government official told the House of Commons that Britain had brought in additional radar, air, and counter-drone capabilities in response to the Cyprus base security concerns?",
+    "a": "Foreign Secretary Yvette Cooper told the House of Commons about the additional capabilities."
+  },
+  {
+    "q": "What specific type of drone model did former military strategist Mikey Kay question the effectiveness of against multiple swarms in the context of the UK's defense of Cyprus in March 2026?",
+    "a": "Mikey Kay questioned the effectiveness against multiple swarms of Shahed 136 drones."
+  },
+  {
+    "q": "Which two countries' strikes on Iran indirectly drew Cyprus into the conflict aftermath, leading to the rush of European allies to bolster its defenses in March 2026?",
+    "a": "The United States and Israel conducted strikes on Iran that drew Cyprus into the conflict aftermath."
+  },
+  {
+    "q": "What was the stated purpose of the UK sending the Type 45 Destroyer HMS Dragon to the vicinity of Akrotiri, according to former military strategist Mikey Kay?",
+    "a": "The purpose was to build on a layered air defense system."
+  },
+  {
+    "q": "Which Cypriot government spokesman criticized the UK's handling of the situation regarding the bases, specifically citing an initial lack of clarity about the bases' usage?",
+    "a": "A Cypriot government spokesman criticized the UK, stating there was an initial lack of clarity that the bases would not be used for anything other than humanitarian purposes."
+  },
+  {
+    "q": "What type of operations did the UK government describe its planes participating in over the Middle East in March 2026, distinct from joining US-Israeli strikes?",
+    "a": "The UK government described the operations as \"defensive operations\" to protect UK citizens and allies."
+  },
+  {
+    "q": "How many people were wounded in the 1986 attack on RAF Akrotiri by pro-Libyan militants, and how does this compare to the casualty count of the February 2026 drone strike?",
+    "a": "Three people were wounded in the 1986 attack, whereas the February 2026 drone strike caused no casualties."
+  },
+  {
+    "q": "Which specific peninsula in Cyprus retains UK sovereignty as part of the sovereign base areas, and what is the name of the air base located there that was targeted in 2026?",
+    "a": "The Akrotiri peninsula retains UK sovereignty, and the targeted air base is RAF Akrotiri."
+  },
+  {
+    "q": "What did British Prime Minister Keir Starmer tell the House of Commons regarding the use of bases in Cyprus by US bombers in March 2026?",
+    "a": "Prime Minister Keir Starmer told the House of Commons that bases in Cyprus are not being used by US bombers."
+  },
+  {
+    "q": "Which Greek ship equipped with the Centauros anti-drone system was part of the naval assets Greece agreed to send to Cyprus in March 2026?",
+    "a": "The ship is the Psara."
+  },
+  {
+    "q": "What specific damage was reported from the drone that struck RAF Akrotiri on Sunday night in late February 2026?",
+    "a": "The drone caused minimal damage and no casualties."
+  },
+  {
+    "q": "Which two additional drones were intercepted on Monday, February 28, 2026, following the initial strike on RAF Akrotiri?",
+    "a": "Two further drones were apparently intercepted on Monday."
+  },
+  {
+    "q": "What is the geographic distinction of Cyprus among the European Union's 27 member states as of March 2026?",
+    "a": "Cyprus is the easternmost nation among the European Union's 27 member states."
+  },
+  {
+    "q": "Which British destroyer was announced for deployment to Cyprus in March 2026, and what class of ship is it?",
+    "a": "The UK announced the deployment of HMS Dragon, which is a Type 45 Destroyer."
+  },
+  {
+    "q": "What did Greek Defence Minister Nikos Dendias promise during his visit to Nicosia in March 2026 regarding Greece's role in Cyprus's defense?",
+    "a": "He promised that \"Greece is present, and will continue to be present to assist in any way in the defence of the Republic of Cyprus.\""
+  },
+  {
+    "q": "Which two groups of people were evacuated from RAF Akrotiri following the drone scare in late February 2026?",
+    "a": "British families and hundreds of local Cypriots who live nearby were evacuated."
+  },
+  {
+    "q": "What specific defensive capabilities did the UK Ministry of Defence state had been brought in to protect its overseas bases in Cyprus by early March 2026?",
+    "a": "The UK had brought in additional radar, air, and counter-drone capabilities."
+  }
+]

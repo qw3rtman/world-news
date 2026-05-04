@@ -1,0 +1,106 @@
+[
+  {
+    "q": "As of March 2026, what is the approximate price per ounce of silver, and how does this trajectory compare to gold's performance over the previous year?",
+    "a": "Silver is hovering near $82 per ounce, and its price trajectory outpaced gold last year."
+  },
+  {
+    "q": "According to the March 2026 CBS News article, what two primary market factors are driving the structural tailwinds for silver prices?",
+    "a": "Accelerating industrial consumption and supply constraints that have kept production from keeping pace."
+  },
+  {
+    "q": "In the context of investing in physical silver as described in March 2026, what are the three specific costs investors must account for beyond the metal's spot price?",
+    "a": "Storage, insurance, and dealer premiums."
+  },
+  {
+    "q": "What specific advantage do silver exchange-traded funds (ETFs) offer to investors compared to holding physical silver, as noted in March 2026?",
+    "a": "They eliminate logistical challenges such as storage concerns and shipping logistics."
+  },
+  {
+    "q": "Why might silver mining stocks provide amplified returns compared to direct silver ownership, according to the March 2026 analysis?",
+    "a": "Mining companies generally benefit directly from higher metal prices."
+  },
+  {
+    "q": "What specific risk factor distinguishes silver mining stocks from the underlying price of silver itself, as highlighted in March 2026?",
+    "a": "Company performance, operational costs, management decisions, and geopolitical factors can influence stock prices more than the metal's price."
+  },
+  {
+    "q": "How do silver-focused mutual funds mitigate company-specific risks for investors, according to the March 2026 article?",
+    "a": "They invest in a basket of mining companies rather than a single firm, allowing other performers to compensate for losses."
+  },
+  {
+    "q": "What financial mechanism makes silver futures contracts particularly risky for inexperienced investors, as described in March 2026?",
+    "a": "The use of leverage, which can generate large gains but also substantial losses quickly."
+  },
+  {
+    "q": "Which type of silver investment is described as appealing to investors who want a tangible asset not tied to financial markets or institutions, as of March 2026?",
+    "a": "Physical silver, such as coins, rounds, or bars."
+  },
+  {
+    "q": "What is the primary trade-off associated with silver exchange-traded funds (ETFs) regarding ownership, as noted in the March 2026 article?",
+    "a": "They typically charge management fees and may not provide the same sense of direct ownership as holding physical silver."
+  },
+  {
+    "q": "According to the March 2026 CBS News report, which group of investors is silver futures trading best suited for?",
+    "a": "Sophisticated investors who understand the mechanics of commodities markets."
+  },
+  {
+    "q": "What distinguishes government-issued silver coins and bars in terms of market characteristics, as described in March 2026?",
+    "a": "They are widely recognized and relatively easy to sell, making them highly liquid in the right market."
+  },
+  {
+    "q": "In March 2026, how does the article characterize the relationship between silver's industrial demand and investment demand?",
+    "a": "Structural tailwinds from industrial consumption are stacking on top of investment demand."
+  },
+  {
+    "q": "What specific warning does the March 2026 article give to newer investors considering silver futures?",
+    "a": "They should use caution and fully weigh whether they are ready for this type of investing before jumping in."
+  },
+  {
+    "q": "Which silver investment option is described as offering convenience and liquidity without the need for physical storage, as of March 2026?",
+    "a": "Silver exchange-traded funds (ETFs)."
+  },
+  {
+    "q": "What factor causes dealer premiums for physical silver to become more significant, according to the March 2026 article?",
+    "a": "Elevated silver prices."
+  },
+  {
+    "q": "How do silver mining stocks allow investors to benefit from corporate growth, as explained in the March 2026 piece?",
+    "a": "They provide exposure to both rising silver prices and the operational growth of the mining companies."
+  },
+  {
+    "q": "What is the primary function of silver futures contracts, as defined in the March 2026 article?",
+    "a": "To allow investors to buy or sell silver at a predetermined price at a future date."
+  },
+  {
+    "q": "According to the March 2026 analysis, why might silver be considered an opportunity 'hiding in plain sight' for investors?",
+    "a": "Because its price trajectory outpaced gold last year while receiving less attention than gold."
+  },
+  {
+    "q": "What are the two main categories of physical silver assets mentioned as available through reputable dealers in March 2026?",
+    "a": "Silver coins and silver rounds or bars."
+  },
+  {
+    "q": "How does the March 2026 article suggest investors determine the best silver investment strategy for their portfolio?",
+    "a": "By considering their goals, time horizon, and comfort with risk."
+  },
+  {
+    "q": "What specific market condition has caused gold's value to be extremely high compared to 12 months prior, as noted in March 2026?",
+    "a": "The price of gold has been skyrocketing over the last few months."
+  },
+  {
+    "q": "Which silver investment vehicle is characterized by high-risk, high-reward speculation in the March 2026 article?",
+    "a": "Silver futures."
+  },
+  {
+    "q": "What logistical challenge is completely eliminated by investing in silver ETFs, according to the March 2026 report?",
+    "a": "Storage concerns and shipping logistics."
+  },
+  {
+    "q": "Why might a silver mining company's stock price diverge from the price of silver itself, as described in March 2026?",
+    "a": "Because factors like operational costs, management decisions, and geopolitical issues influence the stock price."
+  },
+  {
+    "q": "What is the current market perception of silver's price level near $82 per ounce in March 2026?",
+    "a": "It is a level few analysts predicted even a year ago, drawing interest from seasoned traders and everyday investors."
+  }
+]

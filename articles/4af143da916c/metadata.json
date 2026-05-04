@@ -1,0 +1,57 @@
+{
+  "hash": "4af143da916c",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://www.foreignaffairs.com/middle-east/why-iran-will-escalate",
+      "title": "Why Iran Will Escalate: U.S. Military Strikes and the Risk of a Quagmire",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 2596,
+      "text_length": 13378
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1422367",
+      "spike_id": 1,
+      "market_question": "Will the US strike Iran next?",
+      "event_title": "Next Country US Strikes",
+      "spike_direction": "down",
+      "spike_delta": -0.395,
+      "spike_timestamp_before": "2026-02-24T01:00:19+00:00",
+      "spike_timestamp_after": "2026-02-24T01:30:20+00:00"
+    },
+    {
+      "market_id": "1422367",
+      "spike_id": 2,
+      "market_question": "Will the US strike Iran next?",
+      "event_title": "Next Country US Strikes",
+      "spike_direction": "down",
+      "spike_delta": -0.41000000000000003,
+      "spike_timestamp_before": "2026-02-24T01:00:19+00:00",
+      "spike_timestamp_after": "2026-02-24T05:30:20+00:00"
+    },
+    {
+      "market_id": "1422367",
+      "spike_id": 3,
+      "market_question": "Will the US strike Iran next?",
+      "event_title": "Next Country US Strikes",
+      "spike_direction": "up",
+      "spike_delta": 0.19999999999999998,
+      "spike_timestamp_before": "2026-02-24T05:30:20+00:00",
+      "spike_timestamp_after": "2026-02-24T07:30:24+00:00"
+    },
+    {
+      "market_id": "1422367",
+      "spike_id": 4,
+      "market_question": "Will the US strike Iran next?",
+      "event_title": "Next Country US Strikes",
+      "spike_direction": "down",
+      "spike_delta": -0.18,
+      "spike_timestamp_before": "2026-02-24T07:30:24+00:00",
+      "spike_timestamp_after": "2026-02-24T22:30:20+00:00"
+    }
+  ]
+}

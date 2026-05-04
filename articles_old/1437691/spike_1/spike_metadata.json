@@ -1,0 +1,65 @@
+{
+  "spike_index": 1,
+  "direction": "up",
+  "price_before": 0.235,
+  "price_after": 0.42,
+  "delta": 0.185,
+  "abs_delta": 0.185,
+  "timestamp_before": "2026-02-25T23:30:21+00:00",
+  "timestamp_after": "2026-02-26T18:30:24+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.cbsnews.com/video/us-and-israel-launch-strikes-against-iran-special-report/",
+      "file": "aa16f1a66a02.txt",
+      "title": "U.S. and Israel launch strikes against Iran | Special Report - CBS News",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": null,
+      "text_length": 328,
+      "status": "ok",
+      "num_tokens": 62
+    },
+    {
+      "url": "https://us.cnn.com/2026/02/24/politics/nuclear-program-iran-trump-strike",
+      "file": "4e49d8d836eb.txt",
+      "title": "Analysis: If Trump said Iran\u2019s nuclear program was \u2018obliterated,\u2019 why is he looking to strike again? | CNN Politics",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": "Aaron Blake",
+      "text_length": 7342,
+      "status": "ok",
+      "num_tokens": 1524
+    },
+    {
+      "url": "https://www.nbcnews.com/world/iran/trump-said-obliterated-irans-nuclear-program-now-says-us-may-bomb-iran-rcna260383",
+      "file": "b8735198e7db.txt",
+      "title": "Trump said he 'obliterated' Iran's nuclear program. Now he's threatening to bomb Iran again.",
+      "published_date": "2026-02-25T00:00:00.000Z",
+      "author": null,
+      "text_length": 7701,
+      "status": "ok",
+      "num_tokens": 1564
+    },
+    {
+      "url": "https://www.nbcnews.com/politics/national-security/new-us-attack-iran-risk-large-scale-retaliation-rcna259964",
+      "file": "3d8211a03838.txt",
+      "title": "A new U.S. attack on Iran could risk large-scale retaliation",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": null,
+      "text_length": 8916,
+      "status": "ok",
+      "num_tokens": 1752
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/24/politics/nuclear-program-iran-trump-strike",
+      "file": "dd60276ec669.txt",
+      "title": "Analysis: If Trump said Iran\u2019s nuclear program was \u2018obliterated,\u2019 why is he looking to strike again? | CNN Politics",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": "Aaron Blake",
+      "text_length": 6767,
+      "status": "ok",
+      "num_tokens": 1409
+    }
+  ],
+  "total_tokens": 6311
+}

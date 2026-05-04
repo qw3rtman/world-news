@@ -1,0 +1,27 @@
+{
+  "hash": "316dbc2be3a5",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.npr.org/nx-s1-5736104",
+      "title": "The Iran war has effectively closed the Strait of Hormuz : NPR",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "Camila Domonoske",
+      "num_tokens": 1104,
+      "text_length": 5303
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "665307",
+      "spike_id": 11,
+      "market_question": "Will Iran close the Strait of Hormuz before 2027?",
+      "event_title": "Will Iran close the Strait of Hormuz by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.18899999999999995,
+      "spike_timestamp_before": "2026-03-06T04:30:23+00:00",
+      "spike_timestamp_after": "2026-03-07T02:30:22+00:00"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "market_id": "1273937",
+  "question": "Will the US next strike Iran on February 28, 2026 (ET)?",
+  "slug": "will-the-us-next-strike-iran-on-february-28-2026-et",
+  "url": "https://polymarket.com/event/us-next-strikes-iran-on-843",
+  "description": "This market will resolve according to the next date (ET) the US initiates a drone, missile, or air strike on Iranian soil or any official Iranian embassy or consulate between market creation and February 28, 2026, (ET). \n\nIf the date/time of a qualifying strike cannot be confirmed by a consensus of credible reporting within 48 hours of the listed date, the respective market will resolve to \"No\" regardless of whether a strike is later confirmed to have occurred. If no strike could be verified under the prior rule by 48 hours after this market's end date, it will resolve to \"No strike by February 28,\" regardless of whether a strike is later confirmed to have occurred.\n\nFor the purposes of this market, a qualifying \"strike\" is defined as the use of aerial bombs, drones or missiles (including cruise or ballistic missiles) launched by US military forces that impact Iranian ground territory or any official Iranian embassy or consulate (e.g., if a weapons depot on Iranian soil is hit by an US missile, this will qualify).\n\nMissiles or drones that are intercepted and surface-to-air missile strikes will not be sufficient, regardless of whether they land on Iranian territory or cause damage.\n\nActions such as artillery fire, small arms fire, FPV or ATGM strikes directly, ground incursions, naval shelling, cyberattacks, or other operations conducted by US ground operatives will not qualify.\n\nThe resolution source will be a consensus of credible reporting.",
+  "event_title": "US next strikes Iran on...?",
+  "event_tags": [
+    "Israel",
+    "Iran",
+    "World",
+    "Middle East",
+    "Geopolitics",
+    "Politics"
+  ],
+  "volume_total": 5837356.570176992,
+  "created_at": "2026-01-26T23:22:55.980938Z",
+  "end_date": "2026-02-28T00:00:00Z",
+  "num_spikes": 1,
+  "max_spike": 0.9575,
+  "total_tokens": 9822,
+  "total_articles": 5
+}

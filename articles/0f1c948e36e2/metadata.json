@@ -1,0 +1,37 @@
+{
+  "hash": "0f1c948e36e2",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.npr.org/2026/02/28/g-s1-112026/why-is-the-u-s-attacking-iran",
+      "title": "Why are the U.S. and Israel attacking Iran? : NPR",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "By                  \n   \n       \n      NPR Staff",
+      "num_tokens": 1196,
+      "text_length": 5864
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1169205",
+      "spike_id": 2,
+      "market_question": "Iran Strike on Israel by February 28?",
+      "event_title": "Iran Strike on Israel by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.9390000000000001,
+      "spike_timestamp_before": "2026-02-28T05:00:32+00:00",
+      "spike_timestamp_after": "2026-02-28T23:30:34+00:00"
+    },
+    {
+      "market_id": "1399065",
+      "spike_id": 1,
+      "market_question": "US strikes Iran by March 3, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.285,
+      "spike_timestamp_before": "2026-02-27T07:30:17+00:00",
+      "spike_timestamp_after": "2026-02-27T14:30:19+00:00"
+    }
+  ]
+}

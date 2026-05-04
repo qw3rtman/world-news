@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In the deal announced on February 18, 2026, what cash amount did Liberty Global agree to pay Vodafone for its stake in the Dutch joint venture VodafoneZiggo?",
+    "a": "1 billion euros ($1.18 billion)."
+  },
+  {
+    "q": "Following the February 18, 2026 announcement, which Belgian telecommunications operator did Liberty Global plan to combine with VodafoneZiggo to form the enlarged Ziggo Group?",
+    "a": "Belgium's Telenet."
+  },
+  {
+    "q": "What percentage stake in the enlarged Benelux telecoms company named Ziggo Group will Vodafone retain after the February 18, 2026 transaction with Liberty Global?",
+    "a": "10%."
+  },
+  {
+    "q": "In which city and on which stock exchange is the enlarged Benelux telecoms company Ziggo Group scheduled to be listed in 2027?",
+    "a": "It will be listed on Euronext in Amsterdam."
+  },
+  {
+    "q": "In the separate deal announced on February 18, 2026, which three entities formed the consortium to buy the UK fibre network Netomnia for 2 billion pounds?",
+    "a": "Liberty Global, Telefonica, and InfraVia."
+  },
+  {
+    "q": "How many fibre premises and customers were added to the partners' British footprint by the February 18, 2026 acquisition of Netomnia?",
+    "a": "More than 3.4 million fibre premises and over 500,000 customers."
+  },
+  {
+    "q": "By the end of 2027, how many premises with full fibre will the partners' British footprint reach following the Netomnia acquisition announced in February 2026?",
+    "a": "8 million premises."
+  },
+  {
+    "q": "When including high-speed cable customers on the Virgin Media O2 network, what total premises footprint will Liberty Global and Telefonica's British operations reach by the end of 2027?",
+    "a": "20 million premises."
+  },
+  {
+    "q": "What was the percentage increase in Liberty Global shares during early trading in New York on February 18, 2026, following the announcement of the VodafoneZiggo and Netomnia deals?",
+    "a": "11.3%."
+  },
+  {
+    "q": "What was the percentage increase in London-listed Vodafone shares on February 18, 2026, after announcing the sale of its VodafoneZiggo stake to Liberty Global?",
+    "a": "4%."
+  },
+  {
+    "q": "Who is the chairman and CEO of Liberty Global who stated that the Ziggo combination would create a regional powerhouse of two converged fixed and mobile companies?",
+    "a": "Mike Fries."
+  },
+  {
+    "q": "Which former monopoly in the Netherlands were Vodafone and Liberty Global aiming to compete against when they combined their mobile and fixed-line networks nearly a decade ago?",
+    "a": "KPN."
+  },
+  {
+    "q": "Who is Vodafone's Chief Executive who stated that the transaction delivered 1 billion euros in cash and offered potential for further value creation through a 10% stake in Ziggo Group?",
+    "a": "Margherita Della Valle."
+  },
+  {
+    "q": "In the February 18, 2026 announcement, what specific type of network is Netomnia described as in the context of the UK telecommunications market?",
+    "a": "The country's second largest \"altnet\" fibre network."
+  },
+  {
+    "q": "Which national network in the United Kingdom will the expanded British footprint of Liberty Global, Telefonica, and InfraVia challenge by the end of 2027?",
+    "a": "BT's national Openreach network."
+  },
+  {
+    "q": "What joint venture did Vodafone and Liberty Global create in the Netherlands nearly a decade ago by bringing together their mobile and fixed-line networks?",
+    "a": "VodafoneZiggo."
+  },
+  {
+    "q": "According to the February 18, 2026 report, what is the exchange rate provided for converting 1 US dollar to euros?",
+    "a": "0.8447 euros."
+  },
+  {
+    "q": "According to the February 18, 2026 report, what is the exchange rate provided for converting 1 US dollar to pounds?",
+    "a": "0.7388 pounds."
+  },
+  {
+    "q": "Which two journalists are credited with reporting the news about Liberty Global's acquisitions on February 18, 2026?",
+    "a": "Paul Sandle and Raechel Thankam Job."
+  },
+  {
+    "q": "In the February 18, 2026 deal, what is the total cash consideration Liberty Global pays for Vodafone's stake in VodafoneZiggo, expressed in US dollars?",
+    "a": "$1.18 billion."
+  },
+  {
+    "q": "What is the total consideration in US dollars for the acquisition of Netomnia by Liberty Global, Telefonica, and InfraVia, as announced on February 18, 2026?",
+    "a": "$2.7 billion."
+  },
+  {
+    "q": "Which two companies jointly own the Virgin Media O2 network that contributes to Liberty Global and Telefonica's British premises footprint?",
+    "a": "Liberty Global and Telefonica."
+  },
+  {
+    "q": "What is the name of the enlarged Benelux telecoms company that will result from combining VodafoneZiggo and Telenet, as announced in February 2026?",
+    "a": "Ziggo Group."
+  },
+  {
+    "q": "Whose approval is required for the listing of the enlarged Benelux telecoms company Ziggo Group on Euronext in Amsterdam in 2027?",
+    "a": "Liberty Global shareholders."
+  },
+  {
+    "q": "What type of wholesale alternative to BT will the expanded British footprint of Liberty Global and Telefonica provide to internet service providers?",
+    "a": "A wholesale alternative to BT."
+  },
+  {
+    "q": "In which year did Vodafone and Liberty Global bring together their mobile and fixed-line networks in the Netherlands to create VodafoneZiggo, based on the \"nearly a decade ago\" reference in the February 2026 article?",
+    "a": "Approximately 2016 or 2017."
+  }
+]

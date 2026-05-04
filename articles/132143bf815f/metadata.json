@@ -1,0 +1,27 @@
+{
+  "hash": "132143bf815f",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.scmp.com/news/china/article/3344769/trump-xi-summit-preparations-falter-planning-gaps-unsettle-beijing",
+      "title": "Trump-Xi summit preparations falter as planning gaps unsettle Beijing | South China Morning Post",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 383,
+      "text_length": 1864
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "706279",
+      "spike_id": 1,
+      "market_question": "Will Trump visit China by April 30?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.16000000000000003,
+      "spike_timestamp_before": "2026-02-28T03:30:31+00:00",
+      "spike_timestamp_after": "2026-03-01T03:00:37+00:00"
+    }
+  ]
+}

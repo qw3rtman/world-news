@@ -1,0 +1,77 @@
+{
+  "hash": "fac1e70fe781",
+  "n_appearances": 6,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.thediplomat.com/2026/03/balendra-shahs-landslide-electoral-victory-reshapes-nepali-politics/",
+      "title": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 64,
+      "text_length": 307
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1385699",
+      "spike_id": 1,
+      "market_question": "Will Balendra “Balen” Shah be the next Prime Minister of Nepal?",
+      "event_title": "Next Prime Minister of Nepal",
+      "spike_direction": "up",
+      "spike_delta": 0.20499999999999996,
+      "spike_timestamp_before": "2026-03-01T10:00:44+00:00",
+      "spike_timestamp_after": "2026-03-02T06:00:37+00:00"
+    },
+    {
+      "market_id": "1385699",
+      "spike_id": 2,
+      "market_question": "Will Balendra “Balen” Shah be the next Prime Minister of Nepal?",
+      "event_title": "Next Prime Minister of Nepal",
+      "spike_direction": "up",
+      "spike_delta": 0.16499999999999992,
+      "spike_timestamp_before": "2026-03-01T20:30:38+00:00",
+      "spike_timestamp_after": "2026-03-02T20:30:38+00:00"
+    },
+    {
+      "market_id": "1385699",
+      "spike_id": 3,
+      "market_question": "Will Balendra “Balen” Shah be the next Prime Minister of Nepal?",
+      "event_title": "Next Prime Minister of Nepal",
+      "spike_direction": "up",
+      "spike_delta": 0.15000000000000002,
+      "spike_timestamp_before": "2026-03-02T01:00:35+00:00",
+      "spike_timestamp_after": "2026-03-03T00:30:44+00:00"
+    },
+    {
+      "market_id": "1385699",
+      "spike_id": 4,
+      "market_question": "Will Balendra “Balen” Shah be the next Prime Minister of Nepal?",
+      "event_title": "Next Prime Minister of Nepal",
+      "spike_direction": "up",
+      "spike_delta": 0.19499999999999995,
+      "spike_timestamp_before": "2026-03-03T03:00:46+00:00",
+      "spike_timestamp_after": "2026-03-03T17:00:40+00:00"
+    },
+    {
+      "market_id": "1385699",
+      "spike_id": 5,
+      "market_question": "Will Balendra “Balen” Shah be the next Prime Minister of Nepal?",
+      "event_title": "Next Prime Minister of Nepal",
+      "spike_direction": "up",
+      "spike_delta": 0.21999999999999997,
+      "spike_timestamp_before": "2026-03-03T03:00:46+00:00",
+      "spike_timestamp_after": "2026-03-03T22:30:41+00:00"
+    },
+    {
+      "market_id": "1385699",
+      "spike_id": 6,
+      "market_question": "Will Balendra “Balen” Shah be the next Prime Minister of Nepal?",
+      "event_title": "Next Prime Minister of Nepal",
+      "spike_direction": "up",
+      "spike_delta": 0.24,
+      "spike_timestamp_before": "2026-03-03T03:00:46+00:00",
+      "spike_timestamp_after": "2026-03-04T02:30:40+00:00"
+    }
+  ]
+}

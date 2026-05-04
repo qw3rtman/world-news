@@ -1,0 +1,65 @@
+{
+  "spike_index": 2,
+  "direction": "up",
+  "price_before": 0.235,
+  "price_after": 0.545,
+  "delta": 0.31000000000000005,
+  "abs_delta": 0.31000000000000005,
+  "timestamp_before": "2026-02-23T11:30:25+00:00",
+  "timestamp_after": "2026-02-23T15:00:45+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://bloomberg.com/news/articles/2026-02-23/paramount-is-said-to-submit-higher-offer-for-warner-bros",
+      "file": "ee6e98a25991.txt",
+      "title": "Paramount Raises Bid for Warner Bros. in Takeover Battle With Netflix - Bloomberg",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "Lucas Shaw",
+      "text_length": 568,
+      "status": "ok",
+      "num_tokens": 109
+    },
+    {
+      "url": "https://in.mobile.reuters.com/legal/transactional/paramount-submits-higher-offer-warner-bros-discovery-bid-block-netflix-source-2026-02-23/",
+      "file": "44199968b7ab.txt",
+      "title": "Paramount submits higher offer for Warner Bros Discovery in bid to block Netflix, source says  | Reuters",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "Dawn Chmielewski",
+      "text_length": 5830,
+      "status": "ok",
+      "num_tokens": 1173
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-02-23/paypal-attracts-takeover-interest-after-stock-slump?embedded-checkout=true&srnd=homepage-americas",
+      "file": "90b8c2f799c2.txt",
+      "title": "PayPal Attracts Takeover Interest After Stock Slump - Bloomberg",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "Ryan Gould",
+      "text_length": 593,
+      "status": "ok",
+      "num_tokens": 117
+    },
+    {
+      "url": "http://today.reuters.com/business/keurig-dr-pepper-secures-additional-15-billion-funding-jde-peets-buyout-2026-02-23/",
+      "file": "3f18eef6336d.txt",
+      "title": "Keurig Dr Pepper secures additional $1.5 billion funding for JDE Peet's buyout | Reuters",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": null,
+      "text_length": 1480,
+      "status": "ok",
+      "num_tokens": 338
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-02-23/kdp-gets-another-1-5-billion-of-capital-in-bid-to-trim-leverage",
+      "file": "66f2554c8cb8.txt",
+      "title": "KDP Gets Another $1.5 Billion of Capital in Bid to Trim Leverage - Bloomberg",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "Kristina Peterson",
+      "text_length": 539,
+      "status": "ok",
+      "num_tokens": 104
+    }
+  ],
+  "total_tokens": 1841
+}

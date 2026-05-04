@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On what date did crude oil futures briefly surpass $111 per barrel in New York, reaching their highest level since July 2022?",
+    "a": "Sunday, March 8, 2026."
+  },
+  {
+    "q": "Which two nations launched attacks on Iran on February 28, 2026, causing concern that the conflict would disrupt Middle Eastern oil supplies?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "Who was named the next Iranian supreme leader following the killing of Ayatollah Ali Khamenei, a development that contributed to rising crude oil prices?",
+    "a": "Mojtaba Khamenei."
+  },
+  {
+    "q": "Which benchmark crude oil futures contract ended below the $100 mark on Friday, March 6, 2026?",
+    "a": "West Texas Intermediate."
+  },
+  {
+    "q": "Which U.S. President was reported by Bloomberg on Sunday, March 8, 2026, to be weighing the option of deploying special forces to seize Iran's near-bomb-grade uranium?",
+    "a": "Donald Trump."
+  },
+  {
+    "q": "Which country, heavily reliant on energy imports and getting most of its oil from the Middle East, faces economic risks from persistently higher oil prices?",
+    "a": "Japan."
+  },
+  {
+    "q": "What percentage of global oil passes through the Strait of Hormuz, a narrow channel that was effectively closed to shipping as of March 2026?",
+    "a": "About 20 percent."
+  },
+  {
+    "q": "Between which two bodies of water is the Strait of Hormuz located, according to reports in March 2026?",
+    "a": "The Persian Gulf and the Gulf of Oman."
+  },
+  {
+    "q": "Whose uncompromising stance is feared to prolong the Middle East conflict and drive up oil prices if maintained by his successor Mojtaba Khamenei?",
+    "a": "Ayatollah Ali Khamenei."
+  },
+  {
+    "q": "In which city did crude oil futures briefly surpass $111 per barrel on Sunday, March 8, 2026?",
+    "a": "New York."
+  },
+  {
+    "q": "What specific type of uranium was U.S. President Donald Trump reportedly considering seizing from Iran via special forces in March 2026?",
+    "a": "Near-bomb-grade uranium."
+  },
+  {
+    "q": "On what date did the U.S. and Israeli attacks on Iran occur, sparking fears of widespread conflict in oil-producing regions?",
+    "a": "February 28, 2026."
+  },
+  {
+    "q": "Which news organization reported on Sunday, March 8, 2026, that President Donald Trump was considering a ground deployment in Iran?",
+    "a": "Bloomberg."
+  },
+  {
+    "q": "What was the highest level crude oil had reached since July 2022 when it briefly surpassed $111 per barrel in March 2026?",
+    "a": "$111 per barrel."
+  },
+  {
+    "q": "Which region's oil-producing areas were the focus of concern that the conflict between the U.S., Israel, and Iran would spread to disrupt supplies?",
+    "a": "The Middle East."
+  },
+  {
+    "q": "Which nation's economy would be hit by higher oil prices if they persist, according to the March 2026 report?",
+    "a": "The global economy, with specific mention of Japan."
+  },
+  {
+    "q": "What event involving the Iranian leadership occurred before the crude oil price surge in early March 2026?",
+    "a": "The killing of Ayatollah Ali Khamenei and the naming of Mojtaba Khamenei as his successor."
+  },
+  {
+    "q": "On which day of the week did the benchmark West Texas Intermediate futures contract end below $100, prior to the Sunday price surge?",
+    "a": "Friday."
+  },
+  {
+    "q": "What specific military option was U.S. President Donald Trump weighing in March 2026 regarding Iran's uranium facilities?",
+    "a": "Deploying special forces on the ground to seize the uranium."
+  },
+  {
+    "q": "Which geographic chokepoint was effectively closed to shipping in March 2026, raising concerns about global oil supply?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "Who succeeded Ayatollah Ali Khamenei as the Iranian supreme leader, a change that heightened fears of a prolonged conflict in March 2026?",
+    "a": "Mojtaba Khamenei."
+  },
+  {
+    "q": "Which two countries were involved in the attacks on Iran that began on February 28, 2026?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "What was the price threshold that crude oil briefly surpassed in New York on Sunday, March 8, 2026?",
+    "a": "$111 per barrel."
+  },
+  {
+    "q": "Which country receives most of its oil from the Middle East and is cited as being heavily reliant on energy imports in the March 2026 report?",
+    "a": "Japan."
+  },
+  {
+    "q": "What was the status of the Strait of Hormuz shipping lanes in March 2026, according to the article?",
+    "a": "Effectively closed to shipping."
+  }
+]

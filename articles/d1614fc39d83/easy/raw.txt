@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the joint military operation known as Operation Epic Fury conducted on February 28, 2026, which Iranian leader was killed along with members of his family and key advisers?",
+    "a": "Ayatollah Ali Khamenei"
+  },
+  {
+    "q": "What was the name of the limited U.S.-Israeli military operation conducted in June 2025 that targeted Iran’s nuclear facilities and strategic military sites?",
+    "a": "Operation Midnight Hammer"
+  },
+  {
+    "q": "Which U.S. President called for \"regime change\" in Iran following the February 28, 2026 strikes and the repression of Iranian protesters?",
+    "a": "Donald Trump"
+  },
+  {
+    "q": "In late December 2025, which group of individuals initially centered the anger that led to widespread protests in Iran before it expanded nationwide?",
+    "a": "Merchants dismayed by the collapsing national currency"
+  },
+  {
+    "q": "What specific economic measure did U.S. President Donald Trump announce as his first concrete reaction to the Iranian protests in late December 2025?",
+    "a": "25 percent tariffs on those trading with the Islamic Republic"
+  },
+  {
+    "q": "Which technology entrepreneur did U.S. President Donald Trump personally engage to help counter Iran’s internet blackout by dispatching thousands of Starlink units?",
+    "a": "Elon Musk"
+  },
+  {
+    "q": "During the week of mid-January 2026, how many aircraft carrier groups did the United States boost in the region as part of a military buildup not seen since the Iraq war?",
+    "a": "Two aircraft carrier groups"
+  },
+  {
+    "q": "In which two countries did three separate rounds of diplomatic talks take place in February 2026 to attempt to jump-start diplomacy between the U.S. and Iran?",
+    "a": "Oman and Switzerland"
+  },
+  {
+    "q": "What specific ultimatum did U.S. President Donald Trump deliver to Tehran in January 2026 regarding the acceptance of a deal to avoid an attack \"far worse\" than the June 2025 strikes?",
+    "a": "Abandoning its nuclear program at a minimum and, more ambitiously, its ballistic missile development and support for regional nonstate allies"
+  },
+  {
+    "q": "According to U.S. assessments cited in the article, what was the status of uranium enrichment in Iran’s nuclear facilities as of early 2026?",
+    "a": "No uranium enrichment was currently taking place"
+  },
+  {
+    "q": "Which Iranian military branch, described as a preeminent political and economic actor, is expected to potentially exert more overt control if the regime collapses?",
+    "a": "The Revolutionary Guards"
+  },
+  {
+    "q": "What was the name of the evacuated U.S. base in Qatar that was struck by Iran in response to the June 2025 Operation Midnight Hammer?",
+    "a": "The article does not specify the name of the base"
+  },
+  {
+    "q": "In his State of the Union address in early 2026, what did U.S. President Donald Trump assert Iran was doing regarding its nuclear ambitions and missile capabilities?",
+    "a": "Pursuing sinister ambitions on the nuclear front and working to build missiles that will soon reach the United States"
+  },
+  {
+    "q": "Which regional conflict did U.S. President Donald Trump end last year by pulling the plug on a costly war, a precedent Iran may have hoped to replicate with the Houthis?",
+    "a": "The war against the Houthis in Yemen"
+  },
+  {
+    "q": "What specific term did the article use to describe the February 28, 2026 U.S.-Israeli strikes, contrasting them with the previous year's operation?",
+    "a": "Operation Epic Fury"
+  },
+  {
+    "q": "Who is the Director of the Iran Project at the International Crisis Group and the author of the article \"Trump’s Iran Gamble\" published on March 1, 2026?",
+    "a": "Ali Vaez"
+  },
+  {
+    "q": "What did U.S. President Donald Trump exhort the Iranian people to do in his announcement of the February 28, 2026 strikes?",
+    "a": "\"When we are finished, take over your government. It will be yours to take.\""
+  },
+  {
+    "q": "Which Iranian government entities are described as coercive institutions built to maintain control during moments of crisis, even if the regime is weakened?",
+    "a": "The Revolutionary Guards, intelligence services, and internal security forces"
+  },
+  {
+    "q": "What specific date did U.S. President Donald Trump warn that the United States was \"locked and loaded\" to support Iranian protesters?",
+    "a": "January 2, 2026"
+  },
+  {
+    "q": "Which Hamas attack on Israel, occurring on October 7, 2023, is cited as the starting point for Iran's repeated overestimation of its capabilities and underestimation of adversaries' resolve?",
+    "a": "The Hamas attack on Israel"
+  },
+  {
+    "q": "What did Iranian regime leaders claim they would treat any attack on the Islamic Republic as requiring, thereby threatening U.S. troops and assets in the region?",
+    "a": "A major response"
+  },
+  {
+    "q": "Which organization's assessment described Iran as rebuilding its ballistic missile arsenal at \"a rapid pace\" since the June 2025 strikes?",
+    "a": "An Israeli military assessment"
+  },
+  {
+    "q": "What specific type of financial networks did the United States add sanctions against in Iran as part of the economic pressure campaign in late 2025 and early 2026?",
+    "a": "Iranian \"shadow banking\" networks"
+  },
+  {
+    "q": "Which Iranian official was reportedly in contact with Trump’s special envoy before the U.S. rejected the continuation of diplomatic engagement?",
+    "a": "Iran’s foreign minister"
+  },
+  {
+    "q": "What specific risk did the article associate with Iran believing that foreign attacks would help it shore up popular sentiment domestically through the \"rally-around-the-flag effect\"?",
+    "a": "The regime might be sorely mistaken given that it had just spilled the blood of thousands on home soil"
+  }
+]

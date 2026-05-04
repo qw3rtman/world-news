@@ -1,0 +1,65 @@
+{
+  "spike_index": 5,
+  "direction": "down",
+  "price_before": 0.345,
+  "price_after": 0.16,
+  "delta": -0.18499999999999997,
+  "abs_delta": 0.18499999999999997,
+  "timestamp_before": "2026-03-14T18:30:24+00:00",
+  "timestamp_after": "2026-03-15T18:00:27+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-16/meta-to-spend-up-to-27-billion-on-ai-infrastructure-from-nebius",
+      "file": "ac8d995c5dcd.txt",
+      "title": "Meta to Spend Up to $27 Billion on AI Infrastructure From Nebius - Bloomberg",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "Kurt Wagner",
+      "text_length": 673,
+      "status": "ok",
+      "num_tokens": 131
+    },
+    {
+      "url": "https://www.reuters.com/technology/nebius-signs-ai-capacity-deal-with-meta-2026-03-16/",
+      "file": "23e8e1b7c7b1.txt",
+      "title": "Nebius signs AI infrastructure deals with Meta worth up to $27 billion over 5 years | Reuters",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "Aditya Soni",
+      "text_length": 2014,
+      "status": "ok",
+      "num_tokens": 491
+    },
+    {
+      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202603170810BIZWIRE_USPRX____20260316_BW779192-1",
+      "file": "f43b5e46b63a.txt",
+      "title": "CrowdStrike and Nebius Partner to Unify Security Across the Next Generation of AI Cloud Infrastructure \u2013 Company Announcement - FT.com",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": null,
+      "text_length": 3720,
+      "status": "ok",
+      "num_tokens": 690
+    },
+    {
+      "url": "https://www.bloomberg.com/news/newsletters/2026-03-12/meta-spends-millions-on-effort-to-make-in-house-ai-chips",
+      "file": "53214f063c69.txt",
+      "title": "Meta Spends Millions on Effort to Make In-House AI Chips - Bloomberg",
+      "published_date": "2026-03-12T00:00:00.000Z",
+      "author": "Riley Griffin",
+      "text_length": 558,
+      "status": "ok",
+      "num_tokens": 126
+    },
+    {
+      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202603160700BIZWIRE_USPRX____20260316_BW066217-1",
+      "file": "2fbf2b02c77f.txt",
+      "title": "Public Storage to Acquire National Storage Affiliates, Creating Significant Value for All Stakeholders \u2013 Company Announcement - FT.com",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": null,
+      "text_length": 12976,
+      "status": "ok",
+      "num_tokens": 2526
+    }
+  ],
+  "total_tokens": 3964
+}

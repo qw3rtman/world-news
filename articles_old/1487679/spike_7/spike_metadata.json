@@ -1,0 +1,65 @@
+{
+  "spike_index": 7,
+  "direction": "down",
+  "price_before": 0.39,
+  "price_after": 0.235,
+  "delta": -0.15500000000000003,
+  "abs_delta": 0.15500000000000003,
+  "timestamp_before": "2026-03-08T21:30:22+00:00",
+  "timestamp_after": "2026-03-09T11:30:20+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.foxnews.com/world/irans-last-line-resistance-holds-back-houthi-terror-group-warns-its-ready-act",
+      "file": "b3a28ded39cb.txt",
+      "title": "Houthis declare fingers on trigger for potential conflict with US and Israel | Fox News",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": null,
+      "text_length": 4436,
+      "status": "ok",
+      "num_tokens": 1027
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2026/3/7/why-yemens-houthis-are-staying-out-of-israel-us-fight-with-iran-for-now",
+      "file": "161d9e5f9687.txt",
+      "title": "Why Yemen\u2019s Houthis are staying out of Israel-US fight with Iran \u2013 for now | US-Israel war on Iran News | Al Jazeera",
+      "published_date": "2026-03-07T00:00:00.000Z",
+      "author": "Al Jazeera Staff",
+      "text_length": 7858,
+      "status": "ok",
+      "num_tokens": 1674
+    },
+    {
+      "url": "https://www.aljazeera.com/opinions/2026/3/6/will-the-houthis-join-irans-war",
+      "file": "5918269fadcd.txt",
+      "title": "Will the Houthis join Iran\u2019s war? | Houthis | Al Jazeera",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Ahmed al-Shalafi",
+      "text_length": 8616,
+      "status": "ok",
+      "num_tokens": 1589
+    },
+    {
+      "url": "https://www.foxnews.com/world/irans-last-line-resistance-holds-back-houthi-terror-group-warns-its-ready-act.print",
+      "file": "63950ada1b32.txt",
+      "title": "Iran\u2019s last line of resistance holds back \u2014 but Houthi terror group warns it\u2019s ready to act",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": null,
+      "text_length": 3769,
+      "status": "ok",
+      "num_tokens": 824
+    },
+    {
+      "url": "https://www.timesofisrael.com/liveblog-march-07-2026/",
+      "file": "d08148a74b57.txt",
+      "title": "March 7: Israeli airstrikes on Iran and Hezbollah continue into the night | The Times of Israel",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "ToI Staff",
+      "text_length": 77128,
+      "status": "ok",
+      "num_tokens": 15653
+    }
+  ],
+  "total_tokens": 20767
+}

@@ -1,0 +1,27 @@
+{
+  "hash": "2953daacd559",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://on.theverge.com/ai-artificial-intelligence/884778/perplexity-computer-combines-ai-chatbots-and-agents-into-one-system",
+      "title": "Perplexity’s “Computer” is full of AI agents. | The Verge",
+      "published_date": "2026-02-25T00:00:00.000Z",
+      "author": "Stevie Bonifield",
+      "num_tokens": 77,
+      "text_length": 351
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "700396",
+      "spike_id": 4,
+      "market_question": "Will Perplexity AI be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.205,
+      "spike_timestamp_before": "2026-02-25T05:00:30+00:00",
+      "spike_timestamp_after": "2026-02-25T18:30:30+00:00"
+    }
+  ]
+}

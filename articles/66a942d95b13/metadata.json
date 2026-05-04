@@ -1,0 +1,37 @@
+{
+  "hash": "66a942d95b13",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/middle-east/iran-defies-trump-elevates-khameneis-son-mojtaba-successor-2026-03-08/",
+      "title": "Iran defies Trump, elevates Khamenei's son Mojtaba as successor | Reuters",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": "Samia Nakhoul",
+      "num_tokens": 1298,
+      "text_length": 5933
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1535972",
+      "spike_id": 2,
+      "market_question": "Iran leadership change by April 30?",
+      "event_title": "Iran leadership change by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.15500000000000003,
+      "spike_timestamp_before": "2026-03-09T11:00:23+00:00",
+      "spike_timestamp_after": "2026-03-10T10:30:31+00:00"
+    },
+    {
+      "market_id": "1535972",
+      "spike_id": 3,
+      "market_question": "Iran leadership change by April 30?",
+      "event_title": "Iran leadership change by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.15499999999999997,
+      "spike_timestamp_before": "2026-03-09T21:30:30+00:00",
+      "spike_timestamp_after": "2026-03-10T19:00:32+00:00"
+    }
+  ]
+}

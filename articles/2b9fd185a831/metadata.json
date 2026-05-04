@@ -1,0 +1,57 @@
+{
+  "hash": "2b9fd185a831",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://www.washingtonpost.com/politics/2026/02/28/trump-iran-decision-saudi-arabia-israel/",
+      "title": "Push from Saudis, Israel helped move Trump to attack Iran - The Washington Post",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Michael Birnbaum",
+      "num_tokens": 124,
+      "text_length": 559
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1472019",
+      "spike_id": 6,
+      "market_question": "Will Saudi Arabia strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.21000000000000002,
+      "spike_timestamp_before": "2026-03-02T20:00:29+00:00",
+      "spike_timestamp_after": "2026-03-03T07:30:27+00:00"
+    },
+    {
+      "market_id": "1472019",
+      "spike_id": 7,
+      "market_question": "Will Saudi Arabia strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.315,
+      "spike_timestamp_before": "2026-03-02T20:00:29+00:00",
+      "spike_timestamp_after": "2026-03-03T14:30:32+00:00"
+    },
+    {
+      "market_id": "1472019",
+      "spike_id": 8,
+      "market_question": "Will Saudi Arabia strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.37,
+      "spike_timestamp_before": "2026-03-03T14:30:32+00:00",
+      "spike_timestamp_after": "2026-03-04T14:30:30+00:00"
+    },
+    {
+      "market_id": "1472019",
+      "spike_id": 9,
+      "market_question": "Will Saudi Arabia strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.45999999999999996,
+      "spike_timestamp_before": "2026-03-03T17:30:30+00:00",
+      "spike_timestamp_after": "2026-03-04T16:30:30+00:00"
+    }
+  ]
+}

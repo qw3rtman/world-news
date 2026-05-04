@@ -1,0 +1,27 @@
+{
+  "hash": "9ba8c43f5875",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://www.al-monitor.com/originals/2026/03/white-house-says-us-navy-has-not-escorted-tanker-through-strait-hormuz",
+      "title": "White House says US Navy has not escorted tanker through Strait of Hormuz - AL-Monitor: The Middle Eastʼs leading independent news source since 2012",
+      "published_date": "2026-03-10T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 578,
+      "text_length": 2930
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1554932",
+      "spike_id": 1,
+      "market_question": "US escorts commercial ship through Hormuz by March 31?",
+      "event_title": "US escorts commercial ship through Hormuz by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.18,
+      "spike_timestamp_before": "2026-03-11T21:30:30+00:00",
+      "spike_timestamp_after": "2026-03-11T22:30:31+00:00"
+    }
+  ]
+}

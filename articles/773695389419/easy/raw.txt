@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In the news headlines published on March 4, 2026, by USATODAY.com, which two countries' situations were described as putting the United States in 'uncharted territory'?",
+    "a": "Iran and Venezuela."
+  },
+  {
+    "q": "According to the March 4, 2026, USATODAY.com headlines, which fantasy author was scheduled to unveil the sixth book in the 'A Court of Thorns and Roses' series on the 'Call Her Daddy' podcast?",
+    "a": "Sarah J. Maas."
+  },
+  {
+    "q": "In the March 4, 2026, USATODAY.com travel news, what specific item were passengers required to wear on a certain airline or risk being booted from the flight?",
+    "a": "Headphones."
+  },
+  {
+    "q": "What controversial plan regarding food costs was highlighted in the March 4, 2026, USATODAY.com national news headlines?",
+    "a": "Killing animals faster."
+  },
+  {
+    "q": "In March 2026, which two nations launched joint military operations in Ecuador?",
+    "a": "The United States and Ecuadorian forces."
+  },
+  {
+    "q": "According to the March 4, 2026, USATODAY.com political headlines, which Republican senator was the subject of a plan that could unleash Senate chaos?",
+    "a": "Kristi Noem."
+  },
+  {
+    "q": "In the March 4, 2026, USATODAY.com travel section, which region did Americans receive advice to reconsider visiting?",
+    "a": "A European country."
+  },
+  {
+    "q": "What monetary amount was allocated for truck parking in the March 4, 2026, USATODAY.com national news headline regarding highway safety?",
+    "a": "$500 million."
+  },
+  {
+    "q": "According to the March 4, 2026, USATODAY.com airline news, which conflict was cited as a potential disruptor for upcoming flights?",
+    "a": "The Iran war."
+  },
+  {
+    "q": "Which late pop icon's life and legacy were featured in photos in the March 4, 2026, USATODAY.com celebrities section?",
+    "a": "Michael Jackson."
+  },
+  {
+    "q": "What is the designation of the interstellar comet that had a new photo released in the March 4, 2026, USATODAY.com national news headlines?",
+    "a": "3I/ATLAS."
+  },
+  {
+    "q": "In the March 4, 2026, USATODAY.com headlines, which podcast was the venue for Sarah J. Maas to discuss the upcoming 'A Court of Thorns and Roses' book?",
+    "a": "Call Her Daddy."
+  },
+  {
+    "q": "Which publication released the March 4, 2026, headlines covering topics from US politics to interstellar comets?",
+    "a": "USATODAY.com."
+  },
+  {
+    "q": "In the March 4, 2026, USATODAY.com national news, what specific action was proposed to help cut food costs?",
+    "a": "Killing animals faster."
+  },
+  {
+    "q": "According to the March 4, 2026, USATODAY.com headlines, what potential consequence for travelers was linked to the Iran war?",
+    "a": "Disruption of trips."
+  },
+  {
+    "q": "In the March 4, 2026, USATODAY.com headlines, which political figure was associated with a plan that could cause chaos in the Senate?",
+    "a": "Kristi Noem."
+  },
+  {
+    "q": "Which two countries were involved in the military operations launched in Ecuador in March 2026?",
+    "a": "The United States and Ecuador."
+  },
+  {
+    "q": "What specific safety measure for drivers was funded by the $500 million mentioned in the March 4, 2026, USATODAY.com headlines?",
+    "a": "Truck parking."
+  },
+  {
+    "q": "In the March 4, 2026, USATODAY.com headlines, which fantasy book series was set to have its sixth installment revealed?",
+    "a": "A Court of Thorns and Roses."
+  },
+  {
+    "q": "Which celebrity's legacy was highlighted in a photo feature in the March 4, 2026, USATODAY.com headlines?",
+    "a": "Michael Jackson."
+  },
+  {
+    "q": "What type of celestial object was the subject of a new photo release in the March 4, 2026, USATODAY.com national news?",
+    "a": "An interstellar comet."
+  },
+  {
+    "q": "In the March 4, 2026, USATODAY.com headlines, which European region was Americans advised to reconsider visiting?",
+    "a": "A European country."
+  },
+  {
+    "q": "Which airline policy was highlighted in the March 4, 2026, USATODAY.com travel news regarding passenger requirements?",
+    "a": "Booting passengers who don't wear headphones."
+  },
+  {
+    "q": "According to the March 4, 2026, USATODAY.com headlines, which two nations' political actions were described as putting the US in 'uncharted territory'?",
+    "a": "Iran and Venezuela."
+  },
+  {
+    "q": "In the March 4, 2026, USATODAY.com headlines, which podcast host's show was used to unveil news about Sarah J. Maas's new book?",
+    "a": "Call Her Daddy."
+  },
+  {
+    "q": "What specific numerical figure was associated with the highway safety initiative in the March 4, 2026, USATODAY.com national news?",
+    "a": "$500 million."
+  }
+]

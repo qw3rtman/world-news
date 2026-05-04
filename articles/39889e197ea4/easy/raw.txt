@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On March 11, 2026, what was the price of U.S. crude oil after it gained 2.4% following attacks off Iran’s coast?",
+    "a": "$85.44 a barrel."
+  },
+  {
+    "q": "Which Japanese Prime Minister announced on March 11, 2026, that Tokyo plans to independently release stockpiled oil as early as Monday?",
+    "a": "Takaichi Sanae."
+  },
+  {
+    "q": "According to a March 11, 2026 Reuters report, how many barrels per day did the International Energy Agency recommend releasing in its first month of emergency stock release?",
+    "a": "Over 100 million barrels."
+  },
+  {
+    "q": "Where did G7 energy ministers convene on Tuesday, March 10, 2026, to discuss the U.S.-Iran war and its impact on global oil markets?",
+    "a": "Paris."
+  },
+  {
+    "q": "What specific shipping route was severely disrupted due to threats from Iran and a blockade in early March 2026?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "Who is the IEA Executive Director that stated on March 10, 2026, that member countries hold over 1.2 billion barrels of public emergency oil stocks?",
+    "a": "Fatih Birol."
+  },
+  {
+    "q": "On March 10, 2026, which U.S. official’s social media post incorrectly stated that the U.S. Navy had escorted a tanker through the Strait of Hormuz?",
+    "a": "U.S. Secretary of Energy Chris Wright."
+  },
+  {
+    "q": "Who served as the White House Press Secretary who clarified on March 10, 2026, that the U.S. Navy had not escorted a tanker?",
+    "a": "Karoline Leavitt."
+  },
+  {
+    "q": "According to reports on March 11, 2026, how many minelayers did American forces sink near the Strait of Hormuz?",
+    "a": "16."
+  },
+  {
+    "q": "Which maritime security authority reported on March 11, 2026, that three cargo ships off Iran’s coast had been struck by projectiles?",
+    "a": "The U.K.’s Maritime Trade Operations (UKMTO)."
+  },
+  {
+    "q": "In which city did authorities report on March 11, 2026, that two drones fell near the international airport, injuring four people?",
+    "a": "Dubai."
+  },
+  {
+    "q": "Which energy market analyst at Marex warned on March 11, 2026, that oil prices could spike back up over $100 if the conflict does not end by the end of the week?",
+    "a": "Sasha Foss."
+  },
+  {
+    "q": "According to Paul Gooden, head of global natural resources at Ninety One, in a Tuesday note from March 2026, what price range did oil see earlier in the year?",
+    "a": "$60–$70."
+  },
+  {
+    "q": "What did Paul Gooden of Ninety One predict in a March 2026 note regarding potential oil price spikes if the disruption between the U.S. and Iran lasts longer?",
+    "a": "Oil prices could spike further, potentially above $120 or even higher."
+  },
+  {
+    "q": "On March 11, 2026, what was the price of global benchmark Brent crude futures shortly before 7 a.m. ET?",
+    "a": "$89.49 a barrel."
+  },
+  {
+    "q": "Which broadcaster reported on March 11, 2026, that Japanese Prime Minister Takaichi Sanae planned to release stockpiled oil independently?",
+    "a": "NHK."
+  },
+  {
+    "q": "How much industry stock held under government obligation did IEA Executive Director Fatih Birol state existed on March 10, 2026?",
+    "a": "600 million barrels."
+  },
+  {
+    "q": "Which organization’s energy ministers issued a statement to Bloomberg on March 11, 2026, backing the use of strategic reserves?",
+    "a": "The G7."
+  },
+  {
+    "q": "According to Sasha Foss of Marex on March 11, 2026, what is the critical factor remaining regarding the war’s duration and oil prices?",
+    "a": "The opening of the Strait of Hormuz."
+  },
+  {
+    "q": "Which CNBC program did energy market analyst Sasha Foss appear on Wednesday, March 11, 2026, to discuss oil market risks?",
+    "a": "Europe Early Europe."
+  },
+  {
+    "q": "What was the high point reached by U.S. crude oil prices on March 11, 2026, before it settled at $85.44?",
+    "a": "Nearly $89."
+  },
+  {
+    "q": "Which two entities were involved in the conflict that disrupted energy production in the Middle East as of March 2026?",
+    "a": "The U.S. and Iran."
+  },
+  {
+    "q": "What type of vessels did American forces sink overnight on March 11, 2026, near the Strait of Hormuz?",
+    "a": "Iranian ships, including 16 minelayers."
+  },
+  {
+    "q": "How many people were injured when two drones fell near Dubai International Airport on March 11, 2026?",
+    "a": "Four."
+  },
+  {
+    "q": "What specific action did the International Energy Agency recommend on March 11, 2026, to address the deteriorating conditions in oil markets?",
+    "a": "The release of strategic oil stocks exceeding 100 million barrels per day in the first month."
+  }
+]

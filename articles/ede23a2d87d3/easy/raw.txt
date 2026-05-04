@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2026, U.S. President Donald Trump stated he sought to delay his scheduled trip to China by approximately one month; what primary geopolitical event did he cite as the reason for this postponement?",
+    "a": "The ongoing Iran war."
+  },
+  {
+    "q": "U.S. President Donald Trump originally scheduled his meeting with Chinese President Xi Jinping for which specific dates in early 2026 before requesting a delay?",
+    "a": "March 31 to April 2, 2026."
+  },
+  {
+    "q": "During the week of March 16, 2026, which White House spokesperson stated that ensuring the success of the military operation 'Epic Fury' was President Trump's number-one priority?",
+    "a": "White House spokesperson Karoline Leavitt."
+  },
+  {
+    "q": "U.S. Treasury Secretary Scott Bessent, in March 2026, indicated that President Trump might delay his China trip to coordinate the war effort rather than due to disagreements over which specific maritime chokepoint?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "In early 2026, China imported approximately how many barrels of oil daily, making it the largest importer in the world?",
+    "a": "Around 12 million barrels."
+  },
+  {
+    "q": "U.S. President Donald Trump called on nations including China to assist with the safe transit of vessels through which strategic waterway where one-fifth of the world's oil transits daily?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "According to U.S. Energy Department data cited in March 2026, to which country do most of Iran's oil exports go?",
+    "a": "China."
+  },
+  {
+    "q": "In March 2026, Middle Eastern oil exports had dropped by more than what percentage since the start of the Iran war?",
+    "a": "More than 60 percent."
+  },
+  {
+    "q": "U.S. Treasury Secretary Scott Bessent traveled to which city in March 2026 to hold talks with Chinese Vice Premier He Lifeng regarding trade and other agreements?",
+    "a": "Paris."
+  },
+  {
+    "q": "Chinese Vice Premier He Lifeng held talks with U.S. Treasury Secretary Scott Bessent in Paris in March 2026 to discuss potential additional purchases of U.S. agricultural goods including poultry, beef, and what other crop category?",
+    "a": "Non-soybean row crops."
+  },
+  {
+    "q": "In March 2026, Chinese foreign ministry spokesperson Lin Jian stated that both sides were communicating about President Trump's trip; what role did he describe 'head of state diplomacy' as playing in China-U.S. relations?",
+    "a": "An irreplaceable role in providing strategic guidance."
+  },
+  {
+    "q": "U.S. President Donald Trump told the Financial Times in March 2026 that he might postpone his meeting with Chinese President Xi Jinping if China did not help unblock which specific strait?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "In March 2026, Iran responded to joint U.S.-Israeli attacks by threatening to fire on vessels moving through which waterway?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "Reuters reported in March 2026 that Iranian crude oil was flowing through the Strait of Hormuz at near-normal rates, despite overall exports from which region dropping by more than 60 percent?",
+    "a": "The Middle East."
+  },
+  {
+    "q": "In March 2026, Chinese Vice Premier He Lifeng and U.S. Treasury Secretary Scott Bessent discussed the flow of rare earth minerals largely controlled by which country?",
+    "a": "China."
+  },
+  {
+    "q": "Which Chinese government body did not immediately respond to a request for comment regarding President Trump's request to delay his China visit in March 2026?",
+    "a": "China's embassy in Washington."
+  },
+  {
+    "q": "U.S. President Donald Trump's potential delay of his April 2026 China trip risks magnifying tensions between Washington and Beijing over trade, Taiwan, and which other major crisis?",
+    "a": "The Mideast crisis (or Iran war)."
+  },
+  {
+    "q": "In March 2026, which two U.S. government offices declined to characterize the talks between U.S. Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng?",
+    "a": "The U.S. Treasury and the U.S. Trade Representative's office."
+  },
+  {
+    "q": "China's embassy in Washington did not immediately respond to a request for comment regarding President Trump's request to delay his China visit in March 2026; what was the requested duration of the delay?",
+    "a": "A month or so."
+  },
+  {
+    "q": "In March 2026, which military operation did White House spokesperson Karoline Leavitt identify as U.S. President Donald Trump's number-one priority?",
+    "a": "Epic Fury."
+  },
+  {
+    "q": "U.S. Treasury Secretary Scott Bessent stated in March 2026 that traveling abroad at a time like the Iran war may not be optimal for President Trump; what was the primary reason given for potentially delaying the China trip?",
+    "a": "To remain in Washington, D.C. to coordinate the war effort."
+  },
+  {
+    "q": "In March 2026, Chinese Vice Premier He Lifeng showed openness to potential additional purchases of U.S. agricultural goods during talks in Paris; which specific meat products were mentioned?",
+    "a": "Poultry and beef."
+  },
+  {
+    "q": "According to a Reuters review of shipping data in March 2026, at what pace was Iranian crude oil flowing through the Strait of Hormuz despite the war?",
+    "a": "At a near-normal pace."
+  },
+  {
+    "q": "In March 2026, Chinese foreign ministry spokesperson Lin Jian gave a regular press conference; what did he say about the communication status between China and the U.S. regarding President Trump's trip?",
+    "a": "Both sides are communicating about the trip."
+  },
+  {
+    "q": "U.S. President Donald Trump sought to delay his meeting with Chinese President Xi Jinping in early 2026; which three specific issues were cited as separating the two economies alongside the Mideast crisis?",
+    "a": "Trade and Taiwan issues."
+  }
+]

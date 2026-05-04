@@ -1,0 +1,102 @@
+[
+  {
+    "q": "As of the news report published on March 1, 2026, what were the preliminary death toll figures reported for Iran, Israel, US soldiers, and Gulf states respectively in the ongoing US-Israel attacks?",
+    "a": "The preliminary figures were 1,255 dead in Iran, at least 13 in Israel, eight US soldiers, and 14 killed in Gulf states."
+  },
+  {
+    "q": "In the context of the Iran war reported in early March 2026, which individual was appointed as Iran’s new supreme leader, prompting rallies in Tehran?",
+    "a": "Mojtaba Khamenei was appointed as Iran’s new supreme leader."
+  },
+  {
+    "q": "According to the March 1, 2026 report, what was the stance of the Iranian government regarding ceasefire talks while the US threatened intense strikes?",
+    "a": "Iran ruled out ceasefire talks."
+  },
+  {
+    "q": "As of March 1, 2026, what specific threat did the United States issue regarding the intensity of its military operations against Iran?",
+    "a": "The US threatened the 'most intense day of strikes'."
+  },
+  {
+    "q": "In the geopolitical analysis reported on March 1, 2026, which country was identified by the EU Council president as the only 'winner' of the US-Israel war on Iran?",
+    "a": "Russia was identified as the only 'winner'."
+  },
+  {
+    "q": "What impact on global energy markets was reported in early March 2026 as a result of the Iran war, specifically affecting Pakistan and Gulf states?",
+    "a": "The war triggered an oil crisis, leading Pakistan to order sweeping austerity measures and causing soaring oil prices."
+  },
+  {
+    "q": "As of March 1, 2026, what was the reported status of Hezbollah disarmament in Lebanon relative to the intensification of Israeli attacks?",
+    "a": "Hezbollah disarmament took backseat to the intensification of Israeli attacks."
+  },
+  {
+    "q": "What was the reported impact of the Iran war on food prices in Gaza as of early March 2026?",
+    "a": "Gaza food prices soared due to border closures deepening shortages amid the Iran war."
+  },
+  {
+    "q": "In the March 1, 2026 report, what demographic statistic was provided regarding foreign workers in the six Gulf Cooperation Council (GCC) countries?",
+    "a": "More than half of the 62 million people in the six GCC countries are foreign workers, with 35 million foreigners living in the GCC."
+  },
+  {
+    "q": "What was the reported impact of the Iran war on Greenland’s ski industry in January 2026?",
+    "a": "Greenland experienced its warmest January on record, resulting in no snow and the shutdown of the Nuuk ski resort."
+  },
+  {
+    "q": "As of March 1, 2026, what was the reported impact of the Iran war on US consumers regarding fuel costs?",
+    "a": "US consumers expressed dismay over rising gas prices following the attack on Iran."
+  },
+  {
+    "q": "What was the reported outcome for a woman in Bahrain in the context of the Iran war as of early March 2026?",
+    "a": "A woman was killed in Bahrain as Gulf states intercepted more Iranian missiles."
+  },
+  {
+    "q": "According to the March 1, 2026 report, how did the Iran war affect social media trends in the United States?",
+    "a": "The war was fuelling a surge in Islamophobic social media posts in the US."
+  },
+  {
+    "q": "What was the reported status of the conflict between the US and Israel and Iran on the specific day referenced in the 'Day 11' update?",
+    "a": "The US-Israel attacks on Iran were on day 11, with Iran ruling out ceasefire talks and the US threatening intense strikes."
+  },
+  {
+    "q": "As of March 1, 2026, what was the reported plan of Iran regarding its long-term strategy with the US and Israel?",
+    "a": "Iran’s plan was described as that of the 'Fourth Successor' for a long war with the US and Israel."
+  },
+  {
+    "q": "What was the reported impact of the Iran war on the Gaza crisis as of early March 2026?",
+    "a": "The expanding regional conflict shifted global attention as Gaza faced border closures, inflation, and 'ceasefire' violations."
+  },
+  {
+    "q": "In the March 1, 2026 report, what was the reported status of the fishing industry in Gaza?",
+    "a": "Gaza’s fishing industry collapsed under the Israeli blockade, leaving fishermen risking their lives for minimal catches."
+  },
+  {
+    "q": "What was the reported impact of the Iran war on Sudan’s infrastructure as of early March 2026?",
+    "a": "Volunteers were rebuilding Sudan’s oldest psychiatric hospital, which had been destroyed by war."
+  },
+  {
+    "q": "As of March 1, 2026, what statement did US President Donald Trump make regarding sanctions on oil producers during the Iran war?",
+    "a": "Trump said some sanctions were to be lifted on oil producers amid the Iran war."
+  },
+  {
+    "q": "What was the reported stance of German Chancellor Friedrich Merz regarding a quick end to the Iran war as of March 1, 2026?",
+    "a": "Merz said he saw 'no common plan' to quickly end the Iran war."
+  },
+  {
+    "q": "As of March 1, 2026, what was the reported impact of the Iran war on US foreign policy debates?",
+    "a": "Trump’s pledge to end America’s foreign wars sparked debate among his supporter base."
+  },
+  {
+    "q": "What was the reported activity of US investigators in New Mexico as of March 1, 2026?",
+    "a": "US investigators began a search of Jeffrey Epstein’s former ranch in New Mexico."
+  },
+  {
+    "q": "As of March 1, 2026, what was the reported impact of the Iran war on the Strait of Hormuz?",
+    "a": "There were geopolitical analyses and questions about whether Trump could 'take over' the Strait of Hormuz as oil prices rose."
+  },
+  {
+    "q": "What was the reported impact of the Iran war on the world's geopolitical alignment as of March 1, 2026?",
+    "a": "Analyses suggested it was time for the world to move on without the United States."
+  },
+  {
+    "q": "As of March 1, 2026, what was the reported status of Israel’s military operations in Lebanon?",
+    "a": "Israel launched a new wave of attacks on southern and eastern Lebanon, with residents in Saida awaiting strikes amid more displacement."
+  }
+]

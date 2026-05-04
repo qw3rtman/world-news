@@ -1,0 +1,65 @@
+{
+  "spike_index": 8,
+  "direction": "up",
+  "price_before": 0.545,
+  "price_after": 0.72,
+  "delta": 0.17499999999999993,
+  "abs_delta": 0.17499999999999993,
+  "timestamp_before": "2026-03-04T18:30:35+00:00",
+  "timestamp_after": "2026-03-05T02:00:34+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://apnews.com/article/iran-israel-us-march-6-2026-6108249f19c4bc162eacd7847976c174",
+      "file": "ab9c10786f7b.txt",
+      "title": "Explosions rock Iran's capital, and more attacks target Israel | AP News",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": null,
+      "text_length": 7732,
+      "status": "ok",
+      "num_tokens": 1588
+    },
+    {
+      "url": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-05-26?post-id=cmmdap1w600003b6s5xfcj2op",
+      "file": "d3d33423ea5d.txt",
+      "title": "Day 6 of Middle East conflict \u2014 countries intercepting Iranian strikes, US ramps up campaign | CNN",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Helen Regan, Paula Newton, Michael Rios, Aditi Sangal, Austin Culpepper, Nina Giraldo, Tamar Michaelis, Vasco Cotovio, Clarissa Ward, Nechirvan Mando, Mitchell McCluskey, Sharon Braithwaite, Max Saltman, Haley Britzky, Tori B. Powell, Maureen Chowdhury, Oren Liebermann, Samantha Waldenberg, Piper Hudspeth Blackburn, Adam Cancryn, Sarah Ferris, Annie Grayer, Matt Egan, John Towfighi, Thomas Bordeaux, Gianluca Mezzofiore, Lauren Kent, Sophie Tanno, Joseph Ataman, Alex  Leeds Matthews, Soph Warnes, Rosa de Acosta, Rhyannon Bartlett-Imadegawa, Lou Robinson, Ren\u00e9e Rigdon, Yahya Salem, Jennifer Hansler, Zachary Cohen, Eyad Kourdi, Charbel Mallo, Nina Subkhanberdina, Sana Noor Haq, Alejandra Jaramillo, Zeena Saifi, Avery Schmitz, Mostafa Salem, Rebekah Riess, Charlotte Reck, Tala Alrajjal, Billy Stockwell, Kaanita Iyer, Logan Schiciano, Brian Stelter, Barbie Latza Nadeau, Chris Isidore, Leila Gharagozlou, Olesya Dmitracova, Eugenia Yosef, Jessie Yeung, Todd Symons, Antoinette Radford, Rhea Mogul, Laura Sharman, Yoonjung Seo, Karina Tsui, Will Ripley, Kareem El Damanhoury, Frederik Pleitgen, Ivan Watson, Yumi Asada, Katherine Dautrich",
+      "text_length": 19747,
+      "status": "ok",
+      "num_tokens": 3931
+    },
+    {
+      "url": "https://www.pbs.org/newshour/world/what-to-know-about-the-joint-u-s-israeli-attacks-on-iran",
+      "file": "1a79c4f0b8fc.txt",
+      "title": "What to know about the joint U.S.-Israeli attacks on Iran | PBS News",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 7035,
+      "status": "ok",
+      "num_tokens": 1365
+    },
+    {
+      "url": "https://reuters.com/world/europe/irans-strikes-gulf-states-may-widen-war-against-tehran-analysts-say-2026-03-03/",
+      "file": "a77f6a3fb94a.txt",
+      "title": "Iran's strikes on Gulf states may widen war against Tehran, analysts say | Reuters",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Samia Nakhoul",
+      "text_length": 5743,
+      "status": "ok",
+      "num_tokens": 1110
+    },
+    {
+      "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/03/02/iran-2026-world-cup-news-usa-attacks/88944227007/",
+      "file": "ba5069adf67f.txt",
+      "title": "Will Iran be at 2026 World Cup? What we know after USA attack",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 4561,
+      "status": "ok",
+      "num_tokens": 963
+    }
+  ],
+  "total_tokens": 8957
+}

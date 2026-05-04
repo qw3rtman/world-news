@@ -1,0 +1,102 @@
+[
+  {
+    "q": "During the phone conversation between U.S. President Donald Trump and Russian President Vladimir Putin that took place on Monday, March 9, 2026, which two specific conflicts were the primary subjects of their discussion?",
+    "a": "The wars in Iran and in Ukraine."
+  },
+  {
+    "q": "According to the Kremlin readout of the call on March 9, 2026, what was the approximate duration of the conversation between U.S. President Donald Trump and Russian President Vladimir Putin?",
+    "a": "About an hour."
+  },
+  {
+    "q": "In the context of the March 9, 2026, phone call between U.S. President Donald Trump and Russian President Vladimir Putin, what specific goal did Russian President Vladimir Putin state he was proposing to achieve regarding the conflict in Iran?",
+    "a": "A quick settlement to the Iran war."
+  },
+  {
+    "q": "Prior to the March 9, 2026, conversation between U.S. President Donald Trump and Russian President Vladimir Putin, which two groups of leaders did Russian President Vladimir Putin claim to have been in contact with regarding the Iran conflict?",
+    "a": "Gulf leaders and Iranian President Masoud Pezeshkian."
+  },
+  {
+    "q": "Beyond the wars in Iran and Ukraine, which two additional topics did U.S. President Donald Trump and Russian President Vladimir Putin discuss during their phone call on Monday, March 9, 2026?",
+    "a": "Venezuela and energy markets."
+  },
+  {
+    "q": "Which organization provided the official readout of the phone conversation between U.S. President Donald Trump and Russian President Vladimir Putin on March 9, 2026?",
+    "a": "The Kremlin."
+  },
+  {
+    "q": "Who is the President of Iran that Russian President Vladimir Putin stated he had been in contact with prior to his March 9, 2026, call with U.S. President Donald Trump?",
+    "a": "Masoud Pezeshkian."
+  },
+  {
+    "q": "On what specific day of the week did U.S. President Donald Trump and Russian President Vladimir Putin hold their first conversation since the start of the Iran war, as reported on March 9, 2026?",
+    "a": "Monday."
+  },
+  {
+    "q": "What was the first time since which major geopolitical event that U.S. President Donald Trump and Russian President Vladimir Putin spoke, according to the March 9, 2026, report?",
+    "a": "The start of the Iran war."
+  },
+  {
+    "q": "Which two nations' conflicts were explicitly linked in the discussion between U.S. President Donald Trump and Russian President Vladimir Putin during their March 9, 2026, call?",
+    "a": "Iran and Ukraine."
+  },
+  {
+    "q": "According to the March 9, 2026, Kremlin readout, which regional leaders did Russian President Vladimir Putin mention contacting as part of his efforts to settle the Iran war?",
+    "a": "Gulf leaders."
+  },
+  {
+    "q": "What specific economic and geopolitical topics, other than the wars in Iran and Ukraine, were addressed by U.S. President Donald Trump and Russian President Vladimir Putin in their March 9, 2026, conversation?",
+    "a": "Venezuela and energy markets."
+  },
+  {
+    "q": "Who were the two heads of state that engaged in an approximately one-hour telephone conversation on Monday, March 9, 2026?",
+    "a": "U.S. President Donald Trump and Russian President Vladimir Putin."
+  },
+  {
+    "q": "In the March 9, 2026, call between U.S. President Donald Trump and Russian President Vladimir Putin, what specific outcome did Russian President Vladimir Putin propose to Russian President Vladimir Putin regarding the ongoing conflict in Iran?",
+    "a": "A quick settlement."
+  },
+  {
+    "q": "Which Iranian official's name was cited by Russian President Vladimir Putin as someone he had contacted before speaking with U.S. President Donald Trump on March 9, 2026?",
+    "a": "Iranian President Masoud Pezeshkian."
+  },
+  {
+    "q": "What was the primary diplomatic focus of Russian President Vladimir Putin's proposals during his March 9, 2026, conversation with U.S. President Donald Trump?",
+    "a": "Achieving a quick settlement to the Iran war."
+  },
+  {
+    "q": "Besides the conflicts in Iran and Ukraine, which South American country was discussed by U.S. President Donald Trump and Russian President Vladimir Putin during their March 9, 2026, phone call?",
+    "a": "Venezuela."
+  },
+  {
+    "q": "What specific sector of the global economy was discussed by U.S. President Donald Trump and Russian President Vladimir Putin during their March 9, 2026, conversation, alongside the topic of Venezuela?",
+    "a": "Energy markets."
+  },
+  {
+    "q": "According to the March 9, 2026, report, how long did the telephone conversation last between U.S. President Donald Trump and Russian President Vladimir Putin?",
+    "a": "About an hour."
+  },
+  {
+    "q": "Which two specific wars were the subject of the first conversation between U.S. President Donald Trump and Russian President Vladimir Putin since the beginning of the conflict in Iran?",
+    "a": "The war in Iran and the war in Ukraine."
+  },
+  {
+    "q": "Who did Russian President Vladimir Putin claim to have been in contact with, in addition to Gulf leaders, prior to his March 9, 2026, call with U.S. President Donald Trump?",
+    "a": "Iranian President Masoud Pezeshkian."
+  },
+  {
+    "q": "What was the stated purpose of Russian President Vladimir Putin's proposals during his March 9, 2026, conversation with U.S. President Donald Trump?",
+    "a": "To achieve a quick settlement to the Iran war."
+  },
+  {
+    "q": "Which two additional topics, distinct from the wars in Iran and Ukraine, were covered in the March 9, 2026, phone call between U.S. President Donald Trump and Russian President Vladimir Putin?",
+    "a": "Venezuela and energy markets."
+  },
+  {
+    "q": "On what date did the Kremlin release the readout of the conversation between U.S. President Donald Trump and Russian President Vladimir Putin?",
+    "a": "March 9, 2026."
+  },
+  {
+    "q": "Which two countries' leaders did Russian President Vladimir Putin say he had contacted to help achieve a quick settlement to the Iran war before speaking with U.S. President Donald Trump?",
+    "a": "Gulf states (via Gulf leaders) and Iran (via President Masoud Pezeshkian)."
+  }
+]

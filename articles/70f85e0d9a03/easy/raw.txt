@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On February 21, 2026, what specific military action did the United States undertake in the Middle East as reported by CNN?",
+    "a": "US assets struck across the Middle East."
+  },
+  {
+    "q": "In response to the escalating situation in the Middle East as of February 21, 2026, what major logistical effort were European nations undertaking?",
+    "a": "European nations were scrambling to evacuate citizens stranded in the Middle East."
+  },
+  {
+    "q": "On February 21, 2026, what defensive action did the Israeli military claim to have taken regarding projectiles originating from Lebanon?",
+    "a": "The Israeli military said it intercepted rockets launched from Lebanon."
+  },
+  {
+    "q": "As of February 21, 2026, which country was analyzed as potentially benefiting from US President Donald Trump's call to safeguard the Strait of Hormuz?",
+    "a": "China may benefit from Trump's call to safeguard the Strait of Hormuz."
+  },
+  {
+    "q": "On February 21, 2026, what additional operational order did Israel's military issue concerning its presence in southern Lebanon?",
+    "a": "Israel's military ordered further evacuations in southern Lebanon."
+  },
+  {
+    "q": "During the news cycle of February 21, 2026, which two distinct military entities were involved in actions related to Lebanon?",
+    "a": "The Israeli military intercepted rockets from Lebanon and ordered further evacuations in southern Lebanon."
+  },
+  {
+    "q": "On February 21, 2026, what strategic maritime concern raised by US President Donald Trump was linked to potential economic advantages for China?",
+    "a": "Trump's call to safeguard the Strait of Hormuz."
+  },
+  {
+    "q": "In the context of the February 21, 2026 Middle East tensions, which group of nations was actively managing the safety of its nationals abroad?",
+    "a": "European nations were scrambling to evacuate citizens stranded in the Middle East."
+  },
+  {
+    "q": "What dual action did the Israeli military report taking on February 21, 2026, involving both defensive interception and operational withdrawal?",
+    "a": "It intercepted rockets launched from Lebanon and ordered further evacuations in southern Lebanon."
+  },
+  {
+    "q": "On February 21, 2026, which US President's policy regarding a specific maritime chokepoint was highlighted as a factor that might benefit China?",
+    "a": "US President Donald Trump's call to safeguard the Strait of Hormuz."
+  },
+  {
+    "q": "What specific geographic region was the focus of US military strikes reported on February 21, 2026?",
+    "a": "The Middle East."
+  },
+  {
+    "q": "On February 21, 2026, which country's military forces were reported to be intercepting projectiles coming from a neighboring country?",
+    "a": "The Israeli military intercepted rockets launched from Lebanon."
+  },
+  {
+    "q": "What evacuation efforts were being coordinated by European governments on February 21, 2026, in response to regional instability?",
+    "a": "Evacuating citizens stranded in the Middle East."
+  },
+  {
+    "q": "Which specific body of water did US President Donald Trump call to safeguard, a move analyzed as potentially benefiting China on February 21, 2026?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "On February 21, 2026, what specific directive did Israel's military give regarding its personnel or operations in southern Lebanon?",
+    "a": "It ordered further evacuations in southern Lebanon."
+  },
+  {
+    "q": "Which two nations were identified in the February 21, 2026 reports as having direct military or strategic interactions involving Lebanon and the Strait of Hormuz?",
+    "a": "Israel and China."
+  },
+  {
+    "q": "What was the primary reason European nations were scrambling on February 21, 2026, according to the news reports?",
+    "a": "To evacuate citizens stranded in the Middle East."
+  },
+  {
+    "q": "On February 21, 2026, what type of weapon did the Israeli military state it had intercepted, and from where did they originate?",
+    "a": "Rockets launched from Lebanon."
+  },
+  {
+    "q": "Which US President's strategic communication regarding maritime security was linked to potential gains for China on February 21, 2026?",
+    "a": "US President Donald Trump."
+  },
+  {
+    "q": "What was the combined military activity of Israel on February 21, 2026, as reported by CNN?",
+    "a": "Intercepting rockets from Lebanon and ordering further evacuations in southern Lebanon."
+  },
+  {
+    "q": "On February 21, 2026, which US military assets were reported to have conducted strikes in the Middle East?",
+    "a": "US assets."
+  },
+  {
+    "q": "What specific geopolitical event on February 21, 2026, prompted European nations to initiate emergency evacuation procedures?",
+    "a": "The general instability in the Middle East, including US strikes and Israeli-Lebanon tensions."
+  },
+  {
+    "q": "Which two countries were mentioned in the February 21, 2026 headlines as having military actions or strategic interests in the Middle East region?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "On February 21, 2026, what was the specific outcome of the Israeli military's engagement with forces in Lebanon?",
+    "a": "They intercepted rockets and ordered further evacuations in southern Lebanon."
+  },
+  {
+    "q": "Which country's economic potential was linked to US President Donald Trump's February 21, 2026, statement about the Strait of Hormuz?",
+    "a": "China."
+  }
+]

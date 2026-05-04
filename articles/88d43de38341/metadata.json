@@ -1,0 +1,37 @@
+{
+  "hash": "88d43de38341",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-rate-today-silver-price-live-updates-22-carat-24k-gold-rate-silver-per-kg-mcx-comex-etf-stock-market-precious-metal-february-city-wise-cost-latest-new/liveblog/128768764.cms",
+      "title": "Gold, Silver Rate Today Live Updates: Gold prices rise as safe haven demand back in focus  - The Times of India",
+      "published_date": "2026-02-25T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1019,
+      "text_length": 4769
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1032343",
+      "spike_id": 10,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.18800000000000006,
+      "spike_timestamp_before": "2026-02-24T13:30:16+00:00",
+      "spike_timestamp_after": "2026-02-25T07:30:17+00:00"
+    },
+    {
+      "market_id": "1032343",
+      "spike_id": 11,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.17350000000000004,
+      "spike_timestamp_before": "2026-02-24T20:30:18+00:00",
+      "spike_timestamp_after": "2026-02-25T20:30:18+00:00"
+    }
+  ]
+}

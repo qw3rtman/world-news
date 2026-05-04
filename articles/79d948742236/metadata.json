@@ -1,0 +1,87 @@
+{
+  "hash": "79d948742236",
+  "n_appearances": 7,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.pbs.org/newshour/classroom/daily-news-lessons/2026/03/what-we-know-about-the-us-israel-attacks-on-iran",
+      "title": "What we know about the U.S.-Israel attacks on Iran | PBS News Hour Classroom",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1357,
+      "text_length": 6274
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1198523",
+      "spike_id": 3,
+      "market_question": "Will US or Israel strike Iran by March 31, 2026?",
+      "event_title": "US/Israel strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.4445,
+      "spike_timestamp_before": "2026-02-27T09:30:25+00:00",
+      "spike_timestamp_after": "2026-02-28T09:00:43+00:00"
+    },
+    {
+      "market_id": "1198592",
+      "spike_id": 1,
+      "market_question": "Will US or Israel strike Iran by December 31, 2026?",
+      "event_title": "US/Israel strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.2695000000000001,
+      "spike_timestamp_before": "2026-02-27T08:00:25+00:00",
+      "spike_timestamp_after": "2026-02-28T07:30:27+00:00"
+    },
+    {
+      "market_id": "1399066",
+      "spike_id": 3,
+      "market_question": "US strikes Iran by March 4, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.8635,
+      "spike_timestamp_before": "2026-02-27T08:30:20+00:00",
+      "spike_timestamp_after": "2026-02-28T08:00:33+00:00"
+    },
+    {
+      "market_id": "1465969",
+      "spike_id": 3,
+      "market_question": "Will US or Israel strike Iran on March 4, 2026?",
+      "event_title": "US/Israel strikes Iran on...?",
+      "spike_direction": "up",
+      "spike_delta": 0.26,
+      "spike_timestamp_before": "2026-02-28T14:30:27+00:00",
+      "spike_timestamp_after": "2026-03-01T08:00:27+00:00"
+    },
+    {
+      "market_id": "1465969",
+      "spike_id": 4,
+      "market_question": "Will US or Israel strike Iran on March 4, 2026?",
+      "event_title": "US/Israel strikes Iran on...?",
+      "spike_direction": "up",
+      "spike_delta": 0.31000000000000005,
+      "spike_timestamp_before": "2026-02-28T14:30:27+00:00",
+      "spike_timestamp_after": "2026-03-01T13:00:25+00:00"
+    },
+    {
+      "market_id": "1465969",
+      "spike_id": 5,
+      "market_question": "Will US or Israel strike Iran on March 4, 2026?",
+      "event_title": "US/Israel strikes Iran on...?",
+      "spike_direction": "up",
+      "spike_delta": 0.21500000000000008,
+      "spike_timestamp_before": "2026-02-28T21:30:42+00:00",
+      "spike_timestamp_after": "2026-03-01T15:30:35+00:00"
+    },
+    {
+      "market_id": "1465969",
+      "spike_id": 6,
+      "market_question": "Will US or Israel strike Iran on March 4, 2026?",
+      "event_title": "US/Israel strikes Iran on...?",
+      "spike_direction": "up",
+      "spike_delta": 0.22999999999999998,
+      "spike_timestamp_before": "2026-02-28T21:30:42+00:00",
+      "spike_timestamp_after": "2026-03-01T21:30:42+00:00"
+    }
+  ]
+}

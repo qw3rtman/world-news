@@ -1,0 +1,27 @@
+{
+  "hash": "cad6894f45dc",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.nbcnews.com/business/energy/oil-prices-iran-war-trump-wti-rcna263397?tpcc=eml_npd_nws_mrd_03162026",
+      "title": "U.S. oil tops $100 as Iran war shows no sign of ending soon",
+      "published_date": "2026-03-15T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 794,
+      "text_length": 3673
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1467765",
+      "spike_id": 27,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $110 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.2015,
+      "spike_timestamp_before": "2026-03-14T12:00:42+00:00",
+      "spike_timestamp_after": "2026-03-15T01:30:27+00:00"
+    }
+  ]
+}

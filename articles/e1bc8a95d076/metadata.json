@@ -1,0 +1,27 @@
+{
+  "hash": "e1bc8a95d076",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-02-28/russia-weighs-halt-to-peace-talks-unless-ukraine-cedes-territory",
+      "title": "Russia Weighs Halt to Peace Talks Unless Ukraine Cedes Land - Bloomberg",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 207,
+      "text_length": 933
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "677361",
+      "spike_id": 1,
+      "market_question": "Will Russia capture Kostyantynivka by March 31?",
+      "event_title": "Will Russia capture Kostyantynivka by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.15000000000000002,
+      "spike_timestamp_before": "2026-02-27T08:00:25+00:00",
+      "spike_timestamp_after": "2026-02-27T18:30:24+00:00"
+    }
+  ]
+}

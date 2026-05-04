@@ -1,0 +1,37 @@
+{
+  "hash": "66b4f40b1c1d",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-01/energy-in-focus-as-global-equity-traders-brace-for-iran-impact",
+      "title": "Global Stocks Face Volatility as Iran Conflict Drives Shift to Energy, Defense - Bloomberg",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Matthew Griffin",
+      "num_tokens": 92,
+      "text_length": 421
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "665307",
+      "spike_id": 5,
+      "market_question": "Will Iran close the Strait of Hormuz before 2027?",
+      "event_title": "Will Iran close the Strait of Hormuz by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.15449999999999997,
+      "spike_timestamp_before": "2026-03-01T19:00:24+00:00",
+      "spike_timestamp_after": "2026-03-02T09:00:24+00:00"
+    },
+    {
+      "market_id": "665307",
+      "spike_id": 6,
+      "market_question": "Will Iran close the Strait of Hormuz before 2027?",
+      "event_title": "Will Iran close the Strait of Hormuz by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.3475,
+      "spike_timestamp_before": "2026-03-02T00:00:41+00:00",
+      "spike_timestamp_after": "2026-03-02T21:00:24+00:00"
+    }
+  ]
+}

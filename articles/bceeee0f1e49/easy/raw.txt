@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the phone call on Monday, March 2, 2026, what specific diplomatic action did Russian President Vladimir Putin agree to take regarding complaints from UAE President Mohammed bin Zayed Al Nahyan about Iranian strikes?",
+    "a": "Putin agreed to relay the UAE president's complaints about Iranian strikes against UAE territory to Tehran."
+  },
+  {
+    "q": "What justification did UAE President Mohammed bin Zayed Al Nahyan provide during his March 2, 2026, phone call with Russian President Vladimir Putin for why Iranian strikes on the UAE could not be justified?",
+    "a": "He stated that the UAE was not being used as a base to attack Iran."
+  },
+  {
+    "q": "According to the Kremlin statement released on March 2, 2026, what two general goals did Russian President Vladimir Putin and UAE President Mohammed bin Zayed Al Nahyan agree were needed to address the regional situation?",
+    "a": "They agreed that an immediate ceasefire and a return to diplomacy were needed."
+  },
+  {
+    "q": "Which two countries did Russian President Vladimir Putin blame for derailing work to find a solution to concerns about Iran's nuclear programme in his March 2, 2026, conversation with UAE President Mohammed bin Zayed Al Nahyan?",
+    "a": "He blamed the United States and Israel for an unprovoked act of armed aggression."
+  },
+  {
+    "q": "For what specific reason did the Kremlin state that Russian President Vladimir Putin thanked UAE President Mohammed bin Zayed Al Nahyan during their March 2, 2026, phone call?",
+    "a": "Putin thanked him for his efforts to help Russian nationals in the current situation."
+  },
+  {
+    "q": "What role did Russian President Vladimir Putin offer to play in stabilizing the overall situation in the region during his March 2, 2026, call with UAE President Mohammed bin Zayed Al Nahyan?",
+    "a": "He expressed readiness to provide all possible assistance in stabilizing the overall situation in the region."
+  },
+  {
+    "q": "In the March 2, 2026, phone call between Russian President Vladimir Putin and UAE President Mohammed bin Zayed Al Nahyan, what did the UAE leader say about his country's status regarding attacks on Iran?",
+    "a": "The UAE leader said his country was not being used as a base to attack Iran."
+  },
+  {
+    "q": "What did the Kremlin statement on March 2, 2026, say Russian President Vladimir Putin lamented regarding the diplomatic efforts concerning Iran's nuclear programme?",
+    "a": "He lamented that the work had been derailed by an unprovoked act of armed aggression by the United States and Israel."
+  },
+  {
+    "q": "Which city in the United Arab Emirates is described as a popular destination for Russian tourists in the context of the March 2, 2026, diplomatic discussions between Russian President Vladimir Putin and UAE President Mohammed bin Zayed Al Nahyan?",
+    "a": "Dubai."
+  },
+  {
+    "q": "Who did the Kremlin report as the recipient of Russian President Vladimir Putin's offer to convey signals to Tehran regarding Iranian strikes on the UAE during their March 2, 2026, phone call?",
+    "a": "UAE President Mohammed bin Zayed Al Nahyan."
+  },
+  {
+    "q": "What specific complaint did UAE President Mohammed bin Zayed Al Nahyan raise with Russian President Vladimir Putin on March 2, 2026, that Putin agreed to relay to another nation?",
+    "a": "He raised complaints about Iranian strikes against UAE territory."
+  },
+  {
+    "q": "According to the March 2, 2026, Kremlin statement, what did Russian President Vladimir Putin express readiness to do in addition to relaying complaints to Tehran?",
+    "a": "He expressed readiness to provide all possible assistance in stabilizing the overall situation in the region."
+  },
+  {
+    "q": "What two outcomes did Russian President Vladimir Putin and UAE President Mohammed bin Zayed Al Nahyan agree were necessary following their March 2, 2026, phone call?",
+    "a": "They agreed an immediate ceasefire and a return to diplomacy were needed."
+  },
+  {
+    "q": "Which two nations did Russian President Vladimir Putin identify as responsible for derailing solutions to concerns about Iran's nuclear programme during his March 2, 2026, call with UAE President Mohammed bin Zayed Al Nahyan?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "For what assistance did Russian President Vladimir Putin thank UAE President Mohammed bin Zayed Al Nahyan in their March 2, 2026, conversation, as reported by the Kremlin?",
+    "a": "He thanked him for efforts to help Russian nationals in the current situation."
+  },
+  {
+    "q": "What was the primary subject of the phone call between Russian President Vladimir Putin and UAE President Mohammed bin Zayed Al Nahyan on Monday, March 2, 2026?",
+    "a": "The call focused on Iranian strikes against UAE territory and the need for a ceasefire."
+  },
+  {
+    "q": "How did UAE President Mohammed bin Zayed Al Nahyan characterize the UAE's involvement with Iran during his March 2, 2026, phone call with Russian President Vladimir Putin?",
+    "a": "He stated that the UAE was not being used as a base to attack Iran."
+  },
+  {
+    "q": "What did the Kremlin statement on March 2, 2026, say Russian President Vladimir Putin said about the impact of the United States and Israel on Iran's nuclear programme negotiations?",
+    "a": "He said their unprovoked act of armed aggression had derailed work to find a solution."
+  },
+  {
+    "q": "Which specific group of people did UAE President Mohammed bin Zayed Al Nahyan help in the context of the March 2, 2026, regional situation, prompting thanks from Russian President Vladimir Putin?",
+    "a": "Russian nationals."
+  },
+  {
+    "q": "What did the Kremlin say Russian President Vladimir Putin was ready to do with the signals conveyed by UAE President Mohammed bin Zayed Al Nahyan during their March 2, 2026, phone call?",
+    "a": "He was ready to convey these signals to Tehran."
+  },
+  {
+    "q": "What general assistance did Russian President Vladimir Putin offer to UAE President Mohammed bin Zayed Al Nahyan to help stabilize the region during their March 2, 2026, call?",
+    "a": "He offered to provide all possible assistance in stabilizing the overall situation in the region."
+  },
+  {
+    "q": "What two specific actions did Russian President Vladimir Putin and UAE President Mohammed bin Zayed Al Nahyan agree were needed to resolve the tensions discussed in their March 2, 2026, phone call?",
+    "a": "They agreed an immediate ceasefire and a return to diplomacy were needed."
+  },
+  {
+    "q": "Which two countries did Russian President Vladimir Putin blame for the derailment of diplomatic efforts regarding Iran's nuclear programme in his March 2, 2026, discussion with UAE President Mohammed bin Zayed Al Nahyan?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "What reason did the Kremlin give for Russian President Vladimir Putin thanking UAE President Mohammed bin Zayed Al Nahyan during their March 2, 2026, phone call?",
+    "a": "Putin thanked him for his efforts to help Russian nationals in the current situation."
+  },
+  {
+    "q": "What did UAE President Mohammed bin Zayed Al Nahyan state about the justification for Iranian strikes on the UAE during his March 2, 2026, call with Russian President Vladimir Putin?",
+    "a": "He stated that such strikes could not be justified because the UAE was not being used as a base to attack Iran."
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the February 2026 survey of 34 economists and analysts, what was the revised 2026 average price forecast for Brent crude per barrel, and how did it compare to the January 2026 forecast?",
+    "a": "The revised forecast was $63.85 per barrel, up from the January 2026 forecast of $62.02 per barrel."
+  },
+  {
+    "q": "According to the February 2026 analyst survey, what was the projected 2026 average price for U.S. crude (WTI) per barrel, and what were the respective year-to-date averages for Brent and WTI benchmarks?",
+    "a": "U.S. crude was projected to average $60.38 per barrel, while year-to-date averages were $70.48 for Brent and $65.01 for WTI."
+  },
+  {
+    "q": "What specific geopolitical risk premium range per barrel did analysts attribute to concerns about a potential conflict between the United States and Iran in early 2026?",
+    "a": "Analysts attributed a risk premium of $4 per barrel to $10 per barrel to the potential U.S.-Iran conflict."
+  },
+  {
+    "q": "Which U.S. President delivered a State of the Union speech in late February 2026 that outlined a case for a possible attack on Iran, contributing to the geopolitical risk premium in oil markets?",
+    "a": "U.S. President Donald Trump delivered the State of the Union speech."
+  },
+  {
+    "q": "Norbert Rucker, head of economics and next generation research at Julius Baer, stated in February 2026 that oil prices included a geopolitical risk premium; what did he predict would happen to market focus after the attention on Iran tensions exhausted?",
+    "a": "He predicted the focus would return to the supply glut and the lasting pressure on prices."
+  },
+  {
+    "q": "In February 2025, analysts had expected Brent and WTI crude to average what prices for the year 2025, and what were the actual average prices realized over that year?",
+    "a": "Analysts expected Brent to average $74.63 and WTI to average $70.66, but actual averages were $68.19 and $64.73 respectively."
+  },
+  {
+    "q": "Cyrus De La Rubia, chief economist at Hamburg Commercial Bank, noted in February 2026 that China had recently added approximately how many barrels per day to its strategic reserves, and how does a slowdown in this activity affect the market?",
+    "a": "China added around 1 million barrels per day to its reserves; a slowdown would further increase the oversupply."
+  },
+  {
+    "q": "What range of market surplus in barrels per day did analysts estimate for the later part of 2026, and which country's stockpiling efforts were cited as a key factor influencing this surplus?",
+    "a": "The estimated surplus ranged from 0.8 million to 3.5 million barrels per day, hinging in part on China's stockpiling efforts."
+  },
+  {
+    "q": "According to three sources with knowledge of OPEC+ thinking reported in February 2026, by how many barrels per day was OPEC+ likely to consider increasing oil output for April 2026?",
+    "a": "OPEC+ was likely to consider increasing output by 137,000 barrels per day."
+  },
+  {
+    "q": "The proposed OPEC+ output increase in April 2026 would end a pause in production increases that lasted for how many months, and what seasonal demand factor was the group preparing for?",
+    "a": "The increase would end a three-month pause, as the group prepared for peak summer demand."
+  },
+  {
+    "q": "How many OPEC+ producers were set to meet in late February 2026 to discuss oil policy, and what did MarketPulse by OANDA analyst Zain Vawda suggest might embolden OPEC to resume output hikes if the geopolitical risk premium remained in play?",
+    "a": "Eight OPEC+ producers were set to meet; Zain Vawda suggested the remaining geopolitical risk premium might embolden them to resume output hikes."
+  },
+  {
+    "q": "What trend did most analysts expect for U.S. oil production in 2026, and what range of daily oil demand growth did most analysts project for the same year?",
+    "a": "Analysts expected U.S. oil production to either plateau or slightly decline, while projecting oil demand growth between 0.5 and 1.1 million barrels per day."
+  },
+  {
+    "q": "Surabhi Menon, a research analyst at the Economist Intelligence Unit, cited three specific factors in February 2026 that would add downward pressure to oil demand growth in 2026; what were they?",
+    "a": "The factors were high prices, an economic slowdown due to trade uncertainties, and a higher adoption of electric vehicles (EVs)."
+  },
+  {
+    "q": "In the February 2026 Reuters survey, which two specific crude benchmarks had their 2026 average price forecasts raised due to supply risks from ongoing geopolitical tensions?",
+    "a": "The forecasts for Brent crude and U.S. crude (WTI) were raised."
+  },
+  {
+    "q": "What specific concern did analysts cite as continuing to weigh on the oil market in 2026, despite the raised price forecasts driven by geopolitical risks?",
+    "a": "Concerns that an oversupply would continue to weigh on the market."
+  },
+  {
+    "q": "According to the February 2026 survey, what was the January 2026 forecast for Brent crude, and what was the February 2026 revised forecast for the same benchmark?",
+    "a": "The January 2026 forecast was $62.02 per barrel, and the February 2026 revised forecast was $63.85 per barrel."
+  },
+  {
+    "q": "What was the January 2026 estimate for U.S. crude prices, and what was the February 2026 projected average for U.S. crude, as reported in the Reuters survey?",
+    "a": "The January 2026 estimate was $58.72 per barrel, and the February 2026 projection was $60.38 per barrel."
+  },
+  {
+    "q": "Who is Norbert Rucker, and what was his assessment in February 2026 regarding the composition of oil prices and the future focus of the market regarding Iran tensions?",
+    "a": "Norbert Rucker is the head of economics and next generation research at Julius Baer; he assessed that oil prices were bloated with a geopolitical risk premium and that focus would return to the supply glut after Iran tensions subsided."
+  },
+  {
+    "q": "Cyrus De La Rubia, chief economist at Hamburg Commercial Bank, explained in February 2026 how China's recent actions affected the market; specifically, how much did China add to its reserves, and what is the effect of removing this surplus from the market?",
+    "a": "China added around 1 million barrels per day to its reserves, effectively removing part of the surplus from the market."
+  },
+  {
+    "q": "What specific output increase did OPEC+ consider for April 2026, and what was the duration of the previous pause in production increases that this move would end?",
+    "a": "OPEC+ considered an increase of 137,000 barrels per day, ending a three-month pause in production increases."
+  },
+  {
+    "q": "Zain Vawda, an analyst at MarketPulse by OANDA, commented in February 2026 on the potential impact of the geopolitical risk premium on OPEC's decisions; what condition did he suggest might embolden OPEC to resume output hikes?",
+    "a": "He suggested that if the geopolitical risk premium remained in play by the time of the meeting, it might embolden OPEC to resume output hikes."
+  },
+  {
+    "q": "Surabhi Menon of the Economist Intelligence Unit identified three drivers of downward pressure on oil demand growth in 2026; list these three drivers as cited in her February 2026 statement.",
+    "a": "The three drivers were high prices, an economic slowdown due to trade uncertainties, and a higher adoption of electric vehicles (EVs)."
+  },
+  {
+    "q": "In the February 2026 survey, what was the estimated range for the market surplus in barrels per day for the later part of 2026, and which nation's stockpiling efforts were highlighted as a variable in determining this surplus?",
+    "a": "The estimated surplus ranged from 0.8 million to 3.5 million barrels per day, with China's stockpiling efforts being a key variable."
+  },
+  {
+    "q": "What were the actual average prices for Brent and WTI crude over the year 2025, and how did these compare to the February 2025 analyst expectations for those same benchmarks?",
+    "a": "Actual averages were $68.19 for Brent and $64.73 for WTI, compared to February 2025 expectations of $74.63 for Brent and $70.66 for WTI."
+  },
+  {
+    "q": "Which U.S. President's State of the Union speech in late February 2026 was cited as a factor laying out the case for a possible attack on Iran, thereby contributing to the oil price risk premium?",
+    "a": "U.S. President Donald Trump's State of the Union speech."
+  }
+]

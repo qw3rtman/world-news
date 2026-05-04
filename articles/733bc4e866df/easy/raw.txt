@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On March 17, 2026, what was the price of spot gold per ounce as reported by 04:03 p.m. U.S. time?",
+    "a": "$5,000.61"
+  },
+  {
+    "q": "During the week of March 17, 2026, by what percentage did U.S. gold futures for April delivery rise, and what was their final price?",
+    "a": "They rose 0.07% to $5,005.90."
+  },
+  {
+    "q": "In March 2026, which senior analyst at Kitco Metals described the gold market as reflecting a \"balancing act\" between safe-haven demand and inflation pressures?",
+    "a": "Jim Wyckoff"
+  },
+  {
+    "q": "As of March 17, 2026, how many weeks had the U.S.-Israeli war on Iran been ongoing?",
+    "a": "Three weeks"
+  },
+  {
+    "q": "On March 17, 2026, which country's security chief was claimed to have been killed by Israel during the conflict with Iran?",
+    "a": "Iran"
+  },
+  {
+    "q": "In March 2026, what demand did the new supreme leader of Iran make regarding Israel and the U.S. before accepting de-escalation offers?",
+    "a": "He demanded they be \"brought to their knees.\""
+  },
+  {
+    "q": "On March 17, 2026, by how much did international oil prices rise for the day amid the Iran conflict?",
+    "a": "More than 1%"
+  },
+  {
+    "q": "When was the U.S. Federal Reserve expected to announce its interest rate decision in March 2026?",
+    "a": "Wednesday"
+  },
+  {
+    "q": "In March 2026, what was the general investor expectation regarding the U.S. Federal Reserve's action on interest rates?",
+    "a": "To keep rates steady"
+  },
+  {
+    "q": "Which financial institution stated in a March 2026 note that the Fed meeting was unlikely to provide impetus to gold prices?",
+    "a": "Commerzbank"
+  },
+  {
+    "q": "According to Jim Wyckoff in March 2026, why does bullion become less attractive in a high-rate environment?",
+    "a": "Because it yields no interest."
+  },
+  {
+    "q": "On March 17, 2026, by what percentage did spot silver fall to reach $79.17 per ounce?",
+    "a": "1.97%"
+  },
+  {
+    "q": "Earlier in the trading session on March 17, 2026, by what percentage had spot silver fallen before closing at $79.17 per ounce?",
+    "a": "3%"
+  },
+  {
+    "q": "On March 17, 2026, what was the price of spot platinum per ounce, and by what percentage did it gain?",
+    "a": "$2,124.30, gaining 0.48%."
+  },
+  {
+    "q": "On March 17, 2026, what was the price of palladium per ounce, and by what percentage did it rise?",
+    "a": "$1,605.12, rising 0.41%."
+  },
+  {
+    "q": "In March 2026, what two factors did Jim Wyckoff identify as creating a \"balancing act\" in the gold market?",
+    "a": "Safe-haven demand from geopolitical uncertainty and bearish pressures from inflation."
+  },
+  {
+    "q": "According to Commerzbank in March 2026, what uncertainty surrounding the Iran war was likely to make the Federal Reserve cautious?",
+    "a": "The duration of the war and the disruption to oil supplies."
+  },
+  {
+    "q": "On March 17, 2026, which intermediaries conveyed de-escalation offers to Iran's new supreme leader?",
+    "a": "Intermediaries (specific names not provided in the article)."
+  },
+  {
+    "q": "In March 2026, what specific outcome did Jim Wyckoff predict for gold prices despite believing the bulls had \"run out of gas\"?",
+    "a": "He predicted gold would probably make new record highs."
+  },
+  {
+    "q": "On March 17, 2026, which two countries were engaged in a war that had disrupted energy trade by its third week?",
+    "a": "The U.S. and Israel (against Iran)."
+  },
+  {
+    "q": "As of March 17, 2026, what role did bullion play during periods of uncertainty and inflation according to the article?",
+    "a": "It is considered a safe asset."
+  },
+  {
+    "q": "On March 17, 2026, what was the specific time by which spot gold prices were reported as little changed at $5,000.61 per ounce?",
+    "a": "04:03 p.m. U.S. time."
+  },
+  {
+    "q": "In March 2026, which senior Iranian official's statements regarding the rejection of de-escalation were reported?",
+    "a": "A senior Iranian official (specific name not provided)."
+  },
+  {
+    "q": "On March 17, 2026, what was the closing price of U.S. gold futures for April delivery?",
+    "a": "$5,005.90."
+  },
+  {
+    "q": "According to the March 17, 2026 report, what was the primary reason cited for the severe disruption of energy trade?",
+    "a": "The U.S.-Israeli war on Iran."
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "q": "On March 3, 2026, what was the percentage decline and closing price per ounce for spot gold?",
+    "a": "Spot gold fell 3.6% to $5,137.00 an ounce."
+  },
+  {
+    "q": "What was the settlement price and percentage drop for U.S. gold futures on the trading day reported on March 3, 2026?",
+    "a": "U.S. gold futures settled 3.5% lower at $5,123.70."
+  },
+  {
+    "q": "According to Bob Haberkorn, senior market strategist at RJO Futures, what two factors were driving the lower movement in gold prices in early March 2026?",
+    "a": "A strong dollar and bond yields trading higher."
+  },
+  {
+    "q": "Which two cities were rocked by explosions on the fourth day of the Iran conflict in March 2026?",
+    "a": "Tehran and Beirut."
+  },
+  {
+    "q": "What specific geographic chokepoint did a senior Iranian Revolutionary Guards official state had been closed on Monday in March 2026?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "By what percentage did crude oil benchmarks jump on Tuesday, March 3, 2026, in response to geopolitical tensions?",
+    "a": "Crude oil benchmarks jumped over 8%."
+  },
+  {
+    "q": "Which two analysts identified damage to energy infrastructure and stalled tanker traffic through the Strait of Hormuz as causes for sustained oil strength and inflation fears?",
+    "a": "Fawad Razaqzada of City Index and FOREX.com."
+  },
+  {
+    "q": "What was the year-to-date percentage gain for spot gold as of March 2026, following its performance in 2025?",
+    "a": "Spot gold had gained 19% this year, following a 64% surge in 2025."
+  },
+  {
+    "q": "What was the percentage decline and closing price per ounce for spot silver on March 3, 2026?",
+    "a": "Spot silver fell 6.6% to $83.50 an ounce."
+  },
+  {
+    "q": "What was the percentage loss and closing price for platinum on the trading day reported on March 3, 2026?",
+    "a": "Platinum lost 8.4% to $2,108.51."
+  },
+  {
+    "q": "What was the percentage loss and closing price for palladium on the trading day reported on March 3, 2026?",
+    "a": "Palladium shed 5.6% to $1,667.41."
+  },
+  {
+    "q": "Why did gold prices retreat on Monday, March 2, 2026, according to the article's opening summary?",
+    "a": "Prices were weighed down by waning hopes of near-term U.S. interest-rate cuts due to elevated energy prices."
+  },
+  {
+    "q": "What factor helped limit losses for gold prices on Tuesday, March 3, 2026, despite a stronger dollar?",
+    "a": "A softer dollar helped limit losses."
+  },
+  {
+    "q": "What record did spot gold prices hit in the session prior to the March 3, 2026 decline?",
+    "a": "Prices hit an over four-week high."
+  },
+  {
+    "q": "What record did spot silver prices hit on Monday, March 2, 2026, before falling on March 3?",
+    "a": "Silver climbed to a more than four-week high."
+  },
+  {
+    "q": "According to Bob Haberkorn of RJO Futures, what type of flows should support higher gold and silver prices despite the dip in early March 2026?",
+    "a": "Flight to safety flows driven by geopolitical risk."
+  },
+  {
+    "q": "Why is gold typically preferred in low-rate environments, according to the article's explanation of its market behavior?",
+    "a": "Gold yields no interest."
+  },
+  {
+    "q": "What was the year-to-date percentage gain for silver as of March 2026?",
+    "a": "Silver was up over 16% this year."
+  },
+  {
+    "q": "Which competing safe-haven asset posted sharp gains on March 3, 2026, making dollar-priced bullion less affordable?",
+    "a": "The U.S. dollar."
+  },
+  {
+    "q": "For how many consecutive sessions did U.S. Treasury yields rise as of March 3, 2026?",
+    "a": "U.S. Treasury yields rose for a second consecutive session."
+  },
+  {
+    "q": "What specific risks did Fawad Razaqzada cite as stoking inflation fears and pushing back rate-cut expectations in March 2026?",
+    "a": "Damage to energy infrastructure and stalled tanker traffic through the Strait of Hormuz."
+  },
+  {
+    "q": "What was the closing price of spot gold per ounce on March 3, 2026, after it retreated from its previous high?",
+    "a": "Spot gold closed at $5,137.00 an ounce."
+  },
+  {
+    "q": "What was the closing price of U.S. gold futures per ounce on March 3, 2026?",
+    "a": "U.S. gold futures settled at $5,123.70."
+  },
+  {
+    "q": "What was the closing price of platinum per ounce on March 3, 2026?",
+    "a": "Platinum closed at $2,108.51."
+  },
+  {
+    "q": "What was the closing price of palladium per ounce on March 3, 2026?",
+    "a": "Palladium closed at $1,667.41."
+  },
+  {
+    "q": "Which organization's senior official stated that the Strait of Hormuz had been closed on Monday in March 2026?",
+    "a": "The Iranian Revolutionary Guards."
+  }
+]

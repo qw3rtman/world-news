@@ -1,0 +1,57 @@
+{
+  "hash": "dcca38b4598a",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://canary.haaretz.com/middle-east-news/2026-02-28/ty-article/.premium/iran-reportedly-closes-strait-of-hormuz-the-worlds-most-vital-oil-export-route/0000019c-a528-defa-abdf-bffd65440000",
+      "title": "Iran Reportedly Closes Strait of Hormuz, the World's Most Vital Oil Export Route - Middle East News",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Reuters",
+      "num_tokens": 35,
+      "text_length": 186
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "665307",
+      "spike_id": 1,
+      "market_question": "Will Iran close the Strait of Hormuz before 2027?",
+      "event_title": "Will Iran close the Strait of Hormuz by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.16000000000000003,
+      "spike_timestamp_before": "2026-02-27T11:00:21+00:00",
+      "spike_timestamp_after": "2026-02-28T07:30:25+00:00"
+    },
+    {
+      "market_id": "665307",
+      "spike_id": 2,
+      "market_question": "Will Iran close the Strait of Hormuz before 2027?",
+      "event_title": "Will Iran close the Strait of Hormuz by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.574,
+      "spike_timestamp_before": "2026-02-27T19:00:23+00:00",
+      "spike_timestamp_after": "2026-02-28T16:30:35+00:00"
+    },
+    {
+      "market_id": "665307",
+      "spike_id": 3,
+      "market_question": "Will Iran close the Strait of Hormuz before 2027?",
+      "event_title": "Will Iran close the Strait of Hormuz by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.5265,
+      "spike_timestamp_before": "2026-02-28T16:30:35+00:00",
+      "spike_timestamp_after": "2026-03-01T14:30:36+00:00"
+    },
+    {
+      "market_id": "665307",
+      "spike_id": 4,
+      "market_question": "Will Iran close the Strait of Hormuz before 2027?",
+      "event_title": "Will Iran close the Strait of Hormuz by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.396,
+      "spike_timestamp_before": "2026-02-28T19:30:26+00:00",
+      "spike_timestamp_after": "2026-03-01T19:00:24+00:00"
+    }
+  ]
+}

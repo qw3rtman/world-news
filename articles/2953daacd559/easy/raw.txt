@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the announcement published on February 25, 2026, what specific capabilities did Perplexity claim its new \"Computer\" platform possesses, such as reasoning, searching, and coding?",
+    "a": "The platform reasons, delegates, searches, builds, remembers, codes, and delivers."
+  },
+  {
+    "q": "What term did Perplexity use in its February 25, 2026 announcement to describe its new \"Computer\" platform that utilizes sub-AI agents?",
+    "a": "A \"general-purpose digital worker.\""
+  },
+  {
+    "q": "According to the February 25, 2026 report by The Verge, which two existing AI platforms or concepts did Perplexity position its new \"Computer\" platform between?",
+    "a": "OpenClaw and Claude Cowork."
+  },
+  {
+    "q": "As of the February 25, 2026 announcement, which specific subscription tier was required to access Perplexity's new \"Computer\" platform?",
+    "a": "Perplexity Max subscribers."
+  },
+  {
+    "q": "In the February 25, 2026 article from The Verge, how did Perplexity describe the structural composition of its new \"Computer\" platform?",
+    "a": "It is composed of sub-AI agents."
+  },
+  {
+    "q": "What six specific actions did Perplexity list in its February 25, 2026 announcement as functions performed by the sub-AI agents within its \"Computer\" platform?",
+    "a": "Reasons, delegates, searches, builds, remembers, and codes."
+  },
+  {
+    "q": "Which publication reported on Perplexity's \"Computer\" platform on February 25, 2026, noting its availability for Max subscribers?",
+    "a": "The Verge."
+  },
+  {
+    "q": "In the context of the February 25, 2026 news, what role did Perplexity assign to its new \"Computer\" platform relative to OpenClaw and Claude Cowork?",
+    "a": "It exists somewhere between them."
+  },
+  {
+    "q": "What final output or delivery function did Perplexity attribute to its \"Computer\" platform in the February 25, 2026 announcement?",
+    "a": "Delivers."
+  },
+  {
+    "q": "Which company launched a platform described as a \"general-purpose digital worker\" in an announcement dated February 25, 2026?",
+    "a": "Perplexity."
+  },
+  {
+    "q": "According to the February 25, 2026 report, what specific type of subscription service provided access to Perplexity's new multi-agent platform?",
+    "a": "Perplexity Max."
+  },
+  {
+    "q": "What combination of tasks did Perplexity claim its February 25, 2026 \"Computer\" platform could perform across its sub-AI agents?",
+    "a": "Reasoning, delegating, searching, building, remembering, coding, and delivering."
+  },
+  {
+    "q": "In the February 25, 2026 article, which two entities were cited as benchmarks or comparable services for Perplexity's new \"Computer\" platform?",
+    "a": "OpenClaw and Claude Cowork."
+  },
+  {
+    "q": "What was the primary limitation on access to Perplexity's \"Computer\" platform as of the February 25, 2026 announcement?",
+    "a": "It was only available for Perplexity Max subscribers."
+  },
+  {
+    "q": "How did Perplexity characterize the operational nature of its \"Computer\" platform in the February 25, 2026 press release?",
+    "a": "As a \"general-purpose digital worker.\""
+  },
+  {
+    "q": "Which specific verbs did Perplexity use to describe the functions of its \"Computer\" platform in the February 25, 2026 announcement?",
+    "a": "Reasons, delegates, searches, builds, remembers, codes, and delivers."
+  },
+  {
+    "q": "What architectural feature of Perplexity's \"Computer\" platform was highlighted in the February 25, 2026 report by The Verge?",
+    "a": "It is full of sub-AI agents."
+  },
+  {
+    "q": "In the February 25, 2026 announcement, where did Perplexity place its new \"Computer\" platform in relation to OpenClaw and Claude Cowork?",
+    "a": "Somewhere between them."
+  },
+  {
+    "q": "Which user group was exclusively granted access to Perplexity's \"Computer\" platform according to the February 25, 2026 news?",
+    "a": "Perplexity Max subscribers."
+  },
+  {
+    "q": "What specific label did Perplexity apply to its new platform in the February 25, 2026 announcement to distinguish it from other AI tools?",
+    "a": "\"General-purpose digital worker.\""
+  },
+  {
+    "q": "According to the February 25, 2026 article, what is the relationship between Perplexity's \"Computer\" platform and the entities OpenClaw and Claude Cowork?",
+    "a": "It exists somewhere between them."
+  },
+  {
+    "q": "What set of seven actions did Perplexity claim its \"Computer\" platform performs using sub-AI agents in the February 25, 2026 announcement?",
+    "a": "Reasons, delegates, searches, builds, remembers, codes, and delivers."
+  },
+  {
+    "q": "Which subscription service was required to use Perplexity's \"Computer\" platform as of the February 25, 2026 report?",
+    "a": "Perplexity Max."
+  },
+  {
+    "q": "In the February 25, 2026 report, what term did Perplexity use to describe the collective function of its sub-AI agents?",
+    "a": "\"General-purpose digital worker.\""
+  },
+  {
+    "q": "What specific capabilities did Perplexity list for its \"Computer\" platform in the February 25, 2026 announcement, including both cognitive and output functions?",
+    "a": "Reasons, delegates, searches, builds, remembers, codes, and delivers."
+  }
+]

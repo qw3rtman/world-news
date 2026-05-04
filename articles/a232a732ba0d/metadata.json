@@ -1,0 +1,57 @@
+{
+  "hash": "a232a732ba0d",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://fortune.com/2026/03/02/oil-markets-100-dollar-barrel-1973-oil-shock-drive-up-gas-prices-iran-israel/",
+      "title": "U.S.-Israeli attack on Iran could drive up crude costs to $100 and rival 1973 oil shock | Fortune",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Sasha Rogelberg",
+      "num_tokens": 200,
+      "text_length": 754
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1494703",
+      "spike_id": 2,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $200 by end of June?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.325,
+      "spike_timestamp_before": "2026-03-03T23:00:25+00:00",
+      "spike_timestamp_after": "2026-03-04T02:00:25+00:00"
+    },
+    {
+      "market_id": "1494703",
+      "spike_id": 3,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $200 by end of June?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.42,
+      "spike_timestamp_before": "2026-03-03T23:00:25+00:00",
+      "spike_timestamp_after": "2026-03-04T10:30:38+00:00"
+    },
+    {
+      "market_id": "1494703",
+      "spike_id": 4,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $200 by end of June?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.43,
+      "spike_timestamp_before": "2026-03-03T23:00:25+00:00",
+      "spike_timestamp_after": "2026-03-04T18:00:25+00:00"
+    },
+    {
+      "market_id": "1494703",
+      "spike_id": 5,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $200 by end of June?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.445,
+      "spike_timestamp_before": "2026-03-03T23:00:25+00:00",
+      "spike_timestamp_after": "2026-03-04T20:30:25+00:00"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "spike_index": 2,
+  "direction": "up",
+  "price_before": 0.035,
+  "price_after": 0.2325,
+  "delta": 0.1975,
+  "abs_delta": 0.1975,
+  "timestamp_before": "2026-02-28T07:00:37+00:00",
+  "timestamp_after": "2026-02-28T23:00:32+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/with-us-pressure-rising-iran-agrees-to-never-ever-have-nuclear-material-oman-mediator-says/articleshow/128870044.cms",
+      "file": "16480417081b.txt",
+      "title": "With US pressure rising, Iran agrees to 'never, ever have nuclear material, Oman mediator says - The Times of India",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "TOI World Desk  / TIMESOFINDIA.COM /   Feb 28, 2026, 05:38 IST",
+      "text_length": 2069,
+      "status": "ok",
+      "num_tokens": 409
+    },
+    {
+      "url": "https://thehill.com/policy/international/5759623-iran-nuclear-deal-stockpiling/amp/",
+      "file": "bed924d53175.txt",
+      "title": "Iran agreed to 'zero stockpiling' of nuclear material in US talks: Omani FM",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 1733,
+      "status": "ok",
+      "num_tokens": 371
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2026/2/28/peace-within-reach-as-iran-agrees-no-nuclear-material-stockpile-oman-fm",
+      "file": "44c4af09f2ee.txt",
+      "title": "Peace \u2018within reach\u2019 as Iran agrees no nuclear material stockpile: Oman FM | Military News | Al Jazeera",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Al Jazeera Staff",
+      "text_length": 3245,
+      "status": "ok",
+      "num_tokens": 665
+    },
+    {
+      "url": "https://www.newsweek.com/iran-us-geneva-nuclear-talks-end-without-deal-war-fears-rise-live-updates-11592356",
+      "file": "ca55f19f8c8e.txt",
+      "title": "Iran News: Trump Reveals No Final Call Yet, \u2018Not Happy\u2019 With Progress - Newsweek",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": null,
+      "text_length": 3049,
+      "status": "ok",
+      "num_tokens": 557
+    },
+    {
+      "url": "https://www.npr.org/2026/02/26/g-s1-111595/u-s-iran-to-third-round-nuclear-talks",
+      "file": "7f983547a99f.txt",
+      "title": "U.S.-Iran talks conclude with no deal as war risk looms : NPR",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": "By\u00a0                 \n   \n       \n      The Associated Press",
+      "text_length": 6758,
+      "status": "ok",
+      "num_tokens": 1365
+    }
+  ],
+  "total_tokens": 3367
+}

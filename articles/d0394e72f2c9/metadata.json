@@ -1,0 +1,37 @@
+{
+  "hash": "d0394e72f2c9",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2026/03/11/anduril-snaps-up-space-surveillance-firm-exoanalytic-solutions",
+      "title": "Anduril snaps up space surveillance firm ExoAnalytic Solutions | TechCrunch",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": "Tim Fernholz",
+      "num_tokens": 877,
+      "text_length": 4324
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694939",
+      "spike_id": 13,
+      "market_question": "Will Ubisoft be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.26,
+      "spike_timestamp_before": "2026-03-11T18:30:21+00:00",
+      "spike_timestamp_after": "2026-03-12T14:30:24+00:00"
+    },
+    {
+      "market_id": "700395",
+      "spike_id": 7,
+      "market_question": "Will Lovable be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.15000000000000002,
+      "spike_timestamp_before": "2026-03-13T11:00:48+00:00",
+      "spike_timestamp_after": "2026-03-14T11:00:38+00:00"
+    }
+  ]
+}

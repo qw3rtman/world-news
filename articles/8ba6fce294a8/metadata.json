@@ -1,0 +1,37 @@
+{
+  "hash": "8ba6fce294a8",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.theverge.com/tech/881545/the-new-gemini-3-1-pro-ai-model-represents-a-step-forward-in-core-reasoning",
+      "title": "The new Gemini 3.1 Pro AI model “represents a step forward in core reasoning.” | The Verge",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": "Jay Peters",
+      "num_tokens": 159,
+      "text_length": 686
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "801449",
+      "spike_id": 1,
+      "market_question": "Will Anthropic have the best AI model at the end of March 2026?",
+      "event_title": "Which company has the best AI model end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.22799999999999998,
+      "spike_timestamp_before": "2026-02-21T21:30:22+00:00",
+      "spike_timestamp_after": "2026-02-22T12:30:20+00:00"
+    },
+    {
+      "market_id": "801449",
+      "spike_id": 2,
+      "market_question": "Will Anthropic have the best AI model at the end of March 2026?",
+      "event_title": "Which company has the best AI model end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.23250000000000004,
+      "spike_timestamp_before": "2026-02-21T21:30:22+00:00",
+      "spike_timestamp_after": "2026-02-22T16:30:19+00:00"
+    }
+  ]
+}

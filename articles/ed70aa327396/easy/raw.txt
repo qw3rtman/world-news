@@ -1,0 +1,102 @@
+[
+  {
+    "q": "By what percentage did the pan-European Stoxx 600 index fall on Tuesday, March 3, 2026, following the previous day's decline?",
+    "a": "3.2%"
+  },
+  {
+    "q": "Which specific European stock indices recorded the sharpest declines on Tuesday, March 3, 2026, as major regional bourses traded in negative territory?",
+    "a": "Germany's DAX and Italy's FTSE MIB"
+  },
+  {
+    "q": "By what percentage did banking stocks fall in the pan-European Stoxx 600 index on Tuesday, March 3, 2026?",
+    "a": "4.3%"
+  },
+  {
+    "q": "By what percentage did utilities stocks decline in the pan-European Stoxx 600 index on Tuesday, March 3, 2026?",
+    "a": "4.4%"
+  },
+  {
+    "q": "By what percentage did travel and leisure stocks plummet on Tuesday, March 3, 2026, due to airspace closures in the Middle East?",
+    "a": "2%"
+  },
+  {
+    "q": "Which organization called for de-escalation and \"maximum restraint\" regarding the conflict between the U.S. and Iran as of early March 2026?",
+    "a": "The European Union"
+  },
+  {
+    "q": "To what percentage did inflation in the euro zone rise in February 2026, according to flash data from Eurostat released on Tuesday, March 3, 2026?",
+    "a": "1.9%"
+  },
+  {
+    "q": "What was the European Central Bank's inflation target that the euro zone's February 2026 rate of 1.9% remained slightly below?",
+    "a": "2%"
+  },
+  {
+    "q": "What was the full-year order value reported by French defense giant Thales on Tuesday, March 3, 2026?",
+    "a": "25.3 billion euros"
+  },
+  {
+    "q": "By what percentage did sales at French defense giant Thales jump in its full-year 2025 results reported on Tuesday, March 3, 2026?",
+    "a": "7.6%"
+  },
+  {
+    "q": "What was the net profit reported by French defense giant Thales for the full year 2025, announced on Tuesday, March 3, 2026?",
+    "a": "2 billion euros"
+  },
+  {
+    "q": "How many large orders with a collective value of 7.75 billion euros did Thales secure in 2025, as reported in its March 3, 2026 earnings release?",
+    "a": "28"
+  },
+  {
+    "q": "By what percentage did the Paris-listed stock of French defense giant Thales fall on Tuesday, March 3, 2026?",
+    "a": "2.4%"
+  },
+  {
+    "q": "To what amount did assets under management at British investment manager Aberdeen jump in 2025, as reported on Tuesday, March 3, 2026?",
+    "a": "£556 billion"
+  },
+  {
+    "q": "By what percentage did the share price of British investment manager Aberdeen plummet by the end of Tuesday, March 3, 2026?",
+    "a": "10.5%"
+  },
+  {
+    "q": "To which year did analysts at Citi expect British investment manager Aberdeen to postpone the recovery of flows into its Adviser unit?",
+    "a": "2027"
+  },
+  {
+    "q": "What range of annual growth in net capital generation did analysts at Citi describe as \"well-below consensus\" in their Tuesday, March 3, 2026 note on British investment manager Aberdeen?",
+    "a": "5% to 10%"
+  },
+  {
+    "q": "Who stated that the Strait of Hormuz was closed and that Iran would set ablaze ships attempting the route, as reported by Reuters on Tuesday, March 3, 2026?",
+    "a": "An Iranian Revolutionary Guard commander"
+  },
+  {
+    "q": "How many days had the conflict between the U.S. and Iran lasted as of Tuesday, March 3, 2026?",
+    "a": "Four days"
+  },
+  {
+    "q": "What duration did U.S. President Donald Trump say the war with Iran would last on Monday, March 2, 2026?",
+    "a": "Four to five weeks"
+  },
+  {
+    "q": "Which U.S. military branch's leaders said more forces were headed to the Middle East region on Monday, March 2, 2026?",
+    "a": "U.S. military leaders"
+  },
+  {
+    "q": "By what percentage did the Stoxx Aerospace and Defense index fall on Tuesday, March 3, 2026?",
+    "a": "Almost 3%"
+  },
+  {
+    "q": "What was the dollar equivalent of the 25.3 billion euros in orders reported by French defense giant Thales on Tuesday, March 3, 2026?",
+    "a": "$29.41 billion"
+  },
+  {
+    "q": "What was the dollar equivalent of the £556 billion in assets under management reported by British investment manager Aberdeen on Tuesday, March 3, 2026?",
+    "a": "$739 billion"
+  },
+  {
+    "q": "By what percentage did insurance stocks decline in the pan-European Stoxx 600 index on Tuesday, March 3, 2026?",
+    "a": "3.6%"
+  }
+]

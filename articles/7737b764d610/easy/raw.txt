@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the deal announced on February 25, 2026, what is the total cash purchase price that GSK agreed to pay for the privately held firm 35Pharma?",
+    "a": "$950 million"
+  },
+  {
+    "q": "What is the name of the experimental drug that serves as the centerpiece of GSK's February 25, 2026 acquisition of 35Pharma?",
+    "a": "HS235"
+  },
+  {
+    "q": "Which specific medical condition, described as a form of high blood pressure in the lungs, is the experimental drug HS235 set to begin trials for following GSK's February 2026 acquisition of 35Pharma?",
+    "a": "Pulmonary arterial hypertension"
+  },
+  {
+    "q": "Which pharmaceutical company's drug, Winrevair, received approval for pulmonary arterial hypertension in 2024 and generated $1.4 billion in sales the following year?",
+    "a": "Merck"
+  },
+  {
+    "q": "According to the February 25, 2026 report, which London-based correspondent named Andrew Joseph reported on GSK's acquisition of 35Pharma?",
+    "a": "Andrew Joseph"
+  },
+  {
+    "q": "What is the full name of the privately held firm that GSK agreed to buy for $950 million in cash in the deal announced on February 25, 2026?",
+    "a": "35Pharma"
+  },
+  {
+    "q": "In the context of GSK's February 25, 2026 acquisition of 35Pharma, what type of payment method was specified for the $950 million transaction?",
+    "a": "Cash"
+  },
+  {
+    "q": "Which drugmaker's product, Winrevair, reached $1.4 billion in sales in 2025, highlighting the competitive landscape for pulmonary arterial hypertension treatments targeted by GSK's February 2026 acquisition?",
+    "a": "Merck"
+  },
+  {
+    "q": "What is the specific name of the lung disease drug that GSK is acquiring from 35Pharma as part of the deal announced on February 25, 2026?",
+    "a": "HS235"
+  },
+  {
+    "q": "Which Getty Images photographer is credited with the image associated with the February 25, 2026 report on GSK's acquisition of 35Pharma?",
+    "a": "Leon Neal"
+  },
+  {
+    "q": "What is the specific form of high blood pressure in the lungs that the experimental drug HS235, acquired by GSK in February 2026, is set to trial for?",
+    "a": "Pulmonary arterial hypertension"
+  },
+  {
+    "q": "What was the reported sales figure for Merck's Winrevair in 2025, serving as a benchmark for the pulmonary arterial hypertension market targeted by GSK's February 2026 acquisition?",
+    "a": "$1.4 billion"
+  },
+  {
+    "q": "Which company, GSK or 35Pharma, is identified as the buyer in the $950 million transaction announced on February 25, 2026?",
+    "a": "GSK"
+  },
+  {
+    "q": "Which company, GSK or 35Pharma, is identified as the seller in the $950 million transaction announced on February 25, 2026?",
+    "a": "35Pharma"
+  },
+  {
+    "q": "What is the corporate status of 35Pharma, the firm acquired by GSK in February 2026?",
+    "a": "Privately held"
+  },
+  {
+    "q": "In which city is the correspondent Andrew Joseph based, as indicated by the dateline of the February 25, 2026 article about GSK's acquisition?",
+    "a": "London"
+  },
+  {
+    "q": "What is the publication date of the article reporting on GSK's acquisition of 35Pharma?",
+    "a": "February 25, 2026"
+  },
+  {
+    "q": "Which experimental drug, HS235 or Winrevair, is set to start trials for pulmonary arterial hypertension following GSK's February 2026 acquisition of 35Pharma?",
+    "a": "HS235"
+  },
+  {
+    "q": "Which drug, HS235 or Winrevair, won approval for pulmonary arterial hypertension in 2024?",
+    "a": "Winrevair"
+  },
+  {
+    "q": "What is the email address of the Europe Correspondent Andrew Joseph, as listed in the February 25, 2026 article?",
+    "a": "ajoseph@gazette.com"
+  },
+  {
+    "q": "Which organization, GSK or Merck, is building up its base of medicines for lung diseases through the February 25, 2026 acquisition of 35Pharma?",
+    "a": "GSK"
+  },
+  {
+    "q": "What is the name of the disease that has increasingly become a target for drugmakers in recent years, according to the February 25, 2026 article?",
+    "a": "Pulmonary arterial hypertension"
+  },
+  {
+    "q": "How much cash did GSK agree to pay for 35Pharma in the deal announced on February 25, 2026?",
+    "a": "$950 million"
+  },
+  {
+    "q": "Which drugmaker's drug, Winrevair, is cited in the February 25, 2026 article as having reached $1.4 billion in sales in 2025?",
+    "a": "Merck"
+  },
+  {
+    "q": "What is the full name of the experimental drug that GSK is acquiring from 35Pharma in the February 25, 2026 deal?",
+    "a": "HS235"
+  }
+]

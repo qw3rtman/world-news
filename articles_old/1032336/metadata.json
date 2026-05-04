@@ -1,0 +1,22 @@
+{
+  "market_id": "1032336",
+  "question": "Will Silver (SI) hit (HIGH) $120 by end of June?",
+  "slug": "si-hit-120-high-jun-2026-868-341-771-388-669",
+  "url": "https://polymarket.com/event/si-hit-jun-2026",
+  "description": "This market will resolve to \"Yes\" if, on any trading day, the official CME settlement price for the Active Month (front month) of Silver (SI) futures is equal to or above the listed price by the final trading day of June 2026. Otherwise, the market will resolve to \"No\".\n\nFor CME Silver (SI) futures contracts, the Active Month is the nearest of CME's designated delivery-cycle months (March, May, July, September, December) that is not the spot month. The Active Month becomes a non-active month effective on its First Position Date, at which point the next eligible contract month becomes the Active Month.\n\nOnly the Active Month's official settlement price published by CME Group will be considered. Intraday trades, highs, lows, bids, offers, midpoint values, or indicative prices do not count.\n\nNote that the settlement price may differ from the last traded price. CME's methodology to determine the settlement price can vary by commodity and contract.\n\nOnly days on which CME publishes an official settlement price for the Active Month will be included. Days without settlement prices (weekends, holidays, or market closures) are ignored.\n\nThis market will resolve based on the settlement price as it appears on the CME settlement page at the time it is first published for that trading day, regardless of any later corrections or updates.\n\nThe resolution source for this market is the CME Group website \u2014 specifically, the daily \"Settlement\" price for the Active Month of Silver (SI) futures.",
+  "event_title": "Will Silver (SI) hit__ by end of June?",
+  "event_tags": [
+    "COMEX Silver Futures",
+    "Commodities",
+    "Hide From New",
+    "Silver",
+    "Finance"
+  ],
+  "volume_total": 782419.9695340004,
+  "created_at": "2025-12-26T23:27:39.87539Z",
+  "end_date": "2026-06-30T17:30:00Z",
+  "num_spikes": 12,
+  "max_spike": 0.3955,
+  "total_tokens": 50016,
+  "total_articles": 60
+}

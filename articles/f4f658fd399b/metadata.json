@@ -1,0 +1,27 @@
+{
+  "hash": "f4f658fd399b",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://on.theverge.com/business/881967/polymarket-kalshi-journalism-sponsorship-ad",
+      "title": "Prediction markets want to eat the news | The Verge",
+      "published_date": "2026-02-20T00:00:00.000Z",
+      "author": "Elizabeth Lopatto",
+      "num_tokens": 2542,
+      "text_length": 12598
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1370894",
+      "spike_id": 2,
+      "market_question": "Judy Shelton Fed Chair Nomination Odds >5% by Feb 20?",
+      "event_title": "Judy Shelton Fed Chair Nomination Odds above ___  by Feb 20?",
+      "spike_direction": "down",
+      "spike_delta": -0.301,
+      "spike_timestamp_before": "2026-02-20T09:00:26+00:00",
+      "spike_timestamp_after": "2026-02-21T05:00:18+00:00"
+    }
+  ]
+}

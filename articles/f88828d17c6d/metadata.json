@@ -1,0 +1,27 @@
+{
+  "hash": "f88828d17c6d",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/business/thoma-bravo-nears-deal-wwex-create-12-billion-shipping-tech-firm-bloomberg-news-2026-03-03/",
+      "title": "Thoma Bravo nears deal for WWEX to create $12 billion shipping tech firm, Bloomberg News reports | Reuters",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 198,
+      "text_length": 811
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694940",
+      "spike_id": 11,
+      "market_question": "Will GitLab be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.18499999999999994,
+      "spike_timestamp_before": "2026-03-02T09:00:23+00:00",
+      "spike_timestamp_after": "2026-03-03T07:30:22+00:00"
+    }
+  ]
+}

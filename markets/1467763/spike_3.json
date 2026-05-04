@@ -1,0 +1,65 @@
+{
+  "spike_index": 3,
+  "direction": "up",
+  "price_before": 0.075,
+  "price_after": 0.26,
+  "delta": 0.185,
+  "abs_delta": 0.185,
+  "timestamp_before": "2026-03-01T01:30:32+00:00",
+  "timestamp_after": "2026-03-01T15:00:40+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.al-monitor.com/originals/2026/03/oil-jumps-above-100-energy-crisis-called-worst-history-what-know",
+      "file": "52bd5b217f36.txt",
+      "title": "Oil jumps above $100 as energy crisis called worst in history: What to know - AL-Monitor: The Middle East\u02bcs leading independent news source since 2012",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 75,
+      "status": "ok",
+      "num_tokens": 16
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/oil-jumps-10-iran-conflict-could-spike-100-barrel-analysts-say-2026-03-01/",
+      "file": "9b32f153a64b.txt",
+      "title": "Oil jumps 10% on Iran conflict and could spike to $100 a barrel, analysts say | Reuters",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Seher Dareen",
+      "text_length": 2751,
+      "status": "ok",
+      "num_tokens": 607
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/crude-oil-on-edge-as-middle-east-conflict-deepens-will-crude-prices-surge-toward-100-per-barrel/articleshow/128922970.cms",
+      "file": "1409083c60dd.txt",
+      "title": "Crude oil on edge as Middle East conflict deepens, will crude prices surge toward $100 per barrel? - The Times of India",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /  Updated: Mar 01, 2026, 23:36 IST",
+      "text_length": 4573,
+      "status": "ok",
+      "num_tokens": 879
+    },
+    {
+      "url": "https://www.dw.com/en/will-iran-conflict-send-oil-prices-above-100-a-barrel/a-76176495",
+      "file": "c8c3527f67c2.txt",
+      "title": "Will Iran war send oil prices above $100 a barrel?",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 7082,
+      "status": "ok",
+      "num_tokens": 1448
+    },
+    {
+      "url": "http://globeandmail.com/business/article-oil-crude-iran-hormuz/",
+      "file": "e240d225170a.txt",
+      "title": "Oil jumps 10% after Iran attacks, could spike to $100 a barrel, analysts say - The Globe and Mail",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 2477,
+      "status": "ok",
+      "num_tokens": 543
+    }
+  ],
+  "total_tokens": 3493
+}

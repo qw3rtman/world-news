@@ -1,0 +1,27 @@
+{
+  "hash": "6cfe3e085cd5",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.economist.com/middle-east-and-africa/2026/03/09/should-the-gulf-states-join-attacks-on-iran",
+      "title": "Should the Gulf states join attacks on Iran?",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 106,
+      "text_length": 485
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1472010",
+      "spike_id": 15,
+      "market_question": "Will UAE strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.23500000000000001,
+      "spike_timestamp_before": "2026-03-09T04:00:19+00:00",
+      "spike_timestamp_after": "2026-03-09T21:30:22+00:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "hash": "71524d9d1adf",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://reuters.com/business/energy/analysts-hike-oil-outlook-geopolitical-risks-oversupply-concerns-limit-upside-2026-02-27/",
+      "title": "Analysts hike oil outlook on geopolitical risks, oversupply concerns limit upside | Reuters",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": "Pablo Sinha",
+      "num_tokens": 712,
+      "text_length": 3198
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1467771",
+      "spike_id": 6,
+      "market_question": "Will Crude Oil (CL) hit (LOW) $65 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.24499999999999997,
+      "spike_timestamp_before": "2026-03-01T23:00:33+00:00",
+      "spike_timestamp_after": "2026-03-02T16:30:34+00:00"
+    }
+  ]
+}

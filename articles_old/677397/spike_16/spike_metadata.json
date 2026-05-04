@@ -1,0 +1,65 @@
+{
+  "spike_index": 16,
+  "direction": "up",
+  "price_before": 0.4,
+  "price_after": 0.695,
+  "delta": 0.29499999999999993,
+  "abs_delta": 0.29499999999999993,
+  "timestamp_before": "2026-03-08T09:00:32+00:00",
+  "timestamp_after": "2026-03-08T19:00:25+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-06-26?post-id=cmmet1djg00003b6t54zykl8b",
+      "file": "a0826c9587a7.txt",
+      "title": "Day 7 of Middle East conflict \u2014 Trump says no deal with Iran until \u2018unconditional surrender\u2019 | CNN",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Aleena Fayaz, John Liu, Jessie Yeung, Laura Sharman, Tori B. Powell, Betsy Klein, Vasco Cotovio, Clarissa Ward, Eyad Kourdi, Ross Adkin, Mitchell McCluskey, Yong Xiong, Samantha Waldenberg, Katie Polglase, Allegra Goodwin, Pallabi Munsi, Yahya Salem, Pierre P Bairin, Lauren Kent, Max Saltman, Nechirvan Mando, German Padinger, Aditi Sangal, Dana Karni, Kareem El Damanhoury, Kevin Liptak, Jennifer Hansler, Sharon Braithwaite, Matt Egan, Phil Mattingly, Devan Cole, Sarah El Sirgany, Thomas Bordeaux, Gianluca Mezzofiore, Tamara Qiblawi, Natasha Bertrand, Jim Sciutto, Zachary Cohen, Charlotte Reck, Evan John, CNN Staff, Sophie Tanno, Chris Isidore, Frederik Pleitgen, Dana Bash, Leila Gharagozlou, Rebekah Riess, Issy Ronald, Patrick Sung Cuadrado, Donald Judd, Jill Martin, Stephanie Halasz, Tal Shalev, Oren Liebermann, Antoinette Radford, Abbas Al Lawati, Adam Pourahmadi, Nic Robertson, Karla Cripps, Matthew Rehbein, Anna Chernova, Christian Edwards, Angus Watson, Martin Goillandeau, Helen Regan, Katherine Dautrich, Mike Valerio, Ivan Watson",
+      "text_length": 18772,
+      "status": "ok",
+      "num_tokens": 3843
+    },
+    {
+      "url": "https://www.al-monitor.com/originals/2026/03/israels-hezbollah-attacks-are-likely-continue-beyond-iran-war-source-says",
+      "file": "b2a2a19c7c80.txt",
+      "title": "Israel's Hezbollah attacks are likely to continue beyond Iran war, source says - AL-Monitor: The Middle East\u02bcs leading independent news source since 2012",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": null,
+      "text_length": 2507,
+      "status": "ok",
+      "num_tokens": 484
+    },
+    {
+      "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-israel-strikes-tehran-beirut-trump-leader-rcna262018",
+      "file": "adc4db776545.txt",
+      "title": "Trump says no deal in Iran without 'unconditional surrender'; IDF says it destroyed Khamenei's bunker",
+      "published_date": "2026-03-07T00:00:00.000Z",
+      "author": "NBC News",
+      "text_length": 56705,
+      "status": "ok",
+      "num_tokens": 12097
+    },
+    {
+      "url": "https://app.al-monitor.com/originals/2026/03/hezbollah-saw-new-war-israel-inevitable-and-rearmed-months-sources-say",
+      "file": "b78714106383.txt",
+      "title": "Hezbollah saw new war with Israel as inevitable and rearmed for months, sources say - AL-Monitor: The Middle East\u02bcs leading independent news source since 2012",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": null,
+      "text_length": 6349,
+      "status": "ok",
+      "num_tokens": 1257
+    },
+    {
+      "url": "https://sph.straitstimes.com/world/middle-east/hezbollah-saw-new-war-with-israel-as-inevitable-and-rearmed-for-months-sources-say",
+      "file": "1a7e600ee596.txt",
+      "title": "\u2018They knew they were next on the list\u2019: Hezbollah spent months re-arming ahead of another Israel war | The Straits Times",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": null,
+      "text_length": 6663,
+      "status": "ok",
+      "num_tokens": 1321
+    }
+  ],
+  "total_tokens": 19002
+}

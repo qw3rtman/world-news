@@ -1,0 +1,27 @@
+{
+  "hash": "6194c8ca5bf6",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://building.theatlantic.com/iran-under-time-compression-assuming-netanyahus-wants-are-subordinate-to-trump-putin-s-8b4ee5d41365",
+      "title": "Iran Under Time Compression, Assuming Netanyahu’s Wants Are Subordinate to Trump-Putin’s | by Johnrraymondesq | Feb, 2026 | Medium",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": "Johnrraymondesq",
+      "num_tokens": 2055,
+      "text_length": 10516
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1388693",
+      "spike_id": 1,
+      "market_question": "US strikes Iran by December 31, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.3115,
+      "spike_timestamp_before": "2026-02-27T07:30:39+00:00",
+      "spike_timestamp_after": "2026-02-28T07:30:34+00:00"
+    }
+  ]
+}

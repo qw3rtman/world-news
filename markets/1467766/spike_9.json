@@ -1,0 +1,65 @@
+{
+  "spike_index": 9,
+  "direction": "up",
+  "price_before": 0.315,
+  "price_after": 0.735,
+  "delta": 0.42,
+  "abs_delta": 0.42,
+  "timestamp_before": "2026-03-05T18:00:29+00:00",
+  "timestamp_after": "2026-03-06T18:00:29+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.reuters.com/business/energy/goldman-sachs-warns-oil-may-surge-above-100bbl-if-hormuz-flows-dont-recover-2026-03-06/",
+      "file": "cd3e767a5496.txt",
+      "title": "Goldman Sachs warns oil may surge above $100/bbl if Hormuz flows don\u2019t recover | Reuters",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": null,
+      "text_length": 1785,
+      "status": "ok",
+      "num_tokens": 391
+    },
+    {
+      "url": "https://www.cbc.ca/news/business/crude-oil-prices-middle-east-9.7117585",
+      "file": "3cc64e151aae.txt",
+      "title": "Oil hits $90 US per barrel for first time in 2 years | CBC News",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "CBC News    \u00b7  Posted: Mar 06, 2026 1:27 PM EST | Last Updated: March 6",
+      "text_length": 2340,
+      "status": "ok",
+      "num_tokens": 547
+    },
+    {
+      "url": "https://www.cnbc.com/amp/2026/03/06/iran-us-war-oil-prices-brent-wti-barrel-futures.html",
+      "file": "825ece8321ca.txt",
+      "title": "Oil surges 35% this week for biggest gain in futures trading history",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Spencer Kimball,Chloe Taylor,Sam Meredith",
+      "text_length": 421,
+      "status": "ok",
+      "num_tokens": 102
+    },
+    {
+      "url": "https://www.barrons.com/articles/crude-oil-prices-brent-wti-iran-today-b640ce7d?gaa_at=eafs&gaa_n=AWEtsqdT3L_5GY9TSYttvvlG_g4KbeZhJ2Kaq4fktdobmPIu-tWanqgwtuj4&gaa_sig=rxBRzBiCYQXe-m0c9Vc9hIYXupI4UUAi4JFVINKJGux-kkA3kqO1yzcQxVlOJoMJ-_NpvIGNz5OBUsvfy7Hkqg%3D%3D&gaa_ts=69b857db",
+      "file": "56c01eb9c41d.txt",
+      "title": "Oil Prices Today: Crude Soars Past $90 on Iran War. Why They Keep Climbing.<!-- --> - Barron's",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Laura Sanicola|Alex Kozul-Wright|Anita Hamilton",
+      "text_length": 783,
+      "status": "ok",
+      "num_tokens": 181
+    },
+    {
+      "url": "https://www.reuters.com/article/longbridge/show-idUSFWN3ZS00K",
+      "file": "7125cf37ad48.txt",
+      "title": "Goldman Sachs raises Q2 Brent oil price forecast by $10 to $76 a barrel | Reuters",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "text_length": 1655,
+      "status": "ok",
+      "num_tokens": 394
+    }
+  ],
+  "total_tokens": 1615
+}

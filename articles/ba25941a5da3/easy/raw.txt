@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In late February 2026, which country intercepted eight incoming drones during the widening attacks involving the United States and Iran?",
+    "a": "Saudi Arabia"
+  },
+  {
+    "q": "As of February 2026, what specific financial event caused Paramount’s debt rating to be downgraded to junk status?",
+    "a": "The purchase deal with Warner Bros."
+  },
+  {
+    "q": "In early 2026, which technology company tested an AI shopping research tool intended to rival ChatGPT and Gemini?",
+    "a": "Meta"
+  },
+  {
+    "q": "During the February 2026 geopolitical tensions, which private equity firm’s flagship private credit fund experienced record redemptions?",
+    "a": "Blackstone"
+  },
+  {
+    "q": "In February 2026, which two financial institutions saw Turkey pausing interest rate cuts due to risks associated with the conflict between the US and Iran?",
+    "a": "JPMorgan and traders"
+  },
+  {
+    "q": "In late February 2026, what incident resulted in the crash of three US warplanes in Kuwait?",
+    "a": "A 'friendly fire' incident"
+  },
+  {
+    "q": "As of February 2026, which drone strike damaged Amazon data centers located in the United Arab Emirates and Bahrain?",
+    "a": "An Iranian drone strike"
+  },
+  {
+    "q": "In February 2026, what was the estimated cost difference between the drones used by Iran and the Patriot missile systems used to intercept them?",
+    "a": "$20,000 drones versus $4 million Patriots"
+  },
+  {
+    "q": "In mid-March 2026, which two countries' trade chiefs were scheduled to meet before the Trump-Xi Summit?",
+    "a": "The United States and China"
+  },
+  {
+    "q": "In February 2026, which country's gas buyers reported that Beijing was pushing Iran to keep the Strait of Hormuz open?",
+    "a": "China"
+  },
+  {
+    "q": "During the US and Israeli military strikes in February 2026, what happened to Iranian hacking groups?",
+    "a": "They went dark"
+  },
+  {
+    "q": "In February 2026, which UK Prime Minister was described as courting India amid global tensions?",
+    "a": "Keir Starmer (referred to as Carney in the text, but historically Keir Starmer is PM; however, sticking to text: Carney)"
+  },
+  {
+    "q": "In February 2026, what was the subject of the opinion piece titled 'Is Trump’s War on Iran Legal?'?",
+    "a": "The legality of Trump’s war on Iran"
+  },
+  {
+    "q": "In February 2026, which leader was described as making 'Iran’s Biggest Gamble Yet' in an opinion piece?",
+    "a": "Donald Trump"
+  },
+  {
+    "q": "In February 2026, what global economic phenomenon was traders betting on a short conflict to avoid, according to limited oil price surges?",
+    "a": "An energy crisis"
+  },
+  {
+    "q": "In February 2026, which country was unlikely to rally behind Iran after US-Israeli strikes, according to a Bloomberg explainer?",
+    "a": "China"
+  },
+  {
+    "q": "In February 2026, what was the primary reason cited for traders staring down an energy crisis in the context of Trump’s war on Iran?",
+    "a": "Limited oil price surges signaling a bet on a short conflict"
+  },
+  {
+    "q": "In February 2026, which organization's data centers in the UAE and Bahrain were damaged by drone strikes?",
+    "a": "Amazon"
+  },
+  {
+    "q": "In February 2026, what specific military action did Saudi Arabia take regarding incoming drones?",
+    "a": "Destroyed/intercepted them"
+  },
+  {
+    "q": "In February 2026, which two nations were involved in the military strikes that caused Iranian hacking groups to go dark?",
+    "a": "The United States and Israel"
+  },
+  {
+    "q": "In February 2026, what was the outcome of the Paramount deal with Warner Bros. regarding debt ratings?",
+    "a": "Debt was downgraded to junk"
+  },
+  {
+    "q": "In February 2026, which AI tools was Meta testing a new shopping research tool to rival?",
+    "a": "ChatGPT and Gemini"
+  },
+  {
+    "q": "In February 2026, which firm faced record redemptions in its flagship private credit fund?",
+    "a": "Blackstone"
+  },
+  {
+    "q": "In February 2026, which two entities anticipated Turkey pausing rate cuts due to Iran-related risks?",
+    "a": "JPMorgan and traders"
+  },
+  {
+    "q": "In February 2026, what was the reported cause of three US warplanes crashing in Kuwait?",
+    "a": "Friendly fire"
+  }
+]

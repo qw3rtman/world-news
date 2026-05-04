@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the March 1, 2026 issue of The Diplomat, what specific technological shift is China described as moving from 'AI in the cloud' toward?",
+    "a": "Embodied intelligence with physical, real-world applications."
+  },
+  {
+    "q": "According to the March 1, 2026 article in The Diplomat, which demographic is identified as being at greatest risk of worsening health conditions and death due to soaring city temperatures and poor ventilation?",
+    "a": "Elderly people living alone."
+  },
+  {
+    "q": "In the March 1, 2026 edition of The Diplomat, what dual outcome is attributed to nuclear accidents regarding safety standards and victim treatment?",
+    "a": "They become opportunities to strengthen nuclear safety while conveniently forgetting the lasting harm done to victims."
+  },
+  {
+    "q": "What three themes are listed in the March 1, 2026 issue of The Diplomat as characterizing the political situation in Kyrgyzstan?",
+    "a": "Moral panic, memory, and symbolic politics."
+  },
+  {
+    "q": "As of the March 1, 2026 publication in The Diplomat, what type of conflict is described as having immediate consequences across the Indo-Pacific region?",
+    "a": "A geographically distant conflict."
+  },
+  {
+    "q": "In the March 1, 2026 issue of The Diplomat, what two specific types of disruptions are cited as consequences of the geographically distant conflict affecting the Indo-Pacific?",
+    "a": "Energy disruptions and alliance tensions."
+  },
+  {
+    "q": "According to the March 1, 2026 article in The Diplomat, what specific environmental condition exacerbates the health risks for elderly people living alone in poorly ventilated homes?",
+    "a": "Soaring temperatures in the city."
+  },
+  {
+    "q": "In the March 1, 2026 issue of The Diplomat, what is the specific term used to describe the next stage of China's AI development beyond cloud-based AI?",
+    "a": "Embodied intelligence."
+  },
+  {
+    "q": "What specific negative consequence for victims is said to be 'conveniently forgotten' in the context of nuclear accidents, according to the March 1, 2026 article in The Diplomat?",
+    "a": "The lasting harm done to the victims."
+  },
+  {
+    "q": "In the March 1, 2026 edition of The Diplomat, which country is the subject of the discussion regarding moral panic, memory, and symbolic politics?",
+    "a": "Kyrgyzstan."
+  },
+  {
+    "q": "According to the March 1, 2026 article in The Diplomat, what is the primary geographic region experiencing immediate consequences from a geographically distant conflict?",
+    "a": "The Indo-Pacific."
+  },
+  {
+    "q": "In the March 1, 2026 issue of The Diplomat, what specific living condition is highlighted as increasing the risk of death for elderly individuals during high temperatures?",
+    "a": "Living in poorly ventilated homes."
+  },
+  {
+    "q": "What specific application type is associated with China's shift to 'embodied intelligence' as described in the March 1, 2026 article in The Diplomat?",
+    "a": "Physical, real-world applications."
+  },
+  {
+    "q": "In the March 1, 2026 issue of The Diplomat, what is the stated benefit of nuclear accidents regarding safety protocols?",
+    "a": "They provide opportunities to strengthen and improve nuclear safety."
+  },
+  {
+    "q": "Which publication released the article on March 1, 2026, discussing energy disruptions, China's AI shift, and Kyrgyzstan's political themes?",
+    "a": "The Diplomat."
+  },
+  {
+    "q": "According to the March 1, 2026 article in The Diplomat, what specific group of people is most vulnerable to health deterioration due to urban heat and poor housing ventilation?",
+    "a": "Elderly people living alone."
+  },
+  {
+    "q": "In the March 1, 2026 issue of The Diplomat, what two factors are linked to the immediate consequences felt across the Indo-Pacific region?",
+    "a": "Energy disruptions and alliance tensions."
+  },
+  {
+    "q": "What specific political concepts are used to describe the situation in Kyrgyzstan in the March 1, 2026 article in The Diplomat?",
+    "a": "Moral panic, memory, and symbolic politics."
+  },
+  {
+    "q": "In the March 1, 2026 edition of The Diplomat, what is the contrast presented regarding the aftermath of nuclear accidents?",
+    "a": "They improve safety standards but ignore the lasting harm to victims."
+  },
+  {
+    "q": "According to the March 1, 2026 article in The Diplomat, what is the starting point of China's technological evolution from cloud AI?",
+    "a": "AI in the cloud."
+  },
+  {
+    "q": "In the March 1, 2026 issue of The Diplomat, what specific risk is associated with elderly people living alone in cities with soaring temperatures?",
+    "a": "Worsening health conditions and even death."
+  },
+  {
+    "q": "What specific type of conflict is noted in the March 1, 2026 article in The Diplomat as causing disruptions in energy and alliances in the Indo-Pacific?",
+    "a": "A geographically distant conflict."
+  },
+  {
+    "q": "In the March 1, 2026 issue of The Diplomat, what is the specific phrase used to describe China's new focus in artificial intelligence?",
+    "a": "Embodied intelligence."
+  },
+  {
+    "q": "According to the March 1, 2026 article in The Diplomat, what is the specific fate of the 'lasting harm' done to nuclear accident victims?",
+    "a": "It is conveniently forgotten."
+  },
+  {
+    "q": "In the March 1, 2026 edition of The Diplomat, which nation's political landscape is analyzed through the lenses of moral panic, memory, and symbolic politics?",
+    "a": "Kyrgyzstan."
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "spike_index": 10,
+  "direction": "up",
+  "price_before": 0.13,
+  "price_after": 0.455,
+  "delta": 0.325,
+  "abs_delta": 0.325,
+  "timestamp_before": "2026-03-06T09:30:30+00:00",
+  "timestamp_after": "2026-03-07T04:30:35+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.reuters.com/business/energy/goldman-sachs-warns-oil-may-surge-above-100bbl-if-hormuz-flows-dont-recover-2026-03-06/",
+      "file": "cd3e767a5496.txt",
+      "title": "Goldman Sachs warns oil may surge above $100/bbl if Hormuz flows don\u2019t recover | Reuters",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": null,
+      "text_length": 1658,
+      "status": "ok",
+      "num_tokens": 364
+    },
+    {
+      "url": "https://www.cnbc.com/amp/2026/03/06/iran-us-war-oil-prices-brent-wti-barrel-futures.html",
+      "file": "825ece8321ca.txt",
+      "title": "Oil surges 35% this week for biggest gain in futures trading history",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Spencer Kimball,Chloe Taylor,Sam Meredith",
+      "text_length": 421,
+      "status": "ok",
+      "num_tokens": 102
+    },
+    {
+      "url": "https://text.npr.org/2026/03/08/nx-s1-5741818/iran-israel-trump-oil-100",
+      "file": "f8b2a1fe170e.txt",
+      "title": "Crude oil prices swing wildly as the Iran war stretches on",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": null,
+      "text_length": 5513,
+      "status": "ok",
+      "num_tokens": 1168
+    },
+    {
+      "url": "http://es.reuters.com/world/asia-pacific/dollar-surges-us-iran-war-pushes-oil-past-100-barrel-2026-03-08/",
+      "file": "9f8fff99ae14.txt",
+      "title": "Reuters | Breaking International News & Views",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": null,
+      "text_length": 372,
+      "status": "ok",
+      "num_tokens": 80
+    },
+    {
+      "url": "https://www.cn.reuters.com/business/energy/us-oil-prices-jump-supply-fears-amid-expanding-us-israeli-war-with-iran-2026-03-08/",
+      "file": "373d95e81d06.txt",
+      "title": "Reuters | Breaking International News & Views",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": null,
+      "text_length": 6044,
+      "status": "ok",
+      "num_tokens": 1297
+    }
+  ],
+  "total_tokens": 3011
+}

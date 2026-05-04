@@ -1,0 +1,67 @@
+{
+  "hash": "323efd73d56c",
+  "n_appearances": 5,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.axios.com/2026/02/28/iran-khamenei-killed-israel",
+      "title": "Iranian state media confirms Supreme Leader Khamenei is dead",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Barak Ravid,Zachary Basu,Avery Lotz",
+      "num_tokens": 891,
+      "text_length": 4308
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "661700",
+      "spike_id": 1,
+      "market_question": "Khamenei out as Supreme Leader of Iran in 2026?",
+      "event_title": "Khamenei out as Supreme Leader of Iran in 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.23999999999999994,
+      "spike_timestamp_before": "2026-02-27T08:00:23+00:00",
+      "spike_timestamp_after": "2026-02-28T07:30:25+00:00"
+    },
+    {
+      "market_id": "661700",
+      "spike_id": 2,
+      "market_question": "Khamenei out as Supreme Leader of Iran in 2026?",
+      "event_title": "Khamenei out as Supreme Leader of Iran in 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.25999999999999995,
+      "spike_timestamp_before": "2026-02-27T10:30:23+00:00",
+      "spike_timestamp_after": "2026-02-28T10:30:23+00:00"
+    },
+    {
+      "market_id": "661700",
+      "spike_id": 3,
+      "market_question": "Khamenei out as Supreme Leader of Iran in 2026?",
+      "event_title": "Khamenei out as Supreme Leader of Iran in 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.36,
+      "spike_timestamp_before": "2026-02-27T14:30:22+00:00",
+      "spike_timestamp_after": "2026-02-28T14:00:40+00:00"
+    },
+    {
+      "market_id": "661700",
+      "spike_id": 4,
+      "market_question": "Khamenei out as Supreme Leader of Iran in 2026?",
+      "event_title": "Khamenei out as Supreme Leader of Iran in 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.38,
+      "spike_timestamp_before": "2026-02-27T17:30:25+00:00",
+      "spike_timestamp_after": "2026-02-28T17:00:37+00:00"
+    },
+    {
+      "market_id": "661700",
+      "spike_id": 5,
+      "market_question": "Khamenei out as Supreme Leader of Iran in 2026?",
+      "event_title": "Khamenei out as Supreme Leader of Iran in 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.488,
+      "spike_timestamp_before": "2026-02-28T00:30:25+00:00",
+      "spike_timestamp_after": "2026-03-01T00:00:33+00:00"
+    }
+  ]
+}

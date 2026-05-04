@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In which Texas location is SpaceX, the rocket and satellite company targeting a confidential IPO filing in March 2026, based?",
+    "a": "Starbase"
+  },
+  {
+    "q": "Which US regulatory agency is SpaceX expected to submit its draft IPO registration to in March 2026?",
+    "a": "US Securities and Exchange Commission"
+  },
+  {
+    "q": "Who is the billionaire founder of SpaceX, the company planning its first-ever public listing in 2026?",
+    "a": "Elon Musk"
+  },
+  {
+    "q": "What is the target month for SpaceX's public listing if it files its confidential IPO registration in March 2026?",
+    "a": "June"
+  },
+  {
+    "q": "Which two artificial intelligence companies are potentially expected to follow SpaceX in mega-IPOs after its planned 2026 listing?",
+    "a": "OpenAI and Anthropic PBC"
+  },
+  {
+    "q": "According to the February 27, 2026 report, when is SpaceX targeting to file confidentially for its initial public offering?",
+    "a": "As soon as March 2026"
+  },
+  {
+    "q": "What type of IPO filing is SpaceX targeting to submit to the US Securities and Exchange Commission in March 2026?",
+    "a": "Confidential"
+  },
+  {
+    "q": "What specific US state is the location of Starbase, the base for SpaceX's operations as of early 2026?",
+    "a": "Texas"
+  },
+  {
+    "q": "Which company is described as potentially being the second of a trio of mega-IPOs following SpaceX's planned 2026 listing?",
+    "a": "OpenAI"
+  },
+  {
+    "q": "Which company is described as potentially being the third of a trio of mega-IPOs following SpaceX's planned 2026 listing?",
+    "a": "Anthropic PBC"
+  },
+  {
+    "q": "What is the full legal name of the artificial intelligence company potentially following SpaceX in a mega-IPO in 2026?",
+    "a": "Anthropic PBC"
+  },
+  {
+    "q": "What specific document is SpaceX expected to submit to the US Securities and Exchange Commission in March 2026?",
+    "a": "Draft IPO registration"
+  },
+  {
+    "q": "Who provided the information to Bloomberg regarding SpaceX's target for a confidential IPO filing in March 2026?",
+    "a": "People familiar with the matter"
+  },
+  {
+    "q": "What is the primary business sector of SpaceX, the company planning its biggest-ever listing in 2026?",
+    "a": "Rocket and satellite"
+  },
+  {
+    "q": "In which month of 2026 is SpaceX aiming to keep its track for a public listing by filing its draft registration in March?",
+    "a": "June"
+  },
+  {
+    "q": "Which US-based regulatory body is the recipient of SpaceX's draft IPO registration in March 2026?",
+    "a": "US Securities and Exchange Commission"
+  },
+  {
+    "q": "What is the status of SpaceX's IPO filing as of the February 27, 2026 report?",
+    "a": "Targeting confidential filing"
+  },
+  {
+    "q": "Which billionaire is the owner of SpaceX, the company planning to file for an IPO in March 2026?",
+    "a": "Elon Musk"
+  },
+  {
+    "q": "What is the specific location in Texas where SpaceX is based, as identified in the February 2026 report?",
+    "a": "Starbase"
+  },
+  {
+    "q": "Which two AI firms are cited as potential successors to SpaceX in a series of mega-IPOs in 2026?",
+    "a": "OpenAI and Anthropic PBC"
+  },
+  {
+    "q": "What is the expected timeline for SpaceX's public listing if the March 2026 confidential filing proceeds as planned?",
+    "a": "June 2026"
+  },
+  {
+    "q": "Which organization is SpaceX preparing to submit a draft registration to in March 2026?",
+    "a": "US Securities and Exchange Commission"
+  },
+  {
+    "q": "What is the nature of the IPO filing SpaceX is targeting in March 2026, as reported in late February 2026?",
+    "a": "Confidential"
+  },
+  {
+    "q": "Who is the billionaire entrepreneur associated with SpaceX's planned 2026 mega-IPO?",
+    "a": "Elon Musk"
+  },
+  {
+    "q": "In which US state is the Starbase facility, the base for SpaceX, located?",
+    "a": "Texas"
+  },
+  {
+    "q": "Which two companies are potentially part of a trio of mega-IPOs that includes SpaceX in 2026?",
+    "a": "OpenAI and Anthropic PBC"
+  }
+]

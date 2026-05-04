@@ -1,0 +1,65 @@
+{
+  "spike_index": 11,
+  "direction": "down",
+  "price_before": 0.761,
+  "price_after": 0.3565,
+  "delta": -0.4045,
+  "abs_delta": 0.4045,
+  "timestamp_before": "2026-03-09T18:00:25+00:00",
+  "timestamp_after": "2026-03-10T17:30:26+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "http://us.cnn.com/2026/03/09/economy/oil-price-shock",
+      "file": "799b25a394fd.txt",
+      "title": "Oil prices surge above $100: This is the biggest oil disruption in history | CNN Business",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "David Goldman, Matt Egan",
+      "text_length": 4209,
+      "status": "ok",
+      "num_tokens": 906
+    },
+    {
+      "url": "http://us.cnn.com/2026/03/08/business/oil-prices-war-iran-trump",
+      "file": "fbb25f6feb4b.txt",
+      "title": "Oil prices soar past $100 a barrel as war escalates in Iran | CNN Business",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": "Auzinea Bacon, David Goldman",
+      "text_length": 4843,
+      "status": "ok",
+      "num_tokens": 1059
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/08/crude-oil-prices-today-iran-war.html",
+      "file": "53a19a2cebdb.txt",
+      "title": "Oil prices fall as Trump weighs taking over Strait of Hormuz",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": "Spencer Kimball",
+      "text_length": 4478,
+      "status": "ok",
+      "num_tokens": 934
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/09/cnbc-daily-open-oil-storms-past-100-for-first-time-since-2022.html",
+      "file": "d47b8a5aa815.txt",
+      "title": "CNBC Daily Open: Oil storms past $100 for first time since 2022",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "Nur Hikmah Md Ali",
+      "text_length": 2434,
+      "status": "ok",
+      "num_tokens": 518
+    },
+    {
+      "url": "https://www.wireless.reuters.com/business/energy/brent-oil-prices-remain-above-95bbl-over-next-2-months-mideast-conflict-eia-says-2026-03-10/",
+      "file": "f3f5479f0fe4.txt",
+      "title": "Brent to trade above $95 for next two months on Iran war, EIA says\u00a0 | Reuters",
+      "published_date": "2026-03-10T00:00:00.000Z",
+      "author": "Georgina Mccartney",
+      "text_length": 2344,
+      "status": "ok",
+      "num_tokens": 570
+    }
+  ],
+  "total_tokens": 3987
+}

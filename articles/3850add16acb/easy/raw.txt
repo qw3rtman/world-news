@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2026, what specific price did Brent crude oil reach earlier in the day on Friday before dipping to $108.5 a barrel, and which global benchmark does this price represent?",
+    "a": "Brent crude reached $110 a barrel; it is the global oil benchmark."
+  },
+  {
+    "q": "As of March 20, 2026, which two entities are responsible for the Israeli strike on Iran’s South Pars field and the subsequent Iranian retaliation against Qatar’s Ras Laffan facility?",
+    "a": "Israel launched the strike on the South Pars field, and Iran retaliated against the Ras Laffan facility."
+  },
+  {
+    "q": "According to Goldman Sachs analysts in a note issued on Thursday, March 19, 2026, what specific risk do prior large supply shocks underscore regarding oil prices above $100?",
+    "a": "They underscore the risk that oil prices may stay above $100 for longer in scenarios with lengthier disruptions and large persistent supply losses."
+  },
+  {
+    "q": "In March 2026, what percentage of the world’s oil supply is choked off by the effective closure of the Strait of Hormuz, and how many days had it been closed as of Friday?",
+    "a": "The closure chokes off 20% of the world’s oil supply and had been in effect for 19 days."
+  },
+  {
+    "q": "What specific all-time high price for Brent crude oil, set in 2008, did Goldman Sachs warn could be exceeded if supply disruptions through the Strait of Hormuz continued to lengthen in 2026?",
+    "a": "The all-time high set in 2008 was around $147 per barrel."
+  },
+  {
+    "q": "In the worst-case scenario outlined by Goldman Sachs in March 2026, what would Brent prices be by the fourth quarter of 2027 if oil supply through the Strait of Hormuz remained very low for over two months?",
+    "a": "Brent prices would be around $111 per barrel."
+  },
+  {
+    "q": "According to the favorable case scenario from Goldman Sachs in March 2026, what is the projected Brent price by the fourth quarter of 2026 if there is a gradual recovery in oil flows through the Strait of Hormuz starting in April?",
+    "a": "The Brent price would ease to the $70s."
+  },
+  {
+    "q": "As of March 2026, by what percentage did missile attacks reduce QatarEnergy’s export capacity of liquefied natural gas, and how long could repairs take?",
+    "a": "Export capacity was reduced by 17%, and repairs could take up to five years."
+  },
+  {
+    "q": "In March 2026, which US official suggested lifting sanctions on Iranian oil already at sea to combat higher gasoline prices, and what potential downside did this action carry?",
+    "a": "Treasury Secretary Scott Bessent suggested lifting sanctions, which might pad the war chest of a US enemy."
+  },
+  {
+    "q": "As of early March 2026, how many member countries of the International Energy Agency agreed to a historic emergency oil release, and how many barrels did the United States commit to releasing?",
+    "a": "32 member countries agreed, and the United States committed to releasing more than 172 million barrels of crude."
+  },
+  {
+    "q": "In March 2026, what was the average price for a gallon of regular gas in the United States on Friday, and when was the last time it was higher?",
+    "a": "The average price was $3.91 a gallon, the highest since October 13, 2022."
+  },
+  {
+    "q": "Which two countries' leaders made statements in March 2026 regarding the conflict: one calling for the reopening of the Strait of Hormuz and the other agreeing to heed calls not to attack Iranian energy sites?",
+    "a": "US President Donald Trump called for reopening the strait, and Israeli Prime Minister Benjamin Netanyahu agreed to heed the call not to repeat attacks."
+  },
+  {
+    "q": "In March 2026, which nation sent a small deployment of military planners to work with the United States on a collective plan for the Strait of Hormuz, and what was the general stance of other US partners?",
+    "a": "The United Kingdom sent military planners, while other US partners said they were unlikely to send military assets into the strait amid active hostilities."
+  },
+  {
+    "q": "According to Deutsche Bank analysts in March 2026, how does the United States' status as the largest oil producer in the world affect its insulation from the Iran war disruptions?",
+    "a": "It insulates the country from some, but not all, of the recent disruption."
+  },
+  {
+    "q": "In March 2026, what specific action did the Trump administration take regarding US crude and gas exports to ease surging energy prices, and what was the administration's stance on banning them?",
+    "a": "The administration worked to bring more US production online and ruled out imposing a ban on crude oil and gas exports."
+  },
+  {
+    "q": "What specific date did US gas prices last reach an average of $3.91 a gallon before March 2026, according to AAA data cited in the report?",
+    "a": "October 13, 2022."
+  },
+  {
+    "q": "In March 2026, which Iranian energy site was targeted by an Israeli strike, and which Qatari facility was subsequently targeted by Iranian retaliation?",
+    "a": "The Israeli strike targeted Iran’s South Pars field, and Iranian retaliation targeted Qatar’s Ras Laffan facility."
+  },
+  {
+    "q": "As of March 20, 2026, what was the price of US crude oil, and how did it compare to the Brent crude price movement on that day?",
+    "a": "US crude was broadly flat at $95.6 a barrel, while Brent crude ticked down 0.1% to $108.5."
+  },
+  {
+    "q": "According to a senior Iranian security source speaking to CNN on Thursday, March 19, 2026, what is Iran's stated position on the Strait of Hormuz returning to pre-war conditions?",
+    "a": "The source stated the strait 'will not return to pre-war conditions.'"
+  },
+  {
+    "q": "In March 2026, which two markets in Europe and Asia are specifically mentioned as being impacted by the reduced liquefied natural gas export capacity from Qatar?",
+    "a": "Markets in Europe and Asia."
+  },
+  {
+    "q": "What specific duration did Goldman Sachs suggest in March 2026 that higher oil prices could last, extending beyond the immediate conflict?",
+    "a": "Goldman Sachs suggested higher prices could last all the way through 2027."
+  },
+  {
+    "q": "In March 2026, what was the average overnight rise in US gas prices per gallon, and what was the resulting average price on Friday?",
+    "a": "Prices rose 3 cents a gallon to an average of $3.91."
+  },
+  {
+    "q": "Which organization's members agreed to the emergency oil release in early March 2026, and which specific US reserve source was utilized for the release?",
+    "a": "The International Energy Agency members agreed, and the United States committed to releasing crude from its reserves."
+  },
+  {
+    "q": "In March 2026, what specific condition did Goldman Sachs cite for the favorable case scenario where Brent prices ease to the $70s by the fourth quarter of 2026?",
+    "a": "The condition is a gradual recovery in oil flows through the Strait of Hormuz from April."
+  },
+  {
+    "q": "According to the article from March 2026, which two major energy infrastructure locations were directly involved in the escalation of the conflict between Israel and Iran?",
+    "a": "Iran’s South Pars field and Qatar’s Ras Laffan facility."
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "hash": "27cb68224310",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://haaretz.com/israel-news/israel-security/2026-03-01/ty-article/.premium/netanyahu-urges-iranians-to-overthrow-regime-as-iran-vows-revenge-for-khamenei/0000019c-a8bf-db44-a1dd-acffca200000",
+      "title": "Netanyahu Urges Iranians to Overthrow Regime as Iran Vows Revenge for Khamenei Killing - Israel Security",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Rawan Suleiman",
+      "num_tokens": 96,
+      "text_length": 421
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1484987",
+      "spike_id": 1,
+      "market_question": "Netanyahu out by June 30?",
+      "event_title": "Netanyahu out by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.375,
+      "spike_timestamp_before": "2026-03-02T18:30:39+00:00",
+      "spike_timestamp_after": "2026-03-02T22:00:33+00:00"
+    }
+  ]
+}

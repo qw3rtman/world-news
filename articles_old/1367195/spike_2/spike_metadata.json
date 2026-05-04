@@ -1,0 +1,65 @@
+{
+  "spike_index": 2,
+  "direction": "up",
+  "price_before": 0.37,
+  "price_after": 0.999,
+  "delta": 0.629,
+  "abs_delta": 0.629,
+  "timestamp_before": "2026-02-27T09:30:26+00:00",
+  "timestamp_after": "2026-02-28T09:00:45+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.al-monitor.com/originals/2026/03/us-may-have-struck-iranian-girls-school-after-using-outdated-targeting-data",
+      "file": "baede98cda7f.txt",
+      "title": "US may have struck Iranian girls' school after using outdated targeting data, sources say - AL-Monitor: The Middle East\u02bcs leading independent news source since 2012",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 2746,
+      "status": "ok",
+      "num_tokens": 545
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/01/iran-khamenei-trump-us-investors-markets.html",
+      "file": "0de39579cc79.txt",
+      "title": "U.S.-Israel strikes Iran: What we know as markets brace for turmoil",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Anniek Bao",
+      "text_length": 5994,
+      "status": "ok",
+      "num_tokens": 1217
+    },
+    {
+      "url": "https://www.reuters.com/world/us/us-lawmakers-see-no-trump-plan-iran-following-strikes-2026-03-01/",
+      "file": "47bfe485cb47.txt",
+      "title": "US lawmakers see no Trump plan for Iran following strikes | Reuters",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Doina Chiacu",
+      "text_length": 5698,
+      "status": "ok",
+      "num_tokens": 1167
+    },
+    {
+      "url": "http://www.thediplomat.com/2026/03/the-us-strikes-on-iran-are-a-reminder-to-china-power-is-power/",
+      "file": "1a0a52bc62a1.txt",
+      "title": "The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 629,
+      "status": "ok",
+      "num_tokens": 111
+    },
+    {
+      "url": "https://www.reuters.com/world/middle-east/israel-us-launched-strikes-iranian-leader-met-with-inner-circle-sources-say-2026-03-01/",
+      "file": "7d1914930f09.txt",
+      "title": "Israel, US launched strikes as Iranian leader met with inner circle, sources say | Reuters",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Jonathan Landay",
+      "text_length": 2398,
+      "status": "ok",
+      "num_tokens": 489
+    }
+  ],
+  "total_tokens": 3529
+}

@@ -1,0 +1,65 @@
+{
+  "spike_index": 4,
+  "direction": "up",
+  "price_before": 0.205,
+  "price_after": 0.37,
+  "delta": 0.165,
+  "abs_delta": 0.165,
+  "timestamp_before": "2026-03-09T06:30:21+00:00",
+  "timestamp_after": "2026-03-10T06:00:28+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://apps.npr.org/primary-election-results-2026/states/TX.html",
+      "file": "36e7d1e2921b.txt",
+      "title": "Texas Primary Election Results 2026 : NPR",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "text_length": 1067,
+      "status": "ok",
+      "num_tokens": 269
+    },
+    {
+      "url": "https://foxnews.com/politics/trump-ally-endorses-paxton-over-cornyn-gop-senate-primary-heads-high-stakes-texas-runoff.print",
+      "file": "ef56994ea043.txt",
+      "title": "Trump ally endorses Paxton over Cornyn as GOP Senate primary heads to high-stakes Texas runoff",
+      "published_date": "2026-03-10T00:00:00.000Z",
+      "author": null,
+      "text_length": 2691,
+      "status": "ok",
+      "num_tokens": 610
+    },
+    {
+      "url": "https://www.newsweek.com/ken-paxtons-chances-of-beating-john-cornyn-in-runoff-election-poll-11662718",
+      "file": "3a150b51ccf7.txt",
+      "title": "Ken Paxton's chances of beating John Cornyn in runoff election: Poll - Newsweek",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": null,
+      "text_length": 3171,
+      "status": "ok",
+      "num_tokens": 683
+    },
+    {
+      "url": "https://now.cnn.com/2026/03/11/politics/cornyn-paxton-trump-endorse-texas",
+      "file": "e93d92270584.txt",
+      "title": "Breaking News, Latest News and Videos | CNN",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": "Monica Sarkar",
+      "text_length": 332,
+      "status": "ok",
+      "num_tokens": 79
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/11/politics/cornyn-paxton-trump-endorse-texas",
+      "file": "245c568d8a16.txt",
+      "title": "Texas race: Trump leaned toward endorsing Cornyn. Then the leaks started \u2014 and Paxton made a \u2018genius move\u2019 | CNN Politics",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": "Alayna Treene, Lauren Fox",
+      "text_length": 5921,
+      "status": "ok",
+      "num_tokens": 1251
+    }
+  ],
+  "total_tokens": 2892
+}

@@ -1,0 +1,27 @@
+{
+  "hash": "b4e39099743a",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://www.reuters.com/business/tilman-fertitta-talks-buy-caesars-7-billion-wsj-reports-2026-03-11/",
+      "title": "Tilman Fertitta in talks to buy Caesars for $7 billion, WSJ reports | Reuters",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 403,
+      "text_length": 1816
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694939",
+      "spike_id": 13,
+      "market_question": "Will Ubisoft be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.26,
+      "spike_timestamp_before": "2026-03-11T18:30:21+00:00",
+      "spike_timestamp_after": "2026-03-12T14:30:24+00:00"
+    }
+  ]
+}

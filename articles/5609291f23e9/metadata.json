@@ -1,0 +1,27 @@
+{
+  "hash": "5609291f23e9",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.nbcnews.com/politics/justice-department/doj-not-released-epstein-files-related-woman-made-allegation-trump-rcna260672?tpcc=eml_npd_nws_mrd_02252026",
+      "title": "DOJ hasn't released some Epstein files related to a woman who made an allegation against Trump",
+      "published_date": "2026-02-25T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1388,
+      "text_length": 7178
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1316529",
+      "spike_id": 1,
+      "market_question": "Will Alexandria Ocasio-Cortez be named in newly released Epstein files by February 28?",
+      "event_title": "Who will be named in newly released Epstein files by February 28?",
+      "spike_direction": "up",
+      "spike_delta": 0.19,
+      "spike_timestamp_before": "2026-02-25T15:00:45+00:00",
+      "spike_timestamp_after": "2026-02-25T17:30:31+00:00"
+    }
+  ]
+}

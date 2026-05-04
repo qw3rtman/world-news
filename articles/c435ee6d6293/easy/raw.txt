@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On March 13, 2026, which U.S. military unit and amphibious assault ship were ordered to the Middle East by a U.S. official, and where were these forces based prior to deployment?",
+    "a": "The 31st Marine Expeditionary Unit and the amphibious assault ship USS Tripoli, which were based in Japan."
+  },
+  {
+    "q": "What specific event occurred in Tehran's Ferdowsi Square on the last Friday of Ramadan in 2026, and what was the outcome regarding casualties?",
+    "a": "A large explosion rocked the area during an Al-Quds Day rally; there were no reported casualties."
+  },
+  {
+    "q": "According to U.S. Secretary of War Pete Hegseth on March 13, 2026, how many total targets had been struck in Iran since the war began on February 28, 2026?",
+    "a": "More than 15,000 targets."
+  },
+  {
+    "q": "Which island, serving as Iran's primary oil export terminal, did President Donald Trump state U.S. forces had \"obliterated\" military targets on in March 2026?",
+    "a": "Kharg Island."
+  },
+  {
+    "q": "Who is Iran's new Supreme Leader who made his first public statements on March 12, 2026, and what was the reported condition of his health following the airstrike that killed his predecessor?",
+    "a": "Ayatollah Mojtaba Khamenei; he was reported to be \"lightly\" injured and \"likely disfigured.\""
+  },
+  {
+    "q": "In March 2026, which U.S. Navy destroyer intercepted an Iranian ballistic missile over Turkey, marking the third such interception over the NATO member in two weeks?",
+    "a": "USS Oscar Austin."
+  },
+  {
+    "q": "What was the casualty toll in Lebanon's southern coastal city of Sidon from an Israeli strike on March 13, 2026, according to Lebanon's Health Ministry?",
+    "a": "At least eight people were killed and nine others were wounded."
+  },
+  {
+    "q": "Which Strait, through which a fifth of the world's traded oil passes, did Iran effectively close in March 2026, and who vowed to keep it shut?",
+    "a": "The Strait of Hormuz; Iran's new Supreme Leader Mojtaba Khamenei."
+  },
+  {
+    "q": "How many sites in Iran and how many in Lebanon had the Israeli military struck by March 13, 2026, according to its military statements?",
+    "a": "More than 7,600 sites in Iran and more than 1,100 in Lebanon."
+  },
+  {
+    "q": "What incident occurred at the Dubai International Financial Center in March 2026, and how did authorities describe the cause?",
+    "a": "A building was damaged by debris from what authorities called a \"successful interception.\""
+  },
+  {
+    "q": "Which two countries reported casualties from Iranian drone attacks in March 2026, and what were the specific incidents?",
+    "a": "Oman, where two people were killed when drones crashed in the Sohar region; and Turkey, where sirens sounded at Incirlik Air Base."
+  },
+  {
+    "q": "What warning did Israel issue via a Farsi-language X account shortly before the explosion in Tehran's Ferdowsi Square on the last Friday of Ramadan 2026?",
+    "a": "Israel warned people to clear the area."
+  },
+  {
+    "q": "Who is the Senior security official who told Iranian media that the suspected Israeli attack on the Tehran rally was a \"sign of its desperation\"?",
+    "a": "Ali Larijani."
+  },
+  {
+    "q": "What is the typical number of U.S. troops housed at Al-Udeid Air Base, one of the largest U.S. military bases in the Middle East?",
+    "a": "Some 8,000 U.S. troops."
+  },
+  {
+    "q": "Which U.S. media reports suggested that a deadly missile attack on a girls' school in Minab, Iran, may have resulted from outdated targeting data?",
+    "a": "Preliminary findings of an internal military investigation assigned to a general outside of Central Command."
+  },
+  {
+    "q": "How many U.S. soldiers had been lost and how many suffered severe injuries by March 13, 2026, according to the article?",
+    "a": "At least 13 soldiers were lost, and another eight suffered severe injuries."
+  },
+  {
+    "q": "What did Iran's new Supreme Leader Mojtaba Khamenei threaten to do in his first message as leader in March 2026, regarding the war and energy supplies?",
+    "a": "He vowed to keep the Strait of Hormuz blocked, open \"other fronts\" in the war, and keep attacking U.S. bases."
+  },
+  {
+    "q": "Which two individuals' images were depicted on posters by Iranians attending the Al-Quds Day rally in Tehran in March 2026?",
+    "a": "U.S. President Donald Trump and Israeli Prime Minister Benjamin Netanyahu."
+  },
+  {
+    "q": "What did the Israeli military post on its Farsi-language X account after the explosion in Tehran, regarding Iran's judiciary head?",
+    "a": "It noted the head of Iran's judiciary was at the rally and criticized Iran for blocking many from seeing their warning."
+  },
+  {
+    "q": "In which ocean were the 31st Marine Expeditionary Unit and the USS Tripoli located for several days prior to their March 2026 deployment to the Middle East?",
+    "a": "The Pacific Ocean."
+  },
+  {
+    "q": "What did Iran say it would target after an airstrike hit a bank in Tehran in March 2026?",
+    "a": "Banks and financial institutions."
+  },
+  {
+    "q": "How many people, including specific demographics, had been killed in Lebanon in the last 10 days of the conflict between Israel and Hezbollah militants by March 13, 2026?",
+    "a": "773 people, including more than 100 children and 62 women."
+  },
+  {
+    "q": "Which satellite company provided an image of Iran's Kharg Island oil terminal on February 25, 2026, before the war began?",
+    "a": "Planet Labs PBC."
+  },
+  {
+    "q": "What did President Donald Trump say about the possibility of seizing Iran's Kharg Island during a Fox News Radio interview recorded on March 12, 2026?",
+    "a": "He said it was \"not high on the list\" but he could \"change my mind in seconds.\""
+  },
+  {
+    "q": "Which two Gulf Arab states were targeted by Iranian drone attacks in early March 2026, following warnings from Supreme Leader Mojtaba Khamenei?",
+    "a": "Saudi Arabia and Oman."
+  }
+]

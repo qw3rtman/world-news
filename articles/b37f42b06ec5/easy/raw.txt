@@ -1,0 +1,106 @@
+[
+  {
+    "q": "According to seven current and former officials who spoke to CNN in March 2026, what specific type of military force would be required to recover Iran’s remaining highly enriched uranium stockpile from underground facilities?",
+    "a": "A significant number of US ground troops beyond a small special operations footprint."
+  },
+  {
+    "q": "During which month in 2025 did the US bombing campaign strike three Iranian nuclear facilities, an event that sources say did not destroy all of Iran’s highly enriched uranium stockpile?",
+    "a": "June 2025."
+  },
+  {
+    "q": "At which specific Iranian nuclear site, located in Isfahan, is much of Iran’s remaining highly enriched uranium believed to be stored according to sources in March 2026?",
+    "a": "The Isfahan nuclear site."
+  },
+  {
+    "q": "What is the approximate percentage of enrichment level of Iran’s uranium as reported by the International Atomic Energy Agency in early 2026, and what threshold percentage is generally considered usable for nuclear weapons?",
+    "a": "Iran’s uranium is enriched at around 60%, while the threshold for nuclear weapons is around 90%."
+  },
+  {
+    "q": "Who is the UN nuclear watchdog chief that stated in March 2026 that around 200 kilograms of Iran’s highly enriched uranium is probably still at the Isfahan site?",
+    "a": "Rafael Grossi."
+  },
+  {
+    "q": "Which two elite units within the US military’s Joint Special Operations Command (JSOC) are specifically mentioned as receiving training in countering weapons of mass destruction?",
+    "a": "Delta Force and Seal Team 6."
+  },
+  {
+    "q": "In early March 2026, at least six MC-130Js were observed flying out of which airbase in the United Kingdom, positioning them closer to Iran?",
+    "a": "RAF Mildenhall."
+  },
+  {
+    "q": "Who was installed as Iran’s new ayatollah in early 2026, replacing the former Supreme Leader Ali Khamenei, according to reports in the article?",
+    "a": "Mojtaba Khamenei."
+  },
+  {
+    "q": "Which two US Army divisions are mentioned as potential providers of outer security for a special operations mission to secure Iran’s uranium, depending on the size of the area?",
+    "a": "The 75th Ranger Regiment or the 82nd Airborne Division."
+  },
+  {
+    "q": "What specific type of aircraft and helicopter assets are identified as necessary for exfiltration and infiltration during a mission to retrieve Iran’s underground uranium?",
+    "a": "MC-130J aircraft or MH-47 Chinook helicopters."
+  },
+  {
+    "q": "Why are US military airstrikes alone considered insufficient to penetrate the Isfahan tunnels, according to sources in March 2026?",
+    "a": "The facility does not have ventilation shaft openings that serve as weak points for storage structures."
+  },
+  {
+    "q": "Which US government group has served as the lead for the Pentagon’s counter-WMD mission for nearly a decade prior to 2026?",
+    "a": "US Special Operations Command."
+  },
+  {
+    "q": "What is the stated aim of President Donald Trump regarding Iran’s nuclear capability, as described in the March 2026 article?",
+    "a": "Complete elimination of Iran’s nuclear capability."
+  },
+  {
+    "q": "Which specific US military command is discussed as potentially coordinating with Israeli commando forces to physically infiltrate Iran’s underground tunnels?",
+    "a": "The US military’s Joint Special Operations Command (JSOC)."
+  },
+  {
+    "q": "According to a retired special forces officer quoted in the March 2026 article, what specialized personnel would need to be attached to a tier one special operations unit for such a mission?",
+    "a": "Specialized explosive ordnance disposal personnel."
+  },
+  {
+    "q": "What dual-use material is Iran said to produce only for peaceful energy purposes, but which can be used for nuclear weapons if enriched above 90%?",
+    "a": "Highly enriched uranium."
+  },
+  {
+    "q": "Besides the Isfahan site, at which other Iranian nuclear facility is some of the remaining highly enriched uranium believed to be located?",
+    "a": "The Natanz nuclear facility."
+  },
+  {
+    "q": "What specific contingency plans does JSOC have regarding the highly enriched uranium found underground in Iran?",
+    "a": "To either render the material safe underground and/or render the facility unusable."
+  },
+  {
+    "q": "Which variant of the C-130 cargo plane is specially equipped to support covert infiltration and exfiltration of US commandos into hostile environments?",
+    "a": "The MC-130J."
+  },
+  {
+    "q": "What did UN nuclear watchdog chief Rafael Grossi estimate the quantity of Iran’s highly enriched uranium to be at the Isfahan site in March 2026?",
+    "a": "Around 200 kilograms."
+  },
+  {
+    "q": "Who are the two US officials whose departments did not respond to a request for comment ahead of the March 9, 2026 publication?",
+    "a": "The White House and the Pentagon."
+  },
+  {
+    "q": "What type of support would additional troops provide to the core special operations team tasked with finding the uranium in Iran?",
+    "a": "Securing the area and providing logistical support for working with nuclear material deep underground."
+  },
+  {
+    "q": "According to sources in March 2026, what is the primary reason some level of diplomatic engagement will likely be required alongside military power to eliminate Iran’s enriched uranium stockpile?",
+    "a": "The Iranian regime is proving resilient and has not collapsed outright."
+  },
+  {
+    "q": "Which satellite imagery and flight data reviewed by CNN in March 2026 showed several MC-130Js parked on the tarmac at RAF Mildenhall?",
+    "a": "Satellite imagery captured over the airbase on March 5, 2026."
+  },
+  {
+    "q": "What specific action had the Iranians been working on for months after the US military strikes last year to regain access to their hidden uranium?",
+    "a": "Clearing the rubble of the facility’s aboveground structures."
+  },
+  {
+    "q": "What did President Donald Trump state last month regarding his stance on Iran having a nuclear weapon?",
+    "a": "He said he will never allow Iran, which he called the world’s number one sponsor of terror, to have a nuclear weapon."
+  }
+]

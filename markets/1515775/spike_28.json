@@ -1,0 +1,65 @@
+{
+  "spike_index": 28,
+  "direction": "down",
+  "price_before": 0.6845,
+  "price_after": 0.4035,
+  "delta": -0.28099999999999997,
+  "abs_delta": 0.28099999999999997,
+  "timestamp_before": "2026-03-19T01:30:37+00:00",
+  "timestamp_after": "2026-03-20T01:00:37+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://fortune.com/2026/03/19/how-high-oil-barrel-price-brent-crude/",
+      "file": "c5010872d149.txt",
+      "title": "Oil approaches $115 per barrel as market realizes higher for longer is very possible | Fortune",
+      "published_date": "2026-03-19T00:00:00.000Z",
+      "author": "The Associated Press",
+      "text_length": 189,
+      "status": "ok",
+      "num_tokens": 37
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2026/3/19/could-oil-hit-200-a-barrel-analysts-no-longer-think-its-far-fetched",
+      "file": "8590f647b3db.txt",
+      "title": "Could oil hit $200 a barrel? Analysts no longer think it is far-fetched | Energy News | Al Jazeera",
+      "published_date": "2026-03-19T00:00:00.000Z",
+      "author": "John Power",
+      "text_length": 6519,
+      "status": "ok",
+      "num_tokens": 1360
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/19/166-a-barrel-middle-east-oil-gives-clue-to-where-all-prices-could-be-headed-if-iran-war-drags-on.html",
+      "file": "e96d83d5a616.txt",
+      "title": "$166 a barrel? Middle East oil gives clue to where all prices could be headed if Iran war drags on",
+      "published_date": "2026-03-19T00:00:00.000Z",
+      "author": "Alex Harring",
+      "text_length": 4293,
+      "status": "ok",
+      "num_tokens": 878
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/20/goldman-sachs-oil-price-iran-war.html",
+      "file": "78a26ff1cfa2.txt",
+      "title": "Oil could top record high if Iran war disruption persists: Goldman",
+      "published_date": "2026-03-20T00:00:00.000Z",
+      "author": "Spencer Kimball",
+      "text_length": 66,
+      "status": "ok",
+      "num_tokens": 12
+    },
+    {
+      "url": "https://www.barrons.com/articles/oil-prices-today-ceiling-iran-5928b2c2",
+      "file": "dbb4a9c7e156.txt",
+      "title": "Oil Prices Today: After Spiking to $119, How Much Higher Can They Go?<!-- --> - Barron's",
+      "published_date": "2026-03-20T00:00:00.000Z",
+      "author": "Mackenzie Tatananni|George Glover",
+      "text_length": 154,
+      "status": "ok",
+      "num_tokens": 30
+    }
+  ],
+  "total_tokens": 2317
+}

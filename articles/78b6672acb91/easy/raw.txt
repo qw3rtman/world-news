@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the first round of municipal elections held on March 15, 2026, in southeastern France, which far-right party candidate won by a landslide in the stronghold of Perpignan?",
+    "a": "Louis Aliot, the No. 2 figure of the National Rally."
+  },
+  {
+    "q": "During the March 15, 2026, first round of French municipal elections, which two candidates finished neck and neck in Marseille, France’s second-largest city?",
+    "a": "Incumbent left-wing mayor Benoît Payan and National Rally contender Franck Allisio."
+  },
+  {
+    "q": "Who emerged as the favorite for the second round of the Nice municipal election in March 2026, having launched his own far-right party in 2024 and allied with the National Rally?",
+    "a": "Éric Ciotti, a former conservative politician."
+  },
+  {
+    "q": "What was the voter turnout percentage for the first round of French municipal elections held in March 2026, according to the Ministry of Interior?",
+    "a": "Just over 57%."
+  },
+  {
+    "q": "In the March 2026 Paris mayoral race, which left-wing candidate emerged as the front-runner after the first round against conservative rival Rachida Dati?",
+    "a": "Emmanuel Grégoire, a former deputy to outgoing mayor Anne Hidalgo."
+  },
+  {
+    "q": "Which prominent figure, until recently serving as France’s culture minister, is scheduled to stand trial in September 2026 on charges of corruption and influence peddling while running for Paris mayor?",
+    "a": "Rachida Dati."
+  },
+  {
+    "q": "Who is the incumbent Green mayor of Lyon, France’s third-largest city, who joined forces with France Unbowed in the March 2026 municipal election?",
+    "a": "Grégory Doucet."
+  },
+  {
+    "q": "Which anti-racism group’s president, Dominique Sopo, called on mainstream parties to unite to block the far right in the March 2026 municipal elections?",
+    "a": "SOS Racisme."
+  },
+  {
+    "q": "Which veteran firebrand leads the hard-left France Unbowed party, which showed strong results in several big cities during the March 2026 municipal elections?",
+    "a": "Jean-Luc Mélenchon."
+  },
+  {
+    "q": "In the March 2026 municipal elections, which incumbent mayor of Le Havre, a former prime minister for President Emmanuel Macron, sought a runoff victory to strengthen his standing as a potential presidential contender?",
+    "a": "Édouard Philippe."
+  },
+  {
+    "q": "Marine Le Pen, leader of the National Rally, was barred from holding public office for five years following a conviction last year; when is a key court decision regarding her appeal expected?",
+    "a": "July 7, 2026."
+  },
+  {
+    "q": "If Marine Le Pen is barred from running in the 2027 French presidential election due to her conviction, who is expected to replace her as the National Rally’s candidate?",
+    "a": "Jordan Bardella."
+  },
+  {
+    "q": "Which two southern French cities, besides Marseille and Nice, are described as places where the far right appears well-placed in the March 2026 municipal elections?",
+    "a": "Nîmes and Toulon."
+  },
+  {
+    "q": "In the March 2026 Paris mayoral runoff, which coalition does Emmanuel Grégoire head that includes Socialists, Greens, and Communists?",
+    "a": "A coalition formed with France Unbowed’s candidate also qualifying for the second round."
+  },
+  {
+    "q": "Which outgoing Paris mayor, elected in 2014 and reelected in 2020, chose not to seek a third term after leading the city through the 2015 extremist attacks and the 2024 Paris Olympics?",
+    "a": "Anne Hidalgo."
+  },
+  {
+    "q": "Before the March 22, 2026, runoff, what was the deadline for negotiations to merge electoral lists in places where three or more candidates qualified?",
+    "a": "6 p.m. on Tuesday."
+  },
+  {
+    "q": "Which traditional alliance collapsed between France Unbowed and the Socialists, Greens, and Communists, partly due to accusations of tolerating antisemitic rhetoric?",
+    "a": "The alliance that France Unbowed once used to maintain with those parties."
+  },
+  {
+    "q": "In the March 2026 Lyon mayoral race, which right-wing contender, a business owner and former football club president, ran against incumbent Grégory Doucet?",
+    "a": "Jean-Michel Aulas."
+  },
+  {
+    "q": "Which major naval base on the Mediterranean is identified as a port city where the far right appears well-placed in the March 2026 municipal elections?",
+    "a": "Toulon."
+  },
+  {
+    "q": "President Emmanuel Macron is barred from seeking a third consecutive term under France’s constitution; in which year is the next presidential election scheduled?",
+    "a": "2027."
+  },
+  {
+    "q": "Which far-right militant’s death in Lyon last month was blamed by some critics for fueling tensions that affected the political climate of the March 2026 municipal elections?",
+    "a": "A far-right militant (specific name not provided in article, but event cited)."
+  },
+  {
+    "q": "In the March 2026 municipal elections, which party’s candidate also qualified for the second round in Paris, making the result highly unpredictable despite Emmanuel Grégoire’s refusal to form a pact with them?",
+    "a": "France Unbowed."
+  },
+  {
+    "q": "Which center-right politician, who served as Macron’s prime minister for three years, came out first in the first round of the Le Havre municipal election in March 2026?",
+    "a": "Édouard Philippe."
+  },
+  {
+    "q": "The National Rally, led by Marine Le Pen, counts on key mayor jobs in the March 2026 elections to demonstrate its ability to be at the helm; which city’s incumbent left-wing mayor Benoît Payan finished neck and neck with their contender?",
+    "a": "Marseille."
+  },
+  {
+    "q": "Which group’s president, Dominique Sopo, stated that no alliance should be ruled out if it helps prevent the far right from taking control of new municipalities in the March 2026 elections?",
+    "a": "SOS Racisme."
+  }
+]

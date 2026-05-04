@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On what date did the Lebanese General Security Directorate announce it was pursuing Iran's Islamic Revolutionary Guard Corps (IRGC) members?",
+    "a": "March 26, 2026"
+  },
+  {
+    "q": "Which Israeli military action served as the catalyst for the Lebanese government's order to arrest Iran's IRGC members?",
+    "a": "Israel's explicit military ultimatum demanding that Lebanon limit Iranian operations in its territory"
+  },
+  {
+    "q": "What specific reason did the Lebanese General Security Directorate cite for taking legal measures against Iran's IRGC presence in Lebanon?",
+    "a": "The need to protect national security and sovereignty"
+  },
+  {
+    "q": "Which militant group is identified in the article as the conduit through which Iran wields significant political and military influence in Lebanon?",
+    "a": "Hezbollah"
+  },
+  {
+    "q": "Who is leading the diplomatic discussions between Lebanon and Iran aimed at de-escalating the situation?",
+    "a": "Hezbollah’s political wing"
+  },
+  {
+    "q": "What broader strategic goal is the Lebanese government pursuing by limiting the influence of foreign military and paramilitary groups?",
+    "a": "To uphold its independence"
+  },
+  {
+    "q": "According to the article, what ongoing conflict in Gaza is linked to the sustained military campaign in southern Lebanon?",
+    "a": "The ongoing war in Gaza"
+  },
+  {
+    "q": "How has Iran responded to Lebanon's crackdown on its operatives, despite organizing funerals and military parades for them in the country?",
+    "a": "Iran has accused Lebanon of unjustly cracking down on its operatives"
+  },
+  {
+    "q": "What potential consequence do analysts say the Lebanese move against the IRGC could cause regarding regional stability?",
+    "a": "It could further inflame regional tensions"
+  },
+  {
+    "q": "What specific type of talks are believed by some to provide a window for de-escalation between Israel and Lebanon?",
+    "a": "Ceasefire talks"
+  },
+  {
+    "q": "Which two entities are described as taking increasingly firm positions against Iran's military presence, thereby looming large over the prospect of renewed conflict?",
+    "a": "Israel and Lebanon"
+  },
+  {
+    "q": "In what context does the article describe Iran's Islamic Revolutionary Guard Corps (IRGC) becoming an 'anchor of resistance' in Lebanon?",
+    "a": "By becoming an anchor of resistance in Lebanon, the IRGC has recently drawn the ire of the Lebanese government"
+  },
+  {
+    "q": "What does the Lebanese General Security Directorate statement claim about the operations of Iran’s IRGC in Lebanon?",
+    "a": "The IRGC operates in defiance of the country's laws"
+  },
+  {
+    "q": "Why has Lebanon long seen Iran as a threat, specifically regarding its regional ambitions?",
+    "a": "Iran has long seen Lebanon as a conduit for its regional ambitions"
+  },
+  {
+    "q": "What specific fear is driving Hezbollah’s political wing to lead diplomatic discussions between Lebanon and Iran?",
+    "a": "Fears of a broader regional clash"
+  },
+  {
+    "q": "How does the article characterize the shift in Lebanon’s stance toward Iran lately, despite Hezbollah remaining a powerful actor?",
+    "a": "There has been a visible shift in Lebanon’s stance"
+  },
+  {
+    "q": "What action did the Lebanese government order to curb the influence and activities of Iran's IRGC members?",
+    "a": "The arrest of Iran's IRGC members"
+  },
+  {
+    "q": "Which organization announced the pursuit of Iran's IRGC members on March 26?",
+    "a": "The Lebanese General Security Directorate (GSD)"
+  },
+  {
+    "q": "What does the article suggest about the relationship between Lebanon and Iran given the IRGC's presence?",
+    "a": "Lebanon’s relationship with Iran has long been complicated"
+  },
+  {
+    "q": "What specific legal measures is the Lebanese government taking against Iran’s IRGC presence?",
+    "a": "Taking all legal measures against Iran’s IRGC presence in Lebanon"
+  },
+  {
+    "q": "What event is described as the backdrop for Israel's sustained military campaign in southern Lebanon?",
+    "a": "The ongoing war in Gaza"
+  },
+  {
+    "q": "Why might Tehran view the Lebanese action against the IRGC as a direct threat?",
+    "a": "Because it threatens Iran's strategic interests in Lebanon"
+  },
+  {
+    "q": "What role does the article assign to Hezbollah in the context of diplomatic discussions between Lebanon and Iran?",
+    "a": "Hezbollah’s political wing is leading the diplomatic discussions"
+  },
+  {
+    "q": "What is the stated purpose of the Lebanese government's push to limit foreign interference?",
+    "a": "To curb the influence and activities of groups like Iran's IRGC"
+  },
+  {
+    "q": "What looming prospect is associated with both Israel and Lebanon taking firm positions against Iran's military presence?",
+    "a": "The prospect of a renewed conflict in the Middle East"
+  }
+]

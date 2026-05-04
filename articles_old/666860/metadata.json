@@ -1,0 +1,21 @@
+{
+  "market_id": "666860",
+  "question": "Trump out as President by March 31?",
+  "slug": "trump-out-as-president-by-march-31",
+  "url": "https://polymarket.com/event/trump-out-as-president-by-march-31",
+  "description": "This market will resolve to \u201cYes\u201d if Donald Trump resigns or is removed as President or otherwise ceases to be the President of the United States for any period of time by March 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \u201cNo\u201d.\n\nAn announcement of Donald Trump's resignation/removal before this market's end date will immediately resolve this market to \"Yes\", regardless of when the announced resignation/removal goes into effect.\n\nOnly permanent removal from office will qualify. Temporary removal (e.g. temporary invocation of the 25th Amendment under Section 3 or a Section 4 invocation not sustained by both Houses of Congress) or impeachment without removal will not count.\n\nA sustained invocation of the Twenty-Fifth Amendment, Section 4 (i.e., if both Houses of Congress, by two-thirds vote, uphold the Vice President and Cabinet\u2019s determination of presidential inability) will qualify for a \"Yes\" resolution. \n\nThe resolution source for this market will be a consensus of credible reporting.",
+  "event_title": "Trump out as President by March 31?",
+  "event_tags": [
+    "Politics",
+    "Elections",
+    "Trump",
+    "Epstein"
+  ],
+  "volume_total": 8019231.861310807,
+  "created_at": "2025-11-05T19:21:21.070587Z",
+  "end_date": "2026-03-31T00:00:00Z",
+  "num_spikes": 2,
+  "max_spike": 0.27099999999999996,
+  "total_tokens": 8163,
+  "total_articles": 10
+}

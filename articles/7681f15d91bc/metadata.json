@@ -1,0 +1,47 @@
+{
+  "hash": "7681f15d91bc",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.iranintl.com/en/202602289193",
+      "title": "Qatar says air base housing US troops targeted in missile attack | Iran International",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 15,
+      "text_length": 85
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1279277",
+      "spike_id": 1,
+      "market_question": "Iran strike on Qatar by February 28, 2026?",
+      "event_title": "Iran strike on Qatar by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.7745,
+      "spike_timestamp_before": "2026-02-27T19:00:37+00:00",
+      "spike_timestamp_after": "2026-02-28T10:00:40+00:00"
+    },
+    {
+      "market_id": "1279277",
+      "spike_id": 2,
+      "market_question": "Iran strike on Qatar by February 28, 2026?",
+      "event_title": "Iran strike on Qatar by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.874,
+      "spike_timestamp_before": "2026-02-27T19:00:37+00:00",
+      "spike_timestamp_after": "2026-02-28T14:00:51+00:00"
+    },
+    {
+      "market_id": "1279277",
+      "spike_id": 3,
+      "market_question": "Iran strike on Qatar by February 28, 2026?",
+      "event_title": "Iran strike on Qatar by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.916,
+      "spike_timestamp_before": "2026-02-27T19:30:42+00:00",
+      "spike_timestamp_after": "2026-02-28T19:30:37+00:00"
+    }
+  ]
+}

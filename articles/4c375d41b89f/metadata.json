@@ -1,0 +1,37 @@
+{
+  "hash": "4c375d41b89f",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.npr.org/2026/03/18/nx-s1-5751694/iran-retaliates-israel-kills-two-top-iranian-officials",
+      "title": "Iran war can't eliminate nuclear program: U.N. atomic energy chief Grossi : NPR",
+      "published_date": "2026-03-18T17:24:37.594Z",
+      "author": "By                  \n   \n       \n      NPR Staff",
+      "num_tokens": 2003,
+      "text_length": 9936
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "678747",
+      "spike_id": 6,
+      "market_question": "Will Israel strike 4 countries in 2026?",
+      "event_title": "How many different countries will Israel strike in 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.2665,
+      "spike_timestamp_before": "2026-03-18T03:00:49+00:00",
+      "spike_timestamp_after": "2026-03-18T20:00:56+00:00"
+    },
+    {
+      "market_id": "678747",
+      "spike_id": 7,
+      "market_question": "Will Israel strike 4 countries in 2026?",
+      "event_title": "How many different countries will Israel strike in 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.16699999999999998,
+      "spike_timestamp_before": "2026-03-18T21:30:41+00:00",
+      "spike_timestamp_after": "2026-03-18T23:30:41+00:00"
+    }
+  ]
+}

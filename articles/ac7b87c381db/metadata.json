@@ -1,0 +1,67 @@
+{
+  "hash": "ac7b87c381db",
+  "n_appearances": 5,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260227-excandidato-presidencial-m%C3%A1rquez-aspira-participar-en-una-transici%C3%B3n-en-la-venezuela-pos-maduro",
+      "title": "Excandidato presidencial Márquez aspira participar en una transición en Venezuela - France 24",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 633,
+      "text_length": 2435
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1106813",
+      "spike_id": 1,
+      "market_question": "Will María Corina Machado enter Venezuela by March 31?",
+      "event_title": "María Corina Machado enters Venezuela by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.24,
+      "spike_timestamp_before": "2026-02-26T20:00:23+00:00",
+      "spike_timestamp_after": "2026-02-27T20:00:23+00:00"
+    },
+    {
+      "market_id": "1106813",
+      "spike_id": 2,
+      "market_question": "Will María Corina Machado enter Venezuela by March 31?",
+      "event_title": "María Corina Machado enters Venezuela by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.35000000000000003,
+      "spike_timestamp_before": "2026-02-27T02:30:25+00:00",
+      "spike_timestamp_after": "2026-02-28T02:00:28+00:00"
+    },
+    {
+      "market_id": "1106813",
+      "spike_id": 3,
+      "market_question": "Will María Corina Machado enter Venezuela by March 31?",
+      "event_title": "María Corina Machado enters Venezuela by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.495,
+      "spike_timestamp_before": "2026-02-27T08:30:21+00:00",
+      "spike_timestamp_after": "2026-02-28T08:00:34+00:00"
+    },
+    {
+      "market_id": "1106813",
+      "spike_id": 4,
+      "market_question": "Will María Corina Machado enter Venezuela by March 31?",
+      "event_title": "María Corina Machado enters Venezuela by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.21999999999999997,
+      "spike_timestamp_before": "2026-02-28T08:00:34+00:00",
+      "spike_timestamp_after": "2026-02-28T14:00:40+00:00"
+    },
+    {
+      "market_id": "1106813",
+      "spike_id": 5,
+      "market_question": "Will María Corina Machado enter Venezuela by March 31?",
+      "event_title": "María Corina Machado enters Venezuela by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.15500000000000003,
+      "spike_timestamp_before": "2026-02-28T14:00:40+00:00",
+      "spike_timestamp_after": "2026-02-28T16:30:36+00:00"
+    }
+  ]
+}

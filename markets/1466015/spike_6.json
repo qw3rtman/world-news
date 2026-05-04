@@ -1,0 +1,65 @@
+{
+  "spike_index": 6,
+  "direction": "up",
+  "price_before": 0.215,
+  "price_after": 0.445,
+  "delta": 0.23,
+  "abs_delta": 0.23,
+  "timestamp_before": "2026-03-08T22:00:16+00:00",
+  "timestamp_after": "2026-03-09T21:00:18+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.nbcnews.com/world/iran/irans-foreign-minister-rejects-calls-ceasefire-continue-fighting-rcna262291",
+      "file": "81b3681f08d8.txt",
+      "title": "Iran's foreign minister rejects calls for a ceasefire: 'We need to continue fighting for the sake of our people'",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": null,
+      "text_length": 4582,
+      "status": "ok",
+      "num_tokens": 956
+    },
+    {
+      "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-trump-israel-warship-attack-middle-east-rcna261866",
+      "file": "e1794c669bff.txt",
+      "title": "Iran vows revenge after U.S. sinks warship; foreign minister rejects negotiations",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "NBC News",
+      "text_length": 2411,
+      "status": "ok",
+      "num_tokens": 523
+    },
+    {
+      "url": "https://www.nbcnews.com/world/iran/irans-foreign-minister-rejects-calls-ceasefire-continue-fighting-rcna262291?%243p=e_sailthru&_branch_referrer=H4sIAAAAAAAAAzVP0W7DIAz8mvSNlkAK6aRomrT1N5ADJmElJDJEedu3j0ibZPnss3w%2Bz6Vs%2Be12S6NNeOQrbNs1hvS6ye29EZ3cBjQZQiwz7ZdKrBSmkCCaneIwn8uN%2FGjEs8ZxHNd%2FGbsuJ7NSdBUDQfqDzPxKGKbElpBCLkiM8BttycxCjDUjZPSBkNk1lZB2ZD5Mc60mRjaBUEI82kY%2BbXCN%2FMQlmjQmI7hQXPK%2BEWrPSAaXarrOW65bLQVoBdJ3yttR9soq0eG9u2v34B4lth48t70G1zqtRa%2B5FOiU7h%2F3U68sxsKyQXVdFUdCeFU355%2BXH0KPRLU1I61HvTx8uQl%2FAQ3cc1NWAQAA&user_email=1071732a76a3f46fcb386c624e5457d90fe3e1faf0c87ad1d77287032ed67895",
+      "file": "75bcf38457ba.txt",
+      "title": "Iran's foreign minister rejects calls for a ceasefire: 'We need to continue fighting for the sake of our people'",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": null,
+      "text_length": 4582,
+      "status": "ok",
+      "num_tokens": 956
+    },
+    {
+      "url": "http://www.cnn.com/2026/03/09/middleeast/iran-long-war-kamal-kharazi-interview-intl",
+      "file": "5dc805adc8c9.txt",
+      "title": "Exclusive: Iran is ready for a long war with the US and only economic pain will end it, senior official tells CNN | CNN",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "Frederik Pleitgen, Claudia Otto",
+      "text_length": 4175,
+      "status": "ok",
+      "num_tokens": 845
+    },
+    {
+      "url": "https://apnews.com/article/iran-israel-us-march-10-2026-acf2af139d179fbef62927a8bf9bea55",
+      "file": "bfaa9d6d3444.txt",
+      "title": "US says it destroyed 16 Iranian minelayers | AP News",
+      "published_date": "2026-03-10T00:00:00.000Z",
+      "author": null,
+      "text_length": 8290,
+      "status": "ok",
+      "num_tokens": 1712
+    }
+  ],
+  "total_tokens": 4992
+}

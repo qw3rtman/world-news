@@ -1,0 +1,37 @@
+{
+  "hash": "44199968b7ab",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://in.mobile.reuters.com/legal/transactional/paramount-submits-higher-offer-warner-bros-discovery-bid-block-netflix-source-2026-02-23/",
+      "title": "Paramount submits higher offer for Warner Bros Discovery in bid to block Netflix, source says  | Reuters",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "Dawn Chmielewski",
+      "num_tokens": 1170,
+      "text_length": 5831
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694941",
+      "spike_id": 1,
+      "market_question": "Will Pizza Hut be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.30500000000000005,
+      "spike_timestamp_before": "2026-02-23T02:30:27+00:00",
+      "spike_timestamp_after": "2026-02-23T11:30:25+00:00"
+    },
+    {
+      "market_id": "694941",
+      "spike_id": 2,
+      "market_question": "Will Pizza Hut be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.31000000000000005,
+      "spike_timestamp_before": "2026-02-23T11:30:25+00:00",
+      "spike_timestamp_after": "2026-02-23T15:00:45+00:00"
+    }
+  ]
+}

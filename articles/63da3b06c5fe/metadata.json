@@ -1,0 +1,27 @@
+{
+  "hash": "63da3b06c5fe",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://origin.www.bloomberg.com/news/articles/2026-02-25/momentum-midstream-explores-sale-that-could-fetch-gas-pipeline-firm-5-billion?srnd=undefined",
+      "title": "Momentum Midstream Explores Sale That Could Fetch Gas Pipeline Firm $5 Billion - Bloomberg",
+      "published_date": "2026-02-25T00:00:00.000Z",
+      "author": "David Carnevali",
+      "num_tokens": 107,
+      "text_length": 490
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694937",
+      "spike_id": 7,
+      "market_question": "Will BP be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.32000000000000006,
+      "spike_timestamp_before": "2026-02-25T23:00:18+00:00",
+      "spike_timestamp_after": "2026-02-26T09:00:20+00:00"
+    }
+  ]
+}

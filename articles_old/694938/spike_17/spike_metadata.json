@@ -1,0 +1,65 @@
+{
+  "spike_index": 17,
+  "direction": "up",
+  "price_before": 0.48,
+  "price_after": 0.64,
+  "delta": 0.16000000000000003,
+  "abs_delta": 0.16000000000000003,
+  "timestamp_before": "2026-03-01T08:00:37+00:00",
+  "timestamp_after": "2026-03-02T04:00:34+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://markets.ft.com/data/announce/full?dockey=600-202603020630BIZWIRE_USPRX____20260302_BW029271-1",
+      "file": "a37e625383f5.txt",
+      "title": "Kairos Pharma Announces Signing of Binding Strategic Asset Acquisition of Exclusive Worldwide Rights to CL-273 From OrbiMed and Torrey Pines Investment-Backed Celyn Therapeutics \u2013 Company Announcement - FT.com",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 7769,
+      "status": "ok",
+      "num_tokens": 1531
+    },
+    {
+      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202603021606BIZWIRE_USPRX____20260302_BW126591-1",
+      "file": "3be052d609c5.txt",
+      "title": "Vitesse Energy Announces Signing of Accretive Acquisition, Fourth Quarter and Full Year 2025 Results, and Issues 2026 Production and Capital Expenditures Guidance \u2013 Company Announcement - FT.com",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 29099,
+      "status": "ok",
+      "num_tokens": 7576
+    },
+    {
+      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202603020700BIZWIRE_USPRX____20260227_BW496705-1",
+      "file": "6017ebe12df4.txt",
+      "title": "Zoetis to Acquire Animal Genomics Business from Neogen\u00ae, Accelerating Precision Animal Health Innovation \u2013 Company Announcement - FT.com",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": null,
+      "text_length": 7327,
+      "status": "ok",
+      "num_tokens": 1374
+    },
+    {
+      "url": "http://stocks.us.reuters.com/legal/litigation/warner-bros-signs-110-billion-deal-with-paramount-ends-bidding-war-with-netflix-2026-02-27/",
+      "file": "49101e6383cb.txt",
+      "title": "Paramount to buy Warner Bros Discovery in $110 billion deal as Netflix bows out of race | Reuters",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": "Karl Badohal",
+      "text_length": 5132,
+      "status": "ok",
+      "num_tokens": 1022
+    },
+    {
+      "url": "https://origin.www.bloomberg.com/news/articles/2026-03-02/bavarian-nordic-ceo-steps-down-after-failed-3-billion-deal?srnd=undefined",
+      "file": "9f247bf8b70c.txt",
+      "title": "Bavarian Nordic CEO to Leave After Failed $3 Billion Takeover Bid - Bloomberg",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Christian Wienberg",
+      "text_length": 406,
+      "status": "ok",
+      "num_tokens": 87
+    }
+  ],
+  "total_tokens": 11590
+}

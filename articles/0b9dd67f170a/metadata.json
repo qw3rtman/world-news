@@ -1,0 +1,37 @@
+{
+  "hash": "0b9dd67f170a",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://canary.haaretz.com/us-news/2026-03-08/ty-article/.premium/trump-says-deploying-u-s-ground-forces-in-iran-on-the-table/0000019c-ce1e-d8f8-a9de-ff9fc8fc0000",
+      "title": "Trump Says Deploying U.S. Ground Forces in Iran 'On the Table' - U.S. News",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": "Ben Samuels",
+      "num_tokens": 69,
+      "text_length": 299
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1394368",
+      "spike_id": 3,
+      "market_question": "Will the U.S. invade Iran by March 31?",
+      "event_title": "Will the U.S. invade Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.20999999999999996,
+      "spike_timestamp_before": "2026-03-07T23:30:27+00:00",
+      "spike_timestamp_after": "2026-03-08T08:00:25+00:00"
+    },
+    {
+      "market_id": "1394368",
+      "spike_id": 4,
+      "market_question": "Will the U.S. invade Iran by March 31?",
+      "event_title": "Will the U.S. invade Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.16299999999999998,
+      "spike_timestamp_before": "2026-03-08T08:00:25+00:00",
+      "spike_timestamp_after": "2026-03-08T10:30:28+00:00"
+    }
+  ]
+}

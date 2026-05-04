@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the news report published by USA TODAY on March 1, 2026, what was the outcome for the individual who worked security for U.S. Representative Jasmine Crockett?",
+    "a": "He was killed by police."
+  },
+  {
+    "q": "According to the USA TODAY news summary from March 1, 2026, what potential operational issue is facing some airports due to Transportation Security Administration (TSA) workers missing their paychecks?",
+    "a": "Some airports could close."
+  },
+  {
+    "q": "What specific agreement did the Miami Dolphins and the Denver Broncos finalize, as reported in the USA TODAY news summary on March 1, 2026?",
+    "a": "They agreed to a blockbuster trade deal."
+  },
+  {
+    "q": "Why did a U.S. intelligence official resign, according to the USA TODAY news report published on March 1, 2026?",
+    "a": "The official quit over the Iran war and stated that U.S. President Donald Trump was duped."
+  },
+  {
+    "q": "What legislative measure, if passed, would require voters to present specific documents, as noted in the USA TODAY news summary on March 1, 2026?",
+    "a": "The SAVE Act."
+  },
+  {
+    "q": "In the USA TODAY news summary from March 1, 2026, what personal habit does Princess Catherine, Princess of Wales, disclose regarding her consumption of alcohol?",
+    "a": "She rarely drinks alcohol."
+  },
+  {
+    "q": "What event involving Conan O'Brien did musician Kid Rock comment on, according to the USA TODAY news report published on March 1, 2026?",
+    "a": "Conan O'Brien's diss at the Oscars."
+  },
+  {
+    "q": "Which U.S. Representative's security detail worker was the subject of a fatal police shooting reported in the USA TODAY news summary on March 1, 2026?",
+    "a": "Representative Jasmine Crockett."
+  },
+  {
+    "q": "What is the stated reason for the potential closure of some airports in the USA TODAY news report from March 1, 2026?",
+    "a": "Transportation Security Administration (TSA) workers are missing their paychecks."
+  },
+  {
+    "q": "Which two National Football League (NFL) teams are reported to have agreed to a major trade deal in the USA TODAY news summary on March 1, 2026?",
+    "a": "The Miami Dolphins and the Denver Broncos."
+  },
+  {
+    "q": "According to the USA TODAY news report from March 1, 2026, what was the specific complaint of the resigning U.S. intelligence official regarding U.S. President Donald Trump?",
+    "a": "The official said Trump was duped."
+  },
+  {
+    "q": "What act is mentioned in the USA TODAY news summary on March 1, 2026, that would impose new document requirements on voters if it passes?",
+    "a": "The SAVE Act."
+  },
+  {
+    "q": "Which member of the British royal family discussed her limited alcohol consumption in the USA TODAY news report published on March 1, 2026?",
+    "a": "Princess Catherine, Princess of Wales (Princess Kate)."
+  },
+  {
+    "q": "What entertainment event did Conan O'Brien attend where he made a comment that musician Kid Rock later commented on, according to the USA TODAY news summary from March 1, 2026?",
+    "a": "The Oscars."
+  },
+  {
+    "q": "In the USA TODAY news report from March 1, 2026, what was the professional role of the man killed by police in connection with Representative Jasmine Crockett?",
+    "a": "He worked security for her."
+  },
+  {
+    "q": "What federal agency's workers are facing missed paychecks that could lead to airport closures, as reported in the USA TODAY news summary on March 1, 2026?",
+    "a": "The Transportation Security Administration (TSA)."
+  },
+  {
+    "q": "According to the USA TODAY news report published on March 1, 2026, what geopolitical conflict was cited as a reason for a U.S. intelligence official's resignation?",
+    "a": "The Iran war."
+  },
+  {
+    "q": "What specific condition is attached to the requirement for voters to present documents in the USA TODAY news summary from March 1, 2026?",
+    "a": "The SAVE Act must pass."
+  },
+  {
+    "q": "Which musician's opinion on Conan O'Brien's Oscars comment was featured in the USA TODAY news report on March 1, 2026?",
+    "a": "Kid Rock."
+  },
+  {
+    "q": "What was the specific allegation made by the resigning U.S. intelligence official about U.S. President Donald Trump in the USA TODAY news report from March 1, 2026?",
+    "a": "That he was duped."
+  },
+  {
+    "q": "Which two American football franchises are the subjects of the blockbuster deal reported in the USA TODAY news summary on March 1, 2026?",
+    "a": "The Miami Dolphins and the Denver Broncos."
+  },
+  {
+    "q": "What personal revelation did Princess Catherine, Princess of Wales, make in the USA TODAY news report published on March 1, 2026?",
+    "a": "She rarely drinks alcohol."
+  },
+  {
+    "q": "In the USA TODAY news summary from March 1, 2026, what was the final outcome for the security worker employed by Representative Jasmine Crockett?",
+    "a": "He was killed by police."
+  },
+  {
+    "q": "What potential consequence for air travel is linked to unpaid wages for Transportation Security Administration (TSA) workers in the USA TODAY news report from March 1, 2026?",
+    "a": "Some airports could close."
+  },
+  {
+    "q": "According to the USA TODAY news report published on March 1, 2026, what specific action did a U.S. intelligence official take in response to the Iran war and the condition of U.S. President Donald Trump?",
+    "a": "The official quit."
+  }
+]

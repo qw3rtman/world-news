@@ -1,0 +1,27 @@
+{
+  "hash": "6bb98053ca13",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.nbcnews.com/world/asia/trumps-china-summit-xi-jinping-just-got-lot-complicated-rcna261453",
+      "title": "Trump's China summit with Xi Jinping just got a lot more complicated",
+      "published_date": "2026-03-05T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1159,
+      "text_length": 5643
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "618509",
+      "spike_id": 2,
+      "market_question": "Will Trump and Putin not meet?",
+      "event_title": "Where will Trump and Putin meet next?",
+      "spike_direction": "up",
+      "spike_delta": 0.41350000000000003,
+      "spike_timestamp_before": "2026-03-04T22:00:23+00:00",
+      "spike_timestamp_after": "2026-03-05T09:00:19+00:00"
+    }
+  ]
+}

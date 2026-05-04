@@ -1,0 +1,106 @@
+[
+  {
+    "q": "What are the specific start and end dates for U.S. President Donald Trump's scheduled visit to China in 2026?",
+    "a": "March 31 to April 2, 2026."
+  },
+  {
+    "q": "Which U.S. court body overturned Trump's sweeping tariffs on imported goods just before his China trip was confirmed in February 2026?",
+    "a": "The U.S. Supreme Court."
+  },
+  {
+    "q": "Under which specific U.S. legal act were the 20-percent tariffs on China's U.S.-bound exports imposed that the Supreme Court ruled Trump had overstepped?",
+    "a": "The International Emergency Economic Powers Act (IEEPA)."
+  },
+  {
+    "q": "Which two other U.S. trade authorities, besides IEEPA, are cited as still having duties on Chinese goods in place after the Supreme Court ruling?",
+    "a": "Section 301 and Section 232."
+  },
+  {
+    "q": "What new global tariff percentage did U.S. President Donald Trump announce he would impose for 150 days during a press conference in February 2026?",
+    "a": "10 percent."
+  },
+  {
+    "q": "In which country did U.S. President Donald Trump and Chinese President Xi Jinping hold their most recent in-person meeting before the scheduled 2026 Beijing visit?",
+    "a": "South Korea."
+  },
+  {
+    "q": "What specific illicit drug trade issue did Beijing agree to crack down on as part of the trade truce with the U.S.?",
+    "a": "The illicit fentanyl trade."
+  },
+  {
+    "q": "What monetary value was associated with the largest-ever U.S. arms sale approval to Taiwan announced in December 2025?",
+    "a": "$11.1 billion."
+  },
+  {
+    "q": "Which U.S. political constituency did Chinese President Xi Jinping indicate he would consider increasing soybean purchases to support during a February 2026 phone call?",
+    "a": "Struggling U.S. farmers."
+  },
+  {
+    "q": "Which Washington-based think tank is Scott Kennedy associated with, where he commented on Trump's weakness in the trade war?",
+    "a": "The Center for Strategic and International Studies."
+  },
+  {
+    "q": "Which international economics institute is Martin Chorzempa associated with, where he analyzed the impact of the Supreme Court ruling on tariff rates?",
+    "a": "The Peterson Institute for International Economics."
+  },
+  {
+    "q": "What specific mineral export restriction did Beijing pause in exchange for the U.S. trimming tariffs on Chinese goods?",
+    "a": "Export restrictions on critical minerals."
+  },
+  {
+    "q": "Which region's effective tariff rates did Martin Chorzempa suggest might fall more than those on China, potentially increasing pressure on Beijing?",
+    "a": "Southeast Asia."
+  },
+  {
+    "q": "In what year did U.S. President Donald Trump make his last previous trip to China?",
+    "a": "2017."
+  },
+  {
+    "q": "Which two national emergency reasons were cited for the IEEPA tariffs that were struck down by the Supreme Court?",
+    "a": "Fentanyl distribution and trade imbalances."
+  },
+  {
+    "q": "Which U.S. President's second term began in January 2025, initiating the global trade war described in the article?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "What specific display did U.S. President Donald Trump promise to put on for the history of China during his upcoming visit?",
+    "a": "The biggest display foreign leaders have ever had in the history of China."
+  },
+  {
+    "q": "Which embassy declined to comment on the dates of U.S. President Donald Trump's China trip in February 2026?",
+    "a": "The Chinese embassy in Washington."
+  },
+  {
+    "q": "What sensitive geopolitical issue did Chinese President Xi Jinping raise with U.S. President Donald Trump during a February 2026 phone call, despite it being sidestepped in their October meeting?",
+    "a": "U.S. arms sales to Taiwan."
+  },
+  {
+    "q": "Which country did critics argue was insulated from the tariff barrage because U.S. steep tariffs reduced incentives to move supply chains out of it?",
+    "a": "China."
+  },
+  {
+    "q": "What policy areas did U.S. President Donald Trump ease toward Beijing in the months leading up to February 2026, besides tariffs?",
+    "a": "Advanced computer chips and drones."
+  },
+  {
+    "q": "Which two countries did U.S. President Donald Trump justify hawkish policy steps toward as necessary to thwart China, according to the article?",
+    "a": "Canada and Greenland."
+  },
+  {
+    "q": "What specific trade imbalance issue did the Trump administration cite as a national emergency necessitating global tariffs?",
+    "a": "Trade imbalances that have weakened U.S. manufacturing."
+  },
+  {
+    "q": "Which Reuters reporters are credited with reporting on U.S. President Donald Trump's China trip and the Supreme Court ruling in February 2026?",
+    "a": "Trevor Hunnicutt and Michael Martina."
+  },
+  {
+    "q": "What specific action did Beijing take regarding critical minerals as part of the trade truce with the U.S.?",
+    "a": "Pausing export restrictions on critical minerals."
+  },
+  {
+    "q": "Which U.S. state is identified as the location where U.S. President Donald Trump arrived at Joint Base Andrews in February 2026?",
+    "a": "Maryland."
+  }
+]

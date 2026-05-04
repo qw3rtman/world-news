@@ -1,0 +1,106 @@
+[
+  {
+    "q": "On March 3, 2026, what was the percentage decline and closing price per ounce for spot gold, which had previously hit a four-week high?",
+    "a": "Spot gold fell 3.6% to $5,137.00 an ounce."
+  },
+  {
+    "q": "What was the settlement price and percentage drop for U.S. gold futures on March 3, 2026, as reported by Reuters?",
+    "a": "U.S. gold futures settled 3.5% lower at $5,123.70."
+  },
+  {
+    "q": "According to Bob Haberkorn, senior market strategist at RJO Futures, what two factors drove the lower movement in gold prices on March 3, 2026?",
+    "a": "A flight to liquidity (cash) and a strong dollar with higher bond yields."
+  },
+  {
+    "q": "In early March 2026, how many days had the Iran conflict lasted, and which two cities were reported to have been rocked by explosions?",
+    "a": "The conflict had entered its fourth day, with explosions in Tehran and Beirut."
+  },
+  {
+    "q": "What specific action did a senior Iranian Revolutionary Guards official claim occurred on Monday, March 2, 2026, regarding the Strait of Hormuz?",
+    "a": "The official stated that the Strait of Hormuz had been closed."
+  },
+  {
+    "q": "By what percentage did crude oil benchmarks jump on Tuesday, March 3, 2026, in response to the Iran conflict and Strait of Hormuz closure?",
+    "a": "Crude oil benchmarks jumped over 8%."
+  },
+  {
+    "q": "Which market analyst at City Index and FOREX.com attributed the lack of support for gold to inflation fears and pushed-back rate-cut expectations caused by energy infrastructure damage?",
+    "a": "Fawad Razaqzada."
+  },
+  {
+    "q": "What was the percentage gain for spot silver on March 3, 2026, and what was its closing price per ounce?",
+    "a": "Spot silver fell 6.6% to $83.50 an ounce."
+  },
+  {
+    "q": "How much had spot silver gained in percentage terms for the year 2026 up to March 3, 2026, despite its daily decline?",
+    "a": "Spot silver was up over 16% for the year."
+  },
+  {
+    "q": "What was the percentage loss and closing price for platinum on March 3, 2026, as reported in the article?",
+    "a": "Platinum lost 8.4% to $2,108.51."
+  },
+  {
+    "q": "What was the percentage loss and closing price for palladium on March 3, 2026?",
+    "a": "Palladium shed 5.6% to $1,667.41."
+  },
+  {
+    "q": "According to the article, by what percentage had spot gold gained in the year 2026 up to March 3, 2026, following a 64% surge in 2025?",
+    "a": "Spot gold had gained 19% this year."
+  },
+  {
+    "q": "Which competing safe-haven asset posted sharp gains on March 3, 2026, making dollar-priced bullion less affordable for holders of other currencies?",
+    "a": "The U.S. dollar."
+  },
+  {
+    "q": "For how many consecutive sessions did U.S. Treasury yields rise as of March 3, 2026, contributing to pressure on gold prices?",
+    "a": "U.S. Treasury yields rose for a second consecutive session."
+  },
+  {
+    "q": "Who reported the data on precious metals prices for Reuters on March 3, 2026, and in which city was the reporting conducted?",
+    "a": "Ashitha Shivaprasad reported from Bengaluru."
+  },
+  {
+    "q": "Which three editors were credited with editing the Reuters article published on March 3, 2026?",
+    "a": "Krishna Chandra Eluri, Diti Pujara, and Sahal Muhammed."
+  },
+  {
+    "q": "Why is gold typically preferred in low-rate environments, according to the explanation provided by Fawad Razaqzada in the March 3, 2026 article?",
+    "a": "Because gold yields no interest."
+  },
+  {
+    "q": "What did Bob Haberkorn predict about the duration of the dip in gold prices on March 3, 2026, and what factor did he cite for supporting higher prices later?",
+    "a": "He predicted the dip would be short-lived, citing flight to safety flows driven by geopolitical risk."
+  },
+  {
+    "q": "What was the specific time (GMT) when spot gold was down 3.6% at $5,137.00 an ounce on March 3, 2026?",
+    "a": "As of 1907 GMT."
+  },
+  {
+    "q": "Which two metals were mentioned as having climbed to more than a four-week high on Monday, March 2, 2026, before falling on Tuesday?",
+    "a": "Gold and silver."
+  },
+  {
+    "q": "What risk did Fawad Razaqzada identify as being lifted by damage to energy infrastructure and stalled tanker traffic through the Strait of Hormuz?",
+    "a": "The risk of sustained strength in oil, gas, and refined products."
+  },
+  {
+    "q": "In the context of the March 3, 2026 market move, what did Bob Haberkorn identify as the primary driver for the flight to cash?",
+    "a": "A flight to liquidity."
+  },
+  {
+    "q": "What was the year-over-year performance of spot gold in 2025, which preceded its 19% gain in early 2026?",
+    "a": "Spot gold surged 64% in 2025."
+  },
+  {
+    "q": "Which organization's senior official made the statement about the closure of the Strait of Hormuz on Monday, March 2, 2026?",
+    "a": "The Iranian Revolutionary Guards."
+  },
+  {
+    "q": "How did the strengthening of the U.S. dollar on March 3, 2026, impact the affordability of dollar-priced bullion for international buyers?",
+    "a": "It made dollar-priced bullion less affordable for holders of other currencies."
+  },
+  {
+    "q": "What combination of geopolitical and economic factors did Fawad Razaqzada cite as stoking inflation fears and pushing back rate-cut expectations in early March 2026?",
+    "a": "Damage to energy infrastructure, stalled tanker traffic through Hormuz, and fears of a prolonged Middle East conflict."
+  }
+]

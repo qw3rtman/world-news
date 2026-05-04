@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2026, what specific false claim did U.S. Secretary of Energy Chris Wright make in a social media post regarding the U.S. Navy and the Strait of Hormuz?",
+    "a": "Wright falsely claimed that the U.S. Navy had successfully escorted an oil tanker through the Strait of Hormuz."
+  },
+  {
+    "q": "On Tuesday, March 10, 2026, what correction did White House Press Secretary Karoline Leavitt provide to reporters regarding Secretary of Energy Chris Wright's social media post?",
+    "a": "Leavitt stated that the U.S. Navy had not escorted a tanker or any vessel at that time and confirmed the post was taken down quickly."
+  },
+  {
+    "q": "What were the closing prices and percentage declines for U.S. crude oil and Brent crude on Tuesday, March 10, 2026, following Secretary of Energy Chris Wright's erroneous post?",
+    "a": "U.S. crude fell 11.94% to $83.45 per barrel, and Brent crude lost 11.28% to settle at $87.80 per barrel."
+  },
+  {
+    "q": "According to the Energy Department spokesperson's statement on Tuesday, March 10, 2026, why was the video clip deleted from Secretary of Energy Chris Wright's official X account?",
+    "a": "The clip was deleted because it was determined to be incorrectly captioned by Department of Energy staff."
+  },
+  {
+    "q": "What potential military action did the Energy Department spokesperson say President Donald Trump, Secretary of Energy Chris Wright, and the energy team were considering to keep the Strait of Hormuz open in March 2026?",
+    "a": "They were drawing up additional options, including the potential for the U.S. Navy to escort tankers."
+  },
+  {
+    "q": "In March 2026, what percentage of global petroleum consumption was previously exported through the Strait of Hormuz before the war disrupted traffic?",
+    "a": "About 20% of global petroleum consumption was exported through the Strait prior to the war."
+  },
+  {
+    "q": "What extraordinary meeting did the International Energy Agency hold on Tuesday, March 10, 2026, and what is the total size of the emergency oil reserves held by its member states?",
+    "a": "The IEA held a meeting to discuss releasing emergency stockpiles; its more than 30 member states collectively hold 1.2 billion barrels of oil in reserve."
+  },
+  {
+    "q": "How did Saudi Aramco CEO Amin Nasser describe the impact of the Iran war on the oil and gas industry during his comments on Tuesday, March 10, 2026?",
+    "a": "He called it the biggest crisis the region's oil and gas industry has faced and warned of catastrophic consequences for the market."
+  },
+  {
+    "q": "What warning did President Donald Trump issue on Monday, March 9, 2026, regarding Iran's potential actions to halt oil flows through the Strait of Hormuz?",
+    "a": "Trump warned that Iran would be hit \"twenty times harder\" by the United States if it attempted to stop oil flows through the strait."
+  },
+  {
+    "q": "According to Bob McNally, president of Rapidan Energy Group, what factor contributed to the collapse in oil prices on Tuesday, March 10, 2026?",
+    "a": "McNally attributed the price drop to market optimism driven by verbal intervention from President Donald Trump."
+  },
+  {
+    "q": "What did Andy Lipow, president of Lipow Oil Associates, state on Tuesday, March 10, 2026, regarding the market's reaction to President Donald Trump's comments?",
+    "a": "Lipow said it was too early to draw concrete conclusions and that observers must wait to see how Iran responds."
+  },
+  {
+    "q": "Which organization's analysis described the Iran war as triggering the biggest supply disruption in the history of the oil industry in March 2026?",
+    "a": "An analysis by Rapidan Energy described the Iran war as triggering the biggest supply disruption in the industry's history."
+  },
+  {
+    "q": "What immediate price movement occurred for oil prices immediately after Secretary of Energy Chris Wright's incorrect social media post on Tuesday, March 10, 2026?",
+    "a": "Prices fell more than 17% immediately after the post was made."
+  },
+  {
+    "q": "Which specific geographic waterway experienced severely disrupted traffic in March 2026 due to oil shippers fearing attacks by Iran?",
+    "a": "The Strait of Hormuz experienced severely disrupted traffic as ships remained at anchor due to fear of Iranian attacks."
+  },
+  {
+    "q": "What did White House Press Secretary Karoline Leavitt say about her communication with Secretary of Energy Chris Wright regarding his erroneous post on Tuesday, March 10, 2026?",
+    "a": "Leavitt stated she had not yet had a chance to talk to Secretary Wright about the post directly."
+  },
+  {
+    "q": "What role did the International Energy Agency play in March 2026 concerning the oil supply disruption caused by the Iran war?",
+    "a": "The IEA held an extraordinary meeting to discuss a possible release of emergency stockpiles held by its member states."
+  },
+  {
+    "q": "Who is the CEO of Saudi Aramco who warned of catastrophic consequences for the oil market due to the Iran war in March 2026?",
+    "a": "Saudi Aramco CEO Amin Nasser warned of catastrophic consequences for the market."
+  },
+  {
+    "q": "On which social media platform did President Donald Trump post his warning about Iran on Monday, March 9, 2026?",
+    "a": "President Trump issued the warning in a post on Truth Social."
+  },
+  {
+    "q": "What did Bob McNally of Rapidan Energy Group say about traders' assumptions regarding the closure of the Strait of Hormuz in March 2026?",
+    "a": "McNally said traders assumed for decades that no country would be allowed to shut the Strait, making the event completely calamitous and unexpected."
+  },
+  {
+    "q": "What specific numerical figure did the Energy Department spokesperson cite regarding the collective emergency oil reserves of the International Energy Agency member states?",
+    "a": "The spokesperson noted that the member states collectively hold 1.2 billion barrels of oil in reserve."
+  },
+  {
+    "q": "Which U.S. official's social media post triggered a sharp retreat in oil prices on Tuesday, March 10, 2026, before being corrected by the White House?",
+    "a": "Secretary of Energy Chris Wright's post triggered the price retreat before White House Press Secretary Karoline Leavitt corrected the record."
+  },
+  {
+    "q": "What did Andy Lipow of Lipow Oil Associates identify as the key uncertainty for the oil market in the hours following President Donald Trump's March 9, 2026, warning?",
+    "a": "Lipow identified whether Iran would attack any oil infrastructure in the coming hours as the key uncertainty."
+  },
+  {
+    "q": "How did the International Energy Agency characterize its membership in the context of the March 10, 2026, emergency stockpile meeting?",
+    "a": "The IEA described its more than 30 member states as advanced economies in Europe, North America, and Northeast Asia."
+  },
+  {
+    "q": "What did the Energy Department spokesperson say President Donald Trump and Secretary of Energy Chris Wright were doing alongside having the military draw up options in March 2026?",
+    "a": "They were closely monitoring the situation and speaking with industry leaders."
+  },
+  {
+    "q": "What was the specific percentage decline in U.S. crude oil prices on Tuesday, March 10, 2026, and what was the final closing price per barrel?",
+    "a": "U.S. crude oil fell 11.94% to close at $83.45 per barrel."
+  }
+]

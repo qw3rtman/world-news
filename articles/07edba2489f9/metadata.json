@@ -1,0 +1,27 @@
+{
+  "hash": "07edba2489f9",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.usatoday.com/story/news/politics/2026/03/09/save-act-department-of-homeland-security-funding-trump/89070629007/",
+      "title": "Trump's SAVE Act threat won't apply to DHS funding: White House",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "Zachary Schermele \n, \n Swapna Venugopal Ramaswamy",
+      "num_tokens": 618,
+      "text_length": 3098
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1378925",
+      "spike_id": 7,
+      "market_question": "Will the DHS shutdown end after March 31, 2026?",
+      "event_title": "When will the DHS shutdown end?",
+      "spike_direction": "up",
+      "spike_delta": 0.1775,
+      "spike_timestamp_before": "2026-03-10T14:30:41+00:00",
+      "spike_timestamp_after": "2026-03-11T10:30:37+00:00"
+    }
+  ]
+}

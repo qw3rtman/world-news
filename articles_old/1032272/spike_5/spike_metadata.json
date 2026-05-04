@@ -1,0 +1,65 @@
+{
+  "spike_index": 5,
+  "direction": "down",
+  "price_before": 0.907,
+  "price_after": 0.7105,
+  "delta": -0.1965,
+  "abs_delta": 0.1965,
+  "timestamp_before": "2026-03-02T14:00:25+00:00",
+  "timestamp_after": "2026-03-03T12:00:35+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.barrons.com/articles/gold-price-5300-middle-east-fighting-3fdc74ca?gaa_at=eafs&gaa_n=AWEtsqeom_7zW7zy_BcWvOn8Xj9xj2G9hIoxMEtdTrmjGd_gx77qdVt6lRZy&gaa_sig=LsP68oC6h_N838-tne8aGfK0W5WqcfV4deIYrd29K1Ux3uPnNu7l-d64OvHlJqncslcZaXRuO3eFzyYideJwaQ%3D%3D&gaa_ts=69a5f67c",
+      "file": "22a81b1922d7.txt",
+      "title": "Gold Surges Past $5,300 as Middle East Fighting Escalates<!-- --> - Barron's",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Alex Kozul-Wright|Adam Clark",
+      "text_length": 316,
+      "status": "ok",
+      "num_tokens": 60
+    },
+    {
+      "url": "http://origin.www.bloomberg.com/news/articles/2026-03-02/gold-rises-as-escalating-conflict-in-middle-east-stokes-demand?srnd=undefined",
+      "file": "387132a1d76a.txt",
+      "title": "Gold Rises as Escalating Conflict in Middle East Stokes Demand - Bloomberg",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Yvonne Yue Li",
+      "text_length": 500,
+      "status": "ok",
+      "num_tokens": 100
+    },
+    {
+      "url": "http://origin.www.bloomberg.com/news/articles/2026-03-03/gold-rises-as-traders-weigh-middle-east-risk-and-stronger-dollar?srnd=undefined",
+      "file": "242d44b436a5.txt",
+      "title": "Gold Rises as Traders Weigh Middle East Risk and Stronger Dollar - Bloomberg",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Yihui Xie",
+      "text_length": 529,
+      "status": "ok",
+      "num_tokens": 105
+    },
+    {
+      "url": "http://reuters.com/world/india/gold-extends-gains-middle-east-war-boosts-safe-haven-demand-2026-03-03/",
+      "file": "f80f20d5b6e2.txt",
+      "title": "Gold retreats on strong dollar, tempered rate-cut bets | Reuters",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Ashitha Shivaprasad",
+      "text_length": 2193,
+      "status": "ok",
+      "num_tokens": 533
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/03/gold-extends-gains-as-middle-east-war-boosts-safe-haven-demand.html",
+      "file": "59ec6d0d1e38.txt",
+      "title": "Gold retreats on strong dollar, tempered rate-cut bets",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": null,
+      "text_length": 2239,
+      "status": "ok",
+      "num_tokens": 532
+    }
+  ],
+  "total_tokens": 1330
+}

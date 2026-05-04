@@ -1,0 +1,65 @@
+{
+  "spike_index": 21,
+  "direction": "up",
+  "price_before": 0.787,
+  "price_after": 0.9445,
+  "delta": 0.15749999999999997,
+  "abs_delta": 0.15749999999999997,
+  "timestamp_before": "2026-03-13T14:00:28+00:00",
+  "timestamp_after": "2026-03-14T13:00:31+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2026/03/13/oil-100-price-brent-wti-trump-iran-war-surrender-khamenei.html",
+      "file": "cc3437d0913e.txt",
+      "title": "Oil above $100 as as market shrugs off U.S. measures to reduce prices",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": "Chloe Taylor,Spencer Kimball",
+      "text_length": 3787,
+      "status": "ok",
+      "num_tokens": 841
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-crude-crosses-100-per-barrel-again-amid-middle-east-tensions/articleshow/129533177.cms",
+      "file": "4b3c6671904b.txt",
+      "title": "Oil price today: Crude crosses $100 per barrel again amid Middle East tensions - The Times of India",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /   Mar 13, 2026, 07:44 IST",
+      "text_length": 3025,
+      "status": "ok",
+      "num_tokens": 590
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/analysts-reassess-oil-price-estimates-iran-conflict-disrupts-markets-2026-03-23/",
+      "file": "29467df55a52.txt",
+      "title": "Analysts hike oil price outlooks as Iran conflict persists | Reuters",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": null,
+      "text_length": 1058,
+      "status": "ok",
+      "num_tokens": 249
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/international-business/crude-above-100-how-countries-are-racing-to-streamline-oil-supplies-as-strait-of-hormuz-crisis-deepens/articleshow/129537026.cms",
+      "file": "3f789ca4e6a6.txt",
+      "title": "Crude Oil: Crude above $100: How countries are racing to streamline oil supplies as Strait of Hormuz crisis deepens - The Times of India",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /   Mar 13, 2026, 12:54 IST",
+      "text_length": 8979,
+      "status": "ok",
+      "num_tokens": 1697
+    },
+    {
+      "url": "https://us.cnn.com/2026/03/13/energy/us-russia-sanctions-relief-oil-hnk-intl",
+      "file": "39bf455c053a.txt",
+      "title": "Oil prices stay high despite US temporarily lifting sanctions on Russian oil stranded at sea | CNN Business",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": "Luciana Lopez, Stephanie Yang",
+      "text_length": 4566,
+      "status": "ok",
+      "num_tokens": 940
+    }
+  ],
+  "total_tokens": 4317
+}

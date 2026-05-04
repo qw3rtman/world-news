@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2026, which US government department issued a \"critical incident note\" warning of a heightened threat environment following the killing of Iran’s supreme leader Ayatollah Ali Khamenei?",
+    "a": "The Department of Homeland Security."
+  },
+  {
+    "q": "According to a March 2026 bulletin from the US Department of Homeland Security, how many top Iranian religious leaders issued separate Farsi-language fatwas calling for revenge for the killing of Ayatollah Ali Khamenei?",
+    "a": "Two."
+  },
+  {
+    "q": "Which specific Iranian military organization issued a decree in early March 2026 stating that \"the enemy … will no longer have security anywhere in the world, even in their own homes\"?",
+    "a": "The Iranian Revolutionary Guard Corps."
+  },
+  {
+    "q": "In March 2026, which two US intelligence or security agencies warned defense contractors that Iranian-affiliated cyber actors might target US devices and networks for near-term cyber operations?",
+    "a": "The FBI and the National Security Agency."
+  },
+  {
+    "q": "According to a March 2026 US security bulletin, which sector of the US economy has historically been viewed as a priority target and a target of opportunity by Iranian-aligned cyber actors?",
+    "a": "The financial services sector."
+  },
+  {
+    "q": "In March 2026, US officials expressed particular concern about enhancing security measures around which type of infrastructure in response to potential Iranian retaliation?",
+    "a": "US energy infrastructure."
+  },
+  {
+    "q": "Which two nations launched strikes that prompted the FBI to go on an elevated alert status across the United States in March 2026?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "According to a March 2026 bulletin, which type of US companies are at an increased risk of being targeted by Iranian-affiliated cyber actors due to their holdings or relationships with Israeli firms?",
+    "a": "US defense contractors."
+  },
+  {
+    "q": "What specific language did the two top Iranian religious leaders use in their fatwas calling for revenge for the killing of Ayatollah Ali Khamenei, as cited in a March 2026 DHS bulletin?",
+    "a": "Farsi."
+  },
+  {
+    "q": "In March 2026, which US law enforcement agency went on an elevated alert status across the country following the launch of strikes by the US and Israel?",
+    "a": "The FBI."
+  },
+  {
+    "q": "According to a March 2026 DHS bulletin, what three factors were cited as heightening the threat from violent extremists who support the Iranian regime?",
+    "a": "The fatwas, Iranian government rhetoric, and online messaging from regime supporters promoting retaliation against the US."
+  },
+  {
+    "q": "Which specific group of private companies received a March 2026 warning from US security officials about ongoing claims and calls for cyber attacks by Iranian-aligned groups?",
+    "a": "Private companies."
+  },
+  {
+    "q": "In March 2026, which nation's cyber infrastructure was targeted by Iranian-affiliated hackers, according to public claims of responsibility listed in a US security bulletin?",
+    "a": "Israel."
+  },
+  {
+    "q": "According to a March 2026 notice to US defense contractors, what type of entities are Iranian-affiliated cyber actors advised to monitor for potential incoming threat actor targeting?",
+    "a": "US devices and networks."
+  },
+  {
+    "q": "Which US agency routinely sends bulletins to law enforcement agencies across the country sharing information on potential threats and best practices for protecting the public?",
+    "a": "The Department of Homeland Security."
+  },
+  {
+    "q": "In March 2026, which Iranian leader's killing was cited by the US intelligence community as the catalyst for the flurry of private warnings to American companies and government agencies?",
+    "a": "Ayatollah Ali Khamenei."
+  },
+  {
+    "q": "According to a March 2026 DHS bulletin, what type of messaging from regime supporters was noted as heightening the threat from violent extremists?",
+    "a": "Online messaging promoting retaliation against the US."
+  },
+  {
+    "q": "Which US agency warned in March 2026 that Iranian-affiliated cyber actors may target US devices and networks for near-term cyber operations?",
+    "a": "The FBI."
+  },
+  {
+    "q": "In March 2026, which US agency warned that Iranian-affiliated cyber actors may target US devices and networks for near-term cyber operations?",
+    "a": "The National Security Agency."
+  },
+  {
+    "q": "According to a March 2026 bulletin, what specific type of infrastructure was US authorities particularly concerned about securing against cyber threats from sophisticated Iranian actors?",
+    "a": "Potential government targets."
+  },
+  {
+    "q": "Which nation's allied nations were mentioned in a March 2026 US security bulletin as having their cyber infrastructure targeted by Iranian-affiliated hackers?",
+    "a": "Israel."
+  },
+  {
+    "q": "In March 2026, which US agency issued a \"critical incident note\" citing open-source intelligence regarding fatwas issued by Iranian religious leaders?",
+    "a": "The Department of Homeland Security."
+  },
+  {
+    "q": "According to a March 2026 notice, which type of US companies are at increased risk because of their relationships with Israeli research and defense firms?",
+    "a": "Defense contractors."
+  },
+  {
+    "q": "Which US department warned in March 2026 that ongoing claims for cyber attacks by Iranian-aligned groups could lead to an increase in malicious activity against the financial services sector?",
+    "a": "The Department of Homeland Security."
+  },
+  {
+    "q": "In March 2026, which border-related security measure was US authorities particularly concerned about enhancing in response to potential Iranian retaliation?",
+    "a": "Securing the border."
+  }
+]

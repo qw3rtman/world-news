@@ -1,0 +1,65 @@
+{
+  "spike_index": 3,
+  "direction": "up",
+  "price_before": 0.06,
+  "price_after": 0.9995,
+  "delta": 0.9395,
+  "abs_delta": 0.9395,
+  "timestamp_before": "2026-02-27T10:00:20+00:00",
+  "timestamp_after": "2026-02-28T08:00:32+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "http://mobile.reuters.com/business/aerospace-defense/israel-us-launch-strikes-iran-2026-02-28/",
+      "file": "b0c71e010828.txt",
+      "title": "Iranian leader Khamenei killed in air strikes as U.S., Israel launch attacks | Reuters",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Phil Stewart",
+      "text_length": 8325,
+      "status": "ok",
+      "num_tokens": 1729
+    },
+    {
+      "url": "https://www.cnn.com/world/live-news/israel-iran-attack-02-28-26-hnk-intl",
+      "file": "81db44399177.txt",
+      "title": "February 28, 2026 \u2014 US-Israeli strikes on Iran | CNN",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Tal Shalev, Mostafa Salem, Adam Pourahmadi, Gawon Bae, Abbas Al Lawati, Christopher Lamb, Lauren Kent, Eugenia Josef, Oren Liebermann, Steven Jiang, Billy Stockwell, Leila Gharagozlou, Sophie Tanno, Catherine Nicholls, Jennifer Hansler, Antoinette Radford, Daria Tarasova-Markina, Christian Edwards, Eugenia Yosef, Sophia Saifi, Frederik Pleitgen, Tim Lister, Deva Lee, Helen Regan, Teele Rebane, Isaac Yee, Karina Tsui, Aleena Fayaz, Brad Lendon, Matt Egan, Bijan  Hosseini, Nick Paton Walsh, Chris Lau, Sandi Sidhu, Ivan Watson, Todd Symons, Riane Lumer, Kareem El Damanhoury, Martin Goillandeau, Michelle Velez, Jomana Karadsheh, Quinta Thomson, Ben Brown, Kylie Atwood, Emma Tucker, Sophia Peyser, Alejandra Jaramillo, Max Saltman, Thomas Bordeaux, Lauren Izso, Nina Giraldo, Kaanita Iyer, Dalia Abdelwahab, Stephen Collinson, Jennifer Hauser, Tori B. Powell, Kit Maher, Aditi Sangal, Adam Cancryn, Gianluca Mezzofiore, Jeremy Diamond, Kristen Holmes, Natasha Bertrand, Mitchell McCluskey, Abeer Salman, Dana Karni, Uriel Blanco, Anabella Gonzalez, Christian Sierra, Haley Britzky, Gul Tuysuz, Farida Elsebai, Yong Xiong, John Miller, Josh Campbell, Alayna Treene, Tala Alrajjal, Auzinea Bacon, Camila DeChalus, CNN Staff, Ellis Kim, Dan Berman, Julia Benbrook, Lou Robinson, Jim Sciutto, Kevin Liptak, Ren\u00e9e Rigdon, Nic Robertson, Samantha Waldenberg, Zachary Cohen, Manu Raju, Jeff Zeleny, Charlotte Reck, Duarte Mendonca, Logan Schiciano, Kaitlan Collins, Angus Watson, Avery Schmitz, Nadeen Ebrahim, Satish Cheney",
+      "text_length": 21753,
+      "status": "ok",
+      "num_tokens": 4451
+    },
+    {
+      "url": "http://www.abc.net.au/news/2026-02-28/iran-israel-explosion-tehran/106400716",
+      "file": "04bc356f17a2.txt",
+      "title": "Trump says US has launched 'major operation' against Iran, with Israel calling 'pre-emptive' attack a joint effort - ABC News",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 7587,
+      "status": "ok",
+      "num_tokens": 1492
+    },
+    {
+      "url": "https://www.reuters.com/world/middle-east/israel-says-it-launched-pre-emptive-attack-against-iran-2026-02-28/",
+      "file": "ff0d984ccb64.txt",
+      "title": "US and Israel launch \"pre-emptive\" attack against Iran | Reuters",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": null,
+      "text_length": 2799,
+      "status": "ok",
+      "num_tokens": 537
+    },
+    {
+      "url": "http://ara.reuters.com/world/middle-east/israel-says-it-launched-pre-emptive-attack-against-iran-2026-02-28/",
+      "file": "3140a157a188.txt",
+      "title": "Reuters | Breaking International News & Views",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 253,
+      "status": "ok",
+      "num_tokens": 52
+    }
+  ],
+  "total_tokens": 8261
+}

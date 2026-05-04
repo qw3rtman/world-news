@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On what specific date and time did the article state that Hamas military chief Mohammad Deif declared the Jewish state finished as rockets and gunmen poured into Israel from Gaza?",
+    "a": "Dawn on Saturday, October 7, 2023."
+  },
+  {
+    "q": "Which specific group of regional actors did Hamas military chief Mohammad Deif address in his declaration on October 7, 2023, that 'the day has come'?",
+    "a": "Brothers in the Islamic resistance in Lebanon, Iran, Yemen, Iraq, and Syria."
+  },
+  {
+    "q": "Who is identified in the article as the military chief of Hamas who issued a declaration on October 7, 2023, stating that the Jewish state was finished?",
+    "a": "Mohammad Deif."
+  },
+  {
+    "q": "According to the article published on March 7, 2026, what event marked the beginning of the scenario where Hamas military chief Mohammad Deif declared the Jewish state finished?",
+    "a": "Rockets and gunmen pouring into Israel from Gaza at dawn on October 7, 2023."
+  },
+  {
+    "q": "In the context of the article published on March 7, 2026, how did the actual outcome of the events starting October 7, 2023, differ from the imagination of Hamas military chief Mohammad Deif?",
+    "a": "The day came, but not the one Deif imagined."
+  },
+  {
+    "q": "Which five countries or territories were explicitly listed by Hamas military chief Mohammad Deif in his October 7, 2023, declaration as having brothers in the Islamic resistance?",
+    "a": "Lebanon, Iran, Yemen, Iraq, and Syria."
+  },
+  {
+    "q": "What specific military actions did Hamas military chief Mohammad Deif reference as occurring at dawn on October 7, 2023, when he declared the Jewish state finished?",
+    "a": "Rockets and gunmen pouring into Israel from Gaza."
+  },
+  {
+    "q": "Who authored the Bloomberg article titled 'Israel’s War With Iran Marks Shift in Regional Power Since Hamas Attack' published on March 7, 2026?",
+    "a": "Ethan Bronner."
+  },
+  {
+    "q": "What is the title of the Bloomberg article published on March 7, 2026, that discusses the shift in regional power following the events of October 7, 2023?",
+    "a": "Israel’s War With Iran Marks Shift in Regional Power Since Hamas Attack."
+  },
+  {
+    "q": "On what day of the week did the attacks described by Hamas military chief Mohammad Deif occur on October 7, 2023?",
+    "a": "Saturday."
+  },
+  {
+    "q": "Which specific military organization's chief did the article identify as making a declaration on October 7, 2023, regarding the fate of the Jewish state?",
+    "a": "Hamas."
+  },
+  {
+    "q": "What quote did Hamas military chief Mohammad Deif use on October 7, 2023, to describe the status of the Jewish state?",
+    "a": "The Jewish state finished."
+  },
+  {
+    "q": "According to the article published on March 7, 2026, which specific entity did Hamas military chief Mohammad Deif address as 'our brothers in the Islamic resistance'?",
+    "a": "The Islamic resistance in Lebanon, Iran, Yemen, Iraq, and Syria."
+  },
+  {
+    "q": "What was the source of the rockets and gunmen that entered Israel on the dawn of October 7, 2023, as described in the article?",
+    "a": "Gaza."
+  },
+  {
+    "q": "In the article published on March 7, 2026, what phrase did Hamas military chief Mohammad Deif use to signal that 'the day has come' to his allies?",
+    "a": "The day has come."
+  },
+  {
+    "q": "Which specific regional powers did Hamas military chief Mohammad Deif include in his list of 'brothers in the Islamic resistance' on October 7, 2023?",
+    "a": "Iran, Lebanon, Yemen, Iraq, and Syria."
+  },
+  {
+    "q": "What was the specific time of day mentioned in the article for the onset of the October 7, 2023, attacks involving rockets and gunmen?",
+    "a": "Dawn."
+  },
+  {
+    "q": "How did the article published on March 7, 2026, characterize the relationship between the actual outcome of the October 7, 2023, events and Hamas military chief Mohammad Deif's expectations?",
+    "a": "The day came, but not the one Deif imagined."
+  },
+  {
+    "q": "Which specific Jewish state did Hamas military chief Mohammad Deif declare finished on October 7, 2023?",
+    "a": "Israel."
+  },
+  {
+    "q": "What is the full name of the Bloomberg journalist who wrote the article published on March 7, 2026, about the shift in regional power?",
+    "a": "Ethan Bronner."
+  },
+  {
+    "q": "According to the article published on March 7, 2026, which specific militant group's military chief made a declaration on October 7, 2023?",
+    "a": "Hamas."
+  },
+  {
+    "q": "What specific geopolitical shift does the title of the article published on March 7, 2026, attribute to Israel’s war with Iran?",
+    "a": "A shift in regional power since the Hamas attack."
+  },
+  {
+    "q": "Which five locations did Hamas military chief Mohammad Deif cite as having 'brothers in the Islamic resistance' in his October 7, 2023, declaration?",
+    "a": "Lebanon, Iran, Yemen, Iraq, and Syria."
+  },
+  {
+    "q": "What specific action did Hamas military chief Mohammad Deif take on October 7, 2023, regarding the status of Israel?",
+    "a": "He declared the Jewish state finished."
+  },
+  {
+    "q": "In the article published on March 7, 2026, what was the ultimate fate of the 'day' that Hamas military chief Mohammad Deif said had come on October 7, 2023?",
+    "a": "It came, but not the one Deif imagined."
+  }
+]

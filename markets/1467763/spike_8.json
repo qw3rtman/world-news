@@ -1,0 +1,65 @@
+{
+  "spike_index": 8,
+  "direction": "up",
+  "price_before": 0.125,
+  "price_after": 0.43,
+  "delta": 0.305,
+  "abs_delta": 0.305,
+  "timestamp_before": "2026-03-06T01:30:34+00:00",
+  "timestamp_after": "2026-03-06T22:30:30+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.reuters.com/business/energy/goldman-sachs-warns-oil-may-surge-above-100bbl-if-hormuz-flows-dont-recover-2026-03-06/",
+      "file": "cd3e767a5496.txt",
+      "title": "Goldman Sachs warns oil may surge above $100/bbl if Hormuz flows don\u2019t recover | Reuters",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": null,
+      "text_length": 1731,
+      "status": "ok",
+      "num_tokens": 352
+    },
+    {
+      "url": "https://www.cnbc.com/amp/2026/03/06/iran-us-war-oil-prices-brent-wti-barrel-futures.html",
+      "file": "825ece8321ca.txt",
+      "title": "Oil surges 35% this week for biggest gain in futures trading history",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Spencer Kimball,Chloe Taylor,Sam Meredith",
+      "text_length": 495,
+      "status": "ok",
+      "num_tokens": 133
+    },
+    {
+      "url": "https://www.abc.net.au/news/2026-03-07/iran-war-pushes-oil-price-above-90-dollars/106427656",
+      "file": "2489975fc79a.txt",
+      "title": "'More pain to come' as oil faces biggest weekly price surge since 1983 - ABC News",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": null,
+      "text_length": 2700,
+      "status": "ok",
+      "num_tokens": 555
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/international-business/crude-oil-price-surge-brent-crosses-90-as-escalating-middle-east-war-rattles-energy-markets/articleshow/129160831.cms",
+      "file": "8c1477ab493c.txt",
+      "title": "Crude oil price surge: Brent crosses $90 as escalating Middle East war rattles energy markets - The Times of India",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /   Mar 06, 2026, 20:10 IST",
+      "text_length": 2463,
+      "status": "ok",
+      "num_tokens": 488
+    },
+    {
+      "url": "https://www.cbc.ca/news/business/crude-oil-prices-middle-east-9.7117585",
+      "file": "3cc64e151aae.txt",
+      "title": "Oil hits $90 US per barrel for first time in 2 years | CBC News",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "CBC News    \u00b7  Posted: Mar 06, 2026 1:27 PM EST | Last Updated: March 6",
+      "text_length": 2019,
+      "status": "ok",
+      "num_tokens": 479
+    }
+  ],
+  "total_tokens": 2007
+}

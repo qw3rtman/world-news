@@ -1,0 +1,37 @@
+{
+  "hash": "f80f20d5b6e2",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://reuters.com/world/india/gold-extends-gains-middle-east-war-boosts-safe-haven-demand-2026-03-03/",
+      "title": "Gold retreats on strong dollar, tempered rate-cut bets | Reuters",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Ashitha Shivaprasad",
+      "num_tokens": 533,
+      "text_length": 2193
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1032272",
+      "spike_id": 5,
+      "market_question": "Will Gold (GC) hit (HIGH) $5,500 by end of June?",
+      "event_title": "What will Gold (GC) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.1965,
+      "spike_timestamp_before": "2026-03-02T14:00:25+00:00",
+      "spike_timestamp_after": "2026-03-03T12:00:35+00:00"
+    },
+    {
+      "market_id": "1032272",
+      "spike_id": 6,
+      "market_question": "Will Gold (GC) hit (HIGH) $5,500 by end of June?",
+      "event_title": "What will Gold (GC) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.25250000000000006,
+      "spike_timestamp_before": "2026-03-02T21:00:26+00:00",
+      "spike_timestamp_after": "2026-03-03T15:00:33+00:00"
+    }
+  ]
+}

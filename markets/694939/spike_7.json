@@ -1,0 +1,65 @@
+{
+  "spike_index": 7,
+  "direction": "down",
+  "price_before": 0.395,
+  "price_after": 0.245,
+  "delta": -0.15000000000000002,
+  "abs_delta": 0.15000000000000002,
+  "timestamp_before": "2026-03-04T11:00:23+00:00",
+  "timestamp_after": "2026-03-04T20:30:24+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-02/jpmorgan-to-start-debt-deal-for-55-billion-ea-buyout-next-week?srnd=homepage-europe",
+      "file": "853522cd3216.txt",
+      "title": "JPMorgan to Start Debt Deal for $55 Billion EA Buyout Next Week - Bloomberg",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Aaron Weinman",
+      "text_length": 592,
+      "status": "ok",
+      "num_tokens": 116
+    },
+    {
+      "url": "https://origin.www.bloomberg.com/news/articles/2026-03-02/paramount-deal-still-under-us-review-with-challenge-unlikely?srnd=undefined",
+      "file": "02bcd71acbd6.txt",
+      "title": "Paramount\u2019s $110 Billion Warner Bros. Deal Still Under US Antitrust Review - Bloomberg",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Leah Nylen",
+      "text_length": 584,
+      "status": "ok",
+      "num_tokens": 106
+    },
+    {
+      "url": "https://www.reuters.com/business/media-telecom/paramount-ceo-says-warner-bros-tie-up-carry-79-billion-net-debt-no-cable-asset-2026-03-02/",
+      "file": "0efa2229af7a.txt",
+      "title": "Paramount debt to hit $79 billion after Warner Bros deal, no plan to sell cable assets | Reuters",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Harshita Mary Varghese",
+      "text_length": 4312,
+      "status": "ok",
+      "num_tokens": 914
+    },
+    {
+      "url": "https://origin.www.bloomberg.com/news/articles/2026-03-02/paramount-to-combine-hbo-max-and-paramount-to-challenge-netflix?srnd=undefined",
+      "file": "4cd1e27dd677.txt",
+      "title": "Paramount to Combine HBO Max and Paramount+ to Challenge Netflix - Bloomberg",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Hannah Miller",
+      "text_length": 597,
+      "status": "ok",
+      "num_tokens": 119
+    },
+    {
+      "url": "https://on.theverge.com/policy/887372/the-paramount-x-warner-bros-deal-aint-done-yet",
+      "file": "4adda27efa6b.txt",
+      "title": "The Paramount x Warner Bros. deal ain\u2019t done yet. | The Verge",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Thomas Ricker",
+      "text_length": 350,
+      "status": "ok",
+      "num_tokens": 72
+    }
+  ],
+  "total_tokens": 1327
+}

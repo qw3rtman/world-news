@@ -1,0 +1,37 @@
+{
+  "hash": "acc30b44b444",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/middle-east/hezbollah-saw-new-war-with-israel-inevitable-rearmed-months-sources-say-2026-03-06/",
+      "title": "Hezbollah saw new war with Israel as inevitable and rearmed for months, sources say | Reuters",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Laila Bassam",
+      "num_tokens": 1503,
+      "text_length": 7361
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "677397",
+      "spike_id": 14,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.21999999999999997,
+      "spike_timestamp_before": "2026-03-07T20:00:28+00:00",
+      "spike_timestamp_after": "2026-03-08T05:30:23+00:00"
+    },
+    {
+      "market_id": "677397",
+      "spike_id": 15,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.31499999999999995,
+      "spike_timestamp_before": "2026-03-07T20:00:28+00:00",
+      "spike_timestamp_after": "2026-03-08T09:00:32+00:00"
+    }
+  ]
+}

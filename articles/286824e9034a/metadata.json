@@ -1,0 +1,67 @@
+{
+  "hash": "286824e9034a",
+  "n_appearances": 5,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://apnews.com/article/iran-supreme-leader-ayatollah-ali-khamenei-dead-5b13b69b708c4ed38e8f95f5fb41a597",
+      "title": "Iran's supreme leader Ayatollah Ali Khamenei is dead at 86 | AP News",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 2978,
+      "text_length": 14060
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "661699",
+      "spike_id": 1,
+      "market_question": "Khamenei out as Supreme Leader of Iran by June 30?",
+      "event_title": "Khamenei out as Supreme Leader of Iran by June 30?",
+      "spike_direction": "up",
+      "spike_delta": 0.34,
+      "spike_timestamp_before": "2026-02-27T10:30:57+00:00",
+      "spike_timestamp_after": "2026-02-28T10:00:40+00:00"
+    },
+    {
+      "market_id": "661699",
+      "spike_id": 2,
+      "market_question": "Khamenei out as Supreme Leader of Iran by June 30?",
+      "event_title": "Khamenei out as Supreme Leader of Iran by June 30?",
+      "spike_direction": "up",
+      "spike_delta": 0.45499999999999996,
+      "spike_timestamp_before": "2026-02-27T16:00:48+00:00",
+      "spike_timestamp_after": "2026-02-28T14:00:50+00:00"
+    },
+    {
+      "market_id": "661699",
+      "spike_id": 3,
+      "market_question": "Khamenei out as Supreme Leader of Iran by June 30?",
+      "event_title": "Khamenei out as Supreme Leader of Iran by June 30?",
+      "spike_direction": "up",
+      "spike_delta": 0.5715,
+      "spike_timestamp_before": "2026-02-27T21:00:48+00:00",
+      "spike_timestamp_after": "2026-02-28T20:00:39+00:00"
+    },
+    {
+      "market_id": "916732",
+      "spike_id": 4,
+      "market_question": "Khamenei out as Supreme Leader of Iran by March 31?",
+      "event_title": "Khamenei out as Supreme Leader of Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.7625000000000001,
+      "spike_timestamp_before": "2026-02-28T03:00:32+00:00",
+      "spike_timestamp_after": "2026-03-01T02:00:33+00:00"
+    },
+    {
+      "market_id": "916732",
+      "spike_id": 5,
+      "market_question": "Khamenei out as Supreme Leader of Iran by March 31?",
+      "event_title": "Khamenei out as Supreme Leader of Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.5535000000000001,
+      "spike_timestamp_before": "2026-02-28T09:30:33+00:00",
+      "spike_timestamp_after": "2026-03-01T07:30:36+00:00"
+    }
+  ]
+}

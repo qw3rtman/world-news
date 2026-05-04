@@ -1,0 +1,103 @@
+[
+  {
+    "q": "On March 9, 2026, what percentage did the Kalshi market assign to the probability of the U.S. entering a recession in 2026 after oil prices exceeded $100 per barrel?",
+    "a": "Above 34%."
+  },
+  {
+    "q": "What was the approximate probability assigned by Polymarket bettors on March 9, 2026, for the U.S. experiencing a recession by the end of 2026?",
+    "a": "31%."
+  },
+  {
+    "q": "Which specific geographic passageway was closed amid the U.S.-Iran war as of early March 2026, contributing to oil supply concerns?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "What was the national average price for regular gasoline in the U.S. on Monday, March 9, 2026, according to AAA?",
+    "a": "$3.48."
+  },
+  {
+    "q": "What percentage chance did Kalshi participants assign on March 9, 2026, to U.S. gas prices exceeding $4 in March 2026?",
+    "a": "Roughly 60%."
+  },
+  {
+    "q": "Which crude oil benchmark recorded its biggest gain on record during the week leading up to March 9, 2026?",
+    "a": "West Texas Intermediate (WTI) crude."
+  },
+  {
+    "q": "In the context of the Kalshi market as of March 2026, how is a recession defined?",
+    "a": "Two consecutive quarters of negative gross domestic product growth."
+  },
+  {
+    "q": "Which organization declares the official U.S. recession designation based on a general decline in economic activity, distinct from the Kalshi market definition?",
+    "a": "The National Bureau of Economic Research."
+  },
+  {
+    {
+    "q": "What was the likelihood of a U.S. recession in 2026 on the Kalshi platform late last week (before March 9, 2026) before it jumped above 34%?",
+    "a": "Under 25%."
+  },
+  {
+    "q": "What was the highest level of recession odds on the Kalshi market for 2026 prior to the jump in March 2026?",
+    "a": "The level seen in November 2025."
+  },
+  {
+    "q": "Which country's invasion of Ukraine in 2022 is cited as the last time U.S. oil prices passed the $100 per barrel mark?",
+    "a": "Russia."
+  },
+  {
+    "q": "What percentage probability did Kalshi bettors assign on March 9, 2026, to the next U.S. recession beginning in the first quarter of 2026?",
+    "a": "11%."
+  },
+  {
+    "q": "Which Middle Eastern producers cut output in recent days prior to March 9, 2026, raising concerns about oil supply?",
+    "a": "Middle Eastern producers (specifically in the context of the U.S.-Iran war)."
+  },
+  {
+    "q": "What specific event on Monday, March 9, 2026, prompted a selloff for stocks?",
+    "a": "The jump in oil prices above $100 per barrel."
+  },
+  {
+    "q": "What type of economic activity decline does the National Bureau of Economic Research consider for declaring a recession, as opposed to the Kalshi market's GDP definition?",
+    "a": "A significant decline in economic activity that is widespread and lasts more than a few months."
+  },
+  {
+    "q": "Which prediction market platform had bettors anticipating a 31% chance of a U.S. recession by the end of 2026 as of March 9, 2026?",
+    "a": "Polymarket."
+  },
+  {
+    "q": "What was the price per barrel threshold that U.S. oil prices topped, leading to increased recession odds on Kalshi in March 2026?",
+    "a": "$100."
+  },
+  {
+    "q": "Which U.S. state is identified in the article as the location of a pumpjack near Driscoll on March 1, 2026?",
+    "a": "Texas."
+  },
+  {
+    "q": "Who is the photographer credited for the image of the pumpjack near Driscoll, Texas, on March 1, 2026?",
+    "a": "Eddie Seal."
+  },
+  {
+    "q": "What two consecutive quarters of negative GDP growth constitute the Kalshi market's definition of a recession?",
+    "a": "Two."
+  },
+  {
+    "q": "Which conflict is cited as the reason for the closure of the Strait of Hormuz and subsequent oil supply concerns in early March 2026?",
+    "a": "The U.S.-Iran war."
+  },
+  {
+    "q": "What was the impact of oil prices remaining above $100 per barrel on consumer and business spending, as warned by economists and analysts in March 2026?",
+    "a": "Higher gas and fuel prices hit consumer and business spending."
+  },
+  {
+    "q": "Which data source provided the information that Kalshi's recession market hit its highest level since November?",
+    "a": "Data from the Kalshi platform."
+  },
+  {
+    "q": "What was the specific date of the pumpjack image near Driscoll, Texas, referenced in the article?",
+    "a": "Sunday, March 1, 2026."
+  },
+  {
+    "q": "Which news agency provided the national average gas price data for Monday, March 9, 2026?",
+    "a": "AAA."
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "hash": "499a04325325",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://japantimes.co.jp/news/2026/02/20/world/us-iran-deal-days/",
+      "title": "U.S. amasses forces as Trump says Iran has just days for deal - The Japan Times",
+      "published_date": "2026-02-20T00:00:00.000Z",
+      "author": "Skylar Woodhouse",
+      "num_tokens": 200,
+      "text_length": 876
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1394299",
+      "spike_id": 1,
+      "market_question": "US forces enter Iran by December 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.185,
+      "spike_timestamp_before": "2026-02-20T12:30:25+00:00",
+      "spike_timestamp_after": "2026-02-20T17:30:17+00:00"
+    },
+    {
+      "market_id": "1394299",
+      "spike_id": 5,
+      "market_question": "US forces enter Iran by December 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.36499999999999994,
+      "spike_timestamp_before": "2026-02-22T13:00:18+00:00",
+      "spike_timestamp_after": "2026-02-22T22:30:22+00:00"
+    }
+  ]
+}

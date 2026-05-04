@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In the closed-door briefings held on Sunday, March 1, 2026, what did Trump administration officials acknowledge to congressional staff regarding intelligence about Iran's intentions toward U.S. forces?",
+    "a": "They acknowledged there was no intelligence suggesting Iran planned to attack U.S. forces first."
+  },
+  {
+    "q": "During the U.S. and Israeli military attacks on Iran that began on Saturday, February 28, 2026, which Iranian Supreme Leader was killed?",
+    "a": "Supreme Leader Ayatollah Ali Khamenei."
+  },
+  {
+    "q": "On Friday, February 27, 2026, what justification did senior Trump administration officials give for President Donald Trump's decision to launch attacks on Iran?",
+    "a": "They claimed there were indicators that Iranians might strike U.S. forces in the Middle East perhaps preemptively."
+  },
+  {
+    "q": "How long did the Pentagon briefings last on Sunday, March 1, 2026, when officials spoke with Democratic and Republican staff of national security committees in the Senate and House of Representatives?",
+    "a": "More than 90 minutes."
+  },
+  {
+    "q": "Which White House spokesperson stated that Pentagon officials had briefed congressional staff for more than 90 minutes on the unfolding U.S. attack in Iran?",
+    "a": "Dylan Johnson."
+  },
+  {
+    "q": "According to sources speaking on condition of anonymity to Reuters on Sunday, March 1, 2026, what did administration officials emphasize about Iran's capabilities despite lacking intelligence of an imminent first strike?",
+    "a": "They emphasized that Iran's ballistic missiles and proxy forces in the region posed an imminent threat to U.S. interests."
+  },
+  {
+    "q": "What three primary goals did President Donald Trump state the attack on Iran aimed to achieve, as reported in early March 2026?",
+    "a": "To ensure Iran could not have a nuclear weapon, contain its missile program, and eliminate threats to the United States and its allies."
+  },
+  {
+    "q": "What action did President Donald Trump urge Iranians to take regarding their government during the conflict starting in late February 2026?",
+    "a": "He urged them to rise up and topple the government."
+  },
+  {
+    "q": "Which country's mediation efforts did Democrats criticize President Donald Trump for abandoning, despite that mediator stating peace talks still held promise?",
+    "a": "Oman."
+  },
+  {
+    "q": "What specific claim did President Donald Trump make about Iran's missile capabilities without presenting evidence, which sources familiar with U.S. intelligence reports said was exaggerated?",
+    "a": "He claimed Iran was on track to soon secure the ability to strike the United States with a ballistic missile."
+  },
+  {
+    "q": "On Sunday, March 1, 2026, how many U.S. troops were killed and how many were seriously wounded according to U.S. Central Command?",
+    "a": "Three U.S. troops were killed and five were seriously wounded."
+  },
+  {
+    "q": "Besides the three killed and five seriously wounded, what other types of injuries did several other U.S. troops suffer during the conflict as reported by U.S. Central Command on March 1, 2026?",
+    "a": "They suffered minor shrapnel injuries and concussions."
+  },
+  {
+    "q": "How many Iranian targets had U.S. aircraft and warships struck since President Donald Trump ordered the start of major combat operations, as reported by the military in early March 2026?",
+    "a": "More than 1,000 targets."
+  },
+  {
+    "q": "What type of aircraft and what specific bomb weight were used to strike hardened, underground Iranian missile facilities during the attacks beginning in late February 2026?",
+    "a": "B-2 stealth bombers dropping 2,000-lb (900-kg) bombs."
+  },
+  {
+    "q": "According to a Reuters/Ipsos poll conducted on Sunday, March 1, 2026, what percentage of Americans approved of the U.S. strikes on Iran?",
+    "a": "27%."
+  },
+  {
+    "q": "According to the Reuters/Ipsos poll on Sunday, March 1, 2026, what percentage of Americans disapproved of the U.S. strikes on Iran?",
+    "a": "43%."
+  },
+  {
+    "q": "According to the Reuters/Ipsos poll on Sunday, March 1, 2026, what percentage of Americans were not sure about the U.S. strikes on Iran?",
+    "a": "29%."
+  },
+  {
+    "q": "Which two nations launched the most ambitious attacks on Iran in decades on Saturday, February 28, 2026, according to officials?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "What military assets did the United States and Israel sink during the attacks on Iran that began on Saturday, February 28, 2026?",
+    "a": "Iranian warships."
+  },
+  {
+    "q": "How long did President Donald Trump state the attack on Iran was expected to run, as reported in early March 2026?",
+    "a": "Weeks."
+  },
+  {
+    "q": "Which two groups of congressional staff received briefings from Pentagon officials on Sunday, March 1, 2026, regarding the U.S. attack in Iran?",
+    "a": "Democratic and Republican staff of several national security committees in both the Senate and the House of Representatives."
+  },
+  {
+    "q": "What accusation did Democrats level against President Donald Trump regarding the nature of the war in Iran in early March 2026?",
+    "a": "They accused him of waging a war of choice."
+  },
+  {
+    "q": "Which news agency reported that Trump administration officials acknowledged in closed-door briefings on Sunday, March 1, 2026, that there was no intelligence of an Iranian first strike?",
+    "a": "Reuters."
+  },
+  {
+    "q": "Who were the two authors of the Reuters article published on March 1, 2026, reporting on the Pentagon's briefings to Congress?",
+    "a": "Phil Stewart and Humeyra Pamuk."
+  },
+  {
+    "q": "What did U.S. intelligence reports indicate about President Donald Trump's claim that Iran was on track to soon secure the ability to strike the United States with a ballistic missile?",
+    "a": "The claim was not backed by U.S. intelligence reports and appeared to be exaggerated."
+  },
+  {
+    "q": "On which day of the week did the United States and Israel launch their major attacks on Iran, killing Supreme Leader Ayatollah Ali Khamenei, according to the article published on March 1, 2026?",
+    "a": "Saturday."
+  }
+]

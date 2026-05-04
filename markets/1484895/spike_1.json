@@ -1,0 +1,65 @@
+{
+  "spike_index": 1,
+  "direction": "down",
+  "price_before": 0.84,
+  "price_after": 0.68,
+  "delta": -0.15999999999999992,
+  "abs_delta": 0.15999999999999992,
+  "timestamp_before": "2026-03-02T18:30:32+00:00",
+  "timestamp_after": "2026-03-03T17:00:29+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://links.message.bloomberg.com/s/c/61lxmTVi9FmLGe7FgcaqBOo1putbMbwMTyr96cGVRhavBdg4UeLk1E8E4c9i4mp4QpWB6Ofqxt2nnmSeI8Uj1h_G4J2HKkvdQ2QlSqqtJ8mAC05wf_hS1IfHA4KAMwMfVQJquC80YfO0FclnQ3wpit1UL6x1MC4Fr6rr5k1saaVIbbpNMWLF9yvVtEfM_j2O3wXuZTr9GOOkDNsfwEhHMKQ2G6fYnltwNhpXMensldWndR_IN_Jzvl4dc_FdiiFpFglwbfBcUtXyd6De9LKWyk1xsRvyjpXrNww6guFKvF6suAzYYYi65KNz5NvEyJI9LOM1Mz9qibQPzU2Uta73RLCJylASzbAgJAbK0VXVCjOGPKqItSzQktVdY74/NzXHI2qZiUnFoUsgG9S8Qsu3oSPwc0S5/18",
+      "file": "cdaf63d395f0.txt",
+      "title": "US x Iran ceasefire by...? Predictions & Odds | Polymarket",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 223,
+      "status": "ok",
+      "num_tokens": 45
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/01/us-iran-live-updates-khamenei-death-trump-gulf-strikes.html",
+      "file": "48dcf16fbe83.txt",
+      "title": "Trump vows to 'avenge' the deaths of U.S. service members",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Garrett Downs,Greg Iacurci,Azhar Sukri,Spriha Srivastava,Emma Graham,Lee Ying Shan,Anniek Bao",
+      "text_length": 60494,
+      "status": "ok",
+      "num_tokens": 15966
+    },
+    {
+      "url": "https://reuters.com/world/middle-east/iran-has-not-contacted-us-about-possible-peace-talks-says-tehrans-un-envoy-2026-03-03/",
+      "file": "a04cfd48163f.txt",
+      "title": "Iran has not contacted US about possible peace talks, says Tehran's UN envoy | Reuters",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Olivia Le Poidevin",
+      "text_length": 1931,
+      "status": "ok",
+      "num_tokens": 416
+    },
+    {
+      "url": "https://www.pbs.org/newshour/world/live-updates-trump-says-iran-war-could-last-weeks",
+      "file": "c2abf2d91018.txt",
+      "title": "Live Updates: Trump says Iran war could last weeks | PBS News",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": null,
+      "text_length": 76389,
+      "status": "ok",
+      "num_tokens": 15389
+    },
+    {
+      "url": "https://www2.cnn.com/2026/03/04/politics/reachout-iran-us-potential-talks",
+      "file": "77defcd76d7d.txt",
+      "title": "Breaking News, Latest News and Videos | CNN",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "Monica Sarkar",
+      "text_length": 10557,
+      "status": "ok",
+      "num_tokens": 2504
+    }
+  ],
+  "total_tokens": 34320
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In a joint statement issued on Monday, March 16, 2026, which five countries warned that a significant Israeli ground offensive in Lebanon must be averted due to devastating humanitarian consequences?",
+    "a": "Canada, France, Germany, Italy, and the United Kingdom."
+  },
+  {
+    "q": "On what date did the Iran-backed militant group Hezbollah open fire at Israel, an event that sucked Lebanon into the war in the Middle East?",
+    "a": "March 2, 2026."
+  },
+  {
+    "q": "According to Hezbollah, for what specific reason did the group open fire on Israel on March 2, 2026?",
+    "a": "To avenge the killing of Iranian Supreme Leader Ayatollah Ali Khamenei."
+  },
+  {
+    "q": "On which day did the war between the United States and Israel on Iran begin, which resulted in the killing of Iranian Supreme Leader Ayatollah Ali Khamenei?",
+    "a": "The first day of the U.S. and Israel's war on Iran (specific date not provided in text, but linked to the March 2 escalation)."
+  },
+  {
+    "q": "According to Lebanese authorities cited in the March 16, 2026 report, how many people had been killed in Lebanon as a result of Israel's offensive?",
+    "a": "More than 880 people."
+  },
+  {
+    "q": "As of the March 16, 2026 report, how many people in Lebanon had been driven from their homes due to the conflict?",
+    "a": "More than 1 million people."
+  },
+  {
+    "q": "According to Lebanese authorities in the March 16, 2026 report, how many people were living in collective shelters in Lebanon?",
+    "a": "More than 130,000 people."
+  },
+  {
+    "q": "What level of devastation did Israel threaten to inflict on Lebanon, as reported in the March 16, 2026 article?",
+    "a": "Gaza-scale devastation."
+  },
+  {
+    "q": "In the joint statement released on March 16, 2026, what did Canada, France, Britain, Germany, and Italy say a significant Israeli ground offensive could lead to, in addition to devastating humanitarian consequences?",
+    "a": "A protracted conflict."
+  },
+  {
+    "q": "Which specific group did the five countries (Canada, France, Britain, Germany, and Italy) state they support efforts by the Lebanese government to disarm, in their March 16, 2026 statement?",
+    "a": "The Iran-backed militant group Hezbollah."
+  },
+  {
+    "q": "In the March 16, 2026 joint statement, which two parties did the countries call for meaningful engagement to negotiate a sustainable political solution?",
+    "a": "Israeli and Lebanese representatives."
+  },
+  {
+    "q": "What did the five countries (Canada, France, Britain, Germany, and Italy) urge for immediately in their March 16, 2026 statement regarding the escalating violence in Lebanon?",
+    "a": "Immediate de-escalation."
+  },
+  {
+    "q": "Which five countries issued a joint statement on March 16, 2026, expressing grave concern over the escalating violence in Lebanon?",
+    "a": "Canada, France, Britain, Germany, and Italy."
+  },
+  {
+    "q": "According to the March 16, 2026 article, what was the humanitarian situation in Lebanon described as by the five issuing countries?",
+    "a": "Deeply alarming, including ongoing mass displacement."
+  },
+  {
+    "q": "Which Iran-backed militant group was identified as the entity that opened fire at Israel on March 2, 2026?",
+    "a": "Hezbollah."
+  },
+  {
+    "q": "Who was the Iranian Supreme Leader killed on the first day of the U.S. and Israel's war on Iran, an event Hezbollah cited as the reason for its March 2, 2026 attack on Israel?",
+    "a": "Ayatollah Ali Khamenei."
+  },
+  {
+    "q": "In the March 16, 2026 statement, which countries supported initiatives to facilitate talks between Israeli and Lebanese representatives?",
+    "a": "Canada, France, Britain, Germany, and Italy."
+  },
+  {
+    "q": "What specific consequence did the March 16, 2026 joint statement warn a significant Israeli ground offensive in Lebanon would have?",
+    "a": "Devastating humanitarian consequences."
+  },
+  {
+    "q": "According to the March 16, 2026 report, how many people in Lebanon were living in collective shelters as reported by Lebanese authorities?",
+    "a": "More than 130,000."
+  },
+  {
+    "q": "Which group did the five Western nations state they support the Lebanese government's efforts to disarm in their March 16, 2026 statement?",
+    "a": "Hezbollah."
+  },
+  {
+    "q": "What did the five countries (Canada, France, Britain, Germany, and Italy) call for in their March 16, 2026 statement regarding the humanitarian situation in Lebanon?",
+    "a": "Meaningful engagement by Israeli and Lebanese representatives to negotiate a sustainable political solution."
+  },
+  {
+    "q": "On what date did the war in the Middle East expand to include Lebanon due to Hezbollah opening fire at Israel?",
+    "a": "March 2, 2026."
+  },
+  {
+    "q": "Which five nations jointly stated in March 2026 that a significant Israeli ground offensive in Lebanon must be averted?",
+    "a": "Canada, France, Germany, Italy, and the United Kingdom."
+  },
+  {
+    "q": "According to the March 16, 2026 article, what did Israel threaten to bring to Lebanon, referencing a previous conflict?",
+    "a": "Gaza-scale devastation."
+  },
+  {
+    "q": "In the March 16, 2026 joint statement, which two groups of representatives were urged to engage in meaningful dialogue to negotiate a sustainable political solution?",
+    "a": "Israeli and Lebanese representatives."
+  }
+]

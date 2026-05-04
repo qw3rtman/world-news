@@ -1,0 +1,47 @@
+{
+  "hash": "d3e7e649b035",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-09/openai-buying-ai-security-startup-promptfoo-to-safeguard-ai-agents",
+      "title": "OpenAI Buying AI Security Startup Promptfoo to Safeguard AI Agents - Bloomberg",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "Dina Bass",
+      "num_tokens": 118,
+      "text_length": 636
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "700396",
+      "spike_id": 5,
+      "market_question": "Will Perplexity AI be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.19,
+      "spike_timestamp_before": "2026-03-08T21:00:57+00:00",
+      "spike_timestamp_after": "2026-03-09T13:30:28+00:00"
+    },
+    {
+      "market_id": "700396",
+      "spike_id": 6,
+      "market_question": "Will Perplexity AI be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.25,
+      "spike_timestamp_before": "2026-03-09T00:00:43+00:00",
+      "spike_timestamp_after": "2026-03-09T23:30:33+00:00"
+    },
+    {
+      "market_id": "700396",
+      "spike_id": 7,
+      "market_question": "Will Perplexity AI be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.18,
+      "spike_timestamp_before": "2026-03-11T08:30:36+00:00",
+      "spike_timestamp_after": "2026-03-11T13:00:37+00:00"
+    }
+  ]
+}

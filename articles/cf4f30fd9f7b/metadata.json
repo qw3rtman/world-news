@@ -1,0 +1,47 @@
+{
+  "hash": "cf4f30fd9f7b",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.pbs.org/newshour/world/opposition-leader-machado-says-she-will-return-to-venezuela-in-the-coming-weeks",
+      "title": "Opposition leader Machado says she will return to Venezuela in the coming weeks | PBS News",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 393,
+      "text_length": 1965
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1106813",
+      "spike_id": 6,
+      "market_question": "Will María Corina Machado enter Venezuela by March 31?",
+      "event_title": "María Corina Machado enters Venezuela by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.19500000000000006,
+      "spike_timestamp_before": "2026-02-28T16:30:36+00:00",
+      "spike_timestamp_after": "2026-03-01T14:00:27+00:00"
+    },
+    {
+      "market_id": "1106813",
+      "spike_id": 7,
+      "market_question": "Will María Corina Machado enter Venezuela by March 31?",
+      "event_title": "María Corina Machado enters Venezuela by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.36,
+      "spike_timestamp_before": "2026-03-01T14:00:27+00:00",
+      "spike_timestamp_after": "2026-03-01T17:30:25+00:00"
+    },
+    {
+      "market_id": "1106813",
+      "spike_id": 8,
+      "market_question": "Will María Corina Machado enter Venezuela by March 31?",
+      "event_title": "María Corina Machado enters Venezuela by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.15499999999999992,
+      "spike_timestamp_before": "2026-03-01T17:30:25+00:00",
+      "spike_timestamp_after": "2026-03-02T06:00:22+00:00"
+    }
+  ]
+}

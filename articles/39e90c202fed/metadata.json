@@ -1,0 +1,117 @@
+{
+  "hash": "39e90c202fed",
+  "n_appearances": 10,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnn.com/2026/03/01/middleeast/iran-new-supreme-leader-khamenei-dead-intl-latam",
+      "title": "Who’s running Iran now that the supreme leader is dead? | CNN",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Christian Edwards",
+      "num_tokens": 1916,
+      "text_length": 8893
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1470007",
+      "spike_id": 1,
+      "market_question": "Will Iran name a successor to Khamenei by March 1?",
+      "event_title": "New Supreme Leader of Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.45999999999999996,
+      "spike_timestamp_before": "2026-03-01T00:30:47+00:00",
+      "spike_timestamp_after": "2026-03-01T02:00:31+00:00"
+    },
+    {
+      "market_id": "1470007",
+      "spike_id": 2,
+      "market_question": "Will Iran name a successor to Khamenei by March 1?",
+      "event_title": "New Supreme Leader of Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.4799999999999999,
+      "spike_timestamp_before": "2026-03-01T02:00:31+00:00",
+      "spike_timestamp_after": "2026-03-01T08:00:30+00:00"
+    },
+    {
+      "market_id": "1470007",
+      "spike_id": 3,
+      "market_question": "Will Iran name a successor to Khamenei by March 1?",
+      "event_title": "New Supreme Leader of Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.5099999999999999,
+      "spike_timestamp_before": "2026-03-01T02:00:31+00:00",
+      "spike_timestamp_after": "2026-03-01T14:00:32+00:00"
+    },
+    {
+      "market_id": "1470007",
+      "spike_id": 4,
+      "market_question": "Will Iran name a successor to Khamenei by March 1?",
+      "event_title": "New Supreme Leader of Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.5199999999999999,
+      "spike_timestamp_before": "2026-03-01T02:00:31+00:00",
+      "spike_timestamp_after": "2026-03-01T16:00:32+00:00"
+    },
+    {
+      "market_id": "1470007",
+      "spike_id": 5,
+      "market_question": "Will Iran name a successor to Khamenei by March 1?",
+      "event_title": "New Supreme Leader of Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.5439999999999999,
+      "spike_timestamp_before": "2026-03-01T02:00:31+00:00",
+      "spike_timestamp_after": "2026-03-01T19:30:49+00:00"
+    },
+    {
+      "market_id": "1470007",
+      "spike_id": 6,
+      "market_question": "Will Iran name a successor to Khamenei by March 1?",
+      "event_title": "New Supreme Leader of Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.5485,
+      "spike_timestamp_before": "2026-03-01T02:00:31+00:00",
+      "spike_timestamp_after": "2026-03-01T23:30:28+00:00"
+    },
+    {
+      "market_id": "1485770",
+      "spike_id": 2,
+      "market_question": "Will Iran name a successor to Khamenei by March 3?",
+      "event_title": "New Supreme Leader of Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.5750000000000001,
+      "spike_timestamp_before": "2026-03-03T21:00:46+00:00",
+      "spike_timestamp_after": "2026-03-04T05:30:25+00:00"
+    },
+    {
+      "market_id": "1485771",
+      "spike_id": 4,
+      "market_question": "Will Iran name a successor to Khamenei by March 4?",
+      "event_title": "New Supreme Leader of Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.69,
+      "spike_timestamp_before": "2026-03-03T21:00:54+00:00",
+      "spike_timestamp_after": "2026-03-04T17:00:47+00:00"
+    },
+    {
+      "market_id": "1485771",
+      "spike_id": 5,
+      "market_question": "Will Iran name a successor to Khamenei by March 4?",
+      "event_title": "New Supreme Leader of Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.698,
+      "spike_timestamp_before": "2026-03-03T21:00:54+00:00",
+      "spike_timestamp_after": "2026-03-04T21:00:34+00:00"
+    },
+    {
+      "market_id": "661700",
+      "spike_id": 5,
+      "market_question": "Khamenei out as Supreme Leader of Iran in 2026?",
+      "event_title": "Khamenei out as Supreme Leader of Iran in 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.488,
+      "spike_timestamp_before": "2026-02-28T00:30:25+00:00",
+      "spike_timestamp_after": "2026-03-01T00:00:33+00:00"
+    }
+  ]
+}

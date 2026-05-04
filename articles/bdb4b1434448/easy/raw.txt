@@ -1,0 +1,106 @@
+[
+  {
+    "q": "On March 16, 2026, which Italian bank made a low-ball offer to raise its stake in Commerzbank above 30%?",
+    "a": "UniCredit"
+  },
+  {
+    "q": "What was the approximate value of UniCredit's proposal to acquire more shares in Commerzbank as reported on March 16, 2026?",
+    "a": "Nearly 35 billion euros ($40 billion)"
+  },
+  {
+    "q": "Who is the CEO of UniCredit who stated on March 16, 2026, that it was time for Commerzbank to talk?",
+    "a": "Andrea Orcel"
+  },
+  {
+    "q": "Who is the CEO of Commerzbank who rejected UniCredit's offer on March 16, 2026, citing a strategy focused on independence?",
+    "a": "Bettina Orlopp"
+  },
+  {
+    "q": "What percentage of Commerzbank is owned by the German government, according to statements made on March 16, 2026?",
+    "a": "12.7%"
+  },
+  {
+    "q": "When did the German takeover rules mandating a cash offer with a pre-set minimum price cease to apply, allowing UniCredit to bypass certain obligations?",
+    "a": "February 22, 2026"
+  },
+  {
+    "q": "What ownership threshold in Commerzbank would traditionally obligate UniCredit to launch a full buyout offer under German rules?",
+    "a": "30%"
+  },
+  {
+    "q": "Which regulatory body's approval is mainly required for UniCredit to complete its proposed Commerzbank transaction by the first half of 2027?",
+    "a": "The European Central Bank"
+  },
+  {
+    "q": "What premium did UniCredit's implied offer price of 30.8 euros per Commerzbank share represent over the bank's closing price on March 13, 2026?",
+    "a": "4%"
+  },
+  {
+    "q": "How many shares of Commerzbank did UniCredit own directly as of March 16, 2026, before the new offer?",
+    "a": "26%"
+  },
+  {
+    "q": "What additional stake in Commerzbank did UniCredit hold through swap contracts as of March 16, 2026?",
+    "a": "4%"
+  },
+  {
+    "q": "How much profit did UniCredit pocket from its Commerzbank holdings in the previous year, as reported on March 16, 2026?",
+    "a": "378 million euros"
+  },
+  {
+    "q": "Which investment firm's head of research described UniCredit's March 16, 2026, bid as \"technical\" and praised its timing?",
+    "a": "Axiom Alternative Investments"
+  },
+  {
+    "q": "Which Italian broadcaster used a similar acquisition template with Germany's ProSiebenSat.1 last year, according to reports on March 16, 2026?",
+    "a": "MFE (Mediaset Europa)"
+  },
+  {
+    "q": "By what percentage did Commerzbank shares rise on Monday, March 16, 2026, following UniCredit's offer announcement?",
+    "a": "8.8%"
+  },
+  {
+    "q": "Which German state's premier stated on March 16, 2026, that UniCredit's offer would be assessed diligently, noting the importance of Frankfurt as a financial center?",
+    "a": "Hesse"
+  },
+  {
+    "q": "Which of UniCredit's German subsidiaries has become much more profitable than Commerzbank, fueling concerns among unions and politicians about job losses?",
+    "a": "HVB bank"
+  },
+  {
+    "q": "In which month and year did UniCredit first invest in Commerzbank, gradually increasing its stake before the March 2026 offer?",
+    "a": "September 2024"
+  },
+  {
+    "q": "Which shareholder renewed calls on March 16, 2026, for Commerzbank to engage in talks with UniCredit CEO Andrea Orcel?",
+    "a": "Union Investment"
+  },
+  {
+    "q": "What was the implied exchange ratio for UniCredit's offer, expressed as a fraction of a UniCredit share for each Commerzbank share?",
+    "a": "0.485"
+  },
+  {
+    "q": "Which global bank's analysts described UniCredit's March 16, 2026, move as astute but noted that major obstacles remained for a full takeover?",
+    "a": "Citi"
+  },
+  {
+    "q": "What factor did UniCredit CEO Andrea Orcel allegedly use to gain freedom to act, according to investor analysis on March 16, 2026?",
+    "a": "Market turmoil caused by the war in the Middle East"
+  },
+  {
+    "q": "How much has UniCredit's share price increased over the past five years, a period during which CEO Andrea Orcel focused on rewarding investors?",
+    "a": "Near eight-fold"
+  },
+  {
+    "q": "Which European regulatory body is pushing for more banking consolidation, especially cross-border, to counter growing U.S. presence in European banking?",
+    "a": "The European Central Bank"
+  },
+  {
+    "q": "Which Italian government position has Italy said it would fight if UniCredit attempted to shift the group's headquarters to Germany?",
+    "a": "The group's headquarters"
+  },
+  {
+    "q": "Which two cities were identified as the reporting locations for the Reuters article published on March 16, 2026?",
+    "a": "Milan and Frankfurt"
+  }
+]

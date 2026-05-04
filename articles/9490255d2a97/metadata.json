@@ -1,0 +1,67 @@
+{
+  "hash": "9490255d2a97",
+  "n_appearances": 5,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://now.cnn.com/2026/03/01/politics/cia-ayatollah-ali-khamenei-strike",
+      "title": "Breaking News, Latest News and Videos | CNN",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Monica Sarkar",
+      "num_tokens": 16,
+      "text_length": 82
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1399064",
+      "spike_id": 2,
+      "market_question": "US strikes Iran by March 2, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.8945000000000001,
+      "spike_timestamp_before": "2026-02-27T09:00:39+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:53+00:00"
+    },
+    {
+      "market_id": "1399065",
+      "spike_id": 2,
+      "market_question": "US strikes Iran by March 3, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.8745,
+      "spike_timestamp_before": "2026-02-27T09:00:26+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:44+00:00"
+    },
+    {
+      "market_id": "1399066",
+      "spike_id": 3,
+      "market_question": "US strikes Iran by March 4, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.8635,
+      "spike_timestamp_before": "2026-02-27T08:30:20+00:00",
+      "spike_timestamp_after": "2026-02-28T08:00:33+00:00"
+    },
+    {
+      "market_id": "1399088",
+      "spike_id": 2,
+      "market_question": "US strikes Iran by March 7, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.7535000000000001,
+      "spike_timestamp_before": "2026-02-27T08:30:29+00:00",
+      "spike_timestamp_after": "2026-02-28T08:00:41+00:00"
+    },
+    {
+      "market_id": "1437691",
+      "spike_id": 4,
+      "market_question": "US strikes Iran by March 8, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.7345,
+      "spike_timestamp_before": "2026-02-27T09:30:22+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:48+00:00"
+    }
+  ]
+}

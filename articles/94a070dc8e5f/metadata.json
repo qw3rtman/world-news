@@ -1,0 +1,87 @@
+{
+  "hash": "94a070dc8e5f",
+  "n_appearances": 7,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://www.al-monitor.com/originals/2026/03/cracks-emerge-irans-leadership-it-reels-under-bombardment",
+      "title": "Cracks emerge in Iran's leadership as it reels under bombardment - AL-Monitor: The Middle Eastʼs leading independent news source since 2012",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1143,
+      "text_length": 5453
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "663583",
+      "spike_id": 1,
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "event_title": "Will the Iranian regime fall before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.16000000000000003,
+      "spike_timestamp_before": "2026-02-27T07:30:40+00:00",
+      "spike_timestamp_after": "2026-02-28T07:00:40+00:00"
+    },
+    {
+      "market_id": "663583",
+      "spike_id": 2,
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "event_title": "Will the Iranian regime fall before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.21499999999999997,
+      "spike_timestamp_before": "2026-02-27T10:00:37+00:00",
+      "spike_timestamp_after": "2026-02-28T09:30:39+00:00"
+    },
+    {
+      "market_id": "663583",
+      "spike_id": 3,
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "event_title": "Will the Iranian regime fall before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.25,
+      "spike_timestamp_before": "2026-02-27T23:00:46+00:00",
+      "spike_timestamp_after": "2026-02-28T22:30:36+00:00"
+    },
+    {
+      "market_id": "958442",
+      "spike_id": 1,
+      "market_question": "Will the Iranian regime fall by March 31?",
+      "event_title": "Will the Iranian regime fall by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.18400000000000002,
+      "spike_timestamp_before": "2026-02-27T08:30:34+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:15+00:00"
+    },
+    {
+      "market_id": "958442",
+      "spike_id": 2,
+      "market_question": "Will the Iranian regime fall by March 31?",
+      "event_title": "Will the Iranian regime fall by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.184,
+      "spike_timestamp_before": "2026-02-27T19:30:41+00:00",
+      "spike_timestamp_after": "2026-02-28T12:00:09+00:00"
+    },
+    {
+      "market_id": "958442",
+      "spike_id": 3,
+      "market_question": "Will the Iranian regime fall by March 31?",
+      "event_title": "Will the Iranian regime fall by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.22300000000000003,
+      "spike_timestamp_before": "2026-02-27T19:30:41+00:00",
+      "spike_timestamp_after": "2026-02-28T14:00:50+00:00"
+    },
+    {
+      "market_id": "958442",
+      "spike_id": 4,
+      "market_question": "Will the Iranian regime fall by March 31?",
+      "event_title": "Will the Iranian regime fall by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.3185,
+      "spike_timestamp_before": "2026-02-28T05:30:36+00:00",
+      "spike_timestamp_after": "2026-02-28T22:30:36+00:00"
+    }
+  ]
+}

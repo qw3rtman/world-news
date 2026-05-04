@@ -1,0 +1,106 @@
+[
+  {
+    "q": "As of February 23, 2026, how many days had the partial government shutdown lasted, and which specific federal department remained unfunded?",
+    "a": "The shutdown had lasted 10 days, and the Department of Homeland Security (DHS) remained unfunded."
+  },
+  {
+    "q": "According to White House press secretary Karoline Leavitt, what was her stated reason for blaming Senate Democrats for the Department of Homeland Security shutdown in late February 2026?",
+    "a": "Leavitt stated that Democrats chose to act against the American people for political reasons."
+  },
+  {
+    "q": "Which two U.S. Senators were identified as the primary negotiators who struck a funding truce in January 2026, prior to the February 2026 deadlock?",
+    "a": "President Donald Trump and Senate Minority Leader Chuck Schumer."
+  },
+  {
+    "q": "What specific legislative reforms sought by Senate Democrats did Senate Majority Leader John Thune say would increase risks for Immigration and Customs Enforcement agents?",
+    "a": "Reforms requiring judicial warrants for ICE agents, unmasking, or other similar protections."
+  },
+  {
+    "q": "Why did the Senate delay its vote on the original Department of Homeland Security spending bill until Tuesday night in late February 2026?",
+    "a": "Winter storms descending on the East Coast caused the delay."
+  },
+  {
+    "q": "In the context of the late February 2026 government shutdown, what was the status of the Federal Emergency Management Agency (FEMA) disaster funding?",
+    "a": "Democrats warned that the DHS shutdown risked the collapse of FEMA disaster funding."
+  },
+  {
+    "q": "What did Senate Majority Leader John Thune characterize the White House's most recent offer as during the late February 2026 DHS funding negotiations?",
+    "a": "He characterized it as a \"good faith\" offer that was clear in its attempt to land a deal."
+  },
+  {
+    "q": "Which specific military action was President Donald Trump considering in late February 2026, prompting a war powers resolution from Senator Tim Kaine?",
+    "a": "A limited military strike against Iran."
+  },
+  {
+    "q": "What legislative tool did Senator Tim Kaine, D-Va., state he had filed and ready in late February 2026 to block a potential U.S. attack on Iran?",
+    "a": "A war powers resolution."
+  },
+  {
+    "q": "What quote did Senator Tim Kaine use to challenge colleagues who supported war but might avoid accountability in late February 2026?",
+    "a": "He told them to have the guts to vote for the war rather than \"hiding under their desks.\""
+  },
+  {
+    "q": "Following which recent judicial ruling was President Donald Trump considering bypassing Congress to implement global 10% tariffs in late February 2026?",
+    "a": "The Supreme Court’s ruling to torpedo his sweeping duties."
+  },
+  {
+    "q": "What was the reported stance of Republicans regarding President Trump's potential bypass of Congress for tariffs in late February 2026?",
+    "a": "Some Republicans were quietly celebrating the end of the duties, while others were open to working with the administration on trade policy."
+  },
+  {
+    "q": "How did White House press secretary Karoline Leavitt describe President Trump's involvement in the recent DHS funding negotiations in late February 2026?",
+    "a": "She stated he had not had any \"direct conversations or correspondence\" with congressional Democrats recently."
+  },
+  {
+    "q": "What was Senate Minority Leader Chuck Schumer’s position regarding the Department of Homeland Security funding as the shutdown entered its tenth day in late February 2026?",
+    "a": "Schumer and his caucus had not relented in their position."
+  },
+  {
+    "q": "Which specific U.S. Senate chamber was expected to prioritize funding the Department of Homeland Security, despite delays caused by weather in late February 2026?",
+    "a": "The upper chamber (the U.S. Senate)."
+  },
+  {
+    "q": "What potential conflict with Iran was mentioned as an issue that could get in the way of hashing out a DHS funding deal in late February 2026?",
+    "a": "A possible military conflict or strike against Iran."
+  },
+  {
+    "q": "What did a Republican aide tell Fox News regarding the GOP's strategy on tariffs in late February 2026?",
+    "a": "The GOP was \"waiting to see what POTUS does next.\""
+  },
+  {
+    "q": "Which two major political figures were at odds over DHS funding as the shutdown dragged into its 10th day in late February 2026?",
+    "a": "Senate Democrats and the White House."
+  },
+  {
+    "q": "What did Senate Majority Leader John Thune warn Senate Democrats were trying to do regarding Republicans ahead of the 2026 midterm cycle in late February 2026?",
+    "a": "He warned they were trying to tie up Republicans from hitting the campaign trail."
+  },
+  {
+    "q": "What was the name of the White House press secretary who stated that Democrats were responsible for the DHS shutdown in late February 2026?",
+    "a": "Karoline Leavitt."
+  },
+  {
+    "q": "Which specific agency's agents were the subject of debate regarding judicial warrants and unmasking reforms during the late February 2026 DHS funding negotiations?",
+    "a": "Immigration and Customs Enforcement (ICE) agents."
+  },
+  {
+    "q": "What event was scheduled to take place shortly after the delayed Tuesday night vote on the DHS spending bill in late February 2026?",
+    "a": "Trump's State of the Union address."
+  },
+  {
+    "q": "How many times had a government shutdown occurred during Donald Trump’s second term as of late February 2026?",
+    "a": "It was the third shutdown during his second term."
+  },
+  {
+    "q": "What did Karoline Leavitt say about the Senate Democrats' counterproposal to the White House's counterproposal in late February 2026?",
+    "a": "She rejected it as \"unserious.\""
+  },
+  {
+    "q": "Which Senator from Virginia challenged his colleagues to vote for war against Iran rather than hiding from accountability in late February 2026?",
+    "a": "Sen. Tim Kaine, D-Va."
+  },
+  {
+    "q": "What specific type of tariffs was President Donald Trump considering bypassing Congress to implement in late February 2026?",
+    "a": "Global 10% tariffs."
+  }
+]

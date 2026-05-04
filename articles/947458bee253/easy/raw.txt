@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In February 2026, which U.S. government action did Shell state would allow it to progress with its Dragon natural gas project in Venezuelan waters?",
+    "a": "The issuance of general licenses for oil and gas exploration in Venezuela."
+  },
+  {
+    "q": "What is the estimated reserve size of the Dragon natural gas project located in Venezuelan waters, as described by Shell?",
+    "a": "4.5 trillion cubic feet."
+  },
+  {
+    "q": "Which company executive stated in 2026 that Shell hopes to produce gas from Venezuela's Dragon field within three years?",
+    "a": "Shell CEO Wael Sawan."
+  },
+  {
+    "q": "Through which facility in Trinidad and Tobago does Shell hope to eventually export gas from its Venezuelan Dragon project?",
+    "a": "The Atlantic LNG facility."
+  },
+  {
+    "q": "What percentage ownership stake does Shell hold in the Atlantic LNG facility?",
+    "a": "45%."
+  },
+  {
+    "q": "Which other major energy company holds a 45% ownership stake in the Atlantic LNG facility alongside Shell?",
+    "a": "BP (British Petroleum)."
+  },
+  {
+    "q": "What percentage ownership stake does NGC hold in the Atlantic LNG facility?",
+    "a": "10%."
+  },
+  {
+    "q": "What is the production capacity of the Atlantic LNG facility in Trinidad and Tobago?",
+    "a": "12 million metric tonnes per annum."
+  },
+  {
+    "q": "According to LSEG data, how much LNG did the Atlantic LNG facility export in 2025?",
+    "a": "9 million metric tonnes."
+  },
+  {
+    "q": "What was the primary reason cited for the reduced output of the Atlantic LNG facility in 2025?",
+    "a": "Gas supply shortages."
+  },
+  {
+    "q": "What percentage of Shell's global LNG production did the Atlantic LNG facility's output represent in 2025?",
+    "a": "10%."
+  },
+  {
+    "q": "What percentage of BP's LNG exports did the Atlantic LNG facility's output represent in 2025?",
+    "a": "15%."
+  },
+  {
+    "q": "On what date did Reuters report that Shell spokespersons confirmed the impact of U.S. general licenses on the Dragon project?",
+    "a": "February 19, 2026."
+  },
+  {
+    "q": "Which two cities were listed as the reporting locations for the Reuters article regarding Shell's Dragon project?",
+    "a": "Houston and London."
+  },
+  {
+    "q": "Who was the Reuters reporter who filed the story about Shell's Dragon project and the U.S. licenses?",
+    "a": "Curtis Williams."
+  },
+  {
+    "q": "Which financial firm provided the data regarding Atlantic LNG's 2025 export volumes and production capacity?",
+    "a": "LSEG (London Stock Exchange Group)."
+  },
+  {
+    "q": "How many years of operational instability did the Dragon project experience prior to the February 2026 license issuance, according to the article?",
+    "a": "Multiple years of starts and stops due to shifting U.S. policy."
+  },
+  {
+    "q": "What specific type of reserves is the Dragon project envisioned to produce from Venezuelan waters?",
+    "a": "Natural gas."
+  },
+  {
+    "q": "Which U.S. policy factor previously caused the Dragon project to experience starts and stops?",
+    "a": "Shifting U.S. policy toward Venezuela."
+  },
+  {
+    "q": "What is the ticker symbol for Shell as listed in the Reuters article?",
+    "a": "SHEL.L."
+  },
+  {
+    "q": "What is the ticker symbol for BP as listed in the Reuters article?",
+    "a": "BP.L."
+  },
+  {
+    "q": "Who were the editors credited for the Reuters article published on February 19, 2026?",
+    "a": "Nathan Crooks and Rod Nickel."
+  },
+  {
+    "q": "What specific timeframe did Shell CEO Wael Sawan give for hoping to produce gas from the Dragon field?",
+    "a": "In three years."
+  },
+  {
+    "q": "In which country is the Atlantic LNG facility located, which Shell plans to use for exporting Venezuelan gas?",
+    "a": "Trinidad and Tobago."
+  },
+  {
+    "q": "What was the gap between the Atlantic LNG facility's capacity (12 million metric tonnes) and its actual 2025 exports (9 million metric tonnes)?",
+    "a": "3 million metric tonnes."
+  },
+  {
+    "q": "Which organization issued the general licenses that Shell stated would allow progress on the Dragon project?",
+    "a": "The U.S. government."
+  }
+]

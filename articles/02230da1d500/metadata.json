@@ -1,0 +1,27 @@
+{
+  "hash": "02230da1d500",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://today.reuters.com/commentary/breakingviews/kevin-warsh-can-work-with-fed-shrink-it-2026-02-25/",
+      "title": "Kevin Warsh can work with the Fed to shrink it | Reuters",
+      "published_date": "2026-02-25T00:00:00.000Z",
+      "author": "Gabriel Rubin",
+      "num_tokens": 1239,
+      "text_length": 6176
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "572473",
+      "spike_id": 1,
+      "market_question": "Will Trump nominate Judy Shelton as the next Fed chair?",
+      "event_title": "Who will Trump nominate as Fed Chair?",
+      "spike_direction": "up",
+      "spike_delta": 0.46799999999999997,
+      "spike_timestamp_before": "2026-02-25T00:30:23+00:00",
+      "spike_timestamp_after": "2026-02-25T11:30:20+00:00"
+    }
+  ]
+}

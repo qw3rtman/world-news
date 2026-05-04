@@ -1,0 +1,102 @@
+[
+  {
+    "q": "According to an NBC News analysis published on February 25, 2026, which specific federal agency conducted three separate interviews with a South Carolina woman who alleged she was a victim of Jeffrey Epstein and made allegations against President Donald Trump?",
+    "a": "The Federal Bureau of Investigation (FBI)."
+  },
+  {
+    "q": "Which U.S. Representative from California, serving as the top Democrat on the House Oversight Committee, stated that the missing Epstein files were not included in the unredacted collection available for congressional viewing?",
+    "a": "Representative Robert Garcia."
+  },
+  {
+    "q": "In which South Carolina location did the alleged sexual assault of the woman by Jeffrey Epstein occur when she was 13 years old, according to the FBI interview summary released by the Department of Justice?",
+    "a": "Hilton Head Island."
+  },
+  {
+    "q": "During which four specific dates in 2019 did the FBI follow up with the South Carolina woman for interviews regarding her allegations against Jeffrey Epstein?",
+    "a": "July 24, 2019, August 7, 2019, August 20, 2019, and October 16, 2019."
+  },
+  {
+    "q": "Which specific interview date from the South Carolina woman's interactions with the FBI is the only one included in the Epstein files released by the Department of Justice?",
+    "a": "The interview from July 24, 2019."
+  },
+  {
+    "q": "In which U.S. state did the South Carolina woman allege she was forced into a sex act with President Donald Trump when she was 13 years old?",
+    "a": "New Jersey."
+  },
+  {
+    "q": "According to a Justice Department statement issued in January 2026 regarding the release of Epstein files, when were the untrue and sensationalist claims against President Trump submitted to the FBI?",
+    "a": "Right before the 2020 election."
+  },
+  {
+    "q": "What three categories of records did the Justice Department spokesperson cite on February 25, 2026, as reasons for withholding documents not released in the Epstein file production?",
+    "a": "Duplicates, privileged information, and documents part of an ongoing federal investigation."
+  },
+  {
+    "q": "Which FBI task force prepared an August 2025 document that summarized claims reported to the National Threat Operations Center mentioning President Donald Trump?",
+    "a": "The FBI’s Child Exploitation & Human Trafficking Task Force."
+  },
+  {
+    "q": "On what date did the Department of Justice release a summary of the Epstein case along with a trove of other records, prompting a White House response referencing false claims submitted before the 2020 election?",
+    "a": "January 30, 2026."
+  },
+  {
+    "q": "Under the law mandating the release of Epstein files, which specific basis is explicitly prohibited for withholding documents, including those involving government officials or public figures?",
+    "a": "Embarrassment, reputational harm, or political sensitivity."
+  },
+  {
+    "q": "In which year did the South Carolina woman file a lawsuit against the Jeffrey Epstein estate, according to court filings and documents released by the Department of Justice?",
+    "a": "2019."
+  },
+  {
+    "q": "Which independent journalist and which news organization were the first to report the existence of the missing Epstein files related to the South Carolina woman?",
+    "a": "Independent journalist Roger Sollenberger and NPR."
+  },
+  {
+    "q": "Which White House spokeswoman stated on February 25, 2026, that President Donald Trump had been \"totally exonerated\" on anything relating to Epstein?",
+    "a": "Abigail Jackson."
+  },
+  {
+    "q": "Which House Democratic leader told CNN in a November 18 interview that he had \"no recollection\" of a 2013 email sent by a political consulting firm to Jeffrey Epstein seeking money for the New York congressman?",
+    "a": "Hakeem Jeffries."
+  },
+  {
+    "q": "Which Democratic Congresswoman did White House spokeswoman Abigail Jackson criticize in a February 2026 statement for allegedly soliciting money and meetings from Jeffrey Epstein after he was a convicted sex offender?",
+    "a": "Stacey Plaskett."
+  },
+  {
+    "q": "In which month and year did the House Oversight Committee issue a subpoena to the Department of Justice for all Epstein-related materials, which Representative Robert Garcia cited as being violated by the missing documents?",
+    "a": "August 2025."
+  },
+  {
+    "q": "Which specific legal act did Representative Robert Garcia state was violated by the Department of Justice's failure to release the missing Epstein files related to the South Carolina woman?",
+    "a": "The Epstein Files Transparency Act."
+  },
+  {
+    "q": "According to Representative Robert Garcia, what specific detail about the survivor was redacted in the manifest document he viewed at the Justice Department?",
+    "a": "The survivor's name."
+  },
+  {
+    "q": "Which convicted co-conspirator of Jeffrey Maxwell was the case against that included the evidence catalog listing the South Carolina woman's FBI interviews?",
+    "a": "Ghislaine Maxwell."
+  },
+  {
+    "q": "What did the July 24, 2019 FBI interview summary with the South Carolina woman include regarding Jeffrey Epstein, and what did it notably omit?",
+    "a": "It included allegations of repeated sexual abuse by Epstein and omitted allegations against Donald Trump."
+  },
+  {
+    "q": "According to the August 2025 FBI document summarizing claims to the National Threat Operations Center, what was the general credibility assessment of most claims mentioning President Donald Trump?",
+    "a": "Most were deemed not credible or made by people who provided no contact information."
+  },
+  {
+    "q": "Which specific act did President Donald Trump sign, which the White House cited in February 2026 as evidence of his cooperation regarding Epstein's victims?",
+    "a": "The Epstein Files Transparency Act."
+  },
+  {
+    "q": "What did the White House statement from January 30, 2026, claim about the nature of the documents produced by the FBI that were responsive to the Act?",
+    "a": "It claimed the production may include fake or falsely submitted images, documents, or videos sent by the public."
+  },
+  {
+    "q": "Which two individuals did the White House spokeswoman Abigail Jackson name in a February 2026 statement as Democrats who had yet to explain their interactions with Jeffrey Epstein?",
+    "a": "Hakeem Jeffries and Stacey Plaskett."
+  }
+]

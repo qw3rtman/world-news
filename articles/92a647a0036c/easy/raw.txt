@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the CNBC interview on Friday, March 6, 2026, what specific employment figure reported by the Bureau of Labor Statistics did Federal Reserve Governor Stephen Miran cite as bolstering the case for further interest rate cuts?",
+    "a": "A drop of 92,000 in nonfarm payrolls."
+  },
+  {
+    "q": "During the March 6, 2026 interview on the CNBC program \"Money Movers,\" what stance on monetary policy did Federal Reserve Governor Stephen Miran argue was appropriate for the U.S. economy?",
+    "a": "A stance close to neutral."
+  },
+  {
+    "q": "As of March 6, 2026, what was the target range for the Federal Reserve's key interest rate following the three consecutive quarter-point cuts in late 2025?",
+    "a": "Between 3.5% and 3.75%."
+  },
+  {
+    "q": "According to Federal Reserve Governor Stephen Miran's assessment in March 2026, by approximately how much lower should the interest rate be to reach the level he deems \"neutral\"?",
+    "a": "About a full percentage point lower."
+  },
+  {
+    "q": "What was the consensus estimate among Federal Reserve officials at the December 2025 meeting regarding the neutral interest rate level, which implied two more rate cuts were needed?",
+    "a": "Around 3.1%."
+  },
+  {
+    "q": "In March 2026, Federal Reserve Governor Stephen Miran attributed stubbornly high inflation numbers partly to which specific financial service cost that rises with stock market values?",
+    "a": "Portfolio management fees."
+  },
+  {
+    "q": "Which geopolitical conflict did Federal Reserve Governor Stephen Miran cite in March 2026 as the cause for a recent surge in oil prices and corresponding costs at the pump?",
+    "a": "The Iran war."
+  },
+  {
+    "q": "In his March 6, 2026 commentary, which measure of inflation did Federal Reserve Governor Stephen Miran state tends to be more predictive of medium-term inflation trends than headline inflation?",
+    "a": "Core inflation."
+  },
+  {
+    "q": "Since which month in 2025 has Federal Reserve Governor Stephen Miran dissented at every Federal Open Market Committee meeting he has attended?",
+    "a": "September 2025."
+  },
+  {
+    "q": "Which U.S. President nominated Stephen Miran to serve as a Federal Reserve Governor, leading to his dissenting votes starting in September 2025?",
+    "a": "President Donald Trump."
+  },
+  {
+    "q": "During the three consecutive rate cuts in late 2025, what specific reduction amount did Federal Reserve Governor Stephen Miran prefer over the quarter-point moves approved by the committee?",
+    "a": "Half percentage point reductions."
+  },
+  {
+    "q": "At the January 2026 Federal Open Market Committee meeting where the committee voted not to cut rates, what specific action did Federal Reserve Governor Stephen Miran say he wanted?",
+    "a": "A quarter-point reduction."
+  },
+  {
+    "q": "Whom did President Donald Trump nominate in 2026 to serve as a replacement for current Federal Reserve Chair Jerome Powell, whose term expires in May 2026?",
+    "a": "Kevin Warsh."
+  },
+  {
+    "q": "Federal Reserve Governor Stephen Miran was appointed to fill the unexpired term of which former Fed Governor who resigned in August 2025?",
+    "a": "Adriana Kugler."
+  },
+  {
+    "q": "In March 2026, when asked if he would dissent again at upcoming Federal Open Market Committee meetings, what was Federal Reserve Governor Stephen Miran's expressed hope regarding the voting outcome?",
+    "a": "That they would vote to cut rates."
+  },
+  {
+    "q": "What reason did Federal Reserve Governor Stephen Miran give in March 2026 for why the Federal Reserve typically does not respond to higher oil prices with sustained policy changes?",
+    "a": "They tend to be a one-off shock."
+  },
+  {
+    "q": "According to Federal Reserve Governor Stephen Miran in March 2026, why do portfolio management fees increase in dollar value even if the underlying service rate does not change?",
+    "a": "Because they are charged as a percentage of assets and stock markets have risen."
+  },
+  {
+    "q": "In the March 2026 interview, Federal Reserve Governor Stephen Miran stated that the labor market could use more accommodation from monetary policy because he believes the U.S. does not have what problem?",
+    "a": "An inflation problem."
+  },
+  {
+    "q": "Federal Reserve Governor Stephen Miran argued in March 2026 that high inflation figures were more a function of measurement issues by which two U.S. government departments?",
+    "a": "The Commerce and Labor departments."
+  },
+  {
+    "q": "As of March 6, 2026, until when did Federal Reserve Governor Stephen Miran intend to continue serving after his appointed term expired in January 2026?",
+    "a": "Until a successor is approved."
+  },
+  {
+    "q": "In his March 2026 remarks, Federal Reserve Governor Stephen Miran contrasted the impact of oil price surges on headline inflation with their impact on which other inflation metric?",
+    "a": "Core inflation."
+  },
+  {
+    "q": "What specific CNBC show did Federal Reserve Governor Stephen Miran appear on during his March 6, 2026 interview where he discussed interest rates and the labor market?",
+    "a": "\"Money Movers\"."
+  },
+  {
+    "q": "Federal Reserve Governor Stephen Miran stated in March 2026 that he did not see a modestly restrictive stance of monetary policy as appropriate compared to what other stance?",
+    "a": "A neutral stance."
+  },
+  {
+    "q": "Which organization reported the February 2026 jobs data showing a drop of 92,000 in nonfarm payrolls that Federal Reserve Governor Stephen Miran referenced in March 2026?",
+    "a": "The Bureau of Labor Statistics."
+  },
+  {
+    "q": "In March 2026, Federal Reserve Governor Stephen Miran indicated that his future voting behavior at Federal Open Market Committee meetings would be up to whom?",
+    "a": "His colleagues."
+  }
+]

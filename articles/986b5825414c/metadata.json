@@ -1,0 +1,27 @@
+{
+  "hash": "986b5825414c",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://today.reuters.com/business/gold-rises-dollar-falls-us-supreme-court-tariff-verdict-2026-02-23/",
+      "title": "Gold hits three-week high on uncertainty over Trump tariff plans | Reuters",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "Anmol Choubey",
+      "num_tokens": 559,
+      "text_length": 2528
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1273328",
+      "spike_id": 2,
+      "market_question": "Will Gold (GC) hit (HIGH) $5,500 by end of February?",
+      "event_title": "What will Gold (GC) hit__ by end of February?",
+      "spike_direction": "down",
+      "spike_delta": -0.18300000000000002,
+      "spike_timestamp_before": "2026-02-23T23:30:28+00:00",
+      "spike_timestamp_after": "2026-02-24T14:00:29+00:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "hash": "9bbd47a21e48",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/03/11/nebius-nvidia-ai-cloud.html",
+      "title": "Nebius stock pops 16% on Nvidia $2 billion investment announcement",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": "Ashley Capoot",
+      "num_tokens": 491,
+      "text_length": 2450
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694936",
+      "spike_id": 4,
+      "market_question": "Will Nebius Group be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.16,
+      "spike_timestamp_before": "2026-03-13T14:00:26+00:00",
+      "spike_timestamp_after": "2026-03-14T14:00:26+00:00"
+    }
+  ]
+}

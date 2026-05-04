@@ -1,0 +1,27 @@
+{
+  "hash": "a85171312358",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://reuters.com/business/aerospace-defense/trump-iranian-missile-claim-unsupported-by-us-intelligence-say-sources-2026-02-27/",
+      "title": "Trump Iranian missile claim unsupported by U.S. intelligence, say sources | Reuters",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": "Jonathan Landay",
+      "num_tokens": 1148,
+      "text_length": 5708
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1273938",
+      "spike_id": 2,
+      "market_question": "Will the US not strike Iran by February 28, 2026?",
+      "event_title": "US next strikes Iran on...?",
+      "spike_direction": "down",
+      "spike_delta": -0.9345000000000001,
+      "spike_timestamp_before": "2026-02-27T08:30:33+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:12+00:00"
+    }
+  ]
+}

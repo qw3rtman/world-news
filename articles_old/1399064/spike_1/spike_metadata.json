@@ -1,0 +1,65 @@
+{
+  "spike_index": 1,
+  "direction": "up",
+  "price_before": 0.095,
+  "price_after": 0.37,
+  "delta": 0.275,
+  "abs_delta": 0.275,
+  "timestamp_before": "2026-02-27T07:00:27+00:00",
+  "timestamp_after": "2026-02-27T14:30:29+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.usatoday.com/picture-gallery/news/world/2026/02/28/iran-us-israel-military-attack-airstrkes-photos/88914826007/",
+      "file": "cf60e016846d.txt",
+      "title": "US, Israel launch strikes on Iran. Latest photos of the attack.",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 5881,
+      "status": "ok",
+      "num_tokens": 1265
+    },
+    {
+      "url": "http://quote.bloomberg.com/news/articles/2026-03-02/trump-says-military-campaign-in-iran-will-do-whatever-it-takes?srnd=homepage-asia",
+      "file": "d6c67bb98d74.txt",
+      "title": "Bloomberg - Business News, Stock Markets, Finance, Breaking & World News",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": null,
+      "text_length": 1207,
+      "status": "ok",
+      "num_tokens": 267
+    },
+    {
+      "url": "https://www.pbs.org/newshour/politics/fact-checking-statements-made-by-trump-to-justify-u-s-strikes-on-iran",
+      "file": "f376a401f6ce.txt",
+      "title": "Fact-checking statements made by Trump to justify U.S. strikes on Iran | PBS News",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 5872,
+      "status": "ok",
+      "num_tokens": 1140
+    },
+    {
+      "url": "http://www.cnn.com/2026/02/27/politics/iran-missiles-trump-intelligence-nuclear",
+      "file": "e3142ed4877a.txt",
+      "title": "Trump has claimed Iran is building missiles that could soon hit the US. Sources say that\u2019s not backed up by US intelligence. | CNN Politics",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": "Jennifer Hansler, Natasha Bertrand, Kylie Atwood, Zachary Cohen",
+      "text_length": 5140,
+      "status": "ok",
+      "num_tokens": 1023
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk",
+      "file": "e806f1e304ec.txt",
+      "title": "Why the US and Israel attacked Iran; what we know so far | CNN",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Christian Edwards, Karina Tsui, Mitchell McCluskey",
+      "text_length": 11584,
+      "status": "ok",
+      "num_tokens": 2426
+    }
+  ],
+  "total_tokens": 6121
+}

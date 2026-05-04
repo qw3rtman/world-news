@@ -1,0 +1,65 @@
+{
+  "spike_index": 12,
+  "direction": "up",
+  "price_before": 0.475,
+  "price_after": 0.655,
+  "delta": 0.18000000000000005,
+  "abs_delta": 0.18000000000000005,
+  "timestamp_before": "2026-03-06T17:30:42+00:00",
+  "timestamp_after": "2026-03-06T20:30:32+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://apnews.com/article/iran-israel-us-march-6-2026-6108249f19c4bc162eacd7847976c174",
+      "file": "ab9c10786f7b.txt",
+      "title": "Explosions rock Iran's capital, and more attacks target Israel | AP News",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": null,
+      "text_length": 7166,
+      "status": "ok",
+      "num_tokens": 1445
+    },
+    {
+      "url": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-05-26?post-id=cmmdap1w600003b6s5xfcj2op",
+      "file": "d3d33423ea5d.txt",
+      "title": "Day 6 of Middle East conflict \u2014 countries intercepting Iranian strikes, US ramps up campaign | CNN",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Helen Regan, Paula Newton, Michael Rios, Aditi Sangal, Austin Culpepper, Nina Giraldo, Tamar Michaelis, Vasco Cotovio, Clarissa Ward, Nechirvan Mando, Mitchell McCluskey, Sharon Braithwaite, Max Saltman, Haley Britzky, Tori B. Powell, Maureen Chowdhury, Oren Liebermann, Samantha Waldenberg, Piper Hudspeth Blackburn, Adam Cancryn, Sarah Ferris, Annie Grayer, Matt Egan, John Towfighi, Thomas Bordeaux, Gianluca Mezzofiore, Lauren Kent, Sophie Tanno, Joseph Ataman, Alex  Leeds Matthews, Soph Warnes, Rosa de Acosta, Rhyannon Bartlett-Imadegawa, Lou Robinson, Ren\u00e9e Rigdon, Yahya Salem, Jennifer Hansler, Zachary Cohen, Eyad Kourdi, Charbel Mallo, Nina Subkhanberdina, Sana Noor Haq, Alejandra Jaramillo, Zeena Saifi, Avery Schmitz, Mostafa Salem, Rebekah Riess, Charlotte Reck, Tala Alrajjal, Billy Stockwell, Kaanita Iyer, Logan Schiciano, Brian Stelter, Barbie Latza Nadeau, Chris Isidore, Leila Gharagozlou, Olesya Dmitracova, Eugenia Yosef, Jessie Yeung, Todd Symons, Antoinette Radford, Rhea Mogul, Laura Sharman, Yoonjung Seo, Karina Tsui, Will Ripley, Kareem El Damanhoury, Frederik Pleitgen, Ivan Watson, Yumi Asada, Katherine Dautrich",
+      "text_length": 21840,
+      "status": "ok",
+      "num_tokens": 4326
+    },
+    {
+      "url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-05-26",
+      "file": "8ed698cf7e8f.txt",
+      "title": "Day 6 of Middle East conflict \u2014 countries intercepting Iranian strikes, US ramps up campaign | CNN",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Helen Regan, Paula Newton, Michael Rios, Aditi Sangal, Austin Culpepper, Nina Giraldo, Tamar Michaelis, Vasco Cotovio, Clarissa Ward, Nechirvan Mando, Mitchell McCluskey, Sharon Braithwaite, Max Saltman, Haley Britzky, Tori B. Powell, Maureen Chowdhury, Oren Liebermann, Samantha Waldenberg, Piper Hudspeth Blackburn, Adam Cancryn, Sarah Ferris, Annie Grayer, Matt Egan, John Towfighi, Thomas Bordeaux, Gianluca Mezzofiore, Lauren Kent, Sophie Tanno, Joseph Ataman, Alex  Leeds Matthews, Soph Warnes, Rosa de Acosta, Rhyannon Bartlett-Imadegawa, Lou Robinson, Ren\u00e9e Rigdon, Yahya Salem, Jennifer Hansler, Zachary Cohen, Eyad Kourdi, Charbel Mallo, Nina Subkhanberdina, Sana Noor Haq, Alejandra Jaramillo, Zeena Saifi, Avery Schmitz, Mostafa Salem, Rebekah Riess, Charlotte Reck, Tala Alrajjal, Billy Stockwell, Kaanita Iyer, Logan Schiciano, Brian Stelter, Barbie Latza Nadeau, Chris Isidore, Leila Gharagozlou, Olesya Dmitracova, Eugenia Yosef, Jessie Yeung, Todd Symons, Antoinette Radford, Rhea Mogul, Laura Sharman, Yoonjung Seo, Karina Tsui, Will Ripley, Kareem El Damanhoury, Frederik Pleitgen, Ivan Watson, Yumi Asada, Katherine Dautrich",
+      "text_length": 27614,
+      "status": "ok",
+      "num_tokens": 6312
+    },
+    {
+      "url": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-06-26?post-id=cmmet1djg00003b6t54zykl8b",
+      "file": "a0826c9587a7.txt",
+      "title": "Day 7 of Middle East conflict \u2014 Trump says no deal with Iran until \u2018unconditional surrender\u2019 | CNN",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Aleena Fayaz, John Liu, Jessie Yeung, Laura Sharman, Tori B. Powell, Betsy Klein, Vasco Cotovio, Clarissa Ward, Eyad Kourdi, Ross Adkin, Mitchell McCluskey, Yong Xiong, Samantha Waldenberg, Katie Polglase, Allegra Goodwin, Pallabi Munsi, Yahya Salem, Pierre P Bairin, Lauren Kent, Max Saltman, Nechirvan Mando, German Padinger, Aditi Sangal, Dana Karni, Kareem El Damanhoury, Kevin Liptak, Jennifer Hansler, Sharon Braithwaite, Matt Egan, Phil Mattingly, Devan Cole, Sarah El Sirgany, Thomas Bordeaux, Gianluca Mezzofiore, Tamara Qiblawi, Natasha Bertrand, Jim Sciutto, Zachary Cohen, Charlotte Reck, Evan John, CNN Staff, Sophie Tanno, Chris Isidore, Frederik Pleitgen, Dana Bash, Leila Gharagozlou, Rebekah Riess, Issy Ronald, Patrick Sung Cuadrado, Donald Judd, Jill Martin, Stephanie Halasz, Tal Shalev, Oren Liebermann, Antoinette Radford, Abbas Al Lawati, Adam Pourahmadi, Nic Robertson, Karla Cripps, Matthew Rehbein, Anna Chernova, Christian Edwards, Angus Watson, Martin Goillandeau, Helen Regan, Katherine Dautrich, Mike Valerio, Ivan Watson",
+      "text_length": 17785,
+      "status": "ok",
+      "num_tokens": 3583
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/06/trump-iran-war-china-trade-tariffs.html",
+      "file": "09524e02dbb8.txt",
+      "title": "How Iran and Venezuela strikes transform the Trump-Xi trade talks",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Kevin Breuninger,Sam Meredith,Evelyn Cheng",
+      "text_length": 5973,
+      "status": "ok",
+      "num_tokens": 1204
+    }
+  ],
+  "total_tokens": 16870
+}

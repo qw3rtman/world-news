@@ -1,0 +1,102 @@
+[
+  {
+    "q": "What specific news content was available for extraction in the Bloomberg Europe article published on February 26, 2026?",
+    "a": "No full news article was present; the content was incomplete."
+  },
+  {
+    "q": "What instruction was given regarding the text provided for the Bloomberg Europe article dated February 26, 2026?",
+    "a": "Ensure a complete news article is included in the raw text for extraction."
+  },
+  {
+    "q": "What was the publication date of the Bloomberg Europe piece that failed to contain a full news article?",
+    "a": "February 26, 2026."
+  },
+  {
+    "q": "Why was the requested content for the February 26, 2026 Bloomberg Europe article considered insufficient?",
+    "a": "The requested content appeared to be incomplete and no full news article was present."
+  },
+  {
+    "q": "What entity was responsible for the incomplete content notification in the February 26, 2026 publication?",
+    "a": "Bloomberg Europe."
+  },
+  {
+    "q": "What action was required to resolve the issue with the February 26, 2026 Bloomberg Europe text?",
+    "a": "A complete news article needed to be included in the raw text."
+  },
+  {
+    "q": "Did the February 26, 2026 Bloomberg Europe article contain any extractable news facts?",
+    "a": "No, no full news article was present."
+  },
+  {
+    "q": "What was the status of the news article text provided for the February 26, 2026 Bloomberg Europe entry?",
+    "a": "It appeared to be incomplete."
+  },
+  {
+    "q": "What specific date is associated with the Bloomberg Europe entry that lacked a full article?",
+    "a": "February 26, 2026."
+  },
+  {
+    "q": "What was the primary deficiency in the text submitted for the February 26, 2026 Bloomberg Europe article?",
+    "a": "The absence of a full news article."
+  },
+  {
+    "q": "What condition must be met for the February 26, 2026 Bloomberg Europe content to be extractable?",
+    "a": "A complete news article must be included in the raw text."
+  },
+  {
+    "q": "What publication reported that its February 26, 2026 content was incomplete?",
+    "a": "Bloomberg Europe."
+  },
+  {
+    "q": "What was the outcome of attempting to extract content from the February 26, 2026 Bloomberg Europe article?",
+    "a": "The extraction failed because no full news article was present."
+  },
+  {
+    "q": "What type of document was missing from the February 26, 2026 Bloomberg Europe submission?",
+    "a": "A complete news article."
+  },
+  {
+    "q": "What instruction accompanied the notification about the incomplete February 26, 2026 Bloomberg Europe content?",
+    "a": "To ensure a complete news article is included in the raw text for extraction."
+  },
+  {
+    "q": "Was there any news data available for the February 26, 2026 Bloomberg Europe article?",
+    "a": "No, the content was incomplete and no full article was present."
+  },
+  {
+    "q": "What was the title of the publication that reported an incomplete article on February 26, 2026?",
+    "a": "Bloomberg Europe."
+  },
+  {
+    "q": "What was the reason provided for the lack of extractable content in the February 26, 2026 Bloomberg Europe entry?",
+    "a": "The requested content appeared to be incomplete."
+  },
+  {
+    "q": "What specific action was suggested to fix the issue with the February 26, 2026 Bloomberg Europe text?",
+    "a": "Include a complete news article in the raw text."
+  },
+  {
+    "q": "What was the publication status of the Bloomberg Europe article on February 26, 2026?",
+    "a": "It was published but contained no full news article."
+  },
+  {
+    "q": "What was the nature of the error reported for the February 26, 2026 Bloomberg Europe article?",
+    "a": "The content was incomplete and lacked a full news article."
+  },
+  {
+    "q": "What date is linked to the Bloomberg Europe notification regarding missing article content?",
+    "a": "February 26, 2026."
+  },
+  {
+    "q": "What was the required input for successful extraction from the February 26, 2026 Bloomberg Europe source?",
+    "a": "A complete news article in the raw text."
+  },
+  {
+    "q": "What was the final state of the text provided for the February 26, 2026 Bloomberg Europe article?",
+    "a": "It was incomplete with no full news article present."
+  },
+  {
+    "q": "What publication name is associated with the incomplete content notification on February 26, 2026?",
+    "a": "Bloomberg Europe."
+  }
+]

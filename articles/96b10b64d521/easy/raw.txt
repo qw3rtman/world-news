@@ -1,0 +1,102 @@
+[
+  {
+    "q": "According to the Institute for the Study of War (ISW), what percentage of Ukraine’s territory was held by Russia by March 2022, following the full-scale invasion that began on February 24, 2022?",
+    "a": "27 per cent."
+  },
+  {
+    "q": "What was the daily advance rate of Russian offensives between 2024 and early 2026, as reported by the Center for Strategic and International Studies (CSIS)?",
+    "a": "Between 15 and 70 metres per day."
+  },
+  {
+    "q": "How many Ukrainian civilians were killed by Russian activity between February 2022 and early 2026, according to the UN Human Rights Office?",
+    "a": "More than 15,000."
+  },
+  {
+    "q": "In which month of 2022 did more than 4,300 Ukrainian civilians die, marking the deadliest single month of the war?",
+    "a": "March 2022."
+  },
+  {
+    "q": "What specific deadline for a peace deal did U.S. President Donald Trump set for Russia in July 2025, threatening tough new sanctions if missed?",
+    "a": "Ten or 12 days."
+  },
+  {
+    "q": "What number of military personnel killed did Ukrainian President Volodymyr Zelensky officially disclose in early 2026?",
+    "a": "55,000."
+  },
+  {
+    "q": "What range of total casualties (including killed, wounded, and missing) did the Center for Strategic and International Studies (CSIS) estimate for Ukraine as of December 2025?",
+    "a": "Between 500,000 and 600,000."
+  },
+  {
+    "q": "What total number of casualties did the Center for Strategic and International Studies (CSIS) suggest for Russia, including deaths?",
+    "a": "About 1.2 million."
+  },
+  {
+    "q": "According to recent estimates by BBC News Russian and Mediazona, how many Russian military personnel had been killed by early 2026?",
+    "a": "177,000."
+  },
+  {
+    "q": "What was the combined number of recruited personnel and casualties in Russia last year (2025), according to Kremlin figures?",
+    "a": "415,000 casualties and 406,000 recruits."
+  },
+  {
+    "q": "According to Latvia’s Constitution Protection Bureau intelligence service, what percentage of injuries or deaths in the war are now caused by drones?",
+    "a": "Up to 80 per cent."
+  },
+  {
+    "q": "How many civilians in the Kherson region were hit by drone strikes between January 2024 and early 2026, according to the collective project Tochnyi?",
+    "a": "Some 5,300."
+  },
+  {
+    "q": "How many Russian attacks on Ukraine’s energy infrastructure occurred in 2025, according to the Armed Conflict Location and Event Data?",
+    "a": "978."
+  },
+  {
+    "q": "To what level did Ukraine’s electricity imports surge in January 2026 following Russian strikes, the highest since the new electricity market launched in July 2019?",
+    "a": "Nearly 900 GWh."
+  },
+  {
+    "q": "How many people remained outside Ukraine as refugees four years after the invasion began in February 2022, according to the UN Refugee Agency?",
+    "a": "5.9 million."
+  },
+  {
+    "q": "How many internally displaced persons were recorded in Ukraine as of early 2026?",
+    "a": "3.7 million."
+  },
+  {
+    "q": "Which European country had taken in more than 1.3 million Ukrainian refugees as of December 2025?",
+    "a": "Germany."
+  },
+  {
+    "q": "What percentage of Ukrainian refugees said they were planning or hoping to return home in the UNHCR survey conducted between July and August 2024?",
+    "a": "61 per cent."
+  },
+  {
+    "q": "What was Ukraine’s inflation rate in January 2026, after peaking at 26.6 per cent in October 2022?",
+    "a": "7.4 per cent."
+  },
+  {
+    "q": "By what percentage did output per person in Russia rise from 2022 to 2025, according to the article?",
+    "a": "20 per cent."
+  },
+  {
+    "q": "What was the total amount of international bilateral aid sent to Ukraine by December 2025, according to the Kiel Institute for the World Economy?",
+    "a": "€343 billion (£300 billion)."
+  },
+  {
+    "q": "How much of the total aid to Ukraine by December 2025 was military aid, according to the Kiel Institute for the World Economy?",
+    "a": "€162 billion (£141 billion)."
+  },
+  {
+    "q": "By what percentage did military support from Europe rise in 2025 compared to the 2022-24 average?",
+    "a": "67 per cent."
+  },
+  {
+    "q": "What percentage of Ukraine’s financing needs was covered by aid disbursed in 2025, according to the Centre for Economic Strategy?",
+    "a": "56 per cent."
+  },
+  {
+    "q": "How much of the €90 billion support loan package approved by the European Parliament in early 2026 is dedicated to strengthening Ukraine’s defence?",
+    "a": "€60 billion (£52.4 billion)."
+  }
+]

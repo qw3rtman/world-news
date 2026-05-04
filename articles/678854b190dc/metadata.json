@@ -1,0 +1,27 @@
+{
+  "hash": "678854b190dc",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://apnews.com/article/iran-us-nuclear-war-options-what-to-know-93db52cd853724dfc5f52d0185f27c18",
+      "title": "Iran has options if America attacks | AP News",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1442,
+      "text_length": 7179
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1422367",
+      "spike_id": 5,
+      "market_question": "Will the US strike Iran next?",
+      "event_title": "Next Country US Strikes",
+      "spike_direction": "up",
+      "spike_delta": 0.39499999999999996,
+      "spike_timestamp_before": "2026-02-26T18:30:24+00:00",
+      "spike_timestamp_after": "2026-02-27T15:00:29+00:00"
+    }
+  ]
+}

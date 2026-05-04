@@ -1,0 +1,65 @@
+{
+  "spike_index": 1,
+  "direction": "down",
+  "price_before": 0.925,
+  "price_after": 0.765,
+  "delta": -0.16000000000000003,
+  "abs_delta": 0.16000000000000003,
+  "timestamp_before": "2026-02-28T03:30:31+00:00",
+  "timestamp_after": "2026-03-01T03:00:37+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2026/03/02/khameneis-death-trump-china-visit-uncertainty-iran-strikes-trade-truce.html",
+      "file": "a9507acc7a21.txt",
+      "title": "Khamenei's death raises questions about Trump's China trip",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Evelyn Cheng",
+      "text_length": 6052,
+      "status": "ok",
+      "num_tokens": 1245
+    },
+    {
+      "url": "https://www.reuters.com/world/china/attack-iran-could-buoy-trump-talks-with-chinas-xi-2026-03-03/",
+      "file": "7c564988add5.txt",
+      "title": "Attack on Iran could buoy Trump in talks with China's Xi | Reuters",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Michael Martina",
+      "text_length": 5579,
+      "status": "ok",
+      "num_tokens": 1171
+    },
+    {
+      "url": "https://straitstimes.com/world/united-states/trumps-trip-to-beijing-could-be-cancelled-says-analyst",
+      "file": "a099e865d9a9.txt",
+      "title": "Trump\u2019s trip to Beijing could be cancelled after US-Israel strikes on Iran: Analyst | The Straits Times",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 2971,
+      "status": "ok",
+      "num_tokens": 609
+    },
+    {
+      "url": "https://www.reuters.com/world/china/trump-reins-china-tech-curbs-beijings-export-controls-come-age-2026-02-26/",
+      "file": "08e77ee5e014.txt",
+      "title": "As Trump reins in China tech curbs, Beijing's export controls come of age | Reuters",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": "Eduardo Baptista",
+      "text_length": 7326,
+      "status": "ok",
+      "num_tokens": 1393
+    },
+    {
+      "url": "https://www.scmp.com/news/china/article/3344769/trump-xi-summit-preparations-falter-planning-gaps-unsettle-beijing",
+      "file": "132143bf815f.txt",
+      "title": "Trump-Xi summit preparations falter as planning gaps unsettle Beijing | South China Morning Post",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": null,
+      "text_length": 1864,
+      "status": "ok",
+      "num_tokens": 383
+    }
+  ],
+  "total_tokens": 4801
+}

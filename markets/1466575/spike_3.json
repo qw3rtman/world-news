@@ -1,0 +1,65 @@
+{
+  "spike_index": 3,
+  "direction": "down",
+  "price_before": 0.83,
+  "price_after": 0.665,
+  "delta": -0.16499999999999992,
+  "abs_delta": 0.16499999999999992,
+  "timestamp_before": "2026-02-28T22:00:37+00:00",
+  "timestamp_after": "2026-03-01T07:00:29+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.reuters.com/world/middle-east/trump-says-combat-operations-iran-will-continue-until-all-objectives-achieved-2026-03-01/",
+      "file": "39747d089a33.txt",
+      "title": "Trump says combat operations in Iran will continue until all objectives achieved | Reuters",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 517,
+      "status": "ok",
+      "num_tokens": 99
+    },
+    {
+      "url": "https://www.cbsnews.com/video/trump-says-war-with-iran-will-continue-until-all-objectives-are-achieved/",
+      "file": "7b56e9d5f227.txt",
+      "title": "Trump says war with Iran will continue until all \"objectives are achieved\" - CBS News",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 214,
+      "status": "ok",
+      "num_tokens": 41
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/01/us-iran-live-updates-khamenei-death-trump-gulf-strikes.html",
+      "file": "48dcf16fbe83.txt",
+      "title": "Trump vows to 'avenge' the deaths of U.S. service members",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Garrett Downs,Greg Iacurci,Azhar Sukri,Spriha Srivastava,Emma Graham,Lee Ying Shan,Anniek Bao",
+      "text_length": 5913,
+      "status": "ok",
+      "num_tokens": 1238
+    },
+    {
+      "url": "https://www.reuters.com/world/middle-east/us-is-sinking-irans-navy-trump-says-2026-03-01/",
+      "file": "3849fd572ae9.txt",
+      "title": "US is sinking Iran's Navy, Trump says | Reuters",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Phil Stewart",
+      "text_length": 1014,
+      "status": "ok",
+      "num_tokens": 213
+    },
+    {
+      "url": "http://www.pbs.org/newshour/world/read-trumps-full-statement-on-iran-attack",
+      "file": "1c1d4563cbb8.txt",
+      "title": "Read Trump's full statement on Iran attacks | PBS News",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 6468,
+      "status": "ok",
+      "num_tokens": 1328
+    }
+  ],
+  "total_tokens": 2919
+}

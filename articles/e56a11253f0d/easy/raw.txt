@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2026, Medtronic Inc announced the acquisition of which U.S.-based medical device company, and what was the total value of that transaction?",
+    "a": "Medtronic Inc announced the acquisition of Scientia Vascular in a deal valued at $550 million."
+  },
+  {
+    "q": "What specific category of medical products does Medtronic Inc plan to expand through its March 2026 acquisition of Scientia Vascular?",
+    "a": "The acquisition expands Medtronic's lineup of products used in stroke care."
+  },
+  {
+    "q": "Where is Scientia Vascular headquartered, and approximately how many employees did the company have at the time of its March 2026 acquisition by Medtronic Inc?",
+    "a": "Scientia Vascular is based in Salt Lake City and had about 310 employees."
+  },
+  {
+    "q": "What specific medical devices does Scientia Vascular manufacture, and what is their primary clinical application?",
+    "a": "Scientia Vascular makes guidewires and catheters used to navigate blood vessels in the brain."
+  },
+  {
+    "q": "How did Medtronic Inc describe the integration of Scientia Vascular's products into its existing portfolio in March 2026?",
+    "a": "Medtronic stated that the guidewires and catheters can be seamlessly integrated into its existing suite of neurovascular products."
+  },
+  {
+    "q": "According to Linnea Burman, senior vice president and president of Medtronic's Neurovascular business, which two types of stroke procedures does the March 2026 acquisition support?",
+    "a": "The deal supports procedures across both hemorrhagic and acute ischemic stroke."
+  },
+  {
+    "q": "During which fiscal period did Medtronic Inc expect the acquisition of Scientia Vascular to close, as stated in March 2026?",
+    "a": "Medtronic expected the deal to close in the first half of fiscal 2027."
+  },
+  {
+    "q": "What was the reaction of Leerink Partners analysts to Medtronic Inc's March 2026 acquisition of Scientia Vascular?",
+    "a": "Leerink Partners analysts said the deal supports Medtronic's broader plan to lift growth through acquisitions and reflects confidence in Scientia's underlying technology."
+  },
+  {
+    "q": "How did Evercore ISI characterize Medtronic Inc's March 2026 acquisition of Scientia Vascular in relation to its existing products?",
+    "a": "Evercore ISI said the acquisition is a well-fitting tuck-in that strengthens Medtronic's stroke portfolio and aligns with its existing neurovascular devices."
+  },
+  {
+    "q": "What financial impact did Medtronic Inc project for its adjusted earnings in 2027 and thereafter resulting from the March 2026 acquisition of Scientia Vascular?",
+    "a": "Medtronic expected the deal to be minimally dilutive to its adjusted earnings in 2027 and accretive thereafter."
+  },
+  {
+    "q": "Did Medtronic Inc disclose specific details regarding potential earn-out or milestone payments associated with the March 2026 acquisition of Scientia Vascular?",
+    "a": "Medtronic added that there could be potential earn-out and milestone payments post-acquisition but did not disclose any further details on the same."
+  },
+  {
+    "q": "How did Medtronic Inc's share price perform in early trading following the announcement of the March 2026 acquisition of Scientia Vascular?",
+    "a": "Shares of Medtronic Inc were down more than 1% in early trading."
+  },
+  {
+    "q": "Which two financial institutions provided analyst commentary on Medtronic Inc's March 2026 acquisition of Scientia Vascular?",
+    "a": "Leerink Partners and Evercore ISI provided analyst commentary on the deal."
+  },
+  {
+    "q": "What is the primary function of the guidewires and catheters produced by Scientia Vascular, which Medtronic Inc acquired in March 2026?",
+    "a": "They are used to navigate blood vessels in the brain."
+  },
+  {
+    "q": "Who is the senior vice president and president of Medtronic's Neurovascular business who commented on the strategic fit of the March 2026 acquisition of Scientia Vascular?",
+    "a": "Linnea Burman is the senior vice president and president of Medtronic's Neurovascular business."
+  },
+  {
+    "q": "In what year did Medtronic Inc announce the $550 million acquisition of Scientia Vascular, and on which day of the week did the announcement occur?",
+    "a": "Medtronic Inc announced the acquisition on Tuesday, March 10, 2026."
+  },
+  {
+    "q": "What specific business unit within Medtronic Inc is responsible for the neurovascular products that will be integrated with Scientia Vascular's technology?",
+    "a": "Medtronic's Neurovascular business unit is responsible for the relevant products."
+  },
+  {
+    "q": "According to the March 2026 announcement, how does the acquisition of Scientia Vascular position Medtronic Inc regarding its stroke care offerings?",
+    "a": "The deal positions Medtronic with a full suite of products for stroke care."
+  },
+  {
+    "q": "What did Leerink Partners analysts say about Medtronic Inc's strategy regarding acquisitions in the context of the March 2026 Scientia Vascular deal?",
+    "a": "They said the deal reflects Medtronic's broader plan to lift growth through acquisitions."
+  },
+  {
+    "q": "What type of financial statement impact did Medtronic Inc anticipate for the year 2027 from the acquisition of Scientia Vascular?",
+    "a": "Medtronic anticipated the deal would be minimally dilutive to its adjusted earnings in 2027."
+  },
+  {
+    "q": "Beyond the $550 million base price, what additional financial mechanisms did Medtronic Inc mention might apply to the March 2026 acquisition of Scientia Vascular?",
+    "a": "Medtronic mentioned potential earn-out and milestone payments post-acquisition."
+  },
+  {
+    "q": "Which specific anatomical area do the medical devices manufactured by Scientia Vascular target, as described in the March 2026 acquisition announcement?",
+    "a": "The devices target blood vessels in the brain."
+  },
+  {
+    "q": "How did Evercore ISI describe the strategic alignment of the March 2026 acquisition of Scientia Vascular with Medtronic's current product lines?",
+    "a": "Evercore ISI described it as aligning with Medtronic's existing neurovascular devices."
+  },
+  {
+    "q": "What is the expected timeline for the closing of the Medtronic Inc acquisition of Scientia Vascular, relative to the company's fiscal calendar?",
+    "a": "The deal is expected to close in the first half of fiscal 2027."
+  },
+  {
+    "q": "What was the immediate market reaction to Medtronic Inc's March 10, 2026 announcement regarding the purchase of Scientia Vascular?",
+    "a": "Medtronic Inc's shares were down more than 1% in early trading."
+  }
+]

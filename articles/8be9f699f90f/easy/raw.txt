@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In early March 2026, which Iranian military organization claimed to maintain full control of the Strait of Hormuz, and what was the name of the IRGC Navy official who issued the statement?",
+    "a": "The Islamic Revolutionary Guard Corps (IRGC); Mohammad Akbarzadeh."
+  },
+  {
+    "q": "During the week of March 2, 2026, what was the name of the oil tanker that sailed through the Strait of Hormuz to a United Arab Emirates port, and what tracking technology did it disable upon approach?",
+    "a": "The tanker was named Pola; it switched off its AIS (Automatic Identification System) tracker."
+  },
+  {
+    "q": "As of March 2026, what percentage of global oil shipments typically passes through the Strait of Hormuz, and what was the price of Brent crude per barrel at that time?",
+    "a": "About one-fifth (20%) of the world’s oil; more than $82 a barrel."
+  },
+  {
+    "q": "According to Clarksons Research data reported in March 2026, how many ships were estimated to be idle in the Gulf, and how many of those were likely operating only within the Gulf?",
+    "a": "About 3,200 ships were idle; approximately 1,230 of those likely operate only within the Gulf."
+  },
+  {
+    "q": "In March 2026, how many ships were reported by Clarksons Research to be waiting outside the Gulf in ports off the coasts of the UAE and Oman, and what percentage of global tonnage did this represent?",
+    "a": "About 500 ships; 1 percent of global tonnage."
+  },
+  {
+    "q": "What was the percentage increase in Brent crude prices since the start of the conflict in early March 2026, and when was the last time prices were at this level?",
+    "a": "Prices rose more than 13 percent; the highest level since July 2024."
+  },
+  {
+    "q": "On Tuesday, March 3, 2026, what did United States President Donald Trump post on Truth Social regarding the US Navy's role in the Strait of Hormuz?",
+    "a": "He stated the US Navy would begin escorting tankers through the Strait of Hormuz \"as soon as possible.\""
+  },
+  {
+    "q": "In a March 2026 press release, which country asked Saudi Arabia to route oil supplies through the Red Sea port of Yanbu due to the Strait of Hormuz closure?",
+    "a": "Pakistan."
+  },
+  {
+    "q": "Who is the Petroleum Minister of Pakistan who stated in March 2026 that most of the country’s energy imports transit through the Strait of Hormuz?",
+    "a": "Ali Pervaiz Malik."
+  },
+  {
+    "q": "According to Al Jazeera reporter Tohid Asadi reporting from Tehran in March 2026, how many oil tankers did the IRGC state had been targeted?",
+    "a": "More than 10 oil tankers."
+  },
+  {
+    "q": "What specific claim did the IRGC make to Al Jazeera reporter Tohid Asadi in Tehran in March 2026 regarding the passage of ships through the Strait of Hormuz?",
+    "a": "The IRGC stated it was \"impossible for any ships to pass through.\""
+  },
+  {
+    "q": "Which two nations were involved in the conflict described in March 2026 that disrupted global supply chains by closing the Strait of Hormuz and Middle East airspace?",
+    "a": "The United States and Iran (described as a US-Israeli war on Iran)."
+  },
+  {
+    "q": "In March 2026, which news agency reported that the oil tanker Pola reappeared off Abu Dhabi after switching off its tracker?",
+    "a": "Reuters."
+  },
+  {
+    "q": "Which news agency reported the Clarksons Research estimates regarding idle ships in the Gulf in March 2026?",
+    "a": "The Associated Press."
+  },
+  {
+    "q": "What quote did United States President Donald Trump use in his March 2026 Truth Social post to describe the United States' economic and military capability?",
+    "a": "\"The United States’ ECONOMIC and MILITARY MIGHT is the GREATEST ON EARTH.\""
+  },
+  {
+    "q": "Which port on the Red Sea did Saudi Arabia assure Pakistan it could use for energy supplies in March 2026?",
+    "a": "The Port of Yanbu."
+  },
+  {
+    "q": "How many vessels had been arranged by Saudi sources to sail to the Port of Yanbu to lift crude for Pakistan as of the March 2026 press release?",
+    "a": "One vessel."
+  },
+  {
+    "q": "Which Iranian navy official's statement about the Strait of Hormuz was carried by Iran’s Fars news agency in March 2026?",
+    "a": "Mohammad Akbarzadeh."
+  },
+  {
+    "q": "In March 2026, which two countries' airspace and shipping lanes were disrupted by the conflict, grounding planes and closing the Strait of Hormuz?",
+    "a": "The Middle East region generally, specifically affecting shipping in the Strait of Hormuz and airspace in the Middle East."
+  },
+  {
+    "q": "What was the approximate number of ships idle in the Gulf as of March 2026, according to Clarksons Research, and what was their share of global ship tonnage?",
+    "a": "About 3,200 ships; about 4 percent of global ship tonnage."
+  },
+  {
+    "q": "Which United States President threatened to deploy the navy to escort tankers in the Strait of Hormuz in March 2026?",
+    "a": "Donald Trump."
+  },
+  {
+    "q": "In March 2026, which organization stated it was \"impossible for any ships to pass through\" the Strait of Hormuz?",
+    "a": "The Islamic Revolutionary Guard Corps (IRGC)."
+  },
+  {
+    "q": "Which ministry in Pakistan issued a press release in March 2026 regarding the request to route oil through the Port of Yanbu?",
+    "a": "The Ministry of Energy of Pakistan."
+  },
+  {
+    "q": "What was the date of the Al Jazeera article reporting on the IRGC's control of the Strait of Hormuz and Trump's threats?",
+    "a": "March 4, 2026."
+  },
+  {
+    "q": "Which news agency reported that the tanker Pola approached the strait late on Monday and reappeared off Abu Dhabi on Tuesday in March 2026?",
+    "a": "Reuters."
+  }
+]

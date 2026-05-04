@@ -1,0 +1,107 @@
+{
+  "hash": "c8c3527f67c2",
+  "n_appearances": 9,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.dw.com/en/will-iran-conflict-send-oil-prices-above-100-a-barrel/a-76176495",
+      "title": "Will Iran war send oil prices above $100 a barrel?",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1444,
+      "text_length": 7070
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1467763",
+      "spike_id": 2,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $120 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.425,
+      "spike_timestamp_before": "2026-02-28T19:30:32+00:00",
+      "spike_timestamp_after": "2026-03-01T01:30:32+00:00"
+    },
+    {
+      "market_id": "1467763",
+      "spike_id": 3,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $120 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.185,
+      "spike_timestamp_before": "2026-03-01T01:30:32+00:00",
+      "spike_timestamp_after": "2026-03-01T15:00:40+00:00"
+    },
+    {
+      "market_id": "1467765",
+      "spike_id": 2,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $110 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.23000000000000004,
+      "spike_timestamp_before": "2026-02-28T21:30:57+00:00",
+      "spike_timestamp_after": "2026-03-01T15:30:41+00:00"
+    },
+    {
+      "market_id": "1467766",
+      "spike_id": 2,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $100 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.285,
+      "spike_timestamp_before": "2026-02-28T22:00:32+00:00",
+      "spike_timestamp_after": "2026-03-01T15:00:33+00:00"
+    },
+    {
+      "market_id": "1467771",
+      "spike_id": 1,
+      "market_question": "Will Crude Oil (CL) hit (LOW) $65 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.15999999999999998,
+      "spike_timestamp_before": "2026-03-01T01:00:38+00:00",
+      "spike_timestamp_after": "2026-03-01T02:30:33+00:00"
+    },
+    {
+      "market_id": "1467771",
+      "spike_id": 2,
+      "market_question": "Will Crude Oil (CL) hit (LOW) $65 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.20499999999999996,
+      "spike_timestamp_before": "2026-03-01T02:30:33+00:00",
+      "spike_timestamp_after": "2026-03-01T11:30:49+00:00"
+    },
+    {
+      "market_id": "1467771",
+      "spike_id": 3,
+      "market_question": "Will Crude Oil (CL) hit (LOW) $65 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.22999999999999998,
+      "spike_timestamp_before": "2026-03-01T02:30:33+00:00",
+      "spike_timestamp_after": "2026-03-01T14:30:45+00:00"
+    },
+    {
+      "market_id": "1467771",
+      "spike_id": 4,
+      "market_question": "Will Crude Oil (CL) hit (LOW) $65 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.39,
+      "spike_timestamp_before": "2026-03-01T02:30:33+00:00",
+      "spike_timestamp_after": "2026-03-01T19:00:33+00:00"
+    },
+    {
+      "market_id": "1467771",
+      "spike_id": 5,
+      "market_question": "Will Crude Oil (CL) hit (LOW) $65 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.43499999999999994,
+      "spike_timestamp_before": "2026-03-01T02:30:33+00:00",
+      "spike_timestamp_after": "2026-03-01T23:00:33+00:00"
+    }
+  ]
+}

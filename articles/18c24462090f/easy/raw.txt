@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On what date is the June 3 local election in South Korea scheduled to take place, marking the 100-day countdown mentioned in the February 22, 2026 report?",
+    "a": "June 3, 2026."
+  },
+  {
+    "q": "Which South Korean political party is described as the ruling party in the February 22, 2026 article, and what is its reported popularity rating in the Gallup Korea poll conducted on February 13, 2026?",
+    "a": "The Democratic Party of Korea, with a 44 percent popularity rating."
+  },
+  {
+    "q": "Who is the President of South Korea referenced in the February 22, 2026 article, and what was his personal approval rating according to the same Gallup Korea poll from February 13, 2026?",
+    "a": "President Lee Jae Myung, with a 63 percent approval rating."
+  },
+  {
+    "q": "Which former five-term lawmaker was acquitted of political funding scandals in early 2026 and is seeking to return to the Democratic Party of Korea for the June 3, 2026 local elections?",
+    "a": "Song Young-gil."
+  },
+  {
+    "q": "Which National Assembly constituency in Incheon is identified as a key battleground in the June 3, 2026 local elections, having previously been occupied by President Lee Jae Myung?",
+    "a": "The Gyeyang B constituency."
+  },
+  {
+    "q": "Who is the presidential spokesperson for President Lee Jae Myung who left Cheong Wa Dae and is considering running in the June 3, 2026 local elections?",
+    "a": "Kim Nam-joon."
+  },
+  {
+    "q": "In the June 2022 local elections, how many of the 17 key mayoral and governor posts did the then-ruling People Power Party win?",
+    "a": "12 posts."
+  },
+  {
+    "q": "Who is the former President of South Korea who was sentenced to life in prison in December 2024 for his role in the botched martial law imposition?",
+    "a": "Yoon Suk Yeol."
+  },
+  {
+    "q": "Who is the chair of the People Power Party who, in a statement on Friday (relative to the February 22, 2026 article), refused to sever ties with former President Yoon Suk Yeol?",
+    "a": "Rep. Jang Dong-hyeok."
+  },
+  {
+    "q": "Which Seoul mayor criticized People Power Party Chair Rep. Jang Dong-hyeok for failing to appeal to a wider range of voters by defending former President Yoon Suk Yeol?",
+    "a": "Oh Se-hoon."
+  },
+  {
+    "q": "By what date must public officials step down from their positions to be eligible to run in the June 3, 2026 local elections in South Korea?",
+    "a": "March 5, 2026."
+  },
+  {
+    "q": "By what date must incumbent lawmakers in South Korea quit their positions to be eligible to run in the June 3, 2026 local elections?",
+    "a": "May 4, 2026."
+  },
+  {
+    "q": "On which dates are candidate registrations scheduled to take place for the June 3, 2026 local elections in South Korea?",
+    "a": "May 14-15, 2026."
+  },
+  {
+    "q": "When is the two-week official campaigning period scheduled to start for the June 3, 2026 local elections in South Korea?",
+    "a": "May 21, 2026."
+  },
+  {
+    "q": "Who is the secretary-general of the Democratic Party who described conservative municipal leaders as \"incompetent Yoon Suk Yeol kids\" during a press conference on Sunday (relative to the February 22, 2026 article)?",
+    "a": "Rep. Jo Seoung-lae."
+  },
+  {
+    "q": "Which former People Power Party chair has sided with Seoul Mayor Oh Se-hoon in calls for the conservative party to sever ties with former President Yoon Suk Yeol?",
+    "a": "Han Dong-hoon."
+  },
+  {
+    "q": "According to the February 13, 2026 Gallup Korea poll, what was the popularity rating of the major conservative People Power Party in South Korea?",
+    "a": "22 percent."
+  },
+  {
+    "q": "Which three locations in North Jeolla Province are listed as additional National Assembly by-election constituencies expected to see more candidates as the June 3, 2026 local elections approach?",
+    "a": "Gunsan, Gimje, and Buan-gun A."
+  },
+  {
+    "q": "Which two locations, Asan B and Pyeongtaek B, are mentioned as National Assembly by-election constituencies in South Chungcheong Province and Gyeonggi Province respectively, expected to see increased competition before the June 3, 2026 elections?",
+    "a": "Asan B of South Chungcheong Province and Pyeongtaek B of Gyeonggi Province."
+  },
+  {
+    "q": "What is the minimum age requirement for voters and candidates in the June 3, 2026 local elections in South Korea?",
+    "a": "18 years old."
+  },
+  {
+    "q": "In which year did the then-ruling Democratic Party of Korea score huge wins in local elections, similar to the People Power Party's success in 2022?",
+    "a": "2018."
+  },
+  {
+    "q": "Who is the liberal heavyweight and former lawmaker mentioned in the February 22, 2026 article who was acquitted of political funding scandals earlier in the month?",
+    "a": "Song Young-gil."
+  },
+  {
+    "q": "Which South Korean news organization published the article titled \"100-day local election countdown begins\" on February 22, 2026?",
+    "a": "The Korea Herald."
+  },
+  {
+    "q": "Who is the staff reporter credited with writing the February 22, 2026 article about the local election countdown?",
+    "a": "Son Ji-hyoung."
+  },
+  {
+    "q": "What specific legal outcome did a district court rule regarding former President Yoon Suk Yeol in the context of the internal rifts within the People Power Party as of February 22, 2026?",
+    "a": "He was found guilty of leading an insurrection and sentenced to life in prison."
+  }
+]

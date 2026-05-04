@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the February 2026 standoff between the U.S. Department of Defense and Anthropic, what specific deadline did Defense Secretary Pete Hegseth set for CEO Dario Amodei to agree to remove AI guardrails from the Claude model?",
+    "a": "5:01 p.m. on Friday, February 27, 2026."
+  },
+  {
+    "q": "What two specific use cases did Anthropic CEO Dario Amodei refuse to allow in the Pentagon’s $200 million contract with the company during the February 2026 negotiations?",
+    "a": "AI-controlled weapons and mass domestic surveillance of American citizens."
+  },
+  {
+    "q": "Which U.S. law did Defense Secretary Pete Hegseth threaten to invoke against Anthropic in February 2026 if the company refused to drop its AI safety guardrails?",
+    "a": "The Defense Production Act."
+  },
+  {
+    "q": "What specific designation did Pentagon officials threaten to place on Anthropic in February 2026, a label typically reserved for companies viewed as extensions of foreign adversaries like Russia or China?",
+    "a": "Supply chain risk."
+  },
+  {
+    "q": "According to the February 2026 reports, which competitor’s AI company did a Pentagon official confirm was \"on board with being in a classified setting\" amid the Anthropic contract dispute?",
+    "a": "Elon Musk’s xAI company."
+  },
+  {
+    "q": "What monetary amount did Anthropic recently announce it was donating to a political group campaigning for more regulation of AI, as noted in the February 2026 article?",
+    "a": "$20 million."
+  },
+  {
+    "q": "Who is the former Justice Department liaison to the Department of Defense who questioned the legal logic of declaring a company a \"supply chain risk\" while simultaneously compelling it to work with the military in February 2026?",
+    "a": "Katie Sweeten."
+  },
+  {
+    "q": "What was the total value of the Pentagon contract with Anthropic that was at risk of termination in February 2026?",
+    "a": "$200 million."
+  },
+  {
+    "q": "Which AI model developed by Anthropic was the subject of the Pentagon’s demands to lift restrictions for \"all lawful use\" in the February 2026 dispute?",
+    "a": "Claude."
+  },
+  {
+    "q": "According to a Pentagon official in February 2026, what was the stated reason for requiring the removal of AI guardrails, specifically rejecting the idea that the issue was about mass surveillance or autonomous weapons?",
+    "a": "The official stated, \"You can’t lead tactical ops by exception,\" asserting that legality is the Pentagon’s responsibility as the end user."
+  },
+  {
+    "q": "Which two former employees of OpenAI founded Anthropic, a detail highlighted in the February 2026 article to contextualize the company’s safety-focused stance?",
+    "a": "Dario Amodei and other founders who left OpenAI over disagreements about ChatGPT’s direction and safety approach."
+  },
+  {
+    "q": "What specific action did Defense Secretary Pete Hegseth threaten to take regarding Anthropic’s products if the company was labeled a supply chain risk in February 2026?",
+    "a": "Prohibiting companies with military contracts from using Anthropic’s products in any of their military work."
+  },
+  {
+    "q": "Which news organization reported in the week prior to February 24, 2026, that Defense Secretary Pete Hegseth was close to cutting the Pentagon’s contract with Anthropic?",
+    "a": "Axios."
+  },
+  {
+    "q": "What specific claim did an Anthropic spokesperson make about the company’s history with classified networks in its February 2026 statement regarding the Pentagon dispute?",
+    "a": "Anthropic was the first frontier AI company to put its models on classified networks and the first to provide customized models for national security customers."
+  },
+  {
+    "q": "Who is the CEO of Anthropic who met with Defense Secretary Pete Hegseth at the Pentagon in February 2026 to discuss the company’s usage policy?",
+    "a": "Dario Amodei."
+  },
+  {
+    "q": "What reason did Anthropic give for refusing to allow AI-controlled weapons in the February 2026 negotiations with the Pentagon?",
+    "a": "Anthropic believes AI is not reliable enough to operate weapons."
+  },
+  {
+    "q": "What legal gap did Anthropic cite as a reason for refusing mass domestic surveillance of American citizens in the February 2026 Pentagon negotiations?",
+    "a": "There are no laws or regulations yet that cover how AI could be used in mass surveillance."
+  },
+  {
+    "q": "Which Trump administration initiative did the article cite as a recent example of the Defense Production Act being invoked, to provide context for Defense Secretary Pete Hegseth’s threat in February 2026?",
+    "a": "The pandemic."
+  },
+  {
+    "q": "What was the tone of the Tuesday meeting between Defense Secretary Pete Hegseth and Anthropic CEO Dario Amodei in February 2026, according to a source familiar with the event?",
+    "a": "Cordial and respectful, with no raised voices."
+  },
+  {
+    "q": "Which law firm is Katie Sweeten, the former Justice Department liaison, a partner at, as mentioned in the February 2026 article?",
+    "a": "Scale."
+  },
+  {
+    "q": "What specific phrase did an Anthropic spokesperson use to describe the February 2026 conversation with Defense Secretary Pete Hegseth?",
+    "a": "\"Good-faith\" conversation."
+  },
+  {
+    "q": "According to the February 2026 article, which group of large corporations would be negatively impacted if Anthropic was designated a supply chain risk?",
+    "a": "Large corporations that have military contracts."
+  },
+  {
+    "q": "What specific date was the CNN Business article about the Pentagon-Anthropic dispute published?",
+    "a": "February 24, 2026."
+  },
+  {
+    "q": "Which CNN reporter contributed to the February 2026 report on the Pentagon’s threat to Anthropic?",
+    "a": "Kaanita Iyer."
+  },
+  {
+    "q": "What was the Pentagon official’s response to the suggestion that the guardrail dispute involved mass surveillance or autonomous weapons in February 2026?",
+    "a": "The official stated the issue has \"nothing to do with mass surveillance and autonomous weapons being used\" and that the \"Pentagon has always followed the law.\""
+  }
+]

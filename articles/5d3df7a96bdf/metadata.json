@@ -1,0 +1,77 @@
+{
+  "hash": "5d3df7a96bdf",
+  "n_appearances": 6,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.nbcnews.com/politics/rcna262176",
+      "title": "Trump has privately shown serious interest in U.S. ground troops in Iran",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1148,
+      "text_length": 5562
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1162940",
+      "spike_id": 10,
+      "market_question": "US forces enter Iran by March 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.23500000000000004,
+      "spike_timestamp_before": "2026-03-08T20:00:22+00:00",
+      "spike_timestamp_after": "2026-03-09T20:00:22+00:00"
+    },
+    {
+      "market_id": "1162940",
+      "spike_id": 7,
+      "market_question": "US forces enter Iran by March 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "up",
+      "spike_delta": 0.20000000000000007,
+      "spike_timestamp_before": "2026-03-07T20:00:24+00:00",
+      "spike_timestamp_after": "2026-03-08T19:30:21+00:00"
+    },
+    {
+      "market_id": "1162940",
+      "spike_id": 8,
+      "market_question": "US forces enter Iran by March 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.15000000000000002,
+      "spike_timestamp_before": "2026-03-08T19:30:21+00:00",
+      "spike_timestamp_after": "2026-03-09T03:30:19+00:00"
+    },
+    {
+      "market_id": "1162940",
+      "spike_id": 9,
+      "market_question": "US forces enter Iran by March 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.16500000000000004,
+      "spike_timestamp_before": "2026-03-08T19:30:21+00:00",
+      "spike_timestamp_after": "2026-03-09T15:30:21+00:00"
+    },
+    {
+      "market_id": "1394368",
+      "spike_id": 3,
+      "market_question": "Will the U.S. invade Iran by March 31?",
+      "event_title": "Will the U.S. invade Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.20999999999999996,
+      "spike_timestamp_before": "2026-03-07T23:30:27+00:00",
+      "spike_timestamp_after": "2026-03-08T08:00:25+00:00"
+    },
+    {
+      "market_id": "1394368",
+      "spike_id": 4,
+      "market_question": "Will the U.S. invade Iran by March 31?",
+      "event_title": "Will the U.S. invade Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.16299999999999998,
+      "spike_timestamp_before": "2026-03-08T08:00:25+00:00",
+      "spike_timestamp_after": "2026-03-08T10:30:28+00:00"
+    }
+  ]
+}

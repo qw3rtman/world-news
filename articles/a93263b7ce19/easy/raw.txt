@@ -1,0 +1,102 @@
+[
+  {
+    "q": "According to the March 9, 2026 Newsweek report, what was the average price for regular gasoline in the U.S. as reported by GasBuddy, and how much had it increased compared to the previous week?",
+    "a": "The average price was $3.46 per gallon, an increase of 51.8 cents from the previous week."
+  },
+  {
+    "q": "In the March 2026 article, what specific percentage odds did Polymarket users assign to gasoline reaching $5 per gallon by the end of March, and when were these odds recorded?",
+    "a": "The odds stood at 43 percent as of Monday morning, March 9, 2026."
+  },
+  {
+    "q": "Which U.S. President's second-term campaign pledge to lower energy bills was cited in the March 2026 article as being impacted by the conflict known as Operation Epic Fury?",
+    "a": "President Donald Trump."
+  },
+  {
+    "q": "According to Moody's Analytics chief economist Mark Zandi's Sunday, March 2026 assessment, what price per barrel for Brent crude did he identify as a real possibility that would result in Americans paying $4 a gallon for regular unleaded?",
+    "a": "$100 per barrel."
+  },
+  {
+    "q": "Before the U.S.-Israeli strikes on February 28, 2026, what was the approximate price per barrel of Brent crude, and what did it briefly soar to on the Monday following the strikes?",
+    "a": "It was about $73 per barrel before the strikes and briefly soared to almost $120 per barrel."
+  },
+  {
+    "q": "What rule of thumb did Mark Zandi provide to Newsweek in the week prior to March 9, 2026, regarding the relationship between sustained increases in oil prices and gasoline costs?",
+    "a": "Every sustained $10 per barrel increase in oil prices will increase the cost of a gallon of regular unleaded by 25 cents."
+  },
+  {
+    "q": "In a March 2026 interview with Barron's, what price range for average gasoline did Patrick De Haan, head of petroleum analysis at GasBuddy, predict if Brent crude topped $150 per barrel?",
+    "a": "Between $5 and $5.50 per gallon."
+  },
+  {
+    "q": "Which Dallas-based oil and gas company's founder and CEO, Jay Young, warned in March 2026 that prices could climb to $5–$6 per gallon if supply disruptions occurred?",
+    "a": "King Operating Corporation."
+  },
+  {
+    "q": "How did U.S. Energy Secretary Chris Wright characterize the duration of the oil price impact in a March 2026 CNN interview, distinguishing it from a longer-term issue?",
+    "a": "He stated that in the worst case, it is a weeks thing, not a months thing."
+  },
+  {
+    "q": "What specific geographic chokepoint's traffic status did Patrick De Haan and Mark Zandi both cite in March 2026 as critical to determining the extent of gasoline price increases?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "According to a March 2026 blog post by statistician Nate Silver, why did he describe the war in Iran as a potential \"perfect storm\" for gas and energy prices?",
+    "a": "Because although the U.S. is less reliant on foreign oil, the conflict could cause prices to spike vertically in the span of a month."
+  },
+  {
+    "q": "In his March 2026 social media post, which demographic did economist Mark Zandi identify as being forced to make tough financial choices due to spending a larger share of their budgets on gasoline?",
+    "a": "Low and middle-income Americans."
+  },
+  {
+    "q": "What annual inflation rate did RBC Economics project for the second quarter of 2026 in its March 2026 report, assuming Brent crude holds at $100 a barrel?",
+    "a": "3.7 percent."
+  },
+  {
+    "q": "What was the previous base case annual inflation rate projected by RBC Economics before the March 2026 report adjusted for the impact of Operation Epic Fury?",
+    "a": "2.9 percent."
+  },
+  {
+    "q": "According to the March 2026 Newsweek article, what was the average price for regular gas reported by AAA, and how did it compare to GasBuddy's figure?",
+    "a": "AAA put the figure at $3.48 per gallon, which was slightly higher than GasBuddy's $3.46."
+  },
+  {
+    "q": "What specific event did President Donald Trump describe in March 2026 as having a \"very small price to pay for U.S.A., and World, Safety and Peace\"?",
+    "a": "The impact of the rise in global oil prices resulting from the conflict."
+  },
+  {
+    "q": "In the March 2026 article, which international benchmark for oil prices continued to climb past $100 a barrel, contributing to concerns about U.S. gas prices?",
+    "a": "Brent crude."
+  },
+  {
+    "q": "What was the last time, prior to the March 2026 projections, that Polymarket users were wagering gasoline prices could reach $5 per gallon?",
+    "a": "2022."
+  },
+  {
+    "q": "According to Jay Young of King Operating Corporation in March 2026, what condition was necessary for gasoline prices to potentially climb to $5–$6 per gallon?",
+    "a": "If supply disruptions occur."
+  },
+  {
+    "q": "What phrase did U.S. Energy Secretary Chris Wright use in March 2026 to describe the temporary nature of the price increase, noting that the world is not short of oil or natural gas?",
+    "a": "A little bit of fear premium in the marketplace."
+  },
+  {
+    "q": "Which organization's data was cited in the March 2026 article to show that the average price for regular gas had risen to $3.46 per gallon?",
+    "a": "GasBuddy."
+  },
+  {
+    "q": "What specific date did the U.S.-Israeli strikes occur that preceded the surge in Brent crude prices mentioned in the March 2026 article?",
+    "a": "February 28, 2026."
+  },
+  {
+    "q": "According to the March 2026 article, what was the average price for regular gas as of the report's publication, and which two organizations provided slightly different figures?",
+    "a": "GasBuddy reported $3.46 and AAA reported $3.48."
+  },
+  {
+    "q": "In the March 2026 article, what economic consequence did Mark Zandi warn would be wrought if the Strait of Hormuz remained impassable for tanker traffic?",
+    "a": "Higher prices would go higher, and more economic damage would be wrought."
+  },
+  {
+    "q": "What specific time frame did Nate Silver cite in his March 2026 blog post as uncommon for gas prices to go \"quite this vertical\"?",
+    "a": "In the span of a month."
+  }
+]

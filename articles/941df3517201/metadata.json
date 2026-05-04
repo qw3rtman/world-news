@@ -1,0 +1,37 @@
+{
+  "hash": "941df3517201",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://beta.japantimes.co.jp/news/2026/03/09/asia-pacific/politics/trump-china-visit-stability/",
+      "title": "Trump's China visit likely won't yield breakthrough, with stability key goal - The Japan Times",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": "No Author",
+      "num_tokens": 500,
+      "text_length": 2061
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "604490",
+      "spike_id": 16,
+      "market_question": "Will Trump visit China by March 31?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.1795,
+      "spike_timestamp_before": "2026-03-07T08:30:23+00:00",
+      "spike_timestamp_after": "2026-03-08T08:00:21+00:00"
+    },
+    {
+      "market_id": "604490",
+      "spike_id": 17,
+      "market_question": "Will Trump visit China by March 31?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.17149999999999999,
+      "spike_timestamp_before": "2026-03-07T16:30:23+00:00",
+      "spike_timestamp_after": "2026-03-08T10:30:23+00:00"
+    }
+  ]
+}

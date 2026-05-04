@@ -1,0 +1,47 @@
+{
+  "hash": "ef36438c0b90",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.nbcnews.com/politics/donald-trump/president-calls-iran-war-little-excursion-will-end-soon-rcna262494",
+      "title": "Trump says Iran war will end 'soon' but also issues threats that could prolong it",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1139,
+      "text_length": 5069
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1466575",
+      "spike_id": 10,
+      "market_question": "Trump announces end of military operations against Iran by March 31st?",
+      "event_title": "Trump announces end of military operations against Iran by ...?",
+      "spike_direction": "down",
+      "spike_delta": -0.17000000000000004,
+      "spike_timestamp_before": "2026-03-11T16:30:31+00:00",
+      "spike_timestamp_after": "2026-03-12T16:30:31+00:00"
+    },
+    {
+      "market_id": "1466575",
+      "spike_id": 9,
+      "market_question": "Trump announces end of military operations against Iran by March 31st?",
+      "event_title": "Trump announces end of military operations against Iran by ...?",
+      "spike_direction": "up",
+      "spike_delta": 0.26999999999999996,
+      "spike_timestamp_before": "2026-03-08T23:00:27+00:00",
+      "spike_timestamp_after": "2026-03-09T21:00:38+00:00"
+    },
+    {
+      "market_id": "1484894",
+      "spike_id": 2,
+      "market_question": "US x Iran ceasefire by May 31?",
+      "event_title": "US x Iran ceasefire by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.18999999999999995,
+      "spike_timestamp_before": "2026-03-08T23:30:22+00:00",
+      "spike_timestamp_after": "2026-03-09T21:00:32+00:00"
+    }
+  ]
+}

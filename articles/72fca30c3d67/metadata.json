@@ -1,0 +1,37 @@
+{
+  "hash": "72fca30c3d67",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/03/09/recession-odds-kalshi-oil.html",
+      "title": "Recession odds jump on Kalshi after oil tops $100",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "Alex Harring",
+      "num_tokens": 500,
+      "text_length": 2337
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1538079",
+      "spike_id": 1,
+      "market_question": "Will Crude Oil (CL) hit (LOW) $80 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.37499999999999994,
+      "spike_timestamp_before": "2026-03-09T18:00:21+00:00",
+      "spike_timestamp_after": "2026-03-09T19:30:19+00:00"
+    },
+    {
+      "market_id": "1538079",
+      "spike_id": 2,
+      "market_question": "Will Crude Oil (CL) hit (LOW) $80 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.37999999999999995,
+      "spike_timestamp_before": "2026-03-09T19:30:19+00:00",
+      "spike_timestamp_after": "2026-03-09T21:30:22+00:00"
+    }
+  ]
+}

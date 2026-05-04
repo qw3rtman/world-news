@@ -1,0 +1,27 @@
+{
+  "hash": "4c8ff59eec85",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.wireless.reuters.com/world/iran-crisis-live-explosions-tehran-israel-announces-strike-2026-02-28/",
+      "title": "US-Israeli strikes kill Khamenei and Iranian retaliation shakes Gulf - As it happened | Reuters",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Kylie MacLellan",
+      "num_tokens": 115,
+      "text_length": 521
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1437691",
+      "spike_id": 4,
+      "market_question": "US strikes Iran by March 8, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.7345,
+      "spike_timestamp_before": "2026-02-27T09:30:22+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:48+00:00"
+    }
+  ]
+}

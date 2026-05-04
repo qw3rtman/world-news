@@ -1,0 +1,57 @@
+{
+  "hash": "9e70208e1661",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnn.com/2026/03/09/middleeast/iran-long-war-kamal-kharazi-interview-intl",
+      "title": "Exclusive: Iran is ready for a long war with the US and only economic pain will end it, senior official tells CNN | CNN",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "Frederik Pleitgen, Claudia Otto",
+      "num_tokens": 733,
+      "text_length": 3613
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1394368",
+      "spike_id": 3,
+      "market_question": "Will the U.S. invade Iran by March 31?",
+      "event_title": "Will the U.S. invade Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.20999999999999996,
+      "spike_timestamp_before": "2026-03-07T23:30:27+00:00",
+      "spike_timestamp_after": "2026-03-08T08:00:25+00:00"
+    },
+    {
+      "market_id": "1472026",
+      "spike_id": 17,
+      "market_question": "Will another country strike Iran by March 31?",
+      "event_title": "Will another country strike Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.24,
+      "spike_timestamp_before": "2026-03-09T14:30:25+00:00",
+      "spike_timestamp_after": "2026-03-10T09:00:51+00:00"
+    },
+    {
+      "market_id": "1472026",
+      "spike_id": 18,
+      "market_question": "Will another country strike Iran by March 31?",
+      "event_title": "Will another country strike Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.26999999999999996,
+      "spike_timestamp_before": "2026-03-09T17:00:41+00:00",
+      "spike_timestamp_after": "2026-03-10T16:30:33+00:00"
+    },
+    {
+      "market_id": "1472026",
+      "spike_id": 19,
+      "market_question": "Will another country strike Iran by March 31?",
+      "event_title": "Will another country strike Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.16000000000000003,
+      "spike_timestamp_before": "2026-03-10T02:30:34+00:00",
+      "spike_timestamp_after": "2026-03-11T01:00:34+00:00"
+    }
+  ]
+}

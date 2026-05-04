@@ -1,0 +1,47 @@
+{
+  "hash": "09524e02dbb8",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/03/06/trump-iran-war-china-trade-tariffs.html",
+      "title": "How Iran and Venezuela strikes transform the Trump-Xi trade talks",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Kevin Breuninger,Sam Meredith,Evelyn Cheng",
+      "num_tokens": 1206,
+      "text_length": 5979
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1472026",
+      "spike_id": 10,
+      "market_question": "Will another country strike Iran by March 31?",
+      "event_title": "Will another country strike Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.22999999999999998,
+      "spike_timestamp_before": "2026-03-05T19:00:30+00:00",
+      "spike_timestamp_after": "2026-03-06T03:30:36+00:00"
+    },
+    {
+      "market_id": "1472026",
+      "spike_id": 11,
+      "market_question": "Will another country strike Iran by March 31?",
+      "event_title": "Will another country strike Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.24,
+      "spike_timestamp_before": "2026-03-05T19:00:30+00:00",
+      "spike_timestamp_after": "2026-03-06T17:30:42+00:00"
+    },
+    {
+      "market_id": "1472026",
+      "spike_id": 12,
+      "market_question": "Will another country strike Iran by March 31?",
+      "event_title": "Will another country strike Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.18000000000000005,
+      "spike_timestamp_before": "2026-03-06T17:30:42+00:00",
+      "spike_timestamp_after": "2026-03-06T20:30:32+00:00"
+    }
+  ]
+}

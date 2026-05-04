@@ -1,0 +1,27 @@
+{
+  "hash": "bfaa9d6d3444",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://apnews.com/article/iran-israel-us-march-10-2026-acf2af139d179fbef62927a8bf9bea55",
+      "title": "US says it destroyed 16 Iranian minelayers | AP News",
+      "published_date": "2026-03-10T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1712,
+      "text_length": 8290
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1466015",
+      "spike_id": 6,
+      "market_question": "US x Iran ceasefire by March 31?",
+      "event_title": "US x Iran ceasefire by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.23,
+      "spike_timestamp_before": "2026-03-08T22:00:16+00:00",
+      "spike_timestamp_after": "2026-03-09T21:00:18+00:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "hash": "5e17a62a7902",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://canary.haaretz.com/israel-news/security-aviation/2026-03-12/ty-article-magazine/.premium/11-iranian-cluster-missiles-penetrated-one-dropped-70-bombs-over-central-israel/0000019c-e1d3-dffd-a3fc-e1df09ed0000",
+      "title": "11 Iranian Cluster Missiles Penetrated. One Dropped 70 Bombs Over Central Israel - National Security & Cyber",
+      "published_date": "2026-03-12T00:00:00.000Z",
+      "author": "Bar Peleg",
+      "num_tokens": 2236,
+      "text_length": 10751
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1487679",
+      "spike_id": 14,
+      "market_question": "Houthi strike on Israel by March 15, 2026?",
+      "event_title": "Houthi strike on Israel by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.28,
+      "spike_timestamp_before": "2026-03-11T17:30:29+00:00",
+      "spike_timestamp_after": "2026-03-12T05:30:29+00:00"
+    }
+  ]
+}

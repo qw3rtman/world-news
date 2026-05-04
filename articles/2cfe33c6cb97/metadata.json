@@ -1,0 +1,27 @@
+{
+  "hash": "2cfe33c6cb97",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.thetimes.com/world/middle-east/israel-iran/article/how-will-the-iran-war-end-tqccbwm8w",
+      "title": "How will the Iran war end?",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 123,
+      "text_length": 592
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1484914",
+      "spike_id": 3,
+      "market_question": "Iran x Israel/US conflict ends by May 15?",
+      "event_title": "Iran x Israel/US conflict ends by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.17500000000000004,
+      "spike_timestamp_before": "2026-03-09T00:30:23+00:00",
+      "spike_timestamp_after": "2026-03-09T21:30:26+00:00"
+    }
+  ]
+}

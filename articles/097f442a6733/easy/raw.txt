@@ -1,0 +1,106 @@
+[
+  {
+    "q": "On the date of March 12, 2026, by what percentage did spot gold prices fall, and what was the specific price per ounce recorded at that time?",
+    "a": "Spot gold prices fell 1.1% to $5,118.16 per ounce."
+  },
+  {
+    "q": "What was the settlement price for U.S. gold futures for April delivery on March 12, 2026, and how did this compare to the previous day's close?",
+    "a": "U.S. gold futures for April delivery settled at $5,125.80, which was 1% lower than the previous close."
+  },
+  {
+    "q": "According to Phillip Streible, chief market strategist at Blue Line Futures, what three specific factors were negatively impacting gold prices in March 2026?",
+    "a": "The negative factors were the higher dollar index, rising treasury yields, and the lack of interest-rate cuts."
+  },
+  {
+    "q": "In early March 2026, what specific action did Chile’s central bank take regarding its gold reserves, and what was the resulting reserve value?",
+    "a": "Chile’s central bank boosted its gold reserves to $1.108 billion, up from $42 million in January."
+  },
+  {
+    "q": "What percentage of total reserves did Chile’s gold holdings represent after the central bank's February 2026 purchase?",
+    "a": "The gold reserves were equivalent to 2.2% of total reserves."
+  },
+  {
+    "q": "Who is the new Supreme Leader of Iran mentioned in the March 2026 report, and what specific threats did he issue regarding the Strait of Hormuz and U.S. bases?",
+    "a": "New Supreme Leader Ayatollah Mojtaba Khamenei stated Iran would keep the Strait of Hormuz closed and attack U.S. bases."
+  },
+  {
+    "q": "What event occurred in Iraqi waters in March 2026 that contributed to rising oil prices and inflation concerns?",
+    "a": "Two tankers were ablaze in an apparent escalation of Iranian attacks that cut off Middle East energy supplies."
+  },
+  {
+    "q": "By what percentage did spot silver prices ease on March 12, 2026, and what was the specific price per ounce?",
+    "a": "Spot silver eased 1% to $84.90 per ounce."
+  },
+  {
+    "q": "What was the total percentage gain for silver prices in the year prior to March 2026, according to the report?",
+    "a": "Silver prices gained more than 146% last year."
+  },
+  {
+    "q": "What average price per ounce did analysts at BMI expect for silver in 2026?",
+    "a": "Analysts at BMI expected silver to average $93 per ounce in 2026."
+  },
+  {
+    "q": "What specific market forces did BMI analysts cite as consolidating silver's gains in 2026 and offsetting demand destruction in solar panels and jewelry?",
+    "a": "Strong investment demand was consolidating the gains and offsetting price-induced demand destruction."
+  },
+  {
+    "q": "What was the percentage decline and final price for spot platinum on March 12, 2026?",
+    "a": "Spot platinum lost 1.1% to $2,145.75."
+  },
+  {
+    "q": "What was the percentage decline and final price for palladium on March 12, 2026?",
+    "a": "Palladium fell 1% to $1,620.86."
+  },
+  {
+    "q": "For how many consecutive sessions had the U.S. dollar gained value by March 12, 2026, contributing to pressure on gold prices?",
+    "a": "The dollar gained for a third consecutive session."
+  },
+  {
+    "q": "Why does a stronger U.S. dollar typically make gold less attractive to international buyers, as explained in the March 2026 report?",
+    "a": "A stronger U.S. currency makes gold more expensive for holders of other currencies."
+  },
+  {
+    "q": "What positive factors did Phillip Streible of Blue Line Futures identify as supporting gold prices despite the negative macroeconomic environment in March 2026?",
+    "a": "The positive factors were central bank buying and steady exchange-traded fund inflows, which had remained positive all year."
+  },
+  {
+    "q": "How did the ongoing conflict in the Middle East in March 2026 influence gold prices through two competing mechanisms?",
+    "a": "It generated safe-haven flows which supported gold, but also stoked inflation concerns and rising oil prices which increased interest rate expectations, weighing on gold."
+  },
+  {
+    "q": "What specific date did Chile’s central bank issue its first major gold purchase since at least 2000?",
+    "a": "The purchase occurred in February 2026."
+  },
+  {
+    "q": "What was the value of Chile’s gold reserves in January 2026 before the central bank's major purchase in February?",
+    "a": "Chile’s gold reserves were $42 million in January."
+  },
+  {
+    "q": "What role did oil prices play in the inflation dynamics affecting gold in March 2026, according to the article?",
+    "a": "Higher crude prices feed into inflation by raising transportation and production costs, which typically supports gold as an inflation hedge but is countered by higher interest rates."
+  },
+  {
+    "q": "Which specific delivery month for U.S. gold futures settled at $5,125.80 on March 12, 2026?",
+    "a": "The April delivery contract settled at that price."
+  },
+  {
+    "q": "What specific threat did new Supreme Leader Ayatollah Mojtaba Khamenei make regarding Iran's response to perceived wrongs in March 2026?",
+    "a": "He stated Iran would avenge the blood of its martyrs."
+  },
+  {
+    "q": "How did the closure of the Strait of Hormuz by Iran impact global energy markets in the context of the March 2026 report?",
+    "a": "The closure cut off Middle East energy supplies, causing oil prices to rise sharply."
+  },
+  {
+    "q": "What sector's demand destruction was BMI analysts expecting to be offset by strong investment demand for silver in 2026?",
+    "a": "Demand destruction in solar panels and jewelry."
+  },
+  {
+    "q": "What was the specific price movement for spot gold in terms of basis points or percentage on the trading day of March 12, 2026?",
+    "a": "Spot gold dipped 1.1%."
+  },
+  {
+    "q": "Which organization's chief market strategist, Phillip Streible, provided commentary on the interplay between the dollar index and safe-haven flows in March 2026?",
+    "a": "Phillip Streible is the chief market strategist at Blue Line Futures."
+  }
+]

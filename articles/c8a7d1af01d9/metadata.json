@@ -1,0 +1,27 @@
+{
+  "hash": "c8a7d1af01d9",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cbsnews.com/videos/reza-pahlavi-iran-60-minutes-video-2026-03-01",
+      "title": "Iran's Prince Reza Pahlavi believes regime could finally fall | 60 Minutes - CBS News",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 38,
+      "text_length": 183
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1090199",
+      "spike_id": 3,
+      "market_question": "Will Reza Pahlavi enter Iran by June 30?",
+      "event_title": "Will Reza Pahlavi enter Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.18,
+      "spike_timestamp_before": "2026-02-28T22:30:27+00:00",
+      "spike_timestamp_after": "2026-03-01T18:00:29+00:00"
+    }
+  ]
+}

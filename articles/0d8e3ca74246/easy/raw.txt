@@ -1,0 +1,106 @@
+[
+  {
+    "q": "According to analysts cited in early March 2026, which specific geopolitical event triggered the surge in risk aversion that pushed investors toward safe-haven assets like gold and silver?",
+    "a": "US President Donald Trump’s announcement of major combat operations in Iran following Israeli strikes on Tehran."
+  },
+  {
+    "q": "What confirmation did Iranian state media provide on Sunday, March 1, 2026, that escalated the conflict described in the article?",
+    "a": "The confirmation of the death of Supreme Leader Ayatollah Ali Khamenei."
+  },
+  {
+    "q": "Which two entities did Jateen Trivedi, VP Research Analyst at LKP Securities, identify as driving investors toward traditional safe-haven assets due to escalating hostilities?",
+    "a": "Escalating hostilities and fading hopes of a swift diplomatic resolution."
+  },
+  {
+    "q": "On which specific day in early March 2026 was the domestic commodities market closed for the Holi festival, according to the article?",
+    "a": "Tuesday."
+  },
+  {
+    "q": "By what percentage did silver futures for March delivery surge on the Multi Commodity Exchange (MCX) last week prior to March 1, 2026?",
+    "a": "8.72 per cent."
+  },
+  {
+    "q": "What was the absolute rupee increase and percentage gain for gold futures for April delivery on the MCX last week before March 1, 2026?",
+    "a": "Rs 5,228 or 3.33 per cent."
+  },
+  {
+    "q": "Which two sources of buying pressure did Pranav Mer of JM Financial Services cite as supporting bullion prices amid global uncertainty?",
+    "a": "Persistent buying from central banks and exchange-traded funds."
+  },
+  {
+    "q": "Which recent legal ruling by the US Supreme Court against Donald Trump’s trade policies added to global uncertainty, according to Pranav Mer?",
+    "a": "The ruling that termed most of Trump’s trade tariffs illegal."
+  },
+  {
+    "q": "By how much did Comex silver futures jump in US dollars and percentage over the past week leading up to March 1, 2026?",
+    "a": "USD 10.34 or 12.55 per cent."
+  },
+  {
+    "q": "What energy market development did Jateen Trivedi identify as further supporting bullion interest due to fears of supply disruptions?",
+    "a": "Rising crude oil prices due to fears of supply disruptions through the Strait of Hormuz."
+  },
+  {
+    "q": "What potential market reaction did Jateen Trivedi caution could occur if diplomatic developments or de-escalation indications emerged over the weekend of March 1, 2026?",
+    "a": "Profit-taking after an initial spike of 3-6 per cent."
+  },
+  {
+    "q": "Which specific macroeconomic data releases were listed as influencing global market sentiment during the week of March 1, 2026?",
+    "a": "Manufacturing and services PMI readings, US retail sales, non-farm payrolls, and employment data."
+  },
+  {
+    "q": "Which European economic indicators and institutional meeting were cited as factors influencing global market sentiment in early March 2026?",
+    "a": "Eurozone inflation and the European Central Bank meeting."
+  },
+  {
+    "q": "What was the percentage gain for gold in international markets over the past week leading up to March 1, 2026?",
+    "a": "3.3 per cent."
+  },
+  {
+    "q": "Which organization's VP Research Analyst, Jateen Trivedi, stated that gold and silver prices were set to remain highly volatile with gap-ups on the opening session?",
+    "a": "LKP Securities."
+  },
+  {
+    "q": "Which financial services firm did Pranav Mer, Vice President of EBG - Commodity & Currency Research, represent when commenting on bullion trends in early March 2026?",
+    "a": "JM Financial Services."
+  },
+  {
+    "q": "According to the article, what type of assets tend to receive capital shifts when global equities and risk assets come under pressure?",
+    "a": "Precious metals, which act as a hedge against uncertainty."
+  },
+  {
+    "q": "What specific military actions by Israel and the US were described as dominating global risk sentiment in the Middle East conflict as of March 1, 2026?",
+    "a": "Renewed US and Israeli military action against Iran."
+  },
+  {
+    "q": "What retaliatory actions did Iran take after confirming the death of Ayatollah Ali Khamenei, as reported by PTI?",
+    "a": "Retaliatory strikes on US military installations and Israeli targets in the region."
+  },
+  {
+    "q": "Which publication's disclaimer noted that the views expressed by experts like Jateen Trivedi and Pranav Mer do not represent the views of the publisher?",
+    "a": "The Times of India."
+  },
+  {
+    "q": "What was the absolute rupee increase for silver futures for March delivery on the MCX last week before March 1, 2026?",
+    "a": "Rs 22,054."
+  },
+  {
+    "q": "Which US President's announcement of 'major combat operations' in Iran was cited as the trigger for the market surge in early March 2026?",
+    "a": "US President Donald Trump."
+  },
+  {
+    "q": "What specific Supreme Court ruling outcome regarding trade tariffs contributed to companies filing refund lawsuits, according to Pranav Mer?",
+    "a": "The ruling that most of Trump’s trade tariffs were illegal."
+  },
+  {
+    "q": "Which two specific PMI readings were mentioned as part of the macroeconomic data releases influencing sentiment in the week of March 1, 2026?",
+    "a": "Manufacturing and services PMI readings."
+  },
+  {
+    "q": "What initial price spike percentage did Jateen Trivedi suggest precious metals could see before potential profit-taking if de-escalation occurred?",
+    "a": "3-6 per cent."
+  },
+  {
+    "q": "Which specific strait's potential supply disruptions were linked to rising crude oil prices and subsequent bullion interest in early March 2026?",
+    "a": "The Strait of Hormuz."
+  }
+]

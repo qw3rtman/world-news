@@ -1,0 +1,37 @@
+{
+  "hash": "63fd752b55c2",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.barrons.com/articles/nebius-stock-price-nbis-nvidia-coreweave-35a090d3?gaa_at=eafs&gaa_n=AWEtsqendDtHU-apTb3ohgOfBfbN37Tlm5i7NKQtmiKEhYyMdC4RPU7Z02Dq&gaa_sig=CBS_WnMzCMwZwpoZHQlfac8j1D8GALpZvyPJ48-3PyKG3EIUUEgU4J17IwLnSGKk2XNLj6Qn2dU8zfeeTV-c0Q%3D%3D&gaa_ts=69b2cb43",
+      "title": "Nvidia Invests $2B in Nebius (NBIS) Stock. What It Means for CoreWeave, AI Trade<!-- --> - Barron's",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": "Adam Clark",
+      "num_tokens": 91,
+      "text_length": 383
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694936",
+      "spike_id": 3,
+      "market_question": "Will Nebius Group be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.15999999999999998,
+      "spike_timestamp_before": "2026-03-11T20:30:27+00:00",
+      "spike_timestamp_after": "2026-03-12T20:30:25+00:00"
+    },
+    {
+      "market_id": "694936",
+      "spike_id": 4,
+      "market_question": "Will Nebius Group be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.16,
+      "spike_timestamp_before": "2026-03-13T14:00:26+00:00",
+      "spike_timestamp_after": "2026-03-14T14:00:26+00:00"
+    }
+  ]
+}

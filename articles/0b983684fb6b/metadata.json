@@ -1,0 +1,27 @@
+{
+  "hash": "0b983684fb6b",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.washingtonpost.com/business/2024/02/12/finland-presidential-election-stubb-haavisto/be41eafc-c995-11ee-aa8e-1e5794a4b2d6_story.html",
+      "title": "The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "Emily Davies  and  Hannah Knowles",
+      "num_tokens": 406,
+      "text_length": 1947
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1223152",
+      "spike_id": 2,
+      "market_question": "Will António José Seguro win the second round by 20–30%?",
+      "event_title": "Portugal Presidential Election Margin of Victory: Second Round",
+      "spike_direction": "down",
+      "spike_delta": -0.494,
+      "spike_timestamp_before": "2026-02-23T04:00:19+00:00",
+      "spike_timestamp_after": "2026-02-23T14:00:16+00:00"
+    }
+  ]
+}

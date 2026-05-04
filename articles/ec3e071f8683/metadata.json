@@ -1,0 +1,27 @@
+{
+  "hash": "ec3e071f8683",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://thehill.com/policy/international/5759118-cuba-friendly-takeover-trump/",
+      "title": "Trump floats ‘friendly takeover’ of Cuba",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 465,
+      "text_length": 2336
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1107582",
+      "spike_id": 3,
+      "market_question": "US strike on Cuba by December 31?",
+      "event_title": "US strike on Cuba by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.15500000000000003,
+      "spike_timestamp_before": "2026-03-01T03:00:29+00:00",
+      "spike_timestamp_after": "2026-03-01T17:00:25+00:00"
+    }
+  ]
+}

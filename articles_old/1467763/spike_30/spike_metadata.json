@@ -1,0 +1,65 @@
+{
+  "spike_index": 30,
+  "direction": "down",
+  "price_before": 0.295,
+  "price_after": 0.14,
+  "delta": -0.15499999999999997,
+  "abs_delta": 0.15499999999999997,
+  "timestamp_before": "2026-03-17T07:00:34+00:00",
+  "timestamp_after": "2026-03-18T06:30:32+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://projects.aljazeera.com/news/2026/3/19/could-oil-hit-200-a-barrel-analysts-no-longer-think-its-far-fetched",
+      "file": "7e877b36b4c1.txt",
+      "title": "Breaking News, World News and Video from Al Jazeera",
+      "published_date": "2026-03-19T00:00:00.000Z",
+      "author": null,
+      "text_length": 3615,
+      "status": "ok",
+      "num_tokens": 799
+    },
+    {
+      "url": "https://www.reuters.com/markets/commodities/irans-200-oil-threat-isnt-that-far-fetched-2026-03-17/",
+      "file": "7e0f7795d415.txt",
+      "title": "Iran's $200 oil threat isn't that far-fetched | Reuters",
+      "published_date": "2026-03-17T00:00:00.000Z",
+      "author": "Ron Bousso",
+      "text_length": 5905,
+      "status": "ok",
+      "num_tokens": 1200
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/middle-east-oil-benchmarks-hit-record-highs-war-cuts-supply-2026-03-16",
+      "file": "01b0d3c8c052.txt",
+      "title": "Middle East oil becomes most expensive in the world as war cuts supply | Reuters",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "Florence Tan",
+      "text_length": 3350,
+      "status": "ok",
+      "num_tokens": 757
+    },
+    {
+      "url": "https://fortune.com/2026/03/18/oil-prices-110-crude-brent-iran-war-israel-strait-hormuz-lng/?preview_id=4443594",
+      "file": "4971a133d9f9.txt",
+      "title": "Oil prices hit nearly $110 as Iran vows to escalate the war in \u2018new ways\u2019 | Fortune",
+      "published_date": "2026-03-18T00:00:00.000Z",
+      "author": "Eva Roytburg",
+      "text_length": 1358,
+      "status": "ok",
+      "num_tokens": 323
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-march-17-2026-crude-continues-to-climb-amid-hormuz-supply-crisis-brent-wti-jump-2/articleshow/129622921.cms",
+      "file": "14943ae1c3b7.txt",
+      "title": "Oil price today (March 17, 2026): Crude continues to climb amid Hormuz supply crisis; Brent, WTI jump 2% - The Times of India",
+      "published_date": "2026-03-17T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /  Updated: Mar 17, 2026, 12:48 IST",
+      "text_length": 2631,
+      "status": "ok",
+      "num_tokens": 529
+    }
+  ],
+  "total_tokens": 3608
+}

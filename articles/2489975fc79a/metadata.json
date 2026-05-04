@@ -1,0 +1,47 @@
+{
+  "hash": "2489975fc79a",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.abc.net.au/news/2026-03-07/iran-war-pushes-oil-price-above-90-dollars/106427656",
+      "title": "'More pain to come' as oil faces biggest weekly price surge since 1983 - ABC News",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 555,
+      "text_length": 2700
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1467763",
+      "spike_id": 7,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $120 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.24,
+      "spike_timestamp_before": "2026-03-06T01:30:34+00:00",
+      "spike_timestamp_after": "2026-03-06T20:30:30+00:00"
+    },
+    {
+      "market_id": "1467763",
+      "spike_id": 8,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $120 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.305,
+      "spike_timestamp_before": "2026-03-06T01:30:34+00:00",
+      "spike_timestamp_after": "2026-03-06T22:30:30+00:00"
+    },
+    {
+      "market_id": "1467765",
+      "spike_id": 7,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $110 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.36500000000000005,
+      "spike_timestamp_before": "2026-03-06T06:00:34+00:00",
+      "spike_timestamp_after": "2026-03-06T23:00:29+00:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "hash": "af3709b34d44",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/03/19/bp-offloads-german-refinery-to-klesch-boosts-cost-savings-target.html",
+      "title": "BP offloads German refinery to Klesch, boosts cost savings target",
+      "published_date": "2026-03-19T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 372,
+      "text_length": 1737
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694937",
+      "spike_id": 10,
+      "market_question": "Will BP be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.15,
+      "spike_timestamp_before": "2026-03-19T06:00:39+00:00",
+      "spike_timestamp_after": "2026-03-19T12:00:27+00:00"
+    }
+  ]
+}

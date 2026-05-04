@@ -1,0 +1,57 @@
+{
+  "hash": "75f26ee03801",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/02/23/gilead-to-acquire-cancer-therapy-developer-arcellx.html?__source=sharebar%7Ctwitter&par=sharebar",
+      "title": "Gilead to buy cancer therapy developer Arcellx for up to $7.8 billion",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 585,
+      "text_length": 2563
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694938",
+      "spike_id": 11,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.20500000000000002,
+      "spike_timestamp_before": "2026-02-25T00:30:40+00:00",
+      "spike_timestamp_after": "2026-02-25T15:30:49+00:00"
+    },
+    {
+      "market_id": "694938",
+      "spike_id": 12,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.23500000000000004,
+      "spike_timestamp_before": "2026-02-25T00:30:40+00:00",
+      "spike_timestamp_after": "2026-02-25T20:00:48+00:00"
+    },
+    {
+      "market_id": "694938",
+      "spike_id": 13,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.17000000000000004,
+      "spike_timestamp_before": "2026-02-25T20:00:48+00:00",
+      "spike_timestamp_after": "2026-02-25T23:00:40+00:00"
+    },
+    {
+      "market_id": "694940",
+      "spike_id": 1,
+      "market_question": "Will GitLab be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.18000000000000002,
+      "spike_timestamp_before": "2026-02-23T18:00:33+00:00",
+      "spike_timestamp_after": "2026-02-23T21:00:18+00:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "hash": "f8a12847e9b2",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://fortune.com/2026/03/04/who-is-mojtaba-khamenei-son-of-supreme-leader-iran/",
+      "title": "Meet Mojtaba Khamenei, 'the power behind the robes' and presumptive favorite to assume power as Iran's Supreme Leader | Fortune",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "The Associated Press",
+      "num_tokens": 258,
+      "text_length": 1003
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1469737",
+      "spike_id": 7,
+      "market_question": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
+      "event_title": "Iran leader end of 2026?",
+      "spike_direction": "down",
+      "spike_delta": -0.44999999999999996,
+      "spike_timestamp_before": "2026-03-03T21:30:59+00:00",
+      "spike_timestamp_after": "2026-03-04T10:30:52+00:00"
+    },
+    {
+      "market_id": "1469737",
+      "spike_id": 8,
+      "market_question": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
+      "event_title": "Iran leader end of 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.2395,
+      "spike_timestamp_before": "2026-03-04T10:30:52+00:00",
+      "spike_timestamp_after": "2026-03-04T17:30:32+00:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "hash": "b010f8bda674",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-06/vietnam-trade-deficit-narrows-even-as-exports-miss-estimates",
+      "title": "Vietnam Trade Deficit Narrows Even as Exports Miss Estimates - Bloomberg",
+      "published_date": "2026-03-05T00:00:00.000Z",
+      "author": "Nguyen Dieu Tu Uyen",
+      "num_tokens": 85,
+      "text_length": 425
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1235514",
+      "spike_id": 1,
+      "market_question": "Will Tô Lâm be the next President of Vietnam?",
+      "event_title": "Next President of Vietnam",
+      "spike_direction": "down",
+      "spike_delta": -0.17500000000000004,
+      "spike_timestamp_before": "2026-03-05T08:00:41+00:00",
+      "spike_timestamp_after": "2026-03-05T15:00:46+00:00"
+    }
+  ]
+}

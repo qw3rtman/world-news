@@ -1,0 +1,27 @@
+{
+  "hash": "f2135d21add2",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://origin.www.bloomberg.com/news/articles/2026-02-27/spacex-is-said-to-weigh-confidential-ipo-filing-as-soon-as-march?srnd=undefined",
+      "title": "SpaceX Weighs Confidential IPO Filing as Soon as March - Bloomberg",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": "Bailey Lipschultz",
+      "num_tokens": 114,
+      "text_length": 570
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694940",
+      "spike_id": 8,
+      "market_question": "Will GitLab be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.375,
+      "spike_timestamp_before": "2026-02-28T12:00:47+00:00",
+      "spike_timestamp_after": "2026-03-01T11:30:35+00:00"
+    }
+  ]
+}

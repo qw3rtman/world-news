@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the video statement posted to Truth Social on February 28, 2026, what specific military action did U.S. President Donald Trump announce the United States had begun against Iran?",
+    "a": "Major combat operations in Iran."
+  },
+  {
+    "q": "According to U.S. President Donald Trump's February 28, 2026 statement, which three specific Iranian nuclear facilities were obliterated during Operation Midnight Hammer the previous June?",
+    "a": "Fordo, Natanz, and Isfahan."
+  },
+  {
+    "q": "In his February 28, 2026 address, U.S. President Donald Trump cited the 1983 Beirut barracks bombing as an example of Iranian proxy aggression; how many American military personnel were killed in that attack?",
+    "a": "241."
+  },
+  {
+    "q": "U.S. President Donald Trump, in his February 28, 2026 video statement, claimed that the terrorist group Hamas, which he identified as an Iranian proxy, launched the October 7 attacks on Israel; how many American citizens were killed in those attacks?",
+    "a": "46."
+  },
+  {
+    "q": "In the February 28, 2026 statement, U.S. President Donald Trump appealed directly to the armed forces of which specific Iranian government body, offering them complete immunity if they laid down their weapons?",
+    "a": "The Islamic Revolutionary Guard."
+  },
+  {
+    "q": "U.S. President Donald Trump, in his February 28, 2026 address, referenced the hostage crisis at the U.S. Embassy in Tehran; for how many days were American hostages held during that event?",
+    "a": "444 days."
+  },
+  {
+    "q": "According to U.S. President Donald Trump's February 28, 2026 statement, which specific naval vessel was attacked in 2000, an incident he claimed Iran knew about and was probably involved with?",
+    "a": "The USS Cole."
+  },
+  {
+    "q": "In his February 28, 2026 video statement, U.S. President Donald Trump stated that the October 7 attacks by Hamas resulted in the taking of how many American citizens hostage?",
+    "a": "12."
+  },
+  {
+    "q": "U.S. President Donald Trump, in his February 28, 2026 address, listed several countries where Iranian proxies have launched attacks; name one of the four countries he specifically mentioned in the phrase \"From Lebanon to Yemen and Syria to Iraq\".",
+    "a": "Lebanon, Yemen, Syria, or Iraq."
+  },
+  {
+    "q": "In his February 28, 2026 statement, U.S. President Donald Trump claimed that Iran has always been the world's number one state sponsor of what?",
+    "a": "Terror."
+  },
+  {
+    "q": "U.S. President Donald Trump, in his February 28, 2026 video address, instructed the Iranian people to stay sheltered and not leave their homes because he claimed what specific danger was occurring outside?",
+    "a": "Bombs will be dropping everywhere."
+  },
+  {
+    "q": "According to U.S. President Donald Trump's February 28, 2026 statement, what specific type of weapon did he say the United States would destroy and raze their missile industry to the ground to eliminate?",
+    "a": "Missiles."
+  },
+  {
+    "q": "In his February 28, 2026 address, U.S. President Donald Trump claimed that Iranian proxies carried out a bombing in Beirut in which year, killing 241 American military personnel?",
+    "a": "1983."
+  },
+  {
+    "q": "U.S. President Donald Trump, in his February 28, 2026 statement, asserted that the Iranian regime has chanted \"Death to America\" for how many years?",
+    "a": "47 years."
+  },
+  {
+    "q": "In his February 28, 2026 video statement, U.S. President Donald Trump told the Iranian people that when the military operations were finished, they should take over their government, claiming it would be their only chance for how long?",
+    "a": "Generations."
+  },
+  {
+    "q": "According to U.S. President Donald Trump's February 28, 2026 address, the Iranian regime's proxies have continued to launch attacks against American forces and vessels in which geographic region?",
+    "a": "The Middle East."
+  },
+  {
+    "q": "U.S. President Donald Trump, in his February 28, 2026 statement, claimed that Iran killed tens of thousands of its own citizens on the street as they were doing what?",
+    "a": "Protesting."
+  },
+  {
+    "q": "In his February 28, 2026 address, U.S. President Donald Trump stated that the United States military would ensure that the region's terrorist proxies can no longer destabilize the region or use what specific type of improvised explosive device?",
+    "a": "IEDs (or roadside bombs)."
+  },
+  {
+    "q": "U.S. President Donald Trump, in his February 28, 2026 video statement, claimed that the Iranian regime sought to develop long-range missiles that could threaten allies in Europe and soon reach which specific geographic entity?",
+    "a": "The American homeland."
+  },
+  {
+    "q": "In his February 28, 2026 statement, U.S. President Donald Trump told the Islamic Revolutionary Guard that if they did not lay down their weapons, they would face what specific consequence?",
+    "a": "Certain death."
+  },
+  {
+    "q": "According to U.S. President Donald Trump's February 28, 2026 address, the October 7 attacks by Hamas slaughtered more than how many innocent people?",
+    "a": "1,000."
+  },
+  {
+    "q": "U.S. President Donald Trump, in his February 28, 2026 video statement, claimed that the United States obliterated Iran's nuclear program in Operation Midnight Hammer during which month and year?",
+    "a": "Last June (June 2025)."
+  },
+  {
+    "q": "In his February 28, 2026 address, U.S. President Donald Trump stated that the Iranian regime has armed, trained, and funded terrorist militias in four specific countries; name one of the countries he listed in the sequence \"From Lebanon to Yemen and Syria to Iraq\".",
+    "a": "Lebanon, Yemen, Syria, or Iraq."
+  },
+  {
+    "q": "U.S. President Donald Trump, in his February 28, 2026 statement, claimed that Iranian forces killed and maimed hundreds of American service members in which country?",
+    "a": "Iraq."
+  },
+  {
+    "q": "In his February 28, 2026 video address, U.S. President Donald Trump told the Iranian people to \"take over your government\" after the military operations, claiming this was their only chance for what duration of time?",
+    "a": "Generations."
+  }
+]

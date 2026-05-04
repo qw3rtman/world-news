@@ -1,0 +1,27 @@
+{
+  "hash": "713a9a170266",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://today.reuters.com/business/world-at-work/locked-out-bp-workers-picket-outside-indiana-refinery-amid-labor-contract-2026-03-19/",
+      "title": "Locked out BP workers picket outside Indiana refinery amid labor contract dispute | Reuters",
+      "published_date": "2026-03-19T00:00:00.000Z",
+      "author": "Nicole Jao",
+      "num_tokens": 414,
+      "text_length": 1975
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694937",
+      "spike_id": 10,
+      "market_question": "Will BP be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.15,
+      "spike_timestamp_before": "2026-03-19T06:00:39+00:00",
+      "spike_timestamp_after": "2026-03-19T12:00:27+00:00"
+    }
+  ]
+}

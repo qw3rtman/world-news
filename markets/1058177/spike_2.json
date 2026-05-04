@@ -1,0 +1,65 @@
+{
+  "spike_index": 2,
+  "direction": "up",
+  "price_before": 0.3,
+  "price_after": 0.55,
+  "delta": 0.25000000000000006,
+  "abs_delta": 0.25000000000000006,
+  "timestamp_before": "2026-02-20T02:00:23+00:00",
+  "timestamp_after": "2026-02-20T20:00:25+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.cbsnews.com/minnesota/news/feeding-our-future-79th-person-charged/?intcid=CNR-01-0623",
+      "file": "b8beda68bdd7.txt",
+      "title": "Minneapolis day care operator is 79th person charged in Feeding Our Future fraud - CBS Minnesota",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": "By\n                        \n               WCCO  Staff",
+      "text_length": 1552,
+      "status": "ok",
+      "num_tokens": 328
+    },
+    {
+      "url": "https://www.cbsnews.com/amp/minnesota/news/somali-day-care-fraud-lawsuit-minnesota-nick-shirley/",
+      "file": "2b8823d1ef99.txt",
+      "title": "Day cares featured in Nick Shirley video sue Minnesota for throwing them \"under the bus\" to appease federal government - CBS Minnesota",
+      "published_date": "2026-02-20T00:00:00.000Z",
+      "author": "By\n                        \n              \n                   Conor  Wight",
+      "text_length": 3919,
+      "status": "ok",
+      "num_tokens": 783
+    },
+    {
+      "url": "https://www.cbsnews.com/minnesota/news/feeding-our-future-79th-person-charged/",
+      "file": "57b3ca95a9de.txt",
+      "title": "Minneapolis day care operator is 79th person charged in Feeding Our Future fraud - CBS Minnesota",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": "By\n                        \n               WCCO  Staff",
+      "text_length": 1552,
+      "status": "ok",
+      "num_tokens": 328
+    },
+    {
+      "url": "https://www.cbsnews.com/minnesota/news/feeding-our-future-79th-person-charged/?intcid=CNR-02-0623",
+      "file": "7b82726852ec.txt",
+      "title": "Minneapolis day care operator is 79th person charged in Feeding Our Future fraud - CBS Minnesota",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": "By\n                        \n               WCCO  Staff",
+      "text_length": 1552,
+      "status": "ok",
+      "num_tokens": 328
+    },
+    {
+      "url": "https://www.cbsnews.com/amp/minnesota/news/feeding-our-future-79th-person-charged/",
+      "file": "fbd0e16c5ae9.txt",
+      "title": "Minneapolis day care operator is 79th person charged in Feeding Our Future fraud - CBS Minnesota",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": "By\n                        \n               WCCO  Staff",
+      "text_length": 1552,
+      "status": "ok",
+      "num_tokens": 328
+    }
+  ],
+  "total_tokens": 2095
+}

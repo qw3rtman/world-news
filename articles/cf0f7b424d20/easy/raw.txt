@@ -1,0 +1,106 @@
+[
+  {
+    "q": "On Thursday, March 5, 2026, what percentage decline did spot gold experience, and what was its final settlement price per ounce?",
+    "a": "Spot gold fell 1.2% to $5,076.59 per ounce."
+  },
+  {
+    "q": "Which two macroeconomic factors, according to the March 4, 2026 report, pressured gold prices by increasing the opportunity cost of holding non-yielding assets?",
+    "a": "Rising U.S. Treasury yields and a firmer U.S. dollar."
+  },
+  {
+    "q": "What was the record high price for gold reached on January 29, 2026, before the price reversal in early March 2026?",
+    "a": "$5,594.82 per ounce."
+  },
+  {
+    "q": "According to Bart Melek, global head of commodity strategy at TD Securities, what specific U.S. fiscal trend did he cite as supportive for gold's longer-term fundamentals?",
+    "a": "Significantly higher U.S. deficit."
+  },
+  {
+    "q": "During the week of March 4, 2026, how many days had the U.S.-Israeli campaign against Iran been ongoing?",
+    "a": "Six days."
+  },
+  {
+    "q": "What was the percentage change and final price for spot silver on March 4, 2026?",
+    "a": "Spot silver fell 1.8% to $81.91 per ounce."
+  },
+  {
+    "q": "Which U.S. economic data point released on Thursday, March 5, 2026, showed no change from the previous week?",
+    "a": "Initial jobless claims."
+  },
+  {
+    "q": "What was the settlement price for U.S. gold futures for April delivery on March 4, 2026?",
+    "a": "$5,078.70 per ounce."
+  },
+  {
+    "q": "Why did gold prices initially climb above $5,400 on Monday, March 2, 2026, before easing later in the week?",
+    "a": "Safe-haven demand driven by the start of the U.S.-Israeli air campaign against Iran."
+  },
+  {
+    "q": "What percentage increase did the U.S. dollar index (.DXY) experience on March 4, 2026?",
+    "a": "0.5%."
+  },
+  {
+    "q": "At what level did U.S. 10-year Treasury yields climb to on March 4, 2026, marking a three-week high?",
+    "a": "The article does not specify the exact yield percentage, only that they climbed to a three-week high."
+  },
+  {
+    "q": "Which Federal Reserve meeting date were markets expecting to see rates held steady at, as reported on March 4, 2026?",
+    "a": "March 18, 2026."
+  },
+  {
+    "q": "What was the percentage decline for platinum on March 4, 2026, and what was its final price per ounce?",
+    "a": "Platinum was down 1.1% to $2,125.10 per ounce."
+  },
+  {
+    "q": "What was the percentage decline for palladium on March 4, 2026, and what was its final price per ounce?",
+    "a": "Palladium lost 2.4% to $1,634.15 per ounce."
+  },
+  {
+    "q": "According to the March 4, 2026 report, what specific event did Tehran vow to retaliate against?",
+    "a": "A U.S. strike on a ship far from the main conflict zone."
+  },
+  {
+    "q": "What did the Federal Reserve state on Wednesday, March 4, 2026, regarding recent employment levels?",
+    "a": "Employment levels were stable in recent weeks."
+  },
+  {
+    "q": "Which U.S. jobs report, scheduled for release on Friday, March 6, 2026, were investors watching for clues on interest rate policy?",
+    "a": "The U.S. February jobs report."
+  },
+  {
+    "q": "What was the highest intraday price reached by spot gold on Thursday, March 5, 2026, before it reversed course?",
+    "a": "$5,194.59 per ounce."
+  },
+  {
+    "q": "How did layoffs in the U.S. change in February 2026, according to data released on March 4, 2026?",
+    "a": "Layoffs dropped sharply."
+  },
+  {
+    "q": "What concern grew among investors regarding the escalating conflict in the Middle East as of March 4, 2026?",
+    "a": "That the conflict could drive up inflation."
+  },
+  {
+    "q": "Why did the firm U.S. dollar make greenback-priced bullion less attractive to overseas buyers on March 4, 2026?",
+    "a": "It made the bullion more expensive for overseas buyers."
+  },
+  {
+    "q": "What did Bart Melek of TD Securities identify as the usual negative impact of higher Treasury yields on gold?",
+    "a": "Higher Treasury yields usually aren't great for gold."
+  },
+  {
+    "q": "What two conditions did the Federal Reserve cite on March 4, 2026, as continuing to increase alongside stable employment?",
+    "a": "Economic activity rose slightly and prices continued to increase."
+  },
+  {
+    "q": "Which specific unit of the Iranian military or government was not explicitly named in the March 4, 2026 report, but whose actions were implied by the U.S.-Israeli campaign?",
+    "a": "The article does not name a specific Iranian military unit, only referring to 'Tehran' and 'Iran'."
+  },
+  {
+    "q": "What was the primary reason cited for gold performing better when interest rates fall, as opposed to when they rise?",
+    "a": "Gold tends to perform better when interest rates fall because it is a non-yielding asset, making higher yields less attractive."
+  },
+  {
+    "q": "What uncertainty did Bart Melek highlight as a factor that would eventually support gold prices, related to U.S. fiscal policy?",
+    "a": "A massive amount of uncertainty and evidence of significantly higher U.S. deficit."
+  }
+]

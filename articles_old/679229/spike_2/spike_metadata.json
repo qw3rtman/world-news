@@ -1,0 +1,65 @@
+{
+  "spike_index": 2,
+  "direction": "up",
+  "price_before": 0.83,
+  "price_after": 0.998,
+  "delta": 0.16800000000000004,
+  "abs_delta": 0.16800000000000004,
+  "timestamp_before": "2026-03-03T06:00:22+00:00",
+  "timestamp_after": "2026-03-04T05:30:24+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.cbsnews.com/news/texas-primary-democratic-results-2026-midterm-elections-james-talarico-jasmine-crockett/",
+      "file": "a74301634b27.txt",
+      "title": "James Talarico projected to win Texas Democratic Senate primary, defeating Jasmine Crockett - CBS News",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "text_length": 5229,
+      "status": "ok",
+      "num_tokens": 1077
+    },
+    {
+      "url": "https://www.pbs.org/newshour/politics/democrat-james-talarico-wins-senate-primary-in-texas",
+      "file": "8e97d5c79dcf.txt",
+      "title": "Democrat James Talarico wins Senate primary in Texas | PBS News",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "text_length": 4835,
+      "status": "ok",
+      "num_tokens": 1021
+    },
+    {
+      "url": "https://www.newsweek.com/james-talarico-wins-texas-democratic-senate-primary-jasmine-crockett-11608029",
+      "file": "6213066b3b73.txt",
+      "title": "James Talarico Wins Texas Democratic Senate Primary - Newsweek",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "text_length": 3433,
+      "status": "ok",
+      "num_tokens": 680
+    },
+    {
+      "url": "http://fortune.com/2026/03/04/who-won-texas-senate-primary-democratic-party-talarico-crockett/",
+      "file": "9974be83c18a.txt",
+      "title": "Talarico defeats Crockett in heated primary as Democrats seek first Texas Senate seat in decades | Fortune",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "The Associated Press",
+      "text_length": 892,
+      "status": "ok",
+      "num_tokens": 207
+    },
+    {
+      "url": "https://www.nbcnews.com/politics/2026-election/texas-senate-primary-cornyn-paxton-hunt-talarico-crockett-rcna261447",
+      "file": "bfb7d14c157c.txt",
+      "title": "James Talarico wins Texas Democratic Senate primary as John Cornyn and Ken Paxton go to a GOP runoff",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "text_length": 8430,
+      "status": "ok",
+      "num_tokens": 1826
+    }
+  ],
+  "total_tokens": 4811
+}

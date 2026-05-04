@@ -1,0 +1,37 @@
+{
+  "hash": "ce0b881fb802",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://canary.haaretz.com/israel-news/israel-politics/2026-03-03/ty-article/.premium/likud-mk-says-elections-to-be-moved-to-july-amid-dispute-over-netanyahus-plans/0000019c-b3c4-df64-a59c-fbf6bd4f0000",
+      "title": "Likud Minister Says Israeli Elections to Be Moved Up to July for Netanyahu Bloc to Capitalize on Iran War - Israel Political News",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Noa Shpigel",
+      "num_tokens": 88,
+      "text_length": 396
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1484987",
+      "spike_id": 2,
+      "market_question": "Netanyahu out by June 30?",
+      "event_title": "Netanyahu out by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.29,
+      "spike_timestamp_before": "2026-03-02T22:00:33+00:00",
+      "spike_timestamp_after": "2026-03-03T03:30:36+00:00"
+    },
+    {
+      "market_id": "1484987",
+      "spike_id": 3,
+      "market_question": "Netanyahu out by June 30?",
+      "event_title": "Netanyahu out by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.295,
+      "spike_timestamp_before": "2026-03-03T03:30:36+00:00",
+      "spike_timestamp_after": "2026-03-03T19:30:35+00:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "hash": "097f442a6733",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/03/12/gold-treads-water-as-margin-calls-strong-dollar-offset-safety-demand.html",
+      "title": "Gold slips over 1% on strong dollar, easing rate-cut bets",
+      "published_date": "2026-03-12T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 510,
+      "text_length": 2184
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1032272",
+      "spike_id": 8,
+      "market_question": "Will Gold (GC) hit (HIGH) $5,500 by end of June?",
+      "event_title": "What will Gold (GC) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.18300000000000005,
+      "spike_timestamp_before": "2026-03-12T09:30:25+00:00",
+      "spike_timestamp_after": "2026-03-13T01:00:29+00:00"
+    }
+  ]
+}

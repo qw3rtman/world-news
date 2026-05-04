@@ -1,0 +1,65 @@
+{
+  "spike_index": 1,
+  "direction": "up",
+  "price_before": 0.385,
+  "price_after": 0.55,
+  "delta": 0.16500000000000004,
+  "abs_delta": 0.16500000000000004,
+  "timestamp_before": "2026-03-13T10:30:46+00:00",
+  "timestamp_after": "2026-03-14T09:30:30+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://canary.haaretz.com/israel-news/israel-politics/2026-03-13/ty-article/netanyahus-likud-party-makes-no-gains-amid-iran-war-poll-finds/0000019c-e67b-dc1d-adbf-e7fb26a70000",
+      "file": "bd7f73f18ac1.txt",
+      "title": "Netanyahu's Likud Party Makes No Gains Amid Iran War, Poll Finds - Israel Political News",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": "Haaretz",
+      "text_length": 2484,
+      "status": "ok",
+      "num_tokens": 634
+    },
+    {
+      "url": "https://haaretz.com/israel-news/israel-politics/2026-03-13/ty-article/.premium/epic-anticlimax-why-israelis-arent-giving-netanyahu-an-iran-bump-in-the-polls/0000019c-e6ad-d02e-abdf-efafe1070000",
+      "file": "b8ace926d60c.txt",
+      "title": "Epic Anticlimax: Why Israelis Aren't Giving Netanyahu an Iran Bump in the Polls - Israel Political News",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": "Dahlia Scheindlin",
+      "text_length": 835,
+      "status": "ok",
+      "num_tokens": 189
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/cvg5yp7v0ppo",
+      "file": "5ada153a2607.txt",
+      "title": "As hopes of regime change in Iran fade, Netanyahu faces political test",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": null,
+      "text_length": 8503,
+      "status": "ok",
+      "num_tokens": 1669
+    },
+    {
+      "url": "https://beta.japantimes.co.jp/news/2026/03/13/world/netanyahu-iran-regime-change/",
+      "file": "ad33370370f5.txt",
+      "title": "Netanyahu says no guarantee of Iran regime change after war - The Japan Times",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": "Dan Williams",
+      "text_length": 909,
+      "status": "ok",
+      "num_tokens": 168
+    },
+    {
+      "url": "https://www.thetimes.com/world/middle-east/article/binyamin-netanyahu-iran-israel-3dz6v772k",
+      "file": "195234258cb3.txt",
+      "title": "The Binyamin Netanyahu I knew: ending Iran\u2019s regime is his life\u2019s work",
+      "published_date": "2026-03-14T00:00:00.000Z",
+      "author": "Matthew Gould",
+      "text_length": 10854,
+      "status": "ok",
+      "num_tokens": 2287
+    }
+  ],
+  "total_tokens": 4947
+}

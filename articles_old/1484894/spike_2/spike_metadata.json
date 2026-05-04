@@ -1,0 +1,65 @@
+{
+  "spike_index": 2,
+  "direction": "up",
+  "price_before": 0.555,
+  "price_after": 0.745,
+  "delta": 0.18999999999999995,
+  "abs_delta": 0.18999999999999995,
+  "timestamp_before": "2026-03-08T23:30:22+00:00",
+  "timestamp_after": "2026-03-09T21:00:32+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.nbcnews.com/world/iran/irans-foreign-minister-rejects-calls-ceasefire-continue-fighting-rcna262291",
+      "file": "81b3681f08d8.txt",
+      "title": "Iran's foreign minister rejects calls for a ceasefire: 'We need to continue fighting for the sake of our people'",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": null,
+      "text_length": 4880,
+      "status": "ok",
+      "num_tokens": 1040
+    },
+    {
+      "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-trump-israel-warship-attack-middle-east-rcna261866",
+      "file": "e1794c669bff.txt",
+      "title": "Iran vows revenge after U.S. sinks warship; foreign minister rejects negotiations",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "NBC News",
+      "text_length": 2257,
+      "status": "ok",
+      "num_tokens": 479
+    },
+    {
+      "url": "http://www.cnn.com/2026/03/09/middleeast/iran-long-war-kamal-kharazi-interview-intl",
+      "file": "5dc805adc8c9.txt",
+      "title": "Exclusive: Iran is ready for a long war with the US and only economic pain will end it, senior official tells CNN | CNN",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "Frederik Pleitgen, Claudia Otto",
+      "text_length": 4164,
+      "status": "ok",
+      "num_tokens": 842
+    },
+    {
+      "url": "https://www.nbcnews.com/politics/donald-trump/president-calls-iran-war-little-excursion-will-end-soon-rcna262494",
+      "file": "ef36438c0b90.txt",
+      "title": "Trump says Iran war will end 'soon' but also issues threats that could prolong it",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "text_length": 5315,
+      "status": "ok",
+      "num_tokens": 1199
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/when-will-the-iran-war-end-trump-hints-at-mutual-decision-with-netanyahu/articleshow/129309840.cms",
+      "file": "2b8b3f28da37.txt",
+      "title": "When will the Iran war end? Trump hints at 'mutual' decision with Netanyahu - The Times of India",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "TOI World Desk  / TIMESOFINDIA.COM /  Updated: Mar 09, 2026, 12:28 IST",
+      "text_length": 1665,
+      "status": "ok",
+      "num_tokens": 336
+    }
+  ],
+  "total_tokens": 3896
+}

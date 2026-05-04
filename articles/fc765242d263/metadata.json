@@ -1,0 +1,27 @@
+{
+  "hash": "fc765242d263",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/uk/uk-says-iran-must-never-be-allowed-develop-nuclear-weapons-2026-02-28/",
+      "title": "UK forces join 'regional defensive operations' as US, Israel strike Iran | Reuters",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Sam Tabahriti",
+      "num_tokens": 565,
+      "text_length": 2923
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1385748",
+      "spike_id": 1,
+      "market_question": "Will France, UK, or Germany strike Iran by March 31?",
+      "event_title": "Will France, UK, or Germany strike Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.15100000000000002,
+      "spike_timestamp_before": "2026-02-27T19:30:39+00:00",
+      "spike_timestamp_after": "2026-02-28T19:00:37+00:00"
+    }
+  ]
+}

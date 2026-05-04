@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the article published by DER SPIEGEL on March 16, 2026, titled \"Unicredit: Das steckt hinter dem Übernahmeangebot für die Commerzbank,\" which executive is pictured in the photo credited to Nick Zonna / ZUMA Press / picture alliance?",
+    "a": "Andrea Orcel, the CEO of UniCredit."
+  },
+  {
+    "q": "According to the metadata of the DER SPIEGEL article published on March 16, 2026, what is the title of the piece discussing the takeover offer?",
+    "a": "\"Unicredit: Das steckt hinter dem Übernahmeangebot für die Commerzbank\" (UniCredit: What is behind the takeover offer for Commerzbank)."
+  },
+  {
+    "q": "In the context of the March 16, 2026 DER SPIEGEL article regarding UniCredit and Commerzbank, what is the name of the photo agency credited for the image of Andrea Orcel?",
+    "a": "Nick Zonna / ZUMA Press / picture alliance."
+  },
+  {
+    "q": "What specific error message is displayed to readers attempting to access the DER SPIEGEL article published on March 16, 2026, regarding the link's validity?",
+    "a": "The link is either older than 30 days or the article has already been opened 10 times."
+  },
+  {
+    "q": "Which two financial institutions are the central subjects of the takeover discussion in the DER SPIEGEL article published on March 16, 2026?",
+    "a": "UniCredit and Commerzbank."
+  },
+  {
+    "q": "Who is the CEO of UniCredit mentioned in the caption of the March 16, 2026 DER SPIEGEL article?",
+    "a": "Andrea Orcel."
+  },
+  {
+    "q": "What is the publication date of the DER SPIEGEL article titled \"Unicredit: Das steckt hinter dem Übernahmeangebot für die Commerzbank\"?",
+    "a": "March 16, 2026."
+  },
+  {
+    "q": "In the March 16, 2026 DER SPIEGEL article, what question is posed in the caption beneath the photo of Andrea Orcel?",
+    "a": "\"Wird er bald die Commerzbank beherrschen?\" (Will he soon dominate Commerzbank?)."
+  },
+  {
+    "q": "What social media and communication platforms are listed as sharing options in the header of the March 16, 2026 DER SPIEGEL article?",
+    "a": "WhatsApp, Messenger, E-Mail, Facebook, and X.com."
+  },
+  {
+    "q": "What is the first navigation option listed in the header of the March 16, 2026 DER SPIEGEL article?",
+    "a": "Link kopieren (Copy link)."
+  },
+  {
+    "q": "Which German news publication released the article on March 16, 2026, discussing UniCredit's potential acquisition of Commerzbank?",
+    "a": "DER SPIEGEL."
+  },
+  {
+    "q": "What is the specific condition regarding the number of times an article can be opened before access is restricted, according to the error message in the March 16, 2026 DER SPIEGEL article?",
+    "a": "The article has already been opened 10 times."
+  },
+  {
+    "q": "What is the specific condition regarding the age of a link before access is restricted, according to the error message in the March 16, 2026 DER SPIEGEL article?",
+    "a": "The link is older than 30 days."
+  },
+  {
+    "q": "In the March 16, 2026 DER SPIEGEL article, who is the photographer credited for the image of UniCredit CEO Andrea Orcel?",
+    "a": "Nick Zonna."
+  },
+  {
+    "q": "What is the full credit line for the image of Andrea Orcel in the March 16, 2026 DER SPIEGEL article?",
+    "a": "Nick Zonna / ZUMA Press / picture alliance."
+  },
+  {
+    "q": "Which organization is listed as the final part of the image credit in the March 16, 2026 DER SPIEGEL article?",
+    "a": "picture alliance."
+  },
+  {
+    "q": "What is the German phrase used in the March 16, 2026 DER SPIEGEL article to indicate that the content section should be skipped to?",
+    "a": "\"Zum Inhalt springen\" (Jump to content)."
+  },
+  {
+    "q": "In the March 16, 2026 DER SPIEGEL article, what is the German phrase used to indicate that the link was sent to the user?",
+    "a": "\"Der Link, der Ihnen geschickt wurde\" (The link that was sent to you)."
+  },
+  {
+    "q": "What is the primary reason given in the March 16, 2026 DER SPIEGEL article for why the user cannot view the article?",
+    "a": "The link is either older than 30 days or the article has already been opened 10 times."
+  },
+  {
+    "q": "Which two entities are involved in the takeover offer discussed in the title of the March 16, 2026 DER SPIEGEL article?",
+    "a": "UniCredit and Commerzbank."
+  },
+  {
+    "q": "What is the name of the social media platform listed as \"X.com\" in the sharing options of the March 16, 2026 DER SPIEGEL article?",
+    "a": "X.com."
+  },
+  {
+    "q": "In the March 16, 2026 DER SPIEGEL article, what is the full title of the section describing the image?",
+    "a": \"UniCredit-Chef Andrea Orcel: Wird er bald die Commerzbank beherrschen?\""
+  },
+  {
+    "q": "What is the specific date range mentioned in the error message of the March 16, 2026 DER SPIEGEL article regarding link validity?",
+    "a": "Older than 30 days."
+  },
+  {
+    "q": "What is the specific numerical limit mentioned in the error message of the March 16, 2026 DER SPIEGEL article regarding article views?",
+    "a": "10 times."
+  },
+  {
+    "q": "Which photo agency is part of the credit line for the image in the March 16, 2026 DER SPIEGEL article?",
+    "a": "ZUMA Press."
+  }
+]

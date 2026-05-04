@@ -1,0 +1,47 @@
+{
+  "hash": "ae14a416291a",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-02-26/caesars-casino-chain-draw-buyout-interest-from-fertitta-ft-says?srnd=homepage-americas",
+      "title": "Caesars Casino Chain Gets Buyout Interest From Fertitta, FT Says - Bloomberg",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": "Rob Golum",
+      "num_tokens": 112,
+      "text_length": 502
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694941",
+      "spike_id": 10,
+      "market_question": "Will Pizza Hut be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.34,
+      "spike_timestamp_before": "2026-02-27T23:30:34+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:07+00:00"
+    },
+    {
+      "market_id": "694941",
+      "spike_id": 11,
+      "market_question": "Will Pizza Hut be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.16000000000000003,
+      "spike_timestamp_before": "2026-02-28T08:30:07+00:00",
+      "spike_timestamp_after": "2026-02-28T19:30:34+00:00"
+    },
+    {
+      "market_id": "694941",
+      "spike_id": 9,
+      "market_question": "Will Pizza Hut be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.195,
+      "spike_timestamp_before": "2026-02-27T07:30:35+00:00",
+      "spike_timestamp_after": "2026-02-27T23:30:34+00:00"
+    }
+  ]
+}

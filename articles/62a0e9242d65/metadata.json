@@ -1,0 +1,57 @@
+{
+  "hash": "62a0e9242d65",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.thehindu.com/business/markets/silver-gold-futures-surge-4-as-us-israel-strikes-on-iran-trigger-safe-haven-rush/article70694197.ece",
+      "title": "Silver, gold futures surge 4% as U.S.-Israel strikes on Iran trigger rush - The Hindu",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "PTI",
+      "num_tokens": 646,
+      "text_length": 2804
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1032343",
+      "spike_id": 20,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "up",
+      "spike_delta": 0.1935,
+      "spike_timestamp_before": "2026-03-01T21:30:37+00:00",
+      "spike_timestamp_after": "2026-03-02T04:30:21+00:00"
+    },
+    {
+      "market_id": "1032343",
+      "spike_id": 21,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "up",
+      "spike_delta": 0.265,
+      "spike_timestamp_before": "2026-03-02T13:30:21+00:00",
+      "spike_timestamp_after": "2026-03-03T13:00:23+00:00"
+    },
+    {
+      "market_id": "1032343",
+      "spike_id": 22,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "up",
+      "spike_delta": 0.22799999999999998,
+      "spike_timestamp_before": "2026-03-02T18:00:30+00:00",
+      "spike_timestamp_after": "2026-03-03T16:30:26+00:00"
+    },
+    {
+      "market_id": "1032343",
+      "spike_id": 23,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "up",
+      "spike_delta": 0.2415,
+      "spike_timestamp_before": "2026-03-03T08:00:21+00:00",
+      "spike_timestamp_after": "2026-03-03T22:30:22+00:00"
+    }
+  ]
+}

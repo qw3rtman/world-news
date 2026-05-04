@@ -1,0 +1,27 @@
+{
+  "hash": "2fabb78c1897",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://abcnews.go.com/Politics/trump-weighs-strikes-iran-nuclear-program-obliterated/story?id=130426644",
+      "title": "Trump weighs strikes against Iran for nuclear program he says he 'obliterated' - ABC News",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": "ABC News",
+      "num_tokens": 1350,
+      "text_length": 6614
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1422365",
+      "spike_id": 4,
+      "market_question": "Will the US strike Somalia next?",
+      "event_title": "Next Country US Strikes",
+      "spike_direction": "down",
+      "spike_delta": -0.33999999999999997,
+      "spike_timestamp_before": "2026-02-26T15:30:32+00:00",
+      "spike_timestamp_after": "2026-02-27T15:00:41+00:00"
+    }
+  ]
+}

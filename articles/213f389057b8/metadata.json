@@ -1,0 +1,27 @@
+{
+  "hash": "213f389057b8",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2026/03/11/google-completes-32b-acquisition-of-wiz/",
+      "title": "Google wraps up $32B acquisition of cloud cybersecurity startup Wiz | TechCrunch",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": "Rebecca Bellan",
+      "num_tokens": 413,
+      "text_length": 2099
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "700395",
+      "spike_id": 7,
+      "market_question": "Will Lovable be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.15000000000000002,
+      "spike_timestamp_before": "2026-03-13T11:00:48+00:00",
+      "spike_timestamp_after": "2026-03-14T11:00:38+00:00"
+    }
+  ]
+}

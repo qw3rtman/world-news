@@ -1,0 +1,37 @@
+{
+  "hash": "4e6c5e3baca0",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://semafor.com/article/02/25/2026/perplexity-launches-computer-super-agent",
+      "title": "Perplexity launches ‘Computer’ super agent | Semafor",
+      "published_date": "2026-02-25T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 429,
+      "text_length": 1977
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "700396",
+      "spike_id": 3,
+      "market_question": "Will Perplexity AI be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.31499999999999995,
+      "spike_timestamp_before": "2026-02-24T11:30:30+00:00",
+      "spike_timestamp_after": "2026-02-25T05:00:30+00:00"
+    },
+    {
+      "market_id": "700396",
+      "spike_id": 4,
+      "market_question": "Will Perplexity AI be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.205,
+      "spike_timestamp_before": "2026-02-25T05:00:30+00:00",
+      "spike_timestamp_after": "2026-02-25T18:30:30+00:00"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the acquisition announced in March 2026, which defense technology company purchased the space surveillance firm ExoAnalytic Solutions, and how many total employees will the combined space defense team have after the integration?",
+    "a": "Anduril purchased ExoAnalytic Solutions, and the combined team will have 250 employees (120 from Anduril and 130 from ExoAnalytic)."
+  },
+  {
+    "q": "What specific infrastructure does ExoAnalytic Solutions operate to track spacecraft in high orbits, and what is the primary purpose of the software developed by its engineers for U.S. national security agencies?",
+    "a": "ExoAnalytic operates a network of 400 telescopes around the world, and its software converts observations into situational awareness tools for monitoring adversary spacecraft and coordinating American assets.",
+  },
+  {
+    "q": "Which two venture capital firms were reported by Reuters in March 2026 to be investing in Anduril's $4 billion funding round, and did Anduril disclose the financial terms of its acquisition of ExoAnalytic Solutions?",
+    "a": "Thrive Capital and Andreessen Horowitz are investing in Anduril, and Anduril did not disclose the terms of the deal with ExoAnalytic Solutions.",
+  },
+  {
+    "q": "How will ExoAnalytic Solutions be structured within Anduril following the March 2026 acquisition, and what is Anduril VP of engineering Gokul Subramanian's stated commitment regarding ExoAnalytic's customer base?",
+    "a": "ExoAnalytic will be directly integrated into Anduril rather than run as a separate subsidiary, and it will continue to serve existing and future outside customers.",
+  },
+  {
+    "q": "Which U.S. government defense system is Anduril's technology positioned to support, and what is the expected composition of that system regarding satellite infrastructure?",
+    "a": "Anduril's technology could help win contracts for Golden Dome, which is expected to include thousands of satellites to track and target enemy missiles.",
+  },
+  {
+    "q": "In 2026, Anduril plans to launch three internally funded R&D spacecraft; which two partner companies are involved in the missions involving space tracking data in high orbit?",
+    "a": "The two partner companies are Impulse Space and Argo Space.",
+  },
+  {
+    "q": "Which company is Anduril partnering with to launch an infrared tracking satellite in 2026, and whose experience in processing space data will be utilized for this project?",
+    "a": "Anduril is partnering with Apex Space, utilizing ExoAnalytic Solutions' experience in processing space data.",
+  },
+  {
+    "q": "What specific military contract did Anduril receive from the Pentagon in late 2025, and how might the machine vision algorithms developed by ExoAnalytic Solutions contribute to this effort?",
+    "a": "Anduril received a contract to develop a space-based missile interceptor, and ExoAnalytic's algorithms are useful for interceptors trying to track and engage incoming threats.",
+  },
+  {
+    "q": "In what year was ExoAnalytic Solutions founded, and what was the original motivation cited by CEO Doug Hendrix for the company's creation regarding U.S. military needs?",
+    "a": "ExoAnalytic Solutions was founded in 2008 to adapt missile defense sensor technology to track spacecraft after U.S. military officials called for better ways to understand space activities.",
+  },
+  {
+    "q": "How much funding has ExoAnalytic Solutions received from federal SBIR grants since 2010, and what other source of early growth funding did the company utilize?",
+    "a": "ExoAnalytic received $26 million in SBIR grants since 2010, and its early growth was also funded by contracts from the federal government.",
+  },
+  {
+    "q": "Which two nations' spacecraft have U.S. Space Force officials expressed deep concern about regarding their proximity to American and European satellites?",
+    "a": "U.S. Space Force officials have expressed concern about Chinese and Russian spacecraft.",
+  },
+  {
+    "q": "What potential threats do U.S. Space Force officials fear from adversarial spacecraft flying closely alongside American and European satellites?",
+    "a": "Officials fear these spacecraft could intercept communications or damage satellites with electronic or other weapons.",
+  },
+  {
+    "q": "According to Anduril VP of engineering Gokul Subramanian, what did a U.S. commander in the Pacific state two years prior to March 2026 regarding fleet operations and space security?",
+    "a": "The commander stated that the fleet cannot leave the port without the space layer being secured.",
+  },
+  {
+    "q": "What is the full title of Gokul Subramanian at Anduril, and what specific domain expertise did he attribute to ExoAnalytic Solutions in March 2026?",
+    "a": "Gokul Subramanian is the VP of engineering at Anduril, and he described ExoAnalytic as experts in space domain awareness and missile defense.",
+  },
+  {
+    "q": "Who is the author of the March 11, 2026 TechCrunch article about Anduril's acquisition, and what is his previous professional affiliation mentioned in the byline?",
+    "a": "The author is Tim Fernholz, who was formerly a senior reporter at Quartz.",
+  },
+  {
+    "q": "What is the title of the book written by Tim Fernholz, the journalist who reported on Anduril's acquisition in March 2026?",
+    "a": "Tim Fernholz is the author of Rocket Billionaires: Elon Musk, Jeff Bezos and the New Space Race.",
+  },
+  {
+    "q": "How many employees did Anduril have focused on space defense prior to the March 2026 acquisition of ExoAnalytic Solutions?",
+    "a": "Anduril had 120 employees focused on space defense prior to the acquisition.",
+  },
+  {
+    "q": "What specific type of satellite mission is Anduril planning to execute in partnership with Apex Space in 2026, and what data source will it rely on?",
+    "a": "Anduril is planning to launch an infrared tracking satellite that will rely on ExoAnalytic Solutions' experience processing space data.",
+  },
+  {
+    "q": "Which two companies, other than Apex Space, are Anduril partnering with for the two high-orbit missions expected to launch in 2026?",
+    "a": "Anduril is partnering with Impulse Space and Argo Space for the two high-orbit missions.",
+  },
+  {
+    "q": "What is the primary function of the network of 400 telescopes operated by ExoAnalytic Solutions as described in the March 2026 article?",
+    "a": "The network is used to track spacecraft in high orbits above the planet.",
+  },
+  {
+    "q": "Who is the CEO of ExoAnalytic Solutions who provided context on the company's founding in a 2024 interview?",
+    "a": "The CEO of ExoAnalytic Solutions is Doug Hendrix.",
+  },
+  {
+    "q": "In the context of the March 2026 acquisition, what is the strategic goal Anduril aims to provide to the Department of Defense regarding space operations?",
+    "a": "Anduril aims to provide the best catalog of everything going on in space.",
+  },
+  {
+    "q": "What specific technological capability from ExoAnalytic Solutions is being applied to Anduril's space-based missile interceptor development contract received in late 2025?",
+    "a": "The machine vision algorithms developed by ExoAnalytic to spot satellites in orbit are being applied to help interceptors track and engage incoming threats.",
+  },
+  {
+    "q": "How many employees from ExoAnalytic Solutions are joining Anduril as part of the March 2026 acquisition?",
+    "a": "130 employees from ExoAnalytic Solutions are joining Anduril.",
+  },
+  {
+    "q": "What is the name of the air and missile defense system being developed by the U.S. government that Anduril's technology could support, and how many satellites is it expected to include?",
+    "a": "The system is called Golden Dome, and it is expected to include thousands of satellites.",
+  }
+]

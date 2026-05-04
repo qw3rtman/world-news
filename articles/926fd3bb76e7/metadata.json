@@ -1,0 +1,37 @@
+{
+  "hash": "926fd3bb76e7",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnn.com/2026/03/01/world/video/exclusive-top-iranian-official-attack-us-bases-abroad-vrtc",
+      "title": "EXCLUSIVE Top Iranian official: ‘No choice’ but to attack US bases abroad | CNN",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Zane Heinlein",
+      "num_tokens": 68,
+      "text_length": 298
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1385895",
+      "spike_id": 3,
+      "market_question": "Will the US next strike Iran during the week of March 1-7, 2026 (ET)?",
+      "event_title": "When will the US next strike Iran? (Week)",
+      "spike_direction": "down",
+      "spike_delta": -0.429,
+      "spike_timestamp_before": "2026-02-27T23:30:38+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:17+00:00"
+    },
+    {
+      "market_id": "1385895",
+      "spike_id": 4,
+      "market_question": "Will the US next strike Iran during the week of March 1-7, 2026 (ET)?",
+      "event_title": "When will the US next strike Iran? (Week)",
+      "spike_direction": "down",
+      "spike_delta": -0.4295,
+      "spike_timestamp_before": "2026-02-27T23:30:38+00:00",
+      "spike_timestamp_after": "2026-02-28T13:00:37+00:00"
+    }
+  ]
+}

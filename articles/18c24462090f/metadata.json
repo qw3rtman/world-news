@@ -1,0 +1,27 @@
+{
+  "hash": "18c24462090f",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.koreaherald.com/article/10679795",
+      "title": "100-day local election countdown begins - The Korea Herald",
+      "published_date": "2026-02-22T00:00:00.000Z",
+      "author": "Son Ji-hyoung",
+      "num_tokens": 895,
+      "text_length": 4194
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1223152",
+      "spike_id": 1,
+      "market_question": "Will António José Seguro win the second round by 20–30%?",
+      "event_title": "Portugal Presidential Election Margin of Victory: Second Round",
+      "spike_direction": "up",
+      "spike_delta": 0.494,
+      "spike_timestamp_before": "2026-02-22T04:30:16+00:00",
+      "spike_timestamp_after": "2026-02-23T04:00:19+00:00"
+    }
+  ]
+}

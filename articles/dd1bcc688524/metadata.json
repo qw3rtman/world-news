@@ -1,0 +1,27 @@
+{
+  "hash": "dd1bcc688524",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://blogs.timesofisrael.com/could-war-between-the-united-states-israel-and-iran-begin-this-weekend/",
+      "title": "The Blogs: Could war between the United States, Israel and Iran begin this weekend? | Celeo Ramirez | The Times of Israel",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": "Celeo Ramirez",
+      "num_tokens": 1456,
+      "text_length": 7951
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1198479",
+      "spike_id": 1,
+      "market_question": "Will US or Israel strike Iran by February 28, 2026?",
+      "event_title": "US/Israel strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.21000000000000002,
+      "spike_timestamp_before": "2026-02-27T09:30:24+00:00",
+      "spike_timestamp_after": "2026-02-27T14:00:26+00:00"
+    }
+  ]
+}

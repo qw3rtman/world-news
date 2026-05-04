@@ -1,0 +1,65 @@
+{
+  "spike_index": 9,
+  "direction": "up",
+  "price_before": 0.839,
+  "price_after": 0.9995,
+  "delta": 0.1605000000000001,
+  "abs_delta": 0.1605000000000001,
+  "timestamp_before": "2026-03-02T15:30:42+00:00",
+  "timestamp_after": "2026-03-03T13:00:28+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "http://polling.reuters.com/world/middle-east/israel-says-it-launched-pre-emptive-attack-against-iran-2026-02-28/",
+      "file": "f45067123de4.txt",
+      "title": "US and Israel launch \"pre-emptive\" attack against Iran | Reuters",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 2799,
+      "status": "ok",
+      "num_tokens": 537
+    },
+    {
+      "url": "https://www.pbs.org/newshour/world/what-to-know-about-the-u-s-israel-attacks-on-iran",
+      "file": "c9c4bf697df5.txt",
+      "title": "What to know about the U.S.-Israel attacks on Iran | PBS News",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 6294,
+      "status": "ok",
+      "num_tokens": 1264
+    },
+    {
+      "url": "http://uk.mobile.reuters.com/business/aerospace-defense/israel-us-launch-strikes-iran-2026-02-28/",
+      "file": "18520efbb1b4.txt",
+      "title": "Iranian leader Khamenei killed in air strikes as U.S., Israel launch attacks | Reuters",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Phil Stewart",
+      "text_length": 7792,
+      "status": "ok",
+      "num_tokens": 1602
+    },
+    {
+      "url": "https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk",
+      "file": "e806f1e304ec.txt",
+      "title": "Why the US and Israel attacked Iran; what we know so far | CNN",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Christian Edwards, Karina Tsui, Mitchell McCluskey",
+      "text_length": 11611,
+      "status": "ok",
+      "num_tokens": 2454
+    },
+    {
+      "url": "https://www.pbs.org/newshour/politics/fact-checking-statements-made-by-trump-to-justify-u-s-strikes-on-iran",
+      "file": "f376a401f6ce.txt",
+      "title": "Fact-checking statements made by Trump to justify U.S. strikes on Iran | PBS News",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 5866,
+      "status": "ok",
+      "num_tokens": 1138
+    }
+  ],
+  "total_tokens": 6995
+}

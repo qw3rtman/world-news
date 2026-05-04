@@ -1,0 +1,65 @@
+{
+  "spike_index": 9,
+  "direction": "down",
+  "price_before": 0.445,
+  "price_after": 0.145,
+  "delta": -0.30000000000000004,
+  "abs_delta": 0.30000000000000004,
+  "timestamp_before": "2026-03-09T00:00:31+00:00",
+  "timestamp_after": "2026-03-09T23:30:26+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://uat.apnews.com/video/mexican-navy-seizes-nearly-2-tons-of-suspected-cocaine-at-sea-as-us-continues-lethal-strikes-7b9af7056702475f8fa44a15aaa8553b",
+      "file": "72da6a08b418.txt",
+      "title": "Mexican Navy seizes nearly 2 tons of suspected cocaine at sea as US continues lethal strikes | AP News",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "text_length": 154,
+      "status": "ok",
+      "num_tokens": 24
+    },
+    {
+      "url": "https://www.france24.com/en/americas/20260307-trump-hosts-latin-america-allies-form-coalition-against-drug-cartels-shield",
+      "file": "63391f5122c5.txt",
+      "title": "Trump hosts Latin America allies to form coalition against drug cartels - France 24",
+      "published_date": "2026-03-07T00:00:00.000Z",
+      "author": null,
+      "text_length": 5281,
+      "status": "ok",
+      "num_tokens": 990
+    },
+    {
+      "url": "https://www.reuters.com/world/us/days-after-iran-strikes-trump-hosts-latin-american-leaders-with-china-focus-2026-03-07/",
+      "file": "959268eb35ab.txt",
+      "title": "Aggressive Trump launches Latin America cartel coalition | Reuters",
+      "published_date": "2026-03-07T00:00:00.000Z",
+      "author": "Nandita Bose",
+      "text_length": 5306,
+      "status": "ok",
+      "num_tokens": 1061
+    },
+    {
+      "url": "https://cbc.ca/news/world/us-ecuador-joint-operation-drug-trafficking-9.7118563",
+      "file": "1a7cc7155c50.txt",
+      "title": "U.S. says it worked with Ecuador to bomb alleged drug-trafficking operations site | CBC News",
+      "published_date": "2026-03-07T00:00:00.000Z",
+      "author": "Thomson Reuters    \u00b7  Posted: Mar 06, 2026 10:15 PM EST | Last Updated: March 7",
+      "text_length": 2038,
+      "status": "ok",
+      "num_tokens": 425
+    },
+    {
+      "url": "https://amp.dw.com/en/us-ecuador-launch-joint-anti-drug-strikes/a-76256541",
+      "file": "c3bb16accd84.txt",
+      "title": "US, Ecuador launch joint anti-drug strikes",
+      "published_date": "2026-03-07T00:00:00.000Z",
+      "author": "Dharvi Vaid  Reporter and news writer based in New Delhi @VDharvi",
+      "text_length": 2479,
+      "status": "ok",
+      "num_tokens": 506
+    }
+  ],
+  "total_tokens": 3006
+}

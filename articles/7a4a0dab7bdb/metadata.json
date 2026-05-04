@@ -1,0 +1,37 @@
+{
+  "hash": "7a4a0dab7bdb",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnn.com/2026/03/04/politics/james-talarico-texas-senate-primary",
+      "title": "James Talarico defeats Jasmine Crockett to win Democratic primary in Texas Senate race | CNN Politics",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "Arlette Saenz",
+      "num_tokens": 996,
+      "text_length": 4877
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "679231",
+      "spike_id": 1,
+      "market_question": "Will Jasmine Crockett be the Democratic nominee for Senate in Texas?",
+      "event_title": "Texas Democratic Senate Primary Winner",
+      "spike_direction": "down",
+      "spike_delta": -0.1765,
+      "spike_timestamp_before": "2026-03-03T02:30:30+00:00",
+      "spike_timestamp_after": "2026-03-04T02:30:30+00:00"
+    },
+    {
+      "market_id": "679231",
+      "spike_id": 2,
+      "market_question": "Will Jasmine Crockett be the Democratic nominee for Senate in Texas?",
+      "event_title": "Texas Democratic Senate Primary Winner",
+      "spike_direction": "down",
+      "spike_delta": -0.1545,
+      "spike_timestamp_before": "2026-03-03T11:30:44+00:00",
+      "spike_timestamp_after": "2026-03-04T09:30:29+00:00"
+    }
+  ]
+}

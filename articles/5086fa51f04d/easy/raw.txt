@@ -1,0 +1,102 @@
+[
+  {
+    "q": "As of March 10, 2026, how many U.S. service members had been killed in the war with Iran, according to the U.S. Department of Defense?",
+    "a": "Seven."
+  },
+  {
+    "q": "According to Iranian government officials, how many civilians had died in Iran during the first two weeks of the war with the U.S. and Israel as of March 2026?",
+    "a": "More than 1,300."
+  },
+  {
+    "q": "Which news organization stated it could not independently verify the Iranian civilian death toll reported by Iranian government officials in March 2026?",
+    "a": "CBS News."
+  },
+  {
+    "q": "According to U.S. Central Command, how many targets were struck during the first 10 days of the U.S. and Israel's war with Iran in early 2026?",
+    "a": "Over 5,000."
+  },
+  {
+    "q": "According to U.S. Central Command, how many Iranian vessels were damaged or destroyed in the first 10 days of the war with the U.S. and Israel in early 2026?",
+    "a": "50."
+  },
+  {
+    "q": "Which two countries were engaged in a war with Iran that had entered its second week as of March 10, 2026?",
+    "a": "The U.S. and Israel."
+  },
+  {
+    "q": "Which data team compiled the information regarding the locations of strikes in the U.S. and Israel's war with Iran as of March 2026?",
+    "a": "The CBS News Data Team."
+  },
+  {
+    "q": "Which three entities provided the government estimates, military research, and visual verification used by the CBS News Data Team to track war targets in early 2026?",
+    "a": "Government officials, military research institutes, and CBS News research and visual verification."
+  },
+  {
+    "q": "Which organizations assisted CBS News in verifying the locations of strikes in the U.S. and Israel's war with Iran as of March 2026?",
+    "a": "The Associated Press and the Institute for the Study of War."
+  },
+  {
+    "q": "What type of visual aid did the CBS News Data Team create to show the known locations of strikes carried out by U.S., Israeli, and Iranian forces in early 2026?",
+    "a": "A map."
+  },
+  {
+    "q": "In the context of the war starting in early 2026, which side reported that more than 1,300 civilians had died?",
+    "a": "Iranian government officials."
+  },
+  {
+    "q": "Which military command provided the statistics regarding over 5,000 targets struck and 50 Iranian vessels damaged or destroyed in early 2026?",
+    "a": "U.S. Central Command."
+  },
+  {
+    "q": "As of March 10, 2026, into which week of the conflict had the U.S. and Israel's war with Iran progressed?",
+    "a": "The second week."
+  },
+  {
+    "q": "Which news outlet published the article titled 'Map and chart track the latest U.S. and Iranian war targets' on March 10, 2026?",
+    "a": "CBS News."
+  },
+  {
+    "q": "According to the CBS News Data Team's research in early 2026, which forces carried out strikes shown on the map of war targets?",
+    "a": "U.S., Israeli, and Iranian forces."
+  },
+  {
+    "q": "What was the approximate number of Iranian civilian deaths reported by Iranian government officials in the war with the U.S. and Israel as of March 2026, a figure CBS News could not verify?",
+    "a": "More than 1,300."
+  },
+  {
+    "q": "Which two international news or research organizations collaborated with CBS News to verify imagery and reporting on war targets in early 2026?",
+    "a": "The Associated Press and the Institute for the Study of War."
+  },
+  {
+    "q": "How many U.S. service members were confirmed killed by the U.S. Department of Defense in the war with Iran as of March 2026?",
+    "a": "Seven."
+  },
+  {
+    "q": "What specific time frame did U.S. Central Command use to report that over 5,000 targets were struck and 50 Iranian vessels were damaged or destroyed?",
+    "a": "The first 10 days of the war."
+  },
+  {
+    "q": "Which group compiled the data on war targets using government estimates, military research institutes, and CBS News research as of March 2026?",
+    "a": "The CBS News Data Team."
+  },
+  {
+    "q": "In the war with Iran beginning in early 2026, which side suffered the reported death of seven service members?",
+    "a": "The U.S."
+  },
+  {
+    "q": "Which organization stated it could not independently verify the Iranian civilian casualty count of over 1,300 reported in March 2026?",
+    "a": "CBS News."
+  },
+  {
+    "q": "What was the total number of Iranian vessels damaged or destroyed according to U.S. Central Command in the first 10 days of the war in early 2026?",
+    "a": "50."
+  },
+  {
+    "q": "Which entities were cited as sources for the government estimates and imagery verification used in the CBS News map of war targets in March 2026?",
+    "a": "Government officials, the Associated Press, and the Institute for the Study of War."
+  },
+  {
+    "q": "As of March 10, 2026, which two nations were continuing to carry out devastating strikes against Iran in the Middle East?",
+    "a": "The U.S. and Israel."
+  }
+]

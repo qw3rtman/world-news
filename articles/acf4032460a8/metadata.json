@@ -1,0 +1,87 @@
+{
+  "hash": "acf4032460a8",
+  "n_appearances": 7,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.thetimes.com/world/middle-east/israel-iran/article/iran-war-gulf-states-whats-next-dg7z798vg?gaa_at=eafs&gaa_n=AWEtsqdNa2as66xl0-mnECikmSNkfDZveM2hPraGLy_H2jyLcgZMGT4c2BiV&gaa_sig=xOjkECAqf3SIuMcow_nEBee1QqqTOpfIVz0ooXEjcEE6Wx3Zi40ePRwJi0x1zg6O8Owu3a9m_xkSkll5HVhGgA%3D%3D&gaa_ts=69a60d12",
+      "title": "Gulf states risk being dragged into a war they do not want",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Samer Al-Atrush, Dubai",
+      "num_tokens": 1055,
+      "text_length": 4947
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1472010",
+      "spike_id": 10,
+      "market_question": "Will UAE strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.43,
+      "spike_timestamp_before": "2026-03-03T17:30:24+00:00",
+      "spike_timestamp_after": "2026-03-04T17:30:24+00:00"
+    },
+    {
+      "market_id": "1472010",
+      "spike_id": 6,
+      "market_question": "Will UAE strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.15499999999999997,
+      "spike_timestamp_before": "2026-03-02T11:30:22+00:00",
+      "spike_timestamp_after": "2026-03-02T17:00:35+00:00"
+    },
+    {
+      "market_id": "1472010",
+      "spike_id": 8,
+      "market_question": "Will UAE strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.385,
+      "spike_timestamp_before": "2026-03-03T14:30:27+00:00",
+      "spike_timestamp_after": "2026-03-04T12:30:26+00:00"
+    },
+    {
+      "market_id": "1472010",
+      "spike_id": 9,
+      "market_question": "Will UAE strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.47000000000000003,
+      "spike_timestamp_before": "2026-03-03T14:30:27+00:00",
+      "spike_timestamp_after": "2026-03-04T14:30:26+00:00"
+    },
+    {
+      "market_id": "1472019",
+      "spike_id": 10,
+      "market_question": "Will Saudi Arabia strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.15500000000000003,
+      "spike_timestamp_before": "2026-03-04T16:30:30+00:00",
+      "spike_timestamp_after": "2026-03-04T19:00:28+00:00"
+    },
+    {
+      "market_id": "1472019",
+      "spike_id": 6,
+      "market_question": "Will Saudi Arabia strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.21000000000000002,
+      "spike_timestamp_before": "2026-03-02T20:00:29+00:00",
+      "spike_timestamp_after": "2026-03-03T07:30:27+00:00"
+    },
+    {
+      "market_id": "1472019",
+      "spike_id": 7,
+      "market_question": "Will Saudi Arabia strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.315,
+      "spike_timestamp_before": "2026-03-02T20:00:29+00:00",
+      "spike_timestamp_after": "2026-03-03T14:30:32+00:00"
+    }
+  ]
+}

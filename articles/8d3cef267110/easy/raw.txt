@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2026, what specific claim did U.S. Energy Secretary Chris Wright make in a post on X regarding the U.S. Navy and the Strait of Hormuz, which was later deleted and clarified by the White House?",
+    "a": "He claimed the U.S. Navy successfully escorted an oil tanker through the Strait of Hormuz to ensure oil flows to global markets."
+  },
+  {
+    "q": "Following the deletion of Energy Secretary Chris Wright’s March 2026 post about naval escorts, what immediate reaction did global oil markets exhibit before prices partially recovered?",
+    "a": "Oil prices dropped sharply due to market volatility triggered by the initial claim and its subsequent retraction."
+  },
+  {
+    "q": "Who served as the White House press secretary in March 2026 when Karoline Leavitt confirmed that the U.S. Navy had not escorted any vessels through the Strait of Hormuz?",
+    "a": "Karoline Leavitt served as the White House press secretary."
+  },
+  {
+    "q": "How did Iran’s Revolutionary Guards respond to Energy Secretary Chris Wright’s March 2026 assertion that the U.S. Navy escorted a tanker through the Strait of Hormuz?",
+    "a": "They rejected the claim as a \"pure falsehood\" and stated no U.S. Navy vessel had dared approach the strait."
+  },
+  {
+    "q": "According to an energy department spokesperson in March 2026, what was the reason for deleting a video clip from Energy Secretary Chris Wright’s official X account?",
+    "a": "The clip was deleted because it was determined to be incorrectly captioned by Department of Energy staff."
+  },
+  {
+    "q": "What data source and time period indicate that at least 10 oil tankers were struck or targeted in or near the Strait of Hormuz in early March 2026?",
+    "a": "Data compiled by the UK Maritime Trade Organisation, the International Maritime Organization, and Iranian authorities between March 1 and March 10, 2026."
+  },
+  {
+    "q": "What proportion of global oil production passes through the Strait of Hormuz, according to information provided in March 2026?",
+    "a": "Nearly one-fifth of global oil production passes through the strait."
+  },
+  {
+    "q": "What warning did Tehran issue in March 2026 regarding oil exports from the Gulf while the war with the United States continued?",
+    "a": "Tehran warned that none of the oil would be exported from the Gulf while the war continues."
+  },
+  {
+    "q": "According to AFP analysis of Marine Traffic data in March 2026, how many commercial vessels had crossed the Strait of Hormuz since March 2?",
+    "a": "More than 20 commercial vessels had crossed the strait."
+  },
+  {
+    "q": "What tactic did some ships use in March 2026 to hide their location while passing through the Strait of Hormuz during the conflict?",
+    "a": "They passed through with their transponders switched off, sometimes reappearing on marine trackers only after safely leaving the area."
+  },
+  {
+    "q": "What was the average daily number of ships passing through the Strait of Hormuz before the war began in 2026?",
+    "a": "An average of 138 ships passed through the strait each day."
+  },
+  {
+    "q": "What measures did U.S. President Donald Trump’s administration take in March 2026 to reassure global markets regarding shipping in the Strait of Hormuz?",
+    "a": "The administration offered reinsurance to shipping companies and the U.S. Navy’s services to escort tankers."
+  },
+  {
+    "q": "How did crude oil prices react in March 2026 following fears of supply disruptions, specifically jumping to around what price per barrel before pulling back?",
+    "a": "Prices jumped nearly 30 percent to around $120 per barrel before pulling back."
+  },
+  {
+    "q": "What comment by U.S. President Donald Trump in March 2026 contributed to falling oil prices, even as Defense Secretary Pete Hegseth vowed intense strikes?",
+    "a": "Trump suggested the war might end soon."
+  },
+  {
+    "q": "Who is the U.S. Defense Secretary in March 2026 who vowed to carry out the \"most intense day of strikes inside Iran\"?",
+    "a": "Defense Secretary Pete Hegseth."
+  },
+  {
+    "q": "What types of targets have been struck in Iran and wealthy Gulf states during the conflict as of March 2026?",
+    "a": "Strikes have hit oil depots in Iran and energy infrastructure in wealthy Gulf states."
+  },
+  {
+    "q": "In March 2026, which U.S. official initially boasted that the American navy had \"successfully escorted\" an oil tanker through the Strait of Hormuz?",
+    "a": "Donald Trump's aide, specifically Energy Secretary Chris Wright."
+  },
+  {
+    "q": "What did White House press secretary Karoline Leavitt confirm in a March 2026 briefing regarding the U.S. Navy's actions in the Strait of Hormuz?",
+    "a": "She confirmed the U.S. Navy has not escorted a tanker or vessel at that time, though it remains an option."
+  },
+  {
+    "q": "Which two international organizations, along with Iranian authorities, compiled data in March 2026 showing attacks on oil tankers in the Strait of Hormuz?",
+    "a": "The UK Maritime Trade Organisation (UKMTO) and the International Maritime Organization (IMO)."
+  },
+  {
+    "q": "What specific phrase did Iran’s Revolutionary Guards use to describe Energy Secretary Chris Wright’s March 2026 statement about U.S. naval escorts?",
+    "a": "They called it a \"pure falsehood.\""
+  },
+  {
+    "q": "How did oil prices change in March 2026 after Energy Secretary Chris Wright deleted his post on X about the naval escort?",
+    "a": "Prices later recovered some of the losses they had suffered after the initial post caused a sharp drop."
+  },
+  {
+    "q": "What did U.S. President Donald Trump mock in March 2026 regarding Iranian sailors killed in a warship attack?",
+    "a": "He mocked the idea of capturing them, stating it was \"more fun sinking them.\""
+  },
+  {
+    "q": "In March 2026, what did Defense Secretary Pete Hegseth vow to do the day after Trump suggested the war might end?",
+    "a": "He vowed to carry out the \"most intense day of strikes inside Iran.\""
+  },
+  {
+    "q": "What role did the Strait of Hormuz play in the ongoing crisis in the Middle East as described in March 2026?",
+    "a": "It remained at the centre of the ongoing crisis, with nearly one-fifth of global oil production passing through it."
+  },
+  {
+    "q": "What happened to the transponders of some ships passing through the Strait of Hormuz in March 2026, and when did they reappear on trackers?",
+    "a": "Their transponders were switched off to hide their location, and they reappeared on marine trackers only after safely leaving the area."
+  }
+]

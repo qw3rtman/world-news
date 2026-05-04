@@ -1,0 +1,106 @@
+[
+  {
+    "q": "Who is the acting President of Venezuela to whom the final amnesty law was delivered during a nighttime visit to Miraflores Palace?",
+    "a": "Delcy Rodríguez"
+  },
+  {
+    "q": "Which opposition lawmaker described the final hours of the debate as a process of changing the law \"comma by comma, a change here, a change there\"?",
+    "a": "Antonio Ecarri"
+  },
+  {
+    "q": "What specific article of the Venezuelan amnesty law requires those seeking amnesty to submit themselves to the justice system to benefit from it?",
+    "a": "Article Seven"
+  },
+  {
+    "q": "Which political bloc in the Venezuelan National Assembly is led by Stalin González and consists of 12 opposition lawmakers representing 3% of the seats?",
+    "a": "The Libertad bloc"
+  },
+  {
+    "q": "Who is the Attorney General of Venezuela who participated in the debates on the amnesty law and is accused of responsibility for many detentions?",
+    "a": "Tarek William Saab"
+  },
+  {
+    "q": "In which month and year were the current Venezuelan National Assembly lawmakers elected under conditions described as less transparent than previous elections?",
+    "a": "2025"
+  },
+  {
+    "q": "Which organization has a majority in the Venezuelan National Assembly and is also known by the acronym PSUV?",
+    "a": "The United Socialist Party of Venezuela"
+  },
+  {
+    "q": "Who is the Chavista lawmaker serving as the president of the commission established by Article 15 of the amnesty law?",
+    "a": "Jorge Arreaza"
+  },
+  {
+    "q": "On what date did Zone 7 of the National Bolivarian Police end a hunger strike in celebration of the amnesty law's passage?",
+    "a": "February 19"
+  },
+  {
+    "q": "Which main opposition leader called for abstention in the 2025 National Assembly elections?",
+    "a": "María Corina Machado"
+  },
+  {
+    "q": "Who is the National Assembly President who ordered Antonio Ecarri to stop talking during the debate because he was out of order?",
+    "a": "Jorge Rodríguez"
+  },
+  {
+    "q": "What specific word did opposition lawmakers manage to incorporate into the final text to describe the alternative measures the monitoring commission may request?",
+    "a": "Expeditious"
+  },
+  {
+    "q": "How many articles in the Venezuelan amnesty law received unanimous approval from the National Assembly?",
+    "a": "16"
+  },
+  {
+    "q": "Which former Venezuelan president granted a pardon to Luis Florido in 2020?",
+    "a": "Nicolás Maduro"
+  },
+  {
+    "q": "What accusation, frequently leveled at María Corina Machado and her team, was used to exclude certain individuals from the amnesty law's protection?",
+    "a": "Inciting armed actions from abroad against the country’s territory and sovereignty"
+  },
+  {
+    "q": "Which four opposition deputies joined the commission to negotiate the amnesty law, including Nora Bracho, Pablo Pérez, and Luis Florido?",
+    "a": "Antonio Ecarri"
+  },
+  {
+    "q": "What specific safeguard did opposition lawmakers ensure was written into the law regarding individuals outside the country initiating amnesty proceedings?",
+    "a": "No one can be detained once they have initiated the process"
+  },
+  {
+    "q": "Which body imposed administrative disqualifications that were among the four articles proposed by the opposition but left out of the final law?",
+    "a": "The Comptroller’s Office"
+  },
+  {
+    "q": "How many seats does the Venezuelan National Assembly have in total, according to the article?",
+    "a": "285"
+  },
+  {
+    "q": "Who is the opposition lawmaker who stated that most political prisoners have ties to the Libertad bloc?",
+    "a": "Luis Florido"
+  },
+  {
+    "q": "On what date did the Venezuelan National Bolivarian Police end a hunger strike in Zone 7?",
+    "a": "February 19"
+  },
+  {
+    "q": "Which political party made proposals and counterproposals during the parliamentary working environment described by Luis Florido?",
+    "a": "The Socialist Party"
+  },
+  {
+    "q": "What specific type of amnesty was among the four failed articles proposed by the opposition, dealing with unjustified dismissals?",
+    "a": "Labor amnesty"
+  },
+  {
+    "q": "Which NGO-related group, increasingly targeted by the government in recent years, was heard for the first time in a long time during the debates?",
+    "a": "NGOs that have documented human rights violations"
+  },
+  {
+    "q": "How long was Luis Florido barred from leaving the country before the amnesty law's passage?",
+    "a": "Nine years"
+  },
+  {
+    "q": "What specific event on January 3 did Luis Florido reference when explaining why the opposition did not oppose the exclusion of those who incited armed actions?",
+    "a": "Events like those of January 3"
+  }
+]

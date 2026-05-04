@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In February 2026, Viking Mines completed the digitisation of historical data from its Linka project in Nevada, USA. How many historical drill holes and how many metres of drilling were included in this dataset?",
+    "a": "The dataset included 70 historical drill holes and 2881 metres of drilling."
+  },
+  {
+    "q": "During the February 2026 data release regarding the Linka project in Nevada, USA, Viking Mines highlighted the Conquest area. What is the specific distance and direction of the Conquest area relative to the Linka Main pit?",
+    "a": "The Conquest area is located 650 metres northeast of the Linka Main pit."
+  },
+  {
+    "q": "In the February 2026 announcement concerning tungsten mineralisation at the Conquest area of the Linka project in Nevada, USA, what were the dimensions and grade of the standout intercept that included a high-grade core?",
+    "a": "The standout intercept was 12.2 metres assaying 1.3 per cent tungsten trioxide, including 1.5 metres grading 4.8 per cent tungsten trioxide."
+  },
+  {
+    "q": "Viking Mines reported in February 2026 that historical drilling at the Conquest area of its Linka project in Nevada, USA, was remarkably shallow. What was the average depth and the maximum depth recorded in that historical drilling?",
+    "a": "The historical drilling averaged just 30 metres in depth, with a maximum depth of 56 metres."
+  },
+  {
+    "q": "In February 2026, Julian Woodcock, the managing director and chief executive officer of Viking Mines, commented on the digitisation of the Linka dataset in Nevada, USA. What specific milestone did he describe regarding the consolidated digital record?",
+    "a": "He described it as a significant milestone that validates the exceptional opportunities presented by the high-grade tungsten mineralised system."
+  },
+  {
+    "q": "Regarding the Conquest tungsten mineralisation at the Linka project in Nevada, USA, identified in February 2026, which geological formation hosts this mineralisation, and how was this formation historically regarded compared to the Antelope Valley Limestone?",
+    "a": "The mineralisation is hosted in the Vinini Formation, which was historically regarded as less prospective than the Antelope Valley Limestone."
+  },
+  {
+    "q": "In February 2026, Viking Mines outlined immediate expansion opportunities at the Conquest area of its Linka project in Nevada, USA. What specific drilling method and location did the company propose to test beneath the historic mine pit?",
+    "a": "The company proposed using angled holes to probe previously untested volcanic cover to the southeast beneath the historic Conquest mine pit."
+  },
+  {
+    "q": "Viking Mines stated in February 2026 that the favourable limestone contact at the Conquest area of its Linka project in Nevada, USA, could lie at a specific depth range. What is that estimated depth range below the surface?",
+    "a": "The company believes the favourable limestone contact could lie between 65 and 100 metres depth below the surface."
+  },
+  {
+    "q": "As of February 2026, tungsten prices had risen significantly. What was the reported price range for Rotterdam ammonium paratungstate (APT) per metric tonne unit, and what was the percentage increase over the past year?",
+    "a": "The price range was US$1,650–1,900 per metric tonne unit, representing an increase of almost 500 per cent in the past year."
+  },
+  {
+    "q": "In February 2026, Viking Mines cited upcoming changes to US procurement policies under the Defense Federal Acquisition Regulation Supplement (DFARS). What specific restriction on tungsten sources did these changes introduce?",
+    "a": "The changes will restrict tungsten from certain countries, amplifying the need for secure domestic sources."
+  },
+  {
+    "q": "Viking Mines announced in February 2026 that it was preparing a Notice of Intent for a reverse circulation drilling program at its Linka project in Nevada, USA. When did the company target for the start of this drilling program?",
+    "a": "The company targeted a start in the June quarter."
+  },
+  {
+    "q": "In February 2026, Viking Mines described the mineralised corridor at its Linka and Conquest zones in Nevada, USA. What is the length of this mineralised corridor that the company is mapping?",
+    "a": "The mineralised corridor is 1.6 kilometres long."
+  },
+  {
+    "q": "Viking Mines stated in February 2026 that it is integrating historical drill results into a 3D model for the Linka and Conquest zones in Nevada, USA. Which two types of geophysical data will the model incorporate to help map the mineralisation extent?",
+    "a": "The model will incorporate gravity and magnetic data."
+  },
+  {
+    "q": "In February 2026, Viking Mines reported that the initial drill test at its Linka project in Nevada, USA, would prioritize specific ore blocks. What characteristic defined the ore blocks selected for this initial priority?",
+    "a": "The initial drill test prioritised shallow, high-grade ore blocks that had already been defined in the historical dataset."
+  },
+  {
+    "q": "Viking Mines identified in February 2026 that the basal quartz monzonite at the Conquest area of its Linka project in Nevada, USA, could exist as a specific geological structure. What two forms did management suggest this structure might take?",
+    "a": "Management suggested it could exist as a dyke or a steeply dipping feeder structure."
+  },
+  {
+    "q": "In February 2026, Viking Mines highlighted that tungsten trioxide, also known as tungstite, is a rare mineral. What are the two specific tungsten-bearing ores mentioned as sources that weather to form tungsten trioxide?",
+    "a": "Tungsten trioxide is formed by the weathering of scheelite or wolframite."
+  },
+  {
+    "q": "Viking Mines reported in February 2026 that other closely related, rare hydrous tungsten minerals exist alongside tungsten trioxide. What are the names of these two specific minerals?",
+    "a": "The two other rare hydrous tungsten minerals are meymacite and hydrotungstite."
+  },
+  {
+    "q": "In February 2026, Viking Mines provided details on a second drillhole at the Conquest area of its Linka project in Nevada, USA. What were the total length and grade of the intercept, and what was the higher-grade sub-intercept?",
+    "a": "The intercept was 22.9 metres at 0.6 per cent tungstite, including 6.1 metres running 1.2 per cent tungstite."
+  },
+  {
+    "q": "Viking Mines reported in February 2026 that a third drillhole at the Conquest area of its Linka project in Nevada, USA, delivered a specific mineralisation profile. What was the total length and grade, and what was the higher-grade sub-intercept?",
+    "a": "The hole delivered 22.9 metres grading 0.5 per cent oxide, including 11.3 metres going 0.6 per cent tungstite."
+  },
+  {
+    "q": "In February 2026, Viking Mines noted that US defence supply chains were under mounting pressure due to geopolitical factors. What specific policy shift regarding tungsten sourcing was cited as a driver for this pressure?",
+    "a": "The pressure was driven by US defence onshoring policies and upcoming DFARS restrictions on tungsten from certain countries."
+  },
+  {
+    "q": "Viking Mines stated in February 2026 that if upcoming drilling confirms continuity and scale at the Linka and Conquest zones in Nevada, USA, what strategic outcome could the company achieve?",
+    "a": "The company could be fast-tracked from data revival to becoming a strategically important producer sooner than many expect."
+  },
+  {
+    "q": "In February 2026, Viking Mines described the Conquest area as a compelling additional target. What specific regional potential did the company associate with the tungsten mineralisation at this site in Nevada, USA?",
+    "a": "The company showcased Conquest as having strong regional potential."
+  },
+  {
+    "q": "Viking Mines announced in February 2026 that it was designing a maiden drill program for its Linka project in Nevada, USA. What was the primary strategic eye of the company regarding the timeline of this program?",
+    "a": "The company had one eye on a rapid transition to mining."
+  },
+  {
+    "q": "In February 2026, Viking Mines mentioned that the digitised data at the Conquest area of its Linka project in Nevada, USA, hinted at additional potential for mineralisation. At what specific geological feature did management suggest this potential existed?",
+    "a": "Management suggested the potential existed at the mineralised lower contact of the basal quartz monzonite."
+  },
+  {
+    "q": "Viking Mines reported in February 2026 that the Linka dataset digitisation included data from the Conquest area. How many historical holes and how many metres of drilling were specifically confirmed at the Conquest area?",
+    "a": "The Conquest area included 32 historical holes for 959 metres of drilling."
+  }
+]

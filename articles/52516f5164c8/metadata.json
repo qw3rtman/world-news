@@ -1,0 +1,37 @@
+{
+  "hash": "52516f5164c8",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/iran-crisis-live-explosions-tehran-israel-announces-strike-2026-02-28/",
+      "title": "US-Israeli strikes kill Khamenei and Iranian retaliation shakes Gulf - As it happened | Reuters",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Kylie MacLellan",
+      "num_tokens": 60,
+      "text_length": 301
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1399088",
+      "spike_id": 2,
+      "market_question": "US strikes Iran by March 7, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.7535000000000001,
+      "spike_timestamp_before": "2026-02-27T08:30:29+00:00",
+      "spike_timestamp_after": "2026-02-28T08:00:41+00:00"
+    },
+    {
+      "market_id": "661699",
+      "spike_id": 4,
+      "market_question": "Khamenei out as Supreme Leader of Iran by June 30?",
+      "event_title": "Khamenei out as Supreme Leader of Iran by June 30?",
+      "spike_direction": "up",
+      "spike_delta": 0.604,
+      "spike_timestamp_before": "2026-02-28T02:30:34+00:00",
+      "spike_timestamp_after": "2026-02-28T22:30:36+00:00"
+    }
+  ]
+}

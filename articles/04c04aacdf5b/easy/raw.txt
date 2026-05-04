@@ -1,0 +1,102 @@
+[
+  {
+    "q": "According to the Ukrainian general staff's statement on March 2, 2026, how many settlements in the Zaporizhzhia region had Ukrainian troops retaken since the end of January?",
+    "a": "Nine settlements."
+  },
+  {
+    "q": "In his March 2, 2026 statement, what milestone did Ukrainian Commander-in-Chief Oleksandr Syrskyi claim Ukrainian troops had achieved for the first time since summer 2024?",
+    "a": "Regaining control over more territory than Russian forces had been able to capture."
+  },
+  {
+    "q": "Which company owner made the decision in late January 2026 to shut down Starlink communications terminals for Russian forces, a move that reportedly preceded Ukrainian advances in the Zaporizhzhia region?",
+    "a": "SpaceX owner Elon Musk."
+  },
+  {
+    "q": "According to the battlefield mapping project DeepState, how many square kilometers of Ukrainian territory did Russian troops occupy in February 2026?",
+    "a": "126 square kilometers."
+  },
+  {
+    "q": "On the Telegram app on March 2, 2026, what phrase did Ukrainian Commander-in-Chief Oleksandr Syrskyi use to describe the Ukrainian military's survival of the winter battles?",
+    "a": "\"We have survived this difficult battle for winter.\""
+  },
+  {
+    "q": "During the winter of 2025-2026, what specific type of campaign did Russian forces intensify against Ukraine, affecting millions of civilians?",
+    "a": "Strikes on Ukraine's energy system."
+  },
+  {
+    "q": "Approximately how long is the frontline along which Russian forces increased pressure on Ukrainian troops, as noted in the March 2, 2026 report?",
+    "a": "1,200 kilometers."
+  },
+  {
+    "q": "In which two towns in the Zaporizhzhia region did Ukrainian troops conduct effective operations, according to Commander-in-Chief Oleksandr Syrskyi's March 2, 2026 statement?",
+    "a": "Oleksandrivka and Huliaipole."
+  },
+  {
+    "q": "Which town in the Kharkiv region did Ukrainian troops strengthen their control over, according to the Ukrainian general staff's March 2, 2026 update?",
+    "a": "Kupiansk."
+  },
+  {
+    "q": "Near which city in the Donetsk region did Ukrainian troops maintain their defenses, as stated by Commander-in-Chief Oleksandr Syrskyi on March 2, 2026?",
+    "a": "Pokrovsk."
+  },
+  {
+    "q": "According to the command of Ukraine's airborne assault forces, what specific military capability of Moscow's troops was impacted by limits on Starlink access?",
+    "a": "Situational awareness and frontline communications."
+  },
+  {
+    "q": "On what date did the Ukrainian military operation in the Zaporizhzhia region, which involved pushing enemy forces out of fortified positions, start?",
+    "a": "January 29, 2026."
+  },
+  {
+    "q": "According to DeepState's Monday report on March 2, 2026, near how many villages in the Zaporizhzhia region did Ukrainian troops push back Russian forces?",
+    "a": "Five villages."
+  },
+  {
+    "q": "What was the total square kilometers of Ukrainian territory occupied by Russian troops during January and February 2026, according to DeepState's report?",
+    "a": "371 square kilometers."
+  },
+  {
+    "q": "How many square kilometers of Ukrainian territory did Russian troops occupy during the same January-February period in the previous year, according to DeepState's comparison?",
+    "a": "517 square kilometers."
+  },
+  {
+    "q": "Which news agency stated it was unable to verify the territorial occupation data provided by DeepState in its March 2, 2026 report?",
+    "a": "Reuters."
+  },
+  {
+    "q": "President Volodymyr Zelenskiy stated on March 2, 2026, that a new round of U.S.-brokered peace talks between Ukraine and Russia was still expected despite recent strikes on which country?",
+    "a": "Iran."
+  },
+  {
+    "q": "Which two countries carried out weekend strikes on Iran that were cited by President Volodymyr Zelenskiy on March 2, 2026, as context for ongoing peace talks?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "In which year did the war between Ukraine and Russia enter its fifth year, as noted in the March 2, 2026 article?",
+    "a": "2026."
+  },
+  {
+    "q": "Who provided additional reporting for the March 2, 2026 Reuters article titled \"Ukraine's military makes gains in southeast region of Zaporizhzhia, Kyiv says\"?",
+    "a": "Yuliia Dysa."
+  },
+  {
+    "q": "Who were the editors responsible for the March 2, 2026 Reuters article regarding Ukrainian military gains in Zaporizhzhia?",
+    "a": "Daniel Flynn and Ros Russell."
+  },
+  {
+    "q": "On which messaging app did Commander-in-Chief Oleksandr Syrskyi post his statement about surviving the winter battle on March 2, 2026?",
+    "a": "Telegram."
+  },
+  {
+    "q": "According to the Ukrainian airborne assault forces command, what was the status of enemy troops in fortified positions during the operation starting January 29, 2026?",
+    "a": "They were being systematically and decisively pushed out."
+  },
+  {
+    "q": "What was the 20-month low metric reported by DeepState regarding Russian troop occupation of Ukrainian territory in February 2026?",
+    "a": "126 square kilometers (49 square miles) of territory."
+  },
+  {
+    "q": "In response to a plea from which government did Elon Musk decide to shut down Starlink terminals for Russian forces in late January 2026?",
+    "a": "The government of Kyiv (Ukraine)."
+  }
+]

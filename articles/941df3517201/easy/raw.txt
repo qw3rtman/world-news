@@ -1,0 +1,102 @@
+[
+  {
+    "q": "According to five people briefed on preparations, what was the likely outcome of the summit between U.S. President Donald Trump and Chinese leader Xi Jinping scheduled for March 2026 regarding a reset of business and investment ties?",
+    "a": "The summit was unlikely to create room for even a limited reset of business and investment ties."
+  },
+  {
+    "q": "What specific delegation did American business leaders fail to secure for the March 2026 summit between U.S. President Donald Trump and Chinese leader Xi Jinping?",
+    "a": "They had not secured the CEO delegation that some had sought."
+  },
+  {
+    "q": "What investment-related goal was Beijing not on track to achieve for Chinese companies during the March 2026 diplomatic preparations involving U.S. President Donald Trump?",
+    "a": "Beijing was not on track for the investment protections it had sought on behalf of Chinese companies."
+  },
+  {
+    "q": "Which two nations' leaders, U.S. President Donald Trump and Chinese leader Xi Jinping, were looking to maintain stability in relations between the world's two largest economies in early 2026?",
+    "a": "The United States and China."
+  },
+  {
+    "q": "What two specific economic measures defined the 'bruising period' that preceded the stability sought by U.S. President Donald Trump and Chinese leader Xi Jinping in late 2025?",
+    "a": "Trump’s tariffs and China’s chokehold on rare earths exports."
+  },
+  {
+    "q": "In which South Korean city did U.S. President Donald Trump and Chinese leader Xi Jinping hold a bilateral meeting at Gimhae International Airport on October 30, as referenced in the article?",
+    "a": "Busan."
+  },
+  {
+    "q": "At the sidelines of which international summit did U.S. President Donald Trump and Chinese leader Xi Jinping meet at Gimhae International Airport in Busan, South Korea, on October 30?",
+    "a": "The Asia-Pacific Economic Cooperation (APEC) summit."
+  },
+  {
+    "q": "Which news organization published the report on March 8, 2026, stating that U.S. President Donald Trump's visit to China was unlikely to yield a breakthrough?",
+    "a": "The Japan Times."
+  },
+  {
+    "q": "According to the article published by The Japan Times on March 8, 2026, what was the key goal for U.S. President Donald Trump and Chinese leader Xi Jinping regarding their bilateral relationship?",
+    "a": "Stability."
+  },
+  {
+    "q": "What was the status of American business leaders' efforts to secure a CEO delegation for the March 2026 summit with Chinese leader Xi Jinping, as reported by The Japan Times?",
+    "a": "They had not secured the delegation at that stage."
+  },
+  {
+    "q": "What specific export control measure by China contributed to the 'bruising period' in U.S.-China relations before the stability efforts of early 2026?",
+    "a": "China’s chokehold on rare earths exports."
+  },
+  {
+    "q": "Which U.S. policy measure contributed to the 'bruising period' in U.S.-China relations before the stability efforts of early 2026?",
+    "a": "Trump’s tariffs."
+  },
+  {
+    "q": "When did the period of stability begin in relations between the United States and China, according to the article published by The Japan Times on March 8, 2026?",
+    "a": "Since late last year (late 2025)."
+  },
+  {
+    "q": "Which two entities were described as the world's two largest economies whose relations were the focus of stability efforts in early 2026?",
+    "a": "Washington (the United States) and Beijing (China)."
+  },
+  {
+    "q": "Who provided the briefing information to The Japan Times regarding the unlikely breakthrough in U.S.-China business ties in March 2026?",
+    "a": "Five people briefed on preparations."
+  },
+  {
+    "q": "What type of delegation had American business leaders sought but failed to secure for the March 2026 meeting with Chinese leader Xi Jinping?",
+    "a": "A CEO delegation."
+  },
+  {
+    "q": "What specific protections was Beijing seeking for Chinese companies during the diplomatic preparations in early 2026?",
+    "a": "Investment protections."
+  },
+  {
+    "q": "In which country was the bilateral meeting between U.S. President Donald Trump and Chinese leader Xi Jinping held at Gimhae International Airport on October 30?",
+    "a": "South Korea."
+  },
+  {
+    "q": "Which international organization's summit provided the backdrop for the October 30 meeting between U.S. President Donald Trump and Chinese leader Xi Jinping in Busan?",
+    "a": "The Asia-Pacific Economic Cooperation (APEC) summit."
+  },
+  {
+    "q": "What was the publication date of The Japan Times article discussing the limited prospects for U.S.-China business ties in March 2026?",
+    "a": "March 8, 2026."
+  },
+  {
+    "q": "According to the article, what was the primary expectation for the summit between U.S. President Donald Trump and Chinese leader Xi Jinping in March 2026 regarding a 'limited reset'?",
+    "a": "It was unlikely to create room for such a reset."
+  },
+  {
+    "q": "What characterized the period of relations between the United States and China immediately preceding the stability sought in early 2026?",
+    "a": "A bruising period marked by tariffs and rare earth export controls."
+  },
+  {
+    "q": "Which specific rare earth resource did China use as a leverage point in the 'bruising period' of U.S.-China relations?",
+    "a": "Rare earths."
+  },
+  {
+    "q": "Where did U.S. President Donald Trump and Chinese leader Xi Jinping depart from after their bilateral meeting on October 30?",
+    "a": "Gimhae International Airport."
+  },
+  {
+    "q": "Which news agency provided the image caption for the meeting between U.S. President Donald Trump and Chinese leader Xi Jinping in Busan on October 30?",
+    "a": "REUTERS."
+  }
+]

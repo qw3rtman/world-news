@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the article published on March 1, 2026, what specific event triggered a leadership vacuum in Iran and tested the endurance of its political system?",
+    "a": "The killing of Iran’s Supreme Leader Ayatollah Ali Khamenei in US-Israeli strikes."
+  },
+  {
+    "q": "According to the March 1, 2026 article, for approximately how long did Ayatollah Ali Khamenei dominate the Islamic Republic of Iran before his death?",
+    "a": "Nearly four decades."
+  },
+  {
+    "q": "In the analysis presented in the March 1, 2026 article, what immediate trend did analysts identify regarding the Islamic Republic's stability following the death of Ayatollah Ali Khamenei?",
+    "a": "Hardening continuity, with security institutions closing ranks and no signs of internal rupture."
+  },
+  {
+    "q": "What specific danger did analysts warn might follow the death of Ayatollah Ali Khamenei, as described in the March 1, 2026 article?",
+    "a": "A contested interim period where power shifts further toward the military establishment rather than an orderly transition."
+  },
+  {
+    "q": "Who is Ali Alfoneh, and what specific condition did he state is necessary for the regime's survival after the death of Ayatollah Ali Khamenei, according to the March 1, 2026 article?",
+    "a": "He is a political scientist and author of Political Succession in the Islamic Republic of Iran; he stated survival depends on reaching a deal with the United States, obtaining sanctions relief, and improving the economy."
+  },
+  {
+    "q": "According to Ali Alfoneh in the March 1, 2026 article, what domestic consequence could occur if the Iranian regime fails to secure sanctions relief and economic improvement?",
+    "a": "An angry and impoverished public returning to the streets, which could exhaust security services and make collapse inevitable."
+  },
+  {
+    "q": "What immediate action did Iran’s security apparatus take within hours of the killing of Ayatollah Ali Khamenei, as reported in the March 1, 2026 article?",
+    "a": "They signaled that operations would continue and deployed paramilitary units nationwide to deter unrest."
+  },
+  {
+    "q": "In the March 1, 2026 article, what dual strategy did observers say Tehran was pursuing after the death of Ayatollah Ali Khamenei?",
+    "a": "Projecting control at home while escalating conflict abroad."
+  },
+  {
+    "q": "Which two countries' military actions were responsible for the killing of Ayatollah Ali Khamenei, as identified in the March 1, 2026 article?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "What specific type of units were deployed by Iran’s security apparatus nationwide in response to the death of Ayatollah Ali Khamenei, according to the March 1, 2026 article?",
+    "a": "Paramilitary units."
+  },
+  {
+    "q": "According to the March 1, 2026 article, what is the title of the book written by political scientist Ali Alfoneh?",
+    "a": "Political Succession in the Islamic Republic of Iran."
+  },
+  {
+    "q": "In the March 1, 2026 article, which entity did Ali Alfoneh state the regime must reach a deal with to ensure its survival?",
+    "a": "The United States."
+  },
+  {
+    "q": "What specific economic measure did Ali Alfoneh identify as crucial for the Iranian regime's survival in the March 1, 2026 article?",
+    "a": "Obtaining sanctions relief."
+  },
+  {
+    "q": "According to the March 1, 2026 article, which group did analysts warn would gain further power during the contested interim period following Ayatollah Ali Khamenei's death?",
+    "a": "The military establishment."
+  },
+  {
+    "q": "What did observers say Tehran sought to project domestically while escalating militarily abroad, following the death of Ayatollah Ali Khamenei, as per the March 1, 2026 article?",
+    "a": "Control."
+  },
+  {
+    "q": "In the March 1, 2026 article, what potential outcome did Ali Alfoneh predict if the Iranian public returns to the streets due to economic failure?",
+    "a": "The security services could be exhausted, making collapse inevitable."
+  },
+  {
+    "q": "Which publication featured the article titled 'Will Iran collapse without Khamenei or can its regime endure?' published on March 1, 2026?",
+    "a": "South China Morning Post."
+  },
+  {
+    "q": "According to the March 1, 2026 article, what specific sign was notably absent among analysts' observations of the Islamic Republic after Ayatollah Ali Khamenei's death?",
+    "a": "Signs of internal rupture."
+  },
+  {
+    "q": "In the March 1, 2026 article, which specific political figure's death is described as having triggered a high-stakes test for the Islamic Republic's system?",
+    "a": "Ayatollah Ali Khamenei."
+  },
+  {
+    "q": "What did Ali Alfoneh tell This Week In Asia regarding the long-term risk to the Iranian regime if economic and diplomatic goals are not met, as cited in the March 1, 2026 article?",
+    "a": "They will face an angry and impoverished public returning to the streets, which could eventually exhaust security services and make collapse inevitable."
+  },
+  {
+    "q": "According to the March 1, 2026 article, what was the primary immediate reaction of Iran’s security apparatus to the killing of Ayatollah Ali Khamenei?",
+    "a": "Signaling that operations would continue."
+  },
+  {
+    "q": "In the March 1, 2026 article, what specific demographic did Ali Alfoneh warn would return to the streets if the regime failed to improve the economy?",
+    "a": "An angry and impoverished public."
+  },
+  {
+    "q": "What specific type of political transition did analysts warn against in the March 1, 2026 article, favoring instead a scenario where power shifts to the military?",
+    "a": "An orderly transition."
+  },
+  {
+    "q": "According to the March 1, 2026 article, what two main factors did Ali Alfoneh list as necessary for the regime's survival besides reaching a deal with the US?",
+    "a": "Obtaining sanctions relief and improving the economy."
+  },
+  {
+    "q": "In the March 1, 2026 article, what specific role did paramilitary units play in Iran's response to the death of Ayatollah Ali Khamenei?",
+    "a": "They were deployed nationwide to deter unrest."
+  }
+]

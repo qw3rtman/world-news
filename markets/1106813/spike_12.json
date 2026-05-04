@@ -1,0 +1,65 @@
+{
+  "spike_index": 12,
+  "direction": "down",
+  "price_before": 0.44,
+  "price_after": 0.285,
+  "delta": -0.15500000000000003,
+  "abs_delta": 0.15500000000000003,
+  "timestamp_before": "2026-03-06T04:00:24+00:00",
+  "timestamp_after": "2026-03-06T23:00:22+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://cnnespanol.cnn.com/2026/03/04/venezuela/video/venezuela-guanipa-machado",
+      "file": "0dc0008a357f.txt",
+      "title": "\u201cMar\u00eda Corina Machado volver\u00e1 pronto a Venezuela\u201d, dice Juan Pablo Guanipa | CNN",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "text_length": 341,
+      "status": "ok",
+      "num_tokens": 105
+    },
+    {
+      "url": "https://commanderswire.usatoday.com/story/news/world/2026/01/16/maria-machado-venezuela-trump-oil-white-house/88215146007/",
+      "file": "773695389419.txt",
+      "title": "Latest World & National News & Headlines - USATODAY.com",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "text_length": 757,
+      "status": "ok",
+      "num_tokens": 164
+    },
+    {
+      "url": "http://today.reuters.com/world/us/usdot-approves-american-airlines-flights-venezuela-2026-03-04/",
+      "file": "9a766c3cf16f.txt",
+      "title": "USDOT approves American Airlines flights to Venezuela | Reuters",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "David Shepardson",
+      "text_length": 1786,
+      "status": "ok",
+      "num_tokens": 374
+    },
+    {
+      "url": "https://eu.usatoday.com/story/travel/airline-news/2026/03/04/american-airlines-venezuela-flights/88987225007/",
+      "file": "880563b3e16b.txt",
+      "title": "US approves Miami flights to Venezuela after long aviation ban",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "text_length": 2012,
+      "status": "ok",
+      "num_tokens": 375
+    },
+    {
+      "url": "https://english.elpais.com/international/2026-03-06/the-venezuelan-opposition-moves-past-the-2024-elections-and-prepares-for-the-next-ones.html",
+      "file": "db203eeac2ce.txt",
+      "title": "The Venezuelan opposition moves past the 2024 elections and prepares for the next ones   | International | EL PA\u00cdS English",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Florantonia Singer, Mar\u00eda Mart\u00edn",
+      "text_length": 8058,
+      "status": "ok",
+      "num_tokens": 1579
+    }
+  ],
+  "total_tokens": 2597
+}

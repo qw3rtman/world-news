@@ -1,0 +1,37 @@
+{
+  "hash": "9dcc0eac53be",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://fortune.com/article/current-price-of-silver-2-23-2026/",
+      "title": "Current price of silver as of Monday, February 23, 2026 | Fortune",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "Joseph Hostetler",
+      "num_tokens": 49,
+      "text_length": 168
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1032343",
+      "spike_id": 6,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "up",
+      "spike_delta": 0.25699999999999995,
+      "spike_timestamp_before": "2026-02-23T06:30:16+00:00",
+      "spike_timestamp_after": "2026-02-23T11:00:27+00:00"
+    },
+    {
+      "market_id": "1032343",
+      "spike_id": 7,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.20999999999999996,
+      "spike_timestamp_before": "2026-02-23T11:00:27+00:00",
+      "spike_timestamp_after": "2026-02-23T17:00:15+00:00"
+    }
+  ]
+}

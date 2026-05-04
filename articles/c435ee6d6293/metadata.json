@@ -1,0 +1,37 @@
+{
+  "hash": "c435ee6d6293",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cbc.ca/news/world/iran-tehran-strikes-israel-united-states-strait-of-hormuz-9.7127055",
+      "title": "U.S. orders 2,500 marines, amphibious assault ship to Mideast after almost 2 weeks of war | CBC News",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": "The Associated Press    ·  Posted: Mar 13, 2026 8:32 AM EDT | Last Updated: March 13",
+      "num_tokens": 1949,
+      "text_length": 9372
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1162940",
+      "spike_id": 14,
+      "market_question": "US forces enter Iran by March 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "up",
+      "spike_delta": 0.18,
+      "spike_timestamp_before": "2026-03-13T01:30:24+00:00",
+      "spike_timestamp_after": "2026-03-14T01:00:33+00:00"
+    },
+    {
+      "market_id": "1162940",
+      "spike_id": 15,
+      "market_question": "US forces enter Iran by March 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "up",
+      "spike_delta": 0.25,
+      "spike_timestamp_before": "2026-03-13T10:00:27+00:00",
+      "spike_timestamp_after": "2026-03-14T09:30:33+00:00"
+    }
+  ]
+}

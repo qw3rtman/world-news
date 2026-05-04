@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the incident reported on March 11, 2026, involving a U.S. military aircraft crash in Iraq, how many crew members were confirmed killed?",
+    "a": "Six crew members were killed."
+  },
+  {
+    "q": "According to the U.S. military statement released on March 11, 2026, what was the determined cause of the Air Force refueling plane crash in Iraq?",
+    "a": "The incident was not due to hostile fire."
+  },
+  {
+    "q": "What happened to the second aircraft involved in the March 11, 2026, incident with the U.S. Air Force refueling plane crash in Iraq?",
+    "a": "The second plane was damaged but later landed safely."
+  },
+  {
+    "q": "Which branch of the U.S. military was operating the refueling plane that crashed in Iraq in March 2026?",
+    "a": "The U.S. Air Force."
+  },
+  {
+    "q": "In the March 2026 incident in Iraq, did any personnel aboard the second damaged aircraft sustain fatal injuries?",
+    "a": "No, the second plane landed safely."
+  },
+  {
+    "q": "What type of aircraft was involved in the March 11, 2026, crash in Iraq that resulted in six fatalities?",
+    "a": "An Air Force refueling plane."
+  },
+  {
+    "q": "Did the U.S. military attribute the March 2026 crash of the refueling plane in Iraq to enemy action?",
+    "a": "No, they stated it was not due to hostile fire."
+  },
+  {
+    "q": "How many total aircraft were involved in the March 11, 2026, incident in Iraq reported by CNN?",
+    "a": "Two aircraft were involved."
+  },
+  {
+    "q": "What was the final status of the second aircraft involved in the March 2026 Iraq incident?",
+    "a": "It landed safely after being damaged."
+  },
+  {
+    "q": "Which country's military issued a statement on March 11, 2026, clarifying the cause of the plane crash in Iraq?",
+    "a": "The U.S. military."
+  },
+  {
+    "q": "In the March 2026 crash in Iraq, were all crew members on the primary refueling plane killed?",
+    "a": "Yes, all six crew members were killed."
+  },
+  {
+    "q": "What specific detail did the U.S. military provide regarding the cause of the March 2026 Iraq crash?",
+    "a": "They stated the incident was not due to hostile fire."
+  },
+  {
+    "q": "Did the second aircraft involved in the March 11, 2026, Iraq incident crash?",
+    "a": "No, it landed safely despite being damaged."
+  },
+  {
+    "q": "What was the nationality of the military force operating the aircraft that crashed in Iraq in March 2026?",
+    "a": "U.S. (United States)."
+  },
+  {
+    "q": "How many crew members were aboard the Air Force refueling plane that crashed in Iraq in March 2026?",
+    "a": "Six crew members."
+  },
+  {
+    "q": "What was the outcome for the second plane involved in the March 2026 Iraq incident?",
+    "a": "It was damaged but landed safely."
+  },
+  {
+    "q": "Was the March 2026 crash in Iraq considered a combat casualty by the U.S. military?",
+    "a": "No, it was stated not to be due to hostile fire."
+  },
+  {
+    "q": "Which news organization reported on the March 11, 2026, incident involving the U.S. Air Force refueling plane in Iraq?",
+    "a": "CNN."
+  },
+  {
+    "q": "What was the location of the March 2026 incident involving the U.S. Air Force refueling plane?",
+    "a": "Iraq."
+  },
+  {
+    "q": "Did the U.S. military confirm any hostile engagement in the March 2026 Iraq crash?",
+    "a": "No, they stated it was not due to hostile fire."
+  },
+  {
+    "q": "What was the fate of the six crew members on the U.S. Air Force refueling plane in March 2026?",
+    "a": "They were killed."
+  },
+  {
+    "q": "Was the second aircraft involved in the March 2026 Iraq incident destroyed?",
+    "a": "No, it landed safely."
+  },
+  {
+    "q": "What type of military operation was the crashed aircraft conducting in Iraq in March 2026?",
+    "a": "Refueling."
+  },
+  {
+    "q": "How many people died in the U.S. military incident in Iraq reported on March 11, 2026?",
+    "a": "Six people."
+  },
+  {
+    "q": "What was the condition of the second plane after the March 2026 incident in Iraq?",
+    "a": "It was damaged but landed safely."
+  }
+]

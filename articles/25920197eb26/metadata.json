@@ -1,0 +1,167 @@
+{
+  "hash": "25920197eb26",
+  "n_appearances": 15,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://edition.cnn.com/world/live-news/israel-iran-attack-02-28-26-hnk-intl",
+      "title": "February 28, 2026 — US-Israeli strikes on Iran | CNN",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Tal Shalev, Mostafa Salem, Adam Pourahmadi, Gawon Bae, Abbas Al Lawati, Christopher Lamb, Lauren Kent, Eugenia Josef, Oren Liebermann, Steven Jiang, Billy Stockwell, Leila Gharagozlou, Sophie Tanno, Catherine Nicholls, Jennifer Hansler, Antoinette Radford, Daria Tarasova-Markina, Christian Edwards, Eugenia Yosef, Sophia Saifi, Frederik Pleitgen, Tim Lister, Deva Lee, Helen Regan, Teele Rebane, Isaac Yee, Karina Tsui, Aleena Fayaz, Brad Lendon, Matt Egan, Bijan  Hosseini, Nick Paton Walsh, Chris Lau, Sandi Sidhu, Ivan Watson, Todd Symons, Riane Lumer, Kareem El Damanhoury, Martin Goillandeau, Michelle Velez, Jomana Karadsheh, Quinta Thomson, Ben Brown, Kylie Atwood, Emma Tucker, Sophia Peyser, Alejandra Jaramillo, Max Saltman, Thomas Bordeaux, Lauren Izso, Nina Giraldo, Kaanita Iyer, Dalia Abdelwahab, Stephen Collinson, Jennifer Hauser, Tori B. Powell, Kit Maher, Aditi Sangal, Adam Cancryn, Gianluca Mezzofiore, Jeremy Diamond, Kristen Holmes, Natasha Bertrand, Mitchell McCluskey, Abeer Salman, Dana Karni, Uriel Blanco, Anabella Gonzalez, Christian Sierra, Haley Britzky, Gul Tuysuz, Farida Elsebai, Yong Xiong, John Miller, Josh Campbell, Alayna Treene, Tala Alrajjal, Auzinea Bacon, Camila DeChalus, CNN Staff, Ellis Kim, Dan Berman, Julia Benbrook, Lou Robinson, Jim Sciutto, Kevin Liptak, Renée Rigdon, Nic Robertson, Samantha Waldenberg, Zachary Cohen, Manu Raju, Jeff Zeleny, Charlotte Reck, Duarte Mendonca, Logan Schiciano, Kaitlan Collins, Angus Watson, Avery Schmitz, Nadeen Ebrahim, Satish Cheney",
+      "num_tokens": 3861,
+      "text_length": 19170
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1198523",
+      "spike_id": 3,
+      "market_question": "Will US or Israel strike Iran by March 31, 2026?",
+      "event_title": "US/Israel strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.4445,
+      "spike_timestamp_before": "2026-02-27T09:30:25+00:00",
+      "spike_timestamp_after": "2026-02-28T09:00:43+00:00"
+    },
+    {
+      "market_id": "1279277",
+      "spike_id": 1,
+      "market_question": "Iran strike on Qatar by February 28, 2026?",
+      "event_title": "Iran strike on Qatar by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.7745,
+      "spike_timestamp_before": "2026-02-27T19:00:37+00:00",
+      "spike_timestamp_after": "2026-02-28T10:00:40+00:00"
+    },
+    {
+      "market_id": "1279277",
+      "spike_id": 2,
+      "market_question": "Iran strike on Qatar by February 28, 2026?",
+      "event_title": "Iran strike on Qatar by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.874,
+      "spike_timestamp_before": "2026-02-27T19:00:37+00:00",
+      "spike_timestamp_after": "2026-02-28T14:00:51+00:00"
+    },
+    {
+      "market_id": "1279277",
+      "spike_id": 3,
+      "market_question": "Iran strike on Qatar by February 28, 2026?",
+      "event_title": "Iran strike on Qatar by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.916,
+      "spike_timestamp_before": "2026-02-27T19:30:42+00:00",
+      "spike_timestamp_after": "2026-02-28T19:30:37+00:00"
+    },
+    {
+      "market_id": "1279277",
+      "spike_id": 4,
+      "market_question": "Iran strike on Qatar by February 28, 2026?",
+      "event_title": "Iran strike on Qatar by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.9325,
+      "spike_timestamp_before": "2026-02-28T06:00:42+00:00",
+      "spike_timestamp_after": "2026-03-01T05:30:37+00:00"
+    },
+    {
+      "market_id": "1279277",
+      "spike_id": 5,
+      "market_question": "Iran strike on Qatar by February 28, 2026?",
+      "event_title": "Iran strike on Qatar by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.7035,
+      "spike_timestamp_before": "2026-02-28T08:30:59+00:00",
+      "spike_timestamp_after": "2026-03-01T08:00:37+00:00"
+    },
+    {
+      "market_id": "1279277",
+      "spike_id": 6,
+      "market_question": "Iran strike on Qatar by February 28, 2026?",
+      "event_title": "Iran strike on Qatar by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.23750000000000004,
+      "spike_timestamp_before": "2026-02-28T16:00:39+00:00",
+      "spike_timestamp_after": "2026-03-01T14:00:39+00:00"
+    },
+    {
+      "market_id": "1465968",
+      "spike_id": 1,
+      "market_question": "Will US or Israel strike Iran on March 3, 2026?",
+      "event_title": "US/Israel strikes Iran on...?",
+      "spike_direction": "up",
+      "spike_delta": 0.21999999999999997,
+      "spike_timestamp_before": "2026-02-28T14:30:31+00:00",
+      "spike_timestamp_after": "2026-02-28T17:30:32+00:00"
+    },
+    {
+      "market_id": "1465968",
+      "spike_id": 2,
+      "market_question": "Will US or Israel strike Iran on March 3, 2026?",
+      "event_title": "US/Israel strikes Iran on...?",
+      "spike_direction": "up",
+      "spike_delta": 0.235,
+      "spike_timestamp_before": "2026-02-28T14:30:31+00:00",
+      "spike_timestamp_after": "2026-02-28T19:30:32+00:00"
+    },
+    {
+      "market_id": "1465969",
+      "spike_id": 1,
+      "market_question": "Will US or Israel strike Iran on March 4, 2026?",
+      "event_title": "US/Israel strikes Iran on...?",
+      "spike_direction": "up",
+      "spike_delta": 0.25,
+      "spike_timestamp_before": "2026-02-28T14:30:27+00:00",
+      "spike_timestamp_after": "2026-02-28T17:00:44+00:00"
+    },
+    {
+      "market_id": "1465969",
+      "spike_id": 2,
+      "market_question": "Will US or Israel strike Iran on March 4, 2026?",
+      "event_title": "US/Israel strikes Iran on...?",
+      "spike_direction": "up",
+      "spike_delta": 0.255,
+      "spike_timestamp_before": "2026-02-28T14:30:27+00:00",
+      "spike_timestamp_after": "2026-02-28T19:30:28+00:00"
+    },
+    {
+      "market_id": "1466575",
+      "spike_id": 1,
+      "market_question": "Trump announces end of military operations against Iran by March 31st?",
+      "event_title": "Trump announces end of military operations against Iran by ...?",
+      "spike_direction": "up",
+      "spike_delta": 0.255,
+      "spike_timestamp_before": "2026-02-28T17:30:32+00:00",
+      "spike_timestamp_after": "2026-02-28T19:00:33+00:00"
+    },
+    {
+      "market_id": "1466575",
+      "spike_id": 2,
+      "market_question": "Trump announces end of military operations against Iran by March 31st?",
+      "event_title": "Trump announces end of military operations against Iran by ...?",
+      "spike_direction": "up",
+      "spike_delta": 0.29499999999999993,
+      "spike_timestamp_before": "2026-02-28T17:30:32+00:00",
+      "spike_timestamp_after": "2026-02-28T22:00:37+00:00"
+    },
+    {
+      "market_id": "791705",
+      "spike_id": 2,
+      "market_question": "Israel strikes Iran by March 31, 2026?",
+      "event_title": "Israel strikes Iran by March 31, 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.5245000000000001,
+      "spike_timestamp_before": "2026-02-27T08:30:22+00:00",
+      "spike_timestamp_after": "2026-02-28T08:00:35+00:00"
+    },
+    {
+      "market_id": "984441",
+      "spike_id": 4,
+      "market_question": "US strikes Iran by March 31, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.4545,
+      "spike_timestamp_before": "2026-02-27T09:00:36+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:51+00:00"
+    }
+  ]
+}

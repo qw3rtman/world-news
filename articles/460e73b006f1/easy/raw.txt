@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On March 10, 2026, what percentage decline did Brent crude oil experience, and what was its final settlement price per barrel following comments by US President Donald Trump?",
+    "a": "Brent crude fell 11.28% to settle at $87.80 per barrel."
+  },
+  {
+    "q": "During the week of March 10, 2026, what specific threat did US President Donald Trump issue to Iran via Truth Social regarding the Strait of Hormuz?",
+    "a": "He vowed to hit Iran 'TWENTY TIMES HARDER' if it stopped the flow of oil through the strait."
+  },
+  {
+    "q": "As of March 10, 2026, what contrasting timelines for the end of the conflict did US President Donald Trump and US Defense Secretary Pete Hegseth provide?",
+    "a": "Trump stated the war would end 'very soon,' while Hegseth said it would not end until the enemy was 'totally and decisively defeated' on the US timeline."
+  },
+  {
+    "q": "In early March 2026, what milestone did oil prices reach for the first time since Russia’s 2022 invasion of Ukraine, and which benchmark neared $120 a barrel?",
+    "a": "Oil prices surged above $100 a barrel, with Brent crude nearing $120 a barrel."
+  },
+  {
+    "q": "On March 10, 2026, what action did Fatih Birol, executive director of the International Energy Agency, announce regarding IEA member countries?",
+    "a": "He announced that member countries would meet to assess supply security and decide whether to release emergency oil stockpiles."
+  },
+  {
+    "q": "As of March 10, 2026, what was the settlement price of WTI crude oil, and how did its percentage drop compare to Brent crude?",
+    "a": "WTI sank 11.94% to $83.45 per barrel, a slightly larger percentage drop than Brent's 11.28% decline."
+  },
+  {
+    "q": "On March 10, 2026, what warning did Saudi Aramco CEO Amin Nasser issue regarding the global economy if oil flows through the Strait of Hormuz remain disrupted?",
+    "a": "He warned of 'catastrophic consequences' for oil markets and more drastic consequences for the global economy."
+  },
+  {
+    "q": "During the week of March 10, 2026, what estimate did Mohit Kumar of Jefferies provide regarding the sufficiency of strategic oil reserves if the war lasts months?",
+    "a": "He stated that strategic reserves alone would not be sufficient if the war is an extended conflict lasting months."
+  },
+  {
+    "q": "As of March 10, 2026, what specific production capability did Saudi Aramco CEO Amin Nasser claim the company possessed regarding oil output?",
+    "a": "He claimed Aramco could ramp up production in days, not weeks."
+  },
+  {
+    "q": "On March 10, 2026, what measure did the White House say it would provide to support tanker transits through the Strait of Hormuz?",
+    "a": "The White House said it would provide insurance and secure naval escorts for ships transiting the strait."
+  },
+  {
+    "q": "During the week of March 10, 2026, what meeting did the International Energy Agency host at its Paris headquarters involving energy ministers from which group of nations?",
+    "a": "The IEA hosted a meeting of G7 energy ministers."
+  },
+  {
+    "q": "As of March 10, 2026, what was the approximate size of strategic oil reserves available from G7 nations, excluding China and Canada?",
+    "a": "The reserves were estimated at around 1 billion barrels."
+  },
+  {
+    "q": "On March 10, 2026, what comparison did Saudi Aramco CEO Amin Nasser make between the current oil disruption and past disruptions faced by the region's industry?",
+    "a": "He stated that this was by far the biggest crisis the region’s oil and gas industry had faced."
+  },
+  {
+    "q": "As of March 10, 2026, what was the status of global oil inventories according to Saudi Aramco CEO Amin Nasser?",
+    "a": "Global inventories of oil were at a five-year low."
+  },
+  {
+    "q": "During the week of March 10, 2026, which two Middle East oil producers were cutting output due to filling storage tanks and few ways to export oil?",
+    "a": "Saudi Arabia and Kuwait were cutting output."
+  },
+  {
+    "q": "On March 10, 2026, what were the pre-conflict prices for Brent and WTI crude oil before the United States and Israel launched strikes on February 28?",
+    "a": "Prices were around $73 for Brent and $67 for WTI."
+  },
+  {
+    "q": "As of March 10, 2026, what was the Group of Seven (G7) stance on supporting global energy markets if necessary?",
+    "a": "The G7 said it stood ready to support markets through the release of oil reserves."
+  },
+  {
+    "q": "On March 10, 2026, what specific outcome did US Defense Secretary Pete Hegseth say would determine the end of the war with Iran?",
+    "a": "He said the war would end only when the enemy is 'totally and decisively defeated.'"
+  },
+  {
+    "q": "During the week of March 10, 2026, what fear was sparked by Middle East oil producers like Saudi Arabia and Kuwait cutting output?",
+    "a": "It sparked fears that it would take longer to bring production back online once transits resume through the Strait of Hormuz."
+  },
+  {
+    "q": "On March 10, 2026, what was the primary reason investors were hopeful about options to increase global oil supply?",
+    "a": "They were hopeful about options to resume tanker transits through the Strait of Hormuz."
+  },
+  {
+    "q": "As of March 10, 2026, what was the main channel for transporting the Middle East’s oil output to the rest of the world that was at risk of disruption?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "On March 10, 2026, what was the base case scenario for the duration of the war according to IEA executive director Fatih Birol's assessment context?",
+    "a": "The base case remained that the war would be measured in weeks."
+  },
+  {
+    "q": "During the week of March 10, 2026, what was the impact of US President Donald Trump's phone interview with CBS on oil market volatility?",
+    "a": "His comments appeared to calm markets, causing a sharp reversal in prices."
+  },
+  {
+    "q": "As of March 10, 2026, what entity did Saudi Aramco describe as the 'world’s biggest oil exporter' in its warning about market consequences?",
+    "a": "Saudi Aramco itself."
+  },
+  {
+    "q": "On March 10, 2026, what specific date did the United States and Israel launch strikes on Iran that preceded the current oil price volatility?",
+    "a": "February 28."
+  }
+]

@@ -1,0 +1,87 @@
+{
+  "hash": "a0f0a979f7ed",
+  "n_appearances": 7,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cbsnews.com/news/price-of-silver-today-february-26-2026/?intcid=CNR-01-0623",
+      "title": "What is the price of silver today: February 26, 2026? - CBS News",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 751,
+      "text_length": 3633
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1032336",
+      "spike_id": 3,
+      "market_question": "Will Silver (SI) hit (HIGH) $120 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "up",
+      "spike_delta": 0.16750000000000004,
+      "spike_timestamp_before": "2026-02-26T22:00:32+00:00",
+      "spike_timestamp_after": "2026-02-27T20:30:36+00:00"
+    },
+    {
+      "market_id": "1032343",
+      "spike_id": 12,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.18,
+      "spike_timestamp_before": "2026-02-25T03:00:18+00:00",
+      "spike_timestamp_after": "2026-02-26T00:30:17+00:00"
+    },
+    {
+      "market_id": "1032343",
+      "spike_id": 13,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "up",
+      "spike_delta": 0.23500000000000004,
+      "spike_timestamp_before": "2026-02-26T12:30:20+00:00",
+      "spike_timestamp_after": "2026-02-26T13:00:19+00:00"
+    },
+    {
+      "market_id": "1032343",
+      "spike_id": 14,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.24900000000000005,
+      "spike_timestamp_before": "2026-02-26T13:00:19+00:00",
+      "spike_timestamp_after": "2026-02-26T17:00:25+00:00"
+    },
+    {
+      "market_id": "1032343",
+      "spike_id": 15,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "up",
+      "spike_delta": 0.18150000000000005,
+      "spike_timestamp_before": "2026-02-26T17:00:25+00:00",
+      "spike_timestamp_after": "2026-02-27T01:30:20+00:00"
+    },
+    {
+      "market_id": "1032343",
+      "spike_id": 16,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.20400000000000001,
+      "spike_timestamp_before": "2026-02-27T01:30:20+00:00",
+      "spike_timestamp_after": "2026-02-27T20:30:22+00:00"
+    },
+    {
+      "market_id": "1032343",
+      "spike_id": 17,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.22000000000000003,
+      "spike_timestamp_before": "2026-02-27T01:30:20+00:00",
+      "spike_timestamp_after": "2026-02-28T01:00:22+00:00"
+    }
+  ]
+}

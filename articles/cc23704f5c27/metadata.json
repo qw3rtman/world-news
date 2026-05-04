@@ -1,0 +1,27 @@
+{
+  "hash": "cc23704f5c27",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cbsnews.com/news/where-gold-prices-could-head-spring-2026-according-to-experts/?intcid=CNR-02-0623",
+      "title": "Here's where gold prices could head this spring, according to experts - CBS News",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1044,
+      "text_length": 5101
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1032343",
+      "spike_id": 29,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "up",
+      "spike_delta": 0.15599999999999997,
+      "spike_timestamp_before": "2026-03-08T23:00:18+00:00",
+      "spike_timestamp_after": "2026-03-09T02:30:17+00:00"
+    }
+  ]
+}

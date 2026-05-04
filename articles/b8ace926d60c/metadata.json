@@ -1,0 +1,27 @@
+{
+  "hash": "b8ace926d60c",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://haaretz.com/israel-news/israel-politics/2026-03-13/ty-article/.premium/epic-anticlimax-why-israelis-arent-giving-netanyahu-an-iran-bump-in-the-polls/0000019c-e6ad-d02e-abdf-efafe1070000",
+      "title": "Epic Anticlimax: Why Israelis Aren't Giving Netanyahu an Iran Bump in the Polls - Israel Political News",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": "Dahlia Scheindlin",
+      "num_tokens": 189,
+      "text_length": 835
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "567688",
+      "spike_id": 1,
+      "market_question": "Netanyahu out by end of 2026?",
+      "event_title": "Netanyahu out by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.16500000000000004,
+      "spike_timestamp_before": "2026-03-13T10:30:46+00:00",
+      "spike_timestamp_after": "2026-03-14T09:30:30+00:00"
+    }
+  ]
+}

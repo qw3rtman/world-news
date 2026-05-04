@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On March 4, 2026, which U.S. Senate action was taken regarding a war powers resolution in the context of the fifth day of the U.S.-Iran war?",
+    "a": "The Senate voted to block the war powers resolution."
+  },
+  {
+    "q": "Who is the U.S. Treasury Secretary that announced measures to stabilize oil shipments in the Gulf on March 4, 2026?",
+    "a": "Scott Bessent."
+  },
+  {
+    "q": "On which television program did Treasury Secretary Scott Bessent appear on March 4, 2026, to discuss energy transport announcements?",
+    "a": "CNBC's \"Squawk Box.\""
+  },
+  {
+    "q": "Which two U.S. defense contractors' executives were scheduled to meet White House officials on March 6, 2026, to discuss accelerating weapons production?",
+    "a": "Lockheed Martin and RTX (the parent company of Raytheon)."
+  },
+  {
+    "q": "Who is the U.S. Defense Secretary that stated \"America is winning decisively\" during a briefing on March 4, 2026?",
+    "a": "Pete Hegseth."
+  },
+  {
+    "q": "Which U.S. military official joined Defense Secretary Pete Hegseth during his March 4, 2026, briefing with reporters?",
+    "a": "Joint Chiefs of Staff Chairman Gen. Dan Caine."
+  },
+  {
+    "q": "Whose death was being marked by a three-day funeral ceremony prepared by Iranians on March 4, 2026?",
+    "a": "Supreme Leader Ayatollah Ali Khamenei."
+  },
+  {
+    "q": "In which conflict was Supreme Leader Ayatollah Ali Khamenei killed, according to the article published on March 5, 2026?",
+    "a": "The U.S.-Israeli war on Iran."
+  },
+  {
+    "q": "On March 4, 2026, which two nations denied reports that their inventories of Patriot interceptor missiles were running low?",
+    "a": "The United Arab Emirates and Qatar."
+  },
+  {
+    "q": "Which U.S. President made remarks on March 3, 2026, claiming the U.S. had a \"virtually unlimited supply\" of medium and upper medium grade weapons?",
+    "a": "President Donald Trump."
+  },
+  {
+    "q": "What specific type of defense systems were reported to potentially be in short supply, prompting President Donald Trump's clarification on March 3, 2026?",
+    "a": "Anti-drone defenses."
+  },
+  {
+    "q": "How many days into the U.S.-Iran war was the conflict as of the date of the article published on March 5, 2026?",
+    "a": "The fifth day."
+  },
+  {
+    "q": "Which country's drone and missile strikes on neighboring countries continued for a fifth day as of March 4, 2026?",
+    "a": "Iran."
+  },
+  {
+    "q": "What did Gulf nations seek to stress regarding their weapon stockpiles on March 4, 2026?",
+    "a": "That their weapon stockpiles remain sufficient."
+  },
+  {
+    "q": "Which parent company of Raytheon was involved in the scheduled March 6, 2026, meeting with White House officials?",
+    "a": "RTX."
+  },
+  {
+    "q": "On what day of the week was Treasury Secretary Scott Bessent's interview with CNBC's \"Squawk Box\" scheduled for March 4, 2026?",
+    "a": "Wednesday."
+  },
+  {
+    "q": "Which U.S. official stated on March 4, 2026, that \"more forces are arriving\" in the context of the U.S.-Iran war?",
+    "a": "Defense Secretary Pete Hegseth."
+  },
+  {
+    "q": "What was the status of oil shipments in the Gulf that U.S. Treasury Secretary Scott Bessent said the administration would help stabilize on March 4, 2026?",
+    "a": "Measures would be provided to stabilize them."
+  },
+  {
+    "q": "Which two entities were expected to meet White House officials on March 6, 2026, to discuss accelerating weapons production?",
+    "a": "Executives from Lockheed Martin and RTX."
+  },
+  {
+    "q": "According to President Donald Trump's remarks on March 3, 2026, what grade of weapons did the U.S. have a virtually unlimited supply of?",
+    "a": "Medium and upper medium grade weapons."
+  },
+  {
+    "q": "Which Supreme Leader of Iran was killed in the opening salvos of the U.S.-Israeli war on Iran, with funeral preparations ongoing on March 4, 2026?",
+    "a": "Ayatollah Ali Khamenei."
+  },
+  {
+    "q": "Who joined Defense Secretary Pete Hegseth and Joint Chiefs of Staff Chairman Gen. Dan Caine during the March 4, 2026, briefing?",
+    "a": "Reporters."
+  },
+  {
+    "q": "Which two nations' denials regarding Patriot interceptor missile inventories were reported on March 4, 2026?",
+    "a": "The United Arab Emirates and Qatar."
+  },
+  {
+    "q": "What specific event did Iranians prepare a three-day funeral ceremony for on March 4, 2026?",
+    "a": "The death of Supreme Leader Ayatollah Ali Khamenei."
+  },
+  {
+    "q": "Which U.S. defense contractor, alongside RTX, was scheduled to meet White House officials on March 6, 2026?",
+    "a": "Lockheed Martin."
+  }
+]

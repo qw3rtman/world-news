@@ -1,0 +1,106 @@
+[
+  {
+    "q": "On what date did the price of oil surge past $100 per barrel for the first time since July 2022, an event driven by the ongoing U.S.-Israeli war on Iran?",
+    "a": "Sunday, March 8, 2026."
+  },
+  {
+    "q": "What were the specific price levels reached by U.S. crude oil futures and Brent crude during the market surge on March 8, 2026?",
+    "a": "U.S. crude oil futures reached nearly $115 per barrel, and Brent crude jumped to $110 per barrel."
+  },
+  {
+    "q": "Which U.S. stock market futures indices experienced significant declines on Monday morning, March 9, 2026, following the oil price surge?",
+    "a": "S&P 500 futures plunged 2.3%, Dow futures plummeted more than 1,000 points, and Nasdaq 100 futures slid 2.7%."
+  },
+  {
+    "q": "What was the national average price for U.S. retail gasoline on March 8, 2026, and what was the previous record-high context for such prices?",
+    "a": "The average exceeded $3.45 per gallon, matching levels last seen immediately after Russia invaded Ukraine in February 2022."
+  },
+  {
+    "q": "Which international stock market indices reported losses on Monday, March 9, 2026, and what were their approximate percentage drops?",
+    "a": "South Korea’s Kospi closed down almost 6%, Japan’s Nikkei 225 finished 5.2% lower, and Australia’s ASX 200 closed down 2.85%."
+  },
+  {
+    "q": "What were the projected declines for European stock market indices on Monday, March 9, 2026, according to early trading data?",
+    "a": "Germany's DAX was set to tumble more than 3.3%, the U.K.'s FTSE 100 was poised to drop 2%, and the pan-European Stoxx 600 fell more than 2%."
+  },
+  {
+    "q": "Which OPEC member countries announced production cuts or output management in response to the war on Iran in early March 2026?",
+    "a": "Kuwait, the United Arab Emirates, and Iraq."
+  },
+  {
+    "q": "Why was the Strait of Hormuz considered impassable for most oil and liquefied natural gas tankers as of March 8, 2026?",
+    "a": "It remained essentially shut after the U.S. and Israel first struck Iran on February 28, 2026."
+  },
+  {
+    "q": "What prediction did GasBuddy analyst Patrick De Haan make on March 8, 2026, regarding the likelihood of U.S. national average gasoline prices reaching $4 per gallon?",
+    "a": "He estimated an 80% chance of the national average reaching $4 per gallon in the next month."
+  },
+  {
+    "q": "What did Patrick De Haan predict about diesel fuel prices in the week following March 8, 2026?",
+    "a": "He saw an 85% chance of diesel fuel hitting $5 per gallon in the next week."
+  },
+  {
+    "q": "How much had the price of U.S. crude oil increased year-to-date as of March 8, 2026, and what political factor contributed to this rise?",
+    "a": "The price had skyrocketed more than 80%, driven by the Trump administration ramping up rhetoric against Iran's regime."
+  },
+  {
+    "q": "What statement did President Donald Trump make on Truth Social on Sunday, March 8, 2026, regarding the spike in oil prices?",
+    "a": "He called spiking prices 'a very small price to pay for U.S.A., and World, Safety and Peace.'"
+  },
+  {
+    "q": "What was President Donald Trump's response to concerns about rising oil and gas prices when speaking to Reuters on Friday, March 6, 2026?",
+    "a": "He stated he had 'no concern about it' and that prices would 'drop very rapidly when this is over.'"
+  },
+  {
+    "q": "What action did Senate Minority Leader Chuck Schumer suggest the administration should take on March 8, 2026, to address energy market disruptions?",
+    "a": "He suggested tapping the national strategic petroleum reserve."
+  },
+  {
+    "q": "What timeline did Treasury Secretary Scott Bessent provide on Friday, March 6, 2026, for getting ships moving through the Strait of Hormuz again?",
+    "a": "He said it might take another 'week or two weeks' to get ships moving through the waterway again as normal."
+  },
+  {
+    "q": "What potential measure did Treasury Secretary Scott Bessent mention on Fox Business Network on March 6, 2026, to create supply and ease prices?",
+    "a": "The Treasury Department might 'unsanction' Russian oil."
+  },
+  {
+    "q": "What did Interior Secretary Doug Burgum state on Fox News on Sunday, March 8, 2026, regarding the duration of the Strait of Hormuz closure?",
+    "a": "He said it might be 'weeks' before ships are passing through again and called it 'a temporary issue' only."
+  },
+  {
+    "q": "Which two OPEC countries rank in the top five oil-producing countries and were mentioned as trimming or managing output in early March 2026?",
+    "a": "Kuwait and the United Arab Emirates."
+  },
+  {
+    "q": "What was Iraq's role in OPEC production cuts as reported in early March 2026?",
+    "a": "Iraq, the No. 2 OPEC oil producer, had already cut output significantly the previous week."
+  },
+  {
+    "q": "What correlation did the article cite between crude oil futures and retail gasoline prices as of March 8, 2026?",
+    "a": "Every $1 that crude oil futures rise typically correlates to about a 2.5-cent rise in retail gasoline prices."
+  },
+  {
+    "q": "Who was the analyst that predicted an 80% chance of gasoline reaching $4 per gallon, and on which social media platform did he share this estimate?",
+    "a": "GasBuddy analyst Patrick De Haan shared the estimate on X."
+  },
+  {
+    "q": "What specific date did the U.S. and Israel first strike Iran, leading to the closure of the Strait of Hormuz?",
+    "a": "February 28, 2026."
+  },
+  {
+    "q": "Which U.S. government department was working with U.S. Central Command to try to resolve the Strait of Hormuz shipping issues in early March 2026?",
+    "a": "The Treasury Department."
+  },
+  {
+    "q": "What was the performance of the pan-European benchmark Stoxx 600 in early trading on Monday, March 9, 2026?",
+    "a": "It fell more than 2% to reach its lowest point in two months."
+  },
+  {
+    "q": "How did Chinese markets perform relative to other global markets on Monday, March 9, 2026, according to the article?",
+    "a": "Chinese markets had smaller losses compared to other international indices."
+  },
+  {
+    "q": "What was the percentage increase in U.S. crude oil futures and Brent crude respectively during the surge on Sunday, March 8, 2026?",
+    "a": "U.S. crude oil futures rose more than 25%, and Brent jumped more than 20%."
+  }
+]

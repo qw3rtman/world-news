@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In late December 2025, which Minneapolis-based child care center became one of nearly a dozen facilities thrust into the national spotlight following fraud allegations made by conservative YouTuber Nick Shirley?",
+    "a": "The ABC Learning Center."
+  },
+  {
+    "q": "Which federal agency sent thousands of additional agents into Minnesota under the banner of Operation Metro Surge in the days following Nick Shirley's viral video about Somali-run day cares?",
+    "a": "U.S. Immigration and Customs Enforcement (ICE)."
+  },
+  {
+    "q": "Who is the White House border czar that declared Operation Metro Surge over in early 2026 while noting that some agents would remain in Minnesota to handle fraud?",
+    "a": "Tom Homan."
+  },
+  {
+    "q": "Which three Minnesota child care centers filed a lawsuit against the Minnesota State Department of Children, Youth and Families (DCYF) in early 2026, alleging they were thrown \"under the bus\" to appease the federal government?",
+    "a": "Hopkins Child Care Center LLC, Cloud Academy LLC, and St. Cloud Childcare Inc."
+  },
+  {
+    "q": "What specific financial consequence did the Minnesota State Department of Children, Youth and Families impose on Hopkins Child Care Center LLC, Cloud Academy LLC, and St. Cloud Childcare Inc. as revealed in their lawsuit?",
+    "a": "Their Child Care Assistance Program (CCAP) funds were temporarily suspended."
+  },
+  {
+    "q": "According to the lawsuit filed in early 2026, what did attorney Jason Steck argue was the reason St. Cloud Childcare was losing funding despite the state citing \"credible\" allegations of fraud?",
+    "a": "A minor misunderstanding related to child attendance record-keeping."
+  },
+  {
+    "q": "Which individual, owner of the ABC Learning Center in Minneapolis, described feeling like she was in \"war\" and experiencing trauma after Nick Shirley's fraud allegations against Somali-owned day cares went viral?",
+    "a": "Umi Hassan."
+  },
+  {
+    "q": "In which month of 2026 did the Minnesota State Department of Children, Youth and Families last provide an update stating that day cares featured in Nick Shirley's video were operating \"as expected\" while four faced active investigations?",
+    "a": "January 2026."
+  },
+  {
+    "q": "Which specific day care center featured in Nick Shirley's video had already been closed for some time prior to the January 2026 state investigation updates?",
+    "a": "The article does not name the specific closed center, only noting that one of the day cares featured by Shirley as fraudulent had been closed for some time."
+  },
+  {
+    "q": "Who is the 79th person charged in the Feeding Our Future fraud scheme, and what is the name of the early learning center she owned that was featured in Nick Shirley's video?",
+    "a": "Fahima Mahamud, who owned the Future Leaders Early Learning Center."
+  },
+  {
+    "q": "What specific fraudulent activity was Fahima Mahamud accused of committing at the Future Leaders Early Learning Center in June 2021, according to investigators?",
+    "a": "Claiming to feed over 1,000 children per day."
+  },
+  {
+    "q": "What legal restrictions were placed on Fahima Mahamud after she was charged in the Feeding Our Future fraud scheme in early 2026?",
+    "a": "She was placed under house arrest and required to wear a GPS monitor when leaving home, permitted only for work."
+  },
+  {
+    "q": "Which two distinct fraud schemes are highlighted in the article, one involving Nick Shirley's video allegations and the other involving Fahima Mahamud's charges?",
+    "a": "Allegations related to the Child Care Assistance Program (CCAP) and the Feeding Our Future fraud scheme."
+  },
+  {
+    "q": "What specific action did conservative YouTuber Nick Shirley take in late 2025 that led to federal ICE agents being sent to Minnesota?",
+    "a": "He released a viral video leveling sweeping fraud accusations against Somali-owned day cares."
+  },
+  {
+    "q": "Which U.S. government department did Umi Hassan state had not asked her about her business, despite the heightened federal enforcement in Minnesota?",
+    "a": "The U.S. Department of Homeland Security (DHS)."
+  },
+  {
+    "q": "What did Fahima Mahamud do shortly before her charges in the Feeding Our Future fraud scheme were publicized in early 2026?",
+    "a": "She closed the Future Leaders Early Learning Center and booked a flight to London."
+  },
+  {
+    "q": "According to the lawsuit filed by Hopkins Child Care Center LLC, Cloud Academy LLC, and St. Cloud Childcare Inc., how did the Minnesota State Department of Children, Youth and Families treat these businesses?",
+    "a": "They allege the department acted in bad faith and threw them \"under the bus\" to appease the federal government."
+  },
+  {
+    "q": "Which specific program's funds were temporarily suspended from the three suing day care centers, a program wholly separate from the Feeding Our Future scheme?",
+    "a": "The Child Care Assistance Program (CCAP)."
+  },
+  {
+    "q": "What did Umi Hassan say she had never thought she would need to do as a U.S. citizen after the events surrounding Nick Shirley's video and Operation Metro Surge?",
+    "a": "Take her passport to buy milk."
+  },
+  {
+    "q": "How many people were charged in the Feeding Our Future fraud scheme by the time Fahima Mahamud was identified as the 79th person charged in early 2026?",
+    "a": "79 people."
+  },
+  {
+    "q": "Which state agency's officials are being sued by Hopkins Child Care Center LLC, Cloud Academy LLC, and St. Cloud Childcare Inc. in early 2026?",
+    "a": "The Minnesota State Department of Children, Youth and Families (DCYF)."
+  },
+  {
+    "q": "What did White House border czar Tom Homan note about the status of federal agents in Minnesota after declaring Operation Metro Surge over in early 2026?",
+    "a": "He noted that a certain number of agents would remain in the state to handle fraud."
+  },
+  {
+    "q": "Which news organization reached out to both the Minnesota State Department of Children, Youth and Families and the federal Department of Homeland Security without receiving responses by the time of the February 20, 2026 publication?",
+    "a": "WCCO."
+  },
+  {
+    "q": "What type of evidence did conservative YouTuber Nick Shirley allegedly use when leveling fraud accusations against Somali-owned day cares in his late 2025 video?",
+    "a": "Sweeping accusations often without definitive evidence."
+  },
+  {
+    "q": "What specific monitoring requirement was imposed on Fahima Mahamud regarding her movement while under house arrest in early 2026?",
+    "a": "She was required to wear a GPS monitor when leaving her home."
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In the press conference held on Thursday night following the start of the 2026 conflict with Iran, what specific assertion did Israeli Prime Minister Benjamin Netanyahu make regarding the current state of Iran and the Middle East?",
+    "a": "Netanyahu stated, \"this is no longer the same Iran, this is no longer the same Middle East, and this is not the same Israel.\""
+  },
+  {
+    "q": "What specific military action did Israel take against Iran's Supreme Leader Ayatollah Ali Khamanei during the 2026 war, and what did Netanyahu subsequently signal about the Iranian regime?",
+    "a": "Israel assassinated Ayatollah Ali Khamanei in an air strike, and Netanyahu signaled that the war might end with the regime still in place."
+  },
+  {
+    "q": "According to Lt Col Nadav Shoshani, spokesman for the Israel Defense Forces (IDF), what is the nature of the damage inflicted on Iran's weapons programs during the 2026 conflict?",
+    "a": "Shoshani described the damage as partly permanent and partly semi-permanent, with the objective of removing threats for a prolonged period of time."
+  },
+  {
+    "q": "Which two regional groups are identified in the article as still posing significant threats to Israel despite the 2026 war against Iran, with one controlling roughly half of Gaza and the other engaging in significant fighting in Lebanon?",
+    "a": "Hamas, which controls roughly half of Gaza, and Hezbollah, which is putting up a bigger fight in Lebanon."
+  },
+  {
+    "q": "What historical event does Neri Zilber, a policy advisor to the Israel Policy Forum, identify as the starting point for what Benjamin Netanyahu calls the \"War of Redemption\"?",
+    "a": "The October 7, 2023 Hamas attacks."
+  },
+  {
+    "q": "What reason did Benjamin Netanyahu give in June 2025 for Israel returning to war against Iran just eight months after a previous conflict that he had heralded as a \"historic victory\"?",
+    "a": "Netanyahu stated that Iran was rapidly rebuilding its missile programme and planning to move its missile and nuclear programmes deep underground."
+  },
+  {
+    "q": "What internal signs of strain within Iran's security apparatus were reported by unnamed military officials to the defence correspondent of Yedioth Ahronoth during the 2026 war?",
+    "a": "Internal tensions within the Revolutionary Guard and isolated cases of desertion."
+  },
+  {
+    "q": "Who is the Israeli military chief of staff who described the 2026 conflict with Iran as \"the war of our generation\" and emphasized the need for \"persistence and patience\"?",
+    "a": "Lt Gen Eyal Zamir."
+  },
+  {
+    "q": "What is Maj Gen Yaakov Amidror, a former Israeli national security adviser, arguing regarding Israel's ability to achieve its core goals against Iran without achieving regime change?",
+    "a": "He argues that Israel can achieve its core goals by leaving the Iranian regime too weak to threaten Israel, acknowledging Israel's limitations as not being a superpower."
+  },
+  {
+    "q": "On which two fronts is Israel currently fighting as of the March 2026 reporting in the article, following the response to the killing of Ayatollah Ali Khamanei?",
+    "a": "Israel is fighting against Iran directly and on a second front against Hezbollah in Lebanon."
+  },
+  {
+    "q": "What specific military objective has Lt Gen Eyal Zamir, the Israeli chief of staff, stated is needed to disarm Hezbollah in southern Lebanon?",
+    "a": "Zamir stated that what is needed above all is \"persistence and patience.\""
+  },
+  {
+    "q": "Which US think tank is Neri Zilber associated with as a policy advisor, and what does he warn about the danger for Benjamin Netanyahu regarding his past promises?",
+    "a": "Zilber is a policy advisor to the Israel Policy Forum; he warns that Netanyahu's past promises of \"total victory\" may come back to haunt him if they prove to be empty statements."
+  },
+  {
+    "q": "What specific political move is Benjamin Netanyahu widely expected to leverage the current 2026 war support for, following the security failings of the October 7, 2023 attacks?",
+    "a": "Netanyahu is expected to leverage public support to bring forward elections due later in 2026."
+  },
+  {
+    "q": "What factor is putting pressure on the US government to call an end to the 2026 conflict with Iran, potentially signaling that Israel should wind up the war?",
+    "a": "Spiralling oil prices."
+  },
+  {
+    "q": "What did the Israeli military's chief of staff describe the 2026 operation against Iran as, in terms of its long-term significance for the country?",
+    "a": "He called it \"an operation to secure our existence and our future in the land of our forefathers for generations to come.\""
+  },
+  {
+    "q": "What specific military plans are senior Israeli officials reportedly considering regarding the conflict with Hezbollah in Lebanon, as described in the March 2026 article?",
+    "a": "A ground invasion across a large swathe of Lebanese territory."
+  },
+  {
+    "q": "Which organization did Benjamin Netanyahu's former national security adviser, Neri Zilber, say described the war as \"a golden opportunity to change the direction of the whole Middle East\"?",
+    "a": "The statement was attributed to one of Netanyahu's former national security advisers, though the specific organization is not named for that quote, Zilber himself is a policy advisor to the Israel Policy Forum."
+  },
+  {
+    "q": "What two existential threats did Benjamin Netanyahu claim were removed by Israel's previous war against Iran in June 2025?",
+    "a": "Iran's nuclear weapons programme and its ballistic missiles."
+  },
+  {
+    "q": "Who is the Jerusalem-based journalist and policy advisor who commented on Benjamin Netanyahu's continued selling of a major victory despite the Trump administration stopping calls for regime change?",
+    "a": "Neri Zilber."
+  },
+  {
+    "q": "What specific limitation did Maj Gen Yaakov Amidror cite when discussing Israel's decision-making regarding regime change in Iran during the 2026 war?",
+    "a": "Amidror stated that \"we're not a superpower\" and that Israel must be humble in its decisions."
+  },
+  {
+    "q": "What is the name of the conflict that Benjamin Netanyahu began in the aftermath of the October 7, 2023 attacks, which has reshaped the Middle East according to the article?",
+    "a": "The so-called War of Redemption."
+  },
+  {
+    "q": "Which group joined Iran's attacks on Israel in response to the killing of Ayatollah Ali Khamanei, forcing Israel to fight on a second front in Lebanon?",
+    "a": "Hezbollah."
+  },
+  {
+    "q": "What did Neri Zilber note about Hezbollah's fighting capability compared to expectations after the 2024 ceasefire and the June 2025 war against Iran?",
+    "a": "Zilber noted that Hezbollah is putting up a much bigger fight than many people had been led to believe."
+  },
+  {
+    "q": "What specific outcome did Benjamin Netanyahu hope to achieve by framing the 2026 Iran war as having changed the Middle East, even without regime change?",
+    "a": "He aimed to frame the achievements as having changed the balance of power in Israel's favor and to redeem his political legacy after the October 7, 2023 security failings."
+  },
+  {
+    "q": "What did Lt Gen Eyal Zamir describe the current conflict with Hezbollah as, in terms of its determination of Israel's future?",
+    "a": "He described it as \"the war of our generation: a critical war, a decisive war [that] will determine our future and our security for many years to come.\""
+  },
+  {
+    "q": "What specific action did Benjamin Netanyahu take in his first press conference since the war began regarding the bombing campaign's impact on the Middle East?",
+    "a": "He told Israelis that the bombing campaign had already changed the balance of power in the Middle East in Israel's favour."
+  }
+]

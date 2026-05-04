@@ -1,0 +1,27 @@
+{
+  "hash": "c971115ad982",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://www.abc.net.au/news/2026-03-07/iran-supreme-leader-son-mojtaba-khamenei-and-war/106419508",
+      "title": "'Mini supreme leader' Mojtaba Khamenei could soon rise but he's already the 'power behind the robes' - ABC News",
+      "published_date": "2026-03-07T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 2329,
+      "text_length": 10674
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1469737",
+      "spike_id": 9,
+      "market_question": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
+      "event_title": "Iran leader end of 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.16999999999999998,
+      "spike_timestamp_before": "2026-03-08T01:30:26+00:00",
+      "spike_timestamp_after": "2026-03-08T21:30:25+00:00"
+    }
+  ]
+}

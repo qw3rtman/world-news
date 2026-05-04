@@ -1,0 +1,27 @@
+{
+  "hash": "ba98e195e770",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.ndtv.com/world-news/ayatollah-ali-khamenei-death-iran-supreme-leader-may-be-no-longer-alive-says-netanyahu-11151611/amp/1",
+      "title": "\"There Are Many Signs\" Iran Supreme Leader Khamenei Is Dead, Says Netanyahu",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 929,
+      "text_length": 4334
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1484987",
+      "spike_id": 1,
+      "market_question": "Netanyahu out by June 30?",
+      "event_title": "Netanyahu out by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.375,
+      "spike_timestamp_before": "2026-03-02T18:30:39+00:00",
+      "spike_timestamp_after": "2026-03-02T22:00:33+00:00"
+    }
+  ]
+}

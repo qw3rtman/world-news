@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the joint military operation launched by the United States and Israel in late February 2026, which specific Iranian official's compound in Tehran was targeted, and what was the reported status of Iran's internet connectivity by Saturday night local time?",
+    "a": "The compound of Iran’s Supreme Leader Ayatollah Ali Khamenei was targeted, and Iran’s internet connectivity dropped to about 4%."
+  },
+  {
+    "q": "According to U.S. President Donald Trump’s statement on Truth Social regarding the February 2026 strikes on Iran, what three specific outcomes did he claim the attack would achieve or potentially cause?",
+    "a": "Trump stated the attack would lay waste to Iran’s military, obliterate its nuclear program, and could topple its regime."
+  },
+  {
+    "q": "Following the U.S.-Israeli strikes on Iran in February 2026, what two distinct forms of retaliation did Iran announce it had undertaken?",
+    "a": "Iran targeted U.S. military facilities in several Gulf countries hosting U.S. bases and sent barrages of missiles towards Israel."
+  },
+  {
+    "q": "Which satellite imagery provider captured images of black smoke rising from the compound of Iran’s Supreme Leader Ayatollah Ali Khamenei in Tehran on Saturday, February 28, 2026?",
+    "a": "Airbus provided the satellite image showing damage to the compound."
+  },
+  {
+    "q": "In the context of the February 2026 U.S.-Israeli attack on Iran, which city that serves as the capital of Iran was among the cities targeted by the strikes?",
+    "a": "Tehran was targeted by the strikes."
+  },
+  {
+    "q": "What accusation did U.S. President Donald Trump make against Iran in his Truth Social video that preceded the February 2026 military strikes?",
+    "a": "Trump accused Iran of rejecting every opportunity to renounce their nuclear ambitions."
+  },
+  {
+    "q": "Regarding the February 28, 2026 strike on Iran’s Supreme Leader Ayatollah Ali Khamenei’s compound in Tehran, what was the uncertainty reported about his presence at the time of the attack?",
+    "a": "It was unclear if Ayatollah Ali Khamenei was in the compound at the time of the strikes."
+  },
+  {
+    "q": "Which two nations conducted the major joint attack on Iran in February 2026 that resulted in internet disruption and strikes on Tehran?",
+    "a": "The United States and Israel launched the joint attacks."
+  },
+  {
+    "q": "What specific date did CNN report for the satellite image showing black smoke above the compound of Iran’s Supreme Leader Ayatollah Ali Khamenei in Tehran?",
+    "a": "The image was from Saturday, February 28, 2026."
+  },
+  {
+    "q": "In the February 2026 conflict, which geographic region did Iran target with missiles and attacks on U.S. military facilities as retaliation for the U.S.-Israeli strikes on Iran?",
+    "a": "Iran targeted facilities in several countries in the Gulf."
+  },
+  {
+    "q": "What percentage of internet connectivity remained in Iran as of Saturday night local time following the U.S.-Israeli strikes in February 2026?",
+    "a": "Internet connectivity dropped to about 4%."
+  },
+  {
+    "q": "Which U.S. President stated that the United States \"can’t take it anymore\" regarding Iran’s nuclear ambitions before the February 2026 strikes?",
+    "a": "U.S. President Donald Trump made that statement."
+  },
+  {
+    "q": "What specific type of damage was visible in the Airbus satellite image of Iran’s Supreme Leader Ayatollah Ali Khamenei’s compound in Tehran on February 28, 2026?",
+    "a": "The image showed that several buildings in the compound were hit by strikes."
+  },
+  {
+    "q": "Which Iranian official holds the title of Supreme Leader and had his compound struck by U.S. and Israeli forces in Tehran in February 2026?",
+    "a": "Ayatollah Ali Khamenei is Iran’s Supreme Leader."
+  },
+  {
+    "q": "What platform did U.S. President Donald Trump use to publish a video accusing Iran of rejecting opportunities to renounce nuclear ambitions prior to the February 2026 strikes?",
+    "a": "Trump used Truth Social to publish the video."
+  },
+  {
+    "q": "In the February 2026 retaliatory actions, which country did Iran send barrages of missiles towards in addition to targeting U.S. bases in the Gulf?",
+    "a": "Iran sent missiles towards Israel."
+  },
+  {
+    "q": "What was the primary military objective regarding Iran’s nuclear capabilities that U.S. President Donald Trump claimed the February 2026 strikes would achieve?",
+    "a": "Trump claimed the strikes would obliterate Iran’s nuclear program."
+  },
+  {
+    "q": "Which organization’s satellite imagery was used to visualize the black smoke rising from the compound of Iran’s Supreme Leader in Tehran on February 28, 2026?",
+    "a": "Airbus satellite imagery was used."
+  },
+  {
+    "q": "What specific claim did U.S. President Donald Trump make about the potential political outcome of the February 2026 attack on Iran?",
+    "a": "Trump said the attack could topple Iran’s regime."
+  },
+  {
+    "q": "Which Iranian city, identified as the capital, was struck by U.S. and Israeli forces in February 2026, leading to a significant drop in internet connectivity?",
+    "a": "Tehran was struck, leading to the connectivity drop."
+  },
+  {
+    "q": "What did Iran state it targeted in its retaliation for the February 2026 U.S.-Israeli strikes, specifically mentioning facilities in countries hosting U.S. military bases?",
+    "a": "Iran targeted U.S. military facilities in several countries in the Gulf."
+  },
+  {
+    "q": "Which two entities launched the joint attack on Iran in February 2026 that President Donald Trump said would lay waste to the country’s military?",
+    "a": "The United States and Israel launched the joint attack."
+  },
+  {
+    "q": "What was the reported status of Iran’s internet connectivity across the country as of Saturday night local time in February 2026, following the strikes?",
+    "a": "Connectivity had dropped to about 4%."
+  },
+  {
+    "q": "Which Iranian Supreme Leader’s compound in the heart of Tehran was struck on Saturday, February 28, 2026, according to satellite images from Airbus?",
+    "a": "The compound of Supreme Leader Ayatollah Ali Khamenei was struck."
+  },
+  {
+    "q": "What specific accusation did U.S. President Donald Trump level against Iran in his Truth Social video that justified the February 2026 military action?",
+    "a": "He accused Iran of rejecting every opportunity to renounce their nuclear ambitions."
+  }
+]

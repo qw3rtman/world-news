@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the context of the conflict that began in early March 2026, what specific technological method did Iran use to effectively close the Strait of Hormuz without employing a traditional naval blockade?",
+    "a": "Iran used cheap drones to attack ships and infrastructure in the vicinity of the strait."
+  },
+  {
+    "q": "According to Kevin Book, co-founder of Clearview Energy Partners, how did he characterize the impact of the Strait of Hormuz closure on global oil markets in March 2026?",
+    "a": "He stated it was \"about as wrong as things could go\" at any single point of failure for global oil markets."
+  },
+  {
+    "q": "What percentage of the world's crude oil and natural gas typically passes through the Strait of Hormuz, a volume that was disrupted by the March 2026 conflict?",
+    "a": "About 20% of the world's crude oil and natural gas typically passes through the strait."
+  },
+  {
+    "q": "Following the U.S. and Israel attacks on Iran in March 2026, by how much did global crude oil prices rise since the conflict began?",
+    "a": "Global crude oil prices shot up more than 10%."
+  },
+  {
+    "q": "Which three neighboring countries had their oil and gas infrastructure struck by recent attacks during the March 2026 conflict, raising concerns about alternate export routes?",
+    "a": "Saudi Arabia, Qatar, and the United Arab Emirates (UAE)."
+  },
+  {
+    "q": "Why was Iraq forced to shut down production in some of its largest oil fields during the March 2026 Strait of Hormuz closure?",
+    "a": "Iraq could not export the oil because the strait was closed and it had nowhere else to put the oil."
+  },
+  {
+    "q": "Helima Croft, global head of commodity strategy at RBC Capital Markets, compared the March 2026 energy crisis to which historical event?",
+    "a": "She compared it to the oil embargo in the 1970s, calling it the biggest energy crisis since then."
+  },
+  {
+    "q": "What specific type of market mechanism caused the shutdown of traffic through the Strait of Hormuz in March 2026, rather than physical blockage alone?",
+    "a": "It was an insurance-driven shutdown, as insurers refused to underwrite ships and shipping companies deemed it unsafe."
+  },
+  {
+    "q": "Which historical conflict from the 1980s did many experts initially anticipate would repeat during the March 2026 Iran war, involving warships escorting tankers?",
+    "a": "The \"tanker war\" that was part of the broader Iran-Iraq conflict."
+  },
+  {
+    "q": "On Tuesday in March 2026, what two measures did President Trump announce the U.S. government would take to address the Strait of Hormuz closure?",
+    "a": "The U.S. would provide naval escorts to protect tankers and the DFC would provide political risk insurance to shipping lines."
+  },
+  {
+    "q": "What is the full name of the U.S. agency, established during the first Trump administration, that announced it was ready to mobilize political risk insurance products in the Middle East in March 2026?",
+    "a": "The U.S. Development Finance Corporation (DFC)."
+  },
+  {
+    "q": "William Henagan, a fellow at the Council on Foreign Relations, cited what legal constraint on the U.S. Development Finance Corporation's ability to provide insurance in March 2026?",
+    "a": "The DFC must ensure companies follow certain environmental and social standards and operate in specified countries."
+  },
+  {
+    "q": "According to William Henagan, what financial limitation prevents the U.S. Development Finance Corporation from feasibly insuring all maritime trade in the Gulf during the March 2026 conflict?",
+    "a": "The agency has a finite budget and cannot feasibly insure all maritime trade, especially given the risk of payouts for sunken boats."
+  },
+  {
+    "q": "Stamatis Tsantanis, chairman and CEO of Seanergy Maritime and United Maritime, stated that normal traffic through the Strait of Hormuz would not resume until companies were confident the trip was what?",
+    "a": "Genuinely safe."
+  },
+  {
+    "q": "What three priorities did Stamatis Tsantanis identify for the shipping industry regarding the Strait of Hormuz in March 2026, beyond just moving cargo?",
+    "a": "Protecting the lives of seafarers, protecting the value of vessels, and avoiding major environmental disasters."
+  },
+  {
+    "q": "Approximately how many barrels of oil per day typically pass through the Strait of Hormuz, a volume that could not be fully replaced by stockpiles or redirected exports in March 2026?",
+    "a": "About 20 million barrels of oil per day."
+  },
+  {
+    "q": "Which regions' natural gas prices rose even more sharply than crude oil prices during the March 2026 conflict due to reliance on imported liquefied natural gas?",
+    "a": "Europe and Asia."
+  },
+  {
+    "q": "Why did insurers and shipping companies decide it was unsafe to traverse the Strait of Hormuz in March 2026, despite Iran not using underwater mines?",
+    "a": "Because of several drone strikes in the vicinity of the strait, which led to an insurance-driven shutdown."
+  },
+  {
+    "q": "Did the White House anticipate the insurance-driven shutdown of the Strait of Hormuz in March 2026, according to Helima Croft?",
+    "a": "No, it seems to have caught the White House off guard."
+  },
+  {
+    "q": "What specific geographic feature of the Strait of Hormuz did Helima Croft describe as a \"very narrow S-curve\" that contributed to the perception of unsafety in March 2026?",
+    "a": "The waterway itself, which shipping companies decided was unsafe to traverse due to drone threats."
+  },
+  {
+    "q": "What did the U.S. Development Finance Corporation refer NPR to in March 2026 regarding its readiness to assist with the Strait of Hormuz crisis?",
+    "a": "A statement saying it is \"ready to mobilize\" its products in the Middle East."
+  },
+  {
+    "q": "According to William Henagan, why might subsidized insurance prices from the U.S. Development Finance Corporation still not be enough to bring ships back through the Strait of Hormuz in March 2026?",
+    "a": "Because it is a war zone where certain boats are going to sink, leading to insurance payouts that strain the agency's finite budget."
+  },
+  {
+    "q": "What additional factor, besides the closure of the strait, could cause a hit to oil production and exports that outlasts the closure, according to the March 2026 article?",
+    "a": "Damage to oil and gas infrastructure in nearby countries like Saudi Arabia, Qatar, and the UAE."
+  },
+  {
+    "q": "Which two shipping companies did Stamatis Tsantanis lead when he issued a statement to NPR in March 2026 regarding the Strait of Hormuz?",
+    "a": "Seanergy Maritime and United Maritime."
+  },
+  {
+    "q": "What specific risk did Stamatis Tsantanis highlight regarding the potential for a tanker being seriously hit in the Strait of Hormuz in March 2026?",
+    "a": "It could become a major environmental disaster due to the narrow and sensitive nature of the waterway."
+  }
+]

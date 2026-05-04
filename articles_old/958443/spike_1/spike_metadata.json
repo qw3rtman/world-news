@@ -1,0 +1,65 @@
+{
+  "spike_index": 1,
+  "direction": "up",
+  "price_before": 0.235,
+  "price_after": 0.445,
+  "delta": 0.21000000000000002,
+  "abs_delta": 0.21000000000000002,
+  "timestamp_before": "2026-02-27T11:00:17+00:00",
+  "timestamp_after": "2026-02-28T10:30:20+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://reader.foreignaffairs.com/2026/02/28/the-iranian-regimes-existential-crisis-and-what-might-come-after-khamenei/content.html",
+      "file": "4abb9a733029.txt",
+      "title": "The Iranian Regime\u2019s Existential Crisis\u2014and What Might Come After Khamenei",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 12315,
+      "status": "ok",
+      "num_tokens": 2461
+    },
+    {
+      "url": "https://www.foreignaffairs.com/united-states/iranian-regimes-existential-crisis-what-might-come-after-khamenei",
+      "file": "50d0d83691d8.txt",
+      "title": "The Iranian Regime\u2019s Existential Crisis\u2014and What Might Come After Khamenei | Foreign Affairs",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 12555,
+      "status": "ok",
+      "num_tokens": 2517
+    },
+    {
+      "url": "http://adps.foreignaffairs.com/iran/iranian-regimes-existential-crisis-and-what-might-come-after-khamenei-trump",
+      "file": "28932e380bc6.txt",
+      "title": "The Iranian Regime\u2019s Existential Crisis\u2014and What Might Come After Khamenei | Foreign Affairs",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 12414,
+      "status": "ok",
+      "num_tokens": 2485
+    },
+    {
+      "url": "http://adps.foreignaffairs.com/iran/what-it-will-take-change-regime-iran",
+      "file": "265f8ae2528b.txt",
+      "title": "What It Will Take to Change the Regime in Iran | Foreign Affairs",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": null,
+      "text_length": 19457,
+      "status": "ok",
+      "num_tokens": 3750
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/c86y5540vnno",
+      "file": "cdf97d28d37d.txt",
+      "title": "Months of planning behind US-Israeli mission to target Iran's supreme leader",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 4243,
+      "status": "ok",
+      "num_tokens": 826
+    }
+  ],
+  "total_tokens": 12039
+}

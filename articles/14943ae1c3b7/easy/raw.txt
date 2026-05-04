@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On March 17, 2026, what was the price per barrel of Brent crude futures after they rose by $2.48?",
+    "a": "$102.69 per barrel."
+  },
+  {
+    "q": "During the week of March 17, 2026, by what percentage did US West Texas Intermediate (WTI) crude advance, and what was its resulting price per barrel?",
+    "a": "It advanced by 2.6% to $95.92 per barrel."
+  },
+  {
+    "q": "As of March 2026, what percentage of global oil and liquefied natural gas trade is handled by the Strait of Hormuz?",
+    "a": "Nearly 20%."
+  },
+  {
+    "q": "Which ongoing conflict, now in its third week as of mid-March 2026, is cited as the cause for the disruption in the Strait of Hormuz?",
+    "a": "The US-Israel war on Iran."
+  },
+  {
+    "q": "In March 2026, which U.S. President urged NATO allies to send warships to the Strait of Hormuz and warned of \"a very bad future\" for the alliance if they failed to act?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "Which Organization of the Petroleum Exporting Countries member, the third-largest producer in the group, was forced to shut in output by more than half due to Strait of Hormuz disruptions in March 2026?",
+    "a": "The United Arab Emirates."
+  },
+  {
+    "q": "As of March 2026, how many million barrels of oil had the International Energy Agency's member countries already committed to releasing from strategic reserves to stabilize markets?",
+    "a": "400 million barrels."
+  },
+  {
+    "q": "According to Kayanat Chainwala, assistant vice president at Kotak Securities, what price did she suggest global crude prices might touch in the near term as of March 2026?",
+    "a": "$120 per barrel."
+  },
+  {
+    "q": "In March 2026, what price per barrel did Kayanat Chainwala of Kotak Securities project global crude could climb to if the conflict extended beyond a month?",
+    "a": "$150 per barrel."
+  },
+  {
+    "q": "As of March 2026, at what price per barrel did Kayanat Chainwala state that prices remain manageable within India’s current tax framework?",
+    "a": "Below $110 per barrel."
+  },
+  {
+    "q": "Which securities firm cautioned in March 2026 that fiscal flexibility would begin to narrow if crude prices moved into the $110 to $125 range?",
+    "a": "Elara Securities."
+  },
+  {
+    "q": "In March 2026, which two specific crude oil benchmarks were reported to have jumped approximately 2% amid the Strait of Hormuz supply crisis?",
+    "a": "Brent crude and US West Texas Intermediate (WTI) crude."
+  },
+  {
+    "q": "As of March 17, 2026, what was the dollar amount by which Brent crude futures rose before reaching $102.69 per barrel?",
+    "a": "$2.48."
+  },
+  {
+    "q": "Which two entities are cited by Reuters as sources for the information that the United Arab Emirates' oil production dropped by more than half in March 2026?",
+    "a": "Two sources cited by Reuters."
+  },
+  {
+    "q": "In March 2026, which group of nations declined to send warships to the Strait of Hormuz despite U.S. President Donald Trump's urging?",
+    "a": "Several European nations."
+  },
+  {
+    "q": "According to the International Energy Agency in March 2026, what action could member countries take beyond their already committed reserves to stabilize markets?",
+    "a": "Release additional oil."
+  },
+  {
+    "q": "As of March 2026, what specific risk did Elara Securities identify regarding disparities in earnings across oil and gas companies if crude prices hit the $110 to $125 range?",
+    "a": "The disparities in earnings could widen."
+  },
+  {
+    "q": "Which organization's assistant vice president, Kayanat Chainwala, provided price forecasts for global crude in March 2026?",
+    "a": "Kotak Securities."
+  },
+  {
+    "q": "In March 2026, what specific time (in GMT) was the Brent crude price of $102.69 per barrel recorded?",
+    "a": "0058 GMT."
+  },
+  {
+    "q": "As of March 2026, what specific geopolitical fear was fueling the rise in oil prices alongside the Strait of Hormuz disruption?",
+    "a": "Fears of supply disruptions in global markets."
+  },
+  {
+    "q": "Which U.S. President criticized Western partners for a lack of support despite longstanding American backing during the March 2026 Strait of Hormuz crisis?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "In March 2026, what specific condition did Kayanat Chainwala state would need to persist for global crude prices to potentially climb to $150 per barrel?",
+    "a": "The conflict extending beyond a month and tensions in West Asia remaining high."
+  },
+  {
+    "q": "As of March 2026, what was the percentage increase in US West Texas Intermediate (WTI) crude prices before they reached $95.92 per barrel?",
+    "a": "2.6%."
+  },
+  {
+    "q": "Which specific region's tensions were cited by Kayanat Chainwala in March 2026 as a factor that could drive crude prices to $150 per barrel if they remained high?",
+    "a": "West Asia."
+  },
+  {
+    "q": "In March 2026, what specific fiscal concern did Elara Securities raise about the impact of crude prices between $110 and $125 per barrel on India's government?",
+    "a": "Fiscal flexibility would begin to narrow."
+  }
+]

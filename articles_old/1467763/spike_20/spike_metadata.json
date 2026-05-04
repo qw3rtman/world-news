@@ -1,0 +1,65 @@
+{
+  "spike_index": 20,
+  "direction": "up",
+  "price_before": 0.225,
+  "price_after": 0.46,
+  "delta": 0.23500000000000001,
+  "abs_delta": 0.23500000000000001,
+  "timestamp_before": "2026-03-11T04:00:33+00:00",
+  "timestamp_after": "2026-03-12T03:00:45+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.thetimes.com/article/strait-of-hormuz-closure-threatens-brent-crude-100-surge-w3sxph3pl",
+      "file": "1bdd8cf57f70.txt",
+      "title": "Strait of Hormuz crisis sends oil price close to $120",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "Jack Barnett, Economics Correspondent",
+      "text_length": 5595,
+      "status": "ok",
+      "num_tokens": 1186
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/international-business/crude-oil-surpasses-100-wti-up-30-brent-crude-reaches-118-what-it-means/articleshow/129305473.cms",
+      "file": "e841e78c70d7.txt",
+      "title": "Crude oil surpasses $100: WTI up 30%, brent crude reaches $118; what it means? - The Times of India",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /   Mar 09, 2026, 10:36 IST",
+      "text_length": 3142,
+      "status": "ok",
+      "num_tokens": 660
+    },
+    {
+      "url": "https://today.reuters.com/business/energy/oil-climbs-tankers-are-attacked-iraqi-waters-amid-middle-east-war-2026-03-12/",
+      "file": "572299f11b85.txt",
+      "title": "Oil settles up 9% as Iran vows to keep Strait of Hormuz closed | Reuters",
+      "published_date": "2026-03-12T00:00:00.000Z",
+      "author": "Siddharth Cavale",
+      "text_length": 3643,
+      "status": "ok",
+      "num_tokens": 808
+    },
+    {
+      "url": "http://asia.nikkei.com/spotlight/iran-tensions/oil-gains-9-as-iran-says-strait-of-hormuz-closure-to-continue",
+      "file": "7fac375a06e6.txt",
+      "title": "Oil settles above $100 as Iran vows to keep Strait of Hormuz closed - Nikkei Asia",
+      "published_date": "2026-03-12T00:00:00.000Z",
+      "author": null,
+      "text_length": 3516,
+      "status": "ok",
+      "num_tokens": 753
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/12/oil-prices-jump-iea-record-reserve-release-markets-doubt-relief.html?__source=androidappshare",
+      "file": "93df1df799d6.txt",
+      "title": "Brent oil hits $100 after Iran says Strait of Hormuz to remain closed",
+      "published_date": "2026-03-12T00:00:00.000Z",
+      "author": "Sam Meredith,Lee Ying Shan,Spencer Kimball",
+      "text_length": 3647,
+      "status": "ok",
+      "num_tokens": 770
+    }
+  ],
+  "total_tokens": 4177
+}

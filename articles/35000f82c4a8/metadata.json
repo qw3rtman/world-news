@@ -1,0 +1,107 @@
+{
+  "hash": "35000f82c4a8",
+  "n_appearances": 9,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/02/24/paypal-stock-stripe-acquisition-report.html",
+      "title": "PayPal pops nearly 7% on report Stripe is weighing an acquisition",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": "Samantha Subin",
+      "num_tokens": 327,
+      "text_length": 1621
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694941",
+      "spike_id": 3,
+      "market_question": "Will Pizza Hut be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.19000000000000006,
+      "spike_timestamp_before": "2026-02-23T15:00:45+00:00",
+      "spike_timestamp_after": "2026-02-24T12:00:55+00:00"
+    },
+    {
+      "market_id": "694941",
+      "spike_id": 4,
+      "market_question": "Will Pizza Hut be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.20000000000000007,
+      "spike_timestamp_before": "2026-02-23T15:00:45+00:00",
+      "spike_timestamp_after": "2026-02-24T15:00:35+00:00"
+    },
+    {
+      "market_id": "694941",
+      "spike_id": 5,
+      "market_question": "Will Pizza Hut be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.19,
+      "spike_timestamp_before": "2026-02-23T20:00:27+00:00",
+      "spike_timestamp_after": "2026-02-24T17:30:35+00:00"
+    },
+    {
+      "market_id": "694941",
+      "spike_id": 6,
+      "market_question": "Will Pizza Hut be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.16999999999999998,
+      "spike_timestamp_before": "2026-02-24T05:00:45+00:00",
+      "spike_timestamp_after": "2026-02-25T05:00:28+00:00"
+    },
+    {
+      "market_id": "694941",
+      "spike_id": 7,
+      "market_question": "Will Pizza Hut be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.18999999999999995,
+      "spike_timestamp_before": "2026-02-24T08:00:41+00:00",
+      "spike_timestamp_after": "2026-02-25T08:00:31+00:00"
+    },
+    {
+      "market_id": "694941",
+      "spike_id": 8,
+      "market_question": "Will Pizza Hut be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.17000000000000004,
+      "spike_timestamp_before": "2026-02-24T11:00:27+00:00",
+      "spike_timestamp_after": "2026-02-25T10:30:42+00:00"
+    },
+    {
+      "market_id": "700395",
+      "spike_id": 2,
+      "market_question": "Will Lovable be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.23,
+      "spike_timestamp_before": "2026-02-24T05:30:26+00:00",
+      "spike_timestamp_after": "2026-02-24T08:00:36+00:00"
+    },
+    {
+      "market_id": "700395",
+      "spike_id": 3,
+      "market_question": "Will Lovable be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.335,
+      "spike_timestamp_before": "2026-02-24T11:00:25+00:00",
+      "spike_timestamp_after": "2026-02-24T14:00:25+00:00"
+    },
+    {
+      "market_id": "700396",
+      "spike_id": 2,
+      "market_question": "Will Perplexity AI be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.23999999999999996,
+      "spike_timestamp_before": "2026-02-24T11:30:30+00:00",
+      "spike_timestamp_after": "2026-02-24T17:30:39+00:00"
+    }
+  ]
+}

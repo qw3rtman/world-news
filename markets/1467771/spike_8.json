@@ -1,0 +1,65 @@
+{
+  "spike_index": 8,
+  "direction": "up",
+  "price_before": 0.125,
+  "price_after": 0.285,
+  "delta": 0.15999999999999998,
+  "abs_delta": 0.15999999999999998,
+  "timestamp_before": "2026-03-02T22:30:35+00:00",
+  "timestamp_after": "2026-03-03T20:30:38+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "http://origin.www.bloomberg.com/news/articles/2026-03-03/us-oil-stocks-halt-gains-as-price-rally-seen-as-short-term?srnd=undefined",
+      "file": "57fa7d72cc8d.txt",
+      "title": "US Oil Stocks Stall as Investors Doubt Longevity of Price Surge - Bloomberg",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Kevin Crowley",
+      "text_length": 561,
+      "status": "ok",
+      "num_tokens": 109
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-will-reach-200-a-barrel-iran-warns-against-more-us-israel-strikes-says-will-target-all-economic-centres-in-middle-east/articleshow/128983154.cms",
+      "file": "186b2dffb893.txt",
+      "title": "'Oil price will reach $200 a barrel': Iran warns against more US-Israel strikes, says will target all \u2018economic centres' in Middle East - The Times of India",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /  Updated: Mar 03, 2026, 22:55 IST",
+      "text_length": 1981,
+      "status": "ok",
+      "num_tokens": 405
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/international-business/1970s-style-oil-shock-loading-crude-may-hit-100-if-strait-of-hormuz-shuts-amid-middle-east-tensions-what-it-means/articleshow/128940827.cms",
+      "file": "2db52631a8b9.txt",
+      "title": "1970s-style oil shock loading? Crude may hit $100 if Strait of Hormuz shuts amid Middle East tensions - what it means - The Times of India",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /  Updated: Mar 02, 2026, 13:45 IST",
+      "text_length": 9273,
+      "status": "ok",
+      "num_tokens": 1852
+    },
+    {
+      "url": "https://fortune.com/2026/03/02/oil-markets-100-dollar-barrel-1973-oil-shock-drive-up-gas-prices-iran-israel/",
+      "file": "4c87c8a712ef.txt",
+      "title": "U.S.-Israeli attack on Iran could drive up crude costs to $100 and rival 1973 oil shock | Fortune",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Sasha Rogelberg",
+      "text_length": 754,
+      "status": "ok",
+      "num_tokens": 200
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/crude-oil-on-edge-as-middle-east-conflict-deepens-will-crude-prices-surge-toward-100-per-barrel/articleshow/128922970.cms",
+      "file": "1409083c60dd.txt",
+      "title": "Crude oil on edge as Middle East conflict deepens, will crude prices surge toward $100 per barrel? - The Times of India",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /  Updated: Mar 01, 2026, 23:36 IST",
+      "text_length": 6920,
+      "status": "ok",
+      "num_tokens": 1472
+    }
+  ],
+  "total_tokens": 4038
+}

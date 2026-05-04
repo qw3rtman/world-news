@@ -1,0 +1,27 @@
+{
+  "hash": "0e592abec776",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://quote.bloomberg.com/news/articles/2026-03-03/stonepeak-bernhard-in-advanced-talks-to-buy-cleco-power?srnd=phx-latinamerica",
+      "title": "Bloomberg Europe",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 13,
+      "text_length": 63
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694937",
+      "spike_id": 7,
+      "market_question": "Will BP be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.32000000000000006,
+      "spike_timestamp_before": "2026-02-25T23:00:18+00:00",
+      "spike_timestamp_after": "2026-02-26T09:00:20+00:00"
+    }
+  ]
+}

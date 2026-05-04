@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On March 15, 2026, what was the closing price per barrel of Brent crude futures, and what was the percentage loss recorded that day?",
+    "a": "Brent crude futures closed at $100.21 per barrel with a 2.84% loss."
+  },
+  {
+    "q": "During the trading session on March 15, 2026, which U.S. crude benchmark surpassed the $100 per barrel mark before settling lower?",
+    "a": "U.S. West Texas Intermediate (WTI) crude."
+  },
+  {
+    "q": "What percentage decline did U.S. West Texas Intermediate futures experience on March 15, 2026, and at what price did they settle?",
+    "a": "WTI futures fell 5.28% to settle at $93.50 per barrel."
+  },
+  {
+    "q": "In March 2026, which U.S. President increased pressure on allies to help safeguard tanker traffic in the Strait of Hormuz?",
+    "a": "President Donald Trump."
+  },
+  {
+    "q": "On March 15, 2026, what was the closing price of U.S. West Texas Intermediate futures compared to its intraday high?",
+    "a": "It settled at $93.50 per barrel after having surpassed $100 earlier in the session."
+  },
+  {
+    "q": "What specific geographic location was the focus of President Donald Trump's March 2026 appeals to allies for safeguarding tanker traffic?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "On March 15, 2026, how did the percentage drop of U.S. West Texas Intermediate futures compare to the percentage drop of Brent crude futures?",
+    "a": "WTI fell 5.28%, while Brent crude fell 2.84%."
+  },
+  {
+    "q": "What was the exact closing price of Brent crude futures on March 15, 2026, following a 2.84% loss?",
+    "a": "$100.21 per barrel."
+  },
+  {
+    "q": "Which two crude oil benchmarks saw price declines on March 15, 2026, as reported in the article?",
+    "a": "International benchmark Brent crude and U.S. West Texas Intermediate."
+  },
+  {
+    "q": "On March 15, 2026, did U.S. West Texas Intermediate futures close above or below the $100 per barrel threshold?",
+    "a": "Below, settling at $93.50 per barrel."
+  },
+  {
+    "q": "What action did President Donald Trump take in March 2026 that contributed to market concerns regarding oil prices?",
+    "a": "He ramped up pressure on allies to help safeguard tanker traffic in the Strait of Hormuz."
+  },
+  {
+    "q": "On March 15, 2026, what was the settlement price for U.S. West Texas Intermediate futures after a 5.28% drop?",
+    "a": "$93.50 per barrel."
+  },
+  {
+    "q": "Which international benchmark crude futures lost 2.84% to close at $100.21 per barrel on March 15, 2026?",
+    "a": "Brent crude futures."
+  },
+  {
+    "q": "In the context of March 15, 2026, what was the relationship between the intraday high and closing price of U.S. West Texas Intermediate crude?",
+    "a": "It surpassed $100 earlier in the session but closed lower at $93.50."
+  },
+  {
+    "q": "What specific strategic waterway was President Donald Trump urging allies to protect in March 2026?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "On March 15, 2026, what was the final closing price of Brent crude futures after it experienced a 2.84% decline?",
+    "a": "$100.21 per barrel."
+  },
+  {
+    "q": "Which U.S. crude benchmark experienced a sharper percentage decline (5.28%) than Brent crude (2.84%) on March 15, 2026?",
+    "a": "U.S. West Texas Intermediate."
+  },
+  {
+    "q": "What was the closing price of Brent crude futures on March 15, 2026, and how did it compare to the closing price of WTI?",
+    "a": "Brent closed at $100.21, which was higher than WTI's closing price of $93.50."
+  },
+  {
+    "q": "On March 15, 2026, did U.S. West Texas Intermediate futures maintain their intraday high of over $100 at the close?",
+    "a": "No, they fell 5.28% to settle at $93.50."
+  },
+  {
+    "q": "What geopolitical pressure was applied by President Donald Trump in March 2026 that coincided with oil price falls?",
+    "a": "Pressure on allies to help safeguard tanker traffic in the Strait of Hormuz."
+  },
+  {
+    "q": "On March 15, 2026, what was the numerical difference in percentage points between the decline of WTI and Brent crude?",
+    "a": "2.44 percentage points (WTI fell 5.28% and Brent fell 2.84%)."
+  },
+  {
+    "q": "Which two entities were involved in the March 2026 dynamic where President Donald Trump urged allies to protect the Strait of Hormuz?",
+    "a": "President Donald Trump and the allied nations he was pressuring."
+  },
+  {
+    "q": "On March 15, 2026, what was the settlement price for Brent crude futures after a 2.84% loss?",
+    "a": "$100.21 per barrel."
+  },
+  {
+    "q": "What was the closing status of U.S. West Texas Intermediate futures on March 15, 2026, relative to the $100 mark?",
+    "a": "It closed below $100 at $93.50, despite surpassing it earlier in the session."
+  },
+  {
+    "q": "On March 15, 2026, which crude oil benchmark closed at a lower absolute price: Brent crude or U.S. West Texas Intermediate?",
+    "a": "U.S. West Texas Intermediate, which closed at $93.50 compared to Brent's $100.21."
+  }
+]

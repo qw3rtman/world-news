@@ -1,0 +1,37 @@
+{
+  "hash": "e8d039a08a68",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://apnews.com/article/nepal-parliament-election-new-leader-prime-minister-contenders-d3ba1afab214a93d4f9b97c3d650ebf6",
+      "title": "3 rivals are seeking to be Nepal's next prime minister in March 5 vote | AP News",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 862,
+      "text_length": 4462
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1385699",
+      "spike_id": 1,
+      "market_question": "Will Balendra “Balen” Shah be the next Prime Minister of Nepal?",
+      "event_title": "Next Prime Minister of Nepal",
+      "spike_direction": "up",
+      "spike_delta": 0.20499999999999996,
+      "spike_timestamp_before": "2026-03-01T10:00:44+00:00",
+      "spike_timestamp_after": "2026-03-02T06:00:37+00:00"
+    },
+    {
+      "market_id": "1385699",
+      "spike_id": 2,
+      "market_question": "Will Balendra “Balen” Shah be the next Prime Minister of Nepal?",
+      "event_title": "Next Prime Minister of Nepal",
+      "spike_direction": "up",
+      "spike_delta": 0.16499999999999992,
+      "spike_timestamp_before": "2026-03-01T20:30:38+00:00",
+      "spike_timestamp_after": "2026-03-02T20:30:38+00:00"
+    }
+  ]
+}

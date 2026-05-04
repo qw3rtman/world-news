@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In early March 2026, what was the approximate average gasoline price in the U.S. reported by AAA after it had jumped about 50 cents in a week?",
+    "a": "$3.45 per gallon"
+  },
+  {
+    "q": "During the week of March 2026, by how much did diesel prices rise in the U.S. according to petroleum analyst Patrick de Haan of GasBuddy?",
+    "a": "Nearly 90 cents"
+  },
+  {
+    "q": "What was the approximate point drop experienced by the Dow Jones Industrial Average at one point during the volatile trading day on Monday, March 9, 2026?",
+    "a": "Almost 900 points"
+  },
+  {
+    "q": "On Monday, March 9, 2026, how many points did the Dow Jones Industrial Average ultimately gain to end the trading day?",
+    "a": "239 points"
+  },
+  {
+    "q": "Which specific waterway, through which about 20% of the world's oil and liquified natural gas typically passes, saw traffic come to a near-halt in the days following the U.S. and Israel's attacks on Iran in March 2026?",
+    "a": "The Strait of Hormuz"
+  },
+  {
+    "q": "According to energy trader Rebecca Babin of CIBC Private Wealth, what phrase described the shift in trader sentiment from before the attack to Friday, March 2026?",
+    "a": "From traders with ice in their veins to traders with panic in their veins"
+  },
+  {
+    "q": "On Monday, March 9, 2026, which group of advanced economies met to discuss the possibility of releasing oil from their strategic reserves?",
+    "a": "The G7"
+  },
+  {
+    "q": "Which international organization, formed after the oil crisis of the 1970s, urged countries to tap into stockpiles during the March 2026 Iran conflict?",
+    "a": "The International Energy Agency"
+  },
+  {
+    "q": "What is the name of the head of OPEC+ and Middle East Insights at the trade intelligence group Kpler who stated that stockpiles would only have a small and short-term impact on prices in March 2026?",
+    "a": "Amena Bakr"
+  },
+  {
+    "q": "Which pipeline route, used by Saudi Arabia to send oil to the Red Sea, was mentioned as a partial solution for redirecting oil from the Gulf region in March 2026?",
+    "a": "The pipeline to the Red Sea"
+  },
+  {
+    "q": "Which three countries stopped production in some oil fields in March 2026 because there was nowhere to put the oil due to the closure of the Strait of Hormuz?",
+    "a": "Iraq, Kuwait, and Bahrain"
+  },
+  {
+    "q": "What total amount of insurance coverage did the U.S. agency responsible for offering such insurance say it could provide on a rolling basis to qualifying vessels in March 2026?",
+    "a": "Up to $20 billion"
+  },
+  {
+    "q": "According to JPMorganChase's estimate in March 2026, what was the amount of insurance required to cover all the tankers in the Gulf?",
+    "a": "More than $350 billion"
+  },
+  {
+    "q": "Who is the head of marine and aviation at the Lloyd's Market Association who noted that some shipowners are wary of U.S. naval escorts because the U.S. is a belligerent?",
+    "a": "Neil Roberts"
+  },
+  {
+    "q": "During which historical conflict in the 1980s was the U.S. military a neutral party while escorting ships through the Strait of Hormuz, according to Neil Roberts of Lloyd's Market Association?",
+    "a": "The war between Iran and Iraq"
+  },
+  {
+    "q": "In March 2026, which country struck critical oil facilities in Tehran during the weekend attacks?",
+    "a": "Israel"
+  },
+  {
+    "q": "Which five countries had refineries and LNG facilities targeted in attacks largely blamed on Iran in March 2026?",
+    "a": "Bahrain, Kuwait, Qatar, Saudi Arabia, and the United Arab Emirates"
+  },
+  {
+    "q": "What was the price of Brent crude oil in March 2026 just before the U.S. and Israel's attacks on Iran began?",
+    "a": "$70"
+  },
+  {
+    "q": "What was the price of Brent crude oil by midweek in March 2026, shortly after the initial attacks on Iran?",
+    "a": "Just over $80"
+  },
+  {
+    "q": "What was the closing price of Brent crude oil on Friday in March 2026, before the weekend break that led to further price hikes?",
+    "a": "Nearly $93"
+  },
+  {
+    "q": "How high did Brent crude oil prices come close to shooting up when markets reopened after the weekend break in March 2026?",
+    "a": "$120"
+  },
+  {
+    "q": "According to Patrick de Haan of GasBuddy, what national average gasoline price was likely if oil remained above $100 in the week following the March 2026 price surge?",
+    "a": "$4"
+  },
+  {
+    "q": "Which global benchmark for crude oil prices surged well past $100 when energy markets opened on Sunday in March 2026?",
+    "a": "Brent crude oil"
+  },
+  {
+    "q": "Who are the two NPR journalists who reported on the crude oil price swings and Iran war in the article updated on March 9, 2026?",
+    "a": "Camila Domonoske and Rafael Nam"
+  },
+  {
+    "q": "What specific action did Iran's Revolutionary Guard declare regarding the Strait of Hormuz in March 2026, which led to hesitant shipowners and rising insurance costs?",
+    "a": "Closed the Strait of Hormuz"
+  },
+  {
+    "q": "According to Amena Bakr of Kpler, what is the only thing that could really turn around the oil market situation in March 2026?",
+    "a": "The reopening of the Strait of Hormuz"
+  }
+]

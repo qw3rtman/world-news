@@ -1,0 +1,27 @@
+{
+  "hash": "d3f77fb4a514",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://go.foreignpolicy.com/2026/02/28/us-israel-strike-iran-trump-nuclear-program-missiles/?tpcc=recirc_right_rail051524",
+      "title": "U.S., Israel Begin 'Major Combat Operations' in Iran as Trump Calls for Regime Change",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Jennifer Williams, Rishi Iyengar, John Haltiwanger",
+      "num_tokens": 1316,
+      "text_length": 6209
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1388693",
+      "spike_id": 1,
+      "market_question": "US strikes Iran by December 31, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.3115,
+      "spike_timestamp_before": "2026-02-27T07:30:39+00:00",
+      "spike_timestamp_after": "2026-02-28T07:30:34+00:00"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In late February 2026, which privately held payments firm was reported by Bloomberg News to be considering an acquisition of PayPal or parts of its assets?",
+    "a": "Stripe"
+  },
+  {
+    "q": "On February 24, 2026, by approximately what percentage did PayPal shares rise following reports that Stripe was considering acquiring the company?",
+    "a": "Nearly 7 percent"
+  },
+  {
+    "q": "According to LSEG data cited in reports from late February 2026, what was the market valuation of PayPal at that time?",
+    "a": "Over $40 billion"
+  },
+  {
+    "q": "On February 24, 2026, what valuation did Stripe achieve in a tender offer for its employees and shareholders?",
+    "a": "$159 billion"
+  },
+  {
+    "q": "In early 2026, which CEO did the PayPal board oust after the company issued a muted profit outlook for 2026 that missed Wall Street estimates?",
+    "a": "Alex Chriss"
+  },
+  {
+    "q": "Following the ousting of Alex Chriss in early 2026, which PayPal board member was appointed as president and chief executive?",
+    "a": "Enrique Lores"
+  },
+  {
+    "q": "What specific reason did the PayPal board cite for ousting CEO Alex Chriss in early 2026 regarding his performance?",
+    "a": "The speed of transformation and execution had fallen short of expectations"
+  },
+  {
+    "q": "Which two Big Tech companies have investors worried about eroding PayPal's share in its core digital payments business?",
+    "a": "Apple and Google"
+  },
+  {
+    "q": "In late February 2026, which two companies declined to comment on Bloomberg News' report regarding a potential Stripe acquisition of PayPal?",
+    "a": "PayPal and Stripe"
+  },
+  {
+    "q": "Which news organization reported in late February 2026 that Stripe was considering acquiring PayPal, citing people familiar with the matter?",
+    "a": "Bloomberg News"
+  },
+  {
+    "q": "Which major financial news wire service reported on February 24, 2026, that it could not independently verify the report of Stripe considering a PayPal acquisition?",
+    "a": "Reuters"
+  },
+  {
+    "q": "What primary business function do Stripe's services allow enterprises to perform, as described in reports from February 2026?",
+    "a": "Accept payments, make payouts, and automate financial processes"
+  },
+  {
+    "q": "Which economic factors did PayPal cite in early 2026 as contributing to softer retail spending and prioritization of essentials?",
+    "a": "High interest rates, stubbornly high living costs, and early signs of a weakening job market"
+  },
+  {
+    "q": "Despite being a long-standing leader in digital payments, which period-driven shift had previously benefited PayPal before its growth cooled?",
+    "a": "A pandemic-driven shift to online transactions"
+  },
+  {
+    "q": "In early 2026, how did PayPal's profit outlook for 2026 compare to Wall Street estimates?",
+    "a": "It was below Wall Street estimates by a wide margin"
+  },
+  {
+    "q": "Who was the editor responsible for editing the Reuters report published on February 24, 2026, regarding Stripe and PayPal?",
+    "a": "Shinjini Ganguli"
+  },
+  {
+    "q": "Who was the reporter from Bengaluru who filed the Reuters article on February 24, 2026, about Stripe considering a PayPal acquisition?",
+    "a": "Manya Saini"
+  },
+  {
+    "q": "What was the stock ticker symbol for PayPal as cited in the Reuters report published on February 24, 2026?",
+    "a": "PYPL.O"
+  },
+  {
+    "q": "What status does PayPal hold in the digital payments industry despite struggling to maintain momentum after the pandemic?",
+    "a": "The long-standing leader"
+  },
+  {
+    "q": "What type of company is Stripe described as being in reports from late February 2026?",
+    "a": "Privately held"
+  },
+  {
+    "q": "What specific action did PayPal take regarding its CEO Alex Chriss in early 2026 after issuing a poor profit outlook?",
+    "a": "Ousted him"
+  },
+  {
+    "q": "Which entity's data was used to determine PayPal's market valuation of over $40 billion in late February 2026?",
+    "a": "LSEG"
+  },
+  {
+    "q": "What was the nature of the tender offer that valued Stripe at $159 billion on February 24, 2026?",
+    "a": "It was for employees and shareholders"
+  },
+  {
+    "q": "Which payments firm is described as being among the industry's most valuable companies in reports from February 2026?",
+    "a": "Stripe"
+  },
+  {
+    "q": "What multi-year effort had PayPal undertaken to maintain momentum after the initial pandemic-driven growth in online transactions?",
+    "a": "A turnaround effort"
+  },
+  {
+    "q": "In February 2026, which digital payments pioneer was the subject of acquisition rumors involving Stripe?",
+    "a": "PayPal"
+  }
+]

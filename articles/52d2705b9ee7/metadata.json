@@ -1,0 +1,37 @@
+{
+  "hash": "52d2705b9ee7",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.nbcnews.com/politics/trump-administration/trump-delays-china-trip-focus-war-iran-rcna263874",
+      "title": "Trump delays trip to China for 'five or six weeks' while U.S. focuses on Iran",
+      "published_date": "2026-03-18T17:16:36.976Z",
+      "author": null,
+      "num_tokens": 575,
+      "text_length": 2683
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "706279",
+      "spike_id": 10,
+      "market_question": "Will Trump visit China by April 30?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.265,
+      "spike_timestamp_before": "2026-03-18T19:00:44+00:00",
+      "spike_timestamp_after": "2026-03-19T16:30:43+00:00"
+    },
+    {
+      "market_id": "706279",
+      "spike_id": 9,
+      "market_question": "Will Trump visit China by April 30?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.265,
+      "spike_timestamp_before": "2026-03-17T09:00:48+00:00",
+      "spike_timestamp_after": "2026-03-17T17:00:43+00:00"
+    }
+  ]
+}

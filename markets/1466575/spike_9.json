@@ -1,0 +1,65 @@
+{
+  "spike_index": 9,
+  "direction": "up",
+  "price_before": 0.305,
+  "price_after": 0.575,
+  "delta": 0.26999999999999996,
+  "abs_delta": 0.26999999999999996,
+  "timestamp_before": "2026-03-08T23:00:27+00:00",
+  "timestamp_after": "2026-03-09T21:00:38+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://link.apnews.com/click/44573510.485590/aHR0cHM6Ly9hcG5ld3MuY29tL2FydGljbGUvaXJhbi1pc3JhZWwtdXMtbWFyY2gtOS0yMDI2LWIyYWE1MWVmNTFkNGI1NzEwM2ZmZWUwYzk1YmMyZmY3P3VzZXJfZW1haWw9MjQyODY3NzNiNGEyMTU3ODU0YTM3NjgyNGY0YmY0MDdiNDU0N2EwYjc5NjM0MmFmNzhmY2ZmYjg5MGI3YzhkOCZ1dG1fbWVkaXVtPU1vcm5pbmdfV2lyZSZ1dG1fc291cmNlPVNhaWx0aHJ1X0FQ/66b3613f17af60c9060434f8C87d657c3",
+      "file": "753ce17cba8a.txt",
+      "title": "Trump says Iran war could be over soon | AP News",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "text_length": 8710,
+      "status": "ok",
+      "num_tokens": 1826
+    },
+    {
+      "url": "https://www.nbcnews.com/politics/donald-trump/president-calls-iran-war-little-excursion-will-end-soon-rcna262494",
+      "file": "ef36438c0b90.txt",
+      "title": "Trump says Iran war will end 'soon' but also issues threats that could prolong it",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "text_length": 5070,
+      "status": "ok",
+      "num_tokens": 1140
+    },
+    {
+      "url": "http://cbsnews.com/news/trump-iran-news-conference-miami-watch-live-stream-today-2026-03-09/",
+      "file": "c31d7f7e5a86.txt",
+      "title": "Trump says Iran war will end \"very soon\" at Florida news conference - CBS News",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "text_length": 6890,
+      "status": "ok",
+      "num_tokens": 1432
+    },
+    {
+      "url": "https://www.iranintl.com/en/202603097430",
+      "file": "04d9e3fe59ee.txt",
+      "title": "Trump says Iran war 'pretty much complete', could end soon - CBS News | Iran International",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "text_length": 956,
+      "status": "ok",
+      "num_tokens": 204
+    },
+    {
+      "url": "https://www.nbcnews.com/nightly-news/video/trump-says-war-with-iran-is-very-complete-and-could-end-soon-259004997685",
+      "file": "0945508aa0be.txt",
+      "title": "Trump says war with Iran is \u2018very complete\u2019 and could end soon",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "text_length": 289,
+      "status": "ok",
+      "num_tokens": 69
+    }
+  ],
+  "total_tokens": 4671
+}

@@ -1,0 +1,65 @@
+{
+  "spike_index": 2,
+  "direction": "up",
+  "price_before": 0.4305,
+  "price_after": 0.663,
+  "delta": 0.23250000000000004,
+  "abs_delta": 0.23250000000000004,
+  "timestamp_before": "2026-02-21T21:30:22+00:00",
+  "timestamp_after": "2026-02-22T16:30:19+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://building.theatlantic.com/this-week-in-ai-googles-record-breaking-gemini-openai-s-730b-empire-and-the-race-nobody-can-a4fb41726208",
+      "file": "ee18cf643ff5.txt",
+      "title": "This Week in AI: Google\u2019s Record-Breaking Gemini, OpenAI\u2019s $730B Empire, and the Race Nobody Can Afford to Lose | by Yuki | Feb, 2026 | Medium",
+      "published_date": "2026-02-22T00:00:00.000Z",
+      "author": "Yuki",
+      "text_length": 9500,
+      "status": "ok",
+      "num_tokens": 2039
+    },
+    {
+      "url": "https://arstechnica.com/google/2026/02/google-announces-gemini-3-1-pro-says-its-better-at-complex-problem-solving",
+      "file": "5f5d27064f29.txt",
+      "title": "Google announces Gemini 3.1 Pro, says it's better at complex problem-solving - Ars Technica",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": null,
+      "text_length": 2978,
+      "status": "ok",
+      "num_tokens": 691
+    },
+    {
+      "url": "https://building.theatlantic.com/gemini-3-deep-think-shocked-everyone-why-benchmarks-are-the-new-turing-test-arc-agi-2-hle-c35562cd5190",
+      "file": "4ebd7322818c.txt",
+      "title": "Gemini 3 Deep Think Shocked Everyone: What ARC-AGI-2, HLE, MMMU-Pro, Codeforces Measure | Data Science Collective",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": "Luca Zavarella",
+      "text_length": 1141,
+      "status": "ok",
+      "num_tokens": 295
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-releases-gemini-3-1-pro-heres-whats-new-and-who-gets-it-first/articleshow/128569493.cms",
+      "file": "e3b6a5f1d6c9.txt",
+      "title": "Google releases Gemini 3.1 Pro: Here's what's new and who gets it first - The Times of India",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": "TOI Tech Desk  / TIMESOFINDIA.COM /   Feb 19, 2026, 22:45 IST",
+      "text_length": 2604,
+      "status": "ok",
+      "num_tokens": 557
+    },
+    {
+      "url": "https://www.theverge.com/tech/881545/the-new-gemini-3-1-pro-ai-model-represents-a-step-forward-in-core-reasoning",
+      "file": "8ba6fce294a8.txt",
+      "title": "The new Gemini 3.1 Pro AI model \u201crepresents a step forward in core reasoning.\u201d | The Verge",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": "Jay Peters",
+      "text_length": 546,
+      "status": "ok",
+      "num_tokens": 115
+    }
+  ],
+  "total_tokens": 3697
+}

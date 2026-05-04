@@ -1,0 +1,37 @@
+{
+  "hash": "84badc4cd2d7",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://www.al-monitor.com/originals/2026/03/strait-hormuz-clear-iran-navy-ships-us-commander-says",
+      "title": "Strait of Hormuz clear of Iran navy ships, US commander says - AL-Monitor: The Middle Eastʼs leading independent news source since 2012",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 742,
+      "text_length": 3511
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "665307",
+      "spike_id": 1,
+      "market_question": "Will Iran close the Strait of Hormuz before 2027?",
+      "event_title": "Will Iran close the Strait of Hormuz by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.16000000000000003,
+      "spike_timestamp_before": "2026-02-27T11:00:21+00:00",
+      "spike_timestamp_after": "2026-02-28T07:30:25+00:00"
+    },
+    {
+      "market_id": "665307",
+      "spike_id": 2,
+      "market_question": "Will Iran close the Strait of Hormuz before 2027?",
+      "event_title": "Will Iran close the Strait of Hormuz by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.574,
+      "spike_timestamp_before": "2026-02-27T19:00:23+00:00",
+      "spike_timestamp_after": "2026-02-28T16:30:35+00:00"
+    }
+  ]
+}

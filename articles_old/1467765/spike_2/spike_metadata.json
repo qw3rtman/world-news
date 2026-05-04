@@ -1,0 +1,65 @@
+{
+  "spike_index": 2,
+  "direction": "up",
+  "price_before": 0.105,
+  "price_after": 0.335,
+  "delta": 0.23000000000000004,
+  "abs_delta": 0.23000000000000004,
+  "timestamp_before": "2026-02-28T21:30:57+00:00",
+  "timestamp_after": "2026-03-01T15:30:41+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.reuters.com/business/energy/oil-jumps-10-iran-conflict-could-spike-100-barrel-analysts-say-2026-03-01/",
+      "file": "9b32f153a64b.txt",
+      "title": "Oil jumps 10% on Iran conflict and could spike to $100 a barrel, analysts say | Reuters",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Seher Dareen",
+      "text_length": 2647,
+      "status": "ok",
+      "num_tokens": 579
+    },
+    {
+      "url": "https://www.dw.com/en/will-iran-conflict-send-oil-prices-above-100-a-barrel/a-76176495",
+      "file": "c8c3527f67c2.txt",
+      "title": "Will Iran war send oil prices above $100 a barrel?",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 7082,
+      "status": "ok",
+      "num_tokens": 1448
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/crude-oil-on-edge-as-middle-east-conflict-deepens-will-crude-prices-surge-toward-100-per-barrel/articleshow/128922970.cms",
+      "file": "1409083c60dd.txt",
+      "title": "Crude oil on edge as Middle East conflict deepens, will crude prices surge toward $100 per barrel? - The Times of India",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /  Updated: Mar 01, 2026, 23:36 IST",
+      "text_length": 4659,
+      "status": "ok",
+      "num_tokens": 903
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/01/crude-oil-futures-iran.html",
+      "file": "af29b2a1e135.txt",
+      "title": "WTI oil prices jump on fears Iran retaliation will hasten disruption",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Spencer Kimball",
+      "text_length": 3814,
+      "status": "ok",
+      "num_tokens": 797
+    },
+    {
+      "url": "https://us.cnn.com/2026/03/01/business/oil-prices-us-attack-iran",
+      "file": "d1c9cf620afc.txt",
+      "title": "Oil surges and stock futures sink as war in Iran threatens crude supply | CNN Business",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Ren\u00e9e Rigdon, Hanna Ziady, Auzinea Bacon",
+      "text_length": 6493,
+      "status": "ok",
+      "num_tokens": 1347
+    }
+  ],
+  "total_tokens": 5074
+}

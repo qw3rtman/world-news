@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Following the US-Israeli strikes on Iran that began on Saturday, February 28, 2026, how many ballistic missiles, drones, and cruise missiles did the United Arab Emirates Ministry of Defense report Iran launched in retaliation?",
+    "a": "Iran launched 165 ballistic missiles, 541 drones, and 2 cruise missiles against the UAE."
+  },
+  {
+    "q": "According to the United Arab Emirates Ministry of Defense, what was the outcome of the Iranian retaliatory strikes on the UAE in terms of interceptions and casualties?",
+    "a": "The UAE intercepted 152 ballistic missiles and 506 drones; three people were killed and at least 58 were injured."
+  },
+  {
+    "q": "What specific damage and casualties were reported by Israeli police and emergency services following an Iranian missile strike on a residential building near Jerusalem on Sunday, March 1, 2026?",
+    "a": "Six people were killed and approximately 18 to 20 people were injured, including two critically, after the building collapsed."
+  },
+  {
+    "q": "What statement did Ali Larijani, head of Iran’s National Security Council, make regarding Iran’s intentions toward regional countries versus US military bases on Saturday, February 28, 2026?",
+    "a": "Larijani stated Iran had no intention of attacking regional countries, only US bases, which he claimed were US territory, not regional territory."
+  },
+  {
+    "q": "How did the atmosphere in Dubai, United Arab Emirates, change on Sunday, March 1, 2026, following the closure of its airspace due to Iranian strikes?",
+    "a": "Dubia became nearly empty with closed beaches and malls, resembling a lockdown, as residents stayed indoors and schools shifted online."
+  },
+  {
+    "q": "What action did Pope Leo XIV take on Sunday, March 1, 2026, regarding the conflict between the US, Israel, and Iran?",
+    "a": "Pope Leo XIV expressed deep concern and called for an end to the violence to prevent an irreparable tragedy."
+  },
+  {
+    "q": "What did the Israel Defense Forces (IDF) claim regarding the outcome of the initial US-Israeli strikes on Iran’s military leadership on Saturday, February 28, 2026?",
+    "a": "The IDF claimed to have killed 40 senior Iranian commanders, including Chief of Staff Lt. Gen. Abdoorahim Mousavi."
+  },
+  {
+    "q": "What was China’s Foreign Minister Wang Yi’s response to the US-Israeli attack on Iran on Sunday, March 1, 2026?",
+    "a": "Wang Yi called the attack unacceptable, condemned the killing of a sovereign leader, and called for the immediate cessation of military action."
+  },
+  {
+    "q": "What statement did European Union foreign policy chief Kaja Kallas make on Sunday, March 1, 2026, regarding the death of Ayatollah Ali Khamenei?",
+    "a": "Kallas called it a defining moment in Iran’s history and stated the EU was working to find steps for de-escalation."
+  },
+  {
+    "q": "What decision did German shipping group Hapag-Lloyd announce on Sunday, March 1, 2026, concerning the Strait of Hormuz?",
+    "a": "Hapag-Lloyd suspended all vessel transit through the Strait of Hormuz until further notice due to security concerns."
+  },
+  {
+    "q": "What incident involving an oil tanker was reported by Oman’s maritime security center on Sunday, March 1, 2026?",
+    "a": "An oil tanker named Skylight was attacked about five nautical miles off the coast of Masandam, injuring four people."
+  },
+  {
+    "q": "What religious decree did Grand Ayatollah Makarem Shirazi issue on Sunday, March 1, 2026, in response to the death of Ayatollah Ali Khamenei?",
+    "a": "He issued an order for Muslims to wage jihad against the United States and Israel to avenge Khamenei’s killing."
+  },
+  {
+    "q": "Which major airlines suspended flights to or from the Middle East on Sunday, March 1, 2026, due to airspace closures?",
+    "a": "Etihad Airways, Qatar Airways, Lufthansa, Air France, British Airways, Air India, and Turkish Airlines suspended flights."
+  },
+  {
+    "q": "What was the global impact on flight operations on Sunday, March 1, 2026, as reported by FlightAware by 6 a.m. ET?",
+    "a": "A total of 7,716 flights were delayed and 2,280 were cancelled globally."
+  },
+  {
+    "q": "What did US President Donald Trump warn Iran about on Sunday, March 1, 2026, regarding its retaliatory strikes?",
+    "a": "Trump warned that continued retaliatory strikes would be met with strong force from the US."
+  },
+  {
+    "q": "What did Iranian President Masoud Pezeshkian state on Sunday, March 1, 2026, regarding Iran’s response to the US-Israeli strikes?",
+    "a": "He stated that revenge was Iran’s legitimate right and duty and called the killing of Khamenei a declaration of open war on Muslims."
+  },
+  {
+    "q": "What warning did the US Embassy in Jordan issue to US citizens on Sunday, March 1, 2026?",
+    "a": "The embassy warned US citizens to avoid the diplomatic compound as it may be targeted and to shelter in place."
+  },
+  {
+    "q": "What incident occurred at the Crowne Plaza hotel in Manama, Bahrain, on Sunday, March 1, 2026?",
+    "a": "Smoke rose from the vicinity of the hotel following hostile Iranian missile attacks, resulting in injuries."
+  },
+  {
+    "q": "How many missiles and drones did Bahraini state media report its air defenses intercepted overnight on Sunday, March 1, 2026?",
+    "a": "Bahrain intercepted at least 45 missiles and nine drones."
+  },
+  {
+    "q": "What did the US Embassy in Qatar advise on Sunday, March 1, 2026, regarding non-essential personnel and military installations?",
+    "a": "It advised all non-essential personnel to avoid military installations and recommended Americans shelter in place."
+  },
+  {
+    "q": "What casualty figures did the US-based Human Rights Activists News Agency (HRANA) report for civilians in Iran on Saturday, February 28, 2026?",
+    "a": "HRANA reported that at least 133 civilians had been killed in Iran."
+  },
+  {
+    "q": "What did a local prosecutor in Minab, Iran, claim regarding a strike on a girls’ school on Saturday, February 28, 2026?",
+    "a": "Prosecutor Ebrahim Taheri claimed the strike killed 148 people and wounded 95."
+  },
+  {
+    "q": "What did Russian President Vladimir Putin call the targeted killing of Iran’s supreme leader on Sunday, March 1, 2026?",
+    "a": "Putin called it a “cynical murder.”"
+  },
+  {
+    "q": "What happened during anti-US protests in Karachi, Pakistan, on Sunday, March 1, 2026?",
+    "a": "At least nine protesters were killed after they stormed the US Consulate to protest military action."
+  },
+  {
+    "q": "What did the United Kingdom Maritime Trade Operations (UKMTO) state on Sunday, March 1, 2026, regarding the formal closure of the Strait of Hormuz?",
+    "a": "UKMTO stated that no official closure of the Strait had been formally communicated to the maritime industry."
+  }
+]

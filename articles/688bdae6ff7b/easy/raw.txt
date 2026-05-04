@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the statement made at the White House on Monday, March 2, 2026, what specific phrase did U.S. President Donald Trump use to describe the United States' progress in the military campaign in Iran?",
+    "a": "\"Substantially ahead\""
+  },
+  {
+    "q": "Regarding the military campaign in Iran announced in early March 2026, what duration did U.S. President Donald Trump project as the expected timeframe for the fighting?",
+    "a": "4-5 weeks"
+  },
+  {
+    "q": "On March 2, 2026, did U.S. President Donald Trump indicate that the United States would strictly adhere to the projected 4-5 week timeline for the Iran military campaign?",
+    "a": "No, he stated the U.S. would take as much time as needed."
+  },
+  {
+    "q": "At which specific location did U.S. President Donald Trump deliver his remarks on March 2, 2026, regarding the status of the military operations in Iran?",
+    "a": "The White House"
+  },
+  {
+    "q": "According to U.S. President Donald Trump's comments on March 2, 2026, how does the current status of the U.S. military campaign in Iran compare to the original schedule?",
+    "a": "The U.S. is substantially ahead of schedule."
+  },
+  {
+    "q": "What condition did U.S. President Donald Trump attach to the potential extension of the military campaign in Iran beyond the projected 4-5 weeks in his March 2, 2026 statement?",
+    "a": "The U.S. will take as much time as it needs to complete the campaign."
+  },
+  {
+    "q": "In early March 2026, which country was the subject of the military campaign described by U.S. President Donald Trump as being substantially ahead of schedule?",
+    "a": "Iran"
+  },
+  {
+    "q": "Did U.S. President Donald Trump, in his March 2, 2026 address, suggest that the military campaign in Iran would end exactly after 4-5 weeks?",
+    "a": "No, he indicated the fighting could be extended beyond that period."
+  },
+  {
+    "q": "What was the primary subject of the White House briefing on Monday, March 2, 2026, involving U.S. President Donald Trump?",
+    "a": "The progress and timeline of the U.S. military campaign in Iran."
+  },
+  {
+    "q": "How did U.S. President Donald Trump characterize the flexibility of the timeline for the military campaign in Iran on March 2, 2026?",
+    "a": "He stated the U.S. would take as much time as needed."
+  },
+  {
+    "q": "What specific timeframe did U.S. President Donald Trump cite as the projected duration for the fighting in Iran during his March 2, 2026 statement?",
+    "a": "4-5 weeks"
+  },
+  {
+    "q": "On March 2, 2026, did U.S. President Donald Trump express concern about falling behind schedule in the Iran military campaign?",
+    "a": "No, he stated the U.S. was substantially ahead of schedule."
+  },
+  {
+    "q": "Which U.S. President made the statement on March 2, 2026, that the military campaign in Iran was substantially ahead of schedule?",
+    "a": "U.S. President Donald Trump"
+  },
+  {
+    "q": "In the context of the March 2, 2026 news, what did U.S. President Donald Trump say about the necessity of adhering to the initial 4-5 week projection for the Iran campaign?",
+    "a": "He said the U.S. would take as much time as it needs."
+  },
+  {
+    "q": "What was the relationship between the actual progress and the projected schedule for the U.S. military campaign in Iran as described by U.S. President Donald Trump on March 2, 2026?",
+    "a": "The U.S. was substantially ahead of schedule."
+  },
+  {
+    "q": "Did U.S. President Donald Trump, in his March 2, 2026 remarks, commit to ending the Iran military campaign within the initially projected 4-5 weeks?",
+    "a": "No, he indicated the campaign could extend beyond that period."
+  },
+  {
+    "q": "What specific phrase did U.S. President Donald Trump use on March 2, 2026, to convey that the timeline for the Iran military campaign was flexible?",
+    "a": "\"Take as much time as it needs\""
+  },
+  {
+    "q": "Regarding the military operations in Iran in early March 2026, what was U.S. President Donald Trump's stance on the projected 4-5 week duration?",
+    "a": "He stated the U.S. would take as much time as needed, implying it could exceed 4-5 weeks."
+  },
+  {
+    "q": "On March 2, 2026, which nation's military campaign was U.S. President Donald Trump describing as being substantially ahead of its projected timeline?",
+    "a": "Iran"
+  },
+  {
+    "q": "What did U.S. President Donald Trump say on March 2, 2026, regarding the possibility of the Iran military campaign lasting longer than the projected 4-5 weeks?",
+    "a": "He said the U.S. would take as much time as it needs to complete the campaign."
+  },
+  {
+    "q": "In his March 2, 2026 statement, how did U.S. President Donald Trump contrast the current status of the Iran campaign with the original schedule?",
+    "a": "He stated the U.S. was substantially ahead of schedule."
+  },
+  {
+    "q": "What was the projected duration of the fighting in Iran mentioned by U.S. President Donald Trump on March 2, 2026?",
+    "a": "4-5 weeks"
+  },
+  {
+    "q": "Did U.S. President Donald Trump, on March 2, 2026, confirm that the U.S. military campaign in Iran would strictly follow the 4-5 week projection?",
+    "a": "No, he indicated the U.S. would take as much time as needed."
+  },
+  {
+    "q": "What was the location of U.S. President Donald Trump's March 2, 2026, comments regarding the substantially ahead schedule of the Iran military campaign?",
+    "a": "The White House"
+  },
+  {
+    "q": "According to U.S. President Donald Trump on March 2, 2026, what determines the actual duration of the military campaign in Iran?",
+    "a": "The time needed to complete the campaign."
+  }
+]

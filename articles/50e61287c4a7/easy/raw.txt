@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the March 2, 2026 issue of The Atlantic, what specific physical attributes and location are cited in Graeme Wood’s article to question whether Pete Buttigieg appears to be a man of the people?",
+    "a": "He has a beard, a splitting maul, and a house in Michigan."
+  },
+  {
+    "q": "In the March 2, 2026 issue of The Atlantic, what constitutional issue does Tom Nichols argue Donald Trump has created for America in his article?",
+    "a": "Trump has given America a constitutional dilemma."
+  },
+  {
+    "q": "In the March 2, 2026 issue of The Atlantic, what specific version of political ideology does Donald Trump embrace according to George Packer’s article titled 'Hubris Without Idealism'?",
+    "a": "He has embraced a warped version of the neoconservatism he once derided."
+  },
+  {
+    "q": "In the March 2, 2026 issue of The Atlantic, what shift in foreign policy stance does Toluse Olorunnipa, Jonathan Lemire, and Ashley Parker describe in their article 'From ‘America First’ to ‘Always America Last’'?",
+    "a": "Trump promised to stop wars, but his grip on his base is being questioned now that he’s started one."
+  },
+  {
+    "q": "In the March 2, 2026 issue of The Atlantic, what personal anecdote does Jenisha Watts share in her article 'The Impossible Predicament of the Uninsured'?",
+    "a": "Her aunt couldn’t afford to go to the hospital but ended up there anyway."
+  },
+  {
+    "q": "In the March 2, 2026 issue of The Atlantic, what characteristic does Eliot A. Cohen attribute to sophisticated, creative, and bold partners in his article 'America’s Invaluable Ally'?",
+    "a": "They can operate at scale, which is invaluable to the United States."
+  },
+  {
+    "q": "In the March 2, 2026 issue of The Atlantic, what specific date is referenced in Yair Rosenberg’s article 'The Israel of October 6 Is Never Coming Back'?",
+    "a": "October 6."
+  },
+  {
+    "q": "In the March 2, 2026 issue of The Atlantic, what emotional response does Gal Beckerman explore in his article 'Why People Shed Tears for Tyrants'?",
+    "a": "He explores why people shed tears for tyrants."
+  },
+  {
+    "q": "In the March 2, 2026 issue of The Atlantic, what action does Tim Naftali describe Donald Trump taking in his article 'Trump Opens the Pandora’s Box of Assassination'?",
+    "a": "Trump opens the Pandora’s Box of Assassination."
+  },
+  {
+    "q": "In the March 2, 2026 issue of The Atlantic, what statement does Caitlin Dickerson quote in her article '‘America Doesn’t Want My Children or Grandchildren’'?",
+    "a": "‘America Doesn’t Want My Children or Grandchildren’."
+  },
+  {
+    "q": "In the March 2, 2026 issue of The Atlantic, what topic does Annie Lowrey address in her article 'The Disappearing American Mortgage'?",
+    "a": "The disappearing American mortgage."
+  },
+  {
+    "q": "In the March 2, 2026 issue of The Atlantic, what metaphor does David Frum use in his article 'The Fortress We Gave Away'?",
+    "a": "The Fortress We Gave Away."
+  },
+  {
+    "q": "In the March 2, 2026 issue of The Atlantic, what group does Ben Appel defend in his article 'In Defense of Effeminate Gay Boys'?",
+    "a": "Effeminate gay boys."
+  },
+  {
+    "q": "In the March 2, 2026 issue of The Atlantic, what type of literary work does Honor Jones discuss in her article 'A Novel About a Secret No One Wants to Know'?",
+    "a": "A novel about a secret no one wants to know."
+  },
+  {
+    "q": "In the March 2, 2026 issue of The Atlantic, what war-related concept does Jonathan Chait explore in his article 'A Very Stable War'?",
+    "a": "A very stable war."
+  },
+  {
+    "q": "In the March 2, 2026 issue of The Atlantic, which three authors co-wrote the article 'From ‘America First’ to ‘Always America Last’'?",
+    "a": "Toluse Olorunnipa, Jonathan Lemire, and Ashley Parker."
+  },
+  {
+    "q": "In the March 2, 2026 issue of The Atlantic, what political figure is the subject of Graeme Wood’s article 'Pete Buttigieg in the Wilderness'?",
+    "a": "Pete Buttigieg."
+  },
+  {
+    "q": "In the March 2, 2026 issue of The Atlantic, what political figure is the subject of Tim Naftali’s article 'Trump Opens the Pandora’s Box of Assassination'?",
+    "a": "Donald Trump."
+  },
+  {
+    "q": "In the March 2, 2026 issue of The Atlantic, what political figure is the subject of Tom Nichols’ article 'Trump Has Given America a Constitutional Dilemma'?",
+    "a": "Donald Trump."
+  },
+  {
+    "q": "In the March 2, 2026 issue of The Atlantic, what political figure is the subject of George Packer’s article 'Hubris Without Idealism'?",
+    "a": "Donald Trump."
+  },
+  {
+    "q": "In the March 2, 2026 issue of The Atlantic, what political figure is the subject of Toluse Olorunnipa, Jonathan Lemire, and Ashley Parker’s article 'From ‘America First’ to ‘Always America Last’'?",
+    "a": "Donald Trump."
+  },
+  {
+    "q": "In the March 2, 2026 issue of The Atlantic, what is the title of the article written by Gal Beckerman?",
+    "a": "Why People Shed Tears for Tyrants."
+  },
+  {
+    "q": "In the March 2, 2026 issue of The Atlantic, what is the title of the article written by Caitlin Dickerson?",
+    "a": "‘America Doesn’t Want My Children or Grandchildren’."
+  },
+  {
+    "q": "In the March 2, 2026 issue of The Atlantic, what is the title of the article written by Annie Lowrey?",
+    "a": "The Disappearing American Mortgage."
+  },
+  {
+    "q": "In the March 2, 2026 issue of The Atlantic, what is the title of the article written by David Frum?",
+    "a": "The Fortress We Gave Away."
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "hash": "1bc63f1e4c16",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://haaretz.com/israel-news/2026-03-03/ty-article/.premium/netanyahu-iran-strikes-will-pave-way-for-israel-saudi-arabia-normalization/0000019c-b2ca-db5a-a99f-b3cf0f410000",
+      "title": "Netanyahu: U.S.-Israel Strikes Will Foster Regime Change in Iran, Pave Way to Normalization With Saudi Arabia - Israel News",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Ben Samuels",
+      "num_tokens": 82,
+      "text_length": 403
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1472019",
+      "spike_id": 11,
+      "market_question": "Will Saudi Arabia strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.155,
+      "spike_timestamp_before": "2026-03-05T23:00:39+00:00",
+      "spike_timestamp_after": "2026-03-06T23:00:26+00:00"
+    },
+    {
+      "market_id": "678747",
+      "spike_id": 3,
+      "market_question": "Will Israel strike 4 countries in 2026?",
+      "event_title": "How many different countries will Israel strike in 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.15549999999999997,
+      "spike_timestamp_before": "2026-03-02T17:30:36+00:00",
+      "spike_timestamp_after": "2026-03-03T05:00:37+00:00"
+    },
+    {
+      "market_id": "678747",
+      "spike_id": 4,
+      "market_question": "Will Israel strike 4 countries in 2026?",
+      "event_title": "How many different countries will Israel strike in 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.16199999999999998,
+      "spike_timestamp_before": "2026-03-02T17:30:36+00:00",
+      "spike_timestamp_after": "2026-03-03T08:00:39+00:00"
+    }
+  ]
+}

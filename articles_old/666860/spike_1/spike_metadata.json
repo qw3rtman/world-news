@@ -1,0 +1,65 @@
+{
+  "spike_index": 1,
+  "direction": "up",
+  "price_before": 0.0165,
+  "price_after": 0.2875,
+  "delta": 0.27099999999999996,
+  "abs_delta": 0.27099999999999996,
+  "timestamp_before": "2026-02-27T09:00:49+00:00",
+  "timestamp_after": "2026-02-28T08:30:59+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-01/trump-s-removal-of-another-xi-friend-complicates-planned-summit",
+      "file": "c91bf644b8c2.txt",
+      "title": "Trump\u2019s Removal of Another Xi Friend Complicates Planned Summit - Bloomberg",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 1110,
+      "status": "ok",
+      "num_tokens": 249
+    },
+    {
+      "url": "http://apidata.usatoday.com/story/news/nation/2026/02/28/trump-stance-ending-daylight-saving-time/88859552007/",
+      "file": "0fe52ac57025.txt",
+      "title": "USA TODAY - Breaking News and Latest News Today",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 259,
+      "status": "ok",
+      "num_tokens": 55
+    },
+    {
+      "url": "https://www.cnbc.com/2026/02/25/trump-china-state-of-the-union-speech.html",
+      "file": "90a5cc1b9808.txt",
+      "title": "Trump makes little mention of China in the longest State of the Union speech",
+      "published_date": "2026-02-25T00:00:00.000Z",
+      "author": "Evelyn Cheng",
+      "text_length": 5001,
+      "status": "ok",
+      "num_tokens": 1016
+    },
+    {
+      "url": "https://reuters.com/world/middle-east/prior-iran-attacks-cia-assessed-khamenei-would-be-replaced-by-hardline-irgc-2026-02-28/",
+      "file": "2aede153fa7b.txt",
+      "title": "Exclusive: Prior to Iran attacks, CIA assessed Khamenei could be replaced by hardline IRGC elements if killed, sources say | Reuters",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Erin Banco",
+      "text_length": 2352,
+      "status": "ok",
+      "num_tokens": 453
+    },
+    {
+      "url": "https://www.pbs.org/newshour/politics/fact-checking-trumps-state-of-the-union-claims-on-the-economy-immigration-and-crime",
+      "file": "73a396445b11.txt",
+      "title": "Fact-checking Trump's State of the Union claims on the economy, immigration and crime | PBS News",
+      "published_date": "2026-02-25T00:00:00.000Z",
+      "author": null,
+      "text_length": 11475,
+      "status": "ok",
+      "num_tokens": 2447
+    }
+  ],
+  "total_tokens": 4220
+}

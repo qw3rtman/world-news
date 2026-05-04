@@ -1,0 +1,27 @@
+{
+  "hash": "ce22fccf885e",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.thetimes.com/world/middle-east/article/iran-ayatollah-khamenei-what-next-pahlavi-dlt7jb5zl?gaa_at=eafs&gaa_n=AWEtsqfaG_dX9YBYK0n-fV-1Pdi2sf7C9DksTZjvogbQwkqgJkPVo44yzGGB&gaa_sig=6rmiR3duPzq-YNtdJekthhcONgPeW_GxPI0Kd7EZTTHjfDZN12lj3TuYvlOvTmHseY8yyuiwv0kAfM5pB7PrIA%3D%3D&gaa_ts=69a3a86f",
+      "title": "What’s next for Iran after the death of the supreme leader?",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Louise Callaghan",
+      "num_tokens": 1108,
+      "text_length": 5206
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "958442",
+      "spike_id": 5,
+      "market_question": "Will the Iranian regime fall by March 31?",
+      "event_title": "Will the Iranian regime fall by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.22149999999999997,
+      "spike_timestamp_before": "2026-02-28T22:30:36+00:00",
+      "spike_timestamp_after": "2026-03-01T17:30:42+00:00"
+    }
+  ]
+}

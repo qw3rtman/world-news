@@ -1,0 +1,102 @@
+[
+  {
+    "q": "As of early March 2026, what is the reported number of active weekly users for OpenAI's AI coding tool Codex, and how does this figure compare to the user base before the release of GPT-5.3 Codex?",
+    "a": "Codex has more than 1.6 million active weekly users, a figure that has more than tripled since the release of the new model."
+  },
+  {
+    "q": "Which specific version of OpenAI's coding agent, launched in early February 2026, is credited with driving the breakout growth in Codex usage?",
+    "a": "GPT-5.3 Codex."
+  },
+  {
+    "q": "According to OpenAI's March 2026 report, by what factor has the weekly token processing volume for Codex grown?",
+    "a": "By a factor of five."
+  },
+  {
+    "q": "How many people had downloaded the Codex desktop app by early March 2026, following the launch of GPT-5.3 Codex in early February 2026?",
+    "a": "More than 1 million people."
+  },
+  {
+    "q": "Which five companies are explicitly named in OpenAI's March 2026 report as having rolled out Codex across their developer teams?",
+    "a": "Cisco, Nvidia, Ramp, Rakuten, and Harvey."
+  },
+  {
+    "q": "What public relations challenge has derailed the positive messaging around OpenAI's Codex momentum in early 2026?",
+    "a": "Controversy over the company’s agreement to supply AI to the Pentagon."
+  },
+  {
+    "q": "What consumer reaction to OpenAI's Pentagon deal has impacted its ChatGPT product as of early March 2026?",
+    "a": "Some consumers have boycotted the ChatGPT product."
+  },
+  {
+    "q": "Who is Thibault Sottiaux, and what role did he play in outlining OpenAI's strategic ambitions for Codex in London in late February 2026?",
+    "a": "He is the head of OpenAI’s Codex product and laid out the company’s ambitions to use Codex to bring agents to the enterprise."
+  },
+  {
+    "q": "Beyond coding, what broader enterprise goal did OpenAI's Codex product head state the company aims to achieve with Codex in late February 2026?",
+    "a": "To use Codex as a mechanism to bring agents to the enterprise in domains beyond coding."
+  },
+  {
+    "q": "In which city did Thibault Sottiaux give an interview in late February 2026 outlining OpenAI's agent strategy?",
+    "a": "London."
+  },
+  {
+    "q": "What specific metric did OpenAI use to demonstrate the fivefold growth in Codex usage in its March 2026 announcement?",
+    "a": "The number of tokens, or portions of text, that Codex is processing per week."
+  },
+  {
+    "q": "Which entity is OpenAI controversially supplying AI to, a decision that led to consumer boycotts of ChatGPT in early 2026?",
+    "a": "The Pentagon."
+  },
+  {
+    "q": "What is the name of the desktop application associated with OpenAI's AI coding tool that saw over 1 million downloads by early March 2026?",
+    "a": "The Codex desktop app."
+  },
+  {
+    "q": "How did the release of GPT-5.3 Codex in early February 2026 impact the weekly active user count for the tool by early March 2026?",
+    "a": "It caused the active weekly user count to more than triple."
+  },
+  {
+    "q": "Which technology companies, including a semiconductor giant and a fintech firm, are listed as enterprise adopters of OpenAI's Codex tool in March 2026?",
+    "a": "Nvidia and Ramp (along with Cisco, Rakuten, and Harvey)."
+  },
+  {
+    "q": "What is the title of the executive at OpenAI who stated in late February 2026 that Codex would serve as the heart of a wider agent push?",
+    "a": "Head of OpenAI’s Codex product (Thibault Sottiaux)."
+  },
+  {
+    "q": "What specific product of OpenAI faced boycotts from some consumers in early 2026 due to the Pentagon supply agreement?",
+    "a": "ChatGPT."
+  },
+  {
+    "q": "By what multiplier did the token processing volume for OpenAI's Codex tool increase between early February 2026 and early March 2026?",
+    "a": "Five."
+  },
+  {
+    "q": "Which Japanese e-commerce and technology conglomerate is named among the companies rolling out Codex to developer teams in early 2026?",
+    "a": "Rakuten."
+  },
+  {
+    "q": "What was the primary strategic vision for Codex articulated by Thibault Sottiaux in London in late February 2026, prior to the Pentagon controversy?",
+    "a": "To use Codex as a mechanism to bring agents to the enterprise in domains beyond coding."
+  },
+  {
+    "q": "How many active weekly users did OpenAI's Codex tool boast by early March 2026?",
+    "a": "More than 1.6 million."
+  },
+  {
+    "q": "Which AI startup, known for its legal and enterprise AI tools, is listed as a company that rolled out Codex across developer teams in early 2026?",
+    "a": "Harvey."
+  },
+  {
+    "q": "What was the approximate timeframe for the launch of GPT-5.3 Codex, which triggered the subsequent surge in downloads and active users?",
+    "a": "Early February 2026."
+  },
+  {
+    "q": "Which networking and communications equipment manufacturer is explicitly named as an enterprise user of OpenAI's Codex tool in March 2026?",
+    "a": "Cisco."
+  },
+  {
+    "q": "What dual outcome resulted from OpenAI's agreement to supply AI to the Pentagon, as reported in March 2026?",
+    "a": "It derailed public messaging around Codex's momentum and resulted in some consumers boycotting ChatGPT."
+  }
+]

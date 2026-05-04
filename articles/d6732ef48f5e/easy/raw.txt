@@ -1,0 +1,106 @@
+[
+  {
+    "q": "On what date did Israeli ground troops cross into southern Lebanon, an event described as a new escalation in the region-wide war that also involved U.S. and Israeli strikes on Iran?",
+    "a": "Tuesday, March 3, 2026."
+  },
+  {
+    "q": "Which two diplomatic missions did the United States close in response to Iranian drone attacks, one in Riyadh on Tuesday and one in Kuwait City that was hit on Monday?",
+    "a": "The U.S. embassy in Riyadh and the U.S. embassy in Kuwait City."
+  },
+  {
+    "q": "Who is the Supreme Leader of Iran who was reported killed in fighting that began after the U.S. and Israel launched initial attacks on Iran on Saturday, March 1, 2026?",
+    "a": "Ayatollah Ali Khamenei."
+  },
+  {
+    "q": "Which shipping lane did Iran declare closed on Monday, March 2, 2026, with the Islamic Revolutionary Guard Corps threatening to fire on any ship attempting to pass through?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "How many missiles and drones did the United Arab Emirates report being targeted with since the conflict began on Saturday, March 1, 2026?",
+    "a": "More than 1,000."
+  },
+  {
+    "q": "Which oil terminal in the United Arab Emirates appeared to be on fire following the start of hostilities, according to social media videos cited in reports from early March 2026?",
+    "a": "The Fujairah Oil Terminal."
+  },
+  {
+    "q": "Who is the U.S. President who stated on social media on Tuesday, March 3, 2026, that it was \"too late\" for negotiations to halt the war he ordered on Saturday?",
+    "a": "Donald Trump."
+  },
+  {
+    "q": "Who is the Israeli Prime Minister who, on Monday, March 2, 2026, played down fears of an \"endless\" war while expanding operations across Tehran and Lebanon?",
+    "a": "Benjamin Netanyahu."
+  },
+  {
+    "q": "Which United Nations peacekeeping force recorded Israeli troops crossing the border into Lebanon in four locations on Tuesday, March 3, 2026?",
+    "a": "The United Nations Interim Force in Lebanon (UNIFIL)."
+  },
+  {
+    "q": "Who is the Israeli Defence Minister who ordered ground forces to advance into Lebanon on Tuesday, March 3, 2026, to push Hezbollah farther away from northern Israel?",
+    "a": "Israel Katz."
+  },
+  {
+    "q": "Approximately how many Lebanese villages near the border did Israel order to be evacuated on Tuesday, March 3, 2026, warning residents their lives would be in danger?",
+    "a": "Some 80 villages."
+  },
+  {
+    "q": "How many internally displaced people had registered at UN refugee agency shelters in Lebanon by Tuesday, March 3, 2026, since the start of hostilities?",
+    "a": "Nearly 30,000 people."
+  },
+  {
+    "q": "Which southern suburb of Beirut, collectively known by a specific name, was subjected to almost non-stop Israeli air strikes starting early Monday, March 2, 2026?",
+    "a": "The Dahiya."
+  },
+  {
+    "q": "Which television channel, run by Hezbollah and based in Beirut, had its studios targeted by Israel on Monday, March 2, 2026?",
+    "a": "Al-Manar."
+  },
+  {
+    "q": "Who is the Lebanese Prime Minister who, on Monday, March 2, 2026, called Hezbollah’s decision to launch rockets at Israel illegal and demanded the militia be disarmed?",
+    "a": "Nawaf Salam."
+  },
+  {
+    "q": "In which region of northern Israel was one person injured by a rocket launched from Lebanon on Tuesday, March 3, 2026, according to Israeli media reports?",
+    "a": "The Galilee region."
+  },
+  {
+    "q": "Which previous conflict, ending in 2024, resulted in more than 4,000 civilian deaths and left entire villages in south Lebanon destroyed before the current escalation?",
+    "a": "The 2024 war between Israel and Hezbollah."
+  },
+  {
+    "q": "Who is the deputy head of Hezbollah’s political council who stated on Tuesday, March 3, 2026, that \"open war\" had begun due to alleged Israeli violations of the ceasefire?",
+    "a": "Mahmoud Qmati."
+  },
+  {
+    "q": "At which Beirut educational institution, converted into a receiving centre for internal refugees by late Tuesday, March 3, 2026, were more than 1,800 people crammed into five storeys?",
+    "a": "Bir Hassan Technical Institute."
+  },
+  {
+    "q": "Which village, located about 25 kilometres north of the Israeli border, was the home of Radiya Zorkot, who fled there after receiving an evacuation warning at 9:30 a.m. on Tuesday, March 3, 2026?",
+    "a": "Zrariyeh."
+  },
+  {
+    "q": "Which organization’s head, Haider Baddah, stated that conditions for internal refugees were worse in March 2026 than during the 2024 war because international assistance was lacking?",
+    "a": "Al-Rissala Scouts."
+  },
+  {
+    "q": "Which two countries provided international assistance, such as food and water, to Al-Rissala during the 2024 war, a support system that was notably absent in the March 2026 conflict?",
+    "a": "Iran and Qatar."
+  },
+  {
+    "q": "How many Iranians, including Supreme Leader Ayatollah Ali Khamenei, were reported killed by local health authorities in the fighting that began on Saturday, March 1, 2026?",
+    "a": "At least 787."
+  },
+  {
+    "q": "How many Lebanese people were reported killed by local health authorities in the fighting that began on Saturday, March 1, 2026?",
+    "a": "At least 52."
+  },
+  {
+    "q": "How many U.S. soldiers were reported killed over the four days following the initial attacks on Iran that began on Saturday, March 1, 2026?",
+    "a": "Six."
+  },
+  {
+    "q": "How many Israeli soldiers were reported killed over the four days following the initial attacks on Iran that began on Saturday, March 1, 2026?",
+    "a": "11."
+  }
+]

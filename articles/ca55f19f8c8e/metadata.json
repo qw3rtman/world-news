@@ -1,0 +1,47 @@
+{
+  "hash": "ca55f19f8c8e",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.newsweek.com/iran-us-geneva-nuclear-talks-end-without-deal-war-fears-rise-live-updates-11592356",
+      "title": "Iran News: Trump Reveals No Final Call Yet, ‘Not Happy’ With Progress - Newsweek",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 2375,
+      "text_length": 12893
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1285886",
+      "spike_id": 1,
+      "market_question": " Iran agrees to end enrichment of uranium by March 31?",
+      "event_title": " Iran agrees to end enrichment of uranium by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.15,
+      "spike_timestamp_before": "2026-02-28T07:00:37+00:00",
+      "spike_timestamp_after": "2026-02-28T20:00:35+00:00"
+    },
+    {
+      "market_id": "1285886",
+      "spike_id": 2,
+      "market_question": " Iran agrees to end enrichment of uranium by March 31?",
+      "event_title": " Iran agrees to end enrichment of uranium by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.1975,
+      "spike_timestamp_before": "2026-02-28T07:00:37+00:00",
+      "spike_timestamp_after": "2026-02-28T23:00:32+00:00"
+    },
+    {
+      "market_id": "1285886",
+      "spike_id": 3,
+      "market_question": " Iran agrees to end enrichment of uranium by March 31?",
+      "event_title": " Iran agrees to end enrichment of uranium by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.214,
+      "spike_timestamp_before": "2026-02-28T07:00:37+00:00",
+      "spike_timestamp_after": "2026-03-01T03:00:38+00:00"
+    }
+  ]
+}

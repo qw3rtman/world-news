@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On March 9, 2026, which AI cloud company listed on Nasdaq (NASDAQ: NBIS) announced the appointment of Dan Lawrence as Senior Vice President and General Manager for the Americas?",
+    "a": "Nebius"
+  },
+  {
+    "q": "In the March 9, 2026 press release from Nebius, what specific geographic region is Dan Lawrence tasked with leading the expansion for in his new role?",
+    "a": "The Americas"
+  },
+  {
+    "q": "According to the March 9, 2026 announcement, in which U.S. metropolitan area is Dan Lawrence based as he leads Nebius's North American expansion?",
+    "a": "The Boston area"
+  },
+  {
+    "q": "Prior to joining Nebius in March 2026, Dan Lawrence served as Senior Vice President of Global Sales for Cloud at which technology company?",
+    "a": "Akamai Technologies"
+  },
+  {
+    "q": "During his tenure at Akamai Technologies, to approximately what revenue figure did Dan Lawrence scale the company's compute business?",
+    "a": "Approach $1 billion in revenue"
+  },
+  {
+    "q": "Before his role at Akamai Technologies, at which major cloud computing provider did Dan Lawrence hold senior leadership roles managing global enterprise engagements?",
+    "a": "Amazon Web Services"
+  },
+  {
+    "q": "In the March 9, 2026 statement, which Nebius executive quoted Dan Lawrence's track record of scaling cloud businesses to the billion-dollar mark?",
+    "a": "Marc Boroditsky, Chief Revenue Officer at Nebius"
+  },
+  {
+    "q": "According to the March 9, 2026 press release, what specific type of infrastructure capacity is Nebius building out in gigawatts across the United States?",
+    "a": "Purpose-built AI infrastructure"
+  },
+  {
+    "q": "Nebius plans to establish a regional headquarters in which U.S. city, as mentioned in the forward-looking statements of its March 9, 2026 press release?",
+    "a": "San Francisco"
+  },
+  {
+    "q": "In his March 9, 2026 statement, Dan Lawrence identified three reasons why Nebius stands out; what was the first reason he cited regarding the company's capabilities?",
+    "a": "The team has the rare engineering DNA to design and operate the entire stack"
+  },
+  {
+    "q": "What was the second reason Dan Lawrence gave in his March 9, 2026 statement for Nebius's competitive advantage, relating to the company's financial status?",
+    "a": "The company’s strong financial position allows it to deploy capital and capacity at a unique scale"
+  },
+  {
+    "q": "In the March 9, 2026 announcement, what was the third reason Dan Lawrence cited for Nebius's strength, specifically regarding innovation?",
+    "a": "The pace of software innovation is extraordinary"
+  },
+  {
+    "q": "Following Dan Lawrence's appointment in March 2026, what major infrastructure milestone had Nebius recently received approval for in the United States?",
+    "a": "Its first gigawatt-scale AI factory"
+  },
+  {
+    "q": "Nebius is headquartered in which European city, as stated in the 'About Nebius' section of its March 9, 2026 press release?",
+    "a": "Amsterdam"
+  },
+  {
+    "q": "In the March 9, 2026 press release, which specific customer segments is Dan Lawrence tasked with scaling Nebius's go-to-market engine across?",
+    "a": "Strategic, enterprise, ISV, and AI-native"
+  },
+  {
+    "q": "According to the forward-looking statements in the March 9, 2026 press release, with which U.S. regulatory body did Nebius file its Annual Report on Form 20-F for the year ended December 31, 2024?",
+    "a": "The Securities and Exchange Commission (SEC)"
+  },
+  {
+    "q": "On what date did Nebius file its Annual Report on Form 20-F for the year ended December 31, 2024, with the Securities and Exchange Commission?",
+    "a": "April 30, 2025"
+  },
+  {
+    "q": "In the March 9, 2026 press release, what specific type of data center projects is Nebius developing to power the next generation of AI innovation?",
+    "a": "Gigawatt-scale data center campuses"
+  },
+  {
+    "q": "Which two contact email addresses were provided in the March 9, 2026 Nebius press release for Investor Relations and Media Relations respectively?",
+    "a": "ir@nebius.com and media@nebius.com"
+  },
+  {
+    "q": "According to the March 9, 2026 press release, what is the primary target audience for Nebius's full-stack platform for developers and companies?",
+    "a": "Startups and enterprises building AI products, agents, and services worldwide"
+  },
+  {
+    "q": "In the March 9, 2026 statement, Dan Lawrence described Nebius as standing out for its ability to deploy capital and capacity at a unique scale due to what attribute?",
+    "a": "Its strong financial position"
+  },
+  {
+    "q": "What specific legal act is cited in the March 9, 2026 press release to define the forward-looking statements contained within the document?",
+    "a": "The Private Securities Litigation Reform Act of 1995"
+  },
+  {
+    "q": "According to the March 9, 2026 press release, what is Nebius's status regarding its position in the global AI cloud market?",
+    "a": "One of the world’s largest independent AI cloud players"
+  },
+  {
+    "q": "In the March 9, 2026 press release, which source is credited with providing the paid content for the announcement regarding Dan Lawrence's appointment?",
+    "a": "Business Wire"
+  },
+  {
+    "q": "What specific risk factor related to construction is listed in the forward-looking statements of the March 9, 2026 Nebius press release?",
+    "a": "Potential construction delays or complications in data center development"
+  }
+]

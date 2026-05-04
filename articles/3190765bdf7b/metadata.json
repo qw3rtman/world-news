@@ -1,0 +1,37 @@
+{
+  "hash": "3190765bdf7b",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.thetimes.com/world/middle-east/article/iran-us-uk-cyprus-bases-israel-latest-news-strikes-bwjxg8jzn?gaa_at=eafs&gaa_n=AWEtsqcLiXuuiEb5Zer3IB8Wr7uUG1iV-ZHj_cL5sGv020eUgmRX0fCSueos&gaa_sig=87QgV8-KjKvYXlgd6hcmxs1yDbxuSB1Pe7vCUU_5lkAhOHflkFW-f1lQlvuxGln0Zs62TjH2kIU8g6TJlmsWog%3D%3D&gaa_ts=69a52ccf",
+      "title": "Trump vows ‘big wave’ of new attacks on Iran — as it happened",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Samer Al-Atrush | Larisa Brown | Ben Clatworthy | Haroon Janjua | Oliver Moody | Martin Strydom | Martyn Ziegler | Lara Bowman | Charlie Parker",
+      "num_tokens": 49,
+      "text_length": 213
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1466423",
+      "spike_id": 3,
+      "market_question": "Will Iran strike Cyprus in March?",
+      "event_title": "Iran military action against ___ by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.38,
+      "spike_timestamp_before": "2026-03-01T20:30:27+00:00",
+      "spike_timestamp_after": "2026-03-02T11:00:23+00:00"
+    },
+    {
+      "market_id": "1466423",
+      "spike_id": 4,
+      "market_question": "Will Iran strike Cyprus in March?",
+      "event_title": "Iran military action against ___ by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.28,
+      "spike_timestamp_before": "2026-03-02T11:00:23+00:00",
+      "spike_timestamp_after": "2026-03-02T17:30:26+00:00"
+    }
+  ]
+}

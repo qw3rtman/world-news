@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In February 2026, which two artificial intelligence models were shipped by Anthropic and OpenAI respectively, prior to the announcement of the Gemini 3 Deep Think upgrade?",
+    "a": "Anthropic shipped Claude Opus 4.6, and OpenAI shipped GPT-5.3-Codex."
+  },
+  {
+    "q": "What was the processing speed capability of the GPT-5.3-Codex-Spark model released by OpenAI in early 2026, and which hardware provider powered its research preview?",
+    "a": "It processed more than 1,000 tokens per second and was powered by Cerebras."
+  },
+  {
+    "q": "According to the February 2026 report, what percentage score did the Gemini 3 Deep Think model achieve on the Humanity’s Last Exam (HLE) benchmark without using tools?",
+    "a": "It achieved a score of 48.4%."
+  },
+  {
+    "q": "What percentage score did the Gemini 3 Deep Think model achieve on the ARC-AGI-2 benchmark, and what specific verification status was associated with this result?",
+    "a": "It achieved 84.6% under the ARC Prize Verified, v2 semi-private status."
+  },
+  {
+    "q": "Who is the author of the February 19, 2026 article titled 'Gemini 3 Deep Think Shocked Everyone' published in the Data Science Collective?",
+    "a": "The author is Luca Zavarella."
+  },
+  {
+    "q": "In the context of the February 2026 AI landscape described in the article, how did the benchmark results for the Gemini 3 Deep Think upgrade differ from the preceding period of model releases?",
+    "a": "The results were described as a discontinuity in the curve rather than an incremental release, contrasting with the modest improvements seen previously."
+  },
+  {
+    "q": "Which specific version of the ARC-AGI-2 benchmark was used to evaluate the Gemini 3 Deep Think model in the February 2026 report?",
+    "a": "The ARC Prize Verified, v2 semi-private version was used."
+  },
+  {
+    "q": "What distinct characteristic of the GPT-5.3-Codex-Spark model, released by OpenAI in early 2026, distinguished it as a 'real-time coding variant'?",
+    "a": "It was capable of processing more than 1,000 tokens per second."
+  },
+  {
+    "q": "According to the February 2026 article, which organization released the evaluation PDF containing the benchmark figures for the Gemini 3 Deep Think model?",
+    "a": "Google released the evaluation PDF."
+  },
+  {
+    "q": "What two specific benchmarks are cited in the February 19, 2026 article as measuring the capabilities of the Gemini 3 Deep Think model?",
+    "a": "The benchmarks cited are Humanity’s Last Exam (HLE) and ARC-AGI-2."
+  },
+  {
+    "q": "In the February 2026 timeline, which model was described as arriving as a 'research preview' powered by Cerebras?",
+    "a": "The GPT-5.3-Codex-Spark model."
+  },
+  {
+    "q": "What was the specific performance metric reported for the Gemini 3 Deep Think model on the ARC-AGI-2 benchmark in the February 2026 article?",
+    "a": "The model achieved an 84.6% score."
+  },
+  {
+    "q": "Which AI company's model, Claude Opus 4.6, was shipped in the first half of February 2026, contributing to the 'stable' feeling of the frontier AI landscape before the Gemini 3 update?",
+    "a": "Anthropic shipped Claude Opus 4.6."
+  },
+  {
+    "q": "What was the reported score for the Gemini 3 Deep Think model on the Humanity’s Last Exam (HLE) benchmark, and were any tools utilized during this evaluation?",
+    "a": "The model scored 48.4% with no tools used."
+  },
+  {
+    "q": "In the February 2026 article, which OpenAI model is identified as having a 'Codex' variant that arrived as a research preview?",
+    "a": "The GPT-5.3-Codex model."
+  },
+  {
+    "q": "What description does the February 19, 2026 article give to the nature of the 'major upgrade' to the Gemini 3 Deep Think model?",
+    "a": "It is described as reading less like an incremental release and more like a discontinuity in the curve."
+  },
+  {
+    "q": "Which specific verification status is attached to the ARC-AGI-2 benchmark result for Gemini 3 Deep Think in the February 2026 report?",
+    "a": "The status is ARC Prize Verified, v2 semi-private."
+  },
+  {
+    "q": "According to the February 2026 article, which hardware company provided the power for the research preview of the GPT-5.3-Codex-Spark model?",
+    "a": "Cerebras provided the power for the research preview."
+  },
+  {
+    "q": "What was the approximate reading time listed for Luca Zavarella’s article on Gemini 3 Deep Think published on February 19, 2026?",
+    "a": "The article was listed as a 20-minute read."
+  },
+  {
+    "q": "In the February 2026 context, which two companies are credited with shipping models (Claude Opus 4.6 and GPT-5.3-Codex) that contributed to the perception of a stable AI landscape?",
+    "a": "Anthropic and OpenAI."
+  },
+  {
+    "q": "What specific percentage did the Gemini 3 Deep Think model achieve on the ARC-AGI-2 benchmark according to the Google evaluation PDF in February 2026?",
+    "a": "It achieved 84.6%."
+  },
+  {
+    "q": "Which benchmark, Humanity’s Last Exam (HLE) or ARC-AGI-2, had a lower reported score for the Gemini 3 Deep Think model in the February 2026 article?",
+    "a": "Humanity’s Last Exam (HLE) had the lower score at 48.4%."
+  },
+  {
+    "q": "What specific token processing rate is attributed to the GPT-5.3-Codex-Spark model in the February 2026 article?",
+    "a": "It processed more than 1,000 tokens per second."
+  },
+  {
+    "q": "Which publication platform hosted Luca Zavarella’s article 'Gemini 3 Deep Think Shocked Everyone' in February 2026?",
+    "a": "The article was hosted on Medium as part of the Data Science Collective."
+  },
+  {
+    "q": "What was the specific version identifier for the ARC-AGI-2 benchmark used in the February 2026 evaluation of Gemini 3 Deep Think?",
+    "a": "The version was v2 semi-private."
+  }
+]

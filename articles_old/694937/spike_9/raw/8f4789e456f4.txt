@@ -1,0 +1,98 @@
+Unicredit: Das steckt hinter dem Übernahmeangebot für die Commerzbank - DER SPIEGEL
+
+Zum Inhalt springen
+
+---
+
+---
+
+- Link kopieren
+- WhatsApp
+- Messenger
+- E-Mail
+- Facebook
+- X.com
+
+image"
+
+UniCredit-Chef Andrea Orcel: Wird er bald die Commerzbank beherrschen?
+
+Foto:
+
+Nick Zonna / ZUMA Press / picture alliance
+
+Sie können den Artikel leider nicht mehr aufrufen. Der Link, der Ihnen geschickt wurde, ist entweder älter als 30 Tage oder der Artikel wurde bereits 10 Mal geöffnet.
+
+hasChangedOffer = true)"
+
+### Diesen Artikel weiterlesen mit SPIEGEL+
+
+Sie haben bereits ein Digital-Abo? Zum Login
+
+Nur für Neukunden
+
+€ 1,– für 4 Wochen danach € 5,99 pro Woche
+
+Freier Zugriff auf alle S+-Artikel auf SPIEGEL.de und in der App
+
+Wöchentlich die digitale Ausgabe des SPIEGEL inkl. E-Paper (PDF), Digital-Archiv und S+-Newsletter
+
+Jederzeit kündigen
+
+Jetzt abonnieren
+
+52 Wochen 25 % sparen
+
+€ 4,49 pro Woche für 52 Wochen danach € 5,99 pro Woche
+
+Freier Zugriff auf alle S+-Artikel auf SPIEGEL.de und in der App
+
+Wöchentlich die digitale Ausgabe des SPIEGEL inkl. E-Paper (PDF), Digital-Archiv und S+-Newsletter
+
+52 Wochen rabattierte Laufzeit
+
+Jetzt abonnieren
+
+Sie haben bereits ein Print-Abo? Hier rabattiert Digital-Zugang bestellen
+
+{ this.isMonthlyProductLoading = false; }, 3000);}if (this.isAnnualProductLoading) {window.setTimeout(() = { this.isAnnualProductLoading = false; }, 3000);}}},}" x-effect="if ((monthlyIntroductoryProduct?.isReady && monthlyIntroductoryProduct?.isEligible) || (monthlyIntroductoryProduct?.isReady && monthlyDefaultProduct?.isReady)) {isMonthlyProductLoading = false;}if ((annualIntroductoryProduct?.isReady && annualIntroductoryProduct?.isEligible) || (annualIntroductoryProduct?.isReady && annualDefaultProduct?.isReady)) {isAnnualProductLoading = false;}"
+
+### Jetzt Artikel freischalten:
+
+Sie haben bereits ein Digital-Abo? Zum Login
+
+Monatsabo Preis wird geladen...
+
+Zugang zu allen Artikeln in der App und auf SPIEGEL.de
+
+Wöchentliche Ausgabe des SPIEGEL als E-Paper
+
+Jederzeit kündbar
+
+Jetzt abonnieren
+
+Jahresabo Preis wird geladen
+
+Zugang zu allen Artikeln in der App und auf SPIEGEL.de
+
+Wöchentliche Ausgabe des SPIEGEL als E-Paper
+
+Jederzeit kündbar
+
+Jetzt abonnieren
+
+iTunes-Abo wiederherstellen
+
+SPIEGEL+ wird über Ihren iTunes-Account abgewickelt und mit Kaufbestätigung bezahlt. 24 Stunden vor Ablauf verlängert sich das Abo automatisch um einen Monat zum Preis von zurzeit ¤ ein Jahr zum Preis von zurzeit ¤. In den Einstellungen Ihres iTunes-Accounts können Sie das Abo jederzeit kündigen. Um SPIEGEL+ außerhalb dieser App zu nutzen, müssen Sie das Abo direkt nach dem Kauf mit einem SPIEGEL-ID-Konto verknüpfen. Mit dem Kauf akzeptieren Sie unsere Allgemeinen Geschäftsbedingungen und Datenschutzerklärung.
+
+{if (response.status !== 200) {throw new Error(`smartfeed init - failed to fetch prototypes, URL: ${response.url}`);}response.text().then((result) = {const containerElement = document.createElement('template');containerElement.innerHTML = result;const templates = containerElement.content.querySelectorAll('template');templates.forEach((template) = {if (template.id === 'svg-sources') {const svgSourcesContainerElement = document.body.querySelector('[data-el=svgSources]');if (svgSourcesContainerElement instanceof Element) {const prototypesvgSources = template.content.querySelectorAll('svg[id]');prototypesvgSources.forEach((prototypeFooterSvg) = {if (prototypeFooterSvg.id && !svgSourcesContainerElement.querySelector(`#${prototypeFooterSvg.id}`)) {svgSourcesContainerElement.append(prototypeFooterSvg);}});}return;}document.body.append(template);});this.prototypesInitialized = true;}).catch((error) = { console.error(`smartfeed init - failed to parse prototypes, URL: ${response.url}`); });}).catch((error) = { console.error(error.message); });},async getTeasersFromSmartfeedAPI(block) {let teasers;const payload = {sortBy: block?.sortBy || 'newest',pageSize: block?.pageSize || 10,};if (block?.type === 'channel' && block.channel) {payload.channel = block.channel;if (block.subchannel && payload.sortBy === 'newest') {payload.subchannel = block.subchannel;}try {teasers = await $smartfeedAPI.getTeasersByChannel(payload);} catch (e) {return [];}} else if (block?.type === 'domain' && block.domain) {payload.domain = block.domain;try {teasers = await $smartfeedAPI.getTeasersByDomain(payload);} catch (e) {return [];}} else if (block?.type === 'style' && block.style) {payload.style = block.style;try {teasers = await $smartfeedAPI.getTeasersByStyle(payload);} catch (e) {return [];}} else {return [];}if (!Array.isArray(teasers)) {return [];}if (Number.isInteger(block.maxAge)) {teasers = teasers.filter((teaser) = {return !teaser.time || teaser.time 1773820000 - block.maxAge;});}if (teasers.length === 0) {return [];}const breakpoint = $store.MediaQuery?.breakpoint ? $store.MediaQuery.breakpoint : 'lg';const teaserLayouts = Array.isArray(block?.teaserLayouts?.[breakpoint]) ? block.teaserLayouts[breakpoint] : [];const teaserCount = teaserLayouts.length 0 ? teaserLayouts.length : 3;const filteredTeasers = teasers.filter((teaser) = teaser.id && !this.consumedArticleIds.includes(teaser.id));teasers = filteredTeasers.length {teaser.layout = teaserLayouts[teaserIndex] ? teaserLayouts[teaserIndex] : 'm';teaser.pos = `${block.index + 1}:${teaserIndex + 1}`;if (teaser.id) {this.consumedArticleIds.push(teaser.id);}});return teasers;},async getTeasersFromRECOService(block) {if (!$store.User.isLoggedIn || !$store.User.recommendations?.smartfeed) {return null;};await $waitForCustomVendorConsents();const recommendationsPurposeId = $store.User.hasNoAdsAccess ? '64bf9cc6b4a67c0535f66213' : '655f1ab47129a00595f31a65';if (!$arePurposeIdsVerified([recommendationsPurposeId])) {return null;}let recoResponse;try {recoResponse = await $RECO.getRecommendedArticles(type='smartfeed');} catch (e) {return null;}if (!Array.isArray(recoResponse?.articleIds) || recoResponse.articleIds.length === 0) {return null;}let articleIds = recoResponse.articleIds;const runId = recoResponse.runId;const createdAt = recoResponse.createdAt ?? undefined;const breakpoint = $store.MediaQuery?.breakpoint ? $store.MediaQuery.breakpoint : 'lg';const teaserLayouts = Array.isArray(block?.teaserLayouts?.[breakpoint]) ? block.teaserLayouts[breakpoint] : [];const teaserCount = teaserLayouts.length 0 ? teaserLayouts.length : 3;const filteredArticleIds = articleIds.filter((articleId) = !this.consumedArticleIds.includes(articleId));articleIds = filteredArticleIds.length {teaser.layout = teaserLayouts[teaserIndex] ? teaserLayouts[teaserIndex] : 'm';teaser.pos = `${block.index + 1}:${teaserIndex + 1}`;});return {teasers,runId,createdAt,};},}" x-lazyload data-area="smartfeed"
+
+### Mehr lesen über
+
+Commerzbank UniCredit Bank Austria Friedrich Merz Banken
+
+UniCredit-Chef Andrea Orcel: Wird er bald die Commerzbank beherrschen?
+
+Foto:
+
+Nick Zonna / ZUMA Press / picture alliance

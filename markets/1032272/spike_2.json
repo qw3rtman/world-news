@@ -1,0 +1,65 @@
+{
+  "spike_index": 2,
+  "direction": "down",
+  "price_before": 0.794,
+  "price_after": 0.6295,
+  "delta": -0.1645000000000001,
+  "abs_delta": 0.1645000000000001,
+  "timestamp_before": "2026-02-25T00:00:26+00:00",
+  "timestamp_after": "2026-02-25T02:00:35+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "http://uk.mobile.reuters.com/world/asia-pacific/jp-morgan-raises-long-term-gold-price-forecast-4500-2026-02-25/",
+      "file": "81850ede5b91.txt",
+      "title": "JP Morgan raises long-term gold price forecast to $4,500 | Reuters",
+      "published_date": "2026-02-25T00:00:00.000Z",
+      "author": null,
+      "text_length": 1432,
+      "status": "ok",
+      "num_tokens": 326
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-where-are-gold-rates-headed-on-february-24-2026-and-in-the-near-term-mcx-gold-silver-prices/articleshow/128741684.cms",
+      "file": "9f1eb66ef340.txt",
+      "title": "Gold price prediction today: Will gold prices continue their uptrend? - The Times of India",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /   Feb 24, 2026, 11:21 IST",
+      "text_length": 1310,
+      "status": "ok",
+      "num_tokens": 248
+    },
+    {
+      "url": "https://www.cbsnews.com/news/highest-gold-price-in-history-how-its-changed-from-2025-to-2026/?intcid=CNR-01-0623",
+      "file": "4e77d01a8279.txt",
+      "title": "What is the highest gold price in history? Here's how it's changed over the past year. - CBS News",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": null,
+      "text_length": 5725,
+      "status": "ok",
+      "num_tokens": 1164
+    },
+    {
+      "url": "https://www.cnbc.com/2026/02/25/gold-gains-on-softer-dollar-safehaven-bid-amid-us-tariff-uncertainty.html",
+      "file": "d3ae19dde859.txt",
+      "title": "Gold climbs as tariff and geopolitical risks spur safe\u2011haven demand",
+      "published_date": "2026-02-25T00:00:00.000Z",
+      "author": null,
+      "text_length": 2241,
+      "status": "ok",
+      "num_tokens": 505
+    },
+    {
+      "url": "http://www.reuters.com/world/india/gold-largely-flat-dollar-strength-keeps-pressure-prices-2026-02-25/",
+      "file": "1c5bec2bc66f.txt",
+      "title": "Gold climbs as tariff and geopolitical risks spur safe\u2011haven demand | Reuters",
+      "published_date": "2026-02-25T00:00:00.000Z",
+      "author": "Anmol Choubey",
+      "text_length": 2387,
+      "status": "ok",
+      "num_tokens": 550
+    }
+  ],
+  "total_tokens": 2793
+}

@@ -1,0 +1,65 @@
+{
+  "spike_index": 8,
+  "direction": "up",
+  "price_before": 0.175,
+  "price_after": 0.465,
+  "delta": 0.29000000000000004,
+  "abs_delta": 0.29000000000000004,
+  "timestamp_before": "2026-03-15T06:30:32+00:00",
+  "timestamp_after": "2026-03-16T06:00:33+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "http://www.reuters.com/business/finance/unicredit-launches-offer-own-more-than-30-commerzbank-without-taking-control-2026-03-16/",
+      "file": "bdb4b1434448.txt",
+      "title": "UniCredit makes low-ball Commerzbank offer in bid to secure talks | Reuters",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "Valentina Za",
+      "text_length": 5616,
+      "status": "ok",
+      "num_tokens": 1270
+    },
+    {
+      "url": "https://today.reuters.com/business/public-storage-acquire-national-storage-affiliates-all-stock-deal-2026-03-16/",
+      "file": "4eec15da952f.txt",
+      "title": "Public Storage to buy National Storage Affiliates in $10.5 billion deal | Reuters",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "Abhinav Parmar",
+      "text_length": 2489,
+      "status": "ok",
+      "num_tokens": 512
+    },
+    {
+      "url": "https://www.reuters.com/business/media-telecom/warner-bros-oscar-triumph-bittersweet-moment-paramount-deal-looms-2026-03-16/",
+      "file": "53758a900294.txt",
+      "title": "Warner Bros' Oscar triumph a bittersweet moment as Paramount deal looms | Reuters",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "Dawn Chmielewski",
+      "text_length": 3533,
+      "status": "ok",
+      "num_tokens": 775
+    },
+    {
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/unicredit-das-steckt-hinter-dem-uebernahmeangebot-fuer-die-commerzbank-a-9944e997-0156-4ba8-80c3-63092f28f4d5",
+      "file": "8f4789e456f4.txt",
+      "title": "Unicredit: Das steckt hinter dem \u00dcbernahmeangebot f\u00fcr die Commerzbank - DER SPIEGEL",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "Tim Bartz, DER SPIEGEL",
+      "text_length": 507,
+      "status": "ok",
+      "num_tokens": 142
+    },
+    {
+      "url": "https://www.wireless.reuters.com/sustainability/society-equity/glencore-raises-hope-reviving-rio-tinto-deal-coal-prices-turn-2026-03-13/",
+      "file": "1c3aceffd933.txt",
+      "title": "Exclusive: Glencore raises hope of reviving Rio Tinto deal as coal prices turn | Reuters",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": "Melanie Burton",
+      "text_length": 5469,
+      "status": "ok",
+      "num_tokens": 1238
+    }
+  ],
+  "total_tokens": 3937
+}

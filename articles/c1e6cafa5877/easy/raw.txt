@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2026, what was the total amount of funding that OpenAI received from Amazon, Nvidia, and SoftBank, and what pre-money valuation did this funding establish for the company?",
+    "a": "OpenAI received $110 billion in total funding, establishing a pre-money valuation of $730 billion."
+  },
+  {
+    "q": "As of March 2026, how much capital did Amazon commit to OpenAI compared to the individual commitments made by Nvidia and SoftBank in the same funding round?",
+    "a": "Amazon committed $50 billion, while Nvidia and SoftBank each committed $30 billion."
+  },
+  {
+    "q": "According to OpenAI co-founder and CEO Sam Altman in March 2026, how is Amazon’s $50 billion investment structured in terms of initial and subsequent payments?",
+    "a": "Amazon will start with an initial $15 billion investment and invest another $35 billion in the coming months under preset conditions."
+  },
+  {
+    "q": "In March 2026, what specific role was assigned to Amazon Web Services (AWS) in its expanded partnership with OpenAI regarding cloud distribution?",
+    "a": "Amazon Web Services was designated as the exclusive third-party cloud distribution provider for OpenAI Frontier."
+  },
+  {
+    "q": "As of March 2026, by what monetary amount and over what time period will OpenAI and Amazon expand their existing multiyear deal?",
+    "a": "The companies will expand their current deal by $100 billion over eight years."
+  },
+  {
+    "q": "What specific user metrics did OpenAI CEO Sam Altman cite in March 2026 to demonstrate the scale of ChatGPT's adoption?",
+    "a": "Altman stated that ChatGPT has more than 900 million weekly active users and more than 50 million consumer subscribers."
+  },
+  {
+    "q": "In March 2026, how did OpenAI characterize the impact of the new funding and partnerships on its relationship with Microsoft, which has been a partner since 2019?",
+    "a": "OpenAI stated that nothing about the funding or new partners announced in March 2026 changes the terms of its relationship with Microsoft."
+  },
+  {
+    "q": "What strategic mission did OpenAI CEO Sam Altman associate with the $110 billion funding round announced in March 2026?",
+    "a": "Altman linked the funding to the mission to ensure AGI benefits all of humanity by scaling infrastructure and turning capacity into products."
+  },
+  {
+    "q": "In March 2026, what type of models were OpenAI and Amazon planning to develop together for Amazon developers?",
+    "a": "They planned to partner on developing customized models available to Amazon developers to power Amazon's customer-facing applications."
+  },
+  {
+    "q": "Who led the trio of tech heavyweights providing the $110 billion funding to OpenAI in March 2026, and what was their specific contribution amount?",
+    "a": "Amazon led the trio with a commitment of $50 billion."
+  },
+  {
+    "q": "In March 2026, what did OpenAI CEO Sam Altman say about the phase frontier AI is entering, as described in his statement regarding the new funding?",
+    "a": "Altman said frontier AI is moving from research into daily use at global scale."
+  },
+  {
+    "q": "In March 2026, which two tech companies were identified as providing $30 billion each to OpenAI, following Amazon's larger commitment?",
+    "a": "Nvidia and SoftBank each provided $30 billion."
+  },
+  {
+    "q": "What was the stated purpose of the partnerships with Amazon, Nvidia, and SoftBank as described by OpenAI CEO Sam Altman in March 2026?",
+    "a": "The partnerships were intended to expand global reach, deepen infrastructure, and strengthen the balance sheet."
+  },
+  {
+    "q": "In March 2026, what condition did OpenAI place on the $35 billion portion of Amazon's investment?",
+    "a": "The $35 billion would be invested in the coming months under preset conditions."
+  },
+  {
+    "q": "In March 2026, which organization was named as the exclusive third-party cloud distribution provider for OpenAI Frontier in the expanded Amazon partnership?",
+    "a": "Amazon Web Services (AWS) was named the exclusive third-party cloud distribution provider."
+  },
+  {
+    "q": "In March 2026, what did OpenAI state regarding the continuity of its partnership with Microsoft despite the announcement of new investors?",
+    "a": "OpenAI stated that the partnership with Microsoft remains strong and central and that the terms have not changed."
+  },
+  {
+    "q": "In March 2026, what did OpenAI CEO Sam Altman identify as the defining factor for leadership in the new phase of frontier AI?",
+    "a": "Leadership will be defined by who can scale infrastructure fast enough to meet demand and turn that capacity into products people rely on."
+  },
+  {
+    "q": "In March 2026, what was the total value of the expansion agreed upon by OpenAI and Amazon for their multiyear deal over eight years?",
+    "a": "The expansion was valued at $100 billion."
+  },
+  {
+    "q": "In March 2026, which consumer metric did OpenAI CEO Sam Altman highlight to illustrate the widespread adoption of ChatGPT?",
+    "a": "Altman highlighted that there are more than 50 million consumer subscribers."
+  },
+  {
+    "q": "In March 2026, which three specific companies were credited with providing the $110 billion funding that valued OpenAI at $730 billion?",
+    "a": "The funding came from Amazon, Nvidia, and SoftBank."
+  },
+  {
+    "q": "In March 2026, what specific type of applications were the customized models developed by OpenAI and Amazon intended to power?",
+    "a": "The customized models were intended to power Amazon's customer-facing applications."
+  },
+  {
+    "q": "In March 2026, how did OpenAI CEO Sam Altman describe the global impact of bringing frontier AI to more people and businesses?",
+    "a": "He described it as expanding global reach, deepening infrastructure, and strengthening the balance sheet to bring frontier AI to more communities worldwide."
+  },
+  {
+    "q": "In March 2026, what was the initial investment amount Amazon committed to OpenAI before the subsequent $35 billion under preset conditions?",
+    "a": "The initial investment amount was $15 billion."
+  },
+  {
+    "q": "In March 2026, which company was explicitly stated by OpenAI to not have any changes to its partnership terms despite the new funding announcements?",
+    "a": "Microsoft was stated to have no changes to its partnership terms."
+  },
+  {
+    "q": "In March 2026, what was the weekly active user count for ChatGPT as reported by OpenAI CEO Sam Altman?",
+    "a": "ChatGPT had more than 900 million weekly active users."
+  }
+]

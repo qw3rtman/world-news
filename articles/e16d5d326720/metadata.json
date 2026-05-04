@@ -1,0 +1,47 @@
+{
+  "hash": "e16d5d326720",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cbsnews.com/amp/minnesota/news/minnesota-members-congress-guests-trump-state-of-union/",
+      "title": "Here's who members of Congress from Minnesota are bringing to Trump's State of the Union - CBS Minnesota",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1107,
+      "text_length": 5543
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1321388",
+      "spike_id": 2,
+      "market_question": "Will Nick Shirley attend the 2026 State of the Union address?",
+      "event_title": "Who will attend the State of the Union address?",
+      "spike_direction": "up",
+      "spike_delta": 0.265,
+      "spike_timestamp_before": "2026-02-23T17:00:28+00:00",
+      "spike_timestamp_after": "2026-02-24T00:30:24+00:00"
+    },
+    {
+      "market_id": "1321388",
+      "spike_id": 3,
+      "market_question": "Will Nick Shirley attend the 2026 State of the Union address?",
+      "event_title": "Who will attend the State of the Union address?",
+      "spike_direction": "up",
+      "spike_delta": 0.2705000000000001,
+      "spike_timestamp_before": "2026-02-23T17:00:28+00:00",
+      "spike_timestamp_after": "2026-02-24T07:00:30+00:00"
+    },
+    {
+      "market_id": "1321388",
+      "spike_id": 6,
+      "market_question": "Will Nick Shirley attend the 2026 State of the Union address?",
+      "event_title": "Who will attend the State of the Union address?",
+      "spike_direction": "up",
+      "spike_delta": 0.21450000000000002,
+      "spike_timestamp_before": "2026-02-25T11:30:30+00:00",
+      "spike_timestamp_after": "2026-02-26T11:00:26+00:00"
+    }
+  ]
+}

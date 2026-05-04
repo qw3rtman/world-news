@@ -1,0 +1,37 @@
+{
+  "hash": "38cea31b8ff4",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk",
+      "title": "Why the US and Israel attacked Iran; what we know so far | CNN",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Christian Edwards, Karina Tsui, Mitchell McCluskey",
+      "num_tokens": 2410,
+      "text_length": 11503
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1169205",
+      "spike_id": 1,
+      "market_question": "Iran Strike on Israel by February 28?",
+      "event_title": "Iran Strike on Israel by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.9395,
+      "spike_timestamp_before": "2026-02-27T09:30:31+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:06+00:00"
+    },
+    {
+      "market_id": "1169205",
+      "spike_id": 2,
+      "market_question": "Iran Strike on Israel by February 28?",
+      "event_title": "Iran Strike on Israel by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.9390000000000001,
+      "spike_timestamp_before": "2026-02-28T05:00:32+00:00",
+      "spike_timestamp_after": "2026-02-28T23:30:34+00:00"
+    }
+  ]
+}

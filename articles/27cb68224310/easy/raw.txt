@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the social media post published on Sunday, March 1, 2026, what specific action did Israeli Prime Minister Benjamin Netanyahu urge the citizens of Iran to take regarding their government?",
+    "a": "He urged them to take to the streets and topple the government."
+  },
+  {
+    "q": "Regarding the events reported on March 1, 2026, what vow did Iranian President Masoud Pezeshkian make in response to the killing of the country's supreme leader?",
+    "a": "He vowed revenge for the killing of the supreme leader."
+  },
+  {
+    "q": "What language was used in the social media post by Israeli Prime Minister Benjamin Netanyahu on Sunday, March 1, 2026, to address the people of Iran?",
+    "a": "The post was written in Persian."
+  },
+  {
+    "q": "On March 1, 2026, which two high-ranking political figures were involved in a public exchange involving calls for regime change and vows of revenge?",
+    "a": "Israeli Prime Minister Benjamin Netanyahu and Iranian President Masoud Pezeshkian."
+  },
+  {
+    "q": "What specific event involving Iran's supreme leader prompted Iranian President Masoud Pezeshkian to vow revenge on March 1, 2026?",
+    "a": "The killing of the country's supreme leader."
+  },
+  {
+    "q": "On which day of the week did Israeli Prime Minister Benjamin Netanyahu publish his Persian-language social media post urging Iranians to overthrow their government?",
+    "a": "Sunday."
+  },
+  {
+    "q": "What was the dual nature of the diplomatic tension reported on March 1, 2026, involving Israeli Prime Minister Benjamin Netanyahu and Iranian President Masoud Pezeshkian?",
+    "a": "Netanyahu urged Iranians to overthrow their government, while President Pezeshkian vowed revenge for the killing of Iran's supreme leader."
+  },
+  {
+    "q": "Who was the Iranian official that vowed revenge for the killing of the supreme leader on March 1, 2026?",
+    "a": "Iranian President Masoud Pezeshkian."
+  },
+  {
+    "q": "What was the title of the Israeli official who urged Iranians to take to the streets on Sunday, March 1, 2026?",
+    "a": "Israeli Prime Minister."
+  },
+  {
+    "q": "In the context of the March 1, 2026 report, what was the specific target of the government that Israeli Prime Minister Benjamin Netanyahu urged Iranians to topple?",
+    "a": "The government of Iran."
+  },
+  {
+    "q": "What was the stated motivation for Iranian President Masoud Pezeshkian's vow of revenge on March 1, 2026?",
+    "a": "The killing of the country's supreme leader."
+  },
+  {
+    "q": "Which two countries' leaders were featured in the March 1, 2026 report regarding regime change and revenge?",
+    "a": "Israel and Iran."
+  },
+  {
+    "q": "What method did Israeli Prime Minister Benjamin Netanyahu use to urge Iranians to overthrow their government on Sunday, March 1, 2026?",
+    "a": "A Persian-language social media post."
+  },
+  {
+    "q": "Who is the supreme leader of Iran whose killing prompted Iranian President Masoud Pezeshkian to vow revenge on March 1, 2026?",
+    "a": "The country's supreme leader (specific identity not named in text, but referred to as the supreme leader)."
+  },
+  {
+    "q": "What was the specific call to action issued by Israeli Prime Minister Benjamin Netanyahu to the citizens of Iran on Sunday, March 1, 2026?",
+    "a": "To take to the streets and topple the government."
+  },
+  {
+    "q": "On March 1, 2026, which Iranian president responded to the killing of the supreme leader by vowing revenge?",
+    "a": "Masoud Pezeshkian."
+  },
+  {
+    "q": "What was the primary content of the social media post by Israeli Prime Minister Benjamin Netanyahu on March 1, 2026?",
+    "a": "Urging Iranians to take to the streets and topple the government."
+  },
+  {
+    "q": "In the March 1, 2026 report, what was the reciprocal nature of the statements made by Israeli Prime Minister Benjamin Netanyahu and Iranian President Masoud Pezeshkian?",
+    "a": "Netanyahu urged regime overthrow, while Pezeshkian vowed revenge for the supreme leader's killing."
+  },
+  {
+    "q": "What specific language was utilized in the social media post by Israeli Prime Minister Benjamin Netanyahu on Sunday, March 1, 2026?",
+    "a": "Persian."
+  },
+  {
+    "q": "Which Iranian political position did Masoud Pezeshkian hold when he vowed revenge for the killing of the supreme leader on March 1, 2026?",
+    "a": "President."
+  },
+  {
+    "q": "What event involving Iran's supreme leader occurred prior to Iranian President Masoud Pezeshkian's vow of revenge on March 1, 2026?",
+    "a": "The killing of the supreme leader."
+  },
+  {
+    "q": "Who was the Israeli Prime Minister that urged Iranians to overthrow their government on Sunday, March 1, 2026?",
+    "a": "Benjamin Netanyahu."
+  },
+  {
+    "q": "What was the specific date of the report detailing Israeli Prime Minister Benjamin Netanyahu's urging of Iranians and Iranian President Masoud Pezeshkian's vow of revenge?",
+    "a": "March 1, 2026."
+  },
+  {
+    "q": "In the March 1, 2026 report, what was the specific group that Israeli Prime Minister Benjamin Netanyahu urged to take to the streets?",
+    "a": "Iranians."
+  },
+  {
+    "q": "What was the specific outcome of the killing of Iran's supreme leader, as stated by Iranian President Masoud Pezeshkian on March 1, 2026?",
+    "a": "A vow of revenge."
+  }
+]

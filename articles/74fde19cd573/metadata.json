@@ -1,0 +1,47 @@
+{
+  "hash": "74fde19cd573",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.foxnews.com/politics/2028-buzz-builds-pritzker-draws-republican-challenger-showdown-illinois-governor",
+      "title": "GOP nomination all set in challenge to Democratic Gov. JB Pritzker of Illinois | Fox News",
+      "published_date": "2026-03-17T17:18:37.274Z",
+      "author": null,
+      "num_tokens": 454,
+      "text_length": 2204
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "562007",
+      "spike_id": 1,
+      "market_question": "Will Joe Kent win the 2028 Republican presidential nomination?",
+      "event_title": "Republican Presidential Nominee 2028",
+      "spike_direction": "down",
+      "spike_delta": -0.4765,
+      "spike_timestamp_before": "2026-03-17T23:00:37+00:00",
+      "spike_timestamp_after": "2026-03-18T00:30:39+00:00"
+    },
+    {
+      "market_id": "562007",
+      "spike_id": 2,
+      "market_question": "Will Joe Kent win the 2028 Republican presidential nomination?",
+      "event_title": "Republican Presidential Nominee 2028",
+      "spike_direction": "down",
+      "spike_delta": -0.4775,
+      "spike_timestamp_before": "2026-03-17T23:00:37+00:00",
+      "spike_timestamp_after": "2026-03-18T04:30:39+00:00"
+    },
+    {
+      "market_id": "562007",
+      "spike_id": 3,
+      "market_question": "Will Joe Kent win the 2028 Republican presidential nomination?",
+      "event_title": "Republican Presidential Nominee 2028",
+      "spike_direction": "down",
+      "spike_delta": -0.4795,
+      "spike_timestamp_before": "2026-03-17T23:00:37+00:00",
+      "spike_timestamp_after": "2026-03-18T09:30:38+00:00"
+    }
+  ]
+}

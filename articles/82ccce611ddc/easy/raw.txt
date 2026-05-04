@@ -1,0 +1,106 @@
+[
+  {
+    "q": "On March 10, 2026, what did White House Press Secretary Karoline Leavitt state regarding the U.S. Navy's escorting of commercial ships through the Strait of Hormuz?",
+    "a": "She stated that the U.S. military had not yet escorted any commercial ships through the Strait of Hormuz."
+  },
+  {
+    "q": "Which U.S. official deleted a post on X on March 10, 2026, after claiming the U.S. Navy had successfully escorted an oil tanker through the Strait of Hormuz?",
+    "a": "U.S. Secretary of Energy Chris Wright."
+  },
+  {
+    "q": "According to the article, what percentage of global oil and liquefied natural gas normally passes through the Strait of Hormuz?",
+    "a": "A fifth (20%) of global oil and liquefied natural gas."
+  },
+  {
+    "q": "On March 3, 2026, what commitment did U.S. President Donald Trump make regarding the Strait of Hormuz?",
+    "a": "He said the U.S. would provide protection through the Strait for oil tankers."
+  },
+  {
+    "q": "What specific military targets did the Pentagon state it was striking on March 10, 2026, in relation to the Strait of Hormuz?",
+    "a": "Iranian mine-laying vessels and mine storage facilities."
+  },
+  {
+    "q": "How many Iranian mine-laying vessels did the U.S. military destroy near the Strait of Hormuz according to the article?",
+    "a": "At least 16."
+  },
+  {
+    "q": "Who is the spokesperson for Iran’s Revolutionary Guards who denied that an oil ship had been escorted through the Strait of Hormuz?",
+    "a": "Ali Mohammad Naini."
+  },
+  {
+    "q": "What threat did Ali Mohammad Naini issue regarding the movement of the U.S. fleet and its allies in the Strait of Hormuz?",
+    "a": "He stated that any movement would be stopped by Iranian missiles and drones."
+  },
+  {
+    "q": "Which U.S. general told reporters at the Pentagon that the military was looking at options to potentially escort ships through the Strait of Hormuz?",
+    "a": "General Dan Caine."
+  },
+  {
+    "q": "What action did West Asia oil producers take because they had run out of storage due to the conflict affecting the Strait of Hormuz?",
+    "a": "They stopped pumping oil."
+  },
+  {
+    "q": "On what date did the White House clarify that no commercial ships had been escorted through the Strait of Hormuz?",
+    "a": "March 10, 2026."
+  },
+  {
+    "q": "Which two countries are described as being in a war against Iran that has halted shipments through the Strait of Hormuz?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "What was the stated purpose of the alleged oil tanker escort by the U.S. Navy, according to the deleted post by Chris Wright?",
+    "a": "To ensure oil remains flowing to global markets."
+  },
+  {
+    "q": "What condition did the Pentagon renew threats against Iran on March 10, 2026, unless shipments could flow through the Strait of Hormuz?",
+    "a": "The Pentagon threatened to hit Iran harder."
+  },
+  {
+    "q": "Where did General Dan Caine make comments to reporters about looking at options for escorting ships through the Strait of Hormuz?",
+    "a": "At the Pentagon."
+  },
+  {
+    "q": "Which Iranian official's comments were carried by Iranian state media regarding the denial of the escorted oil ship?",
+    "a": "Ali Mohammad Naini."
+  },
+  {
+    "q": "What type of vessels did the U.S. military destroy near the Strait of Hormuz according to the March 10, 2026 report?",
+    "a": "Iranian mine-laying vessels."
+  },
+  {
+    "q": "Who is the White House Press Secretary who addressed reporters on March 10, 2026, about the Strait of Hormuz escort issue?",
+    "a": "Karoline Leavitt."
+  },
+  {
+    "q": "What specific waterway is the focus of the U.S. military operations and diplomatic statements described in the article?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "What happened to Chris Wright's post on X regarding the U.S. Navy escorting an oil tanker?",
+    "a": "He deleted the post for reasons that were unclear."
+  },
+  {
+    "q": "According to the article, what has the U.S.-Israel war effectively done to shipments through the Strait of Hormuz?",
+    "a": "It has effectively halted shipments through the Strait."
+  },
+  {
+    "q": "What did General Dan Caine say the U.S. military was doing regarding potential escorts through the Strait of Hormuz?",
+    "a": "Looking at a range of options."
+  },
+  {
+    "q": "Which organization did Ali Mohammad Naini represent when he made comments to Iranian state media?",
+    "a": "Iran’s Revolutionary Guards."
+  },
+  {
+    "q": "What did West Asia oil producers do after running out of storage due to the halted shipments through the Strait of Hormuz?",
+    "a": "They stopped pumping."
+  },
+  {
+    "q": "On what date did U.S. President Donald Trump announce that the U.S. would provide protection for oil tankers through the Strait of Hormuz?",
+    "a": "March 3, 2026."
+  },
+  {
+    "q": "What did the Pentagon state it was striking in addition to Iranian mine-laying vessels on March 10, 2026?",
+    "a": "Mine storage facilities."
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "hash": "f359e984f0c7",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://today.reuters.com/legal/litigation/paramount-says-us-antitrust-waiting-period-warner-bros-bid-has-expired-2026-02-20/",
+      "title": "Paramount says US antitrust waiting period on Warner Bros bid has expired | Reuters",
+      "published_date": "2026-02-20T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 466,
+      "text_length": 2171
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694939",
+      "spike_id": 1,
+      "market_question": "Will Ubisoft be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.16999999999999998,
+      "spike_timestamp_before": "2026-02-20T02:30:17+00:00",
+      "spike_timestamp_after": "2026-02-20T09:30:15+00:00"
+    }
+  ]
+}

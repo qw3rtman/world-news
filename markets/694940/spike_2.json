@@ -1,0 +1,65 @@
+{
+  "spike_index": 2,
+  "direction": "down",
+  "price_before": 0.34,
+  "price_after": 0.155,
+  "delta": -0.18500000000000003,
+  "abs_delta": 0.18500000000000003,
+  "timestamp_before": "2026-02-23T18:00:33+00:00",
+  "timestamp_after": "2026-02-24T02:00:18+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://origin.www.bloomberg.com/news/articles/2026-02-24/payments-processor-stripe-expresses-interest-in-paypal?srnd=undefined",
+      "file": "38301bdd433f.txt",
+      "title": "Stripe Considers Acquisition of All or Parts of PayPal (PYPL) - Bloomberg",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": "Ryan Gould",
+      "text_length": 636,
+      "status": "ok",
+      "num_tokens": 143
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/24/stripe-is-reportedly-eyeing-deal-to-buy-some-or-all-of-paypal",
+      "file": "e72d9740cee1.txt",
+      "title": "Stripe is reportedly eyeing deal to buy some or all of PayPal | TechCrunch",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": "Dominic-Madori Davis",
+      "text_length": 1307,
+      "status": "ok",
+      "num_tokens": 275
+    },
+    {
+      "url": "https://www.barrons.com/articles/paypal-stock-price-takeover-target-stripe-abf2a96f?gaa_at=eafs&gaa_n=AWEtsqe5pFLaHYc67XCDrnO8az13_TxbtBGLBbcIcwycnjnZDiIm-6meEblG&gaa_sig=FzPRrYdOkhc0mSUyrU1BW2hY5RJSsuGZrDjTVE4E7avEBymksfNcve8PAsShPsXBTO_YGba-YisxdmTYNo0xQA%3D%3D&gaa_ts=699e2743",
+      "file": "3155a8e80aa4.txt",
+      "title": "PayPal Is a Takeover Target. Who Might Buy It\u2014and What It Means for the Stock. <!-- --> - Barron's",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": "Nate Wolf",
+      "text_length": 460,
+      "status": "ok",
+      "num_tokens": 99
+    },
+    {
+      "url": "https://in.mobile.reuters.com/business/stripe-is-considering-acquisition-all-or-parts-paypal-bloomberg-news-reports-2026-02-24/",
+      "file": "68a66cf40ad3.txt",
+      "title": "Stripe is considering acquisition of all or parts of PayPal, Bloomberg News reports | Reuters",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": null,
+      "text_length": 2090,
+      "status": "ok",
+      "num_tokens": 397
+    },
+    {
+      "url": "https://leekuanyew.straitstimes.com/business/companies-markets/stripe-considering-acquisition-of-all-or-parts-of-paypal-sources",
+      "file": "12128093f3e5.txt",
+      "title": "Stripe considering acquisition of all or parts of PayPal: Sources | The Straits Times",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": null,
+      "text_length": 2163,
+      "status": "ok",
+      "num_tokens": 444
+    }
+  ],
+  "total_tokens": 1358
+}

@@ -1,0 +1,27 @@
+{
+  "hash": "ff1609c4e7e1",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/article/longbridge/show-idUSFWN3ZR19T",
+      "title": "Standard Chartered raises 2026 Brent forecasts following Middle East turmoil | Reuters",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 337,
+      "text_length": 1481
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1494703",
+      "spike_id": 1,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $200 by end of June?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.28500000000000003,
+      "spike_timestamp_before": "2026-03-03T23:00:25+00:00",
+      "spike_timestamp_after": "2026-03-03T23:30:23+00:00"
+    }
+  ]
+}

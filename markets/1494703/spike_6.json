@@ -1,0 +1,65 @@
+{
+  "spike_index": 6,
+  "direction": "down",
+  "price_before": 0.23,
+  "price_after": 0.075,
+  "delta": -0.15500000000000003,
+  "abs_delta": 0.15500000000000003,
+  "timestamp_before": "2026-03-09T02:00:18+00:00",
+  "timestamp_after": "2026-03-09T21:00:21+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/video/2026/03/09/each-day-of-iran-war-adds-to-oilas-upside-risk-see-oil-hitting-120-130-analyst.html",
+      "file": "09d08fbcc29b.txt",
+      "title": "Oil could $120-$130: Each day of Iran war adds to oil's upside risk",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "text_length": 367,
+      "status": "ok",
+      "num_tokens": 77
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/09/iran-war-updates-oil-brent-wti-crude-110-gulf-gcc-uae-iraq-saudi-arabia-kurds.html",
+      "file": "d94078001d9f.txt",
+      "title": "Iran updates: Oil pulls back after breaching $110 as G7 nations consider tapping reserves",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "Anniek Bao",
+      "text_length": 6395,
+      "status": "ok",
+      "num_tokens": 1258
+    },
+    {
+      "url": "http://us.cnn.com/2026/03/09/economy/oil-price-shock",
+      "file": "799b25a394fd.txt",
+      "title": "Oil prices surge above $100: This is the biggest oil disruption in history | CNN Business",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "David Goldman, Matt Egan",
+      "text_length": 4209,
+      "status": "ok",
+      "num_tokens": 906
+    },
+    {
+      "url": "http://us.cnn.com/2026/03/08/business/oil-prices-war-iran-trump",
+      "file": "fbb25f6feb4b.txt",
+      "title": "Oil prices soar past $100 a barrel as war escalates in Iran | CNN Business",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": "Auzinea Bacon, David Goldman",
+      "text_length": 4491,
+      "status": "ok",
+      "num_tokens": 953
+    },
+    {
+      "url": "https://www.scmp.com/business/china-business/article/3345952/oil-above-us100-may-persist-goldman-warns-rally-not-over?module=topic_widget&pgtype=article",
+      "file": "c7ec5adb552f.txt",
+      "title": "Oil above US$100 may persist as Goldman warns rally not over | South China Morning Post",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "text_length": 1393,
+      "status": "ok",
+      "num_tokens": 297
+    }
+  ],
+  "total_tokens": 3491
+}

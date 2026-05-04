@@ -1,0 +1,27 @@
+{
+  "hash": "c87a109d7149",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/middle-east/irans-shiite-allies-step-up-strikes-despite-weakened-hand-2026-03-12/",
+      "title": "Iran's Shi'ite allies step up strikes despite weakened hand | Reuters",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": "Laila Bassam",
+      "num_tokens": 1584,
+      "text_length": 7613
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1487679",
+      "spike_id": 14,
+      "market_question": "Houthi strike on Israel by March 15, 2026?",
+      "event_title": "Houthi strike on Israel by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.28,
+      "spike_timestamp_before": "2026-03-11T17:30:29+00:00",
+      "spike_timestamp_after": "2026-03-12T05:30:29+00:00"
+    }
+  ]
+}

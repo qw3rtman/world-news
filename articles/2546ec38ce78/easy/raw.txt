@@ -1,0 +1,102 @@
+[
+  {
+    "q": "What was the price of silver per ounce at 8:45 a.m. Eastern Time on February 26, 2026?",
+    "a": "$87.07"
+  },
+  {
+    "q": "How much did the price of silver decrease on February 26, 2026, compared to the previous day?",
+    "a": "$3.68"
+  },
+  {
+    "q": "By how much did the price of silver increase on February 26, 2026, compared to the same time last year?",
+    "a": "More than $55"
+  },
+  {
+    "q": "What specific time and time zone were used to report the silver price on February 26, 2026?",
+    "a": "8:45 a.m. Eastern Time"
+  },
+  {
+    "q": "What was the daily change in the price of silver on February 26, 2026?",
+    "a": "A drop of $3.68"
+  },
+  {
+    "q": "What was the year-over-year change in the price of silver as reported on February 26, 2026?",
+    "a": "An increase of more than $55 per ounce"
+  },
+  {
+    "q": "On February 26, 2026, what was the absolute price of silver per ounce?",
+    "a": "$87.07"
+  },
+  {
+    "q": "What was the price of silver per ounce on February 25, 2026, given that it dropped $3.68 on February 26, 2026?",
+    "a": "$90.75"
+  },
+  {
+    "q": "What commodity's price was reported at 8:45 a.m. Eastern Time on February 26, 2026?",
+    "a": "Silver"
+  },
+  {
+    "q": "Did the price of silver rise or fall on February 26, 2026, compared to the previous day?",
+    "a": "It fell"
+  },
+  {
+    "q": "Did the price of silver rise or fall on February 26, 2026, compared to the previous year?",
+    "a": "It rose"
+  },
+  {
+    "q": "What was the approximate price of silver per ounce on February 26, 2025, based on the February 26, 2026 report?",
+    "a": "Less than $32.07"
+  },
+  {
+    "q": "What is the difference between the year-over-year increase and the day-over-day decrease in silver prices on February 26, 2026?",
+    "a": "The year-over-year increase was more than $55, while the day-over-day decrease was $3.68"
+  },
+  {
+    "q": "What was the price of silver per ounce on February 26, 2026, in U.S. dollars?",
+    "a": "$87.07"
+  },
+  {
+    "q": "What was the previous day's silver price on February 25, 2026, if the price on February 26, 2026, was $87.07 after a $3.68 drop?",
+    "a": "$90.75"
+  },
+  {
+    "q": "What was the approximate previous year's silver price on February 26, 2025, if the price on February 26, 2026, was $87.07 with an increase of more than $55?",
+    "a": "Less than $32.07"
+  },
+  {
+    "q": "What time of day did the silver price report occur on February 26, 2026?",
+    "a": "8:45 a.m."
+  },
+  {
+    "q": "Which time zone was used for the silver price report on February 26, 2026?",
+    "a": "Eastern Time"
+  },
+  {
+    "q": "What was the magnitude of the daily price drop for silver on February 26, 2026?",
+    "a": "$3.68"
+  },
+  {
+    "q": "What was the magnitude of the annual price increase for silver on February 26, 2026?",
+    "a": "More than $55"
+  },
+  {
+    "q": "What was the silver price per ounce on February 26, 2026, before accounting for the daily drop?",
+    "a": "The price on February 26, 2026, was $87.07; the previous day's price was $90.75"
+  },
+  {
+    "q": "What was the silver price per ounce on February 26, 2026, before accounting for the annual increase?",
+    "a": "The price on February 26, 2026, was $87.07; the previous year's price was less than $32.07"
+  },
+  {
+    "q": "What was the net change in silver prices from February 25, 2026, to February 26, 2026?",
+    "a": "A decrease of $3.68"
+  },
+  {
+    "q": "What was the net change in silver prices from February 26, 2025, to February 26, 2026?",
+    "a": "An increase of more than $55"
+  },
+  {
+    "q": "What was the reported silver price per ounce on February 26, 2026, at 8:45 a.m. Eastern Time?",
+    "a": "$87.07"
+  }
+]

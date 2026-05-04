@@ -1,0 +1,97 @@
+{
+  "hash": "0d9d07b33df6",
+  "n_appearances": 8,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.bbc.com/news/articles/c3gdnpjvj4ko",
+      "title": "Ayatollah Ali Khamenei: Iran's defiant leader's grip on power ends",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 2287,
+      "text_length": 10801
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1117242",
+      "spike_id": 1,
+      "market_question": "Nothing Ever Happens: Khamenei",
+      "event_title": "Nothing Ever Happens: Khamenei",
+      "spike_direction": "down",
+      "spike_delta": -0.35,
+      "spike_timestamp_before": "2026-02-27T11:00:20+00:00",
+      "spike_timestamp_after": "2026-02-28T09:00:26+00:00"
+    },
+    {
+      "market_id": "1117242",
+      "spike_id": 2,
+      "market_question": "Nothing Ever Happens: Khamenei",
+      "event_title": "Nothing Ever Happens: Khamenei",
+      "spike_direction": "down",
+      "spike_delta": -0.5650000000000001,
+      "spike_timestamp_before": "2026-02-27T18:30:21+00:00",
+      "spike_timestamp_after": "2026-02-28T14:00:39+00:00"
+    },
+    {
+      "market_id": "1117242",
+      "spike_id": 3,
+      "market_question": "Nothing Ever Happens: Khamenei",
+      "event_title": "Nothing Ever Happens: Khamenei",
+      "spike_direction": "down",
+      "spike_delta": -0.605,
+      "spike_timestamp_before": "2026-02-27T18:30:21+00:00",
+      "spike_timestamp_after": "2026-02-28T17:00:33+00:00"
+    },
+    {
+      "market_id": "1117242",
+      "spike_id": 4,
+      "market_question": "Nothing Ever Happens: Khamenei",
+      "event_title": "Nothing Ever Happens: Khamenei",
+      "spike_direction": "down",
+      "spike_delta": -0.736,
+      "spike_timestamp_before": "2026-02-27T20:30:23+00:00",
+      "spike_timestamp_after": "2026-02-28T20:00:25+00:00"
+    },
+    {
+      "market_id": "1117242",
+      "spike_id": 5,
+      "market_question": "Nothing Ever Happens: Khamenei",
+      "event_title": "Nothing Ever Happens: Khamenei",
+      "spike_direction": "down",
+      "spike_delta": -0.7645000000000001,
+      "spike_timestamp_before": "2026-02-28T03:30:23+00:00",
+      "spike_timestamp_after": "2026-03-01T02:30:24+00:00"
+    },
+    {
+      "market_id": "958443",
+      "spike_id": 2,
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "event_title": "Will the Iranian regime fall by June 30?",
+      "spike_direction": "up",
+      "spike_delta": 0.245,
+      "spike_timestamp_before": "2026-02-28T06:00:25+00:00",
+      "spike_timestamp_after": "2026-02-28T14:30:22+00:00"
+    },
+    {
+      "market_id": "958443",
+      "spike_id": 3,
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "event_title": "Will the Iranian regime fall by June 30?",
+      "spike_direction": "up",
+      "spike_delta": 0.30500000000000005,
+      "spike_timestamp_before": "2026-02-28T06:00:25+00:00",
+      "spike_timestamp_after": "2026-02-28T20:00:22+00:00"
+    },
+    {
+      "market_id": "958443",
+      "spike_id": 4,
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "event_title": "Will the Iranian regime fall by June 30?",
+      "spike_direction": "up",
+      "spike_delta": 0.32999999999999996,
+      "spike_timestamp_before": "2026-02-28T06:00:25+00:00",
+      "spike_timestamp_after": "2026-02-28T22:30:21+00:00"
+    }
+  ]
+}

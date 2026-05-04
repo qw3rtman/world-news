@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2019, what did President Donald Trump state regarding the permanence of Daylight Saving Time on social media?",
+    "a": "He shared that he fully supported making Daylight Saving Time permanent."
+  },
+  {
+    "q": "During his first term, which U.S. President signed the Standard Time Act into law in March 1918 to initially introduce Daylight Saving Time for fuel conservation during World War I?",
+    "a": "President Woodrow Wilson."
+  },
+  {
+    "q": "What specific legislative act, signed into law by President Lyndon B. Johnson in 1966, established the Uniform Time Act and stipulates that only Congress or the Secretary of Transportation can change Daylight Saving Time rules?",
+    "a": "The Uniform Time Act of 1966."
+  },
+  {
+    "q": "In December 2024, what reason did President Donald Trump give for supporting the elimination of Daylight Saving Time in his post on X?",
+    "a": "He described it as inconvenient and very costly to the Nation."
+  },
+  {
+    "q": "Introduced by Rep. Greg Steube, R-Florida, in early February 2026, what is the name of the bill that proposes permanently adjusting American time by moving U.S. time zones forward 30 minutes?",
+    "a": "The Daylight Act of 2026."
+  },
+  {
+    "q": "In March 2025, how did President Donald Trump characterize Daylight Saving Time when asked about eliminating it, describing it as a \"50-50 issue\"?",
+    "a": "He said it is hard to get excited about because some people prefer more light later while others prefer more light earlier."
+  },
+  {
+    "q": "Which two U.S. Senators, Sheldon Whitehouse of Rhode Island and Rick Scott of Florida, reintroduced the bipartisan Sunshine Protection Act in January 2025 citing President Donald Trump as a supporter?",
+    "a": "U.S. Senators Sheldon Whitehouse and Rick Scott."
+  },
+  {
+    "q": "In April 2025, what did President Donald Trump encourage the House and Senate to push for on Twitter regarding daylight and clock changes?",
+    "a": "He encouraged them to push for more daylight at the end of a day and noted there should be no more changing of the clocks."
+  },
+  {
+    "q": "According to the National Institute of Standards and Technology, on which specific Sundays do Americans in most states and territories set their clocks forward and back for Daylight Saving Time?",
+    "a": "They set clocks forward on the second Sunday of March and back on the first Sunday of November."
+  },
+  {
+    "q": "Who is the USA TODAY reporter from Norfolk, Virginia, who authored the February 28, 2026, article titled \"Is Trump ending daylight saving time? See his stance on the issue\"?",
+    "a": "Saleen Martin."
+  },
+  {
+    "q": "In January 2025, what phrase did U.S. Senator Rick Scott use to express excitement about President Donald Trump being back in the White House regarding Daylight Saving Time?",
+    "a": "He expressed excitement to have Trump \"fully on board to LOCK THE CLOCK.\""
+  },
+  {
+    "q": "Introduced in 2018 by Sen. Marco Rubio, R-Florida, what bill was designed to amend the Uniform Time Act of 1966 to make Daylight Saving Time the permanent standard time?",
+    "a": "The Sunshine Protection Act."
+  },
+  {
+    "q": "According to the U.S. Department of War, what was the initial purpose for introducing Daylight Saving Time as a federal law in March 1918?",
+    "a": "To conserve fuel during World War I."
+  },
+  {
+    "q": "In a 2024 post, what did President Donald Trump say about the Republican Party's efforts regarding Daylight Saving Time?",
+    "a": "He stated the Republican Party would use its best efforts to eliminate Daylight Saving Time."
+  },
+  {
+    "q": "Which organization stated that Daylight Saving Time creates more sunlit hours in the evening during the warmest months of the year?",
+    "a": "The National Institute of Standards and Technology."
+  },
+  {
+    "q": "What specific change does the Daylight Act of 2026, introduced by Rep. Greg Steube, propose regarding U.S. time zones?",
+    "a": "It proposes moving U.S. time zones forward 30 minutes and leaving them there permanently."
+  },
+  {
+    "q": "In April 2025, how did President Donald Trump describe the cost of changing clocks for the U.S. government?",
+    "a": "He described it as \"A VERY COSTLY EVENT.\""
+  },
+  {
+    "q": "Who is the USA TODAY reporter contributing to the article who is noted as being from the 757 region of Norfolk, Virginia?",
+    "a": "Saleen Martin."
+  },
+  {
+    "q": "Which U.S. President signed the Standard Time Act in March 1918, marking the first time Daylight Saving Time became a federal law?",
+    "a": "President Woodrow Wilson."
+  },
+  {
+    "q": "What specific date range did the article cite for when most Americans would set their clocks forward to welcome Daylight Saving Time in the year following the February 28, 2026, publication?",
+    "a": "In just over a week from the publication date, specifically referring to the second Sunday of March."
+  },
+  {
+    "q": "Which two political parties were represented by the senators who reintroduced the bipartisan Sunshine Protection Act in January 2025?",
+    "a": "The Democratic Party (represented by Sheldon Whitehouse) and the Republican Party (represented by Rick Scott)."
+  },
+  {
+    "q": "What did President Donald Trump say in March 2025 about people's preferences regarding Daylight Saving Time and taking children to school?",
+    "a": "He said some people want more light earlier because they do not want to take their kids to school in the dark."
+  },
+  {
+    "q": "According to the article, who has the authority to change the Uniform Time Act of 1966?",
+    "a": "Only Congress or the Secretary of Transportation."
+  },
+  {
+    "q": "In December 2024, which social media platform did President Donald Trump use to write that Daylight Saving Time is inconvenient and costly?",
+    "a": "X."
+  },
+  {
+    "q": "What is the name of the bill introduced by Rep. Greg Steube, R-Florida, in early February 2026 that aims to permanently adjust American time?",
+    "a": "The Daylight Act of 2026."
+  }
+]

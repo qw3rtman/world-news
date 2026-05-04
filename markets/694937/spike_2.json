@@ -1,0 +1,65 @@
+{
+  "spike_index": 2,
+  "direction": "up",
+  "price_before": 0.185,
+  "price_after": 0.445,
+  "delta": 0.26,
+  "abs_delta": 0.26,
+  "timestamp_before": "2026-02-20T14:30:16+00:00",
+  "timestamp_after": "2026-02-20T16:00:20+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://reuters.com/legal/transactional/kkr-explores-15-billion-sale-bmc-helix-sources-say-2026-02-20/",
+      "file": "e0e6ae8ba6de.txt",
+      "title": "KKR explores $1.5 billion sale of BMC Helix, sources say | Reuters",
+      "published_date": "2026-02-20T00:00:00.000Z",
+      "author": "Milana Vinn",
+      "text_length": 1881,
+      "status": "ok",
+      "num_tokens": 370
+    },
+    {
+      "url": "https://uk.mobile.reuters.com/business/energy/whats-status-international-oil-companies-venezuela-2026-02-19/",
+      "file": "df0b0ac8f1da.txt",
+      "title": "What's the status of international oil companies in Venezuela? | Reuters",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": null,
+      "text_length": 6607,
+      "status": "ok",
+      "num_tokens": 1446
+    },
+    {
+      "url": "http://today.reuters.com/business/gunvor-management-buyout-values-trading-group-around-5-billion-sources-say-2026-02-19/",
+      "file": "271ad4978a13.txt",
+      "title": "Exclusive: Gunvor management buyout values trading group at around $5 billion, sources say | Reuters",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": "Dmitry Zhdannikov",
+      "text_length": 2938,
+      "status": "ok",
+      "num_tokens": 648
+    },
+    {
+      "url": "http://today.reuters.com/business/energy/shell-says-us-general-license-exploration-venezuela-will-allow-it-progress-with-2026-02-19/",
+      "file": "947458bee253.txt",
+      "title": "Shell says US general licenses for exploration in Venezuela will allow it to progress with Dragon natural gas project | Reuters",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": "Curtis Williams",
+      "text_length": 1598,
+      "status": "ok",
+      "num_tokens": 338
+    },
+    {
+      "url": "http://uk.mobile.reuters.com/business/energy/shell-says-us-general-license-exploration-venezuela-will-allow-it-progress-with-2026-02-19/",
+      "file": "72f1e6b11250.txt",
+      "title": "Shell says US general licenses for exploration in Venezuela will allow it to progress with Dragon natural gas project | Reuters",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": "Curtis Williams",
+      "text_length": 1577,
+      "status": "ok",
+      "num_tokens": 337
+    }
+  ],
+  "total_tokens": 3139
+}

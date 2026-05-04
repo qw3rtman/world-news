@@ -1,0 +1,27 @@
+{
+  "hash": "dd2b443dfe06",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.aljazeera.com/amp/news/2026/3/3/oman-calls-for-immediate-ceasefire-says-off-ramps",
+      "title": "Oman renews push for diplomacy, says ‘off-ramps available’ in Iran war | News | Al Jazeera",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "News Agencies",
+      "num_tokens": 550,
+      "text_length": 2560
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1466016",
+      "spike_id": 2,
+      "market_question": "US x Iran ceasefire by April 30?",
+      "event_title": "US x Iran ceasefire by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.15000000000000002,
+      "spike_timestamp_before": "2026-03-03T10:30:52+00:00",
+      "spike_timestamp_after": "2026-03-04T10:00:37+00:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "hash": "aead2a8aebac",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/business/another-oil-price-jump-further-pushes-out-fed-rate-cut-odds-2026-03-19/",
+      "title": "Another oil price jump further pushes out Fed rate-cut odds | Reuters",
+      "published_date": "2026-03-19T00:00:00.000Z",
+      "author": "Howard Schneider",
+      "num_tokens": 832,
+      "text_length": 4264
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1032343",
+      "spike_id": 30,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "up",
+      "spike_delta": 0.24650000000000005,
+      "spike_timestamp_before": "2026-03-18T09:30:25+00:00",
+      "spike_timestamp_after": "2026-03-19T09:00:43+00:00"
+    },
+    {
+      "market_id": "1032343",
+      "spike_id": 31,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "up",
+      "spike_delta": 0.26149999999999995,
+      "spike_timestamp_before": "2026-03-18T13:00:26+00:00",
+      "spike_timestamp_after": "2026-03-19T13:00:26+00:00"
+    }
+  ]
+}

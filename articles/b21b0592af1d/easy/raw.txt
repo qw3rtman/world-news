@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In early March 2026, what percentage of the world's oil and natural gas traverses the Strait of Hormuz, a waterway described as more dangerous than it has been for decades due to the conflict involving Iran?",
+    "a": "20 percent."
+  },
+  {
+    "q": "Following the United States and Israel attacks on February 28, 2026, which nation warned vessels not to travel through its side of the Strait of Hormuz and threatened to attack ships that attempted to do so?",
+    "a": "Iran."
+  },
+  {
+    "q": "By February 2024, by what percentage had container traffic in the Suez Canal plunged, a statistic cited in March 2026 to illustrate the potential impact of the Iran war on global shipping routes?",
+    "a": "82 percent."
+  },
+  {
+    "q": "In a March 2, 2026 LinkedIn post, Danish maritime expert Lars Jensen reported that approximately how many TEU of container vessel capacity were trapped inside the Persian Gulf?",
+    "a": "Approximately 200,000 TEU."
+  },
+  {
+    "q": "According to Danish maritime expert Lars Jensen's March 2, 2026 analysis, how many container vessels larger than 4000 TEU were trapped inside the Persian Gulf as of that date?",
+    "a": "17."
+  },
+  {
+    "q": "U.S. President Donald Trump stated in March 2026 that the conflict involving Iran might last for how many weeks?",
+    "a": "Four to five weeks."
+  },
+  {
+    "q": "On March 2, 2026, which U.S. official suggested that the war in Iran might last for two, four, or six weeks?",
+    "a": "Secretary of Defense Pete Hegseth."
+  },
+  {
+    "q": "In November 2023, Houthi rebels attacked which specific ship traversing the Red Sea, an event that began a series of attacks affecting maritime traffic?",
+    "a": "The Galaxy Leader."
+  },
+  {
+    "q": "Which two countries, alongside Iran, own land pipelines that transport oil and gas from the Persian Gulf, though these routes cannot handle the full volume of the Strait of Hormuz?",
+    "a": "Saudi Arabia and the United Arab Emirates."
+  },
+  {
+    "q": "How many vessels had been struck by missiles in the Strait of Hormuz area by early March 2026, according to the article's report on the conflict's impact?",
+    "a": "At least three."
+  },
+  {
+    "q": "In March 2026, Lars Jensen noted that the container capacity trapped in the Persian Gulf equaled approximately what percentage of the global container capacity being unavailable?",
+    "a": "0.6 percent."
+  },
+  {
+    "q": "Which organization, described as having spoken effectively to stall traffic in the Strait of Hormuz by imposing special conditions on dangerous waters, is primarily responsible for keeping ships away from the region in early March 2026?",
+    "a": "The insurance industry."
+  },
+  {
+    "q": "According to the March 2026 article, how much crude oil is stored onshore and on floating vessels in the region but is inaccessible to most countries and companies due to the Strait of Hormuz closure?",
+    "a": "More than 7 billion barrels."
+  },
+  {
+    "q": "Which country is located on one side of the Strait of Hormuz, with Oman on the other, and is the central actor in the March 2026 conflict causing shipping chaos?",
+    "a": "Iran."
+  },
+  {
+    "q": "In March 2026, who is the Danish maritime expert who posted on LinkedIn about the container vessels trapped in the Persian Gulf?",
+    "a": "Lars Jensen."
+  },
+  {
+    "q": "Who is the speaker quoted in the March 2026 article stating that war-risk insurance is usually a tiny part of a ship's transit cost, but the bigger impact is when ships simply do not sail?",
+    "a": "Cormac Mc Garry."
+  },
+  {
+    "q": "Which columnist and Atlantic Council senior fellow authored the March 3, 2026 Foreign Policy analysis titled \"Insurers Are Keeping Ships Away From the Strait of Hormuz\"?",
+    "a": "Elisabeth Braw."
+  },
+  {
+    "q": "In the context of the March 2026 Iran conflict, which waterway is described as having no other exit for the Persian Gulf, making rerouting impossible unlike the Red Sea and Suez Canal?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "According to the March 2026 article, which group of countries, noted for high standards of living but dependence on imports, faces the risk of food scarcity if the Strait of Hormuz remains near-shut for weeks?",
+    "a": "The Gulf states."
+  },
+  {
+    "q": "In late February 2026, which two nations conducted attacks that prompted Iran to issue warnings to vessels in the Strait of Hormuz?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "What specific measurement unit, corresponding to one regular-size container, did Lars Jensen use in his March 2, 2026 report to quantify the trapped vessel capacity in the Persian Gulf?",
+    "a": "TEU (Twenty-foot Equivalent Unit)."
+  },
+  {
+    "q": "Which entity, located on the other side of the Strait of Hormuz from Iran, shares the geographic boundary of the waterway that is effectively closed to shipping in March 2026?",
+    "a": "Oman."
+  },
+  {
+    "q": "According to Cormac Mc Garry in the March 2026 article, why is flying goods into Gulf states not a sufficient solution to the supply chain crisis caused by the Strait of Hormuz closure?",
+    "a": "Flying is currently unsafe in the region and can only transport goods in small quantities."
+  },
+  {
+    "q": "What specific type of insurance, which becomes more expensive and difficult to obtain during armed conflict, is preventing ships from entering the Strait of Hormuz in early March 2026?",
+    "a": "War-risk insurance."
+  },
+  {
+    "q": "In March 2026, the article states that the stability of the Strait of Hormuz ultimately depends on stability in which country, whose leadership was largely killed during the recent conflict?",
+    "a": "Iran."
+  }
+]

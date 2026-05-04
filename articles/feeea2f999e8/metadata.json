@@ -1,0 +1,27 @@
+{
+  "hash": "feeea2f999e8",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/03/18/fed-interest-rate-decision-march-2026.html",
+      "title": "Fed interest rate decision March 2026: Holds rates steady",
+      "published_date": "2026-03-18T00:00:00.000Z",
+      "author": "Jeff Cox",
+      "num_tokens": 1198,
+      "text_length": 5834
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "906974",
+      "spike_id": 3,
+      "market_question": "Will there be no change in Fed interest rates after the June 2026 meeting?",
+      "event_title": "Fed Decision in June?",
+      "spike_direction": "up",
+      "spike_delta": 0.25,
+      "spike_timestamp_before": "2026-03-18T00:30:32+00:00",
+      "spike_timestamp_after": "2026-03-18T22:00:35+00:00"
+    }
+  ]
+}

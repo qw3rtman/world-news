@@ -1,0 +1,27 @@
+{
+  "hash": "5e88df424af2",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://straitstimes.com/asia/se-asia/asean-calls-middle-east-escalation-regrettable-urges-ceasefire-after-us-israel-strike-on-iran",
+      "title": "ASEAN calls Middle East escalation ‘regrettable’, urges ceasefire after US-Israel strike on Iran | The Straits Times",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1389,
+      "text_length": 7330
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1466015",
+      "spike_id": 5,
+      "market_question": "US x Iran ceasefire by March 31?",
+      "event_title": "US x Iran ceasefire by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.16000000000000003,
+      "spike_timestamp_before": "2026-03-04T18:30:23+00:00",
+      "spike_timestamp_after": "2026-03-05T13:00:22+00:00"
+    }
+  ]
+}

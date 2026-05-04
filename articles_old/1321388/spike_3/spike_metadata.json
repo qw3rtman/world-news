@@ -1,0 +1,65 @@
+{
+  "spike_index": 3,
+  "direction": "up",
+  "price_before": 0.7,
+  "price_after": 0.9705,
+  "delta": 0.2705000000000001,
+  "abs_delta": 0.2705000000000001,
+  "timestamp_before": "2026-02-23T17:00:28+00:00",
+  "timestamp_after": "2026-02-24T07:00:30+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.cbsnews.com/minnesota/video/these-are-the-guests-the-minnesota-delegation-is-bringing-to-the-state-of-the-union/",
+      "file": "fc9bba4b92af.txt",
+      "title": "These are the guests the Minnesota delegation is bringing to the State of the Union - CBS Minnesota",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": null,
+      "text_length": 161,
+      "status": "ok",
+      "num_tokens": 38
+    },
+    {
+      "url": "https://www.cbsnews.com/amp/minnesota/news/minnesota-members-congress-guests-trump-state-of-union/",
+      "file": "e16d5d326720.txt",
+      "title": "Here's who members of Congress from Minnesota are bringing to Trump's State of the Union - CBS Minnesota",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": null,
+      "text_length": 5422,
+      "status": "ok",
+      "num_tokens": 1084
+    },
+    {
+      "url": "https://www.cbsnews.com/amp/chicago/news/illinois-guests-2026-state-of-the-union-address/",
+      "file": "0a13dabfcb9d.txt",
+      "title": "Who are some of the Illinois guests who will attend the 2026 State of the Union address? - CBS Chicago",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": "By\n                        \n              \n                   Chris  Tye",
+      "text_length": 3116,
+      "status": "ok",
+      "num_tokens": 660
+    },
+    {
+      "url": "https://www.cbsnews.com/minnesota/news/minnesota-members-congress-guests-trump-state-of-union/",
+      "file": "74d179ccff66.txt",
+      "title": "Here's who members of Congress from Minnesota brought to Trump's State of the Union - CBS Minnesota",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": null,
+      "text_length": 5255,
+      "status": "ok",
+      "num_tokens": 1050
+    },
+    {
+      "url": "https://cbsnews.com/news/who-sits-where-state-of-the-union-2026/",
+      "file": "4ed7011b49e2.txt",
+      "title": "Who sits where for the State of the Union? See the seating chart for the 2026 address - CBS News",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": null,
+      "text_length": 4059,
+      "status": "ok",
+      "num_tokens": 807
+    }
+  ],
+  "total_tokens": 3639
+}

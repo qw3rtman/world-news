@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In mid-March 2026, what specific military activity were soldiers of the Israel Defense Forces (IDF) undertaking on the border with Lebanon?",
+    "a": "They were massing and readying for a ground operation in Lebanese territory."
+  },
+  {
+    "q": "According to the March 16, 2026 report, how long ago had some Israeli soldiers previously entered the territory targeted for the new offensive?",
+    "a": "18 months ago."
+  },
+  {
+    "q": "What uncertainty did an unidentified source express to the Israel Defense Forces (IDF) regarding the potential outcome of the planned offensive into Lebanon in March 2026?",
+    "a": "They stated, 'We don't know how this ends.'"
+  },
+  {
+    "q": "Which two countries share the border where the Israel Defense Forces (IDF) were massing troops in March 2026?",
+    "a": "Israel and Lebanon."
+  },
+  {
+    "q": "What type of military operation was the Israel Defense Forces (IDF) preparing for in Lebanon as of March 2026?",
+    "a": "A ground operation."
+  },
+  {
+    "q": "In the context of the March 2026 Lebanon offensive preparations, what distinction is made about the soldiers' prior experience in the target territory?",
+    "a": "Some soldiers had only entered the territory 18 months prior to the new preparations."
+  },
+  {
+    "q": "Who is the author of the March 16, 2026 article titled 'IDF prepares for Lebanon offensive: ‘We don't know how this ends’'?",
+    "a": "Tom Ball."
+  },
+  {
+    "q": "What is the publication date of the news report detailing the Israel Defense Forces' (IDF) preparations for a Lebanon offensive?",
+    "a": "March 16, 2026."
+  },
+  {
+    "q": "What specific region was the Israel Defense Forces (IDF) preparing to enter with a ground operation in March 2026?",
+    "a": "Lebanon."
+  },
+  {
+    "q": "How many months prior to the March 2026 preparations had some IDF soldiers previously been in the Lebanese territory they were now targeting?",
+    "a": "18 months."
+  },
+  {
+    "q": "What rhetorical question or statement of uncertainty was attributed to the Israel Defense Forces (IDF) regarding the Lebanon offensive in March 2026?",
+    "a": "'We don't know how this ends.'"
+  },
+  {
+    "q": "In March 2026, what was the primary focus of the massing soldiers on the Israeli-Lebanese border?",
+    "a": "Readying for a ground operation in Lebanon."
+  },
+  {
+    "q": "What specific timeframe is cited in the March 2026 report for when some IDF soldiers last entered the Lebanese territory?",
+    "a": "18 months ago."
+  },
+  {
+    "q": "Which military organization was preparing for a ground offensive in Lebanon in March 2026, according to the article?",
+    "a": "The Israel Defense Forces (IDF)."
+  },
+  {
+    "q": "What was the stated level of certainty regarding the conclusion of the Lebanon offensive among IDF personnel in March 2026?",
+    "a": "Uncertainty, expressed as 'We don't know how this ends.'"
+  },
+  {
+    "q": "What geographical feature was the site of troop massing by the Israel Defense Forces (IDF) in March 2026?",
+    "a": "The Israeli-Lebanese border."
+  },
+  {
+    "q": "According to the March 2026 report, what was the nature of the military buildup on the Israeli-Lebanese border?",
+    "a": "Soldiers were massing in preparation for a ground operation."
+  },
+  {
+    "q": "What prior deployment history is highlighted for some soldiers involved in the March 2026 Lebanon offensive preparations?",
+    "a": "They had entered the territory only 18 months previously."
+  },
+  {
+    "q": "What is the title of the March 16, 2026 article discussing the Israel Defense Forces' (IDF) preparations for Lebanon?",
+    "a": "'IDF prepares for Lebanon offensive: ‘We don't know how this ends’'"
+  },
+  {
+    "q": "In March 2026, what specific type of military action was the Israel Defense Forces (IDF) preparing for in Lebanon?",
+    "a": "A ground operation."
+  },
+  {
+    "q": "What quote from the Israel Defense Forces (IDF) in March 2026 reflects uncertainty about the outcome of the Lebanon offensive?",
+    "a": "'We don't know how this ends.'"
+  },
+  {
+    "q": "How much time had passed since some IDF soldiers last entered the Lebanese territory targeted in the March 2026 offensive preparations?",
+    "a": "18 months."
+  },
+  {
+    "q": "Which two nations' border was the focus of the Israel Defense Forces' (IDF) troop massing in March 2026?",
+    "a": "Israel and Lebanon."
+  },
+  {
+    "q": "What was the primary objective of the soldiers massing on the Israeli-Lebanese border in March 2026?",
+    "a": "To ready for a ground operation in Lebanon."
+  },
+  {
+    "q": "What specific uncertainty was expressed by the Israel Defense Forces (IDF) regarding the Lebanon offensive in March 2026?",
+    "a": "That they 'don't know how this ends.'"
+  }
+]

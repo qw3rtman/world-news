@@ -1,0 +1,27 @@
+{
+  "hash": "d69fae2547aa",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://app.al-monitor.com/originals/2026/03/oil-output-exports-knocked-iran-conflict-prices-surge",
+      "title": "Oil output, exports knocked by Iran conflict as prices surge - AL-Monitor: The Middle Eastʼs leading independent news source since 2012",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 835,
+      "text_length": 3788
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1467765",
+      "spike_id": 1,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $110 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.395,
+      "spike_timestamp_before": "2026-02-28T19:30:31+00:00",
+      "spike_timestamp_after": "2026-02-28T21:30:57+00:00"
+    }
+  ]
+}

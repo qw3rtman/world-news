@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2026, which streaming service announced the acquisition of InterPositive, the AI startup founded by Ben Affleck?",
+    "a": "Netflix"
+  },
+  {
+    "q": "What specific role is Ben Affleck set to assume at Netflix following the March 2026 acquisition of his company InterPositive?",
+    "a": "Senior adviser"
+  },
+  {
+    "q": "How many engineers and researchers from Ben Affleck’s InterPositive are transferring to Netflix as part of the March 2026 acquisition deal?",
+    "a": "16"
+  },
+  {
+    "q": "In what year did Ben Affleck found the AI company InterPositive, according to his March 2026 statement regarding its acquisition by Netflix?",
+    "a": "2022"
+  },
+  {
+    "q": "Which two Netflix executives, including the chief technology officer Elizabeth Stone and head content officer Bela Bajaria, appeared in a video with Ben Affleck discussing InterPositive’s technology in March 2026?",
+    "a": "Elizabeth Stone and Bela Bajaria"
+  },
+  {
+    "q": "Unlike text-to-video AI models, what specific type of footage does Ben Affleck’s InterPositive technology ingest to create post-production assets?",
+    "a": "Dailies (raw footage from in-progress productions)"
+  },
+  {
+    "q": "According to Ben Affleck’s March 2026 statement, what did he feel a responsibility to protect regarding his peers and the film industry?",
+    "a": "The power of human creativity and the people behind it"
+  },
+  {
+    "q": "What specific visual element does Ben Affleck cite as an example of something InterPositive’s models can edit out of a shot?",
+    "a": "Stunt wires"
+  },
+  {
+    "q": "What is the primary training data source that allows InterPositive’s models to produce assets unique to a filmmaker’s vision, as described in the March 2026 acquisition announcement?",
+    "a": "Individual projects (specifically dailies)"
+  },
+  {
+    "q": "What specific production tasks does Ben Affleck state InterPositive’s customized models enable filmmakers to perform more effectively in the video with Netflix executives?",
+    "a": "Mix, color correct, and develop special effects"
+  },
+  {
+    "q": "Which major media company did Netflix lose a bidding war for, as mentioned in the context of the March 2026 acquisition of InterPositive?",
+    "a": "Warner Bros."
+  },
+  {
+    "q": "What specific workflow characteristic did Ben Affleck say he wanted InterPositive to capture regarding the language spoken by cinematographers and directors?",
+    "a": "The vocabulary that matched the language cinematographers and directors already spoke"
+  },
+  {
+    "q": "What two specific background manipulation tasks can InterPositive’s models perform, according to the March 2026 report?",
+    "a": "Reframe shots and manipulate backgrounds"
+  },
+  {
+    "q": "Who is the reporter from The Verge who authored the March 5, 2026 article about Netflix acquiring Ben Affleck’s AI startup?",
+    "a": "Charles Pulliam-Moore"
+  },
+  {
+    "q": "What specific reason did Ben Affleck give for joining Netflix as a senior adviser in March 2026, citing their history?",
+    "a": "Their history of applying and scaling technology responsibly"
+  },
+  {
+    "q": "What type of logistical burden does Ben Affleck say InterPositive’s technology helps actors avoid worrying about?",
+    "a": "Logistical, difficult, technical stuff"
+  },
+  {
+    "q": "Does Netflix plan to deploy InterPositive’s technology on its internally developed projects, as of the March 2026 announcement?",
+    "a": "Yes, though the specific timing and method have not yet been announced"
+  },
+  {
+    "q": "What specific industry did Ben Affleck observe the early rise of AI in, which inspired him to found InterPositive?",
+    "a": "Production (film and television production)"
+  },
+  {
+    "q": "What specific consistency and controls did Ben Affleck say InterPositive’s workflow was designed to include for directors and cinematographers?",
+    "a": "The kind of consistency and controls they would expect"
+  },
+  {
+    "q": "What specific limitation of existing AI tools did Ben Affleck cite in 2022 as a motivation for creating InterPositive?",
+    "a": "Many of the tools were lacking"
+  },
+  {
+    "q": "What specific outcome does Ben Affleck hope audiences will have regarding the use of AI in Netflix projects, according to the March 2026 article?",
+    "a": "Audiences not knowing or caring that they’re watching more films and series crafted with AI"
+  },
+  {
+    "q": "What specific type of assets does InterPositive create from ingested dailies, rather than generating visual outputs from text?",
+    "a": "Assets that can be incorporated into the post-production process"
+  },
+  {
+    "q": "Which specific group of people does Ben Affleck say InterPositive’s models are meant to help focus on their performances?",
+    "a": "Actors"
+  },
+  {
+    "q": "What specific characteristic of InterPositive’s models allows them to churn out useful assets, necessitating the need for humans?",
+    "a": "They need dailies"
+  },
+  {
+    "q": "In the March 2026 acquisition, what specific title does Ben Affleck hold at his former company InterPositive before moving to Netflix?",
+    "a": "Founder"
+  }
+]

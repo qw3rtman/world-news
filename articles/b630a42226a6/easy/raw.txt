@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the February 2026 jobs report released by the Bureau of Labor Statistics, what was the expected change in payrolls compared to the January 2026 gain?",
+    "a": "The February 2026 payroll gain was expected to be +60,000, which is lower than the January 2026 gain of 130,000."
+  },
+  {
+    "q": "What was the expected unemployment rate for February 2026 according to economists tracked by FactSet, and how did it compare to January 2026?",
+    "a": "The expected unemployment rate for February 2026 was 4.3%, which was the same as the rate in January 2026."
+  },
+  {
+    "q": "According to the February 2026 economic outlook, how would stable job conditions affect the Federal Reserve's likelihood of moving quickly on future interest rate cuts?",
+    "a": "Stable job conditions would signal that Federal Reserve policymakers are unlikely to move quickly on future interest rate cuts."
+  },
+  {
+    "q": "Which organization was responsible for releasing the February 2026 jobs report that economists tracked by FactSet were analyzing?",
+    "a": "The Bureau of Labor Statistics was responsible for releasing the February 2026 jobs report."
+  },
+  {
+    "q": "On which day of the week was the February 2026 jobs report scheduled to be released by the Bureau of Labor Statistics?",
+    "a": "The February 2026 jobs report was scheduled to be released on Friday morning."
+  },
+  {
+    "q": "What specific numerical payroll gain did economists tracked by FactSet expect for the January 2026 jobs report?",
+    "a": "Economists tracked by FactSet expected a payroll gain of 130,000 for January 2026."
+  },
+  {
+    "q": "How did the expected February 2026 payroll gain of 60,000 compare to the January 2026 payroll gain of 130,000?",
+    "a": "The expected February 2026 payroll gain of 60,000 was lower than the January 2026 gain of 130,000."
+  },
+  {
+    "q": "What was the relationship between the expected February 2026 unemployment rate and the January 2026 unemployment rate?",
+    "a": "The expected February 2026 unemployment rate of 4.3% was the same as the January 2026 unemployment rate."
+  },
+  {
+    "q": "According to the February 2026 economic data, what implication did stable job conditions have for Federal Reserve interest rate policy?",
+    "a": "Stable job conditions signaled that Federal Reserve policymakers were unlikely to move quickly on future interest rate cuts."
+  },
+  {
+    "q": "Which two months of 2026 were compared in the February jobs report regarding payroll gains and unemployment rates?",
+    "a": "The February 2026 jobs report compared data from February 2026 and January 2026."
+  },
+  {
+    "q": "What was the expected February 2026 payroll gain, and which organization's economists tracked this expectation?",
+    "a": "The expected February 2026 payroll gain was +60,000, tracked by economists tracked by FactSet."
+  },
+  {
+    "q": "How did the Bureau of Labor Statistics' February 2026 jobs report release timing relate to the day of the week?",
+    "a": "The Bureau of Labor Statistics released the February 2026 jobs report on Friday morning."
+  },
+  {
+    "q": "What was the specific unemployment rate figure for both January 2026 and February 2026 according to the FactSet-tracked expectations?",
+    "a": "The unemployment rate was 4.3% for both January 2026 and February 2026."
+  },
+  {
+    "q": "In the context of the February 2026 labor market, what was the expected payroll change and the corresponding impact on Federal Reserve rate cut expectations?",
+    "a": "The expected payroll change was +60,000, and stable conditions signaled unlikely quick moves on Federal Reserve interest rate cuts."
+  },
+  {
+    "q": "What was the difference in expected payroll gains between January 2026 and February 2026?",
+    "a": "The expected payroll gain decreased from 130,000 in January 2026 to 60,000 in February 2026."
+  },
+  {
+    "q": "Which economic indicator remained unchanged between January 2026 and February 2026 according to the FactSet-tracked expectations?",
+    "a": "The unemployment rate remained unchanged at 4.3% between January 2026 and February 2026."
+  },
+  {
+    "q": "What was the expected February 2026 payroll gain, and how did this stability affect Federal Reserve policymakers' potential actions?",
+    "a": "The expected February 2026 payroll gain was +60,000, and stable conditions signaled Federal Reserve policymakers were unlikely to move quickly on future interest rate cuts."
+  },
+  {
+    "q": "Who released the February 2026 jobs report, and what was the expected unemployment rate contained within it?",
+    "a": "The Bureau of Labor Statistics released the February 2026 jobs report, which had an expected unemployment rate of 4.3%."
+  },
+  {
+    "q": "How did the February 2026 payroll expectation of 60,000 compare to the January 2026 figure, and what was the unemployment rate for both months?",
+    "a": "The February 2026 payroll expectation of 60,000 was lower than January 2026's 130,000, and the unemployment rate was 4.3% for both months."
+  },
+  {
+    "q": "According to the February 2026 jobs report expectations, what was the significance of stable job conditions for Federal Reserve interest rate policy?",
+    "a": "Stable job conditions signaled that Federal Reserve policymakers were unlikely to move quickly on future interest rate cuts."
+  },
+  {
+    "q": "What were the specific payroll gain figures for January 2026 and February 2026, and which organization tracked these expectations?",
+    "a": "The payroll gain was 130,000 for January 2026 and 60,000 for February 2026, tracked by economists tracked by FactSet."
+  },
+  {
+    "q": "On what day was the February 2026 jobs report released, and what was the expected unemployment rate?",
+    "a": "The February 2026 jobs report was released on Friday morning, with an expected unemployment rate of 4.3%."
+  },
+  {
+    "q": "How did the February 2026 unemployment rate compare to January 2026, and what was the expected payroll change for February 2026?",
+    "a": "The February 2026 unemployment rate was the same as January 2026 at 4.3%, and the expected payroll change was +60,000."
+  },
+  {
+    "q": "What was the expected February 2026 payroll gain, and how did this compare to the January 2026 gain?",
+    "a": "The expected February 2026 payroll gain was +60,000, which was lower than the January 2026 gain of 130,000."
+  },
+  {
+    "q": "What was the expected unemployment rate for February 2026, and how did stable job conditions affect Federal Reserve interest rate cut expectations?",
+    "a": "The expected unemployment rate for February 2026 was 4.3%, and stable job conditions signaled Federal Reserve policymakers were unlikely to move quickly on future interest rate cuts."
+  }
+]

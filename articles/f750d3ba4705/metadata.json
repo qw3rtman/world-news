@@ -1,0 +1,47 @@
+{
+  "hash": "f750d3ba4705",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://text.npr.org/2026/02/28/nx-s1-5730158/israel-iran-strikes-trump-us",
+      "title": "Iran's supreme leader, Ayatollah Ali Khamenei, has been killed",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 2093,
+      "text_length": 10484
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1399066",
+      "spike_id": 1,
+      "market_question": "US strikes Iran by March 4, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.2,
+      "spike_timestamp_before": "2026-02-27T08:30:20+00:00",
+      "spike_timestamp_after": "2026-02-27T11:00:19+00:00"
+    },
+    {
+      "market_id": "1399066",
+      "spike_id": 2,
+      "market_question": "US strikes Iran by March 4, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.285,
+      "spike_timestamp_before": "2026-02-27T08:30:20+00:00",
+      "spike_timestamp_after": "2026-02-27T14:30:20+00:00"
+    },
+    {
+      "market_id": "1437691",
+      "spike_id": 3,
+      "market_question": "US strikes Iran by March 8, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.25,
+      "spike_timestamp_before": "2026-02-27T09:30:22+00:00",
+      "spike_timestamp_after": "2026-02-27T14:30:23+00:00"
+    }
+  ]
+}

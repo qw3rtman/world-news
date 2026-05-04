@@ -1,0 +1,65 @@
+{
+  "spike_index": 25,
+  "direction": "up",
+  "price_before": 0.511,
+  "price_after": 0.6905,
+  "delta": 0.1795,
+  "abs_delta": 0.1795,
+  "timestamp_before": "2026-03-12T11:30:33+00:00",
+  "timestamp_after": "2026-03-13T08:30:32+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2026/03/13/oil-100-price-brent-wti-trump-iran-war-surrender-khamenei.html",
+      "file": "cc3437d0913e.txt",
+      "title": "Oil above $100 as as market shrugs off U.S. measures to reduce prices",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": "Chloe Taylor,Spencer Kimball",
+      "text_length": 3570,
+      "status": "ok",
+      "num_tokens": 792
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/analysts-reassess-oil-price-estimates-iran-conflict-disrupts-markets-2026-03-23/",
+      "file": "29467df55a52.txt",
+      "title": "Analysts hike oil price outlooks as Iran conflict persists | Reuters",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": null,
+      "text_length": 1058,
+      "status": "ok",
+      "num_tokens": 249
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/13/oil-100-price-brent-wti-trump-iran-war-surrender-khamenei.html?__source=androidappshare",
+      "file": "f91e5fdfa94a.txt",
+      "title": "Oil above $100 as as market shrugs off U.S. measures to reduce prices",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": "Chloe Taylor,Spencer Kimball",
+      "text_length": 3774,
+      "status": "ok",
+      "num_tokens": 837
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/international-business/crude-above-100-how-countries-are-racing-to-streamline-oil-supplies-as-strait-of-hormuz-crisis-deepens/articleshow/129537026.cms",
+      "file": "3f789ca4e6a6.txt",
+      "title": "Crude Oil: Crude above $100: How countries are racing to streamline oil supplies as Strait of Hormuz crisis deepens - The Times of India",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /   Mar 13, 2026, 12:54 IST",
+      "text_length": 9887,
+      "status": "ok",
+      "num_tokens": 1878
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/12/oil-prices-jump-iea-record-reserve-release-markets-doubt-relief.html",
+      "file": "23ca3b2839b9.txt",
+      "title": "Brent oil hits $100 after Iran says Strait of Hormuz to remain closed",
+      "published_date": "2026-03-12T00:00:00.000Z",
+      "author": "Sam Meredith,Lee Ying Shan,Spencer Kimball",
+      "text_length": 3369,
+      "status": "ok",
+      "num_tokens": 713
+    }
+  ],
+  "total_tokens": 4469
+}

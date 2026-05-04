@@ -1,0 +1,47 @@
+{
+  "hash": "af7dcfd8df85",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://foreignpolicy.com/2026/02/25/trump-xi-china-taiwan-invasion-semiconductor-tariffs/?tpcc=recirc_trending062921",
+      "title": "Thanks to Trump, Xi Has Time on His Side With Taiwan",
+      "published_date": "2026-02-25T00:00:00.000Z",
+      "author": "Ali Wyne",
+      "num_tokens": 2266,
+      "text_length": 11409
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "604490",
+      "spike_id": 6,
+      "market_question": "Will Trump visit China by March 31?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.15749999999999997,
+      "spike_timestamp_before": "2026-02-24T05:30:19+00:00",
+      "spike_timestamp_after": "2026-02-24T09:30:17+00:00"
+    },
+    {
+      "market_id": "604490",
+      "spike_id": 7,
+      "market_question": "Will Trump visit China by March 31?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.16149999999999998,
+      "spike_timestamp_before": "2026-02-24T05:30:19+00:00",
+      "spike_timestamp_after": "2026-02-24T18:30:22+00:00"
+    },
+    {
+      "market_id": "604490",
+      "spike_id": 8,
+      "market_question": "Will Trump visit China by March 31?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.20999999999999996,
+      "spike_timestamp_before": "2026-02-24T05:30:19+00:00",
+      "spike_timestamp_after": "2026-02-24T22:30:18+00:00"
+    }
+  ]
+}

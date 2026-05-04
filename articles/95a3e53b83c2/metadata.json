@@ -1,0 +1,27 @@
+{
+  "hash": "95a3e53b83c2",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://quote.bloomberg.com/news/articles/2026-02-16/bulgarian-ex-president-radev-takes-lead-ahead-of-snap-election?srnd=homepage-europe",
+      "title": "Bloomberg UK",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 40,
+      "text_length": 191
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1223152",
+      "spike_id": 2,
+      "market_question": "Will António José Seguro win the second round by 20–30%?",
+      "event_title": "Portugal Presidential Election Margin of Victory: Second Round",
+      "spike_direction": "down",
+      "spike_delta": -0.494,
+      "spike_timestamp_before": "2026-02-23T04:00:19+00:00",
+      "spike_timestamp_after": "2026-02-23T14:00:16+00:00"
+    }
+  ]
+}

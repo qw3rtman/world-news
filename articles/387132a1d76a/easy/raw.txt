@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In early March 2026, by what percentage did gold prices slump according to the Bloomberg report published on March 2, 2026?",
+    "a": "More than 6%."
+  },
+  {
+    "q": "What specific currency movement weighed down gold prices in the days leading up to the March 2, 2026, Bloomberg report?",
+    "a": "A stronger U.S. dollar."
+  },
+  {
+    "q": "According to the March 2, 2026, Bloomberg report, what prospect regarding monetary policy contributed to the decline in gold prices?",
+    "a": "The prospect of less monetary easing."
+  },
+  {
+    "q": "What type of selling activity, tied to a broader market downturn, contributed to the gold slump reported on March 2, 2026?",
+    "a": "Forced selling tied to an equities rout."
+  },
+  {
+    "q": "Which geopolitical event was cited in the March 2, 2026, Bloomberg report as a factor in the escalating conflict affecting markets?",
+    "a": "The escalating Middle East conflict."
+  },
+  {
+    "q": "How did the U.S. dollar gauge perform during the week prior to the March 2, 2026, Bloomberg report?",
+    "a": "It rallied."
+  },
+  {
+    "q": "What happened to bond yields in the week leading up to the March 2, 2026, Bloomberg report?",
+    "a": "They advanced."
+  },
+  {
+    "q": "Which central bank's interest-rate cut expectations were scaled back by traders, contributing to market conditions reported on March 2, 2026?",
+    "a": "The U.S. Federal Reserve."
+  },
+  {
+    "q": "What specific risk from surging energy prices was cited in the March 2, 2026, Bloomberg report as potentially forcing central banks to hold or raise rates?",
+    "a": "Inflationary risks."
+  },
+  {
+    "q": "Which war was identified in the March 2, 2026, Bloomberg report as the driver behind surging energy prices and inflationary risks?",
+    "a": "The Iran war."
+  },
+  {
+    "q": "According to the March 2, 2026, Bloomberg report, what action might the U.S. Federal Reserve and its global peers be forced to take due to inflationary risks?",
+    "a": "Hold rates steady or even hike them."
+  },
+  {
+    "q": "What two factors, alongside the stronger dollar, contributed to the gold slump reported on March 2, 2026?",
+    "a": "The prospect of less monetary easing and forced selling tied to an equities rout."
+  },
+  {
+    "q": "In the context of the March 2, 2026, Bloomberg report, which global peers of the U.S. Federal Reserve were mentioned as potentially needing to adjust interest rates?",
+    "a": "Global peers of the U.S. Federal Reserve."
+  },
+  {
+    "q": "What market phenomenon was linked to forced selling that impacted gold prices in the report published on March 2, 2026?",
+    "a": "An equities rout."
+  },
+  {
+    "q": "According to the March 2, 2026, Bloomberg report, what was the primary driver of the stronger dollar gauge that week?",
+    "a": "Traders scaling back bets on the scope of interest-rate cuts by the U.S. Federal Reserve."
+  },
+  {
+    "q": "Which specific conflict escalation was noted in the March 2, 2026, Bloomberg report as increasing inflationary risks via energy prices?",
+    "a": "The intensifying Iran war."
+  },
+  {
+    "q": "What was the combined effect of the stronger dollar and bond yield advances on gold prices as reported on March 2, 2026?",
+    "a": "Gold slumped more than 6%."
+  },
+  {
+    "q": "According to the March 2, 2026, Bloomberg report, what potential interest rate actions by the U.S. Federal Reserve were suggested by inflationary risks?",
+    "a": "Holding rates steady or hiking them."
+  },
+  {
+    "q": "What specific type of selling pressure, associated with stock market declines, was cited in the March 2, 2026, Bloomberg report as weighing on gold?",
+    "a": "Forced selling."
+  },
+  {
+    "q": "In the March 2, 2026, Bloomberg report, what was the relationship between the Iran war and inflationary risks?",
+    "a": "The intensifying Iran war caused surging energy prices, which created inflationary risks."
+  },
+  {
+    "q": "What was the performance of the U.S. dollar gauge compared to bond yields in the week before the March 2, 2026, report?",
+    "a": "The U.S. dollar gauge rallied while bond yields advanced."
+  },
+  {
+    "q": "According to the March 2, 2026, Bloomberg report, what was the impact of traders scaling back bets on Federal Reserve interest-rate cuts?",
+    "a": "It contributed to a rally in the U.S. dollar gauge and advances in bond yields."
+  },
+  {
+    "q": "What was the specific percentage drop in gold prices mentioned in the March 2, 2026, Bloomberg report?",
+    "a": "More than 6%."
+  },
+  {
+    "q": "Which central bank's policy expectations were directly linked to the stronger dollar and bond yields in the March 2, 2026, report?",
+    "a": "The U.S. Federal Reserve."
+  },
+  {
+    "q": "According to the March 2, 2026, Bloomberg report, what was the potential consequence for global central banks due to inflationary risks from the Iran war?",
+    "a": "They might be forced to hold rates steady or hike them."
+  }
+]

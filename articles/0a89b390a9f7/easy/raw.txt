@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In March 2026, what specific gravity value did Viking Mines report for the element tungsten, and how did the company's managing director and chief executive officer Julian Woodcock compare this density to another precious metal?",
+    "a": "Tungsten has a specific gravity of 19.3, which is the same weight as gold."
+  },
+  {
+    "q": "During the week of March 6, 2026, what tungsten price per metric ton of APT did Viking Mines managing director and chief executive officer Julian Woodcock cite as a factor for advancing the Linka project in Nevada?",
+    "a": "US$1,850 per metric ton of APT."
+  },
+  {
+    "q": "As of March 2026, what is the specific gravity of scheelite, the principal tungsten mineral hosted in the metamorphic skarn-type rocks at Viking Mines' Linka tungsten project in Nevada?",
+    "a": "6.1."
+  },
+  {
+    "q": "In the geophysical surveys conducted at Viking Mines' Linka Main and Conquest prospects in Nevada by March 2026, what density threshold did mineralised zones typically exceed to create a sharp contrast with surrounding rocks?",
+    "a": "An SG of 3.5."
+  },
+  {
+    "q": "What type of geological formation typically forms by the chemical alteration of limestone or dolomite by high-temperature hydrothermal fluids from magma intrusions at the Linka tungsten project in Nevada?",
+    "a": "Skarn formations."
+  },
+  {
+    "q": "In the March 2026 geophysical data from Viking Mines' Linka project in Nevada, what rock type appeared magnetically quiet compared to the noisier response produced by volcanic rocks?",
+    "a": "Exposed limestones."
+  },
+  {
+    "q": "What specific intrusive rock body, possibly a quartz monzonite, was identified on the western side of the survey grid at Viking Mines' Linka project in Nevada in March 2026?",
+    "a": "A regional-scale intrusive body."
+  },
+  {
+    "q": "By combining gravity and magnetic datasets at Viking Mines' Linka project in Nevada in March 2026, how far did the company believe it could follow the mineralised corridor to a point where it sub-crops between Linka and Conquest?",
+    "a": "About 820 metres."
+  },
+  {
+    "q": "In March 2026, Viking Mines reported that the mineralised corridor at its Linka project in Nevada extends for an interpreted additional distance beneath the southwest volcanic blanket; what is that distance?",
+    "a": "800 metres."
+  },
+  {
+    "q": "What were the exact square kilometre measurements for the ground magnetics and detailed gravity surveying included in Viking Mines' phase one geophysical program at the Linka project in Nevada as of March 2026?",
+    "a": "2.2 square kilometres of ground magnetics and 0.5 square kilometres of detailed gravity surveying."
+  },
+  {
+    "q": "In March 2026, Viking Mines announced an expansion of its magnetic program at the Linka project in Nevada to cover an additional area to the west; what is the size of this expansion?",
+    "a": "2.8 square kilometres."
+  },
+  {
+    "q": "By how much will Viking Mines extend its gravity grid at the Linka project in Nevada in March 2026 to cover volcanic cover in search of underlying mineralised zones?",
+    "a": "0.35 square kilometres to the southwest."
+  },
+  {
+    "q": "What specific exploration tool did Viking Mines flag for a trial gradient array-induced polarisation (GAIP) survey over the northernmost Conquest mineralised zone in Nevada in March 2026?",
+    "a": "A fast, cost-effective exploration tool."
+  },
+  {
+    "q": "In the initial metallurgical tests reported by Viking Mines in March 2026, what percentage of tungsten trioxide concentrate was produced from a calculated 1.4 per cent tungsten trioxide feed using simple gravity separation?",
+    "a": "22.9 per cent."
+  },
+  {
+    "q": "What was the beneficiation ratio achieved in Viking Mines' early metallurgical tests at the Linka project in Nevada in March 2026, which produced a 22.9 per cent tungsten trioxide concentrate?",
+    "a": "16:1."
+  },
+  {
+    "q": "In March 2026, what rougher recovery percentage did Viking Mines report for the coarse grind in its initial metallurgical tests at the Linka project in Nevada?",
+    "a": "63.7 per cent."
+  },
+  {
+    "q": "What two distinct geological pathways or structures did Viking Mines identify in March 2026 data at the Linka project in Nevada that suggest important geological features beneath younger volcanic cover?",
+    "a": "Northeast-trending structures slicing across the interpreted intrusion."
+  },
+  {
+    "q": "At Viking Mines' Linka project in Nevada in March 2026, what specific contact-style mineralisation targets is the company targeting where the intrusive body abuts rocks with a lower magnetic signature?",
+    "a": "Zones where the intrusive body abuts limestones."
+  },
+  {
+    "q": "What specific anomalies did Viking Mines' phase one gravity data reveal across known mineralisation at the Linka Main and Conquest prospects in Nevada in March 2026?",
+    "a": "Coincident anomalies."
+  },
+  {
+    "q": "In March 2026, what did Viking Mines managing director and chief executive officer Julian Woodcock state the preliminary geophysical data indicated regarding the resolution of areas of increased density at the Linka project in Nevada?",
+    "a": "That the technique can resolve areas of increased density where gravity highs coincide with known mineralisation."
+  },
+  {
+    "q": "What two primary geophysical methods did Viking Mines use in phase one at the Linka tungsten project in Nevada in March 2026 to confirm anomalies over known tungsten-rich zones?",
+    "a": "Gravity and magnetic surveys."
+  },
+  {
+    "q": "In March 2026, what specific action did Viking Mines plan to take once phase two surveying at the Linka project in Nevada is complete to validate new targets?",
+    "a": "Get boots back on the ground to map and conduct rock-chip sampling."
+  },
+  {
+    "q": "What specific type of rocks host the principal tungsten mineral scheelite at Viking Mines' Linka project in Nevada, according to the March 2026 report?",
+    "a": "Dense, coarse-grained metamorphic skarn-type rocks."
+  },
+  {
+    "q": "In March 2026, what specific volcanic rock characteristic did Viking Mines' magnetic surveying help pinpoint by producing a noisier response compared to exposed limestones?",
+    "a": "Critical rock contacts."
+  },
+  {
+    "q": "What specific percentage of tungsten trioxide feed was used in the initial metallurgical tests reported by Viking Mines in March 2026 that resulted in a 22.9 per cent concentrate?",
+    "a": "1.4 per cent."
+  },
+  {
+    "q": "In March 2026, what specific geographic direction did Viking Mines plan to extend its gravity grid at the Linka project in Nevada to search for underlying mineralised zones beneath volcanic cover?",
+    "a": "Southwest."
+  }
+]

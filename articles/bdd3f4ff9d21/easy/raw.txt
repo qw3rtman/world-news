@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the dispute reported in February 2026 between Anthropic and the U.S. Department of Defense, what specific military applications did Anthropic CEO Dario Amodei state its safeguards were designed to prevent, according to a source familiar with the matter?",
+    "a": "Targeting weapons autonomously and conducting U.S. domestic surveillance."
+  },
+  {
+    "q": "During the February 2026 meeting between Anthropic CEO Dario Amodei and U.S. Defense Secretary Pete Hegseth, what two specific actions did Hegseth threaten to take if Anthropic did not comply with Pentagon demands?",
+    "a": "Labeling Anthropic as a supply-chain risk or invoking the Defense Production Act."
+  },
+  {
+    "q": "What deadline did the U.S. Department of Defense give Anthropic to respond to its ultimatum regarding AI usage restrictions, as reported in late February 2026?",
+    "a": "Friday at 5 p.m."
+  },
+  {
+    "q": "Which AI startup, besides Anthropic, did the Pentagon announce it had reached an agreement with in February 2026 to deploy its technology across classified networks?",
+    "a": "xAI."
+  },
+  {
+    "q": "According to the February 2026 report, which three large language model providers were noted as negotiating AI contracts with the Pentagon for battlefield applications?",
+    "a": "Alphabet's Google, xAI, and OpenAI."
+  },
+  {
+    "q": "What specific military operation in Venezuela prompted concerns from the Pentagon regarding Anthropic's AI products earlier in February 2026?",
+    "a": "The military raid that captured President Nicolas Maduro."
+  },
+  {
+    "q": "Who is the government contracts lawyer at McCarter & English who stated that adverse action against Anthropic would likely trigger downstream litigation in the February 2026 dispute?",
+    "a": "Franklin Turner."
+  },
+  {
+    "q": "In the February 2026 dispute, what specific determination is typically imposed on companies from foreign adversaries that Defense Secretary Pete Hegseth threatened to apply to Anthropic?",
+    "a": "Being deemed a supply-chain risk."
+  },
+  {
+    "q": "Which U.S. law did Pentagon officials indicate they might invoke to force Anthropic to change its usage rules during the February 2026 negotiations?",
+    "a": "The Defense Production Act."
+  },
+  {
+    "q": "According to a source familiar with the matter in February 2026, which two entities did Anthropic CEO Dario Amodei say he did not raise concerns with regarding the potential use of AI products during the Venezuela raid?",
+    "a": "Palantir and the Pentagon."
+  },
+  {
+    "q": "What was Anthropic's status as an AI provider on classified networks prior to the Pentagon's agreement with xAI in February 2026?",
+    "a": "It was the only LLM provider on classified networks."
+  },
+  {
+    "q": "Which U.S. Defense Secretary delivered an ultimatum to Anthropic CEO Dario Amodei in February 2026 regarding the company's AI usage restrictions?",
+    "a": "Pete Hegseth."
+  },
+  {
+    "q": "What did an Anthropic spokesperson state was the purpose of the good-faith conversations with the Pentagon in February 2026?",
+    "a": "To ensure Anthropic can continue to support the government's national security mission in line with what their models can reliably and responsibly do."
+  },
+  {
+    "q": "According to the February 2026 report, what types of battlefield applications are the Pentagon's AI contracts with providers like Google, xAI, and OpenAI intended to shape?",
+    "a": "Autonomous drone swarms, robots, and cyber attacks."
+  },
+  {
+    "q": "What argument did Pentagon officials make regarding the government's compliance obligations during the February 2026 dispute with Anthropic?",
+    "a": "The government should only be required to comply with U.S. law."
+  },
+  {
+    "q": "In the February 2026 dispute, what potential business consequence did Defense Secretary Pete Hegseth warn could upend Anthropic's business with other companies that do business with the U.S. government?",
+    "a": "Being deemed a supply-chain risk."
+  },
+  {
+    "q": "Which AI company did Reuters report in February 2026 as planning to move all AI companies to classified networks?",
+    "a": "The Pentagon."
+  },
+  {
+    "q": "What specific safeguard issue did Anthropic refuse to remove, causing a months-long dispute with the Pentagon that culminated in a February 2026 meeting?",
+    "a": "Safeguards that would prevent its technology from being used to target weapons autonomously and conduct U.S. domestic surveillance."
+  },
+  {
+    "q": "Who were the Reuters reporters credited with reporting on the Anthropic-Pentagon dispute in February 2026?",
+    "a": "David Jeans, Deepa Seetharaman, and Mike Stone."
+  },
+  {
+    "q": "What did Anthropic CEO Dario Amodei assert about the safeguards currently in place during his February 2026 meeting with Defense Secretary Pete Hegseth?",
+    "a": "They would not pose a problem to the Defense Department’s current operations."
+  },
+  {
+    "q": "According to the February 2026 report, what specific timeframe was given to Anthropic to respond to the Pentagon's ultimatum?",
+    "a": "Until Friday at 5 p.m."
+  },
+  {
+    "q": "Which law did Pentagon officials threaten to invoke against Anthropic in February 2026 to compel compliance with their demands?",
+    "a": "The Defense Production Act."
+  },
+  {
+    "q": "What specific determination, typically associated with foreign adversaries, did Defense Secretary Pete Hegseth threaten to impose on Anthropic in February 2026?",
+    "a": "A supply-chain risk determination."
+  },
+  {
+    "q": "In the February 2026 dispute, which Venezuelan leader's capture during a military raid raised concerns for the Pentagon regarding Anthropic's AI products?",
+    "a": "President Nicolas Maduro."
+  },
+  {
+    "q": "What did Franklin Turner of McCarter & English predict would happen if the Administration took adverse action against Anthropic in the February 2026 dispute?",
+    "a": "It would almost certainly trigger a raft of downstream litigation."
+  }
+]

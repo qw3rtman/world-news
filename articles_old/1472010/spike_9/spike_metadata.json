@@ -1,0 +1,65 @@
+{
+  "spike_index": 9,
+  "direction": "down",
+  "price_before": 0.79,
+  "price_after": 0.32,
+  "delta": -0.47000000000000003,
+  "abs_delta": 0.47000000000000003,
+  "timestamp_before": "2026-03-03T14:30:27+00:00",
+  "timestamp_after": "2026-03-04T14:30:26+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.iranintl.com/en/202603031972",
+      "file": "0ee7eb860eae.txt",
+      "title": "UAE is considering taking military action against Iran - Channel 12 | Iran International",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": null,
+      "text_length": 88,
+      "status": "ok",
+      "num_tokens": 16
+    },
+    {
+      "url": "https://beta.dw.com/en/iran-war-saudi-arabia-united-arab-emeriates-bahrain-qatar-involvement/a-76175593",
+      "file": "d26f871e8c92.txt",
+      "title": "Will Gulf states enter the Iran war?",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Cathrin Schaer  Author for the Middle East desk.",
+      "text_length": 6696,
+      "status": "ok",
+      "num_tokens": 1307
+    },
+    {
+      "url": "http://www.foxnews.com/media/keane-warns-iran-strike-becoming-regional-war-says-three-gulf-states-preparing-combat",
+      "file": "bc6199f63b02.txt",
+      "title": "General claims Gulf states preparing for combat against Iran after strikes | Fox News",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 2761,
+      "status": "ok",
+      "num_tokens": 563
+    },
+    {
+      "url": "https://www.thetimes.com/world/middle-east/israel-iran/article/iran-war-gulf-states-whats-next-dg7z798vg?gaa_at=eafs&gaa_n=AWEtsqdNa2as66xl0-mnECikmSNkfDZveM2hPraGLy_H2jyLcgZMGT4c2BiV&gaa_sig=xOjkECAqf3SIuMcow_nEBee1QqqTOpfIVz0ooXEjcEE6Wx3Zi40ePRwJi0x1zg6O8Owu3a9m_xkSkll5HVhGgA%3D%3D&gaa_ts=69a60d12",
+      "file": "acf4032460a8.txt",
+      "title": "Gulf states risk being dragged into a war they do not want",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Samer Al-Atrush, Dubai",
+      "text_length": 5080,
+      "status": "ok",
+      "num_tokens": 1087
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/03/strait-of-hormuz-closure-which-countries-will-be-hit-the-most.html",
+      "file": "e6c2833a14b4.txt",
+      "title": "Strait of Hormuz closure: which countries will be hit the most",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Lee Ying Shan",
+      "text_length": 5885,
+      "status": "ok",
+      "num_tokens": 1227
+    }
+  ],
+  "total_tokens": 4200
+}

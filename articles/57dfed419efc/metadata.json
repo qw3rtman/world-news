@@ -1,0 +1,27 @@
+{
+  "hash": "57dfed419efc",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/markets/commodities/charting-widening-impact-iran-crisis-energy-markets-2026-03-05/",
+      "title": "Charting the widening impact of the Iran crisis on energy markets | Reuters",
+      "published_date": "2026-03-05T00:00:00.000Z",
+      "author": "Gavin Maguire",
+      "num_tokens": 990,
+      "text_length": 4788
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1467765",
+      "spike_id": 8,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $110 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.44,
+      "spike_timestamp_before": "2026-03-06T06:00:34+00:00",
+      "spike_timestamp_after": "2026-03-07T05:30:27+00:00"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On what date did Russian President Vladimir Putin appear on state television to announce the \"special military operation\" against Ukraine, marking the start of the full-scale invasion?",
+    "a": "February 24, 2022"
+  },
+  {
+    "q": "Which two breakaway regions did Russian President Vladimir Putin recognize as independent states on February 21, 2022, just days before the full-scale invasion?",
+    "a": "The Donetsk People’s Republic and the Luhansk People’s Republic"
+  },
+  {
+    "q": "According to the Institute for the Study of War, what percentage of Ukrainian territory was under Russian control by late November 2022, following Ukraine’s counteroffensives in Kharkiv and Kherson?",
+    "a": "About 19 percent"
+  },
+  {
+    "q": "In which Ukrainian region did Ukrainian forces mount a surprise incursion in 2024, underscoring that the front line into Russia was not impenetrable?",
+    "a": "The Kursk region"
+  },
+  {
+    "q": "Which town in the Donetsk region was captured by Russian forces in early December 2025, after seeing advances of only 70 meters per day throughout that year?",
+    "a": "Pokrovsk"
+  },
+  {
+    "q": "According to the Armed Conflict Location and Event Data (ACLED), the capture of which town in early December 2025 paved the way for Russian operations in Dnipropetrovsk?",
+    "a": "Pokrovsk"
+  },
+  {
+    "q": "In December 2025, which logistical hub in Donetsk did Russian forces enter in a bid to gain control of Kramatorsk and Sloviansk?",
+    "a": "Kostiantynivka"
+  },
+  {
+    "q": "In December 2025, Ukraine held off Russia’s yearlong campaign for which city in the Kharkiv region through a surprise counteroffensive?",
+    "a": "Kupiansk"
+  },
+  {
+    "q": "According to ACLED data for 2025, what became the leading form of attack against civilians in Ukraine, surpassing shelling and missile strikes?",
+    "a": "Drone-led targeting"
+  },
+  {
+    "q": "In January 2026, what daily production number of Shahed-type drones did Ukrainian Commander-in-Chief Oleksandr Syrskii say Russia was achieving, with plans to increase it to 1,000?",
+    "a": "404"
+  },
+  {
+    "q": "In which Russian republic, located about 800km east of Moscow, does the Institute for the Study of War report that Russia is producing Geran-2 drones?",
+    "a": "Tatarstan"
+  },
+  {
+    "q": "How many air and drone attacks were recorded in Ukraine in 2025, reflecting a threefold increase from the 6,000 attacks in 2023?",
+    "a": "More than 29,000"
+  },
+  {
+    "q": "On January 16, 2026, which Ukrainian Defence Minister stated that there was not a single power plant left in Ukraine that the enemy had not attacked?",
+    "a": "Denys Shmyhal"
+  },
+  {
+    "q": "Following a night of attacks that killed four people and injured dozens, President Volodymyr Zelenskyy declared a nationwide state of emergency for the energy sector in which month?",
+    "a": "January 2026"
+  },
+  {
+    "q": "According to ACLED data, how many attacks on Ukraine’s energy infrastructure had Russia carried out since the conflict began as of early 2026?",
+    "a": "More than 1,900"
+  },
+  {
+    "q": "In which month did Russia launch the highest number of attacks on Ukraine’s energy infrastructure in the previous year, with 175 strikes?",
+    "a": "October 2025"
+  },
+  {
+    "q": "Where were the most significant peace talks held on March 29, 2022, where Ukraine presented a 10-point proposal including neutrality?",
+    "a": "Istanbul"
+  },
+  {
+    "q": "The peace talks held in Istanbul in April 2022 collapsed following the discovery of mass civilian killings in which town, located 25km west of Kyiv?",
+    "a": "Bucha"
+  },
+  {
+    "q": "In May 2025, which country successfully brought both Russia and Ukraine to Istanbul for two rounds of talks that resulted in a prisoner exchange?",
+    "a": "Turkiye"
+  },
+  {
+    "q": "Which two envoys from the Trump administration facilitated trilateral peace talks in Abu Dhabi and Geneva starting in late January 2026?",
+    "a": "Steve Witkoff and Jared Kushner"
+  },
+  {
+    "q": "What two main demands did Russia state it wanted as part of any peace agreement, according to the article's description of the stalled negotiations?",
+    "a": "Control of all of the Donbas region and the denial of NATO membership to Ukraine"
+  },
+  {
+    "q": "What percentage of Ukraine’s territory did Russian forces occupy at their furthest advance in March 2022?",
+    "a": "Roughly 27 percent"
+  },
+  {
+    "q": "Approximately how much square kilometers of territory did Ukraine reclaim by late November 2022, reducing Russian control to about 19 percent?",
+    "a": "74,000 sq km"
+  },
+  {
+    "q": "How much additional territory, as a percentage, had Russia gained by 2025 despite heavy losses, according to Ukrainian Commander-in-Chief Oleksandr Syrskii?",
+    "a": "0.8 percent"
+  },
+  {
+    "q": "What is the production cost range for Russian-produced Geran-2 drones, which are analogues of the Iranian Shahed missiles?",
+    "a": "$20,000 to $50,000"
+  }
+]

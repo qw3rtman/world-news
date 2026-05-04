@@ -1,0 +1,47 @@
+{
+  "hash": "3be052d609c5",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202603021606BIZWIRE_USPRX____20260302_BW126591-1",
+      "title": "Vitesse Energy Announces Signing of Accretive Acquisition, Fourth Quarter and Full Year 2025 Results, and Issues 2026 Production and Capital Expenditures Guidance – Company Announcement - FT.com",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 7576,
+      "text_length": 29099
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694938",
+      "spike_id": 17,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.16000000000000003,
+      "spike_timestamp_before": "2026-03-01T08:00:37+00:00",
+      "spike_timestamp_after": "2026-03-02T04:00:34+00:00"
+    },
+    {
+      "market_id": "694938",
+      "spike_id": 18,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.16500000000000004,
+      "spike_timestamp_before": "2026-03-02T04:00:34+00:00",
+      "spike_timestamp_after": "2026-03-02T13:00:36+00:00"
+    },
+    {
+      "market_id": "694938",
+      "spike_id": 19,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.175,
+      "spike_timestamp_before": "2026-03-02T04:00:34+00:00",
+      "spike_timestamp_after": "2026-03-02T16:00:37+00:00"
+    }
+  ]
+}

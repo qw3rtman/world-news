@@ -1,0 +1,65 @@
+{
+  "spike_index": 9,
+  "direction": "down",
+  "price_before": 0.5455,
+  "price_after": 0.286,
+  "delta": -0.2595,
+  "abs_delta": 0.2595,
+  "timestamp_before": "2026-03-18T19:00:40+00:00",
+  "timestamp_after": "2026-03-19T14:30:48+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-india-where-is-gold-silver-rate-headed-on-march-18-2026-mcx-gold-futures-outlook-us-iran-war-middle-east-tensions/articleshow/129645913.cms",
+      "file": "18b3f46ae117.txt",
+      "title": "Gold price prediction today: Where is gold headed on March 18, 2026 & is the bull run over for now? - The Times of India",
+      "published_date": "2026-03-18T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /   Mar 18, 2026, 11:16 IST",
+      "text_length": 3765,
+      "status": "ok",
+      "num_tokens": 751
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-price-prediction-today-what-is-the-gold-rate-outlook-for-march-19-2026-should-you-buy-or-sell-mcx-gold-mcx-silver/articleshow/129663224.cms",
+      "file": "855b40993282.txt",
+      "title": "Gold, silver price prediction today (March 19, 2026): Will gold reach Rs 1.65 lakh/10 grams & silver touch Rs 2.85 lakh/kg? - The Times of India",
+      "published_date": "2026-03-19T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /   Mar 19, 2026, 11:16 IST",
+      "text_length": 4054,
+      "status": "ok",
+      "num_tokens": 819
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-where-are-gold-rates-headed-on-march-17-2026-and-in-the-near-term-mcx-gold-silver-prices/amp_articleshow/129624689.cms",
+      "file": "adf7655f93d2.txt",
+      "title": "Gold price prediction today: Will gold prices continue to be under pressure on March 17, 2026? Check outlook - The Times of India",
+      "published_date": "2026-03-17T00:00:00.000Z",
+      "author": null,
+      "text_length": 6703,
+      "status": "ok",
+      "num_tokens": 1638
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/17/gold-little-changed-as-investors-assess-middle-east-fallout-ahead-of-policy-decisions.html",
+      "file": "733bc4e866df.txt",
+      "title": "Gold steady as markets track Iran tensions, await Fed decision",
+      "published_date": "2026-03-17T00:00:00.000Z",
+      "author": null,
+      "text_length": 1870,
+      "status": "ok",
+      "num_tokens": 419
+    },
+    {
+      "url": "https://www.cnbc.com/amp/2026/03/17/gold-firms-as-investors-assess-middle-east-fallout-ahead-of-policy-decisions.html",
+      "file": "be68dd97162c.txt",
+      "title": "Gold firms as investors assess Middle East fallout ahead of policy decisions",
+      "published_date": "2026-03-17T00:00:00.000Z",
+      "author": null,
+      "text_length": 506,
+      "status": "ok",
+      "num_tokens": 117
+    }
+  ],
+  "total_tokens": 3744
+}

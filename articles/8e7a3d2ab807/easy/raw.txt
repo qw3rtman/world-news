@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On Monday, March 2, 2026, by how much did the price of gold per 10 grams increase, and what was the new price level reached?",
+    "a": "Gold rose by Rs 7,000 per 10 grams to reach Rs 1.66 lakh."
+  },
+  {
+    "q": "What was the price increase for silver per kilogram on Monday, March 2, 2026, and what was its new price level?",
+    "a": "Silver gained Rs 20,000 per kg to reach Rs 2.86 lakh."
+  },
+  {
+    "q": "Which geopolitical event occurring in late February 2026 intensified safe-haven demand for gold and silver in early March 2026?",
+    "a": "Joint Israeli and US military strikes on Iran on February 28, 2026."
+  },
+  {
+    "q": "According to Aksha Kamboj, vice president at the India Bullion & Jewellers Association (IBJA), what three factors would determine the extent of the precious metals rally in March 2026?",
+    "a": "The outcome of the West Asian conflict, the monetary policy stance, and the currency value."
+  },
+  {
+    "q": "What percentage gain had gold achieved since January 2026, as reported in early March 2026?",
+    "a": "Gold had gained 24% since January 2026."
+  },
+  {
+    "q": "What percentage gain had silver achieved since January 2026, as reported in early March 2026?",
+    "a": "Silver had surged 30% since January 2026."
+  },
+  {
+    "q": "What were the calendar year 2025 gains for gold and silver that preceded the 2026 rallies?",
+    "a": "Gold recorded a 70% gain and silver recorded a 125% gain in calendar year 2025."
+  },
+  {
+    "q": "How did Renisha Chainani, head of research at Augmont Gold, describe investor behavior regarding gold and silver prices in early March 2026?",
+    "a": "Investors were maintaining positions and using price dips as opportunities to accumulate."
+  },
+  {
+    "q": "Which country is heavily reliant on Middle Eastern oil imports, creating added pressure from rising crude oil prices in March 2026?",
+    "a": "India."
+  },
+  {
+    "q": "What specific action did Iran take following the joint Israeli and US military strikes on February 28, 2026?",
+    "a": "Iran took retaliatory actions against Gulf nations."
+  },
+  {
+    "q": "Who stated that the risk premium for investors would increase if the West Asian conflict continued, pushing gold prices in India to new records?",
+    "a": "Aksha Kamboj, vice president at the India Bullion & Jewellers Association (IBJA)."
+  },
+  {
+    "q": "What traditional characteristic of gold did Aksha Kamboj cite as a reason for sustained demand and potential price boosts in early March 2026?",
+    "a": "Gold has traditionally been a safe-haven asset for investors."
+  },
+  {
+    "q": "In the context of the March 2026 market, which two precious metals saw significant price increases driven by geopolitical tensions?",
+    "a": "Gold and silver."
+  },
+  {
+    "q": "What warning did Aksha Kamboj give to investors in early March 2026 regarding short-term price surges in precious metals?",
+    "a": "Investors should keep a check on the overall scenario, as prices could surge in the short term."
+  },
+  {
+    "q": "Which organization's vice president, Aksha Kamboj, provided commentary on gold price trends in early March 2026?",
+    "a": "India Bullion & Jewellers Association (IBJA)."
+  },
+  {
+    "q": "Which company's head of research, Renisha Chainani, commented on investor accumulation strategies in early March 2026?",
+    "a": "Augmont Gold."
+  },
+  {
+    "q": "What specific date marked the beginning of the joint military strikes that contributed to the March 2026 rise in gold and silver prices?",
+    "a": "February 28, 2026."
+  },
+  {
+    "q": "By how much did silver prices increase per kilogram on Monday, March 2, 2026, bringing the total to Rs 2.86 lakh?",
+    "a": "Silver gained Rs 20,000 per kg."
+  },
+  {
+    "q": "What was the price of gold per 10 grams on Monday, March 2, 2026, after rising by Rs 7,000?",
+    "a": "Rs 1.66 lakh."
+  },
+  {
+    "q": "Which two nations conducted joint military strikes on Iran on February 28, 2026, influencing global commodity markets in March 2026?",
+    "a": "Israel and the United States."
+  },
+  {
+    "q": "According to the article published on March 3, 2026, what was the cumulative percentage gain for silver in calendar year 2025 before the 2026 surge?",
+    "a": "125%."
+  },
+  {
+    "q": "What was the cumulative percentage gain for gold in calendar year 2025 before the 2026 surge, as noted in early March 2026?",
+    "a": "70%."
+  },
+  {
+    "q": "Which publication issued a disclaimer on March 3, 2026, stating that expert opinions on asset classes do not represent its views?",
+    "a": "The Times of India."
+  },
+  {
+    "q": "What type of demand drove gold and silver prices higher on Monday, March 2, 2026, amid Middle East tensions?",
+    "a": "Strong safe-haven demand from investors."
+  },
+  {
+    "q": "Which region's oil imports create added pressure for India due to rising crude oil prices following the February 2026 strikes?",
+    "a": "Middle Eastern oil imports."
+  }
+]

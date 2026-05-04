@@ -1,0 +1,27 @@
+{
+  "hash": "695a6779c780",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://www.nature.com/articles/s41420-026-02998-z",
+      "title": "Cetuximab co-treatment with KRAS G12C inhibitors fulzerasib and sotorasib in human KRAS G12C non-small cell lung cancer cells | Cell Death Discovery",
+      "published_date": "2026-03-05T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1322,
+      "text_length": 5698
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694936",
+      "spike_id": 1,
+      "market_question": "Will Nebius Group be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.19999999999999998,
+      "spike_timestamp_before": "2026-03-07T20:00:22+00:00",
+      "spike_timestamp_after": "2026-03-08T14:00:22+00:00"
+    }
+  ]
+}

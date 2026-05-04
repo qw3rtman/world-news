@@ -1,0 +1,37 @@
+{
+  "hash": "906c475c4fd9",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://eu.usatoday.com/story/money/energy/2026/03/02/oil-prices-iran-war/88944465007/",
+      "title": "Oil prices rise but stay below doomsday scenarios amid Iran strikes",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Andrea Riquier",
+      "num_tokens": 543,
+      "text_length": 2627
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1467771",
+      "spike_id": 7,
+      "market_question": "Will Crude Oil (CL) hit (LOW) $65 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.29,
+      "spike_timestamp_before": "2026-03-02T16:30:34+00:00",
+      "spike_timestamp_after": "2026-03-02T22:30:35+00:00"
+    },
+    {
+      "market_id": "1494703",
+      "spike_id": 1,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $200 by end of June?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.28500000000000003,
+      "spike_timestamp_before": "2026-03-03T23:00:25+00:00",
+      "spike_timestamp_after": "2026-03-03T23:30:23+00:00"
+    }
+  ]
+}

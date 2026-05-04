@@ -1,0 +1,65 @@
+{
+  "spike_index": 5,
+  "direction": "down",
+  "price_before": 0.455,
+  "price_after": 0.215,
+  "delta": -0.24000000000000002,
+  "abs_delta": 0.24000000000000002,
+  "timestamp_before": "2026-02-21T17:00:18+00:00",
+  "timestamp_after": "2026-02-22T02:00:18+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "http://origin.www.bloomberg.com/news/articles/2026-02-20/conocophillips-considers-selling-permian-assets-worth-2-billion?srnd=undefined",
+      "file": "4889824b198b.txt",
+      "title": "ConocoPhillips Considers Selling Permian Assets Worth $2 Billion - Bloomberg",
+      "published_date": "2026-02-20T00:00:00.000Z",
+      "author": "David Carnevali",
+      "text_length": 384,
+      "status": "ok",
+      "num_tokens": 80
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/conocophillips-considers-selling-permian-assets-worth-2-billion-bloomberg-news-2026-02-20/",
+      "file": "dc807e192d9b.txt",
+      "title": "ConocoPhillips considers selling Permian assets worth $2 billion, Bloomberg News reports | Reuters",
+      "published_date": "2026-02-20T00:00:00.000Z",
+      "author": null,
+      "text_length": 941,
+      "status": "ok",
+      "num_tokens": 204
+    },
+    {
+      "url": "https://reuters.com/legal/transactional/kkr-explores-15-billion-sale-bmc-helix-sources-say-2026-02-20/",
+      "file": "e0e6ae8ba6de.txt",
+      "title": "KKR explores $1.5 billion sale of BMC Helix, sources say | Reuters",
+      "published_date": "2026-02-20T00:00:00.000Z",
+      "author": "Milana Vinn",
+      "text_length": 2006,
+      "status": "ok",
+      "num_tokens": 411
+    },
+    {
+      "url": "http://today.reuters.com/business/gunvor-management-buyout-values-trading-group-around-5-billion-sources-say-2026-02-19/",
+      "file": "271ad4978a13.txt",
+      "title": "Exclusive: Gunvor management buyout values trading group at around $5 billion, sources say | Reuters",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": "Dmitry Zhdannikov",
+      "text_length": 2684,
+      "status": "ok",
+      "num_tokens": 584
+    },
+    {
+      "url": "https://uk.mobile.reuters.com/business/energy/tullow-oil-strikes-multiple-deals-sweeping-capital-overhaul-2026-02-20/",
+      "file": "16a3568790dc.txt",
+      "title": "Tullow Oil strikes multiple deals in sweeping capital overhaul | Reuters",
+      "published_date": "2026-02-20T00:00:00.000Z",
+      "author": null,
+      "text_length": 1809,
+      "status": "ok",
+      "num_tokens": 393
+    }
+  ],
+  "total_tokens": 1672
+}

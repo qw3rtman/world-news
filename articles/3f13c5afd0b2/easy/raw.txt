@@ -1,0 +1,102 @@
+[
+  {
+    "q": "What are the specific start and end dates for Donald Trump’s official visit to China announced by the White House in February 2026?",
+    "a": "March 31 to April 2, 2026."
+  },
+  {
+    "q": "Which United States president is scheduled to make his first official visit to Beijing since 2017, according to the February 2026 announcement?",
+    "a": "Donald Trump."
+  },
+  {
+    "q": "How did Chinese President Xi Jinping describe the communication between the United States and China in recent months prior to the February 2026 visit announcement?",
+    "a": "Good communication."
+  },
+  {
+    "q": "What phrase did Donald Trump use on Thursday prior to the February 2026 announcement to describe his upcoming trip to China?",
+    "a": "\"That’s going to be a wild one.\""
+  },
+  {
+    "q": "Which US judicial body struck down tariffs imposed by Donald Trump on countries around the world shortly before the February 2026 visit announcement?",
+    "a": "The US Supreme Court."
+  },
+  {
+    "q": "What major US export to China has Beijing stopped purchasing, which is expected to be discussed during Donald Trump’s March 2026 visit?",
+    "a": "Soybeans."
+  },
+  {
+    "q": "Which Canadian Prime Minister visited China in recent months prior to February 2026 and touted new trade deals and the lifting of a ban on Chinese-made electric cars?",
+    "a": "Mark Carney."
+  },
+  {
+    "q": "What policy stance is Donald Trump doubling down on, in contrast to China’s heavy investment in new technologies and renewable energy?",
+    "a": "Fossil fuels."
+  },
+  {
+    "q": "Which territory does Washington continue to provide weapons sales and support to, which Beijing has promised to unify with mainland China?",
+    "a": "Taiwan."
+  },
+  {
+    "q": "What pandemic-related label did Donald Trump use for COVID-19 when he was the US president prior to 2026?",
+    "a": "The \"Chinese virus\"."
+  },
+  {
+    "q": "In which month and year did China reopen its borders following strict self-imposed isolation during the pandemic?",
+    "a": "January 2023."
+  },
+  {
+    "q": "How many people died in the United States during the COVID-19 pandemic, according to the article context regarding Donald Trump’s previous presidency?",
+    "a": "More than one million."
+  },
+  {
+    "q": "Which two popular US live streamers were hosted by China in recent months prior to February 2026?",
+    "a": "Hasan Piker and Darren Watkins Jr (also known as Speed)."
+  },
+  {
+    "q": "What type of display does Donald Trump claim they have to put on for his March 2026 visit to China?",
+    "a": "The biggest display you’ve ever had in the history of China."
+  },
+  {
+    "q": "What tactic has Donald Trump openly used to influence other countries to support his policies, which was recently struck down by the US Supreme Court?",
+    "a": "Imposing tariffs."
+  },
+  {
+    "q": "Which Western leader, besides Donald Trump, is mentioned as having visited China in recent months prior to February 2026?",
+    "a": "Canadian Prime Minister Mark Carney."
+  },
+  {
+    "q": "What specific ban did Canadian Prime Minister Mark Carney lift during his visit to China prior to February 2026?",
+    "a": "Canada’s ban on buying Chinese-made electric cars."
+  },
+  {
+    "q": "What is the primary reason China has been engaging more with the outside world since reopening its borders in January 2023?",
+    "a": "To increase efforts to engage with the outside world."
+  },
+  {
+    "q": "Which US social media apps are attracting US citizens, according to the article's description of China's engagement efforts prior to February 2026?",
+    "a": "The article states China is attracting US citizens to its social media apps, but does not name specific US apps."
+  },
+  {
+    "q": "What was the status of Donald Trump’s last trip to Beijing before the March 2026 visit?",
+    "a": "It occurred in 2017."
+  },
+  {
+    "q": "Who confirmed the dates for Donald Trump’s March 2026 visit to China?",
+    "a": "A White House official."
+  },
+  {
+    "q": "What did Donald Trump say about the need for a display during his March 2026 visit to China?",
+    "a": "He said, \"We have to put on the biggest display you’ve ever had in the history of China.\""
+  },
+  {
+    "q": "Which country is described as having invested heavily in new technologies and renewable energy in recent years, potentially setting it apart from the US?",
+    "a": "China."
+  },
+  {
+    "q": "What is the relationship between Beijing and Taiwan as described in the context of US weapons sales prior to February 2026?",
+    "a": "Beijing has promised to unify Taiwan with mainland China."
+  },
+  {
+    "q": "What specific trade threat from the US is China responding to by no longer buying soybeans, as mentioned in the context of the March 2026 visit?",
+    "a": "US trade threats."
+  }
+]

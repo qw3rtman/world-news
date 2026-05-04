@@ -1,0 +1,27 @@
+{
+  "hash": "688bdae6ff7b",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://haaretz.com/middle-east-news/iran/2026-03-02/ty-article/.premium/trump-main-wave-of-joint-u-s-israeli-strikes-on-iran-yet-to-come-report-says/0000019c-aef1-d284-addf-bef9fcf80000",
+      "title": "Trump: U.S. Ahead of Schedule in Iran but Can Extend Fighting Beyond Projected 4-5 Weeks - Iran News",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Ben Samuels",
+      "num_tokens": 41,
+      "text_length": 190
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1484914",
+      "spike_id": 1,
+      "market_question": "Iran x Israel/US conflict ends by May 15?",
+      "event_title": "Iran x Israel/US conflict ends by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.18000000000000005,
+      "spike_timestamp_before": "2026-03-02T18:30:32+00:00",
+      "spike_timestamp_after": "2026-03-02T21:00:29+00:00"
+    }
+  ]
+}

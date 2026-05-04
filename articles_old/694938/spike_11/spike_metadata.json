@@ -1,0 +1,65 @@
+{
+  "spike_index": 11,
+  "direction": "up",
+  "price_before": 0.445,
+  "price_after": 0.65,
+  "delta": 0.20500000000000002,
+  "abs_delta": 0.20500000000000002,
+  "timestamp_before": "2026-02-25T00:30:40+00:00",
+  "timestamp_after": "2026-02-25T15:30:49+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.reuters.com/legal/transactional/gilead-acquire-cancer-therapy-developer-arcellx-up-78-billion-2026-02-23/",
+      "file": "6121811d4405.txt",
+      "title": "Gilead to buy cancer therapy developer Arcellx for up to $7.8 billion | Reuters",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "Christy Santhosh",
+      "text_length": 2841,
+      "status": "ok",
+      "num_tokens": 671
+    },
+    {
+      "url": "https://www.statnews.com/2026/02/23/gilead-arcellx-acquisition-car-t-multiple-myeloma/",
+      "file": "572d9b90278b.txt",
+      "title": "Gilead to buy Arcellx in nearly $8B deal | STAT",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "Adam Feuerstein",
+      "text_length": 671,
+      "status": "ok",
+      "num_tokens": 154
+    },
+    {
+      "url": "https://origin.www.bloomberg.com/news/articles/2026-02-23/gilead-to-buy-biotech-arcellx-in-deal-worth-up-to-7-8-billion?srnd=undefined",
+      "file": "205c142546ca.txt",
+      "title": "Gilead to Buy US Biotech Arcellx for Up to $7.8 Billion - Bloomberg",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "Stuart Biggs",
+      "text_length": 376,
+      "status": "ok",
+      "num_tokens": 96
+    },
+    {
+      "url": "https://www.cnbc.com/2026/02/23/gilead-to-acquire-cancer-therapy-developer-arcellx.html?__source=sharebar%7Ctwitter&par=sharebar",
+      "file": "75f26ee03801.txt",
+      "title": "Gilead to buy cancer therapy developer Arcellx for up to $7.8 billion",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": null,
+      "text_length": 2563,
+      "status": "ok",
+      "num_tokens": 585
+    },
+    {
+      "url": "https://today.reuters.com/legal/litigation/novo-nordisk-partners-with-vivtex-up-21-billion-deal-oral-obesity-drugs-2026-02-25/",
+      "file": "2483b3b2971a.txt",
+      "title": "Novo Nordisk partners with Vivtex in up to $2.1 billion deal for oral obesity drugs | Reuters",
+      "published_date": "2026-02-25T00:00:00.000Z",
+      "author": null,
+      "text_length": 1219,
+      "status": "ok",
+      "num_tokens": 269
+    }
+  ],
+  "total_tokens": 1775
+}

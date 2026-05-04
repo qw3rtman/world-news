@@ -1,0 +1,27 @@
+{
+  "hash": "0361dfbeff91",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://timesofindia.indiatimes.com/business/international-business/gold-oil-prices-jump-as-us-iran-tensions-turn-up-the-heat/articleshow/128587793.cms",
+      "title": "Gold, oil prices jump as US-Iran tensions turn up the heat - The Times of India",
+      "published_date": "2026-02-20T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /   Feb 20, 2026, 08:40 IST",
+      "num_tokens": 926,
+      "text_length": 4732
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1032343",
+      "spike_id": 3,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.19299999999999995,
+      "spike_timestamp_before": "2026-02-22T00:00:19+00:00",
+      "spike_timestamp_after": "2026-02-22T23:30:17+00:00"
+    }
+  ]
+}

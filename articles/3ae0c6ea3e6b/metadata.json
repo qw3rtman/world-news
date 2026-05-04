@@ -1,0 +1,37 @@
+{
+  "hash": "3ae0c6ea3e6b",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://thehill.com/homenews/senate/5757060-talarico-wins-texas-democratic-senate-primary/",
+      "title": "James Talarico beats Jasmine Crockett in Texas Democratic Senate primary",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 833,
+      "text_length": 3801
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "679231",
+      "spike_id": 1,
+      "market_question": "Will Jasmine Crockett be the Democratic nominee for Senate in Texas?",
+      "event_title": "Texas Democratic Senate Primary Winner",
+      "spike_direction": "down",
+      "spike_delta": -0.1765,
+      "spike_timestamp_before": "2026-03-03T02:30:30+00:00",
+      "spike_timestamp_after": "2026-03-04T02:30:30+00:00"
+    },
+    {
+      "market_id": "679231",
+      "spike_id": 2,
+      "market_question": "Will Jasmine Crockett be the Democratic nominee for Senate in Texas?",
+      "event_title": "Texas Democratic Senate Primary Winner",
+      "spike_direction": "down",
+      "spike_delta": -0.1545,
+      "spike_timestamp_before": "2026-03-03T11:30:44+00:00",
+      "spike_timestamp_after": "2026-03-04T09:30:29+00:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "hash": "7880863ad933",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://building.theatlantic.com/bitcoin-price-analysis-march-2026-btc-in-treacherous-waters-around-60k-70k-is-120k-a-long-316e7b97e41d",
+      "title": "Medium",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Jawad Hussain",
+      "num_tokens": 10,
+      "text_length": 46
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1032336",
+      "spike_id": 10,
+      "market_question": "Will Silver (SI) hit (HIGH) $120 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.30899999999999994,
+      "spike_timestamp_before": "2026-03-01T22:30:33+00:00",
+      "spike_timestamp_after": "2026-03-02T16:00:34+00:00"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "According to a statement posted to Truth Social by U.S. President Donald Trump on February 28, 2026, who was killed in airstrikes conducted by the United States and Israel?",
+    "a": "Iran's Supreme Leader Ayatollah Ali Khamenei."
+  },
+  {
+    "q": "In which year did Ayatollah Ali Khamenei succeed Ayatollah Ruhollah Khomeini as the Supreme Leader of Iran, and how old was Khamenei at the time of his death in February 2026?",
+    "a": "He succeeded Khomeini in 1989 and was 86 years old at the time of his death.",
+  },
+  {
+    "q": "During the 1970s, for what actions was Ali Hosseini Khamenei arrested multiple times while he was a mid-level cleric in Iran?",
+    "a": "He was arrested for speaking out against the U.S.-backed Shah of Iran.",
+  },
+  {
+    "q": "Which two organizations did Ali Vaez, director of the Iran Project at the International Crisis Group, credit with helping Ayatollah Ali Khamenei build his power base and sideline other political figures?",
+    "a": "The Islamic Revolutionary Guard Corps and Khamenei's own strategic patience and calculation.",
+  },
+  {
+    "q": "What specific military and proxy assets did Ayatollah Ali Khamenei develop to deter direct attacks on Iranian soil, as described by Ali Vaez?",
+    "a": "He developed proxies like Hezbollah in Lebanon and Hamas in Gaza, along with a ballistic missile program for conventional deterrence.",
+  },
+  {
+    "q": "In which year did Ayatollah Ali Khamenei intervene in Iranian presidential elections to ensure the victory of Mahmoud Ahmadinejad, leading to widespread protests?",
+    "a": "2009."
+  },
+  {
+    "q": "How did Sanam Vakil of Chatham House characterize Ayatollah Ali Khamenei's response to the post-2009 election protests in Iran?",
+    "a": "She stated that he brutally crushed the demonstrations and supported repressive government crackdowns to protect state stability.",
+  },
+  {
+    "q": "According to analyst Alex Vatanka of the Middle East Institute, what percentage of Iran's 90 million population was born after the 1979 Islamic Revolution?",
+    "a": "75%."
+  },
+  {
+    "q": "Which major regional uprising in 2011 caused Ayatollah Ali Khamenei to begin worrying about the survival of the Iranian regime due to a crumbling economy?",
+    "a": "The Arab Spring uprising."
+  },
+  {
+    "q": "What nuclear agreement did Ayatollah Ali Khamenei agree to via secret negotiations with the United States, despite his deep skepticism of the deal?",
+    "a": "The 2015 nuclear agreement."
+  },
+  {
+    "q": "During which U.S. presidential administration did Donald Trump withdraw from the 2015 nuclear agreement, a move that analysts say gave credence to Khamenei's cynicism?",
+    "a": "Donald Trump's first term in office."
+  },
+  {
+    "q": "In early 2025, how did Ayatollah Ali Khamenei respond to U.S. President Donald Trump's outreach regarding a new nuclear deal?",
+    "a": "Khamenei dragged out negotiations.",
+  },
+  {
+    "q": "What specific type of munitions did U.S. President Donald Trump unleash on three key Iranian nuclear enrichment sites after Israel attacked Iran's nuclear facilities?",
+    "a": "Bunker busters."
+  },
+  {
+    "q": "According to Sanam Vakil of Chatham House, what fundamental miscalculation did Ayatollah Ali Khamenei make regarding the international community's attitude toward Iran?",
+    "a": "He assumed he could play for time, failing to understand that the world had changed and grown tired of Iran's foot-dragging.",
+  },
+  {
+    "q": "By the time of his death in February 2026, which two key Iranian proxies had Israel decimated?",
+    "a": "Hamas and Hezbollah."
+  },
+  {
+    "q": "What major component of Iran's military infrastructure was wiped out by Israel with U.S. help, leaving Iran's nuclear program in shambles?",
+    "a": "Iran's air defenses."
+  },
+  {
+    "q": "Which specific military program, described as the brainchild of Ayatollah Ali Khamenei, remained robust after his death in February 2026?",
+    "a": "Iran's ballistic missile program."
+  },
+  {
+    "q": "Who is identified in the article as the person who will likely replace Ayatollah Ali Khamenei to lead Iran after his death in February 2026?",
+    "a": "It is unclear who will replace him."
+  },
+  {
+    "q": "What was the primary reason Alex Vatanka gave for Ayatollah Ali Khamenei feeling vulnerable during the first few years of his rule in 1989?",
+    "a": "A lack of religious credentials and prestige compared to the founder of the Islamic Republic, Ayatollah Khomeini.",
+  },
+  {
+    "q": "Which think tank in London is Sanam Vakil affiliated with, according to the article?",
+    "a": "Chatham House."
+  },
+  {
+    "q": "What was the status of Iran's nuclear enrichment program after Donald Trump withdrew from the 2015 nuclear agreement, as noted by analysts?",
+    "a": "Iran increased its nuclear enrichment to a point where it was close to being able to build a bomb.",
+  },
+  {
+    "q": "According to Ali Vaez, what was Ayatollah Ali Khamenei's argument for why the United States would not honor concessions on the nuclear issue?",
+    "a": "He argued the U.S. would simply find new pretexts for pressure, such as Iran's missile program, human rights, or regional policies.",
+  },
+  {
+    "q": "What role did Ayatollah Ruhollah Khomeini play in the early career of Ali Hosseini Khamenei before Khamenei became Supreme Leader?",
+    "a": "Khomeini was the founder of the Islamic Republic whom Khamenei joined after returning to Iran in 1979, serving as part of Khomeini's inner circle.",
+  },
+  {
+    "q": "How did the economy of Iran fare during the period leading up to the 2015 nuclear agreement, contributing to Khamenei's concern about regime survival?",
+    "a": "The economy was crumbling largely due to stringent Western sanctions.",
+  },
+  {
+    "q": "What specific outcome did facilities suffer after U.S. bunker busters were used on Iranian nuclear enrichment sites in 2025, according to the article?",
+    "a": "The facilities were seriously damaged but not obliterated."
+  }
+]

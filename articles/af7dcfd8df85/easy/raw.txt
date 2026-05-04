@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In January 2025, what prediction did Marco Rubio, then nominee for U.S. Secretary of State, make regarding the timeline for a potential Chinese invasion of Taiwan?",
+    "a": "He assessed that China would attempt to invade Taiwan before the end of the decade unless something dramatic changed in Asia’s military balance."
+  },
+  {
+    "q": "In May 2025, what warning did the House Select Committee on the Chinese Communist Party issue regarding the Indo-Pacific region?",
+    "a": "They warned that the clock is ticking to stop a war in the Indo-Pacific and that the current Congress may be America’s last full chance to do it."
+  },
+  {
+    "q": "What specific investment amount did Taiwan Semiconductor Manufacturing Company announce in March 2025 for expansion in the United States?",
+    "a": "The company announced it would increase its investment in the United States by $100 billion."
+  },
+  {
+    "q": "In July 2024, what claim did President Donald Trump make about Taiwan’s impact on the U.S. semiconductor industry?",
+    "a": "He declared that Taiwan had stolen the U.S. semiconductor industry and \"doesn’t give us anything.\""
+  },
+  {
+    "q": "During their meeting in South Korea in October 2025, how did Chinese leader Xi Jinping characterize President Donald Trump’s role in global affairs?",
+    "a": "Xi told Trump that he cares a lot about world peace and is very enthusiastic about settling various regional hot spot issues."
+  },
+  {
+    "q": "In 1982, what specific assurance did the Reagan administration give to Taiwan that President Donald Trump reportedly signaled a willingness to negotiate regarding future arms sales?",
+    "a": "The second of the \"six assurances.\""
+  },
+  {
+    "q": "As of the article's publication in February 2026, what is the seat distribution in the Taiwanese legislature between the Democratic Progressive Party and the opposition coalition of the Kuomintang and the Taiwan People’s Party?",
+    "a": "The Democratic Progressive Party controls 51 seats, while the opposition coalition controls 60 of the 113 total seats."
+  },
+  {
+    "q": "Who is Cheng Li-wun, and what position does she hold within Taiwan’s political landscape as of early 2026?",
+    "a": "She is a former DPP member who leads the Kuomintang (KMT), the main opposition party in Taiwan."
+  },
+  {
+    "q": "What defense spending target does the Trump administration want Taiwan to achieve, according to statements cited by Kuomintang leader Cheng Li-wun?",
+    "a": "The Trump administration wants Taiwan to spend 10 percent of its gross domestic product on defense."
+  },
+  {
+    "q": "What semiconductor production onshoring goal did U.S. Commerce Secretary Howard Lutnick set for Taipei by the end of Trump’s second term?",
+    "a": "He wants Washington to have onshored 40 percent of Taipei’s semiconductor production."
+  },
+  {
+    "q": "In which month and year did Chinese leader Xi Jinping and President Donald Trump reportedly discuss future U.S. arms sales to Taiwan?",
+    "a": "The article states this occurred after their meeting in South Korea in October 2025, though the specific discussion date is not pinpointed beyond that timeframe leading into 2026."
+  },
+  {
+    "q": "What specific rare-earth leverage does China possess that allows it to inflict significant pain on the U.S. economy, as noted in the context of the 2025 trade standoff?",
+    "a": "China can inflict significant pain across the U.S. economy through its rare-earths leverage, as showcased during the previous year’s trade standoff."
+  },
+  {
+    "q": "Who is Neil Thomas, and how does he characterize Chinese leader Xi Jinping’s approach to risk and reunification?",
+    "a": "Neil Thomas is a specialist in China’s elite politics who describes Xi as a \"calculated risk-taker rather than a reckless gambler\" who focuses on strengthening China’s position incrementally."
+  },
+  {
+    "q": "What two historical examples does the article cite where Xi Jinping has seen dividends from an incrementalist approach outside of Taiwan?",
+    "a": "Hong Kong’s evolution into a financial appendage of China and China’s steady militarization of the South China Sea."
+  },
+  {
+    "q": "Which U.S. official’s confirmation hearing in January 2025 featured the assessment that China might invade Taiwan before the end of the decade?",
+    "a": "Marco Rubio, who was confirmed to become the U.S. Secretary of State."
+  },
+  {
+    "q": "What specific military capabilities is the United States moving to deploy to the Philippines and Australia, respectively, as described in the article?",
+    "a": "The U.S. is moving to deploy missile and unmanned systems to the Philippines and nuclear-powered submarines to Australia."
+  },
+  {
+    "q": "What potential trigger for a Chinese invasion does the article suggest might involve Taiwan’s political actions?",
+    "a": "An indication by Taiwan that it is poised to declare independence."
+  },
+  {
+    "q": "What specific concern does the article raise about the PLA’s emerging leaders regarding their military assessments?",
+    "a": "Observers fear they lack actual combat experience and might be less capable of providing realistic military assessments to Xi Jinping."
+  },
+  {
+    "q": "Who is the Taiwanese President mentioned in the article as being regarded by Chinese officials as more separatist-minded than his predecessor Tsai Ing-wen?",
+    "a": "Lai Ching-te."
+  },
+  {
+    "q": "What specific diplomatic action by the United States does the article claim is alienating allies in Europe and sowing doubt in Asia?",
+    "a": "Its \"America first\" foreign policy."
+  },
+  {
+    "q": "What is the name of the author of the article published on February 25, 2026, and what is his professional title?",
+    "a": "Ali Wyne, the senior research and advocacy advisor for U.S.-China relations at the International Crisis Group."
+  },
+  {
+    "q": "What specific charge did President Donald Trump repeat after the Supreme Court’s tariff ruling, according to the article?",
+    "a": "He repeated the charge that Taiwan had stolen the U.S. semiconductor industry and \"doesn’t give us anything.\""
+  },
+  {
+    "q": "What percentage of defense spending does Taiwanese President Lai Ching-te hope to reach by 2030, providing context for the U.S. demand?",
+    "a": "Lai hopes that the figure will reach 5 percent of gross domestic product."
+  },
+  {
+    "q": "What specific risk does the article associate with the PLA’s chain of command disruptions and emerging leadership?",
+    "a": "It heightens the prospect of a ham-fisted response by Beijing that fuels rather than dampens escalatory dynamics."
+  },
+  {
+    "q": "What specific view does Cheng Li-wun hold regarding Taiwan’s dependence on the United States under President Donald Trump?",
+    "a": "She contends that Taiwan cannot depend on a United States that has elected Trump twice and must not become a sacrifice or bargaining chip."
+  }
+]

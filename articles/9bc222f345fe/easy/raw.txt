@@ -1,0 +1,106 @@
+[
+  {
+    "q": "On Tuesday, March 3, 2026, by what percentage did South Korea’s Kospi index fall, and what was its closing value?",
+    "a": "The Kospi fell 7.24% to close at 5,791.91."
+  },
+  {
+    "q": "What specific operational setback reported on March 3, 2026, caused Samsung Electronics shares to plunge on South Korea’s Kospi?",
+    "a": "A report revealed that mass production at Samsung’s U.S. plant in Taylor, Texas, had been delayed from 2026 to 2027."
+  },
+  {
+    "q": "How did SK Hynix shares perform on March 3, 2026, during the trading session that saw South Korea’s Kospi hit its worst day in 19 months?",
+    "a": "SK Hynix shares fell almost 12%."
+  },
+  {
+    "q": "Which sector in South Korea’s market surged by over 20% on March 3, 2026, contrasting with the broader market decline?",
+    "a": "Defense stocks surged by over 20%."
+  },
+  {
+    "q": "On March 3, 2026, what claim did Iran reportedly make regarding the Strait of Hormuz that contributed to rising oil prices?",
+    "a": "Iran reportedly said it had closed the Strait of Hormuz."
+  },
+  {
+    "q": "As of 2:38 a.m. ET on March 3, 2026, what were the prices and percentage gains for U.S. crude futures and Brent crude?",
+    "a": "U.S. crude futures rose 2.16% to $72.78 per barrel, and Brent rose 2.78% to $79.91 per barrel."
+  },
+  {
+    "q": "According to Kpler data cited in the report, what percentage of the world’s overall seaborne crude exports was accounted for by the Strait of Hormuz last year?",
+    "a": "The Strait of Hormuz accounted for nearly a third of the world’s overall seaborne crude exports."
+  },
+  {
+    "q": "On March 3, 2026, by what percentage did Japan’s Nikkei 225 drop, and what was its closing value?",
+    "a": "Japan’s Nikkei 225 dropped 3.06% to close at 56,279.1."
+  },
+  {
+    "q": "What was the closing value and percentage decline for Japan’s Topix index on March 3, 2026?",
+    "a": "The Topix dipped 3.24% to close at 3,772.17."
+  },
+  {
+    "q": "How did Hong Kong’s Hang Seng index perform during its final hour of trading on March 3, 2026?",
+    "a": "Hong Kong’s Hang Seng index was down 1.25%."
+  },
+  {
+    "q": "On March 3, 2026, what was the closing value and percentage decline for mainland China’s CSI 300 index?",
+    "a": "Mainland China’s CSI 300 fell 1.54% to close at 4,655.9."
+  },
+  {
+    "q": "What was the closing value and percentage decline for Australia’s S&P/ASX 200 on March 3, 2026?",
+    "a": "Australia’s S&P/ASX 200 dropped 1.34% to finish at 9,077.3."
+  },
+  {
+    "q": "How did the U.S. S&P 500 index perform overnight on March 3, 2026, after rebounding late in the session?",
+    "a": "The S&P 500 inched up 0.04%."
+  },
+  {
+    "q": "What was the percentage gain for the U.S. Nasdaq Composite on March 3, 2026, after it recovered from a 1.6% loss?",
+    "a": "The Nasdaq Composite was higher by 0.36%."
+  },
+  {
+    "q": "On March 3, 2026, by how many points and what percentage did the U.S. Dow Jones Industrial Average fall, and what was its closing value?",
+    "a": "The Dow Jones Industrial Average fell 73.14 points, or 0.15%, settling at 48,904.78."
+  },
+  {
+    "q": "At its lows on March 3, 2026, by approximately how many points was the U.S. Dow Jones Industrial Average down?",
+    "a": "The Dow was down nearly 600 points."
+  },
+  {
+    "q": "On which day of the week did South Korea’s Kospi experience its worst day in 19 months, as trading resumed after a public holiday?",
+    "a": "The event occurred on Tuesday."
+  },
+  {
+    "q": "Which two major South Korean companies weighed down the Kospi index on March 3, 2026, with significant declines?",
+    "a": "Samsung Electronics and SK Hynix."
+  },
+  {
+    "q": "In which U.S. state is the Samsung Electronics plant located that had its mass production schedule pushed back to 2027?",
+    "a": "The plant is located in Taylor, Texas."
+  },
+  {
+    "q": "How many days had the conflict in Iran continued as of March 3, 2026, when it began denting risk sentiment across Asia-Pacific markets?",
+    "a": "The conflict had continued for a fourth day."
+  },
+  {
+    "q": "According to Kpler data, how many barrels per day transited via the Strait of Hormuz on average last year?",
+    "a": "More than 14 million barrels per day transited via the Strait."
+  },
+  {
+    "q": "Which consumer sector weighed down Japan’s Nikkei 225 index on March 3, 2026?",
+    "a": "Consumer cyclicals weighed down the Nikkei 225."
+  },
+  {
+    "q": "On March 3, 2026, which Australian market index was one of the few to record a marginal gain on the previous Monday before dropping on Tuesday?",
+    "a": "Australia’s S&P/ASX 200."
+  },
+  {
+    "q": "What was the specific closing value of the U.S. Dow Jones Industrial Average on March 3, 2026?",
+    "a": "The Dow Jones Industrial Average settled at 48,904.78."
+  },
+  {
+    "q": "Which two CNBC contributors are credited with contributing to the report on March 3, 2026, regarding Asia markets and the Iran conflict?",
+    "a": "CNBC’s Sean Conlon and Yun Li."
+  },
+  {
+    "q": "What was the average daily transit volume through the Strait of Hormuz last year, and what fraction of global seaborne crude exports did this represent?",
+    "a": "More than 14 million barrels per day, accounting for nearly a third of the world’s overall seaborne crude exports."
+  }
+]

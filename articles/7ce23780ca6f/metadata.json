@@ -1,0 +1,27 @@
+{
+  "hash": "7ce23780ca6f",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.washingtonpost.com/politics/2026/03/02/john-cornyn-texas-republican-senate-primary/",
+      "title": "John Cornyn’s primary may be GOP Senate’s loss, Texas Democrats’ gain  - The Washington Post",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Matthew Choi",
+      "num_tokens": 156,
+      "text_length": 736
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "562187",
+      "spike_id": 2,
+      "market_question": "Will John Cornyn win the 2026 Texas Republican Primary?",
+      "event_title": "Texas Republican Senate Primary Winner",
+      "spike_direction": "up",
+      "spike_delta": 0.7150000000000001,
+      "spike_timestamp_before": "2026-03-04T00:30:34+00:00",
+      "spike_timestamp_after": "2026-03-04T20:00:44+00:00"
+    }
+  ]
+}

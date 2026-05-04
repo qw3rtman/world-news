@@ -1,0 +1,65 @@
+{
+  "spike_index": 5,
+  "direction": "up",
+  "price_before": 0.245,
+  "price_after": 0.41,
+  "delta": 0.16499999999999998,
+  "abs_delta": 0.16499999999999998,
+  "timestamp_before": "2026-02-27T15:00:21+00:00",
+  "timestamp_after": "2026-02-28T14:30:23+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://today.reuters.com/legal/litigation/warner-bros-signs-110-billion-deal-with-paramount-ends-bidding-war-with-netflix-2026-02-27/",
+      "file": "cd119cefae61.txt",
+      "title": "Paramount to buy Warner Bros Discovery in $110 billion deal as Netflix bows out of race | Reuters",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": "Karl Badohal",
+      "text_length": 5295,
+      "status": "ok",
+      "num_tokens": 1060
+    },
+    {
+      "url": "https://on.theverge.com/entertainment/886478/warner-bros-discovery-paramount-merger-agreement",
+      "file": "be8e56551775.txt",
+      "title": "Warner Bros. Discovery agrees to $110 billion Paramount merger | The Verge",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": "Emma Roth",
+      "text_length": 2541,
+      "status": "ok",
+      "num_tokens": 503
+    },
+    {
+      "url": "http://www.abcnews.go.com/news/story/paramount-warner-bros-discovery-announce-deal-130576029",
+      "file": "47393d86c287.txt",
+      "title": "Paramount announces $110B deal to buy Warner Bros. Discovery\u00a0 - ABC News",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": "ABC News",
+      "text_length": 2890,
+      "status": "ok",
+      "num_tokens": 567
+    },
+    {
+      "url": "https://www.france24.com/en/americas/20260227-paramount-seals-a-110-billion-mega%E2%80%91merger-to-take-over-warner-bros",
+      "file": "03e6b5452c71.txt",
+      "title": "Paramount seals a $110\u202fbillion mega\u2011merger to take over Warner Bros - France 24",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": null,
+      "text_length": 4034,
+      "status": "ok",
+      "num_tokens": 813
+    },
+    {
+      "url": "http://reuters.com/world/paramount-expected-easily-secure-eu-nod-warner-bros-deal-sources-say-2026-02-27/",
+      "file": "ee21fcdf00f7.txt",
+      "title": "Exclusive: Paramount expected to easily secure EU nod for Warner Bros deal, sources say | Reuters",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": "Foo Yun Chee",
+      "text_length": 2699,
+      "status": "ok",
+      "num_tokens": 519
+    }
+  ],
+  "total_tokens": 3462
+}

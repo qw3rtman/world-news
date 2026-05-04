@@ -1,0 +1,27 @@
+{
+  "hash": "880563b3e16b",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://eu.usatoday.com/story/travel/airline-news/2026/03/04/american-airlines-venezuela-flights/88987225007/",
+      "title": "US approves Miami flights to Venezuela after long aviation ban",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 375,
+      "text_length": 2012
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1106813",
+      "spike_id": 12,
+      "market_question": "Will María Corina Machado enter Venezuela by March 31?",
+      "event_title": "María Corina Machado enters Venezuela by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.15500000000000003,
+      "spike_timestamp_before": "2026-03-06T04:00:24+00:00",
+      "spike_timestamp_after": "2026-03-06T23:00:22+00:00"
+    }
+  ]
+}

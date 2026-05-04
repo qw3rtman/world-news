@@ -1,0 +1,24 @@
+{
+  "market_id": "1485771",
+  "question": "Will Iran name a successor to Khamenei by March 4?",
+  "slug": "will-iran-name-a-successor-to-khamenei-by-march-4-844-575",
+  "url": "https://polymarket.com/event/will-iran-name-a-successor-to-khamenei-by",
+  "description": "This market will resolve to \"Yes\" if Iran officially announces a successor to Ali Khamenei as Supreme Leader by the specified date, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nAn announcement of a successor will be sufficient for a \"Yes\" resolution regardless of if/when the announced replacement actually becomes the next Supreme Leader, or otherwise assumes the highest government position of Iran.\n\nThe primary resolution source for this market will be a consensus of credible reporting.",
+  "event_title": "New Supreme Leader of Iran by...?",
+  "event_tags": [
+    "Iran",
+    "Politics",
+    "Geopolitics",
+    "World",
+    "Middle East",
+    "Khamenei",
+    "Iran Regime"
+  ],
+  "volume_total": 763688.6994020004,
+  "created_at": "2026-03-02T19:13:36.038356Z",
+  "end_date": "2026-03-31T00:00:00Z",
+  "num_spikes": 8,
+  "max_spike": 0.698,
+  "total_tokens": 39321,
+  "total_articles": 40
+}

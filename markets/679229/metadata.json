@@ -1,0 +1,28 @@
+{
+  "market_id": "679229",
+  "question": "Will James Talarico be the Democratic nominee for Senate in Texas?",
+  "slug": "will-james-talarico-be-the-democratic-nominee-for-senate-in-texas",
+  "url": "https://polymarket.com/event/texas-democratic-senate-primary-winner",
+  "description": "This market will resolve according to the winner of the Democratic Primary for United States Senator from Texas.\n\nIf no 2026 Texas Democratic Senate Primary takes place, this market will resolve to \"Other\".\n\nThe resolution source for this market will be the first announcement of the results from the Texas Democratic party, however an overwhelming consensus of credible reporting may suffice.",
+  "event_title": "Texas Democratic Senate Primary Winner",
+  "event_tags": [
+    "Politics",
+    "Elections",
+    "Primaries",
+    "US Election",
+    "World Elections",
+    "primary elections",
+    "Texas Senate",
+    "Senate Primary",
+    "Texas Primary",
+    "Democratic Primary",
+    "March 3 Primaries"
+  ],
+  "volume_total": 3532609.927443,
+  "created_at": "2025-11-12T20:16:10.162469Z",
+  "end_date": "2026-03-03T00:00:00Z",
+  "num_spikes": 3,
+  "max_spike": 0.1695000000000001,
+  "total_tokens": 14766,
+  "total_articles": 15
+}

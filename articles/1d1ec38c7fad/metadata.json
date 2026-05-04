@@ -1,0 +1,27 @@
+{
+  "hash": "1d1ec38c7fad",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://ca.reuters.com/business/aerospace-defense/israel-us-launch-strikes-iran-2026-02-28/",
+      "title": "Reuters | Breaking International News & Views",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 295,
+      "text_length": 1556
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1198451",
+      "spike_id": 1,
+      "market_question": "Israel strikes Iran by February 28, 2026?",
+      "event_title": "Israel strikes Iran by February 28, 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.15,
+      "spike_timestamp_before": "2026-02-27T10:00:20+00:00",
+      "spike_timestamp_after": "2026-02-27T15:30:21+00:00"
+    }
+  ]
+}

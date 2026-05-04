@@ -1,0 +1,102 @@
+[
+  {
+    "q": "During the February 28, 2026, Operation Epic Fury, which specific U.S. Navy guided-missile destroyer fired a Tomahawk missile from an undisclosed location at sea?",
+    "a": "The USS Frank E. Petersen Jr."
+  },
+  {
+    "q": "In the June 2025 conflict between Iran and Israel, approximately how many missiles did Iran reportedly launch, and what percentage of those did Israel claim to have intercepted?",
+    "a": "Iran launched 631 missiles, and Israel claimed an 86 percent interception rate."
+  },
+  {
+    "q": "Which specific anti-ballistic missile interceptor system, reported to be running critically low during the 2025 Israel-Iran conflict, prompted the United States to rush additional defense assets to the region?",
+    "a": "The Arrow 3 system."
+  },
+  {
+    "q": "During the 2016 and 2017 Battle of Mosul against the Islamic State in Iraq, what similar logistical problem to the 2025 Israel-Iran conflict did military observers note?",
+    "a": "A situation similar to running out of air defense interceptors, highlighting the strain of attritional warfare."
+  },
+  {
+    "q": "What is the name of the military concept involving tightly coordinated, intelligence-led campaigns across air, land, sea, cyber, information, and space domains, which the United States and Israel use to envision modern warfare against Iran?",
+    "a": "Multidomain operations, or MDO."
+  },
+  {
+    "q": "Which two countries are currently engaged in a war of attrition, possessing drones and long-range fire, where technological sophistication has failed to produce rapid, decisive results as of early 2026?",
+    "a": "Russia and Ukraine."
+  },
+  {
+    "q": "Before launching the February 2026 attack on Iran, which U.S. President was reportedly briefed on military concerns about dwindling precision munition stockpiles but ordered the attack anyway?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "During the first 48 hours of the February 2026 war, how many missiles and drones did Iran fire in an attempt to saturate Israeli, U.S., and Gulf air defenses?",
+    "a": "More than 1,200 missiles and drones."
+  },
+  {
+    "q": "According to Israeli military sources as of March 2026, how many of Iran’s ballistic missile launchers had already been destroyed during the initial phase of the war?",
+    "a": "200 ballistic missile launchers."
+  },
+  {
+    "q": "What specific economic and social consequence did the June 2025 conflict force upon Israel, described in the article as an unsustainable strain?",
+    "a": "A wartime lockdown."
+  },
+  {
+    "q": "Which three types of SM-class interceptors were included in the additional U.S. missile defense assets rushed to the region during the 2025 Israel-Iran conflict?",
+    "a": "SM-2, SM-3, and SM-6 interceptors."
+  },
+  {
+    "q": "What ground-based anti-missile system, alongside guided missile destroyers, was part of the U.S. reinforcement sent to the region during the 2025 Israel-Iran conflict?",
+    "a": "THAAD systems."
+  },
+  {
+    "q": "In the context of the 2025 Israel-Iran conflict, what specific capability does Israel lose if it exhausts its Arrow 3 system stockpiles?",
+    "a": "The ability to neutralize threats above the atmosphere."
+  },
+  {
+    "q": "Which historical conflict from World War II is cited in the article as an example of bombing campaigns that rarely won wars from the air alone?",
+    "a": "The Allied bombing campaigns in World War II."
+  },
+  {
+    "q": "What specific strategic error do MDO planners make regarding the elimination of enemy key nodes, according to the analysis of the February 2026 Iran war?",
+    "a": "They presuppose an almost perfect information environment and in-depth knowledge of the enemy."
+  },
+  {
+    "q": "Which two authors, Amos C. Fox and Franz-Stefan Gady, co-edited the book 'Multidomain Operations: The Pursuit of Dominance on the 21st Century Battlefield'?",
+    "a": "Amos C. Fox and Franz-Stefan Gady."
+  },
+  {
+    "q": "What specific type of munitions production issue is highlighted as a reason why running out of precision-guided munitions prevents continued fighting in 21st-century warfare?",
+    "a": "Their production is too slow and expensive to get large numbers of new supplies in an ongoing campaign."
+  },
+  {
+    "q": "During the February 2026 conflict, which regional entities' targets are at risk of being hit by Iranian missiles if Israeli and U.S. interceptor stockpiles become critically low?",
+    "a": "U.S., Israeli, and Persian Gulf country targets."
+  },
+  {
+    "q": "What specific military outcome do U.S. and Israeli operations in the February 2026 Iran campaign seek to achieve to avoid a prolonged war of attrition?",
+    "a": "To overwhelm Iran across all domains and cause the regime and its military to rapidly collapse."
+  },
+  {
+    "q": "Which organization did Franz-Stefan Gady serve as an associate fellow for cyber power and future conflict at, as of March 2026?",
+    "a": "The International Institute for Strategic Studies."
+  },
+  {
+    "q": "What specific term does the article use to describe the historical feature of great-power wars where militaries paused to receive new shells, drawing a parallel to modern munition shortages?",
+    "a": "Shell hunger."
+  },
+  {
+    "q": "In the February 2026 war, what specific Iranian strategy is employed to counter the U.S.-Israeli timeline for a quick victory?",
+    "a": "To play for time and attempt to drain interceptor stockpiles through attrition."
+  },
+  {
+    "q": "Which U.S. university’s Future Security Initiative is Amos C. Fox a professor at, as of March 2026?",
+    "a": "Arizona State University."
+  },
+  {
+    "q": "What specific risk does the article identify if the United States runs out of targets after a week of strikes in Iran but the regime has not collapsed?",
+    "a": "The White House may have to decide whether to stop and call it a victory or continue striking."
+  },
+  {
+    "q": "Which two major potential contingencies are mentioned as having their munition stockpiles potentially drained by the February 2026 Iran war, creating painful trade-offs for the U.S.?",
+    "a": "A possible war with Russia in Europe or China in East Asia."
+  }
+]

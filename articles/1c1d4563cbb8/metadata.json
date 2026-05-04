@@ -1,0 +1,27 @@
+{
+  "hash": "1c1d4563cbb8",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://www.pbs.org/newshour/world/read-trumps-full-statement-on-iran-attack",
+      "title": "Read Trump's full statement on Iran attacks | PBS News",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1328,
+      "text_length": 6468
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1466575",
+      "spike_id": 3,
+      "market_question": "Trump announces end of military operations against Iran by March 31st?",
+      "event_title": "Trump announces end of military operations against Iran by ...?",
+      "spike_direction": "down",
+      "spike_delta": -0.16499999999999992,
+      "spike_timestamp_before": "2026-02-28T22:00:37+00:00",
+      "spike_timestamp_after": "2026-03-01T07:00:29+00:00"
+    }
+  ]
+}

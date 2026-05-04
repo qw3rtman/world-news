@@ -1,0 +1,103 @@
+[
+  {
+    "q": "In March 2026, which country announced preparations to expand an incursion into southern Lebanon to combat Iran-backed Hezbollah militants?",
+    "a": "Israel"
+  },
+  {
+    "q": "What specific militant group did Israel state it was targeting with its expanded incursion into southern Lebanon in March 2026?",
+    "a": "Iran-backed Hezbollah militants"
+  },
+  {
+    "q": "Which ongoing conflict was cited as the broader context for the regional repercussions of Israel's March 2026 military escalation in Lebanon?",
+    "a": "The ongoing Iran war"
+  },
+  {
+    "q": "What humanitarian concern did Lebanese authorities associate with Israel's March 2026 decision to expand its military incursion into southern Lebanon?",
+    "a": "A threat of a humanitarian crisis"
+  },
+  {
+    "q": "In March 2026, which government called for a ceasefire and offered to directly negotiate with Israel regarding the conflict in southern Lebanon?",
+    "a": "Lebanese authorities"
+  },
+  {
+    "q": "What failure did Lebanese authorities acknowledge in March 2026 regarding the disarmament of Hezbollah since the November 2024 truce?",
+    "a": "Their failure to disarm the militant group"
+  },
+  {
+    {
+    "q": "Which militant group had previously been subject to a truce in November 2024 that Lebanese authorities failed to enforce by disarming them as of March 2026?",
+    "a": "Hezbollah"
+  },
+  {
+    "q": "What type of political action did Lebanese authorities take in March 2026 in response to Israel's planned expansion of its incursion into southern Lebanon?",
+    "a": "They called for a ceasefire and offered direct negotiations"
+  },
+  {
+    "q": "According to the March 2026 report, which country's military actions in southern Lebanon were described as an escalation threatening regional repercussions?",
+    "a": "Israel"
+  },
+  {
+    "q": "Which two entities were the primary parties in the direct negotiation offer made by Lebanese authorities in March 2026?",
+    "a": "Lebanese authorities and Israel"
+  },
+  {
+    "q": "What specific geographic region was the focus of Israel's expanded incursion announced in March 2026?",
+    "a": "Southern Lebanon"
+  },
+  {
+    "q": "Which foreign power was identified as backing the Hezbollah militants that Israel targeted in its March 2026 campaign?",
+    "a": "Iran"
+  },
+  {
+    "q": "What previous diplomatic milestone involving a truce was referenced in March 2026 as having failed to result in the disarmament of Hezbollah?",
+    "a": "The November 2024 truce"
+  },
+  {
+    "q": "In March 2026, which nation's authorities acknowledged their inability to disarm Hezbollah despite a prior truce agreement?",
+    "a": "Lebanon"
+  },
+  {
+    "q": "What dual consequence did the March 2026 expansion of Israel's incursion into southern Lebanon threaten, according to the report?",
+    "a": "A humanitarian crisis and regional repercussions"
+  },
+  {
+    "q": "Which militant group's presence in southern Lebanon prompted Israel to prepare for a broader military campaign in March 2026?",
+    "a": "Hezbollah"
+  },
+  {
+    "q": "What specific date range is associated with the failure of Lebanese authorities to disarm Hezbollah, as noted in March 2026?",
+    "a": "Since the November 2024 truce"
+  },
+  {
+    "q": "Which country's military escalation in southern Lebanon in March 2026 was linked to the ongoing Iran war?",
+    "a": "Israel"
+  },
+  {
+    "q": "What negotiation stance did Lebanese authorities adopt in March 2026 regarding the conflict with Israel?",
+    "a": "They offered to directly negotiate with Israel"
+  },
+  {
+    "q": "Which group did Lebanese authorities fail to disarm between the November 2024 truce and March 2026?",
+    "a": "Hezbollah"
+  },
+  {
+    "q": "What was the stated purpose of Israel's expanded incursion into southern Lebanon in March 2026?",
+    "a": "To fight Iran-backed Hezbollah militants"
+  },
+  {
+    "q": "Which two major geopolitical issues were intertwined in the March 2026 escalation between Israel and Hezbollah in southern Lebanon?",
+    "a": "The ongoing Iran war and the threat of a humanitarian crisis"
+  },
+  {
+    "q": "In March 2026, which authority claimed responsibility for the failure to enforce the disarmament terms of the November 2024 truce?",
+    "a": "Lebanese authorities"
+  },
+  {
+    "q": "What specific military action did Israel announce it was preparing for in southern Lebanon in March 2026?",
+    "a": "An expansion of an incursion"
+  },
+  {
+    "q": "Which two countries were directly involved in the ceasefire call and negotiation offer made in March 2026?",
+    "a": "Lebanon and Israel"
+  }
+]

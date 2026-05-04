@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the January 2026 speech at SpaceX, what specific phrase did U.S. Defense Secretary Pete Hegseth use to describe the type of AI systems the Department of War would build, contrasting them with 'chatbots for an Ivy League faculty lounge'?",
+    "a": "\"War-ready weapons and systems.\""
+  },
+  {
+    "q": "As of February 25, 2026, which AI startup received an ultimatum from U.S. Defense Secretary Pete Hegseth to join a military program or face the loss of a $200 million contract?",
+    "a": "Anthropic."
+  },
+  {
+    "q": "According to the February 25, 2026 report, what is the deadline day of the week by which the startup Anthropic must comply with U.S. Defense Secretary Pete Hegseth's military program ultimatum?",
+    "a": "Friday."
+  },
+  {
+    "q": "In January 2026, U.S. Defense Secretary Pete Hegseth gave a speech at which specific company's facility where he condemned AI safeguards as 'woke AI'?",
+    "a": "SpaceX."
+  },
+  {
+    "q": "What monetary amount did U.S. Defense Secretary Pete Hegseth threaten to withhold from the AI startup Anthropic if it failed to join the military program by the Friday deadline in late February 2026?",
+    "a": "$200 million."
+  },
+  {
+    "q": "Which administration, led by U.S. President Donald Trump, has repeatedly condemned AI safeguards under the label of 'woke AI' as of February 2026?",
+    "a": "The Trump administration."
+  },
+  {
+    "q": "During his January 2026 speech, what did U.S. Defense Secretary Pete Hegseth state the Department of War AI would NOT be?",
+    "a": "Woke."
+  },
+  {
+    "q": "What specific type of technology did U.S. Defense Secretary Pete Hegseth criticize as having 'ideological restrictions' during his January 2026 speech at SpaceX?",
+    "a": "AI systems."
+  },
+  {
+    "q": "In the February 25, 2026 ultimatum, which U.S. government department's AI program was the startup Anthropic being pressured to join?",
+    "a": "The Department of War (or the military program)."
+  },
+  {
+    "q": "What term did U.S. Defense Secretary Pete Hegseth use in January 2026 to dismiss the purpose of AI systems that include ideological restrictions, comparing them to tools for academics?",
+    "a": "Chatbots for an Ivy League faculty lounge."
+  },
+  {
+    "q": "Which AI startup, identified as 'woke AI' by critics, was the subject of a February 2026 ultimatum from U.S. Defense Secretary Pete Hegseth regarding a $200 million contract?",
+    "a": "Anthropic."
+  },
+  {
+    "q": "What was the stated consequence for the AI startup Anthropic if it did not get with the military program by Friday in late February 2026, according to U.S. Defense Secretary Pete Hegseth?",
+    "a": "Lose $200 million."
+  },
+  {
+    "q": "In January 2026, U.S. Defense Secretary Pete Hegseth asserted that Department of War AI would 'work for us' and build what specific kind of tools?",
+    "a": "War-ready weapons and systems."
+  },
+  {
+    "q": "Which news outlet published the report on February 25, 2026, detailing U.S. Defense Secretary Pete Hegseth's ultimatum to the AI startup Anthropic?",
+    "a": "Fortune."
+  },
+  {
+    "q": "Who is the News Fellow who authored the February 25, 2026 article about U.S. Defense Secretary Pete Hegseth's ultimatum to Anthropic?",
+    "a": "Jake Angelo."
+  },
+  {
+    "q": "What label did U.S. Defense Secretary Pete Hegseth apply to AI systems with ideological restrictions during his January 2026 speech at SpaceX?",
+    "a": "\"Woke.\""
+  },
+  {
+    "q": "In the February 2026 ultimatum, what specific financial penalty did U.S. Defense Secretary Pete Hegseth threaten against the AI startup Anthropic for non-compliance with the military program?",
+    "a": "Loss of a $200 million contract."
+  },
+  {
+    "q": "Which U.S. Cabinet position did Pete Hegseth hold when he issued the February 2026 ultimatum to the AI startup Anthropic?",
+    "a": "Defense Secretary."
+  },
+  {
+    "q": "During his January 2026 speech, U.S. Defense Secretary Pete Hegseth contrasted 'war-ready weapons' with what type of technology he claimed the Department of War would not build?",
+    "a": "Chatbots for an Ivy League faculty lounge."
+  },
+  {
+    "q": "What specific day of the week was set as the deadline for the AI startup Anthropic to join the military program in the February 2026 ultimatum issued by U.S. Defense Secretary Pete Hegseth?",
+    "a": "Friday."
+  },
+  {
+    "q": "Which AI startup was described as a 'woke AI' startup in the February 25, 2026 Fortune article regarding U.S. Defense Secretary Pete Hegseth's ultimatum?",
+    "a": "Anthropic."
+  },
+  {
+    "q": "In January 2026, where did U.S. Defense Secretary Pete Hegseth deliver a fiery speech railing against AI systems with ideological restrictions?",
+    "a": "SpaceX."
+  },
+  {
+    "q": "What specific phrase did U.S. Defense Secretary Pete Hegseth use in January 2026 to declare that Department of War AI would reject ideological restrictions?",
+    "a": "\"Department of War AI will not be woke.\""
+  },
+  {
+    "q": "According to the February 25, 2026 report, what is the full name of the AI startup that U.S. Defense Secretary Pete Hegseth issued an ultimatum to regarding a $200 million contract?",
+    "a": "Anthropic."
+  },
+  {
+    "q": "What did U.S. Defense Secretary Pete Hegseth state in January 2026 that the Department of War is building, as opposed to 'chatbots for an Ivy League faculty lounge'?",
+    "a": "War-ready weapons and systems."
+  }
+]

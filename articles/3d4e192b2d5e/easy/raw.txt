@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2026, which artificial intelligence company announced the acquisition of the cybersecurity startup Promptfoo?",
+    "a": "OpenAI"
+  },
+  {
+    "q": "As of March 2026, into which specific OpenAI platform will Promptfoo’s security tools be integrated?",
+    "a": "OpenAI’s Frontier platform"
+  },
+  {
+    "q": "Who is the CEO of Promptfoo who stated that joining OpenAI would accelerate security work for AI systems in March 2026?",
+    "a": "Ian Webster"
+  },
+  {
+    "q": "In March 2026, which three major artificial intelligence model providers were named by OpenAI as examples of large language models that developers can compare using Promptfoo’s open-source project?",
+    "a": "ChatGPT (OpenAI), Anthropic’s Claude, and Google’s Gemini"
+  },
+  {
+    "q": "In January 2026, for approximately what amount did OpenAI acquire the health-care tech startup Torch?",
+    "a": "Roughly $60 million"
+  },
+  {
+    "q": "In October 2025, which startup did OpenAI acquire that had created an AI interface called Sky for Apple Mac users?",
+    "a": "Software Applications"
+  },
+  {
+    "q": "In February 2026, which creator of the OpenClaw tool did OpenAI hire to work on AI agents?",
+    "a": "Peter Steinberger"
+  },
+  {
+    "q": "In February 2026, which OpenAI leader described Peter Steinberger as a genius with amazing ideas about smart agents interacting with each other?",
+    "a": "Sam Altman"
+  },
+  {
+    "q": "In July 2025, what was the total amount raised by Promptfoo in its Series A financing round?",
+    "a": "$18.4 million"
+  },
+  {
+    "q": "In July 2025, which two venture capital firms led Promptfoo’s Series A financing round?",
+    "a": "Insight Partners and Andreessen Horowitz"
+  },
+  {
+    "q": "As of July 2025, what was Promptfoo’s post-valuation according to the deal-tracking service Pitchbook?",
+    "a": "$85.5 million"
+  },
+  {
+    "q": "As of July 2025, how many total employees did the cybersecurity startup Promptfoo have?",
+    "a": "11 employees"
+  },
+  {
+    "q": "As of July 2025, what was the total amount of capital Promptfoo had raised since its inception?",
+    "a": "$22.68 million"
+  },
+  {
+    "q": "In January 2026, what was the total amount raised by Andreessen Horowitz as part of its funding efforts related to American Dynamism?",
+    "a": "$15 billion"
+  },
+  {
+    "q": "In January 2026, how much of Andreessen Horowitz’s $15 billion raise was allocated for a growth fund?",
+    "a": "$6.75 billion"
+  },
+  {
+    "q": "In January 2026, what were the two specific focus areas for the other $1.7 billion funds raised by Andreessen Horowitz?",
+    "a": "Apps and infrastructure"
+  },
+  {
+    "q": "In March 2026, which companies were cited as competitors to OpenAI in the hyper-competitive AI market?",
+    "a": "Anthropic, Google, and Meta"
+  },
+  {
+    "q": "In March 2026, what type of tools does Promptfoo provide to help safeguard complex artificial intelligence systems?",
+    "a": "Tools to help safeguard and test complex AI systems"
+  },
+  {
+    "q": "In March 2026, what did OpenAI say would happen to Promptfoo’s team after the acquisition?",
+    "a": "The team would join OpenAI"
+  },
+  {
+    "q": "In March 2026, what specific capabilities did Promptfoo CEO Ian Webster say joining OpenAI would bring to teams building real-world AI systems?",
+    "a": "Stronger security, safety, and governance capabilities"
+  },
+  {
+    "q": "In July 2025, what function does Promptfoo’s popular open-source project allow developers to perform regarding large language models?",
+    "a": "Test various AI-related prompts and agents and compare the performance of large language models"
+  },
+  {
+    "q": "In October 2025, what was the name of the AI interface created by the startup Software Applications that OpenAI acquired?",
+    "a": "Sky"
+  },
+  {
+    "q": "In February 2026, what tool created by Peter Steinberger is used by developers to create AI agents?",
+    "a": "OpenClaw"
+  },
+  {
+    "q": "In January 2026, which venture capital firm stated it raised $15 billion for funding efforts related to American Dynamism?",
+    "a": "Andreessen Horowitz"
+  },
+  {
+    "q": "In March 2026, which cybersecurity startup did OpenAI acquire to help safeguard and test complex artificial intelligence systems?",
+    "a": "Promptfoo"
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "hash": "2b047f984a82",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://www.aljazeera.com/news/2026/2/26/us-ukraine-to-meet-in-geneva-as-russia-attacks-kyiv-with-missiles-drones",
+      "title": "Ukraine’s Zelenskyy says next Russia talks likely in Abu Dhabi next month | Russia-Ukraine war News | Al Jazeera",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": "Al Jazeera Staff",
+      "num_tokens": 1311,
+      "text_length": 6504
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "677361",
+      "spike_id": 1,
+      "market_question": "Will Russia capture Kostyantynivka by March 31?",
+      "event_title": "Will Russia capture Kostyantynivka by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.15000000000000002,
+      "spike_timestamp_before": "2026-02-27T08:00:25+00:00",
+      "spike_timestamp_after": "2026-02-27T18:30:24+00:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "hash": "46b753b0e6b6",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.barrons.com/articles/warner-bros-discovery-stock-netflix-paramount-skydance-286dfc8b?gaa_at=eafs&gaa_n=AWEtsqd8R-MphlAG0Rc5OS8eFRoYRXDLl2ZBhmMfWFmAY7oZOylYUkDgNgZn&gaa_sig=rz3zhPkyU5X9gG6WsYLNy2qND6VDn912r1BfDsRq-y1ot-FHDctxxaJpZKfo0gVwWb8mAO0mg2ePbJVX82zEUQ%3D%3D&gaa_ts=699a9836",
+      "title": "Want to Win the Warner Bros. Discovery Takeover Battle? Walk Away From It. <!-- --> - Barron's",
+      "published_date": "2026-02-20T00:00:00.000Z",
+      "author": "Andrew Bary",
+      "num_tokens": 88,
+      "text_length": 390
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694939",
+      "spike_id": 1,
+      "market_question": "Will Ubisoft be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.16999999999999998,
+      "spike_timestamp_before": "2026-02-20T02:30:17+00:00",
+      "spike_timestamp_after": "2026-02-20T09:30:15+00:00"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+The Blogs: Counting Fronts | Sabine Sterk | The Times of Israel -- ;(function(o) { var w=window.top,a='apdAdmin',ft=w.document.getElementsByTagName('head')[0], l=w.location.href,d=w.document;w.apd_options=o; if(l.indexOf('disable_fi')!=-1) { console.error('disable_fi has been detected in URL. FI functionality is disabled for this page view.'); return; } var fiab=d.createElement('script'); fiab.type = 'text/javascript'; fiab.src=o.scheme+'ecdn.analysis.fi/static/js/fab.js';fiab.id='fi-'+o.websiteId; ft.appendChild(fiab, ft);if(l.indexOf(a)!=-1) w.localStorage[a]=1; var aM = w.localStorage[a]==1, fi=d.createElement('script'); fi.type='text/javascript'; fi.async=true; if(aM) fi['data-cfasync']='false'; fi.src=o.scheme+(aM?'cdn':'ecdn') + '.firstimpression.io/' + (aM ? 'fi.js?id='+o.websiteId : 'fi_client.js'); ft.appendChild(fi); })({ 'websiteId': 5459, 'scheme': '//' }); --
+
+The Blogs
+
+CEO of Time to Stand Up for Israel
+
+The Blogs
+
+- Terms of Use
+- Popular
+- Latest
+- Featured
+- Home
+
+Apply for a Blog
+
+Photo Credits: Sabine Sterk (AI)
+
+Counting Front
+
+How many fronts is Israel really fighting on?
+
+Ask the question casually and the answer seems simple. Seven fronts. That is what analysts, commentators, and even AI systems tend to say. Gaza. Lebanon. Iran. Syria. Iraq. Yemen. And the information war. A neat, contained list that gives the illusion of a conventional conflict, one that can be mapped, measured, and explained within familiar military terms.
+
+But reality refuses to stay within neat categories.
+
+If Iran is a front, directing and financing terror across the region, then what exactly do we call the attack on Bondi Beach in Sydney? What do we call the explosion at a synagogue in the United States? What do we call the streets of Amsterdam, where Jews were hunted after a football match, or the assault on a Jewish school that followed?
+
+Are these isolated incidents, detached from the conflict in the Middle East? Or are they part of the same war, expressed differently but driven by the same hatred?
+
+Look at the pattern, not the geography.
+
+Paris. Toulouse. Nice. Brussels. Antwerp. Berlin. Halle. Munich. Frankfurt. London. Manchester. Copenhagen. Stockholm. Gothenburg. Oslo. Amsterdam. Vienna. Zurich. Rome. Milan. Madrid. Barcelona. Athens. Istanbul. Moscow. Kyiv. Budapest. Prague. Warsaw. New York City. Los Angeles. Pittsburgh. San Diego. Miami. Toronto. Montreal. Buenos Aires. São Paulo. Mexico City. Johannesburg. Cape Town. Casablanca. Tunis. Cairo. Jerusalem. Tel Aviv. Haifa. Beersheba. Eilat. Mumbai. Delhi. Bangkok. Jakarta. Manila. Sydney. Melbourne.
+
+This is not a random list. It is a map.
+
+A map of where Jews have been attacked, where Israeli targets have been singled out, where Jewish life has been threatened, vandalized, or destroyed. Different continents. Different languages. Different political systems. Yet the same target.
+
+So the question must be asked honestly.
+
+Are these all separate fronts? Or are they manifestations of something deeper and far more dangerous?
+
+Israel today is undeniably facing a multi front conflict in the traditional sense. From Gaza, Hamas continues its relentless campaign of rockets, tunnels, and terror. From Lebanon, Hezbollah stands armed with an arsenal capable of devastating Israel’s cities. Iran sits at the center, orchestrating, funding, and arming these forces while developing its own direct capabilities. In Syria, Iranian backed militias entrench themselves near Israel’s borders. In Iraq, Shia militias extend the reach of this network. From Yemen, Houthi forces launch missiles and drones across vast distances.
+
+And then there is the seventh front, the most insidious of all. The information war.
+
+Here, facts are distorted, context is erased, and Israel is systematically reframed as the aggressor regardless of circumstance. Social media amplifies falsehoods at lightning speed. Traditional media too often abandons rigor for narrative. Political arenas reward simplification over truth. In this domain, Israel is not just fighting for security, but for legitimacy itself.
+
+Yet even this seven front framework is incomplete.
+
+Because what connects a missile fired from Yemen to a Molotov cocktail thrown at a synagogue in Europe? What links a drone launched by an Iranian proxy to a Jewish student being harassed on a Western campus?
+
+The answer is not geography. It is ideology.
+
+At its core, Israel is confronting two converging forces. The ancient hatred of antisemitism, which adapts to every era but never disappears. And a modern form of militant expansionism rooted in extremist Islamic interpretations that seek dominance, not coexistence.
+
+These forces do not operate only on battlefields. They operate in minds, in narratives, in institutions. They turn local grievances into global hostility. They transform political disagreement into dehumanization. And they blur the line between opposition to Israel and hostility toward Jews everywhere.
+
+This is why the idea of counting fronts becomes almost meaningless.
+
+Because if a Jewish school in Europe must increase its security due to threats, that is part of the same conflict. If a synagogue in North America is attacked, that is part of the same conflict. If lies about Israel spread unchecked and incite hatred thousands of miles away, that too is part of the same conflict.
+
+The battlefield is global.
+
+And the most dangerous front may well be the one that many refuse to acknowledge. The media war. Not because media itself is inherently hostile, but because the scale of misinformation, distortion, and selective outrage has reached unprecedented levels. Lies travel faster than corrections. Images are stripped of context. Narratives are constructed before facts are known.
+
+Fighting tanks and rockets is one kind of war. Fighting disinformation is another entirely. It is slower, more complex, and often feels almost impossible. Yet its consequences are profound, because it shapes how the world understands, judges, and ultimately responds.
+
+No nation facing this scale and diversity of threats should be reduced to a simplistic label of aggressor without acknowledging the reality it confronts.
+
+Seven fronts may be a useful starting point. But it is not the full picture.
+
+Israel is not just fighting on borders. It is fighting across continents, across narratives, across generations.
+
+So perhaps the real number of fronts is not seven.
+
+Perhaps it is as many places as hatred finds a foothold.
+
+And that is precisely why this cannot be ignored.
+
+Stop the hate.
+
+Stop the distortion.
+
+Because in a world where lies spread unchecked and violence follows, silence is not neutrality. It is complicity.
+
+About the Author
+
+CEO of Time to Stand Up for Israel, a nonprofit organization with a powerful mission: to support Israel and amplify its voice around the world. With over 200,000 followers across various social media platforms, our community is united by a shared love for Israel and a deep commitment to her future. My journey as an advocate for Israel began early. When I was 11 years old, my father was deployed to the Middle East through his work with UNTSO. I had the unique experience of living in both Syria and Israel, and from a young age, I witnessed firsthand the contrast in cultures and realities. That experience shaped me profoundly. Returning to the Netherlands, I quickly became aware of the growing wave of anti-Israel sentiment — and I knew I had to speak out. Ever since, I’ve been a fierce and unapologetic supporter of Israel. I’m not religious, but my belief is clear and unwavering: Israel has the right to exist, and Israel has the duty to defend herself. My passion is rooted in truth, love, and justice. I’m a true Zionist at heart. From my first breath to my last, I will stand up for Israel.
+
+Related Topics
+
+- Israel At War
+- Israel Advocacy
+
+close popup
+
+Sign in or Register
+
+Email address *
+
+Please use the following structure: example@domain.com
+
+Continue
+
+Or Continue with
+
+By registering you agree to the terms and conditions
+
+Send me The Times of Israel Daily Edition
+
+back
+
+close popup
+
+Register to continue
+
+Email address * Change
+
+error text -- REGISTER
+
+Or Continue with
+
+By registering you agree to the terms and conditions Send me The Times of Israel Daily Edition --
+
+back
+
+close popup
+
+Log in to continue
+
+Email address *
+
+Something went wrong. Please try again in a few minutes..
+
+Continue
+
+back
+
+close popup
+
+Sign in or Register
+
+Email address * Password *
+
+Incorrect password. Please try again or choose an option below.
+
+Continue
+
+I forgot my password / Send me a sign in link
+
+Or Continue with
+
+By registering you agree to the terms and conditions Send me The Times of Israel Daily Edition --
+
+back --
+
+close popup
+
+Check your email
+
+We sent an email to you at .
+
+It has a link that will sign you in.
+
+Click the link in that email to complete registration so you can comment.
+
+close popup
+
+Sign in or Register
+
+Email address *
+
+Please use the following structure: example@domain.com
+
+Continue
+
+Or Continue with
+
+By registering you agree to the terms and conditions
+
+Send me The Times of Israel Daily Edition
+
+back
+
+close popup
+
+Register to continue
+
+Email address * Change
+
+error text -- REGISTER
+
+Or Continue with
+
+By registering you agree to the terms and conditions Send me The Times of Israel Daily Edition --
+
+back
+
+close popup
+
+Log in to continue
+
+Email address *
+
+Something went wrong. Please try again in a few minutes..
+
+Continue
+
+back
+
+close popup
+
+Sign in or Register
+
+Email address * Password *
+
+Incorrect password. Please try again or choose an option below.
+
+Continue
+
+I forgot my password / Send me a sign in link
+
+Or Continue with
+
+By registering you agree to the terms and conditions Send me The Times of Israel Daily Edition --
+
+back --
+
+close popup
+
+Check your email
+
+We sent an email to you at .
+
+It has a link that will sign you in.
+
+Click the link in that email to complete registration so you can comment.

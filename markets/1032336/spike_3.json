@@ -1,0 +1,65 @@
+{
+  "spike_index": 3,
+  "direction": "up",
+  "price_before": 0.3505,
+  "price_after": 0.518,
+  "delta": 0.16750000000000004,
+  "abs_delta": 0.16750000000000004,
+  "timestamp_before": "2026-02-26T22:00:32+00:00",
+  "timestamp_after": "2026-02-27T20:30:36+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-price-prediction-today-what-is-the-gold-rate-outlook-for-february-26-2026-should-you-buy-or-sell-mcx-gold-mcx-silver/articleshow/128803388.cms",
+      "file": "1185d9d20384.txt",
+      "title": "Gold, silver price prediction today: Will gold hit Rs 1.7 lakh/10 grams & silver cross Rs 2.80 lakh/kg soon? Here's the outlook - The Times of India",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /   Feb 26, 2026, 11:08 IST",
+      "text_length": 4624,
+      "status": "ok",
+      "num_tokens": 904
+    },
+    {
+      "url": "http://fortune.com/article/current-price-of-silver-2-27-2026/",
+      "file": "5947a4f7d0c8.txt",
+      "title": "Current price of silver as of Friday, February 27, 2026 | Fortune",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": "Joseph Hostetler",
+      "text_length": 418,
+      "status": "ok",
+      "num_tokens": 125
+    },
+    {
+      "url": "https://www.cbsnews.com/news/price-of-silver-today-february-26-2026/?intcid=CNR-01-0623",
+      "file": "a0f0a979f7ed.txt",
+      "title": "What is the price of silver today: February 26, 2026? - CBS News",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": null,
+      "text_length": 3633,
+      "status": "ok",
+      "num_tokens": 751
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-what-is-the-gold-rate-outlook-for-february-27-2026-should-you-buy-or-sell-mcx-gold/articleshow/128841612.cms",
+      "file": "ad9cab8e0f1f.txt",
+      "title": "Gold price prediction: What's the gold rate outlook for February 27, 2026 & should you buy on dips? - The Times of India",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /   Feb 27, 2026, 13:53 IST",
+      "text_length": 3104,
+      "status": "ok",
+      "num_tokens": 672
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-rate-today-silver-price-live-updates-22-carat-24k-gold-rate-silver-per-kg-mcx-comex-etf-stock-market-precious-metal-february-city-wise-cost-latest-new/amp_liveblog/128768764.cms",
+      "file": "11c9478a9b41.txt",
+      "title": "Gold, Silver Rate Today Live Updates: Gold, silver prices up; safe haven demand keeps rates steady - The Times of India",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": null,
+      "text_length": 26868,
+      "status": "ok",
+      "num_tokens": 6057
+    }
+  ],
+  "total_tokens": 8509
+}

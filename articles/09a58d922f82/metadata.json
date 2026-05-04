@@ -1,0 +1,27 @@
+{
+  "hash": "09a58d922f82",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.abc.net.au/news/2026-03-12/donald-trump-and-iran-oil-could-involve-kharg-island/106429772",
+      "title": "Kharg Island could be Iran's weak spot as Washington reportedly considers ground invasion options - ABC News",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1617,
+      "text_length": 8130
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1394368",
+      "spike_id": 5,
+      "market_question": "Will the U.S. invade Iran by March 31?",
+      "event_title": "Will the U.S. invade Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.168,
+      "spike_timestamp_before": "2026-03-13T14:30:26+00:00",
+      "spike_timestamp_after": "2026-03-13T23:30:28+00:00"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the acquisition announced by OpenAI on March 9, 2026, what percentage of Fortune 500 companies were reported to use the acquired platform Promptfoo?",
+    "a": "25 percent"
+  },
+  {
+    "q": "According to the March 9, 2026 announcement, what is the primary function of the AI security platform Promptfoo acquired by OpenAI?",
+    "a": "To identify and remediate vulnerabilities in AI systems during development"
+  },
+  {
+    "q": "Which company announced on March 9, 2026, that it would acquire the AI security platform Promptfoo?",
+    "a": "OpenAI"
+  },
+  {
+    "q": "What specific type of vulnerabilities does the platform Promptfoo, acquired by OpenAI in March 2026, help address during the development phase?",
+    "a": "Vulnerabilities in AI systems"
+  },
+  {
+    "q": "As of the March 9, 2026 announcement, what was the market penetration of Promptfoo among Fortune 500 companies?",
+    "a": "It was used by 25 percent of Fortune 500 companies"
+  },
+  {
+    "q": "What is the name of the AI security platform that OpenAI announced it would acquire in March 2026?",
+    "a": "Promptfoo"
+  },
+  {
+    "q": "In the March 9, 2026 acquisition deal, which entity is the buyer of the AI security platform Promptfoo?",
+    "a": "OpenAI"
+  },
+  {
+    "q": "What category of software tool is Promptfoo, which OpenAI agreed to acquire in March 2026?",
+    "a": "An AI security platform"
+  },
+  {
+    "q": "According to OpenAI's March 9, 2026 statement, when does the platform Promptfoo assist in identifying vulnerabilities?",
+    "a": "During development"
+  },
+  {
+    "q": "Which major business index's members were reported to use Promptfoo, the platform acquired by OpenAI in March 2026?",
+    "a": "Fortune 500 companies"
+  },
+  {
+    "q": "What two actions does the acquired platform Promptfoo help perform regarding AI system vulnerabilities, according to the March 9, 2026 announcement?",
+    "a": "Identify and remediate"
+  },
+  {
+    "q": "On what date did The Verge publish the report that OpenAI would acquire Promptfoo?",
+    "a": "March 9, 2026"
+  },
+  {
+    "q": "Which organization's members constitute the 25 percent user base of Promptfoo cited in the March 9, 2026 acquisition announcement?",
+    "a": "Fortune 500 companies"
+  },
+  {
+    "q": "What is the specific phase of the AI lifecycle in which Promptfoo helps identify vulnerabilities, as stated in the March 9, 2026 report?",
+    "a": "Development"
+  },
+  {
+    "q": "Who is the acquiring company in the March 9, 2026 transaction involving the AI security platform Promptfoo?",
+    "a": "OpenAI"
+  },
+  {
+    "q": "What percentage figure was associated with Promptfoo's usage among Fortune 500 companies in the March 9, 2026 OpenAI announcement?",
+    "a": "25 percent"
+  },
+  {
+    "q": "In the March 9, 2026 acquisition, what is the target company being acquired by OpenAI?",
+    "a": "Promptfoo"
+  },
+  {
+    "q": "What is the stated utility of Promptfoo for Fortune 500 companies, according to the March 9, 2026 OpenAI announcement?",
+    "a": "To identify and remediate vulnerabilities in AI systems during development"
+  },
+  {
+    "q": "Which publication reported on March 9, 2026, that OpenAI would acquire Promptfoo?",
+    "a": "The Verge"
+  },
+  {
+    "q": "What type of systems are the vulnerabilities located in, according to the description of Promptfoo in the March 9, 2026 announcement?",
+    "a": "AI systems"
+  },
+  {
+    "q": "What is the full name of the AI security platform that OpenAI announced it would acquire in March 2026?",
+    "a": "Promptfoo"
+  },
+  {
+    "q": "According to the March 9, 2026 announcement, what is the relationship between OpenAI and Promptfoo?",
+    "a": "OpenAI will acquire Promptfoo"
+  },
+  {
+    "q": "What specific metric did OpenAI cite regarding Promptfoo's adoption by large corporations in the March 9, 2026 announcement?",
+    "a": "It is used by 25 percent of Fortune 500 companies"
+  },
+  {
+    "q": "In the context of the March 9, 2026 acquisition, what is the role of Promptfoo within the AI development process?",
+    "a": "To identify and remediate vulnerabilities"
+  },
+  {
+    "q": "Which company's acquisition of Promptfoo was reported by The Verge on March 9, 2026?",
+    "a": "OpenAI"
+  }
+]

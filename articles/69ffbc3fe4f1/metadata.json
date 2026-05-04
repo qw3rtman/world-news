@@ -1,0 +1,27 @@
+{
+  "hash": "69ffbc3fe4f1",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/middle-east/netanyahu-says-us-israel-war-iran-not-going-take-years-2026-03-03/",
+      "title": "Middle East conflict widens as Israeli, US strikes again hit Iran; oil soars, shares slide | Reuters",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Parisa Hafezi",
+      "num_tokens": 1365,
+      "text_length": 6678
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1484987",
+      "spike_id": 2,
+      "market_question": "Netanyahu out by June 30?",
+      "event_title": "Netanyahu out by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.29,
+      "spike_timestamp_before": "2026-03-02T22:00:33+00:00",
+      "spike_timestamp_after": "2026-03-03T03:30:36+00:00"
+    }
+  ]
+}

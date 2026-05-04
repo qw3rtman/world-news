@@ -1,0 +1,27 @@
+{
+  "hash": "2aede153fa7b",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://reuters.com/world/middle-east/prior-iran-attacks-cia-assessed-khamenei-would-be-replaced-by-hardline-irgc-2026-02-28/",
+      "title": "Exclusive: Prior to Iran attacks, CIA assessed Khamenei could be replaced by hardline IRGC elements if killed, sources say | Reuters",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Erin Banco",
+      "num_tokens": 453,
+      "text_length": 2352
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "666860",
+      "spike_id": 1,
+      "market_question": "Trump out as President by March 31?",
+      "event_title": "Trump out as President by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.27099999999999996,
+      "spike_timestamp_before": "2026-02-27T09:00:49+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:59+00:00"
+    }
+  ]
+}

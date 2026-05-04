@@ -1,0 +1,37 @@
+{
+  "hash": "ff9a5171797a",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/sustainability/sustainable-finance-reporting/warner-bros-weighing-revised-bid-paramount-bidding-war-escalates-2026-02-24/",
+      "title": "Warner Bros reopens door to Paramount, putting Netflix deal in doubt | Reuters",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": "Dawn Chmielewski",
+      "num_tokens": 847,
+      "text_length": 4333
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694939",
+      "spike_id": 3,
+      "market_question": "Will Ubisoft be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.15500000000000003,
+      "spike_timestamp_before": "2026-02-25T19:00:19+00:00",
+      "spike_timestamp_after": "2026-02-26T02:30:19+00:00"
+    },
+    {
+      "market_id": "694939",
+      "spike_id": 4,
+      "market_question": "Will Ubisoft be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.17,
+      "spike_timestamp_before": "2026-02-25T19:00:19+00:00",
+      "spike_timestamp_after": "2026-02-26T09:00:20+00:00"
+    }
+  ]
+}

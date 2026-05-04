@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In February 2026, what specific deadline did U.S. Defense Secretary Pete Hegseth impose on Anthropic regarding military access to its AI models, and what two potential consequences did he threaten if the company failed to comply?",
+    "a": "The deadline was Friday evening; the threatened consequences were labeling Anthropic a \"supply chain risk\" or invoking the Defense Production Act."
+  },
+  {
+    "q": "During a Tuesday morning meeting in February 2026, which two individuals were the primary participants in the negotiations that stalled due to disagreements over autonomous weapons and mass surveillance?",
+    "a": "U.S. Defense Secretary Pete Hegseth and Anthropic CEO Dario Amodei."
+  },
+  {
+    "q": "As of February 2026, which two artificial intelligence companies held clearance to deploy their models on U.S. Department of Defense classified networks?",
+    "a": "Anthropic and Elon Musk's xAI."
+  },
+  {
+    "q": "In February 2026, what valuation and funding amount did Anthropic announce it had secured in a recent capital infusion round?",
+    "a": "A $30 billion funding round at a $380 billion valuation."
+  },
+  {
+    "q": "What specific usage policy stance did Anthropic demand from the Department of Defense in February 2026 negotiations that caused the talks to stall?",
+    "a": "Assurance that its models would not be used for autonomous weapons or mass surveillance of Americans."
+  },
+  {
+    "q": "In February 2026, which White House official accused Anthropic of supporting \"woke AI\" due to its regulatory stance, and what was his title in the Trump administration?",
+    "a": "David Sacks, who served as the administration's AI and crypto czar."
+  },
+  {
+    "q": "What is the typical designation status associated with the \"supply chain risk\" label that U.S. Defense Secretary Pete Hegseth threatened to apply to Anthropic in February 2026?",
+    "a": "It is a designation typically reserved for foreign adversaries."
+  },
+  {
+    "q": "In February 2026, how many enterprise customers did Anthropic report spending more than $1 million annually on its services?",
+    "a": "More than 500 customers."
+  },
+  {
+    "q": "Which legal authority allows the U.S. President to control domestic industries under emergency authority for national security, as mentioned in the February 2026 context of the Anthropic-DoD dispute?",
+    "a": "The Defense Production Act."
+  },
+  {
+    "q": "In February 2026, what was the monetary value of the contract Anthropic was awarded by the Department of Defense the previous year?",
+    "a": "$200 million."
+  },
+  {
+    "q": "Which U.S. President's return to office in 2025 led to a rocky relationship with Anthropic, resulting in public criticism by administration officials in February 2026?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "What family of AI models is Anthropic best known for developing, as identified in reports from February 2026?",
+    "a": "Claude."
+  },
+  {
+    "q": "In February 2026, which company became the second AI firm to agree to allow its models to be deployed in classified settings, following Anthropic?",
+    "a": "Elon Musk's xAI."
+  },
+  {
+    "q": "What specific condition did the Department of Defense require Anthropic to agree to in February 2026 negotiations that Anthropic resisted?",
+    "a": "Agreement to \"all lawful use cases\" without limitation."
+  },
+  {
+    "q": "Who founded Anthropic in 2021, and what was their professional background prior to starting the company?",
+    "a": "A group of former OpenAI researchers and executives."
+  },
+  {
+    "q": "In February 2026, what action would the Department of Defense's vendors and contractors be required to take if Anthropic were labeled a \"supply chain risk\"?",
+    "a": "Certify that they do not use Anthropic's models."
+  },
+  {
+    "q": "Which news organization confirmed in February 2026 that U.S. Defense Secretary Pete Hegseth had set a Friday evening deadline for Anthropic?",
+    "a": "CNBC."
+  },
+  {
+    "q": "What was the stated purpose of the \"good-faith conversations\" between Anthropic and the government in February 2026, according to an Anthropic spokesperson?",
+    "a": "To ensure Anthropic can continue to support the government's national security mission in line with what its models can reliably and responsibly do."
+  },
+  {
+    "q": "In February 2026, which two specific types of activities did Anthropic seek assurances against regarding the use of its AI models by the military?",
+    "a": "Autonomous weapons and mass surveillance of Americans."
+  },
+  {
+    "q": "What was the financial impact on Anthropic if it lost its Department of Defense contract in February 2026, despite having other large enterprise customers?",
+    "a": "It would be a blow to the company, though it had over 500 high-spending enterprise customers."
+  },
+  {
+    "q": "In February 2026, which venture capitalist serving in the Trump administration publicly criticized Anthropic's stance on regulation?",
+    "a": "David Sacks."
+  },
+  {
+    "q": "What is the name of the artificial intelligence model family developed by Elon Musk's xAI, which agreed to classified deployment in February 2026?",
+    "a": "The article does not specify the model name, only that xAI agreed to allow its models to be deployed."
+  },
+  {
+    "q": "In February 2026, what was the specific time of day for the Friday deadline imposed by U.S. Defense Secretary Pete Hegseth on Anthropic?",
+    "a": "Friday evening."
+  },
+  {
+    "q": "Which U.S. government agency was the primary entity negotiating with Anthropic in February 2026 regarding the deployment of AI models on classified networks?",
+    "a": "The Department of Defense."
+  },
+  {
+    "q": "In February 2026, what was the total valuation of Anthropic following the closure of its latest funding round?",
+    "a": "$380 billion."
+  }
+]

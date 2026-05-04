@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the statement made on Monday, March 2, 2026, what did Ukrainian President Volodymyr Zelenskiy claim about the accuracy of the intelligence maps Ukraine possessed regarding Russian military plans for 2026-2027?",
+    "a": "He stated the maps had \"nothing in common with reality\" because Russia lacked the capability to accomplish the tasks outlined in them."
+  },
+  {
+    "q": "According to Ukrainian President Volodymyr Zelenskiy's address to journalists in Kyiv on March 2, 2026, which specific Ukrainian regions did he identify as the primary directions of Russian occupation plans?",
+    "a": "He identified the Donetsk and Luhansk regions, as well as the Zaporizhzhia region and the city of Dnipro, with potential future gains in the Odesa region."
+  },
+  {
+    "q": "On March 2, 2026, what conflicting territorial claims did the Russian Defence Ministry and Ukraine's General Staff report regarding recent frontline changes in Ukraine?",
+    "a": "The Russian Defence Ministry claimed its forces had captured three new villages, while Ukraine's General Staff reported retaking nine settlements in the Zaporizhzhia region since the end of January."
+  },
+  {
+    "q": "In the context of U.S.-mediated peace talks discussed as of March 2, 2026, what is the specific territorial disagreement between Russia and Ukrainian President Volodymyr Zelenskiy regarding the Donetsk region?",
+    "a": "Russia wants Ukraine to cede parts of the Donetsk region that Russian forces have not captured, a notion that Zelenskiy rejects."
+  },
+  {
+    "q": "What two factors did Ukrainian President Volodymyr Zelenskiy cite on March 2, 2026, as determining whether Ukraine could prevent Russia from fulfilling its military objectives?",
+    "a": "He cited the supply of weapons to Kyiv and Ukraine's own domestic production capabilities."
+  },
+  {
+    "q": "During his March 2, 2026, press briefing in Kyiv, what did Ukrainian President Volodymyr Zelenskiy say about Russia's long-term strategic aims for eastern and southern Ukraine?",
+    "a": "He stated that Moscow's plans to seize all of eastern Ukraine and areas further south remained unchanged from previous years."
+  },
+  {
+    "q": "What specific geographic target in southeastern Ukraine did Ukrainian President Volodymyr Zelenskiy mention on March 2, 2026, as a direction Russia was considering for future gains beyond the Zaporizhzhia region?",
+    "a": "He mentioned the Odesa region on the Black Sea."
+  },
+  {
+    "q": "As of March 2, 2026, how did the Russian Defence Ministry describe the status of its military operations in the Donbas region compared to Ukraine's General Staff description of operations in the Zaporizhzhia region?",
+    "a": "The Russian Defence Ministry reported capturing three new villages, while Ukraine's General Staff reported a counterattack and the retaking of nine settlements in the Zaporizhzhia region."
+  },
+  {
+    "q": "What did Ukrainian President Volodymyr Zelenskiy assert on March 2, 2026, regarding the relationship between Russia's stated military goals and its actual operational capabilities?",
+    "a": "He asserted that while Russia understood its goals, it did not currently have the capability to accomplish the tasks outlined in their 2026-2027 plans."
+  },
+  {
+    "q": "In the March 2, 2026, reporting by Reuters, which two Ukrainian regions were explicitly named by President Volodymyr Zelenskiy as the specific focus of Russia's current occupation directions?",
+    "a": "The Donetsk and Luhansk regions."
+  },
+  {
+    "q": "What role did the United States play in the diplomatic efforts mentioned in the March 2, 2026, article, and what was the primary obstacle to a settlement?",
+    "a": "The United States was mediating talks, and the primary obstacle was the issue of territory, specifically Russia's demand for ceded land in the Donetsk region."
+  },
+  {
+    "q": "According to Ukrainian President Volodymyr Zelenskiy's comments on March 2, 2026, which city did he identify as a strategic direction for Russian advances beyond the Zaporizhzhia region?",
+    "a": "The city of Dnipro."
+  },
+  {
+    "q": "What timeline for Russian military planning did Ukrainian President Volodymyr Zelenskiy reference on March 2, 2026, when discussing the maps Ukraine had secured?",
+    "a": "He referenced plans for the years 2026-2027."
+  },
+  {
+    "q": "On March 2, 2026, what was the reported status of Ukraine's military counteroffensive in the Zaporizhzhia region according to Ukraine's General Staff?",
+    "a": "Troops had retaken nine settlements since the end of January and were pressing ahead with a counterattack along the southeastern frontline."
+  },
+  {
+    "q": "What did Ukrainian President Volodymyr Zelenskiy state on March 2, 2026, regarding the consistency of Russia's strategic directions for the war?",
+    "a": "He stated that their directions remained current, specifically focusing on the occupation of the east, Zaporizhzhia, Dnipro, and potentially Odesa."
+  },
+  {
+    "q": "Which two Reuters journalists were credited with reporting on Ukrainian President Volodymyr Zelenskiy's March 2, 2026, statements regarding Russian military plans?",
+    "a": "Ron Popeski and Oleksandr Kozhukhar."
+  },
+  {
+    "q": "What specific claim did the Russian Defence Ministry make on Monday, March 2, 2026, regarding its forces' progress in Ukraine?",
+    "a": "It said its forces had captured three new villages."
+  },
+  {
+    "q": "In the March 2, 2026, article, what was the stance of Ukrainian President Volodymyr Zelenskiy regarding any potential cession of Ukrainian territory to Russia?",
+    "a": "He rejected any notion that Ukraine should cede parts of the Donetsk region that Russian forces had not captured."
+  },
+  {
+    "q": "What did Ukrainian President Volodymyr Zelenskiy say on March 2, 2026, about the source of his information regarding Russian military intentions?",
+    "a": "He said Ukraine had secured maps outlining Russian plans for 2026-2027."
+  },
+  {
+    "q": "According to the March 2, 2026, report, which Black Sea region was mentioned by Ukrainian President Volodymyr Zelenskiy as a potential area for future Russian gains?",
+    "a": "The Odesa region."
+  },
+  {
+    "q": "What was the specific timeframe mentioned by Ukraine's General Staff for the recapture of nine settlements in the Zaporizhzhia region as of March 2, 2026?",
+    "a": "Since the end of January 2026."
+  },
+  {
+    "q": "What did Ukrainian President Volodymyr Zelenskiy identify as the main reason Russia could not accomplish the tasks seen on the intelligence maps he referenced on March 2, 2026?",
+    "a": "He stated that Russia could not accomplish the task due to a lack of capability, despite understanding the goals."
+  },
+  {
+    "q": "In the context of the March 2, 2026, news report, which specific regions of Ukraine did Russian forces currently occupy according to President Volodymyr Zelenskiy's description of Russian aims?",
+    "a": "The Donetsk and Luhansk regions."
+  },
+  {
+    "q": "What editing responsibility was attributed to Nia Williams in the March 2, 2026, Reuters article about Ukrainian President Volodymyr Zelenskiy's statements?",
+    "a": "Nia Williams was credited with editing the report."
+  },
+  {
+    "q": "What did Ukrainian President Volodymyr Zelenskiy say on March 2, 2026, about the current state of Russia's ability to fulfill its planned military advances?",
+    "a": "He said Russia would have difficulty fulfilling the advances and did not currently see that they had the capability to accomplish the tasks."
+  }
+]

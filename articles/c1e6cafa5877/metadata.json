@@ -1,0 +1,37 @@
+{
+  "hash": "c1e6cafa5877",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.thehindu.com/sci-tech/technology/openai-gets-110-billion-in-funding-from-a-trio-of-tech-powerhouses-led-by-amazon/article70693729.ece",
+      "title": "OpenAI gets $110 billion in funding from tech powerhouses, led by Amazon - The Hindu",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "AP",
+      "num_tokens": 587,
+      "text_length": 2839
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1298649",
+      "spike_id": 1,
+      "market_question": "OpenAI IPO closing market cap above $1T?",
+      "event_title": "OpenAI IPO closing market cap above ___ ?",
+      "spike_direction": "down",
+      "spike_delta": -0.175,
+      "spike_timestamp_before": "2026-03-02T01:30:35+00:00",
+      "spike_timestamp_after": "2026-03-02T17:30:34+00:00"
+    },
+    {
+      "market_id": "1298649",
+      "spike_id": 2,
+      "market_question": "OpenAI IPO closing market cap above $1T?",
+      "event_title": "OpenAI IPO closing market cap above ___ ?",
+      "spike_direction": "down",
+      "spike_delta": -0.18499999999999994,
+      "spike_timestamp_before": "2026-03-02T01:30:35+00:00",
+      "spike_timestamp_after": "2026-03-02T21:30:34+00:00"
+    }
+  ]
+}

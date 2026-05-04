@@ -1,0 +1,107 @@
+[
+  {
+    "q": "On what date did the United States and Israel launch the joint military operation against Iran that resulted in the killing of Supreme Leader Ali Khamenei?",
+    "a": "February 28, 2026."
+  },
+  {
+    "q": "Which Iranian leader was killed in an Israeli airstrike on his compound in February 2026, an event compared by Brookings expert Suzanne Maloney to the departure of Mohammad Reza Pahlavi in 1979?",
+    "a": "Ayatollah Ali Khamenei."
+  },
+  {
+    "q": "According to Brookings expert Itamar Rabinovich, which Arab Gulf country, described as a friendly neighbor, was targeted by Iranian missiles during the initial phase of the February 2026 war?",
+    "a": "Oman."
+  },
+  {
+    "q": "How many Iranian targets did the United States and Israel military reportedly hit in two days during the joint operation that began in late February 2026, according to Mara Karlin?",
+    "a": "More than a thousand."
+  },
+  {
+    "q": "Which U.S. administration official, mentioned by Vanda Felbab-Brown, is described as hinting that a minimal change of leadership in Iran similar to the situation in Venezuela might be sufficient?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "According to Stephanie T. Williams, how many U.S. troops were killed over the weekend of the February 2026 strikes on Iran, followed by a friendly fire incident on Monday morning?",
+    "a": "Three U.S. troops were killed over the weekend."
+  },
+  {
+    "q": "Which two countries are identified by Brookings expert Aslı Aydıntaşbaş as facing a sharpening enmity and potential long-term collision due to the war in Iran?",
+    "a": "Turkey and Israel."
+  },
+  {
+    "q": "What is the name of the Turkish President who blamed Benjamin Netanyahu for triggering the conflict and condemned Israel’s strikes as provocations in February 2026?",
+    "a": "Recep Tayyip Erdoğan."
+  },
+  {
+    "q": "According to Kemal Kirişci, how many Syrian refugees were still housed in Turkey as of early 2026, a population that has had taxing social and economic consequences?",
+    "a": "More than 2.3 million."
+  },
+  {
+    "q": "Which three European nations, referred to as the “E-3,” declared on Sunday night in February 2026 that they would take steps to defend their interests against Iranian missile and drone attacks?",
+    "a": "France, Germany, and the United Kingdom."
+  },
+  {
+    "q": "Who is the German Chancellor mentioned by Constanze Stelzenmüller as arriving in Washington in early March 2026 to discuss European military responses to the Iran conflict?",
+    "a": "Friedrich Merz."
+  },
+  {
+    "q": "According to Pavel K. Baev, which treaty between Russia and Iran entered into force in October 2025, yet did not prevent Russia from offering only verbal condemnation of the February 2026 U.S.-Israeli strikes?",
+    "a": "The Treaty on Comprehensive Strategic Partnership."
+  },
+  {
+    "q": "Which Chinese leader did Donald Trump inform in 2017 about U.S. military strikes on Syria, according to Ryan Hass?",
+    "a": "Xi Jinping."
+  },
+  {
+    "q": "What percentage of India’s merchandise exports goes to the West Asia region, according to Tanvi Madan’s analysis in March 2026?",
+    "a": "15%."
+  },
+  {
+    "q": "Which Southeast Asian nation delivered the region’s strongest rebuke to the U.S.-Israeli strikes on Iran in early March 2026, condemning them as violations of sovereignty?",
+    "a": "Malaysia."
+  },
+  {
+    "q": "According to Michael E. O'Hanlon and Caitlin Talmadge, in which year did NATO airpower support resistance forces in Libya that eventually led to the death of Moammar Gadhafi?",
+    "a": "2011."
+  },
+  {
+    "q": "Which U.S. President signed an executive order in 1976 prohibiting assassination as a tool of foreign policy, a norm Joshua Rovner notes was effectively defunct by 2026?",
+    "a": "Gerald Ford."
+  },
+  {
+    "q": "By what percentage did the Brent crude oil price increase in Asian markets on March 2, 2026, following the U.S.-Israeli strikes on Iran, according to Samantha Gross?",
+    "a": "4.5%."
+  },
+  {
+    "q": "Which U.S. President obtained explicit congressional authorization before initiating military action in 1991 to expel Iraqi invaders from Kuwait, as cited by William A. Galston?",
+    "a": "George H.W. Bush."
+  },
+  {
+    "q": "According to Scott R. Anderson, which annual address did Donald Trump choose not to use for a full discussion of his decision to attack Iran without congressional authorization?",
+    "a": "The 2026 State of the Union address."
+  },
+  {
+    "q": "Which Venezuelan leader’s capture was cited by the Trump administration in a legal opinion to justify acting without Congress, according to Scott R. Anderson?",
+    "a": "Nicolás Maduro."
+  },
+  {
+    "q": "How many U.S. troops were killed in the friendly fire downing of jets on Monday morning following the February 28, 2026, strikes on Iran, as reported by Stephanie T. Williams?",
+    "a": "Three jets were downed, resulting in casualties (the text specifies three jets, implying multiple casualties, but explicitly states three troops killed over the weekend prior; the prompt asks for the Monday incident context. The text says 'three U.S. troops already killed over the weekend, followed by a friendly fire downing of three jets Monday morning'. It does not specify the number of deaths from the Monday incident, only the number of jets. I will rephrase to be precise).",
+    "a": "The text states that three U.S. troops were killed over the weekend, followed by the downing of three jets on Monday morning; it does not specify the number of casualties from the Monday incident."
+  },
+  {
+    "q": "Which Iranian Revolutionary Guards Corps (IRGC) unit or entity is described by Vanda Felbab-Brown as having sprawling religious authority and widespread control of economic assets that will not simply melt away?",
+    "a": "The Islamic Revolutionary Guards Corps (IRGC)."
+  },
+  {
+    "q": "According to Steven Heydemann, what year did the U.S. invasion of Iraq occur, an event whose unintended effects the Trump administration’s minimal aims in Iran seek to reverse?",
+    "a": "2003."
+  },
+  {
+    "q": "Which virtual private network (VPN) usage statistic is cited by Dafna H. Rand regarding Iranians during the peak of the Women, Life, Freedom protests of 2021-2022?",
+    "a": "Roughly one in four Iranians used a U.S.-funded virtual private network."
+  },
+  {
+    "q": "What is the name of the U.S. program established in 2009 that has invested nearly $600 million in on-the-ground democracy initiatives in Iran, as mentioned by Dafna H. Rand?",
+    "a": "The Near East Regional Democracy Program."
+  }
+]

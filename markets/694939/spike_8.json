@@ -1,0 +1,65 @@
+{
+  "spike_index": 8,
+  "direction": "up",
+  "price_before": 0.245,
+  "price_after": 0.495,
+  "delta": 0.25,
+  "abs_delta": 0.25,
+  "timestamp_before": "2026-03-04T20:30:24+00:00",
+  "timestamp_after": "2026-03-05T05:00:20+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-02/jpmorgan-to-start-debt-deal-for-55-billion-ea-buyout-next-week?srnd=homepage-europe",
+      "file": "853522cd3216.txt",
+      "title": "JPMorgan to Start Debt Deal for $55 Billion EA Buyout Next Week - Bloomberg",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Aaron Weinman",
+      "text_length": 592,
+      "status": "ok",
+      "num_tokens": 116
+    },
+    {
+      "url": "https://origin.www.bloomberg.com/news/articles/2026-03-02/paramount-deal-still-under-us-review-with-challenge-unlikely?srnd=undefined",
+      "file": "02bcd71acbd6.txt",
+      "title": "Paramount\u2019s $110 Billion Warner Bros. Deal Still Under US Antitrust Review - Bloomberg",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Leah Nylen",
+      "text_length": 584,
+      "status": "ok",
+      "num_tokens": 106
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/02/paramount-and-hbo-max-to-merge-into-one-streaming-service-after-wbd-deal-closes/",
+      "file": "89ad4d012314.txt",
+      "title": "Paramount+ and HBO Max to merge into one streaming service after WBD deal closes | TechCrunch",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Lauren Forristal",
+      "text_length": 2980,
+      "status": "ok",
+      "num_tokens": 583
+    },
+    {
+      "url": "https://origin.www.bloomberg.com/news/articles/2026-03-02/paramount-to-combine-hbo-max-and-paramount-to-challenge-netflix?srnd=undefined",
+      "file": "4cd1e27dd677.txt",
+      "title": "Paramount to Combine HBO Max and Paramount+ to Challenge Netflix - Bloomberg",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Hannah Miller",
+      "text_length": 597,
+      "status": "ok",
+      "num_tokens": 119
+    },
+    {
+      "url": "https://on.theverge.com/streaming/887538/paramount-plus-warner-bros-hbo-max-merging",
+      "file": "18ace3e52936.txt",
+      "title": "HBO Max and Paramount Plus could become one streamer | The Verge",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Charles Pulliam-Moore",
+      "text_length": 2159,
+      "status": "ok",
+      "num_tokens": 443
+    }
+  ],
+  "total_tokens": 1367
+}

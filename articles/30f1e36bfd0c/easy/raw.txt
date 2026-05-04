@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On March 12, 2026, what were the settlement prices for Brent crude futures and U.S. West Texas Intermediate crude, and when was the last time these contracts settled at such high levels?",
+    "a": "Brent crude settled at $100.46 a barrel and West Texas Intermediate at $95.70 a barrel; both were at their highest since August 2022."
+  },
+  {
+    "q": "Following the escalation of tanker attacks in the Gulf on March 12, 2026, what percentage declines did the Dow Jones Industrial Average, S&P 500, and Nasdaq Composite experience?",
+    "a": "The Dow Jones Industrial Average and S&P 500 dropped about 1.5%, and the Nasdaq Composite lost 1.8%."
+  },
+  {
+    "q": "What specific threats did new Iranian Supreme Leader Ayatollah Mojtaba Khamenei make in his first public statement on March 12, 2026, regarding the Strait of Hormuz and U.S. bases?",
+    "a": "He warned that Iran would keep the Strait of Hormuz closed and attack U.S. bases to avenge its martyrs."
+  },
+  {
+    "q": "According to the March 12, 2026 report, how many merchant ships had been struck in the Strait of Hormuz region since the fighting began, and what price per barrel did Tehran warn the world to prepare for?",
+    "a": "At least 16 ships had been struck, and Tehran warned of oil reaching $200 a barrel."
+  },
+  {
+    "q": "What was the reported impact of Iranian attacks on Iraqi oil infrastructure as of March 12, 2026, and which two fuel tankers were specifically mentioned as being struck?",
+    "a": "Two fuel tankers in Iraqi waters were struck, and Iraqi officials stated that the country's oil ports had completely stopped operations."
+  },
+  {
+    "q": "How did the U.S. consumer price index change in February 2026 compared to January 2026, according to data released on March 11, 2026?",
+    "a": "The consumer price index rose 0.3% in February, following a 0.2% increase in January."
+  },
+  {
+    "q": "What were the movements in U.S. Treasury yields on March 12, 2026, specifically for the 10-year note and the two-year note?",
+    "a": "Yields on 10-year Treasury notes rose 5.5 basis points to 4.261%, and two-year Treasury yields hit a six-month high."
+  },
+  {
+    "q": "Which three major financial firms saw their stock prices fall on March 12, 2026, due to concerns in the private credit market, and what were their respective percentage declines?",
+    "a": "Morgan Stanley fell 4%, Blackstone fell 4.7%, and BlackRock fell 2.9%."
+  },
+  {
+    "q": "What was the consensus among Reuters-pollled economists regarding the U.S. Federal Reserve's interest rate action for June 2026, and what proportion expected only one or no rate cuts for the entire year?",
+    "a": "Economists expected the Federal Reserve to cut interest rates for the first time in June, and nearly 40% expected just one reduction or none for the year."
+  },
+  {
+    "q": "How did the euro and the U.S. dollar perform against each other and other major currencies on March 12, 2026?",
+    "a": "The euro slipped 0.45% to $1.1515, while the dollar was 0.28% stronger against the yen and had risen more than 1.5% against a basket of major currencies."
+  },
+  {
+    "q": "What was the price movement of gold on March 12, 2026, and what was its price per ounce?",
+    "a": "Gold prices fell around 1.7% to $5,088 an ounce."
+  },
+  {
+    "q": "Who is Monica Guerra, and what warning did she issue in a March 12, 2026 report regarding the persistence of higher oil prices and the Federal Reserve?",
+    "a": "Monica Guerra is the head of U.S. policy at Morgan Stanley Wealth Management; she warned that persistent high oil prices could complicate the Fed’s reaction function, supporting a higher fed funds rate for longer."
+  },
+  {
+    "q": "What warning did U.S. Energy Secretary Chris Wright issue on March 12, 2026, regarding the potential peak price of global oil?",
+    "a": "He stated that global oil prices are unlikely to hit the $200 a barrel level warned by Tehran."
+  },
+  {
+    "q": "Which pan-European equity benchmark and global index fell on March 12, 2026, and by what percentages?",
+    "a": "The STOXX 600 slipped 0.6%, and the MSCI All-World index fell 1.5%."
+  },
+  {
+    "q": "What specific actions did Iraqi security officials report regarding Iranian boats on March 12, 2026, and where did these incidents occur?",
+    "a": "They reported that two fuel tankers were struck by explosive-laden Iranian boats in Iraqi waters."
+  },
+  {
+    "q": "How did Ayako Yoshioka, portfolio consulting director at Wealth Enhancement, describe the market impact of the ongoing Middle East conflict on March 12, 2026?",
+    "a": "She stated that the longer the conflict goes on, the more stress is inserted into global markets."
+  },
+  {
+    "q": "What was the session high reached by Brent crude futures on March 12, 2026, before it settled at $100.46 a barrel?",
+    "a": "Brent crude touched a session high of $101.60."
+  },
+  {
+    "q": "Why did investors seek the liquidity of dollars on March 12, 2026, while shunning currencies from Japan and Europe?",
+    "a": "Investors sought dollar liquidity because Japan and much of Europe are net energy importers, while the U.S. is a net energy exporter, enhancing the dollar's safe-haven appeal."
+  },
+  {
+    "q": "What concern did Swiss private equity firm Partners Group raise about the private credit market on March 12, 2026?",
+    "a": "Partners Group warned that the $2 trillion private credit market could double in the next few years."
+  },
+  {
+    "q": "What was the percentage increase in Brent crude futures and U.S. West Texas Intermediate crude on March 12, 2026?",
+    "a": "Brent crude rose 9.2% and U.S. West Texas Intermediate crude rose 9.7%."
+  },
+  {
+    "q": "Which two entities took similar actions earlier in March 2026 that contributed to Morgan Stanley's stock decline on March 12, 2026?",
+    "a": "Blackstone and BlackRock took similar actions regarding their private credit funds."
+  },
+  {
+    "q": "What was the status of Iran's Supreme Leader as of March 12, 2026, and how did this relate to Ayatollah Mojtaba Khamenei's statement?",
+    "a": "Ayatollah Mojtaba Khamenei had recently succeeded his slain father and made his first remarks since succeeding him."
+  },
+  {
+    "q": "How did the risk of rising inflation affect bond markets globally on March 12, 2026, relative to safe-haven considerations?",
+    "a": "The risk of rising inflation outweighed safe-haven considerations, pushing yields higher globally."
+  },
+  {
+    "q": "What was the dollar's performance against a basket of major currencies on March 12, 2026, and how did it compare to its level since November?",
+    "a": "The dollar had risen by more than 1.5% against a basket of major currencies and was close to its highest level since November."
+  },
+  {
+    "q": "What specific date did the Reuters article report on, and what was the primary driver of the oil price surge mentioned in the headline?",
+    "a": "The article was published on March 12, 2026, and the primary driver was Iran escalating tanker attacks."
+  }
+]

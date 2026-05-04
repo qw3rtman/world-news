@@ -1,0 +1,47 @@
+{
+  "hash": "d4f62f25c436",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/commentary/breakingviews/trumps-new-iran-attack-opens-up-big-global-risks-2026-02-28/",
+      "title": "Trump’s new Iran attack opens up big global risks | Reuters",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "George Hay",
+      "num_tokens": 649,
+      "text_length": 3418
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1399072",
+      "spike_id": 1,
+      "market_question": "US strikes Iran by March 6, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.24000000000000002,
+      "spike_timestamp_before": "2026-02-27T07:00:20+00:00",
+      "spike_timestamp_after": "2026-02-27T14:30:21+00:00"
+    },
+    {
+      "market_id": "678747",
+      "spike_id": 1,
+      "market_question": "Will Israel strike 4 countries in 2026?",
+      "event_title": "How many different countries will Israel strike in 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.18949999999999997,
+      "spike_timestamp_before": "2026-02-28T06:00:42+00:00",
+      "spike_timestamp_after": "2026-02-28T11:00:35+00:00"
+    },
+    {
+      "market_id": "678747",
+      "spike_id": 2,
+      "market_question": "Will Israel strike 4 countries in 2026?",
+      "event_title": "How many different countries will Israel strike in 2026?",
+      "spike_direction": "down",
+      "spike_delta": -0.16999999999999998,
+      "spike_timestamp_before": "2026-02-28T11:00:35+00:00",
+      "spike_timestamp_after": "2026-02-28T18:30:38+00:00"
+    }
+  ]
+}

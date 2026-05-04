@@ -1,0 +1,27 @@
+{
+  "hash": "fbe55e6b5b57",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://lta.reuters.com/business/nvidia-will-not-be-able-invest-100-billion-openai-due-ipo-ceo-jensen-says-2026-03-04/",
+      "title": "Reuters | Breaking International News & Views",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 56,
+      "text_length": 241
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1298649",
+      "spike_id": 3,
+      "market_question": "OpenAI IPO closing market cap above $1T?",
+      "event_title": "OpenAI IPO closing market cap above ___ ?",
+      "spike_direction": "down",
+      "spike_delta": -0.19999999999999996,
+      "spike_timestamp_before": "2026-03-02T03:00:38+00:00",
+      "spike_timestamp_after": "2026-03-03T02:30:36+00:00"
+    }
+  ]
+}

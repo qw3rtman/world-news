@@ -1,0 +1,57 @@
+{
+  "hash": "3f5827a8846a",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.usatoday.com/story/opinion/columnist/2026/03/04/runoff-election-texas-republican-senate-primary/88960583007/",
+      "title": "Texas election results show how torn Republicans are on MAGA | Opinion",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1007,
+      "text_length": 4601
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "562186",
+      "spike_id": 1,
+      "market_question": "Will Ken Paxton win the 2026 Texas Republican Primary?",
+      "event_title": "Texas Republican Senate Primary Winner",
+      "spike_direction": "down",
+      "spike_delta": -0.345,
+      "spike_timestamp_before": "2026-03-03T08:30:26+00:00",
+      "spike_timestamp_after": "2026-03-04T03:30:28+00:00"
+    },
+    {
+      "market_id": "562186",
+      "spike_id": 2,
+      "market_question": "Will Ken Paxton win the 2026 Texas Republican Primary?",
+      "event_title": "Texas Republican Senate Primary Winner",
+      "spike_direction": "down",
+      "spike_delta": -0.7100000000000001,
+      "spike_timestamp_before": "2026-03-03T21:00:51+00:00",
+      "spike_timestamp_after": "2026-03-04T20:30:28+00:00"
+    },
+    {
+      "market_id": "562187",
+      "spike_id": 1,
+      "market_question": "Will John Cornyn win the 2026 Texas Republican Primary?",
+      "event_title": "Texas Republican Senate Primary Winner",
+      "spike_direction": "up",
+      "spike_delta": 0.365,
+      "spike_timestamp_before": "2026-03-03T08:30:34+00:00",
+      "spike_timestamp_after": "2026-03-04T03:30:34+00:00"
+    },
+    {
+      "market_id": "562187",
+      "spike_id": 2,
+      "market_question": "Will John Cornyn win the 2026 Texas Republican Primary?",
+      "event_title": "Texas Republican Senate Primary Winner",
+      "spike_direction": "up",
+      "spike_delta": 0.7150000000000001,
+      "spike_timestamp_before": "2026-03-04T00:30:34+00:00",
+      "spike_timestamp_after": "2026-03-04T20:00:44+00:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "hash": "a04cfd48163f",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://reuters.com/world/middle-east/iran-has-not-contacted-us-about-possible-peace-talks-says-tehrans-un-envoy-2026-03-03/",
+      "title": "Iran has not contacted US about possible peace talks, says Tehran's UN envoy | Reuters",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Olivia Le Poidevin",
+      "num_tokens": 434,
+      "text_length": 2019
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1484894",
+      "spike_id": 1,
+      "market_question": "US x Iran ceasefire by May 31?",
+      "event_title": "US x Iran ceasefire by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.265,
+      "spike_timestamp_before": "2026-03-02T18:00:51+00:00",
+      "spike_timestamp_after": "2026-03-03T16:00:31+00:00"
+    },
+    {
+      "market_id": "1484895",
+      "spike_id": 1,
+      "market_question": "US x Iran ceasefire by June 30?",
+      "event_title": "US x Iran ceasefire by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.15999999999999992,
+      "spike_timestamp_before": "2026-03-02T18:30:32+00:00",
+      "spike_timestamp_after": "2026-03-03T17:00:29+00:00"
+    }
+  ]
+}

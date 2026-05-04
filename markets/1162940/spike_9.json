@@ -1,0 +1,65 @@
+{
+  "spike_index": 9,
+  "direction": "down",
+  "price_before": 0.545,
+  "price_after": 0.38,
+  "delta": -0.16500000000000004,
+  "abs_delta": 0.16500000000000004,
+  "timestamp_before": "2026-03-08T19:30:21+00:00",
+  "timestamp_after": "2026-03-09T15:30:21+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.newsweek.com/100k-polymarket-winner-wagers-on-us-forces-entering-iran-11633078",
+      "file": "a517bdff21c0.txt",
+      "title": "$100K Polymarket winner wagers on US forces entering Iran - Newsweek",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": null,
+      "text_length": 4492,
+      "status": "ok",
+      "num_tokens": 929
+    },
+    {
+      "url": "https://www.nbcnews.com/politics/rcna262176",
+      "file": "5d3df7a96bdf.txt",
+      "title": "Trump has privately shown serious interest in U.S. ground troops in Iran",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": null,
+      "text_length": 5562,
+      "status": "ok",
+      "num_tokens": 1148
+    },
+    {
+      "url": "https://thehill.com/policy/defense/5774803-us-troops-iran-pete-hegseth/",
+      "file": "06a5d6b55ebc.txt",
+      "title": "Pete Hegseth: U.S. may deploy troops in Iran conflict",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "text_length": 2187,
+      "status": "ok",
+      "num_tokens": 490
+    },
+    {
+      "url": "http://www.haaretz.com/us-news/2026-03-08/ty-article/.premium/trump-says-deploying-u-s-ground-forces-in-iran-on-the-table/0000019c-ce1e-d8f8-a9de-ff9fc8fc0000",
+      "file": "791349020729.txt",
+      "title": "Trump Says Deploying U.S. Ground Forces in Iran 'On the Table' - U.S. News",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": "Ben Samuels",
+      "text_length": 311,
+      "status": "ok",
+      "num_tokens": 75
+    },
+    {
+      "url": "https://thehill.com/policy/defense/5775816-us-ground-troops-iran-poll/",
+      "file": "843931b1cae9.txt",
+      "title": "Roughly 3 in 4 oppose sending US ground troops into Iran: Survey",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "text_length": 2645,
+      "status": "ok",
+      "num_tokens": 580
+    }
+  ],
+  "total_tokens": 3222
+}

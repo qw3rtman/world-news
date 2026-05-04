@@ -1,0 +1,102 @@
+[
+  {
+    "q": "According to Turkey analyst Gönül Tol, which three African countries did Turkey capitalize on conflicts in to strengthen its military and diplomatic presence, as stated during an American Enterprise Institute seminar in Washington in late February 2026?",
+    "a": "Sudan, Ethiopia, and Somalia."
+  },
+  {
+    "q": "What specific trade volume figures did President Recep Tayyip Erdogan cite in October 2025 to demonstrate the growth of Turkey’s economic relations with Africa between 2003 and 2024?",
+    "a": "Trade volume increased from $5.4 billion in 2003 to $41 billion in 2024."
+  },
+  {
+    "q": "Which two opposing factions in the Sudanese conflict were reported by multiple sources in early 2026 as having received military drone sales from Turkish companies?",
+    "a": "The Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF)."
+  },
+  {
+    "q": "What was the monetary value and specific equipment included in the 2025 drone deal between Baykar and the Sudanese Armed Forces, as detailed in a Foundation for Defense of Democracies report by Sinan Ciddi?",
+    "a": "The deal was worth $120 million and included six TB2 drones, three ground control stations, and 600 warheads."
+  },
+  {
+    "q": "How does the operational cost of the Turkish TB2 drone compare to that of the U.S. Reaper drone, according to the U.S. Africa Command’s Africa Defense Forum?",
+    "a": "The TB2 is recognized for high cost-efficiency with operational costs of only a few hundred dollars per hour, whereas U.S. systems are significantly more expensive."
+  },
+  {
+    "q": "What relationship to President Recep Tayyip Erdogan is attributed to the owner of the company manufacturing the TB2 drone sold to the Sudanese government?",
+    "a": "The company is said to be owned by Erdogan’s son-in-law."
+  },
+  {
+    "q": "How many embassies did Turkey operate in Africa in 2002 compared to the number reported in early 2026, according to Mariam Wahba?",
+    "a": "The number increased from 12 embassies in 2002 to 44 embassies in 2026."
+  },
+  {
+    "q": "What criticism did Mariam Wahba of the Foundation for Defense of Democracies levy against Turkey’s foreign policy in Africa in her February 2026 statements to Fox News Digital?",
+    "a": "She claimed Turkey is pursuing a neo-Ottoman foreign policy that undermines U.S. interests and backs Islamist movements like Hamas and the Muslim Brotherhood."
+  },
+  {
+    "q": "What stance did the U.S. State Department take regarding external military support to parties fueling the violence in Sudan, as stated by a spokesperson in January 2026?",
+    "a": "The U.S. is working with allies to bring an end to external military support to the parties fueling the violence."
+  },
+  {
+    "q": "According to Sinan Ciddi of the Foundation for Defense of Democracies, what is the primary strategic purpose of Turkey’s arms sales to fragile African states like Sudan?",
+    "a": "To expand Ankara’s political, military, and economic footprint and buy diplomatic leverage, rather than as ad hoc commercial transactions."
+  },
+  {
+    "q": "How many African destinations does Turkish Airlines serve, a figure cited by President Erdogan in October 2025 and Mariam Wahba in February 2026 as an indicator of Turkey’s diplomatic priorities?",
+    "a": "Turkish Airlines flies to 64 African destinations."
+  },
+  {
+    "q": "What specific type of unmanned aerial vehicle was identified in a July 2022 image caption and discussed in the context of Turkish sales to Sudan as being made by a company linked to Erdogan’s family?",
+    "a": "The Bayraktar Akinci and the TB2."
+  },
+  {
+    "q": "Why did the U.S. Africa Command’s Africa Defense Forum highlight the cost difference between Turkish and Western drone systems in its recent reporting?",
+    "a": "To illustrate that Turkish drones are marketed as cost-effective and politically low-friction alternatives that proliferate in conflict zones."
+  },
+  {
+    "q": "What historical analogy did Mariam Wahba use in February 2026 to describe Turkey’s potential motivations for returning to principles of its Ottoman Empire in the Sahel region?",
+    "a": "She referenced the Ottoman Empire’s promotion of caliphates where Islamic law is strictly enforced."
+  },
+  {
+    "q": "Which Turkish defense company’s sale of drones to the Rapid Support Forces was publicly denied by the company itself in early 2026?",
+    "a": "Baykar (the company behind the TB2 drone)."
+  },
+  {
+    "q": "What specific components of a total system package for drones, according to the U.S. Africa Command, can raise the cost to $5–15 million per system?",
+    "a": "Ground control stations, communication systems, and training."
+  },
+  {
+    "q": "How did Gönül Tol, founding director of the Middle East Institute's Turkey program, characterize Turkey’s role as a weapons provider to Africa in her late February 2026 remarks?",
+    "a": "She stated that Turkey is one of the top weapons providers to Africa and that more chaos helps Erdogan strengthen his hands."
+  },
+  {
+    "q": "What did President Erdogan claim about the nature of Turkey’s relations with African nations during his October 2025 speech at a business and economic forum in Istanbul?",
+    "a": "He stated that relations had advanced hand in hand, shoulder to shoulder, and heart-to-heart to an unimaginable level."
+  },
+  {
+    "q": "According to the article, how does the sale of Turkish drones to both sides of the Sudanese conflict align or conflict with U.S. policy?",
+    "a": "It prolongs the war and is directly against U.S. policy, which seeks to end external military support fueling the violence."
+  },
+  {
+    "q": "What role does Mariam Wahba assign to Turkish Airlines in the context of Turkey’s broader agenda in Africa?",
+    "a": "She describes it as a state-backed carrier that functions as a soft-power and access enabler for Ankara’s diplomatic and security priorities."
+  },
+  {
+    "q": "What specific claim did Sinan Ciddi make regarding the timing of the $120 million Baykar deal with the Sudanese Armed Forces in relation to U.S. actions?",
+    "a": "He claimed the deal took place after the U.S. placed sanctions on such sales."
+  },
+  {
+    "q": "How does the cost of a single TB2 drone compare to a U.S. Reaper drone, according to experts cited in the article?",
+    "a": "The TB2 is one-sixth the cost of a U.S. Reaper drone."
+  },
+  {
+    "q": "What response did Fox News Digital receive from the Turkish government and Baykar when seeking comment on drone sales allegations in early 2026?",
+    "a": "Both the Turkish government and the company did not respond to requests for comment."
+  },
+  {
+    "q": "In which region of Africa did Mariam Wahba specifically claim Turkey is trying to return to Ottoman principles of imposing caliphates?",
+    "a": "The Sahel region."
+  },
+  {
+    "q": "What total cost range did the U.S. Africa Command’s Africa Defense Forum report for typical aircraft systems including ground control stations and training?",
+    "a": "Between $2 million and $5 million per aircraft, with total system packages reaching $5–15 million."
+  }
+]

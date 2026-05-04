@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On March 18, 2026, at 9:15 a.m. Eastern Time, what was the price per barrel of Brent benchmark oil?",
+    "a": "$108.78"
+  },
+  {
+    "q": "By how much did the price of Brent benchmark oil increase between the morning of March 17, 2026, and 9:15 a.m. Eastern Time on March 18, 2026?",
+    "a": "$5.80"
+  },
+  {
+    "q": "What benchmark oil price was used to determine the $108.78 per barrel valuation reported on March 18, 2026?",
+    "a": "Brent"
+  },
+  {
+    "q": "Approximately how much more did Brent benchmark oil cost at 9:15 a.m. Eastern Time on March 18, 2026, compared to the same time one year prior?",
+    "a": "Roughly $38 more"
+  },
+  {
+    "q": "What was the specific time and time zone when the oil price of $108.78 per barrel was recorded on March 18, 2026?",
+    "a": "9:15 a.m. Eastern Time"
+  },
+  {
+    "q": "In the Fortune article published on March 18, 2026, what was the year-over-year price difference for Brent benchmark oil?",
+    "a": "Roughly $38"
+  },
+  {
+    "q": "What was the day-over-day price increase for Brent benchmark oil reported on March 18, 2026, compared to the previous morning?",
+    "a": "$5.80"
+  },
+  {
+    "q": "Which specific oil benchmark was cited by Fortune on March 18, 2026, as having a price of $108.78 per barrel?",
+    "a": "Brent"
+  },
+  {
+    "q": "On March 18, 2026, what was the approximate percentage increase in the price of Brent benchmark oil compared to its value at the same time in 2025?",
+    "a": "Approximately 54% (calculated from the $38 increase on a base of roughly $70.78)"
+  },
+  {
+    "q": "What was the implied price of Brent benchmark oil at 9:15 a.m. Eastern Time on March 17, 2026, given the $5.80 increase reported on March 18, 2026?",
+    "a": "$102.98"
+  },
+  {
+    "q": "What was the implied price of Brent benchmark oil at 9:15 a.m. Eastern Time on March 18, 2025, given the roughly $38 increase reported on March 18, 2026?",
+    "a": "Approximately $70.78"
+  },
+  {
+    "q": "According to the March 18, 2026, Fortune report, what was the total price per barrel of Brent oil after a $5.80 daily increase?",
+    "a": "$108.78"
+  },
+  {
+    "q": "What specific date did Fortune report the Brent benchmark oil price at $108.78 per barrel?",
+    "a": "March 18, 2026"
+  },
+  {
+    "q": "How much did the price of Brent benchmark oil rise in a single day leading up to the March 18, 2026, report?",
+    "a": "$5.80"
+  },
+  {
+    "q": "What was the approximate year-over-year gain in dollars for Brent benchmark oil as of March 18, 2026?",
+    "a": "$38"
+  },
+  {
+    "q": "Which publication reported the Brent benchmark oil price of $108.78 on March 18, 2026?",
+    "a": "Fortune"
+  },
+  {
+    "q": "At what specific time on March 18, 2026, was the Brent benchmark oil price recorded as $108.78 per barrel?",
+    "a": "9:15 a.m. Eastern Time"
+  },
+  {
+    "q": "What was the price of Brent benchmark oil on March 18, 2026, relative to its price on March 17, 2026?",
+    "a": "It increased by $5.80"
+  },
+  {
+    "q": "What was the price of Brent benchmark oil on March 18, 2026, relative to its price on March 18, 2025?",
+    "a": "It was roughly $38 higher"
+  },
+  {
+    "q": "If the price of Brent benchmark oil was $108.78 on March 18, 2026, what was the price on March 17, 2026, assuming a $5.80 daily increase?",
+    "a": "$102.98"
+  },
+  {
+    "q": "If the price of Brent benchmark oil was $108.78 on March 18, 2026, what was the approximate price on March 18, 2025, assuming a $38 year-over-year increase?",
+    "a": "Approximately $70.78"
+  },
+  {
+    "q": "What two time comparisons were made in the Fortune report on March 18, 2026, regarding the price of Brent benchmark oil?",
+    "a": "Comparison to the previous day (March 17, 2026) and comparison to the same time one year prior (March 18, 2025)"
+  },
+  {
+    "q": "What was the dollar amount of the daily increase in Brent benchmark oil price reported on March 18, 2026?",
+    "a": "$5.80"
+  },
+  {
+    "q": "What was the dollar amount of the year-over-year increase in Brent benchmark oil price reported on March 18, 2026?",
+    "a": "Roughly $38"
+  },
+  {
+    "q": "What was the exact price per barrel of Brent benchmark oil at 9:15 a.m. Eastern Time on March 18, 2026, as reported by Fortune?",
+    "a": "$108.78"
+  }
+]

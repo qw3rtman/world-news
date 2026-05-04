@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In the acquisition announced by Gilead Sciences on February 23, 2026, what is the maximum total value of the deal to acquire Arcellx, and what premium per share does Gilead offer compared to Arcellx's last closing price?",
+    "a": "The deal is valued at up to $7.8 billion, with a $115 per share cash offer representing a 79% premium."
+  },
+  {
+    "q": "Which specific experimental CAR-T therapy developed through a partnership between Kite Pharma (a unit of Gilead Sciences) and Arcellx is currently under FDA review for multiple myeloma treatment, and when is a decision expected?",
+    "a": "The therapy is anito-cel, and the FDA decision is expected by December 23, 2026."
+  },
+  {
+    "q": "What is the expected closing timeframe for Gilead Sciences' acquisition of Arcellx, and how much in potential milestone payments will this transaction remove for Gilead?",
+    "a": "The deal is expected to close in the second quarter of 2026, removing up to $1.5 billion in potential milestone payments."
+  },
+  {
+    "q": "According to the February 23, 2026 announcement, what specific financial condition must be met for Arcellx shareholders to receive an additional $5 per share payment from Gilead Sciences?",
+    "a": "Arcellx must achieve cumulative anito-cel global net sales of at least $6 billion from launch through the end of 2029."
+  },
+  {
+    "q": "Which two companies developed the market-leading CAR-T therapy Carvykti that launched in 2022, and what were its sales figures in 2025?",
+    "a": "Carvykti was developed by Johnson & Johnson and Legend Biotech, generating about $1.9 billion in sales in 2025."
+  },
+  {
+    "q": "Besides anito-cel, what two other early-stage experimental treatments will Gilead Sciences acquire from Arcellx in the February 2026 deal?",
+    "a": "Gilead will acquire experimental treatments for acute myeloid leukemia and generalized myasthenia gravis."
+  },
+  {
+    "q": "What was the percentage increase in Arcellx stock price during morning trading on February 23, 2026, following the news of Gilead Sciences' acquisition offer?",
+    "a": "Arcellx shares rose 77.9% to $114.06."
+  },
+  {
+    "q": "Which Gilead Sciences CEO stated that the Arcellx acquisition highlights the company's oncology growth strategy, and what was Gilead's largest prior acquisition in 2020?",
+    "a": "CEO Daniel O'Day made the statement, and Gilead's largest prior deal was the $21 billion acquisition of Immunomedics."
+  },
+  {
+    "q": "What is the expected financial impact on Gilead Sciences' earnings per share once anito-cel receives FDA approval, according to the February 2026 announcement?",
+    "a": "The transaction is expected to be accretive to earnings per share in 2028 and beyond."
+  },
+  {
+    "q": "Why has Gilead Sciences been seeking growth beyond its core HIV and liver disease areas as of early 2026?",
+    "a": "The company faces declining sales of its COVID-19 drug Veklury and is preparing for future patent losses."
+  },
+  {
+    "q": "Which analyst from RBC Capital Markets commented on anito-cel's potential safety profile compared to Carvykti in the context of the February 2026 Gilead-Arcellx deal?",
+    "a": "RBC Capital Markets analyst Brian Abrahams made the comment."
+  },
+  {
+    "q": "Which analyst from BMO Capital Markets noted that the Gilead Sciences-Arcellx deal would remove up to $1.5 billion in potential milestone payments in February 2026?",
+    "a": "BMO Capital Markets analyst Evan Seigerman made this observation."
+  },
+  {
+    "q": "What is the specific indication for which the U.S. Food and Drug Administration is reviewing anito-cel as a fourth-line treatment in 2026?",
+    "a": "The FDA is reviewing anito-cel as a fourth-line treatment for multiple myeloma."
+  },
+  {
+    "q": "How does the February 23, 2026 Gilead Sciences acquisition of Arcellx compare in size to Gilead's previous major deals?",
+    "a": "It is Gilead's largest deal since its 2020 acquisition of Immunomedics."
+  },
+  {
+    "q": "What type of blood cancer is anito-cel being developed to treat, and what type of neuromuscular disease is also part of the assets acquired by Gilead Sciences from Arcellx?",
+    "a": "Anito-cel is for multiple myeloma, and the acquired neuromuscular disease is generalized myasthenia gravis."
+  },
+  {
+    "q": "What premium percentage did Gilead Sciences offer over Arcellx's stock closing price in its February 2026 acquisition proposal?",
+    "a": "Gilead offered a 79% premium."
+  },
+  {
+    "q": "Which two Reuters reporters are credited with the February 23, 2026 article regarding the Gilead Sciences and Arcellx deal?",
+    "a": "The reporting was done by Christy Santhosh in Bengaluru and Sabrina Valle in New York."
+  },
+  {
+    "q": "What is the ticker symbol for Gilead Sciences, as referenced in the February 2026 news report?",
+    "a": "The ticker symbol is GILD.O."
+  },
+  {
+    "q": "What is the ticker symbol for Arcellx, as referenced in the February 2026 news report?",
+    "a": "The ticker symbol is ACLX.O."
+  },
+  {
+    "q": "Which partner company of Johnson & Johnson developed the CAR-T therapy Carvykti, and in what year was it launched?",
+    "a": "Legend Biotech developed Carvykti, which was launched in 2022."
+  },
+  {
+    "q": "What specific type of cell therapy is anito-cel, and which company's unit was jointly developing it with Arcellx before the acquisition?",
+    "a": "Anito-cel is an experimental CAR-T therapy, jointly developed with Kite Pharma, a unit of Gilead Sciences."
+  },
+  {
+    "q": "According to analysts cited in the February 2026 report, what potential revenue milestone could anito-cel become for Gilead Sciences?",
+    "a": "Analysts said it could transform into a 'multi-billion dollar product' for Gilead."
+  },
+  {
+    "q": "What is the name of the COVID-19 drug produced by Gilead Sciences whose sales were declining as of early 2026?",
+    "a": "The drug is Veklury."
+  },
+  {
+    "q": "In which quarter of 2026 is the Gilead Sciences acquisition of Arcellx expected to close?",
+    "a": "The deal is expected to close in the second quarter of 2026."
+  },
+  {
+    "q": "What is the specific cash amount per share that Gilead Sciences will pay to acquire Arcellx in the February 2026 deal?",
+    "a": "Gilead will pay $115 per share in cash."
+  },
+  {
+    "q": "Which rare neuromuscular disease is included in the assets Gilead Sciences acquires from Arcellx in the February 2026 transaction?",
+    "a": "The disease is generalized myasthenia gravis."
+  }
+]

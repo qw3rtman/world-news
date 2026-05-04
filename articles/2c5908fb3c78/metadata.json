@@ -1,0 +1,27 @@
+{
+  "hash": "2c5908fb3c78",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.axios.com/pro/fintech-deals/2026/02/24/stripe-tender-offer-159-billion",
+      "title": "Stripe tender offer values company at $159 billion",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": "Lucinda Shen",
+      "num_tokens": 403,
+      "text_length": 1903
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "700395",
+      "spike_id": 4,
+      "market_question": "Will Lovable be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.365,
+      "spike_timestamp_before": "2026-02-24T14:00:25+00:00",
+      "spike_timestamp_after": "2026-02-25T04:30:30+00:00"
+    }
+  ]
+}

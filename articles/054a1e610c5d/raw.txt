@@ -1,0 +1,83 @@
+Hegseth pressures Anthropic to give military broader access to its AI tech, AP source says | AP News var _comscore = _comscore || []; _comscore.push({ c1: "2", c2: "3005041" }); (function () { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = "https://sb.scorecardresearch.com/cs/3005041/beacon.js"; el.parentNode.insertBefore(s, el); })();
+
+
+
+Sign in 
+
+
+
+Sign in 
+
+Technology
+
+# Hegseth warns Anthropic to let the military use the company’s AI tech as it sees fit, AP sources say
+
+## Hegseth warns Anthropic to let the military use the company’s AI tech as it sees fit, AP sources say
+
+By MATT O’BRIEN, KONSTANTIN TOROPIN and DAVID KLEPPER
+
+WASHINGTON (AP) — Defense Secretary Pete Hegseth gave Anthropic’s CEO a Friday deadline to open the company’s artificial intelligence technology for unrestricted military use or risk losing its government contract, according to a person familiar with their meeting Tuesday.
+
+Anthropic makes the chatbot Claude and is the last of its peers to not supply its technology to a new U.S. military internal network. CEO Dario Amodei repeatedly has made clear his ethical concerns about unchecked government use of AI, including the dangers of fully autonomous armed drones and of AI-assisted mass surveillance that could track dissent.
+
+Defense officials warned they could designate Anthropic a supply chain risk or use the Defense Production Act to essentially give the military more authority to use its products even if it doesn’t approve of how they are used, according to the person familiar with the meeting and a senior Pentagon official, who both were not authorized to comment publicly and spoke on condition of anonymity.
+
+The development, which was reported earlier by Axios, underscores the debate over AI’s role in national security and concerns about how the technology could be used in high-stakes situations involving lethal force, sensitive information or government surveillance. It also comes as Hegseth has vowed to root out what he calls a “woke culture” in the armed forces.
+
+Related Stories
+
+“A powerful AI looking across billions of conversations from millions of people could gauge public sentiment, detect pockets of disloyalty forming, and stamp them out before they grow,” Amodei wrote in an essay last month.
+
+The person familiar called the tone of the meeting cordial but said Amodei didn’t budge on two areas he has established as lines Anthropic won’t cross — fully autonomous military targeting operations and domestic surveillance of U.S. citizens.
+
+The Pentagon objects to Anthropic’s ethical restrictions because military operations need tools that don’t come with built-in limitations, the senior Pentagon official said. The official argued that the Pentagon has only issued lawful orders and stressed that using Anthropic’s tools legally would be the military’s responsibility.
+
+## Anthropic will no longer be the only AI company approved for classified military networks
+
+The Pentagon announced last summer that it was awarding defense contracts to four AI companies — Anthropic, Google, OpenAI and Elon Musk’s xAI. Each contract is worth up to $200 million.
+
+Anthropic was the first AI company to get approved for classified military networks, where it works with partners like Palantir. Musk’s xAI company, which operates the Grok chatbot, says Grok also is ready to be used in classified settings, according to the senior Pentagon official.
+
+The official noted that the other AI companies were “close” to that milestone. SpaceX, Musk’s space flight company that recently merged with xAI, didn’t immediately return a request for comment Tuesday.
+
+Hegseth said in a January speech at SpaceX in South Texas that he was shrugging off any AI models “that won’t allow you to fight wars.”
+
+Hegseth said his vision for military AI systems means that they operate “without ideological constraints that limit lawful military applications,” before adding that the Pentagon’s “AI will not be woke.”
+
+The defense secretary said that Grok would join the secure but unclassified Pentagon AI network, called GenAI.mil. The announcement came days after Grok — which is embedded into X, the social media network owned by Musk — drew global scrutiny for generating highly sexualized deepfake images of people without their consent.
+
+OpenAI announced in early February that it, too, would join GenAI.mil, enabling service members to use a custom version of ChatGPT for unclassified tasks.
+
+## Anthropic calls itself more safety-minded
+
+Anthropic said in a statement after Tuesday’s meeting that it “continued good-faith conversations about our usage policy to ensure Anthropic can continue to support the government’s national security mission in line with what our models can reliably and responsibly do.”
+
+Anthropic has long pitched itself as the more responsible and safety-minded of the leading AI companies, ever since its founders quit OpenAI to form the startup in 2021.
+
+The uncertainty with the Pentagon is putting those intentions to the test, according to Owen Daniels, associate director of analysis and fellow at Georgetown University’s Center for Security and Emerging Technology.
+
+“Anthropic’s peers, including Meta, Google and xAI, have been willing to comply with the department’s policy on using models for all lawful applications,” Daniels said. “So the company’s bargaining power here is limited, and it risks losing influence in the department’s push to adopt AI.”
+
+In the AI craze that followed the release of ChatGPT, Anthropic closely aligned with President Joe Biden’s Democratic administration in volunteering to subject its AI systems to third-party scrutiny to guard against national security risks.
+
+Amodei, the CEO, has warned of AI’s potentially catastrophic dangers while rejecting the label that he’s an AI “doomer.” He argued in the January essay that “we are considerably closer to real danger in 2026 than we were in 2023″ but that those risks should be managed in a “realistic, pragmatic manner.”
+
+## Anthropic has been at odds with the Trump administration
+
+This would not be the first time Anthropic’s advocacy for stricter AI safeguards has put it at odds with President Donald Trump’s administration. Anthropic needled chipmaker Nvidia publicly, criticizing Trump’s proposals to loosen export controls to enable some AI computer chips to be sold in China. The AI company, however, remains a close partner with Nvidia.
+
+Trump’s Republican administration and Anthropic also have been on opposite sides of a lobbying push to regulate AI in U.S. states.
+
+Trump’s top AI adviser, David Sacks, accused Anthropic in October of “running a sophisticated regulatory capture strategy based on fear-mongering.”
+
+Sacks was responding on X to Anthropic co-founder Jack Clark, writing about his attempt to balance technological optimism with “appropriate fear” about the steady march toward more capable AI systems.
+
+Anthropic hired a number of ex-Biden officials soon after Trump’s return to the White House, but it’s also tried to signal a bipartisan approach. The company recently added Chris Liddell, a former White House official from Trump’s first term, to its board of directors.
+
+The Pentagon’s “breakneck” adoption of AI shows the need for greater AI oversight or regulation by Congress, particularly if AI is being used to surveil Americans, said Amos Toh, senior counsel at the Brennan Center’s Liberty and National Security Program at New York University.
+
+“The law is not keeping up with how quickly the technology is evolving,” Toh wrote in a post on Bluesky. “But that doesn’t mean DoD has a blank check.”
+
+___
+
+O’Brien reported from Providence, R.I.

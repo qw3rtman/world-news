@@ -1,0 +1,27 @@
+{
+  "hash": "edeb6ed8b44f",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cbsnews.com/news/house-vote-dhs-funding-shutdown-iran-war-urgency/?intcid=CNR-01-0623",
+      "title": "House approves bill that would end DHS shutdown, but roadblocks remain in Senate - CBS News",
+      "published_date": "2026-03-05T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1066,
+      "text_length": 5654
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1378925",
+      "spike_id": 3,
+      "market_question": "Will the DHS shutdown end after March 31, 2026?",
+      "event_title": "When will the DHS shutdown end?",
+      "spike_direction": "up",
+      "spike_delta": 0.16399999999999998,
+      "spike_timestamp_before": "2026-03-04T09:00:44+00:00",
+      "spike_timestamp_after": "2026-03-05T05:00:40+00:00"
+    }
+  ]
+}

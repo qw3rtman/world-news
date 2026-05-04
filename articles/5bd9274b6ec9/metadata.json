@@ -1,0 +1,27 @@
+{
+  "hash": "5bd9274b6ec9",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://stocks.us.reuters.com/business/energy/prices-oil-fuel-cargoes-smash-record-highs-iran-war-chokes-middle-east-supply-2026-03-19/",
+      "title": "Prices for oil, fuel cargoes smash record highs as Iran war chokes Middle East supply | Reuters",
+      "published_date": "2026-03-19T00:00:00.000Z",
+      "author": "Robert Harvey",
+      "num_tokens": 1247,
+      "text_length": 5691
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1467766",
+      "spike_id": 28,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $100 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.1975,
+      "spike_timestamp_before": "2026-03-19T01:00:28+00:00",
+      "spike_timestamp_after": "2026-03-19T19:30:30+00:00"
+    }
+  ]
+}

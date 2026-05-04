@@ -1,0 +1,107 @@
+[
+  {
+    "q": "In June 2025, which two countries conducted joint attacks that destroyed Iran's uranium enrichment capacity and many of its air defense systems?",
+    "a": "Israel and the United States."
+  },
+  {
+    "q": "During the December 2025 and January 2026 domestic uprising in Iran, what was the estimated number of people killed by the regime according to human rights groups?",
+    "a": "At least 30,000 people."
+  },
+  {
+    "q": "In his February 24, 2026 State of the Union address, what did U.S. President Donald Trump declare regarding Iran's nuclear capabilities?",
+    "a": "He declared he would never allow Iran, described as the number one state sponsor of terror, to have a nuclear weapon."
+  },
+  {
+    "q": "In January 2020, U.S. President Donald Trump ordered the assassination of which prominent commander in Iran’s Islamic Revolutionary Guard Corps (IRGC)?",
+    "q": "Qasem Soleimani.",
+    "a": "Qasem Soleimani."
+  },
+  {
+    "q": "In June 2025, what type of munitions did U.S. President Donald Trump direct to be used against Iranian enrichment facilities?",
+    "a": "Massive ordnance penetrator bombs."
+  },
+  {
+    "q": "Which Venezuelan president was extracted from Caracas by U.S. military forces in a single evening, an operation cited by Donald Trump as a model for potential action against Iran?",
+    "a": "Nicolás Maduro."
+  },
+  {
+    "q": "Who is the 86-year-old Supreme Leader of Iran who has institutionalized his rule over the last three decades and succeeded Ayatollah Ruhollah Khomeini?",
+    "a": "Ali Khamenei."
+  },
+  {
+    "q": "During the 12-day war with Israel in June 2025, where was Iran’s Supreme Leader Ali Khamenei reportedly located according to a New York Times report?",
+    "a": "In a bunker and not using electronic communications."
+  },
+  {
+    "q": "According to Israeli estimates during its 12-day war with Iran in June 2025, by what percentage did attacks on mobile missile launchers reduce the regime’s firing capacity?",
+    "a": "At least 33 percent."
+  },
+  {
+    "q": "In the article's proposed military strategy, which five Iranian cities are identified by open-source intelligence as locations for nuclear or missile production facilities?",
+    "a": "Isfahan, Khojir, Parchin, Semnan, and Shahroud."
+  },
+  {
+    "q": "Which Iranian paramilitary group, whose members patrol streets and put down protests, is identified as a target for U.S. military strikes in the article?",
+    "a": "The Basij."
+  },
+  {
+    "q": "What specific date does the Islamic Republic celebrate as 'Islamic Revolutionary Victory Day,' marking the day the armed forces declared neutrality in 1979?",
+    "a": "February 11."
+  },
+  {
+    "q": "Which former White House adviser on Iran wrote a cautionary Foreign Affairs piece arguing that an attack on Iran could result in unexpectedly deadly retaliation?",
+    "a": "Nate Swanson."
+  },
+  {
+    "q": "In late January 2026, on which social media platform did Donald Trump post that he would rather have a deal with Iran than not?",
+    "a": "Truth Social."
+  },
+  {
+    "q": "Which Iranian security force is described in the article as handling crowd suppression and referred to as 'special units' of the country’s law-enforcement forces?",
+    "a": "The special units of the country’s law-enforcement forces."
+  },
+  {
+    "q": "What type of secure communications technology does the article suggest U.S. intelligence operatives should surge into Iran to maintain internet access if the government cuts off domestic service?",
+    "a": "Satellite Internet devices."
+  },
+  {
+    "q": "Which Iranian state institution, along with the Ministry of Intelligence and the IRGC counterintelligence directorate, is identified as a target for striking state institutions that supported the crackdown on protesters?",
+    "a": "The office of the supreme leader."
+  },
+  {
+    "q": "What term does the article use to describe the network of subterranean bases where Iran keeps its medium- and short-range ballistic missiles?",
+    "a": "Missile cities."
+  },
+  {
+    "q": "Which U.S. government department has already designated Iran’s proxy foreign militias as foreign terrorist organizations?",
+    "a": "The U.S. State Department."
+  },
+  {
+    "q": "In the article's proposed strategy, what action should the United States take if Iran disperses its mobile missile launchers after bringing them above ground?",
+    "a": "Dedicate real-time intelligence, surveillance, and reconnaissance assets to identify their locations and strike them."
+  },
+  {
+    "q": "What specific type of aircraft does the article suggest the United States should use to provide close air support to crowds squaring off against regime militants?",
+    "a": "Lower- and slower-flying drones and aircraft."
+  },
+  {
+    "q": "Which Iranian political body, along with the defense council and the armed forces’ general staff, is identified as part of the wartime command-and-control structures to be targeted?",
+    "a": "The supreme national security council."
+  },
+  {
+    "q": "According to the article, what historical parallel exists between the potential collapse of the Islamic Republic and the 1979 revolution regarding the armed forces?",
+    "a": "In both scenarios, the Iranian armed forces declared their neutrality, effectively abandoning the government."
+  },
+  {
+    "q": "What did U.S. President Donald Trump reply when asked about what an acceptable 'endgame' with Iran would be?",
+    "a": "To win."
+  },
+  {
+    "q": "Which organization does the article identify as the world’s foremost state sponsor of terrorism and the country with the largest ballistic missile arsenal in the Middle East?",
+    "a": "Iran (the Islamic Republic of Iran)."
+  },
+  {
+    "q": "In the article's proposed strategy, what is the primary purpose of targeting every IRGC and Basij provincial command and battalion headquarters across the country?",
+    "a": "To inspire further protests and make it harder for the regime to suppress them."
+  }
+]

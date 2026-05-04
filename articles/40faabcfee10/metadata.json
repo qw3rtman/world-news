@@ -1,0 +1,37 @@
+{
+  "hash": "40faabcfee10",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://eu.usatoday.com/story/money/energy/2026/03/01/oil-prices-rise-after-iran-strikes/88934379007/",
+      "title": "What will happen to oil prices after Iran strikes?",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Andrea Riquier",
+      "num_tokens": 665,
+      "text_length": 3167
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1467763",
+      "spike_id": 1,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $120 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.42,
+      "spike_timestamp_before": "2026-02-28T19:30:32+00:00",
+      "spike_timestamp_after": "2026-02-28T21:00:35+00:00"
+    },
+    {
+      "market_id": "1467765",
+      "spike_id": 1,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $110 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.395,
+      "spike_timestamp_before": "2026-02-28T19:30:31+00:00",
+      "spike_timestamp_after": "2026-02-28T21:30:57+00:00"
+    }
+  ]
+}

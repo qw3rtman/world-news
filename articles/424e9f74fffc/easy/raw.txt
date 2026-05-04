@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In March 2026, what was the total potential value of the research deal signed between Tenaya Therapeutics and Alnylam Pharmaceuticals for heart-disease treatments?",
+    "a": "$1.13 billion"
+  },
+  {
+    "q": "Following the announcement of the deal in March 2026, by what percentage did the shares of Tenaya Therapeutics rise in premarket trading?",
+    "a": "More than 11%"
+  },
+  {
+    "q": "During the two-year research period of the collaboration announced in March 2026, how many genetic causes of heart disease did Tenaya Therapeutics agree to target?",
+    "a": "Up to 15"
+  },
+  {
+    "q": "Under the terms of the March 2026 agreement, which company assumed full responsibility for the commercialization of any medicines resulting from the collaboration between Tenaya Therapeutics and Alnylam Pharmaceuticals?",
+    "a": "Alnylam Pharmaceuticals"
+  },
+  {
+    "q": "What was the maximum amount in upfront payments and additional research funding that Tenaya Therapeutics could receive from Alnylam Pharmaceuticals under the March 2026 deal?",
+    "a": "$10 million"
+  },
+  {
+    "q": "Alnylam Pharmaceuticals' major growth driver, Amvuttra, recorded sales of what amount in 2025?",
+    "a": "$2.31 billion"
+  },
+  {
+    "q": "What specific heart condition is treated by Alnylam Pharmaceuticals' drug Amvuttra, which was identified as a major growth driver in 2025?",
+    "a": "Transthyretin amyloid cardiomyopathy (ATTR-CM)"
+  },
+  {
+    "q": "In the March 2026 deal between Tenaya Therapeutics and Alnylam Pharmaceuticals, what is the maximum total value of milestone payments Tenaya could be eligible for if drugs are successfully developed and approved?",
+    "a": "$1.13 billion"
+  },
+  {
+    "q": "Who was the reporter for the Reuters article published on March 5, 2026, regarding the Tenaya Therapeutics and Alnylam Pharmaceuticals deal?",
+    "a": "Padmanabhan Ananthan"
+  },
+  {
+    "q": "In which city did Padmanabhan Ananthan, the reporter for the March 2026 Tenaya-Alnylam deal article, file his report from?",
+    "a": "Bengaluru"
+  },
+  {
+    "q": "Who edited the Reuters article published on March 5, 2026, concerning the $1.13 billion deal between Tenaya Therapeutics and Alnylam Pharmaceuticals?",
+    "a": "Devika Syamnath"
+  },
+  {
+    "q": "What was the stock ticker symbol for Tenaya Therapeutics as listed in the March 5, 2026 Reuters report?",
+    "a": "TNYA.O"
+  },
+  {
+    "q": "What was the stock ticker symbol for Alnylam Pharmaceuticals as listed in the March 5, 2026 Reuters report?",
+    "a": "ALNY.O"
+  },
+  {
+    "q": "On which day of the week did Tenaya Therapeutics announce the research deal with Alnylam Pharmaceuticals in March 2026?",
+    "a": "Thursday"
+  },
+  {
+    "q": "According to the March 2026 announcement, who handles all further drug development for the heart disease treatments resulting from the Tenaya-Alnylam collaboration?",
+    "a": "Alnylam Pharmaceuticals"
+  },
+  {
+    "q": "What is the primary focus of the treatments that Tenaya Therapeutics agreed to develop with Alnylam Pharmaceuticals in the March 2026 deal?",
+    "a": "Heart diseases"
+  },
+  {
+    "q": "In the March 2026 deal, what condition must be met for Tenaya Therapeutics to be eligible for the up to $1.13 billion in milestone payments from Alnylam Pharmaceuticals?",
+    "a": "The drugs must be successfully developed and approved"
+  },
+  {
+    "q": "What is the name of the heart condition known by the abbreviation ATTR-CM, which is treated by Alnylam Pharmaceuticals' drug Amvuttra?",
+    "a": "Transthyretin amyloid cardiomyopathy"
+  },
+  {
+    "q": "How long is the research period during which Tenaya Therapeutics will work on heart disease-focused treatments targeting up to 15 genetic causes, as per the March 2026 deal?",
+    "a": "Two years"
+  },
+  {
+    "q": "Which pharmaceutical company, known for Amvuttra, signed a deal worth up to $1.13 billion with Tenaya Therapeutics in March 2026?",
+    "a": "Alnylam Pharmaceuticals"
+  },
+  {
+    "q": "What was the reported premarket trading performance of Tenaya Therapeutics shares following the March 2026 announcement of the deal with Alnylam Pharmaceuticals?",
+    "a": "Up more than 11%"
+  },
+  {
+    "q": "Besides the upfront payments, what additional financial component is Tenaya Therapeutics eligible for from Alnylam Pharmaceuticals under the March 2026 agreement?",
+    "a": "Additional research funding"
+  },
+  {
+    "q": "What is the specific abbreviation used for the heart condition transthyretin amyloid cardiomyopathy in the context of Alnylam Pharmaceuticals' drug Amvuttra?",
+    "a": "ATTR-CM"
+  },
+  {
+    "q": "In the March 2026 Reuters report, which organization was responsible for editing the article about the Tenaya Therapeutics and Alnylam Pharmaceuticals deal?",
+    "a": "Reuters"
+  },
+  {
+    "q": "What is the full name of the company that signed the $1.13 billion research deal with Alnylam Pharmaceuticals in March 2026?",
+    "a": "Tenaya Therapeutics"
+  },
+  {
+    "q": "What is the full name of the company that will handle commercialization of medicines resulting from the March 2026 collaboration with Tenaya Therapeutics?",
+    "a": "Alnylam Pharmaceuticals"
+  }
+]

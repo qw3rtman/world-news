@@ -1,0 +1,27 @@
+{
+  "hash": "7d1914930f09",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/middle-east/israel-us-launched-strikes-iranian-leader-met-with-inner-circle-sources-say-2026-03-01/",
+      "title": "Israel, US launched strikes as Iranian leader met with inner circle, sources say | Reuters",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Jonathan Landay",
+      "num_tokens": 489,
+      "text_length": 2398
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1367195",
+      "spike_id": 2,
+      "market_question": "US strikes Iran by March 15, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.629,
+      "spike_timestamp_before": "2026-02-27T09:30:26+00:00",
+      "spike_timestamp_after": "2026-02-28T09:00:45+00:00"
+    }
+  ]
+}

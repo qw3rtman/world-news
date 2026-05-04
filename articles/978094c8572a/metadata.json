@@ -1,0 +1,27 @@
+{
+  "hash": "978094c8572a",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.nbcnews.com/politics/donald-trump/iran-negotiate-ceasefire-deal-trump-kharg-hormuz-oil-rcna263474",
+      "title": "Trump says Iran is ready to negotiate a ceasefire but he's not ready to make a deal",
+      "published_date": "2026-03-14T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 2470,
+      "text_length": 11415
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "618509",
+      "spike_id": 7,
+      "market_question": "Will Trump and Putin not meet?",
+      "event_title": "Where will Trump and Putin meet next?",
+      "spike_direction": "up",
+      "spike_delta": 0.15200000000000002,
+      "spike_timestamp_before": "2026-03-12T05:30:22+00:00",
+      "spike_timestamp_after": "2026-03-13T03:30:23+00:00"
+    }
+  ]
+}

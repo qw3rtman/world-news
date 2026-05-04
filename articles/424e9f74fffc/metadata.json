@@ -1,0 +1,37 @@
+{
+  "hash": "424e9f74fffc",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/tenaya-therapeutics-inks-113-billion-deal-with-alnylam-heart-disease-treatments-2026-03-05/",
+      "title": "Tenaya Therapeutics inks $1.13 billion deal with Alnylam for heart-disease treatments | Reuters",
+      "published_date": "2026-03-05T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 273,
+      "text_length": 1090
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694938",
+      "spike_id": 27,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.375,
+      "spike_timestamp_before": "2026-03-06T03:30:41+00:00",
+      "spike_timestamp_after": "2026-03-06T22:00:35+00:00"
+    },
+    {
+      "market_id": "694938",
+      "spike_id": 28,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.25,
+      "spike_timestamp_before": "2026-03-06T22:00:35+00:00",
+      "spike_timestamp_after": "2026-03-07T00:30:34+00:00"
+    }
+  ]
+}

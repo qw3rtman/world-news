@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2026, what specific price did Brent crude reach in London after jumping 23 percent, and what geopolitical event involving Iran contributed to this surge?",
+    "a": "Brent crude reached US$114.14 a barrel, following Iran's closure of the Strait of Hormuz."
+  },
+  {
+    "q": "During the week of March 9, 2026, by what percentage did West Texas Intermediate (WTI) rise, and what was its resulting price per barrel?",
+    "a": "West Texas Intermediate rose 24 percent to US$113.11 a barrel."
+  },
+  {
+    "q": "According to Goldman Sachs in March 2026, what percentage of global crude flows is handled by the Strait of Hormuz, the chokepoint whose closure was driving oil prices above US$100?",
+    "a": "The Strait of Hormuz handles about one-fifth of global crude flows."
+  },
+  {
+    "q": "In March 2026, Goldman Sachs raised its average price forecast for Brent crude for the second quarter to what specific dollar amount, and by how much did it increase the previous forecast?",
+    "a": "Goldman Sachs raised the forecast to US$76 a barrel, an increase of US$10."
+  },
+  {
+    "q": "As of March 2026, by what amount did Goldman Sachs lift its West Texas Intermediate outlook, and what was the new forecast price per barrel?",
+    "a": "Goldman Sachs lifted the outlook by US$9 to US$71 a barrel."
+  },
+  {
+    "q": "In March 2026, Deutsche Bank stated that a worst-case scenario could see oil surge as high as what price per barrel, potentially forcing central banks to confront slower growth and accelerating inflation?",
+    "a": "Deutsche Bank warned oil could surge as high as US$200 a barrel."
+  },
+  {
+    "q": "In March 2026, analysts noted that oil benchmarks were trading at levels not seen since which year, a period marked by price spikes following Russia’s invasion of Ukraine?",
+    "a": "Oil benchmarks were trading at levels not seen since 2022."
+  },
+  {
+    "q": "According to Goldman Sachs in March 2026, if the Strait of Hormuz remained closed through March, oil could potentially challenge the record set in which previous year?",
+    "a": "Oil could challenge the record set in 2008."
+  },
+  {
+    "q": "In March 2026, which two major oil benchmarks were reported to have surged above US$100 a barrel, with Brent reaching US$114.14 and WTI reaching US$113.11?",
+    "a": "The two benchmarks were Brent crude and West Texas Intermediate (WTI)."
+  },
+  {
+    "q": "In March 2026, which US investment bank raised its price forecasts for both Brent crude and West Texas Intermediate, warning that risks remained tilted to the upside?",
+    "a": "Goldman Sachs raised its price forecasts."
+  },
+  {
+    "q": "In March 2026, which German-based bank warned that a worst-case scenario for oil prices could reach US$200 a barrel, creating a shock for central banks?",
+    "a": "Deutsche Bank issued the warning."
+  },
+  {
+    "q": "In March 2026, what specific action by Iran was cited by traders as the cause for increasingly pricing in a prolonged supply disruption?",
+    "a": "Iran closed the Strait of Hormuz."
+  },
+  {
+    "q": "In March 2026, Goldman Sachs warned that oil above US$100 could reshape investors’ outlook for what broader economic entity?",
+    "a": "The global economy."
+  },
+  {
+    "q": "In March 2026, what type of assets were reported to be injecting fresh volatility due to the surge in oil prices and military tensions in the Middle East?",
+    "a": "Risk assets."
+  },
+  {
+    "q": "In March 2026, Deutsche Bank stated that a potential US$200 oil price shock could force central banks to confront a mix of what two economic conditions?",
+    "a": "Slower growth and accelerating inflation."
+  },
+  {
+    "q": "In March 2026, Goldman Sachs raised its Brent crude forecast for which specific quarter, and to what price?",
+    "a": "The second quarter, to US$76 a barrel."
+  },
+  {
+    "q": "In March 2026, which two historical events were cited as reasons for oil prices reaching levels not seen since 2022 and potentially challenging the 2008 record?",
+    "a": "Russia’s invasion of Ukraine and the closure of the Strait of Hormuz by Iran."
+  },
+  {
+    "q": "In March 2026, what was the specific percentage jump reported for Brent crude in London, and what was the resulting price per barrel?",
+    "a": "Brent crude jumped 23 percent to US$114.14 a barrel."
+  },
+  {
+    "q": "In March 2026, what was the specific percentage rise reported for West Texas Intermediate (WTI), and what was its resulting price per barrel?",
+    "a": "WTI rose 24 percent to US$113.11 a barrel."
+  },
+  {
+    "q": "In March 2026, Goldman Sachs warned that risks to its oil price forecasts remained tilted to the upside; which two specific benchmarks did it adjust forecasts for?",
+    "a": "Brent crude and West Texas Intermediate (WTI)."
+  },
+  {
+    "q": "In March 2026, which geographic chokepoint, handling about one-fifth of global crude flows, was closed by Iran and driving oil prices above US$100?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "In March 2026, which two financial institutions provided specific price forecasts or warnings regarding the potential for oil to reach US$200 or remain above US$100?",
+    "a": "Goldman Sachs and Deutsche Bank."
+  },
+  {
+    "q": "In March 2026, Goldman Sachs lifted its West Texas Intermediate outlook by US$9; what was the new forecast price per barrel for WTI?",
+    "a": "The new forecast price was US$71 a barrel."
+  },
+  {
+    "q": "In March 2026, analysts noted that oil prices were reshaping investors’ outlook for the global economy and injecting volatility into risk assets due to military tensions in which region?",
+    "a": "The Middle East."
+  },
+  {
+    "q": "In March 2026, if the Strait of Hormuz remained closed through March, which two historical price peaks could oil potentially surpass or challenge, according to Goldman Sachs?",
+    "a": "The 2022 peak and the 2008 record."
+  }
+]

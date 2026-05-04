@@ -1,0 +1,37 @@
+{
+  "hash": "9024f5a21073",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-israel-strait-of-hormuz-ship-attacks-persian-gulf-drones-missiles/",
+      "title": "Trump vows to end war soon as Iran hits ships, threatens banks, and toll on U.S. forces emerges",
+      "published_date": "2026-03-12T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 196,
+      "text_length": 923
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1466575",
+      "spike_id": 10,
+      "market_question": "Trump announces end of military operations against Iran by March 31st?",
+      "event_title": "Trump announces end of military operations against Iran by ...?",
+      "spike_direction": "down",
+      "spike_delta": -0.17000000000000004,
+      "spike_timestamp_before": "2026-03-11T16:30:31+00:00",
+      "spike_timestamp_after": "2026-03-12T16:30:31+00:00"
+    },
+    {
+      "market_id": "677397",
+      "spike_id": 20,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.17999999999999994,
+      "spike_timestamp_before": "2026-03-11T05:00:30+00:00",
+      "spike_timestamp_after": "2026-03-11T21:00:42+00:00"
+    }
+  ]
+}

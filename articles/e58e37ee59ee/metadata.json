@@ -1,0 +1,27 @@
+{
+  "hash": "e58e37ee59ee",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://thetimes.com/uk/scotland/article/scottish-green-lib-dem-coalition-scottish-election-rncwntgrd",
+      "title": "Kingmakers: What the Greens or Lib Dems would demand of the SNP",
+      "published_date": "2026-02-21T00:00:00.000Z",
+      "author": "Daniel Sanderson, Scottish Political Editor | John Boothman, Political Correspondent",
+      "num_tokens": 1752,
+      "text_length": 8271
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "635521",
+      "spike_id": 2,
+      "market_question": "Will the next Dutch government be VVD + CDA + D66?",
+      "event_title": "Which coalition will form the next Dutch government?",
+      "spike_direction": "up",
+      "spike_delta": 0.4275,
+      "spike_timestamp_before": "2026-02-20T02:00:25+00:00",
+      "spike_timestamp_after": "2026-02-21T01:00:33+00:00"
+    }
+  ]
+}

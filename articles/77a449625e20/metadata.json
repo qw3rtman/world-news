@@ -1,0 +1,77 @@
+{
+  "hash": "77a449625e20",
+  "n_appearances": 6,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://timesofindia.indiatimes.com/business/international-business/day-after-3-year-high-global-oil-prices-cool-to-below-90-per-barrel/articleshow/129419213.cms",
+      "title": "Day after 3-year high, global oil prices cool to below $90 per barrel - The Times of India",
+      "published_date": "2026-03-10T00:00:00.000Z",
+      "author": "TNN /   Mar 11, 2026, 02:17 IST",
+      "num_tokens": 398,
+      "text_length": 1916
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1538079",
+      "spike_id": 3,
+      "market_question": "Will Crude Oil (CL) hit (LOW) $80 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.415,
+      "spike_timestamp_before": "2026-03-09T19:30:19+00:00",
+      "spike_timestamp_after": "2026-03-10T15:00:27+00:00"
+    },
+    {
+      "market_id": "1538079",
+      "spike_id": 4,
+      "market_question": "Will Crude Oil (CL) hit (LOW) $80 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.56,
+      "spike_timestamp_before": "2026-03-09T19:30:19+00:00",
+      "spike_timestamp_after": "2026-03-10T17:30:24+00:00"
+    },
+    {
+      "market_id": "1538079",
+      "spike_id": 5,
+      "market_question": "Will Crude Oil (CL) hit (LOW) $80 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.41500000000000004,
+      "spike_timestamp_before": "2026-03-10T17:30:24+00:00",
+      "spike_timestamp_after": "2026-03-10T23:00:24+00:00"
+    },
+    {
+      "market_id": "1538079",
+      "spike_id": 6,
+      "market_question": "Will Crude Oil (CL) hit (LOW) $80 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.24,
+      "spike_timestamp_before": "2026-03-10T23:00:24+00:00",
+      "spike_timestamp_after": "2026-03-11T04:30:24+00:00"
+    },
+    {
+      "market_id": "1538079",
+      "spike_id": 7,
+      "market_question": "Will Crude Oil (CL) hit (LOW) $80 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.40499999999999997,
+      "spike_timestamp_before": "2026-03-11T04:30:24+00:00",
+      "spike_timestamp_after": "2026-03-12T03:00:28+00:00"
+    },
+    {
+      "market_id": "1538079",
+      "spike_id": 8,
+      "market_question": "Will Crude Oil (CL) hit (LOW) $80 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.3350000000000001,
+      "spike_timestamp_before": "2026-03-11T21:30:25+00:00",
+      "spike_timestamp_after": "2026-03-12T20:00:26+00:00"
+    }
+  ]
+}

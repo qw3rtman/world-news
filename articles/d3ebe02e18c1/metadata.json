@@ -1,0 +1,27 @@
+{
+  "hash": "d3ebe02e18c1",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://apnews.com/article/venezuela-united-states-diplomatic-relations-trump-e25403c31cce29742fd95f7ffe3bbe09",
+      "title": "US, Venezuela agree to reestablish diplomatic relations | AP News",
+      "published_date": "2026-03-05T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 630,
+      "text_length": 3391
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1106813",
+      "spike_id": 9,
+      "market_question": "Will María Corina Machado enter Venezuela by March 31?",
+      "event_title": "María Corina Machado enters Venezuela by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.26499999999999996,
+      "spike_timestamp_before": "2026-03-05T00:00:29+00:00",
+      "spike_timestamp_after": "2026-03-05T23:00:36+00:00"
+    }
+  ]
+}

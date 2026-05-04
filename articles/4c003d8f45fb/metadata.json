@@ -1,0 +1,87 @@
+{
+  "hash": "4c003d8f45fb",
+  "n_appearances": 7,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.washingtonpost.com/world/2026/02/28/iran-supreme-leader-khamenei-succession/f3c6de54-1519-11f1-8e8d-fe91db44677b_story.html",
+      "title": "How succession works in Iran and who could be the country's next supreme leader - The Washington Post",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Jon Gambrell | AP",
+      "num_tokens": 96,
+      "text_length": 446
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1112030",
+      "spike_id": 1,
+      "market_question": "Will Khamenei leave Iran by March 31?",
+      "event_title": "Will Khamenei leave Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.1545,
+      "spike_timestamp_before": "2026-02-28T07:30:30+00:00",
+      "spike_timestamp_after": "2026-02-28T20:00:33+00:00"
+    },
+    {
+      "market_id": "1112030",
+      "spike_id": 2,
+      "market_question": "Will Khamenei leave Iran by March 31?",
+      "event_title": "Will Khamenei leave Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.175,
+      "spike_timestamp_before": "2026-02-28T07:30:30+00:00",
+      "spike_timestamp_after": "2026-02-28T22:00:37+00:00"
+    },
+    {
+      "market_id": "1470007",
+      "spike_id": 7,
+      "market_question": "Will Iran name a successor to Khamenei by March 1?",
+      "event_title": "New Supreme Leader of Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.5525,
+      "spike_timestamp_before": "2026-03-01T02:00:31+00:00",
+      "spike_timestamp_after": "2026-03-02T02:00:29+00:00"
+    },
+    {
+      "market_id": "1470007",
+      "spike_id": 8,
+      "market_question": "Will Iran name a successor to Khamenei by March 1?",
+      "event_title": "New Supreme Leader of Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.2575,
+      "spike_timestamp_before": "2026-03-01T05:30:30+00:00",
+      "spike_timestamp_after": "2026-03-02T05:00:26+00:00"
+    },
+    {
+      "market_id": "958442",
+      "spike_id": 1,
+      "market_question": "Will the Iranian regime fall by March 31?",
+      "event_title": "Will the Iranian regime fall by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.18400000000000002,
+      "spike_timestamp_before": "2026-02-27T08:30:34+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:15+00:00"
+    },
+    {
+      "market_id": "958442",
+      "spike_id": 2,
+      "market_question": "Will the Iranian regime fall by March 31?",
+      "event_title": "Will the Iranian regime fall by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.184,
+      "spike_timestamp_before": "2026-02-27T19:30:41+00:00",
+      "spike_timestamp_after": "2026-02-28T12:00:09+00:00"
+    },
+    {
+      "market_id": "958442",
+      "spike_id": 3,
+      "market_question": "Will the Iranian regime fall by March 31?",
+      "event_title": "Will the Iranian regime fall by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.22300000000000003,
+      "spike_timestamp_before": "2026-02-27T19:30:41+00:00",
+      "spike_timestamp_after": "2026-02-28T14:00:50+00:00"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On Friday, March 13, 2026, Brent crude oil futures closed at $103.14 per barrel; what was the percentage increase for Brent futures on that session?",
+    "a": "2.67%"
+  },
+  {
+    "q": "During the week ending March 13, 2026, WTI crude oil futures ended the week more than 8% higher, marking their best weekly performance since which historical year?",
+    "a": "1983"
+  },
+  {
+    "q": "In March 2026, the International Energy Agency agreed to release 400 million stockpiled barrels of oil; what was the historical significance of this action regarding such releases?",
+    "a": "It was the largest such action in history."
+  },
+  {
+    "q": "In March 2026, U.S. President Donald Trump issued a 30-day waiver allowing which country to purchase sanctioned oil from Russia?",
+    "a": "India"
+  },
+  {
+    "q": "In March 2026, U.S. President Donald Trump was considering loosening rules under which specific act that requires U.S. ships to transport goods between domestic ports?",
+    "a": "The Jones Act"
+  },
+  {
+    "q": "In March 2026, who is the new supreme leader of Iran who vowed to keep fighting in a message delivered via state television?",
+    "a": "Mojtaba Khamenei"
+  },
+  {
+    "q": "In March 2026, Ebrahim Zolfaqari, spokesperson for Iran’s military command, warned that oil prices could reach $200 a barrel due to regional security issues destabilized by which U.S. leader?",
+    "a": "President Donald Trump"
+  },
+  {
+    "q": "In March 2026, which financial institution’s analyst Emmanuel Cau noted that investors were becoming increasingly jittery about the conflict in the Strait of Hormuz?",
+    "a": "Barclays"
+  },
+  {
+    "q": "In March 2026, Amjad Bseisu, CEO of which British petroleum production company, stated that the oil market had never seen a crisis of this magnitude before?",
+    "a": "EnQuest"
+  },
+  {
+    "q": "In March 2026, Amjad Bseisu of EnQuest noted that every day of delay in the Strait of Hormuz crisis results in approximately how many million barrels being wiped off the market?",
+    "a": "20 million barrels"
+  },
+  {
+    "q": "In March 2026, Amjad Bseisu of EnQuest compared the current reduction in global oil supply to which historical event from the 1970s?",
+    "a": "The Arab embargo"
+  },
+  {
+    "q": "In March 2026, U.S. crude oil gained 3.11% to settle at what price per barrel?",
+    "a": "$98.71 per barrel"
+  },
+  {
+    "q": "In March 2026, Brent crude oil closed above $100 for the second consecutive session as the Iran war headed toward its third week; what was the specific dollar increase for Brent futures on that Friday?",
+    "a": "$2.68"
+  },
+  {
+    "q": "In March 2026, Axios reported that President Donald Trump had claimed on a call with G7 leaders that Iran was about to surrender; on which day did Iran’s new supreme leader vow to keep fighting?",
+    "a": "A day later (Saturday, March 14, 2026)"
+  },
+  {
+    "q": "In March 2026, the biggest weekly gain in oil prices since the Covid-19 pandemic in 2020 was a 27.9% rise seen in which week?",
+    "a": "The week prior to the week ending March 13, 2026"
+  },
+  {
+    "q": "In March 2026, which critical oil shipping route had its tanker traffic effectively at a standstill due to the Iran war?",
+    "a": "The Strait of Hormuz"
+  },
+  {
+    "q": "In March 2026, Barclays’ Emmanuel Cau stated that investors still believed in the \"Trump put,\" which helped keep global equities from falling as much as in past oil shocks; what market condition did he warn would turn more stagflationary if the Strait of Hormuz stayed closed?",
+    "a": "Markets"
+  },
+  {
+    "q": "In March 2026, Amjad Bseisu of EnQuest told CNBC’s \"Squawk Box Europe\" that he thought the crisis would be longer and harder than before, advising investors to watch out for which type of risks?",
+    "a": "Downsides"
+  },
+  {
+    "q": "In March 2026, Ebrahim Zolfaqari, spokesperson for Iran’s military command, made his warning about oil prices reaching $200 a barrel on which day of the week?",
+    "a": "Wednesday"
+  },
+  {
+    "q": "In March 2026, President Donald Trump hinted that an end to the Iran conflict was not imminent; what did he tell his followers to \"watch what happens\" to?",
+    "a": "The Iranian regime"
+  },
+  {
+    "q": "In March 2026, a number of foreign ships in or near the Strait of Hormuz were attacked; what specific type of route is the Strait of Hormuz described as in the article?",
+    "a": "A critical oil shipping route"
+  },
+  {
+    "q": "In March 2026, Amjad Bseisu of EnQuest noted that prices had come up 50% since the Arab embargo of the 1970s, which saw quadrupling of prices; what did he think this current crisis would be?",
+    "a": "Quite a long run"
+  },
+  {
+    "q": "In March 2026, which global benchmark oil price hovered above the $100 mark on Friday?",
+    "a": "Brent oil prices"
+  },
+  {
+    "q": "In March 2026, U.S. President Donald Trump claimed on a call with G7 leaders that Iran was \"about to surrender\"; which news organization reported this claim?",
+    "a": "Axios"
+  },
+  {
+    "q": "In March 2026, Barclays’ Emmanuel Cau warned that central banks should be watched next week amid hawkish repricing in rates; which specific central banks did he refer to?",
+    "a": "Central banks (global/unspecified)"
+  }
+]

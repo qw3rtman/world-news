@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the article published by Barron's on March 20, 2026, titled 'Oil Prices Today: After Spiking to $119, How Much Higher Can They Go?', what specific price spike did the headline reference as a recent event?",
+    "a": "The headline referenced a spike to $119."
+  },
+  {
+    "q": "According to the Barron's article published on March 20, 2026, what conflict was identified as the cause for the surge in oil prices?",
+    "a": "The Iran war."
+  },
+  {
+    "q": "In the March 20, 2026 Barron's article, on which day of the week did oil prices rise again after spiking during the previous session?",
+    "a": "Friday."
+  },
+  {
+    "q": "What image credit is provided in the Barron's article published on March 20, 2026, to illustrate the surge in oil prices since the Iran war started?",
+    "a": "Brandon Bell/Getty Images."
+  },
+  {
+    "q": "In the context of the March 20, 2026 Barron's article, what was the sequence of price movement described for oil prices on the Friday following a previous session?",
+    "a": "Oil prices spiked during the previous session and then rose again on Friday."
+  },
+  {
+    "q": "Which news publication released an article on March 20, 2026, discussing the potential for further increases in oil prices after a spike to $119?",
+    "a": "Barron's."
+  },
+  {
+    "q": "According to the March 20, 2026 article in Barron's, what specific geopolitical event was cited as the reason oil prices had surged?",
+    "a": "The Iran war."
+  },
+  {
+    "q": "In the Barron's article dated March 20, 2026, what was the approximate price level mentioned in the headline that oil had spiked to?",
+    "a": "$119."
+  },
+  {
+    "q": "What photographer and news agency are credited with the image in the March 20, 2026 Barron's article showing the context of oil price surges?",
+    "a": "Brandon Bell/Getty Images."
+  },
+  {
+    "q": "In the March 20, 2026 Barron's article, how did the article describe the timing of the oil price rise relative to a previous session?",
+    "a": "Oil prices rose again on Friday after spiking during the previous session."
+  },
+  {
+    "q": "What specific war was linked to the surge in oil prices in the Barron's article published on March 20, 2026?",
+    "a": "The Iran war."
+  },
+  {
+    "q": "In the Barron's article from March 20, 2026, what question was posed in the headline regarding the future trajectory of oil prices after they spiked to $119?",
+    "a": "How Much Higher Can They Go?"
+  },
+  {
+    "q": "Which publication's article, published on March 20, 2026, featured an image by Brandon Bell/Getty Images?",
+    "a": "Barron's."
+  },
+  {
+    "q": "According to the March 20, 2026 Barron's article, what was the immediate price action on Friday following a spike in the previous session?",
+    "a": "Oil prices rose again."
+  },
+  {
+    "q": "In the Barron's article dated March 20, 2026, what was the stated cause for the oil price surge that preceded the $119 spike mentioned in the headline?",
+    "a": "The Iran war."
+  },
+  {
+    "q": "What specific date was the Barron's article titled 'Oil Prices Today: After Spiking to $119, How Much Higher Can They Go?' published?",
+    "a": "March 20, 2026."
+  },
+  {
+    "q": "In the March 20, 2026 Barron's article, who is credited with the photograph illustrating the oil price surge?",
+    "a": "Brandon Bell."
+  },
+  {
+    "q": "What news agency is associated with the photographer Brandon Bell in the March 20, 2026 Barron's article?",
+    "a": "Getty Images."
+  },
+  {
+    "q": "In the Barron's article published on March 20, 2026, what was the price level oil spiked to before rising again on Friday?",
+    "a": "$119."
+  },
+  {
+    "q": "According to the March 20, 2026 Barron's article, what conflict was ongoing when oil prices surged?",
+    "a": "The Iran war."
+  },
+  {
+    "q": "In the Barron's article from March 20, 2026, what was the day of the week when oil prices rose after spiking in the previous session?",
+    "a": "Friday."
+  },
+  {
+    "q": "What was the main subject of the Barron's article published on March 20, 2026, regarding oil prices?",
+    "a": "The potential for further increases after spiking to $119."
+  },
+  {
+    "q": "In the March 20, 2026 Barron's article, what specific event was described as having started before the oil price surge?",
+    "a": "The Iran war."
+  },
+  {
+    "q": "What was the headline of the Barron's article published on March 20, 2026, that discussed oil prices?",
+    "a": "Oil Prices Today: After Spiking to $119, How Much Higher Can They Go?"
+  },
+  {
+    "q": "In the Barron's article dated March 20, 2026, what was the relationship between the previous session's price action and Friday's price action?",
+    "a": "Oil prices spiked in the previous session and rose again on Friday."
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "hash": "b4335994713c",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://br.reuters.com/world/middle-east/khamenei-killing-shatters-irans-order-triggers-high-stakes-succession-race-2026-03-01/",
+      "title": "Reuters | Breaking International News & Views",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 62,
+      "text_length": 309
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1112030",
+      "spike_id": 1,
+      "market_question": "Will Khamenei leave Iran by March 31?",
+      "event_title": "Will Khamenei leave Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.1545,
+      "spike_timestamp_before": "2026-02-28T07:30:30+00:00",
+      "spike_timestamp_after": "2026-02-28T20:00:33+00:00"
+    },
+    {
+      "market_id": "1112030",
+      "spike_id": 2,
+      "market_question": "Will Khamenei leave Iran by March 31?",
+      "event_title": "Will Khamenei leave Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.175,
+      "spike_timestamp_before": "2026-02-28T07:30:30+00:00",
+      "spike_timestamp_after": "2026-02-28T22:00:37+00:00"
+    }
+  ]
+}

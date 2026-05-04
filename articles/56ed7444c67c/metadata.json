@@ -1,0 +1,37 @@
+{
+  "hash": "56ed7444c67c",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://origin.www.bloomberg.com/news/articles/2026-03-03/iran-war-uk-europe-scramble-to-defend-cyprus-after-drone-attack?srnd=undefined",
+      "title": "Iran War: UK, Europe Scramble to Defend Cyprus After Drone Attack - Bloomberg",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Viktoria Dendrinou",
+      "num_tokens": 199,
+      "text_length": 809
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1466423",
+      "spike_id": 5,
+      "market_question": "Will Iran strike Cyprus in March?",
+      "event_title": "Iran military action against ___ by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.215,
+      "spike_timestamp_before": "2026-03-02T12:30:39+00:00",
+      "spike_timestamp_after": "2026-03-03T12:00:38+00:00"
+    },
+    {
+      "market_id": "1466423",
+      "spike_id": 6,
+      "market_question": "Will Iran strike Cyprus in March?",
+      "event_title": "Iran military action against ___ by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.23500000000000001,
+      "spike_timestamp_before": "2026-03-02T22:30:27+00:00",
+      "spike_timestamp_after": "2026-03-03T17:30:29+00:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "hash": "ad33370370f5",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://beta.japantimes.co.jp/news/2026/03/13/world/netanyahu-iran-regime-change/",
+      "title": "Netanyahu says no guarantee of Iran regime change after war - The Japan Times",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": "Dan Williams",
+      "num_tokens": 168,
+      "text_length": 909
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "567688",
+      "spike_id": 1,
+      "market_question": "Netanyahu out by end of 2026?",
+      "event_title": "Netanyahu out by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.16500000000000004,
+      "spike_timestamp_before": "2026-03-13T10:30:46+00:00",
+      "spike_timestamp_after": "2026-03-14T09:30:30+00:00"
+    }
+  ]
+}

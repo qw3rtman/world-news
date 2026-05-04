@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On what specific date was the Reuters Sitemap published?",
+    "a": "February 24, 2026."
+  },
+  {
+    "q": "What is the title of the webpage published by Reuters on February 24, 2026?",
+    "a": "Sitemap | Reuters."
+  },
+  {
+    "q": "Which financial data and analytics platform is promoted on the Reuters sitemap published in February 2026?",
+    "a": "Refinitiv."
+  },
+  {
+    "q": "Who is the target audience for the exclusive news, data, and analytics offered by Refinitiv as described on the Reuters sitemap?",
+    "a": "Financial market professionals."
+  },
+  {
+    "q": "In which month and year does the 'Back to' navigation link on the Reuters sitemap point?",
+    "a": "February 2026."
+  },
+  {
+    "q": "What specific day in February 2026 is listed in the header 'Sitemap - 24 February 2026'?",
+    "a": "The 24th."
+  },
+  {
+    "q": "What is the publication date of the article titled 'Sitemap | Reuters'?",
+    "a": "2026-02-24."
+  },
+  {
+    "q": "Which company's sitemap is being displayed in the text provided?",
+    "a": "Reuters."
+  },
+  {
+    "q": "What service does Refinitiv provide according to the text on the February 24, 2026 sitemap?",
+    "a": "Exclusive news, data, and analytics for financial market professionals."
+  },
+  {
+    "q": "What navigation element allows users to return to the previous month's content on the February 24, 2026 Reuters sitemap?",
+    "a": "A link labeled 'Back to February 2026'."
+  },
+  {
+    "q": "What is the full title of the sitemap page published on February 24, 2026?",
+    "a": "Sitemap | Reuters."
+  },
+  {
+    "q": "Which organization provides the 'Exclusive news, data and analytics' mentioned in the February 2026 sitemap?",
+    "a": "Refinitiv."
+  },
+  {
+    "q": "What is the specific date format used in the 'Published' field of the article metadata?",
+    "a": "YYYY-MM-DD (specifically 2026-02-24)."
+  },
+  {
+    "q": "What is the primary function of the 'Skip to main content' link on the February 24, 2026 Reuters page?",
+    "a": "To allow users to bypass navigation elements and go directly to the main content."
+  },
+  {
+    "q": "Who are the intended recipients of the analytics provided by Refinitiv as stated in the February 2026 sitemap?",
+    "a": "Financial market professionals."
+  },
+  {
+    "q": "What is the name of the section header that appears below the navigation links on the February 24, 2026 sitemap?",
+    "a": "Sitemap - 24 February 2026."
+  },
+  {
+    "q": "Which month is referenced in the 'Back to' link on the February 24, 2026 Reuters sitemap?",
+    "a": "February."
+  },
+  {
+    "q": "What year is included in the 'Back to' navigation link on the February 24, 2026 sitemap?",
+    "a": "2026."
+  },
+  {
+    "q": "What type of professionals are targeted by the Refinitiv services described in the February 24, 2026 sitemap?",
+    "a": "Financial market professionals."
+  },
+  {
+    "q": "What is the exact text of the link that allows users to navigate back to the previous month on the February 24, 2026 sitemap?",
+    "a": "Back to February 2026."
+  },
+  {
+    "q": "Which brand name is associated with the 'Exclusive news, data and analytics' on the February 24, 2026 Reuters sitemap?",
+    "a": "Refinitiv."
+  },
+  {
+    "q": "What is the publication date listed in the metadata for the 'Sitemap | Reuters' article?",
+    "a": "2026-02-24."
+  },
+  {
+    "q": "What specific date is highlighted in the header 'Sitemap - 24 February 2026'?",
+    "a": "February 24, 2026."
+  },
+  {
+    "q": "Who is the intended audience for the Refinitiv services mentioned in the February 24, 2026 sitemap?",
+    "a": "Financial market professionals."
+  },
+  {
+    "q": "What is the title of the webpage that contains the sitemap for February 24, 2026?",
+    "a": "Sitemap | Reuters."
+  }
+]

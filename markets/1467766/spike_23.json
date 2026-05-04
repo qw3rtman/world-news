@@ -1,0 +1,65 @@
+{
+  "spike_index": 23,
+  "direction": "down",
+  "price_before": 0.928,
+  "price_after": 0.7035,
+  "delta": -0.22450000000000003,
+  "abs_delta": 0.22450000000000003,
+  "timestamp_before": "2026-03-16T08:00:25+00:00",
+  "timestamp_after": "2026-03-16T20:00:26+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.reuters.com/business/energy/middle-east-oil-benchmarks-hit-record-highs-war-cuts-supply-2026-03-16",
+      "file": "01b0d3c8c052.txt",
+      "title": "Middle East oil becomes most expensive in the world as war cuts supply | Reuters",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "Florence Tan",
+      "text_length": 3899,
+      "status": "ok",
+      "num_tokens": 880
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-march-16-crude-continues-to-rise-as-us-iran-war-rages-on-brent-crude-surges-past-105-a-barrel/articleshow/129599496.cms",
+      "file": "5f45ed7f06b1.txt",
+      "title": "Oil prices today: Crude continues to rise as US-Iran war rages on; Brent surges past $105 a barrel - The Times of India",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /  Updated: Mar 16, 2026, 12:33 IST",
+      "text_length": 2419,
+      "status": "ok",
+      "num_tokens": 459
+    },
+    {
+      "url": "https://uk.mobile.reuters.com/business/energy/middle-east-oil-benchmarks-hit-record-highs-war-cuts-supply-2026-03-16/",
+      "file": "b7a8fa4f902d.txt",
+      "title": "Middle East oil becomes most expensive in the world as war cuts supply | Reuters",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "Florence Tan",
+      "text_length": 3800,
+      "status": "ok",
+      "num_tokens": 864
+    },
+    {
+      "url": "https://www.nbcnews.com/business/energy/oil-prices-iran-war-trump-wti-rcna263397",
+      "file": "e3e6bf7a860b.txt",
+      "title": "U.S. oil tops $100 as Iran war shows no sign of ending soon",
+      "published_date": "2026-03-15T00:00:00.000Z",
+      "author": null,
+      "text_length": 3673,
+      "status": "ok",
+      "num_tokens": 794
+    },
+    {
+      "url": "https://reuters.com/business/energy/oil-poised-further-gains-middle-east-conflict-threatens-export-facilities-2026-03-15/",
+      "file": "86ec9e291bfe.txt",
+      "title": "Oil poised for further gains as Middle East conflict threatens export facilities | Reuters",
+      "published_date": "2026-03-15T00:00:00.000Z",
+      "author": "Florence Tan",
+      "text_length": 2759,
+      "status": "ok",
+      "num_tokens": 580
+    }
+  ],
+  "total_tokens": 3577
+}

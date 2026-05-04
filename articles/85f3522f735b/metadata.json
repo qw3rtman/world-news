@@ -1,0 +1,27 @@
+{
+  "hash": "85f3522f735b",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-08-26?post-id=cmmi2rc310000356t6czkt218",
+      "title": "Day 9 of Middle East conflict — new Iranian leader named, global markets react to oil surges | CNN",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "Chris Lau, Hilary Whiteman, John Liu, Laura Sharman, Helen Regan, Zeena Saifi, Max Saltman, Julia Vargas Jones, Xiaoqian Lin, Kit Maher, Piper Hudspeth Blackburn, Rhea Mogul, Nina Giraldo, Jennifer Hansler, Zachary Cohen, Auzinea Bacon, Mohammed Tawfeeq, Frederik Pleitgen, Gianluca Mezzofiore, Thomas Bordeaux, Dana Karni, Christian Edwards, Maureen Chowdhury, Alison Main, Aileen Graef, Catherine Nicholls, Abbas Al Lawati, Billy Stockwell, Haley Britzky, Claudia Otto, Niamh Kennedy, Kosta Gak, Sophie Tanno, Mostafa Salem, Ibrahim Dahman, Tamar Michaelis, Tal Shalev, Vasco Cotovio, Clarissa Ward, Leila Gharagozlou, Hanna Park, Jerome Taylor, CNN staff, Rafael Romo, Will Ripley, Alessandra Freitas, Eugenia Yosef, James Legge",
+      "num_tokens": 3619,
+      "text_length": 17565
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1466016",
+      "spike_id": 3,
+      "market_question": "US x Iran ceasefire by April 30?",
+      "event_title": "US x Iran ceasefire by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.26000000000000006,
+      "spike_timestamp_before": "2026-03-09T01:30:28+00:00",
+      "spike_timestamp_after": "2026-03-09T21:00:41+00:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "market_id": "562187",
+  "question": "Will John Cornyn win the 2026 Texas Republican Primary?",
+  "slug": "will-john-cornyn-win-the-2026-republican-primary",
+  "url": "https://polymarket.com/event/texas-republican-senate-primary-winner",
+  "description": "This market will resolve according to the winner of the Republican Primary for United States Senator from Texas. \n\nIf no 2026 Texas Republican Senate Primary takes place, this market will resolve to \"Other\".\n\nThe resolution source for this market will be the first announcement of the results from the Texas Republican party, however an overwhelming consensus of credible reporting may suffice.\n",
+  "event_title": "Texas Republican Senate Primary Winner",
+  "event_tags": [
+    "Politics",
+    "US Election",
+    "Elections",
+    "Primaries",
+    "Parent For Derivative",
+    "primary elections",
+    "Texas Senate",
+    "Senate Primary",
+    "Republican Primary",
+    "Texas Primary",
+    "March 3 Primaries"
+  ],
+  "volume_total": 2611367.2399842236,
+  "created_at": "2025-07-10T21:02:41.206578Z",
+  "end_date": "2026-05-26T00:00:00Z",
+  "num_spikes": 3,
+  "max_spike": 0.7150000000000001,
+  "total_tokens": 25885,
+  "total_articles": 15
+}

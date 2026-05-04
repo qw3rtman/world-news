@@ -1,0 +1,37 @@
+{
+  "hash": "eeba0703d3f9",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/business/energy/oil-rises-expanding-us-israeli-conflict-with-iran-elevates-supply-risks-2026-03-03/",
+      "title": "Oil prices jump nearly 5%, settle at highest since January 2025 on Middle East conflict | Reuters",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Siddharth Cavale",
+      "num_tokens": 850,
+      "text_length": 4057
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1467765",
+      "spike_id": 5,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $110 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.265,
+      "spike_timestamp_before": "2026-03-05T15:30:28+00:00",
+      "spike_timestamp_after": "2026-03-06T15:00:51+00:00"
+    },
+    {
+      "market_id": "1467765",
+      "spike_id": 6,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $110 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.335,
+      "spike_timestamp_before": "2026-03-05T22:30:33+00:00",
+      "spike_timestamp_after": "2026-03-06T20:00:29+00:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "hash": "279754efeb87",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/03/01/iran-khamenei-dead-us-israel-strike-trump-netanyahu.html",
+      "title": "Iran after Khamenei: What's next and what it means for the country?",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Lee Ying Shan",
+      "num_tokens": 1249,
+      "text_length": 6193
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1117242",
+      "spike_id": 5,
+      "market_question": "Nothing Ever Happens: Khamenei",
+      "event_title": "Nothing Ever Happens: Khamenei",
+      "spike_direction": "down",
+      "spike_delta": -0.7645000000000001,
+      "spike_timestamp_before": "2026-02-28T03:30:23+00:00",
+      "spike_timestamp_after": "2026-03-01T02:30:24+00:00"
+    },
+    {
+      "market_id": "1484987",
+      "spike_id": 1,
+      "market_question": "Netanyahu out by June 30?",
+      "event_title": "Netanyahu out by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.375,
+      "spike_timestamp_before": "2026-03-02T18:30:39+00:00",
+      "spike_timestamp_after": "2026-03-02T22:00:33+00:00"
+    }
+  ]
+}

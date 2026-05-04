@@ -1,0 +1,24 @@
+{
+  "market_id": "1198451",
+  "question": "Israel strikes Iran by February 28, 2026?",
+  "slug": "israel-strikes-iran-by-february-28-2026",
+  "url": "https://polymarket.com/event/israel-strikes-iran-by-february-28-2026",
+  "description": "This market will resolve to \"Yes\" if Israel initiates a drone, missile, or air strike on Iranian soil or any official Iranian embassy or consulate by February 28, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nFor the purposes of this market, a qualifying \"strike\" is defined as the use of aerial bombs, drones or missiles (including cruise or ballistic missiles) launched by Israeli military forces that impact Iranian ground territory or any official Iranian embassy or consulate (e.g., if a weapons depot on Iranian soil is hit by an Israeli missile, this market will resolve to \"Yes\").\n\nMissiles or drones which are intercepted and surface-to-air missile strikes will not be sufficient for a \"Yes\" resolution regardless of whether they land on Iranian territory or cause damage.\n\nActions such as artillery fire, small arms fire, FPV or ATGM strikes directly, ground incursions, naval shelling, cyberattacks, or other operations conducted by Israeli ground operatives will not qualify.\n\nThe resolution source will be a consensus of credible reporting.",
+  "event_title": "Israel strikes Iran by February 28, 2026?",
+  "event_tags": [
+    "Iran",
+    "Middle East",
+    "Israel",
+    "Politics",
+    "israel strike iran",
+    "Gaza",
+    "Geopolitics"
+  ],
+  "volume_total": 4085750.53094,
+  "created_at": "2026-01-16T14:54:38.626135Z",
+  "end_date": "2026-02-28T00:00:00Z",
+  "num_spikes": 3,
+  "max_spike": 0.9395,
+  "total_tokens": 22331,
+  "total_articles": 15
+}

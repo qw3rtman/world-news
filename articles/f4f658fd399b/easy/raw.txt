@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In February 2026, which newsletter platform announced a partnership with the prediction market Polymarket to introduce native tools for sharing prediction data and pay a cohort of creators including Matt Yglesias?",
+    "a": "Substack"
+  },
+  {
+    "q": "In early 2026, which major financial news organization agreed to incorporate Polymarket’s betting data into its content, including The Wall Street Journal?",
+    "a": "Dow Jones"
+  },
+  {
+    "q": "In 2026, which cable news network incorporated betting odds from the prediction market Kalshi into its programming?",
+    "a": "CNN"
+  },
+  {
+    "q": "In December 2025, which financial news channel agreed to infuse its programming with data from the prediction market Kalshi?",
+    "a": "CNBC"
+  },
+  {
+    "q": "Who is the noted poker player and former stats journalist who serves as an advisor for the prediction market Polymarket?",
+    "a": "Nate Silver"
+  },
+  {
+    "q": "Who is the CEO of Robinhood who described prediction markets as the next generation of news in a statement cited in a February 2026 article?",
+    "a": "Vlad Tenev"
+  },
+  {
+    "q": "Which ancient Roman publication, circulating more than two millennia ago, is identified in the article as the earliest known predecessor to journalism?",
+    "a": "Acta Diurna"
+  },
+  {
+    "q": "Who is the media critic mentioned in the February 2026 article who pointed out the problem of incentives where ethical journalists cannot pay sources but prediction markets do?",
+    "a": "Matt Pearce"
+  },
+  {
+    "q": "Who is the chair of the Commodity Futures Trading Commission who stated in 2026 that prediction markets have changed the way people consume news?",
+    "a": "Mike Selig"
+  },
+  {
+    "q": "Who is the CEO of Polymarket who described the presence of insider information in prediction markets as \"cool\"?",
+    "a": "Shayne Coplan"
+  },
+  {
+    "q": "In the context of the 2024 U.S. presidential election, which two prediction markets were cited as making traditional newspapers look like they were waffling because they were confident Donald Trump would beat Kamala Harris?",
+    "a": "Polymarket and Kalshi"
+  },
+  {
+    "q": "What specific financial event did a bettor profit from by making more than $1 million in bets on its 2025 Year in Search rankings?",
+    "a": "Google"
+  },
+  {
+    "q": "What specific award's recipient did a trader bet on to make $50,000, an event cited as an example of plausible insider trading on prediction markets?",
+    "a": "The Nobel Peace Prize"
+  },
+  {
+    "q": "Which U.S. president's capture by the United States was the subject of a bet where an entity cashed out with almost half a million dollars?",
+    "a": "Venezuela’s president"
+  },
+  {
+    "q": "According to the February 2026 article, which specific Super Bowl halftime show performance led to ambiguity regarding whether a contract was fulfilled because Cardi B’s dance might not have counted as a performance?",
+    "a": "Bad Bunny’s Super Bowl halftime show"
+  },
+  {
+    "q": "Which specific fraud case, uncovered by the press rather than the SEC, is cited in the article as an example of the Fourth Estate wielding political power?",
+    "a": "Enron"
+  },
+  {
+    "q": "Which specific pharmaceutical company's fraud was uncovered by journalists rather than the Department of Justice, according to the article?",
+    "a": "Theranos"
+  },
+  {
+    "q": "Which specific newspaper is criticized in the article for refusing to admit to its major errors regarding the reporting on weapons of mass destruction to justify the war in Iraq?",
+    "a": "The New York Times"
+  },
+  {
+    "q": "Which specific U.S. politician's scandal is referenced in the article alongside Watergate as a corruption case discovered by journalists rather than the Department of Justice?",
+    "a": "George Santos"
+  },
+  {
+    "q": "Which specific 15th-century European activity is described in the article as the predecessor to the modern newspaper, involving businessmen disseminating written accounts of important events?",
+    "a": "Disseminating written accounts of important events to their contacts"
+  },
+  {
+    "q": "Which specific Chinese dynasty is mentioned as having circulated a publication similar to Rome’s Acta Diurna starting in the Tang dynasty?",
+    "a": "The Tang dynasty"
+  },
+  {
+    "q": "Which specific author wrote \"The Image: A Guide to Pseudo-Events in America,\" suggesting that news outlets cover pseudo-events because there are not enough actual events to fill the news cycle?",
+    "a": "Daniel J. Boorstin"
+  },
+  {
+    "q": "Which specific gambling addiction service provider's CEO, Vlad Tenev, argued that getting news before it happens is economically valuable?",
+    "a": "Robinhood"
+  },
+  {
+    "q": "Which specific regulatory body's chair, Mike Selig, is cited as blocking state moves to limit insider trading on betting markets?",
+    "a": "The Commodity Futures Trading Commission"
+  },
+  {
+    "q": "Which specific news outlet is identified in the article as having incorporated Kalshi’s betting odds in the month prior to the February 2026 Dow Jones announcement?",
+    "a": "CNN"
+  }
+]

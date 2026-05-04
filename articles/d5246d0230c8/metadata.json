@@ -1,0 +1,27 @@
+{
+  "hash": "d5246d0230c8",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/agilent-acquire-biocare-medical-950-million-all-cash-deal-2026-03-09/?taid=69aeae1414087e0001d00a90",
+      "title": "Agilent to acquire Biocare Medical in $950 million all-cash deal | Reuters",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "Sahil Pandey",
+      "num_tokens": 544,
+      "text_length": 2422
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694938",
+      "spike_id": 31,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.15999999999999998,
+      "spike_timestamp_before": "2026-03-11T14:00:39+00:00",
+      "spike_timestamp_after": "2026-03-12T13:30:43+00:00"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the proposed US$110-billion merger finalized in early 2026, which two companies are merging, and which competitor had previously outbid them for Warner Bros. Discovery?",
+    "a": "Paramount Skydance is acquiring Warner Bros. Discovery; Netflix had previously outbid them."
+  },
+  {
+    "q": "As of March 2026, which Canadian streaming service holds the exclusive rights to HBO programming, including the upcoming Harry Potter adaptation, and who owns that service?",
+    "a": "Crave holds the rights; it is owned by Bell Media."
+  },
+  {
+    "q": "What is the estimated Canadian dollar value of the Paramount Skydance acquisition of Warner Bros. Discovery, and what regulatory step is pending for the deal to close by the end of 2026?",
+    "a": "The deal is worth about $150 billion Canadian; it is pending federal approval."
+  },
+  {
+    "q": "Which two specific HBO series are mentioned as having forthcoming final seasons that are currently licensed to Crave in Canada?",
+    "a": "The Last of Us and House of the Dragon."
+  },
+  {
+    "q": "Who is the CEO of Paramount Skydance who stated a desire to merge Paramount+, Pluto TV, and HBO Max into a single streaming service?",
+    "a": "David Ellison."
+  },
+  {
+    "q": "Since what year has Crave been streaming HBO and HBO Max programming under a licensing deal with Warner Bros. Discovery or its predecessors?",
+    "a": "Since 2019."
+  },
+  {
+    "q": "Which Bell Media spokesperson stated in an email to CBC News in March 2026 that Crave remains the home of HBO programming for many years to come?",
+    "a": "Nicolle Stranges."
+  },
+  {
+    "q": "In the United States, which two older HBO library titles are cited as examples of shows that have also streamed on other platforms like Netflix?",
+    "a": "Sex and the City and Six Feet Under."
+  },
+  {
+    "q": "Which Canadian media company is the parent company of Global TV and the current Canadian distributor for Pluto TV, whose future distribution role is uncertain under the new merger?",
+    "a": "Corus Entertainment."
+  },
+  {
+    "q": "Which Canadian media conglomerate struck a 2024 deal with Warner Bros. Discovery to distribute brands including HGTV and Food Network, and offers on-demand content via Citytv+?",
+    "a": "Rogers Sports & Media."
+  },
+  {
+    "q": "What was the initial hostile takeover bid amount made by Paramount Skydance for Warner Bros. Discovery in December 2025, and how did it compare to Netflix's earlier bid?",
+    "a": "Paramount Skydance bid $108 billion US, outbidding Netflix's $72-billion US deal."
+  },
+  {
+    "q": "Which U.S. President weighed in on the Warner Bros. Discovery bidding war, and where did Paramount Skydance CEO David Ellison attend his State of the Union address in February 2026?",
+    "a": "U.S. President Donald Trump; the address was at the U.S. Capitol in Washington D.C."
+  },
+  {
+    "q": "What specific event in late February 2026 did David Ellison attend, and which news outlet reported his comments about competing with streaming leaders?",
+    "a": "He attended the State of the Union address; The Guardian reported his comments."
+  },
+  {
+    "q": "Which two streaming services owned by Paramount are already available in Canada, potentially complicating the exclusive licensing model with Crave?",
+    "a": "Paramount+ and Pluto TV."
+  },
+  {
+    "q": "In what year did Discovery buy Warner Media to form Warner Bros. Discovery, leading to the 2023 renewal of the Crave licensing deal?",
+    "a": "2022."
+  },
+  {
+    "q": "Which two news organizations did Bell Media issue statements to earlier in March 2026 regarding the longevity of its HBO licensing agreement with Warner Bros. Discovery?",
+    "a": "Broadcast Dialogue and The Hollywood Reporter."
+  },
+  {
+    "q": "What is the name of the Warner Bros. Discovery subsidiary that owns HBO and its streaming service, HBO Max, which is the target of the Paramount Skydance acquisition?",
+    "a": "Warner Bros. Discovery."
+  },
+  {
+    "q": "Which highly anticipated TV adaptation of the Harry Potter books is set to premiere early next year on Crave in Canada?",
+    "a": "HBO's TV and streaming adaptation of Harry Potter."
+  },
+  {
+    "q": "What type of free ad-supported TV service owned by Paramount is mentioned as potentially being merged into a single platform with Paramount+ and HBO Max?",
+    "a": "Pluto TV."
+  },
+  {
+    "q": "Which former parent company of Warner Bros. Discovery was AT&T-owned when Crave signed its initial 2019 licensing deal?",
+    "a": "Warner Media."
+  },
+  {
+    "q": "What specific concern do Canadian viewers have regarding the Paramount Skydance merger and their ability to watch HBO shows like The White Lotus?",
+    "a": "They may have to subscribe to yet another service to watch their favorite shows."
+  },
+  {
+    "q": "Which Canadian broadcaster's cable subscribers receive HGTV and Food Network as part of the 2024 Rogers Sports & Media deal with Warner Bros. Discovery?",
+    "a": "Cable subscribers (distributed by Rogers Sports & Media)."
+  },
+  {
+    "q": "What is the full name of the Canadian streaming service owned by Bell Media that currently holds exclusive rights to HBO programming in Canada?",
+    "a": "Crave."
+  },
+  {
+    "q": "Which two entities are merging in a deal valued at $110 billion US that is expected to be finalized by the end of 2026?",
+    "a": "Paramount Skydance and Warner Bros. Discovery."
+  },
+  {
+    "q": "What specific regulatory body's approval is pending for the Paramount Skydance and Warner Bros. Discovery merger, with expectations for completion by the end of 2026?",
+    "a": "Federal approval (in the United States)."
+  }
+]

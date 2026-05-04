@@ -1,0 +1,47 @@
+{
+  "hash": "8a6e15ed6ba7",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://fortune.com/2026/03/17/mastercard-bvnk-acquisition-stablecoins-1-8-billion/",
+      "title": "Mastercard to acquire crypto startup BVNK for up to $1.8 billion in largest stablecoin deal to date | Fortune",
+      "published_date": "2026-03-17T00:00:00.000Z",
+      "author": "Ben Weiss",
+      "num_tokens": 195,
+      "text_length": 831
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "700395",
+      "spike_id": 10,
+      "market_question": "Will Lovable be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.33499999999999996,
+      "spike_timestamp_before": "2026-03-17T08:00:44+00:00",
+      "spike_timestamp_after": "2026-03-18T07:30:41+00:00"
+    },
+    {
+      "market_id": "700395",
+      "spike_id": 8,
+      "market_question": "Will Lovable be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.17000000000000004,
+      "spike_timestamp_before": "2026-03-17T06:00:44+00:00",
+      "spike_timestamp_after": "2026-03-18T03:30:37+00:00"
+    },
+    {
+      "market_id": "700395",
+      "spike_id": 9,
+      "market_question": "Will Lovable be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.32500000000000007,
+      "spike_timestamp_before": "2026-03-17T06:00:44+00:00",
+      "spike_timestamp_after": "2026-03-18T05:30:41+00:00"
+    }
+  ]
+}

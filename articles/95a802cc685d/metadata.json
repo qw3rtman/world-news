@@ -1,0 +1,27 @@
+{
+  "hash": "95a802cc685d",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://apnews.com/article/israel-united-states-iran-war-ap-style-aa89b7f21e35b73a11ad7afddd1ff185",
+      "title": "How AP decided to describe US-Israeli strikes on Iran, and Iran’s retaliation, as war | AP News",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 698,
+      "text_length": 3397
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1198592",
+      "spike_id": 1,
+      "market_question": "Will US or Israel strike Iran by December 31, 2026?",
+      "event_title": "US/Israel strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.2695000000000001,
+      "spike_timestamp_before": "2026-02-27T08:00:25+00:00",
+      "spike_timestamp_after": "2026-02-28T07:30:27+00:00"
+    }
+  ]
+}

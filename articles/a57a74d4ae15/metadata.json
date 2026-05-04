@@ -1,0 +1,67 @@
+{
+  "hash": "a57a74d4ae15",
+  "n_appearances": 5,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.npr.org/2026/03/03/nx-s1-5732841/who-will-succeed-khamenei",
+      "title": "Who will succeed Khamenei? : NPR",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Connor Donevan",
+      "num_tokens": 1611,
+      "text_length": 7394
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1485770",
+      "spike_id": 1,
+      "market_question": "Will Iran name a successor to Khamenei by March 3?",
+      "event_title": "New Supreme Leader of Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.543,
+      "spike_timestamp_before": "2026-03-03T14:30:27+00:00",
+      "spike_timestamp_after": "2026-03-03T21:00:46+00:00"
+    },
+    {
+      "market_id": "1485770",
+      "spike_id": 2,
+      "market_question": "Will Iran name a successor to Khamenei by March 3?",
+      "event_title": "New Supreme Leader of Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.5750000000000001,
+      "spike_timestamp_before": "2026-03-03T21:00:46+00:00",
+      "spike_timestamp_after": "2026-03-04T05:30:25+00:00"
+    },
+    {
+      "market_id": "1485771",
+      "spike_id": 6,
+      "market_question": "Will Iran name a successor to Khamenei by March 4?",
+      "event_title": "New Supreme Leader of Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.46399999999999997,
+      "spike_timestamp_before": "2026-03-04T00:00:40+00:00",
+      "spike_timestamp_after": "2026-03-05T00:00:37+00:00"
+    },
+    {
+      "market_id": "1485771",
+      "spike_id": 7,
+      "market_question": "Will Iran name a successor to Khamenei by March 4?",
+      "event_title": "New Supreme Leader of Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.3785,
+      "spike_timestamp_before": "2026-03-04T03:30:30+00:00",
+      "spike_timestamp_after": "2026-03-05T03:30:24+00:00"
+    },
+    {
+      "market_id": "1485771",
+      "spike_id": 8,
+      "market_question": "Will Iran name a successor to Khamenei by March 4?",
+      "event_title": "New Supreme Leader of Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.2345,
+      "spike_timestamp_before": "2026-03-04T05:30:29+00:00",
+      "spike_timestamp_after": "2026-03-05T05:30:29+00:00"
+    }
+  ]
+}

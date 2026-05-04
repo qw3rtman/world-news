@@ -1,0 +1,27 @@
+{
+  "hash": "cc7bd3bb341c",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-launches-gpt-5-4-in-chatgpt-claimed-to-support-up-to-1m-tokens-of-context/amp_articleshow/129133389.cms",
+      "title": "ChatGPT 5.4: OpenAI launches GPT 5.4 in ChatGPT; claimed to support up to 1M tokens of context | - The Times of India",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 614,
+      "text_length": 2986
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "801450",
+      "spike_id": 2,
+      "market_question": "Will OpenAI have the best AI model at the end of March 2026?",
+      "event_title": "Which company has the best AI model end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.203,
+      "spike_timestamp_before": "2026-03-05T18:30:33+00:00",
+      "spike_timestamp_after": "2026-03-06T02:30:37+00:00"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "hash": "9f247bf8b70c",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://origin.www.bloomberg.com/news/articles/2026-03-02/bavarian-nordic-ceo-steps-down-after-failed-3-billion-deal?srnd=undefined",
+      "title": "Bavarian Nordic CEO to Leave After Failed $3 Billion Takeover Bid - Bloomberg",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Christian Wienberg",
+      "num_tokens": 87,
+      "text_length": 406
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694938",
+      "spike_id": 17,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.16000000000000003,
+      "spike_timestamp_before": "2026-03-01T08:00:37+00:00",
+      "spike_timestamp_after": "2026-03-02T04:00:34+00:00"
+    },
+    {
+      "market_id": "694938",
+      "spike_id": 18,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.16500000000000004,
+      "spike_timestamp_before": "2026-03-02T04:00:34+00:00",
+      "spike_timestamp_after": "2026-03-02T13:00:36+00:00"
+    },
+    {
+      "market_id": "694938",
+      "spike_id": 19,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.175,
+      "spike_timestamp_before": "2026-03-02T04:00:34+00:00",
+      "spike_timestamp_after": "2026-03-02T16:00:37+00:00"
+    }
+  ]
+}

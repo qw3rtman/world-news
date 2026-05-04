@@ -1,0 +1,37 @@
+{
+  "hash": "5bf52715e2ff",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://thehill.com/policy/international/5762776-iranian-backed-militia-strikes-middle-east/",
+      "title": "Iranian-backed militias strike across the Middle East",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 577,
+      "text_length": 2995
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1487679",
+      "spike_id": 1,
+      "market_question": "Houthi strike on Israel by March 15, 2026?",
+      "event_title": "Houthi strike on Israel by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.435,
+      "spike_timestamp_before": "2026-03-03T01:30:31+00:00",
+      "spike_timestamp_after": "2026-03-03T03:00:33+00:00"
+    },
+    {
+      "market_id": "1487679",
+      "spike_id": 2,
+      "market_question": "Houthi strike on Israel by March 15, 2026?",
+      "event_title": "Houthi strike on Israel by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.475,
+      "spike_timestamp_before": "2026-03-03T01:30:31+00:00",
+      "spike_timestamp_after": "2026-03-03T10:00:29+00:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "hash": "d819cc931d84",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/china/china-says-it-seeks-communications-with-us-vows-hold-its-red-lines-2026-03-04/",
+      "title": "China says it seeks communication with US but vows to hold its 'red lines' | Reuters",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 371,
+      "text_length": 1770
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "604490",
+      "spike_id": 13,
+      "market_question": "Will Trump visit China by March 31?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.25649999999999995,
+      "spike_timestamp_before": "2026-03-01T04:00:27+00:00",
+      "spike_timestamp_after": "2026-03-02T01:00:23+00:00"
+    },
+    {
+      "market_id": "604490",
+      "spike_id": 14,
+      "market_question": "Will Trump visit China by March 31?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.16499999999999992,
+      "spike_timestamp_before": "2026-03-02T01:00:23+00:00",
+      "spike_timestamp_after": "2026-03-02T16:30:24+00:00"
+    }
+  ]
+}

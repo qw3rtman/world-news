@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On Tuesday, March 17, 2026, by what percentage did Brent crude oil prices rise, and what was the closing price per barrel?",
+    "a": "Brent prices gained 3.2% to close at $103.42 per barrel."
+  },
+  {
+    "q": "What was the closing price and percentage increase for U.S. oil prices on Tuesday, March 17, 2026?",
+    "a": "U.S. oil prices rose 2.9% to settle at $96.21 per barrel."
+  },
+  {
+    "q": "In a social media post on March 17, 2026, what did U.S. President Donald Trump claim about NATO allies' willingness to participate in the conflict with Iran?",
+    "a": "Trump stated that NATO allies do not want to participate in the U.S. war against Iran."
+  },
+  {
+    "q": "According to U.S. President Donald Trump's statement on March 17, 2026, what was his position regarding the need for assistance from allied nations?",
+    "a": "He said the U.S. does not need the help of its allies."
+  },
+  {
+    "q": "What specific shipping route has seen a plunge in ship movements due to Iranian attacks, according to reports on March 17, 2026?",
+    "a": "Ship movements through the Strait of Hormuz have plunged."
+  },
+  {
+    "q": "Which organization's head of commodities strategy, Warren Patterson, commented on the difficulty of finding adequate solutions for oil supply disruptions on March 17, 2026?",
+    "a": "Warren Patterson is the head of commodities strategy at ING."
+  },
+  {
+    "q": "What two measures touted by the U.S. administration regarding tanker protection had not materialized as of March 17, 2026, according to Warren Patterson?",
+    "a": "Insurance guarantees and naval escorts had not materialized yet."
+  },
+  {
+    "q": "Why might the United States hold off from escorting commercial vessels through the Strait of Hormuz, according to Warren Patterson's analysis on March 17, 2026?",
+    "a": "Escorting vessels would leave naval ships vulnerable to attack until Iran’s ability to launch attacks is eroded."
+  },
+  {
+    "q": "According to energy consulting firm Kpler, what percentage of all seaborne crude flows passed through the Strait of Hormuz in 2025?",
+    "a": "Roughly 31% of all seaborne crude flows passed through the strait."
+  },
+  {
+    "q": "What was the daily volume of oil, in millions of barrels, that passed through the Strait of Hormuz in 2025, according to Kpler?",
+    "a": "Roughly 13 million barrels per day passed through the strait."
+  },
+  {
+    "q": "Which two countries border the Strait of Hormuz, a vital artery for global oil trade described in reports on March 17, 2026?",
+    "a": "The strait is located between Oman and Iran."
+  },
+  {
+    "q": "What specific event involving Iran did U.S. President Donald Trump cite as the context for his comments on NATO allies' reluctance on March 17, 2026?",
+    "a": "He referred to the U.S. war against Iran."
+  },
+  {
+    "q": "How did Warren Patterson describe the scale of the oil supply disruption caused by Iranian attacks on the Strait of Hormuz as of March 17, 2026?",
+    "a": "He described it as one of the largest disruptions to global oil supply in history."
+  },
+  {
+    "q": "What action has the United States been urging its allies to take regarding tanker traffic through the Strait of Hormuz as of March 17, 2026?",
+    "a": "The U.S. has been urging allies to send military forces to protect tanker traffic."
+  },
+  {
+    "q": "By how much did Brent crude oil prices increase in dollars per barrel on Tuesday, March 17, 2026?",
+    "a": "Brent prices gained $3.21 per barrel."
+  },
+  {
+    "q": "By how much did U.S. oil prices increase in dollars per barrel on Tuesday, March 17, 2026?",
+    "a": "U.S. oil prices rose $2.71 per barrel."
+  },
+  {
+    "q": "Which international benchmark for oil prices closed above $103 per barrel on March 17, 2026?",
+    "a": "Brent prices, the international benchmark, closed at $103.42 per barrel."
+  },
+  {
+    "q": "What did Warren Patterson note about the U.S. administration's proposals for protecting tanker traffic as of March 17, 2026?",
+    "a": "He noted that neither insurance guarantees nor naval escorts had materialized yet."
+  },
+  {
+    "q": "What condition did Warren Patterson suggest the U.S. might wait for before escorting commercial vessels through the Strait of Hormuz?",
+    "a": "The U.S. may wait until it feels that Iran’s ability to launch attacks on vessels has been eroded."
+  },
+  {
+    "q": "Which energy consulting firm provided data on the 2025 oil flow statistics through the Strait of Hormuz?",
+    "a": "Energy consulting firm Kpler provided the data."
+  },
+  {
+    "q": "What role does Warren Patterson hold at ING, as cited in reports on March 17, 2026?",
+    "a": "He is the head of commodities strategy at ING."
+  },
+  {
+    "q": "What specific geographic location is described as a vital artery for the global oil trade, located between Oman and Iran?",
+    "a": "The Strait of Hormuz is described as a vital artery for the global oil trade."
+  },
+  {
+    "q": "What type of attacks did U.S. President Donald Trump reference when discussing NATO allies' reluctance to participate on March 17, 2026?",
+    "a": "He referenced the U.S. war against Iran."
+  },
+  {
+    "q": "What was the primary reason cited for doubts growing about a meaningful coalition to escort tankers through the Strait of Hormuz on March 17, 2026?",
+    "a": "Doubts grew that President Donald Trump would organize a meaningful coalition to escort tankers."
+  },
+  {
+    "q": "According to Warren Patterson, why is escorting commercial vessels through the Strait of Hormuz considered risky for naval ships?",
+    "a": "Escorting commercial vessels would leave naval ships vulnerable to attack."
+  }
+]

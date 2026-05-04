@@ -1,0 +1,57 @@
+{
+  "hash": "c91046a48837",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://canary.haaretz.com/israel-news/israel-security/2026-03-07/ty-article/.premium/idf-officials-israel-bracing-for-iran-to-ramp-up-missile-launches/0000019c-c8fb-d3fb-a1fe-dffb592b0000",
+      "title": "IDF Officials: Israel Bracing for Weeks-long Iran War, Warns Tehran May Ramp Up Missile Launches - Israel Security",
+      "published_date": "2026-03-07T00:00:00.000Z",
+      "author": "Yaniv Kubovich",
+      "num_tokens": 50,
+      "text_length": 288
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1472026",
+      "spike_id": 13,
+      "market_question": "Will another country strike Iran by March 31?",
+      "event_title": "Will another country strike Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.21000000000000002,
+      "spike_timestamp_before": "2026-03-06T20:30:32+00:00",
+      "spike_timestamp_after": "2026-03-07T12:30:33+00:00"
+    },
+    {
+      "market_id": "1472026",
+      "spike_id": 14,
+      "market_question": "Will another country strike Iran by March 31?",
+      "event_title": "Will another country strike Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.22500000000000003,
+      "spike_timestamp_before": "2026-03-06T20:30:32+00:00",
+      "spike_timestamp_after": "2026-03-07T16:30:32+00:00"
+    },
+    {
+      "market_id": "1472026",
+      "spike_id": 15,
+      "market_question": "Will another country strike Iran by March 31?",
+      "event_title": "Will another country strike Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.46499999999999997,
+      "spike_timestamp_before": "2026-03-08T09:30:27+00:00",
+      "spike_timestamp_after": "2026-03-08T11:00:30+00:00"
+    },
+    {
+      "market_id": "1472026",
+      "spike_id": 16,
+      "market_question": "Will another country strike Iran by March 31?",
+      "event_title": "Will another country strike Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.20999999999999996,
+      "spike_timestamp_before": "2026-03-09T14:30:25+00:00",
+      "spike_timestamp_after": "2026-03-09T21:00:39+00:00"
+    }
+  ]
+}

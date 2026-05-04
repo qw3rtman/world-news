@@ -1,0 +1,27 @@
+{
+  "hash": "bc07e66508a9",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://canary.haaretz.com/middle-east-news/2026-03-02/ty-article/.premium/from-caution-to-calculation-the-saudi-crown-princes-high-stakes-bet-on-iran/0000019c-adf1-d076-a7bc-bff703c70000",
+      "title": "From Caution to Calculation: The Saudi Crown Prince's High-stakes Bet on Iran - Middle East News",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Jack Khoury",
+      "num_tokens": 114,
+      "text_length": 561
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1472019",
+      "spike_id": 10,
+      "market_question": "Will Saudi Arabia strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.15500000000000003,
+      "spike_timestamp_before": "2026-03-04T16:30:30+00:00",
+      "spike_timestamp_after": "2026-03-04T19:00:28+00:00"
+    }
+  ]
+}

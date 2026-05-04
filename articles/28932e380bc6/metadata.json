@@ -1,0 +1,27 @@
+{
+  "hash": "28932e380bc6",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://adps.foreignaffairs.com/iran/iranian-regimes-existential-crisis-and-what-might-come-after-khamenei-trump",
+      "title": "The Iranian Regime’s Existential Crisis—and What Might Come After Khamenei | Foreign Affairs",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 2485,
+      "text_length": 12414
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "958443",
+      "spike_id": 1,
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "event_title": "Will the Iranian regime fall by June 30?",
+      "spike_direction": "up",
+      "spike_delta": 0.21000000000000002,
+      "spike_timestamp_before": "2026-02-27T11:00:17+00:00",
+      "spike_timestamp_after": "2026-02-28T10:30:20+00:00"
+    }
+  ]
+}

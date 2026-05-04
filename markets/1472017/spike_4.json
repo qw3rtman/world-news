@@ -1,0 +1,65 @@
+{
+  "spike_index": 4,
+  "direction": "down",
+  "price_before": 0.51,
+  "price_after": 0.245,
+  "delta": -0.265,
+  "abs_delta": 0.265,
+  "timestamp_before": "2026-03-02T10:30:29+00:00",
+  "timestamp_after": "2026-03-02T14:30:31+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.aljazeera.com/features/2026/3/2/after-irans-salvo-hit-their-skylines-will-the-gulf-states-enter-the-war",
+      "file": "ca70bd8bc8f2.txt",
+      "title": "After Iran\u2019s salvo hit their skylines, will Gulf states enter the war? | Conflict | Al Jazeera",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Urooba Jamal",
+      "text_length": 10273,
+      "status": "ok",
+      "num_tokens": 2129
+    },
+    {
+      "url": "https://www.al-monitor.com/originals/2026/03/qatar-downs-iran-jets-tehran-targets-oil-and-gas-spiralling-gulf-crisis",
+      "file": "7d0f41bb6e9f.txt",
+      "title": "Qatar downs Iran jets as Tehran targets oil and gas in spiralling Gulf crisis - AL-Monitor: The Middle East\u02bcs leading independent news source since 2012",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 4805,
+      "status": "ok",
+      "num_tokens": 973
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2026/3/2/qatar-says-it-downed-two-iranian-fighter-jets-as-conflict-widens",
+      "file": "8a21078e3153.txt",
+      "title": "Qatar downs two Iranian fighter jets as conflict widens | US-Israel war on Iran News | Al Jazeera",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Al Jazeera Staff",
+      "text_length": 4111,
+      "status": "ok",
+      "num_tokens": 799
+    },
+    {
+      "url": "https://www.foxnews.com/media/keane-warns-iran-strike-becoming-regional-war-says-three-gulf-states-preparing-combat.print",
+      "file": "0f0ea82a5a50.txt",
+      "title": "Keane warns Iran strike becoming \u2018regional war,' says three Gulf states preparing for combat",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 3032,
+      "status": "ok",
+      "num_tokens": 652
+    },
+    {
+      "url": "https://www.pbs.org/newshour/world/what-to-know-about-the-joint-u-s-israeli-attacks-on-iran",
+      "file": "1a79c4f0b8fc.txt",
+      "title": "What to know about the joint U.S.-Israeli attacks on Iran | PBS News",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 7094,
+      "status": "ok",
+      "num_tokens": 1379
+    }
+  ],
+  "total_tokens": 5932
+}

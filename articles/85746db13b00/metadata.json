@@ -1,0 +1,57 @@
+{
+  "hash": "85746db13b00",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/business/eqt-eyes-potential-6-billion-sale-linux-pioneer-suse-sources-say-2026-03-09/",
+      "title": "Exclusive: EQT eyes potential $6 billion sale of Linux pioneer SUSE, sources say | Reuters",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "Milana Vinn",
+      "num_tokens": 484,
+      "text_length": 2354
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694936",
+      "spike_id": 2,
+      "market_question": "Will Nebius Group be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.15499999999999997,
+      "spike_timestamp_before": "2026-03-08T14:00:22+00:00",
+      "spike_timestamp_after": "2026-03-09T04:00:20+00:00"
+    },
+    {
+      "market_id": "694939",
+      "spike_id": 13,
+      "market_question": "Will Ubisoft be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.26,
+      "spike_timestamp_before": "2026-03-11T18:30:21+00:00",
+      "spike_timestamp_after": "2026-03-12T14:30:24+00:00"
+    },
+    {
+      "market_id": "700396",
+      "spike_id": 5,
+      "market_question": "Will Perplexity AI be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.19,
+      "spike_timestamp_before": "2026-03-08T21:00:57+00:00",
+      "spike_timestamp_after": "2026-03-09T13:30:28+00:00"
+    },
+    {
+      "market_id": "700396",
+      "spike_id": 6,
+      "market_question": "Will Perplexity AI be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.25,
+      "spike_timestamp_before": "2026-03-09T00:00:43+00:00",
+      "spike_timestamp_after": "2026-03-09T23:30:33+00:00"
+    }
+  ]
+}

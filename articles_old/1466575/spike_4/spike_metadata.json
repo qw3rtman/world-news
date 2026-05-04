@@ -1,0 +1,65 @@
+{
+  "spike_index": 4,
+  "direction": "down",
+  "price_before": 0.66,
+  "price_after": 0.48,
+  "delta": -0.18000000000000005,
+  "abs_delta": 0.18000000000000005,
+  "timestamp_before": "2026-03-02T18:30:39+00:00",
+  "timestamp_after": "2026-03-03T06:30:53+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.cbsnews.com/video/trump-says-war-with-iran-will-continue-until-all-objectives-are-achieved/",
+      "file": "7b56e9d5f227.txt",
+      "title": "Trump says war with Iran will continue until all \"objectives are achieved\" - CBS News",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 214,
+      "status": "ok",
+      "num_tokens": 41
+    },
+    {
+      "url": "https://www.reuters.com/world/middle-east/trump-says-combat-operations-iran-will-continue-until-all-objectives-achieved-2026-03-01/",
+      "file": "39747d089a33.txt",
+      "title": "Trump says combat operations in Iran will continue until all objectives achieved | Reuters",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 517,
+      "status": "ok",
+      "num_tokens": 99
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/03/trump-iran-shifting-narrative-us-war.html",
+      "file": "731550c85c36.txt",
+      "title": "Trump admin's shifting narratives",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Garrett Downs",
+      "text_length": 7041,
+      "status": "ok",
+      "num_tokens": 1424
+    },
+    {
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-israel-day-4-trump-gives-no-timeline-as-gulf-states-attacked/",
+      "file": "b3c8cd8788d5.txt",
+      "title": "Trump defends war with Iran as conflict widens, military names first service members who were killed",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "text_length": 1266,
+      "status": "ok",
+      "num_tokens": 269
+    },
+    {
+      "url": "https://www.pbs.org/newshour/world/live-updates-u-s-israel-conflict-with-iran-widens",
+      "file": "c9f7cc96f30e.txt",
+      "title": "Live Updates: U.S.-Israel conflict with Iran widens | PBS News",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 66835,
+      "status": "ok",
+      "num_tokens": 13591
+    }
+  ],
+  "total_tokens": 15424
+}

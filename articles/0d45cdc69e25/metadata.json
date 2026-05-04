@@ -1,0 +1,27 @@
+{
+  "hash": "0d45cdc69e25",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/amp/2026/03/15/oil-prices-today-iran-war.html",
+      "title": "Oil falls as Trump pressures allies to protect Strait of Hormuz",
+      "published_date": "2026-03-15T00:00:00.000Z",
+      "author": "Spencer Kimball,Sam Meredith",
+      "num_tokens": 81,
+      "text_length": 351
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1467765",
+      "spike_id": 27,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $110 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.2015,
+      "spike_timestamp_before": "2026-03-14T12:00:42+00:00",
+      "spike_timestamp_after": "2026-03-15T01:30:27+00:00"
+    }
+  ]
+}

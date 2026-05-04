@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In early March 2026, what specific military operation conducted by the United States and Israel resulted in the death of Iran’s Supreme Leader Ayatollah Ali Khamenei?",
+    "a": "Operation Epic Fury"
+  },
+  {
+    "q": "During the week of March 2, 2026, what range of price increase per gallon did economist Stephen Moore predict for U.S. gasoline due to Middle East tensions?",
+    "a": "25 to 50 cents"
+  },
+  {
+    "q": "As of early March 2026, what specific increase in oil prices per barrel did Patrick De Haan, head of petroleum analysis at GasBuddy, report in market data?",
+    "a": "$5 per barrel"
+  },
+  {
+    "q": "In early March 2026, what was the reported rise in wholesale gasoline prices per gallon according to Patrick De Haan of GasBuddy?",
+    "a": "11 cents per gallon"
+  },
+  {
+    "q": "As of early March 2026, what national average gasoline price per gallon did Patrick De Haan of GasBuddy project could be reached as soon as Monday?",
+    "a": "$3 per gallon"
+  },
+  {
+    "q": "In early March 2026, which global ocean freight company announced it would suspend all vessel crossings through the Strait of Hormuz until further notice?",
+    "a": "Maersk"
+  },
+  {
+    "q": "As of early March 2026, what percentage of global oil trade does the Strait of Hormuz represent, according to Jaime Brito of OPIS?",
+    "a": "25%"
+  },
+  {
+    "q": "In early March 2026, what percentage of global liquefied natural gas trade transits through the Strait of Hormuz, according to Jaime Brito of OPIS?",
+    "a": "23%"
+  },
+  {
+    "q": "As of early March 2026, approximately how many barrels of crude oil and petroleum products transit the Strait of Hormuz each day?",
+    "a": "20 million barrels"
+  },
+  {
+    "q": "In early March 2026, what fraction of the global oil supply is represented by the daily transit volume through the Strait of Hormuz?",
+    "a": "One-fifth"
+  },
+  {
+    "q": "During the week of March 2, 2026, what specific geographic location between Iran and Oman was identified as a critical energy corridor near the ongoing conflict?",
+    "a": "The Strait of Hormuz"
+  },
+  {
+    "q": "In early March 2026, which Iranian official's death was cited as a catalyst for concerns regarding potential Iranian retaliation against oil infrastructure?",
+    "a": "Supreme Leader Ayatollah Ali Khamenei"
+  },
+  {
+    "q": "As of early March 2026, what type of price adjustments did Patrick De Haan of GasBuddy expect to see immediately at retail stations in areas with sharp, periodic pricing?",
+    "a": "Climbing prices"
+  },
+  {
+    "q": "In early March 2026, what range of price increases per gallon did Patrick De Haan of GasBuddy suggest some stations might implement during that week?",
+    "a": "10 to 30 cents"
+  },
+  {
+    "q": "As of early March 2026, which executive director of refining and oil products at OPIS stated that developments in Iran might have already translated into higher fuel prices in parts of the U.S.?",
+    "a": "Jaime Brito"
+  },
+  {
+    "q": "In early March 2026, which economist told Fox News Digital that historical flare-ups in the Middle East over the last 50 years have caused significant disruption to energy markets?",
+    "a": "Stephen Moore"
+  },
+  {
+    "q": "As of early March 2026, what specific seasonal period did Jaime Brito of OPIS note typically sees climbing gasoline prices due to seasonal patterns?",
+    "a": "Summer travel months"
+  },
+  {
+    "q": "In early March 2026, what specific travel event did Jaime Brito of OPIS identify as a factor that could support gasoline demand in certain areas, though not at peak summer levels?",
+    "a": "Spring break travel"
+  },
+  {
+    "q": "As of early March 2026, which two countries share the narrow shipping lane known as the Strait of Hormuz?",
+    "a": "Iran and Oman"
+  },
+  {
+    "q": "In early March 2026, what specific commodities did Jaime Brito of OPIS list as potentially seeing higher prices in parts of the U.S. due to developments in Iran?",
+    "a": "Gasoline, diesel, and other fuel"
+  },
+  {
+    "q": "As of early March 2026, which organization did Patrick De Haan represent when providing petroleum analysis and market data?",
+    "a": "GasBuddy"
+  },
+  {
+    "q": "In early March 2026, what specific strategic asset did Maersk caution might experience delays in service to Arabian Gulf ports?",
+    "a": "Services to Arabian Gulf ports"
+  },
+  {
+    "q": "As of early March 2026, what did Jaime Brito of OPIS state was the primary determinant for the direction of gasoline prices, outweighing seasonal demand?",
+    "a": "How the geopolitical situation unfolds"
+  },
+  {
+    "q": "In early March 2026, what specific action did Iranian forces reportedly take against oil infrastructure in the Middle East prior to the U.S.-Israeli strikes?",
+    "a": "Knocked out some oil facilities"
+  },
+  {
+    "q": "As of early March 2026, which news outlet did economist Stephen Moore and Patrick De Haan provide their comments to regarding gas price predictions?",
+    "a": "Fox News Digital"
+  }
+]

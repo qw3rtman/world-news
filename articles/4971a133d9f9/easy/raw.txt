@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On March 18, 2026, Brent crude oil prices spiked more than 5% to nearly $110 a barrel following a coordinated military operation by which two nations against Iran’s South Pars gas field?",
+    "a": "Israel and the United States."
+  },
+  {
+    "q": "The March 18, 2026 strikes on the South Pars gas field marked the first time since the war began on February 28, 2026, that which specific type of Iranian infrastructure was targeted?",
+    "a": "Iran’s upstream oil and gas infrastructure."
+  },
+  {
+    "q": "Which country’s foreign ministry condemned the March 18, 2026 strikes on the South Pars gas field as “a dangerous and irresponsible step”?",
+    "a": "Qatar."
+  },
+  {
+    "q": "The South Pars gas field, targeted in the March 18, 2026 strikes, is shared by Iran and which neighboring country that uses its side to supply roughly a fifth of the world’s liquefied natural gas?",
+    "a": "Qatar."
+  },
+  {
+    "q": "In response to the March 18, 2026 strikes, Iran’s military joint command stated it would escalate the war in what specific manner?",
+    "a": "In new ways."
+  },
+  {
+    "q": "Which Saudi Arabian state-owned energy company’s Samref refinery was named by Iran as a specific target in its response to the March 18, 2026 strikes?",
+    "a": "Saudi Aramco."
+  },
+  {
+    "q": "Besides the Samref refinery, which specific Saudi petrochemical complex did Iran name as a target in its March 18, 2026 retaliation threat?",
+    "a": "The Jubail petrochemical complex."
+  },
+  {
+    "q": "Which specific gas field in the United Arab Emirates did Iran name as a target in its March 18, 2026 list of planned strikes?",
+    "a": "The Al Hosn gas field."
+  },
+  {
+    "q": "On March 18, 2026, traders worked on the floor of which major U.S. financial exchange during morning trading?",
+    "a": "The New York Stock Exchange."
+  },
+  {
+    "q": "Who is the Fellow, News author who reported on the March 18, 2026 oil price spike and Iran’s escalation vows?",
+    "a": "Eva Roytburg."
+  },
+  {
+    "q": "The March 18, 2026 strikes on the South Pars gas field were described as the first targeting of Iran’s upstream infrastructure since the war began on what date?",
+    "a": "February 28, 2026."
+  },
+  {
+    "q": "Which three countries did Iran list as having energy facilities it planned to strike in its March 18, 2026 retaliation threat?",
+    "a": "Saudi Arabia, the UAE, and Qatar."
+  },
+  {
+    "q": "What was the approximate percentage increase in Brent crude oil prices on March 18, 2026, following the strikes on Iran’s gas infrastructure?",
+    "a": "More than 5%."
+  },
+  {
+    "q": "What was the approximate price per barrel that Brent crude oil reached on March 18, 2026?",
+    "a": "Nearly $110."
+  },
+  {
+    "q": "Which specific natural gas reserve, identified as the world’s largest, was struck by Israel and the United States on March 18, 2026?",
+    "a": "The South Pars gas field."
+  },
+  {
+    "q": "Qatar uses its side of the South Pars gas field to supply roughly what fraction of the world’s liquefied natural gas?",
+    "a": "Roughly a fifth."
+  },
+  {
+    "q": "Which specific Iranian military body issued the statement on March 18, 2026, that it would escalate the war in new ways?",
+    "a": "Iran’s military joint command."
+  },
+  {
+    "q": "The March 18, 2026 coordinated operation by Israel and the United States targeted infrastructure in which country, marking a shift from previous gulf-targeted strikes?",
+    "a": "Iran."
+  },
+  {
+    "q": "Which Saudi Arabian facility, specifically a refinery, was named by Iran as a target in its March 18, 2026 retaliation threat?",
+    "a": "Saudi Aramco’s Samref refinery."
+  },
+  {
+    "q": "Which UAE-based gas field was explicitly named by Iran as a target in its March 18, 2026 list of planned strikes?",
+    "a": "The Al Hosn gas field."
+  },
+  {
+    "q": "On what date did the war begin, leading up to the March 18, 2026 strikes on Iran’s upstream infrastructure?",
+    "a": "February 28, 2026."
+  },
+  {
+    "q": "Which country’s foreign ministry issued a condemnation of the March 18, 2026 strikes on the South Pars gas field?",
+    "a": "Qatar."
+  },
+  {
+    "q": "What specific type of infrastructure, as opposed to those in the gulf, was targeted for the first time since the war began in the March 18, 2026 strikes?",
+    "a": "Iran’s upstream oil and gas infrastructure."
+  },
+  {
+    "q": "Which two nations conducted the coordinated operation on March 18, 2026, that caused Brent crude to spike to nearly $110 a barrel?",
+    "a": "Israel and the United States."
+  },
+  {
+    "q": "Which petrochemical complex in Saudi Arabia was named by Iran as a specific target in its March 18, 2026 retaliation threat?",
+    "a": "The Jubail petrochemical complex."
+  }
+]

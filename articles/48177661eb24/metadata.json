@@ -1,0 +1,27 @@
+{
+  "hash": "48177661eb24",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.usatoday.com/story/news/world/2026/02/27/trump-iran-war-negotiations/88899223007/",
+      "title": "What does US want from Iran as fears of war loom?",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": "Michael Collins \n, \n Francesca Chambers",
+      "num_tokens": 1469,
+      "text_length": 7268
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1385895",
+      "spike_id": 1,
+      "market_question": "Will the US next strike Iran during the week of March 1-7, 2026 (ET)?",
+      "event_title": "When will the US next strike Iran? (Week)",
+      "spike_direction": "up",
+      "spike_delta": 0.15,
+      "spike_timestamp_before": "2026-02-26T16:00:52+00:00",
+      "spike_timestamp_after": "2026-02-27T15:30:43+00:00"
+    }
+  ]
+}

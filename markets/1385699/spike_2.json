@@ -1,0 +1,65 @@
+{
+  "spike_index": 2,
+  "direction": "up",
+  "price_before": 0.555,
+  "price_after": 0.72,
+  "delta": 0.16499999999999992,
+  "abs_delta": 0.16499999999999992,
+  "timestamp_before": "2026-03-01T20:30:38+00:00",
+  "timestamp_after": "2026-03-02T20:30:38+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.thediplomat.com/2026/03/balendra-shahs-landslide-electoral-victory-reshapes-nepali-politics/",
+      "file": "fac1e70fe781.txt",
+      "title": "The Diplomat \u2013 Asia-Pacific Current Affairs Magazine",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 335,
+      "status": "ok",
+      "num_tokens": 66
+    },
+    {
+      "url": "https://apnews.com/article/nepal-parliament-election-new-leader-prime-minister-contenders-d3ba1afab214a93d4f9b97c3d650ebf6",
+      "file": "e8d039a08a68.txt",
+      "title": "3 rivals are seeking to be Nepal's next prime minister in March 5 vote | AP News",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": null,
+      "text_length": 4748,
+      "status": "ok",
+      "num_tokens": 946
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/c8r137lkj5zo",
+      "file": "9b7dc5a0c005.txt",
+      "title": "Balen Shah: Rap star hopes to unseat former PM Oli in Nepal's Gen Z election",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 6926,
+      "status": "ok",
+      "num_tokens": 1521
+    },
+    {
+      "url": "https://www.aljazeera.com/features/2026/3/2/balen-shah-rapper-mayor-nepals-next-prime-minister",
+      "file": "ad3103ad4954.txt",
+      "title": "Balen Shah: Rapper, mayor, Nepal\u2019s next prime minister? | Elections | Al Jazeera",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Samik Kharel",
+      "text_length": 13868,
+      "status": "ok",
+      "num_tokens": 3087
+    },
+    {
+      "url": "https://www.reuters.com/world/china/veteran-rivals-turf-nepals-rapper-turned-leader-takes-swing-power-2026-03-02/",
+      "file": "2ea66e550903.txt",
+      "title": "On veteran rival's turf, Nepal's rapper-turned-leader takes a swing at power | Reuters",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Sahana Bajracharya",
+      "text_length": 6680,
+      "status": "ok",
+      "num_tokens": 1450
+    }
+  ],
+  "total_tokens": 7070
+}

@@ -1,0 +1,19 @@
+OpenAI’s new GPT-5.4 model is a big step toward autonomous agents
+
+The latest model comes with native computer use capabilities, allowing it to take on jobs across your device and applications.
+
+by Emma Roth
+
+Mar 5, 2026, 6:00 PM UTC
+
+OpenAI is launching GPT-5.4, the latest version of its AI model that the company says combines advancements in reasoning, coding, and professional work involving spreadsheets, documents, and presentations. It’s also OpenAI’s first model with native computer use capabilities, meaning it can operate a computer on your behalf and complete tasks across different applications.
+
+The new model is a step toward the agentic future that AI companies are aiming to build, where a network of AI-powered agents operates in the background to complete complex jobs online and within software. OpenAI introduced ChatGPT Agent amid a flurry of other agentic tools that emerged last year, which can take control of your computer to perform tasks, such as searching for and buying ingredients for a meal.
+
+While OpenAI is bringing GPT-5.4 to its API and its AI-powered coding tool, Codex, it’s rolling out its reasoning model, GPT-5.4 Thinking, to ChatGPT. OpenAI says GPT-5.4 can write code to operate computers, as well as issue keyboard and mouse commands in response to screenshots. GPT-5.4 also shows improvements while using web browsers, as well as its ability to call upon tools and APIs more accurately and efficiently to help it complete tasks.
+
+The model is better at fielding questions that require it to gather information from multiple sources, too, as OpenAI says the model “can more persistently search across multiple rounds to identify the most relevant sources, particularly for ‘needle-in-a-haystack’ questions, and synthesize them into a clear, well-reasoned answer.” OpenAI claims GPT-5.4 is its “most factual model yet,” with individual claims 33 percent less likely to be false compared to GPT-5.2.
+
+Inside ChatGPT, GPT-5.4 Thinking will provide an outline of its work for more complex queries, while also allowing users to tweak or change their request during its response. “This makes it easier to guide the model toward the exact outcome you want without starting over or requiring multiple additional turns,” OpenAI says. This feature is now available in the ChatGPT web app and on Android, but OpenAI says it’s “coming soon” to the iOS app.
+
+GPT-5.4 is rolling out now across ChatGPT, Codex, and the API, with the GPT-5.4 Thinking model coming to Plus, Team, and Pro users. There’s also a GPT-5.4 Pro model for “maximum performance on complex tasks” rolling out in the API, as well as for ChatGPT Enterprise and Edu users.

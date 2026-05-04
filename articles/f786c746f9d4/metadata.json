@@ -1,0 +1,67 @@
+{
+  "hash": "f786c746f9d4",
+  "n_appearances": 5,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnn.com/world/live-news/us-israel-iran-attack-03-01-26-intl",
+      "title": "March 1, 2026 — Day two of the launch of a US-Israeli military operation against Iran | CNN",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Laura Sharman, John Liu, Helen Regan, Rhea Mogul, Aleena Fayaz, Isaac Yee, Teele Rebane, Martin Goillandeau, Hilary Whiteman, Audry Jeong, Piper Hudspeth Blackburn, Isabelle D’Antonio, Ross Adkin, Eyad Kourdi, Lauren Izso, Alejandra Jaramillo, Adrienne Vogt, Jeremy Diamond, Nic Robertson, Natasha Bertrand, Zachary Cohen, Jennifer Hansler, Jonny Hallam, James Frater, Kaitlan Collins, Toni Odejimi, Haley Britzky, David Goldman, Maureen Chowdhury, Nina Giraldo, Ted  Barrett, Sarah Ferris, Annie Grayer, Oren Liebermann, Manu Raju, Kit Maher, Brian Stelter, Kevin Liptak, Adam Cancryn, Donald Judd, Mitchell McCluskey, Alison Main, Thomas Bordeaux, Alayna Treene, Tal Shalev, Mostafa Salem, Alessandra Freitas, Sophia Saifi, Catherine Nicholls, Tim Lister, Nechirvan Mando, Lauren Kent, Billy Stockwell, Adam Pourahmadi, Samantha Waldenberg, Aileen Graef, Evan Perez, Hannah Rabinowitz, Dana Karni, Sophie Tanno, Gianluca Mezzofiore, Michelle Velez, Lou Robinson, Renée Rigdon, Abbas Al Lawati, Gawon Bae, Kareem El Damanhoury, Frederik Pleitgen, Logan Schiciano",
+      "num_tokens": 2834,
+      "text_length": 14423
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1399088",
+      "spike_id": 2,
+      "market_question": "US strikes Iran by March 7, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.7535000000000001,
+      "spike_timestamp_before": "2026-02-27T08:30:29+00:00",
+      "spike_timestamp_after": "2026-02-28T08:00:41+00:00"
+    },
+    {
+      "market_id": "1466012",
+      "spike_id": 1,
+      "market_question": "US x Iran ceasefire by March 2?",
+      "event_title": "US x Iran ceasefire by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.156,
+      "spike_timestamp_before": "2026-02-28T15:00:24+00:00",
+      "spike_timestamp_after": "2026-02-28T21:00:26+00:00"
+    },
+    {
+      "market_id": "1466030",
+      "spike_id": 3,
+      "market_question": "US forces enter Iran by March 3?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.305,
+      "spike_timestamp_before": "2026-02-28T14:30:26+00:00",
+      "spike_timestamp_after": "2026-03-01T05:30:26+00:00"
+    },
+    {
+      "market_id": "1466030",
+      "spike_id": 4,
+      "market_question": "US forces enter Iran by March 3?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.3305,
+      "spike_timestamp_before": "2026-02-28T14:30:26+00:00",
+      "spike_timestamp_after": "2026-03-01T08:00:26+00:00"
+    },
+    {
+      "market_id": "1466030",
+      "spike_id": 5,
+      "market_question": "US forces enter Iran by March 3?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.33549999999999996,
+      "spike_timestamp_before": "2026-02-28T14:30:26+00:00",
+      "spike_timestamp_after": "2026-03-01T11:30:38+00:00"
+    }
+  ]
+}

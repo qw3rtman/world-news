@@ -1,0 +1,77 @@
+{
+  "hash": "b0c71e010828",
+  "n_appearances": 6,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://mobile.reuters.com/business/aerospace-defense/israel-us-launch-strikes-iran-2026-02-28/",
+      "title": "Iranian leader Khamenei killed in air strikes as U.S., Israel launch attacks | Reuters",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Phil Stewart",
+      "num_tokens": 1544,
+      "text_length": 7548
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1169205",
+      "spike_id": 1,
+      "market_question": "Iran Strike on Israel by February 28?",
+      "event_title": "Iran Strike on Israel by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.9395,
+      "spike_timestamp_before": "2026-02-27T09:30:31+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:06+00:00"
+    },
+    {
+      "market_id": "1169205",
+      "spike_id": 2,
+      "market_question": "Iran Strike on Israel by February 28?",
+      "event_title": "Iran Strike on Israel by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.9390000000000001,
+      "spike_timestamp_before": "2026-02-28T05:00:32+00:00",
+      "spike_timestamp_after": "2026-02-28T23:30:34+00:00"
+    },
+    {
+      "market_id": "1198423",
+      "spike_id": 2,
+      "market_question": "US strikes Iran by February 28, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.9345000000000001,
+      "spike_timestamp_before": "2026-02-27T09:00:26+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:44+00:00"
+    },
+    {
+      "market_id": "1198451",
+      "spike_id": 2,
+      "market_question": "Israel strikes Iran by February 28, 2026?",
+      "event_title": "Israel strikes Iran by February 28, 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.195,
+      "spike_timestamp_before": "2026-02-27T10:00:20+00:00",
+      "spike_timestamp_after": "2026-02-28T00:30:23+00:00"
+    },
+    {
+      "market_id": "1198451",
+      "spike_id": 3,
+      "market_question": "Israel strikes Iran by February 28, 2026?",
+      "event_title": "Israel strikes Iran by February 28, 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.9395,
+      "spike_timestamp_before": "2026-02-27T10:00:20+00:00",
+      "spike_timestamp_after": "2026-02-28T08:00:32+00:00"
+    },
+    {
+      "market_id": "1273937",
+      "spike_id": 1,
+      "market_question": "Will the US next strike Iran on February 28, 2026 (ET)?",
+      "event_title": "US next strikes Iran on...?",
+      "spike_direction": "up",
+      "spike_delta": 0.9575,
+      "spike_timestamp_before": "2026-02-27T09:30:33+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:14+00:00"
+    }
+  ]
+}

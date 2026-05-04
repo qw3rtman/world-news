@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the statement made on March 9, 2026, what specific military action did U.S. President Donald Trump propose for the U.S. Navy regarding the Strait of Hormuz?",
+    "a": "He proposed having the U.S. Navy escort tankers through the Strait of Hormuz."
+  },
+  {
+    "q": "According to U.S. President Donald Trump's announcement on March 9, 2026, what type of sanctions did he plan to waive?",
+    "a": "He planned to waive oil-related sanctions."
+  },
+  {
+    "q": "In his March 9, 2026, remarks, how did U.S. President Donald Trump characterize the timeline for the resolution of the war with Iran?",
+    "a": "He predicted the war would resolve \"very soon.\""
+  },
+  {
+    "q": "What economic context did U.S. President Donald Trump confront when making his March 9, 2026, statements about Iran and oil sanctions?",
+    "a": "He confronted mounting economic and political pressures following days of dramatic fluctuations in oil markets."
+  },
+  {
+    "q": "Which two specific policy actions did U.S. President Donald Trump mention on March 9, 2026, in relation to the conflict with Iran?",
+    "a": "Waiving oil-related sanctions and having the U.S. Navy escort tankers through the Strait of Hormuz."
+  },
+  {
+    "q": "On March 9, 2026, what geographic chokepoint did U.S. President Donald Trump suggest the U.S. Navy should secure for tanker traffic?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "What market condition preceded U.S. President Donald Trump's March 9, 2026, comments about ending the war with Iran?",
+    "a": "Days of dramatic fluctuations in oil markets."
+  },
+  {
+    "q": "In the March 9, 2026, announcement, which nation's conflict was U.S. President Donald Trump stating would end \"very soon\"?",
+    "a": "Iran."
+  },
+  {
+    "q": "What specific sector of sanctions did U.S. President Donald Trump indicate he planned to waive on March 9, 2026?",
+    "a": "Oil-related sanctions."
+  },
+  {
+    "q": "According to U.S. President Donald Trump's March 9, 2026, statement, what role was assigned to the U.S. Navy in the context of the Strait of Hormuz?",
+    "a": "To escort tankers through the Strait of Hormuz."
+  },
+  {
+    "q": "What dual pressures did U.S. President Donald Trump face as he made his March 9, 2026, predictions about the war with Iran?",
+    "a": "Mounting economic and political pressures."
+  },
+  {
+    "q": "Which U.S. President made the March 9, 2026, statement regarding the waiver of oil sanctions and the Strait of Hormuz?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "What specific prediction did U.S. President Donald Trump make on March 9, 2026, regarding the duration of the war with Iran?",
+    "a": "He predicted it would resolve \"very soon.\""
+  },
+  {
+    "q": "In the March 9, 2026, remarks, what was the intended purpose of the U.S. Navy's involvement in the Strait of Hormuz as proposed by U.S. President Donald Trump?",
+    "a": "To escort tankers."
+  },
+  {
+    "q": "What type of sanctions was U.S. President Donald Trump planning to remove on March 9, 2026, amidst concerns over oil markets?",
+    "a": "Oil-related sanctions."
+  },
+  {
+    "q": "Which country was the subject of the war that U.S. President Donald Trump stated would end \"very soon\" on March 9, 2026?",
+    "a": "Iran."
+  },
+  {
+    "q": "What market phenomenon occurred in the days leading up to U.S. President Donald Trump's March 9, 2026, announcement?",
+    "a": "Dramatic fluctuations in oil markets."
+  },
+  {
+    "q": "On March 9, 2026, what specific naval operation did U.S. President Donald Trump propose to facilitate oil transport?",
+    "a": "Having the U.S. Navy escort tankers through the Strait of Hormuz."
+  },
+  {
+    "q": "What combination of pressures did U.S. President Donald Trump confront when discussing the war with Iran on March 9, 2026?",
+    "a": "Mounting economic and political pressures."
+  },
+  {
+    "q": "Which two distinct actions did U.S. President Donald Trump outline on March 9, 2026, to address the situation with Iran and oil markets?",
+    "a": "Waiving oil-related sanctions and deploying the U.S. Navy to escort tankers in the Strait of Hormuz."
+  },
+  {
+    "q": "What was the stated timeline for the resolution of the war with Iran according to U.S. President Donald Trump's March 9, 2026, statement?",
+    "a": "\"Very soon.\""
+  },
+  {
+    "q": "In the March 9, 2026, statement, what specific geographic location was identified for U.S. Navy tanker escort duties by U.S. President Donald Trump?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "What economic sector's sanctions did U.S. President Donald Trump plan to waive on March 9, 2026?",
+    "a": "Oil-related sanctions."
+  },
+  {
+    "q": "Which U.S. President made the March 9, 2026, comments about waiving oil sanctions and the Strait of Hormuz?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "What specific conflict did U.S. President Donald Trump predict would resolve \"very soon\" on March 9, 2026?",
+    "a": "The war with Iran."
+  }
+]

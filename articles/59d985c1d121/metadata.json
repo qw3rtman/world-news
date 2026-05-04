@@ -1,0 +1,47 @@
+{
+  "hash": "59d985c1d121",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/03/11/us-strikes-iran-mine-ships-strait-of-hormuz-war-oil.html",
+      "title": "U.S. forces sink 16 Iranian minelayers as reports say Tehran is mining the Strait of Hormuz",
+      "published_date": "2026-03-10T00:00:00.000Z",
+      "author": "Lim Hui Jie",
+      "num_tokens": 916,
+      "text_length": 4330
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1162940",
+      "spike_id": 11,
+      "market_question": "US forces enter Iran by March 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.20499999999999996,
+      "spike_timestamp_before": "2026-03-09T00:00:24+00:00",
+      "spike_timestamp_after": "2026-03-09T23:00:23+00:00"
+    },
+    {
+      "market_id": "1162940",
+      "spike_id": 12,
+      "market_question": "US forces enter Iran by March 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.18000000000000002,
+      "spike_timestamp_before": "2026-03-09T17:30:22+00:00",
+      "spike_timestamp_after": "2026-03-10T17:00:23+00:00"
+    },
+    {
+      "market_id": "1162940",
+      "spike_id": 13,
+      "market_question": "US forces enter Iran by March 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "up",
+      "spike_delta": 0.17,
+      "spike_timestamp_before": "2026-03-10T17:00:23+00:00",
+      "spike_timestamp_after": "2026-03-11T06:00:32+00:00"
+    }
+  ]
+}

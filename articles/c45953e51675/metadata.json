@@ -1,0 +1,27 @@
+{
+  "hash": "c45953e51675",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/middle-east/expanding-iran-conflict-threatens-brazil-grain-exports-fertilizer-supplies-2026-03-05/",
+      "title": "Expanding Iran conflict threatens Brazil grain exports, fertilizer supplies | Reuters",
+      "published_date": "2026-03-05T00:00:00.000Z",
+      "author": "Ana Mano",
+      "num_tokens": 892,
+      "text_length": 4134
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "665307",
+      "spike_id": 9,
+      "market_question": "Will Iran close the Strait of Hormuz before 2027?",
+      "event_title": "Will Iran close the Strait of Hormuz by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.388,
+      "spike_timestamp_before": "2026-03-03T20:00:26+00:00",
+      "spike_timestamp_after": "2026-03-04T17:00:34+00:00"
+    }
+  ]
+}

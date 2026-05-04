@@ -1,0 +1,27 @@
+{
+  "hash": "5301246633b4",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-crude-climbs-to-112-as-middle-east-energy-hubs-come-under-attack-amid-iran-war/articleshow/129669159.cms",
+      "title": "Oil prices today: Crude climbs to $112 as Middle East energy hubs come under attack amid Iran war - The Times of India",
+      "published_date": "2026-03-19T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /  Updated: Mar 19, 2026, 09:16 IST",
+      "num_tokens": 645,
+      "text_length": 3290
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1467765",
+      "spike_id": 35,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $110 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.1985,
+      "spike_timestamp_before": "2026-03-18T15:00:43+00:00",
+      "spike_timestamp_after": "2026-03-19T15:00:34+00:00"
+    }
+  ]
+}

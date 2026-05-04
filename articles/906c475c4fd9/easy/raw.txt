@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Following the joint military strikes by the United States and Israel against Iran on March 2, 2026, what was the approximate price of Brent crude oil just before noon ET?",
+    "a": "About $78 a barrel."
+  },
+  {
+    "q": "In the week of March 2, 2026, what percentage increase did U.S. crude oil experience following the joint U.S.-Israel strikes on Iran?",
+    "a": "6.2%."
+  },
+  {
+    "q": "According to petroleum analyst Patrick De Haan in March 2026, how did he characterize the price movement of oil following the U.S. and Israel strikes on Iran?",
+    "a": "He described it as a \"risk premium being layered onto an already tightening seasonal market\" rather than a structural supply shock."
+  },
+  {
+    "q": "What duration of conflict did Rob Haworth, senior investment strategy director at U.S. Bank Asset Management, cite from President Donald Trump’s comments as the market's expectation in March 2026?",
+    "a": "Up to 4 weeks."
+  },
+  {
+    "q": "Which specific geographic chokepoint did Rob Haworth of U.S. Bank Asset Management identify in March 2026 as the key risk that could cause oil prices to exceed $100 per barrel?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "In March 2026, which global oil producer group and which U.S. corporations signaled their intent to step into the void left by Iran following the U.S.-Israel strikes?",
+    "a": "OPEC+ and several U.S. corporations."
+  },
+  {
+    "q": "According to petroleum analyst Patrick De Haan in March 2026, why would U.S. control over Venezuelan oil production fail to offset the loss of Iranian exports?",
+    "a": "Because Venezuelan production would take years, not weeks, to approach Iran’s export scale of more than 3 million barrels a day."
+  },
+  {
+    "q": "Which analyst from William Blair noted in a March 2, 2026 report that shipping and production infrastructure like pipelines were at risk if bombing continued?",
+    "a": "Neil Dingmann."
+  },
+  {
+    "q": "What specific demand source did Neil Dingmann of William Blair cite in March 2026 as a factor likely benefiting energy companies despite the conflict with Iran?",
+    "a": "Expected demand from Artificial Intelligence infrastructure build."
+  },
+  {
+    "q": "What range of gas price increases did petroleum analyst Patrick De Haan predict for U.S. consumers in the week following the March 2, 2026, strikes on Iran?",
+    "a": "10-30 cents per gallon."
+  },
+  {
+    "q": "At what crude oil price level did Rob Haworth of U.S. Bank Asset Management note prices were well below during the March 2026 Iran conflict compared to the start of the Russia-Ukraine conflict in 2022?",
+    "a": "Triple-digit levels."
+  },
+  {
+    "q": "Which two countries conducted joint strikes against Iran in early March 2026 that caused oil prices to jump?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "What was the approximate price of U.S. crude oil per barrel in March 2026 following the joint U.S.-Israel strikes on Iran?",
+    "a": "About $71 a barrel."
+  },
+  {
+    "q": "According to Rob Haworth of U.S. Bank Asset Management in March 2026, what specific condition involving the Strait of Hormuz could lead to oil exceeding $100 per barrel?",
+    "a": "A prolonged conflict that leaves the Strait of Hormuz unnavigable."
+  },
+  {
+    "q": "How much oil per day did Patrick De Haan state Iran was producing in March 2026, a volume that Venezuelan production could not immediately offset?",
+    "a": "More than 3 million barrels a day."
+  },
+  {
+    "q": "Which organization did Patrick De Haan, a petroleum analyst, work for or represent in his March 2026 commentary on oil markets?",
+    "a": "The article identifies him as a petroleum analyst but does not specify his employer; however, he is quoted in USA TODAY reporting."
+  },
+  {
+    "q": "What type of market condition did Patrick De Haan describe in March 2026 as \"already tightening\" before the risk premium from the Iran strikes was added?",
+    "a": "A seasonal market."
+  },
+  {
+    "q": "Which financial institution’s senior investment strategy director, Rob Haworth, commented on the limited duration of the March 2026 conflict between the U.S./Israel and Iran?",
+    "a": "U.S. Bank Asset Management."
+  },
+  {
+    "q": "In March 2026, which group of global oil producers did Neil Dingmann of William Blair identify as signaling intent to replace Iranian supply?",
+    "a": "OPEC+."
+  },
+  {
+    "q": "What infrastructure assets did Neil Dingmann of William Blair warn were at risk in March 2026 if the bombing of Iran continued?",
+    "a": "Shipping and production infrastructure, like pipelines."
+  },
+  {
+    "q": "According to Patrick De Haan in March 2026, how quickly would U.S. consumers likely start to see higher gas prices after the oil price jump?",
+    "a": "In the next day or two."
+  },
+  {
+    "q": "Which two benchmarks for oil prices were reported to have gained significantly in March 2026 following the U.S.-Israel strikes on Iran?",
+    "a": "Crude oil and Brent crude."
+  },
+  {
+    "q": "What was the percentage gain for Brent crude oil, the global benchmark, just before noon ET on March 2, 2026?",
+    "a": "7.2%."
+  },
+  {
+    "q": "Which analyst stated in March 2026 that the oil market was well supplied ahead of the conflict with Iran?",
+    "a": "Neil Dingmann."
+  },
+  {
+    "q": "According to Neil Dingmann of William Blair in March 2026, what was the forecast for oil prices in a worst-case scenario involving continued bombing and infrastructure risk?",
+    "a": "$100 per barrel or more."
+  }
+]

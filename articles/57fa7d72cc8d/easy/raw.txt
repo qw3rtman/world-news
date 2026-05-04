@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On March 3, 2026, what was the market performance of US oil equities despite a surge in crude prices?",
+    "a": "US oil equities flatlined."
+  },
+  {
+    "q": "Which specific shipping chokepoint was disrupted by the Iran war as of March 3, 2026, leading to supply disruptions?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "What speculation regarding the Trump administration's actions contributed to investors selling off US oil and gas stocks in early March 2026?",
+    "a": "Speculation that the Trump administration was preparing for a military strike in Iran."
+  },
+  {
+    "q": "Which major US shale producer stated that the disruption to oil flows was likely short-lived in early March 2026?",
+    "a": "EOG Resources Inc."
+  },
+  {
+    "q": "What action did investors take on March 3, 2026, regarding US oil and gas stocks that had risen sharply the previous week?",
+    "a": "Investors decided to cash in on the stocks."
+  },
+  {
+    "q": "What event halted shipping through the Strait of Hormuz and disrupted oil supplies as of March 3, 2026?",
+    "a": "The Iran war."
+  },
+  {
+    "q": "According to analysts cited on March 3, 2026, what factor drove investors to sell off US oil and gas stocks?",
+    "a": "Pricing in a possible quick resolution to the Iran war."
+  },
+  {
+    "q": "What was the price trend of US oil and gas stocks during the week preceding March 3, 2026?",
+    "a": "They experienced a strong run-up in price."
+  },
+  {
+    "q": "Which US administration was preparing for a potential military strike in Iran, according to market speculation in March 2026?",
+    "a": "The Trump administration."
+  },
+  {
+    "q": "What was the status of US oil equities on Tuesday, March 3, 2026, relative to crude prices?",
+    "a": "US oil equities were flatlined while crude prices surged."
+  },
+  {
+    "q": "Which organization did EOG Resources Inc. represent in the context of US shale production as of March 2026?",
+    "a": "One of the largest US shale producers."
+  },
+  {
+    "q": "What was the primary reason investors began selling off oil and gas stocks in early March 2026, according to the article?",
+    "a": "Speculation of a quick resolution to the Iran war."
+  },
+  {
+    "q": "How did EOG Resources Inc. characterize the duration of the oil flow disruptions caused by the Iran war in March 2026?",
+    "a": "As 'probably short-lived.'"
+  },
+  {
+    "q": "What geopolitical conflict was responsible for the disruption of oil supplies and the surge in crude prices in early March 2026?",
+    "a": "The Iran war."
+  },
+  {
+    "q": "Which specific geographic location's shipping was halted due to the Iran war as of March 3, 2026?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "What market behavior did investors exhibit on March 3, 2026, concerning stocks that had gained value in the prior week?",
+    "a": "They cashed in on the gains."
+  },
+  {
+    "q": "Which company provided the assessment that oil flow disruptions were likely temporary in March 2026?",
+    "a": "EOG Resources Inc."
+  },
+  {
+    "q": "What military action was the Trump administration speculated to be preparing for in Iran in early March 2026?",
+    "a": "A military strike."
+  },
+  {
+    "q": "How did crude prices behave on March 3, 2026, in contrast to the performance of US oil equities?",
+    "a": "Crude prices surged."
+  },
+  {
+    "q": "What was the market's reaction to the potential end of the Iran war as of March 3, 2026?",
+    "a": "Investors began selling off and pricing in a quick resolution."
+  },
+  {
+    "q": "Which US-based energy company is identified as one of the largest shale producers in the article from March 3, 2026?",
+    "a": "EOG Resources Inc."
+  },
+  {
+    "q": "What specific supply chain issue was caused by the Iran war in early March 2026?",
+    "a": "Disruption of oil supplies and halted shipping through the Strait of Hormuz."
+  },
+  {
+    "q": "Who made the statement that oil flow disruptions were 'probably short-lived' in March 2026?",
+    "a": "EOG Resources Inc."
+  },
+  {
+    "q": "What was the timeframe for the strong price run-up in US oil and gas stocks before investors sold off in March 2026?",
+    "a": "Last week (the week preceding March 3, 2026)."
+  },
+  {
+    "q": "Which administration's potential military actions in Iran influenced investor sentiment in early March 2026?",
+    "a": "The Trump administration."
+  }
+]

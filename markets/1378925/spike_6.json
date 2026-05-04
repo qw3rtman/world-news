@@ -1,0 +1,65 @@
+{
+  "spike_index": 6,
+  "direction": "down",
+  "price_before": 0.7145,
+  "price_after": 0.4635,
+  "delta": -0.251,
+  "abs_delta": 0.251,
+  "timestamp_before": "2026-03-09T15:30:31+00:00",
+  "timestamp_after": "2026-03-10T14:30:41+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://thehill.com/homenews/senate/5772178-mullin-nomination-homeland-security/",
+      "file": "7c1e50b85aaa.txt",
+      "title": "Kristi Noem\u2019s ouster could pave way to reopen shuttered Homeland Security Department",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "text_length": 7717,
+      "status": "ok",
+      "num_tokens": 1512
+    },
+    {
+      "url": "https://www.usatoday.com/story/news/2026/03/08/when-is-next-vote-on-government-shutdown-2026-senate-leader-delays-vote-update/89052614007/",
+      "file": "80fda6763873.txt",
+      "title": "When is next vote on government shutdown 2026? Senate leader delays vote",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": null,
+      "text_length": 6563,
+      "status": "ok",
+      "num_tokens": 1428
+    },
+    {
+      "url": "https://theverge.com/policy/891686/dhs-government-shutdown-ice-cbp-tsa-airports",
+      "file": "9357a1e3e443.txt",
+      "title": "The government shutdown is hitting airports \u2014 but not ICE | The Verge",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "Gaby Del Valle",
+      "text_length": 7996,
+      "status": "ok",
+      "num_tokens": 1565
+    },
+    {
+      "url": "https://www.semafor.com/article/03/10/2026/homeland-security-shutdown-chaos-continues-even-under-mullin",
+      "file": "f8398439e081.txt",
+      "title": "Mullin set to take over a closed and chaotic Homeland Security  | Semafor",
+      "published_date": "2026-03-10T00:00:00.000Z",
+      "author": null,
+      "text_length": 6039,
+      "status": "ok",
+      "num_tokens": 1271
+    },
+    {
+      "url": "https://thehill.com/homenews/senate/5772178-mullin-nomination-homeland-security/amp/",
+      "file": "39bcd8845538.txt",
+      "title": "Kristi Noem\u2019s ouster could pave way to reopen shuttered Homeland Security Department",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "text_length": 7682,
+      "status": "ok",
+      "num_tokens": 1497
+    }
+  ],
+  "total_tokens": 7273
+}

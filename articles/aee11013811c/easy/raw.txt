@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In February 2026, what annual recurring revenue (ARR) figure did the Stockholm-based company Lovable confirm to TechCrunch?",
+    "a": "$400 million"
+  },
+  {
+    "q": "As of March 2026, what valuation did Lovable reach, a boost partly attributed to its efforts to secure enterprise clients?",
+    "a": "$6.6 billion"
+  },
+  {
+    "q": "Which three-year-old company, launched in 2023, is part of the \"vibe coding\" wave alongside Cursor and Mercor?",
+    "a": "Lovable"
+  },
+  {
+    "q": "In the week of March 11, 2026, which Swedish band performed the song featured in Lovable's debut \"Earworm\" brand campaign?",
+    "a": "Boko Yout"
+  },
+  {
+    "q": "Which two major AI labs, Anthropic and OpenAI, are mentioned as sources of competing AI coding tools like Claude Code and Codex as of early 2026?",
+    "a": "Anthropic and OpenAI"
+  },
+  {
+    "q": "On March 8, 2026, how many projects were built or updated on Lovable during its SheBuilds initiative for International Women’s Day?",
+    "a": "Over 500,000"
+  },
+  {
+    "q": "As of March 2026, how many full-time employees did Lovable have while achieving $400 million in annual recurring revenue?",
+    "a": "146"
+  },
+  {
+    "q": "Which two specific enterprise clients are named as existing users of Lovable as of early 2026?",
+    "a": "Klarna and HubSpot"
+  },
+  {
+    "q": "In November 2025, which Web Summit event featured Lovable co-founder and CEO Anton Osika declaring that more than half of Fortune 500 companies were using the platform?",
+    "a": "Web Summit"
+  },
+  {
+    "q": "What is the name of Lovable’s recently inaugurated office space in Stockholm, which has capacity for 300 people as of early 2026?",
+    "a": "The article does not provide a specific name for the space, only that it is newly inaugurated in Stockholm."
+  },
+  {
+    "q": "As of March 2026, in which five locations or modes is Lovable hiring, including its Stockholm headquarters?",
+    "a": "Stockholm, Boston, London, New York, San Francisco, and remotely"
+  },
+  {
+    "q": "According to research firm Gartner’s 2026 predictions, what is the expected annual recurring revenue per employee for the new wave of unicorns emerging by 2030?",
+    "a": "$2 million"
+  },
+  {
+    "q": "As of March 2026, what was Lovable’s calculated annual recurring revenue per employee, surpassing Gartner’s 2030 prediction?",
+    "a": "$2.77 million"
+  },
+  {
+    "q": "Who is the chief revenue officer at Lovable who disclosed the company’s employee count and revenue figures to Business Insider in early 2026?",
+    "a": "Ryan Meadows"
+  },
+  {
+    "q": "In July 2025, what annual recurring revenue figure had Lovable previously reported before reaching $400 million in February 2026?",
+    "a": "$100 million"
+  },
+  {
+    "q": "In January 2026, what annual recurring revenue figure did Lovable report, following its $200 million milestone in November 2025?",
+    "a": "$300 million"
+  },
+  {
+    "q": "Which initiative launched by Lovable on March 8, 2026, made the whole platform free for one day and resulted in record usage metrics?",
+    "a": "SheBuilds"
+  },
+  {
+    "q": "As of early 2026, how many open positions did Lovable have, even after planning to increase headcount from its 146 employees?",
+    "a": "70"
+  },
+  {
+    "q": "Which spokesperson for Lovable described the purpose of the \"Earworm\" campaign as inspiring non-technical people with great ideas in early 2026?",
+    "a": "A spokesperson for Lovable (name not specified in the article)"
+  },
+  {
+    "q": "In the \"Earworm\" brand campaign running in March 2026, what tool did the creative team use to build the functional band app featured in the film?",
+    "a": "Lovable itself"
+  },
+  {
+    "q": "As of February 2026, did Lovable confirm whether it was still projecting to reach $1 billion in annual recurring revenue by the end of the year?",
+    "a": "No, the company declined to say."
+  },
+  {
+    "q": "Which company, Lovable or the AI labs Anthropic and OpenAI, is built atop the models used by Claude Code and Codex as of early 2026?",
+    "a": "Lovable"
+  },
+  {
+    "q": "As of early 2026, what specific type of dedicated features has Lovable added to convince businesses to use the platform for more than just prototyping?",
+    "a": "Security-related features"
+  },
+  {
+    "q": "In the week of March 11, 2026, what was the typical daily average number of projects built or updated on Lovable prior to the SheBuilds spike?",
+    "a": "Approximately 200,000"
+  },
+  {
+    "q": "Which three-year-old company, as of 2026, has attracted some 8 million users and become a unicorn in less than a year after its launch?",
+    "a": "Lovable"
+  }
+]

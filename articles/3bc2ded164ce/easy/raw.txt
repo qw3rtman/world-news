@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On March 10, 2026, what was the approximate percentage decline in Brent crude oil prices by 11:45 p.m. ET Monday, and what was the price per barrel?",
+    "a": "Brent crude fell around 4.3% to $94.62 per barrel."
+  },
+  {
+    "q": "What specific threat did U.S. President Donald Trump make in a Monday Truth Social post regarding Iran's potential actions in the Strait of Hormuz?",
+    "a": "He stated that Iran would be hit \"twenty times harder\" by the United States if it attempted to stop oil flows through the Strait."
+  },
+  {
+    "q": "According to data from Kpler, what percentage of global seaborne oil flows passed through the Strait of Hormuz in 2025?",
+    "a": "Approximately 31% of global seaborne oil flows passed through the Strait in 2025."
+  },
+  {
+    "q": "Which four major Gulf producers are explicitly named in the article as being connected to the Gulf of Oman and the Arabian Sea via the Strait of Hormuz?",
+    "a": "Saudi Arabia, Iran, Iraq, and the United Arab Emirates."
+  },
+  {
+    "q": "What did U.S. President Donald Trump tell CBS News over the phone on Monday regarding the status of ships in the Strait of Hormuz?",
+    "a": "He stated that ships were continuing to pass through the Strait and that he was \"thinking about taking it over.\""
+  },
+  {
+    "q": "What prediction did U.S. President Donald Trump make at a Monday press conference regarding the timeline of the war against Iran and oil prices?",
+    "a": "He said the war against Iran would end \"very soon\" and that oil prices would drop."
+  },
+  {
+    "q": "What is the name of the president of Rapidan Energy Group who commented on the market's optimism following President Trump's statements?",
+    "a": "Bob McNally."
+  },
+  {
+    "q": "Why did Bob McNally, president of Rapidan Energy Group, describe the closure of the Strait of Hormuz as \"completely calamitous and unexpected\"?",
+    "a": "He noted that even during the tensions of the 1980s, the waterway was never fully closed."
+  },
+  {
+    "q": "What caution did a spokesperson for Iran's Ministry of Foreign Affairs issue on Monday regarding oil tankers in the Strait of Hormuz?",
+    "a": "The spokesperson warned that oil tankers transiting the Strait \"must be very careful.\""
+  },
+  {
+    "q": "What is the name of the president of Lipow Oil Associates who stated it was too early to draw concrete conclusions about the market situation?",
+    "a": "Andy Lipow."
+  },
+  {
+    "q": "What specific action did Andy Lipow say needed to be observed to determine the future market impact of President Trump's comments?",
+    "a": "He said observers must wait to see how Iran responds and whether Iran will attack any oil infrastructure in the coming hours."
+  },
+  {
+    "q": "Which group of nations' energy ministers were set to hold a virtual meeting on March 10, 2026, to discuss releasing emergency oil reserves?",
+    "a": "The Group of Seven (G7) nations."
+  },
+  {
+    "q": "What range of barrel quantities did U.S. sources believe would be appropriate for a joint release of emergency oil reserves by the G7?",
+    "a": "Between 300 million and 400 million barrels."
+  },
+  {
+    "q": "What percentage of the G7's combined 1.2 billion-barrel reserves does a release of 300 to 400 million barrels represent, according to sources?",
+    "a": "Roughly 25% to 30%."
+  },
+  {
+    "q": "Which meeting of G7 officials preceded the energy ministers' virtual meeting and considered tapping strategic reserves without reaching a decision?",
+    "a": "A meeting of G7 finance ministers on Monday."
+  },
+  {
+    "q": "Who is the International Energy Agency Executive Director that issued a statement on Monday regarding the discussion of emergency oil stocks?",
+    "a": "Fatih Birol."
+  },
+  {
+    "q": "At whose invitation did International Energy Agency Executive Director Fatih Birol join the meeting of Group of Seven finance ministers?",
+    "a": "France."
+  },
+  {
+    "q": "How many barrels of public emergency oil stocks do IEA member countries hold, according to Fatih Birol's statement?",
+    "a": "Over 1.2 billion barrels."
+  },
+  {
+    "q": "How many additional barrels of industry stocks are held under government obligation, according to International Energy Agency Executive Director Fatih Birol?",
+    "a": "600 million barrels."
+  },
+  {
+    "q": "Which five countries did International Energy Agency Executive Director Fatih Birol name as having counterparts he remains in close contact with?",
+    "a": "Saudi Arabia, Brazil, India, Azerbaijan, and Singapore."
+  },
+  {
+    "q": "What was the approximate price of U.S. crude oil on March 10, 2026, after it fell 3.8%?",
+    "a": "About $91 per barrel."
+  },
+  {
+    "q": "How much did oil prices plunge as much as on Tuesday before paring losses, according to the article?",
+    "a": "As much as 10%."
+  },
+  {
+    "q": "What event caused oil prices to surge past $100 on Monday before the subsequent decline?",
+    "a": "The conflict in the Middle East and concerns about oil flows via the Strait of Hormuz."
+  },
+  {
+    "q": "What did U.S. President Donald Trump describe his comments about the Strait of Hormuz as in his Truth Social post?",
+    "a": "A \"gift from the United States of America to China\" and other nations that heavily use the Strait."
+  },
+  {
+    "q": "What did Bob McNally of Rapidan Energy Group attribute the collapse in oil prices to, referring to it as \"verbal intervention\"?",
+    "a": "The comments made by U.S. President Donald Trump."
+  }
+]

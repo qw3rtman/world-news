@@ -1,0 +1,65 @@
+{
+  "spike_index": 1,
+  "direction": "up",
+  "price_before": 0.33,
+  "price_after": 0.66,
+  "delta": 0.33,
+  "abs_delta": 0.33,
+  "timestamp_before": "2026-03-01T03:30:37+00:00",
+  "timestamp_after": "2026-03-01T05:30:33+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://foreignpolicy.com/2026/02/28/us-israel-strike-iran-trump-nuclear-program-missiles/",
+      "file": "46a8a59bce24.txt",
+      "title": "U.S., Israel Begin 'Major Combat Operations' in Iran as Trump Calls for Regime Change",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Jennifer Williams, Rishi Iyengar, John Haltiwanger",
+      "text_length": 6983,
+      "status": "ok",
+      "num_tokens": 1478
+    },
+    {
+      "url": "https://www.nbcnews.com/world/iran/us-israel-attacks-iran-protests-nuclear-talks-rcna253784",
+      "file": "bf8079ad4c4c.txt",
+      "title": "U.S. and Israel attack Iran as Trump urges Iranians to 'take over' the government",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 11764,
+      "status": "ok",
+      "num_tokens": 2323
+    },
+    {
+      "url": "http://polling.reuters.com/world/middle-east/israel-says-it-launched-pre-emptive-attack-against-iran-2026-02-28/",
+      "file": "f45067123de4.txt",
+      "title": "US and Israel launch \"pre-emptive\" attack against Iran | Reuters",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 2799,
+      "status": "ok",
+      "num_tokens": 537
+    },
+    {
+      "url": "https://www.al-monitor.com/originals/2026/02/israel-and-us-launch-strikes-iran",
+      "file": "73671b73acac.txt",
+      "title": "Israel and US launch strikes on Iran - AL-Monitor: The Middle East\u02bcs leading independent news source since 2012",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 3147,
+      "status": "ok",
+      "num_tokens": 619
+    },
+    {
+      "url": "http://origin.www.bloomberg.com/news/articles/2026-02-28/israel-has-long-sought-a-us-war-on-iran-s-regime-what-s-next?srnd=undefined",
+      "file": "fae85c68ba7a.txt",
+      "title": "Iran Strikes: Israel Has Long Sought a US War on Khamenei\u2019s Regime. What\u2019s Next? - Bloomberg",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Ethan Bronner",
+      "text_length": 1170,
+      "status": "ok",
+      "num_tokens": 271
+    }
+  ],
+  "total_tokens": 5228
+}

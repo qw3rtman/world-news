@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On March 4, 2026, the Pentagon released the names of how many U.S. service members killed in an Iranian counterattack in Kuwait, and how many additional Americans were reported as killed but not yet named?",
+    "a": "Four named and two unnamed."
+  },
+  {
+    "q": "As of March 4, 2026, how many total U.S. troops had been killed in the conflict between the United States and Iran?",
+    "a": "Six."
+  },
+  {
+    "q": "On March 4, 2026, how many countries were Americans urged to leave due to serious safety risks during the U.S. and Israel's war with Iran?",
+    "a": "Fourteen."
+  },
+  {
+    "q": "Which three U.S. embassies were closed on March 4, 2026, due to the conflict between the United States and Iran?",
+    "a": "The U.S. embassies in Beirut, Kuwait, and Saudi Arabia."
+  },
+  {
+    "q": "According to the Iranian Red Crescent on March 4, 2026, how many people had been killed in Iran during the conflict?",
+    "a": "At least 787."
+  },
+  {
+    "q": "On March 4, 2026, which U.S. diplomatic facility was hit by a drone during the conflict with Iran?",
+    "a": "The U.S. consulate in Dubai."
+  },
+  {
+    "q": "On March 4, 2026, which country did Israel send troops into as the war with Iran widened?",
+    "a": "Lebanon."
+  },
+  {
+    "q": "On March 4, 2026, which group of nations warned that Iran's retaliatory fire could draw them into the spreading conflict?",
+    "a": "Iran's Gulf neighbors."
+  },
+  {
+    "q": "On March 4, 2026, where did President Donald Trump defend his decision to launch the war with Iran, stating there would have been a nuclear war without intervention?",
+    "a": "In the Oval Office."
+  },
+  {
+    "q": "On March 4, 2026, what specific threat did President Donald Trump claim Iran \"would have taken out many countries\" if the U.S. had not intervened?",
+    "a": "A nuclear war."
+  },
+  {
+    "q": "On March 4, 2026, in which country did an Iranian counterattack result in the deaths of U.S. service members whose names were released by the Pentagon?",
+    "a": "Kuwait."
+  },
+  {
+    "q": "On March 4, 2026, what did internal reports within Iran suggest regarding the actual death toll compared to the Iranian Red Crescent's figure of 787?",
+    "a": "The toll was more likely in the thousands."
+  },
+  {
+    "q": "On March 4, 2026, what was the status of the U.S. embassies in Beirut, Kuwait, and Saudi Arabia due to the conflict with Iran?",
+    "a": "They were closed."
+  },
+  {
+    "q": "On March 4, 2026, what action did Israel take in Lebanon as the war with Iran widened?",
+    "a": "Israel sent troops into Lebanon."
+  },
+  {
+    "q": "On March 4, 2026, what warning did Iran's Gulf neighbors issue regarding the expanding conflict?",
+    "a": "They warned that Iran's retaliatory fire could draw them into the spreading conflict."
+  },
+  {
+    "q": "On March 4, 2026, what did President Donald Trump claim would have happened without U.S. intervention in the conflict with Iran?",
+    "a": "There would have been a nuclear war."
+  },
+  {
+    "q": "On March 4, 2026, how many U.S. service members were killed in the Iranian counterattack in Kuwait according to the Pentagon's release?",
+    "a": "Four."
+  },
+  {
+    "q": "On March 4, 2026, what was the total number of U.S. service members killed in the conflict, including those not yet named by the Pentagon?",
+    "a": "Six."
+  },
+  {
+    "q": "On March 4, 2026, which U.S. consulate was targeted by a drone during the conflict with Iran?",
+    "a": "The U.S. consulate in Dubai."
+  },
+  {
+    "q": "On March 4, 2026, what did the Iranian Red Crescent report as the number of people killed in Iran?",
+    "a": "At least 787."
+  },
+  {
+    "q": "On March 4, 2026, what did internal reports inside Iran suggest about the death toll compared to official figures?",
+    "a": "The toll was more likely in the thousands."
+  },
+  {
+    "q": "On March 4, 2026, which three countries had their U.S. embassies closed due to the conflict with Iran?",
+    "a": "Lebanon (Beirut), Kuwait, and Saudi Arabia."
+  },
+  {
+    "q": "On March 4, 2026, which country did Israel deploy troops into as part of the widening war with Iran?",
+    "a": "Lebanon."
+  },
+  {
+    "q": "On March 4, 2026, which regional neighbors warned they might be drawn into the conflict due to Iran's retaliatory fire?",
+    "a": "Iran's Gulf neighbors."
+  },
+  {
+    "q": "On March 4, 2026, what justification did President Donald Trump give for launching the war with Iran in the Oval Office?",
+    "a": "He stated there would have been a nuclear war without intervention and that Iran would have taken out many countries."
+  }
+]

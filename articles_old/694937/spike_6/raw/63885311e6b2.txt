@@ -1,0 +1,60 @@
+Rosneft Deutschland: EU erlaubt Bund Übernahme von Kontrolle - DER SPIEGEL
+
+Zum Inhalt springen
+
+---
+
+---
+
+- Link kopieren
+- WhatsApp
+- Messenger
+- E-Mail
+- Facebook
+- X.com
+
+image"
+
+PCK-Raffinerie in Schwedt
+
+Foto: Patrick Pleul / dpa / picture alliance
+
+Der Bund darf nach einer Entscheidung der EU-Kommission die alleinige Kontrolle über Rosneft Deutschlandübernehmen. Die Behörde erlaubt dies dem Bundesministerium für Wirtschaft und Energie, da es keine wettbewerbsrechtlichen Bedenken gebe.
+
+Die Transaktion betreffe in erster Linie die Rohölraffination und den Großhandel mit Kraftstoffen und petrochemischen Produkten, teilte die Kommission in Brüssel mit. Die angemeldete Transaktion wurde demnach in einem vereinfachten Fusionskontrollverfahren geprüft.
+
+Der Bund hat als Treuhänder bereits die Kontrolle über Rosneft Deutschland und damit auch über den jeweiligen Anteil an der Raffinerie PCK Schwedt sowie den Raffinerien MiRo in Karlsruhe und Bayernoil in Vohburg (Bayern). Die Raffinerie PCK in Schwedt versorgt weite Teile des Nordostens und Berlin mit Sprit, Heizöl und Kerosin.
+
+### Sorge vor US-Sanktionen
+
+Nach dem Angriff Russlands auf die Ukraine stellte der Bund die Rosneft-Töchter Rosneft Deutschland (RDG) und RN Refining & Marketing GmbH (RNRM) 2022 unter Treuhandverwaltung. Die damalige Bundesregierung entschied auch, auf russisches Pipelineöl zu verzichten, mit dem PCK jahrzehntelang versorgt wurde. Die Treuhandverwaltung wurde bisher für jeweils ein halbes Jahr angeordnet, die aktuelle Anordnung gilt bis 10. März.
+
+Die Treuhandverwaltung soll nach Angaben des Wirtschaftsministeriums die Versorgungssicherheit gewährleisten, da etwa Rohöllieferanten damit drohten, ihre Geschäftsbeziehungen einzustellen, falls die Kontrolle an den russischen Staatskonzern Rosneft zurückfallen sollte. Die Bundesregierung muss dafür sorgen, die Versorgungssicherheit zu gewährleisten und den Geschäftsbetrieb von Rosneft Deutschland auf Dauer erhalten.
+
+Mehr zum Thema
+
+Treuhandverwaltung in Brandenburg: Bund verlängert Garantie für Beschäftigte der Raffinerie in Schwedt
+
+Frühere Druschba-Pipeline: Bund will US-Sanktionen für Raffinerie in Schwedt abwenden
+
+Investitionen durch US-Unternehmen Sunoco: Bundesregierung will militärisch relevante Pipelines kaufen Von Susanne Götze, Celine Imensek, Frederik Obermaier und Aileen Bunte
+
+Derzeit sorgt man sich in Brandenburg auch wegen möglicher US-Strafmaßnahmen. Die geltenden Sanktionen verbieten laut US-Finanzministerium in der Praxis jede wirtschaftliche Interaktion mit Rosneft, Lukoil und ihren Tochterfirmen – nicht nur für US-Unternehmen, sondern auch für ausländische Banken oder Geschäftspartner, die mit den sanktionierten Akteuren in Verbindung stehen. Bis zum 29. April sind die Sanktionen noch ausgesetzt.
+
+Fraglich ist, wie die USA danach auf das deutsche Engagement bei Rosneft blicken. 2024 stand bereits schon einmal eine Enteignung von Rosneft im Raum, diese Woche sprach sich der Grünenpolitiker Michael Kellner in einem MDR-Interview erneut für diesen Schritt aus. »Einen vernünftigen Käufer suchen, die Russen rauswerfen – da wären wir das Problem der amerikanischen Sanktionen und der Treuhandsituation los«, sagte er.
+
+Rosneft Deutschland vereint den Angaben nach rund zwölf Prozent der deutschen Erdölverarbeitungskapazität auf sich und gehört damit zu den größten Erdöl verarbeitenden Unternehmen in Deutschland. Zugleich gehört dem russischen Rosneft-Konzern die Mehrheit (54 Prozent) an der Raffinerie in Schwedt.
+
+apr/dpa
+
+{if (response.status !== 200) {throw new Error(`smartfeed init - failed to fetch prototypes, URL: ${response.url}`);}response.text().then((result) = {const containerElement = document.createElement('template');containerElement.innerHTML = result;const templates = containerElement.content.querySelectorAll('template');templates.forEach((template) = {if (template.id === 'footer-svgs') {const footerSvgsContainerElement = document.body.querySelector('[data-el=footerSvgs]');if (footerSvgsContainerElement instanceof Element) {const prototypeFooterSvgs = template.content.querySelectorAll('svg[id]');prototypeFooterSvgs.forEach((prototypeFooterSvg) = {if (prototypeFooterSvg.id && !footerSvgsContainerElement.querySelector(`#${prototypeFooterSvg.id}`)) {footerSvgsContainerElement.append(prototypeFooterSvg);}});}return;}document.body.append(template);});this.prototypesInitialized = true;}).catch((error) = { console.error(`smartfeed init - failed to parse prototypes, URL: ${response.url}`); });}).catch((error) = { console.error(error.message); });},async getTeasersFromSmartfeedAPI(block) {let teasers;const payload = {sortBy: block?.sortBy || 'newest',pageSize: block?.pageSize || 10,};if (block?.type === 'channel' && block.channel) {payload.channel = block.channel;if (block.subchannel && payload.sortBy === 'newest') {payload.subchannel = block.subchannel;}try {teasers = await $smartfeedAPI.getTeasersByChannel(payload);} catch (e) {return [];}} else if (block?.type === 'domain' && block.domain) {payload.domain = block.domain;try {teasers = await $smartfeedAPI.getTeasersByDomain(payload);} catch (e) {return [];}} else if (block?.type === 'style' && block.style) {payload.style = block.style;try {teasers = await $smartfeedAPI.getTeasersByStyle(payload);} catch (e) {return [];}} else {return [];}if (!Array.isArray(teasers)) {return [];}if (Number.isInteger(block.maxAge)) {teasers = teasers.filter((teaser) = {return !teaser.time || teaser.time 1771695659 - block.maxAge;});}if (teasers.length === 0) {return [];}const breakpoint = $store.MediaQuery?.breakpoint ? $store.MediaQuery.breakpoint : 'lg';const teaserLayouts = Array.isArray(block?.teaserLayouts?.[breakpoint]) ? block.teaserLayouts[breakpoint] : [];const teaserCount = teaserLayouts.length 0 ? teaserLayouts.length : 3;const filteredTeasers = teasers.filter((teaser) = teaser.id && !this.consumedArticleIds.includes(teaser.id));teasers = filteredTeasers.length {teaser.layout = teaserLayouts[teaserIndex] ? teaserLayouts[teaserIndex] : 'm';teaser.pos = `${block.index + 1}:${teaserIndex + 1}`;if (teaser.id) {this.consumedArticleIds.push(teaser.id);}});return teasers;},async getTeasersFromRECOService(block) {if (!$store.User.isLoggedIn || !$store.User.recommendations?.smartfeed) {return null;};await $waitForCustomVendorConsents();const recommendationsPurposeId = $store.User.hasNoAdsAccess ? '64bf9cc6b4a67c0535f66213' : '655f1ab47129a00595f31a65';if (!$arePurposeIdsVerified([recommendationsPurposeId])) {return null;}let recoResponse;try {recoResponse = await $RECO.getRecommendedArticles(type='smartfeed');} catch (e) {return null;}if (!Array.isArray(recoResponse?.articleIds) || recoResponse.articleIds.length === 0) {return null;}let articleIds = recoResponse.articleIds;const runId = recoResponse.runId;const createdAt = recoResponse.createdAt ?? undefined;const breakpoint = $store.MediaQuery?.breakpoint ? $store.MediaQuery.breakpoint : 'lg';const teaserLayouts = Array.isArray(block?.teaserLayouts?.[breakpoint]) ? block.teaserLayouts[breakpoint] : [];const teaserCount = teaserLayouts.length 0 ? teaserLayouts.length : 3;const filteredArticleIds = articleIds.filter((articleId) = !this.consumedArticleIds.includes(articleId));articleIds = filteredArticleIds.length {teaser.layout = teaserLayouts[teaserIndex] ? teaserLayouts[teaserIndex] : 'm';teaser.pos = `${block.index + 1}:${teaserIndex + 1}`;});return {teasers,runId,createdAt,};},}" x-lazyload data-area="smartfeed"
+
+### Mehr lesen über
+
+Rosneft Erdöl Russlands Krieg gegen die Ukraine Russland Energie-Riese Russland Deutschland Brandenburg Lukoil
+
+### Verwandte Artikel
+
+Frühere Druschba-Pipeline: Bund will US-Sanktionen für Raffinerie in Schwedt abwenden
+
+Mögliche Verstaatlichung von Raffinerie in Schwedt: Bundesregierung prüft wohl eine Enteignung von Rosneft

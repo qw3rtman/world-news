@@ -1,0 +1,65 @@
+{
+  "spike_index": 3,
+  "direction": "up",
+  "price_before": 0.05,
+  "price_after": 0.35,
+  "delta": 0.3,
+  "abs_delta": 0.3,
+  "timestamp_before": "2026-03-01T09:30:31+00:00",
+  "timestamp_after": "2026-03-01T20:30:32+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.thetimes.com/world/middle-east/article/iran-us-israel-dubai-latest-news-attack-live-09r2rh666?gaa_at=eafs&gaa_n=AWEtsqfeBjxx2aXIqP1OaQokcQj4nq-HO0lhBhLL_juVa_AL4HhQbBPx7c4X&gaa_sig=EkvOicX6Ry5AILKLmR5WiWEYjYIVIIo82blOu9moHdu7X_RTm-J5WomuWapWPL0QUudPr_nnWcKSNH4SutYi-g%3D%3D&gaa_ts=69a4c8c3",
+      "file": "424012adefae.txt",
+      "title": "Iran latest: Britain to let US use bases to strike Iran",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Larisa Brown | Haroon Janjua | Gabrielle Weiniger | Bruno Waterfield | Steven Swinford | Charlie Moloney | Constance Kampfner | David Chazan | Lara Spirit | Herbie Russell",
+      "text_length": 65247,
+      "status": "ok",
+      "num_tokens": 14110
+    },
+    {
+      "url": "http://mobile.reuters.com/world/uk/uk-says-iran-must-never-be-allowed-develop-nuclear-weapons-2026-02-28/",
+      "file": "1d5747fdb582.txt",
+      "title": "UK forces join 'regional defensive operations' as US, Israel strike Iran | Reuters",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Sam Tabahriti",
+      "text_length": 2743,
+      "status": "ok",
+      "num_tokens": 523
+    },
+    {
+      "url": "https://www.thehindu.com/news/international/france-germany-uk-ready-to-take-defensive-action-against-iran/article70692886.ece",
+      "file": "c7956d700e77.txt",
+      "title": "Iran Israel Conflict | France, Germany, U.K. ready to take \u2018defensive action\u2019 against Iran - The Hindu",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Agencies",
+      "text_length": 3619,
+      "status": "ok",
+      "num_tokens": 813
+    },
+    {
+      "url": "https://www.thetimes.com/uk/politics/article/keir-starmer-under-pressure-support-trump-airstrikes-on-iran-skrz7r9xv?gaa_at=eafs&gaa_n=AWEtsqcTm1qFimW3mFD722f0yqZ9YbNCMzNcwSQDN3nNYAKllxFlLFp488aI&gaa_sig=pY6Ci-YFfXdT3X3k_J8gaK_o5yhNuZXBx73JjFdl8SUpi5nDwH080C0Pl2a9iM1d91g0SWeEJjZWmz4kumuEoA%3D%3D&gaa_ts=69a4af07",
+      "file": "7fdc69ad8709.txt",
+      "title": "Starmer under pressure to back Trump\u2019s airstrikes on Iran",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Steven Swinford, Political Editor",
+      "text_length": 3786,
+      "status": "ok",
+      "num_tokens": 783
+    },
+    {
+      "url": "https://app.al-monitor.com/originals/2026/03/analysis-uks-slow-support-allies-iran-conflict-deepens-doubts-about-military",
+      "file": "9355e74f455f.txt",
+      "title": "Analysis-UK\u2019s slow support for allies in Iran conflict deepens doubts about military effectiveness - AL-Monitor: The Middle East\u02bcs leading independent news source since 2012",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 5249,
+      "status": "ok",
+      "num_tokens": 1110
+    }
+  ],
+  "total_tokens": 17339
+}

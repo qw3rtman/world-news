@@ -1,0 +1,27 @@
+{
+  "hash": "75b26ffa815e",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://www.foxnews.com/politics/dhs-funding-stalemate-thaws-white-house-sends-democrats-serious-counteroffer.print",
+      "title": "DHS funding stalemate thaws as White House sends Democrats 'serious' counteroffer",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 619,
+      "text_length": 3215
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1378925",
+      "spike_id": 2,
+      "market_question": "Will the DHS shutdown end after March 31, 2026?",
+      "event_title": "When will the DHS shutdown end?",
+      "spike_direction": "down",
+      "spike_delta": -0.1765,
+      "spike_timestamp_before": "2026-03-01T23:00:36+00:00",
+      "spike_timestamp_after": "2026-03-02T23:00:36+00:00"
+    }
+  ]
+}

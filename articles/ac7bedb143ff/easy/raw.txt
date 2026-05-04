@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Who is the chairman of the Joint Chiefs of Staff that provided the initial timeline for the U.S. military operation in Iran in early March 2026?",
+    "a": "General Dan Caine"
+  },
+  {
+    "q": "What is the name of the U.S. military operation in Iran that President Donald Trump approved on February 27, 2026?",
+    "a": "Operation Epic Fury"
+  },
+  {
+    "q": "At what time did the U.S. Central Command receive the final go order from President Donald Trump on February 27, 2026?",
+    "a": "3:38 p.m. ET (2038 GMT)"
+  },
+  {
+    "q": "How many U.S. service members had been killed and how many remained seriously wounded as of the March 2, 2026 briefing by General Dan Caine?",
+    "a": "Four were killed and four were seriously wounded"
+  },
+  {
+    "q": "Which two U.S. military commands were responsible for the first moves to disrupt Iran's capabilities before the attack began?",
+    "a": "U.S. Cyber Command and U.S. Space Command"
+  },
+  {
+    "q": "On February 28, 2026, how many aircraft launched from land and sea to form a synchronized wave against Iran?",
+    "a": "More than 100 aircraft"
+  },
+  {
+    "q": "What specific event conducted by the Israel Defense Forces, aided by the U.S. intelligence community, served as the trigger for the U.S. daylight strike on February 28, 2026?",
+    "a": "Israel's surprise strike on Iran's supreme leader, Ali Khamenei"
+  },
+  {
+    "q": "What type of missiles did the U.S. Navy fire as the first shots of the operation against Iran?",
+    "a": "Tomahawk missiles"
+  },
+  {
+    "q": "How many targets did the U.S. attack strike in the first 24 hours of Operation Epic Fury?",
+    "a": "More than 1,000 targets"
+  },
+  {
+    "q": "What was the primary focus of the initial phase of the attack on Iran from March 1-2, 2026, according to General Dan Caine?",
+    "a": "Iran's command and control infrastructure, naval forces, ballistic missile sites, and intelligence infrastructure"
+  },
+  {
+    "q": "What strategic advantage did the combined impact of strikes establish for U.S. forces over Iran by March 2, 2026?",
+    "a": "Air superiority"
+  },
+  {
+    "q": "How long did the round-trip sortie flown by American B-2 bombers from the continental United States last during the operation?",
+    "a": "37 hours"
+  },
+  {
+    "q": "Which country separately carried out hundreds of sorties against hundreds of targets during the conflict?",
+    "a": "Israel"
+  },
+  {
+    "q": "What defensive systems are U.S. forces using to execute intercepts of missiles targeting U.S. and partner forces during the operation?",
+    "a": "U.S. Patriot and THAAD batteries, and ballistic missile defense-capable Navy destroyers"
+  },
+  {
+    "q": "What persistent threat remained 57 hours into the U.S. military operation in Iran?",
+    "a": "The threat from one-way attack drones"
+  },
+  {
+    "q": "Who are the two editors credited with editing the reporting on the U.S. military operation in Iran by Doina Chiacu?",
+    "a": "Michelle Nichols and Nick Zieminski"
+  },
+  {
+    "q": "What instruction did President Donald Trump give regarding aborts when approving Operation Epic Fury?",
+    "a": "No aborts"
+  },
+  {
+    "q": "What preparations did U.S. air defense batteries and pilots undertake before the launch of Operation Epic Fury?",
+    "a": "Air defense batteries checked systems to respond to Iranian attacks, and pilots and crews rehearsed strike packages"
+  },
+  {
+    "q": "How many carrier strike groups began to move toward launching points during the final preparations for the attack?",
+    "a": "Two carrier strike groups"
+  },
+  {
+    "q": "What was the time in Iran when more than 100 aircraft launched on February 28, 2026?",
+    "a": "9:45 a.m. Iran time"
+  },
+  {
+    "q": "What type of weapons did ground forces fire during the initial attack on Iran?",
+    "a": "Precision standoff weapons"
+  },
+  {
+    "q": "According to General Dan Caine, what was the intended effect of striking Iran's command and control infrastructure?",
+    "a": "To daze and confuse them"
+  },
+  {
+    "q": "Which U.S. military branch fired precision standoff weapons on the ground during the operation?",
+    "a": "U.S. ground forces"
+  },
+  {
+    "q": "What role did the U.S. intelligence community play in the trigger event involving Israel's strike on Ali Khamenei?",
+    "a": "They enabled the strike"
+  },
+  {
+    "q": "What specific capability did the establishment of air superiority enhance for U.S. forces?",
+    "a": "The protection of U.S. forces and their ability to continue working over Iran"
+  }
+]

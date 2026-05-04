@@ -1,0 +1,65 @@
+{
+  "spike_index": 7,
+  "direction": "up",
+  "price_before": 0.4635,
+  "price_after": 0.641,
+  "delta": 0.1775,
+  "abs_delta": 0.1775,
+  "timestamp_before": "2026-03-10T14:30:41+00:00",
+  "timestamp_after": "2026-03-11T10:30:37+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://thehill.com/homenews/senate/5773743-tillis-noem-dhs-departure/",
+      "file": "85b792dc82c0.txt",
+      "title": "Thom Tillis praises Kristi Noem's ouster: 'I'm glad the president made the decision'",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": null,
+      "text_length": 2381,
+      "status": "ok",
+      "num_tokens": 497
+    },
+    {
+      "url": "https://theverge.com/policy/891686/dhs-government-shutdown-ice-cbp-tsa-airports",
+      "file": "9357a1e3e443.txt",
+      "title": "The government shutdown is hitting airports \u2014 but not ICE | The Verge",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "Gaby Del Valle",
+      "text_length": 7669,
+      "status": "ok",
+      "num_tokens": 1495
+    },
+    {
+      "url": "https://www.nbcnews.com/meet-the-press/video/trump-s-new-provisions-to-the-save-america-act-undercuts-election-message-258993221752",
+      "file": "4fe9a808a8a6.txt",
+      "title": "Trump\u2019s new provisions to the SAVE America Act 'undercuts\u2019 election message",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "text_length": 284,
+      "status": "ok",
+      "num_tokens": 53
+    },
+    {
+      "url": "https://www.usatoday.com/story/news/politics/2026/03/09/save-act-department-of-homeland-security-funding-trump/89070629007/",
+      "file": "07edba2489f9.txt",
+      "title": "Trump's SAVE Act threat won't apply to DHS funding: White House",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "Zachary Schermele \n,\u00a0\n Swapna Venugopal Ramaswamy",
+      "text_length": 3098,
+      "status": "ok",
+      "num_tokens": 618
+    },
+    {
+      "url": "https://thehill.com/homenews/house/5776058-trump-republicans-save-america-act-midterms/",
+      "file": "2a4bfc1d8147.txt",
+      "title": "Donald Trump tells House Republicans: SAVE America Act will \u2018guarantee the midterms\u2019",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "text_length": 3461,
+      "status": "ok",
+      "num_tokens": 740
+    }
+  ],
+  "total_tokens": 3403
+}

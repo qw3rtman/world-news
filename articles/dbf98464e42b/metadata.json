@@ -1,0 +1,37 @@
+{
+  "hash": "dbf98464e42b",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnn.com/2026/03/01/world/video/who-was-iran-supreme-leader-ali-khamenei-ayatollah-israel-hnk-vrtc-digvid",
+      "title": "Who was Iran’s supreme leader Ali Khamenei? | CNN",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Bryan Dent Wood",
+      "num_tokens": 54,
+      "text_length": 255
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "916732",
+      "spike_id": 4,
+      "market_question": "Khamenei out as Supreme Leader of Iran by March 31?",
+      "event_title": "Khamenei out as Supreme Leader of Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.7625000000000001,
+      "spike_timestamp_before": "2026-02-28T03:00:32+00:00",
+      "spike_timestamp_after": "2026-03-01T02:00:33+00:00"
+    },
+    {
+      "market_id": "916732",
+      "spike_id": 5,
+      "market_question": "Khamenei out as Supreme Leader of Iran by March 31?",
+      "event_title": "Khamenei out as Supreme Leader of Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.5535000000000001,
+      "spike_timestamp_before": "2026-02-28T09:30:33+00:00",
+      "spike_timestamp_after": "2026-03-01T07:30:36+00:00"
+    }
+  ]
+}

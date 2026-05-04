@@ -1,0 +1,37 @@
+{
+  "hash": "0ab72a311dac",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.barrons.com/articles/nebius-stock-charts-ai-nvidia-investment-0ca891bf?mod=mw_quote_news_topstories",
+      "title": "Nebius Stock Charts Show Strong Momentum. Nvidia’s Backing Will Help. - Barron's",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": "Doug Busch",
+      "num_tokens": 50,
+      "text_length": 264
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694936",
+      "spike_id": 3,
+      "market_question": "Will Nebius Group be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.15999999999999998,
+      "spike_timestamp_before": "2026-03-11T20:30:27+00:00",
+      "spike_timestamp_after": "2026-03-12T20:30:25+00:00"
+    },
+    {
+      "market_id": "694936",
+      "spike_id": 4,
+      "market_question": "Will Nebius Group be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.16,
+      "spike_timestamp_before": "2026-03-13T14:00:26+00:00",
+      "spike_timestamp_after": "2026-03-14T14:00:26+00:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "hash": "340d363823c0",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://mag.newsweek.com/us-strikes-on-iran-imminent-key-signs-11592976",
+      "title": "US strikes on Iran imminent: key signs  - Newsweek",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1217,
+      "text_length": 6197
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1385895",
+      "spike_id": 2,
+      "market_question": "Will the US next strike Iran during the week of March 1-7, 2026 (ET)?",
+      "event_title": "When will the US next strike Iran? (Week)",
+      "spike_direction": "up",
+      "spike_delta": 0.195,
+      "spike_timestamp_before": "2026-02-27T11:30:36+00:00",
+      "spike_timestamp_after": "2026-02-27T23:30:38+00:00"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "hash": "97b67af5c108",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.smh.com.au/business/companies/viking-eyes-us-defence-tungsten-gap-after-due-diligence-win-20260220-p5o44r.html",
+      "title": "Viking eyes US defence tungsten gap after due diligence win",
+      "published_date": "2026-02-20T00:00:00.000Z",
+      "author": "Doug Bright",
+      "num_tokens": 913,
+      "text_length": 4700
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694938",
+      "spike_id": 1,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.17500000000000004,
+      "spike_timestamp_before": "2026-02-20T11:00:26+00:00",
+      "spike_timestamp_after": "2026-02-20T12:00:36+00:00"
+    },
+    {
+      "market_id": "694938",
+      "spike_id": 2,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.21000000000000008,
+      "spike_timestamp_before": "2026-02-20T11:00:26+00:00",
+      "spike_timestamp_after": "2026-02-20T16:30:33+00:00"
+    },
+    {
+      "market_id": "694938",
+      "spike_id": 4,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.15499999999999997,
+      "spike_timestamp_before": "2026-02-21T21:00:38+00:00",
+      "spike_timestamp_after": "2026-02-22T01:30:30+00:00"
+    }
+  ]
+}

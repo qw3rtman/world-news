@@ -1,0 +1,27 @@
+{
+  "hash": "147c619c632e",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://blogs.timesofisrael.com/reforged-netanyahus-political-resurrection/",
+      "title": "The Blogs: Reforged: Netanyahu’s Political Resurrection | Jonathan Javor | The Times of Israel",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "Jonathan Javor",
+      "num_tokens": 658,
+      "text_length": 3399
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1484987",
+      "spike_id": 4,
+      "market_question": "Netanyahu out by June 30?",
+      "event_title": "Netanyahu out by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.265,
+      "spike_timestamp_before": "2026-03-06T20:30:32+00:00",
+      "spike_timestamp_after": "2026-03-07T20:00:32+00:00"
+    }
+  ]
+}

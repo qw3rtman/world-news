@@ -1,0 +1,47 @@
+{
+  "hash": "ee7d4dab03bb",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://fortune.com/article/price-of-oil-03-17-2026/",
+      "title": "Current price of oil as of March 17, 2026 | Fortune",
+      "published_date": "2026-03-17T00:00:00.000Z",
+      "author": "Joseph Hostetler",
+      "num_tokens": 65,
+      "text_length": 240
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1467765",
+      "spike_id": 30,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $110 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.20349999999999996,
+      "spike_timestamp_before": "2026-03-16T17:00:29+00:00",
+      "spike_timestamp_after": "2026-03-17T15:00:37+00:00"
+    },
+    {
+      "market_id": "1467766",
+      "spike_id": 24,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $100 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.28,
+      "spike_timestamp_before": "2026-03-17T06:30:28+00:00",
+      "spike_timestamp_after": "2026-03-18T05:00:31+00:00"
+    },
+    {
+      "market_id": "1538079",
+      "spike_id": 9,
+      "market_question": "Will Crude Oil (CL) hit (LOW) $80 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.15,
+      "spike_timestamp_before": "2026-03-16T14:00:23+00:00",
+      "spike_timestamp_after": "2026-03-17T04:00:29+00:00"
+    }
+  ]
+}

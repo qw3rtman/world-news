@@ -1,0 +1,47 @@
+{
+  "hash": "c5a7d4816a17",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/global-oil-hits-105-per-barrel-could-uae-petrol-prices-jump-to-dh3-80dh4-per-litre-in-april/articleshow/129603625.cms",
+      "title": "Uae Fuel Prices: Global oil hits $105 per barrel: Could UAE petrol prices jump to Dh3.80–Dh4 per litre in April? | World News - The Times of India",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "TOI World Desk  / TIMESOFINDIA.COM /  Updated: Mar 16, 2026, 16:43 IST",
+      "num_tokens": 1014,
+      "text_length": 5399
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1515775",
+      "spike_id": 21,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $105 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.16449999999999998,
+      "spike_timestamp_before": "2026-03-16T03:00:44+00:00",
+      "spike_timestamp_after": "2026-03-16T14:00:39+00:00"
+    },
+    {
+      "market_id": "1515775",
+      "spike_id": 22,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $105 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.236,
+      "spike_timestamp_before": "2026-03-16T03:00:44+00:00",
+      "spike_timestamp_after": "2026-03-16T18:30:35+00:00"
+    },
+    {
+      "market_id": "1515775",
+      "spike_id": 27,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $105 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.27949999999999997,
+      "spike_timestamp_before": "2026-03-18T10:30:34+00:00",
+      "spike_timestamp_after": "2026-03-19T01:30:37+00:00"
+    }
+  ]
+}

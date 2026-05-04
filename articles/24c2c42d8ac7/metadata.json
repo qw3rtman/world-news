@@ -1,0 +1,27 @@
+{
+  "hash": "24c2c42d8ac7",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://fortune.com/article/current-price-of-gold-02-23-2026/",
+      "title": "Current price of gold: February 23, 2026 | Fortune",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "Danny Bakst",
+      "num_tokens": 45,
+      "text_length": 161
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1273328",
+      "spike_id": 1,
+      "market_question": "Will Gold (GC) hit (HIGH) $5,500 by end of February?",
+      "event_title": "What will Gold (GC) hit__ by end of February?",
+      "spike_direction": "up",
+      "spike_delta": 0.15650000000000003,
+      "spike_timestamp_before": "2026-02-23T09:30:28+00:00",
+      "spike_timestamp_after": "2026-02-23T23:30:28+00:00"
+    }
+  ]
+}

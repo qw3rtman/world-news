@@ -1,0 +1,102 @@
+[
+  {
+    "q": "According to AAA data reported in March 2026, what was the average U.S. gasoline price per gallon, and how did it compare to the price one month prior?",
+    "a": "The average price was $3.84 per gallon, up from $2.92 per gallon a month earlier."
+  },
+  {
+    "q": "What specific date did the United States and Israel attack Iran, an event that preceded the surge in Brent crude oil prices to $111.45 per barrel?",
+    "a": "The attack occurred on February 28, 2026."
+  },
+  {
+    "q": "Which three Middle Eastern countries did Iran threaten to attack oil and gas infrastructure in during March 2026?",
+    "a": "Iran threatened to target infrastructure in Qatar, Saudi Arabia, and the United Arab Emirates."
+  },
+  {
+    "q": "What percentage of the cost of a gallon of gas in the U.S. is accounted for by crude oil, according to the March 2026 report?",
+    "a": "Crude oil accounts for 51% of the cost of a gallon of gas."
+  },
+  {
+    "q": "In which three U.S. states did diesel prices top $6 per gallon in March 2026?",
+    "a": "Diesel prices topped $6 per gallon in California, Hawaii, and Washington."
+  },
+  {
+    "q": "What specific legal waiver did U.S. President Donald Trump issue on Wednesday, March 18, 2026, to ease energy prices?",
+    "a": "President Trump issued a 60-day waiver of the Jones Act."
+  },
+  {
+    "q": "What is the primary requirement of the Jones Act that President Trump waived in March 2026?",
+    "a": "The Jones Act requires goods shipped between American ports to be carried on ships that are U.S.-built, -flagged, and -crewed."
+  },
+  {
+    "q": "Who is Patrick De Haan, and what was his assessment of President Trump's Jones Act waiver in March 2026?",
+    "a": "Patrick De Haan is a petroleum expert at GasBuddy, who called the waiver a \"band-aid\" solution unlikely to sharply reduce gas prices."
+  },
+  {
+    "q": "What was the high price reached by a barrel of Brent crude oil on Wednesday afternoon in March 2026, according to FactSet?",
+    "a": "Brent crude reached as high as $111.45 per barrel."
+  },
+  {
+    "q": "What was the price of a barrel of benchmark U.S. crude oil in March 2026, as reported by FactSet?",
+    "a": "The price for benchmark U.S. crude rose to $99.24 per barrel."
+  },
+  {
+    "q": "When did diesel prices in the U.S. first top $5 per gallon since 2022, according to the March 2026 report?",
+    "a": "Diesel prices topped $5 per gallon on Tuesday, March 17, 2026."
+  },
+  {
+    "q": "What was the approximate price of a barrel of Brent crude oil just before the U.S. and Israel attacked Iran on February 28, 2026?",
+    "a": "The price was roughly $70 per barrel."
+  },
+  {
+    "q": "Which geographic location's shipping slowdown was cited as a factor in rising gasoline prices in the U.S. in March 2026?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "According to Patrick De Haan of GasBuddy, what factors would be \"baked into the price of oil\" regarding Iran's threats in March 2026?",
+    "a": "Whether Iran follows through on its threats and how the United States might respond."
+  },
+  {
+    "q": "What was the highest gasoline price level in the U.S. prior to the March 2026 surge, according to AAA data?",
+    "a": "The highest level since September 2023."
+  },
+  {
+    "q": "What two main factors contributed to the rapid soaring and swinging of crude oil prices in recent weeks before March 2026?",
+    "a": "Supply chain disruptions and cuts from major producers across the Middle East."
+  },
+  {
+    "q": "What reason did Iran give for threatening to attack oil and gas infrastructure in other Middle Eastern countries in March 2026?",
+    "a": "Iran claimed that some of its own gas fields and related infrastructure were targeted."
+  },
+  {
+    "q": "Which organization provided the data stating that U.S. gasoline prices averaged $3.84 per gallon in March 2026?",
+    "a": "AAA."
+  },
+  {
+    "q": "Which data provider reported that Brent crude oil reached $111.45 per barrel in March 2026?",
+    "a": "FactSet."
+  },
+  {
+    "q": "What specific action did the White House take in March 2026 to attempt to ease energy prices, besides the Jones Act waiver?",
+    "a": "The article does not mention other specific actions beyond the Jones Act waiver; it only notes the White House \"recently taken actions\" generally."
+  },
+  {
+    "q": "In March 2026, which international benchmark for crude oil surged from roughly $70 to over $111 per barrel?",
+    "a": "Brent crude."
+  },
+  {
+    "q": "What was the average U.S. diesel price status in March 2026 relative to the $5 per gallon mark?",
+    "a": "Diesel prices topped $5 per gallon for the first time since 2022, with some states exceeding $6."
+  },
+  {
+    "q": "Which U.S. President issued the Jones Act waiver in March 2026?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "What specific duration was the Jones Act waiver issued by President Trump in March 2026?",
+    "a": "60 days."
+  },
+  {
+    "q": "According to the March 2026 report, which war was continuing to take a toll on energy infrastructure in the Middle East?",
+    "a": "The Iran war."
+  }
+]

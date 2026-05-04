@@ -1,0 +1,27 @@
+{
+  "hash": "02844532c82d",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/select/when-will-interest-rates-drop/",
+      "title": "When Will Interest Rates Go Down Again?",
+      "published_date": "2026-03-18T17:25:40.474Z",
+      "author": "Kelsey Neubauer,Ryley Amond,Dan Avery",
+      "num_tokens": 743,
+      "text_length": 3476
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "906974",
+      "spike_id": 3,
+      "market_question": "Will there be no change in Fed interest rates after the June 2026 meeting?",
+      "event_title": "Fed Decision in June?",
+      "spike_direction": "up",
+      "spike_delta": 0.25,
+      "spike_timestamp_before": "2026-03-18T00:30:32+00:00",
+      "spike_timestamp_after": "2026-03-18T22:00:35+00:00"
+    }
+  ]
+}

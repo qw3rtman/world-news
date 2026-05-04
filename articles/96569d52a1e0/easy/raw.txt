@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the March 9, 2026 article published by AL-Monitor, which Israeli leader's rhetoric regarding regime change in Iran is contrasted with Israel's own doubts about the odds of such a change?",
+    "a": "Israeli Prime Minister Benjamin Netanyahu"
+  },
+  {
+    "q": "According to the AL-Monitor analysis published on March 9, 2026, which three countries does Israel pivot to in 2025 after being battered by Hamas and Hezbollah?",
+    "a": "Iran, Syria, and Yemen"
+  },
+  {
+    "q": "In the March 9, 2026 AL-Monitor coverage, which U.S. President is described as having murky war aims while eyeing a role in Iran’s postwar future?",
+    "a": "U.S. President Donald Trump"
+  },
+  {
+    "q": "Which two entities are reported in the March 9, 2026 AL-Monitor articles to fear that U.S. President Donald Trump may lose interest in the war as Iran weighs a nuclear breakout?",
+    "a": "Israel and the Gulf states"
+  },
+  {
+    "q": "In the March 9, 2026 AL-Monitor analysis titled 'Decapitate Iranian regime or boost his image: What's Netanyahu's endgame?', which Israeli Prime Minister's endgame is being questioned?",
+    "a": "Israeli Prime Minister Benjamin Netanyahu"
+  },
+  {
+    "q": "Which reporter is credited with reporting on Israeli politics and European affairs for the AL-Monitor analysis published on March 9, 2026, titled 'With Hamas, Hezbollah battered, Israel pivots to Iran, Syria, Yemen in 2025'?",
+    "a": "Rina Bassist"
+  },
+  {
+    "q": "In the March 9, 2026 AL-Monitor coverage, which reporter is based in Washington, DC, and reported on diplomacy, regional politics, and human rights for the article regarding U.S. war aims?",
+    "a": "Elizabeth Hagedorn"
+  },
+  {
+    "q": "Which reporter, based in Tel Aviv, reported on national security, Israeli politics, and defense for the AL-Monitor article published on March 9, 2026, titled 'Israel, Gulf fear Trump may lose interest in war as Iran weighs nuclear breakout'?",
+    "a": "Ben Caspit"
+  },
+  {
+    "q": "According to the AL-Monitor article published on March 9, 2026, which militant group and which Lebanese militant organization are described as battered, prompting Israel's pivot to other regional targets in 2025?",
+    "a": "Hamas and Hezbollah"
+  },
+  {
+    "q": "In the March 9, 2026 AL-Monitor analysis, which Iranian action is cited as a factor causing Israel and Gulf states to fear U.S. President Donald Trump may lose interest in the war?",
+    "a": "Iran weighing a nuclear breakout"
+  },
+  {
+    "q": "Which AL-Monitor analysis published on March 9, 2026, suggests that Israeli Prime Minister Benjamin Netanyahu might be seeking to decapitate the Iranian regime or boost his own image?",
+    "a": "The analysis titled 'Decapitate Iranian regime or boost his image: What's Netanyahu's endgame?'"
+  },
+  {
+    "q": "In the March 9, 2026 AL-Monitor coverage, which two countries are identified as the primary targets of Israel's 2025 pivot following the battering by Hamas and Hezbollah?",
+    "a": "Iran and Syria"
+  },
+  {
+    "q": "Which U.S. President is mentioned in the March 9, 2026 AL-Monitor articles as having a murky role in Iran’s postwar future?",
+    "a": "U.S. President Donald Trump"
+  },
+  {
+    "q": "According to the AL-Monitor article published on March 9, 2026, which Yemeni-related conflict or actor is included in Israel's 2025 pivot alongside Iran and Syria?",
+    "a": "Yemen"
+  },
+  {
+    "q": "In the March 9, 2026 AL-Monitor analysis, which Israeli Prime Minister is the subject of speculation regarding whether his endgame is to decapitate the Iranian regime or boost his image?",
+    "a": "Israeli Prime Minister Benjamin Netanyahu"
+  },
+  {
+    "q": "Which reporter for AL-Monitor, reporting from Paris, covered the analysis of Israel's pivot to Iran, Syria, and Yemen in 2025?",
+    "a": "Rina Bassist"
+  },
+  {
+    "q": "In the March 9, 2026 AL-Monitor coverage, which reporter based in Washington, DC, covered the topic of U.S. war aims and Iran’s postwar future?",
+    "a": "Elizabeth Hagedorn"
+  },
+  {
+    "q": "Which reporter, based in Tel Aviv, covered the AL-Monitor article on March 9, 2026, regarding Israel and Gulf fears about U.S. President Donald Trump losing interest in the war?",
+    "a": "Ben Caspit"
+  },
+  {
+    "q": "According to the AL-Monitor analysis published on March 9, 2026, which two entities are feared to potentially lose interest in the war against Iran due to Iran's nuclear breakout considerations?",
+    "a": "Israel and the Gulf states"
+  },
+  {
+    "q": "In the March 9, 2026 AL-Monitor articles, which Iranian regime action is linked to the potential loss of U.S. interest in the war by President Donald Trump?",
+    "a": "Iran weighing a nuclear breakout"
+  },
+  {
+    "q": "Which AL-Monitor analysis published on March 9, 2026, questions whether Israeli Prime Minister Benjamin Netanyahu's endgame is to decapitate the Iranian regime or boost his image?",
+    "a": "The analysis titled 'Decapitate Iranian regime or boost his image: What's Netanyahu's endgame?'"
+  },
+  {
+    "q": "In the March 9, 2026 AL-Monitor coverage, which three regional actors are listed as the focus of Israel's 2025 pivot after being battered by Hamas and Hezbollah?",
+    "a": "Iran, Syria, and Yemen"
+  },
+  {
+    "q": "Which U.S. President is described in the March 9, 2026 AL-Monitor articles as eyeing a role in Iran’s postwar future with murky war aims?",
+    "a": "U.S. President Donald Trump"
+  },
+  {
+    "q": "According to the AL-Monitor article published on March 9, 2026, which Israeli Prime Minister's rhetoric regarding Iran regime change is doubted by Israel despite his public statements?",
+    "a": "Israeli Prime Minister Benjamin Netanyahu"
+  },
+  {
+    "q": "In the March 9, 2026 AL-Monitor analysis, which reporter based in Tel Aviv covered the topic of Israel and Gulf fears regarding U.S. President Donald Trump's potential loss of interest in the war?",
+    "a": "Ben Caspit"
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "spike_index": 1,
+  "direction": "up",
+  "price_before": 0.685,
+  "price_after": 0.9965,
+  "delta": 0.3115,
+  "abs_delta": 0.3115,
+  "timestamp_before": "2026-02-27T07:30:39+00:00",
+  "timestamp_after": "2026-02-28T07:30:34+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.pbs.org/newshour/world/live-updates-u-s-and-israel-attack-iran",
+      "file": "53fcf5707732.txt",
+      "title": "Live Updates: U.S. and Israel attack Iran | PBS News",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 51748,
+      "status": "ok",
+      "num_tokens": 10338
+    },
+    {
+      "url": "https://www.nbcnews.com/world/iran/us-israel-attacks-iran-protests-nuclear-talks-rcna253784",
+      "file": "bf8079ad4c4c.txt",
+      "title": "U.S. and Israel attack Iran as Trump urges Iranians to 'take over' the government",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 11764,
+      "status": "ok",
+      "num_tokens": 2323
+    },
+    {
+      "url": "http://go.foreignpolicy.com/2026/02/28/us-israel-strike-iran-trump-nuclear-program-missiles/?tpcc=recirc_right_rail051524",
+      "file": "d3f77fb4a514.txt",
+      "title": "U.S., Israel Begin 'Major Combat Operations' in Iran as Trump Calls for Regime Change",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Jennifer Williams, Rishi Iyengar, John Haltiwanger",
+      "text_length": 6209,
+      "status": "ok",
+      "num_tokens": 1316
+    },
+    {
+      "url": "https://www.usatoday.com/story/news/politics/2026/02/28/us-strikes-iran-trump-gamble-wider-war/88916186007/",
+      "file": "9738b32fa230.txt",
+      "title": "US strikes Iran: Trump rolls the dice as fears of wider war surge",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Susan Page",
+      "text_length": 5868,
+      "status": "ok",
+      "num_tokens": 1213
+    },
+    {
+      "url": "https://building.theatlantic.com/iran-under-time-compression-assuming-netanyahus-wants-are-subordinate-to-trump-putin-s-8b4ee5d41365",
+      "file": "6194c8ca5bf6.txt",
+      "title": "Iran Under Time Compression, Assuming Netanyahu\u2019s Wants Are Subordinate to Trump-Putin\u2019s | by Johnrraymondesq | Feb, 2026 | Medium",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": "Johnrraymondesq",
+      "text_length": 10516,
+      "status": "ok",
+      "num_tokens": 2055
+    }
+  ],
+  "total_tokens": 17245
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the deal announced on March 6, 2026, by the French pharmaceutical company Servier, what is the per-share cash price offered for Day One Biopharmaceuticals?",
+    "a": "$21.50 per share"
+  },
+  {
+    "q": "What percentage premium did the French pharmaceutical company Servier offer over the closing price of Day One Biopharmaceuticals on Thursday, March 5, 2026, in its acquisition announcement?",
+    "a": "Roughly 68%"
+  },
+  {
+    "q": "Which U.S. regulatory agency approved the drug Ojemda, developed by Day One Biopharmaceuticals, for the treatment of pediatric low-grade glioma in 2024?",
+    "a": "The U.S. Food and Drug Administration (FDA)"
+  },
+  {
+    "q": "What is the total approximate value of the acquisition deal announced on March 6, 2026, between the privately held French pharmaceutical company Servier and Day One Biopharmaceuticals?",
+    "a": "Roughly $2.5 billion"
+  },
+  {
+    "q": "In the acquisition announced by Servier on March 6, 2026, what specific type of cancer is the drug Ojemda, the centerpiece of the deal, approved to treat?",
+    "a": "Pediatric low-grade glioma"
+  },
+  {
+    "q": "Where is the headquarters of Day One Biopharmaceuticals, the biotech company acquired by Servier in the March 2026 deal?",
+    "a": "The Bay Area"
+  },
+  {
+    "q": "What is the primary strategic reason Servier gave for acquiring Day One Biopharmaceuticals in March 2026, specifically regarding its research portfolio?",
+    "a": "To expand its pipeline of experimental medicines for rare cancers"
+  },
+  {
+    "q": "On what specific date did the French pharmaceutical company Servier announce its agreement to acquire Day One Biopharmaceuticals?",
+    "a": "Friday, March 6, 2026"
+  },
+  {
+    "q": "What is the corporate ownership status of the French pharmaceutical company Servier, as described in its March 6, 2026 acquisition announcement?",
+    "a": "Privately held"
+  },
+  {
+    "q": "What form of payment is Servier using to acquire Day One Biopharmaceuticals in the March 2026 deal?",
+    "a": "Cash"
+  },
+  {
+    "q": "What is the name of the drug developed by Day One Biopharmaceuticals that serves as the centerpiece of the acquisition by Servier?",
+    "a": "Ojemda"
+  },
+  {
+    "q": "In the context of the March 2026 Servier acquisition, how is pediatric low-grade glioma characterized in terms of prevalence among childhood brain cancers?",
+    "a": "It is the most common form of childhood brain cancer"
+  },
+  {
+    "q": "Which company is the maker of the drug Ojemda, which was acquired by Servier in the March 2026 deal?",
+    "a": "Day One Biopharmaceuticals"
+  },
+  {
+    "q": "What was the closing price reference point used to calculate the roughly 68% premium offered by Servier for Day One Biopharmaceuticals?",
+    "a": "The closing price on Thursday, March 5, 2026"
+  },
+  {
+    "q": "What specific medical condition did the U.S. approve Ojemda to treat in 2024, according to the details of the Servier acquisition?",
+    "a": "Pediatric low-grade glioma"
+  },
+  {
+    "q": "Which French pharmaceutical company announced the acquisition of Day One Biopharmaceuticals for approximately $2.5 billion in March 2026?",
+    "a": "Servier"
+  },
+  {
+    "q": "What type of tumors does the drug Ojemda, central to the Servier-Day One deal, target?",
+    "a": "Childhood brain tumors"
+  },
+  {
+    "q": "In the March 6, 2026 announcement, what was the specific cash amount per share Servier offered for Day One Biopharmaceuticals?",
+    "a": "$21.50"
+  },
+  {
+    "q": "What is the geographic location of the biotech company Day One Biopharmaceuticals, which was acquired by Servier in 2026?",
+    "a": "The Bay Area"
+  },
+  {
+    "q": "What category of medicines does Servier aim to expand through its acquisition of Day One Biopharmaceuticals, as stated in the March 2026 announcement?",
+    "a": "Experimental medicines for rare cancers"
+  },
+  {
+    "q": "Which organization granted U.S. approval for the drug Ojemda in 2024, leading to its inclusion in the Servier acquisition?",
+    "a": "The U.S. Food and Drug Administration (FDA)"
+  },
+  {
+    "q": "What is the estimated total monetary value of the transaction between Servier and Day One Biopharmaceuticals announced in March 2026?",
+    "a": "Roughly $2.5 billion"
+  },
+  {
+    "q": "What is the full name of the biotech company that makes the drug Ojemda and was acquired by Servier in the March 2026 deal?",
+    "a": "Day One Biopharmaceuticals"
+  },
+  {
+    "q": "On which day of the week did Servier announce its acquisition of Day One Biopharmaceuticals in March 2026?",
+    "a": "Friday"
+  },
+  {
+    "q": "What specific premium percentage did Servier pay over the previous day's closing price for Day One Biopharmaceuticals shares in the March 2026 acquisition?",
+    "a": "Roughly 68%"
+  }
+]

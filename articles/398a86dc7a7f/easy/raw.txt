@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the article titled 'Who will win the race to become Paris mayor?' published by France 24 on March 17, 2026, what specific information is provided regarding the candidates or the outcome of the Paris mayoral race?",
+    "a": "The article provides no specific information regarding candidates or outcomes; it consists only of metadata, a timestamp, and navigation links."
+  },
+  {
+    "q": "What is the publication date of the France 24 article titled 'Who will win the race to become Paris mayor?'?",
+    "a": "March 17, 2026."
+  },
+  {
+    "q": "At what time was the article 'Who will win the race to become Paris mayor?' issued by France 24 on March 17, 2026?",
+    "a": "17:10."
+  },
+  {
+    "q": "Does the text of the France 24 article titled 'Who will win the race to become Paris mayor?' published on March 17, 2026, contain any names of political candidates for the position of Paris mayor?",
+    "a": "No, the article text contains no names of political candidates."
+  },
+  {
+    "q": "What is the duration of the video or segment associated with the France 24 article 'Who will win the race to become Paris mayor?' published on March 17, 2026?",
+    "a": "4 minutes and 42 seconds."
+  },
+  {
+    "q": "Are there any vote totals or numerical figures regarding the Paris mayoral race included in the France 24 article published on March 17, 2026?",
+    "a": "No, there are no vote totals or numerical figures regarding the race in the article text."
+  },
+  {
+    "q": "Does the France 24 article titled 'Who will win the race to become Paris mayor?' published on March 17, 2026, mention the name of the current mayor of Paris?",
+    "a": "No, the article does not mention the name of the current mayor of Paris."
+  },
+  {
+    "q": "What is the only substantive content found in the France 24 article titled 'Who will win the race to become Paris mayor?' published on March 17, 2026?",
+    "a": "The article contains only the title, publication metadata, and navigation links ('Read more', 'Read less'), with no body text."
+  },
+  {
+    "q": "In the France 24 article from March 17, 2026, titled 'Who will win the race to become Paris mayor?', is there any mention of the political party affiliations of potential mayoral candidates?",
+    "a": "No, there is no mention of political party affiliations or any candidates in the article."
+  },
+  {
+    "q": "What is the URL or web address associated with the France 24 article 'Who will win the race to become Paris mayor?' published on March 17, 2026?",
+    "a": "The article text does not provide a URL or web address."
+  },
+  {
+    "q": "Does the France 24 article published on March 17, 2026, titled 'Who will win the race to become Paris mayor?' include any quotes from political analysts?",
+    "a": "No, the article includes no quotes from political analysts or any other individuals."
+  },
+  {
+    "q": "What is the specific location of the mayoral race discussed in the France 24 article titled 'Who will win the race to become Paris mayor?' published on March 17, 2026?",
+    "a": "The race is for the mayor of Paris, France."
+  },
+  {
+    "q": "Is there any information in the France 24 article from March 17, 2026, about the date of the election for the Paris mayor?",
+    "a": "No, the article does not state the date of the election."
+  },
+  {
+    "q": "What is the name of the news organization that published the article 'Who will win the race to become Paris mayor?' on March 17, 2026?",
+    "a": "France 24."
+  },
+  {
+    "q": "Does the France 24 article titled 'Who will win the race to become Paris mayor?' published on March 17, 2026, discuss the incumbent mayor's performance?",
+    "a": "No, the article does not discuss the incumbent mayor's performance."
+  },
+  {
+    "q": "Are there any monetary amounts or campaign finance figures mentioned in the France 24 article 'Who will win the race to become Paris mayor?' from March 17, 2026?",
+    "a": "No, there are no monetary amounts or campaign finance figures mentioned."
+  },
+  {
+    "q": "What is the sequence of events described in the France 24 article 'Who will win the race to become Paris mayor?' published on March 17, 2026?",
+    "a": "No sequence of events is described; the article contains no narrative content."
+  },
+  {
+    "q": "Does the France 24 article from March 17, 2026, titled 'Who will win the race to become Paris mayor?' identify the winner of the race?",
+    "a": "No, the article does not identify a winner."
+  },
+  {
+    "q": "What is the author of the France 24 article 'Who will win the race to become Paris mayor?' published on March 17, 2026?",
+    "a": "The article text does not list an author."
+  },
+  {
+    "q": "Is there any mention of international reactions to the Paris mayoral race in the France 24 article published on March 17, 2026?",
+    "a": "No, there is no mention of international reactions."
+  },
+  {
+    "q": "What is the 'Share' functionality associated with in the France 24 article 'Who will win the race to become Paris mayor?' published on March 17, 2026?",
+    "a": "It is a navigation link or button, indicating no textual content follows."
+  },
+  {
+    "q": "Does the France 24 article titled 'Who will win the race to become Paris mayor?' from March 17, 2026, provide a preview or summary of the candidates' platforms?",
+    "a": "No, it provides no preview or summary of candidates' platforms."
+  },
+  {
+    "q": "What is the significance of the timestamp '04:42' in the France 24 article 'Who will win the race to become Paris mayor?' published on March 17, 2026?",
+    "a": "It likely indicates the duration of a video or audio segment associated with the article."
+  },
+  {
+    "q": "Are there any references to previous Paris mayoral elections in the France 24 article published on March 17, 2026?",
+    "a": "No, there are no references to previous elections."
+  },
+  {
+    "q": "What is the final outcome or conclusion presented in the France 24 article 'Who will win the race to become Paris mayor?' published on March 17, 2026?",
+    "a": "There is no outcome or conclusion presented as the article contains no body text."
+  }
+]

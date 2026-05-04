@@ -1,0 +1,27 @@
+{
+  "hash": "30ed164ada26",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://premium.edition.cnn.com/2026/03/08/politics/talarico-texas-paxton-cornyn-beto-2026-senate-race",
+      "title": "Breaking News, Latest News and Videos | CNN",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": "Monica Sarkar",
+      "num_tokens": 53,
+      "text_length": 211
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "562187",
+      "spike_id": 3,
+      "market_question": "Will John Cornyn win the 2026 Texas Republican Primary?",
+      "event_title": "Texas Republican Senate Primary Winner",
+      "spike_direction": "down",
+      "spike_delta": -0.18000000000000005,
+      "spike_timestamp_before": "2026-03-09T14:00:25+00:00",
+      "spike_timestamp_after": "2026-03-10T03:00:33+00:00"
+    }
+  ]
+}

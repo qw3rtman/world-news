@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the March 1, 2026 interview on NPR's ALL THINGS CONSIDERED, what duration did Seth Jones of the Center for Strategic and International Studies estimate the U.S. could sustain extended strikes against Iran before facing significant munitions depletion?",
+    "a": "About a week."
+  },
+  {
+    "q": "According to the 2023 report authored by Seth Jones, which specific long-range munitions required for a potential war in the Taiwan straits were identified as key stockpile concerns for the U.S. military?",
+    "a": "Long-range, anti-ship missiles and JASSMs (Joint Air-to-Surface Standoff Missiles)."
+  },
+  {
+    "q": "During the 2025 U.S. military operations against Iran, what proportion of the total U.S. stockpile of THAAD (Terminal High Altitude Area Defense) missiles was fired in just a few days of operations?",
+    "a": "A quarter of all U.S. THAAD missiles."
+  },
+  {
+    "q": "In the March 2026 discussion, Seth Jones noted that while the U.S. has a large stockpile of GBU-31 smart bombs, which specific massive ordinance penetrator (bunker buster) has a much lower stockpile and is launched from B-2 stealth bombers?",
+    "a": "The GBU-52."
+  },
+  {
+    "q": "Seth Jones explained that the U.S. defense budget of $2 trillion in fiscal year 2025 supports many costs beyond weapons procurement; what major welfare system for servicemen and women consumes a significant portion of that budget?",
+    "a": "Tricare."
+  },
+  {
+    "q": "By mid-2025, what was the estimated number of ballistic missiles possessed by Iran, according to Seth Jones's assessment during the March 2026 interview?",
+    "a": "About 3,000 ballistic missiles."
+  },
+  {
+    "q": "In addition to ballistic missiles, what type of one-way attack drone, which Russia has used in Ukraine, did Seth Jones identify as part of Iran's arsenal by mid-2025?",
+    "a": "Shaheds."
+  },
+  {
+    "q": "According to Seth Jones in March 2026, what is the only way Iran could currently reach the continental United States with an attack?",
+    "a": "Through a terrorist attack by the Islamic Revolutionary Guards' Quds Force or proxy forces like Hezbollah."
+  },
+  {
+    "q": "Seth Jones referenced a specific historical threat against U.S. leadership during the 2024 election campaign; which U.S. President was the target of this threat?",
+    "a": "President Donald Trump."
+  },
+  {
+    "q": "In the March 2026 interview, Seth Jones warned that depleting U.S. munitions in the Iran war reduces deterrence capabilities for which three specific geopolitical threats or regions?",
+    "a": "North Korea, Russia, and China."
+  },
+  {
+    "q": "Which specific large conventional bomb, often referred to by its acronym, did Seth Jones list as an example of munitions that the U.S. uses in the Iran conflict, thereby reducing stockpiles available for other conflicts?",
+    "a": "MOABs (Massive Ordnance Air Blast bombs)."
+  },
+  {
+    "q": "Seth Jones stated that neither the United States nor Israel has sufficient offensive or defensive munitions for a war lasting weeks into months; which country did he explicitly name alongside the U.S. as lacking sufficient stockpiles?",
+    "a": "Israel."
+  },
+  {
+    "q": "During the 2025 operations against Iran, what percentage of the U.S. THAAD missile stockpile was expended in a few days, illustrating the rapid depletion of specific air defense systems?",
+    "a": "25 percent (a quarter)."
+  },
+  {
+    "q": "Seth Jones noted that U.S. and Israeli planners targeted Iran's missile stockpiles as a major element in the first part of the campaign; what specific type of missile launcher did Iran possess approximately 400 of by mid-2025?",
+    "a": "Missile launchers."
+  },
+  {
+    "q": "In the context of the March 2026 interview, what specific paramilitary arm of the Islamic Revolutionary Guard did Seth Jones identify as the group capable of conducting asymmetric attacks inside the U.S. homeland?",
+    "a": "The Quds Force."
+  },
+  {
+    "q": "Seth Jones compared the current U.S. procurement budget to that of a previous administration to explain low munitions stockpiles; which U.S. President's administration did he cite as having a significantly higher procurement budget relative to the total defense spend?",
+    "a": "The Reagan administration."
+  },
+  {
+    "q": "Which specific air defense systems, besides THAAD, did Seth Jones identify as areas where the U.S. would likely feel pain on munition stockpiles sooner rather than later during the Iran conflict?",
+    "a": "Patriots."
+  },
+  {
+    "q": "Seth Jones mentioned that Iran has responded to U.S. and Israeli strikes by attacking military targets throughout which geographic region?",
+    "a": "The Middle East."
+  },
+  {
+    "q": "According to Seth Jones, what specific type of stealth bomber is the source for the GBU-52 bunker busters, which have a much lower stockpile than other munitions like the GBU-31?",
+    "a": "B-2 stealth bombers."
+  },
+  {
+    "q": "In the March 2026 interview, Seth Jones referenced a past terrorist plot in Washington, D.C., that occurred approximately a decade prior; where specifically in Washington, D.C., did this plot take place?",
+    "a": "At one of the big D.C. restaurants."
+  },
+  {
+    "q": "Seth Jones stated that the U.S. military fired a quarter of its THAAD missiles in 2025 against Iran; what specific type of missile system does THAAD stand for?",
+    "a": "Terminal High Altitude Area Defense."
+  },
+  {
+    "q": "Which organization's president, Seth Jones, is, and which published a 2023 report warning about U.S. munitions depletion in major power wars?",
+    "a": "The Center for Strategic and International Studies."
+  },
+  {
+    "q": "Seth Jones noted that Iran possesses a range of its own offensive missiles and drones; which specific country did he identify as having these stockpiles alongside the United States?",
+    "a": "Israel."
+  },
+  {
+    "q": "In the March 2026 interview, Seth Jones identified Tomahawks as an example of munitions used in the Iran war that contribute to stockpile depletion; what type of missile is a Tomahawk?",
+    "a": "A cruise missile (implied by context of long-range strike, but specifically named as Tomahawk)."
+  },
+  {
+    "q": "Seth Jones mentioned that the Iranian regime's leader had been killed as of the March 2026 interview; which country's regime leader was this?",
+    "a": "Iran."
+  }
+]

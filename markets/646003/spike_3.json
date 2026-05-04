@@ -1,0 +1,65 @@
+{
+  "spike_index": 3,
+  "direction": "up",
+  "price_before": 0.685,
+  "price_after": 0.955,
+  "delta": 0.2699999999999999,
+  "abs_delta": 0.2699999999999999,
+  "timestamp_before": "2026-03-15T20:00:38+00:00",
+  "timestamp_after": "2026-03-16T08:00:32+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-15/socialists-lead-paris-election-ahead-of-runoff-with-center-right",
+      "file": "1b9c5022c099.txt",
+      "title": "Socialists Lead Paris Mayoral Race, Gregoire Tops First Round Vote - Bloomberg",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "Ania Nussbaum",
+      "text_length": 297,
+      "status": "ok",
+      "num_tokens": 61
+    },
+    {
+      "url": "https://france24.com/en/france/20260315-left-wing-candidate-emmanuel-gregoire-tops-first-round-paris-mayoral-race-rachida-dati",
+      "file": "633d14efceb8.txt",
+      "title": "Socialist leads Paris mayoral race but leftist rival threatens to split vote - France 24",
+      "published_date": "2026-03-15T00:00:00.000Z",
+      "author": null,
+      "text_length": 3662,
+      "status": "ok",
+      "num_tokens": 810
+    },
+    {
+      "url": "https://www.france24.com/en/live-news/20260316-race-for-paris-mayor-on-knife-s-edge-after-first-round",
+      "file": "ebd30e88020b.txt",
+      "title": "Race for Paris mayor on knife's edge after first round",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": null,
+      "text_length": 4125,
+      "status": "ok",
+      "num_tokens": 913
+    },
+    {
+      "url": "http://france24.com/en/paris-looks-at-five-way-race-for-new-mayor",
+      "file": "b070b40e30f0.txt",
+      "title": "Paris looks at five-way race for new mayor - France 24",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": null,
+      "text_length": 1647,
+      "status": "ok",
+      "num_tokens": 446
+    },
+    {
+      "url": "http://m.france24.com/en/france/20260315-left-wing-candidate-emmanuel-gregoire-tops-first-round-paris-mayoral-race-rachida-dati",
+      "file": "524072241075.txt",
+      "title": "Socialist leads Paris mayoral race but leftist rival threatens to split vote - France 24",
+      "published_date": "2026-03-15T00:00:00.000Z",
+      "author": null,
+      "text_length": 3986,
+      "status": "ok",
+      "num_tokens": 878
+    }
+  ],
+  "total_tokens": 3108
+}

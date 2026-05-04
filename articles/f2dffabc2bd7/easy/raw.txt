@@ -1,0 +1,106 @@
+[
+  {
+    "q": "On March 17, 2026, by what percentage did Brent crude futures settle higher following renewed Iranian attacks on the United Arab Emirates?",
+    "a": "3.2%"
+  },
+  {
+    "q": "What was the closing price per barrel of U.S. West Texas Intermediate crude on March 17, 2026, after it rose by $2.71?",
+    "a": "$96.21"
+  },
+  {
+    "q": "In the third week of the U.S.-Israeli war with Iran, what percentage of the world's oil and liquefied natural gas trade flows through the Strait of Hormuz?",
+    "a": "About 20%"
+  },
+  {
+    "q": "Which UAE port saw its oil loading at least partly halted after a fire ignited at its export terminal during the third attack in four days on March 17, 2026?",
+    "a": "The port of Fujairah"
+  },
+  {
+    "q": "According to IG market analyst Tony Sycamore, what specific action by an Iranian militia could reignite the entire situation regarding oil supply risks?",
+    "a": "Firing a missile or planting a mine on a passing tanker"
+  },
+  {
+    "q": "By how much did the United Arab Emirates reduce its oil output after the effective closure of the Strait of Hormuz, as reported by sources to Reuters?",
+    "a": "By more than half"
+  },
+  {
+    "q": "Which U.S. president accused Western partners of ingratitude after they rebuffed his call to send warships to escort shipping through the Strait of Hormuz on March 16, 2026?",
+    "a": "Donald Trump"
+  },
+  {
+    "q": "What reason did Germany's defence minister give for refusing to join the U.S.-led effort to escort shipping through the Strait of Hormuz in March 2026?",
+    "a": "He stated that \"this is not our war, we have not started it.\""
+  },
+  {
+    "q": "On March 17, 2026, what condition did French President Emmanuel Macron set for France's participation in operations to unblock the Strait of Hormuz?",
+    "a": "France would only participate in a coalition providing freedom of navigation once hostilities ended"
+  },
+  {
+    "q": "Which White House economic adviser stated that oil tankers were \"starting to dribble through\" the Strait of Hormuz on March 17, 2026?",
+    "a": "Kevin Hassett"
+  },
+  {
+    "q": "By what percentage did Brent crude fall on March 16, 2026, after some vessels sailed through the Strait of Hormuz?",
+    "a": "2.8%"
+  },
+  {
+    "q": "Which investment bank noted in a March 2026 report that traders still expected severe disruption despite some vessels transiting the Strait of Hormuz?",
+    "a": "Cavendish"
+  },
+  {
+    "q": "According to OANDA analyst Kelvin Wong, what is the medium-term resistance price for WTI crude shown by technical analysis in March 2026?",
+    "a": "$124 a barrel"
+  },
+  {
+    "q": "How many million barrels of oil had member countries of the International Energy Agency already agreed to draw from strategic reserves before the head of the agency suggested releasing more in March 2026?",
+    "a": "400 million barrels"
+  },
+  {
+    "q": "What was the price increase in dollars per barrel for Brent crude futures on March 17, 2026?",
+    "a": "$3.21"
+  },
+  {
+    "q": "Which country is identified as the Organization of the Petroleum Exporting Countries' third-largest producer in the context of the March 2026 Strait of Hormuz closure?",
+    "a": "The United Arab Emirates"
+  },
+  {
+    "q": "What location, situated on the Gulf of Oman just outside the Strait of Hormuz, is described as a critical exit point for oil volumes equivalent to roughly 1% of global demand?",
+    "a": "Fujairah"
+  },
+  {
+    "q": "Which two crude benchmarks were reported to have soared to record highs in March 2026, becoming the world's most expensive oil?",
+    "a": "Middle East crude benchmarks"
+  },
+  {
+    "q": "Who were the two Reuters reporters credited with reporting on the oil market developments in London and Bengaluru in March 2026?",
+    "a": "Stephanie Kelly and Anushree Mukherjee"
+  },
+  {
+    "q": "Which editor was credited with editing the Reuters report on oil prices and Iranian attacks published on March 17, 2026?",
+    "a": "David Goodman"
+  },
+  {
+    "q": "What was the percentage increase for U.S. West Texas Intermediate crude on March 17, 2026?",
+    "a": "2.9%"
+  },
+  {
+    "q": "Which organization's third-largest producer reduced output by more than half due to the Strait of Hormuz closure in March 2026?",
+    "a": "The Organization of the Petroleum Exporting Countries"
+  },
+  {
+    "q": "What did White House economic adviser Kevin Hassett say the Trump administration expected regarding the duration of the Iran conflict in March 2026?",
+    "a": "They saw the conflict lasting weeks, not months"
+  },
+  {
+    "q": "Which two editors were credited alongside David Goodman for editing the Reuters report on March 17, 2026?",
+    "a": "David Gaffen and Rod Nickel"
+  },
+  {
+    "q": "What specific disruption to shipping through the Strait of Hormuz was cited as heightening concerns about global supply in the third week of the U.S.-Israeli war with Iran?",
+    "a": "Ongoing disruption to shipping"
+  },
+  {
+    "q": "Which French president declared that France would never take part in operations to unblock the Strait of Hormuz in March 2026?",
+    "a": "Emmanuel Macron"
+  }
+]

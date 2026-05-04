@@ -1,0 +1,27 @@
+{
+  "hash": "47393d86c287",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://www.abcnews.go.com/news/story/paramount-warner-bros-discovery-announce-deal-130576029",
+      "title": "Paramount announces $110B deal to buy Warner Bros. Discovery  - ABC News",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": "ABC News",
+      "num_tokens": 567,
+      "text_length": 2890
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694939",
+      "spike_id": 5,
+      "market_question": "Will Ubisoft be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.16499999999999998,
+      "spike_timestamp_before": "2026-02-27T15:00:21+00:00",
+      "spike_timestamp_after": "2026-02-28T14:30:23+00:00"
+    }
+  ]
+}

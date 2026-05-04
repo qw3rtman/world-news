@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On March 3, 2026, which two Israeli officials jointly authorized the Israel Defense Forces to advance and take control of additional strategic positions in Lebanon?",
+    "a": "Prime Minister Benjamin Netanyahu and Defence Minister Israel Katz."
+  },
+  {
+    "q": "What specific operational goal did Israel Defense Forces Military spokesman Brigadier General Effie Defrin state was being pursued by the Northern Command in Lebanon on March 3, 2026?",
+    "a": "Creating a buffer zone between Israeli residents and threats by taking control of dominating terrain."
+  },
+  {
+    "q": "In response to the Israeli escalation on March 3, 2026, what action did the Lebanese army take regarding its border positions, and how many soldiers were typically stationed at each point?",
+    "a": "The Lebanese army redeployed soldiers to their bases; there were eight to nine soldiers at each point."
+  },
+  {
+    "q": "Which group claimed responsibility for the initial rocket attack on Israel that drew Lebanon into the regional war on March 2, 2026, and what motive did it cite?",
+    "a": "Hezbollah claimed responsibility, stating it wanted to avenge the killing of Iranian supreme leader Ayatollah Ali Khamenei."
+  },
+  {
+    "q": "What immediate domestic policy action did the Lebanese government take on Monday, March 2, 2026, in response to the cross-border conflict?",
+    "a": "The Lebanese government declared an immediate ban on Hezbollah's military activities."
+  },
+  {
+    "q": "By Tuesday, March 3, 2026, how many Hezbollah targets had the Israeli military stated it had struck in south Lebanon, and which elite fighting unit was specifically mentioned as a target?",
+    "a": "More than 160 targets were struck, including members of the Radwan Force."
+  },
+  {
+    "q": "Which high-ranking Hezbollah official did the Israeli military report killing on Tuesday, March 3, 2026?",
+    "a": "Hezbollah's intelligence chief, Hussein Muakalled."
+  },
+  {
+    "q": "What did Israeli military chief Lieutenant General Eyal Zamir declare Israel's determination to be regarding Hezbollah on March 3, 2026?",
+    "a": "Israel was determined to eliminate Hezbollah until it was disarmed."
+  },
+  {
+    "q": "Which Lebanese city, home to a UNESCO World Heritage site, did the Israeli military state it would strike and from which it warned residents to leave on March 3, 2026?",
+    "a": "The city of Tyre."
+  },
+  {
+    "q": "What specific types of infrastructure did the Israeli military say it hit in Beirut on March 3, 2026, in addition to command centres and weapons storage facilities?",
+    "a": "Satellite communication components."
+  },
+  {
+    "q": "In retaliation for Israeli strikes on its strongholds on Tuesday, March 3, 2026, how many Israeli military bases did Hezbollah say it targeted?",
+    "a": "Three Israeli military bases."
+  },
+  {
+    "q": "Which village on the Lebanese border reported a rocket strike on March 3, 2026, resulting in one person being lightly injured by glass shrapnel?",
+    "a": "The village of Yuval."
+  },
+  {
+    "q": "Which first responders agency confirmed the injury of a person in Yuval, Israel, on March 3, 2026, due to a rocket strike?",
+    "a": "Magen David Adom."
+  },
+  {
+    "q": "Although Israel stated it was not planning a full-scale ground invasion on March 3, 2026, what phrase did Defence Minister Israel Katz use to describe the military's stance on halting rocket fire?",
+    "a": "All options are on the table."
+  },
+  {
+    "q": "How did the Israeli military characterize the order to seize additional locations inside Lebanon on March 3, 2026, in contrast to a ground invasion?",
+    "a": "As 'tactical measures'."
+  },
+  {
+    "q": "When did Israeli forces previously enter Lebanon before the March 2026 escalation, and what event initiated the nearly year-long cross-border exchanges at that time?",
+    "a": "In September 2024; the exchanges were initiated by Hezbollah in support of Hamas following the outbreak of the war in Gaza."
+  },
+  {
+    "q": "How many people had Lebanese authorities reported as displaced by ongoing Israeli strikes as of March 3, 2026?",
+    "a": "More than 58,000 people."
+  },
+  {
+    "q": "Under which agreement was Israel supposed to withdraw all forces from Lebanon in November 2024, but kept troops in five border areas?",
+    "a": "A November 2024 ceasefire."
+  },
+  {
+    "q": "What reason did Israel cite for keeping troops in five strategic border areas of Lebanon despite the November 2024 ceasefire?",
+    "a": "Hezbollah's refusal to surrender its own arms."
+  },
+  {
+    "q": "Did the Israeli military plan to evacuate northern communities again during the March 2026 hostilities, and what measures did it cite instead?",
+    "a": "No; it noted it had reinforced troop deployments along the border and strengthened air defences."
+  },
+  {
+    "q": "Which elite fighting unit of Hezbollah was specifically identified by the Israeli military as a target in its strikes on south Lebanon by March 3, 2026?",
+    "a": "The Radwan Force."
+  },
+  {
+    "q": "What did Agence France-Presse report regarding air strikes in Beirut's southern suburbs on Tuesday, March 3, 2026?",
+    "a": "A series of air strikes hit the area without any prior warning."
+  },
+  {
+    "q": "Which Iranian leader's killing did Hezbollah cite as the motivation for its rocket attack on Israel on March 2, 2026?",
+    "a": "Iranian supreme leader Ayatollah Ali Khamenei."
+  },
+  {
+    "q": "What did the Lebanese military source tell AFP regarding the safety of Lebanese troops at border positions on March 3, 2026?",
+    "a": "Troops were redeployed to their bases because of the danger to their safety."
+  },
+  {
+    "q": "Which specific area in Lebanon did an AFP journalist report Israeli forces advanced into on March 3, 2026, raising concerns about a security belt?",
+    "a": "A border area in south Lebanon."
+  }
+]

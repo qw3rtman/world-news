@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2026, U.S. President Donald Trump requested to delay his scheduled trip to China, originally set for March 31-April 2, by approximately how long, and what primary reason did he cite for this postponement?",
+    "a": "Trump requested a delay of 'a month or so' due to the Iran war."
+  },
+  {
+    "q": "During the week of March 16, 2026, U.S. Treasury Secretary Scott Bessent stated that President Donald Trump might delay his visit to Beijing to remain in Washington, D.C., for what specific purpose, explicitly denying that the delay was due to trade disagreements or China's refusal to police the Strait of Hormuz?",
+    "a": "To coordinate the war effort."
+  },
+  {
+    "q": "In early 2026, China imported approximately how many barrels of oil daily, a volume described as the most in the world, yet China did not directly respond to U.S. President Donald Trump's request for assistance in securing the Strait of Hormuz?",
+    "a": "Around 12 million barrels of oil daily."
+  },
+  {
+    "q": "U.S. President Donald Trump called on nations including China to help ships transit the Strait of Hormuz, a waterway through which what fraction of the world's oil transits daily, after Iran threatened to fire on vessels in response to joint U.S.-Israeli attacks?",
+    "a": "One-fifth of the world's oil."
+  },
+  {
+    "q": "White House spokeswoman Karoline Leavitt stated in March 2026 that ensuring the continued success of which named military operation was President Donald Trump's number-one priority as commander-in-chief, potentially causing the delay of his trip to meet Chinese President Xi Jinping?",
+    "a": "Operation Epic Fury."
+  },
+  {
+    "q": "According to U.S. Energy Department data cited in March 2026, most of Iran's oil exports go to which country, even though overall exports from the Middle East have dropped more than 60% since the war started?",
+    "a": "China."
+  },
+  {
+    "q": "In March 2026, U.S. Treasury Secretary Scott Bessent traveled to Paris for talks with Chinese Vice Premier He Lifeng aimed at preparing for a meeting between U.S. President Donald Trump and Chinese President Xi Jinping; what specific agricultural goods did Chinese negotiators show openness to purchasing additional amounts of?",
+    "a": "Poultry, beef, and non-soybean row crops."
+  },
+  {
+    "q": "Chinese Foreign Ministry spokesperson Lin Jian stated in March 2026 that both sides were communicating about President Donald Trump's potential visit to Beijing, emphasizing that head of state diplomacy plays an irreplaceable role in providing strategic guidance to relations between which two nations?",
+    "a": "China and the United States."
+  },
+  {
+    "q": "In March 2026, U.S. President Donald Trump told the Financial Times he might postpone his meeting with Chinese President Xi Jinping if China did not help unblock which strategic waterway, where Iranian crude oil has continued to flow at a near-normal pace despite the ongoing war?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "During talks in Paris in March 2026 between U.S. Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng, the two sides discussed the flow of rare earth minerals largely controlled by which country and new approaches to manage trade and investment between the United States and China?",
+    "a": "China."
+  },
+  {
+    "q": "U.S. President Donald Trump stated in March 2026 that he requested a delay of his trip to China because the Iran war has upended his foreign policy agenda, a move that risks magnifying tensions between Washington and Beijing alongside which other two major issues separating the world's two biggest economies?",
+    "a": "Trade and Taiwan."
+  },
+  {
+    "q": "In March 2026, Reuters reviewed shipping data showing that Iranian crude oil exports through the Strait of Hormuz continued at a near-normal pace, despite Iran responding to joint U.S.-Israeli attacks by threatening to fire on vessels moving through which specific geographic chokepoint?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "White House spokeswoman Karoline Leavitt stated in March 2026 that President Donald Trump looks forward to visiting China, but dates may be moved; which Chinese official was the intended recipient of this visit, originally scheduled for March 31-April 2?",
+    "a": "Chinese President Xi Jinping."
+  },
+  {
+    "q": "U.S. Treasury Secretary Scott Bessent stated in March 2026 that traveling abroad at a time like the ongoing Iran war may not be optimal; which U.S. President did Bessent say wanted to remain in Washington, D.C., to coordinate the war effort?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "In March 2026, the embassy of which country in Washington did not immediately respond to a request for comment regarding U.S. President Donald Trump's request to delay his upcoming trip to meet Chinese President Xi Jinping?",
+    "a": "China."
+  },
+  {
+    "q": "U.S. President Donald Trump has called on numerous nations, including China, to help ships safely transit the Strait of Hormuz, a region through which its own ships continue to transit at near-normal rates despite Iran's threats; what is the name of the U.S. military operation mentioned as the current priority?",
+    "a": "Operation Epic Fury."
+  },
+  {
+    "q": "In March 2026, preparations for the meeting between U.S. President Donald Trump and Chinese President Xi Jinping were ongoing despite the requested delay; which Chinese Vice Premier was in Paris for talks with U.S. Treasury Secretary Scott Bessent to tee up agreements?",
+    "a": "He Lifeng."
+  },
+  {
+    "q": "According to a source cited in March 2026, during talks between U.S. Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng in Paris, the Chinese showed openness to potential additional purchases of U.S. agricultural goods including poultry, beef, and what other category of crops?",
+    "a": "Non-soybean row crops."
+  },
+  {
+    "q": "U.S. President Donald Trump sought to delay his April 2026 trip to China by 'a month or so' due to the Iran war; which U.S. official stated that the delay was due to coordinating the war effort rather than trade disagreements or requests for China to police the Strait of Hormuz?",
+    "a": "U.S. Treasury Secretary Scott Bessent."
+  },
+  {
+    "q": "In March 2026, Chinese Foreign Ministry spokesperson Lin Jian stated that both sides were communicating about President Donald Trump's trip; what did Lin Jian say head of state diplomacy plays an irreplaceable role in providing strategic guidance to?",
+    "a": "China-U.S. relations."
+  },
+  {
+    "q": "U.S. President Donald Trump told reporters at the White House in March 2026 that he requested a delay of his China trip; which organization's embassy in Washington did not immediately respond to a request for comment regarding this delay?",
+    "a": "China's embassy in Washington."
+  },
+  {
+    "q": "In March 2026, U.S. Treasury Secretary Scott Bessent stated that President Donald Trump wanted to remain in Washington, D.C., to coordinate the war effort; which named military operation was cited as the reason for this priority?",
+    "a": "Operation Epic Fury."
+  },
+  {
+    "q": "U.S. President Donald Trump requested a delay of his trip to meet Chinese President Xi Jinping in April 2026; which U.S. official stated that the President's priority was ensuring the continued success of Operation Epic Fury?",
+    "a": "White House spokeswoman Karoline Leavitt."
+  },
+  {
+    "q": "In March 2026, U.S. Treasury Secretary Scott Bessent traveled to Paris for talks with Chinese Vice Premier He Lifeng; what specific topic related to global supply chains did the two sides discuss besides agricultural goods?",
+    "a": "The flow of rare earth minerals."
+  },
+  {
+    "q": "U.S. President Donald Trump stated in March 2026 that he sought to delay his China trip due to the Iran war; which U.S. official stated that traveling abroad at that time may not be optimal because the President needed to coordinate the war effort?",
+    "a": "U.S. Treasury Secretary Scott Bessent."
+  }
+]

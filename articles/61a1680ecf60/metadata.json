@@ -1,0 +1,27 @@
+{
+  "hash": "61a1680ecf60",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://origin.www.bloomberg.com/news/articles/2026-03-01/trump-s-removal-of-another-xi-friend-complicates-planned-summit",
+      "title": "Trump’s Removal of Another Xi Friend Complicates Planned Summit - Bloomberg",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 249,
+      "text_length": 1110
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "604490",
+      "spike_id": 13,
+      "market_question": "Will Trump visit China by March 31?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.25649999999999995,
+      "spike_timestamp_before": "2026-03-01T04:00:27+00:00",
+      "spike_timestamp_after": "2026-03-02T01:00:23+00:00"
+    }
+  ]
+}

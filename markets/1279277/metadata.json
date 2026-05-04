@@ -1,0 +1,22 @@
+{
+  "market_id": "1279277",
+  "question": "Iran strike on Qatar by February 28, 2026?",
+  "slug": "iran-strike-on-qatar-by-february-28-2026-334",
+  "url": "https://polymarket.com/event/iran-strike-on-qatar-by-january-31",
+  "description": "This market will resolve to \"Yes\" if an Iran-initiated drone, missile, or air strike on the soil of Qatar is announced or credibly reported to have occurred by February 28, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nFor the purposes of this market, a qualifying \"strike\" is defined as the use of aerial bombs, drones, or missiles (including FPV and ATGM strikes as well as cruise or ballistic missiles) launched by any Iranian operatives, including military forces, intelligence agencies, or other Iranian government operatives, that physically impact ground territory within the listed country.\n\nA strike on any area within the terrestrial territory (including rivers, lakes, ports, but excluding territorial sea) of the listed country counts.\n\nMissiles or drones that are intercepted and surface-to-air missile strikes will not be sufficient for a \"Yes\" resolution, regardless of whether they land in Qatari territory or cause damage.\n\nActions such as artillery fire, small arms fire, ground incursions, naval shelling, or cyberattacks will not qualify.\n\nThe primary resolution source will be a consensus of credible reporting.\n\nIf no qualifying strike is confirmed by the resolution date this market will remain open until the end of the second day after the resolution time. If the date/time of a qualifying strike cannot be confirmed by a consensus of credible reporting by that time, it will resolve to \"No\" regardless of whether a strike was later confirmed to have taken place.",
+  "event_title": "Iran strike on Qatar by...?",
+  "event_tags": [
+    "Politics",
+    "Middle East",
+    "Khamenei",
+    "Geopolitics",
+    "Iran"
+  ],
+  "volume_total": 1229145.458098,
+  "created_at": "2026-01-27T20:29:56.458322Z",
+  "end_date": "2026-01-31T00:00:00Z",
+  "num_spikes": 6,
+  "max_spike": 0.9325,
+  "total_tokens": 39281,
+  "total_articles": 30
+}

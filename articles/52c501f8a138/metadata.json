@@ -1,0 +1,27 @@
+{
+  "hash": "52c501f8a138",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://www.abc.net.au/news/2026-03-20/asx-markets-business-live-news-march-20-2026/106476582",
+      "title": "'Strong likelihood' of oil price reaching $US120‑150 a barrel — as it happened - ABC News",
+      "published_date": "2026-03-19T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 3937,
+      "text_length": 16732
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1467763",
+      "spike_id": 32,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $120 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.15499999999999997,
+      "spike_timestamp_before": "2026-03-19T12:00:34+00:00",
+      "spike_timestamp_after": "2026-03-20T00:30:32+00:00"
+    }
+  ]
+}

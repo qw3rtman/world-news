@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In a March 8 post on Truth Social, what specific condition did U.S. President Donald Trump state regarding his signature on other bills in relation to the Safeguard American Voter Eligibility, or SAVE, America Act?",
+    "a": "He stated he would not sign other bills until the SAVE America Act was passed."
+  },
+  {
+    "q": "According to a White House spokesperson, why did U.S. President Donald Trump's threat to withhold signatures on legislation not apply to the funding for the Department of Homeland Security during the March 2026 shutdown?",
+    "a": "The spokesperson clarified that the President was referring to other bills, not DHS funding, and would fund the agency if Democrats passed the funding."
+  },
+  {
+    "q": "What specific voting requirements does the Safeguard American Voter Eligibility, or SAVE, America Act propose for federal elections as described in the March 2026 article?",
+    "a": "The act would require voters to prove their citizenship in person to register and would bolster photo ID requirements."
+  },
+  {
+    "q": "Which U.S. Senator from Oklahoma did U.S. President Donald Trump announce in March 2026 as his replacement for the fired Homeland Security Secretary Kristi Noem?",
+    "a": "Republican Senator Markwayne Mullin."
+  },
+  {
+    "q": "What constitutional mechanism allows legislation to become law without U.S. President Donald Trump's signature, as noted in the March 2026 article regarding his veto threats?",
+    "a": "Bills can automatically become law after 10 days if the President does not veto them and Congress remains in session."
+  },
+  {
+    "q": "Why did the House of Representatives being out for the rest of the week in March 2026 make an official end to the Department of Homeland Security shutdown unlikely?",
+    "a": "Republicans were attending their annual policy retreat in Florida, preventing immediate legislative action to end the funding lapse."
+  },
+  {
+    "q": "Which U.S. Senator from South Dakota, serving as Senate Majority Leader, continued to oppose procedurally creative ways to skirt the filibuster for the SAVE America Act in March 2026?",
+    "a": "Republican Senator John Thune."
+  },
+  {
+    "q": "What specific voting restriction did U.S. President Donald Trump demand in addition to the SAVE America Act, as indicated by his March 2026 social media posts?",
+    "a": "He wanted a near-total ban on mail-in voting."
+  },
+  {
+    "q": "Who was the Homeland Security Secretary fired by U.S. President Donald Trump in March 2026 following contentious congressional hearings?",
+    "a": "Kristi Noem."
+  },
+  {
+    "q": "What condition did Democrats state they needed before voting to fully fund the Department of Homeland Security in March 2026?",
+    "a": "They said they needed to see big changes at the DHS."
+  },
+  {
+    "q": "What specific impact on Americans was intensifying in March 2026 due to the Department of Homeland Security shutdown, particularly affecting travel?",
+    "a": "Airport security lines were growing painstakingly long, with hours-long waits reported at TSA checkpoints."
+  },
+  {
+    "q": "What vote threshold in the U.S. Senate did the SAVE America Act fail to survive without Democratic support in March 2026?",
+    "a": "The 60-vote threshold."
+  },
+  {
+    "q": "On which social media platform did U.S. President Donald Trump post his March 8, 2026 statement regarding the SAVE America Act?",
+    "a": "Truth Social."
+  },
+  {
+    "q": "Which political party's leaders in Congress were urging a swift end to the Department of Homeland Security funding lapse in March 2026?",
+    "a": "GOP (Republican) leaders."
+  },
+  {
+    "q": "What was the primary reason Democrats called for immigration enforcement reform in exchange for funding the Department of Homeland Security in March 2026?",
+    "a": "They were using the funding vote as leverage to demand changes in immigration enforcement policies."
+  },
+  {
+    "q": "Did U.S. President Donald Trump explicitly state he would use his veto power against the DHS funding bill in March 2026?",
+    "a": "No, he did not say he would use his veto power."
+  },
+  {
+    "q": "What was the status of the House-passed version of the SAVE America Act according to U.S. President Donald Trump's March 2026 comments?",
+    "a": "He cast doubt on supporting it, calling it a \"WATERED DOWN VERSION\" of the legislation."
+  },
+  {
+    "q": "Which government agency was experiencing a weekslong shutdown in March 2026 that was impacted by the political impasse over the SAVE Act?",
+    "a": "The Department of Homeland Security."
+  },
+  {
+    "q": "What was the reaction of Democrats to the firing of Homeland Security Secretary Kristi Noem in March 2026?",
+    "a": "They lauded the ouster but insisted on seeing big changes at the DHS before voting to fund it fully."
+  },
+  {
+    "q": "Which two reporters for USA TODAY covered the March 2026 developments regarding the DHS shutdown and the SAVE Act?",
+    "a": "Zachary Schermele and Swapna Venugopal Ramaswamy."
+  },
+  {
+    "q": "What specific procedural obstacle did Senate Majority Leader John Thune refuse to bypass for the SAVE America Act in March 2026?",
+    "a": "The filibuster."
+  },
+  {
+    "q": "In March 2026, which state was the location of the annual policy retreat attended by Republicans that delayed House action on the DHS funding?",
+    "a": "Florida."
+  },
+  {
+    "q": "What did U.S. President Donald Trump demand regarding the priority of the SAVE America Act in his March 2026 social media post?",
+    "a": "He wrote that it \"MUST GO TO THE FRONT OF THE LINE.\""
+  },
+  {
+    "q": "Why did the White House spokesperson characterize U.S. President Donald Trump's threat to withhold signatures as primarily symbolic in March 2026?",
+    "a": "Because bills can become law automatically after 10 days without his signature if Congress remains in session."
+  },
+  {
+    "q": "Which specific group of voters was targeted by the SAVE America Act's requirement to prove citizenship in person in March 2026?",
+    "a": "Voters registering to vote in federal elections."
+  }
+]

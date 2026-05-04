@@ -1,0 +1,27 @@
+{
+  "hash": "03e6b5452c71",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.france24.com/en/americas/20260227-paramount-seals-a-110-billion-mega%E2%80%91merger-to-take-over-warner-bros",
+      "title": "Paramount seals a $110 billion mega‑merger to take over Warner Bros - France 24",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 813,
+      "text_length": 4034
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694939",
+      "spike_id": 5,
+      "market_question": "Will Ubisoft be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.16499999999999998,
+      "spike_timestamp_before": "2026-02-27T15:00:21+00:00",
+      "spike_timestamp_after": "2026-02-28T14:30:23+00:00"
+    }
+  ]
+}

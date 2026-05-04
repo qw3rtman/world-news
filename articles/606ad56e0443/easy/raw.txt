@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In the raid that took place in the western Mexican state of Jalisco, which drug lord known as 'El Mencho' was killed, and what was his age at the time of his death?",
+    "a": "Nemesio Oseguera, age 59."
+  },
+  {
+    "q": "What is the full name of the new U.S. military-led task force launched last month (prior to February 2026) that specializes in intelligence collection on drug cartels and aided the hunt for 'El Mencho'?",
+    "a": "The Joint Interagency Task Force-Counter Cartel (JITF-CC)."
+  },
+  {
+    "q": "Who is the U.S. Brigadier General leading the Joint Interagency Task Force-Counter Cartel, and what two non-cartel groups did he cite as having different operational motivations compared to cartels?",
+    "a": "Maurizio Calabrese; al Qaeda and Islamic State."
+  },
+  {
+    "q": "According to U.S. Brigadier General Maurizio Calabrese, what is the estimated range of independent contractors that help move drugs for cartels?",
+    "a": "200,000 to 250,000."
+  },
+  {
+    "q": "Which powerful international criminal enterprise did the late Nemesio Oseguera lead, and what was the amount of the U.S. bounty offered for information leading to his arrest or capture?",
+    "a": "The Jalisco New Generation Cartel (CJNG); $15 million."
+  },
+  {
+    "q": "Which two U.S. government branches provided the information included in the detailed target package for 'El Mencho' compiled by the former U.S. official?",
+    "a": "U.S. law enforcement and U.S. intelligence."
+  },
+  {
+    "q": "Who was the U.S. President in February 2026 who waged a pressure campaign on Mexican President Claudia Sheinbaum to ramp up crackdowns on drug trafficking?",
+    "a": "Donald Trump."
+  },
+  {
+    "q": "What designation did President Donald Trump’s administration give to Mexican cartels last year (2025), which former DEA official Jack Riley said unlocked new kinds of U.S. military assistance?",
+    "a": "Terrorist organizations."
+  },
+  {
+    "q": "Besides the Jalisco operation, what other regular U.S. military activity in Caribbean and Pacific waters has been challenged by Democratic lawmakers and legal experts regarding its legality?",
+    "a": "U.S. strikes on suspected drug boats."
+  },
+  {
+    "q": "Which Mexican government ministry stated that U.S. authorities had provided 'complementary information' regarding the raid that killed 'El Mencho'?",
+    "a": "Mexico's defense ministry."
+  },
+  {
+    "q": "What specific consequence did the killing of 'El Mencho' trigger in more than half a dozen Mexican states, according to the article?",
+    "a": "A wave of violence involving torched cars and gunmen blocking highways."
+  },
+  {
+    "q": "Who is the former senior official at the Drug Enforcement Administration who commented on the unlimited surveillance capabilities available to the U.S. following the terrorist organization designation of cartels?",
+    "a": "Jack Riley."
+  },
+  {
+    "q": "What was the primary goal of the Joint Interagency Task Force-Counter Cartel as stated on its website regarding threats along the U.S.-Mexico border?",
+    "a": "To identify, disrupt, and dismantle cartel operations."
+  },
+  {
+    "q": "Which U.S. defense official, speaking on condition of anonymity, stressed that the raid killing 'El Mencho' was a Mexican military operation with no U.S. military personnel physically involved?",
+    "a": "A U.S. defense official (unnamed in the text, but identified as a U.S. defense official who spoke to Reuters)."
+  },
+  {
+    "q": "According to a second U.S. defense official, what was the strategic purpose of creating the interagency effort (JITF-CC) to avoid 'stray voltage'?",
+    "a": "To bring it all together and synchronize the U.S. strategy to combat drug trafficking."
+  },
+  {
+    "q": "What two types of drugs are Mexican cartels primarily responsible for smuggling into the U.S., generating billions of dollars?",
+    "a": "Cocaine and fentanyl."
+  },
+  {
+    "q": "Which Mexican President's government was under pressure from the Trump administration to ramp up its crackdown on drug trafficking in early 2026?",
+    "a": "Claudia Sheinbaum."
+  },
+  {
+    "q": "What specific experience did U.S. Brigadier General Maurizio Calabrese say the U.S. military is channeling to map out cartel networks?",
+    "a": "Battling groups like al Qaeda and Islamic State."
+  },
+  {
+    "q": "How many core cartel members 'at the top' did U.S. Brigadier General Maurizio Calabrese estimate there were, noting that estimates vary widely?",
+    "a": "A few hundred."
+  },
+  {
+    "q": "Which two Reuters reporters are credited with reporting this story from Washington and Monterrey, Mexico, respectively?",
+    "a": "Phil Stewart and Laura Gottesdiener."
+  },
+  {
+    "q": "What correction was made to the Feb 22 Reuters story regarding Nemesio Oseguera's age?",
+    "a": "His age was changed to 59, not 60."
+  },
+  {
+    "q": "Which U.S. agency did Jack Riley formerly serve as a senior official at, before commenting on the new military assistance capabilities?",
+    "a": "The Drug Enforcement Administration (DEA)."
+  },
+  {
+    "q": "What specific threat did the Trump administration make to Mexican President Claudia Sheinbaum's government to encourage a ramp-up in drug trafficking crackdowns?",
+    "a": "U.S. threats to intervene directly in Mexico."
+  },
+  {
+    "q": "According to the article, did any U.S. military personnel physically participate in the Mexican military operation that killed 'El Mencho'?",
+    "a": "No."
+  },
+  {
+    "q": "What acronym did U.S. Brigadier General Maurizio Calabrese use when referring to the Islamic State during his comments to Reuters?",
+    "a": "ISIS."
+  },
+  {
+    "q": "Which Thomson Reuters principle is cited at the end of the article as the standard for reporting?",
+    "a": "The Thomson Reuters Trust Principles."
+  }
+]

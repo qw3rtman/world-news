@@ -1,0 +1,65 @@
+{
+  "spike_index": 9,
+  "direction": "up",
+  "price_before": 0.35,
+  "price_after": 0.745,
+  "delta": 0.395,
+  "abs_delta": 0.395,
+  "timestamp_before": "2026-03-01T03:30:25+00:00",
+  "timestamp_after": "2026-03-02T02:00:22+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202603031605BIZWIRE_USPRX____20260303_BW140705-1",
+      "file": "0df539e92b76.txt",
+      "title": "GitLab Reports Fourth Quarter and Full Year Fiscal Year 2026 Financial Results; Board of Directors Authorizes $400 million for Share Repurchase Program \u2013 Company Announcement - FT.com",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": null,
+      "text_length": 16144,
+      "status": "ok",
+      "num_tokens": 3539
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/28/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
+      "file": "1fc61b48f69d.txt",
+      "title": "What to know about the landmark Warner Bros.\u00a0Discovery sale | TechCrunch",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Lauren Forristal",
+      "text_length": 7726,
+      "status": "ok",
+      "num_tokens": 1509
+    },
+    {
+      "url": "https://markets.ft.com/data/announce/full?dockey=600-202603031605BIZWIRE_USPRX____20260303_BW140705-1",
+      "file": "9c48863cfe7c.txt",
+      "title": "GitLab Reports Fourth Quarter and Full Year Fiscal Year 2026 Financial Results; Board of Directors Authorizes $400 million for Share Repurchase Program \u2013 Company Announcement - FT.com",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": null,
+      "text_length": 16167,
+      "status": "ok",
+      "num_tokens": 3551
+    },
+    {
+      "url": "http://www.dw.com/ru/paramount-kupit-warner-bros-discovery-za-110-mlrd-dollarov-posle-sryva-sdelki-s-netflix/a-76159843",
+      "file": "b9aed0cae45f.txt",
+      "title": "Paramount \u043a\u0443\u043f\u0438\u0442 Warner Bros. Discovery \u0437\u0430 110 \u043c\u043b\u0440\u0434 \u0434\u043e\u043b\u043b\u0430\u0440\u043e\u0432",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 2438,
+      "status": "ok",
+      "num_tokens": 1001
+    },
+    {
+      "url": "https://today.reuters.com/legal/litigation/warner-bros-signs-110-billion-deal-with-paramount-ends-bidding-war-with-netflix-2026-02-27/",
+      "file": "cd119cefae61.txt",
+      "title": "Paramount to buy Warner Bros Discovery in $110 billion deal as Netflix bows out of race | Reuters",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": "Karl Badohal",
+      "text_length": 5340,
+      "status": "ok",
+      "num_tokens": 1070
+    }
+  ],
+  "total_tokens": 10670
+}

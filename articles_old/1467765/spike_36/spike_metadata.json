@@ -1,0 +1,65 @@
+{
+  "spike_index": 36,
+  "direction": "down",
+  "price_before": 0.5045,
+  "price_after": 0.244,
+  "delta": -0.26049999999999995,
+  "abs_delta": 0.26049999999999995,
+  "timestamp_before": "2026-03-19T02:00:31+00:00",
+  "timestamp_after": "2026-03-20T01:00:31+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://fortune.com/2026/03/19/how-high-oil-barrel-price-brent-crude/",
+      "file": "c5010872d149.txt",
+      "title": "Oil approaches $115 per barrel as market realizes higher for longer is very possible | Fortune",
+      "published_date": "2026-03-19T00:00:00.000Z",
+      "author": "The Associated Press",
+      "text_length": 671,
+      "status": "ok",
+      "num_tokens": 168
+    },
+    {
+      "url": "https://fortune.com/2026/03/18/oil-prices-110-crude-brent-iran-war-israel-strait-hormuz-lng/",
+      "file": "a415c93ca2c6.txt",
+      "title": "Oil prices hit nearly $110 as Iran vows to escalate the war in \u2018new ways\u2019 | Fortune",
+      "published_date": "2026-03-18T00:00:00.000Z",
+      "author": "Eva Roytburg",
+      "text_length": 1369,
+      "status": "ok",
+      "num_tokens": 327
+    },
+    {
+      "url": "https://www.barrons.com/articles/oil-prices-today-ceiling-iran-5928b2c2",
+      "file": "dbb4a9c7e156.txt",
+      "title": "Oil Prices Today: After Spiking to $119, How Much Higher Can They Go?<!-- --> - Barron's",
+      "published_date": "2026-03-20T00:00:00.000Z",
+      "author": "Mackenzie Tatananni|George Glover",
+      "text_length": 154,
+      "status": "ok",
+      "num_tokens": 30
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/20/oil-wti-brent-us-weighs-releasing-sanctioned-iranian-crude.html",
+      "file": "6fdf08b128a9.txt",
+      "title": "Oil tops $112 after Iraq declares force majeure due to Iran war",
+      "published_date": "2026-03-20T00:00:00.000Z",
+      "author": "Lee Ying Shan,Sam Meredith,Spencer Kimball",
+      "text_length": 2458,
+      "status": "ok",
+      "num_tokens": 522
+    },
+    {
+      "url": "https://www.semafor.com/article/03/18/2026/oil-prices-top-110-a-barrel",
+      "file": "8cac94beae62.txt",
+      "title": "Oil prices top $110 a barrel | Semafor",
+      "published_date": "2026-03-18T00:00:00.000Z",
+      "author": null,
+      "text_length": 742,
+      "status": "ok",
+      "num_tokens": 147
+    }
+  ],
+  "total_tokens": 1194
+}

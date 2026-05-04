@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Following the killing of Supreme Leader Ali Khamenei in early 2026, which three specific officials did Iran announce would form the interim leadership council?",
+    "a": "The president, the head of the judiciary, and a jurist from the Guardian Council."
+  },
+  {
+    "q": "In which year did Reza Khan overthrow the previous dynasty to establish the Pahlavi dynasty, and what Western-style reform was he famous for implementing?",
+    "a": "He established the dynasty in 1925 and was famous for banning the hijab."
+  },
+  {
+    "q": "Which two powers conducted the Anglo-Soviet invasion of Iran in 1941 that forced Mohammad Reza Pahlavi’s father, Reza Khan, into exile?",
+    "a": "Britain and the Soviet Union."
+  },
+  {
+    "q": "In which U.S. newspaper did exiled Crown Prince Reza Pahlavi publish an opinion piece thanking U.S. President Donald Trump for military strikes in March 2026?",
+    "a": "The Washington Post."
+  },
+  {
+    "q": "What specific democratic mechanisms did Reza Pahlavi propose in his March 2026 Washington Post article to ensure a transparent transition of power?",
+    "a": "A new constitution drafted and ratified by referendum, followed by free elections under international oversight."
+  },
+  {
+    "q": "Which U.S.-based organization launched the \"Iran Prosperity Project\" in early 2025, for which Reza Pahlavi penned the foreword?",
+    "a": "The National Union for Democracy in Iran (NUFDI)."
+  },
+  {
+    "q": "What specific title and veto power did the NUFDI's July 2025 \"Emergency Phase Booklet\" propose granting to Reza Pahlavi in a transitional government?",
+    "a": "It titled him \"leader of the national uprising\" and gave him the right to veto institutions and selection processes."
+  },
+  {
+    "q": "Which historical figure’s post-revolution consolidation of power is cited as an echo in the political promises made by Reza Pahlavi and the NUFDI?",
+    "a": "Ayatollah Ruhollah Khomeini."
+  },
+  {
+    "q": "During the February 2026 Munich Security Conference, which British-Iranian journalist faced heckling from supporters of Reza Pahlavi after interviewing him?",
+    "a": "Christiane Amanpour."
+  },
+  {
+    "q": "On which social media platform was a video widely shared showing royalists heckling Christiane Amanpour after her February 2026 interview with Reza Pahlavi?",
+    "a": "X (formerly Twitter)."
+  },
+  {
+    "q": "What specific demand from Iran’s ethnic minority groups was notably absent from the NUFDI’s July 2025 \"Emergency Phase Booklet\"?",
+    "a": "A federalist model of government."
+  },
+  {
+    "q": "In which year did Reza Pahlavi make an unprecedented trip to Israel, a fact noted in the context of his 2026 political positioning?",
+    "a": "2023."
+  },
+  {
+    "q": "What specific phrase did some students shout during recent protests in Iran to reject both monarchy and clerical leadership?",
+    "a": "\"No to monarchy, no to the leadership of the clerics, yes to an egalitarian democracy.\""
+  },
+  {
+    "q": "Which body oversees legislation and vets electoral candidates in Iran, and whose jurist was named as part of the interim leadership council formed after Supreme Leader Ali Khamenei's death?",
+    "a": "The Guardian Council."
+  },
+  {
+    "q": "What two key principles did Reza Pahlavi claim all Iranian opposition figures agreed upon regarding a post-Islamic Republic Iran?",
+    "a": "Separation of religion and state, and territorial integrity."
+  },
+  {
+    "q": "Who is the father of exiled Crown Prince Reza Pahlavi, and what was his title before the 1979 Islamic Revolution?",
+    "a": "Mohammad Reza Pahlavi, who was the Shah of Iran."
+  },
+  {
+    "q": "What specific transitional role did Reza Pahlavi clarify he was seeking in his March 2026 statements, addressing fears of an absolute monarchy return?",
+    "a": "A transitional role to lead a democratic transition to a secular Iran."
+  },
+  {
+    "q": "Which organization released the \"Emergency Phase Booklet\" in July 2025 that envisioned a centralized government under Reza Pahlavi?",
+    "a": "The National Union for Democracy in Iran (NUFDI)."
+  },
+  {
+    "q": "What event in 1979 ousted the Pahlavi monarchy, leading to the establishment of the Islamic Republic?",
+    "a": "The Islamic Revolution."
+  },
+  {
+    "q": "According to the article, what was the primary reason polling support for the Shah within Iran remains unclear in 2026?",
+    "a": "Polling is notoriously difficult and communication with the outside world is tightly controlled."
+  },
+  {
+    "q": "Which U.S. President urged Iranian protesters to overthrow the regime following the strikes and the death of Supreme Leader Ali Khamenei in early 2026?",
+    "a": "Donald Trump."
+  },
+  {
+    "q": "What specific constitutional outcome did the NUFDI's July 2025 booklet claim a referendum would determine regarding Iran's future government?",
+    "a": "A transition to either a constitutional monarchy or a democratic republic."
+  },
+  {
+    "q": "Where did Reza Pahlavi attend the 62nd Munich Security Conference in February 2026, where he was interviewed by Christiane Amanpour?",
+    "a": "Munich, southern Germany."
+  },
+  {
+    "q": "What specific criticism did Christiane Amanpour raise regarding Reza Pahlavi's supporters in her February 2026 interview?",
+    "a": "She asked if he would tell his supporters to stop their \"terrifying\" attacks on ordinary Iranians."
+  },
+  {
+    "q": "Which ancient dynasty did Reza Khan overthrow in 1925 to establish the Pahlavi dynasty?",
+    "a": "The previous dynasty (Qajar dynasty, though the text just says \"previous dynasty\")."
+  }
+]

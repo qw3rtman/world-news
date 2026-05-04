@@ -1,0 +1,65 @@
+{
+  "spike_index": 5,
+  "direction": "down",
+  "price_before": 0.733,
+  "price_after": 0.5295,
+  "delta": -0.20350000000000001,
+  "abs_delta": 0.20350000000000001,
+  "timestamp_before": "2026-03-10T17:00:21+00:00",
+  "timestamp_after": "2026-03-11T16:30:21+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://link.cfr.org/click/44608918.40892/aHR0cHM6Ly93d3cud3NqLmNvbS9saXZlY292ZXJhZ2UvaXJhbi13YXItdXMtaXNyYWVsLXRydW1wLTIwMjYvY2FyZC9wcmVzaWRlbnQtdHJ1bXAtc3BlYWtzLXRvLXB1dGluLWZvci1maXJzdC10aW1lLXNpbmNlLXN0YXJ0LW9mLWlyYW4td2FyLUZXdHcydkR4NWJKQUpUWUtEdmFGP3V0bV9zb3VyY2U9ZGFpbHlicmllZiZ1dG1fY29udGVudD0yMDI2MDMxMA/6725416fd31ea7c67f0d673cB6e2dcfeb",
+      "file": "a77452b1ffea.txt",
+      "title": "President Trump Speaks to Putin for First Time Since Start of Iran War",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "text_length": 658,
+      "status": "ok",
+      "num_tokens": 149
+    },
+    {
+      "url": "https://www.pbs.org/newshour/politics/trump-has-call-with-putin-to-discuss-iran-war-kremlin-says",
+      "file": "73ad38b52186.txt",
+      "title": "Trump has call with Putin to discuss Iran war, Kremlin says | PBS News",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "text_length": 1564,
+      "status": "ok",
+      "num_tokens": 307
+    },
+    {
+      "url": "https://www.reuters.com/world/kremlin-putin-phone-call-with-trump-shares-proposals-end-iran-war-quickly-2026-03-09/",
+      "file": "dcc06c109bc4.txt",
+      "title": "Trump, Putin talk of war and peace as US weighs easing Russian oil sanctions | Reuters",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "Guy Faulconbridge",
+      "text_length": 3832,
+      "status": "ok",
+      "num_tokens": 786
+    },
+    {
+      "url": "http://mobile.reuters.com/world/kremlin-putin-phone-call-with-trump-shares-proposals-end-iran-war-quickly-2026-03-09/",
+      "file": "9ea2470198af.txt",
+      "title": "Trump, Putin talk of war and peace as US weighs easing Russian oil sanctions | Reuters",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "Guy Faulconbridge",
+      "text_length": 3817,
+      "status": "ok",
+      "num_tokens": 782
+    },
+    {
+      "url": "https://www.nbcnews.com/now/video/trump-says-putin-wants-to-be-helpful-with-middle-east-259001413748",
+      "file": "4b43dadf8772.txt",
+      "title": "Trump says Putin wants to be \u2018helpful\u2019 with Middle East",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "text_length": 282,
+      "status": "ok",
+      "num_tokens": 65
+    }
+  ],
+  "total_tokens": 2089
+}

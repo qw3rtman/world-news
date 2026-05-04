@@ -1,0 +1,65 @@
+{
+  "spike_index": 11,
+  "direction": "up",
+  "price_before": 0.33,
+  "price_after": 0.775,
+  "delta": 0.445,
+  "abs_delta": 0.445,
+  "timestamp_before": "2026-03-06T02:30:28+00:00",
+  "timestamp_after": "2026-03-07T01:00:25+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.reuters.com/business/energy/goldman-sachs-warns-oil-may-surge-above-100bbl-if-hormuz-flows-dont-recover-2026-03-06/",
+      "file": "cd3e767a5496.txt",
+      "title": "Goldman Sachs warns oil may surge above $100/bbl if Hormuz flows don\u2019t recover | Reuters",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": null,
+      "text_length": 1731,
+      "status": "ok",
+      "num_tokens": 381
+    },
+    {
+      "url": "https://www.cnbc.com/video/2026/03/06/jeremy-siegel-oil-could-hit-100-if-no-breakthrough-in-iran.html",
+      "file": "c65176d79631.txt",
+      "title": "Jeremy Siegel: Oil could hit $100 if no breakthrough in Iran",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": null,
+      "text_length": 231,
+      "status": "ok",
+      "num_tokens": 50
+    },
+    {
+      "url": "http://es.reuters.com/world/asia-pacific/dollar-surges-us-iran-war-pushes-oil-past-100-barrel-2026-03-08/",
+      "file": "9f8fff99ae14.txt",
+      "title": "Reuters | Breaking International News & Views",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": null,
+      "text_length": 372,
+      "status": "ok",
+      "num_tokens": 80
+    },
+    {
+      "url": "https://text.npr.org/2026/03/08/nx-s1-5741818/iran-israel-trump-oil-100",
+      "file": "f8b2a1fe170e.txt",
+      "title": "Crude oil prices swing wildly as the Iran war stretches on",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": null,
+      "text_length": 5541,
+      "status": "ok",
+      "num_tokens": 1173
+    },
+    {
+      "url": "https://envoy.east-us.cumulus.bloomberg.com/news/articles/2026-03-07/world-economy-latest-oil-prices-surge-above-90-a-barrel-on-iran-war",
+      "file": "3cbacf64dac5.txt",
+      "title": "World Economy Latest: Oil Prices Surge Above $90 a Barrel on Iran War - Bloomberg",
+      "published_date": "2026-03-07T00:00:00.000Z",
+      "author": "Vince Golle",
+      "text_length": 1027,
+      "status": "ok",
+      "num_tokens": 235
+    }
+  ],
+  "total_tokens": 1919
+}

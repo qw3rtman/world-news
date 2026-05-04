@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2026, what total amount did Alphabet, Amazon.com, Meta Platforms, and Microsoft plan to spend on chip-packed data centers for the year?",
+    "a": "$650 billion"
+  },
+  {
+    "q": "As of late February 2026, what was OpenAI's annualized revenue figure, and what was the percentage increase from the end of December?",
+    "a": "Over $25 billion, up 25%"
+  },
+  {
+    "q": "In March 2026, what percentage of U.S. GDP did Big Tech’s spending commitments on AI infrastructure roughly equate to, based on the previous year's GDP?",
+    "a": "2%"
+  },
+  {
+    "q": "According to Morgan Stanley's forecast in March 2026, what total amount of global data-center investment is expected between 2025 and 2028, and how much of that is expected to come from private credit and asset-backed lending?",
+    "a": "$2.9 trillion total, with roughly $900 billion from private credit and asset-backed lending"
+  },
+  {
+    "q": "In March 2026, what power capacity in gigawatts did OpenAI CEO Sam Altman propose for infrastructure build-out deals, and how many U.S. households could that supply?",
+    "a": "30 gigawatts, enough to supply 20 million U.S. households"
+  },
+  {
+    "q": "As of March 2026, what additional financing amount did HSBC estimate OpenAI might need by 2030?",
+    "a": "$207 billion"
+  },
+  {
+    "q": "In the March 2026 funding round for OpenAI, what was the initial payment amount from Amazon, and what two conditions were tied to further outlays?",
+    "a": "About $15 billion initially; further outlays were tied to leading the company to public markets or surpassing artificial general intelligence"
+  },
+  {
+    "q": "In March 2026, what negative credit outlook did S&P Global assign to SoftBank, and what bridge loan amount was the Japanese group exploring according to Bloomberg?",
+    "a": "Negative credit outlook; up to $40 billion bridge loan"
+  },
+  {
+    "q": "According to HSBC analysts in late November 2025, what was the estimated cash burn for OpenAI between the present and the end of 2030?",
+    "a": "Almost $280 billion"
+  },
+  {
+    "q": "In a court filing in March 2026, what amount did Anthropic’s CFO state the company had spent on training models and serving user queries, and what was the resulting cumulative revenue?",
+    "a": "Over $10 billion spent, generating roughly $5 billion of cumulative revenue"
+  },
+  {
+    "q": "In March 2026, what multiple of expected 2030 sales did Nvidia and Alphabet trade on, according to Visible Alpha, and what IPO discount was applied to determine OpenAI's required revenue?",
+    "a": "5.6 times expected sales; a 30% IPO discount"
+  },
+  {
+    "q": "According to CNBC reports in March 2026, what was OpenAI's internal target for annual revenue by 2030, and what was the minimum revenue needed to achieve a $1 trillion IPO valuation?",
+    "a": "Internal target of $280 billion; minimum of $250 billion"
+  },
+  {
+    "q": "In March 2026, what percentage of Microsoft's $625 billion demand backlog was tied to OpenAI, and what was the total value of the deal Sam Altman inked with Oracle?",
+    "a": "45% of the backlog; a $300 billion deal with Oracle"
+  },
+  {
+    "q": "In March 2026, what label did the Trump administration assign to Anthropic after CEO Dario Amodei resisted allowing Claude to be used for mass surveillance or autonomous weapons?",
+    "a": "Supply-chain risk"
+  },
+  {
+    "q": "In March 2026, which U.S. defense official claimed that no government contractor could work with Anthropic following the company's resistance to using Claude for weapons?",
+    "a": "Defense chief Pete Hegseth"
+  },
+  {
+    "q": "In March 2026, what legal grounds did Anthropic cite in its lawsuit to overturn the Trump administration's moves against it?",
+    "a": "Violations of rights to free expression and due process"
+  },
+  {
+    "q": "As of March 2026, which three cloud partners stated they would continue offering Claude to customers despite the Trump administration's designation of Anthropic as a supply-chain risk?",
+    "a": "Amazon, Alphabet, and Microsoft"
+  },
+  {
+    "q": "In March 2026, to what historical level had credit-default swaps on Oracle climbed, according to the article?",
+    "a": "Highest levels since 2008"
+  },
+  {
+    "q": "In March 2026, which two Big Tech companies saw their shares slide after reiterating plans to increase capital spending?",
+    "a": "Microsoft and Amazon"
+  },
+  {
+    "q": "According to the March 2026 article, what specific negative consequence would a slowdown in data-center expansion have on Nvidia?",
+    "a": "It would plausibly reduce sales of Nvidia chips"
+  },
+  {
+    "q": "In March 2026, what portion of the $800 billion HSBC estimates OpenAI could spend on chips and data centers is accounted for by Microsoft's OpenAI-tied backlog and Altman's Oracle deal combined?",
+    "a": "About two-thirds"
+  },
+  {
+    "q": "In March 2026, what technological milestone known as \"artificial general intelligence\" was cited as a condition for further Amazon payments to OpenAI?",
+    "a": "Surpassing a smarter-than-human technological milestone"
+  },
+  {
+    "q": "In March 2026, which chip and gear-makers were identified as recipients of capital flowing from OpenAI's infrastructure deals, alongside Oracle, Microsoft, Amazon, and CoreWeave?",
+    "a": "Nvidia and Broadcom"
+  },
+  {
+    "q": "In March 2026, what was SoftBank's expected contribution to OpenAI's funding round, and what financial pressure was the company facing at that time?",
+    "a": "Expected to add $30 billion; under pressure with a negative credit outlook from S&P Global"
+  },
+  {
+    "q": "In March 2026, what two general problems did Wall Street begin to question regarding the AI spending boom?",
+    "a": "The sustainability of the boom and the valuation of companies like Oracle, Microsoft, and Amazon"
+  }
+]

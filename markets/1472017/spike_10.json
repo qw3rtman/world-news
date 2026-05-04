@@ -1,0 +1,65 @@
+{
+  "spike_index": 10,
+  "direction": "up",
+  "price_before": 0.235,
+  "price_after": 0.395,
+  "delta": 0.16000000000000003,
+  "abs_delta": 0.16000000000000003,
+  "timestamp_before": "2026-03-04T20:00:38+00:00",
+  "timestamp_after": "2026-03-05T00:00:40+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.aljazeera.com/news/2026/3/6/qatar-warns-iran-war-could-halt-gulf-energy-exports-within-weeks",
+      "file": "46d2004cc3ad.txt",
+      "title": "Qatar warns Iran war could halt Gulf energy exports \u2018within weeks\u2019 | US-Israel war on Iran News | Al Jazeera",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": null,
+      "text_length": 108,
+      "status": "ok",
+      "num_tokens": 24
+    },
+    {
+      "url": "https://edition-m.cnn.com/2026/03/04/middleeast/qatar-downs-iran-bombers-us-base-intl",
+      "file": "741887e6c59d.txt",
+      "title": "Exclusive: Minutes from disaster \u2014 how Qatar shot down two Iranian bombers in its first aerial combat operation | CNN",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "Mostafa Salem",
+      "text_length": 3781,
+      "status": "ok",
+      "num_tokens": 803
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-attack-in-iran-qatar-to-fully-shut-gas-liquefaction-amid-tehrans-retaliatory-strikes/articleshow/129031277.cms",
+      "file": "17efe4e9132d.txt",
+      "title": "US-Israel attack in Iran: Qatar to fully shut gas liquefaction amid Tehran's retaliatory strikes - The Times of India",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "TOI World Desk  / TIMESOFINDIA.COM /   Mar 04, 2026, 19:31 IST",
+      "text_length": 1020,
+      "status": "ok",
+      "num_tokens": 177
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2026/3/2/qatar-says-it-downed-two-iranian-fighter-jets-as-conflict-widens",
+      "file": "8a21078e3153.txt",
+      "title": "Qatar downs two Iranian fighter jets as conflict widens | US-Israel war on Iran News | Al Jazeera",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Al Jazeera Staff",
+      "text_length": 4074,
+      "status": "ok",
+      "num_tokens": 793
+    },
+    {
+      "url": "https://www.al-monitor.com/originals/2026/03/qatar-downs-iran-jets-tehran-targets-oil-and-gas-spiralling-gulf-crisis",
+      "file": "7d0f41bb6e9f.txt",
+      "title": "Qatar downs Iran jets as Tehran targets oil and gas in spiralling Gulf crisis - AL-Monitor: The Middle East\u02bcs leading independent news source since 2012",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 4784,
+      "status": "ok",
+      "num_tokens": 964
+    }
+  ],
+  "total_tokens": 2761
+}

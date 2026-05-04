@@ -1,0 +1,37 @@
+{
+  "hash": "e240d225170a",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://globeandmail.com/business/article-oil-crude-iran-hormuz/",
+      "title": "Oil jumps 10% after Iran attacks, could spike to $100 a barrel, analysts say - The Globe and Mail",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 543,
+      "text_length": 2477
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1467763",
+      "spike_id": 2,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $120 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.425,
+      "spike_timestamp_before": "2026-02-28T19:30:32+00:00",
+      "spike_timestamp_after": "2026-03-01T01:30:32+00:00"
+    },
+    {
+      "market_id": "1467763",
+      "spike_id": 3,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $120 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.185,
+      "spike_timestamp_before": "2026-03-01T01:30:32+00:00",
+      "spike_timestamp_after": "2026-03-01T15:00:40+00:00"
+    }
+  ]
+}

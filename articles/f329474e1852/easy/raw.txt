@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the election poll published on Thursday night, February 19, 2026, by Israel's Channel 12 News, how many seats did Prime Minister Benjamin Netanyahu's Likud party project to win?",
+    "a": "27 seats"
+  },
+  {
+    "q": "According to the February 19, 2026, Channel 12 News poll, how many seats would Naftali Bennett's 2026 party win if elections were held at that time?",
+    "a": "20 seats"
+  },
+  {
+    "q": "In the February 19, 2026, Channel 12 News poll, what was the projected seat count for the Joint List of Arab parties assuming a merger of Arab parties occurred?",
+    "a": "12 seats"
+  },
+  {
+    "q": "According to the February 19, 2026, poll by the Midgam Institute and iPanel, how many seats were projected for Gadi Eisenkot's Yashar party?",
+    "a": "10 seats"
+  },
+  {
+    "q": "In the February 19, 2026, Channel 12 News election poll, how many seats were projected for the Democrats party?",
+    "a": "10 seats"
+  },
+  {
+    "q": "According to the February 19, 2026, Channel 12 News poll, how many seats were projected for the Shas party?",
+    "a": "9 seats"
+  },
+  {
+    "q": "In the February 19, 2026, Channel 12 News poll, what was the projected seat count for Yisrael Beiteinu?",
+    "a": "9 seats"
+  },
+  {
+    "q": "According to the February 19, 2026, Channel 12 News poll, how many seats were projected for Otzma Yehudit?",
+    "a": "9 seats"
+  },
+  {
+    "q": "In the February 19, 2026, Channel 12 News election poll, what was the projected seat count for Yesh Atid?",
+    "a": "7 seats"
+  },
+  {
+    "q": "According to the February 19, 2026, Channel 12 News poll, how many seats were projected for United Torah Judaism?",
+    "a": "7 seats"
+  },
+  {
+    "q": "In the February 19, 2026, Channel 12 News poll, which party led by Bezalel Smotrich was projected to receive zero seats and fail to cross the electoral threshold?",
+    "a": "Religious Zionism"
+  },
+  {
+    "q": "According to the February 19, 2026, Channel 12 News poll, which party led by Benny Gantz was projected to receive zero seats and fail to cross the electoral threshold?",
+    "a": "Kahol Lavan"
+  },
+  {
+    "q": "In the February 19, 2026, Channel 12 News poll, which party was projected to receive zero seats and fail to cross the electoral threshold?",
+    "a": "The Reservists"
+  },
+  {
+    "q": "According to the February 19, 2026, Channel 12 News poll, what was the total number of seats projected for the opposition bloc if the Arab parties merged into the Joint List?",
+    "a": "70 seats"
+  },
+  {
+    "q": "In the February 19, 2026, Channel 12 News poll, what was the total number of seats projected for the opposition bloc if the Arab parties did not merge?",
+    "a": "68 seats"
+  },
+  {
+    "q": "According to the February 19, 2026, Channel 12 News poll, how many seats did Likud win in the previous week's projection before increasing to 27?",
+    "a": "26 seats"
+  },
+  {
+    "q": "In the February 19, 2026, Channel 12 News poll, what was the specific electoral threshold percentage that parties like Religious Zionism and Kahol Lavan failed to cross?",
+    "a": "3.25 percent"
+  },
+  {
+    "q": "According to the February 19, 2026, poll conducted by the Midgam Institute, who headed the institute?",
+    "a": "Mano Geva"
+  },
+  {
+    "q": "In the February 19, 2026, Channel 12 News poll, which polling organization cooperated with the Midgam Institute?",
+    "a": "iPanel"
+  },
+  {
+    "q": "According to the February 19, 2026, Channel 12 News poll, which Arab secular party was projected to fail to cross the electoral threshold if a merger did not occur?",
+    "a": "Balad"
+  },
+  {
+    "q": "In the February 19, 2026, Channel 12 News poll, which party remained the second-largest party with 20 seats in the scenario of an Arab party merger?",
+    "a": "Bennett 2026"
+  },
+  {
+    "q": "According to the February 19, 2026, Channel 12 News poll, which party's support had strengthened slightly compared to the previous week?",
+    "a": "Likud"
+  },
+  {
+    "q": "In the February 19, 2026, Channel 12 News poll, what was the combined seat count for Shas, Yisrael Beiteinu, and Otzma Yehudit?",
+    "a": "27 seats"
+  },
+  {
+    "q": "According to the February 19, 2026, Channel 12 News poll, what was the combined seat count for Yesh Atid and United Torah Judaism?",
+    "a": "14 seats"
+  },
+  {
+    "q": "In the February 19, 2026, Channel 12 News poll, which party led by Naftali Bennett was projected to win 20 seats?",
+    "a": "Bennett 2026"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In June 2025, what specific claim did President Donald Trump make regarding the status of Iran’s nuclear enrichment facilities following US airstrikes?",
+    "a": "He claimed they had been \"completely and totally obliterated.\""
+  },
+  {
+    "q": "Which US intelligence community assessment from March 2026 contradicted the justification for potential renewed strikes on Iran?",
+    "a": "It assessed that Iran was \"not building a nuclear weapon.\""
+  },
+  {
+    "q": "On June 22, 2025, what additional claim did Defense Secretary Pete Hegseth make beyond President Trump’s initial statement about the strikes?",
+    "a": "He declared that Iran’s nuclear ambitions had also been obliterated."
+  },
+  {
+    "q": "What did an early US intelligence assessment reported by CNN on June 24, 2025, conclude about the actual impact of the June 2025 airstrikes on Iran’s nuclear program?",
+    "a": "It found the strikes likely only set the program back by months and did not destroy core components."
+  },
+  {
+    "q": "Which special envoy suggested in late February 2026 that Iran was approximately a week away from having industrial-grade bomb-making material?",
+    "a": "Steve Witkoff."
+  },
+  {
+    "q": "What percentage of uranium enrichment did Steve Witkoff state Iran had reached by late February 2026?",
+    "a": "Up to 60%."
+  },
+  {
+    "q": "In his State of the Union address scheduled for Tuesday night in late February 2026, what topic was President Donald Trump likely to discuss regarding Iran?",
+    "a": "A potentially more extensive military campaign or strike against Iran."
+  },
+  {
+    "q": "What rationale did Vice President JD Vance cite to Fox News in late February 2026 as the primary interest in preventing Iran from acquiring nuclear weapons?",
+    "a": "The United States does not want Iran to get a nuclear weapon."
+  },
+  {
+    "q": "Which two news organizations reported in late June 2025 that the US intelligence assessment did not support President Trump’s claim that Iran’s nuclear program was destroyed?",
+    "a": "CNN and The New York Times."
+  },
+  {
+    "q": "What specific date did President Donald Trump first publicly claim that Iran’s key nuclear enrichment facilities were \"completely and totally obliterated\"?",
+    "a": "June 21, 2025."
+  },
+  {
+    "q": "Who served as the Chairman of the Joint Chiefs of Staff and provided a more circumspect assessment of the June 2025 strikes than President Trump?",
+    "a": "Dan Caine."
+  },
+  {
+    "q": "On February 13, 2026, what specific phrase did President Donald Trump use to describe the outcome of the strikes on Iran’s nuclear potential capability?",
+    "a": "He said it achieved \"total obliteration.\""
+  },
+  {
+    "q": "What reason did White House Press Secretary Karoline Leavitt give for why the US might strike Iran again despite previous claims of obliteration?",
+    "a": "She stated there were \"many reasons and arguments\" for a strike, without specifying one coherent cause."
+  },
+  {
+    "q": "What was the stated justification for the US operation to oust Venezuelan President Nicolás Maduro, which the article notes had shifting motivations similar to the Iran situation?",
+    "a": "It was justified as being about drugs, law enforcement, and/or oil."
+  },
+  {
+    "q": "On February 23, 2026, what warning did Iran issue to the US regarding any potential attack?",
+    "a": "Iran warned that any attack would be met \"ferociously.\""
+  },
+  {
+    "q": "Which satellite imagery company provided images on June 22, 2025, showing damaged buildings at the Isfahan nuclear technology center?",
+    "a": "Maxar Technologies."
+  },
+  {
+    "q": "What specific nuclear material enrichment level did Steve Witkoff identify as the threshold for \"industrial-grade bomb-making material\" in late February 2026?",
+    "a": "60% enrichment."
+  },
+  {
+    "q": "On January 20, 2026, what specific aspect of Iran’s nuclear program did President Donald Trump claim had been obliterated?",
+    "a": "Iran’s nuclear enrichment capability."
+  },
+  {
+    "q": "What shift in motivation does the article identify in the Trump administration’s rhetoric between June 2025 and late February 2026 regarding Iran?",
+    "a": "The focus shifted from highlighting the success of a past mission to building the case for a future military intervention."
+  },
+  {
+    "q": "Which organization did President Donald Trump serve as leader of when he ordered the June 2025 airstrikes on Iran?",
+    "a": "The United States government (as President of the United States)."
+  },
+  {
+    "q": "On November 19, 2025, how did President Donald Trump describe the speed and manner in which Iran’s nuclear capability was destroyed?",
+    "a": "He said it was obliterated \"very quickly and strongly and powerfully.\""
+  },
+  {
+    "q": "What specific location in northern Tehran did Iranians walk past on February 23, 2026, as depicted in the article's imagery?",
+    "a": "The Emamzadeh Saleh mosque."
+  },
+  {
+    "q": "On October 13, 2025, what claim did President Donald Trump make about the existence of Iran’s nuclear program?",
+    "a": "He claimed, \"Well, they don’t have a nuclear program. It was obliterated.\""
+  },
+  {
+    "q": "Which Fox News interviewee in late February 2026 suggested that Iran’s nuclear threat was imminent and dangerous?",
+    "a": "Steve Witkoff, Trump’s special envoy."
+  },
+  {
+    "q": "On July 31, 2025, what brief statement did President Donald Trump make regarding the status of Iran’s nuclear program?",
+    "a": "He stated, \"It’s been obliterated.\""
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "What was the name of the joint U.S.-Israeli military operation that triggered electronic warfare activity and attacks on vessels in the Strait of Hormuz region in late February and early March 2026?",
+    "a": "Operation Epic Fury"
+  },
+  {
+    "q": "On what specific date did U.S. maritime authorities issue a warning urging commercial vessels to avoid strategic waterways including the Persian Gulf and Gulf of Oman due to heightened security risks?",
+    "a": "February 28, 2026"
+  },
+  {
+    "q": "Who is Jakob P. Larsen, and what specific warning did he give to Fox News Digital regarding the safety of ships in the Persian Gulf in early March 2026?",
+    "a": "He is the head of maritime security at BIMCO, and he warned that ships in the Persian Gulf are under threat from Iranian attacks."
+  },
+  {
+    "q": "Which two organizations reported multiple maritime incidents listed as \"attacks\" on vessels in the Strait of Hormuz region on Sunday, March 1, 2026?",
+    "a": "The United Kingdom Maritime Trade Operations (UKMTO) and regional authorities"
+  },
+  {
+    "q": "Describe the specific incident involving a vessel west of Sharjah, UAE, that was reported on Sunday, March 1, 2026.",
+    "a": "The vessel was rocked by an explosion from an unknown projectile that detonated close alongside it."
+  },
+  {
+    "q": "What happened to a tanker north of Muscat, Oman, on Sunday, March 1, 2026, according to reports from maritime authorities?",
+    "a": "It was struck above the waterline, sparking a fire that was later brought under control."
+  },
+  {
+    "q": "What incident occurred to a third vessel northwest of Mina Saqr, UAE, on Sunday, March 1, 2026, as reported by the United Kingdom Maritime Trade Operations?",
+    "a": "It was hit by a projectile that ignited a blaze aboard."
+  },
+  {
+    "q": "According to maritime intelligence firm Windward, how many ships were impacted by widespread GPS and Automatic Identification System (AIS) interference in the Strait of Hormuz region in early March 2026?",
+    "a": "More than 1,000 ships"
+  },
+  {
+    "q": "What specific navigation disruption near Iran’s Bandar Abbas port did the maritime intelligence firm Windward report in early March 2026?",
+    "a": "Ships were falsely appearing at airports, a nuclear power plant, and inland locations."
+  },
+  {
+    "q": "Which four countries' waters did Windward identify as having new AIS jamming clusters in early March 2026?",
+    "a": "Emirati, Qatari, Omani, and Iranian waters"
+  },
+  {
+    "q": "Which major shipping company announced in early March 2026 that it would reroute some services away from the Strait of Hormuz region, and what was the cited reason?",
+    "a": "Maersk, citing crew and cargo safety"
+  },
+  {
+    "q": "Approximately what percentage of global oil and gas exports passes through the Strait of Hormuz, according to reports in early March 2026?",
+    "a": "Roughly 20%"
+  },
+  {
+    "q": "What specific retaliatory actions did industry groups warn the Houthis might resume in the Red Sea, Bab el-Mandeb Strait, and Gulf of Aden in early March 2026?",
+    "a": "Attacks on ships"
+  },
+  {
+    "q": "According to Jakob P. Larsen of BIMCO, which type of ships were considered more likely targets for strikes in the Strait of Hormuz region in early March 2026?",
+    "a": "Ships with business connections to U.S. or Israeli interests"
+  },
+  {
+    "q": "What warning did the tanker owners’ association Intertanko issue to its members in early March 2026 regarding potential Houthi actions?",
+    "a": "That the Houthis may respond and recommence attacks on shipping."
+  },
+  {
+    "q": "Did Jakob P. Larsen of BIMCO report any signs of Iranian attempts to close the Strait of Hormuz with sea mines or naval mines in early March 2026?",
+    "a": "No, there were no signs of such attempts, although he noted this could change at short notice."
+  },
+  {
+    "q": "How did the level of GPS interference in the Strait of Hormuz region change following the initiation of hostilities in late February and early March 2026, according to Jakob P. Larsen?",
+    "a": "It increased significantly"
+  },
+  {
+    "q": "What did Jakob P. Larsen of BIMCO say most ships were doing to protect themselves from Iranian attacks in the Persian Gulf in early March 2026?",
+    "a": "Staying as far away from Iran as possible and trying to depart the Persian Gulf."
+  },
+  {
+    "q": "Which specific waterways did U.S. maritime authorities advise commercial vessels to avoid in their February 28, 2026 warning?",
+    "a": "The Persian Gulf, Gulf of Oman, and Arabian Sea"
+  },
+  {
+    "q": "What did Windward report regarding the location of widespread navigation disruption near Iran’s Bandar Abbas port in early March 2026?",
+    "a": "Ships were falsely appearing at airports, a nuclear power plant, and inland locations."
+  },
+  {
+    "q": "Which two entities were responsible for the U.S.-Israeli strikes on Iran that escalated tensions in the Strait of Hormuz in late February 2026?",
+    "a": "The United States and Israel"
+  },
+  {
+    "q": "What specific threat did the Houthis make regarding maritime traffic in the Red Sea, Bab el-Mandeb Strait, and Gulf of Aden in early March 2026?",
+    "a": "They threatened to resume attacks on ships."
+  },
+  {
+    "q": "What action did some tankers take in the Strait of Hormuz region in early March 2026 in response to the heightened security risks?",
+    "a": "They reversed course or switched off AIS signals."
+  },
+  {
+    "q": "Who is Emma Bussey, and what news organization published her article on March 1, 2026, detailing the escalation in the Strait of Hormuz?",
+    "a": "She is the author, and Fox News published the article."
+  },
+  {
+    "q": "What did Jakob P. Larsen of BIMCO state about the current danger level for commercial shipping in the Persian Gulf, Strait of Hormuz, and adjacent waters in early March 2026?",
+    "a": "He described them as the most dangerous places right now for commercial shipping."
+  }
+]

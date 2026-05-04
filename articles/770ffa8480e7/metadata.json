@@ -1,0 +1,47 @@
+{
+  "hash": "770ffa8480e7",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://origin.www.bloomberg.com/news/articles/2026-03-02/uae-and-qatar-urge-allies-to-help-trump-find-off-ramp-on-iran?srnd=undefined",
+      "title": "UAE and Qatar Urge Allies to Help Trump Find Iran Off-Ramp - Bloomberg",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Alex Wickham",
+      "num_tokens": 95,
+      "text_length": 536
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1472017",
+      "spike_id": 3,
+      "market_question": "Will Qatar strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.445,
+      "spike_timestamp_before": "2026-03-01T11:30:43+00:00",
+      "spike_timestamp_after": "2026-03-02T10:30:29+00:00"
+    },
+    {
+      "market_id": "1472017",
+      "spike_id": 5,
+      "market_question": "Will Qatar strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.185,
+      "spike_timestamp_before": "2026-03-02T14:30:31+00:00",
+      "spike_timestamp_after": "2026-03-03T06:30:49+00:00"
+    },
+    {
+      "market_id": "1472017",
+      "spike_id": 6,
+      "market_question": "Will Qatar strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.57,
+      "spike_timestamp_before": "2026-03-02T15:00:50+00:00",
+      "spike_timestamp_after": "2026-03-03T14:30:35+00:00"
+    }
+  ]
+}

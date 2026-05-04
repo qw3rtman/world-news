@@ -1,0 +1,100 @@
+[
+  {
+    "q": "According to the research and consultancy firm Wood Mackenzie, what crude oil price level could be reached in the coming weeks if the war in Iran continues to cut Gulf oil supply by approximately 15 million barrels per day?",
+    "a": "$150 per barrel."
+  },
+  {
+    "q": "In the article published by Reuters on March 10, 2026, which specific military organization vowed not to let any oil out of the Middle East until U.S. and Israeli attacks cease?",
+    "a": "Iran's Revolutionary Guards."
+  },
+  {
+    "q": "What total daily production of liquids do Gulf countries produce, according to Wood Mackenzie's analysis published in March 2026?",
+    "a": "20 million barrels per day."
+  },
+  {
+    "q": "To balance the global oil market given a demand of 105 million barrels per day and a supply cut of 15 million barrels per day, what price increase did Wood Mackenzie project for Brent crude in the coming weeks?",
+    "a": "At least to $150 per barrel."
+  },
+  {
+    "q": "Which European fuel supply metric did Wood Mackenzie highlight as particularly acute, noting that Gulf refineries supply 60% of it?",
+    "a": "Jet fuel."
+  },
+  {
+    "q": "What percentage of Europe's diesel supply is provided by Gulf refineries, according to the Wood Mackenzie assessment cited in the March 10, 2026 Reuters article?",
+    "a": "30%."
+  },
+  {
+    "q": "Wood Mackenzie stated that a crude oil price of $200 per barrel is not outside the realms of possibility in which specific year?",
+    "a": "2026."
+  },
+  {
+    "q": "Which geographic chokepoint's closure duration was cited by Wood Mackenzie as a key factor determining how long the war's impact on oil supply lasts?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "According to Wood Mackenzie, which naval force could ensure safe passage of vessels by escorting shipping, potentially mitigating the oil supply disruption?",
+    "a": "The U.S. Navy."
+  },
+  {
+    "q": "What was the reported daily volume of oil and oil products supply cut from the market due to the war in Iran as of March 10, 2026?",
+    "a": "15 million barrels per day."
+  },
+  {
+    "q": "Which two countries' attacks were cited by Iran's Revolutionary Guards as the condition for resuming oil exports from the Middle East?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "What is the total global oil demand figure cited by Wood Mackenzie that must be balanced against the reduced supply from the Gulf region?",
+    "a": "105 million barrels per day."
+  },
+  {
+    "q": "Which specific type of vessel operated by Van Oord was pictured in Muscat, Oman, on March 9, 2026, amid the U.S.-Israeli conflict with Iran?",
+    "a": "A hopper dredger vessel."
+  },
+  {
+    "q": "Who was the Reuters reporter credited with writing the article about oil prices and the Gulf shutdown published on March 10, 2026?",
+    "a": "Pablo Sinha."
+  },
+  {
+    "q": "Who was the editor credited with editing the Reuters article regarding Wood Mackenzie's oil price forecast published on March 10, 2026?",
+    "a": "Jason Neely."
+  },
+  {
+    "q": "According to Wood Mackenzie, why will ramping up oil supply not be swift even after the conflict in Iran ends?",
+    "a": "The article does not specify the exact reason, only stating that it will not be swift.",
+    "q": "According to Wood Mackenzie, what specific action by the U.S. Navy could help ensure safe passage of vessels during the conflict?",
+    "a": "Escorting shipping."
+  },
+  {
+    "q": "What is the name of the research and consultancy firm that predicted oil could hit $150 per barrel amid the Gulf shutdown in March 2026?",
+    "a": "Wood Mackenzie."
+  },
+  {
+    "q": "Which city in Oman hosted the anchoring of a Van Oord hopper dredger vessel on March 9, 2026, as reported by Reuters?",
+    "a": "Muscat."
+  },
+  {
+    "q": "What percentage of Europe's jet fuel supply is supplied by Gulf refineries, according to the Wood Mackenzie data cited in March 2026?",
+    "a": "60%."
+  },
+  {
+    "q": "What is the total volume of Gulf oil exports that have been taken out of the global market, according to Wood Mackenzie's March 2026 assessment?",
+    "a": "15 million barrels per day."
+  },
+  {
+    "q": "Which two entities are conducting attacks that Iran's Revolutionary Guards demanded cease before allowing oil out of the Middle East?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "What specific price point did Wood Mackenzie suggest is not outside the realms of possibility for crude oil in 2026?",
+    "a": "$200 per barrel."
+  },
+  {
+    "q": "What percentage of Europe's diesel supply is provided by Gulf refineries, according to the March 2026 Wood Mackenzie analysis?",
+    "a": "30%."
+  },
+  {
+    "q": "Which naval force did Wood Mackenzie identify as potentially capable of ensuring safe passage for vessels by escorting shipping?",
+    "a": "The U.S. Navy."
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "hash": "e45b318170c8",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cbsnews.com/news/brent-crude-oil-price-100-strait-of-hormuz-gas-prices/",
+      "title": "Gas prices edge higher with Brent crude remaining above $100 per barrel - CBS News",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 796,
+      "text_length": 3794
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1515775",
+      "spike_id": 21,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $105 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.16449999999999998,
+      "spike_timestamp_before": "2026-03-16T03:00:44+00:00",
+      "spike_timestamp_after": "2026-03-16T14:00:39+00:00"
+    },
+    {
+      "market_id": "1515775",
+      "spike_id": 22,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $105 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.236,
+      "spike_timestamp_before": "2026-03-16T03:00:44+00:00",
+      "spike_timestamp_after": "2026-03-16T18:30:35+00:00"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In the joint Israeli-U.S. war against Iran that began in early March 2026, what price did U.S. President Donald Trump predict oil would return to, and how does the actual Brent crude price of approximately $100 a barrel in mid-March 2026 compare to that prediction?",
+    "a": "Trump predicted prices would fall back to pre-war levels; the actual price of ~$100 is significantly higher than pre-war levels."
+  },
+  {
+    "q": "As of mid-March 2026, what percentage increase has Brent crude experienced since the start of the year, and how does this compare to the brief peak price recorded last Monday?",
+    "a": "Brent crude is up about 65% from the start of the year and is below the brief peak of nearly $120 recorded last Monday."
+  },
+  {
+    "q": "During the conflict beginning in March 2026, what volume of global oil supplies, expressed in barrels per day, has been trapped by the effective closure of the Strait of Hormuz?",
+    "a": "Approximately 20 million barrels per day."
+  },
+  {
+    "q": "What specific market phenomenon, nicknamed by traders in March 2026, describes the betting that U.S. President Donald Trump will limit market damage and that the crisis will unwind quickly?",
+    "a": "The 'Trump put,' the 'TACO trade,' or 'buying the Trump.'"
+  },
+  {
+    "q": "On Monday in March 2026, why did Brent crude fall slightly despite the ongoing conflict, and which three countries were identified as destinations for tankers that had recently crossed the Strait of Hormuz?",
+    "a": "It fell due to news that tankers carrying crude to India, China, and Pakistan had crossed the strait, indicating some safe passage negotiations."
+  },
+  {
+    "q": "In March 2026, what was the record premium for Omani crude over Brent, and how did this premium compare to the average premium observed in February 2026?",
+    "a": "The premium was $51 a barrel, compared to an average of just 75 cents in February."
+  },
+  {
+    "q": "What was the outright price for May loading of Omani crude in March 2026, and what event caused the enormous uncertainty over supply availability that drove this price up?",
+    "a": "The price was around $150 a barrel, driven by repeated Iranian strikes on oil terminals in Oman and at Fujairah, United Arab Emirates."
+  },
+  {
+    "q": "According to S&P Global Platts and Reuters data in March 2026, what was the cash premium for Dubai crude, and how did this figure compare to its average in February 2026?",
+    "a": "The premium jumped to $56 a barrel from an average of 90 cents in February."
+  },
+  {
+    "q": "Why are Asian refiners facing a serious problem in March 2026 regarding crude imports, and what percentage of their crude imports do they typically rely on from the Middle East?",
+    "a": "They face a problem because they rely on the Middle East for roughly 60% of their crude imports, and sourcing alternative timely supplies is becoming acute."
+  },
+  {
+    "q": "How long does a shipment from the Gulf take to reach Asian customers, and what impact does each day of Strait of Hormuz closure have on the supply gap for refiners?",
+    "a": "It takes around a month, and with every day the strait remains closed, the supply gap widens."
+  },
+  {
+    "q": "In March 2026, what specific production adjustment did China’s Sinopec plan to implement due to a crude supply shortfall, and what percentage reduction was involved?",
+    "a": "Sinopec planned to slash production throughput by more than 10% from its original plan."
+  },
+  {
+    "q": "Which two countries banned exports of refined fuels in March 2026 as a defensive move, and what risk does this action pose to global markets?",
+    "a": "China and Thailand banned exports, risking further tightening of global markets."
+  },
+  {
+    "q": "In March 2026, what price were Asian jet fuel prices approaching, and what was the record price reached earlier in the month?",
+    "a": "Prices were approaching $200 a barrel, close to the record of about $220 reached earlier in the month."
+  },
+  {
+    "q": "What percentage of Europe’s jet fuel exports shipped via the Strait of Hormuz did Europe account for last year, and what was the volume in barrels per day?",
+    "a": "Europe accounted for roughly three-quarters of these exports, amounting to about 379,000 bpd."
+  },
+  {
+    "q": "As of March 2026, what is the status of jet fuel cargo transiting the Strait of Hormuz since the war began, and what record price have jet fuel barges in the Amsterdam-Rotterdam-Antwerp hub reached?",
+    "a": "No cargo has transited the strait since the war began, and barges in the hub have surged to a record $190 a barrel."
+  },
+  {
+    "q": "How does the record jet fuel price in the Amsterdam-Rotterdam-Antwerp hub in March 2026 compare to the previous peak hit after Russia’s full-scale invasion of Ukraine?",
+    "a": "The $190 price surpasses the previous peak hit in the immediate aftermath of Russia’s invasion in February 2022."
+  },
+  {
+    "q": "Before the 2022 invasion of Ukraine, what percentage of Europe’s crude imports and refined product imports did Russia supply, and how much crude does Russia pump daily?",
+    "a": "Russia supplied around 30% of Europe’s crude imports and a third of its refined product imports, pumping around 10 million bpd."
+  },
+  {
+    "q": "According to Morgan Stanley in March 2026, how does the physical disruption from the Iran war compare to the feared supply loss from Russia before the 2022 Ukraine invasion?",
+    "a": "The disruption has exceeded the feared amount from Russia by more than three times."
+  },
+  {
+    "q": "What global supply-demand balance did the International Energy Agency forecast before the Iran war began, and how has this situation changed due to the current disruption?",
+    "a": "The IEA forecasted a glut where global supply would exceed demand by around 3.7 million bpd, but this glut has been eliminated by the disruption."
+  },
+  {
+    "q": "What record release from strategic petroleum reserves did the International Energy Agency announce in late February 2026, and what was the volume?",
+    "a": "The IEA announced plans for a record release of 400 million barrels from member states’ strategic petroleum reserves."
+  },
+  {
+    "q": "According to the International Energy Agency in March 2026, how much Middle Eastern production has been shut in since the conflict began, and how long would restoring those flows take?",
+    "a": "Around 10 million bpd have been shut in, and restoring those flows would take weeks, if not months."
+  },
+  {
+    "q": "What initial market reaction is expected once the Strait of Hormuz is reopened, and why might traders hesitate to bet on a return to normality based on physical market realities in March 2026?",
+    "a": "Prices could initially plunge in a relief rally, but traders may hesitate because grim realities in physical markets suggest normality is not coming soon."
+  },
+  {
+    "q": "What specific premium did Omani crude trade at against Brent in March 2026, and what was the resulting outright price for May loading?",
+    "a": "Omani crude traded at a record premium of $51 a barrel to Brent, pushing the outright price to around $150 a barrel."
+  },
+  {
+    "q": "Which terminal in the United Arab Emirates was targeted by Iranian strikes, causing uncertainty in oil supply in March 2026, and what is its primary function?",
+    "a": "Fujairah was targeted; it is the United Arab Emirates’ main oil-exporting terminal outside the Strait of Hormuz."
+  },
+  {
+    "q": "How does the price of Brent crude in mid-March 2026 compare to its level at the start of the year, and what was the price at the start of the year relative to the $100 current price?",
+    "a": "Brent is about 65% above its level at the start of the year; the start-of-year price was significantly lower than the current ~$100."
+  },
+  {
+    "q": "What nickname did traders in March 2026 give to the strategy of betting on U.S. President Donald Trump to limit market damage, and what is the alternative name mentioned?",
+    "a": "The 'Trump put' or the 'TACO trade'."
+  }
+]

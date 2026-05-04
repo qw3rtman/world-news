@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In February 2026, what specific accusation did Marine Le Pen and Jordan Bardella level against French President Emmanuel Macron regarding his appointments to key state positions?",
+    "a": "They accused him of staging an \"administrative coup d’état\" to prevent the National Rally from exercising power if they win the 2027 elections."
+  },
+  {
+    "q": "Who is the 30-year-old lieutenant of Marine Le Pen who is expected to be appointed prime minister or run for president in the April 2027 French elections?",
+    "a": "Jordan Bardella."
+  },
+  {
+    "q": "Which independent French body overseeing government spending did President Macron appoint Amélie de Montchalin to head in early 2026?",
+    "a": "The Court of Auditors."
+  },
+  {
+    "q": "Why did Pierre Moscovici, the outgoing head of the Court of Auditors, step down from his position in early 2026?",
+    "a": "He stated he did not want his successor to be named by a National Rally president."
+  },
+  {
+    "q": "Which French central bank announced in early 2026 that its governor, François Villeroy de Galhau, would step down 18 months before the end of his term?",
+    "a": "The Banque de France."
+  },
+  {
+    "q": "Who did President Macron appoint as head of the Constitutional Council in 2025?",
+    "a": "Richard Ferrand, a close friend and former minister."
+  },
+  {
+    "q": "Which Air Force General, formerly President Macron’s personal military adviser, was appointed head of the French armed forces?",
+    "a": "Fabien Mandon."
+  },
+  {
+    "q": "How many ambassadorial posts did President Macron plan to renew in 2026, including positions in Washington, London, Berlin, and Kyiv?",
+    "a": "More than 60."
+  },
+  {
+    "q": "What rhetorical strategy did the Élysée Palace and the French government, led by Sebastien Lecornu, use to dismiss the National Rally's accusations?",
+    "a": "They accused the hard-right of using \"Trump-like rhetoric\" to undermine trust in democratic institutions."
+  },
+  {
+    "q": "What is the intended duration of the terms for the key state posts that President Macron filled with allies, making them protected from dismissal?",
+    "a": "Five to seven years."
+  },
+  {
+    "q": "Who is the president of the European Central Bank who faced speculation about stepping down early in 2026?",
+    "a": "Christine Lagarde."
+  },
+  {
+    "q": "Which German politician did Jordan Bardella accuse President Macron of coordinating with to ensure a successor to Christine Lagarde was chosen before the 2027 French elections?",
+    "a": "Friedrich Merz, the German chancellor."
+  },
+  {
+    "q": "What is the end date of Christine Lagarde’s term as president of the European Central Bank?",
+    "a": "September 2027."
+  },
+  {
+    "q": "In which publication did Christine Lagarde state that her baseline was to remain at the European Central Bank until the end of her term?",
+    "a": "The Wall Street Journal."
+  },
+  {
+    "q": "What political structure do Marine Le Pen and Jordan Bardella propose for the European Union, described as a \"Europe of Nations\"?",
+    "a": "A union that neuter the federal power of Brussels and imposes political control over the independent central bank."
+  },
+  {
+    "q": "Which international military alliance do Le Pen and Bardella plan to have France withdraw from?",
+    "a": "The integrated military command of Nato."
+  },
+  {
+    "q": "What conviction in July 2026 could potentially bar Marine Le Pen from running for the French presidency, prompting Jordan Bardella to consider a presidential run?",
+    "a": "A conviction for embezzling EU funds."
+  },
+  {
+    "q": "Which French budget minister, a close ally of President Macron, was appointed to head the Court of Auditors in early 2026?",
+    "a": "Amélie de Montchalin."
+  },
+  {
+    "q": "What specific goal did Jordan Bardella attribute to President Macron’s strategy of locking down institutions?",
+    "a": "To \"Le Pen-proof\" France and prevent Bardella from governing as the French people wish."
+  },
+  {
+    "q": "Which two elections scheduled for 2027 are the National Rally preparing for, according to the February 2026 article?",
+    "a": "The presidential election and the subsequent parliamentary elections."
+  },
+  {
+    "q": "What role does Sebastien Lecornu hold in the French government that led him to dismiss the National Rally's charges as baseless?",
+    "a": "He is the leader of the French government."
+  },
+  {
+    "q": "What specific financial issues did Jordan Bardella claim President Macron sought to bind the hands of his successor on regarding the Banque de France?",
+    "a": "Debt and purchasing power."
+  },
+  {
+    "q": "Which organization did the National Rally accuse President Macron of trying to seize control of through behind-closed-doors negotiations with Friedrich Merz?",
+    "a": "The European Central Bank."
+  },
+  {
+    "q": "What is the political orientation of the National Rally party that is currently ahead in opinion polls as of February 2026?",
+    "a": "Eurosceptic, anti-immigrant, and anti-Nato."
+  },
+  {
+    "q": "Who is the outgoing head of the Court of Auditors who stepped down early in early 2026 to avoid serving under a potential National Rally president?",
+    "a": "Pierre Moscovici."
+  },
+  {
+    "q": "What specific type of state structure did Marine Le Pen claim President Macron was creating to remain loyal only to the Élysée Palace?",
+    "a": "A \"state within the state.\""
+  }
+]

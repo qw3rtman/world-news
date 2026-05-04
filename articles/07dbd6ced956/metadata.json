@@ -1,0 +1,27 @@
+{
+  "hash": "07dbd6ced956",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.iranintl.com/en/202603153753",
+      "title": "Israeli military says expanding strikes to western, central Iran | Iran International",
+      "published_date": "2026-03-15T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 24,
+      "text_length": 146
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "678747",
+      "spike_id": 5,
+      "market_question": "Will Israel strike 4 countries in 2026?",
+      "event_title": "How many different countries will Israel strike in 2026?",
+      "spike_direction": "down",
+      "spike_delta": -0.22150000000000003,
+      "spike_timestamp_before": "2026-03-15T22:30:48+00:00",
+      "spike_timestamp_after": "2026-03-16T20:30:52+00:00"
+    }
+  ]
+}

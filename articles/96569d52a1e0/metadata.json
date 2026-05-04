@@ -1,0 +1,27 @@
+{
+  "hash": "96569d52a1e0",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://al-monitor.com/originals/2026/03/israel-doubts-iran-regime-change-odds-despite-netanyahu-rhetoric",
+      "title": "Israel doubts Iran regime change odds despite Netanyahu rhetoric - AL-Monitor: The Middle Eastʼs leading independent news source since 2012",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 189,
+      "text_length": 905
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1484949",
+      "spike_id": 5,
+      "market_question": "Netanyahu out by March 31?",
+      "event_title": "Netanyahu out by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.1835,
+      "spike_timestamp_before": "2026-03-09T18:00:41+00:00",
+      "spike_timestamp_after": "2026-03-10T03:00:36+00:00"
+    }
+  ]
+}

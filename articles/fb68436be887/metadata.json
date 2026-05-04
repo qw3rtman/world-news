@@ -1,0 +1,27 @@
+{
+  "hash": "fb68436be887",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.bbc.com/news/live/cy0dp1l57nxt",
+      "title": "Israel launches new strikes on Iran as US identifies first American soldiers killed in conflict - BBC News",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 2345,
+      "text_length": 11332
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "791705",
+      "spike_id": 2,
+      "market_question": "Israel strikes Iran by March 31, 2026?",
+      "event_title": "Israel strikes Iran by March 31, 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.5245000000000001,
+      "spike_timestamp_before": "2026-02-27T08:30:22+00:00",
+      "spike_timestamp_after": "2026-02-28T08:00:35+00:00"
+    }
+  ]
+}

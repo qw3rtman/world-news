@@ -1,0 +1,77 @@
+{
+  "hash": "ee6e98a25991",
+  "n_appearances": 6,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://bloomberg.com/news/articles/2026-02-23/paramount-is-said-to-submit-higher-offer-for-warner-bros",
+      "title": "Paramount Raises Bid for Warner Bros. in Takeover Battle With Netflix - Bloomberg",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "Lucas Shaw",
+      "num_tokens": 109,
+      "text_length": 568
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694937",
+      "spike_id": 6,
+      "market_question": "Will BP be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.165,
+      "spike_timestamp_before": "2026-02-22T19:30:17+00:00",
+      "spike_timestamp_after": "2026-02-23T18:00:31+00:00"
+    },
+    {
+      "market_id": "694939",
+      "spike_id": 2,
+      "market_question": "Will Ubisoft be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.15499999999999997,
+      "spike_timestamp_before": "2026-02-22T13:00:15+00:00",
+      "spike_timestamp_after": "2026-02-23T13:00:14+00:00"
+    },
+    {
+      "market_id": "694939",
+      "spike_id": 3,
+      "market_question": "Will Ubisoft be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.15500000000000003,
+      "spike_timestamp_before": "2026-02-25T19:00:19+00:00",
+      "spike_timestamp_after": "2026-02-26T02:30:19+00:00"
+    },
+    {
+      "market_id": "694939",
+      "spike_id": 4,
+      "market_question": "Will Ubisoft be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.17,
+      "spike_timestamp_before": "2026-02-25T19:00:19+00:00",
+      "spike_timestamp_after": "2026-02-26T09:00:20+00:00"
+    },
+    {
+      "market_id": "694941",
+      "spike_id": 1,
+      "market_question": "Will Pizza Hut be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.30500000000000005,
+      "spike_timestamp_before": "2026-02-23T02:30:27+00:00",
+      "spike_timestamp_after": "2026-02-23T11:30:25+00:00"
+    },
+    {
+      "market_id": "694941",
+      "spike_id": 2,
+      "market_question": "Will Pizza Hut be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.31000000000000005,
+      "spike_timestamp_before": "2026-02-23T11:30:25+00:00",
+      "spike_timestamp_after": "2026-02-23T15:00:45+00:00"
+    }
+  ]
+}

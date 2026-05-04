@@ -1,0 +1,106 @@
+[
+  {
+    "q": "On what date did the Commodity Futures Trading Commission announce its decision to sue states attempting to regulate prediction markets like Kalshi?",
+    "a": "February 18, 2026."
+  },
+  {
+    "q": "Which U.S. federal agency filed an amicus brief on Tuesday, February 17, 2026, opposing state lawsuits against prediction markets such as Kalshi, Polymarket, Coinbase, and Crypto.com?",
+    "a": "The Commodity Futures Trading Commission (CFTC)."
+  },
+  {
+    "q": "Who is the sole chairman of the Commodity Futures Trading Commission who posted a video threat on X on February 17, 2026, asserting federal authority over prediction markets?",
+    "a": "Michael Selig."
+  },
+  {
+    "q": "Which Republican Governor of Utah, Spencer Cox, responded to CFTC Chairman Michael Selig’s February 17, 2026, video by calling prediction markets gambling and vowing to litigate against the federal government?",
+    "a": "Spencer Cox."
+  },
+  {
+    "q": "What specific religious demographic factor in Utah, mentioned in the February 19, 2026 article, contributes to the state's strong opposition to government-sanctioned gambling?",
+    "a": "Nearly half of the state is Mormon, and the Church of Jesus Christ of Latter-day Saints officially opposes all government-sanctioned forms of gambling."
+  },
+  {
+    "q": "Which two cryptocurrency exchanges, Coinbase and Crypto.com, partnered with Kalshi or created standalone prediction markets as described in the February 17, 2026 CFTC filing context?",
+    "a": "Coinbase partnered with Kalshi, and Crypto.com created a standalone prediction market called OG."
+  },
+  {
+    "q": "Which AI company, Anthropic, was designated a \"supply-chain risk\" by the Pentagon in the weeks leading up to February 2026, potentially barring it from military contracts?",
+    "a": "Anthropic."
+  },
+  {
+    "q": "Who is the CEO of Anthropic who visited Washington in early February 2026, met with Sens. Elizabeth Warren and Jim Banks, and warned Congress about AI risks?",
+    "a": "Dario Amodei."
+  },
+  {
+    "q": "Which former U.S. President, Donald Trump, previously threatened to cut off Amazon’s access to its USPS deal in retaliation for Jeff Bezos’ ownership of The Washington Post?",
+    "a": "Donald Trump."
+  },
+  {
+    "q": "Which right-wing influencers claimed in early 2026 that Anthropic was \"too woke,\" despite a lack of proof regarding the company's content policies?",
+    "a": "Right-wing influencers."
+  },
+  {
+    "q": "Who are the two MAGA political operatives, Steve Bannon and Boris Epshteyn, being sued for their cryptocurrency operation as reported by The Bulwark in February 2026?",
+    "a": "Steve Bannon and Boris Epshteyn."
+  },
+  {
+    "q": "Which anti-Big Tech lawyer, Mike Davis, took credit for the ouster of Gail Slater from the Department of Justice’s antitrust division according to texts obtained by The Free Press in February 2026?",
+    "a": "Mike Davis."
+  },
+  {
+    "q": "Which two figures, Rep. Marjorie Taylor Greene and retired Gen. Mike Flynn, called for Steve Bannon to be questioned regarding 2018 texts suggesting Trump be removed via the 25th Amendment?",
+    "a": "Rep. Marjorie Taylor Greene and retired Gen. Mike Flynn."
+  },
+  {
+    "q": "What conspiracy theory, QAnon, did both Rep. Marjorie Taylor Greene and retired Gen. Mike Flynn rise to prominence by backing in 2020?",
+    "a": "QAnon."
+  },
+  {
+    "q": "Which U.S. Cabinet official, HHS Secretary Robert F. Kennedy, was described in a February 2026 video as \"framemogging\" Kid Rock?",
+    "a": "Robert F. Kennedy."
+  },
+  {
+    "q": "By what deadline did the White House instruct the crypto and banking industries to deliver draft language for the Senate regarding yield-bearing stablecoin accounts in February 2026?",
+    "a": "March 1, 2026."
+  },
+  {
+    "q": "Which Ninth Circuit Court of Appeals case did the CFTC oppose in its February 17, 2026, amicus brief regarding state lawsuits against prediction markets?",
+    "a": "The case involving lawsuits filed by states against betting markets like Kalshi, Polymarket, Coinbase, and Crypto.com."
+  },
+  {
+    "q": "Which executive order from the previous year, opposed by Utah Governor Spencer Cox, would have given the Justice Department power to sue states enforcing AI regulatory laws?",
+    "a": "An executive order giving the Justice Department the power to sue states passing and enforcing AI regulatory laws."
+  },
+  {
+    "q": "Which AI enterprise products at the Pentagon, Gemini, ChatGPT, and Grok, were contrasted with Anthropic’s Claude in the context of the Pentagon’s supply-chain risk designation?",
+    "a": "Gemini, ChatGPT, and Grok."
+  },
+  {
+    "q": "Who is the author of the February 19, 2026, article \"It’s MAGA v Broligarch in the battle over prediction markets\" published by The Verge?",
+    "a": "Tina Nguyen."
+  },
+  {
+    "q": "Which newsletter, Regulator, is authored by Tina Nguyen and covers the relationship between Silicon Valley and Washington as of February 2026?",
+    "a": "Regulator."
+  },
+  {
+    "q": "Which social media platform, X, was used by CFTC Chairman Michael Selig to post a video threat and by Utah Governor Spencer Cox to respond, in February 2026?",
+    "a": "X."
+  },
+  {
+    "q": "Which two Senators, Elizabeth Warren (D-MA) and Jim Banks (R-IN), did Anthropic CEO Dario Amodei meet on Capitol Hill in early February 2026 to support a bill banning advanced AI chip sales to China?",
+    "a": "Elizabeth Warren and Jim Banks."
+  },
+  {
+    "q": "What specific action did the Pentagon plan to take against Anthropic if the \"supply-chain risk\" designation went through, as reported in February 2026?",
+    "a": "Any company wanting to work with the military would have to cut ties with Anthropic."
+  },
+  {
+    "q": "Which organization, The Bulwark, reported that Steve Bannon and Boris Epshteyn were being sued for their cryptocurrency operation in February 2026?",
+    "a": "The Bulwark."
+  },
+  {
+    "q": "Which publication, The Free Press, obtained texts showing Mike Davis took credit for Gail Slater’s ouster from the DOJ antitrust division in February 2026?",
+    "a": "The Free Press."
+  }
+]

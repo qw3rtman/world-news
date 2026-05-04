@@ -1,0 +1,37 @@
+{
+  "hash": "476744c53a43",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://apnews.com/article/iran-israel-us-march-05-2026-6a76668997a43855cc37eff7f4829615",
+      "title": "Trump wants to be involved in picking Iran's next supreme leader | AP News",
+      "published_date": "2026-03-05T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1687,
+      "text_length": 8097
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1394299",
+      "spike_id": 14,
+      "market_question": "US forces enter Iran by December 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.16000000000000003,
+      "spike_timestamp_before": "2026-03-04T02:30:26+00:00",
+      "spike_timestamp_after": "2026-03-04T12:30:32+00:00"
+    },
+    {
+      "market_id": "1469737",
+      "spike_id": 8,
+      "market_question": "Will Mojtaba Khamenei be head of state in Iran end of 2026?",
+      "event_title": "Iran leader end of 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.2395,
+      "spike_timestamp_before": "2026-03-04T10:30:52+00:00",
+      "spike_timestamp_after": "2026-03-04T17:30:32+00:00"
+    }
+  ]
+}

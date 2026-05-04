@@ -1,0 +1,47 @@
+{
+  "hash": "2d19f1d829d8",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-rate-today-silver-price-live-updates-1-gram-22-carat-24k-gold-rate-silver-per-kg-mcx-comex-etf-precious-metal-march-city-wise-cost-us-israel-iran-conflict-latest-news/liveblog/128934532.cms",
+      "title": "Gold, Silver Rate Today Live Updates: MCX Gold rallies 4%, nears Rs 1.7 lakh per 10 grams mark; international gold climbs 2% on rising Middle East tensions  - The Times of India",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 2517,
+      "text_length": 11908
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1032343",
+      "spike_id": 20,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "up",
+      "spike_delta": 0.1935,
+      "spike_timestamp_before": "2026-03-01T21:30:37+00:00",
+      "spike_timestamp_after": "2026-03-02T04:30:21+00:00"
+    },
+    {
+      "market_id": "1032343",
+      "spike_id": 23,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "up",
+      "spike_delta": 0.2415,
+      "spike_timestamp_before": "2026-03-03T08:00:21+00:00",
+      "spike_timestamp_after": "2026-03-03T22:30:22+00:00"
+    },
+    {
+      "market_id": "1032343",
+      "spike_id": 24,
+      "market_question": "Will Silver (SI) hit (LOW) $70 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "up",
+      "spike_delta": 0.2475,
+      "spike_timestamp_before": "2026-03-03T08:00:21+00:00",
+      "spike_timestamp_after": "2026-03-04T06:30:37+00:00"
+    }
+  ]
+}

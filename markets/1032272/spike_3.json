@@ -1,0 +1,65 @@
+{
+  "spike_index": 3,
+  "direction": "up",
+  "price_before": 0.7135,
+  "price_after": 0.929,
+  "delta": 0.21550000000000002,
+  "abs_delta": 0.21550000000000002,
+  "timestamp_before": "2026-02-27T10:30:24+00:00",
+  "timestamp_after": "2026-02-28T10:00:29+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-in-structural-repricing-phase-could-hit-6000-in-12-months-report/articleshow/128814817.cms",
+      "file": "e9a99b0913ef.txt",
+      "title": "Gold Could Hit 7500 Per Ounce: Gold in \u2018structural repricing phase\u2019, could hit $6,000 in 12 months: Report - The Times of India",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /   Feb 26, 2026, 18:33 IST",
+      "text_length": 3639,
+      "status": "ok",
+      "num_tokens": 710
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-02-27/gold-trades-above-5-000-as-bullion-and-miner-etfs-rally",
+      "file": "bb41496ab1d0.txt",
+      "title": "Gold Trades Above $5,000 as Bullion and Miner ETFs Rally - Bloomberg",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": "Yvonne Yue Li",
+      "text_length": 975,
+      "status": "ok",
+      "num_tokens": 231
+    },
+    {
+      "url": "http://origin.www.bloomberg.com/news/newsletters/2026-02-27/gold-above-5-000-looks-like-the-new-normal?srnd=undefined",
+      "file": "01d981f7f016.txt",
+      "title": "Gold Above $5,000 Looks Like the New Normal - Bloomberg",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": "Angela Cullen",
+      "text_length": 276,
+      "status": "ok",
+      "num_tokens": 75
+    },
+    {
+      "url": "https://www.cnbc.com/2026/02/27/gold-heads-for-seventh-straight-monthly-gain-on-safe-haven-demand.html",
+      "file": "5f900c5def2b.txt",
+      "title": "Gold nears one-month high, set for seventh straight monthly rise",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": null,
+      "text_length": 2229,
+      "status": "ok",
+      "num_tokens": 514
+    },
+    {
+      "url": "http://uk.mobile.reuters.com/world/asia-pacific/jp-morgan-raises-long-term-gold-price-forecast-4500-2026-02-25/",
+      "file": "81850ede5b91.txt",
+      "title": "JP Morgan raises long-term gold price forecast to $4,500 | Reuters",
+      "published_date": "2026-02-25T00:00:00.000Z",
+      "author": null,
+      "text_length": 1662,
+      "status": "ok",
+      "num_tokens": 383
+    }
+  ],
+  "total_tokens": 1913
+}

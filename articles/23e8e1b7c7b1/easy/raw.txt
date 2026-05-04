@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In the agreement announced on March 16, 2026, what is the total potential value of the contract between Amsterdam-based Nebius Group and Meta Platforms, and what are the two components that make up this total?",
+    "a": "The total potential value is up to $27 billion, consisting of a $12 billion commitment for AI computing capacity by 2027 and an additional $15 billion for capacity planned over the next five years if not sold to other customers."
+  },
+  {
+    "q": "What investment did Nvidia make in Nebius Group in the week prior to the March 16, 2026 announcement, and what percentage stake did this purchase confer?",
+    "a": "Nvidia invested $2 billion to buy an 8.3% stake in Nebius Group."
+  },
+  {
+    "q": "As of the March 16, 2026 reporting, what was the market capitalization of Nasdaq-listed Nebius Group, and how much had its shares risen in 2026 leading up to that date?",
+    "a": "Nebius Group had a market capitalization of $28.6 billion, and its shares had risen 35% so far in 2026."
+  },
+  {
+    "q": "According to the February 2026 financial report, what were Nebius Group's fourth-quarter net loss and revenue figures, and what annualized revenue run rate did the company project for the end of 2026?",
+    "a": "Nebius Group reported a fourth-quarter net loss of $250 million on revenue of $228 million, and projected an annualized revenue run rate between $7 billion and $9 billion by the end of 2026."
+  },
+  {
+    "q": "What were the values and timing of the two previous major contracts Nebius Group signed with Meta Platforms and Microsoft, respectively, prior to the March 16, 2026 announcement?",
+    "a": "Nebius signed an initial $3 billion deal with Meta Platforms in November and a $17.4 billion deal with Microsoft in September."
+  },
+  {
+    "q": "Who is the CEO of Nebius Group, and what did he state was the primary benefit of the Meta Platforms deal announced in March 2026?",
+    "a": "Arkady Volozh is the CEO of Nebius Group, and he stated the deal would help accelerate the build-out and growth of the company's core AI cloud business."
+  },
+  {
+    "q": "By what year does Meta Platforms commit to receiving $12 billion worth of AI computing capacity from Nebius Group under the agreement announced on March 16, 2026?",
+    "a": "Meta Platforms is committed to receiving the capacity by 2027."
+  },
+  {
+    "q": "What was Nebius Group's revenue run rate at the end of 2025, and how does this compare to the company's projected annualized revenue run rate for the end of 2026 as reported in February 2026?",
+    "a": "Nebius Group had a revenue run rate of $1.25 billion at the end of 2025, which it projected to grow to between $7 billion and $9 billion by the end of 2026."
+  },
+  {
+    "q": "Which U.S. competitor is identified in the March 16, 2026 article as another AI specialist focusing on tech customers, similar to Nebius Group?",
+    "a": "CoreWeave is identified as the U.S. competitor."
+  },
+  {
+    "q": "What specific type of capacity are U.S. tech giants like Meta Platforms seeking to lock in from neocloud providers like Nebius Group, as described in the context of the March 16, 2026 deal?",
+    "a": "They are seeking to lock in scarce GPU and power capacity."
+  },
+  {
+    "q": "What was the closing price of Nebius Group shares on the Friday prior to the March 16, 2026 announcement?",
+    "a": "Nebius Group shares closed at $112.50."
+  },
+  {
+    "q": "Under the terms of the March 16, 2026 agreement, under what condition will Meta Platforms purchase the additional $15 billion worth of capacity from Nebius Group?",
+    "a": "Meta Platforms will purchase the additional capacity if it is not sold to other customers."
+  },
+  {
+    "q": "What is the primary business focus of AI specialists like Nebius Group and CoreWeave, as distinguished from large cloud firms that serve a broad range of industries?",
+    "a": "They mostly focus on tech customers."
+  },
+  {
+    "q": "Did Nebius Group change its 2026 financial guidance in its announcement on March 16, 2026, and what was the status of that guidance?",
+    "a": "No, the company said its 2026 guidance remains unchanged."
+  },
+  {
+    "q": "Which two cities are listed as the reporting locations for the Reuters article published on March 16, 2026?",
+    "a": "Bengaluru and Amsterdam."
+  },
+  {
+    "q": "What is the ticker symbol for Nebius Group as listed on the Nasdaq, as referenced in the March 16, 2026 article?",
+    "a": "NBIS.O"
+  },
+  {
+    "q": "What is the ticker symbol for Meta Platforms as referenced in the March 16, 2026 article?",
+    "a": "META.O"
+  },
+  {
+    "q": "What is the ticker symbol for Nvidia as referenced in the March 16, 2026 article?",
+    "a": "NVDA.O"
+  },
+  {
+    "q": "What is the ticker symbol for CoreWeave as referenced in the March 16, 2026 article?",
+    "a": "CRWV.O"
+  },
+  {
+    "q": "According to the February 2026 report, what was the net loss figure for Nebius Group for the fourth quarter?",
+    "a": "The net loss was $250 million."
+  },
+  {
+    "q": "According to the February 2026 report, what was the revenue figure for Nebius Group for the fourth quarter?",
+    "a": "The revenue was $228 million."
+  },
+  {
+    "q": "What type of chips does Nebius Group use in its data centers, as noted in the context of Nvidia's investment?",
+    "a": "Nvidia chips."
+  },
+  {
+    "q": "What is the stated goal of AI specialists like Nebius Group and CoreWeave, beyond focusing on tech customers?",
+    "a": "They aim to become major cloud service providers in their own right."
+  },
+  {
+    "q": "Who are the editors credited for the Reuters article published on March 16, 2026?",
+    "a": "Bernadette Baum and Tomasz Janowski."
+  },
+  {
+    "q": "Who are the reporters credited for the Reuters article published on March 16, 2026?",
+    "a": "Aditya Soni and Toby Sterling."
+  },
+  {
+    "q": "What is the name of the Amsterdam-based AI infrastructure firm that signed the deal with Meta Platforms on March 16, 2026?",
+    "a": "Nebius Group."
+  }
+]

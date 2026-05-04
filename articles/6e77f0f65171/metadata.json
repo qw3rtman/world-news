@@ -1,0 +1,37 @@
+{
+  "hash": "6e77f0f65171",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://ad.usatoday.com/story/money/food/2026/02/04/pizza-hut-closing-locations/88515586007/",
+      "title": "Latest World & National News & Headlines - USATODAY.com",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 142,
+      "text_length": 697
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694941",
+      "spike_id": 10,
+      "market_question": "Will Pizza Hut be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.34,
+      "spike_timestamp_before": "2026-02-27T23:30:34+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:07+00:00"
+    },
+    {
+      "market_id": "694941",
+      "spike_id": 11,
+      "market_question": "Will Pizza Hut be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.16000000000000003,
+      "spike_timestamp_before": "2026-02-28T08:30:07+00:00",
+      "spike_timestamp_after": "2026-02-28T19:30:34+00:00"
+    }
+  ]
+}

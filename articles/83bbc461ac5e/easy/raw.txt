@@ -1,0 +1,106 @@
+[
+  {
+    "q": "According to the March 11, 2026 report by The Times, which elite US military special mission unit is identified as the likely force to conduct a covert 'snatch raid' on Iran’s nuclear stockpile?",
+    "a": "Delta Force"
+  },
+  {
+    "q": "In the March 2026 context described in the article, what specific percentage enrichment level is Iran believed to have achieved for its 440kg uranium stockpile?",
+    "a": "60 percent"
+  },
+  {
+    "q": "Which three Iranian nuclear facilities are identified in the March 2026 article as having been seriously damaged last June and currently lacking International Atomic Energy Agency inspections?",
+    "a": "Fordow, Natanz, and Isfahan"
+  },
+  {
+    "q": "According to US President Donald Trump’s comments on Air Force One in early March 2026, how many nuclear warheads could be built if Iran increased its 60 percent enriched uranium to 90 percent purity?",
+    "a": "11 nuclear warheads"
+  },
+  {
+    "q": "Which former MI6 intelligence officer stated in the March 2026 reporting that seizing Iran’s uranium would be difficult because it would likely be dispersed and contingencies prepared?",
+    "a": "Chris Steele"
+  },
+  {
+    "q": "In the March 2026 article, which Venezuelan leader’s safe house raid from January is cited as a comparative example for the initial stage of a potential US snatch operation in Iran?",
+    "a": "Nicolás Maduro"
+  },
+  {
+    "q": "What specific geological feature near Natanz is identified in the March 2026 report as the location of a secret Iranian back-up nuclear facility not targeted last year?",
+    "a": "Pickaxe Mountain"
+  },
+  {
+    "q": "Which US officials are listed in the March 11, 2026 article as being on board Air Force One when President Trump discussed the potential ground operation in Iran?",
+    "a": "Steve Witkoff and Pete Hegseth"
+  },
+  {
+    "q": "According to the March 2026 report, what specific type of equipment would US special forces require if they needed to excavate blocked entrance tunnels to Iran’s underground nuclear sites?",
+    "a": "Excavating equipment"
+  },
+  {
+    "q": "Which Iranian news agency reported in March 2026 that missile attacks caused severe damage to an irradiation sterilisation facility in Isfahan?",
+    "a": "ISNA news agency"
+  },
+  {
+    "q": "In the March 2026 article, which Israeli weaponisation test site, previously hit in 2024, is claimed by Israel to be a target for current operations despite Iranian rebuilding efforts?",
+    "a": "Taleghan 2"
+  },
+  {
+    "q": "What specific altitude flying strategy is described in the March 2026 article as necessary for helicopters transporting US troops to avoid enemy radar during a snatch raid?",
+    "a": "Flying at either a very high or very low altitude"
+  },
+  {
+    "q": "According to the March 2026 report, what protective measure would US troops likely need if a leak of gaseous uranium was detected during an underground operation?",
+    "a": "Protective gear"
+  },
+  {
+    "q": "Which US government department is identified in the March 2026 article as having already war-gamed the securing of Iran’s nuclear stockpile?",
+    "a": "The Pentagon"
+  },
+  {
+    "q": "In the March 2026 article, what form is the majority of Iran’s enriched uranium believed to be stored in within canisters buried under rubble?",
+    "a": "Gaseous form"
+  },
+  {
+    "q": "Which US official is quoted in the March 2026 article as saying that sending in troops to seize Iran’s nuclear program would be 'something we can do later on'?",
+    "a": "President Donald Trump"
+  },
+  {
+    "q": "According to the March 2026 report, what specific action would an advance party of US special forces likely take under cover of darkness before the main helicopter arrival?",
+    "a": "Parachute in and secure a path to the entrance points"
+  },
+  {
+    "q": "Which organization is stated in the March 2026 article to not know the exact location of Iran’s entire uranium stockpile or whether it is retrievable?",
+    "a": "The International Atomic Energy Agency"
+  },
+  {
+    "q": "In the March 2026 article, what specific defensive action would a 'massive air armada' take to protect troops during the initial stage of a snatch raid?",
+    "a": "Killing radar systems and air defence"
+  },
+  {
+    "q": "Which US Defence Editor authored the March 11, 2026 Times article regarding the potential snatch raid on Iran’s nuclear stockpile?",
+    "a": "Larisa Brown"
+  },
+  {
+    "q": "According to the March 2026 report, what specific type of specialists might need to accompany US troops to explain how to handle the nuclear material?",
+    "a": "Specialist scientists"
+  },
+  {
+    "q": "In the March 2026 article, what specific material is mentioned by President Trump as protecting Iran’s potential reconstituted weapons program at a different site?",
+    "a": "Granite"
+  },
+  {
+    "q": "Which Iranian nuclear facility is identified in the March 2026 article as the location where most of Iran’s enriched uranium is believed to be stored?",
+    "a": "Isfahan nuclear facility"
+  },
+  {
+    "q": "According to the March 2026 report, what specific consequence could occur if anything goes wrong during the high-stakes covert mission to seize Iran’s nuclear stockpile?",
+    "a": "Deadly consequences"
+  },
+  {
+    "q": "In the March 2026 article, what specific type of satellite imagery evidence is cited to show craters from America’s bombs targeting Iran’s Fordow facility?",
+    "a": "Satellite images"
+  },
+  {
+    "q": "Which US special forces unit is described in the March 2026 article as possibly having created a replica of the Iranian storage facility to practise entry?",
+    "a": "Delta Force"
+  }
+]

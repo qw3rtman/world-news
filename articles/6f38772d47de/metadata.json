@@ -1,0 +1,37 @@
+{
+  "hash": "6f38772d47de",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cbsnews.com/news/texas-primary-republican-results-2026-midterm-elections/",
+      "title": "Texas GOP Senate primary heading to runoff between Sen. John Cornyn and AG Ken Paxton, CBS News projects - CBS News",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1262,
+      "text_length": 5926
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "562187",
+      "spike_id": 1,
+      "market_question": "Will John Cornyn win the 2026 Texas Republican Primary?",
+      "event_title": "Texas Republican Senate Primary Winner",
+      "spike_direction": "up",
+      "spike_delta": 0.365,
+      "spike_timestamp_before": "2026-03-03T08:30:34+00:00",
+      "spike_timestamp_after": "2026-03-04T03:30:34+00:00"
+    },
+    {
+      "market_id": "562187",
+      "spike_id": 2,
+      "market_question": "Will John Cornyn win the 2026 Texas Republican Primary?",
+      "event_title": "Texas Republican Senate Primary Winner",
+      "spike_direction": "up",
+      "spike_delta": 0.7150000000000001,
+      "spike_timestamp_before": "2026-03-04T00:30:34+00:00",
+      "spike_timestamp_after": "2026-03-04T20:00:44+00:00"
+    }
+  ]
+}

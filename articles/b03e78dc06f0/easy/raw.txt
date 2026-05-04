@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the research article titled \"Cost-effective plant-based medium for enhanced spore production of B. amyloliquefaciens CN12 for biofertilizer application\" published in Scientific Reports on March 5, 2026, who are the three authors listed?",
+    "a": "Thuan Phuoc Dinh, Tu Cam Ly, and Tuan Ngoc Nguyen."
+  },
+  {
+    "q": "Regarding the December 19, 2025, Scientific Reports article on an open-source multi-wavelength non-invasive blood glucose sensing system, what are the names of the three researchers who authored it?",
+    "a": "Trung Nghia Tran, Thanh Ven Huynh, and Anh Thu Pham Nguyen."
+  },
+  {
+    "q": "In the January 16, 2026, Communications Medicine study by Mesinovic et al. regarding cardiovascular disease screening, which specific population was targeted using AI foundation models and low-cost wearable sensors?",
+    "a": "People living with HIV in Vietnam."
+  },
+  {
+    "q": "Who authored the November 24, 2025, Humanities and Social Sciences Communications article titled \"Innovation curse: the wastefulness of technologies believed to mitigate climate change\"?",
+    "a": "Thi Mai Anh Tran, Valoree Gagnon, and Minh-Hoang Nguyen."
+  },
+  {
+    "q": "In the June 26, 2024, Scientific Reports study on AI-assisted muscle ultrasound for ICU patients, what is the full name of the first author listed?",
+    "a": "Alberto Gomez."
+  },
+  {
+    "q": "The September 10, 2006, Nature Medicine article titled \"Fatal outcome of human influenza A (H5N1) is associated with high viral load and hypercytokinemia\" was authored by Jeremy Farrar, Cameron P Simmons, and which third researcher?",
+    "a": "Menno D de Jong."
+  },
+  {
+    "q": "In the November 6, 2020, Scientific Reports article describing a PM10 map development for Hanoi, Vietnam, who are the three authors Bang Quoc Ho, Son Hong Duong, and whom?",
+    "a": "Dung Anh Nguyen."
+  },
+  {
+    "q": "Who are the three authors of the December 28, 2024, Scientific Reports study on the hybridisation of in silico and in vitro bioassays for studying Nrf2 activation?",
+    "a": "Minh Hien Nguyen, Nguyen Thien Han Le, and Bui Quoc Huy Nguyen."
+  },
+  {
+    "q": "In the January 28, 2026, Nature article titled \"A benchmark of expert-level academic questions to assess AI capabilities,\" which multi-modal benchmark is described as being designed to be an expert-level closed-ended academic benchmark with broad subject coverage?",
+    "a": "Humanity’s Last Exam."
+  },
+  {
+    "q": "Who authored the June 20, 2025, npj Breast Cancer article titled \"Personalized mutation tracking in circulating-tumor DNA predicts recurrence in patients with high-risk early breast cancer\"?",
+    "a": "Lan N. Tu, Van-Anh Nguyen Hoang, and Sao Trung Nguyen."
+  },
+  {
+    "q": "In the October 24, 2025, Scientific Reports study on novel bacteriophages against multidrug-resistant Edwardsiella tarda, from which striped catfish species were the isolates obtained?",
+    "a": "Pangasianodon hypophthalmus."
+  },
+  {
+    "q": "Who are the three authors of the November 5, 2020, Scientific Reports article on the genetic profiling of the Vietnamese population from non-invasive prenatal testing data?",
+    "a": "Minh-Duy Phan, Thanh Binh Vo, and Ngoc Hieu Tran."
+  },
+  {
+    "q": "In the November 27, 2025, Scientific Reports study on acute radiotoxicity, which two specific Holmium-166 compounds were assessed for the palliative treatment of bone metastases?",
+    "a": "166Ho-EDTMP and 166Ho-DOTMP."
+  },
+  {
+    "q": "Who are the three authors of the June 6, 2025, npj Aging article titled \"STEMI-OP in-hospital mortality prediction algorithms: Frailty-integrated machine learning in older patients undergoing primary PCI\"?",
+    "a": "Thanh Dinh Le, Quyen The Nguyen, and Tan Van Nguyen."
+  },
+  {
+    "q": "In the October 8, 2024, BJC Reports article on breast cancer risk assessment, which specific demographic group was the study focused on regarding susceptibility genes and polygenic risk scores?",
+    "a": "Vietnamese women."
+  },
+  {
+    "q": "Who are the three authors of the March 27, 2025, Scientific Reports study on single transscrotal orchidopexy for palpable cryptorchidism in Vietnamese children?",
+    "a": "Ho T. Ban, Lai V. Chu, and Thach N. Pham."
+  },
+  {
+    "q": "In the June 5, 2024, Scientific Reports observational study on beta-blocker prescriptions, which patient population with heart failure with reduced ejection fraction was studied in Vietnam?",
+    "a": "Older patients."
+  },
+  {
+    "q": "Who are the three authors of the December 19, 2025, Nature Communications article on fullerene-decorated PdCo nano-resistor network hydrogen sensors?",
+    "a": "Tho D. Nguyen, Ashwin T. Magar, and Tu Anh Ngo."
+  },
+  {
+    "q": "In the September 13, 2025, npj Breast Cancer author correction, which original article titled \"Personalized mutation tracking in circulating-tumor DNA predicts recurrence in patients with high-risk early breast cancer\" was amended?",
+    "a": "The original article authored by Lan N. Tu, Van-Anh Nguyen Hoang, and Sao Trung Nguyen."
+  },
+  {
+    "q": "Who are the three authors of the July 30, 2024, Scientific Reports study on computer-aided prognosis of tuberculous meningitis?",
+    "a": "Marcus Schultz, Trinh H. K. Dong, and Liane S. Canas."
+  },
+  {
+    "q": "In the August 9, 2022, Scientific Reports article on detecting maternal carriers of common α-thalassemia deletions, who are the three researchers Minh-Duy Phan, Duy-Anh Nguyen, and whom?",
+    "a": "Phuoc-Loc Doan."
+  },
+  {
+    "q": "Who are the three authors of the March 18, 2025, Scientific Reports author correction regarding the hybridisation of in silico and in vitro bioassays for studying Nrf2 activation?",
+    "a": "Minh Hien Nguyen, Nguyen Thien Han Le, and Bui Quoc Huy Nguyen."
+  },
+  {
+    "q": "In the October 30, 2025, Scientific Reports study on surface modifications of graphitic carbon nitride, what are the two types of materials used as antibacterial and dye removal agents alongside metal particles?",
+    "a": "Polymer blend."
+  },
+  {
+    "q": "Who are the three authors of the October 31, 2023, Scientific Reports study on the safety assessment and preclinical evaluation of antinuclear antibody for prostate cancer in a mouse xenograft model?",
+    "a": "Thi Thu Nguyen, Lu Duc Chinh Hoang, and Thu Minh Chau Nguyen."
+  },
+  {
+    "q": "In the November 25, 2025, Scientific Reports study on metabolic syndrome, in which specific province in Vietnam was the prevalence among overweight and obese reproductive-age women evaluated?",
+    "a": "Bac Giang."
+  }
+]

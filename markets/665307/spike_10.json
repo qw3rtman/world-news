@@ -1,0 +1,65 @@
+{
+  "spike_index": 10,
+  "direction": "down",
+  "price_before": 0.8785,
+  "price_after": 0.727,
+  "delta": -0.15149999999999997,
+  "abs_delta": 0.15149999999999997,
+  "timestamp_before": "2026-03-05T02:00:26+00:00",
+  "timestamp_after": "2026-03-05T20:00:38+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.timesofisrael.com/iran-claims-hormuz-strait-is-closed-threatens-to-set-shipping-there-ablaze/",
+      "file": "6538c0dddac1.txt",
+      "title": "Iran claims Hormuz Strait is closed, threatens to set shipping there 'ablaze' | The Times of Israel",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Reuters  and  ToI Staff",
+      "text_length": 2920,
+      "status": "ok",
+      "num_tokens": 597
+    },
+    {
+      "url": "https://www.npr.org/2026/03/04/nx-s1-5736104/iran-war-oil-trump-israel-strait-hormuz-closed-energy-crisis/",
+      "file": "da710e91bd16.txt",
+      "title": "The Iran war has effectively closed the Strait of Hormuz : NPR",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "Camila Domonoske",
+      "text_length": 5247,
+      "status": "ok",
+      "num_tokens": 1094
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/03/world/video/strait-of-hormuz-blocked-iran-stout-vrtc",
+      "file": "93c6c6a1332e.txt",
+      "title": "Iran threatens critical oil shipping channel | CNN",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Henry Zeris",
+      "text_length": 212,
+      "status": "ok",
+      "num_tokens": 39
+    },
+    {
+      "url": "https://foreignpolicy.com/2026/03/03/iran-strikes-hormuz-shipping-oil-2/",
+      "file": "b21b0592af1d.txt",
+      "title": "Iran Strikes, Strait of Hormuz Closure Are Causing Chaos for Global Shipping",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Elisabeth Braw",
+      "text_length": 7618,
+      "status": "ok",
+      "num_tokens": 1683
+    },
+    {
+      "url": "https://www.aljazeera.com/economy/2026/3/3/shutdown-of-hormuz-strait-raises-fears-of-soaring-oil-prices",
+      "file": "bb5650cb60aa.txt",
+      "title": "Shutdown of Hormuz Strait raises fears of soaring oil prices | Oil and Gas News | Al Jazeera",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Megha Bahree",
+      "text_length": 4541,
+      "status": "ok",
+      "num_tokens": 934
+    }
+  ],
+  "total_tokens": 4347
+}

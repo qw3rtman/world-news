@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On what date in February 2026 did Israel and the United States launch strikes against Iran, an event that U.S. President Donald Trump confirmed as 'major combat operations'?",
+    "a": "February 26, 2026"
+  },
+  {
+    "q": "What specific type of military action did the Israeli government state it launched against Iran on February 26, 2026?",
+    "a": "A pre-emptive attack"
+  },
+  {
+    "q": "Which two countries were involved in military clashes that entered their third day on a Saturday in late February 2026?",
+    "a": "Pakistan and Afghanistan"
+  },
+  {
+    "q": "On what day of the week in late February 2026 did the United States express support for Pakistan's 'right to defend itself' against attacks from the Afghan Taliban?",
+    "a": "Friday"
+  },
+  {
+    "q": "What term did the government of Pakistan use to describe its relationship with Afghanistan's Taliban rulers after the clashes began in late February 2026?",
+    "a": "Open war"
+  },
+  {
+    "q": "Which international organization or group expressed increasing concern and called for urgent talks regarding the conflict between Pakistan and the Afghan Taliban in late February 2026?",
+    "a": "The international community"
+  },
+  {
+    "q": "In which year did the Taliban conduct a lightning offensive that wrested control of Afghanistan from a U.S.-led military coalition, a event referenced in the context of later Pakistan-Afghanistan tensions?",
+    "a": "2021"
+  },
+  {
+    "q": "Who was the serving lieutenant general and then intelligence chief of Pakistan who visited Kabul in 2021 and told a reporter 'Don't worry, everything will be okay'?",
+    "a": "Pakistan's then intelligence chief (a serving lieutenant general)"
+  },
+  {
+    "q": "Which Middle Eastern country's long-running nuclear dispute with the West was further impacted by the military strikes launched by Israel and the United States on February 26, 2026?",
+    "a": "Iran"
+  },
+  {
+    "q": "What did U.S. President Donald Trump confirm regarding the military actions taken by the United States and Israel against Iran on February 26, 2026?",
+    "a": "Major combat operations"
+  },
+  {
+    "q": "According to the article published on February 28, 2026, how many days could the joint US and Israel operation against Iran last?",
+    "a": "Days"
+  },
+  {
+    "q": "Which country's main oil and gas production and infrastructure was the subject of a separate news item listed in the February 28, 2026 Reuters feed?",
+    "a": "Iran"
+  },
+  {
+    "q": "What topic was covered in a January 14, 2026 news item listed in the February 28, 2026 Reuters feed?",
+    "a": "Iran's ballistic missile capabilities"
+  },
+  {
+    "q": "What topic was covered in a news item listed in the February 28, 2026 Reuters feed regarding US military presence?",
+    "a": "The main US military bases in the Middle East"
+  },
+  { {
+    "q": "Which group's military forces clashed with Pakistan's forces in the conflict that began in late February 2026?",
+    "a": "Afghanistan's Taliban"
+  },
+  {
+    "q": "What did the United States support regarding Pakistan's actions against the Afghan Taliban in late February 2026?",
+    "a": "Pakistan's 'right to defend itself'"
+  },
+  {
+    "q": "In the context of the 2021 Taliban offensive, which city did Pakistan's then intelligence chief fly into for talks?",
+    "a": "Kabul"
+  },
+  {
+    "q": "Which two nations' diplomatic efforts intensified during the clashes between their forces in late February 2026?",
+    "a": "Pakistan and Afghanistan"
+  },
+  {
+    "q": "What did the Israeli government say its attack against Iran would do to hopes for a diplomatic solution to Tehran's nuclear dispute?",
+    "a": "Further dim hopes"
+  },
+  {
+    "q": "Which two entities launched the strikes against Iran that U.S. President Donald Trump confirmed as 'major combat operations' on February 26, 2026?",
+    "a": "Israel and the United States"
+  },
+  {
+    "q": "What was the status of the fighting between Pakistan and Afghanistan's Taliban military on the Saturday following the overnight clashes in late February 2026?",
+    "a": "It entered its third day"
+  },
+  {
+    "q": "Who stated that neighboring countries were in 'open war' earlier in the day before the U.S. expressed support for Pakistan on Friday in late February 2026?",
+    "a": "Islamabad (the government of Pakistan)"
+  },
+  {
+    "q": "Which political group's rulers were the target of the attacks that the United States said Pakistan had the right to defend itself against in late February 2026?",
+    "a": "Afghanistan's Taliban"
+  },
+  {
+    "q": "What was the date of the Reuters article titled 'Iran crisis: Israel and US launch strikes as Trump confirms 'major combat operations''?",
+    "a": "February 28, 2026"
+  },
+  {
+    "q": "Which country's intelligence chief, a serving lieutenant general in 2021, visited Kabul and reassured a reporter that 'everything will be okay'?",
+    "a": "Pakistan"
+  }
+]

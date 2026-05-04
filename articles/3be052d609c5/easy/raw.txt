@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the acquisition agreement signed by Vitesse Energy, Inc. on March 1, 2026, for assets in Campbell and Converse Counties, Wyoming, what was the purchase price paid in Vitesse common stock and what was the effective date of the transaction?",
+    "a": "The purchase price was $35 million in Vitesse common stock, with an effective date of January 1, 2026."
+  },
+  {
+    "q": "What were Vitesse Energy, Inc.'s full-year 2025 net income and Adjusted EBITDA figures, and what was the company's total debt as of December 31, 2025?",
+    "a": "Full-year 2025 net income was $25.3 million, Adjusted EBITDA was $179.3 million, and total debt was $124.5 million."
+  },
+  {
+    "q": "For the first quarter of 2026, what cash dividend per share did Vitesse Energy, Inc. declare on February 25, 2026, and on what date is this dividend scheduled to be paid?",
+    "a": "Vitesse Energy declared a quarterly cash dividend of $0.4375 per share, scheduled to be paid on March 31, 2026."
+  },
+  {
+    "q": "What was the average daily oil and natural gas production volume for Vitesse Energy, Inc. in full-year 2025, and what percentage of that production was oil?",
+    "a": "Production averaged 17,444 barrels of oil equivalent (Boe) per day, with oil representing 65% of production."
+  },
+  {
+    "q": "According to Vitesse Energy, Inc.'s reserves data as of December 31, 2025, what was the total proved reserves volume in million Boe, and what was the associated PV-10 value?",
+    "a": "Total proved reserves were 47.8 million Boe, with an associated PV-10 value of $472.7 million."
+  },
+  {
+    "q": "What range for annual production in Boe per day did Vitesse Energy, Inc. issue as guidance for the full year 2026?",
+    "a": "Vitesse Energy issued 2026 guidance expecting production to be in the range of 16,000 to 17,500 Boe per day."
+  },
+  {
+    "q": "What was the total cash capital expenditure guidance range provided by Vitesse Energy, Inc. for the full year 2026?",
+    "a": "Vitesse Energy guided for total cash capital expenditures in the range of $50 million to $80 million for 2026."
+  },
+  {
+    "q": "In the fourth quarter of 2025, what was Vitesse Energy, Inc.'s net loss, and what was the average daily production volume for that quarter?",
+    "a": "Vitesse Energy reported a net loss of $0.7 million and an average daily production of 17,653 Boe in the fourth quarter of 2025."
+  },
+  {
+    "q": "What was the weighted average fixed price for WTI-NYMEX crude oil swaps settling in the first quarter of 2026, as listed in Vitesse Energy, Inc.'s commodity hedging table?",
+    "a": "The weighted average fixed price for WTI-NYMEX crude oil swaps settling in Q1 2026 was $65.87 per barrel."
+  },
+  {
+    "q": "Who is the Chairman and Chief Executive Officer of Vitesse Energy, Inc., and what event did he cite as allowing the company to hedge its acquisition above underwritten prices?",
+    "a": "Bob Gerrity is the Chairman and CEO, and he cited events in the Middle East over the weekend of early March 2026 as allowing the favorable hedge."
+  },
+  {
+    "q": "What acquisition of another company drove the 19% increase in Vitesse Energy, Inc.'s total proved reserves from December 31, 2024 to December 31, 2025?",
+    "a": "The acquisition of Lucero Energy Corp. in March 2025 drove the increase in proved reserves."
+  },
+  {
+    "q": "What was Vitesse Energy, Inc.'s realized oil price per barrel with hedging for the full year 2025, and what percentage of its oil production was hedged?",
+    "a": "The realized oil price with hedging was $62.95 per Bbl, and the company had hedges covering 61% of its oil production."
+  },
+  {
+    "q": "How many net undeveloped locations are included in the Powder River Basin assets acquired by Vitesse Energy, Inc., and which two operators primarily operate these locations?",
+    "a": "The acquisition includes 29 net undeveloped locations, operated primarily by EOG Resources and Continental Resources."
+  },
+  {
+    "q": "What was the total revenue for Vitesse Energy, Inc. in the full year 2025, and what was the year-over-year percentage increase in natural gas revenue from 2024 to 2025?",
+    "a": "Total revenue was $273,989,000 (or $274.0 million), and natural gas revenue increased by 150% from 2024 to 2025."
+  },
+  {
+    "q": "What was the Net Debt to Adjusted EBITDA ratio for Vitesse Energy, Inc. as of December 31, 2025?",
+    "a": "The Net Debt to Adjusted EBITDA ratio was 0.69 as of December 31, 2025."
+  },
+  {
+    "q": "On what date and at what time was the Vitesse Energy, Inc. Fourth Quarter and Full Year 2025 Earnings Conference Call scheduled to take place?",
+    "a": "The conference call was scheduled for Tuesday, March 3, 2026, at 11:00 a.m. Eastern Time."
+  },
+  {
+    "q": "What was the average realized oil price per barrel before hedging for Vitesse Energy, Inc. in the fourth quarter of 2025?",
+    "a": "The average realized oil price before hedging was $53.54 per Bbl in the fourth quarter of 2025."
+  },
+  {
+    "q": "What is the name of the conference in Dana Point, CA, that Vitesse Energy, Inc. management will participate in during March 23-25, 2026?",
+    "a": "Vitesse Energy management will participate in the Roth Conference."
+  },
+  {
+    "q": "What was the amount of lease operating expenses for Vitesse Energy, Inc. in the full year 2025, and what was the cost per Boe?",
+    "a": "Lease operating expenses were $69.5 million, or $10.92 per Boe, in the full year 2025."
+  },
+  {
+    "q": "What was the Standardized Measure of Vitesse Energy, Inc.'s proved reserves as of December 31, 2025, and what was the primary reason cited for the decrease in this measure from year-end 2024?",
+    "a": "The Standardized Measure was $439.0 million, and the decrease was primarily related to the reduction in net realized oil prices."
+  },
+  {
+    "q": "What was the volume of WTI-NYMEX crude oil swaps hedged for the second quarter of 2027 by Vitesse Energy, Inc., and what was the weighted average fixed price?",
+    "a": "The volume hedged was 90,000 barrels at a weighted average fixed price of $62.63 per barrel."
+  },
+  {
+    "q": "What was the total liquidity amount for Vitesse Energy, Inc. as of December 31, 2025, and what components made up this liquidity?",
+    "a": "Total liquidity was $126.8 million, consisting of $1.3 million in cash and $125.5 million of committed borrowing availability."
+  },
+  {
+    "q": "How many gross wells were either drilling or in the completion phase for Vitesse Energy, Inc. as of December 31, 2025?",
+    "a": "Vitesse Energy owned an interest in 305 gross wells that were either drilling or in the completion phase as of December 31, 2025."
+  },
+  {
+    "q": "What was the realized natural gas price with hedging for Vitesse Energy, Inc. in the fourth quarter of 2025?",
+    "a": "The realized natural gas price with hedging was $1.23 per Mcf in the fourth quarter of 2025."
+  },
+  {
+    "q": "What is the ticker symbol and stock exchange for Vitesse Energy, Inc., and in which city and state is the company headquartered based on the press release dateline?",
+    "a": "The ticker symbol is VTS on the NYSE, and the company is headquartered in Greenwood Village, Colorado."
+  }
+]

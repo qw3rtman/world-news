@@ -1,0 +1,101 @@
+[
+  {
+    "q": "In the article published on March 1, 2026, what price range did Vanda Insights CEO Vandana Hari warn oil prices could reach if the Strait of Hormuz disruption is prolonged?",
+    "a": "Triple digits."
+  },
+  {
+    "q": "According to Kpler data cited in the March 1, 2026 article, how many barrels per day moved through the Strait of Hormuz in 2025?",
+    "a": "13 million barrels per day."
+  },
+  {
+    "q": "What percentage of all seaborne oil flows did the Strait of Hormuz account for in 2025, according to Kpler data reported in the March 1, 2026 article?",
+    "a": "Approximately 31%."
+  },
+  {
+    "q": "Which four major Gulf producers are linked by the Strait of Hormuz to the Gulf of Oman and the Arabian Sea, as listed in the March 1, 2026 article?",
+    "a": "Saudi Arabia, Iran, Iraq, and the United Arab Emirates."
+  },
+  {
+    "q": "What specific VHF radio message warning did an official from the European Union's naval mission Aspides report receiving from Iran's Revolutionary Guards on the Saturday before March 1, 2026?",
+    "a": "\"No ship is allowed to pass the Strait of Hormuz.\""
+  },
+  {
+    "q": "What probability of conflict did Bob McNally, president of Rapidan Energy Group, advise clients was likely before the U.S. strikes on Iran in early March 2026?",
+    "a": "75%."
+  },
+  {
+    "q": "What worst-case scenario did Andy Lipow, president of Lipow Oil Associates, describe in the March 1, 2026 article, and what probability did he assign to it?",
+    "a": "An attack on Saudi oil infrastructure followed by a complete closure of the Strait of Hormuz, with a probability of about 33%."
+  },
+  {
+    "q": "How did Saul Kavonic, head of energy research at MST Marquee, compare the potential severity of a Strait of Hormuz closure to historical events in the March 1, 2026 article?",
+    "a": "He stated it could be three times the severity of the Arab oil embargo and Iranian revolution in the 1970s."
+  },
+  {
+    "q": "What were the closing prices for Brent crude and U.S. West Texas Intermediate (WTI) on the Friday before the March 1, 2026 article publication?",
+    "a": "Brent crude settled at $72.48, and WTI closed at $62.02."
+  },
+  {
+    "q": "What year-to-date gain percentage did Brent crude achieve by the Friday before the March 1, 2026 article publication?",
+    "a": "About 19%."
+  },
+  {
+    "q": "What year-to-date gain percentage did U.S. West Texas Intermediate (WTI) achieve by the Friday before the March 1, 2026 article publication?",
+    "a": "Roughly 16%."
+  },
+  {
+    "q": "Which energy research firm did Vandana Insights CEO Vandana Hari lead when she commented on the potential military conflict between the U.S. and Iran in the March 1, 2026 article?",
+    "a": "Vanda Insights."
+  },
+  {
+    "q": "What specific condition did Vandana Hari state was necessary for the U.S. to prevent the worst-case scenario of major disruption of oil flows through the Middle East in the March 1, 2026 article?",
+    "a": "The U.S. must be able to pre-emptively disarm the Iranian navy and military and ensure tanker traffic through the Strait of Hormuz continues to flow normally."
+  },
+  {
+    "q": "What risk spectrum did Saul Kavonic of MST Marquee say markets would initially price in regarding Iranian exports and regional infrastructure in the March 1, 2026 article?",
+    "a": "From the loss of up to 2 million barrels per day of Iranian exports to attacks on regional infrastructure or a disruption of passage through Hormuz."
+  },
+  "q": "Which natural deep-sea port in the Sharjah Emirate was featured in an image captioned in the March 1, 2026 article as being along the Strait of Hormuz?",
+    "a": "The Khor Fakkan Container Terminal."
+  },
+  {
+    "q": "On what date was the image of tankers at the Khor Fakkan Container Terminal taken, as noted in the March 1, 2026 article?",
+    "a": "June 23, 2025."
+  },
+  {
+    "q": "What date was the infographic titled \"Strait of Hormuz\" created, according to the caption in the March 1, 2026 article?",
+    "a": "June 17, 2025."
+  },
+  {
+    "q": "In which city was the \"Strait of Hormuz\" infographic created, as stated in the March 1, 2026 article?",
+    "a": "Ankara, Turkiye."
+  },
+  {
+    "q": "What specific LNG price outcome did Saul Kavonic predict if the Strait of Hormuz were successfully closed, according to the March 1, 2026 article?",
+    "a": "LNG prices would retest the record highs of 2022."
+  },
+  {
+    "q": "Which two entities did Vandana Hari identify as facing a potential full-scale military conflict in her March 1, 2026 article commentary?",
+    "a": "The U.S. and Iran."
+  },
+  {
+    "q": "What immediate market reaction did analysts expect when trading resumed in New York on Sunday evening following the U.S. strikes on Iran, as reported in the March 1, 2026 article?",
+    "a": "An immediate \"knee-jerk\" reaction to oil prices."
+  },
+  {
+    "q": "What specific military action did Andy Lipow of Lipow Oil Associates say had not directly targeted Iranian oil facilities so far, but heightened supply disruption risks, in the March 1, 2026 article?",
+    "a": "The U.S. attacks on Iran."
+  },
+  {
+    "q": "What potential action by the U.S. and its allies did Saul Kavonic mention they would likely deploy to protect shipping lanes if Iran attempted to block the Strait of Hormuz, according to the March 1, 2026 article?",
+    "a": "Military escorts."
+  },
+  {
+    "q": "Which official body's naval mission Aspides reported the VHF radio warning from Iran's Revolutionary Guards, as cited in the March 1, 2026 article?",
+    "a": "The European Union."
+  },
+  {
+    "q": "What did the European Union's naval mission Aspides official state regarding Tehran's formal confirmation of a directive to close the waterway in the March 1, 2026 article?",
+    "a": "Tehran had not formally confirmed any directive to close the waterway."
+  }
+]

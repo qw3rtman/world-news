@@ -1,0 +1,21 @@
+{
+  "market_id": "1466030",
+  "question": "US forces enter Iran by March 3?",
+  "slug": "us-forces-enter-iran-by-march-3-882-999",
+  "url": "https://polymarket.com/event/us-forces-enter-iran-by",
+  "description": "This market will resolve to \u201cYes\u201d if active US military personnel physically enter Iran at any point by the listed date (ET). Otherwise, this market will resolve to \"No\".\n\nMilitary special operation forces will qualify, however intelligence operatives will not count.\n\nUS military personnel must physically enter the terrestrial territory of Iran to qualify. Entering Iran's maritime or aerial territory will not count.\n\nMilitary contractors, military advisors, or high-ranking US service members entering Iran for diplomatic purposes (and their accompanying entourage) will not qualify.\n\nThe resolution source will be a consensus of credible reporting.",
+  "event_title": "US forces enter Iran by..?",
+  "event_tags": [
+    "Trump",
+    "Geopolitics",
+    "Iran",
+    "Military Strikes"
+  ],
+  "volume_total": 921359.841156,
+  "created_at": "2026-02-28T13:54:50.197657Z",
+  "end_date": "2026-03-03T00:00:00Z",
+  "num_spikes": 5,
+  "max_spike": 0.33549999999999996,
+  "total_tokens": 30224,
+  "total_articles": 25
+}

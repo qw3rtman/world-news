@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On what date did the U.S. Transportation Department announce its approval of American Airlines' request to operate flights to Venezuela?",
+    "a": "March 4, 2026."
+  },
+  {
+    "q": "Which specific U.S. government official rescinded the 2019 order barring U.S. airlines from flying to Venezuela in January 2026?",
+    "a": "Transportation Secretary Sean Duffy."
+  },
+  {
+    "q": "Which U.S. President directed Transportation Secretary Sean Duffy to lift the aviation ban on Venezuela in January 2026?",
+    "a": "President Donald Trump."
+  },
+  {
+    "q": "Through which wholly owned regional carrier did the U.S. Transportation Department approve American Airlines to operate its flights to Caracas and Maracaibo?",
+    "a": "Envoy."
+  },
+  {
+    "q": "In which city did the U.S. Transportation Security Administration conduct a review of airport security procedures in late February 2026?",
+    "a": "Caracas."
+  },
+  {
+    "q": "For how many years is the U.S. Transportation Department's order approving American Airlines' flights to Venezuela valid?",
+    "a": "Two years."
+  },
+  {
+    "q": "On what date did American Airlines apply to resume service to Venezuela?",
+    "a": "February 13, 2026."
+  },
+  {
+    "q": "Who was captured by the Trump administration shortly before American Airlines applied to resume service to Venezuela in February 2026?",
+    "a": "Venezuelan President Nicolás Maduro."
+  },
+  {
+    "q": "Which Venezuelan official did President Donald Trump discuss lifting flight restrictions with in January 2026?",
+    "a": "Acting President Delcy Rodríguez."
+  },
+  {
+    "q": "In which month and year did the U.S. State Department add Venezuela to its 'Do Not Travel' list for Americans?",
+    "a": "December 2025."
+  },
+  {
+    "q": "What year did American Airlines originally start operating flights in Venezuela before suspending service in 2019?",
+    "a": "1987."
+  },
+  {
+    "q": "Which two Venezuelan cities were included in the U.S. Transportation Department's approval for American Airlines to operate flights from Miami?",
+    "a": "Caracas and Maracaibo."
+  },
+  {
+    "q": "What specific type of operations near Venezuela have raised concerns about the safety of aircraft operations?",
+    "a": "Military operations."
+  },
+  {
+    "q": "Which U.S. airline stated that resuming service to Venezuela would support the Trump administration's goals in the Caribbean?",
+    "a": "American Airlines."
+  },
+  {
+    "q": "What was the status of the U.S. State Department's 'Do Not Travel' designation for Venezuela as of March 2026?",
+    "a": "It had not been removed."
+  },
+  {
+    "q": "Which U.S. agency was responsible for reviewing airport security procedures in Caracas in late February 2026?",
+    "a": "The U.S. Transportation Security Administration."
+  },
+  {
+    "q": "What year was the original order that barred U.S. airlines from flying to Venezuela issued?",
+    "a": "2019."
+  },
+  {
+    "q": "According to American Airlines' filing, what three types of travel would the resumption of service provide opportunities for?",
+    "a": "Business, leisure, and humanitarian travel."
+  },
+  {
+    "q": "Before the 2019 suspension, what was American Airlines' status in the Venezuelan market?",
+    "a": "It was the largest U.S. airline in Venezuela."
+  },
+  {
+    "q": "Which U.S. department stated that the approval of American Airlines' application serves the public interest?",
+    "a": "The U.S. Transportation Department."
+  },
+  {
+    "q": "Who was the acting President of Venezuela that President Donald Trump spoke with in January 2026?",
+    "a": "Delcy Rodríguez."
+  },
+  {
+    "q": "From which U.S. city did the Transportation Department approve American Airlines to operate flights to Venezuela?",
+    "a": "Miami."
+  },
+  {
+    "q": "How long had it been since U.S. airlines flew to Venezuela before American Airlines' planned resumption of service in 2026?",
+    "a": "More than six years."
+  },
+  {
+    "q": "What specific goal of President Donald Trump did American Airlines cite as being furthered by the approval of its application?",
+    "a": "Reopening air service to Venezuela."
+  },
+  {
+    "q": "Which entity did the U.S. Transportation Department identify as the operator of the flights through its partnership with American Airlines?",
+    "a": "Envoy."
+  }
+]

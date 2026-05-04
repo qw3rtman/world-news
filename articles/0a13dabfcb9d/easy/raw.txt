@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Who was the guest of U.S. Rep. Jesus \"Chuy\" Garcia at the 2026 State of the Union address, and what incident involving a federal immigration officer led to her attendance?",
+    "a": "Marimar Martinez was the guest; she was shot five times by a federal immigration officer last fall and was later cleared of assaulting federal agents."
+  },
+  {
+    "q": "Which U.S. Representative from Illinois hosted Jaime, a UIC student from Mount Prospect, at the 2026 State of the Union, and what immigration enforcement action affected Jaime's family?",
+    "a": "U.S. Rep. Raja Krishnamoorthi hosted Jaime; Jaime's undocumented father was detained for five days at the ICE facility in Broadview and coerced into signing a voluntary departure to Mexico."
+  },
+  {
+    "q": "Who was the guest of Congressman Brad Schneider at the 2026 State of the Union, and what legal action did his company take regarding federal tariffs?",
+    "a": "Rick Woldenberg, CEO of Learning Resources, was the guest; his company filed a lawsuit that led to the Supreme Court ruling striking down a set of sweeping global tariffs."
+  },
+  {
+    "q": "Which four children of the late Rev. Jesse Jackson were scheduled to attend the 2026 State of the Union, and who was their host?",
+    "a": "Santita, Yusef, and Jesse Jr. were guests of House Minority Leader Hakeem Jeffries; their brother, Congressman Jonathan Jackson, attended as a member of the House."
+  },
+  {
+    "q": "Who was the guest of Outgoing U.S. Sen. Dick Durbin at the 2026 State of the Union, and what legislative legacy is she associated with?",
+    "a": "Tereza Lee, an original \"Dreamer,\" was the guest; she was Durbin's inspiration to write the DREAM Act 25 years ago to provide a pathway to citizenship for undocumented immigrants who came to the U.S. as children."
+  },
+  {
+    "q": "Who was the guest of Congresswoman Robin Kelly at the 2026 State of the Union?",
+    "a": "The CEO of the Chicago Urban League was the guest of Congresswoman Robin Kelly."
+  },
+  {
+    "q": "Which six Democratic members of the Illinois congressional delegation boycotted the 2026 State of the Union address, and what was their stated reason?",
+    "a": "Sen. Tammy Duckworth, Reps. Sean Casten, Mike Quigley, Delia Ramirez, Jan Schakowsky, and Eric Sorensen boycotted the address in protest of President Trump."
+  },
+  {
+    "q": "Who was scheduled to speak after President Trump's address during the 2026 State of the Union, and where did this unofficial rebuttal take place?",
+    "a": "Chicago Mayor Brandon Johnson was scheduled to speak alongside the mayor of Minneapolis and other prominent Democrats and celebrities at the National Press Club."
+  },
+  {
+    "q": "Which Chicago-area resident was a guest of U.S. Rep. Jesus \"Chuy\" Garcia at the 2026 State of the Union, and what was the outcome of her criminal charges related to the incident with federal agents?",
+    "a": "Marimar Martinez was the guest; she was charged but later cleared of assaulting federal agents after being shot five times by a federal immigration officer."
+  },
+  {
+    "q": "What specific immigration facility was involved in the detention of the father of Jaime, the guest of U.S. Rep. Raja Krishnamoorthi at the 2026 State of the Union?",
+    "a": "The U.S. Immigration and Customs Enforcement facility in Broadview."
+  },
+  {
+    "q": "Which Supreme Court ruling impacted the presence of Rick Woldenberg as a guest of Congressman Brad Schneider at the 2026 State of the Union?",
+    "a": "The Supreme Court ruling that struck down a set of sweeping global tariffs, which resulted from a lawsuit filed by Woldenberg's company, Learning Resources."
+  },
+  {
+    "q": "Who were the guests of House Minority Leader Hakeem Jeffries at the 2026 State of the Union, and what was their relationship to a prominent civil rights figure?",
+    "a": "Santita, Yusef, and Jesse Jr. Jackson were the guests; they are children of the late Rev. Jesse Jackson."
+  },
+  {
+    "q": "Which Illinois lawmaker hosted Tereza Lee at the 2026 State of the Union, and what historical legislative connection did Lee have to that lawmaker?",
+    "a": "Outgoing U.S. Sen. Dick Durbin hosted Tereza Lee; she was his inspiration to write the DREAM Act 25 years ago."
+  },
+  {
+    "q": "Which Illinois-based CEO was a guest of Congressman Brad Schneider at the 2026 State of the Union, and what was the name of his company?",
+    "a": "Rick Woldenberg, the Vernon Hills-based CEO of Learning Resources, was the guest."
+  },
+  {
+    "q": "Who was the guest of Congresswoman Robin Kelly at the 2026 State of the Union, and what organization does this guest lead?",
+    "a": "The CEO of the Chicago Urban League was the guest."
+  },
+  {
+    "q": "Which Illinois Republican U.S. Representative was NOT listed among the six Democratic members of the Illinois congressional delegation who boycotted the 2026 State of the Union?",
+    "a": "The article does not list any Republican Illinois representatives as boycotting; it specifically lists Sen. Tammy Duckworth and Reps. Sean Casten, Mike Quigley, Delia Ramirez, Jan Schakowsky, and Eric Sorensen as the six Democratic boycotters."
+  },
+  {
+    "q": "Where did Chicago Mayor Brandon Johnson plan to hold his unofficial rebuttal to the 2026 State of the Union address, and who else was scheduled to speak there?",
+    "a": "He planned to speak at the National Press Club alongside the mayor of Minneapolis and several other prominent Democrats and celebrities."
+  },
+  {
+    "q": "What was the status of Marimar Martinez's legal case regarding the incident with federal immigration officers prior to her attendance at the 2026 State of the Union?",
+    "a": "She was charged but later cleared of assaulting federal agents."
+  },
+  {
+    "q": "How long was Jaime's father detained at the ICE facility in Broadview before being coerced into voluntary departure, according to his son Jaime?",
+    "a": "He was detained for five days."
+  },
+  {
+    "q": "Which two Illinois cities' mayors were scheduled to speak together at the National Press Club during the 2026 State of the Union weekend?",
+    "a": "Chicago (Mayor Brandon Johnson) and Minneapolis."
+  },
+  {
+    "q": "Who was the guest of Congressman Brad Schneider at the 2026 State of the Union, and what was the primary policy issue his presence highlighted?",
+    "a": "Rick Woldenberg, CEO of Learning Resources, was the guest; his presence highlighted the issue of federal tariffs, specifically following the Supreme Court ruling striking down global tariffs."
+  },
+  {
+    "q": "Which member of the Jackson family attended the 2026 State of the Union as a sitting member of the House of Representatives rather than as a guest?",
+    "a": "Congressman Jonathan Jackson."
+  },
+  {
+    "q": "What legislative act was Outgoing U.S. Sen. Dick Durbin inspired to write by his guest Tereza Lee at the 2026 State of the Union?",
+    "a": "The DREAM Act."
+  },
+  {
+    "q": "Which six Illinois Democratic officials explicitly boycotted the 2026 State of the Union address in protest of President Trump?",
+    "a": "Sen. Tammy Duckworth, Reps. Sean Casten, Mike Quigley, Delia Ramirez, Jan Schakowsky, and Eric Sorensen."
+  },
+  {
+    "q": "Who was the guest of U.S. Rep. Raja Krishnamoorthi at the 2026 State of the Union, and what was the educational affiliation of this guest?",
+    "a": "Jaime, a student at the University of Illinois Chicago (UIC), was the guest."
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "hash": "8930c8ecbbae",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://edition.cnn.com/world/live-news/israel-iran-attack-02-28-26-hnk-intl?post-id=cmm60wotj001m3b6pawhvknhc",
+      "title": "Live updates: Trump calls for regime change in Iran after US and Israel launch major attack | CNN",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Dana Karni, Gianluca Mezzofiore, Adam Pourahmadi, Lauren Kent, Adam Cancryn, Kristen Holmes, John Miller, Catherine Nicholls, Kareem El Damanhoury, Frederik Pleitgen, Tori B. Powell, Kaanita Iyer, Jennifer Hauser, Alayna Treene, Kit Maher, Max Saltman, Thomas Bordeaux, Farida Elsebai, Yong Xiong, Jomana Karadsheh, Sophie Tanno, Jeremy Diamond, Natasha Bertrand, Tala Alrajjal, Auzinea Bacon, Camila DeChalus, CNN Staff, Alejandra Jaramillo, Mostafa Salem, Ellis Kim, Jennifer Hansler, Dan Berman, Josh Campbell, Tal Shalev, Julia Benbrook, Lou Robinson, Christian Edwards, Jim Sciutto, Kevin Liptak, Renée Rigdon, Abbas Al Lawati, Nic Robertson, Nick Paton Walsh, Tim Lister, Samantha Waldenberg, Michelle Velez, Zachary Cohen, Manu Raju, Jeff Zeleny, Oren Liebermann, Antoinette Radford, Charlotte Reck, Eugenia Yosef, Haley Britzky, Bijan  Hosseini, Duarte Mendonca, Isaac Yee, Teele Rebane, Logan Schiciano, Kaitlan Collins, Angus Watson, Avery Schmitz, Todd Symons, Brad Lendon, Nadeen Ebrahim, Satish Cheney",
+      "num_tokens": 2726,
+      "text_length": 13726
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1323373",
+      "spike_id": 1,
+      "market_question": "Will US or Israel strike Iran by June 30, 2026?",
+      "event_title": "US/Israel strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.3245,
+      "spike_timestamp_before": "2026-02-27T08:30:26+00:00",
+      "spike_timestamp_after": "2026-02-28T08:00:38+00:00"
+    }
+  ]
+}

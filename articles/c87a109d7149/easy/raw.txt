@@ -1,0 +1,106 @@
+[
+  {
+    "q": "On March 12, 2026, which Iranian missile strike was captured by Reuters photographer Dylan Martinez in Tel Aviv, Israel?",
+    "a": "An Iranian missile landing in Tel Aviv."
+  },
+  {
+    "q": "During the week of March 12, 2026, how many missiles did Hezbollah fire during its first-ever simultaneous rocket barrage with Iran's Revolutionary Guards against Israel?",
+    "a": "200 missiles."
+  },
+  {
+    "q": "According to Israeli military reports from March 12, 2026, how many of the 200 Hezbollah rockets launched during the coordinated strike actually hit Israeli territory?",
+    "a": "Two."
+  },
+  {
+    "q": "Who is the new Supreme Leader of Iran who issued a statement on March 12, 2026, thanking the \"fighters of the Resistance Front\"?",
+    "a": "Mojtaba Khamenei."
+  },
+  {
+    "q": "On what date did Hezbollah enter the war, stating its aim was to avenge the killing of former Supreme Leader Ayatollah Ali Khamenei?",
+    "a": "March 2, 2026."
+  },
+  {
+    "q": "Which Palestinian group, a key member of the Axis of Resistance, attacked Israel on October 7, 2023, leading to the decimation of the group and pummeling of Hezbollah?",
+    "a": "Hamas."
+  },
+  {
+    "q": "Who was the leader of Hezbollah killed by Israel during the Gaza conflict, an event that contributed to the weakening of the Axis of Resistance?",
+    "a": "Hassan Nasrallah."
+  },
+  {
+    "q": "Which Syrian leader was toppled as a ripple effect of the war ignited by the October 7, 2023, Hamas attack, removing a pillar of the Axis of Resistance?",
+    "a": "Bashar al-Assad."
+  },
+  {
+    "q": "According to Israeli military spokesman Lieutenant Colonel Nadav Shoshani in March 2026, how many drones accompanied the 200 Hezbollah rockets in the coordinated strike?",
+    "a": "20 drones."
+  },
+  {
+    "q": "How many people were killed and how many were forced from their homes during Israel's new offensive against Hezbollah in Lebanon in early 2026?",
+    "a": "More than 600 people were killed and more than 800,000 were forced from their homes."
+  },
+  {
+    "q": "Which U.S. State Department spokesperson condemned Iran and Iran-backed militias' attacks on infrastructure in Iraq in March 2026?",
+    "a": "A U.S. State Department spokesperson (unnamed in the article)."
+  },
+  {
+    "q": "Under which umbrella organization do the Iran-aligned Shi'ite factions in Iraq operate, according to statements made on March 12, 2026?",
+    "a": "The Islamic Resistance in Iraq."
+  },
+  {
+    "q": "How many attacks did the Islamic Resistance in Iraq claim to have carried out over a 24-hour period ending on March 12, 2026?",
+    "a": "31 attacks."
+  },
+  {
+    "q": "Which U.S.-based company operates the Majnoon oilfield in southern Iraq that was hit by two drones on March 12, 2026?",
+    "a": "KBR."
+  },
+  {
+    "q": "On what date did a drone attack strike an oilfield operated by U.S. firm HKN Energy in Iraq’s Kurdistan region, causing a fire and halting production?",
+    "a": "March 5, 2026."
+  },
+  {
+    "q": "Which U.S. diplomatic facility near Baghdad International Airport was struck by a drone on Tuesday, March 10, 2026, according to the U.S. State Department?",
+    "a": "A U.S. diplomatic facility (specific name not provided, described as near Baghdad International Airport)."
+  },
+  {
+    "q": "Which U.S. military base near Erbil airport in Iraqi Kurdistan was targeted by two drones on March 12, 2026?",
+    "a": "A U.S. military base near Erbil airport."
+  },
+  {
+    "q": "Which U.S. military aircraft did the Islamic Resistance in Iraq claim responsibility for downing on March 12, 2026?",
+    "a": "A U.S. military refueling aircraft."
+  },
+  {
+    "q": "According to U.S. Central Command, what was the cause of the crash involving the U.S. military refueling aircraft on March 12, 2026?",
+    "a": "An incident that involved another aircraft, not hostile or friendly fire."
+  },
+  {
+    "q": "Who is the lecturer at King's College London's security studies department who stated in March 2026 that Hezbollah, Iraqi Shi'ite militias, and the Houthis were \"very much operational\"?",
+    "a": "Andreas Krieg."
+  },
+  {
+    "q": "Which Houthi leader stated in the week prior to March 12, 2026, that the group had its \"fingers on the trigger\" and was ready to act militarily?",
+    "a": "Abdul Malik al-Houthi."
+  },
+  {
+    "q": "Which strait did Iran shut, causing Saudi Arabia to divert oil exports to the Red Sea and raising concerns about further disruption by Houthi attacks?",
+    "a": "The Hormuz straits."
+  },
+  {
+    "q": "In which region of Iraq did security officials say militias sought to extend pressure to energy projects and oilfields in early March 2026?",
+    "a": "Southern Iraq."
+  },
+  {
+    "q": "How many Israeli soldiers were reported killed in Lebanon as a result of Hezbollah's attacks up to March 12, 2026?",
+    "a": "Two."
+  },
+  {
+    "q": "Which think-tank expert, Mohanad Hage Ali, described the conflict in March 2026 as an \"existential war\" for Iran and Hezbollah?",
+    "a": "Mohanad Hage Ali of the Carnegie Middle East Center."
+  },
+  {
+    "q": "When was Hezbollah founded by Iran's Revolutionary Guards, according to the article?",
+    "a": "1982."
+  }
+]

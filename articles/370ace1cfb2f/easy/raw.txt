@@ -1,0 +1,103 @@
+[
+  {
+    "q": "In the context of the US military strikes on Iran that resulted in the death of Supreme Leader Ayatollah Ali Khamenei, what specific behind-the-scenes action did Saudi Crown Prince Mohammed bin Salman reportedly take according to a Washington Post report?",
+    "a": "He held multiple private calls with US President Donald Trump urging him to launch military action against Tehran."
+  },
+  {
+    "q": "During the diplomatic period leading up to the US strikes on Iran, what public stance did Saudi Arabia take regarding its airspace despite Crown Prince Mohammed bin Salman’s private urging of US President Donald Trump to act?",
+    "a": "Saudi Arabia publicly stated it would not permit its airspace to be used for strikes on Iran."
+  },
+  {
+    "q": "Which two US figures were involved in negotiations with Iranian officials before Saudi Arabia announced it would not allow its airspace to be used for strikes on Iran?",
+    "a": "US envoy Steve Witkoff and Trump’s son-in-law Jared Kushner."
+  },
+  {
+    "q": "Who did Saudi Crown Prince Mohammed bin Salman reportedly speak with in phone conversations that preceded Saudi Arabia’s public refusal to allow its airspace to be used for strikes on Iran?",
+    "a": "Iran’s President Masoud Pezeshkian."
+  },
+  {
+    "q": "According to sources cited by The Washington Post, what specific economic concern motivated Saudi Crown Prince Mohammed bin Salman’s desire for military action against Iran?",
+    "a": "The need to protect Saudi Arabia’s sensitive oil industry from Iranian attacks."
+  },
+  {
+    "q": "Which Saudi official echoed Crown Prince Mohammed bin Salman’s concerns about the consequences of inaction against Iran during closed-door meetings with US officials?",
+    "a": "Saudi Defence Minister Khalid bin Salman."
+  },
+  {
+    "q": "What historical military event did Saudi Crown Prince Mohammed bin Salman cite as a benchmark when warning that Iran now commands one of the largest military footprints in the Middle East?",
+    "a": "The 2003 US invasion of Iraq."
+  },
+  {
+    "q": "Despite Crown Prince Mohammed bin Salman’s urging, what did US intelligence assessments indicate about Iran’s threat level to the United States over the next decade?",
+    "a": "Iran was unlikely to pose an immediate threat to the United States over the next decade."
+  },
+  {
+    "q": "Which two countries carried out the military strikes on Iran that resulted in the death of Supreme Leader Ayatollah Ali Khamenei?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "What long-standing geopolitical dynamic between Saudi Arabia and Iran is described as involving indirect 'proxy wars' across the Middle East?",
+    "a": "The power struggle between the Sunni-led Saudi Arabia and the Shiite-led Iran."
+  },
+  {
+    "q": "According to the Washington Post report, how did Saudi Crown Prince Mohammed bin Salman’s private actions contrast with Saudi Arabia’s public diplomatic position regarding Iran?",
+    "a": "He privately pressed US President Donald Trump to act militarily while publicly backing a diplomatic solution."
+  },
+  {
+    "q": "What specific argument did Saudi Crown Prince Mohammed bin Salman reportedly make to US President Donald Trump regarding the timing of military action against Iran?",
+    "a": "He argued that failing to strike Iran immediately would allow Tehran to grow stronger and more dangerous."
+  },
+  {
+    "q": "Who is identified as the primary regional enemy of Saudi Arabia in the context of the tensions leading to the US strikes on Iran?",
+    "a": "Iran."
+  },
+  {
+    "q": "Which publication reported that Saudi Crown Prince Mohammed bin Salman held private calls with US President Donald Trump urging military action against Iran?",
+    "a": "The Washington Post."
+  },
+  {
+    "q": "What was the outcome of the US military strikes on Iran that were reportedly urged by Saudi Crown Prince Mohammed bin Salman?",
+    "a": "The strikes resulted in the death of Iran’s Supreme Leader, Ayatollah Ali Khamenei."
+  },
+  {
+    "q": "Which two factions are described as competing for influence in the Middle East through indirect proxy wars?",
+    "a": "Sunni-led Saudi Arabia and Shiite-led Iran."
+  },
+  {
+    "q": "What role did US President Donald Trump play in the events leading to the death of Ayatollah Ali Khamenei, according to reports involving Saudi Crown Prince Mohammed bin Salman?",
+    "a": "He was urged by the Crown Prince to launch military action against Iran and subsequently carried out the strikes with Israel’s support."
+  },
+  {
+    "q": "Why did Saudi Arabia publicly state it would not permit its airspace to be used for strikes on Iran, according to the timeline of events?",
+    "a": "The announcement followed reported phone conversations between Crown Prince Mohammed bin Salman and Iran’s President Masoud Pezeshkian."
+  },
+  {
+    "q": "What specific warning did Saudi Defence Minister Khalid bin Salman give to US officials during closed-door meetings regarding Iran?",
+    "a": "He cautioned about the potential consequences of inaction against Iran."
+  },
+  {
+    "q": "How did Washington’s stance toward Tehran differ from Saudi Crown Prince Mohammed bin Salman’s stance prior to the US strikes?",
+    "a": "Washington had refrained from launching a full-scale strike despite its adversarial stance, whereas the Crown Prince pressed for immediate action."
+  },
+  {
+    "q": "Which Iranian leader’s death was mourned by Iran as fresh details emerged about Saudi Arabia’s alleged role in the US strike?",
+    "a": "Supreme Leader Ayatollah Ali Khamenei."
+  },
+  {
+    "q": "What diplomatic balancing act is Saudi Crown Prince Mohammed bin Salman described as performing regarding Iran?",
+    "a": "He is torn between protecting Saudi oil from Iranian attacks and managing a deep-seated rivalry with Iran.",
+    "a": "He is balancing protecting Saudi oil from Iranian attacks and managing a deep-seated rivalry with Iran."
+  },
+  {
+    "q": "Who are the four people cited by The Washington Post regarding Saudi Crown Prince Mohammed bin Salman’s private calls with US President Donald Trump?",
+    "a": "Four people familiar with the matter."
+  },
+  {
+    "q": "What did US intelligence assessments indicate about Iran’s likelihood of posing an immediate threat to the United States in the decade following the events described?",
+    "a": "Iran was unlikely to pose an immediate threat to the United States over the next decade."
+  },
+  {
+    "q": "Which two nations are described as having spent years competing for influence through indirect proxy wars in the Middle East?",
+    "a": "Saudi Arabia and Iran."
+  }
+]

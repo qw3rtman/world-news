@@ -1,0 +1,65 @@
+{
+  "spike_index": 6,
+  "direction": "up",
+  "price_before": 0.195,
+  "price_after": 0.4615,
+  "delta": 0.2665,
+  "abs_delta": 0.2665,
+  "timestamp_before": "2026-03-18T03:00:49+00:00",
+  "timestamp_after": "2026-03-18T20:00:56+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.cnn.com/2026/03/19/middleeast/us-israel-iran-middle-east-war-day-20-what-we-know-intl-hnk",
+      "file": "8c3db2206182.txt",
+      "title": "What we know on the 20th day of the US and Israel\u2019s war with Iran | CNN",
+      "published_date": "2026-03-18T17:24:37.594Z",
+      "author": "Jessie Yeung",
+      "text_length": 7204,
+      "status": "ok",
+      "num_tokens": 1455
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/18/middleeast/us-israel-iran-middle-east-war-day-20-what-we-know-intl-hnk",
+      "file": "24e4780b4ab9.txt",
+      "title": "What we know on the 20th day of the US and Israel\u2019s war with Iran | CNN",
+      "published_date": "2026-03-18T17:24:37.594Z",
+      "author": "Jessie Yeung",
+      "text_length": 7768,
+      "status": "ok",
+      "num_tokens": 1591
+    },
+    {
+      "url": "https://www.reuters.com/world/china/trump-criticises-allies-over-rejection-hormuz-request-iran-israel-trade-2026-03-17/",
+      "file": "da61afbffa4f.txt",
+      "title": "Iran blames Israel for gas field attack, fires missiles at Qatar and Saudi energy facilities | Reuters",
+      "published_date": "2026-03-18T17:24:37.594Z",
+      "author": "Andrew Mills",
+      "text_length": 6413,
+      "status": "ok",
+      "num_tokens": 1276
+    },
+    {
+      "url": "https://www.npr.org/2026/03/18/nx-s1-5751694/iran-retaliates-israel-kills-two-top-iranian-officials",
+      "file": "4c375d41b89f.txt",
+      "title": "Iran war can't eliminate nuclear program: U.N. atomic energy chief Grossi : NPR",
+      "published_date": "2026-03-18T17:24:37.594Z",
+      "author": "By\u00a0                 \n   \n       \n      NPR Staff",
+      "text_length": 9936,
+      "status": "ok",
+      "num_tokens": 2003
+    },
+    {
+      "url": "https://blogs.timesofisrael.com/counting-fronts/",
+      "file": "9440a183320d.txt",
+      "title": "The Blogs: Counting Fronts | Sabine Sterk | The Times of Israel",
+      "published_date": "2026-03-18T00:00:00.000Z",
+      "author": "Sabine Sterk",
+      "text_length": 5677,
+      "status": "ok",
+      "num_tokens": 1130
+    }
+  ],
+  "total_tokens": 7455
+}

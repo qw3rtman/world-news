@@ -1,0 +1,27 @@
+{
+  "hash": "82addc6c7756",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://frontline.thehindu.com/magazine/article33314770.ece",
+      "title": "Presidential Stakes - Frontline",
+      "published_date": "2026-03-05T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 4,
+      "text_length": 19
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1235514",
+      "spike_id": 1,
+      "market_question": "Will Tô Lâm be the next President of Vietnam?",
+      "event_title": "Next President of Vietnam",
+      "spike_direction": "down",
+      "spike_delta": -0.17500000000000004,
+      "spike_timestamp_before": "2026-03-05T08:00:41+00:00",
+      "spike_timestamp_after": "2026-03-05T15:00:46+00:00"
+    }
+  ]
+}

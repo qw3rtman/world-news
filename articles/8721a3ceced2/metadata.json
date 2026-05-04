@@ -1,0 +1,37 @@
+{
+  "hash": "8721a3ceced2",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.axios.com/2026/03/05/iran-leader-trump-khamenei",
+      "title": "Exclusive: Trump says he must be involved in picking Iran's next leader",
+      "published_date": "2026-03-05T00:00:00.000Z",
+      "author": "Barak Ravid,Zachary Basu",
+      "num_tokens": 581,
+      "text_length": 2802
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1235518",
+      "spike_id": 1,
+      "market_question": "Will Trần Thanh Mẫn be the next President of Vietnam?",
+      "event_title": "Next President of Vietnam",
+      "spike_direction": "up",
+      "spike_delta": 0.192,
+      "spike_timestamp_before": "2026-03-05T09:30:29+00:00",
+      "spike_timestamp_after": "2026-03-05T15:00:42+00:00"
+    },
+    {
+      "market_id": "1235518",
+      "spike_id": 2,
+      "market_question": "Will Trần Thanh Mẫn be the next President of Vietnam?",
+      "event_title": "Next President of Vietnam",
+      "spike_direction": "down",
+      "spike_delta": -0.1725,
+      "spike_timestamp_before": "2026-03-05T15:00:42+00:00",
+      "spike_timestamp_after": "2026-03-05T19:30:28+00:00"
+    }
+  ]
+}

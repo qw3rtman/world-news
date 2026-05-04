@@ -1,0 +1,65 @@
+{
+  "spike_index": 3,
+  "direction": "down",
+  "price_before": 0.415,
+  "price_after": 0.12,
+  "delta": -0.295,
+  "abs_delta": 0.295,
+  "timestamp_before": "2026-03-03T03:30:36+00:00",
+  "timestamp_after": "2026-03-03T19:30:35+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://haaretz.com/israel-news/israel-politics/2026-03-03/ty-article/.premium/likud-mk-says-elections-to-be-moved-to-july-amid-dispute-over-netanyahus-plans/0000019c-b3c4-df64-a59c-fbf6bd4f0000",
+      "file": "f69d919d4d77.txt",
+      "title": "Likud Minister Says Israeli Elections to Be Moved Up to July for Netanyahu Bloc to Capitalize on Iran War - Israel Political News",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Noa Shpigel",
+      "text_length": 230,
+      "status": "ok",
+      "num_tokens": 50
+    },
+    {
+      "url": "https://canary.haaretz.com/israel-news/israel-politics/2026-03-03/ty-article/.premium/likud-mk-says-elections-to-be-moved-to-july-amid-dispute-over-netanyahus-plans/0000019c-b3c4-df64-a59c-fbf6bd4f0000",
+      "file": "ce0b881fb802.txt",
+      "title": "Likud Minister Says Israeli Elections to Be Moved Up to July for Netanyahu Bloc to Capitalize on Iran War - Israel Political News",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Noa Shpigel",
+      "text_length": 230,
+      "status": "ok",
+      "num_tokens": 50
+    },
+    {
+      "url": "https://af.reuters.com/world/middle-east/netanyahu-says-us-israel-war-iran-not-going-take-years-2026-03-03/",
+      "file": "4b23af455091.txt",
+      "title": "Reuters | Breaking International News & Views",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": null,
+      "text_length": 353,
+      "status": "ok",
+      "num_tokens": 72
+    },
+    {
+      "url": "https://uk.mobile.reuters.com/world/middle-east/netanyahu-says-war-against-iran-may-take-some-time-not-years-2026-03-03/",
+      "file": "01b4a1cfa9e2.txt",
+      "title": "Netanyahu says war against Iran may take 'some time', but not years | Reuters",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Kanishka Singh",
+      "text_length": 2759,
+      "status": "ok",
+      "num_tokens": 595
+    },
+    {
+      "url": "https://foxnews.com/media/netanyahu-insists-us-israels-strikes-iran-wont-lead-endless-war.print",
+      "file": "e16fcd0c8071.txt",
+      "title": "Netanyahu insists US and Israel's strikes on Iran won't lead to 'endless war'",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": null,
+      "text_length": 3538,
+      "status": "ok",
+      "num_tokens": 739
+    }
+  ],
+  "total_tokens": 1506
+}

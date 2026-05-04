@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In early March 2026, which streaming service acquired Ben Affleck's AI-powered filmmaking tool company, InterPositive, and what was the financial term of the deal?",
+    "a": "Netflix acquired InterPositive for an undisclosed sum."
+  },
+  {
+    "q": "What specific technical filmmaking tasks does Ben Affleck state InterPositive's technology can perform, as described in his announcement video in March 2026?",
+    "a": "The technology can remove wires on stunts, reframe shots, retrieve missed shots, shape lighting, and enhance backgrounds."
+  },
+  {
+    "q": "What role did Ben Affleck assume at Netflix upon the announcement of the InterPositive acquisition in March 2026?",
+    "a": "He joined Netflix as a senior advisor."
+  },
+  {
+    "q": "How did the International Alliance of Theatrical Stage Employees (IATSE) respond to the Netflix and InterPositive deal announced in March 2026?",
+    "a": "The union stated it does not comment on mergers and acquisitions."
+  },
+  {
+    "q": "What multi-year partnership did Artists Equity, the production company co-founded by Ben Affleck and Matt Damon, sign with Netflix earlier in March 2026?",
+    "a": "The partnership gives Netflix first dibs to develop and distribute all of their future streaming-focused projects."
+  },
+  {
+    "q": "Which recent thriller starring Ben Affleck and Matt Damon as Miami narcotics officers was released in collaboration with Netflix prior to the March 2026 InterPositive deal?",
+    "a": "The movie is titled The Rip."
+  },
+  {
+    "q": "What industry group, established late last year, did Ben Affleck join to advocate for responsible AI use in entertainment?",
+    "a": "He joined the Creators Coalition on AI."
+  },
+  {
+    "q": "How does the Creators Coalition on AI describe its mission regarding the impact of AI on the entertainment industry?",
+    "a": "It describes itself as a central hub for cross-industry discussions about how AI is impacting the entertainment industry."
+  },
+  {
+    "q": "What was the core philosophy stated by Elizabeth Stone, Netflix's chief product and technology officer, regarding the InterPositive partnership in March 2026?",
+    "a": "She stated that innovation should empower storytellers, not replace them, and that people remain at the core of great storytelling."
+  },
+  {
+    "q": "Which media giant did Netflix abandon in its acquisition plans just over a week before the InterPositive deal in March 2026?",
+    "a": "Netflix pulled out of its plan to acquire Warner Brothers Discovery."
+  },
+  {
+    "q": "What was the approximate valuation of Paramount's agreement to acquire Warner Brothers Discovery, which replaced Netflix's bid in early March 2026?",
+    "a": "The deal was valued at around $110 billion."
+  },
+  {
+    "q": "On what date did the Warner Brothers Discovery board declare Paramount's bid superior to Netflix's previous offer?",
+    "a": "The board declared the bid superior on February 26, 2026."
+  },
+  {
+    "q": "What was the value of the deal Netflix had previously struck with Warner Brothers Discovery before withdrawing in March 2026?",
+    "a": "The previous deal was valued at $83 billion."
+  },
+  {
+    "q": "Which academic expert from Texas Christian University commented on the significance of Netflix partnering with Ben Affleck in March 2026?",
+    "a": "Kimberly A. Owczarski, an associate professor who studies media franchises."
+  },
+  {
+    "q": "According to Kimberly A. Owczarski, what message does Netflix's partnership with Ben Affleck send to the entertainment industry in March 2026?",
+    "a": "It sends a positive message to an industry reeling from the threats posed by the growing adoption of AI."
+  },
+  {
+    "q": "What specific attributes of Ben Affleck did Kimberly A. Owczarski cite as giving weight to his promotion of responsible AI use in filmmaking?",
+    "a": "His status as a star, filmmaker, and producer."
+  },
+  {
+    "q": "Who edited the NPR story regarding the Netflix and InterPositive deal published on March 6, 2026?",
+    "a": "Jennifer Vanasco."
+  },
+  {
+    "q": "What type of AI models does InterPositive help filmmakers build based on scenes they have already shot?",
+    "a": "Proprietary AI models."
+  },
+  {
+    "q": "Which specific technical roles within Hollywood are supported by the International Alliance of Theatrical Stage Employees (IATSE)?",
+    "a": "The union supports camera operators, lighting and sound technicians, grips, and script supervisors."
+  },
+  {
+    "q": "What did the Creators Coalition on AI state about the nature of AI technology in its public declaration?",
+    "a": "The group stated that AI technology is here and committed to responsible, human-centered innovation rather than a full rejection of AI."
+  },
+  {
+    "q": "What dual role did Ben Affleck hold in relation to the film The Rip, which was released by Netflix?",
+    "a": "He starred in and made the movie."
+  },
+  {
+    "q": "What specific benefit does the Artists Equity and Netflix partnership provide to the streamer regarding future projects?",
+    "a": "Netflix gets first dibs to develop and distribute all of Affleck and Damon's future streaming-focused projects."
+  },
+  {
+    "q": "What was the primary function of InterPositive's technology as described by Ben Affleck in his March 2026 announcement?",
+    "a": "To take out logistical, difficult, and technical stuff that gets in the way of the filmmaking process."
+  },
+  {
+    "q": "Which company's board declared Paramount's $110 billion bid superior to Netflix's $83 billion offer for Warner Brothers Discovery?",
+    "a": "The Warner Brothers Discovery board."
+  },
+  {
+    "q": "What is the name of the Oscar-winning filmmaker who acquired an AI company and joined Netflix as a senior advisor in March 2026?",
+    "a": "Ben Affleck."
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "hash": "36e7d1e2921b",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://apps.npr.org/primary-election-results-2026/states/TX.html",
+      "title": "Texas Primary Election Results 2026 : NPR",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 106,
+      "text_length": 502
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "562186",
+      "spike_id": 3,
+      "market_question": "Will Ken Paxton win the 2026 Texas Republican Primary?",
+      "event_title": "Texas Republican Senate Primary Winner",
+      "spike_direction": "up",
+      "spike_delta": 0.16,
+      "spike_timestamp_before": "2026-03-09T04:00:21+00:00",
+      "spike_timestamp_after": "2026-03-10T03:30:25+00:00"
+    },
+    {
+      "market_id": "562186",
+      "spike_id": 4,
+      "market_question": "Will Ken Paxton win the 2026 Texas Republican Primary?",
+      "event_title": "Texas Republican Senate Primary Winner",
+      "spike_direction": "up",
+      "spike_delta": 0.165,
+      "spike_timestamp_before": "2026-03-09T06:30:21+00:00",
+      "spike_timestamp_after": "2026-03-10T06:00:28+00:00"
+    },
+    {
+      "market_id": "562186",
+      "spike_id": 5,
+      "market_question": "Will Ken Paxton win the 2026 Texas Republican Primary?",
+      "event_title": "Texas Republican Senate Primary Winner",
+      "spike_direction": "up",
+      "spike_delta": 0.17,
+      "spike_timestamp_before": "2026-03-09T09:30:18+00:00",
+      "spike_timestamp_after": "2026-03-10T09:00:35+00:00"
+    },
+    {
+      "market_id": "562187",
+      "spike_id": 3,
+      "market_question": "Will John Cornyn win the 2026 Texas Republican Primary?",
+      "event_title": "Texas Republican Senate Primary Winner",
+      "spike_direction": "down",
+      "spike_delta": -0.18000000000000005,
+      "spike_timestamp_before": "2026-03-09T14:00:25+00:00",
+      "spike_timestamp_after": "2026-03-10T03:00:33+00:00"
+    }
+  ]
+}

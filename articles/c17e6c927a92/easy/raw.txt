@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2026, Reuters Breakingviews reported that Alphabet, Amazon.com, Meta Platforms, and Microsoft planned to spend approximately how much capital in that year on chip-packed data centers?",
+    "a": "$650 billion"
+  },
+  {
+    "q": "According to a March 2026 Reuters Breakingviews analysis, Big Tech’s spending commitments were roughly equivalent to what percentage of U.S. GDP from the previous year?",
+    "a": "2%"
+  },
+  {
+    "q": "Morgan Stanley forecasted in 2026 that how much global data-center investment would occur between 2025 and 2028?",
+    "a": "$2.9 trillion"
+  },
+  {
+    "q": "Morgan Stanley expected in 2026 that roughly how much of the $2.9 trillion in global data-center investment between 2025 and 2028 would come from private credit and asset-backed lending?",
+    "a": "$900 billion"
+  },
+  {
+    "q": "In March 2026, OpenAI CEO Sam Altman floated infrastructure build-out deals worth how much, requiring 30 gigawatts of power?",
+    "a": "$1.4 trillion"
+  },
+  {
+    "q": "The 30 gigawatts of power required for OpenAI CEO Sam Altman’s floated infrastructure deals in March 2026 is enough to supply how many U.S. households?",
+    "a": "20 million"
+  },
+  {
+    "q": "HSBC estimated in March 2026 that OpenAI may need how much additional financing by the year 2030?",
+    "a": "$207 billion"
+  },
+  {
+    "q": "In March 2026, OpenAI announced a funding round of how much, which included a $50 billion pledge from Amazon.com?",
+    "a": "$110 billion"
+  },
+  {
+    "q": "Amazon.com’s $50 billion pledge to OpenAI’s March 2026 funding round begins with an initial payment of approximately how much?",
+    "a": "$15 billion"
+  },
+  {
+    "q": "In March 2026, SoftBank was expected to add how much to OpenAI’s funding round, while facing a negative credit outlook from S&P Global?",
+    "a": "$30 billion"
+  },
+  {
+    "q": "According to Bloomberg reports cited in March 2026, SoftBank was exploring a bridge loan of up to how much due to financial pressure?",
+    "a": "$40 billion"
+  },
+  {
+    "q": "As of the end of February 2026, The Information reported that OpenAI had topped how much in annualized revenue?",
+    "a": "$25 billion"
+  },
+  {
+    "q": "In a court filing cited in March 2026, Anthropic’s CFO stated that the company had spent over how much on training models and serving user queries?",
+    "a": "$10 billion"
+  },
+  {
+    "q": "In a March 2026 court filing, Anthropic’s CFO stated that the company’s spending had generated roughly how much in cumulative revenue?",
+    "a": "$5 billion"
+  },
+  {
+    "q": "HSBC analysts estimated in late November 2025 that OpenAI would have almost how much cash burn between that time and the end of 2030?",
+    "a": "$280 billion"
+  },
+  {
+    "q": "According to Visible Alpha data cited in March 2026, Nvidia and Alphabet traded on average at how many times expected sales in 2030?",
+    "a": "5.6 times"
+  },
+  {
+    "q": "To achieve a mooted $1 trillion IPO valuation in 2026, OpenAI would need to generate at least how much in annual revenue by 2030, applying a 30% IPO discount to industry multiples?",
+    "a": "$250 billion"
+  },
+  {
+    "q": "CNBC reported in March 2026 that OpenAI’s internal revenue targets were even higher than $250 billion, standing at how much?",
+    "a": "$280 billion"
+  },
+  {
+    "q": "In March 2026, Microsoft stated that 45% of its $625 billion in demand backlog was tied to which AI lab?",
+    "a": "OpenAI"
+  },
+  {
+    "q": "In March 2026, OpenAI CEO Sam Altman inked a deal with Oracle worth how much?",
+    "a": "$300 billion"
+  },
+  {
+    "q": "HSBC estimated in March 2026 that OpenAI could spend how much on chips and data centers, a figure that includes Microsoft’s and Oracle’s deals?",
+    "a": "$800 billion"
+  },
+  {
+    "q": "In March 2026, the Trump administration labeled which AI company a supply-chain risk after CEO Dario Amodei resisted allowing Claude to be used for mass surveillance or autonomous weapons?",
+    "a": "Anthropic"
+  },
+  {
+    "q": "In March 2026, U.S. Defense Secretary Pete Hegseth claimed that no government contractor could work with which AI company?",
+    "a": "Anthropic"
+  },
+  {
+    "q": "Anthropic sued the Trump administration in March 2026, claiming that labeling the company a supply-chain risk violated its rights to free expression and what other legal principle?",
+    "a": "Due process"
+  },
+  {
+    "q": "In March 2026, credit-default swaps on Oracle climbed to their highest levels since which year?",
+    "a": "2008"
+  }
+]

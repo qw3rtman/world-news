@@ -1,0 +1,227 @@
+{
+  "hash": "53fcf5707732",
+  "n_appearances": 21,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.pbs.org/newshour/world/live-updates-u-s-and-israel-attack-iran",
+      "title": "Live Updates: U.S. and Israel attack Iran | PBS News",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 10182,
+      "text_length": 51092
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1198523",
+      "spike_id": 1,
+      "market_question": "Will US or Israel strike Iran by March 31, 2026?",
+      "event_title": "US/Israel strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.17999999999999994,
+      "spike_timestamp_before": "2026-02-26T20:30:29+00:00",
+      "spike_timestamp_after": "2026-02-27T14:30:27+00:00"
+    },
+    {
+      "market_id": "1198523",
+      "spike_id": 2,
+      "market_question": "Will US or Israel strike Iran by March 31, 2026?",
+      "event_title": "US/Israel strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.16999999999999993,
+      "spike_timestamp_before": "2026-02-26T23:30:25+00:00",
+      "spike_timestamp_after": "2026-02-27T23:00:33+00:00"
+    },
+    {
+      "market_id": "1198592",
+      "spike_id": 1,
+      "market_question": "Will US or Israel strike Iran by December 31, 2026?",
+      "event_title": "US/Israel strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.2695000000000001,
+      "spike_timestamp_before": "2026-02-27T08:00:25+00:00",
+      "spike_timestamp_after": "2026-02-28T07:30:27+00:00"
+    },
+    {
+      "market_id": "1367195",
+      "spike_id": 1,
+      "market_question": "US strikes Iran by March 15, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.235,
+      "spike_timestamp_before": "2026-02-27T09:30:26+00:00",
+      "spike_timestamp_after": "2026-02-27T13:00:30+00:00"
+    },
+    {
+      "market_id": "1388693",
+      "spike_id": 1,
+      "market_question": "US strikes Iran by December 31, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.3115,
+      "spike_timestamp_before": "2026-02-27T07:30:39+00:00",
+      "spike_timestamp_after": "2026-02-28T07:30:34+00:00"
+    },
+    {
+      "market_id": "1394299",
+      "spike_id": 8,
+      "market_question": "US forces enter Iran by December 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "up",
+      "spike_delta": 0.33499999999999996,
+      "spike_timestamp_before": "2026-02-28T10:00:29+00:00",
+      "spike_timestamp_after": "2026-03-01T02:30:25+00:00"
+    },
+    {
+      "market_id": "1394368",
+      "spike_id": 1,
+      "market_question": "Will the U.S. invade Iran by March 31?",
+      "event_title": "Will the U.S. invade Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.17,
+      "spike_timestamp_before": "2026-02-27T12:00:50+00:00",
+      "spike_timestamp_after": "2026-02-28T11:30:28+00:00"
+    },
+    {
+      "market_id": "1394368",
+      "spike_id": 2,
+      "market_question": "Will the U.S. invade Iran by March 31?",
+      "event_title": "Will the U.S. invade Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.16,
+      "spike_timestamp_before": "2026-02-28T11:30:28+00:00",
+      "spike_timestamp_after": "2026-02-28T23:00:27+00:00"
+    },
+    {
+      "market_id": "1466015",
+      "spike_id": 4,
+      "market_question": "US x Iran ceasefire by March 31?",
+      "event_title": "US x Iran ceasefire by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.21500000000000002,
+      "spike_timestamp_before": "2026-03-01T11:00:20+00:00",
+      "spike_timestamp_after": "2026-03-02T09:00:19+00:00"
+    },
+    {
+      "market_id": "1472019",
+      "spike_id": 1,
+      "market_question": "Will Saudi Arabia strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.36500000000000005,
+      "spike_timestamp_before": "2026-03-01T05:30:28+00:00",
+      "spike_timestamp_after": "2026-03-01T09:00:41+00:00"
+    },
+    {
+      "market_id": "1472019",
+      "spike_id": 2,
+      "market_question": "Will Saudi Arabia strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.585,
+      "spike_timestamp_before": "2026-03-01T09:00:41+00:00",
+      "spike_timestamp_after": "2026-03-01T16:30:29+00:00"
+    },
+    {
+      "market_id": "1472019",
+      "spike_id": 3,
+      "market_question": "Will Saudi Arabia strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.46,
+      "spike_timestamp_before": "2026-03-01T16:30:29+00:00",
+      "spike_timestamp_after": "2026-03-02T04:00:25+00:00"
+    },
+    {
+      "market_id": "1472019",
+      "spike_id": 4,
+      "market_question": "Will Saudi Arabia strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.38499999999999995,
+      "spike_timestamp_before": "2026-03-02T04:00:25+00:00",
+      "spike_timestamp_after": "2026-03-02T09:00:28+00:00"
+    },
+    {
+      "market_id": "1472019",
+      "spike_id": 5,
+      "market_question": "Will Saudi Arabia strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.23999999999999994,
+      "spike_timestamp_before": "2026-03-02T09:00:28+00:00",
+      "spike_timestamp_after": "2026-03-02T20:00:29+00:00"
+    },
+    {
+      "market_id": "666696",
+      "spike_id": 1,
+      "market_question": "Israel x Iran ceasefire broken by March 31, 2026?",
+      "event_title": "Israel x Iran ceasefire broken by...? ",
+      "spike_direction": "up",
+      "spike_delta": 0.25,
+      "spike_timestamp_before": "2026-02-26T15:00:38+00:00",
+      "spike_timestamp_after": "2026-02-27T15:00:38+00:00"
+    },
+    {
+      "market_id": "791705",
+      "spike_id": 1,
+      "market_question": "Israel strikes Iran by March 31, 2026?",
+      "event_title": "Israel strikes Iran by March 31, 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.20000000000000007,
+      "spike_timestamp_before": "2026-02-27T08:30:22+00:00",
+      "spike_timestamp_after": "2026-02-27T14:30:23+00:00"
+    },
+    {
+      "market_id": "791705",
+      "spike_id": 2,
+      "market_question": "Israel strikes Iran by March 31, 2026?",
+      "event_title": "Israel strikes Iran by March 31, 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.5245000000000001,
+      "spike_timestamp_before": "2026-02-27T08:30:22+00:00",
+      "spike_timestamp_after": "2026-02-28T08:00:35+00:00"
+    },
+    {
+      "market_id": "984441",
+      "spike_id": 1,
+      "market_question": "US strikes Iran by March 31, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.15500000000000003,
+      "spike_timestamp_before": "2026-02-26T21:30:27+00:00",
+      "spike_timestamp_after": "2026-02-27T13:00:29+00:00"
+    },
+    {
+      "market_id": "984441",
+      "spike_id": 2,
+      "market_question": "US strikes Iran by March 31, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.16000000000000003,
+      "spike_timestamp_before": "2026-02-26T21:30:27+00:00",
+      "spike_timestamp_after": "2026-02-27T15:00:33+00:00"
+    },
+    {
+      "market_id": "984441",
+      "spike_id": 3,
+      "market_question": "US strikes Iran by March 31, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.15499999999999992,
+      "spike_timestamp_before": "2026-02-26T23:00:26+00:00",
+      "spike_timestamp_after": "2026-02-27T22:30:30+00:00"
+    },
+    {
+      "market_id": "984441",
+      "spike_id": 4,
+      "market_question": "US strikes Iran by March 31, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.4545,
+      "spike_timestamp_before": "2026-02-27T09:00:36+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:51+00:00"
+    }
+  ]
+}

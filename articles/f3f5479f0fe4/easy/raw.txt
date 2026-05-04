@@ -1,0 +1,102 @@
+[
+  {
+    "q": "According to the Energy Information Administration's Short-Term Energy Outlook released on March 10, 2026, what price range is Brent oil expected to trade above for the next two months due to the Iran war, and to what level is it forecast to fall by the end of 2026?",
+    "a": "Above $95 a barrel for the next two months, falling to around $70 by the end of the year."
+  },
+  {
+    "q": "What critical maritime chokepoint has seen its oil shipments largely blocked, causing Middle East oil output to fall further in the weeks following the March 10, 2026 Energy Information Administration report?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "Which three Gulf producers, including Saudi Arabia, began oil output cuts in early March 2026 amid constraints on transit through the Strait of Hormuz?",
+    "a": "Saudi Arabia, Iraq, and Kuwait."
+  },
+  {
+    "q": "By what percentage did Brent crude futures rise so far in March 2026 according to LSEG data, and what was their last trading price at 12:35 p.m. EST?",
+    "a": "They rose around 21%, last trading at $88 a barrel."
+  },
+  {
+    "q": "How much did the Energy Information Administration raise its 2026 price forecast for Brent by in its March 10, 2026 report, and what is the new forecasted price per barrel?",
+    "a": "It raised the forecast by 37% to $79 a barrel."
+  },
+  {
+    "q": "In which quarter of 2026 does the Energy Information Administration expect Brent crude prices to fall below $80 a barrel?",
+    "a": "The third quarter of 2026."
+  },
+  {
+    "q": "What is the Energy Information Administration's forecast for U.S. retail gasoline prices in 2026, and by what percentage is this higher than its prior forecast?",
+    "a": "Around $3.34 a gallon, which is 14.7% higher than the prior forecast."
+  },
+  {
+    "q": "What is the Energy Information Administration's forecast for U.S. diesel prices in 2026, and by what percentage does this represent an increase from the previous forecast?",
+    "a": "$4.12 a gallon, an increase of about 20.1%."
+  },
+  {
+    "q": "According to the Energy Information Administration's March 10, 2026 report, in which quarter is continued upward pressure on gasoline prices expected to lag behind the initial increase due to slower normalization of refining and retail margins?",
+    "a": "The second quarter of 2026."
+  },
+  {
+    "q": "What average daily U.S. crude production volume does the Energy Information Administration expect for 2026, and what is the expected volume for 2027?",
+    "a": "13.61 million barrels per day in 2026 and 13.83 million barrels per day in 2027."
+  },
+  {
+    "q": "How does the Energy Information Administration's revised 2027 U.S. crude production forecast of 13.83 million barrels per day compare to its previous forecast for that year?",
+    "a": "It is higher than the previous forecast of 13.32 million barrels per day."
+  },
+  {
+    "q": "By what percentage have U.S. crude futures risen so far in March 2026, and what was their last trading price at 12:25 p.m. EST?",
+    "a": "They are up around 25%, last trading around $83.60 a barrel."
+  },
+  {
+    "q": "What fraction of global oil flows every day passes through the Strait of Hormuz, which is currently disrupted by the Iran war?",
+    "a": "A fifth."
+  },
+  {
+    "q": "Who are the two reporters credited with writing the March 10, 2026 Reuters article about energy forecasts?",
+    "a": "Georgina McCartney and Arathy Somasekhar."
+  },
+  {
+    "q": "Who is the additional reporter credited with contributing to the March 10, 2026 Reuters article on energy forecasts?",
+    "a": "Siddharth Cavale."
+  },
+  {
+    "q": "Who are the two editors credited with editing the March 10, 2026 Reuters article on energy forecasts?",
+    "a": "Chizu Nomiyama and Susan Fenton."
+  },
+  {
+    "q": "In which city did Georgina McCartney and Arathy Somasekhar report from for the March 10, 2026 Energy Information Administration news?",
+    "a": "Houston."
+  },
+  {
+    "q": "In which city did Siddharth Cavale report from for the March 10, 2026 Energy Information Administration news?",
+    "a": "New York."
+  },
+  {
+    "q": "According to the Energy Information Administration, what will happen to global oil production relative to demand once oil flows are reestablished through the Strait of Hormuz?",
+    "a": "Global oil production will continue to outpace demand."
+  },
+  {
+    "q": "What specific report did the Energy Information Administration release on Tuesday, March 10, 2026, that contained the Brent oil price forecasts?",
+    "a": "The Short-Term Energy Outlook."
+  },
+  {
+    "q": "How does the Energy Information Administration's revised 2026 U.S. crude production forecast of 13.61 million barrels per day compare to its previous forecast for that year?",
+    "a": "It is slightly higher than the previous forecast of 13.6 million barrels per day."
+  },
+  {
+    "q": "What is the primary reason cited by the Energy Information Administration for Brent oil prices trading above $95 a barrel in early 2026?",
+    "a": "The Iran war disrupting supplies."
+  },
+  {
+    "q": "According to the Energy Information Administration, what is the expected trend for transit constraints on Gulf oil production in the coming weeks?",
+    "a": "The production shut-ins will gradually ease as transit resumes."
+  },
+  {
+    "q": "What net effect does the Energy Information Administration expect from the slower normalization of refining and retail margins in the second quarter of 2026?",
+    "a": "Continued upward pressure on gasoline prices that lags behind the initial increase."
+  },
+  {
+    "q": "What higher oil price trend is set to encourage more U.S. crude production according to the Energy Information Administration's March 2026 forecast?",
+    "a": "Higher oil prices are set to encourage more U.S. crude production."
+  }
+]

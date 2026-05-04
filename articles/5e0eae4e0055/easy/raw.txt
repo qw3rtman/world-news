@@ -1,0 +1,102 @@
+[
+  {
+    "q": "During the talks held in Washington on Tuesday, March 3, 2026, between U.S. President Donald Trump and Friedrich Merz, what two primary policy objectives did Merz aim to achieve regarding American trade and Russian aggression?",
+    "a": "Merz aimed to secure more clarity on American trade policy and persuade President Trump to adopt a tougher stance on Russia."
+  },
+  {
+    "q": "According to the March 3, 2026 report, which specific military action involving the United States and Israel may have hindered Friedrich Merz's diplomatic goals during his meetings with Donald Trump?",
+    "a": "The US-Israeli attack on Iran may have prevented Merz from achieving his goals."
+  },
+  {
+    "q": "What recent ruling by the US Supreme Court, reported in early March 2026, introduced fresh uncertainty for European companies exporting to the United States?",
+    "a": "The US Supreme Court struck down Donald Trump’s use of emergency tariff powers."
+  },
+  {
+    "q": "In the context of the March 2026 trade tensions, which bilateral agreement between the European Union and the United States was called into question by the Supreme Court's decision regarding emergency tariffs?",
+    "a": "The EU-US trade pact sealed last year."
+  },
+  {
+    "q": "Who is the German politician identified as Friedrich Merz, and what was his location and counterpart during the talks described in the March 3, 2026 article?",
+    "a": "Friedrich Merz was in Washington, D.C., holding talks with U.S. President Donald Trump."
+  },
+  {
+    "q": "What specific legal mechanism used by Donald Trump was invalidated by the US Supreme Court, thereby impacting trade relations with Europe as of March 2026?",
+    "a": "Trump’s use of emergency tariff powers."
+  },
+  {
+    "q": "Which two entities conducted the military attack on Iran that potentially complicated the diplomatic discussions between Friedrich Merz and Donald Trump in March 2026?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "Beyond the immediate trade policy clarity, what broader geopolitical issue did Friedrich Merz seek to address with Donald Trump during their March 2026 Washington talks?",
+    "a": "Merz sought to persuade President Trump to get tougher on Russia."
+  },
+  {
+    "q": "How did the US Supreme Court's ruling on emergency tariffs affect the stability of the trade relationship between the European Union and the United States as of March 2026?",
+    "a": "It called into question the EU-US trade pact sealed the previous year."
+  },
+  {
+    "q": "What was the stated potential consequence of the US-Israeli attack on Iran for Friedrich Merz's diplomatic mission to Washington in March 2026?",
+    "a": "It may have prevented him from achieving his two main goals of trade clarity and pressure on Russia."
+  },
+  {
+    "q": "Which country's economy is described as the 'world’s biggest economy' in the context of the March 2026 trade uncertainties involving European exporters?",
+    "a": "The United States."
+  },
+  {
+    "q": "What specific type of policy uncertainty was triggered for European companies exporting to the U.S. following the Supreme Court's action in early March 2026?",
+    "a": "Uncertainty regarding American trade policy, specifically concerning emergency tariff powers."
+  },
+  {
+    "q": "In the March 3, 2026 article, what is the relationship between the Supreme Court's ruling and the EU-US trade pact sealed last year?",
+    "a": "The ruling called the pact into question."
+  },
+  {
+    "q": "Who were the two main political figures involved in the Washington talks on March 3, 2026, that were overshadowed by the conflict in Iran?",
+    "a": "Friedrich Merz and U.S. President Donald Trump."
+  },
+  {
+    "q": "What dual outcome did Friedrich Merz hope to secure from Donald Trump during their March 2026 meeting, one related to economics and one to foreign policy?",
+    "a": "More clarity on American trade policy and a tougher stance on Russia."
+  },
+  {
+    "q": "Which international conflict, involving a US-Israeli military operation, is cited as a clouding factor for the trade and Russia-related discussions between Merz and Trump in March 2026?",
+    "a": "The US-Israeli attack on Iran."
+  },
+  {
+    "q": "What specific judicial body invalidated Donald Trump's emergency tariff powers, creating trade uncertainty for European firms in March 2026?",
+    "a": "The US Supreme Court."
+  },
+  {
+    "q": "According to the March 2026 report, which year's trade agreement between the EU and the US was jeopardized by the Supreme Court's ruling on emergency tariffs?",
+    "a": "The trade pact sealed last year (2025)."
+  },
+  {
+    "q": "What was the primary geopolitical backdrop that potentially undermined Friedrich Merz's objectives during his March 2026 talks with Donald Trump?",
+    "a": "The US-Israeli attack on Iran."
+  },
+  {
+    "q": "Which group of businesses faced fresh uncertainty due to the US Supreme Court's March 2026 ruling on emergency tariffs?",
+    "a": "European companies exporting to the United States."
+  },
+  {
+    "q": "What two specific goals of Friedrich Merz were potentially thwarted by the US-Israeli attack on Iran during his March 2026 visit to Washington?",
+    "a": "Securing clarity on American trade policy and persuading Trump to get tougher on Russia."
+  },
+  {
+    "q": "How did the US Supreme Court's decision regarding emergency tariffs impact the previously established trade framework between the European Union and the United States in March 2026?",
+    "a": "It called the EU-US trade pact, sealed the previous year, into question."
+  },
+  {
+    "q": "Who is the U.S. President that held talks with Friedrich Merz in Washington in March 2026, amidst concerns over the Iran conflict?",
+    "a": "Donald Trump."
+  },
+  {
+    "q": "What specific military action by the United States and its ally Israel is mentioned as a potential obstacle to Friedrich Merz's diplomatic goals in March 2026?",
+    "a": "The attack on Iran."
+  },
+  {
+    "q": "In the March 2026 article, what is the connection between the Supreme Court's ruling on tariffs and the broader EU-US trade relationship?",
+    "a": "The ruling struck down emergency tariff powers and called the existing EU-US trade pact into question."
+  }
+]

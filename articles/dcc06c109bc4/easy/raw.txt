@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the telephone conversation between U.S. President Donald Trump and Russian President Vladimir Putin on March 9, 2026, what specific advice did Trump give Putin regarding how he could be \"more helpful\" concerning the conflict in Ukraine?",
+    "a": "Trump told Putin that he could be more helpful by getting the Ukraine-Russia war over with."
+  },
+  {
+    "q": "During the March 9, 2026, call between U.S. President Donald Trump and Russian President Vladimir Putin, what three specific topics did the Kremlin state were discussed?",
+    "a": "The topics discussed were Russian ideas for a speedy end to the conflict in Iran, the military situation in Ukraine, and the impact of events in Venezuela on the global oil market."
+  },
+  {
+    "q": "What warning did Russian President Vladimir Putin issue regarding the Strait of Hormuz in the days leading up to his March 9, 2026, call with U.S. President Donald Trump?",
+    "a": "Putin cautioned that oil production dependent on transport through the Strait of Hormuz near Iran's coast could soon come to a halt."
+  },
+  {
+    "q": "According to statements made by U.S. President Donald Trump on March 9, 2026, what action is his administration taking regarding oil-related sanctions on certain countries to help reduce prices?",
+    "a": "Trump stated that the U.S. is waiving certain oil-related sanctions on some countries until the situation straightens out."
+  },
+  {
+    "q": "On March 9, 2026, which two U.S. officials were identified in the article as having made statements regarding the potential easing of sanctions on Russian oil?",
+    "a": "U.S. President Donald Trump and U.S. Treasury Secretary Scott Bessent."
+  },
+  {
+    "q": "What temporary measure did the United States allow India to take regarding Russian crude oil last week prior to March 9, 2026, to help cope with cuts to Middle East supply?",
+    "a": "The U.S. allowed India to temporarily buy Russian crude oil already on tankers at sea."
+  },
+  {
+    "q": "Who is the Russian official identified in the article as having discussed the issue of easing sanctions on Russian oil with Washington on Saturday, March 7, 2026?",
+    "a": "Kirill Dmitriev, Russia's special presidential envoy on investment."
+  },
+  {
+    "q": "What did the Kremlin state on Tuesday, March 10, 2026, regarding the level of detail in discussions between Moscow and Washington about lifting oil sanctions?",
+    "a": "The Kremlin said the idea of lifting oil sanctions had not been discussed in detail with Washington."
+  },
+  {
+    "q": "Which two locations did U.S. President Donald Trump mention as places where the U.S. Navy and its partners might escort tankers if needed?",
+    "a": "Trump mentioned the Strait of Hormuz and did not specify a second location, but referred to the Strait generally as the area requiring escort."
+  },
+  {
+    "q": "What claim did Russian President Vladimir Putin make about Russia's readiness to work with European customers in the context of the March 2026 energy crisis?",
+    "a": "Putin said Russia was ready to work again with European customers if they wanted to return to long-term cooperation."
+  },
+  {
+    "q": "According to the article, what was the immediate market reaction on Tuesday, March 10, 2026, following the oil price spike caused by the conflict in Iran?",
+    "a": "The bulk of the surge in crude oil prices was reversed, and Asian and European share prices staged a recovery."
+  },
+  {
+    "q": "What did U.S. President Donald Trump say about the future of sanctions on countries buying Russian oil if peace is achieved?",
+    "a": "Trump said, \"Then who knows, maybe we won't have to put them on; there'll be so much peace.\""
+  },
+  {
+    "q": "Which two conflicts were the primary subjects of discussion during the first telephone call between U.S. President Donald Trump and Russian President Vladimir Putin in 2026?",
+    "a": "The war in Iran and the war in Ukraine."
+  },
+  {
+    "q": "What potential complication did the article note regarding the U.S. consideration of reducing oil sanctions on Russia?",
+    "a": "The move could complicate U.S. efforts to deprive Russia of revenue for its war in Ukraine."
+  },
+  {
+    "q": "Who did U.S. President Donald Trump identify as wanting to be helpful on Iran during his March 9, 2026, press conference?",
+    "a": "Russian President Vladimir Putin."
+  },
+  {
+    "q": "What specific type of sanctions relief was mentioned as a potential topic of talks between the U.S. and other countries like India?",
+    "a": "Targeted options for certain countries to buy Russian oil without fear of U.S. penalties, including tariffs."
+  },
+  {
+    "q": "Which two entities did Russian President Vladimir Putin identify as holding the world's biggest natural gas reserves and being the second-largest oil exporter?",
+    "a": "Russia."
+  },
+  {
+    "q": "What did U.S. President Donald Trump say about the role of the U.S. Navy in relation to tanker transport through the Strait of Hormuz?",
+    "a": "He said the U.S. Navy and its partners would escort tankers through the Strait if needed."
+  },
+  {
+    "q": "According to the article, what event caused the biggest spike in oil prices since Russia's 2022 invasion of Ukraine?",
+    "a": "The U.S.-Israeli war on Iran."
+  },
+  {
+    "q": "What did Russian President Vladimir Putin say about the global energy crisis in the context of the U.S.-Israeli war on Iran?",
+    "a": "Putin said the war had triggered a global energy crisis."
+  },
+  {
+    "q": "Which two countries were mentioned in the article as having their share prices recover on Tuesday, March 10, 2026, after the initial oil price surge?",
+    "a": "Asian and European share prices (referring to markets in Asia and Europe generally, not specific single countries)."
+  },
+  {
+    "q": "What did U.S. Treasury Secretary Scott Bessent say on Friday, March 6, 2026, regarding the United States and Russian oil sanctions?",
+    "a": "He said the United States could free more Russian oil from sanctions."
+  },
+  {
+    "q": "What did the Kremlin say both Putin and Trump understood regarding the impact of sanctions?",
+    "a": "They understood the impact of sanctions on the world economy."
+  },
+  {
+    "q": "In what location did U.S. President Donald Trump hold the press conference where he discussed his call with Vladimir Putin on March 9, 2026?",
+    "a": "His Florida golf club."
+  },
+  {
+    "q": "What did U.S. President Donald Trump say about the duration of the waiver of oil-related sanctions on certain countries?",
+    "a": "He said they would take the sanctions off \"until this straightens out.\""
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On March 9, 2026, what were the settlement prices for US crude and Brent oil, and what were their respective percentage increases for the day?",
+    "a": "US crude settled at $94.77 a barrel (up 4.3%), and Brent settled at $98.96 a barrel (up 6.8%)."
+  },
+  {
+    "q": "Which specific geopolitical conflict in early 2026 caused a near shutdown of the Strait of Hormuz, disrupting 20% of global oil supply?",
+    "a": "The war between the United States/Israel and Iran."
+  },
+  {
+    "q": "According to historical data from Rapidan Energy Group, how does the 20% oil supply disruption from the 2026 Iran war compare to the record set during the Suez Crisis of 1956-1957?",
+    "a": "The 2026 disruption is roughly twice as large as the Suez Crisis disruption."
+  },
+  {
+    "q": "Which two major Middle Eastern oil producers were cut off from global oil markets during the 2026 Iran war, effectively wiping out spare capacity?",
+    "a": "Saudi Arabia and the United Arab Emirates."
+  },
+  {
+    "q": "Who is the founder and president of Rapidan Energy Group who stated that the oil market had no meaningful cushion or swing producer in March 2026?",
+    "a": "Bob McNally."
+  },
+  {
+    "q": "What was the average US gasoline price in early March 2026, and how much had it risen in the preceding week?",
+    "a": "Gasoline prices rose about 50 cents in a week to $3.48 a gallon."
+  },
+  {
+    "q": "During which previous historical event did oil last trade above $100 a barrel before the March 2026 surge?",
+    "a": "The wake of Russia’s attack on Ukraine in March 2022."
+  },
+  {
+    "q": "What was the approximate price of oil before the United States and Israel attacked Iran in early 2026?",
+    "a": "Oil was trading for around $60 a barrel."
+  },
+  {
+    "q": "Which G7 action was planned for March 9, 2026, to alleviate pressure on oil prices?",
+    "a": "G7 finance ministers met to discuss the joint release of oil reserves."
+  },
+  {
+    "q": "What specific plan was the Trump administration promoting in March 2026 to address maritime insurance issues for tankers in the Strait of Hormuz?",
+    "a": "A plan to supply insurance to oil tankers passing through the strait."
+  },
+  {
+    "q": "Who is the lead crude research analyst at Kpler who warned that oil prices could reach $150 a barrel if traffic around the Strait of Hormuz did not improve by the end of March 2026?",
+    "a": "Homayoun Falakshahi."
+  },
+  {
+    "q": "Who is the founder and chief investment officer at Pickering Energy Partners who noted that oil futures for 2027 and 2028 were trading in the high $60s in March 2026?",
+    "a": "Dan Pickering."
+  },
+  {
+    "q": "What percentage of the world’s oil travels via tankers through the Strait of Hormuz?",
+    "a": "20%."
+  },
+  {
+    "q": "Why did producers in the oil-rich region have to slow down their output in March 2026?",
+    "a": "Because oil wasn’t moving due to the Strait of Hormuz shutdown, leaving producers with no room to store crude."
+  },
+  {
+    "q": "What was the highest oil price level reached overnight in early March 2026 before Western nations discussed alleviating high fuel prices?",
+    "a": "Oil prices very nearly hit $120 a barrel."
+  },
+  {
+    "q": "Until what date did oil stay around the $100 mark during the Russia-Ukraine conflict in 2022?",
+    "a": "July 19, 2022."
+  },
+  {
+    "q": "What did the White House say it would work to secure for ships in the Strait of Hormuz in March 2026?",
+    "a": "Naval escorts for ships."
+  },
+  {
+    "q": "Why were maritime insurers unwilling to cover ships in the Strait of Hormuz in early 2026?",
+    "a": "Because they would not cover ships in the region if they were attacked."
+  },
+  {
+    "q": "According to Dan Pickering, what cycle is created by the longer it takes to reopen the Strait of Hormuz?",
+    "a": "A reinforcing cycle where higher prices create more pressure on the Trump administration to protect the strait, leading to more upward pressure on price."
+  },
+  {
+    "q": "What was the status of shipping companies regarding traversing the Strait of Hormuz in March 2026?",
+    "a": "Shipping companies were hesitant to traverse the region while the conflict continued."
+  },
+  {
+    "q": "How many years had passed since oil last traded above $100 a barrel before the March 2026 surge?",
+    "a": "Nearly four years."
+  },
+  {
+    "q": "What primary reason, besides the slowdown in Middle East production, contributed to higher oil prices due to the Iran war in 2026?",
+    "a": "A near shutdown of the Strait of Hormuz."
+  },
+  {
+    "q": "What did Iran threaten to do to any tanker transiting the Strait of Hormuz in early 2026?",
+    "a": "Attack any tanker transiting the strait."
+  },
+  {
+    "q": "What measure typically serves as a shock absorber in energy markets but was wiped out by the 2026 Iran war?",
+    "a": "Spare capacity."
+  },
+  {
+    "q": "What was the price of US gasoline in early March 2026 relative to President Donald Trump’s previous terms?",
+    "a": "It was higher than at any point in either of President Donald Trump’s terms."
+  }
+]

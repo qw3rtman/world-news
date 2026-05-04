@@ -1,0 +1,27 @@
+{
+  "hash": "062ee9fc68ae",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://uat.apnews.com/article/paramount-warner-regulation-antitrust-ea33a1e179b8e906fa83428faa06c0a5",
+      "title": "Paramount wins heated fight for Warner but regulators could still kill the deal | AP News",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1457,
+      "text_length": 7375
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694941",
+      "spike_id": 9,
+      "market_question": "Will Pizza Hut be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.195,
+      "spike_timestamp_before": "2026-02-27T07:30:35+00:00",
+      "spike_timestamp_after": "2026-02-27T23:30:34+00:00"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the analysis published on February 28, 2026, which two military forces are described as having begun a war on Iran with airstrikes targeting the home and offices of Supreme Leader Ali Khamenei?",
+    "a": "The Israeli military and the U.S. military."
+  },
+  {
+    "q": "According to the February 28, 2026 article, which two historical regimes are cited as examples where the collapse of the leader led to the immediate collapse of the state, a outcome the U.S. and Israel hoped to replicate in Iran?",
+    "a": "The regime of Muammar al-Qaddafi in Libya and the regime of Bashar al-Assad in Syria."
+  },
+  {
+    "q": "In the February 28, 2026 analysis, which three powers are identified as having continued to trade strikes in the Middle East, prompting a discussion with expert Vali Nasr?",
+    "a": "Israel, the United States, and Iran."
+  },
+  {
+    "q": "Which four historical events or periods are listed in the February 28, 2026 article as lessons for Iranian leaders regarding the risks of political vacuum and collapse?",
+    "a": "The fall of the Qajar dynasty, the Safavid collapse after Esfahan’s capture, the chaos after Nader Shah’s death, and the civil wars following Karim Khan Zand’s death."
+  },
+  {
+    "q": "According to the February 28, 2026 article, which four major bodies were created in Iran’s post-1979 constitution to solve specific risks exposed by historical patterns of collapse?",
+    "a": "The Guardian Council, the Assembly of Experts, the Expediency Council, and the Islamic Revolutionary Guard Corps (IRGC)."
+  },
+  {
+    "q": "In the February 28, 2026 article, which two Iranian officials were elected and then killed within a month after the impeachment of President Abolhassan Banisadr, testing the regime's succession mechanisms?",
+    "a": "President Mohammad Ali Rajai and Prime Minister Mohammad Javad Bahonar."
+  },
+  {
+    "q": "According to the February 28, 2026 analysis, how many days did it take for Ali Khamenei to become president following the deaths of Mohammad Ali Rajai and Mohammad Javad Bahonar?",
+    "a": "Less than 50 days."
+  },
+  {
+    "q": "In the February 28, 2026 article, what specific event caused the death of Iranian President Ebrahim Raisi in 2024, which served as a practice run for the system's stability?",
+    "a": "A helicopter crash."
+  },
+  {
+    "q": "According to Article 111 of Iran’s constitution, as described in the February 28, 2026 article, which three individuals compose the interim council that assumes authority if the supreme leader dies or becomes incapacitated?",
+    "a": "The president, the head of the judiciary, and a senior cleric selected through the Expediency Council."
+  },
+  {
+    "q": "In the February 28, 2026 analysis, which organization is described as having significant influence over acceptable risks in supreme leader succession, even though it does not officially select the leader?",
+    "a": "The Islamic Revolutionary Guard Corps (IRGC)."
+  },
+  {
+    "q": "According to the February 28, 2026 article, which specific IRGC branch would likely focus on keeping the country stable if the supreme leader’s position were vacant?",
+    "a": "The IRGC Ground Forces."
+  },
+  {
+    "q": "In the February 28, 2026 analysis, which city is identified as the center of the relational networks through which political culture flows and where any successor must secure tacit validation from senior clerics?",
+    "a": "Qom."
+  },
+  {
+    "q": "According to the February 28, 2026 article, which Shiism figure is referenced in Ayatollah Ruhollah Khomeini’s quote about preserving the Islamic Republic being more important than preserving any individual?",
+    "a": "Muhammad al-Mahdi, the 12th Imam."
+  },
+  {
+    "q": "In the February 28, 2026 analysis, which specific law is noted as not accepting analogies, yet Iranian leaders still use history as a guide?",
+    "a": "Jafari Shiite law."
+  },
+  {
+    "q": "According to the February 28, 2026 article, what was the primary goal of the Islamic Revolutionary Guard Corps (IRGC) and intelligence agencies when they were established?",
+    "a": "To secure the revolution internally and externally, checking both foreign threats and domestic unrest."
+  },
+  {
+    "q": "In the February 28, 2026 analysis, which council was formed to guard against political drift and keep laws in line with Islamic principles?",
+    "a": "The Guardian Council."
+  },
+  {
+    "q": "According to the February 28, 2026 article, which body took on the task of selecting and supervising the supreme leader to prevent a concentration of power without oversight?",
+    "a": "The Assembly of Experts."
+  },
+  {
+    "q": "In the February 28, 2026 analysis, which council was established to resolve institutional deadlock and ensure the system could continue to function during high-level disagreements?",
+    "a": "The Expediency Council."
+  },
+  {
+    "q": "According to the February 28, 2026 article, what did Ayatollah Ruhollah Khomeini do regarding supreme authority during the 1979 revolution debates, rather than eliminating it?",
+    "a": "He made it part of the system."
+  },
+  {
+    "q": "In the February 28, 2026 analysis, what specific outcome is described as likely if a leader dies in war, affecting the pool of candidates for succession?",
+    "a": "The idea of martyrdom could mean only those seen as steady and strong will be considered."
+  },
+  {
+    "q": "According to the February 28, 2026 article, what is the main goal of the IRGC during a leadership transition, particularly regarding its own interests?",
+    "a": "To keep the system strong and independent, and to protect its own economic interests."
+  },
+  {
+    "q": "In the February 28, 2026 analysis, which organization would likely watch top officials more closely if the supreme leader’s position were vacant?",
+    "a": "The IRGC Intelligence Organization."
+  },
+  {
+    "q": "According to the February 28, 2026 article, what does the constitution list regarding the next supreme leader, but does not limit the choice to?",
+    "a": "It lists the qualifications, but does not limit the choice to a strict religious path."
+  },
+  {
+    "q": "In the February 28, 2026 analysis, what does the interim council lead for if there is a war, according to the flexibility allowed by the constitution?",
+    "a": "It can lead for a long time."
+  },
+  {
+    "q": "According to the February 28, 2026 article, what is the most sensitive time for a new Iranian leader, according to the analysis of the succession process?",
+    "a": "After the new leader is chosen."
+  }
+]

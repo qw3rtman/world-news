@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the telephonic interview with The Times of Israel on Sunday, March 8, 2026, what did US President Donald Trump state regarding who would make the final decision on ending the war with Iran?",
+    "a": "Trump stated that while the decision would be taken mutually in consultation with Israeli Prime Minister Benjamin Netanyahu, he (Trump) would make the final decision."
+  },
+  {
+    "q": "Who was killed in the initial strikes of the joint US-Israel military operation launched on February 28, 2026, and what was his title?",
+    "a": "Iran’s Supreme Leader Ayatollah Ali Khamenei was killed in the initial strikes."
+  },
+  {
+    "q": "According to White House press secretary Karoline Leavitt on Friday, March 6, 2026, what was the expected duration of the conflict between the United States and Iran?",
+    "a": "Washington expected the conflict to last between four and six weeks."
+  },
+  {
+    "q": "Which hardline cleric did Iran announce would succeed Ayatollah Ali Khamenei as the new leader of the Islamic Republic, shortly before Trump’s March 8, 2026, interview?",
+    "a": "Mojtaba Khamenei, the son of Ayatollah Ali Khamenei, was announced as the successor."
+  },
+  {
+    "q": "What justification did US President Donald Trump give in his March 8, 2026, interview for the joint US-Israel military strikes against Iran?",
+    "a": "Trump claimed that Iran under Khamenei was going to destroy Israel and everything else around it, and that he and Netanyahu intervened to stop this."
+  },
+  {
+    "q": "When asked if Israel could continue the war against Iran after the United States decided to stop its strikes, how did US President Donald Trump respond in his March 8, 2026, interview?",
+    "a": "Trump avoided discussing the possibility and stated, “I don’t think it’s going to be necessary.”"
+  },
+  {
+    "q": "On what date did the United States and Israel launch the joint military operation against Iran that resulted in the death of Supreme Leader Ali Khamenei?",
+    "a": "The joint military operation was launched on February 28, 2026."
+  },
+  {
+    "q": "Which two leaders did US President Donald Trump identify as having worked together to destroy a country that wanted to destroy Israel in his March 8, 2026, interview?",
+    "a": "Trump identified himself and Israeli Prime Minister Benjamin Netanyahu as the leaders who worked together."
+  },
+  {
+    "q": "To which news organization did US President Donald Trump give the telephonic interview on Sunday, March 8, 2026, where he discussed the Iran war?",
+    "a": "Trump gave the interview to The Times of Israel."
+  },
+  {
+    "q": "Who did US President Donald Trump describe as one of Washington’s closest allies in the Middle East in the context of consulting on ending the war with Iran?",
+    "a": "Trump described Israeli Prime Minister Benjamin Netanyahu as one of Washington’s closest allies."
+  },
+  {
+    "q": "What specific action did the United States and Israel take in the initial strikes of the operation launched on February 28, 2026, that escalated the regional crisis?",
+    "a": "They conducted heavy joint military strikes on Iran, which killed Iran’s Supreme Leader Ayatollah Ali Khamenei."
+  },
+  {
+    "q": "Did US President Donald Trump provide a clear timeline for how long the war with Iran would continue in his March 8, 2026, interview?",
+    "a": "No, Trump avoided giving a clear timeline for how long the war would continue."
+  },
+  {
+    "q": "According to US President Donald Trump’s March 8, 2026, interview, whose input would be taken into account before he made the final decision to end the war?",
+    "a": "Trump indicated that Israeli Prime Minister Benjamin Netanyahu’s input would be taken into account."
+  },
+  {
+    "q": "What title did Mojtaba Khamenei hold before succeeding his father as the leader of the Islamic Republic?",
+    "a": "Mojtaba Khamenei was described as a hardline cleric."
+  },
+  {
+    "q": "Which country’s Supreme Leader was killed in the US-Israel joint military operation launched on February 28, 2026?",
+    "a": "Iran’s Supreme Leader, Ayatollah Ali Khamenei, was killed."
+  },
+  {
+    "q": "In his March 8, 2026, interview, what did US President Donald Trump say about the necessity of Israel continuing the war against Iran after the US stops its strikes?",
+    "a": "Trump said he did not think it was going to be necessary for Israel to continue the war."
+  },
+  {
+    "q": "Who was the White House press secretary that stated on Friday, March 6, 2026, that Washington expected the conflict with Iran to last four to six weeks?",
+    "a": "White House press secretary Karoline Leavitt made the statement."
+  },
+  {
+    "q": "What did US President Donald Trump claim Iran was planning to do to Israel if he and Prime Minister Netanyahu had not intervened, according to his March 8, 2026, interview?",
+    "a": "Trump claimed Iran was going to destroy Israel and everything else around it."
+  },
+  {
+    "q": "Which two nations conducted the joint military strikes on Iran that began on February 28, 2026?",
+    "a": "The United States and Israel conducted the joint military strikes."
+  },
+  {
+    "q": "Who succeeded Ayatollah Ali Khamenei as the leader of the Islamic Republic following his death in the February 28, 2026, strikes?",
+    "a": "Mojtaba Khamenei succeeded his father as the new leader."
+  },
+  {
+    "q": "What did US President Donald Trump say about the decision-making process for ending the war with Iran in his March 8, 2026, interview with The Times of Israel?",
+    "a": "He said the decision would be taken “mutually” in consultation with Netanyahu, but he would make the final decision at the right time."
+  },
+  {
+    "q": "Which Israeli Prime Minister did US President Donald Trump consult with regarding the mutual decision to end the war with Iran in March 2026?",
+    "a": "Trump consulted with Israeli Prime Minister Benjamin Netanyahu."
+  },
+  {
+    "q": "What did White House press secretary Karoline Leavitt say about the expected duration of the US-Iran conflict on Friday, March 6, 2026?",
+    "a": "She said Washington expected the conflict to last between four and six weeks."
+  },
+  {
+    "q": "Who did US President Donald Trump claim had intervened to prevent Iran from destroying Israel in his March 8, 2026, interview?",
+    "a": "Trump claimed that he and Israeli Prime Minister Benjamin Netanyahu had intervened."
+  },
+  {
+    "q": "What was the outcome of the initial strikes in the joint US-Israel military operation launched on February 28, 2026?",
+    "a": "The initial strikes killed Iran’s longest-serving Supreme Leader Ayatollah Ali Khamenei."
+  }
+]

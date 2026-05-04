@@ -1,0 +1,37 @@
+{
+  "hash": "0190cc34ebe9",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://app.al-monitor.com/originals/2026/03/oil-pares-gains-still-track-record-surge-iran-war-escalates",
+      "title": "Oil pares gains but still on track for record surge as Iran war escalates - AL-Monitor: The Middle Eastʼs leading independent news source since 2012",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1085,
+      "text_length": 5008
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1467765",
+      "spike_id": 1,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $110 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.395,
+      "spike_timestamp_before": "2026-02-28T19:30:31+00:00",
+      "spike_timestamp_after": "2026-02-28T21:30:57+00:00"
+    },
+    {
+      "market_id": "1467766",
+      "spike_id": 1,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $100 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.3,
+      "spike_timestamp_before": "2026-02-28T19:30:27+00:00",
+      "spike_timestamp_after": "2026-02-28T22:00:32+00:00"
+    }
+  ]
+}

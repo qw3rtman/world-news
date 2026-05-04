@@ -1,0 +1,106 @@
+[
+  {
+    "q": "Which AI model did OpenAI launch on March 5, 2026, that is described as the company's first with native computer use capabilities?",
+    "a": "GPT-5.4"
+  },
+  {
+    "q": "What specific capabilities does OpenAI claim GPT-5.4 possesses regarding computer operation as of its March 2026 release?",
+    "a": "It can operate a computer on behalf of the user and complete tasks across different applications."
+  },
+  {
+    "q": "Which two specific types of professional work are mentioned as areas where OpenAI's GPT-5.4 model shows advancements in its March 2026 launch?",
+    "a": "Spreadsheets and documents (or presentations)."
+  },
+  {
+    "q": "What is the name of the AI-powered coding tool to which OpenAI is bringing GPT-5.4, as reported in March 2026?",
+    "a": "Codex"
+  },
+  {
+    "q": "Which reasoning model variant of GPT-5.4 is being rolled out to ChatGPT users, according to the March 2026 announcement?",
+    "a": "GPT-5.4 Thinking"
+  },
+  {
+    "q": "How does OpenAI state that GPT-5.4 responds to screenshots when operating a computer?",
+    "a": "It issues keyboard and mouse commands."
+  },
+  {
+    "q": "What specific improvement does OpenAI claim GPT-5.4 has made regarding the use of web browsers and external tools?",
+    "a": "It can call upon tools and APIs more accurately and efficiently."
+  },
+  {
+    "q": "According to OpenAI's March 2026 claims, how much less likely are individual claims in GPT-5.4 to be false compared to GPT-5.2?",
+    "a": "33 percent"
+  },
+  {
+    "q": "What type of questions is OpenAI's GPT-5.4 model specifically noted to be better at fielding by searching across multiple rounds?",
+    "a": "Needle-in-a-haystack questions."
+  },
+  {
+    "q": "What feature does GPT-5.4 Thinking provide inside ChatGPT for complex queries, as described in the March 2026 release?",
+    "a": "It provides an outline of its work."
+  },
+  {
+    "q": "On which two platforms was the GPT-5.4 Thinking feature available at the time of OpenAI's March 5, 2026 announcement?",
+    "a": "The ChatGPT web app and Android."
+  },
+  {
+    "q": "Which mobile operating system's app was OpenAI stating was 'coming soon' for GPT-5.4 Thinking access in March 2026?",
+    "a": "iOS"
+  },
+  {
+    "q": "What specific user interaction does GPT-5.4 Thinking allow during its response, according to OpenAI's March 2026 description?",
+    "a": "Users can tweak or change their request."
+  },
+  {
+    "q": "Which subscription tiers are mentioned as receiving access to the GPT-5.4 Thinking model in OpenAI's March 2026 rollout?",
+    "a": "Plus, Team, and Pro users."
+  },
+  {
+    "q": "What is the name of the GPT-5.4 variant designed for 'maximum performance on complex tasks' that is rolling out in the API and for Enterprise and Edu users?",
+    "a": "GPT-5.4 Pro"
+  },
+  {
+    "q": "Which three distribution channels are explicitly listed as receiving GPT-5.4 in OpenAI's March 2026 launch?",
+    "a": "ChatGPT, Codex, and the API."
+  },
+  {
+    "q": "What broader industry trend is OpenAI's GPT-5.4 model described as a step toward in the March 2026 article?",
+    "a": "The agentic future (or agentic tools)."
+  },
+  {
+    "q": "What specific task example is given in the article to illustrate what agentic tools introduced last year can perform?",
+    "a": "Searching for and buying ingredients for a meal."
+  },
+  {
+    "q": "Who is the author of the article reporting on OpenAI's GPT-5.4 launch published on March 5, 2026?",
+    "a": "Emma Roth"
+  },
+  {
+    "q": "What publication reported on OpenAI's GPT-5.4 model launch on March 5, 2026?",
+    "a": "The Verge"
+  },
+  {
+    "q": "Which previous model version does OpenAI compare GPT-5.4's factual accuracy against, stating GPT-5.4 is its 'most factual model yet'?",
+    "a": "GPT-5.2"
+  },
+  {
+    "q": "What capability does GPT-5.4 have regarding code generation in the context of computer operation, as stated in the March 2026 release?",
+    "a": "It can write code to operate computers."
+  },
+  {
+    "q": "What does OpenAI say GPT-5.4 can do to synthesize information for 'needle-in-a-haystack' questions?",
+    "a": "It can more persistently search across multiple rounds to identify the most relevant sources."
+  },
+  {
+    "q": "Which user groups are specified to have access to the GPT-5.4 Pro model alongside API users in the March 2026 rollout?",
+    "a": "ChatGPT Enterprise and Edu users."
+  },
+  {
+    "q": "What benefit does OpenAI claim the outline feature in GPT-5.4 Thinking provides to users regarding guiding the model?",
+    "a": "It makes it easier to guide the model toward the exact outcome without starting over or requiring multiple additional turns."
+  },
+  {
+    "q": "What specific date did The Verge publish the article titled 'OpenAI’s new GPT-5.4 model is a big step toward autonomous agents'?",
+    "a": "March 5, 2026"
+  }
+]

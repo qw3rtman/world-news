@@ -1,0 +1,27 @@
+{
+  "hash": "a9aae8c1b98e",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://reuters.com/legal/transactional/gsk-buy-35pharma-950-million-2026-02-25/",
+      "title": "GSK to buy 35Pharma for $950 million in CEO Miel's second major deal | Reuters",
+      "published_date": "2026-02-25T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 371,
+      "text_length": 1794
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694938",
+      "spike_id": 14,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.16500000000000004,
+      "spike_timestamp_before": "2026-02-25T23:00:40+00:00",
+      "spike_timestamp_after": "2026-02-26T04:00:44+00:00"
+    }
+  ]
+}

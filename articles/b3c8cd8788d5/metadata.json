@@ -1,0 +1,47 @@
+{
+  "hash": "b3c8cd8788d5",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-israel-day-4-trump-gives-no-timeline-as-gulf-states-attacked/",
+      "title": "Trump defends war with Iran as conflict widens, military names first service members who were killed",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 269,
+      "text_length": 1266
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1466575",
+      "spike_id": 4,
+      "market_question": "Trump announces end of military operations against Iran by March 31st?",
+      "event_title": "Trump announces end of military operations against Iran by ...?",
+      "spike_direction": "down",
+      "spike_delta": -0.18000000000000005,
+      "spike_timestamp_before": "2026-03-02T18:30:39+00:00",
+      "spike_timestamp_after": "2026-03-03T06:30:53+00:00"
+    },
+    {
+      "market_id": "1466575",
+      "spike_id": 5,
+      "market_question": "Trump announces end of military operations against Iran by March 31st?",
+      "event_title": "Trump announces end of military operations against Iran by ...?",
+      "spike_direction": "down",
+      "spike_delta": -0.20500000000000002,
+      "spike_timestamp_before": "2026-03-02T18:30:39+00:00",
+      "spike_timestamp_after": "2026-03-03T11:00:44+00:00"
+    },
+    {
+      "market_id": "1466575",
+      "spike_id": 6,
+      "market_question": "Trump announces end of military operations against Iran by March 31st?",
+      "event_title": "Trump announces end of military operations against Iran by ...?",
+      "spike_direction": "down",
+      "spike_delta": -0.235,
+      "spike_timestamp_before": "2026-03-02T21:30:31+00:00",
+      "spike_timestamp_after": "2026-03-03T20:00:36+00:00"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In early March 2026, by what percentage did Brent crude oil prices jump over the counter on Sunday following U.S. and Israeli strikes on Iran?",
+    "a": "10 per cent"
+  },
+  {
+    "q": "What was the approximate price per barrel of Brent crude oil in U.S. dollars after it jumped 10 per cent in early March 2026?",
+    "a": "About US$80 a barrel"
+  },
+  {
+    "q": "Which two countries conducted military strikes on Iran that analysts said plunged the Middle East into a new war and impacted oil prices in March 2026?",
+    "a": "The United States and Israel"
+  },
+  {
+    "q": "According to Ajay Parmar, director of energy and refining at ICIS, what specific geographic factor was identified as the key driver for oil price increases after the March 2026 Iran attacks?",
+    "a": "The closing of the Strait of Hormuz"
+  },
+  {
+    "q": "What percentage of global oil supply is moved through the Strait of Hormuz, according to trade sources cited in the March 2026 article?",
+    "a": "More than 20 per cent"
+  },
+  {
+    "q": "Which types of shipments did most tanker owners, oil majors, and trading houses suspend via the Strait of Hormuz after Tehran's warning in March 2026?",
+    "a": "Crude oil, fuel, and liquefied natural gas shipments"
+  },
+  {
+    "q": "What price level did RBC analyst Helima Croft report that Middle East leaders warned Washington oil prices could jump to if a war on Iran occurred in 2026?",
+    "a": "More than US$100 a barrel"
+  },
+  {
+    "q": "What near-term oil price forecast did Rabobank analysts provide in March 2026, which was less bullish than other predictions?",
+    "a": "Prices holding above US$90 a barrel"
+  },
+  {
+    "q": "By how many barrels per day did the OPEC+ group of oil producers agree to raise output starting in April 2026?",
+    "a": "206,000 barrels per day"
+  },
+  {
+    "q": "What fraction of global demand did the OPEC+ April 2026 output increase of 206,000 barrels per day represent?",
+    "a": "Less than 0.2 per cent"
+  },
+  {
+    "q": "According to Rystad energy economist Jorge Leon, what is the estimated net loss of crude oil supply in barrels per day if the Strait of Hormuz remains closed in 2026?",
+    "a": "8 million to 10 million barrels per day"
+  },
+  {
+    "q": "Which two specific pipeline infrastructures did Rystad economist Jorge Leon mention as potential, though insufficient, alternatives to bypass the closed Strait of Hormuz in 2026?",
+    "a": "Saudi Arabia’s East-West pipeline and Abu Dhabi’s pipeline"
+  },
+  {
+    "q": "What price did Rystad expect Brent crude oil to rise to when trade reopened after the March 2026 Iran crisis?",
+    "a": "About US$92 a barrel"
+  },
+  {
+    "q": "Which Asian country did Kpler analysts suggest might turn to Russian oil to compensate for potential Middle East supply losses in March 2026?",
+    "a": "India"
+  },
+  {
+    "q": "On which day of the week did the global oil benchmark reach US$73 a barrel, its highest level since July, before the March 2026 Iran attacks?",
+    "a": "Friday"
+  },
+  {
+    "q": "Who is the director of energy and refining at ICIS who commented on the impact of the Strait of Hormuz closure on oil prices in March 2026?",
+    "a": "Ajay Parmar"
+  },
+  {
+    "q": "Which analyst from RBC reported that Middle East leaders had warned Washington about the potential for oil prices to exceed US$100 a barrel in 2026?",
+    "a": "Helima Croft"
+  },
+  {
+    "q": "What specific event caused futures trading to be closed over the weekend in the context of the March 2026 oil market volatility?",
+    "a": "The U.S. and Israeli strikes on Iran"
+  },
+  {
+    "q": "According to Kpler analysts, what action did Asian governments and refiners take in response to the Iran crisis in March 2026?",
+    "a": "They assessed oil stockpiles and alternative shipping routes and supplies"
+  },
+  {
+    "q": "What was the highest price reached by the global oil benchmark in July prior to the March 2026 rally?",
+    "a": "The article does not state the specific July price, only that US$73 was the highest since July"
+  },
+  {
+    "q": "Which organization's analysts stated in a webinar on Sunday that India might seek Russian oil to offset Middle East supply losses in March 2026?",
+    "a": "Kpler"
+  },
+  {
+    "q": "What was the estimated price increase in U.S. dollars that Rystad expected for oil prices when trade reopened after the March 2026 Iran crisis?",
+    "a": "US$20"
+  },
+  {
+    "q": "Which group of oil producers agreed to a modest output increase starting in April 2026 in response to the geopolitical tensions?",
+    "a": "The OPEC+ group"
+  },
+  {
+    "q": "What warning did Tehran issue to ships that contributed to the suspension of shipments via the Strait of Hormuz in March 2026?",
+    "a": "Tehran warned ships against moving through the waterway"
+  },
+  {
+    "q": "Who are the two Reuters journalists credited with reporting on the oil price jump and Iran attacks in the March 1, 2026 article?",
+    "a": "Seher Dareen and Dmitry Zhdannikov"
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "spike_index": 1,
+  "direction": "down",
+  "price_before": 0.495,
+  "price_after": 0.195,
+  "delta": -0.3,
+  "abs_delta": 0.3,
+  "timestamp_before": "2026-02-28T19:30:27+00:00",
+  "timestamp_after": "2026-02-28T22:00:32+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.al-monitor.com/originals/2026/03/oil-jumps-above-100-energy-crisis-called-worst-history-what-know",
+      "file": "52bd5b217f36.txt",
+      "title": "Oil jumps above $100 as energy crisis called worst in history: What to know - AL-Monitor: The Middle East\u02bcs leading independent news source since 2012",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 75,
+      "status": "ok",
+      "num_tokens": 16
+    },
+    {
+      "url": "https://live.reuters.com/business/energy/oil-jumps-10-iran-conflict-could-spike-100-barrel-analysts-say-2026-03-01/",
+      "file": "aa6c269c58fd.txt",
+      "title": "Reuters | Breaking International News & Views",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 56,
+      "status": "ok",
+      "num_tokens": 10
+    },
+    {
+      "url": "https://app.al-monitor.com/originals/2026/03/oil-pares-gains-still-track-record-surge-iran-war-escalates",
+      "file": "0190cc34ebe9.txt",
+      "title": "Oil pares gains but still on track for record surge as Iran war escalates - AL-Monitor: The Middle East\u02bcs leading independent news source since 2012",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 4907,
+      "status": "ok",
+      "num_tokens": 1054
+    },
+    {
+      "url": "https://www.al-monitor.com/originals/2026/03/oil-plunges-stocks-rise-trump-says-iran-war-over-very-soon",
+      "file": "e6124c120314.txt",
+      "title": "Oil plunges, stocks rise as Trump says Iran war over 'very soon' - AL-Monitor: The Middle East\u02bcs leading independent news source since 2012",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 4104,
+      "status": "ok",
+      "num_tokens": 1014
+    },
+    {
+      "url": "https://al-monitor.com/originals/2026/03/iran-war-sends-crude-prices-soaring-khamenei-son-takes-charge",
+      "file": "382a98c01d77.txt",
+      "title": "Iran war sends crude prices soaring as Khamenei son takes charge - AL-Monitor: The Middle East\u02bcs leading independent news source since 2012",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 5730,
+      "status": "ok",
+      "num_tokens": 1168
+    }
+  ],
+  "total_tokens": 3262
+}

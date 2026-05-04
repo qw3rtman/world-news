@@ -1,0 +1,65 @@
+{
+  "spike_index": 6,
+  "direction": "down",
+  "price_before": 0.545,
+  "price_after": 0.35,
+  "delta": -0.19500000000000006,
+  "abs_delta": 0.19500000000000006,
+  "timestamp_before": "2026-02-28T16:30:36+00:00",
+  "timestamp_after": "2026-03-01T14:00:27+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "http://in.reuters.com/world/americas/opposition-leader-maria-corina-machado-says-she-will-return-venezuela-coming-2026-03-01/",
+      "file": "21b7cee71a3b.txt",
+      "title": "Reuters | Breaking International News & Views",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 194,
+      "status": "ok",
+      "num_tokens": 36
+    },
+    {
+      "url": "https://uat.apnews.com/article/venezuela-machado-elections-f7e848935b140636e7cd405b09368e0e",
+      "file": "be4d5c6c8b31.txt",
+      "title": "Venezuela\u2019s opposition leader Machado says she will return to country | AP News",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 1762,
+      "status": "ok",
+      "num_tokens": 350
+    },
+    {
+      "url": "http://today.reuters.com/world/americas/opposition-leader-maria-corina-machado-says-she-will-return-venezuela-coming-2026-03-01/",
+      "file": "50b067f03583.txt",
+      "title": "Opposition leader Maria Corina Machado says she will return to Venezuela in coming weeks | Reuters",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 757,
+      "status": "ok",
+      "num_tokens": 159
+    },
+    {
+      "url": "https://www.washingtonpost.com/world/2026/03/01/venezuela-machado-elections/34c58c20-15ba-11f1-aef0-0aac8e8e94db_story.html",
+      "file": "2a6bad4c480a.txt",
+      "title": "Venezuela\u2019s opposition leader Machado says she will return to the country in the coming weeks - The Washington Post",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Associated Press",
+      "text_length": 551,
+      "status": "ok",
+      "num_tokens": 114
+    },
+    {
+      "url": "https://www.pbs.org/newshour/world/opposition-leader-machado-says-she-will-return-to-venezuela-in-the-coming-weeks",
+      "file": "cf4f30fd9f7b.txt",
+      "title": "Opposition leader Machado says she will return to Venezuela in the coming weeks | PBS News",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 1965,
+      "status": "ok",
+      "num_tokens": 393
+    }
+  ],
+  "total_tokens": 1052
+}

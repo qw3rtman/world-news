@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In late February 2026, what specific financial metric regarding LNG tanker rates doubled to $200,000 in less than a day due to concerns about Iran?",
+    "a": "LNG tanker rates doubled."
+  },
+  {
+    "q": "According to the analysis in late February 2026, what does the limited oil price surge signal about trader expectations regarding the conflict between the United States and Iran?",
+    "a": "Traders are betting on a short conflict."
+  },
+  {
+    "q": "As of late February 2026, what was the stated position of the United States government regarding the immediate tapping of oil reserves in response to concerns about Iran?",
+    "a": "The U.S. had no immediate plan to tap oil reserves."
+  },
+  {
+    "q": "In the context of the late February 2026 conflict between the United States and Iran, what cost disparity is highlighted between Iran's drones and the U.S. Patriot missile defense system?",
+    "a": "Iran uses $20,000 drones against $4 million Patriot missiles."
+  },
+  {
+    "q": "On Monday of the week ending February 26, 2026, what did U.K. Prime Minister Keir Starmer imply about the legality of President Donald Trump's military actions against Iran?",
+    "a": "He implied the war was unlawful."
+  },
+  {
+    "q": "In late February 2026, what specific stance did U.K. Prime Minister Keir Starmer draw regarding Britain's participation in military operations against Iran?",
+    "a": "Britain will not join the U.S. in offensive action against Iran."
+  },
+  {
+    "q": "In late February 2026, how did President Donald Trump respond to U.K. Prime Minister Keir Starmer's reluctance to join military strikes against Iran?",
+    "a": "Trump scolded Starmer for the UK's reluctance."
+  },
+  {
+    "q": "During the escalation of attacks in late February 2026, what defensive action did Saudi Arabia take against incoming aerial threats?",
+    "a": "Saudi Arabia destroyed incoming drones."
+  },
+  {
+    "q": "What potential market outcome does the article associate with a lengthy disruption in energy supplies during the late February 2026 U.S.-Iran conflict?",
+    "a": "A lengthy disruption threatens to cause chaos across markets."
+  },
+  {
+    "q": "In late February 2026, which two countries are identified as the primary military adversaries in the conflict driving energy market concerns?",
+    "a": "The United States and Iran."
+  },
+  {
+    "q": "What specific type of aerial weaponry did Iran deploy that Saudi Arabia was reported to be destroying in late February 2026?",
+    "a": "Drones."
+  },
+  {
+    "q": "In the late February 2026 conflict, what is the estimated cost of the Iranian drones that are challenging the U.S. Patriot missile system?",
+    "a": "$20,000."
+  },
+  {
+    "q": "What is the stated cost of the U.S. Patriot missile system that is being targeted by Iranian drones in the late February 2026 conflict?",
+    "a": "$4 million."
+  },
+  {
+    "q": "In late February 2026, which U.K. official explicitly stated that Britain would not participate in offensive military action against Iran?",
+    "a": "U.K. Prime Minister Keir Starmer."
+  },
+  {
+    "q": "Which U.S. President scolded the U.K. leadership in late February 2026 for refusing to join strikes against Iran?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "What specific financial instrument's rates doubled to $200,000 in less than a day in late February 2026 due to Iran-related tensions?",
+    "a": "LNG tanker rates."
+  },
+  {
+    "q": "According to the late February 2026 report, what is the primary reason traders are betting on a short conflict between the U.S. and Iran?",
+    "a": "Limited oil price surges signal this expectation."
+  },
+  {
+    "q": "In late February 2026, what did U.K. Prime Minister Keir Starmer identify as the boundary for Britain's involvement in the U.S.-Iran conflict?",
+    "a": "Britain will not join offensive action against Iran."
+  },
+  {
+    "q": "What defensive measure did Saudi Arabia employ against incoming drones during the widening attacks in late February 2026?",
+    "a": "They destroyed the incoming drones."
+  },
+  {
+    "q": "In late February 2026, what was the U.S. government's immediate plan concerning strategic oil reserves amid concerns about Iran?",
+    "a": "There was no immediate plan to tap oil reserves."
+  },
+  {
+    "q": "What economic risk is cited in late February 2026 as a consequence of a lengthy disruption in energy supplies during the U.S.-Iran conflict?",
+    "a": "Chaos across markets."
+  },
+  {
+    "q": "In late February 2026, what did President Donald Trump criticize U.K. Prime Minister Keir Starmer for regarding the Iran conflict?",
+    "a": "He criticized the UK's reluctance to join Iran strikes."
+  },
+  {
+    "q": "What specific legal characterization did U.K. Prime Minister Keir Starmer apply to President Donald Trump's war on Iran in late February 2026?",
+    "a": "He implied it was unlawful."
+  },
+  {
+    "q": "In the late February 2026 conflict, what is the ratio of cost between a single Iranian drone and a single U.S. Patriot missile?",
+    "a": "$20,000 to $4 million."
+  },
+  {
+    "q": "Which two entities are described as having a direct military confrontation involving drones and missile defense systems in late February 2026?",
+    "a": "Iran and the United States (via Saudi Arabia)."
+  }
+]

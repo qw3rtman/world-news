@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In late February 2026, which two media conglomerates announced a definitive merger agreement in which Paramount Skydance Corporation would acquire Warner Bros. Discovery, Inc. for $110 billion?",
+    "a": "Paramount Skydance Corporation and Warner Bros. Discovery, Inc."
+  },
+  {
+    "q": "What specific per-share price did Paramount Skydance agree to pay for each outstanding share of Warner Bros. Discovery, Inc. under the merger terms announced in February 2026?",
+    "a": "$31 per share."
+  },
+  {
+    "q": "Which streaming service, having previously agreed to a $82.7 billion acquisition deal with Warner Bros. Discovery in December 2025, withdrew from the bidding process in early 2026 after Paramount Skydance offered better terms?",
+    "a": "Netflix, Inc."
+  },
+  {
+    "q": "What amount of debt did Paramount Skydance agree to assume as part of its $110 billion acquisition of Warner Bros. Discovery, Inc., specifically including compensation owed to Netflix, Inc.?",
+    "a": "$2.8 billion in compensation to Netflix, Inc. for terminating the previous merger contract."
+  },
+  {
+    "q": "During which quarter of 2026 is the acquisition of Warner Bros. Discovery, Inc. by Paramount Skydance Corporation expected to close, according to the agreement announced in February 2026?",
+    "a": "The third quarter of 2026."
+  },
+  {
+    "q": "Which major intellectual property franchises, owned by Warner Bros. Discovery, Inc. at the time of the February 2026 acquisition announcement, include \"Harry Potter,\" \"The Lord of the Rings,\" and \"Game of Thrones\"?",
+    "a": "Warner Bros. Discovery, Inc."
+  },
+  {
+    "q": "Which streaming service and cable news network, both owned by Warner Bros. Discovery, Inc. prior to its February 2026 acquisition by Paramount Skydance, are specifically named in the deal details?",
+    "a": "HBO Max and CNN."
+  },
+  {
+    "q": "Who is the CEO of Paramount Skydance Corporation who stated that merging with Warner Bros. Discovery, Inc. would create greater value for viewers, partners, and shareholders in February 2026?",
+    "a": "David Ellison."
+  },
+  {
+    "q": "Which family, described as being close to U.S. President Donald Trump, has owned the Paramount conglomerate since 2025?",
+    "a": "The Ellison family."
+  },
+  {
+    "q": "Who is the founder of Oracle Corporation, a major U.S. government contractor that provides critical IT infrastructure to the Pentagon, and a member of the Ellison family that controls Paramount Skydance?",
+    "a": "Larry Ellison."
+  },
+  {
+    "q": "Which U.S. government agency, frequently criticized by President Donald Trump for spreading \"fake news,\" would come under the control of Paramount Skydance Corporation following its February 2026 acquisition of Warner Bros. Discovery?",
+    "a": "CNN (Cable News Network)."
+  },
+  {
+    "q": "What regulatory body must approve the $110 billion merger between Paramount Skydance Corporation and Warner Bros. Discovery, Inc. announced in February 2026?",
+    "a": "Antitrust regulators."
+  },
+  {
+    "q": "On what specific date in February 2026 did Paramount Skydance Corporation and Warner Bros. Discovery, Inc. publish the press release announcing their definitive merger agreement?",
+    "a": "Friday, February 27, 2026."
+  },
+  {
+    "q": "How much did Netflix, Inc. agree to pay in compensation to Warner Bros. Discovery, Inc. for the termination of their previous merger contract, a cost assumed by Paramount Skydance in the new deal?",
+    "a": "$2.8 billion."
+  },
+  {
+    "q": "Which technology corporation, known for supplying critical IT infrastructure to the U.S. Department of Defense, is founded by Larry Ellison, whose family controls Paramount Skydance?",
+    "a": "Oracle Corporation."
+  },
+  {
+    "q": "What was the total valuation of the acquisition deal announced in February 2026 in which Paramount Skydance Corporation acquires Warner Bros. Discovery, Inc.?",
+    "a": "$110 billion."
+  },
+  {
+    "q": "Which two media companies unanimously approved the merger agreement announced on February 27, 2026, leading to Paramount Skydance acquiring Warner Bros. Discovery?",
+    "a": "The boards of directors of Paramount Skydance Corporation and Warner Bros. Discovery, Inc."
+  },
+  {
+    "q": "Which U.S. President, whose administration has been the subject of criticism regarding \"fake news\" from CNN, is politically aligned with the Ellison family that owns Paramount Skydance?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "What specific compensation amount did Paramount Skydance agree to pay to Netflix, Inc. as part of the financial terms for acquiring Warner Bros. Discovery, Inc. in February 2026?",
+    "a": "$2.8 billion."
+  },
+  {
+    "q": "Which extensive library of Hollywood films and television series, spanning nearly 100 years of production, is owned by Warner Bros. Discovery, Inc. as of the February 2026 acquisition announcement?",
+    "a": "The Warner Bros. Discovery film and television archive."
+  },
+  {
+    "q": "Which cable news network, owned by Warner Bros. Discovery, Inc., is expected to come under the control of Paramount Skydance Corporation following the February 2026 merger approval?",
+    "a": "CNN."
+  },
+  {
+    "q": "What was the previous acquisition offer amount made by Netflix, Inc. to acquire Warner Bros. Discovery, Inc. in December 2025 before withdrawing in early 2026?",
+    "a": "$82.7 billion."
+  },
+  {
+    "q": "Which two major cable television networks, owned by Warner Bros. Discovery, Inc. prior to its February 2026 sale to Paramount Skydance, are specifically mentioned in the deal description?",
+    "a": "CNN and Discovery Channel."
+  },
+  {
+    "q": "Who is the founder of Oracle Corporation and a key figure in the Ellison family, which has controlled Paramount Skydance since 2025 and acquired Warner Bros. Discovery in February 2026?",
+    "a": "Larry Ellison."
+  },
+  {
+    "q": "Which U.S. federal department receives critical IT infrastructure from Oracle Corporation, the company founded by Larry Ellison, whose family controls the acquiring entity Paramount Skydance?",
+    "a": "The U.S. Department of Defense (Pentagon)."
+  }
+]

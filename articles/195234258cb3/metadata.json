@@ -1,0 +1,27 @@
+{
+  "hash": "195234258cb3",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.thetimes.com/world/middle-east/article/binyamin-netanyahu-iran-israel-3dz6v772k",
+      "title": "The Binyamin Netanyahu I knew: ending Iran’s regime is his life’s work",
+      "published_date": "2026-03-14T00:00:00.000Z",
+      "author": "Matthew Gould",
+      "num_tokens": 2287,
+      "text_length": 10854
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "567688",
+      "spike_id": 1,
+      "market_question": "Netanyahu out by end of 2026?",
+      "event_title": "Netanyahu out by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.16500000000000004,
+      "spike_timestamp_before": "2026-03-13T10:30:46+00:00",
+      "spike_timestamp_after": "2026-03-14T09:30:30+00:00"
+    }
+  ]
+}

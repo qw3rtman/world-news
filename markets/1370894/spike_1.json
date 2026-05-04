@@ -1,0 +1,65 @@
+{
+  "spike_index": 1,
+  "direction": "up",
+  "price_before": 0.006,
+  "price_after": 0.3015,
+  "delta": 0.2955,
+  "abs_delta": 0.2955,
+  "timestamp_before": "2026-02-20T04:00:17+00:00",
+  "timestamp_after": "2026-02-20T09:00:26+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.axios.com/2026/02/19/kalshi-fed-prediction-markets",
+      "file": "fe3ef9a66209.txt",
+      "title": "Kalshi prediction market data earns vote of confidence in Fed paper",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": "Nathan Bomey",
+      "text_length": 2981,
+      "status": "ok",
+      "num_tokens": 557
+    },
+    {
+      "url": "https://on.theverge.com/policy/881139/broligarch-prediction-markets",
+      "file": "7a7bef05f160.txt",
+      "title": "It\u2019s MAGA v Broligarch in the battle over prediction markets | The Verge",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": "Tina Nguyen",
+      "text_length": 9122,
+      "status": "ok",
+      "num_tokens": 1910
+    },
+    {
+      "url": "https://www.thehindu.com/sci-tech/technology/trump-administration-backs-kalshi-polymarket-as-states-move-to-ban-prediction-markets/article70650502.ece",
+      "file": "06ebceb0c944.txt",
+      "title": "Trump administration backs Kalshi, Polymarket as states move to ban prediction markets - The Hindu",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": "AP",
+      "text_length": 5857,
+      "status": "ok",
+      "num_tokens": 1165
+    },
+    {
+      "url": "https://www.semafor.com/article/02/18/2026/prediction-markets-won-over-trump-but-the-rest-of-washington-will-be-harder",
+      "file": "1ba3467b7297.txt",
+      "title": "Prediction markets won over Trump, but the rest of Washington will be harder | Semafor",
+      "published_date": "2026-02-18T00:00:00.000Z",
+      "author": null,
+      "text_length": 7773,
+      "status": "ok",
+      "num_tokens": 1539
+    },
+    {
+      "url": "https://as.ft.com/r/2810a28a-eac6-4a47-9e1b-53789c92e4ca",
+      "file": "178bfb492262.txt",
+      "title": "Client Challenge",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": null,
+      "text_length": 200,
+      "status": "ok",
+      "num_tokens": 41
+    }
+  ],
+  "total_tokens": 5212
+}

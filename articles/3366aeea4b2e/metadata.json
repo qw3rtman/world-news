@@ -1,0 +1,27 @@
+{
+  "hash": "3366aeea4b2e",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cbsnews.com/video/cuban-coast-guard-kills-4-people-who-opened-fire-us-civilian-speedboat-cuba-says/",
+      "title": "Cuban coast guard kills 4 people who opened fire from U.S. civilian speedboat, Cuba says - CBS News",
+      "published_date": "2026-02-25T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 59,
+      "text_length": 260
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1107582",
+      "spike_id": 1,
+      "market_question": "US strike on Cuba by December 31?",
+      "event_title": "US strike on Cuba by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.2,
+      "spike_timestamp_before": "2026-02-27T23:30:26+00:00",
+      "spike_timestamp_after": "2026-02-28T22:30:26+00:00"
+    }
+  ]
+}

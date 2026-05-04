@@ -1,0 +1,102 @@
+[
+  {
+    "q": "What is the title of the article published on March 4, 2026?",
+    "a": "Verifying Device"
+  },
+  {
+    "q": "What is the publication date of the article titled 'Verifying Device'?",
+    "a": "March 4, 2026"
+  },
+  {
+    "q": "What message does the article display after the initial 'Verifying your device, please wait' text?",
+    "a": "Verification failed. Please try again."
+  },
+  {
+    "q": "What is the final instruction provided in the article published on March 4, 2026?",
+    "a": "Try Again"
+  },
+  {
+    "q": "What is the first line of text in the article titled 'Verifying Device'?",
+    "a": "Verifying your device, please wait"
+  },
+  {
+    "q": "What is the second line of text in the article published on March 4, 2026?",
+    "a": "Verification failed. Please try again."
+  },
+  {
+    "q": "What is the third and final line of text in the article titled 'Verifying Device'?",
+    "a": "Try Again"
+  },
+  {
+    "q": "How many lines of text are contained in the article published on March 4, 2026?",
+    "a": "Three lines"
+  },
+  {
+    "q": "What specific error message is displayed in the article published on March 4, 2026?",
+    "a": "Verification failed. Please try again."
+  },
+  {
+    "q": "What action is the user instructed to take in the final line of the article published on March 4, 2026?",
+    "a": "Try Again"
+  },
+  {
+    "q": "What is the title of the news article that contains the text 'Verifying your device, please wait'?",
+    "a": "Verifying Device"
+  },
+  {
+    "q": "What is the exact publication date of the article containing the phrase 'Verification failed. Please try again.'?",
+    "a": "March 4, 2026"
+  },
+  {
+    "q": "What is the sequence of messages presented in the article titled 'Verifying Device' published on March 4, 2026?",
+    "a": "Verifying your device, please wait; Verification failed. Please try again.; Try Again"
+  },
+  {
+    "q": "What is the first sentence in the body of the article published on March 4, 2026?",
+    "a": "Verifying your device, please wait"
+  },
+  {
+    "q": "What is the second sentence in the body of the article titled 'Verifying Device'?",
+    "a": "Verification failed. Please try again."
+  },
+  {
+    "q": "What is the third sentence in the body of the article published on March 4, 2026?",
+    "a": "Try Again"
+  },
+  {
+    "q": "Does the article titled 'Verifying Device' published on March 4, 2026, contain any numerical data?",
+    "a": "No"
+  },
+  {
+    "q": "Does the article titled 'Verifying Device' published on March 4, 2026, contain any proper nouns referring to people or organizations?",
+    "a": "No"
+  },
+  {
+    "q": "What is the relationship between the title 'Verifying Device' and the publication date March 4, 2026?",
+    "a": "They identify the same article"
+  },
+  {
+    "q": "What is the total word count of the article titled 'Verifying Device' published on March 4, 2026?",
+    "a": "13 words"
+  },
+  {
+    "q": "What is the first word of the article titled 'Verifying Device' published on March 4, 2026?",
+    "a": "Verifying"
+  },
+  {
+    "q": "What is the last word of the article titled 'Verifying Device' published on March 4, 2026?",
+    "a": "Again"
+  },
+  {
+    "q": "What is the capitalization style of the title 'Verifying Device' in the article published on March 4, 2026?",
+    "a": "Title Case"
+  },
+  {
+    "q": "What is the punctuation mark at the end of the second line in the article published on March 4, 2026?",
+    "a": "Period"
+  },
+  {
+    "q": "What is the punctuation mark at the end of the third line in the article titled 'Verifying Device'?",
+    "a": "None"
+  }
+]

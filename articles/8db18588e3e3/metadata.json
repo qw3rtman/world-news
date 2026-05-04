@@ -1,0 +1,27 @@
+{
+  "hash": "8db18588e3e3",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.nbcnews.com/world/iran/live-blog/iran-attack-strikes-us-israel-trump-khamenei-dead-live-updates-rcna261172",
+      "title": "Trump urges regime change as Iran's supreme leader is killed after U.S., Israel attack",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "NBC News",
+      "num_tokens": 14555,
+      "text_length": 70394
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "677397",
+      "spike_id": 3,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.255,
+      "spike_timestamp_before": "2026-02-28T14:30:29+00:00",
+      "spike_timestamp_after": "2026-03-01T04:00:31+00:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "hash": "bd7f73f18ac1",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://canary.haaretz.com/israel-news/israel-politics/2026-03-13/ty-article/netanyahus-likud-party-makes-no-gains-amid-iran-war-poll-finds/0000019c-e67b-dc1d-adbf-e7fb26a70000",
+      "title": "Netanyahu's Likud Party Makes No Gains Amid Iran War, Poll Finds - Israel Political News",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": "Haaretz",
+      "num_tokens": 634,
+      "text_length": 2484
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "567688",
+      "spike_id": 1,
+      "market_question": "Netanyahu out by end of 2026?",
+      "event_title": "Netanyahu out by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.16500000000000004,
+      "spike_timestamp_before": "2026-03-13T10:30:46+00:00",
+      "spike_timestamp_after": "2026-03-14T09:30:30+00:00"
+    }
+  ]
+}

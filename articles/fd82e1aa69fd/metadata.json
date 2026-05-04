@@ -1,0 +1,37 @@
+{
+  "hash": "fd82e1aa69fd",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.thetimes.com/article/cf588427-2392-4d19-9688-bd5b25414e6f?shareToken=436ab75fe8de19a971ab42574bab2b91",
+      "title": "Trump lashes out by condemning Starmer as ‘no Churchill’",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Larisa Brown, Defence Editor | David Charter, Assistant Editor, US | Steven Swinford, Political Editor | Charlie Parker",
+      "num_tokens": 2042,
+      "text_length": 9764
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1466423",
+      "spike_id": 5,
+      "market_question": "Will Iran strike Cyprus in March?",
+      "event_title": "Iran military action against ___ by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.215,
+      "spike_timestamp_before": "2026-03-02T12:30:39+00:00",
+      "spike_timestamp_after": "2026-03-03T12:00:38+00:00"
+    },
+    {
+      "market_id": "1466423",
+      "spike_id": 6,
+      "market_question": "Will Iran strike Cyprus in March?",
+      "event_title": "Iran military action against ___ by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.23500000000000001,
+      "spike_timestamp_before": "2026-03-02T22:30:27+00:00",
+      "spike_timestamp_after": "2026-03-03T17:30:29+00:00"
+    }
+  ]
+}

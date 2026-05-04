@@ -1,0 +1,65 @@
+{
+  "spike_index": 13,
+  "direction": "up",
+  "price_before": 0.39,
+  "price_after": 0.645,
+  "delta": 0.255,
+  "abs_delta": 0.255,
+  "timestamp_before": "2026-03-03T09:00:27+00:00",
+  "timestamp_after": "2026-03-04T02:30:26+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://reuters.com/business/aerospace-defense/top-us-general-outlines-initial-timeline-us-military-operation-iran-2026-03-02/",
+      "file": "ac7bedb143ff.txt",
+      "title": "Top U.S. general outlines initial timeline of U.S. military operation in Iran | Reuters",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 2537,
+      "status": "ok",
+      "num_tokens": 553
+    },
+    {
+      "url": "https://thehill.com/policy/defense/5762676-boots-ground-iran-hegseth/",
+      "file": "9f8f5924ea10.txt",
+      "title": "Pete Hegseth does not rule out US troops in Iran",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 5070,
+      "status": "ok",
+      "num_tokens": 1095
+    },
+    {
+      "url": "https://commanderswire.usatoday.com/story/news/world/2026/03/02/how-us-military-launched-iran-war/88942259007/",
+      "file": "d97d413f30c9.txt",
+      "title": "How did US launch attack on Iran? Planes, targets and cyberattacks",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 3493,
+      "status": "ok",
+      "num_tokens": 754
+    },
+    {
+      "url": "https://www.newsweek.com/trump-admin-gives-update-on-americans-evacuated-from-middle-east-11627892",
+      "file": "fef6fc9ab530.txt",
+      "title": "Middle East War: Trump Admin Gives Update on 20,000 Americans Evacuated - Newsweek",
+      "published_date": "2026-03-05T00:00:00.000Z",
+      "author": null,
+      "text_length": 7756,
+      "status": "ok",
+      "num_tokens": 1534
+    },
+    {
+      "url": "https://www.npr.org/2026/03/01/nx-s1-5731493/what-is-the-u-s-militarys-capacity-to-carry-out-extended-strikes-in-iran",
+      "file": "608427df34c8.txt",
+      "title": "What is the U.S. military's capacity to carry out extended strikes in Iran? : NPR",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Kai McNamee",
+      "text_length": 6435,
+      "status": "ok",
+      "num_tokens": 1504
+    }
+  ],
+  "total_tokens": 5440
+}

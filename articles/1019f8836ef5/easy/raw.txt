@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the ruling issued on Friday, February 20, 2026, by what vote margin did the U.S. Supreme Court strike down President Donald Trump’s tariffs, and approximately how much in import taxes were affected?",
+    "a": "The court ruled by a 6-3 vote, striking down roughly $175 billion in import taxes."
+  },
+  {
+    "q": "Following the February 20, 2026 Supreme Court decision, what specific 10% tax did President Donald Trump announce he would impose via an executive order to bypass Congress?",
+    "a": "He announced a 10% tax on imports from around the world."
+  },
+  {
+    "q": "What legal time limit applies to the 10% import tax President Donald Trump planned to impose via executive order after the February 2026 Supreme Court ruling, and how did he respond to this constraint?",
+    "a": "The tax is legally capped at 150 days, but Trump stated the administration has a right to do pretty much what it wants."
+  },
+  {
+    "q": "Which two U.S. political bodies are scheduled to hold midterm elections that will likely coincide with the ongoing chaos and uncertainty surrounding President Donald Trump’s tariff policies?",
+    "a": "The U.S. House of Representatives and the U.S. Senate."
+  },
+  {
+    "q": "During a private meeting with governors on the morning of February 20, 2026, how did President Donald Trump react upon learning of the Supreme Court’s decision to strike down his tariffs?",
+    "a": "He called the decision a disgrace and stated he has to do something about the courts."
+  },
+  {
+    "q": "According to an AP-NORC poll conducted after President Donald Trump announced worldwide tariffs in April 2025, what percentage of Americans believed the policies would increase the cost of consumer goods?",
+    "a": "76% of Americans said the policies would increase the cost of consumer goods."
+  },
+  {
+    "q": "In a poll conducted in January 2026, what proportion of Americans reported that President Donald Trump had gone too far in imposing new tariffs on other countries?",
+    "a": "About 6 in 10 Americans said Trump had gone too far."
+  },
+  {
+    "q": "Which U.S. Senator from Kentucky described President Donald Trump’s assertion that he can bypass Congress to implement tariffs as illegal following the February 2026 Supreme Court ruling?",
+    "a": "Kentucky U.S. Senator Mitch McConnell."
+  },
+  {
+    "q": "Which former U.S. Vice President cheered the February 2026 Supreme Court ruling against President Donald Trump’s tariffs, stating that American families and businesses pay American tariffs?",
+    "a": "Former Vice President Mike Pence."
+  },
+  {
+    "q": "Which U.S. Representative from Washington described President Donald Trump as not a king and stated his tariffs were always illegal after the February 2026 Supreme Court ruling?",
+    "a": "U.S. Representative Suzan DelBene."
+  },
+  {
+    "q": "At a speech at Coosa Steel in Georgia on Thursday, February 19, 2026, how many times did President Donald Trump use the word tariff?",
+    "a": "He used the word tariff 28 times."
+  },
+  {
+    "q": "Which group of lawmakers joined with Democrats in January 2026 to vote for a resolution against President Donald Trump’s tariffs on Canada?",
+    "a": "Six House Republicans."
+  },
+  {
+    "q": "How many senators from President Donald Trump’s own party voiced concerns about his aggressive use of tariffs at various points during his second term?",
+    "a": "At least seven senators."
+  },
+  {
+    "q": "What specific type of government investigations did President Donald Trump say he would begin in order to charge new tariffs on specific products after the February 2026 Supreme Court ruling?",
+    "a": "National security investigations."
+  },
+  {
+    "q": "Which organization’s chair, U.S. Representative Suzan DelBene, criticized Republicans in Congress for bending the knee to President Donald Trump while families suffered from higher prices?",
+    "a": "The Democratic Congressional Campaign Committee."
+  },
+  {
+    "q": "In his February 19, 2026 speech in Georgia, which country did President Donald Trump claim had been ripping the U.S. off for years to justify national security tariffs?",
+    "a": "He did not name a specific country in that quote, but generally referred to countries that have been ripping the U.S. off; however, the article notes Coosa Steel credited tariffs for competitiveness with goods from China."
+  },
+  {
+    "q": "What specific constitutional article did Kentucky U.S. Senator Mitch McConnell cite as the proper path for the executive branch to enact trade policies impacting American producers and consumers?",
+    "a": "Article 1 of the Constitution."
+  },
+  {
+    "q": "Which two Associated Press writers are credited with reporting on the February 20, 2026 Supreme Court ruling and its aftermath?",
+    "a": "Josh Boak and Steve Peoples."
+  },
+  {
+    "q": "What symbol of imperious presidential approach did President Donald Trump cherish, which the February 2026 Supreme Court ruling potentially ended?",
+    "a": "Tariffs."
+  },
+  {
+    "q": "What specific claim did President Donald Trump make about the patriotism of the six Supreme Court justices who ruled against him in the February 2026 decision?",
+    "a": "He described them as fools and lapdogs who are very unpatriotic and disloyal to the Constitution."
+  },
+  {
+    "q": "Which swing state did President Donald Trump visit on Thursday, February 19, 2026, to pitch his tariff policies to voters?",
+    "a": "Georgia."
+  },
+  {
+    "q": "What potential financial outcome for consumers is raised as an urgent question following the February 20, 2026 Supreme Court decision regarding the $175 billion in struck-down import taxes?",
+    "a": "Whether the import taxes will be refunded."
+  },
+  {
+    "q": "Which political party’s central plank of free trade was disrupted by President Donald Trump’s rise to power and aggressive use of tariffs?",
+    "a": "The Republican Party."
+  },
+  {
+    "q": "What specific economic promise did President Donald Trump allegedly misrepresent regarding who pays tariffs and how the revenues would be used?",
+    "a": "He claimed foreign governments would pay them and revenues would pay down the national debt and give taxpayers a dividend check."
+  },
+  {
+    "q": "Which steel company in Georgia credited import taxes with making its products more competitive with goods from China during President Donald Trump’s February 2026 visit?",
+    "a": "Coosa Steel."
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In the deal announced on Wednesday, February 25, 2026, what is the cash acquisition price that GSK agreed to pay for the Canadian biotech company 35Pharma?",
+    "a": "$950 million"
+  },
+  {
+    "q": "Who is the new CEO of GSK who took over from Emma Walmsley last month as of February 2026 and has now struck two major deals including the 35Pharma acquisition?",
+    "a": "Luke Miels"
+  },
+  {
+    "q": "What was the total cash value of the January 2026 deal in which GSK agreed to buy RAPT Therapeutics, marking the first of CEO Luke Miels' two major bolt-on deals?",
+    "a": "$2.2 billion"
+  },
+  {
+    "q": "What is the name of the experimental pulmonary hypertension drug from 35Pharma that GSK is acquiring to bolster its respiratory medicine pipeline?",
+    "a": "HS235"
+  },
+  {
+    "q": "According to the February 2026 report, how many people globally are affected by pulmonary hypertension, the life-shortening disease marked by high blood pressure in the lungs?",
+    "a": "More than 80 million people"
+  },
+  {
+    "q": "Which company's injectable treatment, Winrevair, is cited in the February 2026 article as a current treatment for pulmonary hypertension?",
+    "a": "Merck"
+  },
+  {
+    "q": "By what percentage had GSK shares risen so far in 2026 as of the February 25, 2026 announcement, following a turbulent 2025?",
+    "a": "Nearly 21%"
+  },
+  {
+    "q": "What specific downstream effects of obesity did CEO Luke Miels state GSK would keep its focus on in February 2026, noting that the obesity treatment market is becoming increasingly crowded?",
+    "a": "Liver and heart diseases"
+  },
+  {
+    "q": "In the context of the February 2026 35Pharma acquisition, what specific heart condition in obese patients is the drug HS235 being developed to treat?",
+    "a": "Preserved ejection fraction"
+  },
+  {
+    "q": "What were the results of studies involving obese mice with a heart condition known as preserved ejection fraction regarding the drug HS235?",
+    "a": "The drug selectively reduced fat mass and boosted heart function"
+  },
+  {
+    "q": "If successful in clinical trials, what is the potential dosing frequency for the injectable drug HS235?",
+    "a": "Once every four weeks or potentially less often"
+  },
+  {
+    "q": "On what date did GSK agree to an up to $1 billion deal for global rights to develop Frontier Biotechnologies' therapies targeting kidney diseases?",
+    "a": "Tuesday, February 24, 2026"
+  },
+  {
+    "q": "What is the stock ticker symbol for Frontier Biotechnologies, the company whose kidney disease therapies GSK acquired rights to in February 2026?",
+    "a": "688221.SS"
+  },
+  {
+    "q": "What is the stock ticker symbol for GSK, as listed in the February 25, 2026 Reuters article?",
+    "a": "GSK.L"
+  },
+  {
+    "q": "What is the stock ticker symbol for RAPT Therapeutics, the company GSK agreed to buy for $2.2 billion in January 2026?",
+    "a": "RAPT.O"
+  },
+  {
+    "q": "What is the stock ticker symbol for Merck, the company producing the current pulmonary hypertension treatment Winrevair mentioned in the February 2026 article?",
+    "a": "MRK.N"
+  },
+  {
+    "q": "Who are the two editors credited with editing the February 25, 2026 Reuters report on GSK's acquisitions?",
+    "a": "Mrigank Dhaniwala and Elaine Hardcastle"
+  },
+  {
+    "q": "In which two cities did the reporters Prerna Bedi and Bhanvi Satija file their reports for the February 25, 2026 article?",
+    "a": "Bengaluru and London"
+  },
+  {
+    "q": "What type of disease is pulmonary hypertension described as in the February 2026 article, and what is its primary physiological characteristic?",
+    "a": "A life-shortening disease marked by high blood pressure in the lungs"
+  },
+  {
+    "q": "What strategic goal is CEO Luke Miels trying to achieve with bolt-on deals like the 35Pharma and RAPT Therapeutics acquisitions in early 2026?",
+    "a": "To counter looming patent expiries for the drugmaker's top-selling HIV drugs"
+  },
+  {
+    "q": "Who was the previous CEO of GSK that Luke Miels took over from last month as of February 2026?",
+    "a": "Emma Walmsley"
+  },
+  {
+    "q": "What is the specific therapeutic target of the therapies from Frontier Biotechnologies that GSK acquired global development rights to in February 2026?",
+    "a": "Kidney diseases"
+  },
+  {
+    "q": "Besides treating pulmonary hypertension in patients who have previously received treatment, in which patient population is the drug HS235 also being developed?",
+    "a": "Obese patients with a type of heart condition"
+  },
+  {
+    "q": "What is the name of the Thomson Reuters ethical framework referenced in the standards section of the February 25, 2026 article?",
+    "a": "The Thomson Reuters Trust Principles"
+  },
+  {
+    "q": "How does the February 25, 2026 article describe GSK's share price performance in 2026 compared to several European rivals?",
+    "a": "It has staged a strong recovery"
+  },
+  {
+    "q": "What is the specific experimental drug name acquired from 35Pharma that is intended to treat pulmonary hypertension in obese patients with preserved ejection fraction?",
+    "a": "HS235"
+  }
+]

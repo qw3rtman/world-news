@@ -1,0 +1,27 @@
+{
+  "hash": "a38762871d68",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.bloomberg.com/news/features/2026-03-01/iran-switches-to-survival-mode-after-killing-of-khamenei",
+      "title": "Iran Strikes: Tehran Switches to Survival Mode After Killing of Khamenei - Bloomberg",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Golnar Motevalli",
+      "num_tokens": 155,
+      "text_length": 702
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1112030",
+      "spike_id": 3,
+      "market_question": "Will Khamenei leave Iran by March 31?",
+      "event_title": "Will Khamenei leave Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.1765,
+      "spike_timestamp_before": "2026-02-28T07:30:30+00:00",
+      "spike_timestamp_after": "2026-03-01T07:00:28+00:00"
+    }
+  ]
+}

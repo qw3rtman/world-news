@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On what date did Nvidia announce a $2 billion investment in Nebius Group, causing Nebius stock to rise 16%?",
+    "a": "March 11, 2026."
+  },
+  {
+    "q": "What specific percentage increase did Nebius Group stock experience following Nvidia's investment announcement on March 11, 2026?",
+    "a": "16%."
+  },
+  {
+    "q": "What is the total capacity in gigawatts that Nebius Group aims to deploy by the end of 2030 as part of its collaboration with Nvidia?",
+    "a": "More than five gigawatts."
+  },
+  {
+    "q": "Which Nvidia executive stated that Nebius is building an AI cloud designed for the agentic era and powered by next-generation accelerated compute?",
+    "a": "Nvidia CEO Jensen Huang."
+  },
+  {
+    "q": "In addition to the $2 billion investment in Nebius Group, which two companies did Nvidia unveil strategic partnerships with one week prior to the March 11, 2026 announcement?",
+    "a": "Lumentum and Coherent."
+  },
+  {
+    "q": "What monetary stake did Nvidia take in chip design firm Synopsys in December 2025?",
+    "a": "$2 billion."
+  },
+  {
+    "q": "Which AI company did Nvidia announce a $2 billion stake in during January 2026?",
+    "a": "CoreWeave."
+  },
+  {
+    "q": "Whose company, Thinking Machines Lab, received a significant investment from Nvidia as part of a multiyear strategic partnership announced on Tuesday prior to March 11, 2026?",
+    "a": "Mira Murati."
+  },
+  {
+    "q": "How much did Nvidia contribute to the $110 billion funding round that OpenAI announced late in the month prior to March 2026?",
+    "a": "$30 billion."
+  },
+  {
+    "q": "In November 2025, what was the maximum amount Nvidia planned to invest in Anthropic?",
+    "a": "Up to $10 billion."
+  },
+  {
+    "q": "Which graphics processing unit manufacturer has been a major beneficiary of the AI boom by producing GPUs required to train models and run large AI workloads?",
+    "a": "Nvidia."
+  },
+  {
+    "q": "What specific type of infrastructure does Nebius Group plan to build at a gigawatt scale in the U.S. in collaboration with Nvidia?",
+    "a": "AI factories."
+  },
+  {
+    "q": "Who is the CEO of Nebius Group who stated that the company was built for AI since day one and is extending its stack with Nvidia?",
+    "a": "Arkady Volozh."
+  },
+  {
+    "q": "What areas of collaboration were included in the deal between Nvidia and Nebius Group announced on March 11, 2026?",
+    "a": "AI infrastructure deployment, fleet management, inference, and AI factory design and support."
+  },
+  {
+    "q": "Which accelerated computing platform will Nvidia provide Nebius Group with early access to as part of their March 2026 partnership?",
+    "a": "The latest generation of its accelerated computing platform."
+  },
+  {
+    "q": "According to Nvidia CEO Jensen Huang, what global demand is the collaboration with Nebius Group scaling the cloud to meet?",
+    "a": "The surging global demand for intelligence."
+  },
+  {
+    "q": "Did Nvidia shares close higher or lower on Wednesday, March 11, 2026, following the announcement of the Nebius investment?",
+    "a": "Marginally higher."
+  },
+  {
+    "q": "In which month did Nvidia take a $2 billion stake in Synopsys, prior to the March 2026 Nebius announcement?",
+    "a": "December."
+  },
+  {
+    "q": "What did Nvidia CEO Jensen Huang suggest regarding future investments in OpenAI and Anthropic during a conference earlier in March 2026?",
+    "a": "That those investments might be the last time Nvidia invests in those companies before they go public."
+  },
+  {
+    "q": "Nebius Group describes its AI cloud as being fully integrated from what two components and powered by which technology?",
+    "a": "From silicon to software and powered by NVIDIA’s next-generation accelerated compute."
+  },
+  {
+    "q": "Which company did Nvidia invest $2 billion in as part of a strategic partnership unveiled one week before the March 11, 2026 Nebius announcement?",
+    "a": "Lumentum."
+  },
+  {
+    "q": "Which company did Nvidia invest $2 billion in as part of a strategic partnership unveiled one week before the March 11, 2026 Nebius announcement, alongside Lumentum?",
+    "a": "Coherent."
+  },
+  {
+    "q": "What type of cloud does Nebius CEO Arkady Volozh claim they are building with Nvidia, described as one of the first and largest for all AI builders?",
+    "a": "An AI cloud."
+  },
+  {
+    "q": "What specific technological capability does Nvidia produce that is required to train models and run large AI workloads, making it a key beneficiary of the AI boom?",
+    "a": "Graphics processing units, or GPUs."
+  },
+  {
+    "q": "In which month did Nvidia announce a $2 billion stake in CoreWeave, prior to the March 2026 Nebius deal?",
+    "a": "January."
+  }
+]

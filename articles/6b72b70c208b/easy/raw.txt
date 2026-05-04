@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the two-round mayoral elections held across France on March 15, 2026, how many municipalities were choosing their mayor?",
+    "a": "Thirty-six thousand municipalities."
+  },
+  {
+    "q": "Which anti-immigration party is 32-year-old Sarah Knafo representing in the Paris mayoral race during the March 2026 elections?",
+    "a": "Reconquete."
+  },
+  {
+    "q": "What specific slogan did Sarah Knafo use in her campaign for the Paris mayoral election in March 2026, and what did it signify regarding housing and safety?",
+    "a": "Her slogan was \"a happy city,\" which signified a city where residents could find housing and feel safe."
+  },
+  {
+    "q": "Which prestigious French educational institution, described as the French equivalent of Harvard, did Sarah Knafo attend before running for mayor in March 2026?",
+    "a": "l'ENA."
+  },
+  {
+    "q": "According to political analyst Jean-Yves Camus, what is the primary demographic difference between Marine Le Pen's Rassemblement National and Sarah Knafo's Reconquete party in the 2026 French political landscape?",
+    "a": "Rassemblement National mostly appeals to the lower and working class, while Reconquete takes a harder line on immigration and appeals to affluent voters."
+  },
+  {
+    "q": "Which three major southern French cities was Marine Le Pen's Rassemblement National poised to take during the March 2026 mayoral elections?",
+    "a": "Nice, Marseille, and Toulon."
+  },
+  {
+    "q": "Which controversial far-left leader, Jean-Luc Melenchon, faced criticism for antisemitic comments regarding Jeffrey Epstein's name pronunciation at a February 2026 rally?",
+    "a": "Jean-Luc Melenchon."
+  },
+  {
+    "q": "Which large demographic group in France has flocked to Sarah Knafo's Reconquete party during the 2026 mayoral elections, viewing it as the only party that will protect them?",
+    "a": "France's large Jewish community."
+  },
+  {
+    "q": "In the Paris mayoral race during the March 2026 elections, which two political coalitions or candidates were leading the polls before the runoff?",
+    "a": "The Socialist-Green coalition and mainstream conservative candidate Rachida Dati."
+  },
+  {
+    "q": "Who is the mainstream conservative candidate, Rachida Dati, who refused to ally with Sarah Knafo despite polls suggesting such a partnership would win the Paris mayoral runoff in March 2026?",
+    "a": "Rachida Dati."
+  },
+  {
+    "q": "What is the scheduled date for the runoff election in the Paris mayoral race, where the far-right could potentially act as the kingmaker?",
+    "a": "March 22, 2026."
+  },
+  {
+    "q": "Which retiree, Edith Daubert, expressed dissatisfaction with 25 years of leftist green rule in Paris and supported Sarah Knafo in the March 2026 election?",
+    "a": "Edith Daubert."
+  },
+  {
+    "q": "What specific grievances did Edith Daubert cite regarding Paris under leftist green rule prior to the March 2026 mayoral elections?",
+    "a": "She cited the focus on evicting cars, creating bike lanes, crime, insecurity, and a proliferation of public housing."
+  },
+  {
+    "q": "Which supporter, Abraham Ben Fredj, defended Reconquete against accusations of racism by emphasizing assimilation during the March 2026 Paris mayoral campaign?",
+    "a": "Abraham Ben Fredj."
+  },
+  {
+    "q": "According to political analyst Jean-Yves Camus, how do the economic policies of Reconquete and Rassemblement National differ in the context of the 2026 French elections?",
+    "a": "Reconquete embraces free market principles, while Rassemblement National embraces more socialist policies."
+  },
+  {
+    "q": "In which Paris arrondissement did NPR reporter Eleanor Beardsley interview retiree Edith Daubert during the March 2026 mayoral election coverage?",
+    "a": "The 7th arrondissement."
+  },
+  {
+    "q": "Which far-right movement, Reconquete or Rassemblement National, is described by political analyst Jean-Yves Camus as taking a harder line on immigration?",
+    "a": "Reconquete."
+  },
+  {
+    "q": "What potential consequence of winning several small cities did political analyst Jean-Yves Camus highlight for the far-right parties in the March 2026 elections?",
+    "a": "Winning several small cities allows a party to control an entire area."
+  },
+  {
+    "q": "Which far-left leader's behavior was cited by political analyst Jean-Yves Camus as damaging to the far-left's hopes of taking towns in the north during the 2026 elections?",
+    "a": "Jean-Luc Melenchon."
+  },
+  {
+    "q": "What specific comment by Jean-Luc Melenchon at a February 2026 rally was seen as antisemitic by political analyst Jean-Yves Camus?",
+    "a": "He implied that the media's pronunciation of Jeffrey Epstein's name pointed to some sort of plot."
+  },
+  {
+    "q": "Which two main far-right movements in France are distinguished by their stances on immigration and economy during the 2026 political cycle?",
+    "a": "Reconquete and Marine Le Pen's Rassemblement National."
+  },
+  {
+    "q": "Who is the NPR reporter, Eleanor Beardsley, who reported on the rise of the far-right in the March 2026 French mayoral elections?",
+    "a": "Eleanor Beardsley."
+  },
+  {
+    "q": "What did Sarah Knafo define as the meaning of her campaign slogan \"a happy city\" in the context of the March 2026 Paris mayoral race?",
+    "a": "A city where you can find housing, feel safe, start a family, and is not overly taxed."
+  },
+  {
+    "q": "Which party is Marine Le Pen leading, and which party is Sarah Knafo leading, in the context of the 2026 French far-right political landscape?",
+    "a": "Marine Le Pen leads Rassemblement National, and Sarah Knafo leads Reconquete."
+  },
+  {
+    "q": "What role did the far-right potentially play in the Paris mayoral race runoff on March 22, 2026, according to critics mentioned in the article?",
+    "a": "They could be the kingmaker."
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the AP-NORC poll published on February 18, 2026, what approximate proportion of Democrats reported having a positive view of the Democratic Party?",
+    "a": "About 7 in 10 Democrats."
+  },
+  {
+    "q": "According to the February 18, 2026 AP-NORC poll, after which specific political event did the favorability of the Democratic Party among its own members plummet?",
+    "a": "After President Donald Trump’s 2024 victory."
+  },
+  {
+    "q": "Which two organizations collaborated to produce the poll findings reported on February 18, 2026?",
+    "a": "The Associated Press and the NORC Center for Public Affairs Research."
+  },
+  {
+    "q": "Despite poor favorability ratings in the February 2026 poll, what electoral outcome did Democratic candidates achieve in the offseason elections following the November 2024 general election?",
+    "a": "Overwhelming victories."
+  },
+  {
+    "q": "What potential factor mentioned in the February 18, 2026 article could benefit Democrats in the upcoming midterm elections despite their low party favorability?",
+    "a": "Broadly negative views of President Donald Trump and other Republicans."
+  },
+  {
+    "q": "How did the positive view of the Democratic Party among rank-and-file Democrats in the February 2026 AP-NORC poll compare to their views in the past?",
+    "a": "They were much less positive than they had been in the past."
+  },
+  {
+    "q": "In the context of the February 18, 2026 news report, what specific group's views of the Democratic Party were found to have not bounced back since 2024?",
+    "a": "Rank-and-file Democrats."
+  },
+  {
+    "q": "What type of elections are the midterm elections described as being relative to the February 18, 2026 publication date?",
+    "a": "Still many months away."
+  },
+  {
+    "q": "Did the string of Democratic wins in recent special elections lead to a recovery in party favorability among Democrats according to the February 2026 poll?",
+    "a": "No, the views had not recovered."
+  },
+  {
+    "q": "According to the February 18, 2026 article, does the lackluster favorability of the Democratic Party spell electoral doom for the upcoming midterm elections?",
+    "a": "No, it does not spell electoral doom."
+  },
+  {
+    "q": "What long-term problem for the Democratic Party is suggested by the lack of enthusiasm in the February 2026 poll?",
+    "a": "It could be a longer-term problem for the party."
+  },
+  {
+    "q": "Which U.S. President's 2024 victory is cited as the point after which Democratic Party favorability dropped in the February 2026 poll?",
+    "a": "President Donald Trump."
+  },
+  {
+    "q": "What specific polling organization is identified as part of The Associated Press-NORC Center for Public Affairs Research in the February 2026 report?",
+    "a": "NORC."
+  },
+  {
+    "q": "In the February 2026 AP-NORC poll, what was the general sentiment of the overwhelming majority of Democrats regarding their party, despite the lower positivity compared to the past?",
+    "a": "They still felt good about their party."
+  },
+  {
+    "q": "What series of electoral successes did Democratic candidates achieve that did not result in a bounce back for party favorability according to the February 2026 report?",
+    "a": "Wins in recent special elections."
+  },
+  {
+    "q": "According to the February 18, 2026 article, what is the status of the midterm elections relative to the time of the poll's publication?",
+    "a": "They are still many months away."
+  },
+  {
+    "q": "What specific group of voters is described as 'rank-and-file' in the February 2026 AP-NORC poll findings?",
+    "a": "Democrats."
+  },
+  {
+    "q": "Did the November 2024 offseason elections result in Democratic losses or wins, according to the February 2026 article?",
+    "a": "Overwhelming victories for Democrats."
+  },
+  {
+    "q": "What political figures are mentioned as having broadly negative views that could potentially benefit Democrats in the 2026 midterm elections?",
+    "a": "President Donald Trump and other Republicans."
+  },
+  {
+    "q": "In the February 2026 poll, did the positive view of the Democratic Party among Democrats recover after the November 2024 elections?",
+    "a": "No, the views had not bounced back."
+  },
+  {
+    "q": "What specific time period is identified in the February 18, 2026 article as when the Democratic Party's favorability plummeted?",
+    "a": "After the 2024 election."
+  },
+  {
+    "q": "According to the February 2026 AP-NORC poll, how many in ten Democrats held a positive view of their party?",
+    "a": "About 7 in 10."
+  },
+  {
+    "q": "What specific type of elections are mentioned as having produced a series of wins for Democratic candidates prior to the February 2026 poll?",
+    "a": "Recent special elections."
+  },
+  {
+    "q": "Does the February 18, 2026 article suggest that other factors could offset the lackluster favorability of the Democratic Party in the upcoming midterms?",
+    "a": "Yes, such as negative views of Trump and Republicans."
+  },
+  {
+    "q": "What is the name of the center for public affairs research that partnered with The Associated Press for the February 2026 poll?",
+    "a": "NORC Center for Public Affairs Research."
+  }
+]

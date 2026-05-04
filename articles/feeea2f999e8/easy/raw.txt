@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the March 2026 Federal Open Market Committee meeting, what was the vote tally for the decision to keep the benchmark federal funds rate in the 3.5%-3.75% range, and which specific FOMC member dissented by favoring a rate cut?",
+    "a": "The vote was 11-1, with Governor Stephen Miran dissenting."
+  },
+  {
+    "q": "According to the economic projections released by the Federal Reserve in March 2026, what are the projected annual growth rates for U.S. gross domestic product for 2026 and 2027?",
+    "a": "GDP is projected to grow at 2.4% in 2026 and 2.3% in 2027."
+  },
+  {
+    "q": "What specific inflation rate did Federal Reserve officials project for the personal consumption expenditures price index for the full year 2026 in their March 2026 update?",
+    "a": "Officials projected a 2.7% inflation rate for the personal consumption expenditures price index."
+  },
+  {
+    "q": "Which conflict started nearly three weeks prior to the March 2026 Federal Reserve meeting, and how did Federal Reserve Chair Jerome Powell describe the near-term impact of this conflict on inflation expectations?",
+    "a": "The war with Iran started nearly three weeks prior, and Powell stated it was \"too soon to know\" its impact, though he noted inflation expectations had risen due to oil price spikes."
+  },
+  {
+    "q": "In the March 2026 \"dot plot\" released by the Federal Reserve, how many of the 19 FOMC participants signaled they expected interest rates to remain unchanged for the remainder of 2026?",
+    "a": "Seven participants signaled they expected rates to stay unchanged in 2026."
+  },
+  {
+    "q": "Who did President Donald Trump nominate as the successor to Federal Reserve Chair Jerome Powell, and what is the status of this nomination regarding Senate confirmation as of March 2026?",
+    "a": "Trump nominated former Fed Governor Kevin Warsh, but Senator Thom Tillis vowed to block the nomination until the subpoena issue involving Powell is settled."
+  },
+  {
+    "q": "What was the median long-term outlook for the federal funds rate according to the Federal Reserve's March 2026 projections, and in which year was an additional rate cut expected before the rate steadied?",
+    "a": "The median outlook was for the rate to steady around 3.1% for the long term, with an additional cut expected in 2027."
+  },
+  {
+    "q": "Which U.S. Attorney issued a subpoena for Federal Reserve Chair Jerome Powell regarding the Fed's headquarters renovation, and what was the judicial outcome of that subpoena as of March 2026?",
+    "a": "U.S. Attorney Jeanine Pirro issued the subpoena, but a judge tossed the subpoenas, siding with Powell."
+  },
+  {
+    "q": "What specific unemployment rate did Federal Reserve policymakers expect to see by the end of 2026 in their March 2026 economic projections?",
+    "a": "Policymakers expected a 4.4% unemployment rate by year's end."
+  },
+  {
+    "q": "Which FOMC member voted to hold interest rates steady in March 2026 after previously joining Governor Stephen Miran in wanting a rate cut in January?",
+    "a": "Governor Christopher Waller voted to hold in March 2026."
+  },
+  {
+    "q": "How did Federal Reserve Chair Jerome Powell characterize his intention regarding his tenure on the Board of Governors during the March 2026 news conference, given the ongoing legal battle over the subpoena?",
+    "a": "Powell stated he had \"no intention of leaving the board until the investigation is well and truly over, with transparency and finality.\""
+  },
+  {
+    "q": "What was the impact of the war with Iran on the global oil market and inflation outlook as described in the Federal Reserve's March 2026 post-meeting statement?",
+    "a": "The fighting in the Strait of Hormuz roiled the global oil market and threatened to keep inflation above the Fed's 2% target."
+  },
+  {
+    "q": "Which Republican Senator from North Carolina threatened to block Kevin Warsh's nomination to the Federal Reserve Board until the legal matter involving Jerome Powell was resolved?",
+    "a": "Senator Thom Tillis threatened to block the nomination."
+  },
+  {
+    "q": "Prior to the conflict with Iran, how many rate reductions had markets been pricing in for 2026, and how did expectations change after rising oil prices and firm inflation readings in early 2026?",
+    "a": "Markets had been pricing in two reductions with a small chance of a third, but expectations pushed down to at most one cut in 2026."
+  },
+  {
+    "q": "What is the expiration date of Jerome Powell's term on the Board of Governors, and when is his term as Federal Reserve Chair set to end?",
+    "a": "His term on the Board of Governors expires in early 2028, and his term as Chair ends in May 2026."
+  },
+  {
+    "q": "Which two factors, alongside the war, were cited by the Federal Reserve in March 2026 as reasons for navigating through higher-than-expected inflation and mixed labor market signs?",
+    "a": "The Fed cited higher-than-expected inflation readings and mixed signs on the labor market."
+  },
+  {
+    "q": "What specific change did the Federal Reserve make to its 2026 inflation projection in March 2026 compared to its previous outlook, and what was the new projected rate?",
+    "a": "Officials upped their inflation outlook to 2.7% for the personal consumption expenditures price index, both headline and core."
+  },
+  {
+    "q": "Who criticized Federal Reserve Chair Jerome Powell for not calling a special meeting to ease rates in the weeks leading up to the March 2026 decision?",
+    "a": "President Donald Trump criticized Powell for not calling a special meeting."
+  },
+  {
+    "q": "What is the long-term target inflation rate for the Federal Reserve, which officials expect inflation to fall back near in ensuing years after the impact of tariffs and the war fades?",
+    "a": "The target is 2%."
+  },
+  {
+    "q": "Which former Fed Governor, nominated by President Donald Trump, has indicated a preference for lower interest rates but has not issued recent public statements on his current thinking as of March 2026?",
+    "a": "Kevin Warsh."
+  },
+  {
+    "q": "What was the reaction of stock markets to the Federal Reserve's March 2026 decision and comments from Chair Jerome Powell?",
+    "a": "Stocks fell to session lows."
+  },
+  {
+    "q": "How many FOMC participants signaled they expected rates to stay unchanged in 2026 in the March 2026 dot plot, and how does this compare to the December update?",
+    "a": "Seven participants signaled this expectation, which is one more than in the last update in December."
+  },
+  {
+    "q": "What specific legal action did U.S. Attorney Jeanine Pirro vow to take after a judge tossed the subpoena for Jerome Powell in March 2026?",
+    "a": "Pirro vowed to appeal the judge's decision."
+  },
+  {
+    "q": "What is the benchmark federal funds rate range maintained by the Federal Reserve following the March 2026 decision, and what does this rate primarily set?",
+    "a": "The rate is anchored between 3.5%-3.75%, setting overnight funding costs for banks."
+  },
+  {
+    "q": "Which two entities did the Federal Reserve expect to see the impact of fade, allowing inflation to return near its 2% target in ensuing years after the March 2026 projections?",
+    "a": "Tariffs and the war."
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "As of March 2026, what is the approximate daily volume of crude oil that normally flows through the Strait of Hormuz, and what percentage of global oil does this represent?",
+    "a": "Approximately 15 million barrels per day, representing about 20% of global oil."
+  },
+  {
+    "q": "In late February 2026, before military operations began on Feb. 28, what was the price range of crude oil, and to what level did it surge after the start of the Iran war?",
+    "a": "It hovered below $70 per barrel before the war and soared above $100 a barrel afterward."
+  },
+  {
+    "q": "Which political risk consulting firm stated in a report earlier in March 2026 that the crisis involving the Strait of Hormuz was unlikely to be resolved soon?",
+    "a": "Eurasia Group."
+  },
+  {
+    "q": "Who is Arne Lohmann Rasmussen, and what did he tell CBS News on March 2, 2026, regarding the status of the Strait of Hormuz?",
+    "a": "He is the chief analyst at Global Risk Management, and he stated the strait is 'de facto closed' because tankers cannot get insurance or face attack threats."
+  },
+  {
+    "q": "On March 21, 2026, what specific criticism did U.S. President Donald Trump direct at NATO member countries in a Truth Social post?",
+    "a": "He called them 'cowards' for not sending troops to help open the Strait of Hormuz."
+  },
+  {
+    "q": "As of March 21, 2026, what was the price of a barrel of Brent crude, and how did it compare to the benchmark U.S. crude price on the same date?",
+    "a": "Brent crude was roughly $120 a barrel (specifically $108.84 in one data point cited), while U.S. benchmark crude was $95.61 per barrel."
+  },
+  {
+    "q": "According to AAA data cited in the article, what was the national average gas price in the U.S. as of March 20, 2026, and how much had it risen since Feb. 20?",
+    "a": "The price was $3.92 per gallon, which was nearly $1 a gallon higher than the Feb. 20 price."
+  },
+  {
+    "q": "Who is Patrick De Haan, and what did he identify as a 'double headwind' driving fuel prices higher in March 2026?",
+    "a": "He is the head of petroleum analysis at GasBuddy, and he identified the lack of resumption of oil flows through the Strait of Hormuz and seasonal transitions to summer gasoline as the double headwind."
+  },
+  {
+    "q": "In July 2008, what record high price did both Brent and West Texas Intermediate crude oil reach, and what is the inflation-adjusted equivalent mentioned in the article?",
+    "a": "They reached around $145 per barrel, or about $215 per barrel on an inflation-adjusted basis."
+  },
+  {
+    "q": "On March 3, 2026, what two specific actions did U.S. President Donald Trump announce to address shipping concerns in the Persian Gulf?",
+    "a": "He announced that the U.S. International Development Finance Corporation would provide insurance to all ships passing through, and that the U.S. Navy would escort tankers if necessary."
+  },
+  {
+    "q": "On March 16, 2026, what did U.S. President Donald Trump say about the condition of the Strait of Hormuz, and who did he say would announce which countries would assist the U.S.?",
+    "a": "He said the U.S. has the strait in 'very good shape,' and he stated that Secretary of State Marco Rubio would announce the assisting countries."
+  },
+  {
+    "q": "On March 19, 2026, which six nations issued a joint statement expressing readiness to contribute to safe passage through the Strait of Hormuz?",
+    "a": "The U.K., France, Germany, Italy, the Netherlands, and Japan."
+  },
+  {
+    "q": "In a March 9, 2026 phone interview with CBS News, what did U.S. President Donald Trump say about the status of the war with Iran?",
+    "a": "He said, 'The war is very complete, pretty much.'"
+  },
+  {
+    "q": "What alternative pipeline in Saudi Arabia, also known as Petroline, is mentioned as a route for exporting oil that would normally pass through the Strait of Hormuz?",
+    "a": "The East-West Pipeline, which is nearly 750 miles long and delivers oil to ports on the Red Sea."
+  },
+  {
+    "q": "What alternative pipeline in the United Arab Emirates is cited as a route for diverting oil shipments, and where does it transport the oil?",
+    "a": "The Abu Dhabi Crude Oil Pipeline, which transports oil to a facility on the Gulf of Oman."
+  },
+  {
+    "q": "Who is David Oxley, and what two key variables did he identify in March 2026 as dictating the impact on energy flows from the Middle East?",
+    "a": "He is the chief climate and commodities economist at Capital Economics; the variables are how long the Strait of Hormuz remains closed and the extent of damage to regional energy infrastructure."
+  },
+  {
+    "q": "Which countries are listed in the article as the primary sources of the crude oil that flows through the Strait of Hormuz?",
+    "a": "Saudi Arabia, the United Arab Emirates, Iraq, Kuwait, Qatar, and Iran."
+  },
+  {
+    "q": "What specific threats from Iran did Arne Lohmann Rasmussen of Global Risk Management cite as reasons tankers are not going through the Strait of Hormuz in March 2026?",
+    "a": "He cited threats from the Iranians, plus drone and missile attacks."
+  },
+  {
+    "q": "On March 21, 2026, what did U.S. President Donald Trump claim was the 'single reason for the high oil prices'?",
+    "a": "He claimed it was the failure to open the Strait of Hormuz via a simple military maneuver."
+  },
+  {
+    "q": "What did U.S. President Donald Trump threaten Iran would happen if it obstructs the flow of oil supplies, as stated in the article?",
+    "a": "He said Iran would get hit 'at a much, much harder level' and that he would not allow a 'terrorist regime' to hold the world hostage."
+  },
+  {
+    "q": "According to the article, what is the strategic significance of the Strait of Hormuz regarding its geographic location?",
+    "a": "It is located on Iran's southern border and connects the Persian Gulf to the Gulf of Oman and the Arabian Sea."
+  },
+  {
+    "q": "What did Eurasia Group energy analysts cite as three factors indicating the crisis was unlikely to be resolved soon in their March 2026 report?",
+    "a": "Escalating conflict (including Israeli attacks on Iranian fuel depots), ongoing disruption of Hormuz, and announcements of producer shut-ins."
+  },
+  {
+    "q": "As of March 2026, what did experts note about Iran's ability to indefinitely throttle ship traffic through the Strait of Hormuz?",
+    "a": "Experts said Iran could struggle to do so indefinitely as the U.S. and Israel degrade its navy, and blocking its own oil exports would damage its fragile economy."
+  },
+  {
+    "q": "What did the leaders of the U.K., France, Germany, Italy, the Netherlands, and Japan provide no specifics about in their March 19, 2026 joint statement?",
+    "a": "They provided no specifics on how they would contribute to efforts to ensure safe passage through the Strait of Hormuz."
+  },
+  {
+    "q": "What did Patrick De Haan of GasBuddy say in March 2026 about the persistence of upward pressure on fuel prices?",
+    "a": "He said upward pressure is likely to persist until there is a meaningful resumption of oil flows through the Strait of Hormuz."
+  }
+]

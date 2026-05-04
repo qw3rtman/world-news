@@ -1,0 +1,27 @@
+{
+  "hash": "99542e26ea80",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/03/05/cnbc-exclusive-transcript-paramount-skydance-ceo-david-ellison-speaks-with-cnbcs-squawk-on-the-street-today.html",
+      "title": "CNBC Exclusive: Transcript: Paramount Skydance CEO David Ellison Speaks with CNBC’s “Squawk on the Street” Today",
+      "published_date": "2026-03-05T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 4428,
+      "text_length": 20233
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694939",
+      "spike_id": 12,
+      "market_question": "Will Ubisoft be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.2,
+      "spike_timestamp_before": "2026-03-07T18:00:22+00:00",
+      "spike_timestamp_after": "2026-03-08T17:30:18+00:00"
+    }
+  ]
+}

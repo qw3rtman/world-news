@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In late February 2026, which two nations launched attacks on Iran following the failure of talks to curb its nuclear program?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "As of February 28, 2026, which U.S. President followed through on a threat to attack Iran after diplomatic negotiations failed?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "What specific option for retaliation did Iran consider in response to the February 2026 U.S. and Israeli attacks, involving a major waterway?",
+    "a": "To block or effectively close the Strait of Hormuz."
+  },
+  {
+    "q": "At the mouth of which body of water is the Strait of Hormuz located, according to the February 2026 article?",
+    "a": "The Persian Gulf."
+  },
+  {
+    "q": "Approximately what fraction of the world’s seaborne oil trade is handled by the Strait of Hormuz, as described in the February 2026 article?",
+    "a": "About a quarter."
+  },
+  {
+    "q": "Which major energy consumers are identified in the February 2026 article as destinations for oil and gas ferried through the Strait of Hormuz?",
+    "a": "China, Europe, and the US."
+  },
+  {
+    "q": "What specific type of vessels does Iran allegedly seek to deny access to in the Strait of Hormuz to disrupt energy flows, according to the February 2026 article?",
+    "a": "Giant tankers."
+  },
+  {
+    "q": "According to the February 2026 article, what immediate market effect would a closure of the Strait of Hormuz by Iran trigger?",
+    "a": "A spike in oil prices."
+  },
+  {
+    "q": "Beyond immediate price spikes, what broader economic consequence does the February 2026 article suggest could result from Iran closing the Strait of Hormuz?",
+    "a": "Potential destabilization of the global economy."
+  },
+  {
+    "q": "What was the primary diplomatic objective that failed in early 2026, leading to U.S. and Israeli attacks on Iran?",
+    "a": "Securing a deal to curb Iran’s nuclear program."
+  },
+  {
+    "q": "Which organization published the article titled 'Can Iran Close the Strait of Hormuz? Oil Market Impact Explained' on February 28, 2026?",
+    "a": "Bloomberg."
+  },
+  {
+    "q": "Who is the author of the February 28, 2026 Bloomberg article discussing the potential closure of the Strait of Hormuz?",
+    "a": "Julian Lee."
+  },
+  {
+    "q": "What source is credited for the image of an Iranian Navy speedboat near the Strait of Hormuz in the February 2026 article?",
+    "a": "NurPhoto."
+  },
+  {
+    "q": "On what date was the Bloomberg article 'Can Iran Close the Strait of Hormuz? Oil Market Impact Explained' first published?",
+    "a": "February 28, 2026."
+  },
+  {
+    "q": "At what time was the Bloomberg article by Julian Lee first published on February 28, 2026?",
+    "a": "8:16 AM UTC."
+  },
+  {
+    "q": "At what time was the Bloomberg article by Julian Lee updated on February 28, 2026?",
+    "a": "10:42 AM UTC."
+  },
+  {
+    "q": "Which specific waterway handles about a quarter of the world’s seaborne oil trade, according to the February 2026 article?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "What type of naval vessel is depicted in the source image credited to NurPhoto in the February 2026 article?",
+    "a": "An Iranian Navy speedboat."
+  },
+  {
+    "q": "Which two countries are explicitly named in the article's 'Strikes on Iran' section as having launched attacks?",
+    "a": "The US and Israel."
+  },
+  {
+    "q": "According to the February 2026 article, what resource is transported alongside oil through the Strait of Hormuz by giant tankers?",
+    "a": "Gas."
+  },
+  {
+    "q": "What specific threat did U.S. President Donald Trump follow through on in February 2026 regarding Iran?",
+    "a": "To attack Iran."
+  },
+  {
+    "q": "Which region's energy exports to major consumers would be disrupted if Iran closed the Strait of Hormuz, as noted in the February 2026 article?",
+    "a": "The Middle East."
+  },
+  {
+    "q": "What diplomatic outcome preceded the February 2026 military strikes on Iran by the US and Israel?",
+    "a": "Failed talks to secure a deal to curb Iran’s nuclear program."
+  },
+  {
+    "q": "In the context of the February 2026 article, which entity is identified as potentially destabilizing the global economy if it blocks access to the Strait of Hormuz?",
+    "a": "Iran."
+  },
+  {
+    "q": "What is the full title of the Bloomberg article published on February 28, 2026, that discusses the potential closure of the Strait of Hormuz?",
+    "a": "Can Iran Close the Strait of Hormuz? Oil Market Impact Explained."
+  }
+]

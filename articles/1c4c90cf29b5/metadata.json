@@ -1,0 +1,27 @@
+{
+  "hash": "1c4c90cf29b5",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://preprod.abcnews.go.com/International/us-military-carries-1st-land-operation-cartels-ecuador/story?id=130739672",
+      "title": "US military assists Ecuador in 1st land operation against cartels: Source - ABC News",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "ABC News",
+      "num_tokens": 354,
+      "text_length": 1843
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1301522",
+      "spike_id": 3,
+      "market_question": "U.S. anti-cartel ground operation in Mexico by March 31?",
+      "event_title": "U.S. anti-cartel ground operation in Mexico by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.37,
+      "spike_timestamp_before": "2026-03-06T16:30:30+00:00",
+      "spike_timestamp_after": "2026-03-07T16:30:28+00:00"
+    }
+  ]
+}

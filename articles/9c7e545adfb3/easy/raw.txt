@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the military operation launched by U.S. President Donald Trump in early March 2026 that resulted in the death of Iran’s leader, what was the official name of the operation as stated by White House press secretary Karoline Leavitt?",
+    "a": "Operation Epic Fury"
+  },
+  {
+    "q": "According to a Reuters/Ipsos poll conducted on Sunday, March 1, 2026, what percentage of Americans approved of the U.S. strikes against Iran that killed Iran’s leader?",
+    "a": "One in four, or 25%"
+  },
+  {
+    "q": "Which three Republican U.S. Representatives representing Colorado, Wisconsin, and Pennsylvania were identified in the article as vulnerable to political fallout from the Iran conflict in competitive House districts?",
+    "a": "Gabe Evans of Colorado, Derrick Van Orden of Wisconsin, and Rob Bresnahan of Pennsylvania"
+  },
+  {
+    "q": "In the February 2026 Reuters/Ipsos poll cited in the article, what was the percentage of Americans who disapproved of U.S. President Donald Trump’s performance in office?",
+    "a": "58%"
+  },
+  {
+    "q": "White House press secretary Karoline Leavitt stated that the decision to launch the Iran operation had been contemplated by presidents of both parties for more than how many years?",
+    "a": "Fifty years"
+  },
+  {
+    "q": "What was the expected duration of the Iran military operations as stated by U.S. President Donald Trump in his Sunday interviews following the March 2026 strikes?",
+    "a": "Four to five weeks"
+  },
+  {
+    "q": "Following the U.S. military announcement of casualties in the Iran operation, how many American service members were reported killed?",
+    "a": "Three"
+  },
+  {
+    "q": "Republican strategist Rob Godfrey described the juxtaposition between the State of the Union address focused on affordability and the subsequent war in the Middle East as what two adjectives?",
+    "a": "Whiplash-inducing and head-spinning"
+  },
+  {
+    "q": "In the early January 2026 raid that resulted in the capture of Venezuelan leader Nicolas Maduro, what was U.S. President Donald Trump’s approval rating before it dropped to 39%?",
+    "a": "42%"
+  },
+  {
+    "q": "BJ Moore, an 83-year-old Trump voter from Atlanta, Georgia, stated that he was fine with Trump’s actions against Iran because Iran had killed thousands of its own people; what was his reaction to the operation being planned?",
+    "a": "He said it totally blindsided him and he did not know it was being thought about"
+  },
+  {
+    "q": "Which specific congressional chamber’s map did White House officials believe was far more at risk from fallout from the Iran conflict than the Senate map?",
+    "a": "The U.S. House of Representatives"
+  },
+  {
+    "q": "According to an informal Trump adviser cited in the article, which group of voters poses the main electoral danger due to potential non-interventionist views, rather than middle-of-the-road or independent voters?",
+    "a": "Members of Trump's MAGA movement"
+  },
+  {
+    "q": "How many Americans disapproved of Trump's performance in office according to the February 2026 Reuters/Ipsos poll mentioned in the article?",
+    "a": "58% of Americans"
+  },
+  {
+    "q": "What specific political risk did senior White House officials warn U.S. President Donald Trump about regarding the escalation of military strikes against Iran?",
+    "a": "That it could derail Republican chances of holding onto control of Congress in November's midterm elections"
+  },
+  {
+    "q": "Which foreign policy outcome did analysts say would be received more positively by the public: a short-lived war resulting in Iran giving up its nuclear program or a protracted conflagration with many American deaths?",
+    "a": "A short-lived war that results in Iran giving up its nuclear program and installing new leaders"
+  },
+  {
+    "q": "What was the primary concern of war-wary voters that White House officials worried might be derailed by the Iran military action?",
+    "a": "The cost of living"
+  },
+  {
+    "q": "In the Reuters/Ipsos poll closed before the first American casualties were announced, what fraction of respondents, including one in four Republicans, said they believe Trump is too willing to use military force?",
+    "a": "About half"
+  },
+  {
+    "q": "What did a senior Republican operative state is the general voter attitude toward foreign policy during midterm elections unless an operation goes bad?",
+    "a": "Voters do not care about foreign policy"
+  },
+  {
+    "q": "Which two entities did White House press secretary Karoline Leavitt say the White House was working alongside to ensure the success of Operation Epic Fury?",
+    "a": "The Pentagon and the interagencies"
+  },
+  {
+    "q": "What was the name of the military operation that U.S. President Donald Trump launched against Iran in March 2026, which killed Iran’s leader?",
+    "a": "Operation Epic Fury"
+  },
+  {
+    "q": "According to the article, which group of foreign policy experts in Washington drew near-unanimous praise for the large-scale attack on Iran?",
+    "a": "Foreign policy hawks"
+  },
+  {
+    "q": "What specific type of political fallout did White House officials expect from the Iran strikes, rather than immediate consequences?",
+    "a": "A slow-burn effect"
+  },
+  {
+    "q": "Which two domestic issues did White House officials and Trump advisers urge the president to focus on ahead of the midterms, as he did in the State of the Union address?",
+    "a": "Healthcare and affordability"
+  },
+  {
+    "q": "What was the approximate number of years that presidents of both parties had contemplated the decision to launch the Iran operation, according to White House press secretary Karoline Leavitt?",
+    "a": "More than fifty years"
+  },
+  {
+    "q": "In the early January 2026 operation involving Venezuelan leader Nicolas Maduro, what was the outcome regarding American casualties?",
+    "a": "There were no American deaths"
+  }
+]

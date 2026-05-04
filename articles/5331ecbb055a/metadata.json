@@ -1,0 +1,77 @@
+{
+  "hash": "5331ecbb055a",
+  "n_appearances": 6,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.foxnews.com/politics/gas-prices-could-jump-middle-east-tensions-threaten-global-oil-supply",
+      "title": "Gas prices could rise 25-50 cents amid Middle East tensions, experts warn | Fox News",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 871,
+      "text_length": 4517
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "665307",
+      "spike_id": 3,
+      "market_question": "Will Iran close the Strait of Hormuz before 2027?",
+      "event_title": "Will Iran close the Strait of Hormuz by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.5265,
+      "spike_timestamp_before": "2026-02-28T16:30:35+00:00",
+      "spike_timestamp_after": "2026-03-01T14:30:36+00:00"
+    },
+    {
+      "market_id": "665307",
+      "spike_id": 4,
+      "market_question": "Will Iran close the Strait of Hormuz before 2027?",
+      "event_title": "Will Iran close the Strait of Hormuz by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.396,
+      "spike_timestamp_before": "2026-02-28T19:30:26+00:00",
+      "spike_timestamp_after": "2026-03-01T19:00:24+00:00"
+    },
+    {
+      "market_id": "665307",
+      "spike_id": 5,
+      "market_question": "Will Iran close the Strait of Hormuz before 2027?",
+      "event_title": "Will Iran close the Strait of Hormuz by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.15449999999999997,
+      "spike_timestamp_before": "2026-03-01T19:00:24+00:00",
+      "spike_timestamp_after": "2026-03-02T09:00:24+00:00"
+    },
+    {
+      "market_id": "665307",
+      "spike_id": 6,
+      "market_question": "Will Iran close the Strait of Hormuz before 2027?",
+      "event_title": "Will Iran close the Strait of Hormuz by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.3475,
+      "spike_timestamp_before": "2026-03-02T00:00:41+00:00",
+      "spike_timestamp_after": "2026-03-02T21:00:24+00:00"
+    },
+    {
+      "market_id": "665307",
+      "spike_id": 7,
+      "market_question": "Will Iran close the Strait of Hormuz before 2027?",
+      "event_title": "Will Iran close the Strait of Hormuz by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.36749999999999994,
+      "spike_timestamp_before": "2026-03-02T17:00:39+00:00",
+      "spike_timestamp_after": "2026-03-03T14:00:31+00:00"
+    },
+    {
+      "market_id": "665307",
+      "spike_id": 8,
+      "market_question": "Will Iran close the Strait of Hormuz before 2027?",
+      "event_title": "Will Iran close the Strait of Hormuz by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.33799999999999997,
+      "spike_timestamp_before": "2026-03-03T14:00:31+00:00",
+      "spike_timestamp_after": "2026-03-03T20:00:26+00:00"
+    }
+  ]
+}

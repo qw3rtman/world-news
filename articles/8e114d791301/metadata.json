@@ -1,0 +1,37 @@
+{
+  "hash": "8e114d791301",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/graphics/IRAN-CRISIS/MAPS/znpnmelervl/",
+      "title": "Maps and charts of the Iran War",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Sudev Kiyada   and  Sumanta Sen",
+      "num_tokens": 7646,
+      "text_length": 37018
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1399072",
+      "spike_id": 2,
+      "market_question": "US strikes Iran by March 6, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.7945000000000001,
+      "spike_timestamp_before": "2026-02-27T09:00:29+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:46+00:00"
+    },
+    {
+      "market_id": "1437691",
+      "spike_id": 4,
+      "market_question": "US strikes Iran by March 8, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.7345,
+      "spike_timestamp_before": "2026-02-27T09:30:22+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:48+00:00"
+    }
+  ]
+}

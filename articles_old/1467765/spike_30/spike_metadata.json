@@ -1,0 +1,65 @@
+{
+  "spike_index": 30,
+  "direction": "down",
+  "price_before": 0.5465,
+  "price_after": 0.343,
+  "delta": -0.20349999999999996,
+  "abs_delta": 0.20349999999999996,
+  "timestamp_before": "2026-03-16T17:00:29+00:00",
+  "timestamp_after": "2026-03-17T15:00:37+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://fortune.com/article/price-of-oil-03-17-2026/",
+      "file": "ee7d4dab03bb.txt",
+      "title": "Current price of oil as of March 17, 2026 | Fortune",
+      "published_date": "2026-03-17T00:00:00.000Z",
+      "author": "Joseph Hostetler",
+      "text_length": 240,
+      "status": "ok",
+      "num_tokens": 65
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-march-17-2026-crude-continues-to-climb-amid-hormuz-supply-crisis-brent-wti-jump-2/articleshow/129622921.cms",
+      "file": "14943ae1c3b7.txt",
+      "title": "Oil price today (March 17, 2026): Crude continues to climb amid Hormuz supply crisis; Brent, WTI jump 2% - The Times of India",
+      "published_date": "2026-03-17T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /  Updated: Mar 17, 2026, 12:48 IST",
+      "text_length": 2630,
+      "status": "ok",
+      "num_tokens": 529
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/oil-gains-over-2-market-weighs-iran-war-supply-risks-2026-03-17/",
+      "file": "f2dffabc2bd7.txt",
+      "title": "Oil prices settle\u00a0up 3% after renewed Iranian attacks on UAE | Reuters",
+      "published_date": "2026-03-17T00:00:00.000Z",
+      "author": "Stephanie Kelly",
+      "text_length": 4104,
+      "status": "ok",
+      "num_tokens": 882
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-march-16-crude-continues-to-rise-as-us-iran-war-rages-on-brent-crude-surges-past-105-a-barrel/articleshow/129599496.cms",
+      "file": "5f45ed7f06b1.txt",
+      "title": "Oil prices today: Crude continues to rise as US-Iran war rages on; Brent surges past $105 a barrel - The Times of India",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /  Updated: Mar 16, 2026, 12:33 IST",
+      "text_length": 2319,
+      "status": "ok",
+      "num_tokens": 436
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/17/oil-prices-wti-brent-hormuz-coalition-shipping-trump.html",
+      "file": "068a53b6c6c1.txt",
+      "title": "Oil prices top $103 as U.S. allies reluctant to escort tankers",
+      "published_date": "2026-03-17T00:00:00.000Z",
+      "author": "Lee Ying Shan,Spencer Kimball",
+      "text_length": 1581,
+      "status": "ok",
+      "num_tokens": 344
+    }
+  ],
+  "total_tokens": 2256
+}

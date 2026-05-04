@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In the research note published in early March 2026, what price target did J.P. Morgan analysts forecast for gold by the end of 2026?",
+    "a": "$6,300"
+  },
+  {
+    "q": "What specific military actions in the Middle East, involving the United States and Israel, were cited in the March 2026 article as sparking the conflict that drove gold prices above $5,400?",
+    "a": "Joint U.S.-Israeli military strikes on Iran"
+  },
+  {
+    "q": "According to certified financial planner Barry Glassman of Glassman Wealth Services in Vienna, Virginia, which two other asset classes did he suggest investors consider alongside gold to hedge against geopolitical shocks?",
+    "a": "Global energy and defense stocks"
+  },
+  {
+    "q": "What was the record high price for a troy ounce of gold on January 29, 2026, before prices settled back into the $5,300 range by Monday afternoon in March 2026?",
+    "a": "$5,594"
+  },
+  {
+    "q": "By what percentage had gold prices risen in the year 2025, according to the data cited in the March 2026 article?",
+    "a": "About 64%"
+  },
+  {
+    "q": "What percentage gain did the S&P 500 achieve in 2025, providing a comparison point to gold's performance in the March 2026 article?",
+    "a": "16.4%"
+  },
+  {
+    "q": "What specific range of portfolio allocation does certified financial planner Patrick Huey of Victory Independent Planning in Naples, Florida, recommend for alternative investments like gold?",
+    "a": "5% to 10%"
+  },
+  {
+    "q": "Under IRS rules described in the March 2026 article, what is the maximum tax rate applied to long-term gains from ETFs that invest directly in physical gold bullion, such as SPDR Gold Shares (GLD)?",
+    "a": "28%"
+  },
+  {
+    "q": "Which IRS classification causes gold ETFs holding physical bullion to be taxed at a maximum rate of 28% rather than the standard long-term capital gains rates of 0%, 15%, or 20%?",
+    "a": "Collectible"
+  },
+  {
+    "q": "What is the name of the Invesco ETF that invests in gold futures contracts and is subject to the IRS's 60/40 rule for tax treatment?",
+    "a": "Invesco DB Gold Fund (DGL)"
+  },
+  {
+    "q": "Under the IRS's 60/40 rule applicable to gold futures ETFs like Invesco DB Gold Fund (DGL), what percentage of long-term gains is taxed at ordinary income rates?",
+    "a": "40%"
+  },
+  {
+    "q": "Which ETF, mentioned in the March 2026 article, invests in gold-mining companies such that its profits are taxed at normal short- and long-term capital gains rates?",
+    "a": "VanEck Gold Miners ETF (GDX)"
+  },
+  {
+    "q": "What was the approximate percentage increase in gold prices during the first two months of 2026 (year-to-date) as reported in the March 2026 article?",
+    "a": "Roughly 23%"
+  },
+  {
+    "q": "Who is the founder and president of Glassman Wealth Services in Vienna, Virginia, and a member of the CNBC Financial Advisor Council quoted in the March 2026 article?",
+    "a": "Barry Glassman"
+  },
+  {
+    "q": "What is the name of the certified financial planner and owner of Victory Independent Planning in Naples, Florida, who warned that gold can have long periods of volatility and loss?",
+    "a": "Patrick Huey"
+  },
+  {
+    "q": "Which specific ETF ticker symbol represents SPDR Gold Shares, an exchange-traded fund that invests directly in physical gold bullion?",
+    "a": "GLD"
+  },
+  {
+    "q": "Which specific ETF ticker symbol represents the Invesco fund that uses gold futures contracts instead of holding physical gold?",
+    "a": "DGL"
+  },
+  {
+    "q": "Which specific ETF ticker symbol represents the VanEck fund that invests in gold-mining companies?",
+    "a": "GDX"
+  },
+  {
+    "q": "According to the March 2026 article, what range of ordinary income tax rates applies to short-term capital gains on gold investments held for a year or less?",
+    "a": "10% to 37%"
+  },
+  {
+    "q": "What type of ETFs are described as passively managed and tracking an index, allowing investors to gain exposure to gold without owning physical metal?",
+    "a": "Exchange-traded funds (ETFs)"
+  },
+  {
+    "q": "In the March 2026 article, which region's allies were targeted in retaliatory attacks following the joint U.S.-Israeli military strikes on Iran?",
+    "a": "The Gulf region"
+  },
+  {
+    "q": "What was the price range for a troy ounce of gold by Monday afternoon in March 2026, after it had previously shot above $5,400 overnight?",
+    "a": "$5,300 range"
+  },
+  {
+    "q": "Which two groups of investors were cited in the March 2026 article as contributing to the surge in gold demand alongside individual investors?",
+    "a": "Central banks"
+  },
+  {
+    "q": "What is the full name of the financial advisory council that Barry Glassman is a member of, as cited in the March 2026 article?",
+    "a": "CNBC Financial Advisor Council"
+  },
+  {
+    "q": "What is the name of the city in Virginia where Glassman Wealth Services, founded by Barry Glassman, is located?",
+    "a": "Vienna"
+  },
+  {
+    "q": "What is the name of the city in Florida where Victory Independent Planning, owned by Patrick Huey, is located?",
+    "a": "Naples"
+  }
+]

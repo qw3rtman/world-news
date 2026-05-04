@@ -1,0 +1,106 @@
+[
+  {
+    "q": "During the March 2, 2026 strikes on Iran known as Operation Epic Fury, which specific AI company's tools did the Pentagon use, despite President Donald Trump having directed the government to stop working with that startup just one day prior?",
+    "a": "Anthropic"
+  },
+  {
+    "q": "What was the approximate cost of the LUCAS (Low-Cost Unmanned Combat Attack System) suicide drones used by the U.S. military in the March 2, 2026 strikes on Iran, which were modeled after Iranian Shahed designs?",
+    "a": "Around $35,000"
+  },
+  {
+    "q": "Which aerospace manufacturer built the B-2 stealth bombers that the Pentagon deployed in the March 2, 2026 Operation Epic Fury to strike hardened underground Iranian missile facilities?",
+    "a": "Northrop Grumman"
+  },
+  {
+    "q": "According to Pentagon budget data cited in the report, what is the average cost of each Tomahawk Land Attack Missile produced by RTX's Raytheon unit?",
+    "a": "$1.3 million"
+  },
+  {
+    "q": "In the March 2, 2026 strikes on Iran, which two specific fighter jet models were photographed by U.S. Central Command alongside Tomahawk missiles and B-2 bombers?",
+    "a": "F/A-18 and F-35"
+  },
+  {
+    "q": "Which Arizona-based company manufactured the LUCAS suicide drones that the U.S. military used for the first time in combat during the March 2, 2026 strikes on Iran?",
+    "a": "Spektreworks"
+  },
+  {
+    "q": "What is the maximum range, in miles, that the precision-guided Tomahawk cruise missile can strike targets from, as described in the context of the March 2, 2026 Operation Epic Fury?",
+    "a": "1,000 miles"
+  },
+  {
+    "q": "Which cloud provider facilitated the supply deal that allowed Anthropic to work with classified information across the intelligence community and armed services prior to the March 2026 Iran strikes?",
+    "a": "Amazon"
+  },
+  {
+    "q": "What is the annual production target for Tomahawk cruise missiles that a recent agreement between RTX's Raytheon unit and the Pentagon aims to eventually reach?",
+    "a": "1,000 units"
+  },
+  {
+    "q": "Which two navies previously launched Tomahawk missiles at Houthi rebel sites in Yemen, serving as an operational environment test for the GPS-enabled missiles used in the March 2026 Iran strikes?",
+    "a": "U.S. and UK Navies"
+  },
+  {
+    "q": "What specific type of military strategy, driven by Russia's invasion of Ukraine, has pushed the U.S. and other countries toward using inexpensive weapons like the LUCAS drones in the March 2026 Iran conflict?",
+    "a": "Affordable mass"
+  },
+  {
+    "q": "How many Tomahawk cruise missiles did the U.S. plan to buy in 2026 according to Pentagon budget data, in the context of the March 2 strikes on Iran?",
+    "a": "57"
+  },
+  {
+    "q": "Which Iranian drone design were the one-way attack suicide drones used by the U.S. military in the March 2, 2026 Operation Epic Fury modeled after?",
+    "a": "Shahed drones"
+  },
+  {
+    "q": "What is the wingspan, in feet, of the B-2 stealth bomber built by Northrop Grumman that was deployed to strike Iranian nuclear sites in June 2025 and again in March 2026?",
+    "a": "172 feet"
+  },
+  {
+    "q": "Which fighter jet, made by Boeing, is described as a multi-role fighter capable of conducting both air-to-air and air-to-ground missions and was used in the March 2, 2026 strikes on Iran?",
+    "a": "F/A-18"
+  },
+  {
+    "q": "What is the weight, in pounds, of the Tomahawk Land Attack Missile, which measures 20 feet long and has an 8.5-foot wingspan?",
+    "a": "3,330 pounds"
+  },
+  {
+    "q": "Which specific U.S. military command released photographs showing Tomahawk missiles, F-18 and F-35 fighter jets, and details of the strikes on Iran as part of Operation Epic Fury?",
+    "a": "U.S. Central Command"
+  },
+  {
+    "q": "What is the name of the operation in which the United States unleashed Tomahawk cruise missiles, stealth fighters, and suicide drones against Iranian targets on March 2, 2026?",
+    "a": "Operation Epic Fury"
+  },
+  {
+    "q": "Which fifth-generation stealth fighter, capable of evading radar detection and used extensively in the Middle East, was deployed by the U.S. in the March 2, 2026 strikes on Iran?",
+    "a": "F-35"
+  },
+  {
+    "q": "What is the distance in nautical miles that the B-2 stealth bomber can fly without refueling, although most missions require multiple mid-air refuelings?",
+    "a": "6,000 nautical miles"
+  },
+  {
+    "q": "Which unit of RTX manufactures the Tomahawk cruise missile, which is not nuclear-armed and was used in the March 2, 2026 strikes on Iran?",
+    "a": "Raytheon"
+  },
+  {
+    "q": "What specific type of bombs did the B-2 stealth bombers carry to strike hardened, underground Iranian missile facilities during the March 2, 2026 Operation Epic Fury?",
+    "a": "2,000-pound bombs"
+  },
+  {
+    "q": "Which AI tools from Anthropic were reportedly used by the Pentagon during the March 2, 2026 attack on Iran?",
+    "a": "Claude tools"
+  },
+  {
+    "q": "What is the length, in feet, of the Tomahawk Land Attack Missile used by the U.S. military in the March 2, 2026 strikes on Iran?",
+    "a": "20 feet"
+  },
+  {
+    "q": "Which country's invasion of Ukraine pushed the U.S. and other countries toward the \"affordable mass\" strategy that influenced the use of low-cost suicide drones in the March 2026 Iran strikes?",
+    "a": "Russia"
+  },
+  {
+    "q": "Which air force also uses the F-35 stealth fighters that were deployed by the United States in the March 2, 2026 strikes on Iran?",
+    "a": "Israeli Air Force"
+  }
+]

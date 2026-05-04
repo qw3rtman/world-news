@@ -1,0 +1,97 @@
+{
+  "hash": "ac7bedb143ff",
+  "n_appearances": 8,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://reuters.com/business/aerospace-defense/top-us-general-outlines-initial-timeline-us-military-operation-iran-2026-03-02/",
+      "title": "Top U.S. general outlines initial timeline of U.S. military operation in Iran | Reuters",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 544,
+      "text_length": 2505
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1162940",
+      "spike_id": 5,
+      "market_question": "US forces enter Iran by March 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "up",
+      "spike_delta": 0.31999999999999995,
+      "spike_timestamp_before": "2026-03-04T04:30:25+00:00",
+      "spike_timestamp_after": "2026-03-05T04:30:21+00:00"
+    },
+    {
+      "market_id": "1394299",
+      "spike_id": 11,
+      "market_question": "US forces enter Iran by December 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "up",
+      "spike_delta": 0.22500000000000003,
+      "spike_timestamp_before": "2026-03-01T18:00:27+00:00",
+      "spike_timestamp_after": "2026-03-02T17:00:43+00:00"
+    },
+    {
+      "market_id": "1394299",
+      "spike_id": 12,
+      "market_question": "US forces enter Iran by December 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.18000000000000005,
+      "spike_timestamp_before": "2026-03-02T17:00:43+00:00",
+      "spike_timestamp_after": "2026-03-02T21:00:26+00:00"
+    },
+    {
+      "market_id": "1394299",
+      "spike_id": 13,
+      "market_question": "US forces enter Iran by December 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "up",
+      "spike_delta": 0.255,
+      "spike_timestamp_before": "2026-03-03T09:00:27+00:00",
+      "spike_timestamp_after": "2026-03-04T02:30:26+00:00"
+    },
+    {
+      "market_id": "1394299",
+      "spike_id": 14,
+      "market_question": "US forces enter Iran by December 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.16000000000000003,
+      "spike_timestamp_before": "2026-03-04T02:30:26+00:00",
+      "spike_timestamp_after": "2026-03-04T12:30:32+00:00"
+    },
+    {
+      "market_id": "1394299",
+      "spike_id": 15,
+      "market_question": "US forces enter Iran by December 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "up",
+      "spike_delta": 0.15000000000000002,
+      "spike_timestamp_before": "2026-03-04T12:30:32+00:00",
+      "spike_timestamp_after": "2026-03-05T03:00:24+00:00"
+    },
+    {
+      "market_id": "1394299",
+      "spike_id": 16,
+      "market_question": "US forces enter Iran by December 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "up",
+      "spike_delta": 0.17000000000000004,
+      "spike_timestamp_before": "2026-03-04T12:30:32+00:00",
+      "spike_timestamp_after": "2026-03-05T05:00:24+00:00"
+    },
+    {
+      "market_id": "1394299",
+      "spike_id": 17,
+      "market_question": "US forces enter Iran by December 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "up",
+      "spike_delta": 0.18500000000000005,
+      "spike_timestamp_before": "2026-03-04T12:30:32+00:00",
+      "spike_timestamp_after": "2026-03-05T10:00:40+00:00"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "hash": "bd88891b0020",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://cn.ft.com/interactive/255121/en",
+      "title": "Israel expects Lebanon offensive to outlast Iran conflict - FT中文网",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 179,
+      "text_length": 885
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "677397",
+      "spike_id": 17,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.35000000000000003,
+      "spike_timestamp_before": "2026-03-08T11:30:24+00:00",
+      "spike_timestamp_after": "2026-03-09T09:30:20+00:00"
+    },
+    {
+      "market_id": "677397",
+      "spike_id": 18,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.31000000000000005,
+      "spike_timestamp_before": "2026-03-09T09:30:20+00:00",
+      "spike_timestamp_after": "2026-03-09T21:00:32+00:00"
+    },
+    {
+      "market_id": "677397",
+      "spike_id": 19,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.15000000000000002,
+      "spike_timestamp_before": "2026-03-09T21:00:32+00:00",
+      "spike_timestamp_after": "2026-03-10T14:00:30+00:00"
+    },
+    {
+      "market_id": "677397",
+      "spike_id": 20,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.17999999999999994,
+      "spike_timestamp_before": "2026-03-11T05:00:30+00:00",
+      "spike_timestamp_after": "2026-03-11T21:00:42+00:00"
+    }
+  ]
+}

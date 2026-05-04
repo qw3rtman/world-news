@@ -1,0 +1,37 @@
+{
+  "hash": "d2b0cbe0cd11",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://go.semafor.com/article/02/26/2026/us-iran-talks-wrap-up-with-no-deal",
+      "title": "Semafor - An intelligent, transparent global news platform for breaking stories, analysis and video",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1490,
+      "text_length": 7405
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1466015",
+      "spike_id": 5,
+      "market_question": "US x Iran ceasefire by March 31?",
+      "event_title": "US x Iran ceasefire by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.16000000000000003,
+      "spike_timestamp_before": "2026-03-04T18:30:23+00:00",
+      "spike_timestamp_after": "2026-03-05T13:00:22+00:00"
+    },
+    {
+      "market_id": "1466016",
+      "spike_id": 2,
+      "market_question": "US x Iran ceasefire by April 30?",
+      "event_title": "US x Iran ceasefire by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.15000000000000002,
+      "spike_timestamp_before": "2026-03-03T10:30:52+00:00",
+      "spike_timestamp_after": "2026-03-04T10:00:37+00:00"
+    }
+  ]
+}

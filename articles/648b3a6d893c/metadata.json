@@ -1,0 +1,27 @@
+{
+  "hash": "648b3a6d893c",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://beta.japantimes.co.jp/news/2026/03/03/world/politics/un-chief-process/",
+      "title": "How will the next U.N. chief be chosen and who wants the job? - The Japan Times",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Michelle Nichols",
+      "num_tokens": 127,
+      "text_length": 549
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1235514",
+      "spike_id": 1,
+      "market_question": "Will Tô Lâm be the next President of Vietnam?",
+      "event_title": "Next President of Vietnam",
+      "spike_direction": "down",
+      "spike_delta": -0.17500000000000004,
+      "spike_timestamp_before": "2026-03-05T08:00:41+00:00",
+      "spike_timestamp_after": "2026-03-05T15:00:46+00:00"
+    }
+  ]
+}

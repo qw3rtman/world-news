@@ -1,0 +1,65 @@
+{
+  "spike_index": 1,
+  "direction": "up",
+  "price_before": 0.73,
+  "price_after": 0.9995,
+  "delta": 0.2695000000000001,
+  "abs_delta": 0.2695000000000001,
+  "timestamp_before": "2026-02-27T08:00:25+00:00",
+  "timestamp_after": "2026-02-28T07:30:27+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.pbs.org/newshour/world/live-updates-u-s-and-israel-attack-iran",
+      "file": "53fcf5707732.txt",
+      "title": "Live Updates: U.S. and Israel attack Iran | PBS News",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 51549,
+      "status": "ok",
+      "num_tokens": 10267
+    },
+    {
+      "url": "https://www.nbcnews.com/world/iran/us-israel-attacks-iran-protests-nuclear-talks-rcna253784",
+      "file": "bf8079ad4c4c.txt",
+      "title": "U.S. and Israel attack Iran as Trump urges Iranians to 'take over' the government",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 11610,
+      "status": "ok",
+      "num_tokens": 2291
+    },
+    {
+      "url": "https://apnews.com/article/israel-united-states-iran-war-ap-style-aa89b7f21e35b73a11ad7afddd1ff185",
+      "file": "95a802cc685d.txt",
+      "title": "How AP decided to describe US-Israeli strikes on Iran, and Iran\u2019s retaliation, as war | AP News",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 3397,
+      "status": "ok",
+      "num_tokens": 698
+    },
+    {
+      "url": "https://www.pbs.org/newshour/classroom/daily-news-lessons/2026/03/what-we-know-about-the-us-israel-attacks-on-iran",
+      "file": "79d948742236.txt",
+      "title": "What we know about the U.S.-Israel attacks on Iran | PBS News Hour Classroom",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 3057,
+      "status": "ok",
+      "num_tokens": 673
+    },
+    {
+      "url": "http://polling.reuters.com/world/middle-east/israel-says-it-launched-pre-emptive-attack-against-iran-2026-02-28/",
+      "file": "f45067123de4.txt",
+      "title": "US and Israel launch \"pre-emptive\" attack against Iran | Reuters",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 2845,
+      "status": "ok",
+      "num_tokens": 550
+    }
+  ],
+  "total_tokens": 14479
+}

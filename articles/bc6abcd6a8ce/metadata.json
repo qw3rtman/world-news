@@ -1,0 +1,27 @@
+{
+  "hash": "bc6abcd6a8ce",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.nbcnews.com/world/middle-east/live-blog/live-updates-iran-war-israel-us-hezbollah-lebanon-khamenei-trump-rcna261259/rcrd102545?canonicalCard=true",
+      "title": "Trump sends war powers notification to Congress",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 15696,
+      "text_length": 77803
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1466015",
+      "spike_id": 4,
+      "market_question": "US x Iran ceasefire by March 31?",
+      "event_title": "US x Iran ceasefire by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.21500000000000002,
+      "spike_timestamp_before": "2026-03-01T11:00:20+00:00",
+      "spike_timestamp_after": "2026-03-02T09:00:19+00:00"
+    }
+  ]
+}

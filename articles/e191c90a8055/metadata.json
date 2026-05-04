@@ -1,0 +1,67 @@
+{
+  "hash": "e191c90a8055",
+  "n_appearances": 5,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/china/trump-postpones-trip-beijing-iran-war-delays-china-reset-2026-03-17/",
+      "title": "Trump postpones trip to Beijing as Iran war delays China reset | Reuters",
+      "published_date": "2026-03-17T17:13:03.426Z",
+      "author": "Trevor Hunnicutt",
+      "num_tokens": 917,
+      "text_length": 4385
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "604490",
+      "spike_id": 25,
+      "market_question": "Will Trump visit China by March 31?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.24150000000000002,
+      "spike_timestamp_before": "2026-03-16T17:00:26+00:00",
+      "spike_timestamp_after": "2026-03-17T16:30:31+00:00"
+    },
+    {
+      "market_id": "706279",
+      "spike_id": 10,
+      "market_question": "Will Trump visit China by April 30?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.265,
+      "spike_timestamp_before": "2026-03-18T19:00:44+00:00",
+      "spike_timestamp_after": "2026-03-19T16:30:43+00:00"
+    },
+    {
+      "market_id": "706279",
+      "spike_id": 7,
+      "market_question": "Will Trump visit China by April 30?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.39999999999999997,
+      "spike_timestamp_before": "2026-03-16T09:30:30+00:00",
+      "spike_timestamp_after": "2026-03-17T04:30:44+00:00"
+    },
+    {
+      "market_id": "706279",
+      "spike_id": 8,
+      "market_question": "Will Trump visit China by April 30?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.47,
+      "spike_timestamp_before": "2026-03-16T09:30:30+00:00",
+      "spike_timestamp_after": "2026-03-17T09:00:48+00:00"
+    },
+    {
+      "market_id": "706279",
+      "spike_id": 9,
+      "market_question": "Will Trump visit China by April 30?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.265,
+      "spike_timestamp_before": "2026-03-17T09:00:48+00:00",
+      "spike_timestamp_after": "2026-03-17T17:00:43+00:00"
+    }
+  ]
+}

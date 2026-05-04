@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In February 2026, which individual was nominated by U.S. President Donald Trump to serve as chair of the Federal Reserve, and what is the name of the investment conference where he was previously photographed speaking in New York City?",
+    "a": "Kevin Warsh; the Sohn Investment Conference."
+  },
+  {
+    "q": "During his tenure as a Federal Reserve governor from 2006 to 2011, which specific monetary policy program engineered by then-Chair Ben Bernanke did Kevin Warsh oppose, leading to his departure?",
+    "a": "Quantitative easing programs."
+  },
+  {
+    "q": "By the peak following the COVID-19 pandemic, to what dollar amount had the Federal Reserve’s balance sheet grown, and what was its approximate size prior to the 2008 financial crisis?",
+    "a": "It grew to a peak of $9 trillion from less than $900 billion."
+  },
+  {
+    "q": "Which U.S. Treasury Secretary, in February 2026, expressed agreement with Kevin Warsh’s goal to unwind the Federal Reserve’s balance sheet expansion, particularly regarding mortgage-backed securities?",
+    "a": "Treasury Secretary Scott Bessent."
+  },
+  {
+    "q": "According to Jonathan Wright, a former Federal Reserve staffer and Johns Hopkins University professor, what specific economic effect does the growth of the Fed’s balance sheet create regarding reserves and liabilities?",
+    "a": "A ratchet effect."
+  },
+  {
+    "q": "Which Trump-appointed Federal Reserve board governor, Christopher Waller, noted in July that the post-2008 regime required daily interventions in the markets which were worsened when rates were near zero?",
+    "a": "Board governor Christopher Waller."
+  },
+  {
+    "q": "In February 2026, what specific amount of mortgage-backed securities (MBS) did analysts suggest the Federal Reserve could likely roll off its books by reinvesting in shorter-term Treasuries?",
+    "a": "$2.3 trillion."
+  },
+  {
+    "q": "According to Treasury Secretary Scott Bessent in February 2026, before which year did the Federal Reserve likely not make any significant balance sheet moves?",
+    "a": "2027."
+  },
+  {
+    "q": "Which former Federal Reserve Chair, along with Janet Yellen, warned repeatedly in February 2026 about the dangers of allowing the executive branch to dictate interest rates, citing Turkey as an example?",
+    "a": "Ben Bernanke."
+  },
+  {
+    "q": "As of February 2026, which U.S. Supreme Court case is awaiting resolution regarding the White House's attempt to fire Federal Reserve Governor Lisa Cook?",
+    "a": "The case regarding the firing of Governor Lisa Cook."
+  },
+  {
+    "q": "Which Federal Reserve official, Michelle Bowman, had already begun in February 2026 to pare down supervisory staff by 30% as part of looser bank capital rule initiatives?",
+    "a": "Vice chair for banking supervision Michelle Bowman."
+  },
+  {
+    "q": "In February 2026, which specific Basel III proposal was mentioned as being revised to please big banks and Republicans in Congress?",
+    "a": "The Basel III Endgame proposal."
+  },
+  {
+    "q": "During the 2008 financial crisis, which major financial institution did Kevin Warsh help facilitate the takeover of Bear Stearns by JPMorgan Chase?",
+    "a": "JPMorgan Chase."
+  },
+  {
+    "q": "How many members comprise the Federal Open Market Committee, whose majority vote is required for interest rate decisions that Kevin Warsh would need to convince in February 2026?",
+    "a": "11 members."
+  },
+  {
+    "q": "Which chief economist of Northern Trust, Carl Tannenbaum, posed the dilemma in February 2026 regarding who would absorb U.S. assets if the Federal Reserve ceased to be a big buyer?",
+    "a": "Carl Tannenbaum."
+  },
+  {
+    "q": "What specific criminal probe has the U.S. Justice Department not dropped as of February 2026, ostensibly concerning the costs of renovating the Federal Reserve’s headquarters?",
+    "a": "The criminal probe of Chair Jerome Powell."
+  },
+  {
+    "q": "Kevin Warsh served as a Fed governor during the Great Recession when U.S. unemployment hit what percentage, despite his hardline stance on inflation risks?",
+    "a": "10%."
+  },
+  {
+    "q": "Which two major economic disruptions were identified in February 2026 as potential future crises that could test the Federal Reserve's liquidity tools and crisis authorities?",
+    "a": "Artificial intelligence disruption and a raging trade war."
+  },
+  {
+    "q": "In February 2026, which former Fed Chair is credited by others with serving as a conduit to Wall Street during the darkest days of the Great Financial Crisis, including facilitating the Bear Stearns takeover?",
+    "a": "Kevin Warsh."
+  },
+  {
+    "q": "Which specific asset classes comprised the Federal Reserve’s balance sheet growth from pre-crisis levels to its peak, according to the February 2026 article?",
+    "a": "Treasuries and mortgage-backed securities."
+  },
+  {
+    "q": "As of February 2026, which political party in Congress is noted as being pleased by looser bank capital rules and revised Basel III proposals?",
+    "a": "Republicans."
+  },
+  {
+    "q": "What specific mechanism did the Federal Reserve formerly use to set rates before the post-2008 regime overhaul, which involved controlling the supply of reserves when they were scarce?",
+    "a": "Controlling the supply of reserves."
+  },
+  {
+    "q": "Which former Fed governor, Christopher Waller, is a Trump appointee who noted in July that the post-2008 regime's daily interventions were made worse when rates were at or near zero?",
+    "a": "Christopher Waller."
+  },
+  {
+    "q": "In February 2026, which specific tool of the Federal Reserve, provided through press conferences and data releases, was identified as facing elimination alongside emergency liquidity tools and financial regulation?",
+    "a": "Forward guidance on monetary policy."
+  },
+  {
+    "q": "Which two entities did Kevin Warsh seek to align with in February 2026 to improve market liquidity and allow banks to deploy more capital into buying Treasuries?",
+    "a": "The Treasury Department and the White House."
+  }
+]

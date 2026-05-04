@@ -1,0 +1,65 @@
+{
+  "spike_index": 17,
+  "direction": "up",
+  "price_before": 0.445,
+  "price_after": 0.795,
+  "delta": 0.35000000000000003,
+  "abs_delta": 0.35000000000000003,
+  "timestamp_before": "2026-03-08T11:30:24+00:00",
+  "timestamp_after": "2026-03-09T09:30:20+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://cn.ft.com/interactive/255121/en",
+      "file": "bd88891b0020.txt",
+      "title": "Israel expects Lebanon offensive to outlast Iran conflict - FT\u4e2d\u6587\u7f51",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "text_length": 885,
+      "status": "ok",
+      "num_tokens": 179
+    },
+    {
+      "url": "http://globeandmail.com/world/article-israel-may-be-splitting-lebanon-in-two-lebanese-cabinet-minister-says/",
+      "file": "e4b603240e04.txt",
+      "title": "Israel may be splitting Lebanon in two, Lebanese cabinet minister says - The Globe and Mail",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "text_length": 7965,
+      "status": "ok",
+      "num_tokens": 1691
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-07/for-israel-iran-war-culminates-battle-begun-by-hamas-attack",
+      "file": "f2194e7779ed.txt",
+      "title": "Israel\u2019s War With Iran Marks Shift in Regional Power Since Hamas Attack - Bloomberg",
+      "published_date": "2026-03-07T00:00:00.000Z",
+      "author": "Ethan Bronner",
+      "text_length": 442,
+      "status": "ok",
+      "num_tokens": 108
+    },
+    {
+      "url": "https://www.timesofisrael.com/knew-they-were-next-hezbollah-rearmed-for-months-after-concluding-war-inevitable/",
+      "file": "8c89ca266034.txt",
+      "title": "'Knew they were next': Hezbollah rearmed for months after concluding war inevitable | The Times of Israel",
+      "published_date": "2026-03-07T00:00:00.000Z",
+      "author": "Reuters  and  ToI Staff",
+      "text_length": 5961,
+      "status": "ok",
+      "num_tokens": 1157
+    },
+    {
+      "url": "https://www.al-monitor.com/originals/2026/03/israels-hezbollah-attacks-are-likely-continue-beyond-iran-war-source-says",
+      "file": "b2a2a19c7c80.txt",
+      "title": "Israel's Hezbollah attacks are likely to continue beyond Iran war, source says - AL-Monitor: The Middle East\u02bcs leading independent news source since 2012",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": null,
+      "text_length": 2896,
+      "status": "ok",
+      "num_tokens": 577
+    }
+  ],
+  "total_tokens": 3712
+}

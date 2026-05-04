@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In the first round of the Paris mayoral elections held on March 15, 2026, what percentage of the vote did Socialist Party candidate Emmanuel Grégoire receive according to official results?",
+    "a": "37.98%"
+  },
+  {
+    "q": "Which conservative former minister finished in second place behind Emmanuel Grégoire in the first round of the Paris mayoral elections on March 15, 2026?",
+    "a": "Rachida Dati"
+  },
+  {
+    "q": "What percentage of the vote did Rachida Dati receive in the first round of the Paris mayoral elections on March 15, 2026?",
+    "a": "25.46%"
+  },
+  {
+    "q": "Which three candidates cleared the 10% threshold to qualify for the second round of the Paris mayoral election on March 15, 2026, alongside Emmanuel Grégoire and Rachida Dati?",
+    "a": "Pierre-Yves Bournazel, Sophia Chikirou, and Sarah Knafo"
+  },
+  {
+    "q": "Which political party does hard-left candidate Sophia Chikirou represent in the 2026 Paris mayoral election?",
+    "a": "France Unbowed (LFI)"
+  },
+  {
+    "q": "What percentage of the vote did Sophia Chikirou receive in the first round of the Paris mayoral election on March 15, 2026?",
+    "a": "11.72%"
+  },
+  {
+    "q": "Which two former left-wing mayors are credited with transforming Paris into a city with bike lanes and pedestrian streets over the 25 years preceding the 2026 municipal elections?",
+    "a": "Bertrand Delanoë and Anne Hidalgo"
+  },
+  {
+    "q": "In which month and year is former culture minister Rachida Dati scheduled to go on trial regarding allegations of corruption and abuse of power?",
+    "a": "September 2026"
+  },
+  {
+    "q": "What specific type of scandal involving school monitors in nursery and primary schools contributed to public anger against the incumbent left-wing leadership in Paris before the 2026 elections?",
+    "a": "Child sexual abuse allegations"
+  },
+  {
+    "q": "Which party's candidate, Sarah Knafo, cleared the 10% threshold in the first round of the Paris mayoral election on March 15, 2026?",
+    "a": "The far right"
+  },
+  {
+    "q": "Which political alliance does Emmanuel Grégoire lead in the 2026 Paris mayoral election, and which two other parties are included in this alliance?",
+    "a": "A left-wing alliance that includes the Greens and Communists"
+  },
+  {
+    "q": "Which candidate did Rachida Dati urge to rally behind her to avoid splitting the centre-right vote in the 2026 Paris mayoral election?",
+    "a": "Pierre-Yves Bournazel"
+  },
+  {
+    "q": "Emmanuel Grégoire has ruled out joining forces with Sophia Chikirou, but which party leader's party is Chikirou associated with, creating a political quandary for Grégoire?",
+    "a": "Jean-Luc Mélenchon"
+  },
+  {
+    "q": "What term did Emmanuel Grégoire use to describe his promised approach to leadership after the polarizing tenure of Anne Hidalgo in the 2026 Paris mayoral campaign?",
+    "a": "A 'change of method'"
+  },
+  {
+    "q": "In which cities across France did France Unbowed (LFI) candidates largely exceed expectations or match mainstream left candidates in the 2026 municipal elections, according to the article?",
+    "a": "Toulouse, Roubaix, Limoges, and Saint-Denis"
+  },
+  {
+    "q": "What potential strategic move did Sophia Chikirou say she was waiting for from Emmanuel Grégoire on the night of March 15, 2026, to form an 'anti-fascist front'?",
+    "a": "A call to join forces"
+  },
+  {
+    "q": "Which candidate's 11.72% vote share in the first round of the Paris mayoral election on March 15, 2026, was described as creating a potential headache for the Socialist frontrunner by threatening to split the left-wing vote?",
+    "a": "Sophia Chikirou"
+  },
+  {
+    "q": "What specific environmental legacy did the successive left-wing mayors Bertrand Delanoë and Anne Hidalgo leave on Paris that Emmanuel Grégoire vowed to pursue in 2026?",
+    "a": "The capital's green revolution"
+  },
+  {
+    "q": "Which centre-right challenger in the 2026 Paris mayoral election was described as having a strong local footprint for the Socialist Party to regain dominance over the left?",
+    "a": "Pierre-Yves Bournazel"
+  },
+  {
+    "q": "What two major issues, aside from the child sexual abuse scandal, contributed to anger over the incumbent left-wing leadership in Paris before the 2026 elections?",
+    "a": "Roadwork disruptions and mounting debt"
+  },
+  {
+    "q": "Which party had traditionally fared poorly in local polls in France but saw its candidates exceed expectations in the 2026 municipal elections?",
+    "a": "The radical left (France Unbowed/LFI)"
+  },
+  {
+    "q": "What was the date of the runoff election for the Paris mayoral race that followed the first round on March 15, 2026?",
+    "a": "March 22, 2026"
+  },
+  {
+    "q": "Which former minister resigned from her position to focus on the Paris mayoral race in the 2026 election cycle?",
+    "a": "Rachida Dati"
+  },
+  {
+    "q": "What specific allegations is Rachida Dati facing in her September 2026 trial related to her past mandate as a European lawmaker?",
+    "a": "Corruption and abuse of power"
+  },
+  {
+    "q": "Which candidate in the 2026 Paris mayoral election is a lawmaker in the National Assembly and leads a left-wing alliance including the Greens and Communists?",
+    "a": "Emmanuel Grégoire"
+  },
+  {
+    "q": "What did Sophia Chikirou say she would do if she did not receive a call from Emmanuel Grégoire to join forces for the second round of the Paris mayoral election on March 15, 2026?",
+    "a": "Keep her LFI list on the ballot"
+  }
+]

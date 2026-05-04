@@ -1,0 +1,65 @@
+{
+  "spike_index": 3,
+  "direction": "down",
+  "price_before": 0.465,
+  "price_after": 0.31,
+  "delta": -0.15500000000000003,
+  "abs_delta": 0.15500000000000003,
+  "timestamp_before": "2026-03-01T03:00:29+00:00",
+  "timestamp_after": "2026-03-01T17:00:25+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.cbsnews.com/miami/video/at-least-1-american-killed-in-cuban-strike-on-boat-reported-stolen-from-florida-keys/",
+      "file": "50f4da3ef7bd.txt",
+      "title": "At least 1 American killed in Cuban strike on boat reported stolen from Florida Keys - CBS Miami",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": null,
+      "text_length": 337,
+      "status": "ok",
+      "num_tokens": 64
+    },
+    {
+      "url": "https://www.nbcnews.com/video/decades-of-tensions-with-cuba-in-the-spotlight-after-deadly-boat-shooting-258543685853",
+      "file": "7dceb0d95a24.txt",
+      "title": "Decades of tensions with Cuba in the spotlight after deadly boat shooting",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 309,
+      "status": "ok",
+      "num_tokens": 67
+    },
+    {
+      "url": "https://apnews.com/article/cuba-troops-clash-armed-speedboat-expatriates-88e58446bec98251d723f3a702b6f664",
+      "file": "82b057ab476a.txt",
+      "title": "Shooting in a boat off Cuba spotlights Florida's political groups | AP News",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 5924,
+      "status": "ok",
+      "num_tokens": 1208
+    },
+    {
+      "url": "https://www.cbsnews.com/miami/video/south-florida-cuban-exiles-sign-freedom-accord-after-trumps-call/",
+      "file": "41040503b2ac.txt",
+      "title": "South Florida Cuban exiles sign \"Freedom Accord\" after Trump's call - CBS Miami",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 211,
+      "status": "ok",
+      "num_tokens": 44
+    },
+    {
+      "url": "https://thehill.com/policy/international/5759118-cuba-friendly-takeover-trump/",
+      "file": "ec3e071f8683.txt",
+      "title": "Trump floats \u2018friendly takeover\u2019 of Cuba",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": null,
+      "text_length": 2336,
+      "status": "ok",
+      "num_tokens": 465
+    }
+  ],
+  "total_tokens": 1848
+}

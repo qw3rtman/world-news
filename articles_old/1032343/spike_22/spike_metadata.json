@@ -1,0 +1,65 @@
+{
+  "spike_index": 22,
+  "direction": "up",
+  "price_before": 0.4195,
+  "price_after": 0.6475,
+  "delta": 0.22799999999999998,
+  "abs_delta": 0.22799999999999998,
+  "timestamp_before": "2026-03-02T18:00:30+00:00",
+  "timestamp_after": "2026-03-03T16:30:26+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.cbsnews.com/news/what-will-happen-to-gold-and-silver-prices-march-2026-what-experts-expect/",
+      "file": "a04edf369caf.txt",
+      "title": "What will happen to gold and silver prices this March? Here's what experts expect. - CBS News",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 6568,
+      "status": "ok",
+      "num_tokens": 1331
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/middle-east-crisis-should-you-invest-in-gold-etfs-or-silver-etfs-heres-what-experts-suggest/articleshow/128963264.cms",
+      "file": "9c58798b6358.txt",
+      "title": "Middle East crisis: Should you invest in gold ETFs or silver ETFs? Here's what experts suggest - The Times of India",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /   Mar 03, 2026, 14:55 IST",
+      "text_length": 5831,
+      "status": "ok",
+      "num_tokens": 1185
+    },
+    {
+      "url": "https://www.ndtv.com/world-news/iran-to-set-silver-prices-on-fire-investors-brace-for-manic-monday-after-us-israel-attack-11151433/amp/1",
+      "file": "7689eecd40be.txt",
+      "title": "Iran To Set Silver Prices On Fire? Investors Brace For Manic Monday",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 3783,
+      "status": "ok",
+      "num_tokens": 824
+    },
+    {
+      "url": "https://www.thehindu.com/business/markets/silver-gold-futures-surge-4-as-us-israel-strikes-on-iran-trigger-safe-haven-rush/article70694197.ece",
+      "file": "62a0e9242d65.txt",
+      "title": "Silver, gold futures surge 4% as U.S.-Israel strikes on Iran trigger rush - The Hindu",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "PTI",
+      "text_length": 2886,
+      "status": "ok",
+      "num_tokens": 666
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-outlook-will-middle-east-tensions-trigger-a-fresh-bullion-rally-heres-what-experts-say/articleshow/128920291.cms",
+      "file": "0d8e3ca74246.txt",
+      "title": "Gold, silver rate outlook: Will Middle East tensions trigger a fresh bullion rally? Here's what experts say - The Times of India",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /   Mar 01, 2026, 21:17 IST",
+      "text_length": 3173,
+      "status": "ok",
+      "num_tokens": 631
+    }
+  ],
+  "total_tokens": 4637
+}

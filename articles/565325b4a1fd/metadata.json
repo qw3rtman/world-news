@@ -1,0 +1,37 @@
+{
+  "hash": "565325b4a1fd",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.france24.com/en/live-news/20260301-france-germany-uk-ready-to-take-defensive-action-against-iran",
+      "title": "France, Germany, UK ready to take 'defensive action' against Iran",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 451,
+      "text_length": 2229
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1472016",
+      "spike_id": 1,
+      "market_question": "Will Germany strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.34550000000000003,
+      "spike_timestamp_before": "2026-03-01T01:30:31+00:00",
+      "spike_timestamp_after": "2026-03-01T05:00:30+00:00"
+    },
+    {
+      "market_id": "1472016",
+      "spike_id": 2,
+      "market_question": "Will Germany strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.348,
+      "spike_timestamp_before": "2026-03-01T01:30:31+00:00",
+      "spike_timestamp_after": "2026-03-01T11:30:46+00:00"
+    }
+  ]
+}

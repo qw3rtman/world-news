@@ -1,0 +1,102 @@
+[
+  {
+    "q": "As of February 23, 2026, on which day of the government shutdown was the Department of Homeland Security, and what was the primary funding disagreement between Senate Democrats and the White House regarding Immigration and Customs Enforcement agents?",
+    "a": "The shutdown was on its 10th day; Democrats sought judicial warrants or other reforms for ICE agents, which the White House and Senate Republicans rejected."
+  },
+  {
+    "q": "Who is the White House press secretary who stated that President Donald Trump had no direct conversations with congressional Democrats during the February 2026 Department of Homeland Security shutdown negotiations?",
+    "a": "Karoline Leavitt."
+  },
+  {
+    "q": "Which U.S. Senate Majority Leader, a Republican from South Dakota, told Fox News Digital in February 2026 that there was \"some room for give and take\" but remained firm against requiring warrants for ICE agents?",
+    "a": "John Thune."
+  },
+  {
+    "q": "Due to winter storms affecting the East Coast in late February 2026, until which day of the week did the U.S. Senate delay its vote on the original Department of Homeland Security spending bill?",
+    "a": "Tuesday night."
+  },
+  {
+    "q": "Which U.S. Senator from Virginia, a Democrat, stated in February 2026 that he had a war powers resolution filed and ready to block a potential U.S. military strike against Iran?",
+    "a": "Tim Kaine."
+  },
+  {
+    "q": "In late February 2026, which Supreme Court action prompted President Donald Trump to consider bypassing Congress to implement global 10% tariffs?",
+    "a": "The Supreme Court’s ruling to block his sweeping duties."
+  },
+  {
+    "q": "Which two political figures struck a funding truce in January 2026 that helped avoid a government shutdown, a deal President Donald Trump was pivotal in securing but was not directly involved in the subsequent February negotiations?",
+    "a": "President Donald Trump and Senate Minority Leader Chuck Schumer."
+  },
+  {
+    "q": "What did White House press secretary Karoline Leavitt describe Senate Democrats' counterproposal to the White House's offer as during the February 2026 Department of Homeland Security shutdown talks?",
+    "a": "\"Unserious.\""
+  },
+  {
+    "q": "Which U.S. Senator from New York, the Senate Minority Leader, has not relented in his position regarding Department of Homeland Security funding as of the 10th day of the shutdown in February 2026?",
+    "a": "Chuck Schumer."
+  },
+  {
+    "q": "In February 2026, which specific U.S. government agency's shutdown was the subject of negotiations complicated by disputes over ICE agent warrants and potential conflicts with Iran?",
+    "a": "The Department of Homeland Security (DHS)."
+  },
+  {
+    "q": "Which Republican Senator from South Dakota warned in February 2026 that Senate Democrats were attempting to tie up Republicans from hitting the campaign trail ahead of the 2026 midterm cycle?",
+    "a": "John Thune."
+  },
+  {
+    "q": "What specific military action was President Donald Trump considering in late February 2026 that led Senator Tim Kaine to prepare a war powers resolution?",
+    "a": "A limited military strike against Iran."
+  },
+  {
+    "q": "Which news organization published the report on February 23, 2026, detailing the Department of Homeland Security shutdown and the associated political clashes?",
+    "a": "Fox News."
+  },
+  {
+    "q": "According to a Republican aide quoted in late February 2026, what was the GOP's stance on how to proceed with trade policy after the Supreme Court blocked Trump's duties?",
+    "a": "The GOP was \"waiting to see what POTUS does next.\""
+  },
+  {
+    "q": "Which U.S. Senator from Virginia challenged his colleagues in February 2026 to vote for war against Iran rather than \"hiding under their desks,\" if they supported the conflict?",
+    "a": "Tim Kaine."
+  },
+  {
+    "q": "What was the third shutdown during President Donald Trump’s second term, occurring in February 2026, primarily focused on funding for which agency?",
+    "a": "The Department of Homeland Security (DHS)."
+  },
+  {
+    "q": "Which two external factors complicated Congressional talks to end the February 2026 Department of Homeland Security shutdown, according to the article?",
+    "a": "The Iran threat and a clash with the State of the Union address."
+  },
+  {
+    "q": "Who is the author of the February 23, 2026, Fox News article regarding the Department of Homeland Security shutdown?",
+    "a": "Alex Miller."
+  },
+  {
+    "q": "Which U.S. Senator from Virginia filed a war powers resolution in February 2026 to block a potential U.S. attack on Iran?",
+    "a": "Tim Kaine."
+  },
+  {
+    "q": "What specific tariff policy was President Donald Trump considering implementing in late February 2026 without congressional approval, following the Supreme Court's intervention?",
+    "a": "Global 10% tariffs."
+  },
+  {
+    "q": "Which Senate Majority Leader stated in February 2026 that the White House's last offer was a \"good faith one\" aimed at landing a deal to fund the Department of Homeland Security?",
+    "a": "John Thune."
+  },
+  {
+    "q": "What reason did White House press secretary Karoline Leavitt give for the Department of Homeland Security being shut down in February 2026?",
+    "a": "Democrats acted against the American people for political reasons."
+  },
+  {
+    "q": "Which U.S. Senator from New York was not directly involved in the February 2026 negotiations to end the Department of Homeland Security shutdown, despite striking a truce with Trump in January?",
+    "a": "Chuck Schumer."
+  },
+  {
+    "q": "What event was scheduled to take place after the delayed Tuesday night vote on the Department of Homeland Security spending bill in late February 2026?",
+    "a": "President Donald Trump's State of the Union address."
+  },
+  {
+    "q": "Which Republican Senator from South Dakota remained firm in the GOP's positioning against requiring Immigration and Customs Enforcement agents to get judicial warrants during the February 2026 shutdown talks?",
+    "a": "John Thune."
+  }
+]

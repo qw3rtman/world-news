@@ -1,0 +1,47 @@
+{
+  "hash": "ffb14d915369",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.timesofisrael.com/saudi-arabia-said-to-intensify-talks-with-iran-to-defuse-mideast-war/",
+      "title": "Saudi Arabia said talking with Iran; Gulf states complain at lack of notice before war | The Times of Israel",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Agencies  and  ToI Staff",
+      "num_tokens": 1799,
+      "text_length": 9361
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1472019",
+      "spike_id": 11,
+      "market_question": "Will Saudi Arabia strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.155,
+      "spike_timestamp_before": "2026-03-05T23:00:39+00:00",
+      "spike_timestamp_after": "2026-03-06T23:00:26+00:00"
+    },
+    {
+      "market_id": "1472019",
+      "spike_id": 12,
+      "market_question": "Will Saudi Arabia strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.17000000000000004,
+      "spike_timestamp_before": "2026-03-06T18:30:25+00:00",
+      "spike_timestamp_after": "2026-03-07T13:00:27+00:00"
+    },
+    {
+      "market_id": "1472019",
+      "spike_id": 13,
+      "market_question": "Will Saudi Arabia strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.21000000000000002,
+      "spike_timestamp_before": "2026-03-07T13:00:27+00:00",
+      "spike_timestamp_after": "2026-03-07T23:00:23+00:00"
+    }
+  ]
+}

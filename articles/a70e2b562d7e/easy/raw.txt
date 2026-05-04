@@ -1,0 +1,102 @@
+[
+  {
+    "q": "What were the peak prices for Brent crude and West Texas Intermediate (WTI) on Monday, March 9, 2026, following the initial spike caused by the Iran war, before they fell back later that day?",
+    "a": "Brent crude briefly surged to $119.50 per barrel and West Texas Intermediate soared to $119.48 per barrel."
+  },
+  {
+    "q": "Which two countries launched the war against Iran on February 28, 2026, causing crude oil prices to rise from roughly $70 a barrel to over $90 by March 9, 2026?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "Who did Iran name as its new supreme leader on Monday, March 9, 2026, succeeding his late father during the ongoing conflict?",
+    "a": "Ayatollah Mojtaba Khamenei."
+  },
+  {
+    "q": "What percentage of the world's typical daily oil supply sails through the Strait of Hormuz, a waterway where tanker traffic has all but stopped due to war fears as of March 2026?",
+    "a": "A fifth (20%)."
+  },
+  {
+    "q": "Which major oil-producing countries in the Middle East, including Iraq, Kuwait, and the UAE, cut production due to export constraints and running out of storage space during the Iran war in March 2026?",
+    "a": "Iraq, Kuwait, and the United Arab Emirates."
+  },
+  {
+    "q": "According to Nicholas Mulder of Cornell University, how many times more barrels of oil were lost due to the Iran war starting in February 2026 compared to the 1973 and 1979 oil crises?",
+    "a": "Roughly three to four times as many barrels."
+  },
+  {
+    "q": "Which country accused Iran of striking a desalination plant vital to drinking water supplies, and which company declared force majeure for its shipments after an Iranian attack set its refinery complex ablaze?",
+    "a": "Bahrain accused Iran, and Bahrain’s national oil company declared force majeure."
+  },
+  {
+    "q": "What is the potential price of crude oil predicted by Macquarie Research strategists if the Strait of Hormuz remains closed for only a few weeks during the 2026 Iran war?",
+    "a": "$150 per barrel or higher."
+  },
+  {
+    "q": "Which organization predicted that oil prices would fall to an average of $80 a barrel for the quarter, while noting the risk of a more prolonged crisis had increased as of March 9, 2026?",
+    "a": "Oxford Economics researchers."
+  },
+  {
+    "q": "Which group of major industrialized powers decided against using their strategic oil reserves on Monday, March 9, 2026, despite discussions of dipping into emergency stockpiles?",
+    "a": "The Group of Seven (G7)."
+  },
+  {
+    "q": "Who is the French Finance Minister who stated that the G7 was \"ready to take necessary and coordinated steps\" such as strategic stockpiling, but said \"we’re not there yet\" regarding using reserves in March 2026?",
+    "a": "Roland Lescure."
+  },
+  {
+    "q": "Which U.S. President downplayed the idea of turning to America’s Strategic Petroleum Reserve on Saturday, March 7, 2026, maintaining that U.S. supplies were ample?",
+    "a": "President Donald Trump."
+  },
+  {
+    "q": "According to Jim Burkhard of S&P Global Energy, why is restoring oil output in the Middle East described as a \"massive technical exercise that could last weeks or more\" during the 2026 Iran war?",
+    "a": "Due to rising production cuts and storage constraints."
+  },
+  {
+    "q": "Which Asian economy, a major importer of Iranian oil, has called for an immediate end to the fighting as of March 2026, potentially needing to look elsewhere for supply if Iran’s exports are disrupted?",
+    "a": "China."
+  },
+  {
+    "q": "Which South Korean President warned of strict penalties for refiners and gas stations caught hoarding or colluding on prices during the energy crisis in March 2026?",
+    "a": "Lee Jae Myung."
+  },
+  {
+    "q": "What was the average U.S. price of a gallon of regular gasoline on Monday, March 9, 2026, according to the AAA motor club, and how much did it rise from a week earlier?",
+    "a": "$3.48, up nearly 50 cents from a week earlier."
+  },
+  {
+    "q": "What was the price of diesel fuel in the U.S. on Monday, March 9, 2026, according to the AAA motor club, and what was its weekly increase?",
+    "a": "About $4.66 a gallon, a weekly increase of more than 80 cents."
+  },
+  {
+    "q": "Which independent research firm stated that roughly 15 million barrels of crude oil, about 20% of the world’s oil, are typically shipped every day through the Strait of Hormuz?",
+    "a": "Rystad Energy."
+  },
+  {
+    "q": "Which U.S. market analyst noted that the U.S. would suffer less from a rally in Brent and WTI above $100 than Europe or Asia because it is now a net exporter of oil?",
+    "a": "Alex Kuptsikevich, chief market analyst at FxPro."
+  },
+  {
+    "q": "Which two oil benchmarks saw their prices fall to under $90 per barrel late on Monday, March 9, 2026, after President Trump suggested the war could be near an end?",
+    "a": "Brent crude and West Texas Intermediate (WTI)."
+  },
+  {
+    "q": "What legal declaration did Bahrain’s national oil company make after an Iranian attack set its refinery complex ablaze, releasing the company of contractual obligations?",
+    "a": "Force majeure."
+  },
+  {
+    "q": "Which countries' tankers carrying oil and gas have been stopped from traveling through the Strait of Hormuz due to threats of Iranian missile and drone attacks as of March 2026?",
+    "a": "Saudi Arabia, Kuwait, Iraq, Qatar, Bahrain, the United Arab Emirates, and Iran."
+  },
+  {
+    "q": "Which historical event's previous peak price of around $147 per barrel could be topped if the Strait of Hormuz remains closed for weeks during the 2026 Iran war?",
+    "a": "The 2008 financial crisis."
+  },
+  {
+    "q": "Which region's economies are noted by experts as especially vulnerable to the Iran war's impact on energy prices due to heavy reliance on imports from the Middle East?",
+    "a": "Asian economies."
+  },
+  {
+    "q": "What specific infrastructure in Tehran smoldered following Sunday strikes by Israel, contributing to the war’s toll on civilian targets and the energy sector in late February/early March 2026?",
+    "a": "Oil depots."
+  }
+]

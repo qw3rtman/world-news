@@ -1,0 +1,106 @@
+[
+  {
+    "q": "On February 24, 2026, at 8:45 a.m. Eastern Time, what was the price per ounce of silver, and how much had it increased from the previous day at the same time?",
+    "a": "The price was $87.87 per ounce, representing a $1.59 increase from the previous day."
+  },
+  {
+    "q": "According to Fortune's reporting on February 24, 2026, by how much had the price of silver risen over the course of the preceding year?",
+    "a": "The price had risen by more than $55 compared with one year ago."
+  },
+  {
+    "q": "Who is the staff writer for Personal Finance at Fortune who authored the article dated February 24, 2026, regarding silver prices?",
+    "a": "Joseph Hostetler."
+  },
+  {
+    "q": "What was the specific time of day and time zone when Fortune reported the silver price of $87.87 per ounce on February 24, 2026?",
+    "a": "8:45 a.m. Eastern Time."
+  },
+  {
+    "q": "In the article published by Fortune on February 24, 2026, what was the exact dollar amount increase in the price of silver from the prior day to the reported time?",
+    "a": "$1.59."
+  },
+  {
+    "q": "What section of Fortune did Joseph Hostetler write for in his February 24, 2026, article about the current price of silver?",
+    "a": "Personal Finance."
+  },
+  {
+    "q": "As of February 24, 2026, what was the year-over-year price increase for silver reported by Fortune, expressed as a minimum threshold?",
+    "a": "More than $55."
+  },
+  {
+    "q": "On February 24, 2026, what was the reported price per ounce of silver, and what was the publication's name?",
+    "a": "$87.87 per ounce; Fortune."
+  },
+  {
+    "q": "How did the price of silver on February 24, 2026, compare to its price one year prior, according to the Fortune article?",
+    "a": "It was more than $55 higher."
+  },
+  {
+    "q": "What was the daily price change for silver reported by Fortune on February 24, 2026, at 8:45 a.m. Eastern Time?",
+    "a": "An increase of $1.59."
+  },
+  {
+    "q": "Which publication reported on February 24, 2026, that silver was trading at $87.87 per ounce?",
+    "a": "Fortune."
+  },
+  {
+    "q": "What is the full name of the author who wrote the February 24, 2026, Fortune article detailing silver prices?",
+    "a": "Joseph Hostetler."
+  },
+  {
+    "q": "On February 24, 2026, what was the total year-over-year gain in the price of silver reported by Fortune?",
+    "a": "More than $55."
+  },
+  {
+    "q": "What was the price of silver per ounce at 8:45 a.m. Eastern Time on February 24, 2026, according to Fortune?",
+    "a": "$87.87."
+  },
+  {
+    "q": "In the February 24, 2026, Fortune article, what was the difference between the silver price on that day and the price from the previous day?",
+    "a": "$1.59."
+  },
+  {
+    "q": "Who is the staff writer at Fortune's Personal Finance section who reported silver prices on February 24, 2026?",
+    "a": "Joseph Hostetler."
+  },
+  {
+    "q": "According to the February 24, 2026, Fortune report, how much higher was the silver price compared to February 2025?",
+    "a": "More than $55."
+  },
+  {
+    "q": "What specific time on February 24, 2026, did Fortune cite for the silver price of $87.87 per ounce?",
+    "a": "8:45 a.m. Eastern Time."
+  },
+  {
+    "q": "What was the daily increase in the price of silver reported by Fortune on February 24, 2026, relative to the previous day?",
+    "a": "$1.59."
+  },
+  {
+    "q": "Which publication and author provided the silver price data of $87.87 per ounce on February 24, 2026?",
+    "a": "Fortune; Joseph Hostetler."
+  },
+  {
+    "q": "As of February 24, 2026, what was the approximate annual increase in the price of silver reported by Fortune?",
+    "a": "More than $55."
+  },
+  {
+    "q": "What was the price per ounce of silver at 8:45 a.m. Eastern Time on February 24, 2026, and what was the day-over-day change?",
+    "a": "$87.87 per ounce, with a $1.59 increase."
+  },
+  {
+    "q": "In the Fortune article published on February 24, 2026, what was the reported price of silver one year prior to the current date?",
+    "a": "Less than $32.87 (implied by the >$55 rise to $87.87)."
+  },
+  {
+    "q": "What is the title of the Fortune article written by Joseph Hostetler on February 24, 2026, concerning silver prices?",
+    "a": "Current price of silver as of Tuesday, February 24, 2026."
+  },
+  {
+    "q": "On February 24, 2026, what was the reported price of silver per ounce, and how did it compare to the price from one year earlier?",
+    "a": "$87.87 per ounce, which was more than $55 higher than one year ago."
+  },
+  {
+    "q": "What was the exact time zone and time when Fortune reported the silver price of $87.87 on February 24, 2026?",
+    "a": "8:45 a.m. Eastern Time."
+  }
+]

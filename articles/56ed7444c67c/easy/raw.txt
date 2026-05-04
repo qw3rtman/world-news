@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On March 3, 2026, which specific air base near Limassol, Cyprus, was shown with a transport aircraft preparing for landing in the context of the conflict involving Iran?",
+    "a": "RAF Akroteri air base."
+  },
+  {
+    "q": "In early March 2026, which two nations jointly attacked Iran, prompting European leaders to call for de-escalation?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "Which European island nation's security was threatened by the widening conflict involving Iran and Israel in March 2026, causing European leaders to scramble for defense?",
+    "a": "Cyprus."
+  },
+  {
+    "q": "According to the March 3, 2026 report, which ongoing military conflict had already stretched Europe's resources, complicating its response to the new crisis in Cyprus?",
+    "a": "The war in Ukraine."
+  },
+  {
+    "q": "Who are the three journalists credited with writing the March 3, 2026 Bloomberg article titled 'Iran War: UK, Europe Scramble to Defend Cyprus After Drone Attack'?",
+    "a": "Viktoria Dendrinou, Georgios Georgiou, and Ellen Milligan."
+  },
+  {
+    "q": "In the March 2026 conflict scenario, what specific type of aerial weapon attack on Cyprus is referenced in the Bloomberg article title?",
+    "a": "A drone attack."
+  },
+  {
+    "q": "What geographic region is identified in the Bloomberg article's topic list as a potential flashpoint alongside the Iran War and oil shock risks in March 2026?",
+    "a": "The Strait of Hormuz."
+  },
+  {
+    "q": "On March 3, 2026, at what specific time UTC was the Bloomberg article 'Iran War: UK, Europe Scramble to Defend Cyprus After Drone Attack' first published?",
+    "a": "4:47 PM UTC."
+  },
+  {
+    "q": "On March 3, 2026, at what specific time UTC was the Bloomberg article regarding the Iran conflict and Cyprus defense updated?",
+    "a": "7:52 PM UTC."
+  },
+  {
+    "q": "Which publication released the report on March 3, 2026, detailing the UK and European response to the drone attack on Cyprus?",
+    "a": "Bloomberg."
+  },
+  {
+    "q": "In the March 2026 geopolitical context described, which entity is described as having found itself 'pulled into another war' due to the conflict with Iran?",
+    "a": "Europe."
+  },
+  {
+    "q": "Which city in Cyprus is located near RAF Akroteri air base, where a transport aircraft was preparing for landing on March 3, 2026?",
+    "a": "Limassol."
+  },
+  {
+    "q": "What specific strategic asset is listed in the Bloomberg article's topic headers as a risk factor alongside the Iran War and missiles/drones?",
+    "a": "Oil Shock Risk."
+  },
+  {
+    "q": "According to the March 3, 2026 article, which nation's nuclear program is a listed topic of concern alongside the active war with Iran?",
+    "a": "Iran’s Nuclear Program."
+  },
+  {
+    "q": "In the March 2026 conflict, which two countries are explicitly named as having attacked Iran on the weekend prior to the March 3 report?",
+    "a": "The US and Israel."
+  },
+  {
+    "q": "Which specific military base near Limassol, Cyprus, is depicted in the article's imagery as preparing for a landing on March 3, 2026?",
+    "a": "RAF Akroteri."
+  },
+  {
+    "q": "What is the primary reason cited in the March 3, 2026 article for why it is difficult for Europe to avoid staying out of the Iran conflict?",
+    "a": "Europe’s resources are already stretched because of Ukraine."
+  },
+  {
+    "q": "Which specific geographic outpost of Europe is described as being under threat and requiring defense scrambling in the March 2026 Iran conflict?",
+    "a": "Cyprus."
+  },
+  {
+    "q": "In the March 2026 timeline, what action did the continent’s leaders take soon after the US and Israel attacked Iran?",
+    "a": "They called for de-escalation."
+  },
+  {
+    "q": "Which specific military infrastructure near Limassol is mentioned in the March 3, 2026 article as a site of activity during the Iran conflict?",
+    "a": "RAF Akroteri air base."
+  },
+  {
+    "q": "What combination of factors made Europe's position 'weak' in March 2026, according to the Bloomberg report?",
+    "a": "The new conflict with Iran and the existing strain from the war in Ukraine."
+  },
+  {
+    "q": "Which specific topic header in the March 3, 2026 Bloomberg article refers to the aerial weaponry involved in the Iran conflict?",
+    "a": "Missiles and Drones."
+  },
+  {
+    "q": "In the March 2026 article, which specific location is identified as the eastern outpost of Europe that leaders were scrambling to protect?",
+    "a": "Cyprus."
+  },
+  {
+    "q": "What is the full title of the Bloomberg article published on March 3, 2026, concerning the UK and European defense efforts?",
+    "a": "Iran War: UK, Europe Scramble to Defend Cyprus After Drone Attack."
+  },
+  {
+    "q": "Which two major powers are described in the March 3, 2026 article as having initiated the attack on Iran that escalated the regional conflict?",
+    "a": "The US and Israel."
+  }
+]

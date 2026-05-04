@@ -1,0 +1,27 @@
+{
+  "hash": "7fecdda0e817",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://timesofindia.indiatimes.com/world/south-asia/nepal-elections-2026-live-updates-voting-poll-result-gen-z-protests-balendra-shah-kp-sharma-oli-pushpa-kamal-dahal-prach/liveblog/129073613.cms",
+      "title": "Nepal Election Results 2026 Live Updates: Balen Shah's party closes in on victory, KP Oli stares at losing his own seat  - The Times of India",
+      "published_date": "2026-03-05T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 6740,
+      "text_length": 29864
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1385699",
+      "spike_id": 10,
+      "market_question": "Will Balendra “Balen” Shah be the next Prime Minister of Nepal?",
+      "event_title": "Next Prime Minister of Nepal",
+      "spike_direction": "up",
+      "spike_delta": 0.2599999999999999,
+      "spike_timestamp_before": "2026-03-04T19:30:41+00:00",
+      "spike_timestamp_after": "2026-03-05T17:30:43+00:00"
+    }
+  ]
+}

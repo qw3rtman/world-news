@@ -1,0 +1,102 @@
+[
+  {
+    "q": "As of March 1, 2026, how long had the Department of Homeland Security been shut down, and which specific presidential address was affected by the lack of pay for Secret Service members guarding the president?",
+    "a": "The shutdown had lasted more than two weeks, and the State of the Union address on Feb. 24, 2026, was affected."
+  },
+  {
+    "q": "On Feb. 27, 2026, which administration sent a proposal to reopen the Department of Homeland Security, and which group of legislators was the recipient of this proposal?",
+    "a": "The Trump administration sent the proposal to Senate Democrats."
+  },
+  {
+    "q": "On Feb. 25, 2026, what did Senate Appropriations Committee top Democrat Patty Murray claim about the Trump administration's negotiation stance regarding federal immigration enforcement, and who contradicted her claim hours later?",
+    "a": "Murray claimed the administration had not started negotiating earnestly, and Senate Majority Leader John Thune contradicted her."
+  },
+  {
+    "q": "How many times had funding for the Department of Homeland Security lapsed during President Donald Trump's second term as of the Feb. 27, 2026, shutdown standoff?",
+    "a": "It was the third time funding for the agency had lapsed."
+  },
+  {
+    "q": "Which two Department of Homeland Security components had scaled back crucial functions during the Feb. 2026 shutdown, while immigration enforcement operations continued as usual?",
+    "a": "The Federal Emergency Management Agency (FEMA) and the Coast Guard."
+  },
+  {
+    "q": "On Feb. 24, 2026, how did President Donald Trump address the Department of Homeland Security funding lapse during his State of the Union speech?",
+    "a": "He made sparing mentions of the funding lapse."
+  },
+  {
+    "q": "Which union leaders anticipated longer wait times for airline passengers due to TSA employees receiving only a fraction of their usual pay on Friday, Feb. 27, 2026?",
+    "a": "Union leaders for workers at the Transportation Security Administration (TSA)."
+  },
+  {
+    "q": "Which two fatal shootings in January 2026 are referenced as events whose timeline distance may give Republicans more leverage in the DHS shutdown negotiations?",
+    "a": "The fatal shootings of two Minnesotans."
+  },
+  {
+    "q": "What three specific demands did Democrats make to the White House following the killing of Alex Pretti in Minneapolis, as part of their ten central demands?",
+    "a": "A ban on mask-wearing for agents, stricter use-of-force standards, and body camera requirements."
+  },
+  {
+    "q": "What longstanding precedent regarding Immigration and Customs Enforcement (ICE) did Democrats want reestablished concerning 'sensitive locations' such as schools, hospitals, and churches?",
+    "a": "That ICE would not target sensitive locations."
+  },
+  {
+    "q": "On Feb. 25, 2026, which Senate Minority Leader stated that Democrats' ideas were simple and followed by almost every police department in America?",
+    "a": "Senate Minority Leader Chuck Schumer."
+  },
+  {
+    "q": "At Columbia University in New York City, what false claim did five federal agents make to gain access to a residential dorm, and whom did they detain without a warrant?",
+    "a": "They falsely claimed to be police looking for a missing child, and they detained senior Ellie Aghayeva."
+  },
+  {
+    "q": "Which New York City official made a personal appeal to the president that resulted in the release of Ellie Aghayeva on Feb. 26, 2026?",
+    "a": "New York City Mayor Zohran Mamdani."
+  },
+  {
+    "q": "Which House Speaker stated that appeals for a mask ban and judicial warrant requirements were nonstarters for Republicans during the Feb. 2026 DHS negotiations?",
+    "a": "House Speaker Mike Johnson."
+  },
+  {
+    "q": "According to House Speaker Mike Johnson and other Republican lawmakers, why do face coverings help federal agents during immigration enforcement?",
+    "a": "They help prevent federal agents from becoming targets for harassment or threats."
+  },
+  {
+    "q": "Before the shooting of Alex Pretti, how much money had Republicans already agreed to set aside for body-worn cameras for immigration enforcement agents?",
+    "a": "$20 million."
+  },
+  {
+    "q": "On Feb. 27, 2026, which political figure's office stated it was closely reviewing the White House's latest counteroffer to reopen the Department of Homeland Security?",
+    "a": "Senate Minority Leader Chuck Schumer's office."
+  },
+  {
+    "q": "Which two geopolitical issues had Washington's attention largely turned toward by late February 2026, away from the politics of immigration enforcement?",
+    "a": "U.S. military strikes in Iran and heightened tensions with Iran and Cuba."
+  },
+  {
+    "q": "What specific type of random stops did House Speaker Mike Johnson indicate openness to limiting during the DHS shutdown negotiations?",
+    "a": "Roving patrols, or random stops of suspicious vehicles."
+  },
+  {
+    "q": "What specific restriction did Democrats want tightened regarding what types of warrants authorize federal agents to arrest people and use force to enter residences?",
+    "a": "They wanted tightened restrictions around the types of warrants that authorize such actions."
+  },
+  {
+    "q": "Which Cabinet agency, created in the 9/11 era, was the subject of the third funding lapse during President Donald Trump's second term?",
+    "a": "The Department of Homeland Security."
+  },
+  {
+    "q": "Who is the congressional reporter for USA TODAY who wrote the article titled 'Where things stand in the Homeland Security shutdown standoff' published on March 1, 2026?",
+    "a": "Zachary Schermele."
+  },
+  {
+    "q": "Which two countries did the U.S. have heightened tensions with, as noted in the article published on March 1, 2026?",
+    "a": "Iran and Cuba."
+  },
+  {
+    "q": "What specific action did five federal agents take at Columbia University that involved misrepresenting their identity to gain access to a residential dorm?",
+    "a": "They falsely said they were police looking for a missing child."
+  },
+  {
+    "q": "Which two political parties' members have continued talking past each other publicly during the Department of Homeland Security shutdown negotiations as of late February 2026?",
+    "a": "Democrats and Republicans."
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "hash": "7588a4c5a04b",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.barrons.com/articles/crude-oil-price-today-iran-8b57d89d?gaa_at=eafs&gaa_n=AWEtsqcmaQ2n6EhzKsHLwyAGts-osNd52WorQWiJeQvsKxkgp98HItRATxgd&gaa_sig=naGk2LXNwuw0fcgTEmw9Nm7JQw8DdCXdl87RXNzaL9WX3SxeotBC7ZoGR9Xb9jIqGFurS4aLPU0DHpYahZjbdg%3D%3D&gaa_ts=69a5f6b5",
+      "title": "Oil Price Today: Crude Spikes on Iran News. How High Can Prices Go?<!-- --> - Barron's",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Alex Kozul-Wright|Anita Hamilton|Callum Keown",
+      "num_tokens": 68,
+      "text_length": 298
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1467771",
+      "spike_id": 7,
+      "market_question": "Will Crude Oil (CL) hit (LOW) $65 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.29,
+      "spike_timestamp_before": "2026-03-02T16:30:34+00:00",
+      "spike_timestamp_after": "2026-03-02T22:30:35+00:00"
+    }
+  ]
+}

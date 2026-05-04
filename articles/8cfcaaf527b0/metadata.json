@@ -1,0 +1,37 @@
+{
+  "hash": "8cfcaaf527b0",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://www.al-monitor.com/originals/2026/03/trump-says-iran-war-will-end-very-soon",
+      "title": "Trump says Iran war will end 'very soon' - AL-Monitor: The Middle Eastʼs leading independent news source since 2012",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 790,
+      "text_length": 3819
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1466150",
+      "spike_id": 9,
+      "market_question": "Iran x Israel/US conflict ends by March 31?",
+      "event_title": "Iran x Israel/US conflict ends by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.22999999999999998,
+      "spike_timestamp_before": "2026-03-09T02:00:25+00:00",
+      "spike_timestamp_after": "2026-03-09T21:00:36+00:00"
+    },
+    {
+      "market_id": "1484914",
+      "spike_id": 3,
+      "market_question": "Iran x Israel/US conflict ends by May 15?",
+      "event_title": "Iran x Israel/US conflict ends by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.17500000000000004,
+      "spike_timestamp_before": "2026-03-09T00:30:23+00:00",
+      "spike_timestamp_after": "2026-03-09T21:30:26+00:00"
+    }
+  ]
+}

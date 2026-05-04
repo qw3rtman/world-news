@@ -1,0 +1,100 @@
+[
+  {
+    "q": "In the March 2026 Texas Democratic U.S. Senate primary, which state lawmaker won the nomination, and what is the specific date scheduled for the Republican U.S. Senate primary runoff between incumbent Senator John Cornyn and Attorney General Ken Paxton if no candidate receives over 50% of the vote?",
+    "a": "James Talarico won the Democratic primary; the Republican runoff is scheduled for May 26, 2026."
+  },
+  {
+    "q": "Who is the incumbent Republican U.S. Senator from Texas facing Attorney General Ken Paxton in a May 26, 2026 runoff, and what is the vote threshold required to avoid a runoff in Texas primaries?",
+    "a": "John Cornyn is the incumbent; a candidate must receive more than 50% of the vote to avoid a runoff."
+  },
+  {
+    "q": "During the 2026 Texas primary elections, which two candidates are competing in the Republican U.S. Senate runoff, and what is the full name of the Democratic candidate who won the U.S. Senate primary outright?",
+    "a": "John Cornyn and Ken Paxton are in the Republican runoff; James Talarico won the Democratic primary."
+  },
+  {
+    "q": "What is the date of the runoff election for the Texas Republican U.S. Senate seat, and which two individuals are the top finishers in that contest as of the March 2026 primary results?",
+    "a": "The runoff is on May 26, 2026; the top finishers are John Cornyn and Ken Paxton."
+  },
+  {
+    "q": "In the context of the 2026 Texas elections, who won the Democratic U.S. Senate primary, and what specific percentage of the vote is required for a candidate to win a primary without going to a runoff?",
+    "a": "James Talarico won the Democratic primary; more than 50% of the vote is required to avoid a runoff."
+  },
+  {
+    "q": "Which Texas Attorney General is challenging incumbent Senator John Cornyn in a May 26, 2026 runoff, and who is the Democratic state lawmaker who secured the party's nomination for the U.S. Senate in the March 2026 primary?",
+    "a": "Ken Paxton is challenging John Cornyn; James Talarico secured the Democratic nomination."
+  },
+  {
+    "q": "What is the scheduled date for the Texas Republican U.S. Senate primary runoff between John Cornyn and Ken Paxton, and what rule determines when such a runoff is held?",
+    "a": "The runoff is scheduled for May 26, 2026; it is held if no candidate receives more than 50% of the vote.",
+    "q": "Who are the two candidates in the May 26, 2026 Republican U.S. Senate runoff in Texas, and which Democratic candidate won the U.S. Senate primary in March 2026 without needing a runoff?",
+    "a": "John Cornyn and Ken Paxton are in the Republican runoff; James Talarico won the Democratic primary."
+  },
+  {
+    "q": "In the 2026 Texas primary elections, what is the name of the Democratic U.S. Senate primary winner, and what is the specific vote percentage threshold that triggers a runoff between the top two finishers?",
+    "a": "James Talarico won the Democratic primary; the threshold is more than 50% of the vote."
+  },
+  {
+    "q": "Which incumbent U.S. Senator from Texas is participating in a May 26, 2026 runoff against Attorney General Ken Paxton, and who defeated other candidates in the Democratic U.S. Senate primary in March 2026?",
+    "a": "John Cornyn is in the runoff; James Talarico won the Democratic primary."
+  },
+  {
+    "q": "What is the date of the Texas Republican U.S. Senate runoff election, and which two political figures are the candidates in that race following the March 2026 primary results?",
+    "a": "The runoff is on May 26, 2026; the candidates are John Cornyn and Ken Paxton."
+  },
+  {
+    "q": "Who is the state lawmaker that won the Democratic U.S. Senate primary in Texas in 2026, and what is the specific vote share requirement for a candidate to avoid a runoff in Texas primaries?",
+    "a": "James Talarico won the primary; a candidate needs more than 50% of the vote to avoid a runoff."
+  },
+  {
+    "q": "In the 2026 Texas Republican U.S. Senate primary, who are the top two finishers heading into the May 26, 2026 runoff, and who is the Democratic nominee for the same U.S. Senate seat?",
+    "a": "John Cornyn and Ken Paxton are the Republican top two; James Talarico is the Democratic nominee."
+  },
+  {
+    "q": "What is the full name of the Texas Attorney General challenging Senator John Cornyn in a May 26, 2026 runoff, and who is the Democratic state lawmaker who won the U.S. Senate primary in March 2026?",
+    "a": "Ken Paxton is challenging John Cornyn; James Talarico won the Democratic primary."
+  },
+  {
+    "q": "Which Texas primary election results from March 2026 indicate that a runoff will be held on May 26, 2026, between John Cornyn and Ken Paxton, and who won the Democratic U.S. Senate primary?",
+    "a": "The Republican U.S. Senate primary results indicate the runoff; James Talarico won the Democratic primary."
+  },
+  {
+    "q": "What is the specific date for the runoff between incumbent Senator John Cornyn and Attorney General Ken Paxton in Texas, and what percentage of the vote is needed to win a primary outright?",
+    "a": "The runoff is on May 26, 2026; more than 50% of the vote is needed to win outright."
+  },
+  {
+    "q": "Who is the Democratic U.S. Senate primary winner in Texas as of March 2026, and which two Republicans are set to compete in a May 26, 2026 runoff?",
+    "a": "James Talarico won the Democratic primary; John Cornyn and Ken Paxton are in the Republican runoff."
+  },
+  {
+    "q": "In the 2026 Texas elections, who is the incumbent Republican U.S. Senator facing a May 26, 2026 runoff, and who is the Democratic state lawmaker who won the Senate primary?",
+    "a": "John Cornyn is the incumbent in the runoff; James Talarico won the Democratic primary."
+  },
+  {
+    "q": "What is the name of the Texas state lawmaker who won the Democratic U.S. Senate primary in March 2026, and what is the vote threshold that determines if a Republican runoff occurs between John Cornyn and Ken Paxton?",
+    "a": "James Talarico won the primary; the threshold is more than 50% of the vote."
+  },
+  {
+    "q": "Which two candidates are in the May 26, 2026 Texas Republican U.S. Senate runoff, and who is the Democratic candidate who won the U.S. Senate primary without a runoff?",
+    "a": "John Cornyn and Ken Paxton are in the runoff; James Talarico won the Democratic primary."
+  },
+  {
+    "q": "What is the date of the Texas Republican U.S. Senate runoff election, and which Democratic state lawmaker won the party's U.S. Senate primary in March 2026?",
+    "a": "The runoff is on May 26, 2026; James Talarico won the Democratic primary."
+  },
+  {
+    "q": "Who is the Texas Attorney General challenging John Cornyn in a May 26, 2026 runoff, and what is the name of the Democratic state lawmaker who won the U.S. Senate primary?",
+    "a": "Ken Paxton is challenging John Cornyn; James Talarico won the Democratic primary."
+  },
+  {
+    "q": "In the 2026 Texas primary results, who won the Democratic U.S. Senate primary, and what is the specific date for the Republican runoff between John Cornyn and Ken Paxton?",
+    "a": "James Talarico won the Democratic primary; the Republican runoff is on May 26, 2026."
+  },
+  {
+    "q": "Which incumbent U.S. Senator from Texas is in a May 26, 2026 runoff, and who is the Democratic state lawmaker who won the U.S. Senate primary in March 2026?",
+    "a": "John Cornyn is in the runoff; James Talarico won the Democratic primary."
+  },
+  {
+    "q": "What is the vote percentage required to avoid a runoff in Texas primaries, and who are the two candidates in the May 26, 2026 Republican U.S. Senate runoff?",
+    "a": "More than 50% is required; John Cornyn and Ken Paxton are the candidates."
+  }
+]

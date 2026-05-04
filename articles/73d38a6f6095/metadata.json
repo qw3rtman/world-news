@@ -1,0 +1,47 @@
+{
+  "hash": "73d38a6f6095",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.scmp.com/week-asia/politics/article/3345033/will-iran-collapse-without-khamenei-or-can-its-regime-endure",
+      "title": "Will Iran collapse without Khamenei or can its regime endure? | South China Morning Post",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 283,
+      "text_length": 1503
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "663583",
+      "spike_id": 4,
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "event_title": "Will the Iranian regime fall before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.16500000000000004,
+      "spike_timestamp_before": "2026-02-28T22:30:36+00:00",
+      "spike_timestamp_after": "2026-03-01T17:30:43+00:00"
+    },
+    {
+      "market_id": "958443",
+      "spike_id": 5,
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "event_title": "Will the Iranian regime fall by June 30?",
+      "spike_direction": "down",
+      "spike_delta": -0.19499999999999995,
+      "spike_timestamp_before": "2026-02-28T22:30:21+00:00",
+      "spike_timestamp_after": "2026-03-01T14:30:32+00:00"
+    },
+    {
+      "market_id": "958443",
+      "spike_id": 6,
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "event_title": "Will the Iranian regime fall by June 30?",
+      "spike_direction": "down",
+      "spike_delta": -0.20999999999999996,
+      "spike_timestamp_before": "2026-02-28T22:30:21+00:00",
+      "spike_timestamp_after": "2026-03-01T17:30:21+00:00"
+    }
+  ]
+}

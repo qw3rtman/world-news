@@ -1,0 +1,65 @@
+{
+  "spike_index": 9,
+  "direction": "down",
+  "price_before": 0.465,
+  "price_after": 0.195,
+  "delta": -0.27,
+  "abs_delta": 0.27,
+  "timestamp_before": "2026-03-16T06:00:33+00:00",
+  "timestamp_after": "2026-03-16T12:30:25+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "http://www.reuters.com/business/finance/unicredit-launches-offer-own-more-than-30-commerzbank-without-taking-control-2026-03-16/",
+      "file": "bdb4b1434448.txt",
+      "title": "UniCredit makes low-ball Commerzbank offer in bid to secure talks | Reuters",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "Valentina Za",
+      "text_length": 6175,
+      "status": "ok",
+      "num_tokens": 1410
+    },
+    {
+      "url": "https://today.reuters.com/business/public-storage-acquire-national-storage-affiliates-all-stock-deal-2026-03-16/",
+      "file": "4eec15da952f.txt",
+      "title": "Public Storage to buy National Storage Affiliates in $10.5 billion deal | Reuters",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "Abhinav Parmar",
+      "text_length": 2226,
+      "status": "ok",
+      "num_tokens": 457
+    },
+    {
+      "url": "https://www.spiegel.de/wirtschaft/unternehmen/unicredit-das-steckt-hinter-dem-uebernahmeangebot-fuer-die-commerzbank-a-9944e997-0156-4ba8-80c3-63092f28f4d5",
+      "file": "8f4789e456f4.txt",
+      "title": "Unicredit: Das steckt hinter dem \u00dcbernahmeangebot f\u00fcr die Commerzbank - DER SPIEGEL",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "Tim Bartz, DER SPIEGEL",
+      "text_length": 70,
+      "status": "ok",
+      "num_tokens": 22
+    },
+    {
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/key-players-unicredits-pursuit-commerzbank-2026-03-16/",
+      "file": "d32a22e183d6.txt",
+      "title": "Key players in UniCredit's pursuit of Commerzbank | Reuters",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": null,
+      "text_length": 3354,
+      "status": "ok",
+      "num_tokens": 754
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/14/fertitta-caesars-talks-casino-acquisition.html",
+      "file": "fc7b9efbfc79.txt",
+      "title": "Fertitta and Caesars in weekend deal talks to acquire casino",
+      "published_date": "2026-03-14T00:00:00.000Z",
+      "author": "Contessa Brewer,Sandy Cannold",
+      "text_length": 5148,
+      "status": "ok",
+      "num_tokens": 1138
+    }
+  ],
+  "total_tokens": 3781
+}

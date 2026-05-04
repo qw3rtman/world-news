@@ -1,0 +1,47 @@
+{
+  "hash": "249981e0cfc1",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://app.al-monitor.com/originals/2026/03/us-says-iran-firing-fewer-missiles-us-strikes-expand-inland",
+      "title": "US says Iran firing fewer missiles, US strikes to expand inland - AL-Monitor: The Middle Eastʼs leading independent news source since 2012",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 253,
+      "text_length": 1186
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1399066",
+      "spike_id": 3,
+      "market_question": "US strikes Iran by March 4, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.8635,
+      "spike_timestamp_before": "2026-02-27T08:30:20+00:00",
+      "spike_timestamp_after": "2026-02-28T08:00:33+00:00"
+    },
+    {
+      "market_id": "1399067",
+      "spike_id": 3,
+      "market_question": "US strikes Iran by March 5, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.8345,
+      "spike_timestamp_before": "2026-02-27T09:30:23+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:49+00:00"
+    },
+    {
+      "market_id": "1399072",
+      "spike_id": 2,
+      "market_question": "US strikes Iran by March 6, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.7945000000000001,
+      "spike_timestamp_before": "2026-02-27T09:00:29+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:46+00:00"
+    }
+  ]
+}

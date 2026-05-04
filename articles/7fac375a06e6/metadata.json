@@ -1,0 +1,37 @@
+{
+  "hash": "7fac375a06e6",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://asia.nikkei.com/spotlight/iran-tensions/oil-gains-9-as-iran-says-strait-of-hormuz-closure-to-continue",
+      "title": "Oil settles above $100 as Iran vows to keep Strait of Hormuz closed - Nikkei Asia",
+      "published_date": "2026-03-12T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 753,
+      "text_length": 3516
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1467763",
+      "spike_id": 19,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $120 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.18499999999999997,
+      "spike_timestamp_before": "2026-03-11T04:00:33+00:00",
+      "spike_timestamp_after": "2026-03-12T01:00:32+00:00"
+    },
+    {
+      "market_id": "1467763",
+      "spike_id": 20,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $120 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.23500000000000001,
+      "spike_timestamp_before": "2026-03-11T04:00:33+00:00",
+      "spike_timestamp_after": "2026-03-12T03:00:45+00:00"
+    }
+  ]
+}

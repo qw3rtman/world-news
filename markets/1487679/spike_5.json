@@ -1,0 +1,65 @@
+{
+  "spike_index": 5,
+  "direction": "up",
+  "price_before": 0.21,
+  "price_after": 0.555,
+  "delta": 0.3450000000000001,
+  "abs_delta": 0.3450000000000001,
+  "timestamp_before": "2026-03-07T07:30:24+00:00",
+  "timestamp_after": "2026-03-07T21:30:25+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.foxnews.com/world/irans-last-line-resistance-holds-back-houthi-terror-group-warns-its-ready-act",
+      "file": "b3a28ded39cb.txt",
+      "title": "Houthis declare fingers on trigger for potential conflict with US and Israel | Fox News",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": null,
+      "text_length": 3839,
+      "status": "ok",
+      "num_tokens": 835
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2026/3/7/why-yemens-houthis-are-staying-out-of-israel-us-fight-with-iran-for-now",
+      "file": "161d9e5f9687.txt",
+      "title": "Why Yemen\u2019s Houthis are staying out of Israel-US fight with Iran \u2013 for now | US-Israel war on Iran News | Al Jazeera",
+      "published_date": "2026-03-07T00:00:00.000Z",
+      "author": "Al Jazeera Staff",
+      "text_length": 7793,
+      "status": "ok",
+      "num_tokens": 1657
+    },
+    {
+      "url": "https://www.aljazeera.com/opinions/2026/3/6/will-the-houthis-join-irans-war",
+      "file": "5918269fadcd.txt",
+      "title": "Will the Houthis join Iran\u2019s war? | Houthis | Al Jazeera",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Ahmed al-Shalafi",
+      "text_length": 8674,
+      "status": "ok",
+      "num_tokens": 1605
+    },
+    {
+      "url": "https://www.aljazeera.com/amp/opinions/2026/3/6/will-the-houthis-join-irans-war",
+      "file": "909822ef4c0c.txt",
+      "title": "Will the Houthis join Iran\u2019s war? | Houthis | Al Jazeera",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Ahmed al-Shalafi",
+      "text_length": 8440,
+      "status": "ok",
+      "num_tokens": 1547
+    },
+    {
+      "url": "https://amp.dw.com/en/iran-war-what-role-will-yemens-houthi-group-play/a-76216075",
+      "file": "46a58ff98a23.txt",
+      "title": "Iran war: What role will Yemen's Houthi group play?",
+      "published_date": "2026-03-05T00:00:00.000Z",
+      "author": "Kersten Knipp  Political editor with a focus on the Middle East",
+      "text_length": 5136,
+      "status": "ok",
+      "num_tokens": 1062
+    }
+  ],
+  "total_tokens": 6706
+}

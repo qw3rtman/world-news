@@ -1,0 +1,25 @@
+{
+  "market_id": "586301",
+  "question": "Supreme Court rules in favor of Trump's tariffs?",
+  "slug": "will-the-supreme-court-rule-in-favor-of-trumps-tariffs",
+  "url": "https://polymarket.com/event/will-the-supreme-court-rule-in-favor-of-trumps-tariffs",
+  "description": "This market will resolve to \"Yes\" if the Supreme Court of the United States issues a decision that reverses, vacates, or otherwise overturns the U.S. Court of Appeals for the Federal Circuit\u2019s August 29, 2025 decision in V.O.S. Selections, Inc. v. Trump, in which the Federal Circuit held that the tariffs imposed by Executive Orders 14193, 14194, 14195, 14257, and 14266 exceeded the President\u2019s authority under the International Emergency Economic Powers Act (IEEPA) by December 2026, 11:59 PM ET. Otherwise this market will resolve to \"No.\" \n\nIf the Supreme Court dismisses the case as improvidently granted, denies certiorari, grants/vacates/remands without deciding the merits of IEEPA authorization, affirms by an equally divided Court, or vacates due to mootness, or if the parties settle the case this market will resolve to \"No.\" \n\nFor purposes of this market, the government prevails if the Supreme Court rules on the merits that the tariffs are authorized under IEEPA, or otherwise reverses or vacates the Federal Circuit\u2019s holding that they are unauthorized under IEEPA, regardless of whether the Court remands for further proceedings on issues such as remedy or scope of relief. The government does not prevail if the Supreme Court affirms the Federal Circuit\u2019s decision that the tariffs are unauthorized by IEEPA, even if the Court modifies or vacates portions of the judgment relating only to remedy or injunctive relief.\n\nThe resolution source will be a consensus of credible reporting. \n",
+  "event_title": "Supreme Court rules in favor of Trump's tariffs?",
+  "event_tags": [
+    "Courts",
+    "Trump",
+    "Trump Presidency",
+    "Tariffs",
+    "Trade War",
+    "SCOTUS",
+    "Politics",
+    "Macro Single"
+  ],
+  "volume_total": 4760539.382773,
+  "created_at": "2025-09-02T22:28:08.728561Z",
+  "end_date": "2026-12-31T00:00:00Z",
+  "num_spikes": 1,
+  "max_spike": 0.2645,
+  "total_tokens": 4781,
+  "total_articles": 5
+}

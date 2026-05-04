@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2026, what valuation was Palmer Luckey’s retro gaming company ModRetro reportedly seeking in talks with potential new investors?",
+    "a": "$1 billion"
+  },
+  {
+    "q": "Which publication reported in March 2026 that Palmer Luckey’s ModRetro was in talks to raise funds at a $1 billion valuation?",
+    "a": "The Financial Times"
+  },
+  {
+    "q": "In March 2026, what valuation was Palmer Luckey’s defense technology company Anduril reportedly seeking in talks with investors?",
+    "a": "$60 billion"
+  },
+  {
+    "q": "What is the name of the defense technology company owned by Palmer Luckey that was reported in March 2026 to be in talks for a $60 billion valuation?",
+    "a": "Anduril"
+  },
+  {
+    "q": "According to a March 2026 report, what two distinct businesses owned by Palmer Luckey were simultaneously in talks with investors?",
+    "a": "ModRetro and Anduril"
+  },
+  {
+    "q": "In March 2026, what types of products does Palmer Luckey’s company Anduril sell?",
+    "a": "Drones and autonomous weapons to the military"
+  },
+  {
+    "q": "Who is the author of the March 7, 2026 article titled 'The arms dealer’s Game Boy company is reportedly in talks with potential new investors' published by The Verge?",
+    "a": "Richard Lawler"
+  },
+  {
+    "q": "On what date did The Verge publish the article reporting that Palmer Luckey’s ModRetro was in talks with investors?",
+    "a": "March 7, 2026"
+  },
+  {
+    "q": "In the December 21, 2025 review by Sean Hollister, what handheld gaming device was described as 'among the best ever made'?",
+    "a": "The ModRetro Chromatic"
+  },
+  {
+    "q": "Who wrote the December 21, 2025 review titled 'ModRetro Chromatic review: an arms dealer’s Game Boy is among the best ever made'?",
+    "a": "Sean Hollister"
+  },
+  {
+    "q": "What is the specific model name of the retro gaming handheld device reviewed by Sean Hollister in December 2025?",
+    "a": "ModRetro Chromatic"
+  },
+  {
+    "q": "In March 2026, what was the reported valuation difference between Palmer Luckey’s Anduril ($60 billion) and ModRetro ($1 billion)?",
+    "a": "$59 billion"
+  },
+  {
+    "q": "Which company, owned by Palmer Luckey, was described in a March 2026 report as being in talks to raise funds at a valuation that 'sounds like a lot for a retro gaming company'?",
+    "a": "ModRetro"
+  },
+  {
+    "q": "What is the full name of the defense contractor owned by Palmer Luckey that was reported in March 2026 to be seeking a $60 billion valuation?",
+    "a": "Anduril"
+  },
+  {
+    "q": "In the context of the March 2026 reports, what is the primary business focus of Palmer Luckey’s company Anduril?",
+    "a": "Selling drones and autonomous weapons to the military"
+  },
+  {
+    "q": "Which two media outlets were involved in reporting on Palmer Luckey’s companies in late 2025 and early 2026, specifically The Verge and The Financial Times?",
+    "a": "The Verge and The Financial Times"
+  },
+  {
+    "q": "What specific time was the article about Palmer Luckey’s companies published by The Verge on March 7, 2026?",
+    "a": "8:47 PM UTC"
+  },
+  {
+    "q": "In December 2025, what nickname did Sean Hollister use for the ModRetro Chromatic in his review title?",
+    "a": "An arms dealer’s Game Boy"
+  },
+  {
+    "q": "Who is the entrepreneur that owns both ModRetro and Anduril, according to reports from March 2026?",
+    "a": "Palmer Luckey"
+  },
+  {
+    "q": "What was the reported valuation for Palmer Luckey’s ModRetro in the March 2026 Financial Times report?",
+    "a": "$1 billion"
+  },
+  {
+    "q": "What was the reported valuation for Palmer Luckey’s Anduril in the March 2026 Financial Times report?",
+    "a": "$60 billion"
+  },
+  {
+    "q": "Which handheld gaming device did Sean Hollister review in December 2025, which is produced by Palmer Luckey’s company ModRetro?",
+    "a": "ModRetro Chromatic"
+  },
+  {
+    "q": "In March 2026, which of Palmer Luckey’s companies was described as a 'retro gaming company' in The Financial Times report?",
+    "a": "ModRetro"
+  },
+  {
+    "q": "In March 2026, which of Palmer Luckey’s companies was described as selling 'drones and autonomous weapons to the military' in The Financial Times report?",
+    "a": "Anduril"
+  },
+  {
+    "q": "What is the name of the article published by The Verge on March 7, 2026, that discusses Palmer Luckey’s companies seeking investment?",
+    "a": "The arms dealer’s Game Boy company is reportedly in talks with potential new investors"
+  }
+]

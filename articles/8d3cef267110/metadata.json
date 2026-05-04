@@ -1,0 +1,27 @@
+{
+  "hash": "8d3cef267110",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://timesofindia.indiatimes.com/world/us/confirmed-deleted-then-clarified-us-shifts-stance-on-navy-escorting-oil-tanker-in-strait-of-hormuz/articleshow/129438053.cms",
+      "title": "Strait Of Hormuz Oil Tanker: Confirmed, deleted, then clarified: US shifts stance on navy 'escorting' oil tanker in Strait of Hormuz - The Times of India",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": "TOI World Desk  / TIMESOFINDIA.COM /  Updated: Mar 11, 2026, 11:52 IST",
+      "num_tokens": 611,
+      "text_length": 3130
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1554932",
+      "spike_id": 1,
+      "market_question": "US escorts commercial ship through Hormuz by March 31?",
+      "event_title": "US escorts commercial ship through Hormuz by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.18,
+      "spike_timestamp_before": "2026-03-11T21:30:30+00:00",
+      "spike_timestamp_after": "2026-03-11T22:30:31+00:00"
+    }
+  ]
+}

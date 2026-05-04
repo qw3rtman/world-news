@@ -1,0 +1,87 @@
+{
+  "hash": "417cbe622ce9",
+  "n_appearances": 7,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.npr.org/2026/02/28/nx-s1-5730352/world-leaders-reaction-operation-epic-fury",
+      "title": "Here’s how world leaders are reacting to operation 'Epic Fury' : NPR",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "By                  \n   \n       \n      NPR's International Desk",
+      "num_tokens": 1285,
+      "text_length": 6507
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1198523",
+      "spike_id": 1,
+      "market_question": "Will US or Israel strike Iran by March 31, 2026?",
+      "event_title": "US/Israel strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.17999999999999994,
+      "spike_timestamp_before": "2026-02-26T20:30:29+00:00",
+      "spike_timestamp_after": "2026-02-27T14:30:27+00:00"
+    },
+    {
+      "market_id": "1198523",
+      "spike_id": 2,
+      "market_question": "Will US or Israel strike Iran by March 31, 2026?",
+      "event_title": "US/Israel strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.16999999999999993,
+      "spike_timestamp_before": "2026-02-26T23:30:25+00:00",
+      "spike_timestamp_after": "2026-02-27T23:00:33+00:00"
+    },
+    {
+      "market_id": "1385748",
+      "spike_id": 1,
+      "market_question": "Will France, UK, or Germany strike Iran by March 31?",
+      "event_title": "Will France, UK, or Germany strike Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.15100000000000002,
+      "spike_timestamp_before": "2026-02-27T19:30:39+00:00",
+      "spike_timestamp_after": "2026-02-28T19:00:37+00:00"
+    },
+    {
+      "market_id": "1466015",
+      "spike_id": 4,
+      "market_question": "US x Iran ceasefire by March 31?",
+      "event_title": "US x Iran ceasefire by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.21500000000000002,
+      "spike_timestamp_before": "2026-03-01T11:00:20+00:00",
+      "spike_timestamp_after": "2026-03-02T09:00:19+00:00"
+    },
+    {
+      "market_id": "1472011",
+      "spike_id": 4,
+      "market_question": "Will UK strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.22499999999999998,
+      "spike_timestamp_before": "2026-03-01T20:30:32+00:00",
+      "spike_timestamp_after": "2026-03-02T20:00:34+00:00"
+    },
+    {
+      "market_id": "666696",
+      "spike_id": 1,
+      "market_question": "Israel x Iran ceasefire broken by March 31, 2026?",
+      "event_title": "Israel x Iran ceasefire broken by...? ",
+      "spike_direction": "up",
+      "spike_delta": 0.25,
+      "spike_timestamp_before": "2026-02-26T15:00:38+00:00",
+      "spike_timestamp_after": "2026-02-27T15:00:38+00:00"
+    },
+    {
+      "market_id": "791705",
+      "spike_id": 1,
+      "market_question": "Israel strikes Iran by March 31, 2026?",
+      "event_title": "Israel strikes Iran by March 31, 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.20000000000000007,
+      "spike_timestamp_before": "2026-02-27T08:30:22+00:00",
+      "spike_timestamp_after": "2026-02-27T14:30:23+00:00"
+    }
+  ]
+}

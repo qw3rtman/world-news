@@ -1,0 +1,27 @@
+{
+  "hash": "44dea584ed79",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.economist.com/united-states/2026/02/23/where-the-dhs-shutdown-could-start-to-hurt?taid=5ec07d35-8d68-4b28-a629-fc2820c1cf65",
+      "title": "Where the DHS shutdown could start to hurt",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 176,
+      "text_length": 818
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1378925",
+      "spike_id": 1,
+      "market_question": "Will the DHS shutdown end after March 31, 2026?",
+      "event_title": "When will the DHS shutdown end?",
+      "spike_direction": "down",
+      "spike_delta": -0.15299999999999997,
+      "spike_timestamp_before": "2026-02-22T18:30:45+00:00",
+      "spike_timestamp_after": "2026-02-23T18:00:56+00:00"
+    }
+  ]
+}

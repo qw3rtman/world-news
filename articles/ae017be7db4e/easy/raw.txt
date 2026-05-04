@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2026, what specific market capitalization target did Elon Musk expect the combined SpaceX and xAI entity to achieve following their planned initial public offering?",
+    "a": "$1.5 trillion"
+  },
+  {
+    "q": "According to the March 8, 2026 report by Shawn Tully, what is the total amount of capital that Elon Musk expects the merger of SpaceX and xAI to raise?",
+    "a": "$50 billion"
+  },
+  {
+    "q": "In the context of the March 2026 SpaceX IPO analysis, which company holds the record for the highest total valuation among all initial public offerings, surpassing the projected $1.5 trillion valuation of SpaceX?",
+    "a": "Saudi Aramco"
+  },
+  {
+    "q": "Which company's 2018 initial public offering is cited in the March 2026 article as the second-highest valuation in history, serving as a benchmark against SpaceX's projected $1.5 trillion cap?",
+    "a": "Alibaba"
+  },
+  {
+    "q": "What was the specific valuation figure associated with Alibaba's 2018 initial public offering, as referenced in the March 2026 Fortune article analyzing SpaceX?",
+    "a": "$167 million"
+  },
+  {
+    "q": "In March 2026, which artificial intelligence company did Elon Musk merge with SpaceX to form the entity seeking a $1.5 trillion market cap?",
+    "a": "xAI"
+  },
+  {
+    "q": "According to the March 8, 2026 Fortune article, which investment firm's earnings would SpaceX need to exceed to justify its projected $1.5 trillion market capitalization?",
+    "a": "Berkshire Hathaway"
+  },
+  {
+    "q": "Who is the Senior Editor-at-Large for Fortune who authored the March 8, 2026 article titled \"Analyzing the SpaceX IPO: What would it take to justify a $1.5 trillion market cap?\"",
+    "a": "Shawn Tully"
+  },
+  {
+    "q": "During which season of the year in 2026 did reports indicate Elon Musk was planning to conduct the initial public offering for SpaceX?",
+    "a": "Summer"
+  },
+  {
+    "q": "What specific financial milestone would the SpaceX IPO represent regarding capital raise size if it achieved the projected $50 billion valuation, as described in the March 2026 article?",
+    "a": "The single biggest IPO capital raise of all time"
+  },
+  {
+    "q": "In the March 2026 analysis, how does the projected $1.5 trillion valuation of the SpaceX-xAI merger rank relative to Alibaba's 2018 IPO valuation?",
+    "a": "Far ahead"
+  },
+  {
+    "q": "Which two entities constitute the \"pillars\" of Elon Musk's empire that were merged in early 2026 to prepare for the $50 billion capital raise?",
+    "a": "SpaceX and xAI"
+  },
+  {
+    "q": "What is the full name of the rocket enterprise owned by Elon Musk that underwent a merger with xAI prior to its planned 2026 IPO?",
+    "a": "SpaceX"
+  },
+  {
+    "q": "According to the March 2026 Fortune article, which oil company's total valuation is second only to the projected valuation of the merged SpaceX and xAI entity?",
+    "a": "Saudi Aramco"
+  },
+  {
+    "q": "What is the specific publication date of the Fortune article written by Shawn Tully that analyzes the financial requirements for a SpaceX $1.5 trillion market cap?",
+    "a": "March 8, 2026"
+  },
+  {
+    "q": "In the March 2026 article, which Chinese technology giant's 2018 IPO is used as a comparative example of high valuation, specifically noting its $167 million figure?",
+    "a": "Alibaba"
+  },
+  {
+    "q": "What is the estimated market capitalization target for the combined SpaceX and xAI entity as reported by Elon Musk in early 2026?",
+    "a": "$1.5 trillion"
+  },
+  {
+    "q": "Which major American conglomerate and investment company would need to be out-earned by SpaceX to justify its projected $1.5 trillion market cap, according to the March 2026 analysis?",
+    "a": "Berkshire Hathaway"
+  },
+  {
+    "q": "What specific monetary amount is cited as the valuation for Alibaba's 2018 initial public offering in the March 2026 Fortune article?",
+    "a": "$167 million"
+  },
+  {
+    "q": "In early 2026, which two businesses did Elon Musk merge to create the entity expected to raise $50 billion in capital?",
+    "a": "SpaceX and xAI"
+  },
+  {
+    "q": "According to the March 8, 2026 Fortune report, what is the projected total valuation for the merged SpaceX and xAI company?",
+    "a": "$1.5 trillion"
+  },
+  {
+    "q": "Which Saudi Arabian energy company holds the record for the highest total valuation in an IPO, a benchmark surpassed by the projected SpaceX valuation in the March 2026 article?",
+    "a": "Saudi Aramco"
+  },
+  {
+    "q": "What is the specific capital raise amount that Elon Musk expects the merged SpaceX and xAI entity to achieve through its planned 2026 initial public offering?",
+    "a": "$50 billion"
+  },
+  {
+    "q": "In the March 2026 analysis by Shawn Tully, which company's 2018 IPO is identified as having a $167 million valuation, ranking second in total valuation history behind Saudi Aramco?",
+    "a": "Alibaba"
+  },
+  {
+    "q": "Which entity is described as the \"rocket enterprise\" that Elon Musk merged with xAI in early 2026 to pursue a $1.5 trillion market cap?",
+    "a": "SpaceX"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "According to data released by the National Statistics Office in Hanoi on Friday, March 6, 2026, what was the value of Vietnam’s trade deficit in February 2026?",
+    "a": "$1.05 billion"
+  },
+  {
+    "q": "In the February 2026 trade data released by the National Statistics Office in Hanoi, how did Vietnam’s actual trade deficit compare to the Bloomberg survey estimate for that month?",
+    "a": "The actual deficit of $1.05 billion was smaller than the estimated $2.03 billion."
+  },
+  {
+    "q": "How did Vietnam’s trade deficit in February 2026 compare to the deficit reported for January 2026 by the National Statistics Office in Hanoi?",
+    "a": "The February deficit of $1.05 billion was narrower than the January deficit of $1.78 billion."
+  },
+  {
+    "q": "What two economic factors, besides the trade deficit, did the National Statistics Office in Hanoi report were affected by holidays in February 2026?",
+    "a": "Exports and imports both grew less than expected, and consumer prices spiked."
+  },
+  {
+    "q": "Which organization released the February 2026 trade data for Vietnam on a Friday in March 2026, and in which city was this data released?",
+    "a": "The National Statistics Office in Hanoi."
+  },
+  {
+    "q": "What was the specific numerical difference between the Bloomberg survey estimate and the actual reported trade deficit for Vietnam in February 2026?",
+    "a": "The difference was $980 million ($2.03 billion estimate minus $1.05 billion actual)."
+  },
+  {
+    "q": "Did Vietnam’s trade deficit in February 2026 widen or narrow compared to the previous month of January 2026, according to the National Statistics Office in Hanoi?",
+    "a": "It narrowed."
+  },
+  {
+    "q": "What was the reported trade deficit for Vietnam in January 2026, as cited in the February 2026 data release by the National Statistics Office in Hanoi?",
+    "a": "$1.78 billion"
+  },
+  {
+    "q": "Besides the trade deficit narrowing, what happened to consumer prices in Vietnam during the holiday-affected month of February 2026?",
+    "a": "Consumer prices spiked."
+  },
+  {
+    "q": "How did the growth of Vietnam’s exports and imports in February 2026 compare to expectations, according to the National Statistics Office in Hanoi?",
+    "a": "Both grew less than expected."
+  },
+  {
+    "q": "What was the Bloomberg survey estimate for Vietnam’s trade deficit in February 2026 before the actual data was released by the National Statistics Office in Hanoi?",
+    "a": "$2.03 billion"
+  },
+  {
+    "q": "In the context of the February 2026 economic data, which specific month saw a trade deficit of $1.05 billion for Vietnam?",
+    "a": "February 2026"
+  },
+  {
+    "q": "What was the trade deficit for Vietnam in January 2026, and how did it compare to the February 2026 deficit of $1.05 billion?",
+    "a": "The January 2026 deficit was $1.78 billion, which was larger than the February deficit."
+  },
+  {
+    "q": "Which entity provided the official trade data for Vietnam in February 2026 that showed a $1.05 billion deficit?",
+    "a": "The National Statistics Office in Hanoi"
+  },
+  {
+    "q": "What was the Bloomberg survey estimate for the February 2026 trade deficit, and how did the actual figure of $1.05 billion compare to it?",
+    "a": "The estimate was $2.03 billion, and the actual figure was smaller."
+  },
+  {
+    "q": "According to the National Statistics Office in Hanoi, what was the trend in Vietnam’s trade deficit from January 2026 ($1.78 billion) to February 2026 ($1.05 billion)?",
+    "a": "The deficit narrowed."
+  },
+  {
+    "q": "What two specific economic indicators were noted to have underperformed expectations in Vietnam during the holiday-affected February 2026?",
+    "a": "Exports and imports."
+  },
+  {
+    "q": "What happened to consumer prices in Vietnam in February 2026, a month described as holiday-affected in the National Statistics Office in Hanoi report?",
+    "a": "Consumer prices spiked."
+  },
+  {
+    "q": "What was the exact value of the trade deficit reported for Vietnam in January 2026 by the National Statistics Office in Hanoi?",
+    "a": "$1.78 billion"
+  },
+  {
+    "q": "How did the actual February 2026 trade deficit of $1.05 billion compare to the Bloomberg survey estimate of $2.03 billion?",
+    "a": "The actual deficit was smaller than the estimate."
+  },
+  {
+    "q": "Which two months of 2026 are compared in the National Statistics Office in Hanoi report regarding Vietnam’s trade deficit figures?",
+    "a": "January 2026 and February 2026"
+  },
+  {
+    "q": "What was the Bloomberg survey estimate for Vietnam’s trade deficit in February 2026, and what was the actual reported deficit?",
+    "a": "The estimate was $2.03 billion, and the actual was $1.05 billion."
+  },
+  {
+    "q": "In addition to the trade deficit narrowing, what other economic phenomenon occurred in Vietnam during the holiday-affected February 2026?",
+    "a": "Consumer prices spiked."
+  },
+  {
+    "q": "What was the difference in the trade deficit between January 2026 ($1.78 billion) and February 2026 ($1.05 billion) in Vietnam?",
+    "a": "The deficit narrowed by $730 million."
+  },
+  {
+    "q": "According to the National Statistics Office in Hanoi, how did Vietnam’s exports and imports perform in February 2026 relative to expectations?",
+    "a": "Both grew less than expected."
+  }
+]

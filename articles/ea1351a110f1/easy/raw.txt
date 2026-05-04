@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In the news report published on March 3, 2026, by Bloomberg, what specific business strategy is private equity firm Thoma Bravo employing with its latest software deal?",
+    "a": "Thoma Bravo is making a bet on the real economy."
+  },
+  {
+    "q": "According to the March 3, 2026 Bloomberg report by Ryan Gould, which private equity firm is attempting to carve a path through the software market meltdown?",
+    "a": "Thoma Bravo."
+  },
+  {
+    "q": "In the March 3, 2026 news update, which utility company is reported to be nearing a sale?",
+    "a": "Cleco Power."
+  },
+  {
+    "q": "According to the March 3, 2026 Bloomberg article, which investment firm has made an offer for the British aerospace supplier Senior?",
+    "a": "Blackstone Group."
+  },
+  {
+    "q": "In the March 3, 2026 report, what is the nationality of the aerospace supplier Senior, which received an offer from Blackstone Group?",
+    "a": "British."
+  },
+  {
+    "q": "Who is the Bloomberg journalist reporting from San Francisco in the March 3, 2026 article discussing Thoma Bravo and other deals?",
+    "a": "Ryan Gould."
+  },
+  {
+    "q": "According to the March 3, 2026 Bloomberg report, what broader market condition is Thoma Bravo's software deal intended to navigate or overcome?",
+    "a": "The software meltdown."
+  },
+  {
+    "q": "In the March 3, 2026 news brief, which private equity firm's deal is described as potentially carving a path through the software market downturn?",
+    "a": "Thoma Bravo."
+  },
+  {
+    "q": "According to the March 3, 2026 Bloomberg article, which two companies are mentioned alongside Thoma Bravo as part of the day's notable business news?",
+    "a": "Cleco Power and Senior."
+  },
+  {
+    "q": "In the March 3, 2026 report, which investment firm is involved in a transaction with the British aerospace supplier Senior?",
+    "a": "Blackstone Group."
+  },
+  {
+    "q": "According to the March 3, 2026 Bloomberg article, what sector is Thoma Bravo targeting with its latest software deal as a bet on the real economy?",
+    "a": "Software."
+  },
+  {
+    "q": "In the March 3, 2026 news update, which company is described as a British aerospace supplier?",
+    "a": "Senior."
+  },
+  {
+    "q": "According to the March 3, 2026 Bloomberg report, which utility provider is nearing a sale transaction?",
+    "a": "Cleco Power."
+  },
+  {
+    "q": "In the March 3, 2026 article, what is the specific economic sector Thoma Bravo is betting on with its software acquisition?",
+    "a": "The real economy."
+  },
+  {
+    "q": "According to the March 3, 2026 Bloomberg report, which private equity firm is making a strategic bet on the real economy through software deals?",
+    "a": "Thoma Bravo."
+  },
+  {
+    "q": "In the March 3, 2026 news brief, which investment firm is making an offer for Senior, the British aerospace supplier?",
+    "a": "Blackstone Group."
+  },
+  {
+    "q": "According to the March 3, 2026 Bloomberg article, which company is Cleco Power being compared to or grouped with in terms of transaction activity?",
+    "a": "Senior (via Blackstone Group) and Thoma Bravo's software deal."
+  },
+  {
+    "q": "In the March 3, 2026 report, what is the status of Cleco Power's business situation as reported by Bloomberg?",
+    "a": "It is nearing a sale."
+  },
+  {
+    "q": "According to the March 3, 2026 Bloomberg article, which firm is making an offer for Senior, the British aerospace supplier?",
+    "a": "Blackstone Group."
+  },
+  {
+    "q": "In the March 3, 2026 news update, what is the primary focus of Thoma Bravo's latest deal as described by Ryan Gould?",
+    "a": "A bet on the real economy."
+  },
+  {
+    "q": "According to the March 3, 2026 Bloomberg report, which British aerospace supplier is the subject of an offer from Blackstone Group?",
+    "a": "Senior."
+  },
+  {
+    "q": "In the March 3, 2026 article, which private equity firm is attempting to navigate the software market meltdown through its latest deal?",
+    "a": "Thoma Bravo."
+  },
+  {
+    "q": "According to the March 3, 2026 Bloomberg report, which utility company is nearing a sale?",
+    "a": "Cleco Power."
+  },
+  {
+    "q": "In the March 3, 2026 news brief, which investment firm is making an offer for the British aerospace supplier Senior?",
+    "a": "Blackstone Group."
+  },
+  {
+    "q": "According to the March 3, 2026 Bloomberg article, what is the strategic implication of Thoma Bravo's latest software deal?",
+    "a": "It is a bet on the real economy."
+  },
+  {
+    "q": "In the March 3, 2026 report, which three distinct business entities are highlighted for their recent or impending transactions?",
+    "a": "Thoma Bravo, Cleco Power, and Senior."
+  }
+]

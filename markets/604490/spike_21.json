@@ -1,0 +1,65 @@
+{
+  "spike_index": 21,
+  "direction": "up",
+  "price_before": 0.499,
+  "price_after": 0.6685,
+  "delta": 0.16949999999999998,
+  "abs_delta": 0.16949999999999998,
+  "timestamp_before": "2026-03-09T17:00:26+00:00",
+  "timestamp_after": "2026-03-10T01:30:35+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2026/03/08/china-says-thorough-preparations-needed-ahead-of-trump-xi-meeting.html",
+      "file": "e2877482e952.txt",
+      "title": "China says 'thorough preparations' needed ahead of Trump-Xi meeting",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": "Evelyn Cheng",
+      "text_length": 3729,
+      "status": "ok",
+      "num_tokens": 761
+    },
+    {
+      "url": "https://www.reuters.com/business/aerospace-defense/trumps-china-visit-likely-wont-yield-breakthrough-aims-maintain-stability-2026-03-08/",
+      "file": "7d127f3de1ce.txt",
+      "title": "Trump's China visit likely won't yield breakthrough, aims to maintain stability | Reuters",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "Laurie Chen",
+      "text_length": 6171,
+      "status": "ok",
+      "num_tokens": 1246
+    },
+    {
+      "url": "https://www.nbcnews.com/world/asia/us-china-running-world-together-china-says-no-thanks-rcna262278",
+      "file": "423af6d56b28.txt",
+      "title": "The U.S. and China running the world together? China says no thanks",
+      "published_date": "2026-03-07T00:00:00.000Z",
+      "author": null,
+      "text_length": 5002,
+      "status": "ok",
+      "num_tokens": 1041
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-08/china-eyes-landmark-year-for-us-ties-urges-end-to-iran-war",
+      "file": "7de11e367af6.txt",
+      "title": "China Hails \u2018Landmark\u2019 Year in US Ties Despite Widening Iran War - Bloomberg",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": null,
+      "text_length": 618,
+      "status": "ok",
+      "num_tokens": 144
+    },
+    {
+      "url": "https://www.semafor.com/article/03/09/2026/trumps-china-trip-planning-still-scattershot-sources-say",
+      "file": "6defe2cbc268.txt",
+      "title": "Planning for Donald Trump\u2019s April China trip to meet Xi Jinping in Beijing still scattershot | Semafor",
+      "published_date": "2026-03-10T00:00:00.000Z",
+      "author": null,
+      "text_length": 6561,
+      "status": "ok",
+      "num_tokens": 1283
+    }
+  ],
+  "total_tokens": 4475
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On March 12, 2026, by what percentage did Brent crude oil futures settle higher, and what was the final settlement price per barrel?",
+    "a": "Brent crude settled up 9.2% at $100.46 a barrel."
+  },
+  {
+    "q": "Which two major U.S. and global oil benchmarks settled at their highest levels since August 2022 on March 12, 2026?",
+    "a": "Brent crude and U.S. West Texas Intermediate (WTI) crude."
+  },
+  {
+    "q": "What specific vow did Iran's supreme leader make regarding the Strait of Hormuz that contributed to oil prices rising nearly 9% in March 2026?",
+    "a": "The supreme leader vowed to keep the Strait of Hormuz shut."
+  },
+  {
+    "q": "According to U.S. Energy Secretary Chris Wright on March 12, 2026, what was the U.S. Navy's current capability regarding ship escorting through the Strait of Hormuz?",
+    "a": "The U.S. Navy could not escort ships through the Strait of Hormuz at that time."
+  },
+  {
+    "q": "What century-old U.S. law was the Trump administration considering waiving in March 2026 to facilitate energy and agricultural shipments between U.S. ports?",
+    "a": "The Jones Act."
+  },
+  {
+    "q": "Who is the White House press secretary who announced on March 12, 2026, that the Trump administration was considering waiving the Jones Act?",
+    "a": "Karoline Leavitt."
+  },
+  {
+    "q": "What record volume of oil did the International Energy Agency approve for release from strategic stockpiles on March 11, 2026?",
+    "a": "400 million barrels of oil."
+  },
+  {
+    "q": "How much total oil production have Middle East Gulf countries cut, according to the International Energy Agency's report released in March 2026?",
+    "a": "At least 10 million barrels per day."
+  },
+  {
+    "q": "Which organization stated on March 12, 2026, that the ongoing war was causing the biggest oil-supply disruption in the history of global markets?",
+    "a": "The International Energy Agency (IEA)."
+  },
+  {
+    "q": "What specific refining capacity loss did consultants IIR report for Middle East refineries in March 2026?",
+    "a": "A shutdown of 2.35 million barrels per day of crude and condensate refining capacity."
+  },
+  {
+    "q": "Which Lebanese militant group launched its biggest rocket salvo of the war on March 11, 2026, prompting Israeli strikes on Beirut?",
+    "a": "Hezbollah."
+  },
+  {
+    "q": "Which country ordered an immediate ban on refined fuel exports in March 2026 to preempt domestic shortages caused by the Middle East conflict?",
+    "a": "China."
+  },
+  {
+    "q": "In March 2026, which Omani oil export terminal did Oman shift all vessels out of as a precautionary move?",
+    "a": "Mina Al Fahal."
+  },
+  {
+    "q": "Which Saudi Arabian port has seen ramped-up crude exports in recent days leading up to March 2026?",
+    "a": "Yanbu."
+  },
+  {
+    "q": "What session high did Brent crude touch on March 12, 2026, before settling at $100.46?",
+    "a": "$101.60 a barrel."
+  },
+  {
+    "q": "By how much did U.S. West Texas Intermediate (WTI) crude rise in dollars per barrel on March 12, 2026?",
+    "a": "It rose by $8.48 per barrel."
+  },
+  {
+    "q": "Which S&P Global Energy executive stated on March 12, 2026, that the market would remain unbalanced until the Strait of Hormuz reopened?",
+    "a": "Jim Burkhard, vice president and global head of Crude Oil Research at S&P Global Energy."
+  },
+  {
+    "q": "What event on Monday, March 9, 2026, caused Brent crude to drop from its high of $119.50 a barrel?",
+    "a": "U.S. President Donald Trump said the Iran war could be over soon."
+  },
+  {
+    "q": "Which two fuel tankers were struck by explosive-laden Iranian boats in Iraqi waters on March 12, 2026?",
+    "a": "Two fuel tankers (specific names not provided in the article)."
+  },
+  {
+    "q": "What did Iraqi security officials report on March 12, 2026, regarding the status of the country's oil ports?",
+    "a": "That the country's oil ports have completely stopped operations."
+  },
+  {
+    "q": "According to Energy Aspects analysts in March 2026, how many days of current disruption to flows are equivalent to the total barrels of mostly crude and some products inventories?",
+    "a": "25 days."
+  },
+  {
+    "q": "What percentage of world demand does the 10 million barrel per day production cut by Middle East Gulf countries represent, according to the IEA?",
+    "a": "Almost 10% of world demand."
+  },
+  {
+    "q": "Which group's potential entry into the war alongside Iran raised fears about further Red Sea shipping disruption after Hezbollah's March 11, 2026 attack?",
+    "a": "Yemen's Houthis."
+  },
+  {
+    "q": "What did U.S. Energy Secretary Chris Wright say on March 12, 2026, regarding the likelihood of global oil prices hitting $200 a barrel?",
+    "a": "He said global oil prices are unlikely to hit $200 a barrel."
+  },
+  {
+    "q": "On which date did Brent crude hit $119.50 a barrel, its highest since mid-2022, before dropping later that day?",
+    "a": "Monday, March 9, 2026."
+  }
+]

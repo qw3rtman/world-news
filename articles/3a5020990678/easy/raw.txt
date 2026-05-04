@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In early March 2026, which U.S. President criticized allies for a lack of enthusiasm regarding military action, an attack that resulted in an oilfield in the United Arab Emirates catching fire?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "As of March 1, 2026, what did the Chief of Staff of the Israel Defense Forces, Herzi Halevi, state was the status of the majority of Israel's landscape in relation to the ongoing war?",
+    "a": "It was affected by the war."
+  },
+  {
+    "q": "In late February 2026, which Israeli military official, identified as the Army Chief, expressed determination to deepen operations in Lebanon?",
+    "a": "Herzi Halevi."
+  },
+  {
+    "q": "During the week of March 1, 2026, which city's reputation as a safe and prosperous hub was reported to be under threat due to regional conflict?",
+    "a": "Dubai."
+  },
+  {
+    "q": "In early March 2026, which U.S. President stated that even if Gulf countries were hit by retaliation, it was a 'big deal' because the U.S. did what it had to do?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "As of March 2026, which country's electric grid collapsed, causing a national blackout, amid a U.S. oil blockade?",
+    "a": "Cuba."
+  },
+  {
+    "q": "In early March 2026, which international human rights organization stated that the United States was responsible for a deadly attack on an Iranian school?",
+    "a": "Amnesty International."
+  },
+  {
+    "q": "During the week of March 1, 2026, which group of leaders rejected military involvement in the Strait of Hormuz?",
+    "a": "European leaders."
+  },
+  {
+    "q": "In early March 2026, which U.S. President claimed that help for the Strait of Hormuz was 'on the way' while allies rejected military action?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "As of March 2026, which country's officials touted a 'Trump-burning' celebration amid the battle of narratives during the conflict?",
+    "a": "Iran."
+  },
+  {
+    "q": "In early March 2026, which U.S. government agency held an Afghan asylum seeker who had fought alongside U.S. forces in custody, resulting in the individual's death?",
+    "a": "U.S. Immigration and Customs Enforcement (ICE)."
+  },
+  {
+    "q": "As of March 1, 2026, which entity did the United States claim had destroyed the missile capacity of Iran, despite Iran still firing missiles?",
+    "a": "The United States."
+  },
+  {
+    "q": "In early March 2026, which country's army chief, Herzi Halevi, stated that Israel was determined to deepen its operation in Lebanon?",
+    "a": "Israel."
+  },
+  {
+    "q": "During the week of March 1, 2026, which country's oilfield was set ablaze following an attack linked to U.S. President Donald Trump's rhetoric?",
+    "a": "The United Arab Emirates."
+  },
+  {
+    "q": "As of March 2026, which organization reported that the majority of Israel's landscape was affected by the war?",
+    "a": "The Israel Defense Forces (via Army Chief Herzi Halevi)."
+  },
+  {
+    "q": "In early March 2026, which country's electric grid collapse was attributed to a U.S. oil blockade causing a national blackout?",
+    "a": "Cuba."
+  },
+  {
+    "q": "As of March 2026, which international body accused the United States of being responsible for a deadly attack on an Iranian school?",
+    "a": "Amnesty International."
+  },
+  {
+    "q": "During the week of March 1, 2026, which U.S. President stated that help for the Strait of Hormuz was 'on the way'?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "In early March 2026, which country's officials celebrated by burning an effigy of U.S. President Donald Trump?",
+    "a": "Iran."
+  },
+  {
+    "q": "As of March 2026, which U.S. agency was responsible for the death of an Afghan asylum seeker who had fought alongside U.S. forces?",
+    "a": "U.S. Immigration and Customs Enforcement (ICE)."
+  },
+  {
+    "q": "In early March 2026, which country's army chief, Herzi Halevi, declared that Israel was determined to deepen operations in Lebanon?",
+    "a": "Israel."
+  },
+  {
+    "q": "As of March 1, 2026, which city's reputation as a safe and prosperous hub was reported to be under threat?",
+    "a": "Dubai."
+  },
+  {
+    "q": "During the week of March 1, 2026, which group of leaders rejected military involvement in the Strait of Hormuz?",
+    "a": "European leaders."
+  },
+  {
+    "q": "In early March 2026, which U.S. President criticized allies for a lack of enthusiasm, leading to an attack that set an oilfield in the United Arab Emirates ablaze?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "As of March 2026, which country's electric grid collapsed amid a U.S. oil blockade, causing a national blackout?",
+    "a": "Cuba."
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "hash": "ac8d995c5dcd",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-16/meta-to-spend-up-to-27-billion-on-ai-infrastructure-from-nebius",
+      "title": "Meta to Spend Up to $27 Billion on AI Infrastructure From Nebius - Bloomberg",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "Kurt Wagner",
+      "num_tokens": 131,
+      "text_length": 673
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694936",
+      "spike_id": 5,
+      "market_question": "Will Nebius Group be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.18499999999999997,
+      "spike_timestamp_before": "2026-03-14T18:30:24+00:00",
+      "spike_timestamp_after": "2026-03-15T18:00:27+00:00"
+    }
+  ]
+}

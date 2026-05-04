@@ -1,0 +1,100 @@
+[
+  {
+    "q": "On what specific date and time did the Department of Homeland Security lose its funding, leading to a partial government shutdown?",
+    "a": "Saturday at 12:00:01 am et, following the departure of lawmakers on Thursday, February 19, 2026."
+  },
+  {
+    "q": "Which two U.S. Senators were directly involved in the procedural block that prevented a two-week stopgap funding bill for the Department of Homeland Security from passing?",
+    "a": "Senator Chris Murphy, D-Conn., who objected, and Senator Katie Britt, R-Ala., who made the request."
+  },
+  {
+    "q": "What specific legislative action did Senator Chris Murphy take on the Senate floor that blocked Senator Katie Britt’s effort to pass a short-term DHS funding bill?",
+    "a": "He objected to the request, which requires unanimous consent from all 100 senators to proceed."
+  },
+  {
+    "q": "Which three agencies under the Department of Homeland Security were left without funding due to the political standoff in February 2026?",
+    {
+    "q": "Which three agencies under the Department of Homeland Security were left without funding due to the political standoff in February 2026?",
+    "a": "The Transportation Security Administration (TSA), the Coast Guard, and the Federal Emergency Management Agency (FEMA)."
+  },
+  {
+    "q": "According to Representative Tom Cole, how many questions did he field from colleagues, friends, and reporters regarding the lawmakers' departure before the DHS funding lapse?",
+    "a": "He fielded at least forty questions."
+  },
+  {
+    "q": "What was the primary condition Democrats insisted upon before agreeing to fund the Department of Homeland Security in the February 2026 standoff?",
+    "a": "A specific agreement to reform U.S. Immigration and Customs Enforcement (ICE)."
+  },
+  {
+    "q": "Which two individuals were killed in Minneapolis, prompting Democratic base pressure to shutter the Department of Homeland Security over ICE tactics?",
+    "a": "Renee Good and Alex Pretti."
+  },
+  {
+    "q": "Until what year did the One, Big, Beautiful Bill, passed the previous year, fund U.S. Immigration and Customs Enforcement (ICE)?",
+    "a": "2029."
+  },
+  {
+    "q": "What percentage of the federal government was shut down during the brief partial shutdown that occurred more than two weeks prior to the DHS funding lapse in February 2026?",
+    "a": "78 percent."
+  },
+  {
+    "q": "How many total House and Senate Members were required to eventually vote on a bill to fund the Department of Homeland Security, accounting for vacancies?",
+    "a": "532 Members (with two House vacancies)."
+  },
+  {
+    "q": "What is the name of the legislative instrument, often used to keep funding flowing at old spending levels until new agreements are reached, that was discussed as a potential solution in the article?",
+    "a": "Continuing Resolution (CR)."
+  },
+  {
+    "q": "Where did lawmakers travel while the Department of Homeland Security funding deadline loomed on Saturday, February 21, 2026?",
+    "a": "Lawmakers were everywhere from the Middle East to Munich."
+  },
+  {
+    "q": "Which song by Meredith Willson was cited in the article to illustrate the danger of keeping idle lawmakers in Washington without anything to vote on?",
+    "a": "\"Trouble\" from The Music Man."
+  },
+  {
+    "q": "What psychological phenomenon did the article compare to the strategy of keeping frustrated lawmakers in Washington to force them to support a bill?",
+    "a": "Stockholm Syndrome."
+  },
+  {
+    "q": "Why did Representative Tom Cole and other observers express disbelief at the actions of lawmakers in late February 2026?",
+    "a": "Because lawmakers abandoned the Capitol and left the Department of Homeland Security without funding instead of staying to fix the issue."
+  },
+  {
+    "q": "What procedural hurdle did the Senate fail to overcome when trying to pass a placeholder, undetermined funding bill on Thursday, February 19, 2026?",
+    "a": "The Senate failed to break a filibuster."
+  },
+  {
+    "q": "Which political party's base was cited as insisting on Democrats shuttering the Department of Homeland Security over ICE tactics following the Minneapolis killings?",
+    "a": "The Democratic Party's base."
+  },
+  {
+    "q": "What was the status of the DHS employees, such as TSA officers and Coast Guard members, during the funding lapse in February 2026?",
+    "a": "They were technically working without paychecks."
+  },
+  {
+    "q": "How many times had the federal government experienced a shutdown since October 2025 leading up to the DHS funding crisis in February 2026?",
+    "a": "Three shutdowns."
+  },
+  {
+    "q": "What did Democrats reject before sending back another plan late Monday, contributing to the delay in the DHS funding deal?",
+    "a": "The GOP plan."
+  },
+  {
+    "q": "Why did the article argue that tethering lawmakers to Washington with nothing to do was counterproductive during the February 2026 standoff?",
+    "a": "It would stir up trouble, as idle lawmakers might post outrageous things on social media and appear on cable TV, which is counterproductive to securing a deal."
+  },
+  {
+    "q": "Which two chambers of Congress got out of Washington before the DHS funding deadline, allowing the shutdown to occur?",
+    "a": "The House and the Senate."
+  },
+  {
+    "q": "What specific type of bill did Senator Katie Britt attempt to approve that required the agreement of all 100 senators?",
+    "a": "A stopgap, two-week funding bill."
+  },
+  {
+    "q": "According to the article, what would have likely happened if leaders believed a deal was within range during the February 2026 DHS funding negotiations?",
+    "a": "Leaders would have stayed in Washington, expedited the Senate process, and voted over the weekend and Monday."
+  }
+]

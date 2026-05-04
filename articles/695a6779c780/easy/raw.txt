@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the study published on March 5, 2026, in the journal Cell Death Discovery, what were the median progression-free survival rates for patients treated with sotorasib and fulzerasib as monotherapies for non-small cell lung cancer?",
+    "a": "Sotorasib had a median progression-free survival of 6.3 months, and fulzerasib had a median progression-free survival of 9.7 months."
+  },
+  {
+    "q": "According to the research by Daniel Olmo-González and Rafael Rosell published in March 2026, which specific protein states do the KRAS G12C inhibitors sotorasib and fulzerasib target?",
+    "a": "They target the KRAS protein in the guanosine diphosphate (GDP)-bound inactive state."
+  },
+  {
+    "q": "In the March 2026 study by the FIOR Group at Dexeus University Hospital, which human non-small cell lung cancer cell line showed enhanced antitumor growth when treated with cetuximab in combination with fulzerasib?",
+    "a": "The H358 cell line."
+  },
+  {
+    "q": "What mechanism of drug resistance to KRAS G12C inhibitors was identified in the March 5, 2026 study published in Cell Death Discovery involving feedback activation of the epidermal growth factor receptor?",
+    "a": "Feedback activation of the epidermal growth factor receptor inhibits the hydrolysis of the KRAS guanosine triphosphate (GTP)-bound active state and reactivates RAS-mitogen-activated protein kinase signaling."
+  },
+  {
+    "q": "Which two signaling proteins' expression was suppressed by the combination of fulzerasib and cetuximab in the H358 cell line, as reported in the March 2026 study by Mengxin Zhou and colleagues?",
+    "a": "ERK and AKT."
+  },
+  {
+    "q": "In the March 2026 study by GenFleet Therapeutics and Dexeus University Hospital researchers, which two cell lines were found to be less effectively treated by the combination of fulzerasib and cetuximab compared to H358 cells?",
+    "a": "The H23 and H2030 cell lines."
+  },
+  {
+    "q": "What molecular alterations were notably associated with the reduced effectiveness of fulzerasib and cetuximab cotreatment in the H2030 cell line in the study published on March 5, 2026?",
+    "a": "YAP1 and MRAS overexpression."
+  },
+  {
+    "q": "According to the March 2026 study by Nuno G. Oliveira and Rafael Rosell, which feedback negative regulator of the epidermal growth factor receptor was suppressed in H358, H23, and H2030 cell lines starting at the 24-hour time point after treatment with fulzerasib or sotorasib?",
+    "a": "MIG6."
+  },
+  {
+    "q": "In the study published in Cell Death Discovery on March 5, 2026, which enzyme, initially low in all three tested non-small cell lung cancer cell lines, was upregulated following therapy with fulzerasib or sotorasib?",
+    "a": "ASS1."
+  },
+  {
+    "q": "What metabolic change was associated with the upregulation of ASS1 in the H358, H23, and H2030 cell lines treated with fulzerasib or sotorasib in the March 2026 study?",
+    "a": "Increased fumarate levels."
+  },
+  {
+    "q": "Which clinical trial outcomes in colorectal cancer and non-small cell lung cancer patients did the cotreatment response of H358 cells mirror, as described in the March 5, 2026 article by Jordi Codony-Servat and Ana Giménez-Capitán?",
+    "a": "Increased response and progression-free survival resulting from the combination of cetuximab with KRAS G12C inhibitors."
+  },
+  {
+    "q": "Who is listed as the corresponding author for the March 5, 2026 study on cetuximab co-treatment published in Cell Death Discovery?",
+    "a": "Rafael Rosell."
+  },
+  {
+    "q": "Which organization provided generous funding to the IOR Foundation for the study on KRAS G12C inhibitors published on March 5, 2026?",
+    "a": "Julián Santamaría Valiño."
+  },
+  {
+    "q": "Which company is acknowledged for its kind support in the March 5, 2026 study conducted by researchers from Dexeus University Hospital and GenFleet Therapeutics?",
+    "a": "GenFleet Therapeutics (Shanghai)."
+  },
+  {
+    "q": "In the March 2026 study by Daniel Olmo-González and colleagues, which institutional committee approved the animal handling procedures, and what was its approval number?",
+    "a": "The Institutional Animal Care and Use Committee (IACUC) of Shanghai LIDE Biotech, with approval number LDIACUC 010."
+  },
+  {
+    "q": "Which two authors from the FIOR Group at Dexeus University Hospital and the University of Barcelona performed the study concept and design for the March 5, 2026 publication?",
+    "a": "Rafael Rosell and Jordi Codony-Servat."
+  },
+  {
+    "q": "Which researchers from GenFleet Therapeutics (Shanghai) Inc. are listed as authors of the March 5, 2026 study on KRAS G12C inhibitors?",
+    "a": "Fusheng Zhou and Feng Yan."
+  },
+  {
+    "q": "Which Portuguese research institute and faculty are affiliated with author Nuno G. Oliveira in the March 5, 2026 study published in Cell Death Discovery?",
+    "a": "Research Institute for Medicines (iMed.ULisboa), Faculty of Pharmacy, Universidade de Lisboa."
+  },
+  {
+    "q": "What was the reported response rate for sotorasib monotherapy in non-small cell lung cancer patients, as cited in the March 5, 2026 study by Mengxin Zhou and Rafael Rosell?",
+    "a": "41%."
+  },
+  {
+    "q": "What was the reported response rate for fulzerasib monotherapy in non-small cell lung cancer patients, as cited in the March 5, 2026 study by Mengxin Zhou and Rafael Rosell?",
+    "a": "49%."
+  },
+  {
+    "q": "Which two authors from Pangaea Oncology and Dexeus University Hospital are listed as authors of the March 5, 2026 study alongside Miguel Angel Molina-Vila and Ana Giménez-Capitán?",
+    "a": "Jordi Bertrán-Alamillo."
+  },
+  {
+    "q": "In the March 5, 2026 study, which two proteins were overexpressed in the H2030 cell line in conjunction with the reduced efficacy of fulzerasib and cetuximab cotreatment?",
+    "a": "YAP1 and MRAS."
+  },
+  {
+    "q": "Which animal care guidance organization's standards were followed by the Institutional Animal Care and Use Committee of Shanghai LIDE Biotech for the March 2026 study?",
+    "a": "The Association for Assessment and Accreditation of Laboratory Animal Care (AAALAC)."
+  },
+  {
+    "q": "Which two authors from the Department of Biochemistry and Molecular Biomedicine at the University of Barcelona are affiliated with the FIOR Group at Dexeus University Hospital in the March 5, 2026 study?",
+    "a": "Daniel Olmo-González and Ana Giménez-Capitán."
+  },
+  {
+    "q": "What specific cellular effect did the combination of fulzerasib and cetuximab have on the viability of H358 cells in the study published on March 5, 2026?",
+    "a": "It abolished their viability."
+  }
+]

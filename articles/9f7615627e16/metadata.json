@@ -1,0 +1,27 @@
+{
+  "hash": "9f7615627e16",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-08-26?post-id=cmmi28ere00003b6tgbsoekgs",
+      "title": "Day 9 of Middle East conflict — new Iranian leader named, global markets react to oil surges | CNN",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": "Chris Lau, Hilary Whiteman, John Liu, Laura Sharman, Helen Regan, Zeena Saifi, Max Saltman, Julia Vargas Jones, Xiaoqian Lin, Kit Maher, Piper Hudspeth Blackburn, Rhea Mogul, Nina Giraldo, Jennifer Hansler, Zachary Cohen, Auzinea Bacon, Mohammed Tawfeeq, Frederik Pleitgen, Gianluca Mezzofiore, Thomas Bordeaux, Dana Karni, Christian Edwards, Maureen Chowdhury, Alison Main, Aileen Graef, Catherine Nicholls, Abbas Al Lawati, Billy Stockwell, Haley Britzky, Claudia Otto, Niamh Kennedy, Kosta Gak, Sophie Tanno, Mostafa Salem, Ibrahim Dahman, Tamar Michaelis, Tal Shalev, Vasco Cotovio, Clarissa Ward, Leila Gharagozlou, Hanna Park, Jerome Taylor, CNN staff, Rafael Romo, Will Ripley, Alessandra Freitas, Eugenia Yosef, James Legge",
+      "num_tokens": 3684,
+      "text_length": 17954
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1472010",
+      "spike_id": 15,
+      "market_question": "Will UAE strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.23500000000000001,
+      "spike_timestamp_before": "2026-03-09T04:00:19+00:00",
+      "spike_timestamp_after": "2026-03-09T21:30:22+00:00"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the metallurgical test work conducted at Viking Mines' Linka tungsten project in Nevada, what was the grade of the high-grade Linka Pit sample used for initial gravity separation tests?",
+    "a": "1.4 per cent tungsten trioxide"
+  },
+  {
+    "q": "What percentage recovery of tungsten trioxide was achieved during the initial gravity separation test work at Viking Mines' Linka project in Nevada?",
+    "a": "63.7 per cent"
+  },
+  {
+    "q": "At what coarsest grind size, measured in microns, was the 63.7 per cent tungsten recovery achieved in Viking Mines' Linka project gravity separation tests?",
+    "a": "200 microns"
+  },
+  {
+    "q": "What is the name of the Nevada mining district where Viking Mines' Linka tungsten project is located, approximately 7 kilometres south of Highway 50?",
+    "a": "Spencer Hot Springs Mining District"
+  },
+  {
+    "q": "Which two geological formations formed the contact where the skarn system hosting Viking Mines' Linka project was created?",
+    "a": "Ordovician limestone and granitic intrusives"
+  },
+  {
+    "q": "Who is the managing director and chief executive officer of Viking Metals who commented on the 16-times upgrade result in Nevada?",
+    "a": "Julian Woodcock"
+  },
+  {
+    "q": "Which processing specialist did Viking Metals commence discussions with in March 2026 to evaluate low-cost modular solutions for its Linka project?",
+    "a": "Mineral Technologies"
+  },
+  {
+    "q": "Which primary waste mineral was identified by QEMSCAN analysis as being present in minimal amounts alongside garnet in Viking Mines' Linka deposit?",
+    "a": "Calcite"
+  },
+  {
+    "q": "Which two technical consulting firms are overseeing the metallurgical test work program at Viking Mines' Linka project to ensure world-class standards?",
+    "a": "IMO and Base Met Labs"
+  },
+  {
+    "q": "During which quarter did Viking Mines plan to map out drill targets for its Linka project in Nevada?",
+    "a": "The June quarter"
+  },
+  {
+    "q": "How many tonnes of ore grading 0.54 per cent tungsten trioxide did Viking Mines' broader Nevada portfolio, acquired late last year, previously produce across four historic sites?",
+    "a": "123,000 tonnes"
+  },
+  {
+    "q": "During which two historical conflicts did the historic Linka mine produce tungsten before government buying programs ended?",
+    "a": "World War II and the Korean War era"
+  },
+  {
+    "q": "What range of tungsten trioxide grades was reported for production at the historic Linka mine during World War II and the Korean War era?",
+    "a": "Between 0.69 and 0.98 per cent"
+  },
+  {
+    "q": "Which three countries classify tungsten as a critical mineral due to its key role in defence, aerospace, electronics, and manufacturing sectors?",
+    "a": "The United States, the United Kingdom, and Australia"
+  },
+  {
+    "q": "Approximately what percentage of global tungsten consumption is used for tungsten carbide applications such as drill bits and metal cutting tools?",
+    "a": "Roughly 60 per cent"
+  },
+  {
+    "q": "What was the recent price per metric tonne unit for ammonium paratungstate, the primary industrial intermediate product for tungsten, in March 2026?",
+    "a": "US$1,850"
+  },
+  {
+    "q": "Which country dominates global tungsten production, creating high supply risk for Western governments seeking to secure critical mineral chains?",
+    "a": "China"
+  },
+  {
+    "q": "What specific tungsten mineral, described as the heavier cousin of scheelite, is one of the most common tungsten minerals found in deposits like Viking Mines' Linka project?",
+    "a": "Wolframite"
+  },
+  {
+    "q": "What processing method did Viking Mines use to achieve a 16-times increase in grade at its Linka project, relying on scheelite's density?",
+    "a": "Gravity separation"
+  },
+  {
+    "q": "What type of mineralisation system hosts the high-grade scheelite at Viking Mines' Linka project in Nevada?",
+    "a": "A classic skarn system"
+  },
+  {
+    "q": "What new test work did Viking Mines plan to conduct to chase up fine scheelite found in the tails of the gravity separation process?",
+    "a": "Flotation test work"
+  },
+  {
+    "q": "What type of geological model was Viking Mines advancing as part of its development momentum for the Linka project in Nevada?",
+    "a": "A 3D geological model"
+  },
+  {
+    "q": "What is the name of the high-grade sample source from which the initial gravity separation test work was conducted at Viking Mines' Linka project?",
+    "a": "Linka Pit"
+  },
+  {
+    "q": "What rougher concentrate grade of tungsten trioxide was delivered by the initial gravity separation test work at Viking Mines' Linka project?",
+    "a": "22.9 per cent"
+  },
+  {
+    "q": "What strategic advantage do US-based tungsten projects like Viking Mines' Linka enjoy due to geopolitical tailwinds and China's dominance in production?",
+    "a": "They are positioned as domestic supply stories for critical mineral chains"
+  }
+]

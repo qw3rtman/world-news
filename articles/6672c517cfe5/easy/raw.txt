@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On what day of the week did the Pentagon identify four U.S. soldiers killed in the Iran war, as reported in news from early March 2026?",
+    "a": "Sunday"
+  },
+  {
+    "q": "In which city in Iraq was the base located that the four U.S. soldiers were assigned to protect as part of their security team?",
+    "a": "Erbil"
+  },
+  {
+    "q": "On what day of the week did the infantry fighting vehicle carrying the four U.S. soldiers get hit during an Iranian strike?",
+    "a": "Monday"
+  },
+  {
+    "q": "In which western Iranian city near Mehran did the Iranian strike occur that killed the four U.S. soldiers?",
+    "a": "Mehran"
+  },
+  {
+    "q": "Which U.S. government department confirmed that the four U.S. soldiers died when their vehicle was hit during an Iranian strike?",
+    "a": "The Department of Defense"
+  },
+  {
+    "q": "According to reports from early March 2026, what was the status of the final names of the four U.S. soldiers killed in Iran?",
+    "a": "Final names were yet to be released"
+  },
+  {
+    "q": "Approximately how many U.S. troops had been deployed to the Middle East in the past weeks leading up to early March 2026?",
+    "a": "More than 50,000"
+  },
+  {
+    "q": "What specific escalation in hostilities prompted the deployment of more than 50,000 U.S. troops to the Middle East in early March 2026?",
+    "a": "The escalation of hostilities between the U.S. and Iran"
+  },
+  {
+    "q": "What type of military response did the U.S. launch against Iran following the aggression that killed the four soldiers?",
+    "a": "Airstrikes"
+  },
+  {
+    "q": "Which three types of Iranian military infrastructure were destroyed by U.S. airstrikes in early March 2026?",
+    "a": "Missile sites, command and control positions, and radar systems"
+  },
+  {
+    "q": "Who provided the information that multiple Iranian missile sites and radar systems were destroyed by U.S. airstrikes?",
+    "a": "Military officials"
+  },
+  {
+    "q": "What specific vehicle type was hit during the Iranian strike that killed the four U.S. soldiers assigned to protect a base in Erbil?",
+    "a": "Infantry fighting vehicle"
+  },
+  {
+    "q": "In which region of Iran did the Iranian strike take place that resulted in the deaths of the four U.S. soldiers?",
+    "a": "Western Iran"
+  },
+  {
+    "q": "Which organization released the identification of the four U.S. soldiers killed in the Iran war on a Sunday in early March 2026?",
+    "a": "The Pentagon"
+  },
+  {
+    "q": "What was the primary mission of the four U.S. soldiers who were killed in the Iran war?",
+    "a": "To protect a base in Erbil, Iraq"
+  },
+  {
+    "q": "According to the Department of Defense, what caused the death of the four U.S. soldiers assigned to Erbil?",
+    "a": "Their infantry fighting vehicle being hit during an Iranian strike"
+  },
+  {
+    "q": "What was the scale of the U.S. troop deployment to the Middle East in the weeks prior to the reporting date of March 1, 2026?",
+    "a": "More than 50,000 troops"
+  },
+  {
+    "q": "Which two countries were engaged in escalating hostilities that led to the U.S. airstrikes and troop deployments in early March 2026?",
+    "a": "The U.S. and Iran"
+  },
+  {
+    "q": "What specific Iranian assets were targeted and destroyed by U.S. military officials' airstrikes?",
+    "a": "Missile sites, command and control positions, and radar systems"
+  },
+  {
+    "q": "On which day of the week were the names of the four U.S. soldiers killed in Iran officially identified by the Pentagon?",
+    "a": "Sunday"
+  },
+  {
+    "q": "What was the location of the base that the four deceased U.S. soldiers were tasked with securing?",
+    "a": "Erbil, Iraq"
+  },
+  {
+    "q": "In which country did the Iranian strike occur that killed the four U.S. soldiers near Mehran?",
+    "a": "Iran"
+  },
+  {
+    "q": "What type of military equipment did the four U.S. soldiers occupy when it was struck by Iranian forces?",
+    "a": "Infantry fighting vehicle"
+  },
+  {
+    "q": "Which U.S. military branch or command identified the four soldiers killed in the Iran war in early March 2026?",
+    "a": "The Pentagon"
+  },
+  {
+    "q": "What was the reported status of the full identification of the four U.S. soldiers killed in Iran as of the Sunday report in early March 2026?",
+    "a": "Final names were yet to be released"
+  }
+]

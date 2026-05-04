@@ -1,0 +1,65 @@
+{
+  "spike_index": 7,
+  "direction": "up",
+  "price_before": 0.6395,
+  "price_after": 0.7895,
+  "delta": 0.15000000000000002,
+  "abs_delta": 0.15000000000000002,
+  "timestamp_before": "2026-03-03T15:00:33+00:00",
+  "timestamp_after": "2026-03-04T14:30:28+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.barrons.com/articles/gold-price-5300-middle-east-fighting-3fdc74ca?gaa_at=eafs&gaa_n=AWEtsqeom_7zW7zy_BcWvOn8Xj9xj2G9hIoxMEtdTrmjGd_gx77qdVt6lRZy&gaa_sig=LsP68oC6h_N838-tne8aGfK0W5WqcfV4deIYrd29K1Ux3uPnNu7l-d64OvHlJqncslcZaXRuO3eFzyYideJwaQ%3D%3D&gaa_ts=69a5f67c",
+      "file": "22a81b1922d7.txt",
+      "title": "Gold Surges Past $5,300 as Middle East Fighting Escalates<!-- --> - Barron's",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Alex Kozul-Wright|Adam Clark",
+      "text_length": 202,
+      "status": "ok",
+      "num_tokens": 36
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-india-where-is-gold-silver-rate-headed-on-march-04-2026-mcx-gold-futures-outlook/articleshow/129010570.cms",
+      "file": "acd65e68e7f8.txt",
+      "title": "Gold price prediction today: What's the outlook for gold, silver amid Middle East tensions? - The Times of India",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /   Mar 04, 2026, 12:04 IST",
+      "text_length": 3171,
+      "status": "ok",
+      "num_tokens": 684
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/04/gold-gains-as-middle-east-conflict-revive-safe-haven-bid.html",
+      "file": "cf0f7b424d20.txt",
+      "title": "Gold falls as rising yields, firm dollar eclipse safe\u2011haven demand",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "text_length": 2439,
+      "status": "ok",
+      "num_tokens": 569
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/03/gold-extends-gains-as-middle-east-war-boosts-safe-haven-demand.html",
+      "file": "59ec6d0d1e38.txt",
+      "title": "Gold retreats on strong dollar, tempered rate-cut bets",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": null,
+      "text_length": 2194,
+      "status": "ok",
+      "num_tokens": 522
+    },
+    {
+      "url": "http://origin.www.bloomberg.com/news/articles/2026-03-02/gold-rises-as-escalating-conflict-in-middle-east-stokes-demand?srnd=undefined",
+      "file": "387132a1d76a.txt",
+      "title": "Gold Rises as Escalating Conflict in Middle East Stokes Demand - Bloomberg",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Yvonne Yue Li",
+      "text_length": 500,
+      "status": "ok",
+      "num_tokens": 100
+    }
+  ],
+  "total_tokens": 1911
+}

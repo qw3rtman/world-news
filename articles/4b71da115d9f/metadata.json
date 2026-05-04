@@ -1,0 +1,27 @@
+{
+  "hash": "4b71da115d9f",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.npr.org/transcripts/nx-s1-5436832-e1",
+      "title": "Who was Ayatollah Ali Khameini, the Iranian Supreme Leader killed in strikes? : NPR",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1289,
+      "text_length": 5870
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1117242",
+      "spike_id": 5,
+      "market_question": "Nothing Ever Happens: Khamenei",
+      "event_title": "Nothing Ever Happens: Khamenei",
+      "spike_direction": "down",
+      "spike_delta": -0.7645000000000001,
+      "spike_timestamp_before": "2026-02-28T03:30:23+00:00",
+      "spike_timestamp_after": "2026-03-01T02:30:24+00:00"
+    }
+  ]
+}

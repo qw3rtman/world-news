@@ -1,0 +1,47 @@
+{
+  "hash": "af29b2a1e135",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/03/01/crude-oil-futures-iran.html",
+      "title": "WTI oil prices jump on fears Iran retaliation will hasten disruption",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Spencer Kimball",
+      "num_tokens": 797,
+      "text_length": 3814
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1467763",
+      "spike_id": 2,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $120 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.425,
+      "spike_timestamp_before": "2026-02-28T19:30:32+00:00",
+      "spike_timestamp_after": "2026-03-01T01:30:32+00:00"
+    },
+    {
+      "market_id": "1467765",
+      "spike_id": 2,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $110 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.23000000000000004,
+      "spike_timestamp_before": "2026-02-28T21:30:57+00:00",
+      "spike_timestamp_after": "2026-03-01T15:30:41+00:00"
+    },
+    {
+      "market_id": "1467766",
+      "spike_id": 2,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $100 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "up",
+      "spike_delta": 0.285,
+      "spike_timestamp_before": "2026-02-28T22:00:32+00:00",
+      "spike_timestamp_after": "2026-03-01T15:00:33+00:00"
+    }
+  ]
+}

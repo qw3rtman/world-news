@@ -1,0 +1,27 @@
+{
+  "hash": "003383799aa6",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://reuters.com/world/middle-east/netanyahus-war-alliance-with-trump-faces-test-iran-crisis-widens-2026-03-04/",
+      "title": "Netanyahu's war alliance with Trump faces test as Iran crisis widens | Reuters",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "Maayan Lubell",
+      "num_tokens": 1657,
+      "text_length": 8220
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1472019",
+      "spike_id": 11,
+      "market_question": "Will Saudi Arabia strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.155,
+      "spike_timestamp_before": "2026-03-05T23:00:39+00:00",
+      "spike_timestamp_after": "2026-03-06T23:00:26+00:00"
+    }
+  ]
+}

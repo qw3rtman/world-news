@@ -1,0 +1,47 @@
+{
+  "hash": "398a86dc7a7f",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.france24.com/en/video/20260317-who-will-win-the-race-to-become-paris-mayor",
+      "title": "Who will win the race to become Paris mayor? - France 24",
+      "published_date": "2026-03-17T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 43,
+      "text_length": 124
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "646003",
+      "spike_id": 4,
+      "market_question": "Will Emmanuel Grégoire win the Paris mayor election?",
+      "event_title": "Paris Mayoral Election",
+      "spike_direction": "down",
+      "spike_delta": -0.22000000000000008,
+      "spike_timestamp_before": "2026-03-16T14:30:31+00:00",
+      "spike_timestamp_after": "2026-03-17T11:00:36+00:00"
+    },
+    {
+      "market_id": "646003",
+      "spike_id": 5,
+      "market_question": "Will Emmanuel Grégoire win the Paris mayor election?",
+      "event_title": "Paris Mayoral Election",
+      "spike_direction": "down",
+      "spike_delta": -0.2300000000000001,
+      "spike_timestamp_before": "2026-03-16T17:00:34+00:00",
+      "spike_timestamp_after": "2026-03-17T16:30:40+00:00"
+    },
+    {
+      "market_id": "646003",
+      "spike_id": 6,
+      "market_question": "Will Emmanuel Grégoire win the Paris mayor election?",
+      "event_title": "Paris Mayoral Election",
+      "spike_direction": "down",
+      "spike_delta": -0.17500000000000004,
+      "spike_timestamp_before": "2026-03-17T03:30:46+00:00",
+      "spike_timestamp_after": "2026-03-18T01:00:37+00:00"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "spike_index": 3,
+  "direction": "down",
+  "price_before": 0.665,
+  "price_after": 0.45,
+  "delta": -0.21500000000000002,
+  "abs_delta": 0.21500000000000002,
+  "timestamp_before": "2026-02-21T07:30:28+00:00",
+  "timestamp_after": "2026-02-21T21:00:38+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.axios.com/pro/health-tech-deals/2026/02/19/hims-eucalyptus-acquire-1-billion",
+      "file": "626270a9ce5d.txt",
+      "title": "Hims plans to acquire Eucalyptus for up to $1.15B",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": "Brock E.W. Turner",
+      "text_length": 240,
+      "status": "ok",
+      "num_tokens": 55
+    },
+    {
+      "url": "https://www.cnbc.com/2026/02/19/hims-hers-health-to-acquire-australias-eucalyptus-for-up-to-1point15-billion.html",
+      "file": "8942e5eef2b7.txt",
+      "title": "Hims & Hers Health to acquire Australia's Eucalyptus for up to $1.15 billion",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": null,
+      "text_length": 1077,
+      "status": "ok",
+      "num_tokens": 257
+    },
+    {
+      "url": "https://www.barrons.com/articles/hims-hers-stock-telehealth-acquisition-e7bb9649?mod=mw_quote_news_topstories",
+      "file": "649d71800c64.txt",
+      "title": "Hims & Hers Looks to Expand Globally With Buy of Australian Telehealth Provider  <!-- --> - Barron's",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": "Mackenzie Tatananni",
+      "text_length": 317,
+      "status": "ok",
+      "num_tokens": 78
+    },
+    {
+      "url": "https://www.statnews.com/2026/02/19/hims-acquire-eucalyptus-telehealth-international/",
+      "file": "e6f5389767f0.txt",
+      "title": "Hims to buy telehealth firm Eucalyptus as it expands internationally",
+      "published_date": "2026-02-19T00:00:00.000Z",
+      "author": "Andrew Joseph",
+      "text_length": 770,
+      "status": "ok",
+      "num_tokens": 162
+    },
+    {
+      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202602230601BIZWIRE_USPRX____20260222_BW105602-1",
+      "file": "84e485bc13d5.txt",
+      "title": "Gilead Sciences to Acquire Arcellx to Maximize Long-Term Potential of Anito-cel \u2013 Company Announcement - FT.com",
+      "published_date": "2026-02-22T00:00:00.000Z",
+      "author": null,
+      "text_length": 15244,
+      "status": "ok",
+      "num_tokens": 3248
+    }
+  ],
+  "total_tokens": 3800
+}

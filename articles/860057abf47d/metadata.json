@@ -1,0 +1,27 @@
+{
+  "hash": "860057abf47d",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.japantimes.co.jp/news/2026/03/18/world/politics/trump-xi-summit-weeks-war/",
+      "title": "Trump expects Xi summit in ‘five or six weeks’ as Iran war rages - The Japan Times",
+      "published_date": "2026-03-18T00:00:00.000Z",
+      "author": "No Author",
+      "num_tokens": 134,
+      "text_length": 641
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "706279",
+      "spike_id": 10,
+      "market_question": "Will Trump visit China by April 30?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.265,
+      "spike_timestamp_before": "2026-03-18T19:00:44+00:00",
+      "spike_timestamp_after": "2026-03-19T16:30:43+00:00"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the trading session on Monday, March 2, 2026, which U.S. airline stock dropped as much as 7.4% as trading opened in New York?",
+    "a": "American Airlines Group Inc."
+  },
+  {
+    "q": "During the market reaction to the Middle East conflict on Monday, March 2, 2026, by what percentage did shares of Carnival Corp. plunge?",
+    "a": "Nearly 12%."
+  },
+  {
+    "q": "On Monday, March 2, 2026, which energy company's stock jumped 4.7% to reach an intraday record high?",
+    "a": "Exxon Mobil Corp."
+  },
+  {
+    "q": "Which two defense contractors, Lockheed Martin Corp. and RTX Corp., saw their stocks advance during the market volatility on Monday, March 2, 2026?",
+    "a": "Lockheed Martin Corp. and RTX Corp."
+  },
+  {
+    "q": "In the financial markets on Monday, March 2, 2026, which sectors experienced stock declines as investors reacted to the conflict in the Middle East?",
+    "a": "Airlines, cruise operators, and hotels."
+  },
+  {
+    "q": "On Monday, March 2, 2026, which sector's stocks jumped as investors shifted capital away from travel-related industries due to the Middle East conflict?",
+    "a": "Energy and defense stocks."
+  },
+  {
+    "q": "What was the intraday performance milestone achieved by Exxon Mobil Corp. shares on Monday, March 2, 2026?",
+    "a": "They reached an intraday record high."
+  },
+  {
+    "q": "Which cruise operator's stock plunged nearly 12% during the New York trading session on Monday, March 2, 2026?",
+    "a": "Carnival Corp."
+  },
+  {
+    "q": "On Monday, March 2, 2026, what was the maximum percentage drop recorded for American Airlines Group Inc. shares at the opening of trading in New York?",
+    "a": "7.4%."
+  },
+  {
+    "q": "Which two defense industry companies, Lockheed Martin Corp. and RTX Corp., advanced their stock prices on Monday, March 2, 2026, amid the Middle East conflict?",
+    "a": "Lockheed Martin Corp. and RTX Corp."
+  },
+  {
+    "q": "In the context of the March 2, 2026, market volatility driven by the Middle East conflict, which specific geographic market saw the opening trading activity for American Airlines Group Inc.?",
+    "a": "New York."
+  },
+  {
+    "q": "On Monday, March 2, 2026, which energy giant saw its stock jump 4.7% as part of a broader shift toward energy and defense stocks?",
+    "a": "Exxon Mobil Corp."
+  },
+  {
+    "q": "Which travel-related companies, specifically airlines, cruise operators, and hotels, saw their shares fall on Monday, March 2, 2026?",
+    "a": "Airlines, cruise operators, and hotels."
+  },
+  {
+    "q": "What was the percentage increase for Exxon Mobil Corp. stock on Monday, March 2, 2026, that contributed to its intraday record?",
+    "a": "4.7%."
+  },
+  {
+    "q": "Which defense contractor, RTX Corp., saw its stock advance on Monday, March 2, 2026, alongside other defense stocks?",
+    "a": "RTX Corp."
+  },
+  {
+    "q": "On Monday, March 2, 2026, which defense contractor, Lockheed Martin Corp., participated in the advance of defense stocks?",
+    "a": "Lockheed Martin Corp."
+  },
+  {
+    "q": "What was the approximate percentage decline for Carnival Corp. shares during the market reaction to the Middle East conflict on Monday, March 2, 2026?",
+    "a": "Nearly 12%."
+  },
+  {
+    "q": "Which U.S. airline, American Airlines Group Inc., experienced a drop of up to 7.4% at the opening of New York trading on Monday, March 2, 2026?",
+    "a": "American Airlines Group Inc."
+  },
+  {
+    "q": "On Monday, March 2, 2026, which two types of industrial sectors saw their stocks jump due to the Middle East conflict?",
+    "a": "Energy and defense."
+  },
+  {
+    "q": "Which cruise line operator, Carnival Corp., saw its stock plunge nearly 12% on Monday, March 2, 2026?",
+    "a": "Carnival Corp."
+  },
+  {
+    "q": "What was the specific intraday achievement for Exxon Mobil Corp. stock on Monday, March 2, 2026, following a 4.7% jump?",
+    "a": "It reached an intraday record."
+  },
+  {
+    "q": "Which defense companies, Lockheed Martin Corp. and RTX Corp., saw their stocks advance on Monday, March 2, 2026?",
+    "a": "Lockheed Martin Corp. and RTX Corp."
+  },
+  {
+    "q": "On Monday, March 2, 2026, which sector's stocks, specifically airlines, cruise operators, and hotels, fell as investors reacted to the Middle East conflict?",
+    "a": "Airlines, cruise operators, and hotels."
+  },
+  {
+    "q": "What was the maximum drop percentage for American Airlines Group Inc. shares during the New York trading session on Monday, March 2, 2026?",
+    "a": "7.4%."
+  },
+  {
+    "q": "Which energy company, Exxon Mobil Corp., saw its stock jump 4.7% to an intraday record on Monday, March 2, 2026?",
+    "a": "Exxon Mobil Corp."
+  }
+]

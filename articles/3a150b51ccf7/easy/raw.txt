@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the Public Policy Polling survey commissioned by the Texas Justice Fund and conducted from March 5 to March 6, 2026, what was the percentage point lead of Texas Attorney General Ken Paxton over incumbent U.S. Senator John Cornyn in the 2026 Texas Republican U.S. Senate primary runoff?",
+    "a": "Paxton led Cornyn by three points, with 45 percent to 42 percent."
+  },
+  {
+    "q": "Who is the Democratic nominee scheduled to face the winner of the May 26, 2026, Texas Republican U.S. Senate primary runoff?",
+    "a": "James Talarico."
+  },
+  {
+    "q": "According to the Public Policy Polling survey of 565 likely runoff voters conducted in early March 2026, what percentage of respondents were undecided in the race between Ken Paxton and John Cornyn?",
+    "a": "13 percent."
+  },
+  {
+    "q": "In the Public Policy Polling survey conducted March 5–6, 2026, what was the margin of error for the poll showing Ken Paxton leading John Cornyn?",
+    "a": "4.1 percent."
+  },
+  {
+    "q": "How did U.S. Senator John Cornyn perform against Texas Attorney General Ken Paxton among voters who disapproved of President Donald Trump in the Public Policy Polling survey from March 2026?",
+    "a": "Cornyn led 73 percent to 16 percent."
+  },
+  {
+    "q": "How did Texas Attorney General Ken Paxton perform against U.S. Senator John Cornyn among voters who approved of President Donald Trump in the Public Policy Polling survey from March 2026?",
+    "a": "Paxton led 49 percent to 37 percent."
+  },
+  {
+    "q": "What is the legal classification and primary focus of the Texas Justice Fund, the organization that commissioned the Public Policy Polling survey in March 2026?",
+    "a": "It is a 501(c)(4) organization focused on protecting voting rights, fair elections, and access to the ballot."
+  },
+  {
+    "q": "In the Texas Public Opinion Research (TPOR) poll conducted from March 7 to March 8, 2026, what were the vote shares for Ken Paxton and John Cornyn?",
+    "a": "Paxton had 49 percent and Cornyn had 41 percent."
+  },
+  {
+    "q": "How many likely Republican primary voters were surveyed in the Texas Public Opinion Research (TPOR) poll conducted in early March 2026?",
+    "a": "781."
+  },
+  {
+    "q": "What was the margin of error for the Texas Public Opinion Research (TPOR) poll of 781 likely Republican primary voters conducted from March 7 to March 8, 2026?",
+    "a": "3.9 percent."
+  },
+  {
+    "q": "According to The Atlantic, which U.S. President was expected to endorse U.S. Senator John Cornyn in the May 26, 2026, Texas Republican Senate primary runoff?",
+    "a": "President Donald Trump."
+  },
+  {
+    "q": "What caveat did sources cited by The Atlantic provide regarding President Donald Trump’s potential endorsement of John Cornyn in the March 2026 Texas Senate runoff?",
+    "a": "Trump is prone to last-minute changes."
+  },
+  {
+    "q": "On what date is the 2026 Texas Republican U.S. Senate primary runoff election scheduled to take place?",
+    "a": "May 26, 2026."
+  },
+  {
+    "q": "How did Texas Attorney General Ken Paxton characterize U.S. Senator John Cornyn in a Tuesday post on X in March 2026?",
+    "a": "Paxton called Cornyn a coward and an unserious establishment politician."
+  },
+  {
+    "q": "Which two specific legislative or political issues did Ken Paxton accuse John Cornyn of being silent about or failing to fight for in his March 2026 X post?",
+    "a": "Abolishing the filibuster and passing the Save America Act."
+  },
+  {
+    "q": "In his March 2026 X post, what three specific concerns did Ken Paxton claim John Cornyn did not care about supporting?",
+    "a": "Supporting the President, election integrity, and stopping child mutilation surgery."
+  },
+  {
+    "q": "How did U.S. Senator John Cornyn describe Texas Attorney General Ken Paxton in his Wednesday post on X in March 2026?",
+    "a": "Cornyn described Paxton as a corrupt person."
+  },
+  {
+    "q": "What four negative consequences did John Cornyn cite in his March 2026 X post as risks of Ken Paxton winning the Senate seat?",
+    "a": "Jeopardizing a safe Republican Senate seat, being an anchor on down ballot races, diverting resources from other Senate pickup opportunities, and jeopardizing President Trump’s agenda."
+  },
+  {
+    "q": "According to Public Policy Polling’s Wednesday post on X in March 2026, what label did they use for voters President Trump would probably consider RINOs?",
+    "a": "Voters who fueled Cornyn’s first-place finish."
+  },
+  {
+    "q": "In the Public Policy Polling summary posted on X in March 2026, what was the margin between Ken Paxton and John Cornyn among Trump approvers?",
+    "a": "Paxton led by 12 points."
+  },
+  {
+    "q": "In the Public Policy Polling summary posted on X in March 2026, what was the margin between John Cornyn and Ken Paxton among Trump disapprovers?",
+    "a": "Cornyn led by 57 points."
+  },
+  {
+    "q": "What specific event caused the 2026 Texas Republican U.S. Senate primary to advance to a runoff between Ken Paxton and John Cornyn?",
+    "a": "Neither candidate won a majority in the initial primary."
+  },
+  {
+    "q": "Which news organization commissioned the Public Policy Polling survey that showed Ken Paxton leading John Cornyn in early March 2026?",
+    "a": "The Texas Justice Fund."
+  },
+  {
+    "q": "According to the article published by Newsweek on March 11, 2026, what potential factor could reshape fundraising and turnout in the Texas Senate runoff?",
+    "a": "A possible endorsement from President Donald Trump."
+  },
+  {
+    "q": "What AI assistant did Newsweek reporters and editors use to help produce the March 11, 2026, article about the Texas Senate runoff?",
+    "a": "Martyn."
+  }
+]

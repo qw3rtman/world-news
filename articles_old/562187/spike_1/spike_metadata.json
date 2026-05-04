@@ -1,0 +1,65 @@
+{
+  "spike_index": 1,
+  "direction": "up",
+  "price_before": 0.155,
+  "price_after": 0.52,
+  "delta": 0.365,
+  "abs_delta": 0.365,
+  "timestamp_before": "2026-03-03T08:30:34+00:00",
+  "timestamp_after": "2026-03-04T03:30:34+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "http://www.cnn.com/2026/03/03/politics/john-cornyn-ken-paxton-texas-senate-primary-runoff",
+      "file": "a6c4b48930b9.txt",
+      "title": "John Cornyn and Ken Paxton will advance to a runoff in Texas\u2019 US Senate Republican primary, CNN projects | CNN Politics",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "David Wright",
+      "text_length": 5314,
+      "status": "ok",
+      "num_tokens": 1108
+    },
+    {
+      "url": "https://www.usatoday.com/story/opinion/columnist/2026/03/04/runoff-election-texas-republican-senate-primary/88960583007/",
+      "file": "3f5827a8846a.txt",
+      "title": "Texas election results show how torn Republicans are on MAGA | Opinion",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "text_length": 4617,
+      "status": "ok",
+      "num_tokens": 1012
+    },
+    {
+      "url": "https://www.cbsnews.com/news/texas-primary-republican-results-2026-midterm-elections/",
+      "file": "6f38772d47de.txt",
+      "title": "Texas GOP Senate primary heading to runoff between Sen. John Cornyn and AG Ken Paxton, CBS News projects - CBS News",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "text_length": 5926,
+      "status": "ok",
+      "num_tokens": 1262
+    },
+    {
+      "url": "https://www.pbs.org/newshour/politics/republicans-cornyn-and-paxton-advance-to-texas-senate-runoff",
+      "file": "2b06eee8264b.txt",
+      "title": "Republicans Cornyn and Paxton advance to Texas Senate runoff | PBS News",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "text_length": 5051,
+      "status": "ok",
+      "num_tokens": 1041
+    },
+    {
+      "url": "https://www.pbs.org/newshour/politics/texas-gop-sen-cornyn-tries-to-hold-his-seat-for-a-5th-term-while-democrats-crockett-talarico-face-off",
+      "file": "2770a9241d65.txt",
+      "title": "Texas GOP Sen. Cornyn tries to hold his seat for a 5th term while Democrats Crockett, Talarico face off | PBS News",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": null,
+      "text_length": 6922,
+      "status": "ok",
+      "num_tokens": 1463
+    }
+  ],
+  "total_tokens": 5886
+}

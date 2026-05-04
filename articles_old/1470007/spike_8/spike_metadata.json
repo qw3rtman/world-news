@@ -1,0 +1,65 @@
+{
+  "spike_index": 8,
+  "direction": "down",
+  "price_before": 0.26,
+  "price_after": 0.0025,
+  "delta": -0.2575,
+  "abs_delta": 0.2575,
+  "timestamp_before": "2026-03-01T05:30:30+00:00",
+  "timestamp_after": "2026-03-02T05:00:26+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://fortune.com/2026/03/01/iran-new-supreme-leader-succession-retaliation-attacks-more-targets-khamenei-death/",
+      "file": "9dc87ae5c573.txt",
+      "title": "Iran will pick a new supreme leader in 'one or two days' as retaliation spreads to more targets | Fortune",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "The Associated Press",
+      "text_length": 189,
+      "status": "ok",
+      "num_tokens": 37
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2026/3/1/iran-foreign-minister-suggests-new-supreme-leader-may-be-chosen-within-days",
+      "file": "be177da07a72.txt",
+      "title": "Iran foreign minister suggests new supreme leader may be chosen within days | US-Israel war on Iran News | Al Jazeera",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Al Jazeera Staff",
+      "text_length": 4525,
+      "status": "ok",
+      "num_tokens": 946
+    },
+    {
+      "url": "https://www.iranintl.com/en/202603027355",
+      "file": "8aac67c4ec1f.txt",
+      "title": "Inside Iran's succession: who could replace Ali Khamenei? | Iran International",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Maryam Sinaiee",
+      "text_length": 5766,
+      "status": "ok",
+      "num_tokens": 1107
+    },
+    {
+      "url": "https://www.washingtonpost.com/world/2026/02/28/iran-supreme-leader-khamenei-succession/f3c6de54-1519-11f1-8e8d-fe91db44677b_story.html",
+      "file": "4c003d8f45fb.txt",
+      "title": "How succession works in Iran and who could be the country's next supreme leader - The Washington Post",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Jon Gambrell\u2009|\u2009AP",
+      "text_length": 342,
+      "status": "ok",
+      "num_tokens": 75
+    },
+    {
+      "url": "https://www.thetimes.com/world/middle-east/article/iran-ayatollah-khamenei-what-next-pahlavi-dlt7jb5zl?gaa_at=eafs&gaa_n=AWEtsqcjUs4wnK_rXNQzIv0JxjdS2ro7bTqSYOn0yGwQEkUw31Ltem-Kjp2s&gaa_sig=xM-Q7GyXQgn4KWvNPCo6voZ8iRKW85lkNxTZ6dmC-7trgrd-bo9DwJMVonIviOlE4Lshzg_m-b6CnOlEOMOScQ%3D%3D&gaa_ts=69a45f7c",
+      "file": "6aedd4f4e4ac.txt",
+      "title": "Who could be Iran\u2019s new supreme leader \u2014 and what happens next?",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Louise Callaghan",
+      "text_length": 6287,
+      "status": "ok",
+      "num_tokens": 1326
+    }
+  ],
+  "total_tokens": 3491
+}

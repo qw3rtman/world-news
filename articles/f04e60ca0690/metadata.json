@@ -1,0 +1,57 @@
+{
+  "hash": "f04e60ca0690",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://edition.cnn.com/world/live-news/iran-israel-us-attack-03-02-26-intl-hnk?post-id=cmm8qxqkd000d3b6qbij74h0d",
+      "title": "March 2, 2026 - Day three of the US-Israeli war with Iran | CNN",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Leila Gharagozlou, Jessie Yeung, Helen Regan, Ross Adkin, Jennifer Hansler, Brad Lendon, Rhea Mogul, Hilary Whiteman, Nic Anderson, Hanna Park, Hanna Ziady, Aditi Sangal, Avery Schmitz, Alison Main, Manu Raju, Sarah Ferris, Morgan Rimmer, Lauren Fox, Lauren Izso, Michael Rios, Hira Humayun, Maureen Chowdhury, Billy Stockwell, Jim Sciutto, Dana Karni, Adam Cancryn, Tal Shalev, Oren Liebermann, Nick Paton Walsh, Kit Maher, Ted  Barrett, Haley Britzky, Ruba Alhenawi, Jomana Karadsheh, Alejandra Jaramillo, Jeremy Diamond, Thomas Bordeaux, Arlette Saenz, Kaanita Iyer, Jennifer Hauser, Nechirvan Mando, Michael Williams, Francesca Street, Tamar Michaelis, Catherine Nicholls, Donald Judd, Samantha Waldenberg, Sana Noor Haq, Mostafa Salem, Lauren Kent, Jake Tapper, Chris Isidore, Matt Egan, Charlotte Reck, Zachary Cohen, Muhammad Darwish, Kara Fox, Becky Anderson, Kevin Liptak, Bijan  Hosseini, Antoinette Radford, Tim Lister, Zahra Ullah, Adam Pourahmadi, Tala Alrajjal, Logan Schiciano, Clay Voytek, Zahid Mahmood, Isabelle D’Antonio, Mitchell McCluskey, Pierre P Bairin, Eyad Kourdi, Niamh Kennedy, Bijan Hosseini, Lucas Lilieholm, Isaac Yee, Teele Rebane, Karina Tsui, Ally Barnard, Karla Cripps, Esha Mitra, John Liu, Martin Goillandeau, Laura Sharman, Todd Symons, Aleena Fayaz, Deva Lee, Kristie Lu Stout",
+      "num_tokens": 1982,
+      "text_length": 10075
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1162940",
+      "spike_id": 3,
+      "market_question": "US forces enter Iran by March 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "up",
+      "spike_delta": 0.245,
+      "spike_timestamp_before": "2026-02-28T06:00:30+00:00",
+      "spike_timestamp_after": "2026-03-01T01:30:26+00:00"
+    },
+    {
+      "market_id": "1466030",
+      "spike_id": 3,
+      "market_question": "US forces enter Iran by March 3?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.305,
+      "spike_timestamp_before": "2026-02-28T14:30:26+00:00",
+      "spike_timestamp_after": "2026-03-01T05:30:26+00:00"
+    },
+    {
+      "market_id": "1466030",
+      "spike_id": 4,
+      "market_question": "US forces enter Iran by March 3?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.3305,
+      "spike_timestamp_before": "2026-02-28T14:30:26+00:00",
+      "spike_timestamp_after": "2026-03-01T08:00:26+00:00"
+    },
+    {
+      "market_id": "1466030",
+      "spike_id": 5,
+      "market_question": "US forces enter Iran by March 3?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.33549999999999996,
+      "spike_timestamp_before": "2026-02-28T14:30:26+00:00",
+      "spike_timestamp_after": "2026-03-01T11:30:38+00:00"
+    }
+  ]
+}

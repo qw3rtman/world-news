@@ -1,0 +1,27 @@
+{
+  "hash": "260545d4e30e",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/03/12/iran-war-us-navy-strait-of-hormuz-oil-bessent.html",
+      "title": "U.S. Navy to escort oil tankers through Strait of Hormuz when possible, Bessent says",
+      "published_date": "2026-03-12T00:00:00.000Z",
+      "author": "Dan Mangan",
+      "num_tokens": 499,
+      "text_length": 2312
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1554932",
+      "spike_id": 2,
+      "market_question": "US escorts commercial ship through Hormuz by March 31?",
+      "event_title": "US escorts commercial ship through Hormuz by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.18,
+      "spike_timestamp_before": "2026-03-11T22:30:31+00:00",
+      "spike_timestamp_after": "2026-03-12T12:30:41+00:00"
+    }
+  ]
+}

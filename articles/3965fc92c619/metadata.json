@@ -1,0 +1,27 @@
+{
+  "hash": "3965fc92c619",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://eu.usatoday.com/story/entertainment/tv/2026/03/03/paramount-to-buy-warner-bros-what-it-means-for-you-faqs/88958865007/",
+      "title": "Paramount beats Netflix to win Warner Bros. – What it means for you",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Kelly Lawler",
+      "num_tokens": 1950,
+      "text_length": 9391
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694939",
+      "spike_id": 9,
+      "market_question": "Will Ubisoft be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.33499999999999996,
+      "spike_timestamp_before": "2026-03-05T20:30:20+00:00",
+      "spike_timestamp_after": "2026-03-06T17:30:20+00:00"
+    }
+  ]
+}

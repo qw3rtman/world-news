@@ -1,0 +1,47 @@
+{
+  "hash": "b35379fc126e",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://query.nytimes.com/2026/03/02/world/middleeast/iran-war-us-israel-trump.html?searchResultPosition=8",
+      "title": "The New York Times - Breaking News, US News, World News and Videos",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 658,
+      "text_length": 2956
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1465968",
+      "spike_id": 3,
+      "market_question": "Will US or Israel strike Iran on March 3, 2026?",
+      "event_title": "US/Israel strikes Iran on...?",
+      "spike_direction": "up",
+      "spike_delta": 0.27,
+      "spike_timestamp_before": "2026-02-28T14:30:31+00:00",
+      "spike_timestamp_after": "2026-03-01T08:00:32+00:00"
+    },
+    {
+      "market_id": "1465968",
+      "spike_id": 4,
+      "market_question": "Will US or Israel strike Iran on March 3, 2026?",
+      "event_title": "US/Israel strikes Iran on...?",
+      "spike_direction": "up",
+      "spike_delta": 0.29399999999999993,
+      "spike_timestamp_before": "2026-02-28T14:30:31+00:00",
+      "spike_timestamp_after": "2026-03-01T13:30:32+00:00"
+    },
+    {
+      "market_id": "1465968",
+      "spike_id": 5,
+      "market_question": "Will US or Israel strike Iran on March 3, 2026?",
+      "event_title": "US/Israel strikes Iran on...?",
+      "spike_direction": "up",
+      "spike_delta": 0.15250000000000008,
+      "spike_timestamp_before": "2026-02-28T21:00:36+00:00",
+      "spike_timestamp_after": "2026-03-01T20:30:32+00:00"
+    }
+  ]
+}

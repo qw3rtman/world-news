@@ -1,0 +1,237 @@
+{
+  "hash": "c9f7cc96f30e",
+  "n_appearances": 22,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.pbs.org/newshour/world/live-updates-u-s-israel-conflict-with-iran-widens",
+      "title": "Live Updates: U.S.-Israel conflict with Iran widens | PBS News",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 13637,
+      "text_length": 67020
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1466150",
+      "spike_id": 4,
+      "market_question": "Iran x Israel/US conflict ends by March 31?",
+      "event_title": "Iran x Israel/US conflict ends by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.30500000000000005,
+      "spike_timestamp_before": "2026-03-01T10:00:36+00:00",
+      "spike_timestamp_after": "2026-03-02T08:00:29+00:00"
+    },
+    {
+      "market_id": "1466150",
+      "spike_id": 5,
+      "market_question": "Iran x Israel/US conflict ends by March 31?",
+      "event_title": "Iran x Israel/US conflict ends by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.28500000000000003,
+      "spike_timestamp_before": "2026-03-01T20:30:31+00:00",
+      "spike_timestamp_after": "2026-03-02T20:00:33+00:00"
+    },
+    {
+      "market_id": "1466575",
+      "spike_id": 4,
+      "market_question": "Trump announces end of military operations against Iran by March 31st?",
+      "event_title": "Trump announces end of military operations against Iran by ...?",
+      "spike_direction": "down",
+      "spike_delta": -0.18000000000000005,
+      "spike_timestamp_before": "2026-03-02T18:30:39+00:00",
+      "spike_timestamp_after": "2026-03-03T06:30:53+00:00"
+    },
+    {
+      "market_id": "1466575",
+      "spike_id": 5,
+      "market_question": "Trump announces end of military operations against Iran by March 31st?",
+      "event_title": "Trump announces end of military operations against Iran by ...?",
+      "spike_direction": "down",
+      "spike_delta": -0.20500000000000002,
+      "spike_timestamp_before": "2026-03-02T18:30:39+00:00",
+      "spike_timestamp_after": "2026-03-03T11:00:44+00:00"
+    },
+    {
+      "market_id": "1466575",
+      "spike_id": 6,
+      "market_question": "Trump announces end of military operations against Iran by March 31st?",
+      "event_title": "Trump announces end of military operations against Iran by ...?",
+      "spike_direction": "down",
+      "spike_delta": -0.235,
+      "spike_timestamp_before": "2026-03-02T21:30:31+00:00",
+      "spike_timestamp_after": "2026-03-03T20:00:36+00:00"
+    },
+    {
+      "market_id": "1472010",
+      "spike_id": 5,
+      "market_question": "Will UAE strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.19,
+      "spike_timestamp_before": "2026-03-01T19:00:22+00:00",
+      "spike_timestamp_after": "2026-03-02T11:30:22+00:00"
+    },
+    {
+      "market_id": "1472010",
+      "spike_id": 6,
+      "market_question": "Will UAE strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.15499999999999997,
+      "spike_timestamp_before": "2026-03-02T11:30:22+00:00",
+      "spike_timestamp_after": "2026-03-02T17:00:35+00:00"
+    },
+    {
+      "market_id": "1472016",
+      "spike_id": 1,
+      "market_question": "Will Germany strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.34550000000000003,
+      "spike_timestamp_before": "2026-03-01T01:30:31+00:00",
+      "spike_timestamp_after": "2026-03-01T05:00:30+00:00"
+    },
+    {
+      "market_id": "1472016",
+      "spike_id": 2,
+      "market_question": "Will Germany strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.348,
+      "spike_timestamp_before": "2026-03-01T01:30:31+00:00",
+      "spike_timestamp_after": "2026-03-01T11:30:46+00:00"
+    },
+    {
+      "market_id": "1472019",
+      "spike_id": 10,
+      "market_question": "Will Saudi Arabia strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.15500000000000003,
+      "spike_timestamp_before": "2026-03-04T16:30:30+00:00",
+      "spike_timestamp_after": "2026-03-04T19:00:28+00:00"
+    },
+    {
+      "market_id": "1484914",
+      "spike_id": 1,
+      "market_question": "Iran x Israel/US conflict ends by May 15?",
+      "event_title": "Iran x Israel/US conflict ends by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.18000000000000005,
+      "spike_timestamp_before": "2026-03-02T18:30:32+00:00",
+      "spike_timestamp_after": "2026-03-02T21:00:29+00:00"
+    },
+    {
+      "market_id": "1484914",
+      "spike_id": 2,
+      "market_question": "Iran x Israel/US conflict ends by May 15?",
+      "event_title": "Iran x Israel/US conflict ends by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.18999999999999995,
+      "spike_timestamp_before": "2026-03-03T07:30:27+00:00",
+      "spike_timestamp_after": "2026-03-04T07:00:26+00:00"
+    },
+    {
+      "market_id": "677397",
+      "spike_id": 10,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.395,
+      "spike_timestamp_before": "2026-03-02T10:30:29+00:00",
+      "spike_timestamp_after": "2026-03-03T08:00:29+00:00"
+    },
+    {
+      "market_id": "677397",
+      "spike_id": 11,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.16500000000000004,
+      "spike_timestamp_before": "2026-03-03T08:00:29+00:00",
+      "spike_timestamp_after": "2026-03-03T17:00:30+00:00"
+    },
+    {
+      "market_id": "677397",
+      "spike_id": 12,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.19000000000000006,
+      "spike_timestamp_before": "2026-03-03T17:00:30+00:00",
+      "spike_timestamp_after": "2026-03-04T10:30:48+00:00"
+    },
+    {
+      "market_id": "677397",
+      "spike_id": 3,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.255,
+      "spike_timestamp_before": "2026-02-28T14:30:29+00:00",
+      "spike_timestamp_after": "2026-03-01T04:00:31+00:00"
+    },
+    {
+      "market_id": "677397",
+      "spike_id": 4,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.17500000000000002,
+      "spike_timestamp_before": "2026-03-01T04:00:31+00:00",
+      "spike_timestamp_after": "2026-03-01T19:00:28+00:00"
+    },
+    {
+      "market_id": "677397",
+      "spike_id": 5,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.27,
+      "spike_timestamp_before": "2026-03-01T04:00:31+00:00",
+      "spike_timestamp_after": "2026-03-02T01:00:27+00:00"
+    },
+    {
+      "market_id": "677397",
+      "spike_id": 6,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.38,
+      "spike_timestamp_before": "2026-03-01T04:00:31+00:00",
+      "spike_timestamp_after": "2026-03-02T04:00:26+00:00"
+    },
+    {
+      "market_id": "677397",
+      "spike_id": 7,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.45500000000000007,
+      "spike_timestamp_before": "2026-03-01T13:30:29+00:00",
+      "spike_timestamp_after": "2026-03-02T09:00:31+00:00"
+    },
+    {
+      "market_id": "677397",
+      "spike_id": 8,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.535,
+      "spike_timestamp_before": "2026-03-01T15:30:38+00:00",
+      "spike_timestamp_after": "2026-03-02T15:00:49+00:00"
+    },
+    {
+      "market_id": "677397",
+      "spike_id": 9,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.605,
+      "spike_timestamp_before": "2026-03-01T22:00:30+00:00",
+      "spike_timestamp_after": "2026-03-02T21:00:31+00:00"
+    }
+  ]
+}

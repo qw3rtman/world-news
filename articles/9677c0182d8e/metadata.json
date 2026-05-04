@@ -1,0 +1,27 @@
+{
+  "hash": "9677c0182d8e",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-09-26?post-id=cmmjqgq7g00003b6su1kiho2w",
+      "title": "Day 10 of Middle East conflict - Trump’s Florida press conference on Iran war | CNN",
+      "published_date": "2026-03-10T00:00:00.000Z",
+      "author": "Helen Regan, John Liu, Vasco Cotovio, Michael Rios, Samantha Waldenberg, Rhea Mogul, Piper Hudspeth Blackburn, Aditi Sangal, Frederik Pleitgen, Morgan Rimmer, Donald Judd, Betsy Klein, Mohammed Tawfeeq, Kit Maher, Adam Cancryn, Elisabeth Buchwald, Elise Hammond, Maureen Chowdhury, Sophia Saifi, Hira Humayun, Dana Karni, Sana Noor Haq, Jennifer Hansler, Charbel Mallo, Anna Chernova, Tal Shalev, Jeremy Diamond, James Frater, Pierre Bairin, Catherine Nicholls, Kevin Liptak, Claudia Otto, Adam Pourahmadi, Lauren Kent, Aileen Graef, Mustafa Qadri, Pierre P Bairin, Olesya Dmitracova, Charlotte Reck, Billy Stockwell, Tim Lister, Tamara Qiblawi, Haley Britzky, Eyad Kourdi, Hanna Ziady, Matt Egan, Sebastian Shukla, Chris Isidore, Logan Schiciano, Oren Liebermann, Laura Sharman, Gawon Bae, Max Saltman, Martin Goillandeau, Ross Adkin, Chris Lau, Wayne Chang, Kosta Gak, Sophie Tanno, Gianluca Mezzofiore, Thomas Bordeaux, Christian Edwards, Hilary Whiteman, Lucas Lilieholm",
+      "num_tokens": 4388,
+      "text_length": 21852
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "677397",
+      "spike_id": 18,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.31000000000000005,
+      "spike_timestamp_before": "2026-03-09T09:30:20+00:00",
+      "spike_timestamp_after": "2026-03-09T21:00:32+00:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "hash": "3e7a6334f775",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.thetimes.com/world/middle-east/article/ayatollah-khamenei-death-end-islamic-revolution-d0ljvcwdm?gaa_at=eafs&gaa_n=AWEtsqfCUDFtOGlmt-tVBz4L6S7lfzTCdGewtZP_V4ANjBAGAXSEeZ7c1b6p&gaa_sig=GtBoZ38Z_ObBdtrhRiY0hA46wgyrsxttZvPWn97cLaGVCuSESLmA_WGVHARH3DWl-GzJEhKAIYrPnP2pZEqurg%3D%3D&gaa_ts=69a55fe0",
+      "title": "Could Ayatollah Khamenei’s death mark the end of the Islamic Revolution?",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Roger Boyes",
+      "num_tokens": 1209,
+      "text_length": 5730
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "661700",
+      "spike_id": 5,
+      "market_question": "Khamenei out as Supreme Leader of Iran in 2026?",
+      "event_title": "Khamenei out as Supreme Leader of Iran in 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.488,
+      "spike_timestamp_before": "2026-02-28T00:30:25+00:00",
+      "spike_timestamp_after": "2026-03-01T00:00:33+00:00"
+    }
+  ]
+}

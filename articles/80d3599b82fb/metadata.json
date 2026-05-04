@@ -1,0 +1,87 @@
+{
+  "hash": "80d3599b82fb",
+  "n_appearances": 7,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.pbs.org/newshour/world/tehran-claims-the-u-s-attacked-it-from-the-uae-as-iran-war-enters-its-third-week",
+      "title": "Tehran claims the U.S. attacked it from the UAE as Iran war enters its third week | PBS News",
+      "published_date": "2026-03-14T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1315,
+      "text_length": 6156
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1162940",
+      "spike_id": 14,
+      "market_question": "US forces enter Iran by March 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "up",
+      "spike_delta": 0.18,
+      "spike_timestamp_before": "2026-03-13T01:30:24+00:00",
+      "spike_timestamp_after": "2026-03-14T01:00:33+00:00"
+    },
+    {
+      "market_id": "1162940",
+      "spike_id": 15,
+      "market_question": "US forces enter Iran by March 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "up",
+      "spike_delta": 0.25,
+      "spike_timestamp_before": "2026-03-13T10:00:27+00:00",
+      "spike_timestamp_after": "2026-03-14T09:30:33+00:00"
+    },
+    {
+      "market_id": "1162940",
+      "spike_id": 16,
+      "market_question": "US forces enter Iran by March 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.15000000000000002,
+      "spike_timestamp_before": "2026-03-14T09:30:33+00:00",
+      "spike_timestamp_after": "2026-03-15T09:00:49+00:00"
+    },
+    {
+      "market_id": "1162940",
+      "spike_id": 17,
+      "market_question": "US forces enter Iran by March 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.16000000000000003,
+      "spike_timestamp_before": "2026-03-14T13:00:55+00:00",
+      "spike_timestamp_after": "2026-03-15T13:00:36+00:00"
+    },
+    {
+      "market_id": "1162940",
+      "spike_id": 18,
+      "market_question": "US forces enter Iran by March 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.16999999999999998,
+      "spike_timestamp_before": "2026-03-14T18:00:49+00:00",
+      "spike_timestamp_after": "2026-03-15T17:30:35+00:00"
+    },
+    {
+      "market_id": "1394299",
+      "spike_id": 20,
+      "market_question": "US forces enter Iran by December 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "up",
+      "spike_delta": 0.17999999999999994,
+      "spike_timestamp_before": "2026-03-13T14:30:24+00:00",
+      "spike_timestamp_after": "2026-03-14T13:00:28+00:00"
+    },
+    {
+      "market_id": "1394368",
+      "spike_id": 5,
+      "market_question": "Will the U.S. invade Iran by March 31?",
+      "event_title": "Will the U.S. invade Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.168,
+      "spike_timestamp_before": "2026-03-13T14:30:26+00:00",
+      "spike_timestamp_after": "2026-03-13T23:30:28+00:00"
+    }
+  ]
+}

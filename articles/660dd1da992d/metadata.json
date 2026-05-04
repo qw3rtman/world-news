@@ -1,0 +1,47 @@
+{
+  "hash": "660dd1da992d",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/03/15/oil-poised-for-further-gains-as-middle-east-conflict-threatens-export-facilities.html",
+      "title": "Oil poised for gains as Iran war threatens export facilities",
+      "published_date": "2026-03-15T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 528,
+      "text_length": 2567
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1467763",
+      "spike_id": 24,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $120 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.16999999999999998,
+      "spike_timestamp_before": "2026-03-14T14:30:27+00:00",
+      "spike_timestamp_after": "2026-03-15T00:00:41+00:00"
+    },
+    {
+      "market_id": "1467763",
+      "spike_id": 25,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $120 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.18499999999999994,
+      "spike_timestamp_before": "2026-03-14T14:30:27+00:00",
+      "spike_timestamp_after": "2026-03-15T03:00:39+00:00"
+    },
+    {
+      "market_id": "1467763",
+      "spike_id": 26,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $120 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.19999999999999996,
+      "spike_timestamp_before": "2026-03-14T14:30:27+00:00",
+      "spike_timestamp_after": "2026-03-15T06:30:37+00:00"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "During the Federal Open Market Committee meeting held on March 17–18, 2026, what target range for the federal funds rate did the committee decide to maintain?",
+    "a": "3.50% to 3.75%"
+  },
+  {
+    "q": "According to the post-meeting statement released by the Federal Open Market Committee on March 18, 2026, how did the committee describe the pace of economic activity?",
+    "a": "At a solid pace"
+  },
+  {
+    "q": "In the March 18, 2026 post-meeting statement, what specific condition regarding inflation did the Federal Open Market Committee cite as a reason for not lowering interest rates?",
+    "a": "Inflation remains somewhat elevated"
+  },
+  {
+    "q": "According to the latest CNBC Fed survey cited in the March 18, 2026 article, how many quarter-point rate cuts did experts predict would occur later in 2026?",
+    "a": "Two"
+  },
+  {
+    "q": "What benchmark interest rate range did experts predict the Federal Reserve would reach by 2027, based on the predictions cited in the March 18, 2026 article?",
+    "a": "3.0% to 3.25%"
+  },
+  {
+    "q": "On January 28, 2026, what percentage odds of a quarter-point rate cut did the CME Group’s FedWatch Tool assign to the Federal Open Market Committee meeting scheduled for March 17–18, 2026?",
+    "a": "11.4%"
+  },
+  {
+    "q": "Which financial instruments' yields are described in the March 18, 2026 article as often falling when banks adjust returns to reflect a lower federal funds rate environment?",
+    "a": "CDs, high-yield savings accounts, and money market accounts"
+  },
+  {
+    "q": "According to the March 18, 2026 article, which bond yields are mortgage rates more closely linked to, rather than directly to the federal funds rate?",
+    "a": "10-year Treasury bond yields"
+  },
+  {
+    "q": "What is the primary tool the Federal Reserve uses for influencing the economy, as identified in the March 18, 2026 article?",
+    "a": "The federal funds rate"
+  },
+  {
+    "q": "How many times a year does the Federal Open Market Committee meet to consider changes to the federal funds rate, according to the March 18, 2026 article?",
+    "a": "Eight times"
+  },
+  {
+    "q": "What specific date range is listed in the March 18, 2026 article as the next Federal Open Market Committee meeting after the March 17–18 session?",
+    "a": "April 28–29"
+  },
+  {
+    "q": "According to the March 18, 2026 article, what economic outcome does the Federal Reserve attempt to curb by raising the benchmark interest rate?",
+    "a": "Inflation"
+  },
+  {
+    "q": "In the mechanism described in the March 18, 2026 article, what action do retailers typically take in response to raised borrowing costs and discouraged consumer spending?",
+    "a": "Lower prices to retain customers"
+  },
+  {
+    "q": "What potential negative economic consequence of slower economic activity, which may prompt the Federal Reserve to lower its target rate, is mentioned in the March 18, 2026 article?",
+    "a": "Rising unemployment or a recession"
+  },
+  {
+    "q": "Which specific types of consumer borrowing costs are impacted by the federal funds rate, according to the March 18, 2026 article?",
+    "a": "Credit cards, personal loans, and auto financing"
+  },
+  {
+    "q": "According to the March 18, 2026 article, what has the unemployment rate shown signs of doing, as noted in the Federal Open Market Committee's post-meeting statement?",
+    "a": "Stabilization"
+  },
+  {
+    "q": "What is the definition of the federal funds rate provided in the March 18, 2026 article's FAQ section?",
+    "a": "The target interest rate set by the Federal Reserve that dictates the interest commercial banks charge each other to lend extra reserves overnight"
+  },
+  {
+    "q": "According to the March 18, 2026 article, which specific month was potentially forecast by many experts as the time for the next rate cut in the second half of 2026?",
+    "a": "June"
+  },
+  {
+    "q": "What effect does lowering the federal funds rate generally have on borrowing, according to the March 18, 2026 article?",
+    "a": "Borrowing generally becomes cheaper"
+  },
+  {
+    "q": "According to the March 18, 2026 article, what consumer behavior is often spurred by noticeable declines in interest rates on credit cards, auto loans, and personal loans?",
+    "a": "Applying for new loans or refinancing"
+  },
+  {
+    "q": "What is the relationship between Federal Reserve rate raises and the attractiveness of CDs and high-yield savings accounts to savers, as described in the March 18, 2026 article?",
+    "a": "They become more attractive to savers"
+  },
+  {
+    "q": "Which organization's FedWatch Tool provided the odds of a rate cut on January 28, 2026, as cited in the March 18, 2026 article?",
+    "a": "CME Group"
+  },
+  {
+    "q": "According to the March 18, 2026 article, what factor in the Federal Open Market Committee's decision to maintain the target rate was described as 'job gains have remained low'?",
+    "a": "The condition of the job market"
+  },
+  {
+    "q": "What is the date range for the Federal Open Market Committee meeting scheduled for June, as listed in the March 18, 2026 article?",
+    "a": "June 16–17"
+  },
+  {
+    "q": "According to the March 18, 2026 article, what threat to the economy was described as declining, contributing to expert predictions of rate cuts later in 2026?",
+    "a": "The threat of a recession"
+  }
+]

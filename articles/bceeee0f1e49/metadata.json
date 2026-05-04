@@ -1,0 +1,27 @@
+{
+  "hash": "bceeee0f1e49",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/middle-east/putin-will-relay-uae-presidents-complaints-about-iranian-strikes-tehran-kremlin-2026-03-02/",
+      "title": "Putin will relay UAE president's complaints about Iranian strikes to Tehran, Kremlin says | Reuters",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 235,
+      "text_length": 1185
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "618509",
+      "spike_id": 2,
+      "market_question": "Will Trump and Putin not meet?",
+      "event_title": "Where will Trump and Putin meet next?",
+      "spike_direction": "up",
+      "spike_delta": 0.41350000000000003,
+      "spike_timestamp_before": "2026-03-04T22:00:23+00:00",
+      "spike_timestamp_after": "2026-03-05T09:00:19+00:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "hash": "1491a9a3888a",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cn.reuters.com/commentary/breakingviews/latest-oil-crisis-readies-hammer-demand-curve-2026-03-18/",
+      "title": "Reuters | Breaking International News & Views",
+      "published_date": "2026-03-18T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 48,
+      "text_length": 239
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1467763",
+      "spike_id": 29,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $120 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.18,
+      "spike_timestamp_before": "2026-03-16T03:00:33+00:00",
+      "spike_timestamp_after": "2026-03-17T00:30:32+00:00"
+    }
+  ]
+}

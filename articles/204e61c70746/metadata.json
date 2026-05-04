@@ -1,0 +1,47 @@
+{
+  "hash": "204e61c70746",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-04/china-signals-stability-in-ties-with-us-before-xi-trump-summit",
+      "title": "China Signals Desire for Stable Ties With US Ahead of Planned Xi-Trump Summit - Bloomberg",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 95,
+      "text_length": 520
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "604490",
+      "spike_id": 13,
+      "market_question": "Will Trump visit China by March 31?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.25649999999999995,
+      "spike_timestamp_before": "2026-03-01T04:00:27+00:00",
+      "spike_timestamp_after": "2026-03-02T01:00:23+00:00"
+    },
+    {
+      "market_id": "604490",
+      "spike_id": 14,
+      "market_question": "Will Trump visit China by March 31?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.16499999999999992,
+      "spike_timestamp_before": "2026-03-02T01:00:23+00:00",
+      "spike_timestamp_after": "2026-03-02T16:30:24+00:00"
+    },
+    {
+      "market_id": "604490",
+      "spike_id": 15,
+      "market_question": "Will Trump visit China by March 31?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.16399999999999998,
+      "spike_timestamp_before": "2026-03-02T06:00:22+00:00",
+      "spike_timestamp_after": "2026-03-03T05:30:25+00:00"
+    }
+  ]
+}

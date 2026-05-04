@@ -1,0 +1,37 @@
+{
+  "hash": "dce63c395728",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.spiegel.de/politik/deutschland/afd-und-cdu-die-brandmauer-steht-vor-dem-fall-was-jetzt-passieren-muss-a-cebf6cec-fafb-45f5-862b-65cebd56d8cb",
+      "title": "AfD und CDU: Die Brandmauer steht vor dem Fall. Was jetzt passieren muss - DER SPIEGEL",
+      "published_date": "2026-02-20T00:00:00.000Z",
+      "author": "Jean-Pierre Ziegler, Philipp Wittrock, Jonas Schaible, Miriam Olbrisch, Peter Maxwill, Timo Lehmann, Fabian Hillebrand, Sebastian Fischer, DER SPIEGEL",
+      "num_tokens": 154,
+      "text_length": 604
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "635528",
+      "spike_id": 1,
+      "market_question": "Will the next Dutch government be PVV + GL/PvdA + VVD + CDA?",
+      "event_title": "Which coalition will form the next Dutch government?",
+      "spike_direction": "up",
+      "spike_delta": 0.413,
+      "spike_timestamp_before": "2026-02-20T01:30:22+00:00",
+      "spike_timestamp_after": "2026-02-20T02:00:20+00:00"
+    },
+    {
+      "market_id": "635528",
+      "spike_id": 2,
+      "market_question": "Will the next Dutch government be PVV + GL/PvdA + VVD + CDA?",
+      "event_title": "Which coalition will form the next Dutch government?",
+      "spike_direction": "down",
+      "spike_delta": -0.413,
+      "spike_timestamp_before": "2026-02-20T02:00:20+00:00",
+      "spike_timestamp_after": "2026-02-20T18:30:22+00:00"
+    }
+  ]
+}

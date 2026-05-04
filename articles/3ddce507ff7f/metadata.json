@@ -1,0 +1,67 @@
+{
+  "hash": "3ddce507ff7f",
+  "n_appearances": 5,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cbsnews.com/news/map-iran-strike-locations/",
+      "title": "Map shows attack locations across Iran, and Iran's retaliatory strikes on Israel and other U.S. allies in Mideast - CBS News",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 497,
+      "text_length": 2445
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1472026",
+      "spike_id": 10,
+      "market_question": "Will another country strike Iran by March 31?",
+      "event_title": "Will another country strike Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.22999999999999998,
+      "spike_timestamp_before": "2026-03-05T19:00:30+00:00",
+      "spike_timestamp_after": "2026-03-06T03:30:36+00:00"
+    },
+    {
+      "market_id": "1472026",
+      "spike_id": 11,
+      "market_question": "Will another country strike Iran by March 31?",
+      "event_title": "Will another country strike Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.24,
+      "spike_timestamp_before": "2026-03-05T19:00:30+00:00",
+      "spike_timestamp_after": "2026-03-06T17:30:42+00:00"
+    },
+    {
+      "market_id": "1472026",
+      "spike_id": 6,
+      "market_question": "Will another country strike Iran by March 31?",
+      "event_title": "Will another country strike Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.32500000000000007,
+      "spike_timestamp_before": "2026-03-03T14:30:39+00:00",
+      "spike_timestamp_after": "2026-03-04T13:00:35+00:00"
+    },
+    {
+      "market_id": "1472026",
+      "spike_id": 7,
+      "market_question": "Will another country strike Iran by March 31?",
+      "event_title": "Will another country strike Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.235,
+      "spike_timestamp_before": "2026-03-03T19:00:36+00:00",
+      "spike_timestamp_after": "2026-03-04T18:30:35+00:00"
+    },
+    {
+      "market_id": "1472026",
+      "spike_id": 9,
+      "market_question": "Will another country strike Iran by March 31?",
+      "event_title": "Will another country strike Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.17499999999999993,
+      "spike_timestamp_before": "2026-03-05T02:00:34+00:00",
+      "spike_timestamp_after": "2026-03-05T04:30:29+00:00"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "market_id": "1422362",
+  "question": "Will the US strike Yemen next?",
+  "slug": "will-the-us-strike-yemen-next-567",
+  "url": "https://polymarket.com/event/next-country-us-strikes-457",
+  "description": "This market will resolve according to the first country against which the US initiates a drone, missile, or air strike on the soil or any official embassy or consulate after the time of this market's creation.\n\nFor the purposes of this market, a qualifying \"strike\" is defined as the use of aerial bombs, drones, or missiles (including FPV and ATGM strikes as well as cruise or ballistic missiles) launched by any United States operatives, including military forces, intelligence agencies, or other U.S. government operatives, that physically impact ground territory within the listed country.\n\nA strike on any area within the terrestrial territory (including rivers, lakes, ports, but excluding territorial sea) of the listed country counts.\n\nMissiles or drones that are intercepted and surface-to-air missile strikes will not be sufficient for a \"Yes\" resolution, regardless of whether they land on the listed country's territory or cause damage.\n\nActions such as artillery fire, small arms fire, ground incursions, naval shelling, or cyberattacks will not qualify.\n\nIf the U.S. does not strike another country by December 31, 2026, 11:59 PM ET, this market will resolve to \"None before 2027\". If the U.S. strikes a country that is not listed next, this market will resolve to \"Other\".\n\nThis market will remain open until 5:00 PM ET on the day following the initial announcement/reporting in order to account for the possibility of an earlier strike. \n\nIn cases where the precise time of a strike is not confirmed by U.S. government sources the following standards will be applied: \n\nIf a strike is announced as happening on a specified date without an exact time, the market will resolve based on the time of the strike based on a consensus of credible reporting. If the timing of the strike cannot be determined by a consensus of credible reporting by 5:00 PM ET on the day following the initial announcement/reporting, the strike will be considered to have occurred on the reported date at 12:00 PM in the time zone in which the strike occurred. \n\nIn the case of multiple strikes being announced/reported to have occurred on the same date, with a lack of a precise time being reported for one or multiple of the strikes, a consensus of credible reporting establishing which strike occurred first may be used to resolve the market even if the precise times of the strike(s) aren\u2019t known.\n\nIf no consensus of the order of the strikes exists, the market will resolve based on assuming a strike time of 12 PM local time (on the listed strike date) for any strike without a published time. \n\nIf a tie still persists due to a shared time zone, the market will resolve according to the order they were announced in.\n\nIf publication timestamps are identical or cannot be reliably compared, the market will resolve according to the alphabetical order of the struck countries listed names.\n\nThe primary resolution source will be official public statements or publications by the U.S. government (including but not limited to AFRICOM, CENTCOM, EUCOM, INDOPACOM, SOCOM, the Department of Defense, the White House, or other U.S. agencies). A consensus of credible reporting may also be used.",
+  "event_title": "Next Country US Strikes",
+  "event_tags": [
+    "Politics",
+    "Iran",
+    "Trump",
+    "Geopolitics",
+    "World",
+    "somalia"
+  ],
+  "volume_total": 638259.205899,
+  "created_at": "2026-02-24T00:04:12.211148Z",
+  "end_date": "2026-12-31T00:00:00Z",
+  "num_spikes": 2,
+  "max_spike": 0.2645,
+  "total_tokens": 20818,
+  "total_articles": 10
+}

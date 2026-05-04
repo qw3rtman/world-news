@@ -1,0 +1,47 @@
+{
+  "hash": "f3b265b74087",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.npr.org/transcripts/nx-s1-5730637",
+      "title": "Iran's supreme leader is killed. What happens now? : Sources & Methods : NPR",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 2771,
+      "text_length": 11836
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "661699",
+      "spike_id": 1,
+      "market_question": "Khamenei out as Supreme Leader of Iran by June 30?",
+      "event_title": "Khamenei out as Supreme Leader of Iran by June 30?",
+      "spike_direction": "up",
+      "spike_delta": 0.34,
+      "spike_timestamp_before": "2026-02-27T10:30:57+00:00",
+      "spike_timestamp_after": "2026-02-28T10:00:40+00:00"
+    },
+    {
+      "market_id": "661699",
+      "spike_id": 2,
+      "market_question": "Khamenei out as Supreme Leader of Iran by June 30?",
+      "event_title": "Khamenei out as Supreme Leader of Iran by June 30?",
+      "spike_direction": "up",
+      "spike_delta": 0.45499999999999996,
+      "spike_timestamp_before": "2026-02-27T16:00:48+00:00",
+      "spike_timestamp_after": "2026-02-28T14:00:50+00:00"
+    },
+    {
+      "market_id": "661699",
+      "spike_id": 3,
+      "market_question": "Khamenei out as Supreme Leader of Iran by June 30?",
+      "event_title": "Khamenei out as Supreme Leader of Iran by June 30?",
+      "spike_direction": "up",
+      "spike_delta": 0.5715,
+      "spike_timestamp_before": "2026-02-27T21:00:48+00:00",
+      "spike_timestamp_after": "2026-02-28T20:00:39+00:00"
+    }
+  ]
+}

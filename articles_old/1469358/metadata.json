@@ -1,0 +1,23 @@
+{
+  "market_id": "1469358",
+  "question": "Will there be no new Supreme Leader of Iran by June 30?",
+  "slug": "will-there-be-no-new-supreme-leader-of-iran-by-june-30",
+  "url": "https://polymarket.com/event/who-will-be-next-supreme-leader-of-iran-515",
+  "description": "The Supreme Leader of Iran is chosen by the Assembly of Experts.\n\nThis market will resolve according to the person who is named as the next Supreme Leader of the Islamic Republic of Iran.\n\nThe resolution of this market will be based on the first official announcement of the next Supreme Leader of Iran after Ali Khamenei.\n\nAny interim, acting, or temporary leader will not count toward the resolution of this market.\n\nIf Ali Khamenei remains the Supreme Leader of Iran or the next Supreme Leader of Iran is not officially announced by June 30, 2026, 11:59 PM ET, this market will resolve to \u201cNone by June 30\u201d.\n\nIf the position of Supreme Leader is formally abolished \u2014 including instances in which the Islamic Republic of Iran ceases to exist, is replaced, or no longer maintains the office of Supreme Leader \u2014 this market will resolve to \u201cPosition abolished\u201d.\n\nOnly individuals formally appointed to the office titled \u201cSupreme Leader of the Islamic Republic of Iran\u201d (or a clearly direct constitutional equivalent replacing that title) will qualify. Individuals serving solely as President, head of state, head of government, or in any other role that is not explicitly the Supreme Leader or a direct constitutional equivalent will not qualify.\n\nThe primary resolution source will be official information from the government of Iran. A consensus of credible reporting may also be used.",
+  "event_title": "Next Supreme Leader of Iran?",
+  "event_tags": [
+    "Iran",
+    "World",
+    "Politics",
+    "Middle East",
+    "Geopolitics",
+    "Iran Regime"
+  ],
+  "volume_total": 1644416.2688460029,
+  "created_at": "2026-02-28T21:05:56.864526Z",
+  "end_date": "2026-12-31T00:00:00Z",
+  "num_spikes": 2,
+  "max_spike": 0.361,
+  "total_tokens": 10429,
+  "total_articles": 10
+}

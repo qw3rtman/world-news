@@ -1,0 +1,65 @@
+{
+  "spike_index": 8,
+  "direction": "up",
+  "price_before": 0.0505,
+  "price_after": 0.29,
+  "delta": 0.2395,
+  "abs_delta": 0.2395,
+  "timestamp_before": "2026-03-04T10:30:52+00:00",
+  "timestamp_after": "2026-03-04T17:30:32+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://thehill.com/policy/international/5766537-mojtaba-khamenei-succession-iran/",
+      "file": "edbda9e0b5c8.txt",
+      "title": "Who is Mojtaba Khamenei, possible candidate to replace father as Iran leader?",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "text_length": 3919,
+      "status": "ok",
+      "num_tokens": 898
+    },
+    {
+      "url": "https://www.wireless.reuters.com/world/middle-east/who-is-mojtaba-khamenei-frontrunner-be-irans-supreme-leader-2026-03-04/",
+      "file": "f6a6d6f0e651.txt",
+      "title": "Who is Mojtaba Khamenei, Iran's new supreme leader? | Reuters",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "Parisa Hafezi",
+      "text_length": 5605,
+      "status": "ok",
+      "num_tokens": 1245
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-crisis-ayatollahs-son-mojtaba-khamenei-emerges-as-front-runner-to-succeed-slain-supreme-leader/articleshow/128997689.cms",
+      "file": "ebf36cf8dbc5.txt",
+      "title": "Mojtaba Khamenei: Iran crisis: Ayatollah\u2019s son Mojtaba Khamenei elected as successor of slain Supreme Leader - report - The Times of India",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "TOI World Desk  / TIMESOFINDIA.COM /  Updated: Mar 04, 2026, 08:17 IST",
+      "text_length": 4972,
+      "status": "ok",
+      "num_tokens": 1053
+    },
+    {
+      "url": "https://apnews.com/article/iran-israel-us-march-05-2026-6a76668997a43855cc37eff7f4829615",
+      "file": "476744c53a43.txt",
+      "title": "Trump wants to be involved in picking Iran's next supreme leader | AP News",
+      "published_date": "2026-03-05T00:00:00.000Z",
+      "author": null,
+      "text_length": 8609,
+      "status": "ok",
+      "num_tokens": 1817
+    },
+    {
+      "url": "http://fortune.com/2026/03/04/who-is-mojtaba-khamenei-son-of-supreme-leader-iran/",
+      "file": "f8a12847e9b2.txt",
+      "title": "Meet Mojtaba Khamenei, 'the power behind the robes' and presumptive favorite to assume power as Iran's Supreme Leader | Fortune",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "The Associated Press",
+      "text_length": 836,
+      "status": "ok",
+      "num_tokens": 217
+    }
+  ],
+  "total_tokens": 5230
+}

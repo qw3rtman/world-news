@@ -1,0 +1,37 @@
+{
+  "hash": "ed26fc4cc6f4",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/pictures/pictures-day-march-3-2026-2026-03-03/4L2QNDXT45PMVM53DXBIZHBIV4/",
+      "title": "Pictures of the Day | March 3, 2026 - March 3, 2026 | Reuters",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1088,
+      "text_length": 4455
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1487679",
+      "spike_id": 1,
+      "market_question": "Houthi strike on Israel by March 15, 2026?",
+      "event_title": "Houthi strike on Israel by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.435,
+      "spike_timestamp_before": "2026-03-03T01:30:31+00:00",
+      "spike_timestamp_after": "2026-03-03T03:00:33+00:00"
+    },
+    {
+      "market_id": "1487679",
+      "spike_id": 2,
+      "market_question": "Houthi strike on Israel by March 15, 2026?",
+      "event_title": "Houthi strike on Israel by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.475,
+      "spike_timestamp_before": "2026-03-03T01:30:31+00:00",
+      "spike_timestamp_after": "2026-03-03T10:00:29+00:00"
+    }
+  ]
+}

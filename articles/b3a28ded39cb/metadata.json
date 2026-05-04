@@ -1,0 +1,97 @@
+{
+  "hash": "b3a28ded39cb",
+  "n_appearances": 8,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.foxnews.com/world/irans-last-line-resistance-holds-back-houthi-terror-group-warns-its-ready-act",
+      "title": "Houthis declare fingers on trigger for potential conflict with US and Israel | Fox News",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 835,
+      "text_length": 3839
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1487679",
+      "spike_id": 10,
+      "market_question": "Houthi strike on Israel by March 15, 2026?",
+      "event_title": "Houthi strike on Israel by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.18999999999999997,
+      "spike_timestamp_before": "2026-03-09T04:30:22+00:00",
+      "spike_timestamp_after": "2026-03-10T01:30:40+00:00"
+    },
+    {
+      "market_id": "1487679",
+      "spike_id": 11,
+      "market_question": "Houthi strike on Israel by March 15, 2026?",
+      "event_title": "Houthi strike on Israel by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.18500000000000003,
+      "spike_timestamp_before": "2026-03-09T06:00:33+00:00",
+      "spike_timestamp_after": "2026-03-10T05:30:27+00:00"
+    },
+    {
+      "market_id": "1487679",
+      "spike_id": 12,
+      "market_question": "Houthi strike on Israel by March 15, 2026?",
+      "event_title": "Houthi strike on Israel by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.15999999999999998,
+      "spike_timestamp_before": "2026-03-09T18:30:24+00:00",
+      "spike_timestamp_after": "2026-03-10T11:30:27+00:00"
+    },
+    {
+      "market_id": "1487679",
+      "spike_id": 5,
+      "market_question": "Houthi strike on Israel by March 15, 2026?",
+      "event_title": "Houthi strike on Israel by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.3450000000000001,
+      "spike_timestamp_before": "2026-03-07T07:30:24+00:00",
+      "spike_timestamp_after": "2026-03-07T21:30:25+00:00"
+    },
+    {
+      "market_id": "1487679",
+      "spike_id": 6,
+      "market_question": "Houthi strike on Israel by March 15, 2026?",
+      "event_title": "Houthi strike on Israel by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.30000000000000004,
+      "spike_timestamp_before": "2026-03-07T21:30:25+00:00",
+      "spike_timestamp_after": "2026-03-08T11:30:23+00:00"
+    },
+    {
+      "market_id": "1487679",
+      "spike_id": 7,
+      "market_question": "Houthi strike on Israel by March 15, 2026?",
+      "event_title": "Houthi strike on Israel by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.15500000000000003,
+      "spike_timestamp_before": "2026-03-08T21:30:22+00:00",
+      "spike_timestamp_after": "2026-03-09T11:30:20+00:00"
+    },
+    {
+      "market_id": "1487679",
+      "spike_id": 8,
+      "market_question": "Houthi strike on Israel by March 15, 2026?",
+      "event_title": "Houthi strike on Israel by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.18500000000000003,
+      "spike_timestamp_before": "2026-03-08T21:30:22+00:00",
+      "spike_timestamp_after": "2026-03-09T15:00:29+00:00"
+    },
+    {
+      "market_id": "1487679",
+      "spike_id": 9,
+      "market_question": "Houthi strike on Israel by March 15, 2026?",
+      "event_title": "Houthi strike on Israel by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.19,
+      "spike_timestamp_before": "2026-03-08T23:30:22+00:00",
+      "spike_timestamp_after": "2026-03-09T22:30:27+00:00"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "q": "According to energy consulting firm Kpler, what percentage of all seaborne crude flows passed through the Strait of Hormuz in 2025, and how many barrels per day did this represent?",
+    "a": "It represented about 31% of all seaborne crude flows, totaling roughly 13 million barrels per day."
+  },
+  {
+    "q": "On which day in early March 2026 did a senior commander from Iran's Revolutionary Guard announce the closure of the Strait of Hormuz, and what specific threat was issued to vessels?",
+    "a": "The announcement was made on Monday, March 2, 2026, and any vessel attempting to transit the waterway would be targeted."
+  },
+  {
+    "q": "Which two industrial cities in Qatar were hit by Iranian drones on Monday, March 2, 2026, causing Qatar to halt LNG production?",
+    "a": "The Ras Laffan Industrial City and the Mesaieed Industrial City."
+  },
+  {
+    "q": "According to a Monday, March 2, 2026, note by Nomura, which four Asian countries are identified as the most vulnerable to higher oil prices due to high import dependence?",
+    "a": "Thailand, India, Korea, and the Philippines."
+  },
+  {
+    "q": "What percentage of Pakistan's LNG imports is accounted for by Qatar and the United Arab Emirates, according to Kpler data cited in the article?",
+    "a": "99%."
+  },
+  {
+    "q": "According to the Institute for Energy Economics and Financial Analysis, what is the daily structural gas deficit running by Bangladesh?",
+    "a": "More than 1,300 million cubic feet per day."
+  },
+  {
+    "q": "How much of India's oil imports come from the Middle East, according to estimates by UBP cited in the article?",
+    "a": "About 60%."
+  },
+  {
+    "q": "What percentage of China's crude oil purchases comes from Iran, according to Kpler data mentioned in the article?",
+    "a": "More than 80%."
+  },
+  {
+    "q": "As of the end of February 2026, what was the volume of China's LNG inventories in million tons, according to Kpler?",
+    "a": "7.6 million tons."
+  },
+  {
+    "q": "According to UBP estimates, what percentage of China's oil imports passes through the Strait of Hormuz?",
+    "a": "Roughly 40%."
+  },
+  {
+    "q": "What percentage of Japan's oil imports is supplied by the Middle East, according to UBP data cited in the article?",
+    "a": "75%."
+  },
+  {
+    "q": "What percentage of South Korea's oil imports is supplied by the Middle East, according to UBP data cited in the article?",
+    "a": "Around 70%."
+  },
+  {
+    "q": "How much LNG reserve does South Korea hold, according to Kpler estimates, and how many weeks of stable demand does this cover?",
+    "a": "South Korea holds about 3.5 million tons, enough for roughly two to four weeks of stable demand."
+  },
+  {
+    "q": "How much LNG reserve does Japan hold, according to Kpler estimates, and how many weeks of stable demand does this cover?",
+    "a": "Japan holds around 4.4 million tons, enough for roughly two to four weeks of stable demand."
+  },
+  {
+    "q": "What percentage of South Korea's net oil imports relative to its gross domestic product did Nomura flag as making it vulnerable on the current account front?",
+    "a": "2.7%."
+  },
+  {
+    "q": "What percentage of South Korea's LNG comes from Qatar and the UAE, according to Kpler estimates cited in the article?",
+    "a": "14%."
+  },
+  {
+    "q": "What percentage of Japan's LNG comes from Qatar and the UAE, according to Kpler estimates cited in the article?",
+    "a": "6%."
+  },
+  {
+    "q": "What is Thailand's net oil imports as a percentage of its GDP, and how much does its current account worsen for each 10% oil price rise, according to Nomura?",
+    "a": "Thailand has net oil imports of 4.7% of GDP, and each 10% oil price rise worsens the current account by around 0.5 percentage point of GDP."
+  },
+  {
+    "q": "Which entity stated that Saudi Arabia has increased crude loadings in recent weeks to provide a temporary cushion to the market?",
+    "a": "Rystad Energy."
+  },
+  {
+    "q": "Who is the principal insight analyst at Kpler who warned that disruption in Pakistan and Bangladesh would likely trigger fast power-sector demand destruction?",
+    "a": "Go Katayama."
+  },
+  {
+    "q": "Who is the lead macro and FX strategist of APAC at Convera who noted that economies with high energy import reliance are more exposed to supply shocks?",
+    "a": "Shier lee Lim."
+  },
+  {
+    "q": "According to Kpler, what percentage of global liquefied natural gas exports from the Persian Gulf is at risk due to the Strait of Hormuz closure?",
+    "a": "About 20%."
+  },
+  {
+    "q": "What was the last price of global benchmark Brent crude mentioned in the article, and by what percentage had it risen since the conflict broke out?",
+    "a": "It was around $80 per barrel, almost 10% higher since the conflict broke out."
+  },
+  {
+    "q": "Which two countries account for 72% of Bangladesh's LNG imports, according to Kpler data?",
+    "a": "Qatar and the United Arab Emirates."
+  },
+  {
+    "q": "Which two countries account for 53% of India's LNG imports, according to Kpler data?",
+    "a": "Qatar and the United Arab Emirates."
+  },
+  {
+    "q": "According to Kpler's Go Katayama, what would China need to do if the Strait of Hormuz outage persists, potentially tightening the Pacific basin?",
+    "a": "China would need to compete for Atlantic cargoes."
+  }
+]

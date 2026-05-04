@@ -1,0 +1,65 @@
+{
+  "spike_index": 3,
+  "direction": "up",
+  "price_before": 0.65,
+  "price_after": 0.84,
+  "delta": 0.18999999999999995,
+  "abs_delta": 0.18999999999999995,
+  "timestamp_before": "2026-02-24T14:00:26+00:00",
+  "timestamp_after": "2026-02-24T22:30:26+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-02-23/somalia-offers-us-access-to-military-bases-critical-minerals",
+      "file": "0ba478f5e4d2.txt",
+      "title": "Somalia Offers US Access to Military Bases, Critical Minerals - Bloomberg",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "Mohamed Omar Ahmed",
+      "text_length": 566,
+      "status": "ok",
+      "num_tokens": 108
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2026/2/22/somaliland-minister-says-us-may-access-its-minerals-military-bases-report",
+      "file": "2c76e12ebb50.txt",
+      "title": "Somaliland minister says US may access its minerals, military bases: Report | News | Al Jazeera",
+      "published_date": "2026-02-22T00:00:00.000Z",
+      "author": "AFP",
+      "text_length": 2361,
+      "status": "ok",
+      "num_tokens": 468
+    },
+    {
+      "url": "https://www.barrons.com/news/us-can-access-minerals-military-bases-in-somaliland-minister-tells-afp-6b59071d?gaa_at=eafs&gaa_n=AWEtsqfZxzPAs7wKK2V3rIXbewlH857T02nrhC0wkkWPbmCUqVI9V5ddPBeq&gaa_sig=ecwtU6xsYQ15oJCTeIEw3ytDoCmWK2OQErB78rAmi9pMczMgzGGJ8jnc2DZJbLz9yjMJALHqPts5H4a3LDzWGA%3D%3D&gaa_ts=699b5a38",
+      "file": "68620695901e.txt",
+      "title": "US Can Access Minerals, Military Bases In Somaliland, Minister Tells AFP - Barron's",
+      "published_date": "2026-02-22T00:00:00.000Z",
+      "author": "Joris FIORITI",
+      "text_length": 257,
+      "status": "ok",
+      "num_tokens": 52
+    },
+    {
+      "url": "https://www.foxnews.com/world/turkeys-growing-reach-africa-seen-complicating-us-strategy-analysts-warn",
+      "file": "ba478b9ec78e.txt",
+      "title": "Turkey's Africa strategy conflicts with US foreign policy critics claim | Fox News",
+      "published_date": "2026-02-22T00:00:00.000Z",
+      "author": null,
+      "text_length": 6149,
+      "status": "ok",
+      "num_tokens": 1208
+    },
+    {
+      "url": "http://www.dw.com/en/kenya-somalia-border-al-shabab-al-qaeda-attacks-militants/a-76100159",
+      "file": "3e9b5cdf32d5.txt",
+      "title": "Security fears rise as Kenya plans to reopen Somalia border",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": "Cai Nebe  Producer, podcaster and editor for DW Africa",
+      "text_length": 6552,
+      "status": "ok",
+      "num_tokens": 1365
+    }
+  ],
+  "total_tokens": 3201
+}

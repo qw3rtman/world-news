@@ -1,0 +1,65 @@
+{
+  "spike_index": 14,
+  "direction": "down",
+  "price_before": 0.675,
+  "price_after": 0.426,
+  "delta": -0.24900000000000005,
+  "abs_delta": 0.24900000000000005,
+  "timestamp_before": "2026-02-26T13:00:19+00:00",
+  "timestamp_after": "2026-02-26T17:00:25+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-price-prediction-today-what-is-the-gold-rate-outlook-for-february-26-2026-should-you-buy-or-sell-mcx-gold-mcx-silver/articleshow/128803388.cms",
+      "file": "1185d9d20384.txt",
+      "title": "Gold, silver price prediction today: Will gold hit Rs 1.7 lakh/10 grams & silver cross Rs 2.80 lakh/kg soon? Here's the outlook - The Times of India",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /   Feb 26, 2026, 11:08 IST",
+      "text_length": 4651,
+      "status": "ok",
+      "num_tokens": 910
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-india-where-is-gold-silver-rate-headed-on-february-25-2026-mcx-gold-futures-outlook/articleshow/128773312.cms",
+      "file": "282df7e8cd60.txt",
+      "title": "Gold price prediction today: Will gold, silver be able to hold on to gains this week? Here's the outlook - The Times of India",
+      "published_date": "2026-02-25T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /   Feb 25, 2026, 12:39 IST",
+      "text_length": 5287,
+      "status": "ok",
+      "num_tokens": 1059
+    },
+    {
+      "url": "https://fortune.com/article/current-price-of-silver-2-26-2026/",
+      "file": "2546ec38ce78.txt",
+      "title": "Down Arrow Button Icon",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": "Joseph Hostetler",
+      "text_length": 167,
+      "status": "ok",
+      "num_tokens": 51
+    },
+    {
+      "url": "https://www.cbsnews.com/news/price-of-silver-today-february-26-2026/?intcid=CNR-01-0623",
+      "file": "a0f0a979f7ed.txt",
+      "title": "What is the price of silver today: February 26, 2026? - CBS News",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": null,
+      "text_length": 3565,
+      "status": "ok",
+      "num_tokens": 731
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-in-structural-repricing-phase-could-hit-6000-in-12-months-report/articleshow/128814817.cms",
+      "file": "e9a99b0913ef.txt",
+      "title": "Gold Could Hit 7500 Per Ounce: Gold in \u2018structural repricing phase\u2019, could hit $6,000 in 12 months: Report - The Times of India",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /   Feb 26, 2026, 18:33 IST",
+      "text_length": 3639,
+      "status": "ok",
+      "num_tokens": 710
+    }
+  ],
+  "total_tokens": 3461
+}

@@ -1,0 +1,27 @@
+{
+  "hash": "2af0d655840b",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://reuters.com/business/energy/hormuz-shutdown-worsens-after-us-hits-iranian-warship-tankers-stranded-fifth-day-2026-03-04/",
+      "title": "Gulf shipping crisis deepens as tankers stranded for fifth day, US sinks Iranian warship | Reuters",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": "Jonathan Saul",
+      "num_tokens": 1159,
+      "text_length": 5414
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "665307",
+      "spike_id": 11,
+      "market_question": "Will Iran close the Strait of Hormuz before 2027?",
+      "event_title": "Will Iran close the Strait of Hormuz by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.18899999999999995,
+      "spike_timestamp_before": "2026-03-06T04:30:23+00:00",
+      "spike_timestamp_after": "2026-03-07T02:30:22+00:00"
+    }
+  ]
+}

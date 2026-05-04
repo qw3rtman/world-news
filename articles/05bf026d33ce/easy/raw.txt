@@ -1,0 +1,107 @@
+[
+  {
+    "q": "At which financial conference held in early March 2026 did Nvidia CEO Jensen Huang state that his company's future investments in OpenAI and Anthropic might be the last?",
+    "a": "The Morgan Stanley Technology, Media and Telecom conference."
+  },
+  {
+    "q": "What was the original monetary value of the investment deal between Nvidia and OpenAI that was announced in September 2025 but later abandoned?",
+    "a": "$100 billion."
+  },
+  {
+    "q": "According to Nvidia CEO Jensen Huang in March 2026, what specific dollar amount did Nvidia finalize for its investment in OpenAI?",
+    "a": "$30 billion."
+  },
+  {
+    "q": "What is the reported maximum valuation that Reuters stated OpenAI could achieve during its initial public offering later in 2026?",
+    "a": "Up to $1 trillion."
+  },
+  {
+    "q": "What specific dollar amount did Nvidia invest in Anthropic, which CEO Jensen Huang indicated would likely be the company's last investment in that startup?",
+    "a": "$10 billion."
+  },
+  {
+    "q": "Which U.S. government department is currently embroiled in a dispute with Anthropic as of early 2026?",
+    "a": "The Pentagon."
+  },
+  {
+    "q": "Which financial publication reported in February 2026 that Nvidia and OpenAI had abandoned their $100 billion deal?",
+    "a": "The Financial Times."
+  },
+  {
+    "q": "What specific concern did analysts raise regarding the circular nature of Nvidia's proposed $100 billion investment in OpenAI?",
+    "a": "The investment would make Nvidia a major investor in one of its biggest customers, and the money would likely be spent on Nvidia's own AI processors."
+  },
+  {
+    "q": "In which city did Reuters reporter Juby Babu file the report regarding Nvidia's investment hints?",
+    "a": "Mexico City."
+  },
+  {
+    "q": "Which editor at Reuters was credited with editing the report on Nvidia's investment strategy published on March 4, 2026?",
+    "a": "Shinjini Ganguli."
+  },
+  {
+    "q": "What is the stock ticker symbol for Nvidia as listed in the article?",
+    "a": "NVDA.O."
+  },
+  {
+    "q": "Which two artificial intelligence companies did Nvidia CEO Jensen Huang identify as likely recipients of Nvidia's final major investments?",
+    "a": "OpenAI and Anthropic."
+  },
+  {
+    "q": "What is the primary business product or service associated with OpenAI that was mentioned in the context of its public listing plans?",
+    "a": "ChatGPT."
+  },
+  {
+    "q": "What status are both OpenAI and Anthropic preparing for in 2026, according to the article?",
+    "a": "Going public (initial public offering or IPO)."
+  },
+  {
+    "q": "Which company's AI processors were identified as the likely destination for the funds Nvidia would have poured into OpenAI under the abandoned $100 billion deal?",
+    "a": "Nvidia."
+  },
+  {
+    "q": "What was Anthropic's stated position regarding its IPO decision as of early 2026?",
+    "a": "It had not finalized an IPO decision."
+  },
+  {
+    "q": "Which organization did not immediately respond to Reuters requests for comment regarding the investment news in March 2026?",
+    "a": "OpenAI."
+  },
+  {
+    "q": "Which organization did not immediately respond to Reuters requests for comment regarding the investment news in March 2026, alongside OpenAI?",
+    "a": "Anthropic."
+  },
+  {
+    "q": "What sector's health did analysts doubt, leading to the abandonment of the Nvidia-OpenAI $100 billion deal?",
+    "a": "The AI sector."
+  },
+  {
+    "q": "On what specific date was the Reuters article about Nvidia's investment hints published?",
+    "a": "March 4, 2026."
+  },
+  {
+    "q": "Which month in the previous year did Nvidia and OpenAI originally announce their $100 billion deal?",
+    "a": "September 2025."
+  },
+  {
+    "q": "What type of company is Nvidia described as in the context of its investments in OpenAI and Anthropic?",
+    "a": "A chipmaker."
+  },
+  {
+    "q": "What specific phrase did Jensen Huang use to describe companies like OpenAI and Anthropic in the context of future investment opportunities?",
+    "a": "A consequential company."
+  },
+  {
+    "q": "Which specific unit or technology was not part of the Nvidia-OpenAI deal, but was part of a separate Honeywell acquisition mentioned in the prompt instructions as an example of entity naming?",
+    "a": "This question is invalid as it references external prompt instructions; however, based strictly on the article, no Honeywell deal is mentioned. A valid alternative: What specific technology sector was the focus of the Morgan Stanley conference where Huang spoke?",
+    "a": "Technology, Media and Telecom."
+  },
+  {
+    "q": "What is the reported valuation range for OpenAI's potential IPO as exclusively reported by Reuters last year?",
+    "a": "Up to $1 trillion."
+  },
+  {
+    "q": "Which two entities were involved in the dispute that Anthropic was embroiled in as of early 2026?",
+    "a": "Anthropic and the Pentagon."
+  }
+]

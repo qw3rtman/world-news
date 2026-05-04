@@ -1,0 +1,37 @@
+{
+  "hash": "53123690e9e7",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://in.mobile.reuters.com/world/europe/british-air-base-cyprus-hit-by-suspected-drone-strike-sky-news-reports-2026-03-02/",
+      "title": "Iranian-made drone hits British air base in Cyprus  | Reuters",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Michele Kambas",
+      "num_tokens": 837,
+      "text_length": 3818
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1466423",
+      "spike_id": 3,
+      "market_question": "Will Iran strike Cyprus in March?",
+      "event_title": "Iran military action against ___ by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.38,
+      "spike_timestamp_before": "2026-03-01T20:30:27+00:00",
+      "spike_timestamp_after": "2026-03-02T11:00:23+00:00"
+    },
+    {
+      "market_id": "1466423",
+      "spike_id": 4,
+      "market_question": "Will Iran strike Cyprus in March?",
+      "event_title": "Iran military action against ___ by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.28,
+      "spike_timestamp_before": "2026-03-02T11:00:23+00:00",
+      "spike_timestamp_after": "2026-03-02T17:30:26+00:00"
+    }
+  ]
+}

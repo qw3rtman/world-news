@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In March 2026, which Indian edtech startup was set to be acquired by rival upGrad in an all-stock deal?",
+    "a": "Unacademy"
+  },
+  {
+    "q": "Who is the co-founder and CEO of Unacademy who announced the acquisition term sheet on X in March 2026?",
+    "a": "Gaurav Munjal"
+  },
+  {
+    "q": "What was the approximate percentage drop in Unacademy’s valuation from its 2021 pandemic-era peak of $3.5 billion to below $500 million as reported in early 2026?",
+    "a": "Roughly 85%"
+  },
+  {
+    "q": "Which co-founder of upGrad stated that Gaurav Munjal would continue leading Unacademy after the acquisition in March 2026?",
+    "a": "Ronnie Screwvala"
+  },
+  {
+    "q": "According to Gaurav Munjal in March 2026, what was the total amount of cash reserves held by Unacademy after consolidating its business?",
+    "a": "More than $100 million"
+  },
+  {
+    "q": "What was the value of the employee stock buyback completed by Unacademy, as reported by Gaurav Munjal in March 2026?",
+    "a": "₹500 million (about $5.40 million)"
+  },
+  {
+    "q": "How many funding rounds had Unacademy raised approximately $854.3 million across, according to PitchBook data cited in March 2026?",
+    "a": "13 funding rounds"
+  },
+  {
+    "q": "Which major investor, known for backing Unacademy, is listed among SoftBank, Tiger Global, General Atlantic, and Peak XV Partners?",
+    "a": "SoftBank"
+  },
+  {
+    "q": "In which month and year did Byju’s enter insolvency proceedings, marking a significant shift in India’s edtech competitive landscape?",
+    "a": "September 2024"
+  },
+  {
+    "q": "Which Indian edtech rival, once considered an underdog, turned profitable and made a strong debut in public markets late last year (2025)?",
+    "a": "Physics Wallah"
+  },
+  {
+    "q": "What is the name of the AI-first language-learning app that Gaurav Munjal has been focusing on, which imitates Duolingo’s gamified approach?",
+    "a": "Airlearn"
+  },
+  {
+    "q": "In which four countries did Gaurav Munjal state that Airlearn was gaining traction in March 2026?",
+    "a": "The United States, the United Kingdom, Germany, and Canada"
+  },
+  {
+    "q": "What specific type of deal structure was agreed upon for upGrad to acquire Unacademy, as announced in March 2026?",
+    "a": "A 100% share-swap deal"
+  },
+  {
+    "q": "What component of Unacademy’s business did the company consolidate with franchise partners and refocus on, as described by Gaurav Munjal in March 2026?",
+    "a": "Core online learning products"
+  },
+  {
+    "q": "What percentage of former employees participated in Unacademy’s employee stock buyback worth ₹500 million?",
+    "a": "Roughly 40%"
+  },
+  {
+    "q": "Which Indian edtech company, once the country’s most valuable startup, saw its valuation written down to effectively zero by September 2024?",
+    "a": "Byju’s"
+  },
+  {
+    "q": "What did Gaurav Munjal claim Unacademy helped invent in the context of the modern edtech industry?",
+    "a": "The modern edtech playbook"
+  },
+  {
+    "q": "What type of fee did upGrad and Unacademy agree to include in their term sheet if the deal does not close?",
+    "a": "An undisclosed break fee"
+  },
+  {
+    "q": "Which two educational segments does upGrad’s integrated model span, according to co-founder Ronnie Screwvala in March 2026?",
+    "a": "K-12 education and upskilling (along with lifelong learning)"
+  },
+  {
+    "q": "What major event in the mid-2020s caused demand for online test prep and learning platforms in India to cool significantly?",
+    "a": The easing of pandemic-era lockdowns and students returning to classrooms
+  },
+  {
+    "q": "Which investor group is listed alongside SoftBank, Tiger Global, and General Atlantic as a backer of Unacademy?",
+    "a": "Peak XV Partners"
+  },
+  {
+    "q": "What financial metric did Gaurav Munjal state would not be disclosed until the upGrad acquisition transaction closes?",
+    "a": "The valuation"
+  },
+  {
+    "q": "What business action did Unacademy take regarding its offline centers in the year leading up to March 2026?",
+    "a": "Consolidated company-operated offline centers with franchise partners"
+  },
+  {
+    "q": "Which language-learning app popularized the gamified approach that Airlearn imitates?",
+    "a": "Duolingo"
+  },
+  {
+    "q": "What type of innovation did Gaurav Munjal argue artificial intelligence could unlock in education technology in March 2026?",
+    "a": "A new wave of innovation"
+  },
+  {
+    "q": "In what year was Unacademy founded, according to the article published in March 2026?",
+    "a": "2015"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the article published on March 2, 2026, regarding the Paramount x Warner Bros. deal, which U.S. President's federal regulators are described as being supportive of Larry Ellison's acquisition?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "According to the March 2, 2026 article, which media executive is the subject of the proposed acquisition of Paramount by Warner Bros.?",
+    "a": "Larry Ellison."
+  },
+  {
+    "q": "In the March 2, 2026 report on the Paramount and Warner Bros. merger, which news organization is cited as noting that state attorneys general can sue to block mergers in the United States?",
+    "a": "The New York Times."
+  },
+  {
+    "q": "Which regulatory body is identified in the March 2, 2026 article as having a say in the Paramount x Warner Bros. deal because properties like HBO Max and CNN are offered globally?",
+    "a": "EU regulators."
+  },
+  {
+    "q": "In the context of the March 2, 2026 article about the Paramount x Warner Bros. deal, which two specific media properties are listed as examples of assets offered globally that trigger EU regulatory oversight?",
+    "a": "HBO Max and CNN."
+  },
+  {
+    "q": "According to the March 2, 2026 article, what specific legal action can state attorneys general in the United States take regarding the Paramount x Warner Bros. deal?",
+    "a": "Sue to block the mergers."
+  },
+  {
+    "q": "In the March 2, 2026 article, how does The New York Times characterize the stance of federal regulators under U.S. President Donald Trump toward Larry Ellison's acquisition plans?",
+    "a": "They are seemingly in the bag for Larry Ellison."
+  },
+  {
+    "q": "Which two major media companies are the subjects of the deal discussed in the March 2, 2026 article titled 'The Paramount x Warner Bros. deal ain’t done yet'?",
+    "a": "Paramount and Warner Bros."
+  },
+  {
+    "q": "In the March 2, 2026 article, what is the described relationship between the global offering of properties like HBO Max and CNN and the involvement of EU regulators in the Paramount x Warner Bros. deal?",
+    "a": "The global offering of these properties gives EU regulators a say in the deal."
+  },
+  {
+    "q": "According to the March 2, 2026 article, which U.S. government officials are identified as having the potential power to sue and block the Paramount x Warner Bros. merger?",
+    "a": "State attorneys general."
+  },
+  {
+    "q": "In the March 2, 2026 report, who is described as receiving a 'big dumb gift' from Larry Ellison in the context of the Paramount x Warner Bros. deal?",
+    "a": "His large adult son."
+  },
+  {
+    "q": "Which publication is cited in the March 2, 2026 article as the source for the information that state attorneys general can sue to block mergers in the US?",
+    "a": "The New York Times."
+  },
+  {
+    "q": "In the March 2, 2026 article, what is the status of the Paramount x Warner Bros. deal as indicated by the headline and the text?",
+    "a": "The deal ain’t done yet."
+  },
+  {
+    "q": "According to the March 2, 2026 article, which international regulatory body is involved in the Paramount x Warner Bros. deal due to the global reach of assets like HBO Max and CNN?",
+    "a": "EU regulators."
+  },
+  {
+    "q": "In the March 2, 2026 article, what is the specific characterization used by The New York Times regarding the federal regulators' support for Larry Ellison?",
+    "a": "They are seemingly in the bag for Larry Ellison."
+  },
+  {
+    "q": "Which two entities are mentioned in the March 2, 2026 article as having opposing or distinct roles in the regulatory landscape of the Paramount x Warner Bros. deal?",
+    "a": "Trump’s federal regulators and state attorneys general."
+  },
+  {
+    "q": "In the March 2, 2026 article, what is the reason given for EU regulators having a say in the Paramount x Warner Bros. deal?",
+    "a": "Properties like HBO Max and CNN are offered globally."
+  },
+  {
+    "q": "According to the March 2, 2026 article, which media mogul's acquisition plans are being scrutinized by both U.S. state attorneys general and EU regulators?",
+    "a": "Larry Ellison."
+  },
+  {
+    "q": "In the March 2, 2026 article, what specific global media assets are cited as the reason for EU regulatory involvement in the Paramount x Warner Bros. deal?",
+    "a": "HBO Max and CNN."
+  },
+  {
+    "q": "Which U.S. President's administration is described in the March 2, 2026 article as having federal regulators who are supportive of Larry Ellison's Paramount x Warner Bros. deal?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "In the March 2, 2026 article, what is the potential legal consequence for the Paramount x Warner Bros. deal from state attorneys general in the United States?",
+    "a": "They can sue to block the mergers."
+  },
+  {
+    "q": "According to the March 2, 2026 article, which news outlet reported that state attorneys general have the power to sue to block the Paramount x Warner Bros. merger?",
+    "a": "The New York Times."
+  },
+  {
+    "q": "In the March 2, 2026 article, how is the relationship between Larry Ellison and his son described in the context of the Paramount x Warner Bros. deal?",
+    "a": "Larry Ellison is making a big dumb gift to his large adult son."
+  },
+  {
+    "q": "Which two levels of government regulation are highlighted in the March 2, 2026 article as potentially impacting the Paramount x Warner Bros. deal?",
+    "a": "Federal regulators (under Trump) and state attorneys general."
+  },
+  {
+    "q": "In the March 2, 2026 article, what is the specific global characteristic of HBO Max and CNN that necessitates EU regulatory review for the Paramount x Warner Bros. deal?",
+    "a": "They are offered globally."
+  }
+]

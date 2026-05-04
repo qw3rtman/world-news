@@ -1,0 +1,27 @@
+{
+  "hash": "acef636c4220",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/03/16/bessent-trump-xi-china-iran-war.html",
+      "title": "Trump-Xi China summit may be delayed: Bessent",
+      "published_date": null,
+      "author": "Garrett Downs",
+      "num_tokens": 713,
+      "text_length": 3450
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "706279",
+      "spike_id": 9,
+      "market_question": "Will Trump visit China by April 30?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.265,
+      "spike_timestamp_before": "2026-03-17T09:00:48+00:00",
+      "spike_timestamp_after": "2026-03-17T17:00:43+00:00"
+    }
+  ]
+}

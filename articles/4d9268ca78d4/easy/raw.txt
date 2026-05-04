@@ -1,0 +1,102 @@
+[
+  {
+    "q": "What was the maximum percentage loss experienced by gold bullion during its retreat on February 23, 2026, after four days of gains?",
+    "a": "2.5%"
+  },
+  {
+    "q": "By what percentage had gold bullion climbed over the four trading sessions preceding its retreat on February 23, 2026?",
+    "a": "More than 7%"
+  },
+  {
+    "q": "Which U.S. Supreme Court ruling contributed to the uncertainty that initially spurred gold's gains in late February 2026?",
+    "a": "A ruling that scuppered President Donald Trump’s tariff regime"
+  },
+  {
+    "q": "Which two major geopolitical or policy factors were cited as drawing investors to safer assets like gold in the days leading up to February 23, 2026?",
+    "a": "Uncertainty over U.S. trade policy and heightened tensions with Iran"
+  },
+  {
+    "q": "How many consecutive days had gold risen before it retreated on February 23, 2026?",
+    "a": "Four days"
+  },
+  {
+    "q": "Which currency's weakness helped gold pare back some of its losses on February 23, 2026?",
+    "a": "The U.S. dollar"
+  },
+  {
+    "q": "Which U.S. President’s tariff regime was effectively nullified by a Supreme Court ruling, contributing to market uncertainty in February 2026?",
+    "a": "President Donald Trump"
+  },
+  {
+    "q": "In late February 2026, which Middle Eastern nation was the U.S. facing off against, contributing to gold's price surge?",
+    "a": "Iran"
+  },
+  {
+    "q": "What was the direction of gold's price movement on February 23, 2026, after initially falling as much as 2.5%?",
+    "a": "It pared some losses (retreated less than the initial drop)"
+  },
+  {
+    "q": "What type of assets did investors move toward, as indicated by the demand for gold, during the U.S.-Iran tensions and tariff uncertainty in February 2026?",
+    "a": "Safer assets"
+  },
+  {
+    "q": "What was the primary driver for gold's initial climb of more than 7% over four sessions ending in late February 2026?",
+    "a": "Uncertainty over U.S. trade policy and heightened Middle East tensions"
+  },
+  {
+    "q": "On February 23, 2026, did gold bullion continue its upward trend or reverse it after the initial 2.5% drop?",
+    "a": "It reversed it by paring losses"
+  },
+  {
+    "q": "Which specific U.S. political figure's policy was impacted by a Supreme Court ruling that influenced gold prices in early 2026?",
+    "a": "President Donald Trump"
+  },
+  {
+    "q": "What was the approximate total gain for gold bullion over the four-day period immediately preceding its retreat on February 23, 2026?",
+    "a": "More than 7%"
+  },
+  {
+    "q": "Which international tension was cited alongside U.S. trade policy uncertainty as a reason for gold's rise in February 2026?",
+    "a": "Heightened tensions between the U.S. and Iran"
+  },
+  {
+    "q": "Did the U.S. dollar strengthen or weaken on February 23, 2026, helping to support gold prices after the initial drop?",
+    "a": "It weakened"
+  },
+  {
+    "q": "What was the maximum intraday decline for gold on February 23, 2026, before it pared back some of those losses?",
+    "a": "2.5%"
+  },
+  {
+    "q": "Which entity's ruling in early 2026 removed the tariff regime that had been a source of market uncertainty?",
+    "a": "The U.S. Supreme Court"
+  },
+  {
+    "q": "In the context of the February 2026 market movements, what role did the U.S. dollar play in gold's price action on the day of its retreat?",
+    "a": "Its weakness helped gold pare back losses"
+  },
+  {
+    "q": "How many days of consecutive gains did gold experience before the price action described on February 23, 2026?",
+    "a": "Four days"
+  },
+  {
+    "q": "Which two countries were involved in the geopolitical tensions that influenced investor behavior toward gold in February 2026?",
+    "a": "The United States and Iran"
+  },
+  {
+    "q": "What was the net performance of gold bullion over the four sessions prior to February 23, 2026?",
+    "a": "It climbed more than 7%"
+  },
+  {
+    "q": "What specific event involving the U.S. Supreme Court in early 2026 contributed to the uncertainty driving gold prices higher?",
+    "a": "A ruling that scuppered President Donald Trump’s tariff regime"
+  },
+  {
+    "q": "On February 23, 2026, did gold's price action show a continuation of the previous four days' trend or a reversal?",
+    "a": "A reversal (retreat after gains)"
+  },
+  {
+    "q": "Which precious metal saw a retreat on February 23, 2026, after having climbed more than 7% over the previous four days?",
+    "a": "Gold bullion"
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "spike_index": 12,
+  "direction": "down",
+  "price_before": 0.275,
+  "price_after": 0.105,
+  "delta": -0.17000000000000004,
+  "abs_delta": 0.17000000000000004,
+  "timestamp_before": "2026-03-06T18:30:25+00:00",
+  "timestamp_after": "2026-03-07T13:00:27+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "http://polling.reuters.com/world/middle-east/saudi-has-told-iran-not-attack-it-warns-possible-retaliation-sources-say-2026-03-07/",
+      "file": "a85a82579970.txt",
+      "title": "Exclusive: Saudi has told Iran not to attack it, warns of possible retaliation, sources say | Reuters",
+      "published_date": "2026-03-07T00:00:00.000Z",
+      "author": "Samia Nakhoul",
+      "text_length": 5589,
+      "status": "ok",
+      "num_tokens": 1126
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/07/saudi-arabia-told-iran-not-to-attack-it-warns-of-retaliation-reuters.html",
+      "file": "40931d9d046c.txt",
+      "title": "Saudi Arabia told Iran not to attack it, warns of retaliation: Reuters",
+      "published_date": "2026-03-07T00:00:00.000Z",
+      "author": null,
+      "text_length": 4910,
+      "status": "ok",
+      "num_tokens": 962
+    },
+    {
+      "url": "https://www.timesofisrael.com/saudi-arabia-said-to-intensify-talks-with-iran-to-defuse-mideast-war/",
+      "file": "ffb14d915369.txt",
+      "title": "Saudi Arabia said talking with Iran; Gulf states complain at lack of notice before war | The Times of Israel",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Agencies  and  ToI Staff",
+      "text_length": 9886,
+      "status": "ok",
+      "num_tokens": 1926
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-06/saudi-arabia-has-intensified-direct-line-to-iran-to-defuse-war?srnd=phx-economics-v2",
+      "file": "d22aabfb9792.txt",
+      "title": "Saudi Arabia Intensifies Engagement With Iran to Defuse War - Bloomberg",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Donato Paolo Mancini",
+      "text_length": 615,
+      "status": "ok",
+      "num_tokens": 109
+    },
+    {
+      "url": "http://straitstimes.com/world/middle-east/saudi-has-told-iran-not-to-attack-it-warns-of-possible-retaliation-sources-say",
+      "file": "2c8768f57853.txt",
+      "title": "Saudi Arabia tells Iran not to attack it, warns of possible retaliation: Sources | The Straits Times",
+      "published_date": "2026-03-07T00:00:00.000Z",
+      "author": null,
+      "text_length": 5090,
+      "status": "ok",
+      "num_tokens": 991
+    }
+  ],
+  "total_tokens": 5114
+}

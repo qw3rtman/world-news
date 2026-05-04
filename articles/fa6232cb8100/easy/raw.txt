@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On what date did the European Commission approve the new trusteeship structure granting Berlin long-term control over the German assets of Russian oil group Rosneft?",
+    "a": "Friday, February 20, 2026."
+  },
+  {
+    "q": "Which three specific refineries are included in the German assets of Rosneft that are now under the new European Commission-approved trusteeship?",
+    "a": "The PCK Schwedt, MiRo, and Bayernoil refineries."
+  },
+  {
+    "q": "In which year were the German assets of Rosneft, including stakes in refineries, placed into the German government's trusteeship following the invasion of Ukraine?",
+    "a": "2022."
+  },
+  {
+    "q": "What is the expiration date of the current trusteeship structure over Rosneft's German assets that was approved for replacement on February 20, 2026?",
+    "a": "March 10, 2026."
+  },
+  {
+    "q": "Under the new trusteeship structure approved by the European Commission in February 2026, what specific right are the shareholders of the German Rosneft entities barred from exercising?",
+    "a": "They are barred from exercising their voting rights for the duration of the trusteeship."
+  },
+  {
+    "q": "Which refinery, supplying most of the fuel to Berlin, was the primary source of uncertainty during the previous six-monthly renewal cycles of the Rosneft trusteeship?",
+    "a": "The PCK Schwedt refinery."
+  },
+  {
+    "q": "What is the expiration date of the U.S. sanctions exemption that Berlin secured for the PCK Schwedt refinery last year?",
+    "a": "April 29, 2026."
+  },
+  {
+    "q": "Which Russian oil group's German assets are the subject of the new indefinite trusteeship approved by the European Commission in February 2026?",
+    "a": "Rosneft."
+  },
+  {
+    "q": "What was the primary regulatory purpose of the new trusteeship structure approved by the European Commission in February 2026 regarding the ownership of Rosneft's German entities?",
+    "a": "To avoid expropriation and possible related lawsuits while keeping refineries running under German control."
+  },
+  {
+    "q": "Which country's government placed the German assets of Rosneft into trusteeship in 2022 after the invasion of Ukraine?",
+    "a": "The German government."
+  },
+  {
+    "q": "What specific aspect of the U.S. sanctions regime against Rosneft was NOT addressed by the European Commission's February 20, 2026 decision?",
+    "a": "The U.S. sanctions themselves, which are part of Washington's effort to squeeze Russia's energy sector."
+  },
+  {
+    "q": "Who privately warned the German government last month that U.S. sanctions were hurting the business of the PCK Schwedt refinery?",
+    "a": "Management at the refinery."
+  },
+  {
+    "q": "What is the frequency with which the previous trusteeship over Rosneft's German assets had to be renewed to preserve energy security?",
+    "a": "Every six months."
+  },
+  {
+    "q": "Which two regions' fuel supplies were threatened by the U.S. sanctions on Rosneft's PCK Schwedt refinery, according to warnings received by Berlin last month?",
+    "a": "Berlin and the surrounding region."
+  },
+  {
+    "q": "Under the new trusteeship approved in February 2026, who retains majority ownership of the German Rosneft entities?",
+    "a": "Rosneft."
+  },
+  {
+    "q": "What legal framework did the European Commission use to examine the transaction regarding the new indefinite trusteeship over Rosneft's German entities?",
+    "a": "Merger control rules."
+  },
+  {
+    "q": "Which news agency reported that management at the PCK Schwedt refinery privately warned Berlin about the impact of U.S. sanctions last month?",
+    "a": "Reuters."
+  },
+  {
+    "q": "What was the status of the energy ties between Germany and Russia prior to the 2022 invasion that led to the initial trusteeship of Rosneft assets?",
+    "a": "They were described as decades-long energy ties."
+  },
+  {
+    "q": "Who are the reporters credited with the reporting on the European Commission's approval of the Rosneft trusteeship structure in February 2026?",
+    "a": "Christoph Steitz, Foo Yun Chee, and Christian Kraemer."
+  },
+  {
+    "q": "Who are the editors credited with editing the Reuters article about the Rosneft trusteeship approved in February 2026?",
+    "a": "Ludwig Burger and Thomas Seythal."
+  },
+  {
+    "q": "What specific type of legal structure did the European Commission approve on February 20, 2026, to establish Berlin's long-term control over Rosneft's assets?",
+    "a": "A new trusteeship structure under national law."
+  },
+  {
+    "q": "Which U.S. policy effort is the sanctions regime against Rosneft part of, as noted in the context of the February 2026 European Commission decision?",
+    "a": "Washington's effort to squeeze Russia's energy sector."
+  },
+  {
+    "q": "What was the main reason cited for the regular uncertainty created by the previous six-monthly renewal of the Rosneft trusteeship?",
+    "a": "Preserving energy security, particularly concerning the PCK Schwedt refinery."
+  },
+  {
+    "q": "Does the new trusteeship structure approved by the European Commission in February 2026 allow shareholders of the German Rosneft entities to vote?",
+    "a": "No, they are barred from exercising voting rights for the duration of the trusteeship."
+  },
+  {
+    "q": "What is the stock ticker symbol for the Russian oil group Rosneft as referenced in the European Commission's February 20, 2026 approval?",
+    "a": "ROSN.MM."
+  }
+]

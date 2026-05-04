@@ -1,0 +1,37 @@
+{
+  "hash": "4eec15da952f",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://today.reuters.com/business/public-storage-acquire-national-storage-affiliates-all-stock-deal-2026-03-16/",
+      "title": "Public Storage to buy National Storage Affiliates in $10.5 billion deal | Reuters",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "Abhinav Parmar",
+      "num_tokens": 512,
+      "text_length": 2489
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694937",
+      "spike_id": 8,
+      "market_question": "Will BP be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.29000000000000004,
+      "spike_timestamp_before": "2026-03-15T06:30:32+00:00",
+      "spike_timestamp_after": "2026-03-16T06:00:33+00:00"
+    },
+    {
+      "market_id": "694937",
+      "spike_id": 9,
+      "market_question": "Will BP be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.27,
+      "spike_timestamp_before": "2026-03-16T06:00:33+00:00",
+      "spike_timestamp_after": "2026-03-16T12:30:25+00:00"
+    }
+  ]
+}

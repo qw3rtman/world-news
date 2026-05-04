@@ -1,0 +1,27 @@
+{
+  "hash": "f8398439e081",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.semafor.com/article/03/10/2026/homeland-security-shutdown-chaos-continues-even-under-mullin",
+      "title": "Mullin set to take over a closed and chaotic Homeland Security  | Semafor",
+      "published_date": "2026-03-10T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1271,
+      "text_length": 6039
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1378925",
+      "spike_id": 6,
+      "market_question": "Will the DHS shutdown end after March 31, 2026?",
+      "event_title": "When will the DHS shutdown end?",
+      "spike_direction": "down",
+      "spike_delta": -0.251,
+      "spike_timestamp_before": "2026-03-09T15:30:31+00:00",
+      "spike_timestamp_after": "2026-03-10T14:30:41+00:00"
+    }
+  ]
+}

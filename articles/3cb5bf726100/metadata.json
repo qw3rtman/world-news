@@ -1,0 +1,27 @@
+{
+  "hash": "3cb5bf726100",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://stocks.us.reuters.com/business/besi-attracts-takeover-interest-advanced-chip-packaging-demand-surges-sources-2026-03-12/",
+      "title": "Exclusive: Besi fields takeover interest on surging demand for advanced chip packaging, sources say | Reuters",
+      "published_date": "2026-03-12T00:00:00.000Z",
+      "author": "Milana Vinn",
+      "num_tokens": 1023,
+      "text_length": 4727
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694938",
+      "spike_id": 31,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.15999999999999998,
+      "spike_timestamp_before": "2026-03-11T14:00:39+00:00",
+      "spike_timestamp_after": "2026-03-12T13:30:43+00:00"
+    }
+  ]
+}

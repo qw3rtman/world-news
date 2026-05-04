@@ -1,0 +1,106 @@
+[
+  {
+    "q": "Which artificial intelligence company launched the GPT-5.4 model in March 2026, and what specific version of the model is available to ChatGPT Plus, Team, and Pro users?",
+    "a": "OpenAI launched the model; GPT-5.4 Thinking is available to those users."
+  },
+  {
+    "q": "What is the maximum context window size supported by the GPT-5.4 model released by OpenAI in March 2026?",
+    "a": "Up to 1 million tokens of context."
+  },
+  {
+    "q": "Which two specific versions of the GPT-5.4 model were released by OpenAI in March 2026, and which one is designated for users needing higher performance on complex tasks?",
+    "a": "GPT-5.4 Thinking and GPT-5.4 Pro; GPT-5.4 Pro is for higher performance."
+  },
+  {
+    "q": "In the March 2026 launch of GPT-5.4, which earlier model does GPT-5.4 Thinking replace in ChatGPT, and for how long will the previous model remain available for paid users?",
+    "a": "It replaces GPT-5.2 Thinking; the previous model remains available for three months."
+  },
+  {
+    "q": "What specific feature in ChatGPT's GPT-5.4 Thinking allows users to view an outline of the AI's plan before the final answer is generated?",
+    "a": "The model shows an outline of its plan before generating a final answer."
+  },
+  {
+    "q": "Which benchmark did OpenAI report GPT-5.4 achieving 83% wins or ties against industry professionals in March 2026, and how many occupations does this benchmark test?",
+    "a": "The GDPval benchmark, which tests tasks across 44 occupations."
+  },
+  {
+    "q": "What score did GPT-5.4 achieve on the SWE-Bench Pro coding benchmark in March 2026, and how does this compare to earlier models?",
+    "a": "It scored 57.7%, which is slightly higher than earlier models."
+  },
+  {
+    "q": "Through which three platforms or interfaces was the GPT-5.4 model made available by OpenAI in March 2026?",
+    "a": "ChatGPT, the OpenAI developer API, and the coding platform Codex."
+  },
+  {
+    "q": "What new capability does GPT-5.4 introduce that allows AI agents to interact with software, websites, and tools to complete tasks?",
+    "a": "Built-in computer-use abilities."
+  },
+  {
+    "q": "Which specific user groups can enable early access to GPT-5.4 through administrator settings in March 2026?",
+    "a": "Enterprise and education customers."
+  },
+  {
+    "q": "What is the specific model name developers use to access GPT-5.4 through the OpenAI API, and what is the name for the higher performance version?",
+    "a": "gpt-5.4 for the standard version and gpt-5.4-pro for the higher performance version."
+  },
+  {
+    "q": "Which version of GPT-5.4 is available to users on Pro and Enterprise plans in March 2026?",
+    "a": "GPT-5.4 Pro."
+  },
+  {
+    "q": "What experimental feature is available to Codex users testing GPT-5.4 in March 2026, and what does it allow the system to do?",
+    "a": "An experimental feature that allows the system to interact with applications during development tasks."
+  },
+  {
+    "q": "OpenAI described GPT-5.4 as its most capable and efficient frontier model for professional work in March 2026; what three main areas of improvement does this model combine?",
+    "a": "Reasoning, coding, and task automation."
+  },
+  {
+    "q": "Which earlier model's coding capabilities were integrated into GPT-5.4 when OpenAI released it in March 2026?",
+    "a": "GPT-5.3-Codex."
+  },
+  {
+    "q": "How does the improved internet search capability in GPT-5.4, released in March 2026, handle user inputs differently than previous versions?",
+    "a": "It can handle longer questions and maintain context across multiple steps while collecting information."
+  },
+  {
+    "q": "What section of ChatGPT will the legacy GPT-5.2 model reside in for paid users for three months after the March 2026 launch of GPT-5.4?",
+    "a": "The 'Legacy Models' section."
+  },
+  {
+    "q": "In March 2026, OpenAI reported that GPT-5.4 achieved 83% wins or ties in a benchmark against whom?",
+    "a": "Industry professionals."
+  },
+  {
+    "q": "What specific professional work tasks did OpenAI state GPT-5.4 is designed to help users complete in March 2026?",
+    "a": "Creating spreadsheets, writing documents, and preparing presentations."
+  },
+  {
+    "q": "Which coding platform integrated GPT-5.4 for developers in March 2026, allowing them to use it for coding and software development workflows?",
+    "a": "Codex."
+  },
+  {
+    "q": "What is the name of the feature in GPT-5.4 Thinking that allows users to guide the response without restarting the conversation?",
+    "a": "The ability to show an outline of its plan before generating a final answer."
+  },
+  {
+    "q": "Which two specific plans in ChatGPT in March 2026 grant access to GPT-5.4 Pro?",
+    "a": "Pro and Enterprise plans."
+  },
+  {
+    "q": "What specific type of context processing does GPT-5.4 support that allows it to process large documents and long conversations in March 2026?",
+    "a": "Up to 1 million tokens of context."
+  },
+  {
+    "q": "Which benchmark, testing tasks across 44 occupations, did OpenAI use to report GPT-5.4's 83% win or tie rate in March 2026?",
+    "a": "GDPval."
+  },
+  {
+    "q": "What specific improvement in internet searching does GPT-5.4 offer in March 2026 regarding question length and information collection?",
+    "a": "It handles longer questions and maintains context across multiple steps while collecting information from different sources."
+  },
+  {
+    "q": "Which earlier model's capabilities were built into GPT-5.4's coding functions when OpenAI released it in March 2026?",
+    "a": "GPT-5.3-Codex."
+  }
+]

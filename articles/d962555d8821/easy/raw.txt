@@ -1,0 +1,102 @@
+[
+  {
+    "q": "What are the specific travel dates announced by a White House official on February 20, 2026, for US President Donald Trump's visit to China?",
+    "a": "March 31 to April 2, 2026."
+  },
+  {
+    "q": "Which two national leaders are scheduled to meet during US President Donald Trump's March 31 to April 2, 2026, visit to China?",
+    "a": "US President Donald Trump and Chinese President Xi Jinping."
+  },
+  {
+    "q": "What major economic issue, involving a paused escalation, are the United States and China weighing whether to extend during US President Donald Trump's March 2026 trip to China?",
+    "a": "A trade truce."
+  },
+  {
+    "q": "What description did US President Donald Trump give to foreign leaders on February 19, 2026, regarding the expected scale of his upcoming March 2026 trip to China?",
+    "a": "He described it as a \"wild one\" and stated they have to put on the \"biggest display you’ve ever had in the history of China.\""
+  },
+  {
+    "q": "In which city and country did US President Donald Trump and Chinese President Xi Jinping hold their most recent in-person bilateral meeting prior to the March 2026 China visit?",
+    "a": "Busan, South Korea."
+  },
+  {
+    "q": "What three specific concessions did US President Donald Trump agree to with Chinese President Xi Jinping during their October 30, 2025, meeting in South Korea?",
+    "a": "Trimming tariffs on China, resuming US soybean purchases, and keeping rare earths exports flowing."
+  },
+  {
+    "q": "What illicit trade issue was Beijing expected to crack down on in exchange for US tariff trims during the October 30, 2025, meeting between US President Donald Trump and Chinese President Xi Jinping?",
+    "a": "The illicit fentanyl trade."
+  },
+  {
+    "q": "Which sensitive geopolitical issue did US President Donald Trump and Chinese President Xi Jinping largely sidestep during their October 30, 2025, meeting in South Korea?",
+    "a": "Taiwan."
+  },
+  {
+    "q": "During a February 2026 phone call, which specific US policy did Chinese President Xi Jinping raise with US President Donald Trump?",
+    "a": "US arms sales to Taiwan."
+  },
+  {
+    "q": "What was the total value of the largest-ever US arms sales deal with Taiwan announced in December 2025?",
+    "a": "US$11.1 billion (S$14 billion)."
+  },
+  {
+    "q": "According to the article, what is China's official position regarding the territory of Taiwan?",
+    "a": "China views Taiwan as its own territory."
+  },
+  {
+    "q": "What role does the United States play in Taiwan's defense, as described in the context of the December 2025 arms sales announcement?",
+    "a": "The United States is Taiwan’s most important arms supplier and is bound by law to provide Taiwan with the means to defend itself."
+  },
+  {
+    "q": "What potential additional concession did Chinese President Xi Jinping indicate he would consider during a February 2026 call with US President Donald Trump?",
+    "a": "Further increasing soybean purchases."
+  },
+  {
+    "q": "Why are soybean purchases politically significant for US President Donald Trump, according to the February 2026 context?",
+    "a": "Struggling US farmers are a major domestic political constituency for him, and China is the top consumer."
+  },
+  {
+    "q": "Which two countries did US President Donald Trump tag as reasons for several hawkish policy steps, alongside China, as of early 2026?",
+    "a": "Canada and Greenland (and Venezuela)."
+  },
+  {
+    "q": "In which two key policy areas did US President Donald Trump ease policy toward Beijing in the months leading up to February 2026?",
+    "a": "Tariffs and advanced computer chips and drones."
+  },
+  {
+    "q": "What was the date of the Asia-Pacific Economic Cooperation (APEC) summit where US President Donald Trump and Chinese President Xi Jinping met in Busan, South Korea?",
+    "a": "October 30, 2025."
+  },
+  {
+    "q": "Which entity declined to be named while discussing the details of US President Donald Trump's March 2026 China trip?",
+    "a": "A White House official."
+  },
+  {
+    "q": "What is the status of United States diplomatic ties with China compared to its ties with Taiwan?",
+    "a": "The United States has formal diplomatic ties with China but maintains unofficial ties with Taiwan."
+  },
+  {
+    "q": "Which island expects more US arms sales following the December 2025 announcement of an US$11.1 billion deal?",
+    "a": "Taiwan."
+  },
+  {
+    "q": "What specific weapons-related activity could the US$11.1 billion in weapons sold to Taiwan in December 2025 ostensibly be used for?",
+    "a": "Defending against a Chinese attack."
+  },
+  {
+    "q": "Who is the top consumer of US soybeans, a fact that influences US President Donald Trump's agricultural policy considerations?",
+    "a": "China."
+  },
+  {
+    "q": "What type of technology exports did US President Donald Trump ease restrictions on regarding Beijing in the months prior to February 2026?",
+    "a": "Advanced computer chips and drones."
+  },
+  {
+    "q": "What was the primary purpose of the trade truce that the United States and China were weighing whether to extend during the March 2026 visit?",
+    "a": "To pause a tariffs escalation."
+  },
+  {
+    "q": "Which foreign leaders did US President Donald Trump address on February 19, 2026, when describing his upcoming March 2026 trip to China?",
+    "a": "Foreign leaders."
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "q": "On Monday, March 9, 2026, what percentage increase did Brent crude futures with May delivery record, and what was their trading price per barrel?",
+    "a": "Brent crude futures rose 11.6% to trade at $103.47 per barrel."
+  },
+  {
+    "q": "What were the session high prices for Brent crude futures and U.S. West Texas Intermediate (WTI) futures on Monday, March 9, 2026?",
+    "a": "Brent crude futures hit a session high of $119.5 per barrel, and WTI hit a session high of $119.48 per barrel."
+  },
+  {
+    "q": "Which two Middle Eastern countries had already begun to shut-in crude production by Monday, March 9, 2026, due to the war?",
+    "a": "Iraq and Kuwait had begun to shut-in production."
+  },
+  {
+    "q": "What did Neil Atkinson, former head of oil at the International Energy Agency, state regarding the potential ceiling for oil prices on Monday, March 9, 2026?",
+    "a": "He stated that \"the sky is the limit\" because there is no precedent for the effective closure of the Strait of Hormuz."
+  },
+  {
+    "q": "According to Janiv Shah, vice president of oil markets at Rystad Energy, what price could Brent crude futures climb to if the current situation persists for four months?",
+    "a": "Brent crude futures could climb to $135 per barrel."
+  },
+  {
+    "q": "Which G7 economies' finance ministers were reported to be holding an emergency meeting on Monday, March 9, 2026, to discuss a possible joint release of petroleum reserves?",
+    "a": "Finance ministers from G7 economies were holding the meeting, with the U.K.'s Treasury and French government confirming the call."
+  },
+  {
+    "q": "What percentage of the world's oil and gas typically passes through the Strait of Hormuz, according to the article published on March 9, 2026?",
+    "a": "Typically, about 20% of the world's oil and gas passes through the Strait of Hormuz."
+  },
+  {
+    "q": "Which country did Tyler Goodspeed, chief economist at ExxonMobil, identify as having an interest in normal traffic resuming through the Strait of Hormuz, while excluding one nation?",
+    "a": "He stated that everyone but Russia had an interest in normal traffic resuming."
+  },
+  {
+    "q": "According to analysts at Societe Generale on Monday, March 9, 2026, which country was likely the next producer at risk of shutting in output within five to seven days?",
+    "a": "The United Arab Emirates (UAE) was identified as the next producer at risk."
+  },
+  {
+    "q": "What condition did analysts at Societe Generale state would make shut-ins plausible for Saudi Arabia if the Strait of Hormuz remained closed?",
+    "a": "Shut-ins would become plausible if the Strait of Hormuz remains closed for a further two to three weeks."
+  },
+  {
+    "q": "What specific event did Neil Atkinson cite as the cause for the unprecedented energy crisis warning on Monday, March 9, 2026?",
+    "a": "He cited the effective closure of the strategically vital Strait of Hormuz."
+  },
+  {
+    "q": "What targets were included in the fresh wave of U.S. and Israeli strikes across Iran over the weekend preceding March 9, 2026?",
+    "a": "Oil depots were among the targets."
+  },
+  {
+    "q": "What price level did Janiv Shah of Rystad Energy predict prices would stay above given current conditions in a two-month forward-looking analysis?",
+    "a": "Prices would stay above $110 per barrel."
+  },
+  {
+    "q": "Which country did Societe Generale analysts note is vulnerable due to modest oil volumes relative to its LNG exposure?",
+    "a": "Qatar is vulnerable, though its oil volumes are modest relative to its LNG exposure."
+  },
+  {
+    "q": "What reason did Janiv Shah give for Middle Eastern producers hitting a critical point where they must shut in production?",
+    "a": "There is nowhere left to put the oil because physical supply is being choked off by drone strikes."
+  },
+  {
+    "q": "On which CNBC program did Neil Atkinson make his comments about the energy crisis on Monday, March 9, 2026?",
+    "a": "He spoke on CNBC's \"Squawk Box Europe.\""
+  },
+  {
+    "q": "Which two financial or news entities confirmed to CNBC that the G7 emergency meeting call would take place on Monday, March 9, 2026?",
+    "a": "The U.K.'s Treasury and the French government confirmed the call."
+  },
+  {
+    "q": "What was the trading performance of U.S. West Texas Intermediate (WTI) futures with April delivery on Monday, March 9, 2026?",
+    "a": "They were 12.2% higher at $101.97 per barrel."
+  },
+  {
+    "q": "According to Tyler Goodspeed of ExxonMobil, what was the consensus view regarding oil supply and strategic reserves before the conflict entered its second week?",
+    "a": "The consensus was that there was abundant oil on the water and some strategic reserves to cover any short-term gap."
+  },
+  {
+    "q": "Which organization coordinated the possible joint release of petroleum from reserves discussed in the G7 emergency meeting on Monday, March 9, 2026?",
+    "a": "The International Energy Agency (IEA) coordinated the possible joint release."
+  },
+  {
+    "q": "What did Tyler Goodspeed suggest about the probability distribution of outcomes regarding the Strait of Hormuz closure on Monday, March 9, 2026?",
+    "a": "He suggested there are more probable scenarios in which the strait remains effectively closed harder for longer than scenarios where normal traffic resumes."
+  },
+  {
+    "q": "Which countries did analysts warn could be vulnerable to production shut-ins if the Strait of Hormuz remains closed for a sustained period?",
+    "a": "The United Arab Emirates and Saudi Arabia were warned as potentially vulnerable."
+  },
+  {
+    "q": "What did Janiv Shah describe as the market currently grappling with regarding physical supply on Monday, March 9, 2026?",
+    "a": "The market is grappling with physical supply being choked off by drone strikes."
+  },
+  {
+    "q": "What specific warning did analysts at Societe Generale issue regarding prolonged production shut-ins from Middle East countries on Monday, March 9, 2026?",
+    "a": "They warned that prolonged shut-ins \"materially increase\" the risk of restart complications."
+  },
+  {
+    "q": "What was the reported status of shipping traffic through the Strait of Hormuz since the war started, as of Monday, March 9, 2026?",
+    "a": "Shipping traffic had all but halted through this key maritime corridor."
+  },
+  {
+    "q": "Who contributed to the report published by CNBC on March 9, 2026, regarding oil prices and the Iran war?",
+    "a": "CNBC's Holly Ellyatt contributed to the report."
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "hash": "22a81b1922d7",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.barrons.com/articles/gold-price-5300-middle-east-fighting-3fdc74ca?gaa_at=eafs&gaa_n=AWEtsqeom_7zW7zy_BcWvOn8Xj9xj2G9hIoxMEtdTrmjGd_gx77qdVt6lRZy&gaa_sig=LsP68oC6h_N838-tne8aGfK0W5WqcfV4deIYrd29K1Ux3uPnNu7l-d64OvHlJqncslcZaXRuO3eFzyYideJwaQ%3D%3D&gaa_ts=69a5f67c",
+      "title": "Gold Surges Past $5,300 as Middle East Fighting Escalates<!-- --> - Barron's",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Alex Kozul-Wright|Adam Clark",
+      "num_tokens": 60,
+      "text_length": 316
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1032272",
+      "spike_id": 5,
+      "market_question": "Will Gold (GC) hit (HIGH) $5,500 by end of June?",
+      "event_title": "What will Gold (GC) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.1965,
+      "spike_timestamp_before": "2026-03-02T14:00:25+00:00",
+      "spike_timestamp_after": "2026-03-03T12:00:35+00:00"
+    },
+    {
+      "market_id": "1032272",
+      "spike_id": 6,
+      "market_question": "Will Gold (GC) hit (HIGH) $5,500 by end of June?",
+      "event_title": "What will Gold (GC) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.25250000000000006,
+      "spike_timestamp_before": "2026-03-02T21:00:26+00:00",
+      "spike_timestamp_after": "2026-03-03T15:00:33+00:00"
+    },
+    {
+      "market_id": "1032272",
+      "spike_id": 7,
+      "market_question": "Will Gold (GC) hit (HIGH) $5,500 by end of June?",
+      "event_title": "What will Gold (GC) hit__ by end of June?",
+      "spike_direction": "up",
+      "spike_delta": 0.15000000000000002,
+      "spike_timestamp_before": "2026-03-03T15:00:33+00:00",
+      "spike_timestamp_after": "2026-03-04T14:30:28+00:00"
+    }
+  ]
+}

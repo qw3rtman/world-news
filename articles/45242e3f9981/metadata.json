@@ -1,0 +1,27 @@
+{
+  "hash": "45242e3f9981",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://br.reuters.com/world/asia-pacific/japans-core-inflation-slows-2-year-low-complicates-boj-rate-hike-timing-2026-02-20/",
+      "title": "Reuters | Breaking International News & Views",
+      "published_date": "2026-02-20T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 152,
+      "text_length": 772
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "991022",
+      "spike_id": 1,
+      "market_question": "No change in Bank of Japan's interest rates after March 2026 meeting?",
+      "event_title": "Bank of Japan Decision in March?",
+      "spike_direction": "down",
+      "spike_delta": -0.33599999999999997,
+      "spike_timestamp_before": "2026-02-20T17:30:24+00:00",
+      "spike_timestamp_after": "2026-02-20T20:00:27+00:00"
+    }
+  ]
+}

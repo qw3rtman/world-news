@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Which defense technology firm signed a definitive agreement on March 11, 2026, to acquire the space surveillance and missile defense company ExoAnalytic Solutions?",
+    "a": "Anduril Industries"
+  },
+  {
+    "q": "What major U.S. missile defense initiative, aimed at building a space-based shield against ballistic, cruise, and hypersonic missiles, is President Donald Trump associated with and in which Anduril Industries is positioning itself to play a role?",
+    "a": "The Golden Dome project"
+  },
+  {
+    "q": "In what month did Anduril Industries receive smaller contracts for space-based interceptors as part of the competition for roles in the Golden Dome missile defense project?",
+    "a": "Late November 2025"
+  },
+  {
+    "q": "How many telescope systems does ExoAnalytic Solutions own and operate globally to provide persistent, high-fidelity awareness of deep space?",
+    "a": "More than 400"
+  },
+  {
+    "q": "Who is the senior vice president of engineering at Anduril Industries who stated that the acquisition of ExoAnalytic Solutions would supercharge the company's ambitions?",
+    "a": "Gokul Subramanian"
+  },
+  {
+    "q": "What four specific areas of work did Gokul Subramanian say the combined entity of Anduril Industries and ExoAnalytic Solutions would advance?",
+    "a": "Space sensing, tracking, battle management, and fire control"
+  },
+  {
+    "q": "What was the significance of the ExoAnalytic Solutions acquisition regarding Anduril Industries' corporate history as of March 2026?",
+    "a": "It was Anduril's first acquisition under its space business unit and its 11th overall"
+  },
+  {
+    "q": "Which two distinct capabilities did Anduril Industries plan to integrate by acquiring ExoAnalytic Solutions in the deal announced in March 2026?",
+    "a": "ExoAnalytic's global sensor network and data analytics with Anduril's expertise in autonomy and command and control"
+  },
+  {
+    "q": "What specific national security capabilities did ExoAnalytic Solutions provide as a leader in modeling and simulation prior to its acquisition by Anduril Industries?",
+    "a": "Software and expertise for missile warning and missile defense"
+  },
+  {
+    "q": "Were the financial terms of the acquisition of ExoAnalytic Solutions by Anduril Industries disclosed in the March 11, 2026 announcement?",
+    "a": "No, the terms were not disclosed"
+  },
+  {
+    "q": "What condition must be met for the acquisition of ExoAnalytic Solutions by Anduril Industries to be finalized, as stated in the March 2026 agreement?",
+    "a": "The deal remains subject to regulatory approvals"
+  },
+  {
+    "q": "What primary function did ExoAnalytic Solutions evolve from before building its global telescope network for tracking objects in orbit?",
+    "a": "Missile defense algorithms"
+  },
+  {
+    "q": "How many companies were described as vying for a role in developing the Golden Dome missile defense project as of March 2026?",
+    "a": "Hundreds"
+  },
+  {
+    "q": "What type of objects does ExoAnalytic Solutions' global telescope network track, according to the March 2026 acquisition announcement?",
+    "a": "Thousands of objects in orbit"
+  },
+  {
+    "q": "Which specific types of missiles is the Golden Dome project designed to intercept, according to the description provided in the March 2026 article?",
+    "a": "Ballistic, cruise, and hypersonic missiles"
+  },
+  {
+    "q": "What did Gokul Subramanian say the acquisition would enable Anduril Industries to do regarding ExoAnalytic's capabilities?",
+    "a": "Tap into those capabilities more and more"
+  },
+  {
+    "q": "Under which business unit of Anduril Industries was the acquisition of ExoAnalytic Solutions conducted?",
+    "a": "Anduril's space business unit"
+  },
+  {
+    "q": "What specific type of awareness does ExoAnalytic Solutions provide at a global scale, as described by Anduril Industries?",
+    "a": "Persistent, high-fidelity awareness of deep space"
+  },
+  {
+    "q": "What classification level of space programs is ExoAnalytic Solutions a leader in modeling and simulation for?",
+    "a": "Classified national security space programs"
+  },
+  {
+    "q": "On what day of the week did Anduril Industries announce the definitive agreement to acquire ExoAnalytic Solutions?",
+    "a": "Wednesday"
+  },
+  {
+    "q": "What specific date was the Reuters article about Anduril Industries acquiring ExoAnalytic Solutions published?",
+    "a": "March 11, 2026"
+  },
+  {
+    "q": "Besides space sensing and awareness, what other defense specialization is ExoAnalytic Solutions known for?",
+    "a": "Missile defense"
+  },
+  {
+    "q": "What combination of technologies did Anduril Industries intend to merge with ExoAnalytic's data analytics?",
+    "a": "Anduril's expertise in autonomy and command and control"
+  },
+  {
+    "q": "What role did ExoAnalytic Solutions play in the context of the Golden Dome project competition before being acquired?",
+    "a": "It was among the companies that received smaller contracts for space-based interceptors"
+  },
+  {
+    "q": "What did Anduril Industries describe as the result of owning and operating more than 400 telescope systems worldwide?",
+    "a": "Persistent, high-fidelity awareness of deep space at a global scale"
+  }
+]

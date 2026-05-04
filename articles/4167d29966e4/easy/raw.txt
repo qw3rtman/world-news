@@ -1,0 +1,106 @@
+[
+  {
+    "q": "According to data compiled by Dealogic, what was the percentage increase in the value of M&A deals announced so far in 2026 compared to the same period in the previous year?",
+    "a": "27%"
+  },
+  {
+    "q": "At which university in New Orleans did the Corporate Law Institute conference take place in March 2026, where nearly 1,000 investment bankers and M&A lawyers gathered?",
+    "a": "Tulane University"
+  },
+  {
+    "q": "Who is the co-head of global M&A at Goldman Sachs who opened the March 2026 Corporate Law Institute conference with a keynote address asking if instability is the new normal?",
+    "a": "Stephan Feldgoise"
+  },
+  {
+    "q": "Which U.S.-Israeli military conflict was cited in March 2026 as a source of wild spikes in oil prices and high inflation fears during the M&A conference?",
+    "a": "The war on Iran"
+  },
+  {
+    "q": "Which law firm's general practice group co-managing partner, Audra Cohen, stated that uncertainty feels like the new normal during a panel discussion at the March 2026 conference?",
+    "a": "Sullivan & Cromwell"
+  },
+  {
+    "q": "Which Paul, Weiss law firm chairman forecast in March 2026 that the year could break the 2021 record for the number of deals?",
+    "a": "Scott Barshay"
+  },
+  {
+    "q": "Which two activist hedge fund investors were named in March 2026 as having quietly pushed corporations to streamline their businesses and spin out non-core assets?",
+    "a": "Elliott Investment Management and Jana Partners"
+  },
+  {
+    "q": "In March 2026, which two companies were engaged in a hostile takeover fight for Warner Bros Discovery, according to speakers at the M&A conference?",
+    "a": "Netflix and Paramount Skydance"
+  },
+  {
+    "q": "Which U.S. administration was credited in March 2026 with helping deals close faster, assuaging investor worries about regulatory scrutiny compared to the previous administration?",
+    "a": "The Trump administration"
+  },
+  {
+    "q": "Which technology disruption did Paul, Weiss Chairman Scott Barshay compare to the introduction of the internet in March 2026, noting that some clients are pausing M&A to understand its impact?",
+    "a": "Artificial intelligence (AI)"
+  },
+  {
+    "q": "What was the total value of M&A deals announced so far in 2026, according to the March 2026 Reuters report?",
+    "a": "Over $1 trillion"
+  },
+  {
+    "q": "Which Goldman Sachs executive stated in March 2026 that market volatility would normally kill M&A, yet deals are currently soaring?",
+    "a": "Stephan Feldgoise"
+  },
+  {
+    "q": "Which specific year's deal record did Scott Barshay mention in March 2026 as a benchmark that the current year might break?",
+    "a": "2021"
+  },
+  {
+    "q": "According to the March 2026 conference discussions, what action are activist investors pushing companies to take that drives M&A activity?",
+    "a": "Simplify operations and spin out non-core assets"
+  },
+  {
+    "q": "Which stock ticker symbol was associated with Warner Bros Discovery in the context of the hostile takeover battle described in March 2026?",
+    "a": "WBD.O"
+  },
+  {
+    "q": "What type of deals did Scott Barshay predict would likely go up in 2026 due to market volatility making friendly deals tougher, as stated in March 2026?",
+    "a": "Hostile takeovers"
+  },
+  {
+    "q": "Which U.S. administration's past policies were cited in March 2026 as having involved greater scrutiny that caused worries for investors and executives?",
+    "a": "The Biden administration"
+  },
+  {
+    "q": "Who is the Reuters reporter who wrote the March 19, 2026 article about the M&A conference in New Orleans?",
+    "a": "Svea Herbst-Bayliss"
+  },
+  {
+    "q": "Which law firm chairman stated in March 2026 that stability makes it easier to cut deals, implying that current instability is hindering friendly transactions?",
+    "a": "Scott Barshay"
+  },
+  {
+    "q": "What three major global factors were listed in the summary of the March 2026 Reuters article as dominating the talk at the M&A conference alongside AI disruption?",
+    "a": "Wars, oil, and rates"
+  },
+  {
+    "q": "Which company's stock ticker symbol was associated with Paramount Skydance in the March 2026 report on the Warner Bros Discovery takeover battle?",
+    "a": "PSKY.O"
+  },
+  {
+    "q": "According to Stephan Feldgoise of Goldman Sachs in March 2026, what trend regarding activist investors did he expect to continue?",
+    "a": "The trend of pushing companies to simplify operations"
+  },
+  {
+    "q": "What specific economic concern was running high in March 2026, according to conference speakers, alongside wild spikes in oil prices?",
+    "a": "Inflation fears"
+  },
+  {
+    "q": "Which two entities were fighting for control of Warner Bros Discovery in March 2026, as described by speakers at the Tulane University conference?",
+    "a": "Netflix and Paramount Skydance"
+  },
+  {
+    "q": "What did Paul, Weiss Chairman Scott Barshay say in March 2026 about the relative size of companies being bought and sold, which is driving deal values to lofty levels?",
+    "a": "Fewer deals are getting signed but bigger companies are being bought and sold"
+  },
+  {
+    "q": "Which Reuters editor is credited with editing the March 19, 2026 article regarding the M&A conference and dealmaking trends?",
+    "a": "Nia Williams"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "According to The Information's report published on Wednesday, February 25, 2026, what two specific conditions must Microsoft-backed OpenAI meet for Amazon to release the remaining $35 billion of its planned $50 billion investment?",
+    "a": "OpenAI must either achieve an artificial general intelligence (AGI) milestone or pursue an initial public offering (IPO)."
+  },
+  {
+    "q": "In the funding round reported by The Information in late February 2026, what are the specific investment amounts and payment structures planned for SoftBank and Nvidia alongside Amazon's contribution?",
+    "a": "SoftBank and Nvidia each plan to invest $30 billion in three installments over the year."
+  },
+  {
+    "q": "What is the upfront investment amount that Amazon agreed to provide immediately under the terms still being negotiated for its stake in OpenAI as reported in February 2026?",
+    "a": "Amazon would invest $15 billion upfront."
+  },
+  {
+    "q": "According to a Reuters exclusive report from the previous year, what potential valuation range was associated with OpenAI's planned initial public offering?",
+    "a": "The IPO could value the company at up to $1 trillion."
+  },
+  {
+    "q": "If Amazon completes its planned $50 billion investment in OpenAI, what distinction would it hold among contributors to the AI company's ongoing fundraising round?",
+    "a": "Amazon would become the biggest contributor to the fundraising round."
+  },
+  {
+    "q": "Which two major tech companies are explicitly named in the February 2026 reports as racing to forge partnerships with OpenAI to gain a competitive edge in the AI race?",
+    "a": "Amazon and Microsoft."
+  },
+  {
+    "q": "What is the total combined investment amount planned by Amazon, SoftBank, and Nvidia in OpenAI as detailed in the February 2026 reports?",
+    "a": "The total combined investment is $110 billion ($50 billion from Amazon, $30 billion from SoftBank, and $30 billion from Nvidia)."
+  },
+  {
+    "q": "Who are the journalists responsible for the reporting and editing of the February 26, 2026, article regarding Amazon's potential OpenAI investment?",
+    "a": "The reporting was done by Mihika Sharma in Bengaluru, and the editing was done by Sherry Jacob-Phillips."
+  },
+  {
+    "q": "According to the February 2026 reports, what primary strategic reason are major tech companies and investors giving for spending heavily on data centers and forging partnerships with OpenAI?",
+    "a": "They believe closer ties with the AI startup would give them a competitive edge in the AI race."
+  },
+  {
+    "q": "What was the status of comments from OpenAI and Amazon regarding the The Information report on their investment negotiations as of late February 2026?",
+    "a": "OpenAI and Amazon did not immediately respond to Reuters' request for comments outside regular business hours."
+  },
+  {
+    "q": "Which news organization first reported on Wednesday, February 25, 2026, that Amazon's $50 billion OpenAI investment might depend on an IPO or AGI milestone?",
+    "a": "The Information."
+  },
+  {
+    "q": "What is the total value of the contingent portion of Amazon's investment in OpenAI that is tied to specific future milestones or events?",
+    "a": "$35 billion."
+  },
+  {
+    "q": "In the context of the February 2026 funding round, how many installments are planned for the $30 billion investments from SoftBank and Nvidia?",
+    "a": "Three installments."
+  },
+  {
+    "q": "Which company is identified as the backer of OpenAI in the context of the investment negotiations reported in February 2026?",
+    "a": "Microsoft."
+  },
+  {
+    "q": "What specific type of intelligence milestone is cited in the February 2026 reports as a condition for Amazon releasing additional funds to OpenAI?",
+    "a": "Artificial general intelligence (AGI)."
+  },
+  {
+    "q": "According to the February 2026 reports, what financial instrument is OpenAI laying the groundwork for, which could potentially value the company at $1 trillion?",
+    "a": "An initial public offering (IPO)."
+  },
+  {
+    "q": "What is the maximum total investment amount Amazon is planning to contribute to OpenAI, according to sources cited by Reuters last month and The Information in February 2026?",
+    "a": "$50 billion."
+  },
+  {
+    "q": "Which two entities are each planning to invest $30 billion in OpenAI over the course of the year in the funding round reported in February 2026?",
+    "a": "SoftBank and Nvidia."
+  },
+  {
+    "q": "What is the publication date of the Reuters article summarizing The Information's report on Amazon's OpenAI investment?",
+    "a": "February 26, 2026."
+  },
+  {
+    "q": "Why did Reuters state it could not immediately verify The Information's report on Amazon's OpenAI investment in late February 2026?",
+    "a": "OpenAI and Amazon did not immediately respond to Reuters' request for comments outside regular business hours."
+  },
+  {
+    "q": "What specific financial action by OpenAI is mentioned as an alternative condition to achieving AGI for triggering the release of Amazon's contingent investment funds?",
+    "a": "Pursuing an initial public offering (IPO)."
+  },
+  {
+    "q": "Which city is listed as the location for the reporting by Mihika Sharma in the February 26, 2026, Reuters article?",
+    "a": "Bengaluru."
+  },
+  {
+    "q": "What is the breakdown of Amazon's $50 billion investment plan into upfront and contingent amounts as reported in February 2026?",
+    "a": "$15 billion upfront and $35 billion contingent on AGI or IPO."
+  },
+  {
+    "q": "According to the February 2026 reports, what is the strategic bet that major tech companies and investors are making by forging partnerships with OpenAI?",
+    "a": "They are betting that closer ties with the AI startup would give them a competitive edge in the AI race."
+  },
+  {
+    "q": "What is the total amount of money that SoftBank and Nvidia are collectively investing in OpenAI according to the February 2026 reports?",
+    "a": "$60 billion ($30 billion from each)."
+  }
+]

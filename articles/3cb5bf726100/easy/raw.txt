@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2026, which Dutch semiconductor equipment manufacturer attracted takeover interest due to its strategic position in hybrid bonding technology, and which investment bank was working with it to evaluate these approaches?",
+    "a": "BE Semiconductor Industries (Besi) attracted the interest, and Morgan Stanley was the investment bank working with it."
+  },
+  {
+    "q": "As of March 2026, which two U.S. chip-equipment manufacturers were identified as suitors holding discussions with BE Semiconductor Industries (Besi), and which of these two had acquired a 9% stake in Besi in April 2025?",
+    "a": "Lam Research and Applied Materials were the suitors; Applied Materials had acquired the 9% stake in April 2025."
+  },
+  {
+    "q": "During the early trading session on Friday, March 13, 2026, by what percentage did BE Semiconductor Industries (Besi) shares jump to a record high, and what was their approximate trading level later that day?",
+    "a": "Shares jumped as much as 14% to a record high and were trading 6.7% higher later in the session."
+  },
+  {
+    "q": "According to LSEG data cited in March 2026, at how many times its 12-month forward earnings was BE Semiconductor Industries (Besi) valued, and what was its total market value in euros at that time?",
+    "a": "Besi was valued at 46 times its 12-month forward earnings with a market value of 14 billion euros."
+  },
+  {
+    "q": "Which two rival packaging firms compete with BE Semiconductor Industries (Besi) in the chip-packaging market, and what specific technology is Besi prized for that enables new generations of chips for artificial intelligence?",
+    "a": "The rivals are ASMPT and Kulicke & Soffa; Besi is prized for its strong position in hybrid bonding."
+  },
+  {
+    "q": "In a note issued on Friday, March 13, 2026, which financial firm's analysts stated that a takeover had been a scenario for BE Semiconductor Industries (Besi) because no succession plan had been presented for CEO Richard Blickman?",
+    "a": "Analysts for Degroof Petercam made that statement."
+  },
+  {
+    "q": "According to analysts in March 2026, why would the acquisition of the Dutch firm BE Semiconductor Industries (Besi) by a foreign entity be subject to a national security review in the Netherlands?",
+    "a": "Because Besi possesses strategic technology and has operations in China, making the deal subject to geopolitical and national security scrutiny."
+  },
+  {
+    "q": "The takeover talks for BE Semiconductor Industries (Besi), which started in mid-2025, hit a pause earlier in 2026 due to rising tensions between the U.S. and the European Union over the actions of which U.S. President regarding Greenland?",
+    "a": "The tensions involved U.S. President Donald Trump's attempts to control Greenland."
+  },
+  {
+    "q": "BE Semiconductor Industries (Besi) and which U.S. equipment manufacturer formed a partnership in 2020 to commercialize hybrid bonding, a technology that links chips with copper-to-copper connections?",
+    "a": "Applied Materials formed the partnership with Besi in 2020."
+  },
+  {
+    "q": "In February 2026, why did BE Semiconductor Industries (Besi) shares fall sharply, and what rival technology were memory chipmakers reportedly considering adopting instead of hybrid bonding?",
+    "a": "Shares fell on reports that memory chipmakers might delay hybrid bonding adoption in favor of thermal compression bonding."
+  },
+  {
+    "q": "Which U.S. chip-equipment manufacturer, a suitor for BE Semiconductor Industries (Besi) in March 2026, declined to immediately respond to a request for comment regarding the takeover rumors?",
+    "a": "Lam Research did not immediately respond to the request for comment."
+  },
+  {
+    "q": "In March 2026, which two companies declined to comment on the takeover rumors surrounding BE Semiconductor Industries (Besi), and which company also declined to comment?",
+    "a": "Morgan Stanley, Applied Materials, and Lam Research all declined to comment or did not respond."
+  },
+  {
+    "q": "According to a March 2026 analysis by ING analyst Marc Hesselink, what two factors make mergers in the chip industry difficult to complete, specifically regarding the acquisition of a Dutch firm with strategic technology?",
+    "a": "The two factors are antitrust scrutiny and geopolitics."
+  },
+  {
+    "q": "Which analyst from Degroof Petercam stated in April 2026 that Besi shareholders assumed Applied Materials would eventually want to buy the entire company?",
+    "a": "Degroof Petercam analyst Michael Roeg made that statement."
+  },
+  {
+    "q": "In March 2026, what was the exchange ticker symbol for BE Semiconductor Industries, and what was the approximate exchange rate between the U.S. dollar and the euro cited in the article?",
+    "a": "The ticker symbol was BESI.AS, and the exchange rate was $1 to 0.8639 euros."
+  },
+  {
+    "q": "Which two companies saw their shares rise in premarket U.S. trading on March 13, 2026, following the news of takeover interest in BE Semiconductor Industries (Besi), and by what percentages did they rise?",
+    "a": "Applied Materials shares rose 0.8% and Lam Research shares rose 0.95%."
+  },
+  {
+    "q": "What technology does BE Semiconductor Industries (Besi) specialize in that is described as a key bottleneck for the industry and allows for faster data transfer and lower power consumption in advanced semiconductors?",
+    "a": "The technology is hybrid bonding, which sticks two chips together or sticks chips on silicon wafers."
+  },
+  {
+    "q": "Which U.S. equipment manufacturer, which became the largest shareholder of BE Semiconductor Industries (Besi) after acquiring a 9% stake in April 2025, was identified as a potentially interested party in the March 2026 takeover rumors?",
+    "a": "Applied Materials was identified as the potentially interested party and largest shareholder."
+  },
+  {
+    "q": "According to sources in March 2026, which two rival packaging firms compete with BE Semiconductor Industries (Besi), and what is the ticker symbol for Kulicke & Soffa?",
+    "a": "The rivals are ASMPT and Kulicke & Soffa; Kulicke & Soffa's ticker symbol is KLIC.O."
+  },
+  {
+    "q": "In March 2026, which financial firm's analysts noted that BE Semiconductor Industries (Besi) trades at a higher multiple than peer ASML, and what was Besi's valuation multiple compared to its forward earnings?",
+    "a": "The article does not explicitly name the firm for the ASML comparison, but states Besi trades at 46 times its 12-month forward earnings."
+  },
+  {
+    "q": "Which two Reuters reporters filed the article on March 13, 2026, reporting on the takeover interest in BE Semiconductor Industries (Besi), and in which cities were they based?",
+    "a": "Milana Vinn filed from New York and Amy-Jo Crowley filed from London."
+  },
+  {
+    "q": "What is the full name of the Dutch company known as Besi that attracted takeover interest in March 2026, and what is its primary listing location?",
+    "a": "The full name is BE Semiconductor Industries, and it is Amsterdam-listed."
+  },
+  {
+    "q": "According to the March 2026 article, which technology is expected to enable new generations of chips used in artificial intelligence and high-performance computing, and which company holds a strong position in it?",
+    "a": "Hybrid bonding is the technology, and BE Semiconductor Industries (Besi) holds a strong position in it."
+  },
+  {
+    "q": "In March 2026, which U.S. President's attempts to control Greenland caused rising tensions between the U.S. and the European Union that paused takeover talks for BE Semiconductor Industries (Besi)?",
+    "a": "U.S. President Donald Trump's attempts to control Greenland caused the tensions."
+  },
+  {
+    "q": "Which two companies formed a 2020 partnership to commercialize hybrid bonding, and what is the primary benefit of this technology for advanced semiconductors?",
+    "a": "BE Semiconductor Industries (Besi) and Applied Materials formed the partnership; the benefit is faster data transfer and lower power consumption."
+  }
+]

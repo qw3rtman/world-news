@@ -1,0 +1,107 @@
+{
+  "hash": "18520efbb1b4",
+  "n_appearances": 9,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://uk.mobile.reuters.com/business/aerospace-defense/israel-us-launch-strikes-iran-2026-02-28/",
+      "title": "Iranian leader Khamenei killed in air strikes as U.S., Israel launch attacks | Reuters",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Phil Stewart",
+      "num_tokens": 1602,
+      "text_length": 7792
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1288111",
+      "spike_id": 1,
+      "market_question": "Will Israel or the US target an Iranian nuclear facility?",
+      "event_title": "What will the U.S./Israel target in Iran by February 28?",
+      "spike_direction": "up",
+      "spike_delta": 0.8420000000000001,
+      "spike_timestamp_before": "2026-02-27T08:00:27+00:00",
+      "spike_timestamp_after": "2026-02-28T07:30:27+00:00"
+    },
+    {
+      "market_id": "1288111",
+      "spike_id": 2,
+      "market_question": "Will Israel or the US target an Iranian nuclear facility?",
+      "event_title": "What will the U.S./Israel target in Iran by February 28?",
+      "spike_direction": "up",
+      "spike_delta": 0.733,
+      "spike_timestamp_before": "2026-03-01T00:30:41+00:00",
+      "spike_timestamp_after": "2026-03-01T06:00:42+00:00"
+    },
+    {
+      "market_id": "1288111",
+      "spike_id": 3,
+      "market_question": "Will Israel or the US target an Iranian nuclear facility?",
+      "event_title": "What will the U.S./Israel target in Iran by February 28?",
+      "spike_direction": "down",
+      "spike_delta": -0.7075,
+      "spike_timestamp_before": "2026-03-01T06:00:42+00:00",
+      "spike_timestamp_after": "2026-03-01T19:00:27+00:00"
+    },
+    {
+      "market_id": "1288111",
+      "spike_id": 4,
+      "market_question": "Will Israel or the US target an Iranian nuclear facility?",
+      "event_title": "What will the U.S./Israel target in Iran by February 28?",
+      "spike_direction": "up",
+      "spike_delta": 0.6910000000000001,
+      "spike_timestamp_before": "2026-03-01T19:00:27+00:00",
+      "spike_timestamp_after": "2026-03-02T05:30:36+00:00"
+    },
+    {
+      "market_id": "1288111",
+      "spike_id": 5,
+      "market_question": "Will Israel or the US target an Iranian nuclear facility?",
+      "event_title": "What will the U.S./Israel target in Iran by February 28?",
+      "spike_direction": "up",
+      "spike_delta": 0.6930000000000001,
+      "spike_timestamp_before": "2026-03-01T19:00:27+00:00",
+      "spike_timestamp_after": "2026-03-02T08:30:24+00:00"
+    },
+    {
+      "market_id": "1288111",
+      "spike_id": 6,
+      "market_question": "Will Israel or the US target an Iranian nuclear facility?",
+      "event_title": "What will the U.S./Israel target in Iran by February 28?",
+      "spike_direction": "up",
+      "spike_delta": 0.2975,
+      "spike_timestamp_before": "2026-03-02T09:30:25+00:00",
+      "spike_timestamp_after": "2026-03-03T01:30:30+00:00"
+    },
+    {
+      "market_id": "1288111",
+      "spike_id": 7,
+      "market_question": "Will Israel or the US target an Iranian nuclear facility?",
+      "event_title": "What will the U.S./Israel target in Iran by February 28?",
+      "spike_direction": "up",
+      "spike_delta": 0.2995,
+      "spike_timestamp_before": "2026-03-02T09:30:25+00:00",
+      "spike_timestamp_after": "2026-03-03T04:00:26+00:00"
+    },
+    {
+      "market_id": "1288111",
+      "spike_id": 8,
+      "market_question": "Will Israel or the US target an Iranian nuclear facility?",
+      "event_title": "What will the U.S./Israel target in Iran by February 28?",
+      "spike_direction": "up",
+      "spike_delta": 0.30200000000000005,
+      "spike_timestamp_before": "2026-03-02T09:30:25+00:00",
+      "spike_timestamp_after": "2026-03-03T09:00:30+00:00"
+    },
+    {
+      "market_id": "1288111",
+      "spike_id": 9,
+      "market_question": "Will Israel or the US target an Iranian nuclear facility?",
+      "event_title": "What will the U.S./Israel target in Iran by February 28?",
+      "spike_direction": "up",
+      "spike_delta": 0.1605000000000001,
+      "spike_timestamp_before": "2026-03-02T15:30:42+00:00",
+      "spike_timestamp_after": "2026-03-03T13:00:28+00:00"
+    }
+  ]
+}

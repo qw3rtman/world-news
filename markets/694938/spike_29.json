@@ -1,0 +1,65 @@
+{
+  "spike_index": 29,
+  "direction": "up",
+  "price_before": 0.29,
+  "price_after": 0.465,
+  "delta": 0.17500000000000004,
+  "abs_delta": 0.17500000000000004,
+  "timestamp_before": "2026-03-08T16:30:30+00:00",
+  "timestamp_after": "2026-03-08T17:30:29+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.smh.com.au/business/companies/fresh-geophysics-cracks-code-on-viking-us-tungsten-project-20260306-p5o88n.html",
+      "file": "0a89b390a9f7.txt",
+      "title": "Fresh geophysics cracks code on Viking US tungsten project",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Doug Bright",
+      "text_length": 5118,
+      "status": "ok",
+      "num_tokens": 983
+    },
+    {
+      "url": "https://www.wireless.reuters.com/legal/transactional/servier-buy-day-one-biopharmaceuticals-total-equity-value-25-billion-2026-03-06/",
+      "file": "7322549a5e86.txt",
+      "title": "Servier to buy Day One Biopharma for $2.5 billion in tumor treatment push | Reuters",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Christy Santhosh",
+      "text_length": 1692,
+      "status": "ok",
+      "num_tokens": 393
+    },
+    {
+      "url": "https://www.statnews.com/2026/03/06/servier-dayone-pediatric-cancer/",
+      "file": "8efbb9cd832d.txt",
+      "title": "Servier to acquire Day One, pediatric cancer drug maker, for $2.5B",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Andrew Joseph",
+      "text_length": 606,
+      "status": "ok",
+      "num_tokens": 142
+    },
+    {
+      "url": "https://business.smh.com.au/business/companies/fresh-geophysics-cracks-code-on-viking-us-tungsten-project-20260306-p5o88n.html",
+      "file": "896aad01724e.txt",
+      "title": "Fresh geophysics cracks code on Viking US tungsten project",
+      "published_date": "2026-03-06T00:00:00.000Z",
+      "author": "Doug Bright",
+      "text_length": 5118,
+      "status": "ok",
+      "num_tokens": 983
+    },
+    {
+      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202603090300BIZWIRE_USPRX____20260309_BW348109-1",
+      "file": "2065a4057933.txt",
+      "title": "Agilent to Acquire Biocare Medical, a Global Leader in Clinical and Research Pathology Solutions \u2013 Company Announcement - FT.com",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "text_length": 9987,
+      "status": "ok",
+      "num_tokens": 1931
+    }
+  ],
+  "total_tokens": 4432
+}

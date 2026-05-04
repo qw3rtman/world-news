@@ -1,0 +1,101 @@
+[
+  {
+    "q": "On what date did Russian President Vladimir Putin announce the 'special military operation' against Ukraine on state television, marking the start of the full-scale invasion?",
+    "a": "February 24, 2022."
+  },
+  {
+    "q": "Which two breakaway regions did Russian President Vladimir Putin recognize as independent states on February 21, 2022, just days before the full-scale invasion?",
+    "a": "The Donetsk People’s Republic and the Luhansk People’s Republic."
+  },
+  {
+    "q": "What percentage of Ukrainian territory did Russian forces occupy at their furthest advance in March 2022, according to the article?",
+    "a": "Roughly 27 percent."
+  },
+  {
+    "q": "By late November 2022, what approximate area in square kilometers had Ukrainian forces reclaimed from Russian control, according to the Institute for the Study of War?",
+    "a": "Approximately 74,000 square kilometers."
+  },
+  {
+    "q": "Which Ukrainian commander-in-chief stated in 2025 that Russia had gained only a further 0.8 percent of Ukraine’s territory despite heavy losses?",
+    "a": "Oleksandr Syrskii."
+  },
+  {
+    "q": "In which town in the Donetsk region did Russian forces make advances of only 70 meters per day in 2025 before finally capturing it in early December?",
+    "a": "Pokrovsk."
+  },
+  {
+    "q": "Which independent conflict monitor reported that the capture of Pokrovsk led to a tripling of violence in the Dnipropetrovsk region?",
+    "a": "The Armed Conflict Location and Event Data (ACLED)."
+  },
+  {
+    "q": "According to the Institute for the Study of War (ISW) estimate in December 2025, what percentage of the logistical hub of Kostiantynivka had Russian advances claimed?",
+    "a": "No more than 5 percent."
+  },
+  {
+    "q": "In which region did Ukraine mount a surprise counteroffensive in December 2025 to hold off Russia’s yearlong campaign for Kupiansk?",
+    "a": "The Kharkiv region."
+  },
+  {
+    "q": "According to ACLED data for 2025, what type of attack became the leading form of targeting civilians in the Russia-Ukraine war?",
+    "a": "Drone-led targeting."
+  },
+  {
+    "q": "How many air and drone attacks were recorded in 2025, reflecting the rise in Russia’s drone program compared to 6,000 in 2023?",
+    "a": "More than 29,000."
+  },
+  {
+    "q": "What is the production cost range in US dollars for Russian-produced Geran-2 drones, which are analogues of Iranian Shahed-type drones?",
+    "a": "Between $20,000 and $50,000."
+  },
+  {
+    "q": "In which Russian republic, located about 800km east of Moscow, does the Institute for the Study of War report that Russia is producing Geran-2 drones?",
+    "a": "Tatarstan."
+  },
+  {
+    "q": "In January 2026, what daily production number of Shahed-type drones did Ukrainian Commander-in-Chief Oleksandr Syrskii say Russia was achieving?",
+    "a": "404 drones."
+  },
+  {
+    "q": "What maximum range in kilometers do Russian Geran-2 drones have, depending on the type, according to the article?",
+    "a": "Up to 2,000 kilometers."
+  },
+  {
+    "q": "Which densely populated Ukrainian cities, including Kyiv, Kharkiv, and Odesa, have been hit by particularly devastating drone attacks on civilians?",
+    "a": "Kyiv, Kharkiv, and Odesa."
+  },
+  {
+    "q": "After a Russian drone strike on an apartment building in eastern Kyiv killed emergency medic Serhiy Smolyak, what did President Volodymyr Zelenskyy declare regarding Ukraine’s energy system?",
+    "a": "A nationwide state of emergency for the energy sector."
+  },
+  {
+    "q": "According to ACLED data, how many attacks on Ukraine’s energy infrastructure had Russia carried out since the conflict began?",
+    "a": "More than 1,900 attacks."
+  },
+  {
+    "q": "Which Ukrainian Defence Minister stated on January 16 that there was not a single power plant left in Ukraine that had not been attacked by the enemy?",
+    "a": "Denys Shmyhal."
+  {
+    "q": "In which month did Russia launch the highest number of attacks on Ukraine’s energy infrastructure last year, with 175 strikes?",
+    "a": "October."
+  },
+  {
+    "q": "Where were the most significant peace talks held on March 29, 2022, where Ukraine presented a 10-point proposal including neutrality?",
+    "a": "Istanbul."
+  },
+  {
+    "q": "In which month did peace talks collapse in 2022 following the discovery of mass civilian killings in Bucha?",
+    "a": "April."
+  },
+  {
+    "q": "Which country successfully brought both sides to Istanbul for two rounds of direct talks in May 2025, resulting in a prisoner exchange?",
+    "a": "Turkiye."
+  },
+  {
+    "q": "Which two envoys of the Trump administration facilitated trilateral peace talks in Abu Dhabi and Geneva starting in late January 2026?",
+    "a": "Steve Witkoff and Jared Kushner."
+  },
+  {
+    "q": "What two main demands did Russia make during the peace talks that prevented a breakthrough, according to the article?",
+    "a": "Control of all of the Donbas region and the denial of NATO membership to Ukraine."
+  }
+]

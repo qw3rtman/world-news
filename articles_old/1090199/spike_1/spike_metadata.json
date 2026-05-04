@@ -1,0 +1,65 @@
+{
+  "spike_index": 1,
+  "direction": "up",
+  "price_before": 0.145,
+  "price_after": 0.4,
+  "delta": 0.255,
+  "abs_delta": 0.255,
+  "timestamp_before": "2026-02-27T10:00:25+00:00",
+  "timestamp_after": "2026-02-28T09:30:27+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://img3.washingtonpost.com/opinions/2026/02/28/reza-pahlavi-iran-freedom-trump/",
+      "file": "ced8f78df5b2.txt",
+      "title": "Opinion | Reza Pahlavi: The hour of Iran\u2019s freedom is at hand - The Washington Post",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Reza Pahlavi",
+      "text_length": 635,
+      "status": "ok",
+      "num_tokens": 140
+    },
+    {
+      "url": "https://www.foxnews.com/world/exiled-crown-prince-calls-on-iranian-people-finish-job-cheers-trump-humanitarian-intervention",
+      "file": "da943a0d3c52.txt",
+      "title": "Reza Pahlavi calls US-Israel strikes aid to help topple Iran regime | Fox News",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 3909,
+      "status": "ok",
+      "num_tokens": 829
+    },
+    {
+      "url": "https://www.abc.net.au/listen/programs/am/exiled-crown-prince-seeks-change-in-iran/106401854",
+      "file": "2f104303196d.txt",
+      "title": "What role has exiled crown prince Reza Pahlavi played amid Iran's unrest? - ABC listen",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 532,
+      "status": "ok",
+      "num_tokens": 145
+    },
+    {
+      "url": "http://sph.straitstimes.com/world/middle-east/son-of-irans-late-shah-says-final-victory-near",
+      "file": "ae75b10eb25f.txt",
+      "title": "Son of Iran\u2019s late shah says \u2018final victory\u2019 near | The Straits Times",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 1585,
+      "status": "ok",
+      "num_tokens": 339
+    },
+    {
+      "url": "https://www.bloomberg.com/news/features/2026-02-28/us-iran-relations-a-visual-timeline-of-their-fraught-ties",
+      "file": "6d429ff85510.txt",
+      "title": "US-Iran Relations: A Visual Timeline of Their Fraught Ties - Bloomberg",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Ingrid Fuary-Wagner",
+      "text_length": 1063,
+      "status": "ok",
+      "num_tokens": 255
+    }
+  ],
+  "total_tokens": 1708
+}

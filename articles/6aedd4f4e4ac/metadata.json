@@ -1,0 +1,37 @@
+{
+  "hash": "6aedd4f4e4ac",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.thetimes.com/world/middle-east/article/iran-ayatollah-khamenei-what-next-pahlavi-dlt7jb5zl?gaa_at=eafs&gaa_n=AWEtsqcjUs4wnK_rXNQzIv0JxjdS2ro7bTqSYOn0yGwQEkUw31Ltem-Kjp2s&gaa_sig=xM-Q7GyXQgn4KWvNPCo6voZ8iRKW85lkNxTZ6dmC-7trgrd-bo9DwJMVonIviOlE4Lshzg_m-b6CnOlEOMOScQ%3D%3D&gaa_ts=69a45f7c",
+      "title": "Who could be Iran’s new supreme leader — and what happens next?",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Louise Callaghan",
+      "num_tokens": 1245,
+      "text_length": 5913
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1470007",
+      "spike_id": 7,
+      "market_question": "Will Iran name a successor to Khamenei by March 1?",
+      "event_title": "New Supreme Leader of Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.5525,
+      "spike_timestamp_before": "2026-03-01T02:00:31+00:00",
+      "spike_timestamp_after": "2026-03-02T02:00:29+00:00"
+    },
+    {
+      "market_id": "1470007",
+      "spike_id": 8,
+      "market_question": "Will Iran name a successor to Khamenei by March 1?",
+      "event_title": "New Supreme Leader of Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.2575,
+      "spike_timestamp_before": "2026-03-01T05:30:30+00:00",
+      "spike_timestamp_after": "2026-03-02T05:00:26+00:00"
+    }
+  ]
+}

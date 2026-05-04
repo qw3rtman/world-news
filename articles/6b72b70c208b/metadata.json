@@ -1,0 +1,27 @@
+{
+  "hash": "6b72b70c208b",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.npr.org/2026/03/15/nx-s1-5745838/mayoral-elections-across-france-reflect-the-rise-of-the-far-right",
+      "title": "Mayoral elections across France reflect the rise of the far-right : NPR",
+      "published_date": "2026-03-15T00:00:00.000Z",
+      "author": "Eleanor Beardsley",
+      "num_tokens": 978,
+      "text_length": 4192
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "645997",
+      "spike_id": 1,
+      "market_question": "Will Rachida Dati win the Paris mayor election?",
+      "event_title": "Paris Mayoral Election",
+      "spike_direction": "down",
+      "spike_delta": -0.22499999999999998,
+      "spike_timestamp_before": "2026-03-15T20:00:40+00:00",
+      "spike_timestamp_after": "2026-03-15T23:00:39+00:00"
+    }
+  ]
+}

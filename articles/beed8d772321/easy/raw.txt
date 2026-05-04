@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2026, which video editing software company did Apple acquire that develops plug-ins and templates for Final Cut Pro?",
+    "a": "MotionVFX"
+  },
+  {
+    "q": "Where is the Warsaw-based company MotionVFX, which was acquired by Apple in March 2026, headquartered?",
+    "a": "Warsaw"
+  },
+  {
+    "q": "In which year was MotionVFX, the video editing software company acquired by Apple in March 2026, founded?",
+    "a": "2009"
+  },
+  {
+    "q": "What is the starting monthly subscription price for MotionVFX’s professional-grade video editing tools, graphics, and templates?",
+    "a": "$29 per month"
+  },
+  {
+    "q": "Which Adobe product suite is Apple likely trying to better compete with by acquiring MotionVFX in March 2026?",
+    "a": "Adobe Premiere Pro and the Adobe Creative Cloud suite"
+  },
+  {
+    "q": "What is the name of the subscription bundle Apple launched in January 2026 that includes Final Cut Pro, Logic Pro, and Pixelmator Pro?",
+    "a": "Creator Studio"
+  },
+  {
+    "q": "What is the monthly cost of the Creator Studio subscription bundle launched by Apple in January 2026?",
+    "a": "$12.99 per month"
+  },
+  {
+    "q": "What is the annual cost of the Creator Studio subscription bundle launched by Apple in January 2026?",
+    "a": "$129 per year"
+  },
+  {
+    "q": "Which six creative apps are included in the Creator Studio bundle launched by Apple in January 2026?",
+    "a": "Final Cut Pro, Logic Pro, Pixelmator Pro, Motion, Compressor, and MainStage"
+  },
+  {
+    "q": "On which devices is the Creator Studio bundle, launched by Apple in January 2026, available?",
+    "a": "Mac and iPad"
+  },
+  {
+    "q": "Which iWork apps have premium content included in the Creator Studio bundle launched by Apple in January 2026?",
+    "a": "Keynote, Pages, and Numbers"
+  },
+  {
+    "q": "Which company did not respond to TechCrunch’s request for comment regarding the March 2026 acquisition of MotionVFX?",
+    "a": "Apple"
+  },
+  {
+    "q": "How long had MotionVFX been on a mission to create world-class content for video editors before joining Apple in March 2026?",
+    "a": "Over 15 years"
+  },
+  {
+    "q": "What percentage of Apple’s revenue was accounted for by its services business in the last fiscal year prior to March 2026?",
+    "a": "More than 26%"
+  },
+  {
+    "q": "What percentage of Apple’s revenue was accounted for by its services business in 2015?",
+    "a": "8.5%"
+  },
+  {
+    "q": "Which publication reported on Apple’s acquisition of MotionVFX in March 2026?",
+    "a": "TechCrunch"
+  },
+  {
+    "q": "What specific values did MotionVFX state it admires most in Apple’s products in its March 2026 announcement?",
+    "a": "Quality, ease of use, and great design"
+  },
+  {
+    "q": "Which Mac-only apps from the Creator Studio bundle launched in January 2026 are not available on iPad?",
+    "a": "Motion, Compressor, and MainStage"
+  },
+  {
+    "q": "What is the primary goal of Apple’s acquisition of MotionVFX in March 2026 regarding its Creator Studio bundle?",
+    "a": "To attract more subscribers"
+  },
+  {
+    "q": "In which month and year did Apple launch the Creator Studio subscription bundle?",
+    "a": "January 2026"
+  },
+  {
+    "q": "What type of financial terms were disclosed for Apple’s March 2026 acquisition of MotionVFX?",
+    "a": "The financial terms were unknown"
+  },
+  {
+    "q": "Which company’s website featured a message expressing excitement about joining the Apple team in March 2026?",
+    "a": "MotionVFX"
+  },
+  {
+    "q": "What segment of Apple’s business became one of its largest growth drivers, accounting for over 26% of revenue in the last fiscal year?",
+    "a": "Apple’s services business"
+  },
+  {
+    "q": "Which two specific apps from the Creator Studio bundle are exclusive to Mac and not available on iPad?",
+    "a": "Motion and Compressor (also MainStage)"
+  },
+  {
+    "q": "What is the full name of the video editing software for which MotionVFX develops plug-ins and templates?",
+    "a": "Final Cut Pro"
+  }
+]

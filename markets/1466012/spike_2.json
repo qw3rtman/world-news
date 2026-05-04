@@ -1,0 +1,65 @@
+{
+  "spike_index": 2,
+  "direction": "down",
+  "price_before": 0.211,
+  "price_after": 0.0365,
+  "delta": -0.1745,
+  "abs_delta": 0.1745,
+  "timestamp_before": "2026-02-28T21:00:26+00:00",
+  "timestamp_after": "2026-03-01T05:30:24+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://today.reuters.com/world/asia-pacific/china-urges-immediate-ceasefire-after-us-israel-strike-iran-2026-03-01/",
+      "file": "f4a061876885.txt",
+      "title": "China condemns attacks on Iran, urges ceasefire and talks | Reuters",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 3129,
+      "status": "ok",
+      "num_tokens": 641
+    },
+    {
+      "url": "https://reuters.com/world/asia-pacific/china-urges-immediate-ceasefire-after-us-israel-strike-iran-2026-03-01/",
+      "file": "e9a08d484d73.txt",
+      "title": "China condemns attacks on Iran, urges ceasefire and talks | Reuters",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 3380,
+      "status": "ok",
+      "num_tokens": 695
+    },
+    {
+      "url": "https://straitstimes.com/asia/east-asia/china-urges-immediate-ceasefire-after-us-israel-strike-iran",
+      "file": "7d1df5601f38.txt",
+      "title": "China urges immediate ceasefire in Iran conflict | The Straits Times",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 1860,
+      "status": "ok",
+      "num_tokens": 353
+    },
+    {
+      "url": "https://www2.straitstimes.com/asia/east-asia/china-urges-immediate-ceasefire-after-us-israel-strike-iran",
+      "file": "0d8779aee729.txt",
+      "title": "China urges immediate ceasefire in Iran conflict | The Straits Times",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 1862,
+      "status": "ok",
+      "num_tokens": 355
+    },
+    {
+      "url": "http://sph.straitstimes.com/asia/east-asia/china-urges-immediate-ceasefire-after-us-israel-strike-iran",
+      "file": "256c54be222b.txt",
+      "title": "China urges immediate ceasefire in Iran conflict | The Straits Times",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 1862,
+      "status": "ok",
+      "num_tokens": 355
+    }
+  ],
+  "total_tokens": 2399
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the article published by Al-Monitor on March 10, 2026, what shift in war goals did Israeli President Benjamin Netanyahu describe in a pre-recorded video message regarding the conflict with Iran?",
+    "a": "Netanyahu stated the operation aimed at creating conditions that enable the Iranian people to take control of their own destiny, replacing the initial goal of direct regime change."
+  },
+  {
+    "q": "According to a senior Israeli diplomatic source quoted in the March 10, 2026 Al-Monitor article, what internal struggle is occurring within the administration of U.S. President Donald Trump regarding the war with Iran?",
+    "a": "The administration is deliberating between continuing with full steam ahead or finding an elegant exit route."
+  },
+  {
+    "q": "What specific military capabilities did an Israeli military source state were additional targets for erosion in the March 2026 strikes on Iran, beyond regime change efforts?",
+    "a": "The targets included Iran’s ballistic missile, nuclear, and drone capabilities, as well as government targets."
+  },
+  {
+    "q": "NBC reported in the week prior to March 10, 2026, that U.S. President Donald Trump was seriously considering what type of military operation against Iran?",
+    "a": "A limited ground operation by special forces tasked with detecting, destroying, or removing highly enriched uranium hidden underground."
+  },
+  {
+    "q": "During the weekend prior to the March 10, 2026 article publication, which specific Israeli special operations unit conducted a firefight with Hezbollah fighters in the village of Nabi Cheet in Lebanon’s eastern Bekaa Valley?",
+    "a": "The Israel Air Force's Shaldag special operations unit."
+  },
+  {
+    "q": "What historical mission was the Israel Air Force's Shaldag special operations unit attempting to accomplish during its operation in Nabi Cheet, Lebanon, in early March 2026?",
+    "a": "The unit was seeking to locate the remains of Israeli navigator Ron Arad, whose fighter jet was shot down over Lebanon 40 years ago."
+  },
+  {
+    "q": "How did a senior Israeli security source respond to Axios news site reports on March 8, 2026, regarding the scope of Israel's strikes on 30 Iranian fuel depots?",
+    "a": "The source denied the reports, stating that everything was coordinated with the United States and that Israel attacked Islamic Revolutionary Guard Corps reservoirs, not the oil or gas industry infrastructure."
+  },
+  {
+    "q": "According to an Israeli political source quoted in the March 10, 2026 article, why does the United States have less interest in the Lebanon front compared to Israel?",
+    "a": "Because there is no oil or gas in Lebanon, no significant interests there, and little potential for business."
+  },
+  {
+    "q": "Through which U.S. mediator did the Lebanese government approach Israel in early March 2026 with a proposal for immediate direct peace negotiations?",
+    "a": "U.S. mediator Tom Barrack."
+  },
+  {
+    "q": "In the March 10, 2026 article, what specific location was proposed for the level of foreign ministers' peace negotiations between Israel and Lebanon?",
+    "a": "Cyprus."
+  },
+  {
+    "q": "Which 1982 event involving a Lebanese Christian leader is cited in the March 10, 2026 article as the last time a peace deal was seriously on the table between Israel and Lebanon?",
+    "a": "The assassination of Lebanese Christian leader Bashir Gemayel."
+  },
+  {
+    "q": "According to a top Israeli diplomat quoted in the March 10, 2026 article, why is the current moment described as an unprecedented opportunity for a historic agreement between Israel and Lebanon?",
+    "a": "Because Hezbollah is at its deepest point of weakness, losing its patron in Tehran and its economic and ideological support."
+  },
+  {
+    "q": "For approximately how many years did Israel occupy positions in southern Lebanon following the 1982 war, a scenario officials fear repeating in the March 2026 context?",
+    "a": "Almost 20 years."
+  },
+  {
+    "q": "What specific term did an Israeli military source use to describe the value of every additional day of attacks on Iran in the March 2026 conflict?",
+    "a": "A gift."
+  },
+  {
+    "q": "Which organization did an Israeli military source identify as the prime cause of oppression and mass murder in Iran, noting that Israel had not yet attacked the broader oil or gas infrastructure?",
+    "a": "The Islamic Revolutionary Guard Corps."
+  },
+  {
+    "q": "According to the March 10, 2026 article, which group had initially said it would not intervene to aid Iran against Israel but succumbed to pressure from Tehran?",
+    "a": "Hezbollah."
+  },
+  {
+    "q": "What specific characteristic of missile launches from Lebanon, as described in the March 10, 2026 article, distinguishes them from launches from Iran?",
+    "a": "Missiles from Lebanon strike without significant advance warning."
+  },
+  {
+    "q": "Which two countries' borders were reported in the March 10, 2026 article to be closing or isolating Hezbollah, thereby creating diplomatic potential for Israel?",
+    "a": "Syria and Lebanon."
+  },
+  {
+    "q": "What specific goal of the operation are Israeli officials beginning to discuss off the record in the March 2026 article, which could ultimately doom Hezbollah to annihilation?",
+    "a": "A complete break between Iran and Hezbollah."
+  },
+  {
+    "q": "According to the November 2024 ceasefire with Lebanon, what was the original goal regarding Hezbollah that now seems distant in the March 2026 context?",
+    "a": "The complete disarming of Hezbollah."
+  },
+  {
+    "q": "Which Israeli political decision-makers are stated in the March 10, 2026 article to continue believing in the goal of regime change in Iran, unlike the more doubtful military?",
+    "a": "Prime Minister Benjamin Netanyahu and the Israeli Mossad intelligence agency."
+  },
+  {
+    "q": "What specific type of uranium was U.S. President Donald Trump considering a special forces operation to remove, as reported by NBC in the week prior to March 10, 2026?",
+    "a": "Highly enriched uranium."
+  },
+  {
+    "q": "In the March 10, 2026 article, which organization is described as a longtime bastion of the Iranian-backed group Hezbollah, where Israeli forces conducted a firefight in Nabi Cheet?",
+    "a": "Hezbollah fighters in Lebanon’s eastern Bekaa Valley."
+  },
+  {
+    "q": "What specific diplomatic action did the Lebanese government take in early March 2026, as reported in the Al-Monitor article, involving a proposal for peace at the foreign minister level?",
+    "a": "The Lebanese government approached Israel through U.S. mediator Tom Barrack with a proposal for immediate direct negotiations."
+  },
+  {
+    "q": "According to an Israeli military source in the March 10, 2026 article, what condition must be reversed from the traditional view of Iranian patience to ensure the regime ultimately falls?",
+    "a": "The patience that the West does not have; the source stated time is on the side of those imposing sanctions and crackdowns."
+  }
+]

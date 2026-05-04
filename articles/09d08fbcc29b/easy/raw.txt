@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the March 9, 2026 analysis by Wood Mackenzie, which specific price range did Joshua Ngu, Vice President for Asia Pacific at Wood Mackenzie, suggest oil could reach if the Iran war continues?",
+    "a": "$120-$130"
+  },
+  {
+    "q": "According to Joshua Ngu, Vice President for Asia Pacific at Wood Mackenzie, as of March 9, 2026, which energy commodity's supply concerns did he identify as more pressing than crude oil supply?",
+    "a": "Gas supplies"
+  },
+  {
+    "q": "In the March 9, 2026 commentary, what characteristic did Joshua Ngu, Vice President for Asia Pacific at Wood Mackenzie, attribute to gas prices that made them more sensitive than crude oil prices?",
+    "a": "They proved more sensitive to supply concerns"
+  },
+  {
+    "q": "What was Joshua Ngu, Vice President for Asia Pacific at Wood Mackenzie's, assessment on March 9, 2026, regarding the impact of OPEC’s latest production increase on oil prices?",
+    "a": "It was unlikely to result in any meaningful decline in prices"
+  },
+  {
+    "q": "Which organization's production increase did Joshua Ngu, Vice President for Asia Pacific at Wood Mackenzie, state in March 2026 would not meaningfully lower oil prices?",
+    "a": "OPEC"
+  },
+  {
+    "q": "What specific geopolitical event did Joshua Ngu, Vice President for Asia Pacific at Wood Mackenzie, cite in March 2026 as adding to oil's upside risk with each passing day?",
+    "a": "The Iran war"
+  },
+  {
+    "q": "Who is Joshua Ngu, and what was his professional title at Wood Mackenzie as of the March 9, 2026 publication?",
+    "a": "Vice President for Asia Pacific"
+  },
+  {
+    "q": "In the March 9, 2026 article, what was the stated relationship between the duration of the Iran war and the upside risk for oil prices?",
+    "a": "Each day of the war adds to the upside risk"
+  },
+  {
+    "q": "Which company did Joshua Ngu, Vice President for Asia Pacific at Wood Mackenzie, represent when making the March 9, 2026 predictions about oil and gas prices?",
+    "a": "Wood Mackenzie"
+  },
+  {
+    "q": "According to the March 9, 2026 report, did Joshua Ngu, Vice President for Asia Pacific at Wood Mackenzie, believe that OPEC’s production increase would significantly impact gas prices?",
+    "a": "The article does not state this; it only addresses crude oil prices"
+  },
+  {
+    "q": "What was the primary focus of Joshua Ngu, Vice President for Asia Pacific at Wood Mackenzie's, concern in March 2026: crude oil supply or gas supplies?",
+    "a": "Gas supplies"
+  },
+  {
+    "q": "In the March 9, 2026 analysis, what was the expected outcome of OPEC’s latest production increase on the overall price trend for oil?",
+    "a": "Unlikely to result in any meaningful decline"
+  },
+  {
+    "q": "Which specific region did Joshua Ngu, Vice President for Asia Pacific at Wood Mackenzie, hold a leadership position in as of March 2026?",
+    "a": "Asia Pacific"
+  },
+  {
+    "q": "What was the date of the publication in which Joshua Ngu, Vice President for Asia Pacific at Wood Mackenzie, discussed the potential for oil to reach $120-$130?",
+    "a": "March 9, 2026"
+  },
+  {
+    "q": "According to Joshua Ngu, Vice President for Asia Pacific at Wood Mackenzie, in March 2026, which factor was more sensitive to market changes: crude oil supply or gas prices?",
+    "a": "Gas prices"
+  },
+  {
+    "q": "What geopolitical conflict was cited in the March 9, 2026 Wood Mackenzie analysis as a driver for potential oil price increases to the $120-$130 range?",
+    "a": "The Iran war"
+  },
+  {
+    "q": "Did Joshua Ngu, Vice President for Asia Pacific at Wood Mackenzie, in March 2026, suggest that OPEC’s production increase would alleviate concerns about gas supplies?",
+    "a": "No, the article does not link OPEC's crude production to gas supply concerns"
+  },
+  {
+    "q": "What was the specific price target range mentioned by Joshua Ngu, Vice President for Asia Pacific at Wood Mackenzie, in March 2026, contingent on the continuation of the Iran war?",
+    "a": "$120-$130"
+  },
+  {
+    "q": "In the March 9, 2026 article, how did Joshua Ngu, Vice President for Asia Pacific at Wood Mackenzie, characterize the sensitivity of gas prices compared to crude oil?",
+    "a": "Gas prices proved more sensitive"
+  },
+  {
+    "q": "What was the role of OPEC’s latest production increase, according to Joshua Ngu, Vice President for Asia Pacific at Wood Mackenzie, in the March 9, 2026 oil market outlook?",
+    "a": "It was unlikely to cause a meaningful decline in prices"
+  },
+  {
+    "q": "Which two energy commodities were compared by Joshua Ngu, Vice President for Asia Pacific at Wood Mackenzie, in March 2026 regarding their supply concerns and price sensitivity?",
+    "a": "Crude oil and gas"
+  },
+  {
+    "q": "What was the specific assertion made by Joshua Ngu, Vice President for Asia Pacific at Wood Mackenzie, in March 2026, regarding the cumulative effect of the Iran war on oil prices?",
+    "a": "Each day adds to oil's upside risk"
+  },
+  {
+    "q": "In the March 9, 2026 Wood Mackenzie report, who was the Vice President for Asia Pacific that provided the analysis on oil and gas prices?",
+    "a": "Joshua Ngu"
+  },
+  {
+    "q": "According to the March 9, 2026 article, did Joshua Ngu, Vice President for Asia Pacific at Wood Mackenzie, believe that increased OPEC production would lower the risk of oil prices reaching $120-$130?",
+    "a": "No, he stated it was unlikely to result in any meaningful decline in prices"
+  },
+  {
+    "q": "What was the date of the news report featuring Joshua Ngu, Vice President for Asia Pacific at Wood Mackenzie, discussing the potential for oil prices to hit $120-$130 due to the Iran war?",
+    "a": "March 9, 2026"
+  }
+]

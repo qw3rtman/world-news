@@ -1,0 +1,47 @@
+{
+  "hash": "7fdc69ad8709",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.thetimes.com/uk/politics/article/keir-starmer-under-pressure-support-trump-airstrikes-on-iran-skrz7r9xv?gaa_at=eafs&gaa_n=AWEtsqcTm1qFimW3mFD722f0yqZ9YbNCMzNcwSQDN3nNYAKllxFlLFp488aI&gaa_sig=pY6Ci-YFfXdT3X3k_J8gaK_o5yhNuZXBx73JjFdl8SUpi5nDwH080C0Pl2a9iM1d91g0SWeEJjZWmz4kumuEoA%3D%3D&gaa_ts=69a4af07",
+      "title": "Starmer under pressure to back Trump’s airstrikes on Iran",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Steven Swinford, Political Editor",
+      "num_tokens": 807,
+      "text_length": 3859
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1472011",
+      "spike_id": 1,
+      "market_question": "Will UK strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.305,
+      "spike_timestamp_before": "2026-03-01T01:30:32+00:00",
+      "spike_timestamp_after": "2026-03-01T04:30:31+00:00"
+    },
+    {
+      "market_id": "1472011",
+      "spike_id": 2,
+      "market_question": "Will UK strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.335,
+      "spike_timestamp_before": "2026-03-01T01:30:32+00:00",
+      "spike_timestamp_after": "2026-03-01T09:30:31+00:00"
+    },
+    {
+      "market_id": "1472011",
+      "spike_id": 3,
+      "market_question": "Will UK strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.3,
+      "spike_timestamp_before": "2026-03-01T09:30:31+00:00",
+      "spike_timestamp_after": "2026-03-01T20:30:32+00:00"
+    }
+  ]
+}

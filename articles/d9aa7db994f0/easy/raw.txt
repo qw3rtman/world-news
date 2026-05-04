@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the gold price prediction published on March 13, 2026, by The Times of India, what specific trading strategy did Jateen Trivedi, VP Research Analyst at LKP Securities, recommend for intraday gold trading?",
+    "a": "Sell on rise."
+  },
+  {
+    "q": "As of March 13, 2026, near what price level were Gold April futures on the MCX trading according to the analysis by Jateen Trivedi of LKP Securities?",
+    "a": "Near ₹1,59,860."
+  },
+  {
+    "q": "In the March 13, 2026 market analysis by LKP Securities, which specific moving average resistance zone was identified as immediate resistance for gold prices near ₹1,60,300?",
+    "a": "The immediate moving average resistance zone."
+  },
+  {
+    "q": "According to the March 13, 2026 technical analysis by Jateen Trivedi of LKP Securities, what price level must gold reclaim to signal a potential trend reversal above the bearish sentiment?",
+    "a": "₹1,61,000."
+  },
+  {
+    "q": "In the March 13, 2026 gold market report, what was the specific RSI (Relative Strength Index) reading that indicated gold had entered oversold territory?",
+    "a": "Near 23."
+  },
+  {
+    "q": "For the intraday gold trading session on March 13, 2026, as outlined by Jateen Trivedi of LKP Securities, what was the stated profit target price?",
+    "a": "₹1,59,000."
+  },
+  {
+    "q": "In the March 13, 2026 trading plan by LKP Securities, what was the designated stop-loss level for traders selling gold on a rise?",
+    "a": "Above ₹1,61,000."
+  },
+  {
+    "q": "According to the March 13, 2026 analysis by Jateen Trivedi of LKP Securities, which two exponential moving averages (EMAs) were noted as sloping downward and confirming a bearish intraday trend?",
+    "a": "The 8 EMA and the 21 EMA."
+  },
+  {
+    "q": "In the March 13, 2026 gold price outlook, what specific chart pattern was observed that confirmed supply dominance and a consistent lower-high structure?",
+    "a": "A consistent lower-high pattern."
+  },
+  {
+    "q": "As of March 13, 2026, what was the status of the MACD indicator according to the LKP Securities analysis, reflecting continued bearish momentum?",
+    "a": "It remained in negative territory with expanding red histogram bars."
+  },
+  {
+    "q": "In the March 13, 2026 market commentary, near which Bollinger band was gold trading after an extended decline, indicating strong downside momentum?",
+    "a": "The lower Bollinger band."
+  },
+  {
+    "q": "According to the March 13, 2026 analysis by Jateen Trivedi of LKP Securities, what price level was identified as the specific sell level for the 'Sell on Rise' strategy?",
+    "a": "₹1,60,300."
+  },
+  {
+    "q": "In the March 13, 2026 gold forecast, what bias did Jateen Trivedi of LKP Securities assign to the market below the ₹1,60,300 level?",
+    "a": "Bearish."
+  },
+  {
+    "q": "According to the March 13, 2026 technical setup by LKP Securities, what condition was required for a trend reversal in gold prices?",
+    "a": "Prices must move above ₹1,61,000."
+  },
+  {
+    "q": "In the March 13, 2026 report, what specific short-term recovery level was expected to attract fresh selling interest due to weak momentum indicators?",
+    "a": "Resistance levels near ₹1,60,300."
+  },
+  {
+    "q": "According to the March 13, 2026 analysis, what potential outcome did a pullback toward the mid-Bollinger band provide for traders?",
+    "a": "A selling opportunity before the trend resumed."
+  },
+  {
+    "q": "In the March 13, 2026 gold trading view by Jateen Trivedi of LKP Securities, what was the stated bias for gold prices below ₹1,60,300?",
+    "a": "Bearish."
+  },
+  {
+    "q": "According to the March 13, 2026 article, which organization's disclaimer stated that the expert opinions did not represent their views?",
+    "a": "The Times of India."
+  },
+  {
+    "q": "In the March 13, 2026 analysis, what specific price structure characteristic was described as reflecting a clear downward bias on the intraday chart?",
+    "a": "Successive lower highs and lower lows."
+  },
+  {
+    "q": "According to the March 13, 2026 report, what was the primary reason suggested for any short-term recovery in gold prices attracting selling interest?",
+    "a": "Weak momentum indicators."
+  },
+  {
+    "q": "In the March 13, 2026 trading strategy by LKP Securities, what was the recommended action if gold prices pulled back toward ₹1,60,300?",
+    "a": "Consider selling on rise."
+  },
+  {
+    "q": "According to the March 13, 2026 technical analysis, what indicator reading suggested that a minor bounce might be triggered despite the bearish trend?",
+    "a": "RSI hovering near 23."
+  },
+  {
+    "q": "In the March 13, 2026 market outlook, what specific zone aligned with the immediate moving average resistance for gold prices?",
+    "a": "The ₹1,60,300 level."
+  },
+  {
+    "q": "According to the March 13, 2026 analysis by Jateen Trivedi of LKP Securities, what was the broader intraday sentiment until prices reclaimed ₹1,61,000?",
+    "a": "Negative."
+  },
+  {
+    "q": "In the March 13, 2026 gold price prediction, what specific trading session target was set for traders following the 'Sell on Rise' strategy?",
+    "a": "₹1,59,000."
+  }
+]

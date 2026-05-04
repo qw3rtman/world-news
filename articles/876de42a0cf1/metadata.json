@@ -1,0 +1,37 @@
+{
+  "hash": "876de42a0cf1",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.iranintl.com/en/202603080095",
+      "title": "US weighs deploying special forces to seize Iran uranium - Bloomberg | Iran International",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 37,
+      "text_length": 215
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1394299",
+      "spike_id": 18,
+      "market_question": "US forces enter Iran by December 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "up",
+      "spike_delta": 0.15499999999999992,
+      "spike_timestamp_before": "2026-03-07T21:00:28+00:00",
+      "spike_timestamp_after": "2026-03-08T19:30:21+00:00"
+    },
+    {
+      "market_id": "1394299",
+      "spike_id": 19,
+      "market_question": "US forces enter Iran by December 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "down",
+      "spike_delta": -0.18499999999999994,
+      "spike_timestamp_before": "2026-03-10T08:30:24+00:00",
+      "spike_timestamp_after": "2026-03-10T16:00:31+00:00"
+    }
+  ]
+}

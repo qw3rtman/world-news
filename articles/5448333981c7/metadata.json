@@ -1,0 +1,27 @@
+{
+  "hash": "5448333981c7",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/03/10/stock-market-today-live-updates.html",
+      "title": "Stock market news for March 11, 2026",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": "Sean Conlon,Chloe Taylor,Pia Singh",
+      "num_tokens": 565,
+      "text_length": 2571
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "700396",
+      "spike_id": 7,
+      "market_question": "Will Perplexity AI be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.18,
+      "spike_timestamp_before": "2026-03-11T08:30:36+00:00",
+      "spike_timestamp_after": "2026-03-11T13:00:37+00:00"
+    }
+  ]
+}

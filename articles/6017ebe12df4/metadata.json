@@ -1,0 +1,27 @@
+{
+  "hash": "6017ebe12df4",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://markets.ft.com/data/announce/detail?dockey=600-202603020700BIZWIRE_USPRX____20260227_BW496705-1",
+      "title": "Zoetis to Acquire Animal Genomics Business from Neogen®, Accelerating Precision Animal Health Innovation – Company Announcement - FT.com",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1374,
+      "text_length": 7327
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694938",
+      "spike_id": 17,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.16000000000000003,
+      "spike_timestamp_before": "2026-03-01T08:00:37+00:00",
+      "spike_timestamp_after": "2026-03-02T04:00:34+00:00"
+    }
+  ]
+}

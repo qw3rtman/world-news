@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In February 2026, which three companies provided funding to the US tech firm OpenAI, and what was the total amount raised?",
+    "a": "Amazon, SoftBank Group, and Nvidia provided funding, totaling 110 billion dollars."
+  },
+  {
+    "q": "As of the announcement in late February 2026, what is the investment amount contributed by Amazon to OpenAI?",
+    "a": "Amazon is investing 50 billion dollars."
+  },
+  {
+    "q": "During the February 2026 funding round, how much capital did Nvidia contribute to OpenAI?",
+    "a": "Nvidia contributed 30 billion dollars."
+  },
+  {
+    "q": "In the February 2026 funding deal, what was the specific monetary contribution made by SoftBank Group to OpenAI?",
+    "a": "SoftBank Group put in 30 billion dollars."
+  },
+  {
+    "q": "After the February 2026 investment, what percentage stake in OpenAI did SoftBank Group hold?",
+    "a": "SoftBank Group increased its stake to about 13 percent."
+  },
+  {
+    "q": "What valuation did SoftBank Group assign to OpenAI following the February 2026 funding announcement?",
+    "a": "SoftBank Group valued OpenAI at 730 billion dollars."
+  },
+  {
+    "q": "Who is the CEO of OpenAI who commented on the February 2026 funding collaboration?",
+    "a": "Sam Altman is the CEO of OpenAI."
+  },
+  {
+    "q": "Which product operated by OpenAI was mentioned in the context of the February 2026 funding announcement?",
+    "a": "ChatGPT."
+  },
+  {
+    "q": "On which day of the week did OpenAI announce its February 2026 funding raise?",
+    "a": "OpenAI made the announcement on Friday."
+  },
+  {
+    "q": "Which three companies are identified as industry leaders in the generative AI race as of February 2026?",
+    "a": "OpenAI, Google, and Anthropic."
+  },
+  {
+    "q": "What is the total combined investment from Nvidia and SoftBank Group in the February 2026 OpenAI funding round?",
+    "a": "The combined investment from Nvidia and SoftBank Group is 60 billion dollars."
+  },
+  {
+    "q": "Which semiconductor giant participated in the February 2026 funding round for OpenAI?",
+    "a": "Nvidia."
+  },
+  {
+    "q": "What is the full name of the Japanese investment firm that invested in OpenAI in February 2026?",
+    "a": "SoftBank Group."
+  },
+  {
+    "q": "Which US tech firm raised 110 billion dollars in February 2026?",
+    "a": "OpenAI."
+  },
+  {
+    "q": "According to the February 2026 announcement, what is the primary goal of the collaboration between OpenAI and its investors?",
+    "a": "To build AI that works for everyone through deep collaboration across the stack."
+  },
+  {
+    "q": "In the February 2026 funding round, which investor contributed the largest single amount of capital?",
+    "a": "Amazon, with 50 billion dollars."
+  },
+  {
+    "q": "Which two investors in the February 2026 OpenAI round contributed equal amounts of 30 billion dollars each?",
+    "a": "Nvidia and SoftBank Group."
+  },
+  {
+    "q": "What is the specific valuation figure cited by SoftBank Group for OpenAI in February 2026?",
+    "a": "730 billion dollars."
+  },
+  {
+    "q": "Which company is described as a 'semiconductor giant' in the context of the February 2026 OpenAI investment?",
+    "a": "Nvidia."
+  },
+  {
+    "q": "What is the name of the generative AI product operated by OpenAI mentioned in the February 2026 news report?",
+    "a": "ChatGPT."
+  },
+  {
+    "q": "Which US tech firm is valued at 730 billion dollars according to SoftBank Group's February 2026 statement?",
+    "a": "OpenAI."
+  },
+  {
+    "q": "In the February 2026 funding announcement, which company is identified as a US tech firm operating ChatGPT?",
+    "a": "OpenAI."
+  },
+  {
+    "q": "Which three entities are listed as leaders in the intensifying race to develop generative AI as of February 2026?",
+    "a": "OpenAI, Google, and Anthropic."
+  },
+  {
+    "q": "What is the total funding amount raised by OpenAI from Amazon, SoftBank Group, and Nvidia in February 2026?",
+    "a": "110 billion dollars."
+  },
+  {
+    "q": "Which investor in the February 2026 OpenAI deal stated that the move would increase its stake to about 13 percent?",
+    "a": "SoftBank Group."
+  }
+]

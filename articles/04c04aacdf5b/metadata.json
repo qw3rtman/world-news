@@ -1,0 +1,37 @@
+{
+  "hash": "04c04aacdf5b",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://www.reuters.com/world/europe/ukraines-military-makes-gains-southeast-region-zaporizhzhia-kyiv-says-2026-03-02/",
+      "title": "Ukraine's military makes gains in southeast region of Zaporizhzhia, Kyiv says | Reuters",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Olena Harmash",
+      "num_tokens": 629,
+      "text_length": 2869
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "677361",
+      "spike_id": 2,
+      "market_question": "Will Russia capture Kostyantynivka by March 31?",
+      "event_title": "Will Russia capture Kostyantynivka by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.15499999999999997,
+      "spike_timestamp_before": "2026-03-02T04:30:24+00:00",
+      "spike_timestamp_after": "2026-03-02T16:00:26+00:00"
+    },
+    {
+      "market_id": "677361",
+      "spike_id": 3,
+      "market_question": "Will Russia capture Kostyantynivka by March 31?",
+      "event_title": "Will Russia capture Kostyantynivka by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.16999999999999998,
+      "spike_timestamp_before": "2026-03-02T04:30:24+00:00",
+      "spike_timestamp_after": "2026-03-02T19:30:29+00:00"
+    }
+  ]
+}

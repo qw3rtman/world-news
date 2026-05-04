@@ -1,0 +1,47 @@
+{
+  "hash": "70ef6d929253",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai",
+      "title": "Samsung is adding Perplexity to Galaxy AI | The Verge",
+      "published_date": "2026-02-22T00:00:00.000Z",
+      "author": "Terrence O'Brien",
+      "num_tokens": 396,
+      "text_length": 1837
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "700396",
+      "spike_id": 1,
+      "market_question": "Will Perplexity AI be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.20999999999999996,
+      "spike_timestamp_before": "2026-02-23T16:00:29+00:00",
+      "spike_timestamp_after": "2026-02-24T11:30:30+00:00"
+    },
+    {
+      "market_id": "700396",
+      "spike_id": 2,
+      "market_question": "Will Perplexity AI be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.23999999999999996,
+      "spike_timestamp_before": "2026-02-24T11:30:30+00:00",
+      "spike_timestamp_after": "2026-02-24T17:30:39+00:00"
+    },
+    {
+      "market_id": "700396",
+      "spike_id": 3,
+      "market_question": "Will Perplexity AI be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.31499999999999995,
+      "spike_timestamp_before": "2026-02-24T11:30:30+00:00",
+      "spike_timestamp_after": "2026-02-25T05:00:30+00:00"
+    }
+  ]
+}

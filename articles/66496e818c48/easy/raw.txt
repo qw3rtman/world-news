@@ -1,0 +1,106 @@
+[
+  {
+    "q": "On March 1, 2026, what was the outcome of the U.S. Senate vote regarding the effort to rein in President Donald Trump’s war powers concerning Iran?",
+    "a": "The Senate failed to pass the measure to rein in the president's war powers."
+  },
+  {
+    "q": "According to CNN reporting on March 1, 2026, how close did Iranian bombers come to striking a U.S. air base before being intercepted?",
+    "a": "The Iranian bombers were two minutes away from striking the base before Qatari planes shot them down."
+  },
+  {
+    "q": "What specific concern did CNN report regarding U.S. air defenses in the context of the conflict with Iran as of early March 2026?",
+    "a": "U.S. air defenses may not be able to intercept many of Iran’s drones."
+  },
+  {
+    "q": "As of March 1, 2026, what was the status of negotiations between Iranian intelligence and the United States to end the war?",
+    "a": "Iranian intelligence sent word to the U.S. on potential talks, but U.S. officials stated there were no active negotiations."
+  },
+  {
+    "q": "What statement did the White House make on March 1, 2026, regarding responsibility for the bombing of an Iranian girls’ school?",
+    "a": "The White House did not rule out being responsible for the bombing."
+  },
+  {
+    "q": "How many U.S. soldiers had been identified as killed in action in Kuwait as of March 1, 2026?",
+    "a": "The Pentagon identified two remaining soldiers killed in action in Kuwait."
+  },
+  {
+    "q": "What action did Saudi Arabia take on March 1, 2026, amidst the widening conflict in the Middle East?",
+    "a": "Saudi Arabia intercepted incoming drones."
+  },
+  {
+    "q": "What logistical movement involving Americans was confirmed by the U.S. government on March 1, 2026?",
+    "a": "The U.S. said a charter flight of Americans had left the Middle East."
+  },
+  {
+    "q": "Which journalist provided a report from Tehran to CNN’s Erin Burnett on March 1, 2026, describing the situation as 'awful'?",
+    "a": "A journalist based in Tehran spoke to CNN’s Erin Burnett amid new strikes."
+  },
+  {
+    "q": "What was the primary political challenge facing Trump advisers on March 1, 2026, related to the Iran conflict?",
+    "a": "Advisers were working to mitigate a political nightmare as the president fueled messaging chaos."
+  },
+  {
+    "q": "On which day of the war did the live updates on March 1, 2026, indicate the conflict had escalated?",
+    "a": "The updates covered the fifth day of the war."
+  },
+  {
+    "q": "What was the administration's stance on the duration of the conflict as reported on March 1, 2026?",
+    "a": "The administration was defending Trump’s decisions while facing the possibility of a prolonged war."
+  },
+  {
+    "q": "Who provided the visual documentation for the CNN exclusive report on Iranian bombers being shot down by Qatari planes?",
+    "a": "The image was credited to Mahmud Hams/AFP/Getty Images."
+  },
+  {
+    "q": "What specific military asset was identified by the Pentagon as being under threat from Iranian drones in early March 2026?",
+    "a": "U.S. air defenses were identified as potentially unable to intercept many of Iran’s drones."
+  },
+  {
+    "q": "Which country's air force intercepted Iranian bombers that were targeting a U.S. base in early March 2026?",
+    "a": "Qatari planes shot down the Iranian bombers."
+  },
+  {
+    "q": "What was the reaction of a journalist in Tehran to the new strikes reported on March 1, 2026?",
+    "a": "The journalist told CNN’s Erin Burnett, 'I hate it… make it end'."
+  },
+  {
+    "q": "Did the White House explicitly deny responsibility for the bombing of an Iranian girls’ school on March 1, 2026?",
+    "a": "No, the White House did not rule out being responsible for the bombing."
+  },
+  {
+    "q": "What was the total number of U.S. soldiers killed in action in Kuwait as identified by the Pentagon on March 1, 2026?",
+    "a": "Two soldiers were identified as killed in action."
+  },
+  {
+    "q": "Which nation intercepted incoming drones on March 1, 2026, as the conflict in the Middle East widened?",
+    "a": "Saudi Arabia intercepted the incoming drones."
+  },
+  {
+    "q": "What type of flight was confirmed to have departed the Middle East on March 1, 2026?",
+    "a": "A charter flight of Americans had left the Middle East."
+  },
+  {
+    "q": "Who was the CNN anchor who received the report from the journalist in Tehran on March 1, 2026?",
+    "a": "CNN’s Erin Burnett received the report."
+  },
+  {
+    "q": "What was the nature of the messaging from the Trump administration regarding the Iran conflict on March 1, 2026?",
+    "a": "The president fueled messaging chaos while advisers worked to mitigate the political fallout."
+  },
+  {
+    "q": "What was the status of active negotiations to end the war as stated by U.S. officials on March 1, 2026?",
+    "a": "U.S. officials said there were no active negotiations despite Iranian intelligence sending word on potential talks."
+  },
+  {
+    "q": "Which specific U.S. military branch provided the live updates and imagery regarding the U.S. Navy on March 1, 2026?",
+    "a": "The U.S. Navy provided the live updates."
+  },
+  {
+    "q": "What was the date of the CNN live updates covering the fifth day of the war with Iran?",
+    "a": "The updates were published on March 1, 2026."
+  },
+  {
+    "q": "What was the Pentagon's identification regarding U.S. casualties in Kuwait as of March 1, 2026?",
+    "a": "The Pentagon identified two remaining soldiers killed in action in Kuwait."
+  }
+]

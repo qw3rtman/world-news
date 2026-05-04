@@ -1,0 +1,27 @@
+{
+  "hash": "aa6c269c58fd",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://live.reuters.com/business/energy/oil-jumps-10-iran-conflict-could-spike-100-barrel-analysts-say-2026-03-01/",
+      "title": "Reuters | Breaking International News & Views",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 10,
+      "text_length": 56
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1467766",
+      "spike_id": 1,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $100 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.3,
+      "spike_timestamp_before": "2026-02-28T19:30:27+00:00",
+      "spike_timestamp_after": "2026-02-28T22:00:32+00:00"
+    }
+  ]
+}

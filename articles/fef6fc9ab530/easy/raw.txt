@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In early March 2026, how many Americans had been evacuated from the Middle East according to Assistant Secretary of State Dylan Johnson, and did this figure include those still in transit back to the United States?",
+    "a": "Nearly 20,000 Americans had been evacuated, and the number did not include those still in transit."
+  },
+  {
+    "q": "What military operation did the United States and Israel launch against Iran in early March 2026, and which Iranian leader was killed during the subsequent strikes?",
+    "a": "The operation was named Operation Epic Fury, and it resulted in the death of Iran’s Supreme Leader Ayatollah Ali Khamenei."
+  },
+  {
+    "q": "During the week of March 5, 2026, what specific demand from the United States did Iran decline to halt, leading to the military strikes?",
+    "a": "Iran declined to halt uranium enrichment, which was a major demand from the U.S."
+  },
+  {
+    "q": "According to the BBC estimate cited in March 2026, what was the range of the American population present in the Middle East at the time of the U.S.-Israel strikes?",
+    "a": "An estimated 500,000 to 1 million Americans were in the region."
+  },
+  {
+    "q": "In March 2026, which U.S. official directed the Department of State to ramp up charter flight and ground transportation operations for evacuations?",
+    "a": "Secretary of State Marco Rubio."
+  },
+  {
+    "q": "How many scheduled flights to or from the Middle East had been canceled as of early March 2026, according to the Associated Press?",
+    "a": "More than 23,000 flights had been canceled."
+  },
+  {
+    "q": "As of March 5, 2026, what was the reported civilian death toll in the Middle East conflict, and which organization provided this figure?",
+    "a": "The civilian death toll was 1,114, according to the U.S.-based Human Rights Activists News Agency."
+  },
+  {
+    "q": "How many U.S. service members had died in the conflict with Iran as of early March 2026?",
+    "a": "Six U.S. service members had died."
+  },
+  {
+    "q": "In his March 2026 speech announcing the attack on Iran, what did President Donald Trump urge Iranians to do once the military operation ended?",
+    "a": "He urged them to \"take over your government.\""
+  },
+  {
+    "q": "Which three major Iranian nuclear facilities did President Donald Trump claim were obliterated by the U.S. during Operation Midnight Hammer in June 2025?",
+    "a": "Fordow, Natanz, and Isfahan."
+  },
+  {
+    "q": "According to President Donald Trump’s post on Truth Social in March 2026, how many Iranian Naval Ships had been destroyed and sunk?",
+    "a": "Nine Iranian Naval Ships."
+  },
+  {
+    "q": "What did the Defense Intelligence Agency’s 2025 Worldwide Threat Assessment report conclude about Iran’s production of nuclear weapons?",
+    "a": "It concluded that Iran almost certainly was not producing nuclear weapons."
+  },
+  {
+    "q": "Why did President Donald Trump state there was no pre-existing evacuation plan during a meeting in early March 2026?",
+    "a": "He stated the situation happened \"all very quickly\" and that the administration feared Iran was about to attack Israel and others."
+  },
+  {
+    "q": "Which former U.S. Representative criticized the Trump administration’s evacuation efforts by citing the $3.8 billion annual aid to Israel and the U.S. embassy in Jerusalem's inability to help?",
+    "a": "Former Representative Marjorie Taylor Greene."
+  },
+  {
+    "q": "As of March 2026, how many countries did the U.S. State Department urge Americans to immediately depart from if possible?",
+    "a": "Fourteen countries."
+  },
+  {
+    "q": "Which three aviation analytics firms estimated that at least 90,000 people change flights daily through Dubai, Doha, and Abu Dhabi airports?",
+    "a": "The firm is Cirium."
+  },
+  {
+    "q": "In early March 2026, which three airlines were identified by Cirium as handling the majority of the daily flight changes through key Middle Eastern hubs?",
+    "a": "Emirates, Qatar Airways, and Etihad Airways."
+  },
+  {
+    "q": "What was the outcome of the U.S. Senate vote in early March 2026 regarding a resolution to limit President Donald Trump’s power to continue the war in Iran?",
+    "a": "Lawmakers voted against the resolution, with only one Republican voting in favor and one Democrat voting against."
+  },
+  {
+    "q": "Which two U.S. military branches or agencies were cited in March 2026 as stating that Iran's ability to impact U.S. forces was rapidly declining?",
+    "a": "The U.S. military (via a post on X) and the Defense Intelligence Agency (via its 2025 report context, though the specific quote was from the military post)."
+  },
+  {
+    "q": "What specific online resource did the U.S. State Department urge Americans in the Middle East to enroll in to receive security updates in March 2026?",
+    "a": "step.state.gov."
+  },
+  {
+    "q": "Which six countries in the Middle East were specifically mentioned in March 2026 as having an online form released by the State Department to help arrange government-facilitated departure options?",
+    "a": "Bahrain, Israel, Kuwait, Qatar, Saudi Arabia, and the United Arab Emirates."
+  },
+  {
+    "q": "What did President Donald Trump claim on Truth Social in March 2026 regarding the status of Iran’s Naval Headquarters?",
+    "a": "He claimed it was largely destroyed in a different attack."
+  },
+  {
+    "q": "According to President Donald Trump’s March 2026 speech, what was the primary objective of Operation Epic Fury regarding the American people?",
+    "a": "To defend the American people by eliminating imminent threats from the Iranian regime."
+  },
+  {
+    "q": "What did the Defense Intelligence Agency report state Iran had done since 2019 regarding its uranium stockpile and enrichment levels?",
+    "a": "It conducted activities exceeding previous JCPOA limits, including increasing the size and enrichment levels of its uranium stockpile."
+  },
+  {
+    "q": "Which two airports in the Middle East reportedly resumed limited flight operations in March 2026 after being closed for days?",
+    "a": "Dubai and Abu Dhabi."
+  }
+]

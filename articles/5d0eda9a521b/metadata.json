@@ -1,0 +1,27 @@
+{
+  "hash": "5d0eda9a521b",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://english.elpais.com/international/2026-02-27/juan-pablo-guanipa-i-have-no-doubt-venezuela-is-heading-towards-elections.html",
+      "title": "Juan Pablo Guanipa: ‘I have no doubt: Venezuela is heading towards elections’ | International | EL PAÍS English",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": "Alonso Moleiro",
+      "num_tokens": 1587,
+      "text_length": 7353
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1106813",
+      "spike_id": 1,
+      "market_question": "Will María Corina Machado enter Venezuela by March 31?",
+      "event_title": "María Corina Machado enters Venezuela by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.24,
+      "spike_timestamp_before": "2026-02-26T20:00:23+00:00",
+      "spike_timestamp_after": "2026-02-27T20:00:23+00:00"
+    }
+  ]
+}

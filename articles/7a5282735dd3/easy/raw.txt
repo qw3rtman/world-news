@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In March 2026, which artificial intelligence company announced the acquisition of the AI security startup Promptfoo?",
+    "a": "OpenAI"
+  },
+  {
+    "q": "What year was the AI security startup Promptfoo founded by Ian Webster and Michael D’Angelo?",
+    "a": "2024"
+  },
+  {
+    "q": "Which enterprise platform for AI agents is OpenAI planning to integrate Promptfoo’s technology into after the deal closes?",
+    "a": "OpenAI Frontier"
+  },
+  {
+    "q": "According to PitchBook, what was the valuation of Promptfoo after its most recent funding round in July 2025?",
+    "a": "$86 million"
+  },
+  {
+    "q": "What total amount of funding had Promptfoo raised since its founding as of the time of the acquisition announcement?",
+    "a": "$23 million"
+  },
+  {
+    "q": "Which specific data source did PitchBook use to report on Promptfoo’s valuation and funding history?",
+    "a": "PitchBook"
+  },
+  {
+    "q": "What percentage of Fortune 500 companies reported using Promptfoo’s products?",
+    "a": "More than 25%"
+  },
+  {
+    "q": "Who are the two founders of the AI security startup Promptfoo?",
+    "a": "Ian Webster and Michael D’Angelo"
+  },
+  {
+    "q": "What specific type of testing will Promptfoo’s technology enable for OpenAI’s agent platform?",
+    "a": "Automated red-teaming"
+  },
+  {
+    "q": "What kind of workflows will Promptfoo’s technology help evaluate for security concerns within OpenAI's platform?",
+    "a": "Agentic workflows"
+  },
+  {
+    "q": "What primary purpose did Promptfoo serve when it was founded in 2024?",
+    "a": "To protect large language models (LLMs) from online adversaries"
+  },
+  {
+    "q": "What type of interface and library did Promptfoo develop to help companies test security vulnerabilities in LLMs?",
+    "a": "An open source interface and library"
+  },
+  {
+    "q": "What is OpenAI’s stated expectation regarding the future development of Promptfoo’s open source offering?",
+    "a": "To continue building it out"
+  },
+  {
+    "q": "What specific activities will Promptfoo’s technology help monitor for risks and compliance needs?",
+    "a": "Agent activities"
+  },
+  {
+    "q": "Which publication reported on the valuation and funding details of Promptfoo?",
+    "a": "PitchBook"
+  },
+  {
+    "q": "What type of startup is Promptfoo, as described in OpenAI’s acquisition announcement?",
+    "a": "An AI security startup"
+  },
+  {
+    "q": "What kind of opportunities have the developments in independent AI agents created for bad actors?",
+    "a": "Opportunities to access sensitive data or manipulate automated systems"
+  },
+  {
+    "q": "What is the name of the frontier lab that announced the acquisition of Promptfoo?",
+    "a": "OpenAI"
+  },
+  {
+    "q": "In which month and year did Promptfoo’s most recent funding round occur, establishing its $86 million valuation?",
+    "a": "July 2025"
+  },
+  {
+    "q": "What specific business operations are frontier labs scrambling to prove their technology can be used safely in, according to the article?",
+    "a": "Critical business operations"
+  },
+  {
+    "q": "What two main functions will Promptfoo’s technology perform for OpenAI’s agent platform regarding security evaluation?",
+    "a": "Automated red-teaming and evaluating agentic workflows for security concerns"
+  },
+  {
+    "q": "Which organization did not disclose the financial value of the transaction to acquire Promptfoo?",
+    "a": "OpenAI"
+  },
+  {
+    "q": "What specific tools did Promptfoo develop to allow companies to test security vulnerabilities in large language models?",
+    "a": "An open source interface and library"
+  },
+  {
+    "q": "What type of data access or manipulation risks are associated with the development of independent AI agents?",
+    "a": "Access to sensitive data or manipulation of automated systems"
+  },
+  {
+    "q": "Which platform is OpenAI Frontier, and what is its primary function?",
+    "a": "It is OpenAI’s enterprise platform for AI agents"
+  },
+  {
+    "q": "What specific compliance-related function will Promptfoo’s technology assist with for OpenAI’s agent platform?",
+    "a": "Monitoring activities for compliance needs"
+  }
+]

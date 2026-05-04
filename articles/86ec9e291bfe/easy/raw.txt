@@ -1,0 +1,102 @@
+[
+  {
+    "q": "According to the International Energy Agency's announcement on March 15, 2026, what is the total volume of oil reserves scheduled to be released to the market to combat price spikes from the Middle East war, and when will the stocks from Europe and the Americas become available?",
+    "a": "More than 400 million barrels; at the end of March 2026."
+  },
+  {
+    "q": "In the week of March 15, 2026, by what percentage had Brent and U.S. West Texas Intermediate crude futures surged since the beginning of the month, and what specific action by Tehran caused this surge?",
+    "a": "More than 40%; Tehran's decision to halt shipping through the Strait of Hormuz.",
+  },
+  {
+    "q": "What strategic gateway did U.S. President Donald Trump urge allies to deploy warships to secure in March 2026, and what coalition plan did he intend to announce regarding this location?",
+    "a": "The Strait of Hormuz; a coalition to escort ships through the strait.",
+  },
+  {
+    "q": "After U.S. strikes on military targets at Iran's Kharg Island on March 14, 2026, what retaliatory action did Iranian drones take shortly thereafter, and which country's infrastructure was affected?",
+    "a": "They hit a key oil terminal in Fujairah, United Arab Emirates.",
+  },
+  {
+    "q": "Which two specific energy facilities in Saudi Arabia did JPMorgan analysts list as critical and highly vulnerable in the Gulf region during the March 2026 conflict?",
+    "a": "Ras Tanura export terminal and Abqaiq oil processing facilities.",
+  },
+  {
+    "q": "JP Morgan analyst Natasha Kaneva stated that the Iranian drone attack on the Fujairah oil terminal in March 2026 marked what specific development in the conflict?",
+    "a": "An escalation in the conflict.",
+  },
+  {
+    "q": "According to a Fujairah-based industry source on March 15, 2026, what was the status of oil loading operations at the Fujairah terminal, and what is the approximate daily volume of UAE's Murban crude oil exported through this outlet?",
+    "a": "Operations had resumed; about 1 million barrels per day.",
+  },
+  {
+    "q": "The International Energy Agency projected that global oil supply would fall by how many million barrels per day in March 2026 due to shipping disruptions, and by how much have Middle Eastern producers cut output?",
+    "a": "Global supply to fall by 8 million bpd; Middle Eastern producers cut output by at least 10 million bpd.",
+  },
+  {
+    "q": "U.S. Energy Secretary Chris Wright expressed an expectation on March 15, 2026, regarding the timeline for the end of the war with Iran and the subsequent impact on energy markets.",
+    "a": "He expected the war to end within the next few weeks, after which oil supplies would rebound and energy costs would decline.",
+  },
+  {
+    "q": "As of March 15, 2026, what was the stance of the Trump administration regarding diplomatic negotiations proposed by Middle Eastern allies, and what condition did Iran reject regarding a ceasefire?",
+    "a": "The Trump administration rebuffed the efforts; Iran rejected a ceasefire until U.S. and Israeli strikes end.",
+  },
+  {
+    "q": "Which two nations are currently engaged in a war against Iran that entered its third week in March 2026, threatening oil infrastructure and closing the Strait of Hormuz?",
+    "a": "The United States and Israel.",
+  },
+  {
+    "q": "What proportion of global oil supply flows through the Strait of Hormuz, a chokepoint shut by Iran in March 2026?",
+    "a": "A fifth (20%) of global oil supply.",
+  },
+  {
+    "q": "Which region's oil reserves were scheduled for immediate release by the International Energy Agency in March 2026, as opposed to those from Europe and the Americas?",
+    "a": "Asia Oceania.",
+  },
+  {
+    "q": "What was the highest level reached by Brent and U.S. West Texas Intermediate crude futures in March 2026, relative to previous years?",
+    "a": "Their highest levels since 2022.",
+  },
+  {
+    "q": "Which specific oil export hub in Iran did U.S. President Donald Trump threaten to strike further after U.S. forces hit military targets there on March 14, 2026?",
+    "a": "Kharg Island.",
+  },
+  {
+    "q": "According to JPMorgan analysts in March 2026, which UAE oil terminal was hit by Iranian drones, and what is its geographic relationship to the Strait of Hormuz?",
+    "a": "Fujairah; it is located outside the Strait of Hormuz.",
+  },
+  {
+    "q": "What volume of Murban crude oil, representing about 1% of world demand, is exported through the Fujairah outlet in the United Arab Emirates?",
+    "a": "About 1 million barrels per day.",
+  },
+  {
+    "q": "Which organization announced on March 15, 2026, that more than 400 million barrels of oil reserves would be released to combat price spikes caused by the Middle East war?",
+    "a": "The International Energy Agency.",
+  },
+  {
+    "q": "Who reported on March 15, 2026, that U.S. President Donald Trump planned to announce a coalition to escort ships through the Strait of Hormuz?",
+    "a": "The Wall Street Journal.",
+  },
+  {
+    "q": "Which two specific facilities in Saudi Arabia were identified by JPMorgan analysts in March 2026 as critical and highly vulnerable energy facilities in the Gulf?",
+    "a": "Ras Tanura export terminal and Abqaiq oil processing facilities.",
+  },
+  {
+    "q": "What was the expected impact on oil supplies and energy costs according to U.S. Energy Secretary Chris Wright if the war with Iran ended within the next few weeks in March 2026?",
+    "a": "Oil supplies would rebound and energy costs would decline.",
+  },
+  {
+    "q": "Why did Iran reject the possibility of a ceasefire in March 2026, according to sources familiar with diplomatic efforts?",
+    "a": "Because the U.S. and Israeli strikes had not ended.",
+  },
+  {
+    "q": "What specific action did U.S. forces take on March 14, 2026, that prompted a threat of further strikes from U.S. President Donald Trump against Iran's Kharg Island?",
+    "a": "They hit military targets there.",
+  },
+  {
+    "q": "Which country's flagship Murban crude oil is exported through the Fujairah terminal, and what is the approximate daily volume of this export?",
+    "a": "United Arab Emirates; about 1 million barrels per day.",
+  },
+  {
+    "q": "According to the International Energy Agency in March 2026, what was the combined impact of shipping disruptions and producer cuts on global oil supply and Middle Eastern output?",
+    "a": "Global supply expected to fall by 8 million bpd; Middle Eastern producers cut output by at least 10 million bpd."
+  }
+]

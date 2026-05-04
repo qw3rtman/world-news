@@ -1,0 +1,37 @@
+{
+  "hash": "239d89115bfa",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-what-is-the-gold-rate-outlook-for-february-23-2026-week-should-you-buy-or-sell-mcx-gold/articleshow/128701104.cms",
+      "title": "Gold price prediction today: Where are gold prices headed this week & what are the key levels? - The Times of India",
+      "published_date": "2026-02-23T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /   Feb 23, 2026, 11:22 IST",
+      "num_tokens": 434,
+      "text_length": 2200
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1032336",
+      "spike_id": 2,
+      "market_question": "Will Silver (SI) hit (HIGH) $120 by end of June?",
+      "event_title": "Will Silver (SI) hit__ by end of June?",
+      "spike_direction": "down",
+      "spike_delta": -0.22899999999999998,
+      "spike_timestamp_before": "2026-02-24T13:00:31+00:00",
+      "spike_timestamp_after": "2026-02-25T08:00:31+00:00"
+    },
+    {
+      "market_id": "1273328",
+      "spike_id": 1,
+      "market_question": "Will Gold (GC) hit (HIGH) $5,500 by end of February?",
+      "event_title": "What will Gold (GC) hit__ by end of February?",
+      "spike_direction": "up",
+      "spike_delta": 0.15650000000000003,
+      "spike_timestamp_before": "2026-02-23T09:30:28+00:00",
+      "spike_timestamp_after": "2026-02-23T23:30:28+00:00"
+    }
+  ]
+}

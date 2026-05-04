@@ -1,0 +1,65 @@
+{
+  "spike_index": 2,
+  "direction": "down",
+  "price_before": 0.485,
+  "price_after": 0.0075,
+  "delta": -0.4775,
+  "abs_delta": 0.4775,
+  "timestamp_before": "2026-03-17T23:00:37+00:00",
+  "timestamp_after": "2026-03-18T04:30:39+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://fortune.com/2026/03/17/who-is-joe-kent-green-beret-maga-loyalist-former-political-candidate-who-quit-over-iran/",
+      "file": "94ba44f55126.txt",
+      "title": "Who is Joe Kent? Meet the Green Beret, MAGA loyalist and former candidate who quit over Iran | Fortune",
+      "published_date": "2026-03-17T00:00:00.000Z",
+      "author": "Catherina Gioino",
+      "text_length": 490,
+      "status": "ok",
+      "num_tokens": 135
+    },
+    {
+      "url": "https://apnews.com/article/joe-kent-resignation-iran-donald-trump-6d87b1f4852913d7d55ff1f195d7fc87",
+      "file": "ff525d8d481a.txt",
+      "title": "What to know about Joe Kent, Trump's former counterterrorism chief | AP News",
+      "published_date": "2026-03-17T00:00:00.000Z",
+      "author": null,
+      "text_length": 7606,
+      "status": "ok",
+      "num_tokens": 1509
+    },
+    {
+      "url": "http://www.npr.org/2026/03/17/nx-s1-5750426/joe-kent-counterterrorism-official-resigns-trump",
+      "file": "a36be54484bf.txt",
+      "title": "Joe Kent, a top counterterrorism official, resigns citing Iran war : NPR",
+      "published_date": "2026-03-17T00:00:00.000Z",
+      "author": "By\u00a0                 \n   \n       \n      NPR Washington Desk",
+      "text_length": 3758,
+      "status": "ok",
+      "num_tokens": 789
+    },
+    {
+      "url": "https://cbsnews.com/news/joe-kent-what-to-know-iran/",
+      "file": "ae5c96757cbc.txt",
+      "title": "What to know about Joe Kent, Trump counterterrorism chief who resigned over Iran war - CBS News",
+      "published_date": "2026-03-18T00:00:00.000Z",
+      "author": null,
+      "text_length": 8466,
+      "status": "ok",
+      "num_tokens": 1670
+    },
+    {
+      "url": "https://www.foxnews.com/politics/2028-buzz-builds-pritzker-draws-republican-challenger-showdown-illinois-governor",
+      "file": "74fde19cd573.txt",
+      "title": "GOP nomination all set in challenge to Democratic Gov. JB Pritzker of Illinois | Fox News",
+      "published_date": "2026-03-17T17:18:37.274Z",
+      "author": null,
+      "text_length": 2668,
+      "status": "ok",
+      "num_tokens": 556
+    }
+  ],
+  "total_tokens": 4659
+}

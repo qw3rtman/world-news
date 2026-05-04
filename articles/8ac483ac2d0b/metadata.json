@@ -1,0 +1,37 @@
+{
+  "hash": "8ac483ac2d0b",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.newsweek.com/ken-paxton-john-cornyn-head-to-runoff-in-texas-gop-senate-primary-11607571",
+      "title": "Ken Paxton, John Cornyn Head to Runoff in Texas GOP Senate Primary - Newsweek",
+      "published_date": "2026-03-04T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 725,
+      "text_length": 3496
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "562186",
+      "spike_id": 1,
+      "market_question": "Will Ken Paxton win the 2026 Texas Republican Primary?",
+      "event_title": "Texas Republican Senate Primary Winner",
+      "spike_direction": "down",
+      "spike_delta": -0.345,
+      "spike_timestamp_before": "2026-03-03T08:30:26+00:00",
+      "spike_timestamp_after": "2026-03-04T03:30:28+00:00"
+    },
+    {
+      "market_id": "562186",
+      "spike_id": 2,
+      "market_question": "Will Ken Paxton win the 2026 Texas Republican Primary?",
+      "event_title": "Texas Republican Senate Primary Winner",
+      "spike_direction": "down",
+      "spike_delta": -0.7100000000000001,
+      "spike_timestamp_before": "2026-03-03T21:00:51+00:00",
+      "spike_timestamp_after": "2026-03-04T20:30:28+00:00"
+    }
+  ]
+}

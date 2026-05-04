@@ -1,0 +1,245 @@
+Astral: OpenAI acquires Astral, the Python startup whose tools run on millions of developer machines | - The Times of India
+
+Edition
+
+IN
+
+- IN
+- US
+- GCC
+
+English
+
+- English
+- हिन्दी
+- मराठी
+- ಕನ್ನಡ
+- தமிழ்
+- বাংলা
+- മലയാളം
+- తెలుగు
+- ગુજરાતી
+
+Weather
+
+
+
+Sign In
+
+- Videos
+- News
+- Technology News
+- Tech News
+- OpenAI acquires Astral, the Python startup whose tools run on millions of developer machines
+
+Trending
+
+Meta Smart Glasses
+
+Social Media Ban
+
+Anthropic Ceo Dario Amodei
+
+Alibaba Memo To Employees
+
+# OpenAI acquires Astral, the Python startup whose tools run on millions of developer machines
+
+Comments
+
+Share
+
+
+
+AA
+
++Text Size
+
+- Small
+- Medium
+- Large
+
+OpenAI has acquired Astral, a startup whose essential Python development tools are used by millions. This strategic move aims to bolster OpenAI's Codex group, which faces competition from Anthropic's Claude Code. The acquisition signifies a bet on integrating comprehensive development workflows, not just code generation, to retain influential developers and enhance Codex's capabilities.
+
+OpenAI is acquiring Astral, the startup whose tools quietly run inside the workflows of millions of Python developers. The deal drops Astral's team into the Codex group, and the timing is not subtle: Anthropic's Claude Code has been steadily pulling professional developers away, and OpenAI needs Codex to be more than a code generator to fight back.Financial terms weren't shared. Regulatory approval is still pending before the deal officially closes.Astral makes three tools that have become unglamorous essentials—uv for dependency and environment management, Ruff for linting and formatting, and ty for type checking. Together, they cover a significant chunk of the Python development loop. The scale is striking: Astral's tools have grown from zero to hundreds of millions of downloads per month, numbers that founder and CEO Charlie Marsh says went "far beyond my most ambitious expectations at every step.
+
+## Israel Iran War
+
+- US-Israel-Iran War News Live Updates: Israel pounds Tehran as Iranians mark Nowruz; UAE, Kuwait defences respond to missile barrage
+- 'World's first hit': Iran claims strike on US F-35 lightning 2 - why it's a big deal
+- Iran hits Ras Laffan facility: Qatar's 17% LNG capacity gone, $20bn loss; which countries will be impacted?
+
+" Crucially, Marsh confirmed the open source projects aren't going anywhere—OpenAI has committed to continuing support after closing, and Astral will keep building publicly, alongside its existing community.
+
+## Claude Code has been winning over developers that codex needs
+
+This is the context that makes the Astral deal make sense. Anthropic, nearing a $20 billion annual revenue run rate, has built real credibility with engineers through Claude Code. Cursor—another rival—is reportedly in talks to raise at a $50 billion valuation.
+
+OpenAI's Codex has numbers worth citing: 2 million weekly active users, triple the user growth and five times the usage since January. But raw growth means less if the developers with the most influence keep gravitating elsewhere.
+
+## For OpenAI, buying the toolchain is a bet on depth over features
+
+Marsh has always framed Astral around leverage—his founding thesis being that making the Python ecosystem even 1% more productive compounds into something massive over time. That framing maps neatly onto what OpenAI needs Codex to become. An AI that writes code is a starting point. One that also lints it, resolves dependencies, enforces type safety, and runs checks—without the developer leaving the environment—is something developers build habits around. Marsh put it plainly in his blog post: "It is increasingly clear to me that Codex is that frontier."The acquisition follows Promptfoo in early March and Torch in January, continuing a deliberate M&A run since OpenAI hired Google's Albert Lee to lead corporate development in December. Owning the toolchain won't close the gap with Anthropic overnight. But it's a smarter attack surface than another chat interface.
+
+About the Author TOI Tech Desk
+
+The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk’s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe. Be it how-tos or the latest happenings in AI, cybersecurity, personal gadgets, platforms like WhatsApp, Instagram, Facebook and more; TOI Tech Desk brings the news with accuracy and authenticity.Read More
+
+End of Article
+
+## Latest Mobiles
+
+View All
+
+Previous
+
+Itel A100CView Specs
+
+Samsung Galaxy A07 5G₹16,480View Specs
+
+Itel A100View Specs
+
+Lava Bold N2₹7,499View Specs
+
+OPPO A6s₹18,999View Specs
+
+Next
+
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9
+- 10
+- 11
+- 12
+- 13
+- 14
+- 15
+- 16
+
+Follow Us On Social Media
+
+## Photostories
+
+From a massive living room to a beautiful garden: Arjun bijlani buys a lavish mansion and gives a glimpse of the fancy property
+
+5 best Good Friday long weekend getaways near Bengaluru
+
+Your sweat pattern can reveal hidden health issues: Doctors explain warning signs, causes, and when to seek medical help
+
+Pune’s busiest Chandni Chowk to get 508-metre foot-over-bridge
+
+- 1
+- 2
+- 3
+
+### Hot Picks
+
+Iran news
+
+### Top Trending
+
+Orissa high court
+
+Tired of too many ads? go ad free now
+
+## Trending Stories
+
+In Section
+
+Entire Website
+
+- Google announces it is shutting down Firebase Studio, less than a year after its launch; read the message to users
+- OpenAI’s ChatGPT, Codex, and Atlas are becoming one app: Here's what that means
+- After laying off 4,000 calling it 'hard, clear action', Jack Dorsey's Block rehires some after calling their layoff ...
+- FBI update on Iran-linked hackers who brought down machines of America's largest medical device company Stryker; says: Iran thought they could hide behind …
+- Double toll charges due to FASTag failures from April 1: How to check your FASTag payments and balance online
+- Oppo K14 5G vs Oppo A6s: Here’s how the two affordable smartphones from Oppo compare
+- Amazon founder Jeff Bezos plans to raise $100 billion for AI-driven manufacturing fund
+- Google sent 'clear message' to employees worried about Pentagon deals: We are 'leaning more' into ...
+- Xbox Game Pass Kiln release date is April 23: Experience chaotic pottery battles, team strategy, and physics-based multiplayer combat
+- Uber CTO Praveen Neppalli Naga says: With 95% of its engineers now using AI, the role of engineers is shifting from writing every line of code to...
+
+- US-Israel-Iran War News Live Updates: Israel pounds Tehran as Iranians mark Nowruz; UAE, Kuwait defences respond to missile barrage
+- Florida man loses US citizenship over $3.8 million Covid-19 relief fraud scheme; may face deportation
+- Iran hits Ras Laffan facility: Qatar's 17% LNG capacity gone, $20bn loss; which countries will be impacted?
+- Bengaluru weekend events (March 21-22): Don't miss these top gigs, stand-up comedy, open-air cinema - Check timings, ticket prices
+- Gold, Silver Rate Today Live Updates: Gold, silver prices soar after sell-off; Silver futures touch Rs 2.4 lakh per kg
+- Bank holiday today: Are banks closed on March 20, 2026 for Eid-ul-Fitr? Check state-wise list
+- LPG Gas Crisis in India Live Updates: Qatar cuts LNG output 17% for 5 years after missile hit; India faces supply risk
+- 'World's first hit': Iran claims strike on US F-35 lightning 2 - why its a big deal
+- Piers Morgan wife Celia Walden sleep remark resurfaces again as HSTikkyTokky interview turns personal on air
+- Armageddon scenario! Why Iran’s missile strikes on Qatar’s LNG spell nightmare for Europe, Asia
+
+Tired of too many ads? go ad free now
+
+## Daily Puzzles
+
+## Connect
+
+ConnectThe Perfect TracePlay Now
+
+## Loop The Loop
+
+Loop The LoopPuzzle CircuitPlay Now
+
+## Daily Crossword
+
+Daily CrosswordSpecial puzzlePlay Now
+
+Explore More Puzzles
+
+Explore Every Corner
+
+Across The Globe
+
+Israel Iran War LPG Shortage India Delhi NCR Rain Phuket Bengaluru Aircraft Iran Strike on Qatar LNG Auston Matthews Injury Dell Curry Net Worth Rajasthan Board Result Gold Rate Today England Cricket Sanju Samson Varun Chakravarthy Sakshi Dhoni Vaibhav Sooryavanshi US F-35 NZ vs SA Live Score Bank Holiday Today Shaheen Afridi BSEB Bihar Board Result KVS Admission Registration Qatar LNG Iran Karaj Missile Plant Qatar's Ras Laffan Israel Largest Oil Refinery Asian Stocks Today RBSE Class 10 Result US Stock Market Today IPL Points Table IPL 2026 IPL 2026 Schedule
+
+
+
+About us Create Your Own Ad Terms of Use and Grievance Redressal Policy Privacy policy Advertise with us RSS Newsletter Feedback ePaper Sitemap Archives
+
+Living and Entertainment
+
+Cricbuzz Lifestyle Newspaper Subscription Food News TV Times Prime Travel Destinations Whats Hot ETimes Times Life Times Pets MyLifeXP
+
+Services
+
+CouponDunia TechGig TimesJobs Bollywood News Times Mobile Gadgets Times Events Work with Us Colombia TOI Global
+
+Hot on the Web
+
+Dhurandhar 2 Review R Madhavan Eid Dhurandhar 2 Box Office Collection Eid Mubarak Wishes Dhurandhar 2 Review Rajpal Yadav Eid Moon Sighting Timing Dhurandhar 2 OTT Ustaad Bhagat Singh Collection Garima Malhotra Death Nota Fatehi Aditya Dhar Dhurandhar 2 Dhurandhar2 Box Office Collection Eid ul Fitr 2026 Hindi Shayari Panchayat Season 5 Eid 2026 Date Venus Enters Aries Baby Names Eid Mehndi Designs Danish Iqbal Youth Twitter Review Dhruv Rathi Aamir Khan Eid-Ul-Fitr 2026 Aishwarya Rai Parenting Lessons Horoscope Today Navratri Nine Colours Eid 2026 Moon Sighting Timings Today Gold Rate in Chennai Delhi Weather Today Delhi AQI Today Mumbai AQI Today Maharashtra Public Holidays 2026 Aravind Srinivas Tata Sierra Bncap Crash Test Fastag Payment Sam Altman Hsbc Layoffs Indian Cobra VS Egyptian Cobra
+
+Trending Topics
+
+Haridwar Rape Case gang shoots man dead Delhi IIT Bombay students accident Meat banned in uttarakhand Ashish sharma IMD yellow alert Telangana racket Kolkata lpg smuggling Bengaluru weather Badshah New Song RG kar victim Assam elections new candidates MLA nihar ranjan das K sudhakaran Jaipur truck driver Shilpa Shetty Malabar hill Elvish Yadav Madhya Pradesh fossil Lucknow murder by in laws Chitrahata accident Uttam Nagar Peace Rama Duwaji LaMelo Ball Alix Earle Megan Thee Stallion Judd Trump Taylor Swift Brittany Mahomes YouTube Messaging Feature Mark Zuckerberg BGMI4.3 Update Jensen Huang HSBC Layoffs US Senator Elizabeth Warren Eid AI Photo Editing Prompts DeepSeek V4 Larry Ellison Science News How to watch ICC T20 World Cup 2026 in USA IPL 2026 IPL Schedule 2026
+
+Popular Categories
+
+Headlines Sports News Business News India News World News Bollywood News Health+ Tips Indian TV Shows Technology Travel Etimes Health & Fitness Astrology International Sports Deorhi Technology News Auto Weather Today Gold Rate Today Delhi Silver Rate Today Platinum Rate Today Is Bank open today IPL 2026 IPL Schedule 2026 Bank Holidays Public Holidays Bank Holidays in March Public Holidays in March Aries Horoscope Gemini Horoscope
+
+Trending Videos
+
+Aarti Held on Day 2 of Chaitra Navratri Devotees Flock to Temple on Chaitra Navratri How India ‘Choked’ Pakistan’s Makran Coast, Forced Sharif To ‘Beg’ For Ceasefire I Kargil War AIADMK-NDA Seat Sharing Advances; Stalin Flags ‘Delhi Control’ Concerns Mercedes-Benz CLA Electric Drive Review: Smartest Merc Ever? | TOI Auto New Skoda Kushaq Drive Review: Before buying know these things | TOI Auto Mercedes-Benz CLA Electric India Plans: In Conversation with Santosh Iyer | TOI Auto Akshay Kumar credits father for wrestling lessons, Praises Ranveer Singh’s Dhurandhar Iran Vows REVENGE After UK, France, Japan ‘Jump Into’ War To Rescue Trump | Strait Of Hormuz Crisis Nuclear Nightmare! Satellite Images Expose Scary ‘Israeli-US Strike’ Next To Iran’s Bushehr Plant
+
+Latest News
+
+'Team UDF is Team Keralam, people ready for change': Rahul Gandhi's message ahead of Kerala polls Yami Gautam to star in horror-comedy ‘Nayyi Navelli’, theatrical run before OTT premiere Ramya slams Dhurandhar 2, calls it a “huge disappointment” Built to survive: Inside Iran’s unbreakable military chain of command ​'Jana Nayagan' release update: Will Thalapathy Vijay’s final film clear ECI hurdles for an April 30 release? OpenAI’s ChatGPT, Codex, and Atlas are becoming one app: Here's what that means Assam assembly polls: AIUDF declares 6 more nominees Goa HSSC result 2026 expected tomorrow: Check where and how to download Class 12 marksheets VRX and Ravichandran Ashwin announce partnership built on shared approach to planning UP Board pauses Class 10, 12 evaluation on Eid-ul-Fitr and Ram Navami: Schedule otherwise unchanged NASA’s moon rocket Artemis rolls back to the pad for possible launch in April No smoking, no Indian sign spotted in Vietnam: Indian tourists claim racism in Vietnam after viral video shows them denied entry Actress Nimisha Nair alleges harassment after 'drunk men' stop her cab in Mumbai; shares video and flags safety concerns Delhi CM Rekha Gupta holds pre-budget consultation with gig workers, farmers, workers Mamata vs EC: Bengal government moves Calcutta high court against transfers of IAS, IPS IRGC spokesperson Ali Mohammad Naini killed in strikes soon after issuing defiant warning to US-Israel Why airport lounge access alone doesn’t make a forex card ‘premium’? MJPRU UG, PG result 2026 released at mjpruiums.in: Direct link to download scorecards here
+
+Copyright © 2026 Bennett, Coleman & Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service
+
+Follow Us On
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 

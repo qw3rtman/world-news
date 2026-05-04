@@ -1,0 +1,27 @@
+{
+  "hash": "382a98c01d77",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://al-monitor.com/originals/2026/03/iran-war-sends-crude-prices-soaring-khamenei-son-takes-charge",
+      "title": "Iran war sends crude prices soaring as Khamenei son takes charge - AL-Monitor: The Middle Eastʼs leading independent news source since 2012",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1168,
+      "text_length": 5730
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1467766",
+      "spike_id": 1,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $100 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.3,
+      "spike_timestamp_before": "2026-02-28T19:30:27+00:00",
+      "spike_timestamp_after": "2026-02-28T22:00:32+00:00"
+    }
+  ]
+}

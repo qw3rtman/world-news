@@ -1,0 +1,27 @@
+{
+  "hash": "fd0410bccaf5",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.aljazeera.com/news/2026/3/18/trump-delays-meeting-with-chinas-xi-jinping-as-war-on-iran-rages",
+      "title": "Trump confirms meeting with China’s Xi Jinping delayed as war on Iran rages | US-Israel war on Iran News | Al Jazeera",
+      "published_date": "2026-03-18T00:00:00.000Z",
+      "author": "Erin Hale",
+      "num_tokens": 868,
+      "text_length": 4208
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "706279",
+      "spike_id": 10,
+      "market_question": "Will Trump visit China by April 30?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.265,
+      "spike_timestamp_before": "2026-03-18T19:00:44+00:00",
+      "spike_timestamp_after": "2026-03-19T16:30:43+00:00"
+    }
+  ]
+}

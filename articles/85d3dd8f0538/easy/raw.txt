@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In March 2026, what percentage stake did Nvidia acquire in the Amsterdam-based neocloud company Nebius, and at what price per share did the SEC filing indicate the transaction occurred?",
+    "a": "Nvidia acquired an 8.3% stake at $94.94 per share."
+  },
+  {
+    "q": "Following the March 11, 2026 announcement by Nvidia, by what percentage did the stock price of Nebius rise, and what was the closing price reached by 1623 GMT?",
+    "a": "Nebius shares jumped 13.8% to $109.72."
+  },
+  {
+    "q": "According to the March 2026 agreement between Nvidia and Nebius, what is the total data center capacity Nebius plans to deploy by the end of 2030?",
+    "a": "More than 5 gigawatts."
+  },
+  {
+    "q": "In the March 2026 investment deal involving Nvidia and Nebius, how does the planned 5-gigawatt data center capacity compare to residential power usage in the United States?",
+    "a": "It represents power equivalent to the needs of more than 4 million U.S. households."
+  },
+  {
+    "q": "What specific concern did the March 2026 investment by Nvidia in its customer Nebius raise regarding the relationship between the chipmaker and the cloud provider?",
+    "a": "Concerns about circular deals."
+  },
+  {
+    "q": "Prior to the March 2026 Nvidia-Nebius deal, what was the total investment amount Nvidia announced for the artificial intelligence startup OpenAI?",
+    "a": "$30 billion."
+  },
+  {
+    "q": "In addition to Nebius, which other \"neocloud\" firm was identified in March 2026 as gaining prominence through high-profile deals with U.S. hyperscalers?",
+    "a": "Coreweave."
+  },
+  {
+    "q": "What was the value of the March 2026 deal between the neocloud firm Coreweave and Microsoft, as cited in the context of Nvidia's investment in Nebius?",
+    "a": "$17 billion."
+  },
+  {
+    "q": "What was the value of the March 2026 deal between the neocloud firm Nebius and Meta Platforms, as cited in the context of Nvidia's investment?",
+    "a": "$3 billion."
+  },
+  {
+    "q": "How did Nvidia CEO Jensen Huang describe the specific design purpose of the AI cloud being built by Nebius in his March 2026 statement?",
+    "a": "Designed for the agentic era."
+  },
+  {
+    "q": "What was Nebius's capital spending for the December quarter of 2025, as reported in the March 2026 article regarding Nvidia's investment?",
+    "a": "$2.1 billion."
+  },
+  {
+    "q": "How did Nebius's capital spending in the December 2025 quarter compare to its spending in the same quarter of the previous year, according to the March 2026 report?",
+    "a": "It rose from $416 million to $2.1 billion."
+  },
+  {
+    "q": "Which stock exchange listed Nebius shares at the time of the March 2026 Nvidia investment announcement?",
+    "a": "Nasdaq."
+  },
+  {
+    "q": "In the March 2026 context, how does the customer base of \"neocloud\" firms like Nebius and Coreweave differ from that of larger cloud firms?",
+    "a": "Neoclouds mostly focus on tech customers, whereas larger firms serve a broad range of industries."
+  },
+  {
+    "q": "What specific type of capacity do neocloud firms like Nebius offer to their tech customers, as described in the March 2026 article?",
+    "a": "Capacity tailored for AI technology."
+  },
+  {
+    "q": "Which U.S. hyperscaler received a $17 billion AI infrastructure deal from Coreweave, as mentioned in the March 2026 report alongside Nvidia's Nebius investment?",
+    "a": "Microsoft."
+  },
+  {
+    "q": "Which U.S. hyperscaler received a $3 billion AI infrastructure deal from Nebius, as mentioned in the March 2026 report?",
+    "a": "Meta Platforms."
+  },
+  {
+    "q": "What was the primary reason Nvidia CEO Jensen Huang gave for the partnership with Nebius in his March 2026 statement?",
+    "a": "To scale the cloud firm to meet the surging global demand for intelligence."
+  },
+  {
+    "q": "In March 2026, which U.S. regulatory body's filing revealed the details of Nvidia's $2 billion investment in Nebius?",
+    "a": "The U.S. Securities and Exchange Commission (SEC)."
+  },
+  {
+    "q": "What was the total monetary value of Nvidia's investment in Nebius announced in March 2026?",
+    "a": "$2 billion."
+  },
+  {
+    "q": "Which company did Nvidia agree to deploy at least 10 gigawatts of systems for last year, prior to the March 2026 Nebius deal?",
+    "a": "OpenAI."
+  },
+  {
+    "q": "In the March 2026 article, what sector is Nebius classified under, and where is the company based?",
+    "a": "Artificial intelligence cloud company, based in Amsterdam."
+  },
+  {
+    "q": "What specific operational strategy is Nebius pursuing, as indicated by its capital spending jump in the December 2025 quarter reported in March 2026?",
+    "a": "Doubling down on capacity expansion."
+  },
+  {
+    "q": "Which two neocloud firms were highlighted in March 2026 as gaining prominence through deals with U.S. hyperscalers Microsoft and Meta?",
+    "a": "Nebius and Coreweave."
+  },
+  {
+    "q": "What was the stock ticker symbol for Nvidia in the March 2026 Reuters report?",
+    "a": "NVDA.O."
+  },
+  {
+    "q": "What was the stock ticker symbol for Nebius in the March 2026 Reuters report?",
+    "a": "NBIS.O."
+  }
+]

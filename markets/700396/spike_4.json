@@ -1,0 +1,65 @@
+{
+  "spike_index": 4,
+  "direction": "up",
+  "price_before": 0.155,
+  "price_after": 0.36,
+  "delta": 0.205,
+  "abs_delta": 0.205,
+  "timestamp_before": "2026-02-25T05:00:30+00:00",
+  "timestamp_after": "2026-02-25T18:30:30+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://techcrunch.com/2026/02/24/stripe-is-reportedly-eyeing-deal-to-buy-some-or-all-of-paypal",
+      "file": "e72d9740cee1.txt",
+      "title": "Stripe is reportedly eyeing deal to buy some or all of PayPal | TechCrunch",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": "Dominic-Madori Davis",
+      "text_length": 1307,
+      "status": "ok",
+      "num_tokens": 275
+    },
+    {
+      "url": "https://origin.www.bloomberg.com/news/articles/2026-02-24/payments-processor-stripe-expresses-interest-in-paypal?srnd=undefined",
+      "file": "38301bdd433f.txt",
+      "title": "Stripe Considers Acquisition of All or Parts of PayPal (PYPL) - Bloomberg",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": "Ryan Gould",
+      "text_length": 611,
+      "status": "ok",
+      "num_tokens": 137
+    },
+    {
+      "url": "https://www.techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/",
+      "file": "4a04fcb09476.txt",
+      "title": "Anthropic acquires computer-use AI startup Vercept after Meta poached one of its founders | TechCrunch",
+      "published_date": "2026-02-25T00:00:00.000Z",
+      "author": "Julie Bort",
+      "text_length": 4437,
+      "status": "ok",
+      "num_tokens": 965
+    },
+    {
+      "url": "http://semafor.com/article/02/25/2026/perplexity-launches-computer-super-agent",
+      "file": "4e6c5e3baca0.txt",
+      "title": "Perplexity launches \u2018Computer\u2019 super agent | Semafor",
+      "published_date": "2026-02-25T00:00:00.000Z",
+      "author": null,
+      "text_length": 2352,
+      "status": "ok",
+      "num_tokens": 527
+    },
+    {
+      "url": "https://on.theverge.com/ai-artificial-intelligence/884778/perplexity-computer-combines-ai-chatbots-and-agents-into-one-system",
+      "file": "2953daacd559.txt",
+      "title": "Perplexity\u2019s \u201cComputer\u201d is full of AI agents. | The Verge",
+      "published_date": "2026-02-25T00:00:00.000Z",
+      "author": "Stevie Bonifield",
+      "text_length": 351,
+      "status": "ok",
+      "num_tokens": 77
+    }
+  ],
+  "total_tokens": 1981
+}

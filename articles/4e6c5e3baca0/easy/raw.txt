@@ -1,0 +1,106 @@
+[
+  {
+    "q": "On February 25, 2026, what specific product name did Perplexity launch that functions as a super agent capable of creating websites, writing reports, or generating datasets?",
+    "a": "Computer"
+  },
+  {
+    "q": "According to the February 25, 2026 report, which four external AI models does Perplexity’s Computer agent outsource specific tasks to, such as image generation, video creation, deep research, and quick searches?",
+    "a": "Nano Banana, Veo 3.1, Gemini, and Grok"
+  },
+  {
+    "q": "In the February 25, 2026 article, what duration of autonomous operation does Perplexity claim its Computer agent can sustain for complex tasks?",
+    "a": "Hours or even months"
+  },
+  {
+    "q": "What legal challenge is currently facing Perplexity as of late February 2026, which lawyers told Bloomberg poses a threat to AI companies themselves?",
+    "a": "Several pending copyright lawsuits"
+  },
+  {
+    "q": "Who is the tech reporter credited with writing the February 25, 2026 Semafor article about Perplexity's new launch?",
+    "a": "Rachyl Jones"
+  },
+  {
+    "q": "As of February 25, 2026, what industry term describes the user experience of Perplexity’s Computer agent, where users describe an end-product and the system breaks it down for sub-agents?",
+    "a": "Vibe coding"
+  },
+  {
+    "q": "According to the February 25, 2026 Semafor report, what is the primary business risk for Perplexity if the underlying AI models become commodities?",
+    "a": "It would render their service of switching between AIs for tasks useless"
+  },
+  {
+    "q": "In the February 25, 2026 article, which publication did lawyers cite when stating that Perplexity's situation poses a threat to AI companies?",
+    "a": "Bloomberg"
+  },
+  {
+    "q": "What specific capability does Perplexity’s Computer agent possess regarding model selection for the tasks it performs, as described in the February 25, 2026 report?",
+    "a": "It chooses the best model for the specific job"
+  },
+  {
+    "q": "Which media outlet published the February 25, 2026 article titled 'Perplexity launches ‘Computer’ super agent'?",
+    "a": "Semafor"
+  },
+  {
+    "q": "As of February 25, 2026, what type of assignment does the user provide to Perplexity’s Computer agent to initiate the workflow?",
+    "a": "A description of the end-product they want"
+  },
+  {
+    "q": "According to the February 25, 2026 article, which external service does Perplexity’s Computer agent use specifically for video generation tasks?",
+    "a": "Veo 3.1"
+  },
+  {
+    "q": "What is the name of the external AI service that Perplexity’s Computer agent outsources deep research tasks to, as reported on February 25, 2026?",
+    "a": "Gemini"
+  },
+  {
+    "q": "In the February 25, 2026 report, which external AI service does Perplexity’s Computer agent utilize for quick searches?",
+    "a": "Grok"
+  },
+  {
+    "q": "According to the February 25, 2026 article, what is the main concern regarding the 'Computer' product launch besides the product's quality itself?",
+    "a": "Its propensity to fuel people’s fears and stoke their hopes about what is still coming"
+  },
+  {
+    "q": "What specific type of sub-agents does Perplexity’s Computer agent break down assignments for, as described in the February 25, 2026 report?",
+    "a": "Task-specific sub-agents"
+  },
+  {
+    "q": "As of February 25, 2026, what is the stated strategy of Perplexity regarding existing technologies in the development of its Computer product?",
+    "a": "To package and refine them in a way users will pay for"
+  },
+  {
+    "q": "Which external service does Perplexity’s Computer agent use for image generation, according to the February 25, 2026 Semafor article?",
+    "a": "Nano Banana"
+  },
+  {
+    "q": "According to the February 25, 2026 article, what is the typical preference of most everyday users regarding the software they use?",
+    "a": "They just want to do cool things quickly"
+  },
+  {
+    "q": "What specific day of the week did Perplexity launch its Computer super agent, as noted in the February 25, 2026 report?",
+    "a": "Wednesday"
+  },
+  {
+    "q": "In the February 25, 2026 article, what term is used to describe the Computer agent in the context of Perplexity's launch?",
+    "a": "Super agent"
+  },
+  {
+    "q": "According to the February 25, 2026 report, what has the tech industry been talking about for the last year prior to this launch?",
+    "a": "The idea of packaging and refining existing technologies into a product like Computer"
+  },
+  {
+    "q": "What specific time zone is associated with the February 25, 2026 publication time of 2:19pm in the Semafor article?",
+    "a": "EST (Eastern Standard Time)"
+  },
+  {
+    "q": "As of February 25, 2026, what is the fundamental difference in how Perplexity’s Computer agent operates compared to traditional software usage described in the article?",
+    "a": "It runs autonomously for hours or months without constant user intervention"
+  },
+  {
+    "q": "Which specific unit of Semafor published the February 25, 2026 article about Perplexity?",
+    "a": "Semafor World Economy"
+  },
+  {
+    "q": "According to the February 25, 2026 article, what is the 'big risk' for Perplexity related to the commoditization of AI models?",
+    "a": "Rendering their service of allowing users to switch between AIs for tasks useless"
+  }
+]

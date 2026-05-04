@@ -1,0 +1,65 @@
+{
+  "spike_index": 3,
+  "direction": "down",
+  "price_before": 0.36,
+  "price_after": 0.055,
+  "delta": -0.305,
+  "abs_delta": 0.305,
+  "timestamp_before": "2026-02-28T14:30:26+00:00",
+  "timestamp_after": "2026-03-01T05:30:26+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://edition.cnn.com/world/live-news/iran-israel-us-attack-03-02-26-intl-hnk?post-id=cmm8qxqkd000d3b6qbij74h0d",
+      "file": "f04e60ca0690.txt",
+      "title": "March 2, 2026 - Day three of the US-Israeli war with Iran | CNN",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Leila Gharagozlou, Jessie Yeung, Helen Regan, Ross Adkin, Jennifer Hansler, Brad Lendon, Rhea Mogul, Hilary Whiteman, Nic Anderson, Hanna Park, Hanna Ziady, Aditi Sangal, Avery Schmitz, Alison Main, Manu Raju, Sarah Ferris, Morgan Rimmer, Lauren Fox, Lauren Izso, Michael Rios, Hira Humayun, Maureen Chowdhury, Billy Stockwell, Jim Sciutto, Dana Karni, Adam Cancryn, Tal Shalev, Oren Liebermann, Nick Paton Walsh, Kit Maher, Ted  Barrett, Haley Britzky, Ruba Alhenawi, Jomana Karadsheh, Alejandra Jaramillo, Jeremy Diamond, Thomas Bordeaux, Arlette Saenz, Kaanita Iyer, Jennifer Hauser, Nechirvan Mando, Michael Williams, Francesca Street, Tamar Michaelis, Catherine Nicholls, Donald Judd, Samantha Waldenberg, Sana Noor Haq, Mostafa Salem, Lauren Kent, Jake Tapper, Chris Isidore, Matt Egan, Charlotte Reck, Zachary Cohen, Muhammad Darwish, Kara Fox, Becky Anderson, Kevin Liptak, Bijan  Hosseini, Antoinette Radford, Tim Lister, Zahra Ullah, Adam Pourahmadi, Tala Alrajjal, Logan Schiciano, Clay Voytek, Zahid Mahmood, Isabelle D\u2019Antonio, Mitchell McCluskey, Pierre P Bairin, Eyad Kourdi, Niamh Kennedy, Bijan Hosseini, Lucas Lilieholm, Isaac Yee, Teele Rebane, Karina Tsui, Ally Barnard, Karla Cripps, Esha Mitra, John Liu, Martin Goillandeau, Laura Sharman, Todd Symons, Aleena Fayaz, Deva Lee, Kristie Lu Stout",
+      "text_length": 9991,
+      "status": "ok",
+      "num_tokens": 1991
+    },
+    {
+      "url": "https://www.reuters.com/world/us-military-says-three-its-service-members-killed-iran-operation-2026-03-01/",
+      "file": "99d27c255ed6.txt",
+      "title": "US announces its first casualties in Iran war; poll signals challenge for Trump | Reuters",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Phil Stewart",
+      "text_length": 5347,
+      "status": "ok",
+      "num_tokens": 1134
+    },
+    {
+      "url": "https://www.npr.org/2026/03/02/g-s1-112151/iran-war-widens-threatens-to-engulf-lebanon",
+      "file": "ec1902397e42.txt",
+      "title": "6 U.S. soldiers killed as Iran war expands in Middle East : NPR",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "By\u00a0                 \n   \n       \n      NPR Staff",
+      "text_length": 10097,
+      "status": "ok",
+      "num_tokens": 2106
+    },
+    {
+      "url": "http://m.usatoday.com/story/news/world/2026/03/02/how-us-military-launched-iran-war/88942259007/",
+      "file": "9236adcec8f2.txt",
+      "title": "USA TODAY - Breaking News and Latest News Today",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "text_length": 462,
+      "status": "ok",
+      "num_tokens": 96
+    },
+    {
+      "url": "https://www.cnn.com/world/live-news/us-israel-iran-attack-03-01-26-intl",
+      "file": "f786c746f9d4.txt",
+      "title": "March 1, 2026 \u2014 Day two of the launch of a US-Israeli military operation against Iran | CNN",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Laura Sharman, John Liu, Helen Regan, Rhea Mogul, Aleena Fayaz, Isaac Yee, Teele Rebane, Martin Goillandeau, Hilary Whiteman, Audry Jeong, Piper Hudspeth Blackburn, Isabelle D\u2019Antonio, Ross Adkin, Eyad Kourdi, Lauren Izso, Alejandra Jaramillo, Adrienne Vogt, Jeremy Diamond, Nic Robertson, Natasha Bertrand, Zachary Cohen, Jennifer Hansler, Jonny Hallam, James Frater, Kaitlan Collins, Toni Odejimi, Haley Britzky, David Goldman, Maureen Chowdhury, Nina Giraldo, Ted  Barrett, Sarah Ferris, Annie Grayer, Oren Liebermann, Manu Raju, Kit Maher, Brian Stelter, Kevin Liptak, Adam Cancryn, Donald Judd, Mitchell McCluskey, Alison Main, Thomas Bordeaux, Alayna Treene, Tal Shalev, Mostafa Salem, Alessandra Freitas, Sophia Saifi, Catherine Nicholls, Tim Lister, Nechirvan Mando, Lauren Kent, Billy Stockwell, Adam Pourahmadi, Samantha Waldenberg, Aileen Graef, Evan Perez, Hannah Rabinowitz, Dana Karni, Sophie Tanno, Gianluca Mezzofiore, Michelle Velez, Lou Robinson, Ren\u00e9e Rigdon, Abbas Al Lawati, Gawon Bae, Kareem El Damanhoury, Frederik Pleitgen, Logan Schiciano",
+      "text_length": 16228,
+      "status": "ok",
+      "num_tokens": 3218
+    }
+  ],
+  "total_tokens": 8545
+}

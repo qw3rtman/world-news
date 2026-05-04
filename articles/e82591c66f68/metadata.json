@@ -1,0 +1,77 @@
+{
+  "hash": "e82591c66f68",
+  "n_appearances": 6,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/world/middle-east/trump-says-us-carrying-out-major-combat-operations-iran-2026-02-28/",
+      "title": "Trump cheers death of Iranian leader, says strikes will continue | Reuters",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Bo Erickson",
+      "num_tokens": 1316,
+      "text_length": 6551
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1273937",
+      "spike_id": 1,
+      "market_question": "Will the US next strike Iran on February 28, 2026 (ET)?",
+      "event_title": "US next strikes Iran on...?",
+      "spike_direction": "up",
+      "spike_delta": 0.9575,
+      "spike_timestamp_before": "2026-02-27T09:30:33+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:14+00:00"
+    },
+    {
+      "market_id": "1273938",
+      "spike_id": 1,
+      "market_question": "Will the US not strike Iran by February 28, 2026?",
+      "event_title": "US next strikes Iran on...?",
+      "spike_direction": "down",
+      "spike_delta": -0.20500000000000007,
+      "spike_timestamp_before": "2026-02-27T07:00:34+00:00",
+      "spike_timestamp_after": "2026-02-27T14:30:35+00:00"
+    },
+    {
+      "market_id": "1359798",
+      "spike_id": 1,
+      "market_question": "Will the US next strike Iran before March 2026 (ET)?",
+      "event_title": "US next strikes Iran on...?",
+      "spike_direction": "up",
+      "spike_delta": 0.195,
+      "spike_timestamp_before": "2026-02-27T06:30:59+00:00",
+      "spike_timestamp_after": "2026-02-27T14:30:32+00:00"
+    },
+    {
+      "market_id": "1359798",
+      "spike_id": 2,
+      "market_question": "Will the US next strike Iran before March 2026 (ET)?",
+      "event_title": "US next strikes Iran on...?",
+      "spike_direction": "up",
+      "spike_delta": 0.9339999999999999,
+      "spike_timestamp_before": "2026-02-27T10:00:32+00:00",
+      "spike_timestamp_after": "2026-02-28T09:30:34+00:00"
+    },
+    {
+      "market_id": "1422367",
+      "spike_id": 7,
+      "market_question": "Will the US strike Iran next?",
+      "event_title": "Next Country US Strikes",
+      "spike_direction": "down",
+      "spike_delta": -0.9505,
+      "spike_timestamp_before": "2026-02-28T08:00:36+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:49+00:00"
+    },
+    {
+      "market_id": "1422367",
+      "spike_id": 8,
+      "market_question": "Will the US strike Iran next?",
+      "event_title": "Next Country US Strikes",
+      "spike_direction": "down",
+      "spike_delta": -0.9545,
+      "spike_timestamp_before": "2026-02-28T08:00:36+00:00",
+      "spike_timestamp_after": "2026-02-28T11:30:27+00:00"
+    }
+  ]
+}

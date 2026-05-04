@@ -1,0 +1,25 @@
+{
+  "market_id": "618509",
+  "question": "Will Trump and Putin not meet?",
+  "slug": "will-trump-and-putin-not-meet-315-857-437-514",
+  "url": "https://polymarket.com/event/where-will-trump-and-putin-meet-next-584",
+  "description": "This market will resolve according to the location of the next meeting between Donald Trump and Vladimir Putin between September 30 and June 30, 2026, 11:59 PM ET.\n\nThis market will resolve to \"No meeting by June 30\" if no qualifying meeting occurs during this market's timeframe.\n\nA meeting is defined as any encounter where Putin and Trump are all present and interact with each other in person.\n\nAn exchange of words, handshake, direct conversation, or other clear personal interaction between the named individuals will qualify as a meeting. Merely standing in proximity, making eye contact, or being present in the same room or event without direct interaction will not qualify.\n\nFor this market, Gulf states are defined as the six members of the Gulf Cooperation Council (Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, United Arab Emirates).\n\nThe primary resolution source for this market will be a consensus of credible reporting.",
+  "event_title": "Where will Trump and Putin meet next?",
+  "event_tags": [
+    "Politics",
+    "Trump",
+    "Geopolitics",
+    "russia",
+    "Ukraine",
+    "World",
+    "putin",
+    "Trump Presidency"
+  ],
+  "volume_total": 723631.2406180003,
+  "created_at": "2025-09-30T19:39:11.767928Z",
+  "end_date": "2026-06-30T00:00:00Z",
+  "num_spikes": 7,
+  "max_spike": 0.41350000000000003,
+  "total_tokens": 21345,
+  "total_articles": 35
+}

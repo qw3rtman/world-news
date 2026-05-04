@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the US-Israeli military operation against Iran that began in late February 2026, which Iranian leader was killed in the initial joint strikes, and what did US President Donald Trump state regarding the status of potential Iranian successors to that leader?",
+    "a": "Supreme Leader Ayatollah Ali Khamenei was killed; Trump stated that potential candidates to take over were killed in the strikes."
+  },
+  {
+    "q": "Following the death of Ayatollah Ali Khamenei in the March 2026 US-Israeli operation, which militant group claimed responsibility for launching missiles into Israel in revenge, and what was Israel's stated military response in Lebanon?",
+    "a": "Hezbollah claimed responsibility; Israel vowed to increase and intensify strikes on Lebanon and reinforced troop deployments along the border."
+  },
+  {
+    "q": "According to Pentagon briefers acknowledging information to congressional staff in early March 2026, what was Iran's actual stance on striking US forces compared to the White House's public justification for the war?",
+    "a": "Iran was not planning to strike US forces unless Israel attacked first, which undercut the administration's claim of an imminent threat."
+  },
+  {
+    "q": "In March 2026, which two countries did US President Donald Trump's military actions against Venezuela and Iran significantly impact by threatening their oil supplies to China?",
+    "a": "Venezuela and Iran."
+  },
+  {
+    "q": "Based on data from Kpler and Columbia University’s Center on Global Energy Policy cited in March 2026, what percentage of China’s oil imports was accounted for by the combined crude supplies of Venezuela and Iran?",
+    "a": "About 15%."
+  },
+  {
+    "q": "How did China’s Foreign Minister Wang Yi respond to the US-Israeli attack on Iran in March 2026, and what specific economic concern did analysts like Rob Thummel highlight regarding China's vulnerability?",
+    "a": "Wang Yi called the attack 'unacceptable' and condemned the killing of a sovereign leader; Thummel highlighted that China produces far less oil than it consumes and relies on imports."
+  },
+  {
+    "q": "What threat did Iran’s semi-official Mehr News Agency report regarding a tanker in the Strait of Hormuz in March 2026, and what potential global consequence did analysts warn would result from closing this waterway?",
+    "a": "A tanker struck after an 'unauthorized passage' was sinking; analysts warned closing the Strait would trigger a significant global energy crisis."
+  },
+  {
+    "q": "In a letter to the United Nations in March 2026, how did Iran’s Minister of Foreign Affairs Abbas Araghchi characterize the US and Israel’s military operation, and which UN Charter article did he cite to defend Iran's right to respond?",
+    "a": "He called it a 'violation' of international law; he cited Article 51 of the United Nations Charter."
+  },
+  {
+    "q": "Who is Ali Larijani, and what specific claim did he make on social media in March 2026 regarding Iran's intentions toward the United States at the start of the conflict?",
+    "a": "He is Iran’s top national security official and secretary of the Supreme National Security Council; he stated Iran 'will not negotiate with the United States' and did not initiate the invasion."
+  },
+  {
+    "q": "To which news outlet did US President Donald Trump attribute the killing of Ayatollah Ali Khamenei, and what prior 2024 Justice Department action did he reference to justify his actions?",
+    "a": "He spoke to ABC News; he referenced federal charges announced in 2024 regarding a thwarted plot to assassinate him."
+  },
+  {
+    "q": "Which three cities in the Gulf region were reported by CNN teams in March 2026 to have experienced explosions or missile interceptions during Iran's retaliatory strikes?",
+    "a": "Dubai, Abu Dhabi, and Doha."
+  },
+  {
+    "q": "What specific action did the United Arab Emirates take in March 2026 to assist travelers stranded due to airport damage and flight cancellations caused by Iranian strikes?",
+    "a": "The UAE’s Department of Culture and Tourism announced it would cover the food and accommodation costs for tens of thousands of stranded travelers."
+  },
+  {
+    "q": "How many travelers were affected by flight cancellations at UAE airports following the March 2026 strikes, and which two specific airports suffered damage?",
+    "a": "More than 20,000 travelers were affected; Dubai International Airport and Abu Dhabi’s Zayed International Airport suffered damage."
+  },
+  {
+    "q": "What did Kuwaiti state media report regarding air defense interceptions of hostile drones in early March 2026, and were there any casualties reported?",
+    "a": "Kuwaiti Air Defense forces shot down the majority of drones approaching via maritime routes; there were no casualties reported."
+  },
+  {
+    "q": "Which Southeast Asian country announced in March 2026 that it was readying military or charter flights to evacuate approximately 110,000 of its citizens from the Middle East?",
+    "a": "Thailand."
+  },
+  {
+    "q": "Through which country did Pakistan state it was facilitating the safe return of its nationals stranded in the Middle East in March 2026?",
+    "a": "Azerbaijan."
+  },
+  {
+    "q": "What precautionary measure was Japan’s cabinet secretary Minoru Kihara preparing for regarding Japanese nationals in March 2026, and what broader demographic issue did the article highlight regarding migrant workers in the region?",
+    "a": "Japan was preparing for the possibility of evacuating nationals by land; the article highlighted that millions of migrant workers from South and Southeast Asia live in Gulf states, Israel, and Jordan."
+  },
+  {
+    "q": "Which hospital in Tehran was reported by Iranian state media and witnesses to be badly damaged by Israeli strikes in March 2026, and what was the World Health Organization Director-General's response?",
+    "a": "Gandhi Hospital; WHO Director-General Tedros Ghebreyesus said the reports were 'extremely worrying' and noted health facilities are protected under international humanitarian law."
+  },
+  {
+    "q": "In addition to Tehran, which other Iranian city reported multiple explosions in early March 2026 according to state media?",
+    "a": "Karaj."
+  },
+  {
+    "q": "What evacuation orders did the Israel Defense Forces issue in Lebanon in March 2026, and how many settlements were included in these orders?",
+    "a": "The IDF ordered evacuations across 52 settlements in the south of Lebanon."
+  },
+  {
+    "q": "Which Lebanese city's schools were reported to be opening their doors to evacuees in March 2026 following Israeli military orders?",
+    "a": "Beirut."
+  },
+  {
+    "q": "Who is Maj. Gen. Rafi Milo, and what specific military action did he describe as being launched shortly after Hezbollah’s rocket fire in March 2026?",
+    "a": "He is Israel’s Northern Command chief; he described launching a first broad wave of strikes in Beirut and southern Lebanon targeting senior operatives and infrastructure."
+  },
+  {
+    "q": "What did US President Donald Trump claim about the success of the Saturday strikes in March 2026 regarding Iran's leadership transition candidates?",
+    "a": "Trump claimed the attack was so successful it knocked out most of the identified candidates, stating 'Second or third place is dead.'"
+  },
+  {
+    "q": "Which two major airlines' customer service offices were shown with stranded passengers in Bali, Indonesia, in March 2026 due to flight cancellations?",
+    "a": "Emirates Airways."
+  },
+  {
+    "q": "What did the Israeli military say it targeted in its strikes on Beirut and southern Lebanon in March 2026, according to Maj. Gen. Rafi Milo?",
+    "a": "Senior operatives, headquarters, and terrorist infrastructure."
+  }
+]

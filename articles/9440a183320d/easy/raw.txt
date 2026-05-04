@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the article published on March 18, 2026, by Sabine Sterk in The Times of Israel, which seven specific geographic or conceptual locations are listed as the conventional \"fronts\" of Israel's conflict?",
+    "a": "Gaza, Lebanon, Iran, Syria, Iraq, Yemen, and the information war."
+  },
+  {
+    "q": "According to the March 18, 2026, article by Sabine Sterk, what specific violent incidents are cited to challenge the notion that threats to Jews are limited to traditional battlefields, including one in Sydney, one in the United States, and one in Amsterdam?",
+    "a": "The attack on Bondi Beach in Sydney, the explosion at a synagogue in the United States, and the hunting of Jews in the streets of Amsterdam after a football match."
+  },
+  {
+    "q": "In the March 18, 2026, article by Sabine Sterk, which three major European cities are listed alongside Paris, Toulouse, and Nice as locations where Jews have been attacked or threatened?",
+    "a": "Brussels, Antwerp, and Berlin."
+  },
+  {
+    "q": "According to the article published on March 18, 2026, by Sabine Sterk, which two converging forces does Israel confront at the core of its conflict, beyond traditional military fronts?",
+    "a": "The ancient hatred of antisemitism and a modern form of militant expansionism rooted in extremist Islamic interpretations."
+  },
+  {
+    "q": "In the March 18, 2026, article by Sabine Sterk, which specific North American cities are listed as locations where Jewish life has been threatened or targeted, alongside Buenos Aires and São Paulo?",
+    "a": "New York City, Los Angeles, Pittsburgh, San Diego, Miami, Toronto, and Montreal."
+  },
+  {
+    "q": "According to the article published on March 18, 2026, by Sabine Sterk, which Middle Eastern and North African cities are listed as sites of threats to Jewish life, including Jerusalem, Tel Aviv, and Haifa?",
+    "a": "Beersheba, Eilat, Istanbul, Moscow, Kyiv, Budapest, Prague, Warsaw, Rome, Milan, Madrid, Barcelona, Athens, Casablanca, Tunis, and Cairo."
+  },
+  {
+    "q": "In the March 18, 2026, article by Sabine Sterk, which Asian and Oceanian cities are cited as locations where Jews have been attacked or Israeli targets singled out, including Mumbai and Delhi?",
+    "a": "Bangkok, Jakarta, Manila, Sydney, and Melbourne."
+  },
+  {
+    "q": "According to the article published on March 18, 2026, by Sabine Sterk, which specific European cities are listed as locations of threats to Jewish life, including Halle, Munich, and Frankfurt?",
+    "a": "Copenhagen, Stockholm, Gothenburg, Oslo, Vienna, and Zurich."
+  },
+  {
+    "q": "In the March 18, 2026, article by Sabine Sterk, what specific actions does Hamas continue to launch from Gaza as part of Israel's traditional mult-front conflict?",
+    "a": "A relentless campaign of rockets, tunnels, and terror."
+  },
+  {
+    "q": "According to the article published on March 18, 2026, by Sabine Sterk, which organization stands armed with an arsenal capable of devastating Israel’s cities from Lebanon?",
+    "a": "Hezbollah."
+  },
+  {
+    "q": "In the March 18, 2026, article by Sabine Sterk, what role does Iran play in the conflict, sitting at the center of orchestrating, funding, and arming forces while developing its own direct capabilities?",
+    "a": "Iran directs and finances terror across the region and sits at the center of orchestrating, funding, and arming these forces."
+  },
+  {
+    "q": "According to the article published on March 18, 2026, by Sabine Sterk, which militias entrench themselves near Israel’s borders in Syria with Iranian backing?",
+    "a": "Iranian-backed militias."
+  },
+  {
+    "q": "In the March 18, 2026, article by Sabine Sterk, which group extends the reach of the network in Iraq through Shia militias?",
+    "a": "Shia militias."
+  },
+  {
+    "q": "According to the article published on March 18, 2026, by Sabine Sterk, what specific weapons do Houthi forces launch from Yemen across vast distances?",
+    "a": "Missiles and drones."
+  },
+  {
+    "q": "In the March 18, 2026, article by Sabine Sterk, what is described as the seventh front and the most insidious of all, where facts are distorted and Israel is systematically reframed as the aggressor?",
+    "a": "The information war."
+  },
+  {
+    "q": "According to the article published on March 18, 2026, by Sabine Sterk, what three entities amplify falsehoods, abandon rigor for narrative, or reward simplification over truth in the information war?",
+    "a": "Social media, traditional media, and political arenas."
+  },
+  {
+    "q": "In the March 18, 2026, article by Sabine Sterk, what specific act of violence is linked to a drone launched by an Iranian proxy to illustrate the connection between global threats and local harassment?",
+    "a": "A Molotov cocktail thrown at a synagogue in Europe."
+  },
+  {
+    "q": "According to the article published on March 18, 2026, by Sabine Sterk, what specific form of harassment is cited as being linked to a drone launched by an Iranian proxy?",
+    "a": "A Jewish student being harassed on a Western campus."
+  },
+  {
+    "q": "In the March 18, 2026, article by Sabine Sterk, what specific consequence does the author claim results from silence in a world where lies spread unchecked and violence follows?",
+    "a": "Silence is complicity."
+  },
+  {
+    "q": "According to the article published on March 18, 2026, by Sabine Sterk, what two specific actions does the author urge the reader to take in the concluding statement?",
+    "a": "Stop the hate and stop the distortion."
+  },
+  {
+    "q": "In the March 18, 2026, article by Sabine Sterk, which two cities in South Africa are listed as locations where Jewish life has been threatened or targeted?",
+    "a": "Johannesburg and Cape Town."
+  },
+  {
+    "q": "According to the article published on March 18, 2026, by Sabine Sterk, what specific type of war is described as slower, more complex, and often feeling almost impossible compared to fighting tanks and rockets?",
+    "a": "Fighting disinformation."
+  },
+  {
+    "q": "In the March 18, 2026, article by Sabine Sterk, which specific city in Mexico is listed as a location where Jewish life has been threatened or targeted?",
+    "a": "Mexico City."
+  },
+  {
+    "q": "According to the article published on March 18, 2026, by Sabine Sterk, what specific phenomenon transforms political disagreement into dehumanization and blurs the line between opposition to Israel and hostility toward Jews?",
+    "a": "The converging forces of antisemitism and extremist Islamic interpretations."
+  },
+  {
+    "q": "In the March 18, 2026, article by Sabine Sterk, which specific city in Brazil is listed as a location where Jewish life has been threatened or targeted?",
+    "a": "São Paulo."
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "hash": "9c7e545adfb3",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.al-monitor.com/originals/2026/03/analysis-trump-presses-ahead-iran-war-despite-warnings-political-risk-midterms",
+      "title": "Analysis-Trump presses ahead with Iran war despite warnings of political risk for midterms - AL-Monitor: The Middle Eastʼs leading independent since 2012",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1311,
+      "text_length": 6834
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1385895",
+      "spike_id": 3,
+      "market_question": "Will the US next strike Iran during the week of March 1-7, 2026 (ET)?",
+      "event_title": "When will the US next strike Iran? (Week)",
+      "spike_direction": "down",
+      "spike_delta": -0.429,
+      "spike_timestamp_before": "2026-02-27T23:30:38+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:17+00:00"
+    },
+    {
+      "market_id": "1385895",
+      "spike_id": 4,
+      "market_question": "Will the US next strike Iran during the week of March 1-7, 2026 (ET)?",
+      "event_title": "When will the US next strike Iran? (Week)",
+      "spike_direction": "down",
+      "spike_delta": -0.4295,
+      "spike_timestamp_before": "2026-02-27T23:30:38+00:00",
+      "spike_timestamp_after": "2026-02-28T13:00:37+00:00"
+    },
+    {
+      "market_id": "1465968",
+      "spike_id": 1,
+      "market_question": "Will US or Israel strike Iran on March 3, 2026?",
+      "event_title": "US/Israel strikes Iran on...?",
+      "spike_direction": "up",
+      "spike_delta": 0.21999999999999997,
+      "spike_timestamp_before": "2026-02-28T14:30:31+00:00",
+      "spike_timestamp_after": "2026-02-28T17:30:32+00:00"
+    },
+    {
+      "market_id": "1465968",
+      "spike_id": 2,
+      "market_question": "Will US or Israel strike Iran on March 3, 2026?",
+      "event_title": "US/Israel strikes Iran on...?",
+      "spike_direction": "up",
+      "spike_delta": 0.235,
+      "spike_timestamp_before": "2026-02-28T14:30:31+00:00",
+      "spike_timestamp_after": "2026-02-28T19:30:32+00:00"
+    }
+  ]
+}

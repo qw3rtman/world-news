@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2026, which two high-ranking officials from the United States and China are expected to convene in Paris to discuss business deals ahead of a presidential summit?",
+    "a": "US Treasury Secretary Scott Bessent and China’s Vice-Premier He Lifeng."
+  },
+  {
+    "q": "What specific date range did US President Donald Trump announce for his travel to China to meet with Chinese President Xi Jinping in 2026?",
+    "a": "Between March 31 and April 2, 2026."
+  },
+  {
+    "q": "Which Supreme Court decision in early 2026 complicated US trade strategy by striking down US fentanyl tariffs, prompting the need for new negotiations between US and Chinese officials?",
+    "a": "The Supreme Court struck down US fentanyl tariffs."
+  },
+  {
+    "q": "In January 2026, what action taken by the Trump administration against Venezuelan leader Nicolas Maduro did Chinese Foreign Minister Wang Yi condemn?",
+    "a": "The US snatched Nicolas Maduro from his Caracas home."
+  },
+  {
+    "q": "Which US official, alongside US Treasury Secretary Scott Bessent, is expected to attend the mid-March 2026 meeting with China’s Vice-Premier He Lifeng in Paris?",
+    "a": "US Trade Representative Jamieson Greer."
+  },
+  {
+    "q": "What geopolitical event involving the killing of Iranian Supreme Leader Ayatollah Ali Khamenei stoked tensions between Washington and Beijing in early 2026?",
+    "a": "US strikes on Iran."
+  },
+  {
+    "q": "During his 2017 trip to China, what specific private tour was US President Donald Trump granted in Beijing?",
+    "a": "A private tour of Beijing’s Forbidden City."
+  },
+  {
+    "q": "In which Swiss city did US Trade Representative Jamieson Greer and other negotiators hold informal talks on the sidelines of the World Economic Forum earlier in 2026?",
+    "a": "Davos."
+  },
+  {
+    "q": "Which Chinese political event in 2026 coincided with the turmoil in the Middle East, during which officials unveiled the economic growth goal for that year?",
+    "a": "One of China’s most important political weeks."
+  },
+  {
+    "q": "What potential Chinese purchase of US-made aircraft was listed as a possible issue to be addressed in the March 2026 trade negotiations between Scott Bessent and He Lifeng?",
+    "a": "A possible Chinese purchase of Boeing Co planes."
+  },
+  {
+    "q": "Which previous cities hosted follow-on sessions of bilateral negotiations between US and Chinese officials that were launched in Geneva in May 2025?",
+    "a": "London, Stockholm, Madrid, and Kuala Lumpur."
+  },
+  {
+    "q": "What commitment regarding agricultural products was mentioned as a potential topic for discussion in the March 2026 meetings between US and Chinese trade chiefs?",
+    "a": "Commitments to buy US soybeans."
+  },
+  {
+    "q": "Who called the US killing of Iranian Supreme Leader Ayatollah Ali Khamenei \"unacceptable to openly kill the leader of a sovereign country and institute regime change\" in early 2026?",
+    "a": "Chinese Foreign Minister Wang Yi."
+  },
+  {
+    "q": "Which two US government entities did not reply to requests for comment regarding the planned mid-March 2026 trade negotiations in Paris?",
+    "a": "The US Treasury and the Chinese Ministry of Commerce."
+  },
+  {
+    "q": "What was the outcome of the series of bilateral negotiations between US Trade Representative Jamieson Greer, US Treasury Secretary Scott Bessent, and China’s Vice-Premier He Lifeng that began in Geneva in May 2025?",
+    "a": "A truce under which Washington and Beijing lowered tariffs and export restrictions."
+  },
+  {
+    "q": "How many weeks did US and Chinese officials have to finalize business deals and logistical arrangements before US President Donald Trump’s scheduled March 31 to April 2, 2026, summit with Chinese President Xi Jinping?",
+    "a": "About two weeks."
+  },
+  {
+    "q": "Which self-ruled island, viewed by China as its own territory, was mentioned as a potential topic for discussion in the March 2026 US-China trade negotiations?",
+    "a": "Taiwan."
+  },
+  {
+    "q": "What did US Trade Representative Jamieson Greer say in January 2026 regarding the potential for moving past sensitive issues like technology competition before the Trump-Xi summit?",
+    "a": "The two sides could try to move past highly sensitive issues and reach an agreement on trade in non-sensitive sectors."
+  },
+  {
+    "q": "Which US president’s visit to China in 2017 is referenced as the last such trip by an American president before Donald Trump’s scheduled 2026 visit?",
+    "a": "Donald Trump’s 2017 visit."
+  },
+  {
+    "q": "What did US President Donald Trump say in January 2026 about how he expected Chinese President Xi Jinping to treat him during the upcoming 2026 summit?",
+    "a": "He looked forward to Mr Xi putting on the “biggest display you’ve ever had in the history of China” and noted Mr Xi treated him “so well” during the 2017 trip."
+  },
+  {
+    "q": "Which organization’s Catalyst Technologies unit was not mentioned in the article, but which entity's acquisition was not part of the March 2026 trade talks?",
+    "a": "This question is invalid as it references external knowledge; the article mentions no such acquisition."
+  },
+  {
+    "q": "What specific type of trade levies did US President Donald Trump have to pursue in more restrictive and complicated means after the Supreme Court struck down his global tariff strategy in early 2026?",
+    "a": "Trade levies."
+  },
+  {
+    "q": "Which two countries' trade negotiators were keeping their March 2026 economic talks separate from other geopolitical aspects of their relationship, according to a person familiar with the matter?",
+    "a": "The United States and China."
+  },
+  {
+    "q": "What was the primary purpose of the mid-March 2026 meeting between US Treasury Secretary Scott Bessent and China’s Vice-Premier He Lifeng in Paris?",
+    "a": "To discuss business deals that could stem from the leaders’ meeting between US President Donald Trump and Chinese President Xi Jinping."
+  },
+  {
+    "q": "Which Iranian leader's killing by US strikes in early 2026 was cited by China as a reason for complicating summit preparations between President Xi Jinping and President Donald Trump?",
+    "a": "Iranian Supreme Leader Ayatollah Ali Khamenei."
+  }
+]

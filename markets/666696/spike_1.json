@@ -1,0 +1,65 @@
+{
+  "spike_index": 1,
+  "direction": "up",
+  "price_before": 0.505,
+  "price_after": 0.755,
+  "delta": 0.25,
+  "abs_delta": 0.25,
+  "timestamp_before": "2026-02-26T15:00:38+00:00",
+  "timestamp_after": "2026-02-27T15:00:38+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.pbs.org/newshour/world/live-updates-u-s-and-israel-attack-iran",
+      "file": "53fcf5707732.txt",
+      "title": "Live Updates: U.S. and Israel attack Iran | PBS News",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 50197,
+      "status": "ok",
+      "num_tokens": 9898
+    },
+    {
+      "url": "https://foreignpolicy.com/2026/02/28/us-israel-strike-iran-trump-nuclear-program-missiles/?tpcc=email_alerts",
+      "file": "8e275c02f9fd.txt",
+      "title": "U.S., Israel Begin 'Major Combat Operations' in Iran as Trump Calls for Regime Change",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Jennifer Williams, Rishi Iyengar, John Haltiwanger",
+      "text_length": 6237,
+      "status": "ok",
+      "num_tokens": 1330
+    },
+    {
+      "url": "https://www.npr.org/2026/02/28/nx-s1-5730352/world-leaders-reaction-operation-epic-fury",
+      "file": "417cbe622ce9.txt",
+      "title": "Here\u2019s how world leaders are reacting to operation 'Epic Fury' : NPR",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "By\u00a0                 \n   \n       \n      NPR's International Desk",
+      "text_length": 6545,
+      "status": "ok",
+      "num_tokens": 1303
+    },
+    {
+      "url": "https://apnews.com/live/live-updates-israel-iran-february-28-2026",
+      "file": "44a3349f9b6b.txt",
+      "title": "Iranian Supreme Leader is dead, Trump says | AP News",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 23742,
+      "status": "ok",
+      "num_tokens": 4924
+    },
+    {
+      "url": "https://thin.npr.org/2026/02/28/1123499337/iran-israel-ayatollah-ali-khamenei-killed",
+      "file": "5277233dbd60.txt",
+      "title": "Iran's Ayatollah Ali Khamenei is killed in Israeli strike, ending 36-year iron rule",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 8465,
+      "status": "ok",
+      "num_tokens": 1866
+    }
+  ],
+  "total_tokens": 19321
+}

@@ -1,0 +1,37 @@
+{
+  "hash": "ae75b10eb25f",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://sph.straitstimes.com/world/middle-east/son-of-irans-late-shah-says-final-victory-near",
+      "title": "Son of Iran’s late shah says ‘final victory’ near | The Straits Times",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 339,
+      "text_length": 1585
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1090199",
+      "spike_id": 1,
+      "market_question": "Will Reza Pahlavi enter Iran by June 30?",
+      "event_title": "Will Reza Pahlavi enter Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.255,
+      "spike_timestamp_before": "2026-02-27T10:00:25+00:00",
+      "spike_timestamp_after": "2026-02-28T09:30:27+00:00"
+    },
+    {
+      "market_id": "1090199",
+      "spike_id": 2,
+      "market_question": "Will Reza Pahlavi enter Iran by June 30?",
+      "event_title": "Will Reza Pahlavi enter Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.28,
+      "spike_timestamp_before": "2026-02-27T22:30:28+00:00",
+      "spike_timestamp_after": "2026-02-28T22:30:27+00:00"
+    }
+  ]
+}

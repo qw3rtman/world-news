@@ -1,0 +1,27 @@
+{
+  "hash": "47b91493dab6",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://on.theverge.com/streaming/889973/netflix-ben-affleck-interpositive-ai",
+      "title": "Netflix is buying Ben Affleck’s AI startup | The Verge",
+      "published_date": "2026-03-05T00:00:00.000Z",
+      "author": "Charles Pulliam-Moore",
+      "num_tokens": 658,
+      "text_length": 3225
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694936",
+      "spike_id": 1,
+      "market_question": "Will Nebius Group be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.19999999999999998,
+      "spike_timestamp_before": "2026-03-07T20:00:22+00:00",
+      "spike_timestamp_after": "2026-03-08T14:00:22+00:00"
+    }
+  ]
+}

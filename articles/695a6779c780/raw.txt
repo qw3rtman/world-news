@@ -1,0 +1,383 @@
+Cetuximab co-treatment with KRAS G12C inhibitors fulzerasib and sotorasib in human KRAS G12C non-small cell lung cancer cells | Cell Death Discovery
+
+Download PDF
+
+### Subjects
+
+- Non-small-cell lung cancer
+- Tumour biomarkers
+
+## Abstract
+
+Resistance to KRAS G12C inhibitors is a major cause of poor prognosis in non-small cell lung cancer (NSCLC). Sotorasib and fulzerasib target the KRAS protein in the guanosine diphosphate (GDP)-bound inactive state. Used in monotherapy in non-small cell lung cancer (NSCLC) patients, these drugs yielded response rates of 41% and 49% and median progression-free survival of 6.3 and 9.7 months, respectively. Mounting evidence points out that feedback activation of epidermal growth factor receptor (EGFR) inhibits the hydrolysis of KRAS guanosine triphosphate (GTP)-bound active state and reactivates RAS-mitogen-activated protein kinase (MAPK) signaling, leading to drug resistance. Here, we demonstrated that cetuximab enhanced the antitumor growth effect of fulzerasib in vitro in H358 cells and prolonged the survival of mice bearing subcutaneous H358 xenografts. Moreover, we demonstrated that cotreatment suppressed the expression of ERK, AKT, as well as MRAS and YAP1. Additionally, the combination of fulzerasib with cetuximab also abolished the viability of H358 cells, being less effective for H23 and H2030 cells. This effect was accompanied by YAP1 and MRAS overexpression, especially in H2030 cells. Ultimately, we demonstrated that MIG6, a feedback negative regulator of EGFR, is suppressed in the three cell lines starting at the 24-h time point with fulzerasib or sotorasib. Concurrently, ASS1, initially low in all three cell lines, was upregulated following therapy with fulzerasib or sotorasib, with or without cetuximab. These alterations were associated with increased fumarate levels in all three cell lines examined. Notably, the cotreatment response of H358 cells mirrors clinical trials with KRAS G12C colorectal cancer and NSCLC patients, where the combination of cetuximab with KRAS G12C inhibitors resulted in increased response and progression-free survival. Our findings provide insight into further tailoring EGFR inhibitor cotreatment in KRAS G12C NSCLC patients.
+
+### Divarasib plus cetuximab in KRAS G12C-positive colorectal cancer: a phase 1b trial
+
+### Evolution of acquired resistance in a ROS1+ KRAS G12C+ NSCLC through the MAPK pathway
+
+### Farnesyl-transferase inhibitors show synergistic anticancer effects in combination with novel KRAS-G12C inhibitors
+
+## Data availability
+
+The datasets analyzed during the current study are available from the corresponding author on reasonable request. All relevant data supporting the findings of this study are included within the article and its Supplementary Information files.
+
+## References
+
+Adachi Y, Ito K, Hayashi Y, Kimura R, Tan TZ, Yamaguchi R, et al. Epithelial-to-mesenchymal transition is a cause of both intrinsic and acquired resistance to the KRAS G12C inhibitor in KRAS G12C-mutant non-small cell lung cancer. Clin Cancer Res. 2020;26:5962–73.
+
+Google Scholar
+
+Mitsudomi T, Steinberg SM, Oie HK, Mulshine JL, Phelps R, Viallet J, et al. Ras gene mutations in non-small cell lung cancers are associated with shortened survival irrespective of treatment intent. Cancer Res. 1991;51:4999–5002.
+
+Google Scholar
+
+Gray JE, Hsu H, Younan D, Suri G, Chia V, Spira A, et al. Real-world outcomes in patients with KRAS G12C-mutated advanced non-small cell lung cancer treated with docetaxel in second-line or beyond. Lung Cancer. 2023;181:107260.
+
+Google Scholar
+
+Skoulidis F, Li BT, Dy GK, Price TJ, Falchook GS, Wolf J, et al. Sotorasib for lung cancers with KRAS p.G12C mutation. N Engl J Med. 2021;384:2371–81.
+
+Google Scholar
+
+de Langen AJ, Johnson ML, Mazieres J, Dingemans AC, Mountzios G, Pless M, et al. Sotorasib versus docetaxel for previously treated non-small-cell lung cancer with KRAS(G12C) mutation: a randomised, open-label, phase 3 trial. Lancet. 2023;401:733–46.
+
+Google Scholar
+
+Zhou Q, Meng X, Sun L, Huang D, Yang N, Yu Y, et al. Efficacy and safety of KRASG12C inhibitor IBI351 monotherapy in patients with advanced NSCLC: results from a phase 2 pivotal study. J Thorac Oncol. 2024;19:1630–9.
+
+Google Scholar
+
+Jänne PA, Riely GJ, Gadgeel SM, Heist RS, Ou SI, Pacheco JM, et al. Adagrasib in non-small-cell lung cancer harboring a KRAS(G12C) mutation. N Engl J Med. 2022;387:120–31.
+
+Google Scholar
+
+Patricelli MP, Janes MR, Li LS, Hansen R, Peters U, Kessler LV, et al. Selective inhibition of oncogenic KRAS output with small molecules targeting the inactive state. Cancer Discov. 2016;6:316–29.
+
+Google Scholar
+
+Lito P, Solomon M, Li LS, Hansen R, Rosen N. Allele-specific inhibitors inactivate mutant KRAS G12C by a trapping mechanism. Science. 2016;351:604–8.
+
+Google Scholar
+
+Amodio V, Yaeger R, Arcella P, Cancelliere C, Lamba S, Lorenzato A, et al. EGFR blockade reverts resistance to KRAS(G12C) inhibition in colorectal cancer. Cancer Discov. 2020;10:1129–39.
+
+Google Scholar
+
+Pirker R, Pereira JR, Szczesna A, von Pawel J, Krzakowski M, Ramlau R, et al. Cetuximab plus chemotherapy in patients with advanced non-small-cell lung cancer (FLEX): an open-label randomised phase III trial. Lancet. 2009;373:1525–31.
+
+Google Scholar
+
+Majem M, Gregorc V, Lo Russo G, Shan Y, Zhu H, Rosell R, et al. First-line (1L) fulzerasib (FUL) + cetuximab (CETU) in KRAS G12Cm advanced NSCLC: updated results from the KROCUS study. J Thoracic Oncol. 2025;20:20.
+
+Google Scholar
+
+Simanshu DK, Nissley DV, McCormick F. RAS proteins and their regulators in human disease. Cell. 2017;170:17–33.
+
+Google Scholar
+
+Kwon JJ, Hajian B, Bian Y, Young LC, Amor AJ, Fuller JR, et al. Structure-function analysis of the SHOC2-MRAS-PP1C holophosphatase complex. Nature. 2022;609:408–15.
+
+Google Scholar
+
+Adachi Y, Kimura R, Hirade K, Yanase S, Nishioka Y, Kasuga N, et al. Scribble mis-localization induces adaptive resistance to KRAS G12C inhibitors through feedback activation of MAPK signaling mediated by YAP-induced MRAS. Nat Cancer. 2023;4:829–43.
+
+Google Scholar
+
+Zhang X, Pickin KA, Bose R, Jura N, Cole PA, Kuriyan J. Inhibition of the EGF receptor by binding of MIG6 to an activating kinase domain interface. Nature. 2007;450:741–4.
+
+Google Scholar
+
+Chen N, Tyler LC, Le AT, Welsh EA, Fang B, Elliott A, et al. MIG6 mediates adaptive and acquired resistance to ALK/ROS1 fusion kinase inhibition through EGFR bypass signaling. Mol Cancer Ther. 2024;23:92–105.
+
+Google Scholar
+
+Kitai H, Ebi H, Tomida S, Floros KV, Kotani H, Adachi Y, et al. Epithelial-to-mesenchymal transition defines feedback activation of receptor tyrosine kinase signaling induced by MEK inhibition in KRAS-mutant Lung cancer. Cancer Discov. 2016;6:754–69.
+
+Google Scholar
+
+Frosi Y, Anastasi S, Ballarò C, Varsano G, Castellani L, Maspero E, et al. A two-tiered mechanism of EGFR inhibition by RALT/MIG6 via kinase suppression and receptor degradation. J Cell Biol. 2010;189:557–71.
+
+Google Scholar
+
+Chen Z, Cheng K, Walton Z, Wang Y, Ebi H, Shimamura T, et al. A murine lung cancer co-clinical trial identifies genetic modifiers of therapeutic response. Nature. 2012;483:613–7.
+
+Google Scholar
+
+Miyamoto T, Lo PHY, Saichi N, Ueda K, Hirata M, Tanikawa C, et al. Argininosuccinate synthase 1 is an intrinsic Akt repressor transactivated by p53. Sci Adv. 2017;3:e1603204.
+
+Google Scholar
+
+Lim LQJ, Adler L, Hajaj E, Soria LR, Perry RB-T, Darzi N, et al. ASS1 metabolically contributes to the nuclear and cytosolic p53-mediated DNA damage response. Nat Metab. 2024;6:1294–309.
+
+Google Scholar
+
+Doubleday PF, Fornelli L, Ntai I, Kelleher NL. Oncogenic KRAS creates an aspartate metabolism signature in colorectal cancer cells. FEBS J. 2021;288:6683–99.
+
+Google Scholar
+
+García-Roman S, Garzón-Ibáñez M, Bertrán-Alamillo J, Jordana-Ariza N, Giménez-Capitán A, García-Peláez B, et al. Vaccine antibodies against a synthetic epidermal growth factor variant enhance the antitumor effects of inhibitors targeting the MAPK/ERK and PI3K/Akt pathways. Transl Oncol. 2024;40:101878.
+
+Google Scholar
+
+Maity TK, Venugopalan A, Linnoila I, Cultraro CM, Giannakou A, Nemati R, et al. Loss of MIG6 accelerates initiation and progression of mutant epidermal growth factor receptor-driven lung adenocarcinoma. Cancer Discov. 2015;5:534–49.
+
+Google Scholar
+
+Gai X, Liu Y, Lan X, Chen L, Yuan T, Xu J, et al. Oncogenic KRAS induces arginine auxotrophy and confers a therapeutic vulnerability to SLC7A1 inhibition in non-small cell lung cancer. Cancer Res. 2024;84:1963–77.
+
+Google Scholar
+
+Singhal A, Li BT, O’Reilly EM. Targeting KRAS in cancer. Nat Med. 2024;30:969–83.
+
+Google Scholar
+
+Hendriks LE, Kerr KM, Menis J, Mok TS, Nestlé U, Passaro A, et al. Oncogene-addicted metastatic non-small-cell lung cancer: ESMO clinical practice guideline for diagnosis, treatment and follow-up. Ann Oncol. 2023;34:339–57.
+
+Google Scholar
+
+Meyer ML, Fitzgerald BG, Paz-Ares L, Cappuzzo F, Jänne PA, Peters S, et al. New promises and challenges in the treatment of advanced non-small-cell lung cancer. Lancet. 2024;404:803–22.
+
+Google Scholar
+
+Ebright RY, Dilly J, Shaw AT, Aguirre AJ. Response and resistance to RAS inhibition in cancer. Cancer Discov. 2025;15:1325–49.
+
+Google Scholar
+
+Jiang T, Lin C, Le S, Zhang L, Liang T, Cai L, et al. Discovery of fulzerasib (GFH925) for the treatment of KRAS G12C-mutated solid tumors. J Med Chem. 2025;68:15386–402.
+
+Google Scholar
+
+Kruspig B, Monteverde T, Neidler S, Hock A, Kerr E, Nixon C, et al. The ERBB network facilitates KRAS-driven lung tumorigenesis. Sci Transl Med. 2018;10:1–11.
+
+Google Scholar
+
+Xue JY, Zhao Y, Aronowitz J, Mai TT, Vides A, Qeriqi B, et al. Rapid non-uniform adaptation to conformation-specific KRAS(G12C) inhibition. Nature. 2020;577:421–5.
+
+Google Scholar
+
+Young LC, Rodriguez-Viciana P. MRAS: a close but understudied member of the RAS family. Cold Spring Harb Perspect Med. 2018;8:1–10.
+
+Google Scholar
+
+Brannan JM, Dong W, Prudkin L, Behrens C, Lotan R, Bekele BN, et al. Expression of the receptor tyrosine kinase EphA2 is increased in smokers and predicts poor survival in non-small cell lung cancer. Clin Cancer Res. 2009;15:4423–30.
+
+Google Scholar
+
+Menges CW, McCance DJ. Constitutive activation of the Raf-MAPK pathway causes negative feedback inhibition of Ras-PI3K-AKT and cellular arrest through the EphA2 receptor. Oncogene. 2008;27:2934–40.
+
+Google Scholar
+
+Paraiso KH, Das Thakur M, Fang B, Koomen JM, Fedorenko IV, John JK, et al. Ligand-independent EPHA2 signaling drives the adoption of a targeted therapy-mediated metastatic melanoma phenotype. Cancer Discov. 2015;5:264–73.
+
+Google Scholar
+
+Gouw AM, Eberlin LS, Margulis K, Sullivan DK, Toal GG, Tong L, et al. Oncogene KRAS activates fatty acid synthase, resulting in specific ERK and lipid signatures associated with lung adenocarcinoma. Proc Natl Acad Sci USA. 2017;114:4300–5.
+
+Google Scholar
+
+Youngblood VM, Kim LC, Edwards DN, Hwang Y, Santapuram PR, Stirdivant SM, et al. The ephrin-A1/EPHA2 signaling axis regulates glutamine metabolism in HER2-positive breast cancer. Cancer Res. 2016;76:1825–36.
+
+Google Scholar
+
+Huang J, Tsang WY, Fang XN, Zhang Y, Luo J, Gong LQ, et al. FASN inhibition decreases MHC-I degradation and synergizes with PD-L1 checkpoint blockade in hepatocellular carcinoma. Cancer Res. 2024;84:855–71.
+
+Google Scholar
+
+Cuyàs E, Pedarra S, Verdura S, Pardo MA, Espin García R, Serrano-Hervás E, et al. Fatty acid synthase (FASN) is a tumor-cell-intrinsic metabolic checkpoint restricting T-cell immunity. Cell Death Discov. 2024;10:417.
+
+Google Scholar
+
+Edwards AC, Stalnecker CA, Jean Morales A, Taylor KE, Klomp JE, Klomp JA, et al. TEAD inhibition overcomes YAP1/TAZ-driven primary and acquired resistance to KRASG12C inhibitors. Cancer Res. 2023;83:4112–29.
+
+Google Scholar
+
+Feng J, Hu Z, Xia X, Liu X, Lian Z, Wang H, et al. Feedback activation of EGFR/wild-type RAS signaling axis limits KRAS(G12D) inhibitor efficacy in KRAS(G12D)-mutated colorectal cancer. Oncogene. 2023;42:1620–33.
+
+Google Scholar
+
+Download references
+
+## Acknowledgements
+
+We would like to thank GenFleet Therapeutics (Shanghai) for their kind support.
+
+## Funding
+
+This work was supported by generous funding from Julián Santamaría Valiño to the IOR Foundation.
+
+## Author information
+
+### Authors and Affiliations
+
+FIOR Group, Dexeus University Hospital, Barcelona, Spain
+
+Daniel Olmo-González & Rafael Rosell
+
+Department of Biochemistry and Molecular Biomedicine, University of Barcelona, Faculty of Biology, Barcelona, Spain
+
+Daniel Olmo-González & Ana Giménez-Capitán
+
+FIOR Group, FIGTP - Fundació Institut d’Investigació Germans Trias i Pujol, Badalona, Spain
+
+Mengxin Zhou, Jèssica González, Kevin València-Clua, Jordi Codony-Servat & Rafael Rosell
+
+Research Institute for Medicines (iMed.ULisboa), Faculty of Pharmacy, Universidade de Lisboa, Lisboa, Portugal
+
+Nuno G. Oliveira
+
+GenFleet Therapeutics (Shanghai) Inc., Shanghai, China
+
+Fusheng Zhou & Feng Yan
+
+Pangaea Oncology, Dexeus University Hospital, Barcelona, Spain
+
+Miguel Angel Molina-Vila, Jordi Bertrán-Alamillo & Ana Giménez-Capitán
+
+Instituto Oncológico Dr. Rosell-IOR, Dexeus University Hospital, Barcelona, Spain
+
+Rafael Rosell
+
+Authors
+
+Daniel Olmo-González
+
+View author publications
+
+Search author on: PubMed Google Scholar
+
+Mengxin Zhou
+
+View author publications
+
+Search author on: PubMed Google Scholar
+
+Nuno G. Oliveira
+
+View author publications
+
+Search author on: PubMed Google Scholar
+
+Fusheng Zhou
+
+View author publications
+
+Search author on: PubMed Google Scholar
+
+Feng Yan
+
+View author publications
+
+Search author on: PubMed Google Scholar
+
+Jèssica González
+
+View author publications
+
+Search author on: PubMed Google Scholar
+
+Kevin València-Clua
+
+View author publications
+
+Search author on: PubMed Google Scholar
+
+Miguel Angel Molina-Vila
+
+View author publications
+
+Search author on: PubMed Google Scholar
+
+Jordi Bertrán-Alamillo
+
+View author publications
+
+Search author on: PubMed Google Scholar
+
+Ana Giménez-Capitán
+
+View author publications
+
+Search author on: PubMed Google Scholar
+
+Jordi Codony-Servat
+
+View author publications
+
+Search author on: PubMed Google Scholar
+
+Rafael Rosell
+
+View author publications
+
+Search author on: PubMed Google Scholar
+
+### Contributions
+
+RR and JC performed study concept and design; DO, NGO, JC and RR performed development of methodology and writing, review and revision of the paper; FZ, FY, JG, KV, MAM, JB and AG provided acquisition, analysis and interpretation of data, and statistical analysis; DO and JC provided technical and material support. All authors have read and approved the final paper.
+
+### Corresponding author
+
+Correspondence to Rafael Rosell.
+
+## Ethics declarations
+
+### Competing interests
+
+The authors declare no competing interests.
+
+### Ethics statement
+
+All methods were performed in accordance with the relevant guidelines and regulations. All the procedures related to animal handling, care and treatment in the study were performed according to the guidelines approved by the Institutional Animal Care and Use Committee (IACUC) of Shanghai LIDE Biotech (Approval number: LDIACUC 010), following the guidance of the Association for Assessment and Accreditation of Laboratory Animal Care (AAALAC).
+
+## Additional information
+
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+## Supplementary information
+
+### Revised Supplementary information-Clean version (download DOCX )
+
+### Original data (download DOCX )
+
+## Rights and permissions
+
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+
+Reprints and permissions
+
+## About this article
+
+
+
+### Cite this article
+
+Olmo-González, D., Zhou, M., Oliveira, N.G. et al. Cetuximab co-treatment with KRAS G12C inhibitors fulzerasib and sotorasib in human KRAS G12C non-small cell lung cancer cells. Cell Death Discov. (2026). https://doi.org/10.1038/s41420-026-02998-z
+
+Download citation
+
+Received: 24 July 2025
+
+Revised: 26 January 2026
+
+Accepted: 24 February 2026
+
+Published: 05 March 2026
+
+DOI: https://doi.org/10.1038/s41420-026-02998-z
+
+## Search
+
+Search articles by subject, keyword or author
+
+Show results from All journals This journal
+
+Search
+
+Advanced search
+
+### Quick links
+
+- Explore articles by subject
+- Find a job
+- Guide to authors
+- Editorial policies

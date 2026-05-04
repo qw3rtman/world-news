@@ -1,0 +1,37 @@
+{
+  "hash": "c6bf47f6330c",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://beta.japantimes.co.jp/news/2026/03/11/world/israel-red-sea-houthis/",
+      "title": "Israel plans new foothold on the Red Sea to fight the Houthis - The Japan Times",
+      "published_date": "2026-03-11T00:00:00.000Z",
+      "author": "Simon Marks",
+      "num_tokens": 198,
+      "text_length": 1000
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1487679",
+      "spike_id": 13,
+      "market_question": "Houthi strike on Israel by March 15, 2026?",
+      "event_title": "Houthi strike on Israel by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.28,
+      "spike_timestamp_before": "2026-03-11T12:30:38+00:00",
+      "spike_timestamp_after": "2026-03-11T17:30:29+00:00"
+    },
+    {
+      "market_id": "1487679",
+      "spike_id": 14,
+      "market_question": "Houthi strike on Israel by March 15, 2026?",
+      "event_title": "Houthi strike on Israel by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.28,
+      "spike_timestamp_before": "2026-03-11T17:30:29+00:00",
+      "spike_timestamp_after": "2026-03-12T05:30:29+00:00"
+    }
+  ]
+}

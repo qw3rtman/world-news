@@ -1,0 +1,57 @@
+{
+  "hash": "58c2cc78c939",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2026/02/25/cnbc-china-connection-newsletter-trump-xi-meeting-beijing-two-sessions-npc-cppcc.html",
+      "title": "CNBC's The China Connection newsletter: What's at stake in the countdown to the Trump-Xi meeting",
+      "published_date": "2026-02-25T00:00:00.000Z",
+      "author": "Evelyn Cheng",
+      "num_tokens": 983,
+      "text_length": 4964
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "604490",
+      "spike_id": 5,
+      "market_question": "Will Trump visit China by March 31?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.1725,
+      "spike_timestamp_before": "2026-02-23T11:30:16+00:00",
+      "spike_timestamp_after": "2026-02-24T05:30:19+00:00"
+    },
+    {
+      "market_id": "604490",
+      "spike_id": 6,
+      "market_question": "Will Trump visit China by March 31?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.15749999999999997,
+      "spike_timestamp_before": "2026-02-24T05:30:19+00:00",
+      "spike_timestamp_after": "2026-02-24T09:30:17+00:00"
+    },
+    {
+      "market_id": "604490",
+      "spike_id": 7,
+      "market_question": "Will Trump visit China by March 31?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.16149999999999998,
+      "spike_timestamp_before": "2026-02-24T05:30:19+00:00",
+      "spike_timestamp_after": "2026-02-24T18:30:22+00:00"
+    },
+    {
+      "market_id": "604490",
+      "spike_id": 8,
+      "market_question": "Will Trump visit China by March 31?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.20999999999999996,
+      "spike_timestamp_before": "2026-02-24T05:30:19+00:00",
+      "spike_timestamp_after": "2026-02-24T22:30:18+00:00"
+    }
+  ]
+}

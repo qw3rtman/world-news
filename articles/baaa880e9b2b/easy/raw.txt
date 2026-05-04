@@ -1,0 +1,102 @@
+[
+  {
+    "q": "Following the U.S. and Israel's weekend attacks on Iran in early March 2026, how many U.S. aircraft departed from the Rota and Moron military bases in southern Spain, according to flight tracking data published on Monday, March 2, 2026?",
+    "a": "Fifteen U.S. aircraft."
+  },
+  {
+    "q": "Which Spanish official stated on March 2, 2026, that Spain would not allow its jointly operated military bases to be used for attacks on Iran, an action Spain has condemned?",
+    "a": "Spanish Foreign Minister Jose Manuel Albares."
+  },
+  {
+    "q": "According to FlightRadar24 data reported on March 2, 2026, at least seven of the departing U.S. aircraft from Spanish bases landed at which specific air base in Germany?",
+    "a": "Ramstein Air Base."
+  },
+  {
+    "q": "On Sunday, March 1, 2026, which British Prime Minister authorized the use of British bases for \"collective self-defence\" after initially refusing to allow their use for an attack on Iran?",
+    "a": "Prime Minister Keir Starmer."
+  },
+  {
+    "q": "Which Spanish Prime Minister, a Socialist, condemned the U.S.-Israeli actions in Iran in early March 2026, potentially straining Spain's relationship with Washington?",
+    "a": "Pedro Sanchez."
+  },
+  {
+    "q": "In a statement to Spanish broadcaster Telecinco on March 2, 2026, Spanish Foreign Minister Jose Manuel Albares declared that Spanish bases would not be used for operations not included in the agreement with which country?",
+    "a": "The United States."
+  },
+  {
+    "q": "Which Spanish Defence Minister, Margarita Robles, identified the departing U.S. aircraft from Spain in early March 2026 as primarily being aerial refuelling tankers?",
+    "a": "Margarita Robles."
+  },
+  {
+    "q": "According to Spanish Defence Minister Margarita Robles in early March 2026, what was the permanent status of the U.S. aircraft stationed in Spain?",
+    "a": "They were permanently stationed in Spain."
+  },
+  {
+    "q": "FlightRadar24 reported on March 2, 2026, that nine aerial refuelling tankers departed on Sunday from which specific airbase in southern Spain?",
+    "a": "The Moron airbase."
+  },
+  {
+    "q": "Which specific model of aerial refuelling tanker, identified by Spanish Defence Minister Margarita Robles, was among the U.S. aircraft departing Spain in early March 2026?",
+    "a": "The Boeing KC-135 \"Stratotanker\"."
+  },
+  {
+    "q": "According to FlightRadar24 data from March 2, 2026, two flights departing from Rota, a naval base with an airfield, headed towards which country?",
+    "a": "Southern France."
+  },
+  {
+    "q": "In early March 2026, Spain condemned attacks on Iran conducted by the U.S. and which other nation?",
+    "a": "Israel."
+  },
+  {
+    "q": "FlightRadar24 showed that four additional flights departed from Rota in early March 2026, but what specific detail about these flights was not shown?",
+    "a": "Their route."
+  },
+  {
+    "q": "Under whose sovereignty are the Rota and Moron military bases in southern Spain, which the U.S. and Spain jointly operate?",
+    "a": "Spanish sovereignty."
+  },
+  {
+    "q": "Spanish Foreign Minister Jose Manuel Albares stated on March 2, 2026, that bases would not be used for anything not in accordance with which international document?",
+    "a": "The Charter of the United Nations."
+  },
+  {
+    "q": "Which flight tracking website provided the maps and data showing the departure of fifteen U.S. aircraft from Spain on Monday, March 2, 2026?",
+    "a": "FlightRadar24."
+  },
+  {
+    "q": "Britain initially refused to allow its bases to be used for an attack on Iran, but on Sunday, March 1, 2026, Prime Minister Keir Starmer authorized their use for what specific purpose?",
+    "a": "Collective self-defence."
+  },
+  {
+    "q": "Which two military bases in southern Spain were the departure points for the fifteen U.S. aircraft that left in early March 2026?",
+    "a": "The Rota and Moron military bases."
+  },
+  {
+    "q": "Spanish Prime Minister Pedro Sanchez's condemnation of the U.S.-Israeli actions in Iran in early March 2026 made Spain an outlier in which geographic region?",
+    "a": "The region (Europe/Western allies context implied, but text says \"in the region\")."
+  },
+  {
+    "q": "On March 2, 2026, Spanish Foreign Minister Jose Manuel Albares spoke to which Spanish broadcaster regarding the use of Spanish bases?",
+    "a": "Telecinco."
+  },
+  {
+    "q": "Which specific type of U.S. aircraft, primarily aerial refuelling tankers, were shown by FlightRadar24 to have departed from the Moron airbase on Sunday, March 1, 2026?",
+    "a": "Nine tankers."
+  },
+  {
+    "q": "Rota is described in early March 2026 reports as a naval base with what additional facility?",
+    "a": "An airfield."
+  },
+  {
+    "q": "Which two countries launched the weekend attacks on Iran in early March 2026 that prompted the departure of U.S. aircraft from Spain?",
+    "a": "The U.S. and Israel."
+  },
+  {
+    "q": "Spanish Foreign Minister Jose Manuel Albares stated that Spanish bases would not be used for the operation in Iran, which Spain has taken what stance on?",
+    "a": "Condemnation."
+  },
+  {
+    "q": "According to the March 2, 2026 report, the departure of U.S. aircraft from Spain occurred after the U.S. and Israel launched attacks on Iran during which time period?",
+    "a": "The weekend (prior to Monday, March 2, 2026)."
+  }
+]

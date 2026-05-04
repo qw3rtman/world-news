@@ -1,0 +1,27 @@
+{
+  "hash": "054a1e610c5d",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://apnews.com/article/anthropic-hegseth-ai-pentagon-military-3d86c9296fe953ec0591fcde6a613aba",
+      "title": "Hegseth pressures Anthropic to give military broader access to its AI tech, AP source says | AP News",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1553,
+      "text_length": 7689
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1386658",
+      "spike_id": 4,
+      "market_question": "Will Pete Hegseth ban Claude by March 31?",
+      "event_title": "Will Pete Hegseth ban Claude by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.29,
+      "spike_timestamp_before": "2026-02-25T05:00:20+00:00",
+      "spike_timestamp_after": "2026-02-25T14:00:24+00:00"
+    }
+  ]
+}

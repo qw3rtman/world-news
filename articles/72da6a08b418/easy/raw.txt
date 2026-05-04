@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On which day of the week did the Mexican Navy release images of the suspected cocaine seizure that occurred during a maritime operation in the Pacific Ocean?",
+    "a": "Monday"
+  },
+  {
+    "q": "What specific day of the week did the Mexican Navy conduct the maritime operation in the Pacific Ocean where packages of suspected cocaine were seized?",
+    "a": "Friday"
+  },
+  {
+    "q": "In which ocean did the Mexican Navy conduct the maritime operation resulting in the seizure of nearly 2 tons of suspected cocaine?",
+    "a": "The Pacific Ocean"
+  },
+  {
+    "q": "What type of packages were seized by the Mexican Navy during the maritime operation in the Pacific Ocean?",
+    "a": "Packages of suspected cocaine"
+  },
+  {
+    "q": "Which government authority released images showing the Mexican Navy's seizure of suspected cocaine packages?",
+    "a": "Mexican authorities"
+  },
+  {
+    "q": "What branch of the Mexican military conducted the maritime operation in the Pacific Ocean that resulted in the seizure of suspected cocaine?",
+    "a": "The Mexican Navy"
+  },
+  {
+    "q": "According to the AP News report published on March 9, 2026, what was the approximate weight of the suspected cocaine seized by the Mexican Navy?",
+    "a": "Nearly 2 tons"
+  },
+  {
+    "q": "What ongoing activity by the United States is mentioned in the headline of the AP News article published on March 9, 2026, alongside the Mexican Navy's cocaine seizure?",
+    "a": "Lethal strikes"
+  },
+  {
+    "q": "What news agency published the report on March 9, 2026, detailing the Mexican Navy's seizure of suspected cocaine?",
+    "a": "AP News"
+  },
+  {
+    "q": "In the context of the March 9, 2026 AP News report, what specific action did the Mexican Navy take regarding packages of suspected cocaine during a Pacific Ocean operation?",
+    "a": "Seized them"
+  },
+  {
+    "q": "What date was the AP News article titled 'Mexican Navy seizes nearly 2 tons of suspected cocaine at sea as US continues lethal strikes' published?",
+    "a": "March 9, 2026"
+  },
+  {
+    "q": "What two distinct events are linked in the title of the AP News article published on March 9, 2026?",
+    "a": "The Mexican Navy seizing suspected cocaine and the US continuing lethal strikes"
+  },
+  {
+    "q": "Where did the maritime operation take place that led to the Mexican Navy seizing packages of suspected cocaine?",
+    "a": "The Pacific Ocean"
+  },
+  {
+    "q": "What substance did Mexican authorities identify as being in the packages seized by the Navy during the Pacific Ocean operation?",
+    "a": "Suspected cocaine"
+  },
+  {
+    "q": "Which country's navy seized nearly 2 tons of suspected cocaine during a maritime operation in the Pacific Ocean?",
+    "a": "Mexico"
+  },
+  {
+    "q": "What was the nature of the operation conducted by the Mexican Navy in the Pacific Ocean that resulted in the seizure of suspected cocaine?",
+    "a": "A maritime operation"
+  },
+  {
+    "q": "What did Mexican authorities release on Monday regarding the Friday maritime operation in the Pacific Ocean?",
+    "a": "Images showing the Navy seizing packages of suspected cocaine"
+  },
+  {
+    "q": "Which nation's authorities released images of the Mexican Navy's seizure of suspected cocaine packages?",
+    "a": "Mexico"
+  },
+  {
+    "q": "What was the approximate quantity of suspected cocaine seized by the Mexican Navy in the Pacific Ocean?",
+    "a": "Nearly 2 tons"
+  },
+  {
+    "q": "What ongoing US military activity is referenced in the headline of the March 9, 2026 AP News article about the Mexican cocaine seizure?",
+    "a": "Lethal strikes"
+  },
+  {
+    "q": "On what specific day did the Mexican Navy seize the packages of suspected cocaine in the Pacific Ocean?",
+    "a": "Friday"
+  },
+  {
+    "q": "What did the Mexican Navy seize during its maritime operation in the Pacific Ocean?",
+    "a": "Packages of suspected cocaine"
+  },
+  {
+    "q": "Which organization published the news report on March 9, 2026, concerning the Mexican Navy's seizure of suspected cocaine?",
+    "a": "AP News"
+  },
+  {
+    "q": "What body of water was the site of the Mexican Navy's operation where nearly 2 tons of suspected cocaine were seized?",
+    "a": "The Pacific Ocean"
+  },
+  {
+    "q": "What did Mexican authorities release on Monday that depicted the Navy's seizure of suspected cocaine during a Pacific Ocean operation?",
+    "a": "Images"
+  }
+]

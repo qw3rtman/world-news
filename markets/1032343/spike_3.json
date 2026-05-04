@@ -1,0 +1,65 @@
+{
+  "spike_index": 3,
+  "direction": "down",
+  "price_before": 0.703,
+  "price_after": 0.51,
+  "delta": -0.19299999999999995,
+  "abs_delta": 0.19299999999999995,
+  "timestamp_before": "2026-02-22T00:00:19+00:00",
+  "timestamp_after": "2026-02-22T23:30:17+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-outlook-will-trump-tariffs-and-middle-east-tensions-drive-next-leg-of-rally/amp_articleshow/128681426.cms",
+      "file": "5dd4a13bd887.txt",
+      "title": "Gold, silver rate outlook: Will Trump tariffs and Middle East tensions drive next leg of rally? - The Times of India",
+      "published_date": "2026-02-22T00:00:00.000Z",
+      "author": null,
+      "text_length": 3264,
+      "status": "ok",
+      "num_tokens": 680
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-02-22/gold-rises-as-trump-s-tariff-knockback-generates-uncertainty?fromMostRead=true&srnd=2026-01-30%2Flive-q-amp-a-what-s-next-for-metals-as-new-fed-era-takes-shape",
+      "file": "f7a4cb58f3fc.txt",
+      "title": "Gold Rises as Trump Tariff Defeat Throws Trade Deals Into Doubt - Bloomberg",
+      "published_date": "2026-02-22T00:00:00.000Z",
+      "author": "Yihui Xie",
+      "text_length": 403,
+      "status": "ok",
+      "num_tokens": 87
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/international-business/gold-oil-prices-jump-as-us-iran-tensions-turn-up-the-heat/articleshow/128587793.cms",
+      "file": "0361dfbeff91.txt",
+      "title": "Gold, oil prices jump as US-Iran tensions turn up the heat - The Times of India",
+      "published_date": "2026-02-20T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /   Feb 20, 2026, 08:40 IST",
+      "text_length": 4732,
+      "status": "ok",
+      "num_tokens": 926
+    },
+    {
+      "url": "https://fortune.com/article/current-price-of-silver-2-20-2026/",
+      "file": "9550aa017de4.txt",
+      "title": "Down Arrow Button Icon",
+      "published_date": "2026-02-20T00:00:00.000Z",
+      "author": "Joseph Hostetler",
+      "text_length": 176,
+      "status": "ok",
+      "num_tokens": 56
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-what-is-the-gold-rate-outlook-for-february-20-2026-should-you-buy-or-sell-mcx-gold/articleshow/128593518.cms",
+      "file": "69241d2bdd2f.txt",
+      "title": "Gold price prediction: What's the gold rate outlook for February 20, 2026? What investors should know - The Times of India",
+      "published_date": "2026-02-20T00:00:00.000Z",
+      "author": "TOI Business Desk  / TIMESOFINDIA.COM /   Feb 20, 2026, 11:13 IST",
+      "text_length": 3106,
+      "status": "ok",
+      "num_tokens": 696
+    }
+  ],
+  "total_tokens": 2445
+}

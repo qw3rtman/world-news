@@ -1,0 +1,65 @@
+{
+  "spike_index": 2,
+  "direction": "up",
+  "price_before": 0.665,
+  "price_after": 0.9,
+  "delta": 0.235,
+  "abs_delta": 0.235,
+  "timestamp_before": "2026-02-28T14:30:31+00:00",
+  "timestamp_after": "2026-02-28T19:30:32+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.al-monitor.com/originals/2026/03/running-out-time-israel-escalates-iran-strikes-trump-weighs-elegant-exit?gift_code=eLXdR3jTGYtGslxpNfCs5uqqpbw",
+      "file": "802c8ce0357a.txt",
+      "title": "Running out of time: Israel escalates Iran strikes as Trump weighs \u2018elegant exit\u2019 - AL-Monitor: The Middle East\u02bcs leading independent news source since 2012",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 7642,
+      "status": "ok",
+      "num_tokens": 1436
+    },
+    {
+      "url": "https://edition.cnn.com/world/live-news/us-israel-iran-attack-03-01-26-intl?post-id=cmm8hheal00003b6sjjqbon5o",
+      "file": "324c6e5f3909.txt",
+      "title": "March 1, 2026 \u2014 Day two of the launch of a US-Israeli military operation against Iran | CNN",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Laura Sharman, John Liu, Helen Regan, Rhea Mogul, Aleena Fayaz, Isaac Yee, Teele Rebane, Martin Goillandeau, Hilary Whiteman, Audry Jeong, Piper Hudspeth Blackburn, Isabelle D\u2019Antonio, Ross Adkin, Eyad Kourdi, Lauren Izso, Alejandra Jaramillo, Adrienne Vogt, Jeremy Diamond, Nic Robertson, Natasha Bertrand, Zachary Cohen, Jennifer Hansler, Jonny Hallam, James Frater, Kaitlan Collins, Toni Odejimi, Haley Britzky, David Goldman, Maureen Chowdhury, Nina Giraldo, Ted  Barrett, Sarah Ferris, Annie Grayer, Oren Liebermann, Manu Raju, Kit Maher, Brian Stelter, Kevin Liptak, Adam Cancryn, Donald Judd, Mitchell McCluskey, Alison Main, Thomas Bordeaux, Alayna Treene, Tal Shalev, Mostafa Salem, Alessandra Freitas, Sophia Saifi, Catherine Nicholls, Tim Lister, Nechirvan Mando, Lauren Kent, Billy Stockwell, Adam Pourahmadi, Samantha Waldenberg, Aileen Graef, Evan Perez, Hannah Rabinowitz, Dana Karni, Sophie Tanno, Gianluca Mezzofiore, Michelle Velez, Lou Robinson, Ren\u00e9e Rigdon, Abbas Al Lawati, Gawon Bae, Kareem El Damanhoury, Frederik Pleitgen, Logan Schiciano",
+      "text_length": 25497,
+      "status": "ok",
+      "num_tokens": 5011
+    },
+    {
+      "url": "https://www.npr.org/2026/03/01/nx-s1-5731365/us-israeli-strikes-region",
+      "file": "004b38f9c979.txt",
+      "title": "U.S.-Israeli strikes in Iran continue into 2nd day : NPR",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Jane Arraf",
+      "text_length": 8108,
+      "status": "ok",
+      "num_tokens": 1650
+    },
+    {
+      "url": "https://www.al-monitor.com/originals/2026/03/analysis-trump-presses-ahead-iran-war-despite-warnings-political-risk-midterms",
+      "file": "9c7e545adfb3.txt",
+      "title": "Analysis-Trump presses ahead with Iran war despite warnings of political risk for midterms - AL-Monitor: The Middle East\u02bcs leading independent since 2012",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": null,
+      "text_length": 7270,
+      "status": "ok",
+      "num_tokens": 1418
+    },
+    {
+      "url": "https://edition.cnn.com/world/live-news/israel-iran-attack-02-28-26-hnk-intl",
+      "file": "25920197eb26.txt",
+      "title": "February 28, 2026 \u2014 US-Israeli strikes on Iran | CNN",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Tal Shalev, Mostafa Salem, Adam Pourahmadi, Gawon Bae, Abbas Al Lawati, Christopher Lamb, Lauren Kent, Eugenia Josef, Oren Liebermann, Steven Jiang, Billy Stockwell, Leila Gharagozlou, Sophie Tanno, Catherine Nicholls, Jennifer Hansler, Antoinette Radford, Daria Tarasova-Markina, Christian Edwards, Eugenia Yosef, Sophia Saifi, Frederik Pleitgen, Tim Lister, Deva Lee, Helen Regan, Teele Rebane, Isaac Yee, Karina Tsui, Aleena Fayaz, Brad Lendon, Matt Egan, Bijan  Hosseini, Nick Paton Walsh, Chris Lau, Sandi Sidhu, Ivan Watson, Todd Symons, Riane Lumer, Kareem El Damanhoury, Martin Goillandeau, Michelle Velez, Jomana Karadsheh, Quinta Thomson, Ben Brown, Kylie Atwood, Emma Tucker, Sophia Peyser, Alejandra Jaramillo, Max Saltman, Thomas Bordeaux, Lauren Izso, Nina Giraldo, Kaanita Iyer, Dalia Abdelwahab, Stephen Collinson, Jennifer Hauser, Tori B. Powell, Kit Maher, Aditi Sangal, Adam Cancryn, Gianluca Mezzofiore, Jeremy Diamond, Kristen Holmes, Natasha Bertrand, Mitchell McCluskey, Abeer Salman, Dana Karni, Uriel Blanco, Anabella Gonzalez, Christian Sierra, Haley Britzky, Gul Tuysuz, Farida Elsebai, Yong Xiong, John Miller, Josh Campbell, Alayna Treene, Tala Alrajjal, Auzinea Bacon, Camila DeChalus, CNN Staff, Ellis Kim, Dan Berman, Julia Benbrook, Lou Robinson, Jim Sciutto, Kevin Liptak, Ren\u00e9e Rigdon, Nic Robertson, Samantha Waldenberg, Zachary Cohen, Manu Raju, Jeff Zeleny, Charlotte Reck, Duarte Mendonca, Logan Schiciano, Kaitlan Collins, Angus Watson, Avery Schmitz, Nadeen Ebrahim, Satish Cheney",
+      "text_length": 20425,
+      "status": "ok",
+      "num_tokens": 4176
+    }
+  ],
+  "total_tokens": 13691
+}

@@ -1,0 +1,65 @@
+{
+  "spike_index": 2,
+  "direction": "up",
+  "price_before": 0.235,
+  "price_after": 0.43,
+  "delta": 0.195,
+  "abs_delta": 0.195,
+  "timestamp_before": "2026-02-27T11:30:36+00:00",
+  "timestamp_after": "2026-02-27T23:30:38+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://foreignpolicy.com/2026/02/28/us-israel-strike-iran-trump-nuclear-program-missiles/?tpcc=email_alerts",
+      "file": "8e275c02f9fd.txt",
+      "title": "U.S., Israel Begin 'Major Combat Operations' in Iran as Trump Calls for Regime Change",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Jennifer Williams, Rishi Iyengar, John Haltiwanger",
+      "text_length": 7159,
+      "status": "ok",
+      "num_tokens": 1524
+    },
+    {
+      "url": "http://yahoo.usatoday.com/story/news/politics/2026/02/28/us-strikes-iran-trump-gamble-wider-war/88916186007/",
+      "file": "3cf721ca89cb.txt",
+      "title": "USA TODAY - Breaking News and Latest News Today",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 57,
+      "status": "ok",
+      "num_tokens": 12
+    },
+    {
+      "url": "http://mag.newsweek.com/us-strikes-on-iran-imminent-key-signs-11592976",
+      "file": "340d363823c0.txt",
+      "title": "US strikes\u00a0on\u00a0Iran imminent: key signs\u00a0 - Newsweek",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": null,
+      "text_length": 6197,
+      "status": "ok",
+      "num_tokens": 1217
+    },
+    {
+      "url": "https://newsweek.com/us-strikes-on-iran-imminent-key-signs-11592976",
+      "file": "ddb4e5685c6e.txt",
+      "title": "US strikes\u00a0on\u00a0Iran imminent: key signs\u00a0 - Newsweek",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": null,
+      "text_length": 6210,
+      "status": "ok",
+      "num_tokens": 1220
+    },
+    {
+      "url": "https://br.reuters.com/world/us/ahead-strikes-trump-told-iran-attack-was-high-risk-high-reward-2026-02-28/",
+      "file": "5f421f1aa286.txt",
+      "title": "Reuters | Breaking International News & Views",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 226,
+      "status": "ok",
+      "num_tokens": 59
+    }
+  ],
+  "total_tokens": 4032
+}

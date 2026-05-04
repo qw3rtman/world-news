@@ -1,0 +1,27 @@
+{
+  "hash": "dae4d10e3ebb",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://staging05.foreignpolicy.com/2026/03/02/us-israel-iran-war-military-strikes-operation-epic-fury-trump-hezbollah-khamenei/",
+      "title": "U.S.-Israel War Against Iran Spreads to Lebanon as Hezbollah Joins Conflict",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Alexandra Sharp",
+      "num_tokens": 2182,
+      "text_length": 10809
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "677397",
+      "spike_id": 10,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.395,
+      "spike_timestamp_before": "2026-03-02T10:30:29+00:00",
+      "spike_timestamp_after": "2026-03-03T08:00:29+00:00"
+    }
+  ]
+}

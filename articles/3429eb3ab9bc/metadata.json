@@ -1,0 +1,27 @@
+{
+  "hash": "3429eb3ab9bc",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://uat.apnews.com/article/iran-us-war-geneva-talks-nuclear-c1eb17f570b059f34071937c3f310fb6",
+      "title": "US and Iran wrap up latest talks as the risk of war looms | AP News",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1304,
+      "text_length": 6538
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1466016",
+      "spike_id": 1,
+      "market_question": "US x Iran ceasefire by April 30?",
+      "event_title": "US x Iran ceasefire by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.20500000000000007,
+      "spike_timestamp_before": "2026-02-28T22:00:39+00:00",
+      "spike_timestamp_after": "2026-03-01T21:30:53+00:00"
+    }
+  ]
+}

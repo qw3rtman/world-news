@@ -1,0 +1,27 @@
+{
+  "hash": "3850add16acb",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://cnn.com/2026/03/20/energy/oil-gas-prices-intl-hnk",
+      "title": "Global oil price stuck in triple digits. Goldman Sachs says it may stay there for years | CNN Business",
+      "published_date": "2026-03-20T00:00:00.000Z",
+      "author": "John Liu",
+      "num_tokens": 1122,
+      "text_length": 5271
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1467763",
+      "spike_id": 32,
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $120 by end of March?",
+      "event_title": "Will Crude Oil (CL) hit__ by end of March?",
+      "spike_direction": "down",
+      "spike_delta": -0.15499999999999997,
+      "spike_timestamp_before": "2026-03-19T12:00:34+00:00",
+      "spike_timestamp_after": "2026-03-20T00:30:32+00:00"
+    }
+  ]
+}

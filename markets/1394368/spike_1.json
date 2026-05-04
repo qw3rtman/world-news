@@ -1,0 +1,65 @@
+{
+  "spike_index": 1,
+  "direction": "up",
+  "price_before": 0.055,
+  "price_after": 0.225,
+  "delta": 0.17,
+  "abs_delta": 0.17,
+  "timestamp_before": "2026-02-27T12:00:50+00:00",
+  "timestamp_after": "2026-02-28T11:30:28+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.pbs.org/newshour/world/live-updates-u-s-and-israel-attack-iran",
+      "file": "53fcf5707732.txt",
+      "title": "Live Updates: U.S. and Israel attack Iran | PBS News",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 51522,
+      "status": "ok",
+      "num_tokens": 10318
+    },
+    {
+      "url": "https://thehill.com/policy/defense/5760747-trump-iran-regime-change/",
+      "file": "2322b3ae8367.txt",
+      "title": "Five takeaways as Trump wages war on Iran",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 9672,
+      "status": "ok",
+      "num_tokens": 1970
+    },
+    {
+      "url": "https://foreignpolicy.com/2026/02/28/us-israel-strike-iran-trump-nuclear-program-missiles/",
+      "file": "46a8a59bce24.txt",
+      "title": "U.S., Israel Begin 'Major Combat Operations' in Iran as Trump Calls for Regime Change",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Jennifer Williams, Rishi Iyengar, John Haltiwanger",
+      "text_length": 7785,
+      "status": "ok",
+      "num_tokens": 1654
+    },
+    {
+      "url": "https://www.usatoday.com/story/news/politics/2026/02/28/us-strikes-iran-trump-gamble-wider-war/88916186007/",
+      "file": "9738b32fa230.txt",
+      "title": "US strikes Iran: Trump rolls the dice as fears of wider war surge",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Susan Page",
+      "text_length": 5796,
+      "status": "ok",
+      "num_tokens": 1197
+    },
+    {
+      "url": "https://fortune.com/2026/02/28/iran-death-ground-existential-threat-us-attacks-retaliation-terrorism-cyberattacks-strait-of-hormuz/",
+      "file": "7e56f4d7cd31.txt",
+      "title": "Iran is on 'death ground' amid existential threat from US attacks and could 'go big' in retaliation | Fortune",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Jason Ma",
+      "text_length": 756,
+      "status": "ok",
+      "num_tokens": 175
+    }
+  ],
+  "total_tokens": 15314
+}

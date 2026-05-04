@@ -1,0 +1,65 @@
+{
+  "spike_index": 27,
+  "direction": "down",
+  "price_before": 0.485,
+  "price_after": 0.305,
+  "delta": -0.18,
+  "abs_delta": 0.18,
+  "timestamp_before": "2026-03-15T22:00:33+00:00",
+  "timestamp_after": "2026-03-16T15:30:28+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2026/03/16/oil-prices-iran-war-200-crude-strait-of-hormuz-supply-shock.html",
+      "file": "2c086f321057.txt",
+      "title": "Oil prices: Why traders are getting nervous about Iran's $200 warning",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "Sam Meredith",
+      "text_length": 464,
+      "status": "ok",
+      "num_tokens": 104
+    },
+    {
+      "url": "http://mobile.reuters.com/business/energy/oil-poised-further-gains-middle-east-conflict-threatens-export-facilities-2026-03-15/",
+      "file": "dcce07d6fcfb.txt",
+      "title": "Oil poised for further gains as Middle East conflict threatens export facilities | Reuters",
+      "published_date": "2026-03-15T00:00:00.000Z",
+      "author": "Florence Tan",
+      "text_length": 2740,
+      "status": "ok",
+      "num_tokens": 550
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/13/oil-100-price-brent-wti-trump-iran-war-surrender-khamenei.html",
+      "file": "cc3437d0913e.txt",
+      "title": "Oil above $100 as as market shrugs off U.S. measures to reduce prices",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": "Chloe Taylor,Spencer Kimball",
+      "text_length": 3768,
+      "status": "ok",
+      "num_tokens": 836
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/analysts-reassess-oil-price-estimates-iran-conflict-disrupts-markets-2026-03-23/",
+      "file": "29467df55a52.txt",
+      "title": "Analysts hike oil price outlooks as Iran conflict persists | Reuters",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": null,
+      "text_length": 1058,
+      "status": "ok",
+      "num_tokens": 249
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/middle-east-oil-benchmarks-hit-record-highs-war-cuts-supply-2026-03-16",
+      "file": "01b0d3c8c052.txt",
+      "title": "Middle East oil becomes most expensive in the world as war cuts supply | Reuters",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": "Florence Tan",
+      "text_length": 3950,
+      "status": "ok",
+      "num_tokens": 890
+    }
+  ],
+  "total_tokens": 2629
+}

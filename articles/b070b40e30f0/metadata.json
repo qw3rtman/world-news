@@ -1,0 +1,37 @@
+{
+  "hash": "b070b40e30f0",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://france24.com/en/paris-looks-at-five-way-race-for-new-mayor",
+      "title": "Paris looks at five-way race for new mayor - France 24",
+      "published_date": "2026-03-16T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 199,
+      "text_length": 680
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "646003",
+      "spike_id": 2,
+      "market_question": "Will Emmanuel Grégoire win the Paris mayor election?",
+      "event_title": "Paris Mayoral Election",
+      "spike_direction": "up",
+      "spike_delta": 0.2599999999999999,
+      "spike_timestamp_before": "2026-03-15T20:00:38+00:00",
+      "spike_timestamp_after": "2026-03-16T04:00:36+00:00"
+    },
+    {
+      "market_id": "646003",
+      "spike_id": 3,
+      "market_question": "Will Emmanuel Grégoire win the Paris mayor election?",
+      "event_title": "Paris Mayoral Election",
+      "spike_direction": "up",
+      "spike_delta": 0.2699999999999999,
+      "spike_timestamp_before": "2026-03-15T20:00:38+00:00",
+      "spike_timestamp_after": "2026-03-16T08:00:32+00:00"
+    }
+  ]
+}

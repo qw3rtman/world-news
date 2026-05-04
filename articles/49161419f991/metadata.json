@@ -1,0 +1,67 @@
+{
+  "hash": "49161419f991",
+  "n_appearances": 5,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://www2.cnn.com/2026/02/28/middleeast/iran-supreme-leader-ali-khamenei-replacement-intl-hnk",
+      "title": "Breaking News, Latest News and Videos | CNN",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Monica Sarkar",
+      "num_tokens": 134,
+      "text_length": 622
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1180303",
+      "spike_id": 1,
+      "market_question": "Khamenei out as Supreme Leader of Iran by February 28?",
+      "event_title": "Khamenei out as Supreme Leader of Iran by February 28?",
+      "spike_direction": "up",
+      "spike_delta": 0.453,
+      "spike_timestamp_before": "2026-02-28T05:30:25+00:00",
+      "spike_timestamp_after": "2026-02-28T14:00:41+00:00"
+    },
+    {
+      "market_id": "1180303",
+      "spike_id": 2,
+      "market_question": "Khamenei out as Supreme Leader of Iran by February 28?",
+      "event_title": "Khamenei out as Supreme Leader of Iran by February 28?",
+      "spike_direction": "up",
+      "spike_delta": 0.9329999999999999,
+      "spike_timestamp_before": "2026-02-28T05:30:25+00:00",
+      "spike_timestamp_after": "2026-02-28T20:00:26+00:00"
+    },
+    {
+      "market_id": "1180303",
+      "spike_id": 3,
+      "market_question": "Khamenei out as Supreme Leader of Iran by February 28?",
+      "event_title": "Khamenei out as Supreme Leader of Iran by February 28?",
+      "spike_direction": "up",
+      "spike_delta": 0.965,
+      "spike_timestamp_before": "2026-02-28T05:30:25+00:00",
+      "spike_timestamp_after": "2026-02-28T22:00:31+00:00"
+    },
+    {
+      "market_id": "1180303",
+      "spike_id": 4,
+      "market_question": "Khamenei out as Supreme Leader of Iran by February 28?",
+      "event_title": "Khamenei out as Supreme Leader of Iran by February 28?",
+      "spike_direction": "up",
+      "spike_delta": 0.9895,
+      "spike_timestamp_before": "2026-02-28T05:30:25+00:00",
+      "spike_timestamp_after": "2026-03-01T03:30:27+00:00"
+    },
+    {
+      "market_id": "1180303",
+      "spike_id": 5,
+      "market_question": "Khamenei out as Supreme Leader of Iran by February 28?",
+      "event_title": "Khamenei out as Supreme Leader of Iran by February 28?",
+      "spike_direction": "up",
+      "spike_delta": 0.935,
+      "spike_timestamp_before": "2026-02-28T13:00:26+00:00",
+      "spike_timestamp_after": "2026-03-01T09:00:39+00:00"
+    }
+  ]
+}

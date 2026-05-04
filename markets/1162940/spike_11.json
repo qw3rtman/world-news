@@ -1,0 +1,65 @@
+{
+  "spike_index": 11,
+  "direction": "down",
+  "price_before": 0.485,
+  "price_after": 0.28,
+  "delta": -0.20499999999999996,
+  "abs_delta": 0.20499999999999996,
+  "timestamp_before": "2026-03-09T00:00:24+00:00",
+  "timestamp_after": "2026-03-09T23:00:23+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://www.cnbc.com/2026/03/11/us-strikes-iran-mine-ships-strait-of-hormuz-war-oil.html",
+      "file": "59d985c1d121.txt",
+      "title": "U.S. forces sink 16 Iranian minelayers as reports say Tehran is mining the Strait of Hormuz",
+      "published_date": "2026-03-10T00:00:00.000Z",
+      "author": "Lim Hui Jie",
+      "text_length": 4330,
+      "status": "ok",
+      "num_tokens": 916
+    },
+    {
+      "url": "https://thehill.com/policy/defense/5774803-us-troops-iran-pete-hegseth/",
+      "file": "06a5d6b55ebc.txt",
+      "title": "Pete Hegseth: U.S. may deploy troops in Iran conflict",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "text_length": 1982,
+      "status": "ok",
+      "num_tokens": 440
+    },
+    {
+      "url": "https://www.cnn.com/2026/03/09/politics/iran-uranium-us-ground-forces-nuclear",
+      "file": "b37f42b06ec5.txt",
+      "title": "Capturing Iran\u2019s highly enriched uranium would require a large US ground force, sources say | CNN Politics",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": "Natasha Bertrand, Zachary Cohen, Haley Britzky, Avery Schmitz",
+      "text_length": 5930,
+      "status": "ok",
+      "num_tokens": 1157
+    },
+    {
+      "url": "http://www.haaretz.com/us-news/2026-03-08/ty-article/.premium/trump-says-deploying-u-s-ground-forces-in-iran-on-the-table/0000019c-ce1e-d8f8-a9de-ff9fc8fc0000",
+      "file": "791349020729.txt",
+      "title": "Trump Says Deploying U.S. Ground Forces in Iran 'On the Table' - U.S. News",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": "Ben Samuels",
+      "text_length": 986,
+      "status": "ok",
+      "num_tokens": 225
+    },
+    {
+      "url": "https://live.reuters.com/world/us/us-lawmakers-worry-trump-may-put-boots-ground-iran-2026-03-10/",
+      "file": "60a6f833fe12.txt",
+      "title": "Reuters | Breaking International News & Views",
+      "published_date": "2026-03-10T00:00:00.000Z",
+      "author": null,
+      "text_length": 243,
+      "status": "ok",
+      "num_tokens": 48
+    }
+  ],
+  "total_tokens": 2786
+}

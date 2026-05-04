@@ -1,0 +1,23 @@
+{
+  "market_id": "1321388",
+  "question": "Will Nick Shirley attend the 2026 State of the Union address?",
+  "slug": "will-nick-shirley-attend-the-2026-state-of-the-union-address",
+  "url": "https://polymarket.com/event/who-will-attend-the-state-of-the-union-address",
+  "description": "The 2026 State of the Union address is scheduled to be held in the Chamber of the U.S. House of Representatives on February 24, 2026.\n\nThis market will resolve to \"Yes\" if the listed individual attends the 2026 State of the Union address. Otherwise, this market will resolve to \"No\".\n\nIf the event is canceled or postponed beyond March 31, 2026, 11:59 PM ET, this market will resolve to \"No\".\n\nFor the purpose of this market, attending the State of the Union address is defined as being in physical attendance during any part of the event.\n\nThe resolution source will be a consensus of credible reporting.",
+  "event_title": "Who will attend the State of the Union address?",
+  "event_tags": [
+    "Culture",
+    "Trump",
+    "Politics",
+    "SOTU",
+    "State of Union",
+    "state of the union"
+  ],
+  "volume_total": 6601495.392548,
+  "created_at": "2026-02-02T19:26:17.926808Z",
+  "end_date": "2026-02-24T00:00:00Z",
+  "num_spikes": 6,
+  "max_spike": 0.2705000000000001,
+  "total_tokens": 23693,
+  "total_articles": 30
+}

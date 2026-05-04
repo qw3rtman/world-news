@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2026, which British oil major announced it would lock out approximately 800 workers at its Whiting, Indiana refinery, and what is the facility's daily processing capacity?",
+    "a": "BP announced the lockout at its 440,000 barrel-per-day Whiting, Indiana refinery."
+  },
+  {
+    "q": "What specific date in March 2026 did BP state the lockout at the Whiting refinery would begin, and which union represents the affected workers?",
+    "a": "The lockout was set to begin on March 19, 2026, affecting workers represented by the United Steelworkers (USW) union."
+  },
+  {
+    "q": "Why did BP decide to impose a lockout on its Whiting refinery workers in March 2026, according to the company's statement regarding contract negotiations?",
+    "a": "BP imposed the lockout after the United Steelworkers rejected its \"last, best and final\" offer and twice rejected key proposals without addressing BP's primary concerns."
+  },
+  {
+    "q": "What were the specific demands cited by Eric Schultz, president of USW Local 7-1, that made BP's contract proposal unacceptable to the union in March 2026?",
+    "a": "Eric Schultz stated the proposal was unacceptable because it demanded cutting more than 100 jobs, accepting pay cuts to nearly all positions, and giving up bargaining rights."
+  },
+  {
+    "q": "When did the previous three-year collective bargaining agreement for the Whiting refinery workers expire, and what operational risk did BP cite as a result of the expiration?",
+    "a": "The agreement expired on January 31, 2026, creating \"labor uncertainty\" and the possibility of a strike with as little as 24 hours' notice."
+  },
+  {
+    "q": "What specific operational instructions did BP give to maintenance workers versus other union-represented workers at the Whiting refinery in mid-March 2026?",
+    "a": "BP told maintenance workers not to report for work after March 17, 2026, and instructed other union-represented workers to work through March 18, 2026."
+  },
+  {
+    "q": "Which union local president made the statement about protecting local jobs and wages in response to BP's lockout notice in March 2026?",
+    "a": "Eric Schultz, president of USW Local 7-1, made the statement."
+  },
+  {
+    "q": "According to the United Steelworkers, what specific job cuts and workplace changes did BP propose that led to the labor dispute at the Whiting refinery?",
+    "a": "The union stated BP proposed cutting more than 200 union jobs in operations, maintenance, and environmental safety, as well as stripping away some workplace protections."
+  },
+  {
+    "q": "What condition did BP state was necessary for lifting the lockout at the Whiting refinery in March 2026?",
+    "a": "BP stated that lifting the lockout would require the union's acceptance of its latest proposal."
+  },
+  {
+    "q": "What types of key transportation fuels does the Whiting refinery produce, as noted in the March 2026 report?",
+    "a": "The Whiting refinery produces gasoline, diesel fuel, and jet fuel."
+  },
+  {
+    "q": "How did BP describe the state of its operations at the Whiting refinery since the collective bargaining agreement expired on January 31, 2026?",
+    "a": "BP described the operations as being amid \"labor uncertainty\" and stated that regaining operational control was vital for a safe and orderly transfer of refinery management."
+  },
+  {
+    "q": "What global energy market context did the article cite as a reason why disruptions at the Whiting refinery could exacerbate fuel prices in March 2026?",
+    "a": "The article cited high gasoline and diesel prices and the Middle East war upending global energy supplies as the context."
+  },
+  {
+    "q": "When did BP present a revised contract offer to the United Steelworkers before the lockout was imposed in March 2026?",
+    "a": "BP presented the revised contract offer last week, following the union's overwhelming rejection of the company's prior final proposal."
+  },
+  {
+    "q": "What was the United Steelworkers' reaction to BP's \"last, best and final\" offer prior to the lockout announcement?",
+    "a": "The United Steelworkers-represented workers rejected BP's \"last, best and final\" offer."
+  },
+  {
+    "q": "Which two Reuters reporters were credited with reporting on the BP lockout at the Whiting refinery in March 2026?",
+    "a": "Anmol Choubey and Nicole Jao were credited with the reporting."
+  },
+  {
+    "q": "What was the primary reason BP gave for needing to regain operational control of the Whiting refinery in March 2026?",
+    "a": "BP stated that regaining operational control was vital to ensure a safe and orderly transfer of refinery management."
+  },
+  {
+    "q": "How many workers were affected by the lockout at the Whiting refinery announced by BP in March 2026?",
+    "a": "Approximately 800 workers were affected by the lockout."
+  },
+  {
+    "q": "What did BP say it would continue to do regarding negotiations despite imposing the lockout in March 2026?",
+    "a": "BP said it would continue bargaining in good faith."
+  },
+  {
+    "q": "Which specific local chapter of the United Steelworkers represents the workers at the Whiting refinery?",
+    "a": "USW Local 7-1 represents the workers at the Whiting refinery."
+  },
+  {
+    "q": "What did Eric Schultz say the union was prepared to do in response to BP's lockout and contract demands in March 2026?",
+    "a": "Eric Schultz stated the union was prepared to keep fighting for a fair agreement that protects local jobs, wages, and members' rights."
+  },
+  {
+    "q": "What was the size of the Whiting refinery in terms of daily barrel capacity, as described in the March 2026 article?",
+    "a": "The Whiting refinery has a capacity of 440,000 barrels per day."
+  },
+  {
+    "q": "Which region's largest refinery was the site of the lockout announced by BP in March 2026?",
+    "a": "The Whiting refinery is the largest refinery in the Midwest."
+  },
+  {
+    "q": "What did the United Steelworkers claim BP proposed regarding workplace protections during the contract negotiations?",
+    "a": "The union claimed BP proposed stripping away some workplace protections."
+  },
+  {
+    "q": "What was the status of the contract negotiations between BP and the United Steelworkers leading up to the March 2026 lockout?",
+    "a": "Months of contract negotiations yielded little results, with the union twice rejecting key proposals."
+  },
+  {
+    "q": "What specific date did BP tell other union-represented workers at the Whiting refinery they were required to work through?",
+    "a": "BP told other union-represented workers to work through March 18, 2026."
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "hash": "3639178b633e",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.axios.com/2026/02/21/trump-iran-plan-kill-khamenei-regime-change-deal?stream=top",
+      "title": "Trump's Iran options: \"Token\" nuclear enrichment to taking out Khamenei",
+      "published_date": "2026-02-21T00:00:00.000Z",
+      "author": "Barak Ravid,Marc Caputo",
+      "num_tokens": 1392,
+      "text_length": 6444
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1386650",
+      "spike_id": 1,
+      "market_question": "US strikes Iran by February 21, 2026?",
+      "event_title": "US strikes Iran by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.669,
+      "spike_timestamp_before": "2026-02-21T21:30:22+00:00",
+      "spike_timestamp_after": "2026-02-22T04:30:17+00:00"
+    }
+  ]
+}

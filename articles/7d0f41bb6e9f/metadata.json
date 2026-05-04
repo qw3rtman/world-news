@@ -1,0 +1,67 @@
+{
+  "hash": "7d0f41bb6e9f",
+  "n_appearances": 5,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.al-monitor.com/originals/2026/03/qatar-downs-iran-jets-tehran-targets-oil-and-gas-spiralling-gulf-crisis",
+      "title": "Qatar downs Iran jets as Tehran targets oil and gas in spiralling Gulf crisis - AL-Monitor: The Middle Eastʼs leading independent news source since 2012",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 964,
+      "text_length": 4784
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1472017",
+      "spike_id": 10,
+      "market_question": "Will Qatar strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.16000000000000003,
+      "spike_timestamp_before": "2026-03-04T20:00:38+00:00",
+      "spike_timestamp_after": "2026-03-05T00:00:40+00:00"
+    },
+    {
+      "market_id": "1472017",
+      "spike_id": 3,
+      "market_question": "Will Qatar strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.445,
+      "spike_timestamp_before": "2026-03-01T11:30:43+00:00",
+      "spike_timestamp_after": "2026-03-02T10:30:29+00:00"
+    },
+    {
+      "market_id": "1472017",
+      "spike_id": 4,
+      "market_question": "Will Qatar strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.265,
+      "spike_timestamp_before": "2026-03-02T10:30:29+00:00",
+      "spike_timestamp_after": "2026-03-02T14:30:31+00:00"
+    },
+    {
+      "market_id": "1472017",
+      "spike_id": 5,
+      "market_question": "Will Qatar strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.185,
+      "spike_timestamp_before": "2026-03-02T14:30:31+00:00",
+      "spike_timestamp_after": "2026-03-03T06:30:49+00:00"
+    },
+    {
+      "market_id": "1472017",
+      "spike_id": 6,
+      "market_question": "Will Qatar strike Iran by March 31?",
+      "event_title": "Which countries will conduct military action against Iran by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.57,
+      "spike_timestamp_before": "2026-03-02T15:00:50+00:00",
+      "spike_timestamp_after": "2026-03-03T14:30:35+00:00"
+    }
+  ]
+}

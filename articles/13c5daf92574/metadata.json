@@ -1,0 +1,27 @@
+{
+  "hash": "13c5daf92574",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://in.reuters.com/world/middle-east/netanyahu-says-us-israel-war-iran-not-going-take-years-2026-03-03/",
+      "title": "Reuters | Breaking International News & Views",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 59,
+      "text_length": 226
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1484914",
+      "spike_id": 1,
+      "market_question": "Iran x Israel/US conflict ends by May 15?",
+      "event_title": "Iran x Israel/US conflict ends by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.18000000000000005,
+      "spike_timestamp_before": "2026-03-02T18:30:32+00:00",
+      "spike_timestamp_after": "2026-03-02T21:00:29+00:00"
+    }
+  ]
+}

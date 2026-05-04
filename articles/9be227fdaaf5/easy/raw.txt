@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the article published on March 11, 2026, what specific rhetorical promise did Houthi leader Abdul-Malik al-Houthi make to his followers in the weeks before the U.S.-Iran war began regarding the Red Sea?",
+    "a": "He promised that the Red Sea would run with the blood of their enemies."
+  },
+  {
+    "q": "During the period between August and October 2025, which three specific senior Houthi officials were killed in Israeli airstrikes in Sanaa?",
+    "a": "Houthi Prime Minister Ahmed al-Rahawi, approximately a dozen cabinet members, and Chief of Staff Mohammed al-Ghamari."
+  },
+  {
+    "q": "On March 8, 2026, who was selected as the new supreme leader of Iran, a move that gave the Houthis reason to believe the regime would survive?",
+    "a": "Mojtaba Khamenei."
+  },
+  {
+    "q": "According to the March 11, 2026 article, what specific event on March 6, 2026, demonstrated high popular sentiment among Houthis despite their military restraint?",
+    "a": "Thousands filled al-Sabeen Square in Sanaa, chanting in Persian for a dead Iranian leader."
+  },
+  {
+    "q": "In the context of the 2026 analysis, which two Arab capitals were identified as targets of Iranian missiles, thereby complicating the Houthis' potential retaliation?",
+    "a": "Riyadh, Saudi Arabia, and Abu Dhabi, United Arab Emirates."
+  },
+  {
+    "q": "Between September 2024 and early July 2025, United Nations experts counted 101 Houthi ballistic missiles fired at Israel; what percentage of those missiles failed outright?",
+    "a": "38 percent failed outright."
+  },
+  {
+    "q": "In July 2025, U.S. Central Command seized more than 750 tons of Iranian-origin materiel bound for the Houthis; what were the three main categories of equipment included in this seizure?",
+    "a": "Missiles, warheads, seekers, drone engines, and radar systems."
+  },
+  {
+    "q": "A 2026 supply chain study by Century International found that more than 80 percent of items seized before reaching the Houthis in 2024-2025 were what type of goods?",
+    "a": "Manufacturing inputs rather than finished weapons."
+  },
+  {
+    "q": "In November 2025, the arrests of alleged members of which specific spy network demonstrated that the Houthis’ operational infrastructure had been compromised?",
+    "a": "A Saudi-U.S.-Israeli spy network."
+  },
+  {
+    "q": "What specific type of military training courses, branded with a name referencing a major Palestinian operation, have the Houthis been running across northwestern Yemen over the past several months?",
+    "a": "“Al-Aqsa Flood” programs."
+  },
+  {
+    "q": "Which Yemeni political group’s statehood announcement in January 2026 exposed the depth of dysfunction between Saudi and UAE-backed forces in southern Yemen?",
+    "a": "The Southern Transitional Council (STC)."
+  },
+  {
+    "q": "According to the article, from which city’s hotels were STC leaders confined after the closure of their headquarters in Aden?",
+    "a": "Riyadh."
+  },
+  {
+    "q": "Which military base in Aden was effectively used by Saudi officers to govern the city after the Southern Transitional Council’s headquarters closed?",
+    "a": "The Bir Ahmed military base."
+  },
+  {
+    "q": "The Houthi economy is described as being sustained in part by an oil embargo imposed on the ports of which specific region in Yemen?",
+    "a": "Hadramout."
+  },
+  {
+    "q": "Through which Omani city are the Houthis currently negotiating indirectly with Riyadh?",
+    "a": "Muscat."
+  },
+  {
+    "q": "In the 2023-2025 Red Sea campaign, what was the primary strategic outcome for the Houthi movement regarding its global status?",
+    "a": "It elevated the movement from a regional insurgency to a global security concern."
+  },
+  {
+    "q": "Which specific Hezbollah leader died in Beirut, an event that preceded the death of Iran’s supreme leader and impacted Houthi calculations?",
+    "a": "Hassan Nasrallah."
+  },
+  {
+    "q": "What two specific currencies does the article state the Houthi governance model runs on?",
+    "a": "Coercion and conviction."
+  },
+  {
+    "q": "Which international organization maintains a diplomatic track with the Houthis as of 2026, distinguishing the group from its 2015 insurgent status?",
+    "a": "The United Nations."
+  },
+  {
+    "q": "The article notes that the Houthis’ most effective weapons still trace their specifications to which country’s lineages, requiring external components?",
+    "a": "Iran."
+  },
+  {
+    "q": "In the weeks before the U.S.-Iran war began, the Houthis branded themselves as the most committed member of what specific political or military coalition?",
+    "a": "The “axis of resistance.”"
+  },
+  {
+    "q": "Which specific U.S. military command seized the 750 tons of Iranian-origin materiel bound for the Houthis in July 2025?",
+    "a": "U.S. Central Command."
+  },
+  {
+    "q": "What specific type of force are the Houthis building through their nationwide mobilization, as opposed to the missile force they previously relied on?",
+    "a": "A ground force designed to produce mass operations."
+  },
+  {
+    "q": "Which specific governorate in northwestern Yemen is the focus of the Houthi mobilization aimed at controlling coastline and territory?",
+    "a": "The article refers to northwestern Yemen generally, but specifically mentions mobilization across every governorate they control in that region."
+  },
+  {
+    "q": "What specific economic tool did the Houthis use to prevent exports from government-controlled territory by attacking tankers with drones?",
+    "a": "An oil embargo on Hadramout’s ports."
+  }
+]

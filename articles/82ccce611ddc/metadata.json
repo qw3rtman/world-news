@@ -1,0 +1,27 @@
+{
+  "hash": "82ccce611ddc",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.thehindu.com/news/international/us-navy-has-not-yet-escorted-ships-through-strait-of-hormuz-white-house-on-energy-secretarys-now-deleted-post/article70728411.ece",
+      "title": "U.S. Navy has not yet escorted ships through Strait of Hormuz: White House on Energy Secretary’s now-deleted post - The Hindu",
+      "published_date": "2026-03-10T00:00:00.000Z",
+      "author": "Reuters",
+      "num_tokens": 503,
+      "text_length": 2141
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1554932",
+      "spike_id": 1,
+      "market_question": "US escorts commercial ship through Hormuz by March 31?",
+      "event_title": "US escorts commercial ship through Hormuz by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.18,
+      "spike_timestamp_before": "2026-03-11T21:30:30+00:00",
+      "spike_timestamp_after": "2026-03-11T22:30:31+00:00"
+    }
+  ]
+}

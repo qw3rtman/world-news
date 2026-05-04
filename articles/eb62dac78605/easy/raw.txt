@@ -1,0 +1,102 @@
+[
+  {
+    "q": "According to Pitchbook, what was the total value of global mergers and acquisitions deal-making activity in 2025, and by what percentage did it surge compared to the previous year?",
+    "a": "The total value was $4.9 trillion, representing a nearly 40% surge."
+  },
+  {
+    "q": "Which private market intelligence firm reported that global M&A activity reached a record $4.9 trillion in 2025?",
+    "a": "Pitchbook."
+  },
+  {
+    "q": "What specific policy action by U.S. President Donald Trump early in 2025 briefly scuttled acquisitions and new public listings, causing a sluggish start to the year?",
+    "a": "Sweeping tariffs."
+  },
+  {
+    "q": "Despite the tightest capital squeeze in 30 years, which year's global mergers and acquisitions boom is described as carrying into 2026?",
+    "a": "2025."
+  },
+  {
+    "q": "What two main factors are driving large-scale transactions and portfolio reassessments in the global M&A market in 2026, according to the article?",
+    "a": "Companies reassessing their portfolios and artificial intelligence-led demand."
+  },
+  {
+    "q": "How does the article describe the current state of the capital pool in 2026 in terms of its historical severity?",
+    "a": "It is the tightest capital squeeze in 30 years."
+  },
+  {
+    "q": "What behavioral change is the tightening capital pool in 2026 forcing executives to adopt regarding deal-making?",
+    "a": "Being more selective than ever."
+  },
+  {
+    "q": "In which year did global M&A activity reach a record $4.9 trillion according to Pitchbook data?",
+    "a": "2025."
+  },
+  {
+    "q": "What type of demand is fueling large-scale transactions in the global M&A market in 2026?",
+    "a": "Artificial intelligence-led demand."
+  },
+  {
+    "q": "What event early in 2025 caused a brief scuttle of acquisitions and new public listings before the market surged?",
+    "a": "U.S. President Donald Trump's sweeping tariffs."
+  },
+  {
+    "q": "By what approximate percentage did the total value of deal-making activity increase in 2025 to reach $4.9 trillion?",
+    "a": "Nearly 40%."
+  },
+  {
+    "q": "Which firm provided the market intelligence data stating that global M&A reached a record $4.9 trillion in 2025?",
+    "a": "Pitchbook."
+  },
+  {
+    "q": "What historical comparison is made regarding the capital squeeze affecting the M&A market in 2026?",
+    "a": "It is the tightest capital squeeze in 30 years."
+  },
+  {
+    "q": "What is the primary reason companies are reassessing their portfolios in the 2026 M&A landscape?",
+    "a": "Artificial intelligence-led demand is fueling large-scale transactions."
+  },
+  {
+    "q": "What was the impact of U.S. President Donald Trump's tariffs early in 2025 on the M&A market?",
+    "a": "They briefly scuttled acquisitions and new public listings."
+  },
+  {
+    "q": "What was the record total value of global M&A deal-making activity in 2025 as reported by Pitchbook?",
+    "a": "$4.9 trillion."
+  },
+  {
+    "q": "How many years back does the current capital squeeze in 2026 go for comparison purposes?",
+    "a": "30 years."
+  },
+  {
+    "q": "What sector-led demand is specifically mentioned as fueling large-scale transactions in 2026?",
+    "a": "Artificial intelligence-led demand."
+  },
+  {
+    "q": "Which U.S. President's policy actions in early 2025 initially hindered the M&A boom?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "What type of listings were briefly scuttled by U.S. President Donald Trump's tariffs in early 2025?",
+    "a": "New public listings."
+  },
+  {
+    "q": "What is the described trend of the global M&A boom from 2025 into 2026?",
+    "a": "It is carrying over, despite a tightening capital pool."
+  },
+  {
+    "q": "According to Pitchbook, what was the percentage increase in deal-making activity value in 2025?",
+    "a": "Nearly 40%."
+  },
+  {
+    "q": "What is the specific name of the private market intelligence firm that reported the 2025 M&A record?",
+    "a": "Pitchbook."
+  },
+  {
+    "q": "What is the primary constraint facing executives in the 2026 M&A market that forces them to be more selective?",
+    "a": "The tightest capital squeeze in 30 years."
+  },
+  {
+    "q": "What two elements are driving the global M&A market in 2026 according to the article's opening summary?",
+    "a": "Portfolio reassessments by companies and artificial intelligence-led demand."
+  }
+]

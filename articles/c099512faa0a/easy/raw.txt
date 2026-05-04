@@ -1,0 +1,102 @@
+[
+  {
+    "q": "According to LSEG data covering the week through Tuesday, March 2026, how many points did the 30-day at-the-money Brent implied volatility jump, and what was the resulting percentage level?",
+    "a": "It jumped 17.5 points to 68%."
+  },
+  {
+    "q": "In the week leading up to March 2, 2026, what was the specific widening amount of the spread between the front-month Brent contract and the six-month contract, and how did this compare to historical levels since the Russia-Ukraine war?",
+    "a": "The spread widened to about $10, marking the steepest backwardation since the Russia-Ukraine war in 2022."
+  },
+  {
+    "q": "What specific numerical change occurred in the put-to-call ratio on West Texas Intermediate options between Friday’s close and Monday, March 2026, according to CME data?",
+    "a": "The ratio roughly halved to 0.35 from Friday's close."
+  },
+  {
+    "q": "Who is the former Goldman Sachs energy specialist who stated that the market is betting the oil price shock is logistical rather than structural, and at which event did he make this comment?",
+    "a": "Brian E. Kinsella made this comment at the Reuters Global Markets Forum."
+  },
+  {
+    "q": "As of early March 2026, what percentage of Brent options open interest was concentrated in April through July expiries, and which data source provided this positioning information?",
+    "a": "More than 40% of open interest was concentrated in those expiries, according to CME data."
+  },
+  {
+    "q": "What were the specific open interest figures for Brent options on February 18, 2026, and February 27, 2026, before the surge observed in early March?",
+    "a": "Open interest fell from around 388,000 contracts on Feb. 18 to roughly 73,000 by Feb. 27."
+  },
+  {
+    "q": "Which two entities launched the attack on Iran that sent shockwaves through energy markets in March 2026, according to the article?",
+    "a": "Israel and the United States launched the attack."
+  },
+  {
+    "q": "What was the put-to-call ratio on West Texas Intermediate options on Tuesday, March 2026, after it had rebounded from Monday's low?",
+    "a": "It rebounded to 0.56."
+  },
+  {
+    "q": "According to Rebecca Babin, senior energy trader at CIBC Private Wealth US, what was the trading status of much of the 2027 Brent strip as of early March 2026?",
+    "a": "Much of the 2027 Brent strip still traded below $70 a barrel."
+  },
+  {
+    "q": "What specific gamma profile did Rebecca Babin of CIBC Private Wealth US describe as being created by dealers being short a meaningful amount of deep out-of-the-money calls in crude?",
+    "a": "She described it as a more negative gamma profile."
+  },
+  {
+    "q": "How did the 60-day and 90-day Brent implied volatility tenors change over the past week through Tuesday, March 2026, according to LSEG data?",
+    "a": "The 60-day tenor rose by 5.9 percentage points and the 90-day tenor rose by 2.8 percentage points."
+  },
+  {
+    "q": "What specific market disruption at the Strait of Hormuz was cited as a cause for snarling oil flows and stranding hundreds of vessels in March 2026?",
+    "a": "Disruptions at the Strait of Hormuz were cited as the cause."
+  },
+  {
+    "q": "Who is the managing director of commodities at Bannockburn Capital Markets who stated that risk premiums remain concentrated at the front of the futures curve?",
+    "a": "Darrell E. Fletcher holds that title and made that statement."
+  },
+  {
+    "q": "What was the level of Brent options open interest on March 2, 2026, after the surge that followed the late February unwind?",
+    "a": "It surged to more than 700,000 contracts."
+  },
+  {
+    "q": "According to Brian E. Kinsella, what specific aspect of the futures curve should traders pay attention to, rather than the front end which was closing a trade?",
+    "a": "He stated that the back end is what to pay attention to."
+  },
+  {
+    "q": "What specific financial instrument gives the holder the right, but not the obligation, to buy a crude futures contract at a set price, as defined in the article?",
+    "a": "A call option gives the holder that right."
+  },
+  {
+    "q": "What specific financial instrument gives the holder the right to sell a crude futures contract, as defined in the article?",
+    "a": "A put option gives the holder that right."
+  },
+  {
+    "q": "What specific metric did Brian E. Kinsella say the market is watching in real time to distinguish between a logistics crisis and a structural one?",
+    "a": "He said the market is watching the difference between a logistics crisis and a structural one."
+  },
+  {
+    "q": "What specific action have producers taken during the rally in early March 2026 that created natural selling pressure on longer-dated volatility, according to Rebecca Babin?",
+    "a": "Producers have used the rally to hedge forward output."
+  },
+  {
+    "q": "What was the specific change in the put-to-call ratio on West Texas Intermediate options between Monday and Tuesday, March 2026, according to CME data?",
+    "a": "It rebounded from 0.35 on Monday to 0.56 on Tuesday."
+  },
+  {
+    "q": "What specific war-related cost surge was cited as a factor in the shockwaves through energy markets following the Israel-U.S. attack on Iran in March 2026?",
+    "a": "War-risk insurance costs surged."
+  },
+  {
+    "q": "What specific record level did freight rates hit during the disruptions in the Strait of Hormuz in March 2026?",
+    "a": "Freight rates hit record levels."
+  },
+  {
+    "q": "According to Darrell E. Fletcher of Bannockburn Capital Markets, what does the concentration of risk premiums at the front of the futures curve reinforce?",
+    "a": "It reinforces the view that traders still see the disruption as temporary."
+  },
+  {
+    "q": "What specific contrast did Rebecca Babin of CIBC Private Wealth US draw between the current crude market environment and the more typical environment regarding dealer gamma positions?",
+    "a": "She contrasted the current negative gamma profile with the typical environment where dealers are long gamma and sell into rallies."
+  },
+  {
+    "q": "What specific date range did Brian E. Kinsella identify as the period when Brent options open interest plunged before rebounding in early March 2026?",
+    "a": "Open interest plunged in late February before rebounding in early March."
+  }
+]

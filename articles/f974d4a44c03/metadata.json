@@ -1,0 +1,37 @@
+{
+  "hash": "f974d4a44c03",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://today.reuters.com/world/china/trump-travel-china-march-31-april-2-amid-trade-tensions-2026-02-20/",
+      "title": "Trump to travel to China next month, with US tariffs in focus | Reuters",
+      "published_date": "2026-02-20T00:00:00.000Z",
+      "author": "Trevor Hunnicutt",
+      "num_tokens": 1116,
+      "text_length": 5680
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "604490",
+      "spike_id": 1,
+      "market_question": "Will Trump visit China by March 31?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.63,
+      "spike_timestamp_before": "2026-02-20T12:30:23+00:00",
+      "spike_timestamp_after": "2026-02-20T15:00:19+00:00"
+    },
+    {
+      "market_id": "604490",
+      "spike_id": 2,
+      "market_question": "Will Trump visit China by March 31?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.765,
+      "spike_timestamp_before": "2026-02-20T12:30:23+00:00",
+      "spike_timestamp_after": "2026-02-20T18:30:18+00:00"
+    }
+  ]
+}

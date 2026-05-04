@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In his State of the Union address delivered on February 24, 2026, what specific claim did U.S. President Donald Trump make regarding Iran's missile capabilities?",
+    "a": "Trump claimed that Iran has been building missiles that could soon reach the American homeland."
+  },
+  {
+    "q": "According to two sources cited by CNN in late February 2026, does U.S. intelligence support President Donald Trump's assertion that Iran is close to possessing a missile capable of hitting the U.S.?",
+    "a": "No, sources stated there is no intelligence to suggest Iran is pursuing an ICBM program to hit the U.S. at this time."
+  },
+  {
+    "q": "What timeline did the unclassified 2025 Defense Intelligence Agency assessment provide for Iran developing a militarily viable intercontinental ballistic missile?",
+    "a": "The assessment said Iran could develop such a missile by 2035 should Tehran decide to pursue the capability."
+  },
+  {
+    "q": "White House spokesperson Anna Kelly responded to CNN reporting in late February 2026 by defending which U.S. President's statements about Iran?",
+    "a": "She defended President Donald Trump, stating he is right to highlight the grave concern posed by Iran possessing intercontinental ballistic missiles."
+  },
+  {
+    "q": "Which U.S. officials participated in a briefing with the \"Gang of Eight\" congressional leaders in the week leading up to late February 2026 where Iranian missile technology was not discussed?",
+    "a": "Secretary of State Marco Rubio and CIA Director John Ratcliffe."
+  },
+  {
+    "q": "In an interview with India Today TV released in late February 2026, what missile range limit did Iranian Foreign Minister Abbas Araghchi say his country had deliberately set?",
+    "a": "He stated Iran had limited its missile range to 2,000 kilometers for defensive purposes."
+  },
+  {
+    "q": "During a press conference in St. Kitts on Wednesday, February 25, 2026, how did U.S. Secretary of State Marco Rubio characterize Iran's efforts regarding intercontinental ballistic missiles?",
+    "a": "He said Iran is \"certainly\" trying to achieve intercontinental ballistic missiles and is headed toward developing weapons that could reach the continental U.S."
+  },
+  {
+    "q": "According to U.S. sources in late February 2026, what type of Iranian missiles currently threaten U.S. bases and personnel in the region?",
+    "a": "Iran possesses short-range ballistic missiles that could threaten U.S. bases and personnel in the region."
+  },
+  {
+    "q": "Special Envoy Steve Witkoff claimed in an interview released in late February 2026 that Iran was approximately how far away from having industrial-grade bombmaking material?",
+    "a": "He claimed Iran was probably a week away from having industrial-grade bombmaking material."
+  },
+  {
+    "q": "According to a source cited in late February 2026, what specific actions is Iran taking to rebuild its nuclear enrichment capability?",
+    "a": "Iran is installing additional centrifuges, getting back online centrifuges that survived last year's strikes, and rebuilding damaged or destroyed facilities."
+  },
+  {
+    "q": "Despite claims that Iran was a week away from bombmaking material, what did sources and experts say in late February 2026 regarding the timeline for rebuilding Iran's nuclear program?",
+    "a": "Sources and experts said the work would take far longer than a week."
+  },
+  {
+    "q": "In his State of the Union address on February 24, 2026, which earlier event did U.S. President Donald Trump reference to support his claims about Iran?",
+    "a": "He referenced Saturday’s U.S. military strikes against Iran, which occurred on February 21, 2026."
+  },
+  {
+    "q": "U.S. Secretary of State Marco Rubio stated in late February 2026 that Iran’s refusal to discuss its ballistic missile program was a problem during negotiations focused on what specific issue?",
+    "a": "The negotiations had so far only focused on nuclear issues."
+  },
+  {
+    "q": "According to U.S. Secretary of State Marco Rubio in late February 2026, what is Iran's current status regarding nuclear enrichment?",
+    "a": "Rubio acknowledged that Iran is not enriching right now but is trying to get to the point where it ultimately can."
+  },
+  {
+    "q": "Three sources told CNN in late February 2026 that there had been no change in recent assessments regarding Iran's aspirations for which type of weapon?",
+    "a": "Assessments regarding Iran’s intercontinental ballistic missile aspirations had not changed."
+  },
+  {
+    "q": "U.S. Secretary of State Marco Rubio argued in late February 2026 that Iran possesses conventional weapons designed for what specific purpose?",
+    "a": "He argued they are solely designed to attack America and attack Americans if Iran chooses to do so."
+  },
+  {
+    "q": "The Trump administration had previously asserted that U.S. military strikes in the previous year had done what to Iran's nuclear program?",
+    "a": "The administration asserted that the U.S. had \"obliterated\" Iran’s nuclear program."
+  },
+  {
+    "q": "According to a source in late February 2026, where is the work to rebuild Iran's nuclear program taking place in relation to potential future military strikes?",
+    "a": "The work is happening in places that are not likely to be impacted by military strikes."
+  },
+  {
+    "q": "Which two main U.S. negotiators were involved in discussions with Iran in the weeks leading up to late February 2026?",
+    "a": "Special Envoy Steve Witkoff and another unnamed negotiator (Witkoff is identified as one of two main negotiators)."
+  },
+  {
+    "q": "U.S. Secretary of State Marco Rubio stated in late February 2026 that he would not speculate on how far away Iran is from having a certain capability, but affirmed they are pursuing what?",
+    "a": "He affirmed they are pursuing intercontinental ballistic missiles."
+  },
+  {
+    "q": "In late February 2026, which U.S. government agency produced an unclassified assessment in 2025 stating Iran could develop a militarily viable ICBM by 2035?",
+    "a": "The Defense Intelligence Agency (DIA)."
+  },
+  {
+    "q": "White House spokesperson Anna Kelly stated in late February 2026 that Iran chants what slogan?",
+    "a": "She stated Iran chants \"death to America.\""
+  },
+  {
+    "q": "According to Iranian Foreign Minister Abbas Araghchi in late February 2026, what is the stated purpose of Iran's missiles?",
+    "a": "He stated the missiles are for defense."
+  },
+  {
+    "q": "U.S. Secretary of State Marco Rubio told reporters in St. Kitts in late February 2026 that Iran is increasing the range of what existing assets?",
+    "a": "He said Iran is increasing the range of the missiles they have now."
+  },
+  {
+    "q": "CNN reported in late February 2026 that intelligence shows Iran is rebuilding facilities needed to weaponize what material?",
+    "a": "Iran is rebuilding facilities needed to weaponize enriched uranium."
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "hash": "b21b0592af1d",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://foreignpolicy.com/2026/03/03/iran-strikes-hormuz-shipping-oil-2/",
+      "title": "Iran Strikes, Strait of Hormuz Closure Are Causing Chaos for Global Shipping",
+      "published_date": "2026-03-03T00:00:00.000Z",
+      "author": "Elisabeth Braw",
+      "num_tokens": 1683,
+      "text_length": 7618
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "665307",
+      "spike_id": 10,
+      "market_question": "Will Iran close the Strait of Hormuz before 2027?",
+      "event_title": "Will Iran close the Strait of Hormuz by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.15149999999999997,
+      "spike_timestamp_before": "2026-03-05T02:00:26+00:00",
+      "spike_timestamp_after": "2026-03-05T20:00:38+00:00"
+    },
+    {
+      "market_id": "665307",
+      "spike_id": 7,
+      "market_question": "Will Iran close the Strait of Hormuz before 2027?",
+      "event_title": "Will Iran close the Strait of Hormuz by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.36749999999999994,
+      "spike_timestamp_before": "2026-03-02T17:00:39+00:00",
+      "spike_timestamp_after": "2026-03-03T14:00:31+00:00"
+    },
+    {
+      "market_id": "665307",
+      "spike_id": 8,
+      "market_question": "Will Iran close the Strait of Hormuz before 2027?",
+      "event_title": "Will Iran close the Strait of Hormuz by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.33799999999999997,
+      "spike_timestamp_before": "2026-03-03T14:00:31+00:00",
+      "spike_timestamp_after": "2026-03-03T20:00:26+00:00"
+    },
+    {
+      "market_id": "665307",
+      "spike_id": 9,
+      "market_question": "Will Iran close the Strait of Hormuz before 2027?",
+      "event_title": "Will Iran close the Strait of Hormuz by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.388,
+      "spike_timestamp_before": "2026-03-03T20:00:26+00:00",
+      "spike_timestamp_after": "2026-03-04T17:00:34+00:00"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "hash": "85b792dc82c0",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://thehill.com/homenews/senate/5773743-tillis-noem-dhs-departure/",
+      "title": "Thom Tillis praises Kristi Noem's ouster: 'I'm glad the president made the decision'",
+      "published_date": "2026-03-08T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 497,
+      "text_length": 2381
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1378925",
+      "spike_id": 7,
+      "market_question": "Will the DHS shutdown end after March 31, 2026?",
+      "event_title": "When will the DHS shutdown end?",
+      "spike_direction": "up",
+      "spike_delta": 0.1775,
+      "spike_timestamp_before": "2026-03-10T14:30:41+00:00",
+      "spike_timestamp_after": "2026-03-11T10:30:37+00:00"
+    }
+  ]
+}

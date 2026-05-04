@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In late February 2026, which U.S. President ordered federal agencies and military contractors to cease business with Anthropic, and what specific designation did Defense Secretary Pete Hegseth assign to the company?",
+    "a": "President Donald Trump issued the order, and Defense Secretary Pete Hegseth designated Anthropic as a \"supply chain risk.\""
+  },
+  {
+    "q": "What is the deadline given by the Trump administration for government agencies to phase out the use of Anthropic’s products, and on which social media platform did President Donald Trump announce this directive?",
+    "a": "Agencies have six months to phase out the products, and President Donald Trump announced the directive on Truth Social.",
+  },
+  {
+    "q": "What were the two specific \"redlines\" that Anthropic CEO Dario Amodei refused to allow the Pentagon to cross regarding the use of its Claude AI system?",
+    "a": "Anthropic refused to allow Claude to be used in autonomous weapons or for the mass surveillance of U.S. citizens.",
+  },
+  {
+    "q": "On what date in February 2026 did Defense Secretary Pete Hegseth and Anthropic CEO Dario Amodei hold a high-stakes meeting at the Pentagon that preceded the administration's final decision?",
+    "a": "The meeting took place on Tuesday, February 24, 2026.",
+  },
+  {
+    "q": "What is the maximum monetary value of the contract Anthropic struck with the Pentagon last summer, and what unique distinction did the Claude AI model hold regarding military networks?",
+    "a": "The contract was worth up to $200 million, and Claude was the first AI model to work on the military’s classified networks.",
+  },
+  {
+    "q": "Which federal entity announced it would remove Anthropic from USAi.gov shortly after President Donald Trump’s Friday afternoon post in February 2026?",
+    "a": "The General Services Administration announced the removal of Anthropic from USAi.gov.",
+  },
+  {
+    "q": "According to Pentagon spokesperson Sean Parnell, why did the Department of Defense refuse to let Anthropic dictate terms regarding operational decisions?",
+    "a": "Pentagon spokesperson Sean Parnell stated that no company should be allowed to jeopardize critical military operations or put warfighters at risk.",
+  },
+  {
+    "q": "What is the approximate valuation of Anthropic at the time of the dispute in February 2026, and which major AI chipmaker CEO commented that the fallout would not be \"the end of the world\"?",
+    "a": "Anthropic was valued at around $380 billion, and Nvidia CEO Jensen Huang made the comment.",
+  },
+  {
+    "q": "Which 1950 law did the Pentagon consider using to compel Anthropic to work with them, and what authority does this law grant the president?",
+    "a": "The Pentagon considered the Defense Procurement Act, which gives the president significant emergency authority to control domestic industries.",
+  },
+  {
+    "q": "Which AI system did a Pentagon official state was \"on board with being used in a classified setting\" as a potential replacement for Claude, and whose CEO is Elon Musk?",
+    "a": "Elon Musk’s Grok AI system was stated to be on board for use in a classified setting.",
+  },
+  {
+    "q": "What specific legal challenge did Anthropic promise to undertake regarding the \"supply chain risk\" designation announced by Defense Secretary Pete Hegseth in February 2026?",
+    "a": "Anthropic stated it would challenge the supply chain risk designation in court.",
+  },
+  {
+    "q": "Which think tank senior advisor Gregory Allen noted that the Department of Defense user base loves Claude and that its usage restrictions had never been triggered?",
+    "a": "Gregory Allen is a senior advisor at the Center for Strategic and International Studies.",
+  },
+  {
+    "q": "What dangerous precedent did Anthropic claim the \"supply chain risk\" designation would set for American companies negotiating with the government?",
+    "a": "Anthropic claimed the designation would be legally unsound and set a dangerous precedent for any American company negotiating with the government.",
+  },
+  {
+    "q": "Which U.S. law professor Alan Rozenshtein suggested the government was using every source of leverage to keep using Anthropic’s technology rather than simply terminating the contract?",
+    "a": "Alan Rozenshtein is a law professor at the University of Minnesota.",
+  },
+  {
+    "q": "What specific restriction did Anthropic include in its \"acceptable use policy\" within the contract that the Pentagon wanted to override for \"all lawful purposes\"?",
+    "a": "The policy prohibited the use of Claude in mass surveillance and autonomous weapons.",
+  },
+  {
+    "q": "Which Vice President for Technology Policy at the Center for American Progress warned that a large portion of Anthropic’s existing customer base might evaporate due to the designation?",
+    "a": "Adam Connor, Vice President for Technology Policy at the Center for American Progress, issued the warning.",
+  },
+  {
+    "q": "What did Defense Secretary Pete Hegseth state on X regarding which entities would be prohibited from doing business with Anthropic?",
+    "a": "Hegseth stated that no contractor, supplier, or partner doing business with the United States military would be permitted to do business with Anthropic.",
+  },
+  {
+    "q": "Which major AI company, other than Anthropic, has only struck deals with the Pentagon on unclassified networks as of early 2026?",
+    "a": "OpenAI has only struck deals with the Pentagon on their unclassified networks.",
+  },
+  {
+    "q": "What did Emil Michael, the Pentagon’s under secretary for research and engineering, say about the status of negotiations with Anthropic before the company’s Thursday statement in February 2026?",
+    "a": "Emil Michael said they were at the \"final stages\" of a deal that would have agreed to Anthropic's substantive requests.",
+  },
+  {
+    "q": "Why did a Pentagon official tell CNN that the military cannot \"lead tactical operations by exception\" in the context of the Anthropic dispute?",
+    "a": "The official stated that legality is the Pentagon’s responsibility as the end user, and they do not want to need permission from a company during national security situations.",
+  },
+  {
+    "q": "Which senior advisor at the Center for Strategic and International Studies criticized the administration's absolutist stance by comparing the AI race to the Cold War space race?",
+    "a": "Gregory Allen, a senior advisor at the Center for Strategic and International Studies, offered this criticism.",
+  },
+  {
+    "q": "What did Anthropic CEO Dario Amodei state in a Thursday statement regarding the company's intention to acquiesce to Pentagon demands?",
+    "a": "Amodei stated the company had no intention of acquiescing and could not \"in good conscience accede\" to the request.",
+  },
+  {
+    "q": "Which specific federal website, described as the government’s centralized testing ground for AI tools, was Anthropic removed from by the General Services Administration?",
+    "a": "Anthropic was removed from USAi.gov.",
+  },
+  {
+    "q": "What did Trump accuse Anthropic of doing in his Friday afternoon post on Truth Social in February 2026?",
+    "a": "Trump accused Anthropic of trying to dictate how the military operates and called its actions a \"disastrous mistake.\"",
+  },
+  {
+    "q": "Which Council on Foreign Relations source described the Defense Procurement Act as giving the president significant emergency authority to control domestic industries?",
+    "a": "The Council on Foreign Relations provided the description of the Defense Procurement Act's authority."
+  }
+]

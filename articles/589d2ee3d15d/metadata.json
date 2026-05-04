@@ -1,0 +1,27 @@
+{
+  "hash": "589d2ee3d15d",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "http://leekuanyew.straitstimes.com/business/companies-markets/stripe-considering-acquisition-of-all-or-parts-of-paypal-sources",
+      "title": "Stripe considering acquisition of all or parts of PayPal: Sources | The Straits Times",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 456,
+      "text_length": 2140
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "700395",
+      "spike_id": 1,
+      "market_question": "Will Lovable be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.22,
+      "spike_timestamp_before": "2026-02-23T17:30:48+00:00",
+      "spike_timestamp_after": "2026-02-24T05:30:26+00:00"
+    }
+  ]
+}

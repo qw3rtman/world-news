@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the article published on March 13, 2026, what is the title of the piece authored by Dahlia Scheindlin?",
+    "a": "Epic Anticlimax: Why Israelis Aren't Giving Netanyahu an Iran Bump in the Polls"
+  },
+  {
+    "q": "According to the March 13, 2026 article by Dahlia Scheindlin, which two countries are described as co-leading a war against Israel's most mortal enemy?",
+    "a": "Israel and the United States"
+  },
+  {
+    "q": "In the March 13, 2026 article, who is identified as the Prime Minister of Israel under whose leadership the described war is taking place?",
+    "a": "Benjamin Netanyahu"
+  },
+  {
+    "q": "According to the March 13, 2026 article, what political phenomenon is the Israeli public failing to exhibit despite the ongoing war?",
+    "a": "The 'rally 'round the flag' effect"
+  },
+  {
+    "q": "In the article published on March 13, 2026, what is the general trend indicated by polling for Israel's current ruling coalition?",
+    "a": "No good news for the coalition"
+  },
+  {
+    "q": "According to the March 13, 2026 article, what is the expected behavior of a public during wartime regarding their leaders in surveys?",
+    "a": "To laud the leaders"
+  },
+  {
+    "q": "In the March 13, 2026 article, how does the author describe the leadership style of Prime Minister Benjamin Netanyahu?",
+    "a": "Bold"
+  },
+  {
+    "q": "According to the article published on March 13, 2026, which specific enemy of Israel is referenced in the context of the war being led by Israel and the U.S.?",
+    "a": "Israel's most mortal enemy"
+  },
+  {
+    "q": "In the March 13, 2026 article, what is the name of the publication that released the piece titled 'Epic Anticlimax: Why Israelis Aren't Giving Netanyahu an Iran Bump in the Polls'?",
+    "a": "Israel Political News"
+  },
+  {
+    "q": "According to the March 13, 2026 article, what is the specific time stamp provided for the publication of the piece by Dahlia Scheindlin?",
+    "a": "04:14 PM IST"
+  },
+  {
+    "q": "In the article published on March 13, 2026, what is the author's rhetorical question regarding the state of the Israeli public?",
+    "a": "What is wrong with the Israeli public?"
+  },
+  {
+    "q": "According to the March 13, 2026 article, who are the entities co-leading the war described in the text?",
+    "a": "Israel and the U.S."
+  },
+  {
+    "q": "In the March 13, 2026 article, what is the specific political group that is not receiving positive polling results?",
+    "a": "Israel's current ruling coalition"
+  },
+  {
+    "q": "According to the article published on March 13, 2026, what is the title of the author who wrote the piece?",
+    "a": "Dahlia Scheindlin"
+  },
+  {
+    "q": "In the March 13, 2026 article, what is the described relationship between the war effort and the public's tendency to laud leaders?",
+    "a": "War is a time to rally 'round the flag' by lauding leaders"
+  },
+  {
+    "q": "According to the March 13, 2026 article, what is the specific date of publication for the piece discussing Netanyahu's lack of an Iran bump in polls?",
+    "a": "March 13, 2026"
+  },
+  {
+    "q": "In the article published on March 13, 2026, what is the full name of the Prime Minister of Israel mentioned?",
+    "a": "Benjamin Netanyahu"
+  },
+  {
+    "q": "According to the March 13, 2026 article, what is the specific phrase used to describe the expected wartime political behavior?",
+    "a": "Rally 'round the flag"
+  },
+  {
+    "q": "In the March 13, 2026 article, what is the specific time zone associated with the publication timestamp?",
+    "a": "IST (Israel Standard Time)"
+  },
+  {
+    "q": "According to the article published on March 13, 2026, which two nations are jointly leading the war effort?",
+    "a": "Israel and the United States"
+  },
+  {
+    "q": "In the March 13, 2026 article, what is the author's assessment of the polling data for the ruling coalition?",
+    "a": "No good news"
+  },
+  {
+    "q": "According to the March 13, 2026 article, what is the specific title of the article discussing the lack of political gain for Netanyahu?",
+    "a": "Epic Anticlimax: Why Israelis Aren't Giving Netanyahu an Iran Bump in the Polls"
+  },
+  {
+    "q": "In the article published on March 13, 2026, what is the specific role of Benjamin Netanyahu mentioned in the text?",
+    "a": "Prime Minister"
+  },
+  {
+    "q": "According to the March 13, 2026 article, what is the specific description of the enemy in the context of the war?",
+    "a": "Israel's most mortal enemy"
+  },
+  {
+    "q": "In the March 13, 2026 article, what is the specific name of the news outlet where the article was published?",
+    "a": "Israel Political News"
+  }
+]

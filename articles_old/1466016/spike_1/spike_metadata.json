@@ -1,0 +1,65 @@
+{
+  "spike_index": 1,
+  "direction": "down",
+  "price_before": 0.8,
+  "price_after": 0.595,
+  "delta": -0.20500000000000007,
+  "abs_delta": 0.20500000000000007,
+  "timestamp_before": "2026-02-28T22:00:39+00:00",
+  "timestamp_after": "2026-03-01T21:30:53+00:00",
+  "num_articles_ok": 5,
+  "num_articles_failed": 0,
+  "articles": [
+    {
+      "url": "https://links.message.bloomberg.com/s/c/61lxmTVi9FmLGe7FgcaqBOo1putbMbwMTyr96cGVRhavBdg4UeLk1E8E4c9i4mp4QpWB6Ofqxt2nnmSeI8Uj1h_G4J2HKkvdQ2QlSqqtJ8mAC05wf_hS1IfHA4KAMwMfVQJquC80YfO0FclnQ3wpit1UL6x1MC4Fr6rr5k1saaVIbbpNMWLF9yvVtEfM_j2O3wXuZTr9GOOkDNsfwEhHMKQ2G6fYnltwNhpXMensldWndR_IN_Jzvl4dc_FdiiFpFglwbfBcUtXyd6De9LKWyk1xsRvyjpXrNww6guFKvF6suAzYYYi65KNz5NvEyJI9LOM1Mz9qibQPzU2Uta73RLCJylASzbAgJAbK0VXVCjOGPKqItSzQktVdY74/NzXHI2qZiUnFoUsgG9S8Qsu3oSPwc0S5/18",
+      "file": "cdaf63d395f0.txt",
+      "title": "US x Iran ceasefire by...? Predictions & Odds | Polymarket",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": null,
+      "text_length": 252,
+      "status": "ok",
+      "num_tokens": 48
+    },
+    {
+      "url": "https://apnews.com/article/iran-us-nuclear-timeline-war-146b4072f1f6cc43cfd3bde740313a5c",
+      "file": "274f2c327bcc.txt",
+      "title": "The long, fraught timeline of Iran nuclear tensions | AP News",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": null,
+      "text_length": 11162,
+      "status": "ok",
+      "num_tokens": 2587
+    },
+    {
+      "url": "http://origin.www.bloomberg.com/news/articles/2026-02-26/us-iran-to-hold-nuclear-talks-as-trump-s-deal-deadline-looms?srnd=undefined",
+      "file": "9d20e3a6b8eb.txt",
+      "title": "US, Iran Resume Nuclear Talks as Trump\u2019s Deal Deadline Approaches - Bloomberg",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": "Patrick Sykes",
+      "text_length": 796,
+      "status": "ok",
+      "num_tokens": 172
+    },
+    {
+      "url": "http://today.reuters.com/world/middle-east/us-iran-nuclear-talks-resume-geneva-against-backdrop-military-threat-2026-02-26/",
+      "file": "fc672a304b90.txt",
+      "title": "US-Iran talks end with no deal but potential signs of progress | Reuters",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": "Parisa Hafezi",
+      "text_length": 5855,
+      "status": "ok",
+      "num_tokens": 1176
+    },
+    {
+      "url": "https://uat.apnews.com/article/iran-us-war-geneva-talks-nuclear-c1eb17f570b059f34071937c3f310fb6",
+      "file": "3429eb3ab9bc.txt",
+      "title": "US and Iran wrap up latest talks as the risk of war looms | AP News",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": null,
+      "text_length": 6538,
+      "status": "ok",
+      "num_tokens": 1304
+    }
+  ],
+  "total_tokens": 5287
+}

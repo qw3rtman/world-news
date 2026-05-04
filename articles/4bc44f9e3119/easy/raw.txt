@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the acquisition announced in March 2026, which startup did OpenAI purchase to bolster its Codex group, and who is the founder and CEO of that startup?",
+    "a": "OpenAI acquired Astral, which is founded and led by CEO Charlie Marsh."
+  },
+  {
+    "q": "What are the three specific Python development tools created by Astral that are central to OpenAI's March 2026 acquisition?",
+    "a": "The three tools are uv for dependency management, Ruff for linting and formatting, and ty for type checking."
+  },
+  {
+    "q": "Which competitor's product, Claude Code, is OpenAI trying to counter with the Astral acquisition announced in March 2026?",
+    "a": "Claude Code is developed by the company Anthropic."
+  },
+  {
+    "q": "According to the March 2026 report, what is the approximate annual revenue run rate of Anthropic, the rival company whose Claude Code product competes with OpenAI's Codex?",
+    "a": "Anthropic is nearing a $20 billion annual revenue run rate."
+  },
+  {
+    "q": "What is the reported valuation of the rival AI coding platform Cursor, which is mentioned in the context of OpenAI's March 2026 acquisition of Astral?",
+    "a": "Cursor is reportedly in talks to raise at a $50 billion valuation."
+  },
+  {
+    "q": "How many weekly active users did OpenAI's Codex group have as of the March 2026 acquisition announcement, and how does this compare to January figures?",
+    "a": "Codex had 2 million weekly active users, representing triple the user growth and five times the usage since January."
+  },
+  {
+    "q": "Who did OpenAI hire in December 2025 to lead corporate development, a move that preceded the March 2026 acquisition of Astral?",
+    "a": "OpenAI hired Albert Lee, formerly of Google, to lead corporate development."
+  },
+  {
+    "q": "Which two companies did OpenAI acquire prior to the March 2026 Astral deal, continuing a deliberate M&A run?",
+    "a": "OpenAI acquired Promptfoo in early March and Torch in January."
+  },
+  {
+    "q": "What commitment did OpenAI make regarding the open-source status of Astral's projects during the March 2026 acquisition?",
+    "a": "OpenAI committed to continuing support for the open-source projects and allowing Astral to keep building publicly alongside its existing community."
+  },
+  {
+    "q": "What is the name of the OpenAI group that receives the Astral team as part of the March 2026 acquisition deal?",
+    "a": "The Astral team is dropped into OpenAI's Codex group."
+  },
+  {
+    "q": "Who stated that Astral's tools grew from zero to hundreds of millions of downloads per month, far beyond expectations?",
+    "a": "Astral founder and CEO Charlie Marsh made this statement regarding the tool's growth."
+  },
+  {
+    "q": "What is the primary strategic goal of OpenAI's March 2026 acquisition of Astral regarding developer retention?",
+    "a": "The goal is to integrate comprehensive development workflows to retain influential developers and enhance Codex's capabilities beyond just code generation."
+  },
+  {
+    "q": "What is the status of regulatory approval for OpenAI's acquisition of Astral as of the March 2026 announcement?",
+    "a": "Regulatory approval is still pending before the deal officially closes."
+  },
+  {
+    "q": "Which specific Python ecosystem functions does Astral's toolchain cover, according to the March 2026 report on OpenAI's acquisition?",
+    "a": "Astral's tools cover dependency and environment management, linting and formatting, and type checking."
+  },
+  {
+    "q": "What is the founding thesis of Astral CEO Charlie Marsh regarding the Python ecosystem, as referenced in the March 2026 acquisition context?",
+    "a": "Marsh's thesis is that making the Python ecosystem even 1% more productive compounds into something massive over time."
+  },
+  {
+    "q": "Which blog post quote by Charlie Marsh indicates his view on the future of AI coding tools in the context of the March 2026 Astral acquisition?",
+    "a": "Marsh stated, 'It is increasingly clear to me that Codex is that frontier.'"
+  },
+  {
+    "q": "What is the name of the news organization's tech desk that published the March 19, 2026 article about OpenAI's acquisition of Astral?",
+    "a": "The article was published by the TOI Tech Desk of The Times of India."
+  },
+  {
+    "q": "How many millions of developer machines are stated to use Astral's Python development tools in the March 2026 acquisition announcement?",
+    "a": "Astral's tools are used by millions of Python developers, with hundreds of millions of downloads per month."
+  },
+  {
+    "q": "What type of competition does OpenAI face from Anthropic's Claude Code, prompting the March 2026 acquisition of Astral?",
+    "a": "Claude Code has been steadily pulling professional developers away from OpenAI's offerings."
+  },
+  {
+    "q": "What specific aspect of developer workflow does OpenAI aim to improve by acquiring Astral's tools in March 2026?",
+    "a": "OpenAI aims to integrate linting, dependency resolution, type safety, and checks without the developer leaving the environment."
+  },
+  {
+    "q": "Who is the CEO of Astral, the startup acquired by OpenAI in March 2026, and what is his perspective on the acquisition's timing relative to competitors?",
+    "a": "Charlie Marsh is the CEO of Astral, and he confirmed the acquisition helps OpenAI fight back against competitors like Anthropic."
+  },
+  {
+    "q": "What is the relationship between OpenAI's hire of Albert Lee and the acquisition of Astral in March 2026?",
+    "a": "Albert Lee was hired in December 2025 to lead corporate development, preceding the strategic M&A run that included the Astral acquisition."
+  },
+  {
+    "q": "What are the three core functions of the Python tools uv, Ruff, and ty, which OpenAI acquired via Astral in March 2026?",
+    "a": "uv handles dependency and environment management, Ruff handles linting and formatting, and ty handles type checking."
+  },
+  {
+    "q": "What is the reported valuation of Cursor, the rival AI coding platform mentioned alongside Anthropic in the March 2026 OpenAI/Astral news?",
+    "a": "Cursor is reportedly in talks to raise at a $50 billion valuation."
+  },
+  {
+    "q": "What specific metric did Charlie Marsh, CEO of Astral, cite to demonstrate the scale of his company's tools before the March 2026 OpenAI acquisition?",
+    "a": "Marsh cited that Astral's tools grew from zero to hundreds of millions of downloads per month."
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "What was the price of silver per ounce at 8:45 a.m. Eastern Time on March 3, 2026, and how did this price compare to the price at the same time one year prior?",
+    "a": "The price was $82.46 per ounce, which represented a rise of more than $50 compared to one year ago."
+  },
+  {
+    "q": "How much did the price of silver decrease between 8:45 a.m. Eastern Time on March 2, 2026, and 8:45 a.m. Eastern Time on March 3, 2026?",
+    "a": "The price decreased by $11.80."
+  },
+  {
+    "q": "At what specific time and time zone was the silver price of $82.46 per ounce recorded on March 3, 2026?",
+    "a": "The price was recorded at 8:45 a.m. Eastern Time."
+  },
+  {
+    "q": "What was the year-over-year price change for silver as of March 3, 2026, and what was the specific price recorded on that date?",
+    "a": "The price rose by more than $50 compared to one year ago, reaching $82.46 per ounce."
+  },
+  {
+    "q": "Did the price of silver increase or decrease from March 2, 2026, to March 3, 2026, and by what monetary amount?",
+    "a": "The price decreased by $11.80."
+  },
+  {
+    "q": "What was the silver price per ounce on March 3, 2026, and what was the magnitude of the daily drop from the previous day?",
+    "a": "The price was $82.46 per ounce, following an $11.80 drop."
+  },
+  {
+    "q": "How does the silver price of $82.46 per ounce on March 3, 2026, compare to the price one year earlier in terms of minimum increase?",
+    "a": "It was more than $50 higher than the price one year ago."
+  },
+  {
+    "q": "What was the exact timestamp for the silver price quote of $82.46 per ounce published on March 3, 2026?",
+    "a": "The quote was at 8:45 a.m. Eastern Time."
+  },
+  {
+    "q": "Calculate the approximate price of silver one year prior to March 3, 2026, based on the reported gain of more than $50.",
+    "a": "The price was less than $32.46 per ounce."
+  },
+  {
+    "q": "What was the silver price per ounce on March 3, 2026, and what was the price at the same time on March 2, 2026?",
+    "a": "The price was $82.46 on March 3, and $94.26 on March 2."
+  },
+  {
+    "q": "Was the silver market trending up or down on March 3, 2026, compared to the previous day, and what was the specific decline?",
+    "a": "The market was trending down with an $11.80 decrease."
+  },
+  {
+    "q": "What was the silver price per ounce on March 3, 2026, and how did this figure relate to the annual price trend?",
+    "a": "The price was $82.46 per ounce, marking a rise of more than $50 from the previous year."
+  },
+  {
+    "q": "On March 3, 2026, at 8:45 a.m. Eastern Time, what was the silver price and what was the year-over-year price difference?",
+    "a": "The price was $82.46 per ounce, with a year-over-year increase of more than $50."
+  },
+  {
+    "q": "What was the daily price change for silver between March 2, 2026, and March 3, 2026, and what was the closing price on March 3?",
+    "a": "The price changed by -$11.80, closing at $82.46 per ounce."
+  },
+  {
+    "q": "What was the silver price per ounce on March 3, 2026, and what was the minimum value of the silver price one year prior?",
+    "a": "The price was $82.46, and the price one year prior was less than $32.46."
+  },
+  {
+    "q": "How much did the price of silver drop on March 3, 2026, compared to March 2, 2026, and what was the final price on March 3?",
+    "a": "The price dropped by $11.80 to $82.46 per ounce."
+  },
+  {
+    "q": "What was the silver price at 8:45 a.m. Eastern Time on March 3, 2026, and how did this compare to the price one year ago?",
+    "a": "The price was $82.46 per ounce, which was more than $50 higher than one year ago."
+  },
+  {
+    "q": "What was the silver price per ounce on March 3, 2026, and what was the specific dollar amount of the decline from the previous day?",
+    "a": "The price was $82.46 per ounce, with a decline of $11.80."
+  },
+  {
+    "q": "Did the silver price on March 3, 2026, show a year-over-year gain or loss, and what was the specific price recorded?",
+    "a": "It showed a gain of more than $50, with a price of $82.46 per ounce."
+  },
+  {
+    "q": "What was the silver price per ounce on March 3, 2026, and what was the price at the same time on March 2, 2026?",
+    "a": "The price was $82.46 on March 3, and $94.26 on March 2."
+  },
+  {
+    "q": "What was the silver price at 8:45 a.m. Eastern Time on March 3, 2026, and what was the year-over-year price increase?",
+    "a": "The price was $82.46 per ounce, with an increase of more than $50."
+  },
+  {
+    "q": "How much did the silver price decrease from March 2, 2026, to March 3, 2026, and what was the price on March 3?",
+    "a": "The price decreased by $11.80 to $82.46 per ounce."
+  },
+  {
+    "q": "What was the silver price per ounce on March 3, 2026, and how did this compare to the price one year prior?",
+    "a": "The price was $82.46 per ounce, which was more than $50 higher than one year ago."
+  },
+  {
+    "q": "What was the silver price at 8:45 a.m. Eastern Time on March 3, 2026, and what was the daily change from the previous day?",
+    "a": "The price was $82.46 per ounce, with a decrease of $11.80."
+  },
+  {
+    "q": "What was the silver price per ounce on March 3, 2026, and what was the minimum year-over-year price increase?",
+    "a": "The price was $82.46 per ounce, with an increase of more than $50."
+  }
+]

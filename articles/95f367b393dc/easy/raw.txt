@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On February 23, 2026, what was the percentage increase in spot gold prices and what specific price per ounce did it reach, following a U.S. Supreme Court ruling against President Donald Trump's tariffs?",
+    "a": "Spot gold rose 0.9% to $5,146.89 per ounce."
+  },
+  {
+    "q": "Following the U.S. Supreme Court's Friday ruling that President Donald Trump's tariffs exceeded his authority, what specific blanket levy did President Donald Trump impose on imports on Monday, February 23, 2026?",
+    "a": "He imposed a 15% levy on imports."
+  },
+  {
+    "q": "What was the price of U.S. gold futures for April delivery on February 23, 2026, and what was its percentage gain that day?",
+    "a": "U.S. gold futures for April delivery were up 1.7% at $5,167.90."
+  },
+  {
+    "q": "Independent analyst Ross Norman attributed the price recovery in gold and silver on February 23, 2026, to concerns over tariff outlooks and what other economic factor mentioned in his statement?",
+    "a": "Weak economic growth data."
+  },
+  {
+    "q": "On February 23, 2026, what was the percentage increase in spot silver prices and what specific price per ounce did it reach?",
+    "a": "Spot silver climbed 2.6% to $86.73 per ounce."
+  },
+  {
+    "q": "What was the percentage change and specific price per ounce for spot platinum on February 23, 2026?",
+    "a": "Spot platinum edged 0.3% higher to $2,163.64 per ounce."
+  },
+  {
+    "q": "What was the percentage increase and specific price per ounce for palladium on February 23, 2026?",
+    "a": "Palladium added 1.8% to $1,779.81."
+  },
+  {
+    "q": "According to data released on Friday, February 20, 2026, how did underlying U.S. inflation behave in December, and what trend was indicated for January?",
+    "a": "Underlying U.S. inflation increased more than expected in December, with signs pointing to further acceleration in January."
+  },
+  {
+    "q": "What geopolitical tension were global markets watching on February 23, 2026, involving Iran's nuclear programme and sanctions?",
+    "a": "U.S.-Iran tensions, with Iran indicating preparedness to make concessions on its nuclear programme in return for lifting sanctions and recognition of its right to enrich uranium."
+  },
+  {
+    "q": "Why did the U.S. dollar fall on February 23, 2026, and how did this affect overseas buyers of bullion?",
+    "a": "The dollar fell because the U.S. Supreme Court found President Donald Trump's tariffs exceeded his authority, making greenback-priced commodities like bullion more affordable for overseas buyers."
+  },
+  {
+    "q": "What was the highest gold price level reached on February 23, 2026, before it settled, and when was the last time gold had been at that high?",
+    "a": "Gold rose as much as 1.1% and hit its highest since January 30, 2026."
+  },
+  {
+    "q": "How many countries did President Donald Trump insist should keep their existing trade deals with higher tariffs after imposing the new 15% levy on February 23, 2026?",
+    "a": "Nearly 20 countries."
+  },
+  {
+    "q": "What potential impact did the Federal Reserve's policy path have on gold prices on February 23, 2026, according to the article?",
+    "a": "Higher inflation data could discourage the Federal Reserve from easing interest rates soon, lessening the appeal of holding non-yielding gold."
+  },
+  {
+    "q": "Who was the independent analyst quoted on February 23, 2026, regarding gold's potential to reclaim its long-term bull market in a measured way?",
+    "a": "Ross Norman."
+  },
+  {
+    "q": "What specific authority did the U.S. Supreme Court rule President Donald Trump exceeded regarding tariffs on Friday, February 20, 2026?",
+    "a": "The Court ruled that President Donald Trump's sweeping tariffs exceeded his authority."
+  },
+  {
+    "q": "What was the maximum level of levy allowed under the law that President Donald Trump imposed on imports on February 23, 2026?",
+    "a": "15%."
+  },
+  {
+    "q": "Which two precious metals saw significant price increases on February 23, 2026, with spot silver rising more than spot gold?",
+    "a": "Spot gold rose 0.9% and spot silver rose 2.6%."
+  },
+  {
+    "q": "What did Iran indicate it was prepared to do on February 23, 2026, in exchange for the lifting of sanctions and recognition of its right to enrich uranium?",
+    "a": "Make concessions on its nuclear programme."
+  },
+  {
+    "q": "What event on Friday, February 20, 2026, injected fresh uncertainty into trade policy and stirred up demand for gold on Monday, February 23, 2026?",
+    "a": "The U.S. Supreme Court ruling against President Donald Trump's tariffs."
+  },
+  {
+    "q": "What specific date range did independent analyst Ross Norman reference when describing gold's surge to unprecedented heights earlier in 2026?",
+    "a": "Earlier this year (referring to the period leading up to February 2026)."
+  },
+  {
+    "q": "What was the specific price per ounce of spot gold on February 23, 2026, after it had risen as much as 1.1% earlier in the day?",
+    "a": "$5,146.89 per ounce."
+  },
+  {
+    "q": "Which organization's speakers were markets watching on the week of February 23, 2026, for signals regarding policy paths that could affect gold prices?",
+    "a": "The Federal Reserve."
+  },
+  {
+    "q": "What was the percentage gain for U.S. gold futures for April delivery on February 23, 2026, compared to the percentage gain for spot gold?",
+    "a": "U.S. gold futures for April delivery were up 1.7%, while spot gold was up 0.9%."
+  },
+  {
+    "q": "What did President Donald Trump do immediately after the U.S. Supreme Court's ruling on Friday, February 20, 2026, as reported on February 23, 2026?",
+    "a": "He lashed out at the court and imposed a blanket 15% levy on imports."
+  },
+  {
+    "q": "What was the specific price per ounce of palladium on February 23, 2026, and what was its percentage increase?",
+    "a": "Palladium was at $1,779.81 per ounce, adding 1.8%."
+  }
+]

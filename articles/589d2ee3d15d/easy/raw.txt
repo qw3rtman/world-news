@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In late February 2026, which private payment processing firm was reported to be considering an acquisition of all or parts of PayPal Holdings?",
+    "a": "Stripe"
+  },
+  {
+    "q": "On February 24, 2026, what was the closing share price of PayPal Holdings in New York following reports of a potential acquisition interest from Stripe?",
+    "a": "US$47.01"
+  },
+  {
+    "q": "What was the approximate market value of PayPal Holdings in US dollars as of February 24, 2026, after its stock closed up 6.7 percent?",
+    "a": "US$43.3 billion"
+  },
+  {
+    "q": "In an employee tender offer announced on February 24, 2026, what valuation did Stripe reach?",
+    "a": "US$159 billion"
+  },
+  {
+    "q": "Who are the founders of Stripe, the company reportedly considering acquiring PayPal in February 2026?",
+    "a": "Patrick and John Collison"
+  },
+  {
+    "q": "Which two major technology rivals did Stripe President John Collison cite as having changed the digital payments landscape, causing PayPal difficulty, in an interview during the week of February 24, 2026?",
+    "a": "Apple and Alphabet (specifically via Apple Pay and Google Pay)"
+  },
+  {
+    "q": "Who was scheduled to become the president and chief executive officer of PayPal Holdings on March 1, 2026?",
+    "a": "Enrique Lores"
+  },
+  {
+    "q": "Who was ousted as the CEO of PayPal Holdings in February 2026, prior to Enrique Lores taking over?",
+    "a": "Alex Chriss"
+  },
+  {
+    "q": "In the fourth-quarter results reported in early 2026, did PayPal Holdings' profit and revenue meet analysts' estimates?",
+    "a": "No, they missed analysts' estimates"
+  },
+  {
+    "q": "According to the fourth-quarter results for the period ending in early 2026, what trend was observed in PayPal Holdings' payment volume?",
+    "a": "A continued slowdown"
+  },
+  {
+    "q": "Which company, founded in the late 1990s, is described as an early mover in digital payments that has struggled to modernize its technologies as of 2026?",
+    "a": "PayPal Holdings"
+  },
+  {
+    "q": "As of February 2026, which two companies are identified as having seized market share from PayPal in the digital payments sector?",
+    "a": "Apple and Alphabet"
+  },
+  {
+    "q": "What was the percentage increase in PayPal Holdings' stock price on February 24, 2026, in New York?",
+    "a": "6.7 percent"
+  },
+  {
+    "q": "Who served as the current board chair of PayPal Holdings in February 2026 before assuming the role of president and CEO?",
+    "a": "Enrique Lores"
+  },
+  {
+    "q": "In an interview during the week of February 24, 2026, which Stripe executive declined to discuss specific merger and acquisition hypotheticals regarding PayPal?",
+    "a": "John Collison, Stripe’s president"
+  },
+  {
+    "q": "What was the status of the deliberations between Stripe and PayPal Holdings as reported on February 24, 2026?",
+    "a": "The deliberations were early and there was no certainty they would lead to a transaction"
+  },
+  {
+    "q": "Which two representatives declined to comment on the reports of Stripe considering acquiring PayPal in February 2026?",
+    "a": "Representatives for Stripe and PayPal"
+  },
+  {
+    "q": "How did Stripe describe its own status in the industry in February 2026, noting it is among the most valuable companies?",
+    "a": "Closely held"
+  },
+  {
+    "q": "What specific financial event involving Stripe occurred earlier on February 24, 2026, just before reports of its interest in PayPal surfaced?",
+    "a": "Stripe announced it had reached a US$159 billion valuation in an employee tender offer"
+  },
+  {
+    "q": "Which executive replaced Alex Chriss as the CEO of PayPal Holdings, with the transition effective March 1, 2026?",
+    "a": "Enrique Lores"
+  },
+  {
+    "q": "What specific operational metric showed a continued slowdown in PayPal Holdings' fourth-quarter results reported in early 2026?",
+    "a": "Payment volume"
+  },
+  {
+    "q": "According to John Collison, Stripe’s president, in an interview in February 2026, how had the digital payments landscape changed affecting PayPal?",
+    "a": "It changed quite a bit with the rise of Apple Pay and Google Pay"
+  },
+  {
+    "q": "What was the market value of PayPal Holdings in Singapore dollars (S$) as of February 24, 2026?",
+    "a": "S$54.9 billion"
+  },
+  {
+    "q": "Which payment processing firm, founded by brothers Patrick and John Collison, was considering acquiring PayPal in February 2026?",
+    "a": "Stripe"
+  },
+  {
+    "q": "Who was the outgoing CEO of PayPal Holdings in February 2026?",
+    "a": "Alex Chriss"
+  }
+]

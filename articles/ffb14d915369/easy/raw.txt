@@ -1,0 +1,102 @@
+[
+  {
+    "q": "According to a Bloomberg News report cited on Friday, March 6, 2026, which country has intensified direct engagement with Iran via diplomatic backchannels to help contain the war in the Middle East?",
+    "a": "Saudi Arabia."
+  },
+  {
+    "q": "In the week of March 2–6, 2026, which two leaders held a rare phone call as reported by the Kan public broadcaster on Friday, March 6, 2026?",
+    "a": "Israeli Prime Minister Benjamin Netanyahu and UAE President Mohammed bin Zayed."
+  },
+  {
+    "q": "As of Friday, March 6, 2026, how many oil tankers, cargo, and container ships were recorded crossing the Strait of Hormuz since Monday, March 2, 2026, according to MarineTraffic data analyzed by AFP?",
+    "a": "Nine."
+  },
+  {
+    "q": "On Friday, March 6, 2026, which Iraqi city’s airport and which two oil facilities were targeted by Iranian drones, according to an Iraqi security official?",
+    "a": "Basra airport, the Burjesia oil complex, and the Rumaila oil field."
+  },
+  {
+    "q": "Which US official, serving as White House spokeswoman, stated on March 6, 2026, that Iran’s retaliatory ballistic missile attacks had decreased by 90% due to Operation Epic Fury?",
+    "a": "Anna Kelly."
+  },
+  {
+    "q": "On February 28, 2026, which two countries launched the initial attack on Iran that Gulf officials complained they were not given adequate notice about?",
+    "a": "The United States and Israel."
+  },
+  {
+    "q": "Which former Saudi intelligence chief told CNN on Wednesday, March 4, 2026, that the conflict was \"Netanyahu’s war\" and that he convinced the US president to support his views?",
+    "a": "Prince Turki al-Faisal."
+  },
+  {
+    "q": "On Sunday, March 1, 2026, how many US soldiers were killed in Kuwait when an Iranian drone strike hit an operations center in a civilian port?",
+    "a": "Six."
+  },
+  {
+    "q": "According to an AP tally based on official statements since the start of the war in late February 2026, how many missiles and drones has Iran fired at the five Arab Gulf countries?",
+    "a": "At least 380 missiles and over 1,480 drones."
+  },
+  {
+    "q": "Which two US officials briefed members of Congress on Tuesday, March 3, 2026, that the US would not be able to intercept many incoming UAVs, especially Shaheds?",
+    "a": "US Defense Secretary Pete Hegseth and Gen. Dan Caine, chairman of the Joint Chiefs of Staff."
+  },
+  {
+    "q": "Which Iranian armed forces spokesman told Iranian state broadcaster IRIB that Iran controls the Strait of Hormuz but will not close it?",
+    "a": "Abolfazl Shekarchi."
+  },
+  {
+    "q": "Which six Gulf countries’ governments did not respond to requests for comment regarding their frustration with the US handling of the war as of March 6, 2026?",
+    "a": "Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates."
+  },
+  {
+    "q": "According to a person familiar with the diplomatic matter, which country’s air defense systems are described as far more robust than those of its Gulf neighbors, leading to US perplexity that Gulf countries are not launching counteroffensives?",
+    "a": "Israel."
+  },
+  {
+    "q": "Which former US ambassador to Saudi Arabia, now a senior adviser at the Center for Strategic and International Studies, warned in March 2026 that Gulf countries will have to bear the brunt of whatever comes next in the conflict?",
+    "a": "Michael Ratney."
+  },
+  {
+    "q": "Which analyst with Chatham House, based in Kuwait, stated in March 2026 that the US appeared to have underestimated the risk to its Gulf Arab allies?",
+    "a": "Bader Mousa Al-Saif."
+  },
+  {
+    "q": "Which special representative for Iran and Venezuela at the end of Trump’s first term stated in March 2026 that Gulf neighbors knew Iran had the capability to carry out significant strikes but were afraid of it?",
+    "a": "Elliott Abrams."
+  },
+  {
+    "q": "As of March 6, 2026, which energy giant operates at the Rumaila oil field in Iraq, which was struck by an Iranian drone?",
+    "a": "BP."
+  },
+  {
+    "q": "Which US military operation is named by White House spokeswoman Anna Kelly as the cause for the 90% decrease in Iran’s retaliatory ballistic missile attacks as of March 6, 2026?",
+    "a": "Operation Epic Fury."
+  },
+  {
+    "q": "Which US company’s facility in the Burjesia oil complex was struck by Iranian drones in Basra, Iraq, on Friday, March 6, 2026?",
+    "a": "A US company (the article does not name the specific company, only that it is a US company)."
+  },
+  {
+    "q": "According to MarineTraffic data analyzed by AFP in early March 2026, what percentage of the world’s oil and gas transits through the Strait of Hormuz?",
+    "a": "Some 20 percent."
+  },
+  {
+    "q": "Which European nation's officials were cited by Bloomberg News on Friday, March 6, 2026, as backing Saudi Arabia's diplomatic efforts with Iran?",
+    "a": "Several European nations (the article cites \"several European officials\" but does not name a specific country)."
+  },
+  {
+    "q": "Which US state was the home base of the supply and logistics unit to which the husband of one of the slain Kuwait soldiers belonged?",
+    "a": "Iowa."
+  },
+  {
+    "q": "As of March 6, 2026, which Iranian official stated that Iran would not close the Strait of Hormuz despite controlling its security?",
+    "a": "Abolfazl Shekarchi."
+  },
+  {
+    "q": "Which two countries' leaders did Gulf officials say were the primary focus of US military defense during the retaliatory attacks, leaving Gulf countries to protect themselves?",
+    "a": "Israel and the United States."
+  },
+  {
+    "q": "Which US defense official and which Joint Chiefs chairman conceded in closed-door briefings in March 2026 that they are struggling to stop waves of Iranian drones?",
+    "a": "US Defense Secretary Pete Hegseth and Gen. Dan Caine."
+  }
+]

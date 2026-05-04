@@ -1,0 +1,27 @@
+{
+  "hash": "465709124481",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.pbs.org/newshour/world/what-irans-foreign-minister-told-us-about-the-next-supreme-leader-rising-oil-prices",
+      "title": "Iranian foreign minister says negotiations with U.S. may be off the table | PBS News",
+      "published_date": "2026-03-09T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 1039,
+      "text_length": 4744
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1484914",
+      "spike_id": 3,
+      "market_question": "Iran x Israel/US conflict ends by May 15?",
+      "event_title": "Iran x Israel/US conflict ends by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.17500000000000004,
+      "spike_timestamp_before": "2026-03-09T00:30:23+00:00",
+      "spike_timestamp_after": "2026-03-09T21:30:26+00:00"
+    }
+  ]
+}

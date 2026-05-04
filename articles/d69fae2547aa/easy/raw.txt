@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On March 9, 2026, what was the price per barrel of benchmark Brent crude futures, and by what percentage had they risen that day?",
+    "a": "$103.93 per barrel, up 12%."
+  },
+  {
+    "q": "Which two Gulf oil producers declared force majeure on or around March 9, 2026, and what specific events triggered these declarations?",
+    "a": "Bapco Energies in Bahrain following an attack on its refinery complex, and Kuwait Petroleum Corp after beginning output cuts."
+  },
+  {
+    "q": "By what percentage and to what specific volume did Iraq cut its oil output at main southern oilfields over the weekend preceding March 9, 2026?",
+    "a": "By 70%, down to 1.3 million barrels per day."
+  },
+  {
+    "q": "Which U.S. President attempted to downplay concerns about rising gasoline prices in early March 2026, and by what percentage had U.S. gasoline prices increased on the week ending Friday?",
+    "a": "U.S. President Donald Trump; prices were up 11%."
+  },
+  {
+    "q": "Which Senate Minority Leader called on U.S. President Donald Trump to sell oil from the Strategic Petroleum Reserve in March 2026?",
+    "a": "Senate Minority Leader Chuck Schumer."
+  },
+  {
+    "q": "What percentage of its oil imports does Japan rely on from the Middle East, and what action did it take in late February or early March 2026 regarding reserves?",
+    "a": "Japan imports around 95% of its oil from the Middle East and instructed a national oil reserve storage site to prepare for a possible crude release."
+  },
+  {
+    "q": "Which South Korean President announced the country's first fuel price caps in nearly 30 years in response to soaring energy costs in March 2026?",
+    "a": "President Lee Jae Myung."
+  },
+  {
+    "q": "What specific measures did Vietnam and Bangladesh implement in early March 2026 to address energy and fuel conservation issues?",
+    "a": "Vietnam removed import tariffs on fuels, and Bangladesh shut universities to conserve electricity and fuel."
+  },
+  {
+    "q": "What directive did the Chinese government give to refiners in early March 2026 regarding fuel exports and committed shipments?",
+    "a": "China asked refiners to halt fuel exports and try to cancel shipments that were already committed."
+  },
+  {
+    "q": "Which country, described as the world's second largest exporter of liquefied natural gas, halted its exports in early March 2026?",
+    "a": "Qatar."
+  },
+  {
+    "q": "According to Qatar's Energy Minister Saad al-Kaabi in an interview published on March 6, 2026, why would the Strait of Hormuz remain dangerous even if the U.S. placed warships there?",
+    "a": "The route would remain 'too dangerous' due to Iranian threats and the conflict."
+  },
+  {
+    "q": "What was the approximate percentage increase in oil prices by March 9, 2026, and what was the price per barrel of U.S. West Texas Intermediate (WTI) crude at 1156 GMT that day?",
+    "a": "Prices surged nearly 30%; WTI was up 12.5% at $102.31 per barrel."
+  },
+  {
+    "q": "Which oil giant began cutting output at two of its oilfields in early March 2026, and what was the company's response to requests for comment?",
+    "a": "Saudi oil giant Aramco; the company declined to comment."
+  },
+  {
+    "q": "What specific geopolitical event was cited as the cause for halted ship traffic in the region and rising oil prices in March 2026?",
+    "a": "The U.S. and Israeli war on Iran."
+  },
+  {
+    "q": "Which Group of Seven meeting was scheduled for Monday, March 9, 2026, to discuss the joint release of emergency oil reserves?",
+    "a": "A meeting of finance ministers."
+  },
+  {
+    "q": "What factor cooled hopes of a quick end to hostilities in the U.S.-Israel conflict with Iran as of March 9, 2026?",
+    "a": "Tehran's hardline succession plans."
+  },
+  {
+    "q": "How did Saudi Arabia attempt to mitigate the impact of halted Gulf traffic in March 2026, and what was the status of traffic into and out of the Gulf?",
+    "a": "Saudi Arabia was diverting crude exports by pipeline to the Red Sea, while traffic was at an almost complete standstill due to Iranian threats."
+  },
+  {
+    "q": "What was the status of hundreds of tankers inside the Gulf and outside its southern Strait of Hormuz in March 2026?",
+    "a": "They were sitting idle."
+  },
+  {
+    "q": "Which senior oil analyst at Kpler described the market conditions in March 2026 as a 'perfect storm' involving Gulf producers and the Strait of Hormuz?",
+    "a": "Muyu Xu."
+  },
+  {
+    "q": "By how much did the highest oil prices in March 2026 exceed the previous highs recorded in mid-2022?",
+    "a": "The article states prices hit their highest since mid-2022, surging at one point by some 30%, but does not specify the exact numerical difference from mid-2022 prices."
+  },
+  {
+    "q": "What was the reported impact of the U.S.-Israel conflict with Iran on oil prices by March 9, 2026, in terms of percentage increase?",
+    "a": "Oil prices had surged nearly 30%."
+  },
+  {
+    "q": "Which two specific benchmark crude futures were mentioned as rising in price on March 9, 2026, and what were their respective percentage increases?",
+    "a": "Brent crude futures were up 12%, and U.S. West Texas Intermediate (WTI) was up 12.5%."
+  },
+  {
+    "q": "What specific action did Kuwait Petroleum Corp take on Saturday prior to March 9, 2026, in addition to beginning output cuts?",
+    "a": "It declared force majeure."
+  },
+  {
+    "q": "Which French government source indicated that the Group of Seven finance ministers would discuss emergency oil reserves on Monday, March 9, 2026?",
+    "a": "A French government source (unnamed)."
+  },
+  {
+    "q": "What was the stated reason for Vietnam removing import tariffs on fuels in early March 2026?",
+    "a": "To address the inflationary impact of soaring energy costs."
+  }
+]

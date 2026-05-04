@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In March 2026, which software company announced the acquisition of the AI content-generation platform Vidoso to expand its marketing suite?",
+    "a": "Webflow"
+  },
+  {
+    "q": "What year was the AI content-generation platform Vidoso founded before its acquisition by Webflow in March 2026?",
+    "a": "2024"
+  },
+  {
+    "q": "According to the March 2026 announcement, what specific types of marketing collateral does the Vidoso platform help organizations generate using large language models?",
+    "a": "Images, presentations, video clips, blog posts, and social media content"
+  },
+  {
+    "q": "How many employees from the Vidoso team joined Webflow full-time following the acquisition announced in March 2026?",
+    "a": "Four"
+  },
+  {
+    "q": "What was the total amount of funding Vidoso had raised from investors including Aspenwood Ventures, Emergent Ventures, and Tau Ventures prior to its acquisition by Webflow in March 2026?",
+    "a": "$3.7 million"
+  },
+  {
+    "q": "Who is the CEO of Webflow who stated in March 2026 that the acquisition of Vidoso positions the company as an \"agentic marketing platform\" rather than just a website builder?",
+    "a": "Linda Tong"
+  },
+  {
+    "q": "Which CEO of Vidoso stated in March 2026 that their technology was built to close the gap between generic AI content and governed, brand-specific marketing systems?",
+    "a": "Sharad Verma"
+  },
+  {
+    "q": "What specific limitation of \"frontier models\" did Vidoso CEO Sharad Verma cite in March 2026 as the problem his platform solves for enterprise marketing?",
+    "a": "They are trained on the average of the internet rather than the specifics of a brand, making them blind to brand systems, rules, templates, and approval workflows"
+  },
+  {
+    "q": "How much total funding had Webflow raised to date as of the March 2026 announcement of the Vidoso acquisition?",
+    "a": "Over $330 million"
+  },
+  {
+    "q": "Which website personalization startup did Webflow acquire in 2024 prior to buying Vidoso in March 2026?",
+    "a": "Intellimize"
+  },
+  {
+    "q": "What specific integration did Webflow launch earlier in 2026 to improve performance tracking before acquiring Vidoso in March 2026?",
+    "a": "A Google Ads integration"
+  },
+  {
+    "q": "According to Webflow CEO Linda Tong in March 2026, which four functional areas does Webflow aim to tie together for companies using its platform?",
+    "a": "Brand, demand generation, product marketing, and content"
+  },
+  {
+    "q": "What type of competition did Webflow face in March 2026 regarding AI-driven marketing automation, according to the article?",
+    "a": "A huge influx of startups trying to automate marketing functions using AI and large marketing tools baked into Big Tech firms' products"
+  },
+  {
+    "q": "What specific part of the content lifecycle did Webflow CEO Linda Tong claim was broken when companies create assets without capturing insights and feeding them back into a learning system?",
+    "a": "The self-learning aspect of the content's success"
+  },
+  {
+    "q": "In March 2026, what did Webflow CEO Linda Tong say the first wave of AI gave marketing teams that was powerful but ungoverned?",
+    "a": "AI capable of generating generic content"
+  },
+  {
+    "q": "What specific capability does Vidoso have regarding keynote talks or panel discussions as described in the March 2026 article?",
+    "a": "It can turn them into short video clips or blog posts"
+  },
+  {
+    "q": "Which three venture capital firms are listed as investors in Vidoso prior to its acquisition by Webflow in March 2026?",
+    "a": "Aspenwood Ventures, Emergent Ventures, and Tau Ventures"
+  },
+  {
+    "q": "What primary business function does Webflow offer a software platform for, as described in the March 2026 article?",
+    "a": "Building and hosting websites"
+  },
+  {
+    "q": "According to Vidoso CEO Sharad Verma in March 2026, what characteristic must AI generation be to be considered \"production-ready\" inside existing marketing systems?",
+    "a": "Consistent, governed, and aligned with brand systems, rules, templates, and approval workflows"
+  },
+  {
+    "q": "What strategic direction did Webflow CEO Linda Tong say the Vidoso acquisition represents for the company in March 2026?",
+    "a": "A major step toward becoming an agentic marketing platform"
+  },
+  {
+    "q": "Why did Webflow CEO Linda Tong argue in March 2026 that different departments working in silos harms the end product of marketing campaigns?",
+    "a": "Because it prevents companies from tying together functions like brand, demand generation, product marketing, and content"
+  },
+  {
+    "q": "What specific outcome did Webflow CEO Linda Tong predict in March 2026 would result from Webflow's offerings for content creation, campaign management, and performance tracking?",
+    "a": "Attracting more customers to the Webflow platform"
+  },
+  {
+    "q": "What did Webflow CEO Linda Tong state in March 2026 is required to make content creation \"self-learning\" rather than just deploying assets?",
+    "a": "Capturing insights, analyzing them, and putting them back into the learning system"
+  },
+  {
+    "q": "Which platform did Webflow acquire in 2024 to help build out its marketing suite before purchasing Vidoso in March 2026?",
+    "a": "Intellimize"
+  },
+  {
+    "q": "What specific problem with enterprise marketing coherence did Vidoso CEO Sharad Verma say the first wave of AI failed to address in March 2026?",
+    "a": "The lack of governance regarding brand systems, rules, templates, and approval workflows"
+  }
+]

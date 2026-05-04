@@ -1,0 +1,37 @@
+{
+  "hash": "4ed7011b49e2",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://cbsnews.com/news/who-sits-where-state-of-the-union-2026/",
+      "title": "Who sits where for the State of the Union? See the seating chart for the 2026 address - CBS News",
+      "published_date": "2026-02-24T00:00:00.000Z",
+      "author": null,
+      "num_tokens": 848,
+      "text_length": 4213
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1321388",
+      "spike_id": 2,
+      "market_question": "Will Nick Shirley attend the 2026 State of the Union address?",
+      "event_title": "Who will attend the State of the Union address?",
+      "spike_direction": "up",
+      "spike_delta": 0.265,
+      "spike_timestamp_before": "2026-02-23T17:00:28+00:00",
+      "spike_timestamp_after": "2026-02-24T00:30:24+00:00"
+    },
+    {
+      "market_id": "1321388",
+      "spike_id": 3,
+      "market_question": "Will Nick Shirley attend the 2026 State of the Union address?",
+      "event_title": "Who will attend the State of the Union address?",
+      "spike_direction": "up",
+      "spike_delta": 0.2705000000000001,
+      "spike_timestamp_before": "2026-02-23T17:00:28+00:00",
+      "spike_timestamp_after": "2026-02-24T07:00:30+00:00"
+    }
+  ]
+}

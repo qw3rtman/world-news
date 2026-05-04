@@ -1,0 +1,27 @@
+{
+  "hash": "1c3aceffd933",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.wireless.reuters.com/sustainability/society-equity/glencore-raises-hope-reviving-rio-tinto-deal-coal-prices-turn-2026-03-13/",
+      "title": "Exclusive: Glencore raises hope of reviving Rio Tinto deal as coal prices turn | Reuters",
+      "published_date": "2026-03-13T00:00:00.000Z",
+      "author": "Melanie Burton",
+      "num_tokens": 1238,
+      "text_length": 5469
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694937",
+      "spike_id": 8,
+      "market_question": "Will BP be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "up",
+      "spike_delta": 0.29000000000000004,
+      "spike_timestamp_before": "2026-03-15T06:30:32+00:00",
+      "spike_timestamp_after": "2026-03-16T06:00:33+00:00"
+    }
+  ]
+}

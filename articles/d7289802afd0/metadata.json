@@ -1,0 +1,37 @@
+{
+  "hash": "d7289802afd0",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.reuters.com/business/victory-capital-submits-57-per-share-rival-bid-janus-henderson-2026-02-26/?taid=69a09e107abc6e0001a5d29d",
+      "title": "Victory Capital goes public with $8.6 billion rival bid for Janus Henderson | Reuters",
+      "published_date": "2026-02-26T00:00:00.000Z",
+      "author": "Arasu Kannagi Basil",
+      "num_tokens": 757,
+      "text_length": 3499
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "694938",
+      "spike_id": 15,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.17500000000000004,
+      "spike_timestamp_before": "2026-02-26T07:30:31+00:00",
+      "spike_timestamp_after": "2026-02-27T07:00:36+00:00"
+    },
+    {
+      "market_id": "694938",
+      "spike_id": 16,
+      "market_question": "Will Viking Therapeutics be acquired before 2027?",
+      "event_title": "Which companies will be acquired before 2027?",
+      "spike_direction": "down",
+      "spike_delta": -0.16500000000000004,
+      "spike_timestamp_before": "2026-02-27T04:00:36+00:00",
+      "spike_timestamp_after": "2026-02-27T11:00:41+00:00"
+    }
+  ]
+}

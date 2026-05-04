@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In the State of the Union address scheduled for Tuesday night in late February 2026, which U.S. President was expected to discuss a potentially more extensive military campaign against Iran?",
+    "a": "President Donald Trump"
+  },
+  {
+    "q": "What specific date in June 2025 did the Trump administration launch airstrikes targeting Iran’s nuclear program?",
+    "a": "June 21, 2025"
+  },
+  {
+    "q": "According to a March 2026 assessment by the U.S. intelligence community, what was the status of Iran’s nuclear weapon construction at that time?",
+    "a": "Iran was not building a nuclear weapon"
+  },
+  {
+    "q": "Which satellite imagery company provided images on June 22, 2025, showing damage to the Isfahan nuclear technology center after U.S. airstrikes?",
+    "a": "Maxar"
+  },
+  {
+    "q": "Which U.S. Vice President told Fox News in late February 2026 that the primary interest was ensuring Iran could not have nuclear weapons?",
+    "a": "Vice President JD Vance"
+  },
+  {
+    "q": "What percentage of uranium enrichment did Trump’s special envoy Steve Witkoff claim Iran had reached by late February 2026?",
+    "a": "Up to 60%"
+  },
+  {
+    "q": "How many weeks away from having industrial-grade bomb-making material did Steve Witkoff suggest Iran was in late February 2026?",
+    "a": "A week away"
+  },
+  {
+    "q": "Which U.S. official provided a more circumspect assessment of the June 21, 2025 strikes the day after the operation, contrasting with President Trump’s immediate claims?",
+    "a": "Joint Chiefs of Staff Chairman Dan Caine"
+  },
+  {
+    "q": "On June 22, 2025, which U.S. Defense Secretary declared that Iran’s nuclear ambitions had been obliterated?",
+    "a": "Defense Secretary Pete Hegseth"
+  },
+  {
+    "q": "On what date did President Donald Trump post on social media that he had destroyed all nuclear facilities and stopped the war?",
+    "a": "June 24, 2025"
+  },
+  {
+    "q": "Which two news organizations reported in late June 2025 that U.S. intelligence assessments did not support the claim that Iran’s nuclear program was destroyed?",
+    "a": "CNN and The New York Times"
+  },
+  {
+    "q": "According to the early U.S. intelligence assessment reported by CNN in late June 2025, how much did the strikes set back Iran’s nuclear program?",
+    "a": "By months"
+  },
+  {
+    "q": "On February 13, 2026, what phrase did President Donald Trump use to describe the outcome of the Iran nuclear potential capability?",
+    "a": "Total obliteration"
+  },
+  {
+    "q": "On January 20, 2026, what specific nuclear capability did President Donald Trump claim was obliterated?",
+    "a": "Iran’s nuclear enrichment capability"
+  },
+  {
+    "q": "On October 13, 2025, what did President Donald Trump claim Iran did not have?",
+    "a": "A nuclear program"
+  },
+  {
+    "q": "On September 20, 2025, what did President Donald Trump claim he obliterated by annihilating enriched uranium?",
+    "a": "Iran’s nuclear hopes"
+  },
+  {
+    "q": "On July 31, 2025, what did President Donald Trump say about Iran’s nuclear program?",
+    "a": "It has been obliterated"
+  },
+  {
+    "q": "On July 16, 2025, what did President Donald Trump claim the strikes knocked out regarding Iran’s nuclear potential?",
+    "a": "Their entire potential nuclear capacity"
+  },
+  {
+    "q": "Which Venezuelan President was ousted in an operation that the article notes was justified by shifting rationales similar to those used for Iran?",
+    "a": "Nicolás Maduro"
+  },
+  {
+    "q": "What was the initial stated reason for threatening to strike Iran last month, before the focus shifted to nuclear issues in late February 2026?",
+    "a": "Tehran was killing protesters"
+  },
+  {
+    "q": "On February 23, 2026, which Iranian city’s mosque did Iranians walk past while Iran warned the US of a ferocious response to any attack?",
+    "a": "Tehran (Emamzadeh Saleh mosque)"
+  },
+  {
+    "q": "In late February 2026, what did Iran warn the US it would do if attacked?",
+    "a": "Meet the attack ferociously"
+  },
+  {
+    "q": "Which U.S. administration official’s comments on June 22, 2025, went further than President Trump’s initial claims by declaring Iran’s nuclear ambitions obliterated?",
+    "a": "Defense Secretary Pete Hegseth"
+  },
+  {
+    "q": "On November 19, 2025, what did President Donald Trump say about how quickly and strongly Iran’s nuclear capability was dealt with?",
+    "a": "It was obliterated very quickly and strongly and powerfully"
+  },
+  {
+    "q": "On August 18, 2025, what future aspect of Iran’s nuclear program did President Donald Trump claim was obliterated?",
+    "a": "The future nuclear capability of Iran"
+  },
+  {
+    "q": "On November 11, 2025, what did President Donald Trump claim was completely obliterated regarding Iran’s nuclear capability?",
+    "a": "Iran’s nuclear capability"
+  }
+]

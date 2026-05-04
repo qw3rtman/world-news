@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On February 27, 2026, what specific price level did Jateen Trivedi, VP Research Analyst at LKP Securities, identify as the trading level for Gold April futures on MCX following a rebound from intraday lows?",
+    "a": "₹1,60,100"
+  },
+  {
+    "q": "In the technical analysis for gold trading on February 27, 2026, what was the specific value of the RSI indicator that signaled strengthening bullish momentum without entering overbought territory?",
+    "a": "57"
+  },
+  {
+    "q": "According to the February 27, 2026 intraday trading view by LKP Securities analyst Jateen Trivedi, what is the recommended stop-loss level for traders initiating long positions in Gold April futures on MCX?",
+    "a": "Below ₹1,59,400"
+  },
+  {
+    "q": "What two specific price targets did Jateen Trivedi of LKP Securities list for Gold April futures on MCX in his February 27, 2026 market outlook?",
+    "a": "₹1,60,600 and ₹1,61,000"
+  },
+  {
+    "q": "In the February 27, 2026 analysis by LKP Securities, what specific moving average crossover pattern was described as indicating improving intraday momentum for gold prices?",
+    "a": "The 8 EMA turning upward and attempting to cross above the 21 EMA"
+  },
+  {
+    "q": "What specific chart pattern did the February 27, 2026 technical setup for gold futures on MCX reflect, characterized by higher lows forming on the 30-minute timeframe?",
+    "a": "A V-shaped recovery"
+  },
+  {
+    "q": "On February 27, 2026, what was the approximate intraday low around which Gold April futures on MCX witnessed a sharp rebound before trading near ₹1,60,100?",
+    "a": "₹1,58,500"
+  },
+  {
+    "q": "Which specific organization's VP Research Analyst, Jateen Trivedi, provided the February 27, 2026 gold price prediction and intraday trading outlook?",
+    "a": "LKP Securities"
+  },
+  {
+    "q": "In the February 27, 2026 gold market analysis, what condition was stated as necessary for the short-term structure to suggest a continuation bounce?",
+    "a": "Key support must hold"
+  },
+  {
+    "q": "What specific momentum indicator behavior was cited in the February 27, 2026 analysis to confirm recovery momentum, involving a bullish crossover and expanding green histogram bars?",
+    "a": "The MACD indicator"
+  },
+  {
+    "q": "According to the February 27, 2026 trading strategy by LKP Securities, above what price level is the bias for Gold April futures on MCX considered bullish?",
+    "a": "₹1,60,000"
+  },
+  {
+    "q": "What specific trading strategy did Jateen Trivedi of LKP Securities recommend for Gold April futures on MCX on February 27, 2026?",
+    "a": "Buy on dips"
+  },
+  {
+    "q": "In the February 27, 2026 technical analysis, what relationship between rising price and open interest was interpreted as suggesting short-covering support?",
+    "a": "Rising price with stabilizing open interest"
+  },
+  {
+    "q": "What specific entry level did LKP Securities analyst Jateen Trivedi advise traders to initiate long positions near for Gold April futures on MCX on February 27, 2026?",
+    "a": "₹1,60,100"
+  },
+  {
+    "q": "Which news organization's Business Desk published the gold price prediction article on February 27, 2026?",
+    "a": "The Times of India"
+  },
+  {
+    "q": "According to the February 27, 2026 analysis, below what price level would weakness resume in the gold market structure, reversing the bullish bias?",
+    "a": "₹1,59,400"
+  },
+  {
+    "q": "What specific support level was identified in the February 27, 2026 intraday trading view for Gold April futures on MCX?",
+    "a": "₹1,60,100"
+  },
+  {
+    "q": "In the February 27, 2026 gold technical setup, what was the status of the RSI indicator relative to the neutral 50 level?",
+    "a": "Comfortably above the neutral 50 level"
+  },
+  {
+    "q": "What specific type of recovery did the chart reflect on the 30-minute timeframe for gold futures on February 27, 2026, suggesting aggressive defense of dips by buyers?",
+    "a": "V-shaped recovery"
+  },
+  {
+    "q": "Which specific commodity exchange was mentioned in the February 27, 2026 analysis where Gold April futures were trading near ₹1,60,100?",
+    "a": "MCX (Multi Commodity Exchange)"
+  },
+  {
+    "q": "What specific indicator cluster did gold prices reclaim in the February 27, 2026 technical analysis, contributing to the bullish setup?",
+    "a": "The short-term EMA cluster (specifically EMA 8 and EMA 21)"
+  },
+  {
+    "q": "According to the February 27, 2026 outlook, what market activity near lower levels was indicated by the sharp rebound in gold futures?",
+    "a": "Short-covering and fresh buying interest"
+  },
+  {
+    "q": "What specific disclaimer did the February 27, 2026 article from The Times of India include regarding the views of experts like Jateen Trivedi?",
+    "a": "The opinions do not represent the views of The Times of India"
+  },
+  {
+    "q": "In the February 27, 2026 analysis, what specific timeframe was used to observe higher lows forming during the V-shaped recovery?",
+    "a": "30-minute timeframe"
+  },
+  {
+    "q": "What specific action was the MACD indicator taking on February 27, 2026, that confirmed recovery momentum in the gold market?",
+    "a": "It turned positive with a bullish crossover and expanding green histogram bars"
+  }
+]

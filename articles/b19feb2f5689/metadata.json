@@ -1,0 +1,57 @@
+{
+  "hash": "b19feb2f5689",
+  "n_appearances": 4,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.axios.com/2026/02/28/iran-attack-supreme-leader-ali-khamenei",
+      "title": "Israel targets Khamenei, top leaders in bid to bring down Iran's regime",
+      "published_date": "2026-02-28T00:00:00.000Z",
+      "author": "Zachary Basu",
+      "num_tokens": 475,
+      "text_length": 2353
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1180303",
+      "spike_id": 1,
+      "market_question": "Khamenei out as Supreme Leader of Iran by February 28?",
+      "event_title": "Khamenei out as Supreme Leader of Iran by February 28?",
+      "spike_direction": "up",
+      "spike_delta": 0.453,
+      "spike_timestamp_before": "2026-02-28T05:30:25+00:00",
+      "spike_timestamp_after": "2026-02-28T14:00:41+00:00"
+    },
+    {
+      "market_id": "1180303",
+      "spike_id": 2,
+      "market_question": "Khamenei out as Supreme Leader of Iran by February 28?",
+      "event_title": "Khamenei out as Supreme Leader of Iran by February 28?",
+      "spike_direction": "up",
+      "spike_delta": 0.9329999999999999,
+      "spike_timestamp_before": "2026-02-28T05:30:25+00:00",
+      "spike_timestamp_after": "2026-02-28T20:00:26+00:00"
+    },
+    {
+      "market_id": "1180303",
+      "spike_id": 3,
+      "market_question": "Khamenei out as Supreme Leader of Iran by February 28?",
+      "event_title": "Khamenei out as Supreme Leader of Iran by February 28?",
+      "spike_direction": "up",
+      "spike_delta": 0.965,
+      "spike_timestamp_before": "2026-02-28T05:30:25+00:00",
+      "spike_timestamp_after": "2026-02-28T22:00:31+00:00"
+    },
+    {
+      "market_id": "661700",
+      "spike_id": 5,
+      "market_question": "Khamenei out as Supreme Leader of Iran in 2026?",
+      "event_title": "Khamenei out as Supreme Leader of Iran in 2026?",
+      "spike_direction": "up",
+      "spike_delta": 0.488,
+      "spike_timestamp_before": "2026-02-28T00:30:25+00:00",
+      "spike_timestamp_after": "2026-03-01T00:00:33+00:00"
+    }
+  ]
+}

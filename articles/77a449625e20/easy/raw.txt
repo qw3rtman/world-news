@@ -1,0 +1,102 @@
+[
+  {
+    "q": "On March 10, 2026, global oil prices cooled to under $90 a barrel, a significant drop from the three-year high reached on which previous day?",
+    "a": "Monday, March 9, 2026."
+  },
+  {
+    "q": "Which U.S. President's comment in early March 2026 that the Iran war may end soon contributed to global oil prices cooling below $90 per barrel?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "According to Indian officials in early March 2026, what percentage of India's crude oil requirements was being secured from non-Gulf sources as of that week?",
+    "a": "Nearly 70%."
+  },
+  {
+    "q": "Indian officials reported in early March 2026 that the share of crude oil requirements met by non-Gulf sources had risen from 55% to nearly 70% over what specific time frame?",
+    "a": "In the last 10 days."
+  },
+  {
+    "q": "Besides spot purchases, which two countries were cited by Indian officials in early March 2026 as increasing their oil supplies to India through non-Hormuz Strait routes?",
+    "a": "The United States and Venezuela."
+  },
+  {
+    "q": "According to a report cited in early March 2026, at what crude oil price per barrel would Indian petrol and diesel prices likely rise?",
+    "a": "$130 per barrel."
+  },
+  {
+    "q": "India was banking on improving crude supplies in early March 2026, particularly amid reports that U.S. President Donald Trump was considering easing sanctions on which country?",
+    "a": "Russia."
+  },
+  {
+    "q": "Which country was identified in early March 2026 as the largest source of crude oil for India in recent years before the conflict disruptions?",
+    "a": "Russia."
+  },
+  {
+    "q": "On March 9, 2026, U.S. President Donald Trump and Vladimir Putin, the Russian counterpart, discussed the military conflict in West Asia and prospects for peace in which country?",
+    "a": "Ukraine."
+  },
+  {
+    "q": "Hours before discussing peace prospects with U.S. President Donald Trump on March 9, 2026, which Russian leader warned that a global energy crisis may threaten the world economy?",
+    "a": "Vladimir Putin."
+  },
+  {
+    "q": "Which Saudi Arabian state-owned oil company warned in early March 2026 that there would be \"catastrophic consequences\" for global oil markets if the Iran war continued to disrupt shipping in the Strait of Hormuz?",
+    "a": "Saudi Aramco."
+  },
+  {
+    "q": "On March 10, 2026, which country's largest oil refinery closed following a drone attack?",
+    "a": "The United Arab Emirates (UAE)."
+  },
+  {
+    "q": "In early March 2026, which oil benchmark was hovering around $88 a barrel after U.S. President Donald Trump's comments on the Iran war?",
+    "a": "Brent."
+  },
+  {
+    "q": "During the oil price spike on March 9, 2026, the Indian oil basket crossed the $120 level, which was over 21% higher than Friday's price of what specific dollar amount?",
+    "a": "$99.12."
+  },
+  {
+    "q": "The Strait of Hormuz, described as a critical artery connecting the Persian Gulf with the Gulf of Oman and Arabian Sea, saw more than 140 vessels transit before the conflict to carry roughly what percentage of the world's daily oil shipments?",
+    "a": "20%."
+  },
+  {
+    "q": "In early March 2026, Indian officials stated that crude supplies from non-Hormuz Strait routes had increased drastically, with India securing nearly 70% of requirements from other areas, up from what percentage 10 days prior?",
+    "a": "55%."
+  },
+  {
+    "q": "Which two entities were reported to be discussing the military conflict in West Asia and prospects for peace in Ukraine on March 9, 2026?",
+    "a": "U.S. President Donald Trump and Russian President Vladimir Putin."
+  },
+  {
+    "q": "According to Indian officials in early March 2026, although supplies were not near pre-conflict levels, more oil was flowing from the US and Venezuela apart from what type of purchases?",
+    "a": "Spot purchases."
+  },
+  {
+    "q": "On March 10, 2026, global oil prices cooled to under $90 a barrel, a day after rising to a three-year high of $120, following comments by which U.S. President regarding the Iran war?",
+    "a": "Donald Trump."
+  },
+  {
+    "q": "Which organization, identified as Saudi Arabia's top oil exporter, stated in early March 2026 that the Iran war's disruption of shipping in the Strait of Hormuz would have catastrophic consequences for world oil markets?",
+    "a": "Saudi Aramco."
+  },
+  {
+    "q": "In early March 2026, which country's largest oil refinery closed on Tuesday after a drone attack, adding to market tensions before prices cooled?",
+    "a": "The United Arab Emirates (UAE)."
+  },
+  {
+    "q": "Before the conflict, the Strait of Hormuz carried roughly 20% of the world's oil shipments daily via more than 140 vessels; which two bodies of water does this artery connect?",
+    "a": "The Persian Gulf and the Gulf of Oman/Arabian Sea."
+  },
+  {
+    "q": "According to a report cited in early March 2026, Indian petrol and diesel prices were unlikely to rise unless crude oil breached which price point per barrel?",
+    "a": "$130 per barrel."
+  },
+  {
+    "q": "In early March 2026, India was securing nearly 70% of its crude oil requirements from non-Gulf sources, up from 55% 10 days ago, partly by increasing supplies from which two non-Gulf countries?",
+    "a": "The United States and Venezuela."
+  },
+  {
+    "q": "On March 9, 2026, U.S. President Donald Trump and Vladimir Putin discussed peace prospects in Ukraine after the latter warned of a global energy crisis; which country was the largest source of crude for India in recent years?",
+    "a": "Russia."
+  }
+]

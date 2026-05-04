@@ -1,0 +1,37 @@
+{
+  "hash": "c9169ed71ae3",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-03-01/us-suffers-first-war-fatalities-as-iran-s-counterstrikes-widen",
+      "title": "US Reports First War Deaths as Iran Strikes Expand Across Middle East - Bloomberg",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Arsalan Shahla",
+      "num_tokens": 65,
+      "text_length": 348
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1466575",
+      "spike_id": 1,
+      "market_question": "Trump announces end of military operations against Iran by March 31st?",
+      "event_title": "Trump announces end of military operations against Iran by ...?",
+      "spike_direction": "up",
+      "spike_delta": 0.255,
+      "spike_timestamp_before": "2026-02-28T17:30:32+00:00",
+      "spike_timestamp_after": "2026-02-28T19:00:33+00:00"
+    },
+    {
+      "market_id": "1466575",
+      "spike_id": 2,
+      "market_question": "Trump announces end of military operations against Iran by March 31st?",
+      "event_title": "Trump announces end of military operations against Iran by ...?",
+      "spike_direction": "up",
+      "spike_delta": 0.29499999999999993,
+      "spike_timestamp_before": "2026-02-28T17:30:32+00:00",
+      "spike_timestamp_after": "2026-02-28T22:00:37+00:00"
+    }
+  ]
+}

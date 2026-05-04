@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the February 27, 2026 Bloomberg report, how many years had Russia's war in Ukraine lasted, and which U.S. President stated he could swiftly end the conflict upon his return to office?",
+    "a": "The war had entered its fifth year, and U.S. President Donald Trump made the statement."
+  },
+  {
+    "q": "According to the February 27, 2026 article, what was the duration of U.S. efforts to negotiate a peace deal before they failed to break the impasse on occupied lands?",
+    "a": "More than a year of U.S. efforts had failed."
+  },
+  {
+    "q": "What specific territorial demand has Russia maintained regarding the eastern Donetsk region as of the February 27, 2026 report, and how has Ukraine responded to this demand?",
+    "a": "Russia demanded the part of the eastern Donetsk region it has not captured, and Ukraine has rejected this demand."
+  },
+  {
+    "q": "What US proposal was introduced to address the impasse over the eastern Donetsk region in the February 27, 2026 peace talks, and what was the outcome of this proposal?",
+    "a": "The US proposed turning the area into a 'free economic zone' as a buffer, but it had yet to win over either side."
+  },
+  {
+    "q": "Who are the authors of the February 27, 2026 Bloomberg article titled 'How Russia-Ukraine Peace Talks Are at Impasse Over Donbas and Other Territory'?",
+    "a": "The authors are Aliaksandr Kudrytski and Daryna Krasnolutska."
+  },
+  {
+    "q": "As of late February 2026, what specific issue had prevented the U.S. negotiated peace deal from breaking the impasse between Russia and Ukraine?",
+    "a": "The issue of Ukraine’s occupied lands had prevented the breakthrough."
+  },
+  {
+    "q": "In the context of the February 27, 2026 news report, what is Russia's 'maximalist stance' concerning the territory in the eastern Donetsk region?",
+    "a": "Russia's stance is wanting the part of the eastern Donetsk region that it hasn’t been able to capture."
+  },
+  {
+    "q": "What role was the proposed 'free economic zone' intended to serve in the February 27, 2026 US peace proposal for the eastern Donetsk region?",
+    "a": "It was intended to serve as a buffer."
+  },
+  {
+    "q": "Did the US proposal to create a 'free economic zone' in the eastern Donetsk region succeed in gaining support from both Russia and Ukraine by February 27, 2026?",
+    "a": "No, the proposal had yet to win either side over."
+  },
+  {
+    "q": "Which U.S. President claimed in the February 27, 2026 report that he could swiftly end the conflict in Ukraine upon his return to office?",
+    "a": "President Donald Trump."
+  },
+  {
+    "q": "According to the February 27, 2026 Bloomberg article, what is the current status of the Russia-Ukraine peace talks regarding the issue of territory?",
+    "a": "The peace talks are at an impasse."
+  },
+  {
+    "q": "What specific part of Ukraine's territory is the focus of the impasse in the February 27, 2026 Russia-Ukraine peace talks?",
+    "a": "Ukraine’s occupied lands, specifically the part of the eastern Donetsk region Russia has not captured."
+  },
+  {
+    "q": "How does the February 27, 2026 article describe the effectiveness of the US efforts to negotiate a peace deal over the past year and a half?",
+    "a": "The efforts have failed to break the impasse on the issue of Ukraine’s occupied lands."
+  },
+  {
+    "q": "In the February 27, 2026 report, what is Ukraine's position regarding Russia's demand for the uncaptured part of the eastern Donetsk region?",
+    "a": "Ukraine has rejected Russia's demand."
+  },
+  {
+    "q": "What was the specific nature of the buffer zone proposed by the US in the February 27, 2026 peace negotiations for the eastern Donetsk region?",
+    "a": "It was proposed as a 'free economic zone'."
+  },
+  {
+    "q": "As of the publication date of February 27, 2026, had Russia achieved its goal of capturing the entire eastern Donetsk region?",
+    "a": "No, Russia had not been able to capture the part of the eastern Donetsk region it demanded."
+  },
+  {
+    "q": "Which two entities were involved in the impasse over the 'free economic zone' proposal mentioned in the February 27, 2026 article?",
+    "a": "Russia and Ukraine."
+  },
+  {
+    "q": "What time was the Bloomberg article 'How Russia-Ukraine Peace Talks Are at Impasse Over Donbas and Other Territory' published on February 27, 2026?",
+    "a": "9:46 AM UTC."
+  },
+  {
+    "q": "According to the February 27, 2026 article, what is the relationship between the US negotiation efforts and the territorial impasse between Russia and Ukraine?",
+    "a": "More than a year of US efforts to negotiate a peace deal have failed to break the impasse on Ukraine’s occupied lands."
+  },
+  {
+    "q": "What specific region is described as having a part that Russia wants but has not captured, according to the February 27, 2026 report?",
+    "a": "The eastern Donetsk region."
+  },
+  {
+    "q": "In the February 27, 2026 article, what term is used to describe Russia's stance on the territory in the eastern Donetsk region?",
+    "a": "Maximalist stance."
+  },
+  {
+    "q": "What outcome did the US proposal for a 'free economic zone' in the eastern Donetsk region have on the peace talks as of February 27, 2026?",
+    "a": "It had yet to win either side over, contributing to the continued impasse."
+  },
+  {
+    "q": "Which U.S. President's return to office was cited in the February 27, 2026 article as a potential swift end to the conflict in Ukraine?",
+    "a": "President Donald Trump."
+  },
+  {
+    "q": "What is the primary reason cited in the February 27, 2026 article for the failure of US peace negotiations to resolve the conflict?",
+    "a": "The impasse on the issue of Ukraine’s occupied lands."
+  },
+  {
+    "q": "According to the February 27, 2026 Bloomberg report, what is the specific territorial disagreement between Russia and Ukraine regarding the Donetsk region?",
+    "a": "Russia wants the part of the eastern Donetsk region it hasn’t captured, while Ukraine has rejected this demand."
+  }
+]

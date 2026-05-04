@@ -1,0 +1,106 @@
+[
+  {
+    "q": "In the acquisition announced on March 19, 2026, which startup is OpenAI acquiring, and which specific internal group will the acquired team join?",
+    "a": "OpenAI is acquiring Astral, and Astral's team will join the group running OpenAI's AI coding assistant, Codex."
+  },
+  {
+    "q": "Who is the founder and CEO of Astral, and what specific goal did he state in a blog post following the March 19, 2026 acquisition announcement?",
+    "a": "Charlie Marsh is the founder and CEO of Astral, and he stated the goal is to make programming more productive and build tools that radically change what it feels like to build software."
+  },
+  {
+    "q": "As of the March 19, 2026 announcement, how many weekly active users does OpenAI's Codex have, and what was the user growth trend since the start of that year?",
+    "a": "Codex has more than 2 million weekly active users and has seen a three-fold increase in user growth since the start of 2026."
+  },
+  {
+    "q": "Which two rival companies are identified in the March 19, 2026 report as competitors to OpenAI in the market for AI coding assistants?",
+    "a": "The rival companies identified are Anthropic and Cursor."
+  },
+  {
+    "q": "What financial terms were disclosed regarding the March 19, 2026 acquisition of Astral by OpenAI?",
+    "a": "The companies did not disclose the financial terms of the acquisition."
+  },
+  {
+    "q": "What customary closing condition, besides standard operational requirements, must be satisfied for the March 19, 2026 Astral acquisition to close?",
+    "a": "Regulatory approval is a customary closing condition required for the acquisition."
+  },
+  {
+    "q": "In May 2025, for what amount did OpenAI acquire Jony Ive's AI devices startup io?",
+    "a": "OpenAI acquired io for $6.4 billion."
+  },
+  {
+    "q": "Which cybersecurity startup did OpenAI announce it would purchase earlier in March 2026, prior to the Astral acquisition?",
+    "a": "OpenAI announced it would purchase the cybersecurity startup Promptfoo."
+  },
+  {
+    "q": "In which month and year did OpenAI buy the health-care technology startup Torch?",
+    "a": "OpenAI bought Torch in January 2026."
+  },
+  {
+    "q": "Who did OpenAI hire in December 2025 to lead corporate development, and from which company was this individual hired?",
+    "a": "OpenAI hired Albert Lee, who was previously with Google, to lead corporate development."
+  },
+  {
+    "q": "What strategic signal did the December 2025 hiring of Albert Lee from Google indicate regarding OpenAI's corporate development activities?",
+    "a": "It signaled that OpenAI would continue to hunt for M&A targets that can help it gain an edge."
+  },
+  {
+    "q": "What type of tools does the startup Astral, acquired by OpenAI in March 2026, primarily build?",
+    "a": "Astral builds popular open source tools for software developers."
+  },
+  {
+    "q": "Which specific AI product is OpenAI racing to build out in order to win market share from rivals like Anthropic and Cursor, as of March 2026?",
+    "a": "OpenAI is racing to build out its AI coding assistant, Codex."
+  },
+  {
+    "q": "How has the popularity of AI coding assistants changed over the last year leading up to the March 2026 Astral acquisition?",
+    "a": "AI coding assistants have exploded in popularity over the last year."
+  },
+  {
+    "q": "What is the name of the group within OpenAI that Astral's team will join to help build out Codex?",
+    "a": "Astral's team will join the group running OpenAI's AI coding assistant, Codex."
+  },
+  {
+    "q": "Which startup did OpenAI acquire in January 2026, and what sector does that startup operate in?",
+    "a": "OpenAI acquired the health-care technology startup Torch in January 2026."
+  },
+  {
+    "q": "What is the name of the AI devices startup founded by Jony Ive that OpenAI acquired in May 2025?",
+    "a": "The startup is named io."
+  },
+  {
+    "q": "Which cybersecurity startup did OpenAI announce it would purchase in early March 2026?",
+    "a": "OpenAI announced it would purchase Promptfoo."
+  },
+  {
+    "q": "Who is the founder and CEO of Astral who wrote a blog post about the March 19, 2026 acquisition?",
+    "a": "Charlie Marsh is the founder and CEO of Astral."
+  },
+  {
+    "q": "What specific metric did OpenAI report regarding Codex's user growth since the start of 2026 in its March 19, 2026 announcement?",
+    "a": "OpenAI reported a three-fold increase in user growth since the start of 2026."
+  },
+  {
+    "q": "Which two companies are named as having their own buzzy offerings for developers that compete with OpenAI's Codex?",
+    "a": "Anthropic and Cursor are named as having their own buzzy offerings for developers."
+  },
+  {
+    "q": "What role was Albert Lee hired to lead at OpenAI in December 2025?",
+    "a": "Albert Lee was hired to lead corporate development."
+  },
+  {
+    "q": "From which major technology company was Albert Lee hired by OpenAI in December 2025?",
+    "a": "Albert Lee was hired from Google."
+  },
+  {
+    "q": "What is the primary focus of the tools built by Astral, the startup acquired by OpenAI in March 2026?",
+    "a": "Astral builds tools for software developers."
+  },
+  {
+    "q": "What is the name of OpenAI's AI coding assistant that Astral's team will help build out following the March 2026 acquisition?",
+    "a": "The AI coding assistant is called Codex."
+  },
+  {
+    "q": "What was the acquisition price of Jony Ive's startup io when OpenAI purchased it in May 2025?",
+    "a": "The acquisition price was $6.4 billion."
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "hash": "608427df34c8",
+  "n_appearances": 6,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.npr.org/2026/03/01/nx-s1-5731493/what-is-the-u-s-militarys-capacity-to-carry-out-extended-strikes-in-iran",
+      "title": "What is the U.S. military's capacity to carry out extended strikes in Iran? : NPR",
+      "published_date": "2026-03-01T00:00:00.000Z",
+      "author": "Kai McNamee",
+      "num_tokens": 1510,
+      "text_length": 6457
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1162940",
+      "spike_id": 1,
+      "market_question": "US forces enter Iran by March 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "up",
+      "spike_delta": 0.175,
+      "spike_timestamp_before": "2026-02-27T08:30:22+00:00",
+      "spike_timestamp_after": "2026-02-28T08:00:35+00:00"
+    },
+    {
+      "market_id": "1162940",
+      "spike_id": 2,
+      "market_question": "US forces enter Iran by March 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "up",
+      "spike_delta": 0.255,
+      "spike_timestamp_before": "2026-02-27T17:00:28+00:00",
+      "spike_timestamp_after": "2026-02-28T16:30:39+00:00"
+    },
+    {
+      "market_id": "1198523",
+      "spike_id": 3,
+      "market_question": "Will US or Israel strike Iran by March 31, 2026?",
+      "event_title": "US/Israel strikes Iran by...?",
+      "spike_direction": "up",
+      "spike_delta": 0.4445,
+      "spike_timestamp_before": "2026-02-27T09:30:25+00:00",
+      "spike_timestamp_after": "2026-02-28T09:00:43+00:00"
+    },
+    {
+      "market_id": "1394299",
+      "spike_id": 13,
+      "market_question": "US forces enter Iran by December 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "up",
+      "spike_delta": 0.255,
+      "spike_timestamp_before": "2026-03-03T09:00:27+00:00",
+      "spike_timestamp_after": "2026-03-04T02:30:26+00:00"
+    },
+    {
+      "market_id": "1422365",
+      "spike_id": 5,
+      "market_question": "Will the US strike Somalia next?",
+      "event_title": "Next Country US Strikes",
+      "spike_direction": "down",
+      "spike_delta": -0.42999999999999994,
+      "spike_timestamp_before": "2026-02-27T10:00:32+00:00",
+      "spike_timestamp_after": "2026-02-28T00:30:31+00:00"
+    },
+    {
+      "market_id": "1422365",
+      "spike_id": 6,
+      "market_question": "Will the US strike Somalia next?",
+      "event_title": "Next Country US Strikes",
+      "spike_direction": "up",
+      "spike_delta": 0.9600000000000001,
+      "spike_timestamp_before": "2026-02-28T08:00:41+00:00",
+      "spike_timestamp_after": "2026-02-28T08:30:02+00:00"
+    }
+  ]
+}

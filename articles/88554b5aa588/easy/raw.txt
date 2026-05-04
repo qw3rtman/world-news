@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the acquisition announced on March 9, 2026, what is the total purchase price that Universal Health Services agreed to pay for the virtual mental health company Talkspace?",
+    "a": "$835 million"
+  },
+  {
+    "q": "As of the March 9, 2026 announcement, how many inpatient facilities does Universal Health Services operate across how many states?",
+    "a": "Over 340 inpatient facilities across 40 states"
+  },
+  {
+    "q": "What per-share price did Universal Health Services agree to pay for Talkspace shares in the March 9, 2026 acquisition deal?",
+    "a": "$5.25 per share"
+  },
+  {
+    "q": "What was the closing price of Talkspace shares on the Friday prior to the March 9, 2026 acquisition announcement?",
+    "a": "$4.78"
+  },
+  {
+    "q": "What was Talkspace's net profit for the year 2025, as reported prior to the March 9, 2026 acquisition announcement?",
+    "a": "$7.8 million"
+  },
+  {
+    "q": "What was Talkspace's total revenue for the year 2025, as reported prior to the March 9, 2026 acquisition announcement?",
+    "a": "$228 million"
+  },
+  {
+    "q": "In which quarter of 2026 is the acquisition of Talkspace by Universal Health Services expected to close?",
+    "a": "The third quarter of 2026"
+  },
+  {
+    "q": "What was Universal Health Services' total earnings for the year 2025?",
+    "a": "$17.4 billion"
+  },
+  {
+    "q": "Who is the chief financial officer of Universal Health Services who commented on the acquisition during an investor conference on March 9, 2026?",
+    "a": "Steve Filton"
+  },
+  {
+    "q": "According to Universal Health Services CFO Steve Filton on March 9, 2026, what strategic goal will the Talkspace acquisition accelerate?",
+    "a": "Expansion into outpatient services"
+  },
+  {
+    "q": "What type of health provider is Universal Health Services, as described in the March 9, 2026 announcement?",
+    "a": "A behavioral health provider"
+  },
+  {
+    "q": "What type of company is Talkspace, as identified in the March 9, 2026 acquisition announcement?",
+    "a": "A virtual mental health company"
+  },
+  {
+    "q": "What was the premium status of the $5.25 per share offer made by Universal Health Services for Talkspace relative to the previous Friday's closing price?",
+    "a": "A slight premium"
+  },
+  {
+    "q": "In which month and year was the article about the Universal Health Services and Talkspace acquisition published?",
+    "a": "March 2026"
+  },
+  {
+    "q": "What sector has Talkspace operated in, which has experienced ups and downs since the Covid pandemic?",
+    "a": "The digital health sector"
+  },
+  {
+    "q": "How many states does Universal Health Services operate its inpatient facilities in, according to the March 9, 2026 announcement?",
+    "a": "40 states"
+  },
+  {
+    "q": "What specific financial metric did Talkspace report for 2025 that demonstrated consistent growth and stability?",
+    "a": "A $7.8 million net profit"
+  },
+  {
+    "q": "On what day of the week did Universal Health Services announce the acquisition of Talkspace in March 2026?",
+    "a": "Monday"
+  },
+  {
+    "q": "What was the revenue figure for Talkspace in 2025, which preceded the March 9, 2026 acquisition announcement?",
+    "a": "$228 million"
+  },
+  {
+    "q": "Which organization's chief financial officer stated that the Talkspace acquisition would accelerate expansion into outpatient services?",
+    "a": "Universal Health Services"
+  },
+  {
+    "q": "What was the closing price of Talkspace stock on the Friday immediately preceding the March 9, 2026 acquisition announcement?",
+    "a": "$4.78"
+  },
+  {
+    "q": "What is the total number of inpatient facilities operated by Universal Health Services as of the March 9, 2026 announcement?",
+    "a": "Over 340"
+  },
+  {
+    "q": "What was the total earnings amount for Universal Health Services in 2025?",
+    "a": "$17.4 billion"
+  },
+  {
+    "q": "In what specific time frame is the Talkspace acquisition by Universal Health Services expected to be finalized?",
+    "a": "The third quarter of 2026"
+  },
+  {
+    "q": "Which digital health leader, often considered ripe for acquisition, is being bought by Universal Health Services for $835 million?",
+    "a": "Talkspace"
+  }
+]

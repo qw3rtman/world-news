@@ -1,0 +1,27 @@
+{
+  "hash": "33873610853b",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://canary.haaretz.com/israel-news/israel-security/2026-03-02/ty-article/.premium/israel-wont-end-iran-war-until-hezbollah-threat-is-eliminated-idf-chief-says/0000019c-af76-d3a1-a9fe-bff612f10000",
+      "title": "Israel Won't End Iran War Until Hezbollah Threat in Lebanon Is 'Eliminated,' Army Chief Says - Israel Security",
+      "published_date": "2026-03-02T00:00:00.000Z",
+      "author": "Yaniv Kubovich,",
+      "num_tokens": 50,
+      "text_length": 247
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "677397",
+      "spike_id": 11,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.16500000000000004,
+      "spike_timestamp_before": "2026-03-03T08:00:29+00:00",
+      "spike_timestamp_after": "2026-03-03T17:00:30+00:00"
+    }
+  ]
+}

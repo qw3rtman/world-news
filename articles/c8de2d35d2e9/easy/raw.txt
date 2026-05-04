@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In February 2026, which privately held payments firm was reported by Bloomberg News to be considering an acquisition of PayPal or its assets?",
+    "a": "Stripe"
+  },
+  {
+    "q": "On February 24, 2026, what was the approximate percentage increase in PayPal shares following reports that Stripe was considering acquiring the company?",
+    "a": "Nearly 7%"
+  },
+  {
+    "q": "According to LSEG data cited in February 2026, what was the market valuation of PayPal at the time of the acquisition rumors?",
+    "a": "Over $40 billion"
+  },
+  {
+    "q": "On February 24, 2026, what valuation was assigned to Stripe in a tender offer for employees and shareholders?",
+    "a": "$159 billion"
+  },
+  {
+    "q": "In early 2026, which CEO did PayPal oust after issuing a muted profit outlook for 2026 that missed Wall Street estimates?",
+    "a": "Alex Chriss"
+  },
+  {
+    "q": "After ousting Alex Chriss in early 2026, which PayPal board member was appointed as president and chief executive?",
+    "a": "Enrique Lores"
+  },
+  {
+    "q": "What reason did the PayPal board give for ousting CEO Alex Chriss in early 2026?",
+    "a": "The speed of transformation and execution had fallen short of expectations"
+  },
+  {
+    "q": "Which two Big Tech companies were cited in February 2026 as having made aggressive moves into digital payments that worried PayPal investors?",
+    "a": "Apple and Google"
+  },
+  {
+    "q": "In February 2026, PayPal cited which economic factors as contributing to softer retail spending and a decline in discretionary purchases?",
+    "a": "High interest rates, stubbornly high living costs, and early signs of a weakening job market"
+  },
+  {
+    "q": "Which news organization reported on February 24, 2026, that Stripe was considering acquiring PayPal?",
+    "a": "Bloomberg News"
+  },
+  {
+    "q": "Did PayPal and Stripe provide comments to Reuters on February 24, 2026, regarding the acquisition reports?",
+    "a": "No, both companies declined to comment"
+  },
+  {
+    "q": "Was Reuters able to independently verify the report about Stripe considering an acquisition of PayPal on February 24, 2026?",
+    "a": "No, Reuters could not independently verify the report"
+  },
+  {
+    "q": "What primary services does Stripe provide to enterprises, as described in the February 2026 report?",
+    "a": "Accepting payments, making payouts, and automating financial processes"
+  },
+  {
+    "q": "What event during the pandemic benefited PayPal with a shift to online transactions, but whose momentum has since cooled as of early 2026?",
+    "a": "The shift to online transactions"
+  },
+  {
+    "q": "Who reported the news about Stripe's potential acquisition of PayPal for Reuters on February 24, 2026?",
+    "a": "Manya Saini"
+  },
+  {
+    "q": "Who edited the Reuters report published on February 24, 2026, regarding Stripe and PayPal?",
+    "a": "Shinjini Ganguli"
+  },
+  {
+    "q": "In early 2026, what was the status of PayPal's growth compared to the period following the pandemic-driven shift to online transactions?",
+    "a": "Growth had cooled and the company struggled to maintain momentum despite a multi-year turnaround effort"
+  },
+  {
+    "q": "What was the specific outcome of PayPal's 2026 profit outlook as reported in early 2026?",
+    "a": "It was muted and below Wall Street estimates by a wide margin"
+  },
+  {
+    "q": "Which company was described as the long-standing leader in digital payments as of February 2026, despite concerns about competition?",
+    "a": "PayPal"
+  },
+  {
+    "q": "What type of company is Stripe, as characterized in the February 24, 2026 report?",
+    "a": "Privately held"
+  },
+  {
+    "q": "What was the reported interest level of Stripe in a potential acquisition of PayPal as of February 2026?",
+    "a": "Preliminary interest"
+  },
+  {
+    "q": "Which entity's data was used to determine PayPal's market valuation of over $40 billion in February 2026?",
+    "a": "LSEG"
+  },
+  {
+    "q": "In February 2026, which executive had been brought in to guide PayPal through slowing growth and rising competition before being ousted?",
+    "a": "Alex Chriss"
+  },
+  {
+    "q": "What specific financial metric did PayPal miss by a wide margin in its outlook for 2026, leading to leadership changes?",
+    "a": "Profit"
+  },
+  {
+    "q": "As of February 2026, what was the relationship between PayPal's core business share and the aggressive moves by Apple and Google?",
+    "a": "Investors worried that these moves could erode PayPal's share in its core business"
+  }
+]

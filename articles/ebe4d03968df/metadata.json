@@ -1,0 +1,27 @@
+{
+  "hash": "ebe4d03968df",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://timesofindia.indiatimes.com/world/us/us-navy-has-not-escorted-a-tanker-through-strait-of-hormuz-but-white-house-clarifies-energy-secretarys-deleted-post/articleshow/129414196.cms",
+      "title": "Strait Of Hormuz: US Navy has not escorted a tanker through Strait of Hormuz but...: White House clarifies energy secretary's deleted post - The Times of India",
+      "published_date": "2026-03-10T00:00:00.000Z",
+      "author": "TOI World Desk  / TIMESOFINDIA.COM /  Updated: Mar 11, 2026, 00:36 IST",
+      "num_tokens": 421,
+      "text_length": 2089
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1554932",
+      "spike_id": 1,
+      "market_question": "US escorts commercial ship through Hormuz by March 31?",
+      "event_title": "US escorts commercial ship through Hormuz by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.18,
+      "spike_timestamp_before": "2026-03-11T21:30:30+00:00",
+      "spike_timestamp_after": "2026-03-11T22:30:31+00:00"
+    }
+  ]
+}

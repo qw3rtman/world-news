@@ -1,0 +1,37 @@
+{
+  "hash": "486ca3aec73e",
+  "n_appearances": 2,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://haaretz.com/us-news/2026-03-05/ty-article/.premium/netanyahus-war-with-iran-wont-deliver-for-israel-on-the-american-front/0000019c-bf21-d7b3-affe-bfe3a1af0000",
+      "title": "Netanyahu's Long-awaited War With Iran Won't Deliver for Israel on the American Front - U.S. News",
+      "published_date": "2026-03-05T00:00:00.000Z",
+      "author": "Ben Samuels",
+      "num_tokens": 144,
+      "text_length": 657
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1484987",
+      "spike_id": 5,
+      "market_question": "Netanyahu out by June 30?",
+      "event_title": "Netanyahu out by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.23,
+      "spike_timestamp_before": "2026-03-07T20:00:32+00:00",
+      "spike_timestamp_after": "2026-03-08T13:30:27+00:00"
+    },
+    {
+      "market_id": "1484987",
+      "spike_id": 6,
+      "market_question": "Netanyahu out by June 30?",
+      "event_title": "Netanyahu out by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.24,
+      "spike_timestamp_before": "2026-03-07T20:00:32+00:00",
+      "spike_timestamp_after": "2026-03-08T18:00:37+00:00"
+    }
+  ]
+}

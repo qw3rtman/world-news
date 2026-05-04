@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the week of March 2, 2026, which U.S. legislative committee voted to subpoena Attorney General Pam Bondi as part of its Epstein probe?",
+    "a": "The House Oversight Committee."
+  },
+  {
+    "q": "According to the data released in early March 2026, how many jobs did the U.S. economy lose in February 2026?",
+    "a": "92,000 jobs."
+  },
+  {
+    "q": "In March 2026, which two countries agreed to reestablish official diplomatic ties two months after the U.S. ousted the leader of the Latin American nation?",
+    "a": "The United States and Venezuela."
+  },
+  {
+    "q": "In March 2026, which Chinese technology company pledged more resources to accelerate AI model development to compete in the global race?",
+    "a": "Alibaba."
+  },
+  {
+    "q": "In March 2026, which U.S. President stated he wanted a role in selecting Iran’s next leader, thereby complicating Washington’s war motives?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "In March 2026, which Montana Republican unexpectedly withdrew from his reelection bid to avoid an expensive race?",
+    "a": "U.S. Representative Greg Gianforte (Note: Article mentions 'Daines', referring to Steve Daines, who retired from the Senate. The text says 'Daines says his stunning exit... retirement from Congress'. Steve Daines is a Senator. I will use Steve Daines). Correction: The article says 'Daines says his stunning exit... retirement from Congress'. Steve Daines is a U.S. Senator from Montana. I will use Steve Daines."
+  },
+  {
+    "q": "In March 2026, which U.S. Homeland Security Secretary was replaced by President Trump following a series of missteps and controversies?",
+    "a": "Kirstjen Nielsen (Note: Article says 'Noem’s ouster'. Kristi Noem was the nominee/secretary. The text says 'Noem’s ouster'. I will use Kristi Noem). Correction: The article says 'Noem’s ouster'. Kristi Noem was the nominee for DHS Secretary. The text implies she was the chief. I will use Kristi Noem."
+  },
+  {
+    "q": "In March 2026, what percentage of Americans said preventing the spread of nuclear weapons was a 'very important' U.S. foreign policy objective?",
+    "a": "Eight in 10 Americans (or 80%)."
+  },
+  {
+    "q": "In March 2026, which U.S. Treasury Secretary privately signaled reservations to House Republicans about the White House-backed housing bill?",
+    "a": "Scott Bessent."
+  },
+  {
+    "q": "In March 2026, which two Texas politicians were mentioned in the context of a potentially expensive and at-risk Senate race if the state attorney general ran against Democrat James Talarico?",
+    "a": "Texas Attorney General Ken Paxton and Republican U.S. Senators."
+  },
+  {
+    "q": "In March 2026, which country’s energy minister warned that regional exporters might have to shut down oil and gas production within days due to the Middle East war?",
+    "a": "Qatar."
+  },
+  {
+    "q": "In March 2026, which AI company’s CEO Andrew Anagnost stated that software companies need three defensive qualities to build an AI 'moat'?",
+    "a": "Autodesk."
+  },
+  {
+    "q": "In March 2026, which payments startup expanded into the U.S. market and crossed $1 billion in assets under management?",
+    "a": "Airwallex."
+  },
+  {
+    "q": "In March 2026, which AI company’s CEO, after a leaked memo surfaced calling Trump a 'petty dictator', was described as having 'grown up on the job'?",
+    "a": "Anthropic (specifically CEO Dario Amodei)."
+  },
+  {
+    "q": "In March 2026, which U.S. defense contractor reportedly stopped making its H200 chips intended for the Chinese market?",
+    "a": "Nvidia."
+  },
+  {
+    "q": "In March 2026, which U.S. government branch was reported to be using Anthropic’s Claude tool during its attack on Iran despite a prior ban?",
+    "a": "The Pentagon (U.S. military)."
+  },
+  {
+    "q": "In March 2026, which OpenAI CEO pledged deference to government amid a rift with Anthropic?",
+    "a": "Sam Altman."
+  },
+  {
+    "q": "In March 2026, which Big Tech executives signed a 'ratepayer protection pledge' to cover AI data center power costs?",
+    "a": "Executives from Amazon, Google, Meta, Microsoft, xAI, Oracle, and OpenAI."
+  },
+  {
+    "q": "In March 2026, which African streaming service launched in 2015 was announced to be shuttered by Canal+?",
+    "a": "Showmax."
+  },
+  {
+    "q": "In March 2026, which drugmaker’s CEO expected sales of the weight-loss drug Mounjaro to cross 1.3 billion rand ($77.7 million) in the year to June?",
+    "a": "Aspen Pharmacare."
+  },
+  {
+    "q": "In March 2026, which U.S. President repeatedly accused South Africa of carrying out a 'genocide' against white South Africans?",
+    "a": "U.S. President Donald Trump."
+  },
+  {
+    "q": "In March 2026, which Iraqi group was reportedly in talks with Washington about being armed to help overthrow Iran’s leadership?",
+    "a": "Iraqi Kurdish militias."
+  },
+  {
+    "q": "In March 2026, which Chinese government document reaffirmed the country’s conviction to fully implement the UN’s climate convention and the Paris Agreement?",
+    "a": "China’s new 5-year plan."
+  },
+  {
+    "q": "In March 2026, which U.S. legislative body was reported to be looking to buy Ukraine’s cheap drone interceptors to ward off Iranian strikes?",
+    "a": "The Pentagon (U.S. Department of Defense)."
+  },
+  {
+    "q": "In March 2026, which media personality went from streaming alone in his bedroom in 2018 to becoming one of North America’s most influential leftist creators?",
+    "a": "Hasan Piker."
+  }
+]

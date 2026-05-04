@@ -1,0 +1,67 @@
+{
+  "hash": "819bd8a11f42",
+  "n_appearances": 5,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-14-26",
+      "title": "Day 15 of Middle East conflict — Trump urges countries to send warships to help secure Strait of Hormuz | CNN",
+      "published_date": "2026-03-14T00:00:00.000Z",
+      "author": "Xiaoqian Lin, Alejandra Jaramillo, Aleena Fayaz, Julian Silva-Forbes, Max Saltman, Billy Stockwell, Nina Giraldo, Christina Macfarlane, Sana Noor Haq, Dana Karni, Andrew Carey, Tal Shalev, Catherine Nicholls, Tala Alrajjal, Tori B. Powell, Nechirvan Mando, Hanna Ziady, Mostafa Salem, Issy Ronald, Kylie Atwood, Kaanita Iyer, Sophie Tanno, Soph Warnes, Auzinea Bacon, Oren Liebermann, Dalia Abdelwahab, Laura Sharman, Leila Gharagozlou, Pierre P Bairin, Daria Tarasova-Markina, Helen Regan, Isaac Yee, Frederik Pleitgen, Chris Lau",
+      "num_tokens": 5405,
+      "text_length": 26274
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1394299",
+      "spike_id": 20,
+      "market_question": "US forces enter Iran by December 31?",
+      "event_title": "US forces enter Iran by..?",
+      "spike_direction": "up",
+      "spike_delta": 0.17999999999999994,
+      "spike_timestamp_before": "2026-03-13T14:30:24+00:00",
+      "spike_timestamp_after": "2026-03-14T13:00:28+00:00"
+    },
+    {
+      "market_id": "1554932",
+      "spike_id": 3,
+      "market_question": "US escorts commercial ship through Hormuz by March 31?",
+      "event_title": "US escorts commercial ship through Hormuz by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.175,
+      "spike_timestamp_before": "2026-03-16T18:30:36+00:00",
+      "spike_timestamp_after": "2026-03-17T18:00:46+00:00"
+    },
+    {
+      "market_id": "677397",
+      "spike_id": 22,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.18000000000000005,
+      "spike_timestamp_before": "2026-03-14T13:00:35+00:00",
+      "spike_timestamp_after": "2026-03-15T03:30:25+00:00"
+    },
+    {
+      "market_id": "677397",
+      "spike_id": 23,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "down",
+      "spike_delta": -0.20999999999999996,
+      "spike_timestamp_before": "2026-03-14T14:30:26+00:00",
+      "spike_timestamp_after": "2026-03-15T14:00:29+00:00"
+    },
+    {
+      "market_id": "677397",
+      "spike_id": 24,
+      "market_question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "event_title": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "spike_direction": "up",
+      "spike_delta": 0.20499999999999996,
+      "spike_timestamp_before": "2026-03-15T14:00:29+00:00",
+      "spike_timestamp_after": "2026-03-15T18:00:35+00:00"
+    }
+  ]
+}

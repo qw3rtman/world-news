@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In late February 2026, which three technology and investment entities provided a combined $110 billion in new funding to OpenAI?",
+    "a": "SoftBank, NVIDIA, and Amazon."
+  },
+  {
+    "q": "As of the announcement in late February 2026, what was the pre-money valuation of OpenAI associated with the $110 billion investment round?",
+    "a": "$730 billion."
+  },
+  {
+    "q": "According to the late February 2026 announcement, what were the specific funding amounts contributed by SoftBank and NVIDIA respectively to OpenAI?",
+    "a": "Both SoftBank and NVIDIA contributed $30 billion each."
+  },
+  {
+    "q": "In the February 2026 funding round, how much capital did Amazon contribute to OpenAI, and what strategic partnership was secured alongside this investment?",
+    "a": "Amazon contributed $50 billion and secured a strategic partnership with OpenAI."
+  },
+  {
+    "q": "As of late February 2026, what were the weekly active user count and the number of consumer subscribers reported for ChatGPT?",
+    "a": "More than 900 million weekly active users and 50 million consumer subscribers."
+  },
+  {
+    "q": "Which two months in early 2026 were projected by OpenAI to be the largest in history for new subscriber acquisitions?",
+    "a": "January and February 2026."
+  },
+  {
+    "q": "In late February 2026, what was the reported valuation of the OpenAI Foundation’s stake in the OpenAI Group prior to the new funding push?",
+    "a": "$180 billion."
+  },
+  {
+    "q": "According to Sam Altman, co-founder and CEO of OpenAI, which three areas is the company pushing the frontier across to make AI more capable and reliable?",
+    "a": "Infrastructure, research, and products."
+  },
+  {
+    "q": "What specific type of compute resources did OpenAI secure from NVIDIA as part of its strategic partnerships announced in February 2026?",
+    "a": "Next generation inference compute."
+  },
+  {
+    "q": "In the February 2026 statement, what ultimate technological goal did OpenAI state it aims to achieve through accelerated infrastructure scaling?",
+    "a": "Artificial General Intelligence (AGI)."
+  },
+  {
+    "q": "Which three long-term partners did Sam Altman cite in late February 2026 as sharing OpenAI's ambition to turn scientific progress into global systems?",
+    "a": "SoftBank, NVIDIA, and Amazon."
+  },
+  {
+    "q": "According to OpenAI's February 2026 announcement, what four immediate improvements do users experience as ChatGPT usage scales?",
+    "a": "Faster responses, higher reliability, stronger safety, and more consistent performance."
+  },
+  {
+    "q": "In late February 2026, what specific activities did OpenAI list as reasons people use ChatGPT?",
+    "a": "To learn, write, plan, and build."
+  },
+  {
+    "q": "What was the total amount of new investment OpenAI secured in the round announced in late February 2026?",
+    "a": "$110 billion."
+  },
+  {
+    "q": "Which organization's stake in OpenAI Group was noted to potentially exceed $180 billion soon after the February 2026 funding announcement?",
+    "a": "The OpenAI Foundation."
+  },
+  {
+    "q": "In the February 2026 announcement, what did OpenAI state would define leadership in the new phase where frontier AI moves to daily use?",
+    "a": "Who can scale infrastructure fast enough to meet demand and turn capacity into relied-upon products."
+  },
+  {
+    "q": "Which three entities were identified as the primary financial investors joining OpenAI's funding round announced in late February 2026?",
+    "a": "SoftBank, NVIDIA, and Amazon."
+  },
+  {
+    "q": "According to the late February 2026 statement, what did OpenAI aim to deepen through its new strategic partnerships?",
+    "a": "Its global reach and infrastructure."
+  },
+  {
+    "q": "What was the specific monetary contribution of Amazon to OpenAI's February 2026 funding round, distinguishing it from the other two major investors?",
+    "a": "$50 billion."
+  },
+  {
+    "q": "In late February 2026, what did Sam Altman describe as the requirement for building AI that works for everyone?",
+    "a": "Deep collaboration across the stack."
+  },
+  {
+    "q": "Which two metrics did OpenAI highlight as having broken previous records during the two months leading up to late February 2026?",
+    "a": "Subscriber growth and new subscriber momentum."
+  },
+  {
+    "q": "What pre-money valuation figure was explicitly stated by OpenAI in its late February 2026 announcement regarding the $110 billion investment?",
+    "a": "$730 billion."
+  },
+  {
+    "q": "In the February 2026 announcement, what did OpenAI state it aims to bring to more people, businesses, and communities worldwide?",
+    "a": "Frontier AI."
+  },
+  {
+    "q": "Which specific investor provided the largest single monetary contribution of $50 billion to OpenAI in the February 2026 funding round?",
+    "a": "Amazon."
+  },
+  {
+    "q": "According to Sam Altman's late February 2026 comments, what do SoftBank, NVIDIA, and Amazon share with OpenAI regarding their ambitions?",
+    "a": "The ambition to turn real scientific progress into systems that deliver meaningful benefits for people at global scale."
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "q": "In the Channel 12 News poll published on Thursday evening of March 12, 2026, how many Knesset seats did Prime Minister Benjamin Netanyahu's Likud party receive, and how did this compare to the previous poll conducted two days before the outbreak of the war with Iran?",
+    "a": "Likud received 26 Knesset seats, which was exactly the same number as in the previous poll."
+  },
+  {
+    "q": "According to the Channel 12 News poll published on March 12, 2026, which two parties led by former Prime Minister Naftali Bennett and former IDF Chief of Staff Gadi Eisenkot maintained the same seat counts as in the prior poll, and what were those counts?",
+    "a": "The party of former Prime Minister Naftali Bennett received 21 seats, and the Yashar party led by former IDF Chief of Staff Gadi Eisenkot received 11 seats."
+  },
+  {
+    "q": "In the Channel 12 News poll published on March 12, 2026, which party gained one Knesset seat and which two parties each lost one seat compared to the previous poll?",
+    "a": "The Democrats Party led by Yair Golan gained one seat, while Yesh Atid led by Yair Lapid and Otzma Yehudit led by National Security Minister Itamar Ben-Gvir each lost one seat."
+  },
+  {
+    "q": "According to the Channel 12 News poll published on March 12, 2026, which four political entities failed to pass the electoral threshold in a scenario where Arab parties ran separately?",
+    "a": "Religious Zionism led by Finance Minister Bezalel Smotrich, Blue and White led by former Chief of Staff Benny Gantz, the Reservists party led by Yoaz Hendel, and Balad did not pass the threshold."
+  },
+  {
+    "q": "In the Channel 12 News poll published on March 12, 2026, what was the total number of Knesset seats held by the opposition bloc consisting of Bennett's party, the Democrats, Eisenkot's Yashar party, Yisrael Beiteinu, and Yesh Atid?",
+    "a": "The opposition bloc received 59 Knesset seats."
+  },
+  {
+    "q": "According to the Channel 12 News poll published on March 12, 2026, how many Knesset seats did the coalition parties' bloc hold, and which four parties comprised this bloc?",
+    "a": "The coalition bloc held 51 Knesset seats, comprising Likud, Otzma Yehudit, Shas, and United Torah Judaism."
+  },
+  {
+    "q": "In the Channel 12 News poll published on March 12, 2026, which two major political blocs were predicted to be unable to form a government without the support of Arab parties?",
+    "a": "Neither Netanyahu's supporters (the coalition bloc) nor his opponents (the opposition bloc) could form a government without Arab party support."
+  },
+  {
+    "q": "According to the poll conducted by the Midgam Institute in cooperation with iPanel and published by Channel 12 News on March 12, 2026, which security and political leader received the highest performance rating during the war with Iran?",
+    "a": "Chief of Staff Eyal Zamir received the highest score with an average of 7.4."
+  },
+  {
+    "q": "In the Channel 12 News poll published on March 12, 2026, what was the performance rating given to Mossad Director Dedi Barnea for his leadership during the war with Iran?",
+    "a": "Mossad Director Dedi Barnea scored 7.2."
+  },
+  {
+    "q": "According to the Channel 12 News poll published on March 12, 2026, what were the performance ratings for Prime Minister Benjamin Netanyahu and Defense Minister Israel Katz regarding their leadership during the war with Iran?",
+    "a": "Prime Minister Benjamin Netanyahu received a rating of 5.6, and Defense Minister Israel Katz received a rating of 5."
+  },
+  {
+    "q": "In the Channel 12 News poll published on March 12, 2026, which cabinet minister received the lowest performance rating for leadership during the war with Iran, and what was that rating?",
+    "a": "Finance Minister Bezalel Smotrich received the lowest rating of 3.8."
+  },
+  {
+    "q": "According to the Channel 12 News poll published on March 12, 2026, what was the predicted seat count for the Shas party, and how did it compare to the seat count for Yisrael Beiteinu?",
+    "a": "Both the Shas party and the Yisrael Beiteinu party led by Avigdor Lieberman were predicted to receive 9 Knesset seats."
+  },
+  {
+    "q": "In the Channel 12 News poll published on March 12, 2026, which two parties were predicted to receive 5 Knesset seats each?",
+    "a": "Hadash-Ta'al and the United Arab List were each predicted to receive 5 Knesset seats."
+  },
+  {
+    "q": "According to the Channel 12 News poll published on March 12, 2026, which three parties were predicted to receive 0 Knesset seats because they failed to pass the electoral threshold?",
+    "a": "Religious Zionism, the Reservists, and Kahol Lavan were each predicted to receive 0 Knesset seats."
+  },
+  {
+    "q": "In the Channel 12 News poll published on March 12, 2026, what was the predicted seat count for the United Torah Judaism party?",
+    "a": "The United Torah Judaism party was predicted to receive 7 Knesset seats."
+  },
+  {
+    "q": "According to the Channel 12 News poll published on March 12, 2026, which party led by Yair Lapid was predicted to receive 6 Knesset seats?",
+    "a": "Yesh Atid was predicted to receive 6 Knesset seats."
+  },
+  {
+    "q": "In the Channel 12 News poll published on March 12, 2026, how many Knesset seats were predicted for the Democrats Party led by Yair Golan?",
+    "a": "The Democrats Party was predicted to receive 12 Knesset seats."
+  },
+  {
+    "q": "According to the poll conducted by the Midgam Institute and published by Channel 12 News on March 12, 2026, who headed the Midgam Institute?",
+    "a": "The Midgam Institute was headed by Mano Geva."
+  },
+  {
+    "q": "In the Channel 12 News poll published on March 12, 2026, which party led by National Security Minister Itamar Ben-Gvir was predicted to lose one seat compared to the previous poll, and what was its final predicted seat count?",
+    "a": "Otzma Yehudit was predicted to lose one seat, ending with 9 Knesset seats."
+  },
+  {
+    "q": "According to the Channel 12 News poll published on March 12, 2026, which party led by Avigdor Lieberman was predicted to receive 9 Knesset seats?",
+    "a": "Yisrael Beiteinu was predicted to receive 9 Knesset seats."
+  },
+  {
+    "q": "In the Channel 12 News poll published on March 12, 2026, what was the combined seat count for the coalition bloc parties Likud, Otzma Yehudit, Shas, and United Torah Judaism?",
+    "a": "The combined seat count for the coalition bloc was 51 Knesset seats."
+  },
+  {
+    "q": "According to the Channel 12 News poll published on March 12, 2026, which former Prime Minister's party was predicted to receive 21 Knesset seats?",
+    "a": "The party of former Prime Minister Naftali Bennett was predicted to receive 21 Knesset seats."
+  },
+  {
+    "q": "In the Channel 12 News poll published on March 12, 2026, which former IDF Chief of Staff led the Yashar party that was predicted to receive 11 Knesset seats?",
+    "a": "Former IDF Chief of Staff Gadi Eisenkot led the Yashar party."
+  },
+  {
+    "q": "According to the Channel 12 News poll published on March 12, 2026, which former Chief of Staff led the Blue and White party that failed to pass the electoral threshold?",
+    "a": "Former Chief of Staff Benny Gantz led the Blue and White party."
+  },
+  {
+    "q": "In the Channel 12 News poll published on March 12, 2026, which party led by Yoaz Hendel failed to pass the electoral threshold?",
+    "a": "The Reservists party led by Yoaz Hendel failed to pass the electoral threshold."
+  }
+]

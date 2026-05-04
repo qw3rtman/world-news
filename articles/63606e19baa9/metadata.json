@@ -1,0 +1,27 @@
+{
+  "hash": "63606e19baa9",
+  "n_appearances": 1,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://canary.haaretz.com/us-news/2026-02-27/ty-article/.premium/u-s-may-not-be-able-to-defeat-iran-quickly/0000019c-9bb3-d930-ad9f-fff70b080000",
+      "title": "Trump Signals Caution With Iran Strike, but Could Be Left With No Choice if Talks Fail - U.S. News",
+      "published_date": "2026-02-27T00:00:00.000Z",
+      "author": "Amos Harel",
+      "num_tokens": 152,
+      "text_length": 717
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "1385895",
+      "spike_id": 1,
+      "market_question": "Will the US next strike Iran during the week of March 1-7, 2026 (ET)?",
+      "event_title": "When will the US next strike Iran? (Week)",
+      "spike_direction": "up",
+      "spike_delta": 0.15,
+      "spike_timestamp_before": "2026-02-26T16:00:52+00:00",
+      "spike_timestamp_after": "2026-02-27T15:30:43+00:00"
+    }
+  ]
+}

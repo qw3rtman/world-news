@@ -1,0 +1,47 @@
+{
+  "hash": "fa7cbd899168",
+  "n_appearances": 3,
+  "n_distinct_urls": 1,
+  "sources": [
+    {
+      "url": "https://www.cnn.com/2026/03/17/world/video/trump-xi-summit-delay-iran-war-hnk-vrtc-digvid",
+      "title": "Trump seeks to delay summit with Xi | CNN",
+      "published_date": "2026-03-17T00:00:00.000Z",
+      "author": "Aria Chen",
+      "num_tokens": 67,
+      "text_length": 330
+    }
+  ],
+  "appearances": [
+    {
+      "market_id": "604490",
+      "spike_id": 22,
+      "market_question": "Will Trump visit China by March 31?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.44,
+      "spike_timestamp_before": "2026-03-15T09:00:28+00:00",
+      "spike_timestamp_after": "2026-03-16T05:00:24+00:00"
+    },
+    {
+      "market_id": "604490",
+      "spike_id": 23,
+      "market_question": "Will Trump visit China by March 31?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.4375,
+      "spike_timestamp_before": "2026-03-15T14:00:26+00:00",
+      "spike_timestamp_after": "2026-03-16T14:00:25+00:00"
+    },
+    {
+      "market_id": "604490",
+      "spike_id": 24,
+      "market_question": "Will Trump visit China by March 31?",
+      "event_title": "Will Trump visit China by...?",
+      "spike_direction": "down",
+      "spike_delta": -0.6075,
+      "spike_timestamp_before": "2026-03-15T23:00:25+00:00",
+      "spike_timestamp_after": "2026-03-16T22:30:25+00:00"
+    }
+  ]
+}
