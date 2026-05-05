@@ -27,7 +27,8 @@ class Generator:
     """Loads model via vLLM once, generates answers per query."""
 
     def __init__(self, model: str, tp: int, max_model_len: int,
-                 max_tokens: int, temperature: float):
+                 max_tokens: int, temperature: float,
+                 top_p: float = 0.8, top_k: int = 20, min_p: float = 0):
         self.llm = LLM(
             model=model,
             tensor_parallel_size=tp,
@@ -39,6 +40,9 @@ class Generator:
         self.tokenizer = self.llm.get_tokenizer()
         self.sampling_params = SamplingParams(
             temperature=temperature,
+            top_p=top_p,
+            top_k=top_k,
+            min_p=min_p,
             max_tokens=max_tokens,
         )
 

@@ -15,7 +15,8 @@ class Generator:
     """Loads model via vLLM once, generates outputs for pre-built prompts."""
 
     def __init__(self, model: str, tp: int, max_model_len: int,
-                 max_tokens: int, temperature: float):
+                 max_tokens: int, temperature: float,
+                 top_p: float = 0.8, top_k: int = 20, min_p: float = 0):
         self.llm = LLM(
             model=model,
             tensor_parallel_size=tp,
@@ -29,6 +30,9 @@ class Generator:
         self.tokenizer = self.llm.get_tokenizer()
         self.max_tokens = max_tokens
         self.temperature = temperature
+        self.top_p = top_p
+        self.top_k = top_k
+        self.min_p = min_p
 
     def generate_batch(self, prompts: list[str], max_tokens: int = None) -> list[str]:
         """Generate outputs for a batch of pre-formatted prompts.
@@ -38,6 +42,9 @@ class Generator:
         """
         params = SamplingParams(
             temperature=self.temperature,
+            top_p=self.top_p,
+            top_k=self.top_k,
+            min_p=self.min_p,
             max_tokens=max_tokens or self.max_tokens,
         )
         BATCH_SIZE = 200
