@@ -1,0 +1,194 @@
+"""
+End-to-end agentic RAG pipeline: plan → retrieve → extract → answer.
+
+For each question the Planner generates sub-queries; the pipeline then
+iterates over steps, retrieving and extracting notes per step, before
+a final QA agent synthesizes the answer from all accumulated notes.
+
+Usage:
+    python pipeline.py --config ../config.yaml --questions ../../eval_sample/all.jsonl
+"""
+
+import argparse
+import json
+import os
+
+import yaml
+
+from retrieve import HybridRetriever
+from generate import Generator
+from agents import Agents
+
+
+def load_questions(path: str) -> list[dict]:
+    """Load questions from JSONL."""
+    with open(path) as f:
+        return [json.loads(line) for line in f]
+
+
+def run_pipeline(retriever: HybridRetriever, generator: Generator,
+                 agents: Agents, questions: list[dict]) -> list[dict]:
+    """Run the full agentic pipeline: plan → (define + retrieve + extract) × steps → answer."""
+    n = len(questions)
+
+    # Phase 1: Plan
+    print(f"Planning for {n} questions...")
+    plan_prompts = [agents.format_plan_prompt(q["question"]) for q in questions]
+    plan_outputs = generator.generate_batch(plan_prompts, max_tokens=512)
+    plans = [agents.parse_plan(o) for o in plan_outputs]
+
+    step_counts = [len(p) for p in plans]
+    print(f"Plan steps — min: {min(step_counts)}, max: {max(step_counts)}, "
+          f"avg: {sum(step_counts) / n:.1f}")
+
+    # Phase 2: Execute
+    all_notes: list[list[str]] = [[] for _ in questions]
+    traces: list[dict] = [{"plan": plans[i], "steps": []} for i in range(n)]
+    max_active_steps = max(step_counts)
+
+    for step_idx in range(max_active_steps):
+        active_idx = [i for i in range(n) if step_idx < len(plans[i])]
+
+        print(f"Step {step_idx + 1}/{max_active_steps}: "
+              f"defining tasks for {len(active_idx)} questions...")
+        step_definer_prompts = [
+            agents.format_step_definer_prompt(
+                plan=plans[i],
+                cur_step=plans[i][step_idx],
+                notes_so_far=all_notes[i],
+            )
+            for i in active_idx
+        ]
+        step_tasks = [
+            agents.parse_step_task(o)
+            for o in generator.generate_batch(step_definer_prompts)
+        ]
+
+        for j, task in enumerate(step_tasks):
+            traces[active_idx[j]]["steps"].append({
+                "step_idx": step_idx,
+                "description": plans[active_idx[j]][step_idx],
+                "type": task["type"],
+                "query": task["task"],
+                "chunks": [],
+                "notes": "",
+            })
+
+        search_local = [j for j, t in enumerate(step_tasks) if t["type"] == "search"]
+        aggregate_local = [j for j, t in enumerate(step_tasks) if t["type"] == "aggregate"]
+
+        if search_local:
+            search_queries = [step_tasks[j]["task"] for j in search_local]
+            search_global = [active_idx[j] for j in search_local]
+
+            print(f"Step {step_idx + 1}/{max_active_steps}: "
+                  f"retrieving for {len(search_global)} search tasks...")
+            chunks = retriever.retrieve_batch(search_queries)
+
+            extract_prompts = [
+                agents.format_extract_prompt(search_queries[k], chunks[k])
+                for k in range(len(search_local))
+            ]
+            extract_outputs = generator.generate_batch(extract_prompts, max_tokens=512)
+
+            for k, i in enumerate(search_global):
+                all_notes[i].append(agents.parse_notes(extract_outputs[k]))
+                traces[i]["steps"][-1]["chunks"] = chunks[k]
+                traces[i]["steps"][-1]["notes"] = all_notes[i][-1]
+
+        if aggregate_local:
+            aggregate_tasks = [step_tasks[j]["task"] for j in aggregate_local]
+            aggregate_global = [active_idx[j] for j in aggregate_local]
+
+            print(f"Step {step_idx + 1}/{max_active_steps}: "
+                  f"aggregating for {len(aggregate_global)} aggregate tasks...")
+            aggregate_prompts = [
+                agents.format_aggregate_prompt(task)
+                for task in aggregate_tasks
+            ]
+            aggregate_outputs = generator.generate_batch(aggregate_prompts)
+
+            for k, i in enumerate(aggregate_global):
+                all_notes[i].append(agents.parse_notes(aggregate_outputs[k]))
+                traces[i]["steps"][-1]["notes"] = all_notes[i][-1]
+
+    # Phase 3: Answer
+    print(f"Generating final answers for {n} questions...")
+    answer_prompts = [
+        agents.format_answer_prompt(q["question"], all_notes[i])
+        for i, q in enumerate(questions)
+    ]
+    answer_outputs = generator.generate_batch(answer_prompts)
+
+    results = []
+    for i, (q, answer) in enumerate(zip(questions, answer_outputs)):
+        results.append({
+            "question": q["question"],
+            "expected_answer": q.get("answer", q.get("expected_answer", "")),
+            "model_answer": answer,
+            "num_steps": len(plans[i]),
+            "trace": traces[i],
+        })
+
+    return results
+
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--config", type=str, default="../config.yaml")
+    parser.add_argument("--questions", type=str, required=True)
+    parser.add_argument("--output", type=str, default=None)
+    args = parser.parse_args()
+
+    with open(args.config) as f:
+        cfg = yaml.safe_load(f)
+
+    model_cfg = cfg["generation"]["model"]
+    if model_cfg.startswith("${") and model_cfg.endswith("}"):
+        cfg["generation"]["model"] = os.environ[model_cfg[2:-1]]
+
+    artifacts_dir = cfg["artifacts_dir"]
+
+    print("Loading retriever...")
+    retriever = HybridRetriever(
+        corpus_path=os.path.join(artifacts_dir, "corpus", "corpus.jsonl"),
+        embeddings_path=os.path.join(artifacts_dir, "embeddings.npy"),
+        embedding_model=cfg["embeddings"]["model"],
+        index_dir=os.path.join(artifacts_dir, "index"),
+        bm25_top_k=cfg["retrieval"]["bm25_top_k"],
+        dense_top_k=cfg["retrieval"]["dense_top_k"],
+        reranker_model=cfg["reranking"]["model"],
+        top_n=cfg["reranking"]["top_n"],
+    )
+
+    print("Loading generator...")
+    gen_cfg = cfg["generation"]
+    generator = Generator(
+        model=gen_cfg["model"],
+        tp=gen_cfg["tp"],
+        max_model_len=gen_cfg["max_model_len"],
+        max_tokens=gen_cfg["max_tokens"],
+        temperature=gen_cfg["temperature"],
+    )
+
+    agents = Agents(
+        tokenizer=generator.tokenizer,
+        max_steps=cfg["agent"]["max_steps"],
+    )
+
+    questions = load_questions(args.questions)
+    print(f"Loaded {len(questions)} questions from {args.questions}")
+
+    results = run_pipeline(retriever, generator, agents, questions)
+
+    output_path = args.output or args.questions.replace(".jsonl", "_agentic_results.jsonl")
+    os.makedirs(os.path.dirname(output_path) or ".", exist_ok=True)
+    with open(output_path, "w") as f:
+        for r in results:
+            f.write(json.dumps(r) + "\n")
+
+    print(f"Saved {len(results)} results to {output_path}")
+
+
+if __name__ == "__main__":
+    main()
