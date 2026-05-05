@@ -1,0 +1,170 @@
+[
+  {
+    "name": "world_news_C",
+    "label": "NTP \u2014 article-only NTP loss",
+    "used_by": "ntp-full / ntp-lora (world-news-all)",
+    "path": "/data/continual-learning/world_news_corpora/all_world_news_c.parquet",
+    "kind": "ntp",
+    "rows": 678,
+    "fields": {
+      "question_tokens": {
+        "n": 678,
+        "total": 0,
+        "mean": 0.0,
+        "p50": 0,
+        "p90": 0,
+        "p95": 0,
+        "p99": 0,
+        "max": 0
+      },
+      "answer_tokens": {
+        "n": 678,
+        "total": 638828,
+        "mean": 942.2241887905604,
+        "p50": 937,
+        "p90": 1363,
+        "p95": 1429,
+        "p99": 1484,
+        "max": 1585
+      },
+      "combined_tokens": {
+        "n": 678,
+        "total": 638828,
+        "mean": 942.2241887905604,
+        "p50": 937,
+        "p90": 1363,
+        "p95": 1429,
+        "p99": 1484,
+        "max": 1585
+      },
+      "effective_seq_len": {
+        "n": 678,
+        "total": 638828,
+        "mean": 942.2241887905604,
+        "p50": 937,
+        "p90": 1363,
+        "p95": 1429,
+        "p99": 1484,
+        "max": 1585
+      }
+    }
+  },
+  {
+    "name": "world_news_Q",
+    "label": "SFT \u2014 synthetic Q\u2192A pairs",
+    "used_by": "sft-full / sft-lora (world-news-all)",
+    "path": "/data/continual-learning/world_news_corpora/all_world_news_sft.parquet",
+    "kind": "sft",
+    "rows": 16667,
+    "fields": {
+      "question_tokens": {
+        "n": 16667,
+        "total": 563555,
+        "mean": 33.81262374752505,
+        "p50": 33,
+        "p90": 43,
+        "p95": 47,
+        "p99": 55,
+        "max": 81
+      },
+      "answer_tokens": {
+        "n": 16667,
+        "total": 200831,
+        "mean": 12.049619007619848,
+        "p50": 9,
+        "p90": 25,
+        "p95": 29,
+        "p99": 39,
+        "max": 199
+      },
+      "combined_tokens": {
+        "n": 16667,
+        "total": 764386,
+        "mean": 45.8622427551449,
+        "p50": 44,
+        "p90": 63,
+        "p95": 69,
+        "p99": 83,
+        "max": 223
+      },
+      "effective_seq_len": {
+        "n": 16667,
+        "total": 931056,
+        "mean": 55.8622427551449,
+        "p50": 54,
+        "p90": 73,
+        "p95": 79,
+        "p99": 93,
+        "max": 233
+      }
+    }
+  },
+  {
+    "name": "world_news_C+Q",
+    "label": "interleaved corpus + Q\u2192A",
+    "used_by": "sft-full / sft-lora (cpq-all)",
+    "path": "/data/continual-learning/world_news_corpora/all_world_news_cpq.parquet",
+    "kind": "cpq",
+    "rows": 17345,
+    "fields": {
+      "question_tokens": {
+        "n": 17345,
+        "total": 563555,
+        "mean": 32.49091957336408,
+        "p50": 33,
+        "p90": 43,
+        "p95": 47,
+        "p99": 55,
+        "max": 81
+      },
+      "answer_tokens": {
+        "n": 17345,
+        "total": 839659,
+        "mean": 48.40928221389449,
+        "p50": 10,
+        "p90": 28,
+        "p95": 38,
+        "p99": 1176,
+        "max": 1585
+      },
+      "combined_tokens": {
+        "n": 17345,
+        "total": 1403214,
+        "mean": 80.90020178725858,
+        "p50": 44,
+        "p90": 67,
+        "p95": 81,
+        "p99": 1176,
+        "max": 1585
+      },
+      "effective_seq_len": {
+        "n": 17345,
+        "total": 1569884,
+        "mean": 90.50931104064571,
+        "p50": 54,
+        "p90": 77,
+        "p95": 91,
+        "p99": 1176,
+        "max": 1585
+      }
+    },
+    "by_row_type": {
+      "corpus": {
+        "n": 678,
+        "mean_combined": 942.2241887905604,
+        "p99_combined": 1484,
+        "max_combined": 1585,
+        "mean_effective": 942.2241887905604,
+        "max_effective": 1585
+      },
+      "qa": {
+        "n": 16667,
+        "mean_combined": 45.8622427551449,
+        "p99_combined": 83,
+        "max_combined": 223,
+        "mean_effective": 55.8622427551449,
+        "max_effective": 233
+      }
+    }
+  }
+]
