@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did OpenAI acquire the Python startup Astral in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the acquisition of Astral by OpenAI include publicly shared financial terms at the time of the announcement in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is Charlie Marsh the founder and CEO of Astral?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did OpenAI acquire Astral to bolster its competition with Google's Gemini model?",
+    "a": "No"
+  },
+  {
+    "q": "Did OpenAI commit to continuing support for Astral's open source projects after the acquisition closed?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the acquisition of Astral by OpenAI close immediately without pending regulatory approval in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is Ruff one of the three essential Python development tools made by Astral?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did OpenAI acquire Astral to replace its existing Codex group leadership with Charlie Marsh?",
+    "a": "No"
+  },
+  {
+    "q": "Did OpenAI hire Albert Lee from Google to lead corporate development in December 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Cursor a subsidiary of Anthropic that OpenAI acquired alongside Astral?",
+    "a": "No"
+  }
+]

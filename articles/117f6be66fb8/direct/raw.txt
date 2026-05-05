@@ -1,0 +1,22 @@
+{
+  "q": "Did President Donald Trump announce the military action on social media in February 2026?",
+  "a": "Yes",
+  "q": "Was the military operation against Iran named \"Operation Epic Fury\" by the Pentagon?",
+  "a": "Yes",
+  "q": "Did the United States launch the strike on Iran without the participation of Israel?",
+  "a": "No",
+  "q": "Were the bombing sites targeted by the United States and Israel located in Tehran and other cities?",
+  "a": "Yes",
+  "q": "Did President Donald Trump state that the Iranian regime’s activities endanger the United Kingdom?",
+  "a": "No",
+  "q": "Did the Pentagon describe the attack as \"Operation Epic Fury\"?",
+  "a": "Yes",
+  "q": "Did the United States and Israel launch a major strike on Iran's nuclear power plants in February 2026?",
+  "a": "No",
+  "q": "Did President Donald Trump use social media to announce the operation in February 2026?",
+  "a": "Yes",
+  "q": "Did the article state that the United States acted alone in the strike on Iran in February 2026?",
+  "a": "No",
+  "q": "Did President Donald Trump claim that the Iranian regime’s activities endanger the United States in February 2026?",
+  "a": "Yes"
+}

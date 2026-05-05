@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Russian nationalist tycoon Konstantin Malofeyev describe the United States as a threat to the entire world in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Kremlin provide tangible material help to Iran following the U.S.-Israeli strikes in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did prominent Russian war blogger Boris Rozhin, known as \"Colonel Cassad,\" compare President Donald Trump to a monster in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump topple Syria's Bashar al-Assad in January 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Russian hardliners argue that U.S.-brokered peace talks with Ukraine were a cynical ploy in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Vladimir Putin personally criticize President Donald Trump's actions in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did ultra-nationalist philosopher Alexander Dugin state that Russia would be next if Iran collapsed in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. forces seize Venezuela's Nicolas Maduro at gunpoint in December 2024?",
+    "a": "No"
+  },
+  {
+    "q": "Did Kirill Dmitriev suggest that increasing oil prices could help Russia's state budget in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Kremlin abandon its hope that Trump could help end the war in Ukraine on its own terms in March 2026?",
+    "a": "No"
+  }
+]

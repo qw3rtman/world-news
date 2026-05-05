@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the value of M&A deals announced in 2026 exceed $1 trillion by mid-March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the year-over-year increase in M&A deal value in early 2026 approximately 27%?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Stephan Feldgoise, co-head of global M&A at Goldman Sachs, state that market volatility would normally kill M&A activity?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Paul, Weiss Chairman Scott Barshay forecast that 2026 deal volume could break the record set in 2021?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Tulane University's Corporate Law Institute conference take place in New Orleans in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Dealogic data show that the number of M&A deals signed in early 2026 increased by 27% compared to the previous year?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Senator John Cornyn deliver the keynote address at the Tulane University Corporate Law Institute conference in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Trump administration's policies lead to slower closing times for M&A deals compared to the Biden administration?",
+    "a": "No"
+  },
+  {
+    "q": "Did activist investors such as Elliott Investment Management and Jana Partners push corporations to streamline businesses by spinning out non-core assets in early 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did some companies pause M&A activities in early 2026 because they were uncertain about how the U.S.-Israeli war on Iran would impact their valuations?",
+    "a": "No"
+  }
+]

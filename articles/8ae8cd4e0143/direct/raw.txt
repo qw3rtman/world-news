@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did OpenAI raise $110 billion in new investment announced in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did SoftBank contribute $30 billion to OpenAI's latest funding round announced in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did NVIDIA contribute $50 billion to OpenAI's latest funding round announced in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Amazon contribute $50 billion to OpenAI's latest funding round announced in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did OpenAI report having more than 900 million weekly active users for ChatGPT as of February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did OpenAI report having more than 100 million consumer subscribers as of February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did OpenAI announce a pre-money valuation of $730 billion in its February 2026 funding announcement?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did OpenAI announce that its current stake valuation was $180 billion in its February 2026 funding announcement?",
+    "a": "No"
+  },
+  {
+    "q": "Did Sam Altman serve as the co-founder and CEO of OpenAI during the February 2026 funding announcement?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did OpenAI state that January and February 2026 were the smallest months for new subscribers in its history?",
+    "a": "No"
+  }
+]

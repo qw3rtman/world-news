@@ -1,0 +1,22 @@
+{
+  "q": "Did the Venezuelan National Assembly approve the amnesty law in February 2026?",
+  "a": "Yes",
+  "q": "Did opposition lawmaker Antonio Ecarri describe the final hours of the debate as a process of changing the law 'comma by comma'?",
+  "a": "Yes",
+  "q": "Did the amnesty law require those seeking amnesty to submit themselves to the justice system in order to benefit from it?",
+  "a": "Yes",
+  "q": "Did the opposition succeed in ensuring that individuals outside the country can begin their amnesty proceedings through a legal representative?",
+  "a": "Yes",
+  "q": "Did the United Socialist Party of Venezuela (PSUV) hold a majority in the National Assembly during the passage of the amnesty law?",
+  "a": "Yes",
+  "q": "Did the amnesty law include a provision for a labor amnesty to address unjustified dismissals?",
+  "a": "No",
+  "q": "Did the final version of the amnesty law exclude protection for anyone who had incited armed actions from abroad against the country’s territory and sovereignty?",
+  "a": "No",
+  "q": "Did the main opposition forces aligned with María Corina Machado call for participation in the 2025 elections that produced the current lawmakers?",
+  "a": "No",
+  "q": "Did the monitoring committee established by Article 15 of the law include the word 'expeditious' to describe the alternative measures it may request?",
+  "a": "No",
+  "q": "Did Attorney General Tarek William Saab take part in the debates regarding the amnesty law?",
+  "a": "No"
+}

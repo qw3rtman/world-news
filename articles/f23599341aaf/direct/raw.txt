@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump receive warnings that attacking Iran could trigger retaliation against Gulf allies in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump claim that Tehran's reaction to the potential attack came as a surprise in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump publicly deny receiving any warnings about retaliation against Gulf allies in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump claim that Tehran's reaction to the potential attack was expected and not surprising in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. intelligence reports warn that attacking Iran could trigger retaliation against Gulf allies in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. intelligence reports warn that attacking Iran would trigger retaliation against North American allies in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Were U.S. President Donald Trump's warnings about Iranian retaliation based on statements from U.S. officials and sources familiar with intelligence reports in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Were U.S. President Donald Trump's warnings about Iranian retaliation based on statements from European intelligence agencies in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump claim that Tehran's reaction came as a surprise in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump claim that Tehran's reaction was pre-planned and anticipated in February 2026?",
+    "a": "No"
+  }
+]

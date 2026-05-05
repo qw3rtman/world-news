@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the Dow Jones Industrial Average fall on March 11, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the S&P 500 rise by more than 1% on March 11, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the International Energy Agency announce a release of 400 million barrels of oil on March 11, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Brent crude oil prices fall below $90 per barrel on March 11, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. forces sink several Iranian ships near the Strait of Hormuz prior to March 11, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump state that the war with Iran would continue indefinitely on March 11, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the consumer price index increase 2.4% year-over-year in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Oracle shares drop by 9% on March 11, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Nasdaq Composite end the session above 22,700 on March 11, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Kingdom Maritime Trade Operations report that three cargo ships were struck by projectiles off Iran's coast on March 11, 2026?",
+    "a": "Yes"
+  }
+]

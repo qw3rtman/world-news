@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iran's Supreme Leader Ayatollah Ali Khamenei die in a joint American-Israeli military operation in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump announce on Truth Social that Israel, with U.S. support, had killed Ayatollah Ali Khamenei in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Iranian government announce 40 days of mourning following the death of Ayatollah Ali Khamenei in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the International Atomic Energy Agency confirm in February 2026 that Iran had resumed the enrichment of uranium prior to the U.S.-Israeli strikes?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Central Command spokesperson Capt. Tim Hawkins state in February 2026 that the U.S. military had intentionally targeted civilians in Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Iranian Red Crescent Society report in February 2026 that more than 200 people were killed in strikes across Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the joint U.S.-Israeli military operation against Iran in February 2026 receive the codename \"Operation Desert Storm\" from the Pentagon?",
+    "a": "No"
+  },
+  {
+    "q": "Did United Nations Secretary-General António Guterres condemn the U.S.-Israeli strikes on Iran in February 2026 during an emergency UN Security Council meeting?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Jordanian government report in February 2026 that it had downed 49 drones and ballistic missiles threatening its territory?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump confirm in February 2026 that the specific strike killing Ayatollah Ali Khamenei was carried out by Israel?",
+    "a": "No"
+  }
+]

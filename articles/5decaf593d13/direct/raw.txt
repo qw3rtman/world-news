@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the United States and Israel launch military strikes on Iran on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump announce the military operation against Iran in an eight-minute video posted on social media?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Pentagon designate the joint U.S.-Israeli military operation against Iran as Operation Epic Fury?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli assessments indicate that Iran's supreme leader, Ayatollah Ali Khamenei, was killed in the strikes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian state media report that casualties included more than 50 students at a girls' school?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump specify an imminent threat from Iran as the primary justification for the strikes?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran retaliate by targeting U.S. military sites in Arab Gulf States?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.N. Secretary-General Antonio Guterres endorse the U.S. and Israeli military action against Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did Senator Tim Kaine, Democrat of Virginia, express support for the military strikes on Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. and Israel conduct their attacks on Iran during ongoing negotiations with the Iranian government?",
+    "a": "No"
+  }
+]

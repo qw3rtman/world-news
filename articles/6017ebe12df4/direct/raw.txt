@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Zoetis Inc. announce a definitive agreement to acquire Neogen Corporation’s animal genomics business in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the purchase price for Neogen Corporation’s animal genomics business set at $160 million?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Zoetis Inc. headquartered in Parsippany, New Jersey?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does Neogen Corporation operate its genomics laboratories in the United States, Brazil, Australia, China, and the United Kingdom?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Jamie Brannan the Chief Executive Officer of Zoetis Inc.?",
+    "a": "No"
+  },
+  {
+    "q": "Is Zoetis Inc. expected to complete the acquisition of Neogen Corporation’s animal genomics business in the first half of calendar year 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is Neogen Corporation’s genomics business described as a leader in U.S. beef and dairy genomics?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does Neogen Corporation have an office location in Canada for its genomics business?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the acquisition of Neogen Corporation’s animal genomics business expected to be completed in the second half of calendar year 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Is Neogen Corporation’s stock ticker symbol listed as ZTS on the NASDAQ exchange?",
+    "a": "No"
+  }
+]

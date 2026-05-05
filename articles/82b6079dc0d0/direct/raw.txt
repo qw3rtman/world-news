@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did White House Press Secretary Karoline Leavitt state that the Iran war would end when President Trump determines military objectives have been met on March 10, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did White House Press Secretary Karoline Leavitt state that the Iran war would end when the U.S. Congress votes to authorize peace on March 10, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the White House indicate that President Trump would determine when the Iran war ends on March 10, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the White House indicate that the United Nations would determine when the Iran war ends on March 10, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the White House specify that the condition for ending the Iran war was the meeting of military objectives on March 10, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the White House specify that the condition for ending the Iran war was the signing of a formal peace treaty on March 10, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Karoline Leavitt serve as the White House Press Secretary on March 10, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Karoline Leavitt serve as the U.S. Secretary of State on March 10, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the administration believe the Iran war would be over when President Trump made the determination on March 10, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the administration believe the Iran war would be over when Iranian leadership surrendered on March 10, 2026?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Ecuadorian forces sink a narco sub near its northern border in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Southern Command disclose the specific location where the helicopter footage was taken during the joint operations?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ecuadorian President Daniel Noboa announce that his government was beginning joint actions with other countries to fight organized crime in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the narco submersible discovered in the Amazon rainforest region of Ecuador?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Ecuadorian Defense Ministry report that military personnel were shot at after discovering the clandestine camp?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the seized supplies include 6,000 gallons of gasoline?",
+    "a": "No"
+  },
+  {
+    "q": "Is the Cayapas–Mataje mangrove forest located near Ecuador's border with Colombia?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the narco submersible sink completely underwater during the military operation?",
+    "a": "No"
+  },
+  {
+    "q": "Did the seized supplies include 120 empty fuel tanks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Southern Command state that the scope of the joint military operation was clearly defined and limited?",
+    "a": "No"
+  }
+]

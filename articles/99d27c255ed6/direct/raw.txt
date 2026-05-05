@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the U.S. military report that three U.S. troops were killed in operations against Iran on Sunday, March 1, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did a Reuters/Ipsos poll conducted in early March 2026 show that 43% of Americans disapproved of U.S. strikes against Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state in an interview with the Daily Mail that the strikes on Iran could last for four weeks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. military sink nine Iranian warships during the first two days of major combat operations in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Central Command confirm that the U.S. service members killed in Kuwait suffered only minor shrapnel injuries and concussions?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump acknowledge that the U.S. bombing of Iran's nuclear sites in June 2025 resulted in U.S. fatalities?",
+    "a": "No"
+  },
+  {
+    "q": "Did Democratic U.S. Senator Chris Coons state on CNN's 'State of the Union' that regime change in Iran could happen solely through air strikes?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian Supreme Leader Ali Khamenei survive the U.S. military campaign that began in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran's foreign minister claim on X that bombings in Tehran had no impact on Iran's ability to conduct war?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Republican Senator Lindsey Graham compare the U.S. operation in Iran to the post-war reconstruction of Germany and Japan on NBC's 'Meet the Press'?",
+    "a": "No"
+  }
+]

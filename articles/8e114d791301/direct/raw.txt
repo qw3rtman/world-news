@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Israeli strikes on Iran’s South Pars gas field and the Asaluyeh processing hub trigger retaliatory attacks on energy infrastructure in Gulf states in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. military Boeing KC-135 refueling aircraft collide mid-air over Iraq on March 5, 2026, killing all six crew members?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Ali Larijani, Iran’s security chief, killed by Israel in March 2026 before Mojtaba Khamenei was chosen as the new supreme leader?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Saudi Arabia increase crude exports through its East-West pipeline to the Red Sea port of Yanbu to a record daily export of 5.9 million barrels per day on March 9, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. forces strike Kharg Island in March 2026 with the stated goal of totally obliterating every military target there?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Islamic Resistance in Iraq claim responsibility for the mid-air collision of two U.S. Boeing KC-135 tankers over Iraq on March 5, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Senator Ted Cruz publicly endorse Ken Paxton in the 2026 Texas Republican U.S. Senate primary in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the International Energy Agency call for a historic release of 100 million barrels from global reserves in response to the March 2026 energy shock?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United States supply the majority of arms imports to Iran between 2021 and 2025, according to Stockholm International Peace Research Institute data?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Korean index KOSPI fall nearly 20% from before the conflict started until Wednesday, March 4, 2026, recording its biggest single-day drop in history?",
+    "a": "No"
+  }
+]

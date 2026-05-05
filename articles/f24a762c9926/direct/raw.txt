@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump signal that attacks on Iran would intensify during the weekend of March 7–8, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Secretary of State Marco Rubio waive Congressional review requirements for the sale of 12,000 bombs to Israel?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian President Masoud Pezeshkian permanently cease all Iranian strikes against Gulf states after his apology on March 7, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did UAE President Mohammed bin Zayed Al Nahyan publicly describe Iran as \"the enemy\" during the week of March 8, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Kingdom deploy the HMS Prince of Wales to the Mediterranean immediately in response to the conflict starting in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Israeli Air Force strike military aircraft at Mehrabad International Airport in Tehran on the night of March 7, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran’s Foreign Minister Abbas Araghchi accuse the United States of attacking a desalination plant on Qeshm Island with verified evidence seen by CNN?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. gas prices reach an average of $3.41 per gallon in early March 2026, the highest level since August 2024?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States complete over a dozen charter flights to evacuate Americans from the Middle East by Saturday, March 7, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the IRGC Navy confirm that the oil tanker \"Louise P\" was flying the United States flag when it was struck by a drone?",
+    "a": "No"
+  }
+]

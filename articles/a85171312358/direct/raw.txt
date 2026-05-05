@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump claim in his State of the Union address on February 24, 2026, that Iran was working on missiles that would soon reach the United States?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did three sources familiar with U.S. intelligence reports state that President Trump’s claim about an imminent Iranian missile threat was unsupported by intelligence and appeared exaggerated?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did an unclassified 2025 U.S. Defense Intelligence Agency assessment conclude that Iran could take until 2035 to develop a militarily viable intercontinental ballistic missile?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did White House spokesperson Anna Kelly state that President Trump was wrong to highlight the grave concern posed by Iran's intercontinental ballistic missiles?",
+    "a": "No"
+  },
+  {
+    "q": "Did one source indicate that even with technological assistance from China or North Korea, Iran would probably take up to eight years at the earliest to produce an operational ICBM-level missile?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Secretary of State Marco Rubio state definitively in a Wednesday address that Iran already possessed weapons capable of reaching the continental United States?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian Foreign Minister Abbas Araghchi deny in an interview with India Today TV released on Wednesday that Iran was expanding its missile capabilities?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the International Atomic Energy Agency state that Iran shuttered its nuclear weapons development program in 2003?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did David Albright, president of the Institute for Science and International Security, state that Iran was close to being able to mount a nuclear warhead-carrying re-entry vehicle on a missile?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli airstrikes in 2024 and last year badly damage key facilities where Tehran produces liquid- and solid-fuel ballistic missiles?",
+    "a": "Yes"
+  }
+]

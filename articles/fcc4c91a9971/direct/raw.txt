@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Oracle lift its fiscal 2027 revenue outlook by $1 billion to $90 billion in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Irth Capital Management offer $47 per share for Papa John's in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Campbell's Co. report a 6% increase in snacks business net sales in its fiscal second quarter ending in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Nvidia announce a $2 billion investment in Nebius Group in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Uber plan to offer Zoox driverless rides in Los Angeles in the summer of 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is the acquisition of UniFirst by Cintas valued at roughly $5.5 billion?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Serve Robotics report a fourth-quarter loss of 48 cents per share in the period ending in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did AeroVironment report adjusted earnings of 69 cents per share in its fiscal third quarter ending in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Cadre Holdings report fourth-quarter earnings of 27 cents per share in the period ending in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Sprinklr's first-quarter revenue guidance fall short of Wall Street analysts' consensus estimates in March 2026?",
+    "a": "No"
+  }
+]

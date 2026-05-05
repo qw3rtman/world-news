@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iran agree during indirect talks with the United States in February 2026 never to stockpile enriched uranium?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Oman’s Foreign Minister Badr bin Hamad Al Busaidi broker the third round of indirect talks between the US and Iran in Geneva in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump express satisfaction with the way the recent indirect talks in Geneva concluded in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Oman’s Foreign Minister Badr bin Hamad Al Busaidi meet with US Vice President JD Vance in Washington, DC, in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States and Iran agree to hold their next round of indirect negotiations in Vienna, Austria, in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran agree to maintain a zero stockpile of nuclear material that could be used to create a bomb during the February 2026 negotiations?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump declare in February 2026 that he favored using immediate military force over diplomacy to resolve the issue with Tehran?",
+    "a": "No"
+  },
+  {
+    "q": "Did Oman’s Foreign Minister Badr bin Hamad Al Busaidi state that Iran would degrade its current stockpiles of nuclear material to the lowest possible level in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the International Atomic Energy Agency (IAEA) conduct full and comprehensive verification of Iran’s nuclear activities during the February 2026 talks in Geneva?",
+    "a": "No"
+  },
+  {
+    "q": "Did US Vice President JD Vance meet with Oman’s Foreign Minister Badr bin Hamad Al Busaidi in Washington, DC, in February 2026?",
+    "a": "Yes"
+  }
+]

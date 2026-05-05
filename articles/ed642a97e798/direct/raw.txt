@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did LEO Pharma A/S CEO Christophe Bourdon state that the company is engaging prospective investors in preparation for a potential stock market listing in 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is LEO Pharma A/S a pharmaceutical company based in Denmark that specializes in treatments for skin conditions?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did CEO Christophe Bourdon describe the feedback from investor meetings as discouraging during the recent JP Morgan health-care conference?",
+    "a": "No"
+  },
+  {
+    "q": "Did LEO Pharma A/S hold investor meetings at the recent Jefferies health-care conference?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is LEO Pharma A/S a newly founded startup with no historical track record prior to 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Christophe Bourdon indicate that the company aims to be ready to list its stock when shareholders decide to proceed?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did LEO Pharma A/S CEO Christophe Bourdon cite interest in the company's market positioning and track record during investor meetings?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the investor meetings mentioned by CEO Christophe Bourdon take place exclusively at the Morgan Stanley health-care conference?",
+    "a": "No"
+  },
+  {
+    "q": "Is LEO Pharma A/S primarily focused on developing treatments for respiratory diseases rather than skin conditions?",
+    "a": "No"
+  },
+  {
+    "q": "Did CEO Christophe Bourdon give an interview regarding the company's IPO preparations in February 2026?",
+    "a": "Yes"
+  }
+]

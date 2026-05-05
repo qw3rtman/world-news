@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did a senior U.S. official tell Axios in February 2026 that the Trump administration is prepared to consider a proposal allowing Iran \"token\" nuclear enrichment?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian Foreign Minister Abbas Araghchi state on Friday in February 2026 that an Iranian proposal would be finalized in the next two or three days?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Supreme Leader Ali Khamenei unequivocally state in February 2026 that Iran would not give up its right to nuclear enrichment?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. and Israeli officials tell Axios in February 2026 that President Trump could strike Iran as soon as the weekend following the Geneva talks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Raphael Grossi, head of the UN nuclear watchdog, suggest technical measures to ensure Iran's nuclear program cannot be diverted to non-peaceful purposes in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump publicly endorse a \"zero enrichment\" policy for Iran on Iranian soil during the February 2026 Geneva talks?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian Foreign Minister Abbas Araghchi claim in a February 2026 interview that Iran had offered to temporarily suspend its enrichment program during the Geneva talks?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran currently possess operational centrifuges for uranium enrichment in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump claim in February 2026 that 32,000 protesters had been killed in Iran, a figure supported by most international estimates?",
+    "a": "No"
+  },
+  {
+    "q": "Did a second source confirm in February 2026 that a plan to kill Supreme Leader Ali Khamenei and his son Mojtaba was floated to President Trump several weeks ago?",
+    "a": "No"
+  }
+]

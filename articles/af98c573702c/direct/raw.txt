@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Rep. Kelly Morrison bring Colin Hortman, the son of the late Minnesota House Speaker Emerita Melissa Hortman, to President Donald Trump's State of the Union address in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Senator Tina Smith attend President Donald Trump's State of the Union address in Washington, D.C., in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Rep. Ilhan Omar bring Aliya Rahman, who was detained by federal agents while driving to a doctor's appointment, to the State of the Union address in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Rep. Pete Stauber bring conservative YouTuber Nick Shirley to the State of the Union address in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Virginia Governor Abigail Spanberger deliver the Democratic response to President Donald Trump's State of the Union address in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Minneapolis Mayor Jacob Frey attend President Donald Trump's State of the Union address in Washington, D.C., in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Mubashir Hussen, a 20-year-old U.S. citizen, testify that he was violently detained by federal agents during his lunch break in the Cedar-Riverside neighborhood?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump deliver his first formal State of the Union address of his second term in March 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did Mary Granlund, chair of the Columbia Heights Public School Board, attend the State of the Union address in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Minnesota Farm Bureau President Dan Glessing attend the State of the Union address in February 2026?",
+    "a": "Yes"
+  }
+]

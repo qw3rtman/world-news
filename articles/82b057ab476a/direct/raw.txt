@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the fatal shooting on the stolen boat off the coast of Cuba occur on Wednesday, February 25, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Secretary of State Marco Rubio cast doubt on the Cuban government's account of the boat shooting?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Cuban government claim that the individuals aboard the boat were violent criminals?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Antonio Tang join the anti-Cuban government group Alpha 66 in 1981 after fleeing to Canada?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Trump administration take a more aggressive stance toward Cuba following the ouster of Venezuelan President Nicolás Maduro?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the shooting on the boat result in the death of ten people aboard the vessel?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Reagan administration arrest the leaders of counter-revolutionary groups like Alpha 66 during the 1990s?",
+    "a": "No"
+  },
+  {
+    "q": "Did Cuban intelligence officer Enrique Garcia defect to the United States in 1999?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Brothers to the Rescue group lose four members in 1996 when their airplanes were shot down by Cuban fighter jets?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did William LeoGrande, an American University professor, state that paramilitary action by small groups is the primary way Cuban Americans currently seek to influence U.S. policy?",
+    "a": "No"
+  }
+]

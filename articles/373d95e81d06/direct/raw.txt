@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iran threaten to retaliate against Gulf states' desalination plants after receiving an ultimatum from U.S. President Donald Trump in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the closing of the Strait of Hormuz by Iran result in a loss of three days of global oil supply during the 22 days of the war?",
+    "a": "No"
+  },
+  {
+    "q": "Did Qatar's GDP sink by 13% in 2026 due to attacks that took out 17% of its LNG capacity?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. oil blockade cause Cuba to restore power to Havana after a second grid collapse in a week in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Cuban Deputy Foreign Minister Carlos Fernandez de Cossio state that Cuba was prepared for a potential military engagement with the United States in response to threats by U.S. President Donald Trump?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the French far-right National Rally win control of the southern cities of Marseille and Toulon in the municipal elections on Sunday in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Senator Robert Mueller die at the age of 81, prompting U.S. President Donald Trump to say he was glad he was dead?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the World Health Organization report that a strike on a Sudan hospital killed at least 64 people and took the facility out of service?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the law firm Jackson Walker ink a partial deal with the U.S. Trustee to resolve fallout from an ethics scandal involving a former bankruptcy judge who shared a home with a former partner at the firm?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Senate advance the Homeland Security nomination of James Comer, paving the way for a confirmation vote in March 2026?",
+    "a": "No"
+  }
+]

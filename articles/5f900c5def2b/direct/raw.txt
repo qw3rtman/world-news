@@ -1,0 +1,22 @@
+{
+  "q": "Did spot gold prices reach their highest level since January 30, 2026, on Friday, February 27, 2026?",
+  "a": "Yes",
+  "q": "Did spot silver prices rise by 4.8% to $92.60 an ounce on February 27, 2026?",
+  "a": "Yes",
+  "q": "Did China's central bank remove risk-reserve rules for forex forwards to encourage more yuan selling in February 2026?",
+  "a": "No",
+  "q": "Did U.S. 10-year Treasury yields slip to a three-month low on February 27, 2026?",
+  "a": "Yes",
+  "q": "Did the U.S. and Iran reach a breakthrough agreement in their nuclear talks on Thursday, February 26, 2026?",
+  "a": "No",
+  "q": "Did China's net gold imports via Hong Kong rise by 68.7% in January 2026 compared to December 2025?",
+  "a": "Yes",
+  "q": "Did spot platinum prices fall by 0.5% to $1,775.31 an ounce on February 27, 2026?",
+  "a": "No",
+  "q": "Did the U.S. Embassy in Jerusalem permit non-emergency staff and families to leave Israel on February 27, 2026?",
+  "a": "Yes",
+  "q": "Did the CME FedWatch tool indicate a 42% chance of a 50-basis-point U.S. Federal Reserve rate cut in June 2026?",
+  "a": "No",
+  "q": "Did U.S. producer prices increase more than expected in January 2026?",
+  "a": "Yes"
+}

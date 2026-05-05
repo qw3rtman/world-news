@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the US intelligence community assess in March 2026 that Iran was not building a nuclear weapon?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump claim that Iran’s nuclear program had been \"obliterated\" on June 21, 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Defense Secretary Pete Hegseth declare on June 22, 2025, that Iran’s nuclear ambitions had been obliterated?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did an early US intelligence assessment following the June 2025 strikes conclude that the core components of Iran’s nuclear program were destroyed?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump plan to discuss a potentially more extensive military campaign against Iran in his State of the Union address on February 24, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Vice President JD Vance state in late February 2026 that the primary US interest was preventing Iran from acquiring nuclear weapons?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Special Envoy Steve Witkoff suggest in February 2026 that Iran was approximately a week away from having industrial-grade bomb-making material?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the initial justification for the US operation to oust Venezuelan President Nicolás Maduro focused primarily on Iran’s nuclear ambitions?",
+    "a": "No"
+  },
+  {
+    "q": "Did Joint Chiefs of Staff Chairman Dan Caine provide a definitive confirmation on June 21, 2025, that Iran’s nuclear facilities were completely obliterated?",
+    "a": "No"
+  },
+  {
+    "q": "Did White House Press Secretary Karoline Leavitt provide a single, logically consistent reason for striking Iran again in February 2026?",
+    "a": "No"
+  }
+]

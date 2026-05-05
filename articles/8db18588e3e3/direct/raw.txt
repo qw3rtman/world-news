@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump announce that three U.S. service members were killed in action during the military operation against Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Secretary of State Marco Rubio brief House and Senate members on the Iran conflict on Monday, March 1, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Hezbollah claim responsibility for launching strikes on an Israeli missile defense site in retaliation for the death of Supreme Leader Ayatollah Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Central Command confirm that Iran’s missile and drone attacks were directed solely and exclusively at U.S. military bases and assets?",
+    "a": "No"
+  },
+  {
+    "q": "Did British Prime Minister Keir Starmer grant the U.S. permission to use British airbases in Cyprus and Diego Garcia to strike Iranian ballistic missile sites?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Nobel laureate Malala Yousafzai praise the U.S. and Israeli strikes on the Shajareh Tayyebeh girls’ school in Minab, Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did the OPEC+ group announce plans to increase collective crude oil production by 206,000 barrels per day in response to the strikes on Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Joe Biden’s administration successfully revive the Joint Comprehensive Plan of Action (JCPOA) nuclear deal with Iran in 2021?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. Embassy in Kuwait advise Americans to shelter in place and avoid going outside due to threats of missile and drone attacks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Russian President Vladimir Putin condemn the U.S.-Israeli strikes on Iran as a violation of international law?",
+    "a": "No"
+  }
+]

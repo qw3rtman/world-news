@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Agilent Technologies Inc. agree to acquire Biocare Medical Llc in an all-cash deal valued at $950 million in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Biocare Medical Llc a publicly traded company on a major stock exchange?",
+    "a": "No"
+  },
+  {
+    "q": "Will Biocare Medical's tissue diagnostic products be integrated into Agilent Technologies' Life Sciences and Diagnostics Markets unit?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Agilent Technologies CEO Padraig McDonnell state that the acquisition is expected to lift revenue growth and profitability within the first five years?",
+    "a": "No"
+  },
+  {
+    "q": "Does Biocare Medical's portfolio include more than 300 specialized antibodies?",
+    "a": "Yes"
+  },
+  {
+    "q": "Will the acquisition of Biocare Medical help Agilent Technologies compete against products from Danaher Corp.'s Leica unit and Roche's Ventana division?",
+    "a": "Yes"
+  },
+  {
+    "q": "Are the sellers of Biocare Medical Llc Excellere Partners and GHO Capital Partners?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Biocare Medical Llc headquartered in New York?",
+    "a": "No"
+  },
+  {
+    "q": "Is the acquisition of Biocare Medical expected to close by the fourth quarter of fiscal 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Agilent Technologies report first-quarter results in January 2026 that were largely in line with estimates?",
+    "a": "No"
+  }
+]

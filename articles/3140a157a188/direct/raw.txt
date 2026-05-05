@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump threaten to escalate the war with Iran in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran state that it would decide when the war with the United States ended in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran agree to allow free passage through the Strait of Hormuz in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did markets believe that U.S. President Donald Trump would end the war with Iran soon in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state that the war with Iran could be over soon in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran state that the United States would decide when the war ended in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran keep blocking the Strait of Hormuz in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump promise to immediately withdraw all troops from Iran in late February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did both sides issue threats regarding the continuation of the war with Iran in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran state that it would open the Strait of Hormuz once the war ended in February 2026?",
+    "a": "No"
+  }
+]

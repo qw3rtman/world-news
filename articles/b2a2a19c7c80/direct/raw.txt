@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did a source briefed on Israel's military strategy tell Reuters on March 6, 2026, that Israeli attacks against Hezbollah would likely continue after the joint air war with the U.S. against Iran ends?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the source describe the conflict fronts with Hezbollah and Iran as connected in the March 6, 2026, briefing to Reuters?",
+    "a": "No"
+  },
+  {
+    "q": "Did Hezbollah fire rockets at Israel on Monday, March 2, 2026, sparking Israeli strikes on Beirut's southern suburbs?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Israeli military order residents to leave Beirut's southern suburbs on Thursday, March 5, 2026, to clear a swathe for strikes aimed at removing the threat posed by Hamas?",
+    "a": "No"
+  },
+  {
+    "q": "Did Hezbollah warn Israelis to leave towns near the border early on Friday, March 6, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the anonymous source explicitly refer to the Hezbollah warning when describing Israel's assessment of fighting with Hezbollah on March 6, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did two senior Lebanese security officials and a foreign security official based in Lebanon say on March 6, 2026, that they expected Israel to pursue military operations in Lebanon even after the conflict with Iran closed?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did all three Lebanese security officials state on March 6, 2026, that a short-term Israeli military occupation of the entire border strip of southern Lebanon was likely?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Lebanese health ministry report on March 6, 2026, that 123 people had been killed and 683 wounded as a result of Israeli attacks that week?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump say on Tuesday, March 3, 2026, that the U.S. and Israeli air attacks were projected to last only one to two weeks?",
+    "a": "No"
+  }
+]

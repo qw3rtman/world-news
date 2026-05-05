@@ -1,0 +1,22 @@
+{
+  "q": "Did the article published on March 1, 2026, discuss Iran weighing a successor for Supreme Leader Ayatollah Ali Khamenei?",
+  "a": "Yes",
+  "q": "Did the article published on March 1, 2026, report that the future role of the Supreme Leader is being questioned by some observers?",
+  "a": "Yes",
+  "q": "Did the article published on March 1, 2026, identify AL-Monitor as a news source established in 2012?",
+  "a": "Yes",
+  "q": "Did the article published on March 1, 2026, state that Ayatollah Ali Khamenei has already resigned from his position?",
+  "a": "No",
+  "q": "Did the article published on March 1, 2026, name Hossein Dehghan as the designated successor to Ayatollah Ali Khamenei?",
+  "a": "No",
+  "q": "Did the article published on March 1, 2026, claim that the role of the Supreme Leader in Iran is scheduled to be abolished immediately?",
+  "a": "No",
+  "q": "Did the article published on March 1, 2026, report that the United States has officially endorsed a specific successor for Ayatollah Ali Khamenei?",
+  "a": "No",
+  "q": "Did the article published on March 1, 2026, assert that Ayatollah Ali Khamenei is currently serving as the President of Iran rather than the Supreme Leader?",
+  "a": "No",
+  "q": "Did the article published on March 1, 2026, indicate that there is a consensus among Iranian officials regarding the future of the Supreme Leader's role?",
+  "a": "No",
+  "q": "Did the article published on March 1, 2026, state that AL-Monitor is a state-owned news agency controlled by the Iranian government?",
+  "a": "No"
+}

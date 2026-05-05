@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump state in an interview with the Financial Times on Sunday that he expected China to help unblock the Strait of Hormuz before his planned summit?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the summit between U.S. President Donald Trump and Chinese leader Xi Jinping originally scheduled for March 31 to April 2?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Treasury Secretary Scott Bessent tell CNBC that any potential delay of the Trump-Xi meeting would be due to logistical reasons rather than demands for China to police the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the upcoming Beijing summit the first visit by a U.S. president to China since Donald Trump’s trip in 2017?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump claim that China sources about 90% of its oil through the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Chinese leader Xi Jinping confirm the dates for the summit with U.S. President Donald Trump in early March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Treasury Secretary Scott Bessent meet his Chinese counterpart He Lifeng in Beijing for talks about the planned summit?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Council on Foreign Relations director Rush Doshi estimate that oil flows through the Strait of Hormuz represent 6.6% of China’s total energy consumption?",
+    "a": "No"
+  },
+  {
+    "q": "Did Edward Fishman, a senior fellow at the Council on Foreign Relations, dismiss Trump’s remarks about the summit as a bluff?",
+    "a": "No"
+  },
+  {
+    "q": "Did China’s commerce ministry state that the Trump administration had abused the Section 301 investigation process to override domestic law?",
+    "a": "No"
+  }
+]

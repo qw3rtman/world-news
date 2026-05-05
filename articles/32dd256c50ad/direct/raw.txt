@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump nominate Kevin Warsh as chair of the Federal Reserve in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Kevin Warsh serve as a Federal Reserve governor from 2006 to 2011?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Kevin Warsh leave his post as a Fed governor in opposition to quantitative easing programs engineered by then-Chair Ben Bernanke?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Federal Reserve's balance sheet peak at $9 trillion after the COVID-19 pandemic?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Treasury Secretary Scott Bessent claim that the bulging balance sheet distorts debt markets?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Federal Reserve's balance sheet grow from a peak of $9 trillion to less than $900 billion prior to the 2008 financial crisis?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Justice Department drop its criminal probe of Chair Jerome Powell in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the White House attempt to fire Governor Lisa Cook in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Kevin Warsh facilitate JPMorgan Chase’s 2008 takeover of Bear Stearns during the Great Financial Crisis?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Federal Reserve Vice Chair Michelle Bowman increase supervisory staff by 30% in February 2026?",
+    "a": "No"
+  }
+]

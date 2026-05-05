@@ -1,0 +1,22 @@
+{
+  "q": "Did Perplexity launch a product named 'Computer' on Wednesday, February 25, 2026?",
+  "a": "Yes",
+  "q": "Does the Perplexity 'Computer' agent autonomously outsource image generation to Veo 3.1?",
+  "a": "No",
+  "q": "Can the Perplexity 'Computer' agent create a website, write a report, or generate a dataset?",
+  "a": "Yes",
+  "q": "Does the Perplexity 'Computer' agent outsource deep research tasks to Grok?",
+  "a": "No",
+  "q": "Is the Perplexity 'Computer' agent described as running autonomously for hours or even months?",
+  "a": "Yes",
+  "q": "Is the primary risk for Perplexity identified as the models becoming commodities?",
+  "a": "Yes",
+  "q": "Are there several copyright lawsuits pending against Perplexity?",
+  "a": "Yes",
+  "q": "Does the Perplexity 'Computer' agent require users to manually select the best AI model for each specific job?",
+  "a": "No",
+  "q": "Does the Perplexity 'Computer' agent outsource quick searches to Gemini?",
+  "a": "No",
+  "q": "Did lawyers tell Bloomberg that the copyright situation poses a threat to AI companies themselves?",
+  "a": "Yes"
+}

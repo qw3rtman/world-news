@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Ukrainian troops retake nine settlements in the Zaporizhzhia region since the end of January 2026 according to the Ukrainian general staff?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ukrainian Commander-in-Chief Oleksandr Syrskyi state that Ukrainian troops regained control over more territory than Russian forces captured for the first time since summer 2024?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did SpaceX owner Elon Musk decide to shut down Starlink communications terminals for Russian forces in response to a plea from Kyiv in late January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Ukrainian battlefield mapping project DeepState report that Russian troops occupied 126 square kilometres of Ukrainian territory in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ukrainian troops strengthen their control over the town of Kupiansk in the Kharkiv region of the northeast according to Commander-in-Chief Oleksandr Syrskyi?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Ukrainian airborne assault forces command state that the operation to push back Russian forces in the Zaporizhzhia region started on February 14, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did DeepState report that Russian troops occupied 517 square kilometres of Ukrainian territory in January-February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state that a new round of peace talks between Ukraine and Russia was expected this week?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Russian forces experience Starlink outages following a decision by Google to shut down the terminals?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ukrainian troops maintain their defences near the city of Bakhmut in the Donetsk region according to the article?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Victory Capital publicly announce its $8.6 billion bid for Janus Henderson on February 26, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the previous takeover agreement for Janus Henderson valued at $49 per share by Nelson Peltz's Trian and General Catalyst?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Victory Capital offer $30 in cash and 0.350 of its shares for each share of Janus Henderson?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Victory Capital successfully engage with the Janus Henderson board in November and December before going public with its bid?",
+    "a": "No"
+  },
+  {
+    "q": "Does Trian own approximately 20.7% of Janus Henderson stock?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Janus Henderson shares rise more than 7% in afternoon trading after the announcement?",
+    "a": "No"
+  },
+  {
+    "q": "Is PJT Partners advising Victory Capital on the proposed transaction?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Victory Capital acquire the asset management arm of JPMorgan Chase in 2019?",
+    "a": "No"
+  },
+  {
+    "q": "Does Victory Capital's proposal value Janus Henderson at 12.5 times 2026 earnings?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Janus Henderson agree to the Trian-led takeover after a three-year activist campaign?",
+    "a": "No"
+  }
+]

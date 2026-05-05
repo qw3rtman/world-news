@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Canadian Prime Minister Mark Carney move closer to a parliamentary majority government after legislator Matt Jeneroux defected to the Liberals in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Canadian Liberal Party hold 169 seats in the House of Commons as of February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Canadian Prime Minister Mark Carney state that a parliamentary majority would allow him to react more effectively to U.S. President Donald Trump's trade measures?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Canadian Prime Minister Mark Carney represent the constituency of Alberta in the House of Commons?",
+    "a": "No"
+  },
+  {
+    "q": "Did Canadian Prime Minister Mark Carney need to win four additional seats to secure a majority in the 343-seat House of Commons?",
+    "a": "No"
+  },
+  {
+    "q": "Did Conservative leader Pierre Poilievre survive a leadership review in January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the third Conservative-to-Liberal defection in recent months occur under Prime Minister Justin Trudeau?",
+    "a": "No"
+  },
+  {
+    "q": "Did polls indicate that the special election in the Montreal suburb would be a tight race?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Canadian Prime Minister Mark Carney serve until April 2025 if he secured a majority government?",
+    "a": "No"
+  },
+  {
+    "q": "Did Matt Jeneroux represent the official opposition right-of-center Conservatives before defecting to the Liberals?",
+    "a": "Yes"
+  }
+]

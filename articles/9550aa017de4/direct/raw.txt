@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the price of silver exceed $82.00 per ounce at 8:30 a.m. Eastern Time on February 20, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the price of silver $80.46 per ounce at 8:30 a.m. Eastern Time on February 20, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the price of silver decrease by $2.40 over the 24-hour period leading up to 8:30 a.m. Eastern Time on February 20, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the price of silver increase by $2.40 over the 24-hour period leading up to 8:30 a.m. Eastern Time on February 20, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the year-over-year gain in the price of silver less than $40 per ounce as of February 20, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the year-over-year gain in the price of silver more than $47 per ounce as of February 20, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the price of silver trade at $80.46 per ounce at 8:30 a.m. Pacific Time on February 20, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the price of silver trade at $80.46 per ounce at 8:30 a.m. Eastern Time on February 20, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the 24-hour change in the price of silver exactly $4.00 as of 8:30 a.m. Eastern Time on February 20, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the 24-hour change in the price of silver exactly $2.40 as of 8:30 a.m. Eastern Time on February 20, 2026?",
+    "a": "Yes"
+  }
+]

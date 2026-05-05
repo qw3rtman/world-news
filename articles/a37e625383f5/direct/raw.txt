@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Kairos Pharma, Ltd. announce the signing of binding terms to acquire exclusive worldwide rights to the asset CL-273 from Celyn Therapeutics, Inc. on March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is CL-273 described as an AI-designed pan-EGFR inhibitor targeting EGFR-mutant lung cancer?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was D. Boral Capital, LLC named as the sole financial advisor for the acquisition transaction?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Kairos Pharma acquire CL-273 from OrbiMed directly, bypassing Celyn Therapeutics, Inc.?",
+    "a": "No"
+  },
+  {
+    "q": "Is CL-273 currently approved as safe and effective by the United States Food and Drug Administration?",
+    "a": "No"
+  },
+  {
+    "q": "Is the EGFR-mutated lung cancer treatment market estimated at $16.2 billion in 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Celyn Therapeutics, Inc. a publicly traded company listed on the NYSE American?",
+    "a": "No"
+  },
+  {
+    "q": "Does Kairos Pharma’s lead candidate ENV-105 target the CD105 protein?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is CL-273 classified as an irreversible pan-EGFR small-molecule inhibitor?",
+    "a": "No"
+  },
+  {
+    "q": "Are EGFR mutations present in up to 50% of non-small cell lung cancer cases in Asian populations?",
+    "a": "Yes"
+  }
+]

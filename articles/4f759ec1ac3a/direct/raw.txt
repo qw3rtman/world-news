@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the U.S. Senate fail to pass legislation to restrict President Donald Trump's war powers regarding Iran in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. officials confirm that active negotiations were underway to end the war with Iran on March 1, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Qatari planes shoot down Iranian bombers that were two minutes away from striking a U.S. air base in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the White House explicitly rule out being responsible for the bombing of an Iranian girls’ school during the conflict in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did video footage show a U.S. submarine striking an Iranian warship on March 1, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Governor Greg Abbott lose the Republican primary in Texas in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Democratic turnout in the Texas primaries reach record levels in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States launch a military operation in Ecuador to crack down on drug-trafficking in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Apple announce its most expensive MacBook model in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the film 'Small Faces and Big Eyes' win K-pop's first Grammy award in March 2026?",
+    "a": "No"
+  }
+]

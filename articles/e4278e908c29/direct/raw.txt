@@ -1,0 +1,22 @@
+{
+  "q": "Did U.S. President Donald Trump state that he is not interested in negotiating with Iran in March 2026?",
+  "a": "Yes",
+  "q": "Did U.S. President Donald Trump express interest in negotiating a settlement with Iran in March 2026?",
+  "a": "No",
+  "q": "Did U.S. President Donald Trump say the Iran war would end once Tehran no longer has a functioning military in March 2026?",
+  "a": "Yes",
+  "q": "Did U.S. President Donald Trump say the Iran war would end once Tehran signs a peace treaty in March 2026?",
+  "a": "No",
+  "q": "Did U.S. President Donald Trump say the Iran war would end once Tehran's leadership is completely wiped out in March 2026?",
+  "a": "Yes",
+  "q": "Did U.S. President Donald Trump say the Iran war would end once Tehran's leadership is exiled in March 2026?",
+  "a": "No",
+  "q": "Was Tehran near a decision on a new leader in March 2026?",
+  "a": "Yes",
+  "q": "Was Tehran far from a decision on a new leader in March 2026?",
+  "a": "No",
+  "q": "Did U.S. President Donald Trump reject settling the Iran war in March 2026?",
+  "a": "Yes",
+  "q": "Did U.S. President Donald Trump accept settling the Iran war in March 2026?",
+  "a": "No"
+}

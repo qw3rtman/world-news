@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump publicly call on Israeli President Isaac Herzog to grant Prime Minister Benjamin Netanyahu a pardon in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli President Isaac Herzog state in March 2026 that he is currently dealing with the matter of Prime Minister Benjamin Netanyahu's pardon request?",
+    "a": "No"
+  },
+  {
+    "q": "Did Prime Minister Benjamin Netanyahu submit his request for a pardon in November 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli President Isaac Herzog admit in March 2026 that he had promised U.S. President Donald Trump five times to grant Prime Minister Benjamin Netanyahu a pardon?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United States and Israel launch a joint bombing campaign against Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Prime Minister Benjamin Netanyahu the first sitting prime minister in Israel's history to be charged with a crime?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state in March 2026 that he wanted Israeli President Isaac Herzog to have nothing on his mind but the war with Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Is there a legal precedent in Israel for issuing a presidential pardon while a trial is still ongoing as of March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Prime Minister Benjamin Netanyahu deny the charges of bribery, fraud, and breach of trust dating back to his 2019 indictment?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli President Isaac Herzog state in March 2026 that Israel is a sovereign state that abides by the rule of law?",
+    "a": "Yes"
+  }
+]

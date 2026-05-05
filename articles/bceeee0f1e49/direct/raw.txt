@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Russian President Vladimir Putin agree to relay complaints from UAE President Mohammed bin Zayed Al Nahyan to Tehran regarding Iranian strikes in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Kremlin state that the UAE was being used as a base to attack Iran during the phone call between the two leaders in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Russian President Vladimir Putin and UAE President Mohammed bin Zayed Al Nahyan agree on the need for an immediate ceasefire in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Russian President Vladimir Putin blame Russia and China for derailing work on solutions to concerns about Iran's nuclear program in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Kremlin thank UAE President Mohammed bin Zayed Al Nahyan for efforts to help Russian nationals in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the phone call between Russian President Vladimir Putin and UAE President Mohammed bin Zayed Al Nahyan take place on Tuesday, March 3, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Russian President Vladimir Putin express readiness to provide assistance in stabilizing the overall situation in the region in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did UAE President Mohammed bin Zayed Al Nahyan justify the Iranian strikes on UAE territory as necessary in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Russian President Vladimir Putin cite an unprovoked act of armed aggression by the United States and Israel as the cause for derailed nuclear program negotiations in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Kremlin state that Dubai is a popular destination for Chinese tourists in March 2026?",
+    "a": "No"
+  }
+]

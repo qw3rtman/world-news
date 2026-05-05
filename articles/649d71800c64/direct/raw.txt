@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Hims & Hers Health agree to acquire Eucalyptus, an Australian digital health company, in a deal valued at $1.15 billion in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Eucalyptus a Canadian digital health company?",
+    "a": "No"
+  },
+  {
+    "q": "Did the shares of Hims & Hers Health rise on Thursday following the announcement of the acquisition of Eucalyptus in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the acquisition of Eucalyptus by Hims & Hers Health valued at $1.5 billion?",
+    "a": "No"
+  },
+  {
+    "q": "Is Hims & Hers Health a telehealth provider?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Hims & Hers Health agree to acquire Eucalyptus in a deal valued at $1.15 billion in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Hims & Hers Health acquire a traditional brick-and-mortar pharmacy chain in Australia in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was Eucalyptus described as a digital health company in the February 2026 announcement?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the shares of Hims & Hers Health fall on Thursday after the acquisition announcement in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is Hims & Hers Health a British digital health company?",
+    "a": "No"
+  }
+]

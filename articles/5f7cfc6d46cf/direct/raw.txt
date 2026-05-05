@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Defense Secretary Pete Hegseth set a deadline of the end of the week for Anthropic to provide a signed document granting full military access to its AI model Claude?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Anthropic CEO Dario Amodei agree to the Pentagon's demands for full access to Claude without any restrictions during the Tuesday morning meeting at the Pentagon?",
+    "a": "No"
+  },
+  {
+    "q": "Did officials consider invoking the Defense Production Act to compel Anthropic to adhere to the military's access requirements?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Pentagon award Anthropic a $200 million contract in February 2026 to develop AI capabilities for U.S. national security?",
+    "a": "No"
+  },
+  {
+    "q": "Did Anthropic request guardrails to restrict the AI model Claude from conducting mass surveillance of Americans?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did a senior Pentagon official state that the dispute was primarily about preventing the use of autonomous weapons and mass surveillance?",
+    "a": "No"
+  },
+  {
+    "q": "Did Dario Amodei express concern that Claude is not reliable enough to avoid potentially lethal mistakes without human judgment in final targeting decisions?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Pentagon official claim that Grok, owned by Elon Musk's xAI, was not on board with being used in a classified setting?",
+    "a": "No"
+  },
+  {
+    "q": "Did Defense Secretary Pete Hegseth compare Anthropic's situation to Boeing, arguing that the aerospace company has no say in how the Pentagon uses the planes it sells?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Pentagon officially designate Anthropic as a \"supply chain risk\" immediately after the Tuesday meeting to push the company out of government contracts?",
+    "a": "No"
+  }
+]

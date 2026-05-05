@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump state in March 2026 that the mission to attack Iran could take days or weeks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian forces kill six American service members in an Iranian drone strike in Kuwait in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Israeli military confirm responsibility for the strike on an all-girls elementary school in southern Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Joe Kent, the director of the National Counterterrorism Center, resign in March 2026 over the Iran war?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Kuwait shoot down Iranian jets in a separate incident in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Members of Congress demand a swift vote on a war powers resolution after President Donald Trump ordered the Iran strike without congressional approval in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did at least 153 Iranians, mostly children, die in an attack on an all-girls elementary school in northern Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did 55% of Americans say Iran poses a minor threat or no threat at all in a March 2026 poll?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's Supreme Leader Ayatollah Ali Khamenei survive the U.S.-Israel attacks in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Kuwait mistakenly shoot down three American jets in March 2026, with all crew members surviving?",
+    "a": "Yes"
+  }
+]

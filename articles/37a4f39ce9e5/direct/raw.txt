@@ -1,0 +1,40 @@
+{
+  "q": "Did U.S. President Donald Trump approve an operation against Iran after Israeli Prime Minister Benjamin Netanyahu argued for the joint killing of Iran's Supreme Leader Ayatollah Khamenei?",
+  "a": "Yes"
+}
+{
+  "q": "Did the U.S.-Israeli strike on Iran begin more than one week after Prime Minister Benjamin Netanyahu spoke with President Donald Trump?",
+  "a": "No"
+}
+{
+  "q": "Was the U.S.-Israeli strike on Iran described as a simple, short-range military operation in the article?",
+  "a": "No"
+}
+{
+  "q": "Did President Donald Trump previously campaign against launching complex, far-off wars?",
+  "a": "Yes"
+}
+{
+  "q": "Did Israeli Prime Minister Benjamin Netanyahu argue against the joint killing of Iran's Supreme Leader Ayatollah Khamenei before the strike?",
+  "a": "No"
+}
+{
+  "q": "Did the conversation between President Donald Trump and Israeli Prime Minister Benjamin Netanyahu occur less than 48 hours before the U.S.-Israeli strike on Iran began?",
+  "a": "Yes"
+}
+{
+  "q": "Was the U.S.-Israeli strike on Iran conducted solely by the United States without Israeli involvement?",
+  "a": "No"
+}
+{
+  "q": "Did Israeli Prime Minister Benjamin Netanyahu speak to President Donald Trump regarding the reasons for launching the strike on Iran?",
+  "a": "Yes"
+}
+{
+  "q": "Did the article state that President Donald Trump approved the Iran operation before Prime Minister Benjamin Netanyahu raised the issue?",
+  "a": "No"
+}
+{
+  "q": "Was Iran's Supreme Leader Ayatollah Khamenei the target of the joint killing argument presented by Israeli Prime Minister Benjamin Netanyahu to President Donald Trump?",
+  "a": "Yes"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the U.S. military state that the crash of the Air Force refueling plane in Iraq was caused by hostile fire on March 11, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Were all six crew members killed in the Air Force refueling plane crash in Iraq on March 11, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did a second plane involved in the incident on March 11, 2026, crash and result in additional fatalities in Iraq?",
+    "a": "No"
+  },
+  {
+    "q": "Did the second plane damaged in the incident on March 11, 2026, land safely after the crash of the first refueling plane in Iraq?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the location of the Air Force refueling plane crash in Iraq on March 11, 2026, determined to be the result of enemy action?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. military confirm that there were six fatalities among the crew of the refueling plane in Iraq on March 11, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the second plane involved in the incident on March 11, 2026, crash in Iraq and fail to land safely?",
+    "a": "No"
+  },
+  {
+    "q": "Was the incident involving the Air Force refueling plane in Iraq on March 11, 2026, attributed to hostile fire by the U.S. military?",
+    "a": "No"
+  },
+  {
+    "q": "Did the second plane involved in the incident on March 11, 2026, sustain damage before landing safely in Iraq?",
+    "a": "Yes"
+  },
+  {
+    "q": "Were more than six crew members killed in the Air Force refueling plane crash in Iraq on March 11, 2026?",
+    "a": "No"
+  }
+]

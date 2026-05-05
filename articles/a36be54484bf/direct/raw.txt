@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Joe Kent, the director of the National Counterterrorism Center, resign from his position in March 2026 citing the war with Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Joe Kent state in his resignation letter that Iran posed an imminent threat to the United States?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump confirm Joe Kent’s nomination as director of the National Counterterrorism Center with a Senate vote of 52-44 in July 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Joe Kent’s wife, Navy Senior Chief Petty Officer Shannon Kent, die serving in Iraq in 2019?",
+    "a": "No"
+  },
+  {
+    "q": "Did Joe Kent previously speak with neo-Nazi Nick Fuentes in 2021 about assisting with a congressional campaign social media strategy?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump publicly praise Joe Kent’s security judgment after reading his resignation statement in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Joe Kent claim that Israel used a pressure campaign to deceive President Trump into entering the conflict with Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Senate confirm Joe Kent’s nomination to the National Counterterrorism Center with Democratic support in July 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ilan Goldenberg, senior vice president of the pro-Israel nonprofit J Street, criticize Joe Kent’s resignation letter for playing on antisemitic tropes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Joe Kent successfully win a congressional bid in Washington state as a Republican prior to his federal appointment?",
+    "a": "No"
+  }
+]

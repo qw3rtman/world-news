@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did US President Donald Trump plan to travel to China in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the planned meeting between US President Donald Trump and Chinese leader Xi Jinping scheduled to occur in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did US President Donald Trump plan to meet with Chinese leader Xi Jinping to discuss trade issues?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump plan to meet with Chinese leader Xi Jinping to discuss military alliances in the Pacific?",
+    "a": "No"
+  },
+  {
+    "q": "Was Taiwan identified as a key tension point in the planned meeting between US President Donald Trump and Chinese leader Xi Jinping?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump plan to travel to Japan for the meeting with Chinese leader Xi Jinping?",
+    "a": "No"
+  },
+  {
+    "q": "Did the planned trip by US President Donald Trump to China end on April 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump plan to meet with Russian President Vladimir Putin during the March 2026 trip?",
+    "a": "No"
+  },
+  {
+    "q": "Was the trade relationship between the US and China described as being in a state of uncertainty prior to the planned meeting?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the planned meeting between US President Donald Trump and Chinese leader Xi Jinping take place in May 2026?",
+    "a": "No"
+  }
+]

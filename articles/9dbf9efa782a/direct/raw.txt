@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Nebius appoint Dan Lawrence as Senior Vice President and General Manager for the Americas in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Nebius headquartered in San Francisco?",
+    "a": "No"
+  },
+  {
+    "q": "Did Dan Lawrence previously serve as Senior Vice President of Global Sales for Cloud at Akamai Technologies?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Dan Lawrence hold senior leadership roles at Microsoft Azure prior to his tenure at Akamai Technologies?",
+    "a": "No"
+  },
+  {
+    "q": "Is Nebius listed on the Nasdaq stock exchange?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Nebius announce the approval of its first gigawatt-scale AI factory in Europe in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Will Dan Lawrence be based in the Boston area?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Marc Boroditsky serve as the Chief Executive Officer of Nebius at the time of the announcement?",
+    "a": "No"
+  },
+  {
+    "q": "Does Nebius plan to establish a regional headquarters in San Francisco?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Dan Lawrence build the go-to-market model for Akamai Technologies' compute business to approach $10 billion in revenue?",
+    "a": "No"
+  }
+]

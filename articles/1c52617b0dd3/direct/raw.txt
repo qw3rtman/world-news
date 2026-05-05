@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Mojtaba Khamenei emerge as the frontrunner to succeed his late father as Iran's supreme leader after March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Ayatollah Ali Khamenei killed in an airstrike on Saturday, March 4, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mojtaba Khamenei hold a formal position in the Islamic Republic's government before March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did former President Ebrahim Raisi die in a helicopter crash in 2024?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does Mojtaba Khamenei hold the clerical rank of Ayatollah?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. Treasury Department impose sanctions on Mojtaba Khamenei in 2019?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Mojtaba Khamenei's wife killed in the airstrikes that killed his father in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mojtaba Khamenei serve as the commander of the IRGC's Quds Force?",
+    "a": "No"
+  },
+  {
+    "q": "Did Mojtaba Khamenei back Mahmoud Ahmadinejad in the 2009 disputed election?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Mojtaba Khamenei the son of Ruhollah Khomeini?",
+    "a": "No"
+  }
+]

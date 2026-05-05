@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did more than 80 Democrats announce they would boycott the State of the Union address delivered by U.S. President Donald Trump on Tuesday, February 24, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Representative Mike Thompson, D-California, attend the State of the Union address as a regular participant on February 24, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Representative Mike Thompson, D-California, serve as the Democrats' designated survivor instead of attending the State of the Union address on February 24, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Senator Maggie Hassan, D-New Hampshire, miss the State of the Union address on February 24, 2026, because she was selected as the designated survivor?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Senator Maggie Hassan, D-New Hampshire, miss the State of the Union address on February 24, 2026, due to a family health emergency?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did at least 30 Democratic representatives and senators skip the official State of the Union address on February 24, 2026, to attend an alternate event hosted by MeidasTouch and MoveOn Civic Action?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Senator Ed Markey, D-Massachusetts, boycott the State of the Union address on February 24, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did House Minority Leader Hakeem Jeffries, D-New York, state that Democrats would choose between silent defiance at the State of the Union or not attending on February 24, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Senator Angus King, I-Maine, attend the official State of the Union address on February 24, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the count by USA TODAY on February 24, 2026, indicate that more than 80 Democratic members of Congress announced they would boycott the State of the Union?",
+    "a": "Yes"
+  }
+]

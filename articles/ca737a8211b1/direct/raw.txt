@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump order strikes on Tehran in the days leading up to the scheduled congressional votes on military action in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Democratic Representative Ro Khanna of California compare the lack of congressional consultation for the Iran strikes to the actions of President George W. Bush?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Senator Rand Paul state that his oath of office required him to oppose the presidential war in Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Representative Thomas Massie of Kentucky describe his opposition to the Iran war as consistent with an \"America First\" policy?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Representative Warren Davidson of Ohio publicly condemn the unauthorized attack on Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Secretary of State Marco Rubio provide a full legal accounting of the justification for the strikes to all reachable members of the \"Gang of Eight\" before the attack?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Representative Don Bacon of Nebraska state that he had no concerns with the regime change goal because the Iranian regime had killed approximately 2,000 Americans?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Speaker Mike Johnson and Senate Majority Leader John Thune publicly condemn Trump’s actions on the morning of the strikes?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Senator Thom Tillis of North Carolina express that he expected the White House to be forthcoming with details about Operation Epic Fury?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did at least three pro-Israel Democrats support the Democratic-led bill requiring congressional authorization for military action in Iran?",
+    "a": "No"
+  }
+]

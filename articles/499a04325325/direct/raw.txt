@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump state that Iran had 10 to 15 days to strike a deal over its nuclear program in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. military station two aircraft carriers in the Middle East as part of the force buildup in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump make his comments regarding the Iran deal deadline while aboard Air Force One in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump specify that 10 to 15 days was the maximum amount of time he would allow for negotiations to continue in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. military station two battleships in the Middle East as part of the force buildup in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state that Iran had 30 days to strike a deal over its nuclear program in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump make his comments regarding the Iran deal deadline while aboard a Navy ship in the Arabian Sea in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. military station two submarines in the Middle East as part of the force buildup in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state that Iran had 5 days to strike a deal over its nuclear program in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump make his comments regarding the Iran deal deadline while aboard a commercial airliner in February 2026?",
+    "a": "No"
+  }
+]

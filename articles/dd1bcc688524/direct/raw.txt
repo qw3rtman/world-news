@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the USS Abraham Lincoln carrier strike group enter US Central Command’s area of responsibility on January 26, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the USS Gerald R. Ford reach Souda Bay, Crete on February 24, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US and Iranian negotiators meet in Geneva on February 26, 2026, for talks mediated by Oman?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the IAEA report before June 2025 that Iran had accumulated approximately 408 kilograms of uranium enriched to 60 percent?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the strike on Soroka Medical Center in Beersheba during the June 2025 conflict result in zero injuries according to the article?",
+    "a": "No"
+  },
+  {
+    "q": "Did US officials assess that munitions in theater could support only about seven to ten days of sustained high-intensity strikes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian officials argue that a deal is possible only if nuclear and non-nuclear issues are kept separate, rather than addressed together?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that credible accounting puts the daily operating cost of a fully staffed carrier strike group in the hundreds of millions per day?",
+    "a": "No"
+  },
+  {
+    "q": "Did the IAEA state after the June 2025 strikes that it has lost continuity of knowledge about parts of Iran’s uranium inventory?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article claim that Israeli building regulations have required reinforced safe rooms in new residences since the early 2000s?",
+    "a": "No"
+  }
+]

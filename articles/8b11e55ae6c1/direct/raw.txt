@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the assassination of Iran's Supreme Leader Ayatollah Ali Khamenei occur in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's parliament speaker, Mohammad Baqer Qalibaf, announce the formation of a temporary leadership council to oversee the transitional period following Khamenei's death?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Islamic Revolutionary Guards Corps (IRGC) serve as the central institution of resilience for the Iranian regime after Khamenei's killing?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the 12-day war between Iran and Israel take place in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the constitution of Iran assign the task of selecting a successor to Ayatollah Ali Khamenei to the Assembly of Experts?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Hassan Khomeini, the grandson of the Islamic Republic's founder, serve as the judiciary chief nominated by Khamenei as a preferred successor?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli Foreign Ministry spokesperson Oren Marmorstein state that Israel's objective was to remove the Iranian regime as an existential threat?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did veteran Iranian politician Ali Larijani, secretary of Iran's Supreme National Security Council, announce the temporary leadership council on Monday?",
+    "a": "No"
+  },
+  {
+    "q": "Did analysts suggest that wartime pressures could push Iran's succession process toward a more improvised outcome rather than a formal selection?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Gholam-Hossein Mohseni-Eje'i serve as the parliament speaker of Iran at the time of Khamenei's death?",
+    "a": "No"
+  }
+]

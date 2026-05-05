@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the Qatar Emiri Air Force shoot down two Sukhoi Su-24 bombers on March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did QatarEnergy halt liquefied natural gas production following drone strikes on its sites in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did European natural gas prices rise by more than 50 percent in the wake of the attacks in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States Central Command report that Kuwaiti air defenses mistakenly shot down three F-15E Strike Eagles in a friendly-fire incident in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the drone strike on Saudi Aramco's Ras Tanura refinery in March 2026 cause a total and permanent halt to all operations?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Abu Dhabi Media Office report that the Musaffah fuel tank terminal fire resulted in injuries or operational impact in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the interior ministry of Bahrain report that the first death in the country was caused by shrapnel from a direct hit on a residential building in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the US embassy in Kuwait City suffer damage from a direct strike by a single fighter jet in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the health ministry of Kuwait report that 19 people were injured in the country during the attacks in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Italy begin evacuating its citizens from the United Arab Emirates because the country had completely halted all flights indefinitely in March 2026?",
+    "a": "No"
+  }
+]

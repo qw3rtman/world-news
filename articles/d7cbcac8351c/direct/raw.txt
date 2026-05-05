@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did US President Donald Trump order attacks on Iran in February 2026 after nuclear talks failed?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the Strait of Hormuz located at the mouth of the Red Sea?",
+    "a": "No"
+  },
+  {
+    "q": "Does the Strait of Hormuz handle approximately one-quarter of the world’s seaborne oil trade?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States and Israel launch joint attacks on Iran's nuclear program in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Would closing the Strait of Hormuz disrupt oil and gas shipments to China, Europe, and the US?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the Strait of Hormuz a narrow waterway located at the mouth of the Persian Gulf?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran successfully close the Strait of Hormuz to all international traffic in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Could a disruption in the Strait of Hormuz potentially destabilize the global economy?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article report that Iran attacked Israel in retaliation for the US strikes in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is the article authored by Julian Lee and published by Bloomberg?",
+    "a": "Yes"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did State Rep. James Talarico win the Democratic primary for U.S. Senate in Texas in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Rep. Jasmine Crockett win the Democratic primary for U.S. Senate in Texas in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Texas Attorney General Ken Paxton advance to the May 26, 2026, Republican runoff for U.S. Senate in Texas?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Senator John Cornyn advance to the May 26, 2026, Republican runoff for U.S. Senate in Texas?",
+    "a": "No"
+  },
+  {
+    "q": "Did \"Late Show\" host Stephen Colbert state he was not allowed to interview James Talarico due to potential FCC concerns from CBS in early 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did \"Late Show\" host Stephen Colbert state he was not allowed to interview Jasmine Crockett due to potential FCC concerns from CBS in early 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did former Rep. Colin Allred abandon his Senate bid to run for a House seat in North Texas after Jasmine Crockett entered the race in December 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did former Rep. Colin Allred abandon his Senate bid to run for a House seat in North Texas after James Talarico entered the race in September 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did James Talarico raise more than $20 million since launching his candidacy in September 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Jasmine Crockett raise more than $20 million since launching her candidacy in December 2025?",
+    "a": "No"
+  }
+]

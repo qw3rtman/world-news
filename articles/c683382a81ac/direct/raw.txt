@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump signal plans to escalate attacks on Iran during the week of March 8, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran’s President Masoud Pezeshkian fully retract his apology for strikes on Gulf states without any subsequent criticism from other Iranian leaders?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Trump administration bypass Congress to sell 12,000 bombs to Israel in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Kingdom decide to immediately deploy the HMS Prince of Wales for offensive strikes on Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did debris from an intercepted projectile over Dubai kill a driver in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran’s Foreign Minister Abbas Aragchi claim that a US attack on a desalination plant off the coast of Saudi Arabia impacted water supplies?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu claim that Israel and the US had achieved \"almost complete control\" over the skies of Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the average U.S. gas price drop below $3.00 per gallon in the week following the start of the conflict in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did six American service members from the 103rd Sustainment Command receive a dignified transfer at Dover Air Force Base in Delaware in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did UAE President Mohamed bin Zayed Al Nahyan describe Iran as \"the enemy\" before the war with Iran began in March 2026?",
+    "a": "No"
+  }
+]

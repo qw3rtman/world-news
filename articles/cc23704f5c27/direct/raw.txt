@@ -1,0 +1,42 @@
+[
+  {
+    "q": "As of March 2026, are gold prices trading above $5,000 per ounce?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does Hiren Chandaria, managing director at Monetary Metals, attribute increased gold demand to geopolitical tensions in the Middle East?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the United Arab Emirates identified as one of the world's largest gold trading and refining hubs?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does Thomas Winmill, portfolio manager at Midas Funds, predict gold prices will surpass $5,500?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Kevin Warsh nominated to serve as the new Federal Reserve chair in 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does James Cordier, CEO of OptionSpreaders.com, state that several interest rate cuts are expected in 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is Jerome Powell scheduled to complete his term as Federal Reserve chair in two months from March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Does the article suggest that gold prices typically move in the same direction as interest rates?",
+    "a": "No"
+  },
+  {
+    "q": "Does the article recommend limiting precious metal holdings to 20% of a portfolio?",
+    "a": "No"
+  },
+  {
+    "q": "Is Darius Dale, founder of 42 Macro, described as predicting that gold prices will remain constructive over the next few months?",
+    "a": "No"
+  }
+]

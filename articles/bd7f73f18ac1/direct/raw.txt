@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the Channel 12 News poll conducted in March 2026 predict that Prime Minister Benjamin Netanyahu's Likud party would receive 26 Knesset seats?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Channel 12 News poll conducted in March 2026 predict that the Yashar party led by former IDF Chief of Staff Gadi Eisenkot would receive 11 Knesset seats?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Channel 12 News poll conducted in March 2026 predict that the Democrats Party led by Yair Golan would gain one Knesset seat compared to the previous poll?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Channel 12 News poll conducted in March 2026 predict that Finance Minister Bezalel Smotrich's Religious Zionism party would pass the electoral threshold?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Channel 12 News poll conducted in March 2026 predict that the coalition bloc led by Prime Minister Benjamin Netanyahu would hold 59 Knesset seats?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Channel 12 News poll conducted in March 2026 predict that National Security Minister Itamar Ben-Gvir's Otzma Yehudit party would lose one Knesset seat?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Channel 12 News poll conducted in March 2026 predict that Mossad Director Dedi Barnea would receive a lower performance rating than Chief of Staff Eyal Zamir?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Channel 12 News poll conducted in March 2026 predict that former Prime Minister Naftali Bennett's party would receive 26 Knesset seats?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Channel 12 News poll conducted in March 2026 predict that Finance Minister Bezalel Smotrich would receive a lower performance rating than Prime Minister Benjamin Netanyahu?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Channel 12 News poll conducted in March 2026 predict that Blue and White led by former Chief of Staff Benny Gantz would pass the electoral threshold?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did OpenAI receive a total of $110 billion in funding from Amazon, Nvidia, and SoftBank in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Amazon commit $50 billion to OpenAI's March 2026 funding round?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Nvidia commit $30 billion to OpenAI's March 2026 funding round?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did SoftBank commit $30 billion to OpenAI's March 2026 funding round?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did OpenAI's pre-money valuation reach $730 billion following the March 2026 funding announcement?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Amazon's initial investment in OpenAI amount to $35 billion in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Amazon Web Services serve as the non-exclusive third-party cloud distribution provider for OpenAI Frontier in the March 2026 partnership?",
+    "a": "No"
+  },
+  {
+    "q": "Did OpenAI and Amazon agree to expand their existing multiyear deal by $100 billion over eight years in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did OpenAI state that the March 2026 funding announcement changed the terms of its relationship with Microsoft?",
+    "a": "No"
+  },
+  {
+    "q": "Did OpenAI co-founder and CEO Sam Altman report that ChatGPT had more than 900 million weekly active users in March 2026?",
+    "a": "Yes"
+  }
+]

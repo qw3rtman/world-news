@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump order military strikes on Iran in early February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran possess approximately 972 pounds of uranium enriched to 60% purity as of mid-June 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Defense Intelligence Agency estimate in May 2025 that Iran could produce enough weapons-grade uranium for one bomb in less than one week?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did International Atomic Energy Agency Director-General Rafael Grossi state in February 2026 that the agency had seen no indication Iran was currently developing a nuclear weapon?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the 2025 U.S. airstrikes on Iran completely destroy all of Iran's nuclear material stockpiles?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran resume its structured nuclear weapons development program in 2003?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump withdraw the United States from the Joint Comprehensive Plan of Action (JCPOA) in 2018?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian Foreign Minister Abbas Araghchi rule out giving up uranium enrichment entirely in a February 2026 interview?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Secretary of State Marco Rubio state in February 2026 that Iran was currently enriching uranium?",
+    "a": "No"
+  },
+  {
+    "q": "Did the IAEA withdraw its inspectors from Iran in June 2025 for safety reasons following the U.S. strikes?",
+    "a": "Yes"
+  }
+]

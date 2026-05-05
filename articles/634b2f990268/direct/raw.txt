@@ -1,0 +1,22 @@
+{
+  "q": "Did the article state that the U.S.–Israeli campaign against Iran began as a coordinated joint strategic intervention from the outset?",
+  "a": "Yes",
+  "q": "Did the article claim that Iran has accumulated roughly 1,000 pounds of uranium enriched to 60%?",
+  "a": "Yes",
+  "q": "Did the article assert that the breakout window for Iran’s nuclear capability has compressed from years to weeks?",
+  "a": "Yes",
+  "q": "Did the article identify Ali Larijani as the new nation’s leader guiding the Islamic Revolutionary Guard Corps?",
+  "a": "Yes",
+  "q": "Did the article state that China buys more than 85% of Iran’s total oil production?",
+  "a": "Yes",
+  "q": "Did the article claim that the 2026 Texas Republican U.S. Senate primary went to a runoff in February 2026?",
+  "a": "No",
+  "q": "Did the article state that U.S. Senator Ted Cruz publicly endorsed Texas Attorney General Ken Paxton in the 2026 Texas Republican U.S. Senate primary?",
+  "a": "No",
+  "q": "Did the article assert that Ken Paxton won the 2026 Texas Republican U.S. Senate primary outright in the first round?",
+  "a": "No",
+  "q": "Did the article claim that Texas Attorney General Ken Paxton endorsed U.S. Senator John Cornyn in the 2026 Texas Republican U.S. Senate primary?",
+  "a": "No",
+  "q": "Did the article state that the article was published by The New York Times on March 1, 2026?",
+  "a": "No"
+}

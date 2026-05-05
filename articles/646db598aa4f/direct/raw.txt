@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump consider using Diego Garcia as a launch point for attacks on Iran in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the USS Gerald R Ford join the USS Abraham Lincoln in the Gulf in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the US withdraw support for Sir Keir Starmer’s deal to cede the Chagos Islands to Mauritius in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the US and Iran achieve an immediate breakthrough in negotiations in Geneva in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the US conduct Operation Midnight Hammer against Iran’s nuclear facilities in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Trump cite the 1980 hostage-rescue mission failure under President Jimmy Carter as a cautionary tale for potential military intervention in Iran in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the US successfully abduct President Nicolas Maduro of Venezuela in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israel destroy Iran’s air defenses in 2024, according to the article?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Russia and Iran conduct naval drills in the Red Sea in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article state that the US armada in the Middle East was sufficient for a full-scale ground invasion of Iran in February 2026?",
+    "a": "No"
+  }
+]

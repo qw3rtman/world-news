@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did cash Dubai crude oil reach a record price of $157.66 per barrel in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Brent crude futures set an all-time high of $157.66 per barrel in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Middle East crude exports fall by approximately 32% in March 2026 compared to March 2025 levels?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Middle East crude exports increase to 19 million barrels per day in March 2026 due to the war?",
+    "a": "No"
+  },
+  {
+    "q": "Did TotalEnergies purchase 21 million barrels of Oman and Murban crude cargoes in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did S&P Global Platts drop three crude grades that transit via the Strait of Hormuz from its pricing benchmarks in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Oman crude futures settle at $114.03 per barrel in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did spot premiums for Brazilian crude hit record levels of $12-$15 a barrel above dated Brent in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the war in Iran cause shipping through the Strait of Hormuz to increase in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Murban futures settle at $152.58 per barrel in March 2026?",
+    "a": "No"
+  }
+]

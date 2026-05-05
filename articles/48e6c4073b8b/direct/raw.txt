@@ -1,0 +1,40 @@
+{
+  "q": "Did the Federal Open Market Committee keep the key interest rate targeted between 3.5% to 3.75% at the March 2026 meeting?",
+  "a": "Yes"
+}
+{
+  "q": "Did markets price in a near-zero chance of an interest rate cut at the March 2026 Federal Reserve meeting?",
+  "a": "Yes"
+}
+{
+  "q": "Did U.S. President Donald Trump nominate Kevin Warsh to succeed Jerome Powell as Federal Reserve Chair in May 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did U.S. Attorney Jeanine Pirro pursue a case against Jerome Powell regarding the Fed’s headquarters renovation?",
+  "a": "Yes"
+}
+{
+  "q": "Did Senator Thom Tillis, R-N.C., state he would block the Kevin Warsh nomination in the Senate Banking Committee?",
+  "a": "Yes"
+}
+{
+  "q": "Did futures pricing suggest that Federal Reserve policymakers would consider easing interest rates in April 2026?",
+  "a": "No"
+}
+{
+  "q": "Did former Fed Vice Chair Roger Ferguson express that he was more worried about unemployment than higher inflation?",
+  "a": "No"
+}
+{
+  "q": "Did U.S. President Donald Trump’s Justice Department approve the nomination of Kevin Warsh to succeed Jerome Powell in May 2026?",
+  "a": "No"
+}
+{
+  "q": "Did the Federal Reserve release major changes to its economic and rate projections in the Summary of Economic Projections during the March 2026 meeting?",
+  "a": "No"
+}
+{
+  "q": "Did U.S. Senator John Cornyn endorse Kevin Warsh’s nomination to the Federal Reserve Board in March 2026?",
+  "a": "No"
+}

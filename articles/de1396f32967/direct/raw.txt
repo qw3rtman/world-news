@@ -1,0 +1,22 @@
+{
+  "q": "Did the United States military order 2,500 Marines to the Middle East in March 2026?",
+  "a": "Yes",
+  "q": "Did the United States military order 2,500 Marines to the Middle East in February 2026?",
+  "a": "No",
+  "q": "Did the United States military order an amphibious assault ship to the Middle East in March 2026?",
+  "a": "Yes",
+  "q": "Did the United States military order an amphibious assault ship to the Pacific Ocean near Taiwan in March 2026?",
+  "a": "No",
+  "q": "Was the deployment of U.S. forces to the Middle East in March 2026 described as a major addition of forces after nearly two weeks of war with Iran?",
+  "a": "Yes",
+  "q": "Was the deployment of U.S. forces to the Middle East in March 2026 described as a major addition of forces after nearly two weeks of war with Iraq?",
+  "a": "No",
+  "q": "Did a U.S. official confirm the order for the Marine deployment in March 2026?",
+  "a": "Yes",
+  "q": "Did a U.S. official confirm the order for the Marine deployment in April 2026?",
+  "a": "No",
+  "q": "Were the Marines and amphibious assault ship pulled from waters near Taiwan in March 2026?",
+  "a": "Yes",
+  "q": "Were the Marines and amphibious assault ship pulled from waters near the South China Sea in March 2026?",
+  "a": "No"
+}

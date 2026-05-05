@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Warner Bros. Discovery agree to merge with Paramount Skydance in a deal valued at $110 billion in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Netflix match Paramount's bid for Warner Bros. Discovery in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is David Ellison the CEO of Paramount following Skydance's acquisition of the company in August 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Warner Bros. Discovery initially sign an $110 billion agreement to merge with Netflix before accepting Paramount's offer?",
+    "a": "No"
+  },
+  {
+    "q": "Did Paramount agree to cover the $7 billion regulatory termination fee and the $2.8 billion breakup fee owed to Netflix?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Bari Weiss the CEO of CBS News following changes made by David Ellison?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Senator Elizabeth Warren express skepticism about the Paramount-Warner Bros. Discovery merger in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the Paramount-Warner Bros. Discovery merger expected to close in the first quarter of 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did California Attorney General Rob Bonta warn that the state’s Department of Justice would vigorously review the merger?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Larry Ellison the CEO of Skydance?",
+    "a": "No"
+  }
+]

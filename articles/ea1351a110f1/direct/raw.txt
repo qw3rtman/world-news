@@ -1,0 +1,22 @@
+{
+  "q": "Did Thoma Bravo announce a software deal in March 2026 that is described as a bet on the real economy?",
+  "a": "Yes",
+  "q": "Was the Bloomberg article titled 'Thoma Bravo’s Latest Software Deal Is a Bet on the Real Economy' written by Ryan Gould?",
+  "a": "Yes",
+  "q": "Was the Bloomberg article published on March 3, 2026?",
+  "a": "Yes",
+  "q": "Did the Bloomberg article mention that Cleco Power is nearing a sale?",
+  "a": "Yes",
+  "q": "Did the Bloomberg article report that Blackstone made an offer for British aerospace supplier Senior?",
+  "a": "Yes",
+  "q": "Was the Bloomberg article published by The New York Times?",
+  "a": "No",
+  "q": "Did Thoma Bravo’s software deal involve the acquisition of a pharmaceutical company?",
+  "a": "No",
+  "q": "Did Blackstone make an offer for British aerospace supplier Airbus in March 2026?",
+  "a": "No",
+  "q": "Was Cleco Power described as selling its renewable energy division in the March 2026 article?",
+  "a": "No",
+  "q": "Did Ryan Gould write the article from New York City?",
+  "a": "No"
+}

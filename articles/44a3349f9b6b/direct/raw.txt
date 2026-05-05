@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iranian state media confirm the death of Supreme Leader Ayatollah Ali Khamenei in an airstrike on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump claim that the killing of Ayatollah Ali Khamenei gave Iranians their greatest chance to take back their country?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the council formed to govern Iran after the death of Ayatollah Ali Khamenei include Iranian Prime Minister Mohammad Bagher Qalibaf?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran’s paramilitary Revolutionary Guard threaten to launch its most-intense offensive operation ever following the killing of Supreme Leader Ayatollah Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did New Zealand Prime Minister Christopher Luxon condemn the U.S. and Israeli attacks on Iran as a wanton military aggression?",
+    "a": "No"
+  },
+  {
+    "q": "Did the daughter and son-in-law of Supreme Leader Ayatollah Ali Khamenei die in the U.S.-Israeli attacks in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Zayed International Airport in Abu Dhabi report that an Iranian ballistic missile strike killed one person and injured seven others?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israel’s U.N. Ambassador Danny Danon state that Israel acted out of necessity and that diplomacy was exhausted?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Hamas police in the Gaza Strip arrest 50 merchants for price-gouging on February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Ambassador Mike Waltz accuse Iran of killing tens of thousands of its own people during an exchange at the U.N. Security Council?",
+    "a": "Yes"
+  }
+]

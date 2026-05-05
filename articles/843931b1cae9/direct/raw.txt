@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did a Quinnipiac University poll released on March 9, 2026, find that 74 percent of respondents oppose sending U.S. ground troops into Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state on Air Force One on Saturday, March 7, 2026, that he would \"possibly\" send ground troops into Iran if there was a very good reason?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Quinnipiac University survey conducted from March 6-8, 2026, find that 84 percent of Republicans approve of how President Donald Trump is handling the joint U.S.-Israeli war with Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did Defense Secretary Pete Hegseth refuse to rule out deploying ground forces to Iran during a \"60 Minutes\" interview that aired on Sunday, March 8, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did former Rep. Marjorie Taylor Greene, R-Ga., publicly endorse President Donald Trump’s decision to launch the war against Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did seven U.S. service members die from Iranian retaliation on American bases in the Middle East since the operation began on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Quinnipiac University poll find that 37 percent of Democrats support sending U.S. ground troops into Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump tell the New York Post on Monday, March 9, 2026, that he is \"nowhere near\" sending troops to safeguard nuclear material in Isfahan, Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Quinnipiac University poll find that 57 percent of respondents approve of how President Donald Trump is handling the joint U.S.-Israeli war with Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu join former Rep. Marjorie Taylor Greene and Tucker Carlson in criticizing President Donald Trump for launching the war against Iran in March 2026?",
+    "a": "No"
+  }
+]

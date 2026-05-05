@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the United States and Ecuador carry out a joint military operation in Ecuador on Friday, March 6, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the joint U.S.-Ecuador operation target a training camp belonging to the Comandos de la Frontera in northeastern Ecuador?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ecuadorian President Daniel Noboa impose tariffs on Colombia in response to accusations that Colombia was not doing enough to fight drug trafficking?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Southern Command confirm that individuals were killed or captured during the strike dubbed \"Total Extermination\"?",
+    "a": "No"
+  },
+  {
+    "q": "Did the joint operation take place near the border with Peru?",
+    "a": "No"
+  },
+  {
+    "q": "Is the Comandos de la Frontera described as a Colombian criminal organization made up of FARC dissidents?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Pentagon spokesman Sean Parnell state that the Department of War executed the action at the request of the United States?",
+    "a": "No"
+  },
+  {
+    "q": "Is President Daniel Noboa scheduled to attend the \"Shield of the Americas\" summit in Miami?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the operation utilize helicopters, aircraft, river boats, and drones to locate and bomb the target?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the training camp targeted by the operation described as having a capacity for 100 people?",
+    "a": "No"
+  }
+]

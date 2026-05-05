@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Anduril acquire ExoAnalytic Solutions in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Anduril acquire ExoAnalytic Solutions to expand its autonomous drone technology portfolio?",
+    "a": "No"
+  },
+  {
+    "q": "Is the U.S. defense project referred to as the \"Golden Dome\"?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the U.S. defense project referred to as the \"Iron Dome\"?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump propose a $175 billion defense system?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump propose a $175 billion defense system to protect the U.S. from cyber threats?",
+    "a": "No"
+  },
+  {
+    "q": "Is Palmer Luckey the founder of Anduril?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Palmer Luckey the founder of ExoAnalytic Solutions?",
+    "a": "No"
+  },
+  {
+    "q": "Did Anduril last raise $2.5 billion in June 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Anduril last raise $2.5 billion in March 2026?",
+    "a": "No"
+  }
+]

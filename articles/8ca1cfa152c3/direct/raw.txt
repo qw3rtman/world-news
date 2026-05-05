@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Brent Crude rise by 9.3% to $100.50 per barrel on Thursday, March 12, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did West Texas Intermediate (WTI) rise by 8.8% to $94.92 per barrel on Thursday, March 12, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States Department of Energy announce a release of 172 million barrels from the Strategic Petroleum Reserve starting in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the International Energy Agency agree to a coordinated release of 400 million barrels of oil from emergency reserves in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the conflict effectively shut down the Strait of Hormuz, a vital shipping route for global energy supplies, by March 12, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iraqi media reports attribute the strikes on oil tankers to Israel in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United States Department of Energy state that the 172 million barrel release from the Strategic Petroleum Reserve would take approximately 30 days to deliver in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the International Energy Agency agree to release 182.7 million barrels of oil from emergency reserves in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the conflict between Iran, the United States, and Israel begin on March 1, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Brent Crude briefly surge to $120 per barrel on Monday, March 9, 2026?",
+    "a": "No"
+  }
+]

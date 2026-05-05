@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Portugal appoint former national criminal police chief Luís Neves as interior minister in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the appointment of Luís Neves intended to help channel billions of euros into rebuilding infrastructure and homes destroyed by deadly storms?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Luís Neves serve as the national criminal police chief before his appointment as interior minister?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Luís Neves sworn in on the same day he was nominated by the Portuguese presidency?",
+    "a": "No"
+  },
+  {
+    "q": "Did the storms that necessitated the infrastructure rebuilding efforts occur in January 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Luís Neves's predecessor resign because of criticism over the handling of the storms?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the storms primarily affect coastal fishing villages rather than urban neighborhoods and transport links?",
+    "a": "No"
+  },
+  {
+    "q": "Was Luís Neves 60 years old at the time of his nomination in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the storms leave the country's power and water supplies completely unaffected in all regions?",
+    "a": "No"
+  },
+  {
+    "q": "Was the Portuguese presidency responsible for issuing the statement regarding Luís Neves's nomination?",
+    "a": "Yes"
+  }
+]

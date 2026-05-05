@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Prince Reza Pahlavi state that he is running for the office of President of Iran in the post-war transition?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ayatollah Khamenei die in the opening hours of a war in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Prince Reza Pahlavi live in Lubbock, Texas, in 1979 while the U.S. Air Force was training him to be a fighter pilot?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Prince Reza Pahlavi propose that Iran should retain its nuclear weapons program as a deterrent after the regime's fall?",
+    "a": "No"
+  },
+  {
+    "q": "Did an estimated 20,000 Iranian citizens die during the street protests in January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Prince Reza Pahlavi claim that his father, Mohammad Reza Pahlavi, ordered the massacre of protesters in 1979 to maintain power?",
+    "a": "No"
+  },
+  {
+    "q": "Did Prince Reza Pahlavi identify the separation of religion from state as one of the four core principles for a new Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. and Israeli forces attack Iran's nuclear facilities in June 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did Prince Reza Pahlavi express that he wants peace and a strategic partnership with Israel?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did 52 Americans remain hostages in the U.S. embassy in Tehran for 444 days during the 1979 revolution?",
+    "a": "Yes"
+  }
+]

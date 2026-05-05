@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Venezuelan opposition leader María Corina Machado announce her intention to return to Venezuela in the coming weeks in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did María Corina Machado set a specific date for her return to Venezuela in her March 2026 announcement?",
+    "a": "No"
+  },
+  {
+    "q": "Was María Corina Machado the winner of the 2025 Nobel Peace Prize?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did María Corina Machado state that one of her objectives upon returning is to prepare for a new and gigantic electoral victory?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did María Corina Machado announce that she would remain in exile indefinitely in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Associated Press report the announcement regarding María Corina Machado's return?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did María Corina Machado claim that elections had already been held in Venezuela at the time of her March 2026 statement?",
+    "a": "No"
+  },
+  {
+    "q": "Is Venezuela located in South America?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did María Corina Machado identify herself as the incumbent President of Venezuela in her March 2026 statement?",
+    "a": "No"
+  },
+  {
+    "q": "Did María Corina Machado say she would return to Venezuela in the coming weeks in an article published by The Washington Post on March 1, 2026?",
+    "a": "Yes"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump send a war powers notification to Senate President Pro Tempore Chuck Grassley regarding military action against Iran on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Defense Secretary Pete Hegseth state that the U.S. military operation in Iran was expected to last only three weeks?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United States and Israel jointly kill Iran’s Supreme Leader Ayatollah Ali Khamenei prior to the start of the military strikes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Kuwaiti air defense systems mistakenly shoot down three U.S. fighter jets during the conflict?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Ambassador to Israel Mike Huckabee recommend that Americans flee Israel by traveling through Jordan to reach safety?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran’s top national security official, Ali Larijani, vow that Iran would not negotiate with the United States?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. National Counterterrorism Center confirm that Iran had launched major disruptive cyberattacks against the United States in the first 48 hours of the conflict?",
+    "a": "No"
+  },
+  {
+    "q": "Did the International Atomic Energy Agency report that Iran’s nuclear facilities at Natanz were damaged by U.S.-Israeli airstrikes?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Lebanese Prime Minister Nawaf Salam announce a ban on all military and security activities by Hezbollah?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Embassy in Kuwait remain open and operating normally throughout the escalation of the conflict?",
+    "a": "No"
+  }
+]

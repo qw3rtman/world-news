@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the U.K. Maritime Trade Operations agency report receiving notifications from vessels in the Gulf regarding the closure of the Strait of Hormuz on Saturday, February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the Strait of Hormuz described in the article as the world's most vital oil export route?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Coast Guard issue the initial reports of the Strait of Hormuz closure to vessels operating in the Gulf on February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the closure reports originate from vessels operating in the Red Sea rather than the Gulf on February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the Strait of Hormuz described in the article as the world's most vital natural gas export route rather than oil export route on February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.K. Maritime Trade Operations agency receive the reports on Sunday, March 1, 2026, instead of Saturday, February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Were the vessels notified of the closure while operating in the Persian Gulf on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the French Maritime Trade Operations agency issue the reports of the Strait of Hormuz closure on February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article state that the closure of the Strait of Hormuz was confirmed by the International Maritime Organization on February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.K. Maritime Trade Operations agency receive multiple reports regarding the closure on Saturday, February 28, 2026?",
+    "a": "Yes"
+  }
+]

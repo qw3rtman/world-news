@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iranian Supreme Leader Ali Khamenei die in air strikes launched by the United States and Israel in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump claim that the United States worked closely with Israel to target Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Department of Defense name the military campaign against Iran 'Operation Desert Storm'?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran close the Strait of Hormuz in response to the strikes in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian missiles hit a girls' primary school in the northern city of Tabriz, killing 85 people?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu confirm that Ali Khamenei's compound had been destroyed?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Secretary of State Antony Blinken publicly endorse the military strikes against Iran in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran fire missiles at Abu Dhabi, Dubai, and Doha in retaliation for the strikes in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Pentagon report that there were U.S. deaths or injuries resulting from the Iranian missile response?",
+    "a": "No"
+  },
+  {
+    "q": "Did Russian U.N. envoy Vasily Nebenzya state that Iran had been 'stabbed in the back' during the February 2026 negotiations?",
+    "a": "Yes"
+  }
+]

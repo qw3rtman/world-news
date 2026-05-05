@@ -1,0 +1,43 @@
+[
+  {
+    "q": "Did President Donald Trump state that most NATO allies informed the United States they did not want to get involved in the U.S. military operation in Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump describe the NATO allies' refusal to get involved in the military operation in Iran as a \"very foolish mistake\" in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump state that all NATO allies informed the United States they wanted to get involved in the U.S. military operation in Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    {
+    "q": "Did President Donald Trump describe the NATO allies' refusal to get involved in the military operation in Iran as a \"strategic necessity\" in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump state that the United States had been informed by most of its NATO allies that they did not want to get involved in the U.S. military operation in Iraq in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump make the statement regarding NATO allies and the military operation in Iran on Monday in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump state that the United States had been informed by a minority of its NATO allies that they did not want to get involved in the U.S. military operation in Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump state that the United States had been informed by most of its NATO allies that they did not want to get involved in the U.S. military operation in Iran in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump state that the United States had been informed by most of its NATO allies that they did not want to get involved in the U.S. military operation in Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump state that the United States had been informed by most of its NATO allies that they did not want to get involved in the U.S. military operation in Iran in March 2026?",
+    "a": "Yes"
+  }
+]

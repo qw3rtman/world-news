@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the Kalshi market for whether the U.S. enters a recession in 2026 hit its highest level since November on Monday, March 9, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. oil prices drop below $90 per barrel in early March 2026, causing the Kalshi recession odds to fall below 25%?",
+    "a": "No"
+  },
+  {
+    "q": "Was the last time crude oil passed the $100 per barrel mark prior to March 2026 in the aftermath of the Russian invasion of Ukraine in 2022?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Middle Eastern producers increase oil output in recent days prior to March 9, 2026, due to the reopening of the Strait of Hormuz?",
+    "a": "No"
+  },
+  {
+    "q": "Did Polymarket bettors anticipate a 31% chance of a U.S. recession by the end of 2026 as of March 9, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the national average price for regular gas in the U.S. exceed $4.00 on Monday, March 9, 2026, according to AAA?",
+    "a": "No"
+  },
+  {
+    "q": "Did Kalshi participants see a roughly 60% chance that the U.S. gas price would exceed $4 in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the recession definition used in the Kalshi market based on the National Bureau of Economic Research's criteria of a significant decline in economic activity?",
+    "a": "No"
+  },
+  {
+    "q": "Did West Texas Intermediate crude record its biggest gain on record in the week leading up to March 9, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Strait of Hormuz remain open and operational in early March 2026 despite the U.S.-Iran war?",
+    "a": "No"
+  }
+]

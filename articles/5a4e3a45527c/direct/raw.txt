@@ -1,0 +1,40 @@
+{
+  "q": "Did Israeli Prime Minister Benjamin Netanyahu give an interview to Sean Hannity on Fox News in March 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did Israeli Prime Minister Benjamin Netanyahu claim that the latest conflict would lead to peace and democracy in Iran during his March 2026 interview?",
+  "a": "Yes"
+}
+{
+  "q": "Did Israeli Prime Minister Benjamin Netanyahu agree with criticism that the latest conflict would spiral into an endless war in the Middle East in March 2026?",
+  "a": "No"
+}
+{
+  "q": "Did Israeli Prime Minister Benjamin Netanyahu claim that the latest conflict would lead to peace and democracy in Iraq during his March 2026 interview?",
+  "a": "No"
+}
+{
+  "q": "Did Sean Hannity conduct the March 2026 interview with Israeli Prime Minister Benjamin Netanyahu for CNN?",
+  "a": "No"
+}
+{
+  "q": "Did Israeli Prime Minister Benjamin Netanyahu push back against criticism regarding the latest conflict in the Middle East in March 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did Israeli Prime Minister Benjamin Netanyahu claim that the latest conflict would lead to peace and democracy in Syria during his March 2026 interview?",
+  "a": "No"
+}
+{
+  "q": "Did Israeli Prime Minister Benjamin Netanyahu give the interview to Sean Hannity in March 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did Israeli Prime Minister Benjamin Netanyahu claim that the latest conflict would lead to peace and democracy in Turkey during his March 2026 interview?",
+  "a": "No"
+}
+{
+  "q": "Did Israeli Prime Minister Benjamin Netanyahu state that the latest conflict would not result in an endless war in the Middle East in March 2026?",
+  "a": "Yes"
+}

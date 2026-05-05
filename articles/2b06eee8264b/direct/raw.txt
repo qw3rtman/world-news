@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. Senator John Cornyn and Texas Attorney General Ken Paxton both advance to a runoff election for the Texas U.S. Senate seat in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the runoff election for the Texas U.S. Senate seat scheduled to take place on May 26, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Representative Wesley Hunt finish in second place behind Ken Paxton in the March 2026 Texas Republican U.S. Senate primary?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump publicly endorse U.S. Senator John Cornyn over Texas Attorney General Ken Paxton during the March 2026 Texas Republican U.S. Senate primary?",
+    "a": "No"
+  },
+  {
+    "q": "Did Texas Attorney General Ken Paxton spend nearly $70 million to survive the first round of the March 2026 Texas Republican U.S. Senate primary?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Democratic Party nominate State Representative James Talarico as their candidate for the Texas U.S. Senate seat in the 2026 election?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Representative Wesley Hunt concede the March 2026 Texas Republican U.S. Senate primary after finishing in third place?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Lone Star PAC, a pro-Ken Paxton organization, release a memo urging John Cornyn to concede the nomination to Paxton in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Texas Attorney General Ken Paxton win the March 2026 Texas Republican U.S. Senate primary outright in the first round, avoiding a runoff?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Senator John Cornyn describe Ken Paxton as a \"dead weight at the top of the ticket for Republicans\" in the November 2026 general election during March 2026?",
+    "a": "Yes"
+  }
+]

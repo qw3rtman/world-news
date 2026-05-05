@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the United Arab Emirates consider cutting off Iranian access to billions of dollars held in the Gulf state in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Arab Emirates join military action against Iran in response to the strikes in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran target more than 1,000 drones and missiles against targets in the United Arab Emirates in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Arab Emirates decide to freeze Iranian assets immediately in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Shell companies registered in Dubai mask the origin of Iranian oil and commodities in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States Treasury state that enforcement of sanctions within the United Arab Emirates had exceeded the country’s stated commitments in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian strikes damage infrastructure including Dubai International airport in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Arab Emirates affirm its stance to stick to a defensive posture and not join military action against Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Wall Street Journal report that Dubai is the capital of the United Arab Emirates in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United States Treasury sanction UAE-based entities in recent years prior to March 2026?",
+    "a": "Yes"
+  }
+]

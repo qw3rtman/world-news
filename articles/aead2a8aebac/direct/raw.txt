@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did benchmark crude oil prices rise above $118 a barrel following the escalation in the U.S.-Israeli war with Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump publicly endorse Kevin Warsh as his nominee to lead the Federal Reserve in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the average cost of U.S. gasoline reach $3.88 a gallon in March 2026, representing a roughly 30% increase from pre-conflict levels?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Federal Reserve Chair Jerome Powell confirm that the central bank would implement a rate cut in the first quarter of 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did an Israeli strike target a major Iranian gas field in March 2026, contributing to global supply shocks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian retaliation in March 2026 target a major natural gas plant in Qatar, impairing a key global supplier?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the leaders of the United States, United Kingdom, France, Germany, Italy, the Netherlands, and Japan issue a joint statement in March 2026 urging an immediate moratorium on attacks on civilian infrastructure?",
+    "a": "No"
+  },
+  {
+    "q": "Did diesel fuel prices top $5 a gallon in the U.S. during the week of March 19, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did investors assign roughly equal odds of about 10% to a Fed rate hike versus a rate cut by the end of 2026 as of Thursday morning in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Kevin Warsh previously argue that the Federal Reserve could cut rates and rely on rising productivity to safely lower inflation before his nomination?",
+    "a": "Yes"
+  }
+]

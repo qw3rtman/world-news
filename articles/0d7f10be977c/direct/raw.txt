@@ -1,0 +1,40 @@
+{
+  "q": "Did the government shutdown enter its 10th day as of the article's publication date of February 23, 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did White House Press Secretary Karoline Leavitt state that President Donald Trump had direct conversations with congressional Democrats regarding the Department of Homeland Security funding?",
+  "a": "No"
+}
+{
+  "q": "Did Senate Majority Leader John Thune, R-S.D., indicate that Republicans were firm against requiring Immigration and Customs Enforcement agents to obtain judicial warrants?",
+  "a": "Yes"
+}
+{
+  "q": "Did the Senate delay a vote on the original DHS spending bill until after President Donald Trump's State of the Union address due to winter storms?",
+  "a": "No"
+}
+{
+  "q": "Did Senator Tim Kaine, D-Va., state that he had a war powers resolution filed and ready to block a potential U.S. military strike against Iran?",
+  "a": "Yes"
+}
+{
+  "q": "Did President Donald Trump directly lead the recent negotiations with Senate Minority Leader Chuck Schumer, D-N.Y., to resolve the Department of Homeland Security shutdown?",
+  "a": "No"
+}
+{
+  "q": "Was this the third government shutdown during President Donald Trump’s second term as of February 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did the White House accept Senate Democrats' counterproposal for DHS funding as a serious offer during the negotiations in February 2026?",
+  "a": "No"
+}
+{
+  "q": "Did President Donald Trump tell reporters he was considering a limited military strike against Iran in February 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did the Supreme Court rule against President Donald Trump's ability to impose global 10% tariffs without congressional approval in early 2026?",
+  "a": "No"
+}

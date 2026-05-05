@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the United States and Israel launch an airstrike campaign that killed Supreme Leader Ayatollah Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the temporary leadership council governing Iran after Khamenei's death include Iran's sitting president, the head of the judiciary, and a member of the Guardian Council chosen by the Expediency Council?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Masoud Pezeshkian, Iran's reformist president, a member of the temporary leadership council formed to assume leadership duties?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the Assembly of Experts, which is responsible for picking a new supreme leader, composed of 88 members who are popularly elected every eight years?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Guardian Council bar former Iranian President Hassan Rouhani from election to the Assembly of Experts in March 2024?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did hard-line President Ebrahim Raisi die in a helicopter crash in June 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Is Mojtaba Khamenei, the son of the late Supreme Leader, a 56-year-old Shiite cleric who has previously held government office?",
+    "a": "No"
+  },
+  {
+    "q": "Was there only one other transfer of power in the office of supreme leader of Iran prior to the succession following Ayatollah Ali Khamenei's death?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Grand Ayatollah Ruhollah Khomeini die at age 86 in 1989 after leading Iran through its eight-year war with Iraq?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israel launch a 12-day war against Iran in March 2026?",
+    "a": "No"
+  }
+]

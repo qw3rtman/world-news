@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iran officially close the Strait of Hormuz to maritime traffic in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian Foreign Minister Abbas Araghchi state that Iran had no intention of closing the Strait of Hormuz in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did ships largely stop traversing the Strait of Hormuz following the conflict in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did insurers plan to increase coverage of war risks for vessels entering the Persian Gulf in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did a radio broadcast purporting to come from the Iranian navy announce that transit through the Strait of Hormuz had been banned in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran claim responsibility for attacks on three oil tankers in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that the Strait of Hormuz is located in the Atlantic Ocean in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. and Israeli airstrikes serve as the stated reason for Iran's retaliation in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Islamic Republic officially deny any involvement in attacks on oil tankers in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article report that maritime traffic through the Strait of Hormuz was fully unrestricted in March 2026?",
+    "a": "No"
+  }
+]

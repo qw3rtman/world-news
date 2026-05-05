@@ -1,0 +1,22 @@
+{
+  "q": "Did SpaceX target filing confidentially for an initial public offering as soon as March 2026?",
+  "a": "Yes",
+  "q": "Is SpaceX based in Starbase, Texas?",
+  "a": "Yes",
+  "q": "Did Elon Musk found SpaceX?",
+  "a": "Yes",
+  "q": "Is SpaceX planning to list on the New York Stock Exchange?",
+  "a": "No",
+  "q": "Is OpenAI expected to file for an IPO after SpaceX?",
+  "a": "Yes",
+  "q": "Is Anthropic PBC expected to file for an IPO before SpaceX?",
+  "a": "No",
+  "q": "Did SpaceX submit its draft IPO registration to the US Securities and Exchange Commission in February 2026?",
+  "a": "No",
+  "q": "Is SpaceX's IPO expected to be the first of a trio of mega-IPOs?",
+  "a": "Yes",
+  "q": "Is SpaceX targeting a June 2026 listing?",
+  "a": "Yes",
+  "q": "Is SpaceX planning to file its IPO registration with the Federal Trade Commission?",
+  "a": "No"
+}

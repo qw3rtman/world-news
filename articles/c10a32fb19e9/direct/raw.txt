@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Delcy Rodríguez, the acting president of Venezuela, meet with U.S. Secretary of the Interior Doug Burgum in Caracas in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Delcy Rodríguez express her government's willingness to cooperate with the United States during the March 2026 meeting?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the March 2026 meeting between Delcy Rodríguez and Doug Burgum focused on strategic development of energy and mining resources?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Doug Burgum hold the position of U.S. Secretary of State during the March 2026 meeting with Delcy Rodríguez?",
+    "a": "No"
+  },
+  {
+    "q": "Did the March 2026 meeting between Delcy Rodríguez and Doug Burgum take place in Washington, D.C.?",
+    "a": "No"
+  },
+  {
+    "q": "Did Delcy Rodríguez emphasize cooperation in sectors such as agriculture and technology during the March 2026 meeting?",
+    "a": "No"
+  },
+  {
+    "q": "Is Delcy Rodríguez the President of Venezuela?",
+    "a": "No"
+  },
+  {
+    "q": "Did the March 2026 meeting involve discussions on the strategic development of mineral resources?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Secretary of the Interior Doug Burgum meet with Venezuelan President Nicolás Maduro in Caracas in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Delcy Rodríguez reiterate her government's disposition for cooperation with the United States during the March 2026 meeting?",
+    "a": "Yes"
+  }
+]

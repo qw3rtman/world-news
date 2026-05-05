@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the price of Brent crude briefly surge to $119.50 per barrel on Monday, March 9, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump endorse the use of strategic oil reserves by the Group of Seven nations on Monday, March 9, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the war against Iran begin on February 28, 2026, according to the article?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Group of Seven major industrialized powers decide to immediately release their strategic oil reserves on Monday, March 9, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did tanker traffic in the Strait of Hormuz all but stop due to fears of attacks on Monday, March 9, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran name Ayatollah Mojtaba Khamenei as the successor to his late father on Monday, March 9, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the average U.S. price of a gallon of regular gasoline rise to $3.48 on Monday, March 9, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Bahrain’s national oil company declare force majeure after an Iranian attack set its refinery complex ablaze on Monday, March 9, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Oxford Economics researchers predict that oil prices would rise to $150 per barrel or higher in the near future on Monday, March 9, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did South Korean President Lee Jae Myung warn of strict penalties for refiners and gas stations caught hoarding or colluding on prices on Monday, March 9, 2026?",
+    "a": "Yes"
+  }
+]

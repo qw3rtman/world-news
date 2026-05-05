@@ -1,0 +1,43 @@
+[
+  {
+    "q": "Did silver futures on the Multi Commodity Exchange surge to ₹2,93,152 per kg for May delivery on March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the coordinated military strikes by the U.S. and Israel on Iran in early March 2026 result in the death of Supreme Leader Ayatollah Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did gold futures for April delivery on the Multi Commodity Exchange jump by ₹5,811 to reach ₹1,67,915 per 10 grams on March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran launch retaliatory missile strikes targeting U.S. assets in the UAE, Bahrain, Kuwait, Qatar, Saudi Arabia, Jordan, Iraq, and Syria following the March 2026 strikes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Comex silver futures for May delivery gain $14.30 to reach $101.60 per ounce on March 2, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Manav Modi of IndusInd Securities attribute the rally in bullion futures to the U.S. and Israeli strikes on Iran?",
+    "a": "No"
+  },
+  {
+    {
+    "q": "Did gold prices fall below $5,400 per ounce on global markets following the joint U.S.-Israel strikes on Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did oil prices rise by more than 7.5% due to concerns over the closure of the Strait of Hormuz after the March 2026 strikes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Jigar Trivedi of Motilal Oswal Financial Services Ltd state that gold logged its seventh straight monthly gain in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the attacks by the U.S. and Israel on Iran in March 2026 disrupt maritime traffic in the oil-rich Gulf?",
+    "a": "Yes"
+  }
+]

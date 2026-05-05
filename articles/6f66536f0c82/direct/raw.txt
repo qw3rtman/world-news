@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. and Israeli forces launch a joint attack against Iran on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump explicitly state that the ultimate objective of the February 2026 assault was the toppling of the Iranian regime?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian demonstrators in Tehran celebrate the U.S.-Israeli strikes by dancing in the streets in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Karim Sadjadpour argue that the February 2026 war was a war of necessity due to an imminent Iranian nuclear threat?",
+    "a": "No"
+  },
+  {
+    "q": "Was a girls’ school bombed in Minab, Iran, resulting in the deaths of several dozen children during the February 2026 attacks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Supreme Leader Ayatollah Ali Khamenei confirm his death in response to unconfirmed reports in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Karim Sadjadpour identify Reza Pahlavi as a figure around whom many Iranians have coalesced for inspirational leadership?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Karim Sadjadpour state that the Iranian regime historically chooses unrestrained retaliation to ensure its survival?",
+    "a": "No"
+  },
+  {
+    "q": "Did Karim Sadjadpour note that around three-quarters of authoritarian transitions lead to another authoritarian form of government?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Karim Sadjadpour predict that the February 2026 attacks would likely trigger a rally-around-the-flag effect that permanently solidified support for the Iranian regime?",
+    "a": "No"
+  }
+]

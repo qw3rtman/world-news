@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the White House confirm that United States President Donald Trump will travel to China from March 31 to April 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Will the March 2026 visit by United States President Donald Trump be the first official visit to Beijing by a US president since 2017?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the US Supreme Court strike down the tariffs imposed by United States President Donald Trump on Friday, February 20, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Canadian Prime Minister Mark Carney lift Canada’s ban on buying Chinese-made electric cars during his recent visit to Beijing?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did United States President Donald Trump previously label the COVID-19 pandemic as the \"Chinese virus\"?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the US Supreme Court uphold the tariffs imposed by United States President Donald Trump on Friday, February 20, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did United States President Donald Trump previously visit Beijing in 2023?",
+    "a": "No"
+  },
+  {
+    "q": "Did Chinese President Xi Jinping describe the communication between the two countries as \"poor\" in recent months?",
+    "a": "No"
+  },
+  {
+    "q": "Did Canadian Prime Minister Mark Carney maintain Canada’s ban on buying Chinese-made electric cars during his recent visit to Beijing?",
+    "a": "No"
+  },
+  {
+    "q": "Did United States President Donald Trump label the COVID-19 pandemic as the \"American virus\"?",
+    "a": "No"
+  }
+]

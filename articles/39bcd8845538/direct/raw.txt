@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump announce that Senator Markwayne Mullin would become the head of the Department of Homeland Security effective March 31, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Senate Majority Leader John Thune describe Kristi Noem’s departure from the Department of Homeland Security as a \"major step\" in negotiations?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Senator Chris Van Hollen state that Stephen Miller remains at the White House and that Noem’s firing does not change underlying Trump administration policies?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Senator Rand Paul announce the specific timing of a confirmation hearing for Markwayne Mullin’s nomination by March 9, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump declare that he would sign any bills into law before the Senate approves the Safeguard American Voter Eligibility (SAVE) America Act?",
+    "a": "No"
+  },
+  {
+    "q": "Did Republican negotiators rule out requiring judicial warrants for immigration enforcement raids as a condition for funding the Department of Homeland Security?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did more than 50,000 Transportation Security Administration agents receive their first paychecks at the end of the week prior to March 9, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Senator John Fetterman argue that blocking funding for the Department of Homeland Security punishes ordinary federal workers without advancing immigration enforcement reforms?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Senator Patty Murray propose splitting Immigration and Customs Enforcement and Customs and Border Protection out of the Homeland Security appropriations bill as a nonstarter?",
+    "a": "No"
+  },
+  {
+    "q": "Did travelers at Houston George Bush Intercontinental Airport experience an average security screening wait time of 62 minutes?",
+    "a": "Yes"
+  }
+]

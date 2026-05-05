@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Hezbollah launch rocket attacks against Israel in response to the killing of Ayatollah Ali Khamenei in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Lebanese Prime Minister Nawaf Salam publicly urge Hezbollah to stay out of the conflict following the strikes on Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Kataib Hezbollah launch a major offensive against U.S. bases in Iraq immediately after the U.S. and Israel struck Tehran in late February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Houthi leaders in Yemen state their intention to resume missile and drone attacks on ships in the Red Sea in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Houthis in Yemen break their agreement with U.S. President Donald Trump in May 2025 by resuming attacks on U.S. ships in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Eran Lerman, Israel’s former deputy national security advisor, state that Israel is not worried about Hezbollah's capabilities to cause significant damage in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Badr Organization in Iraq, an Iran-backed group, refuse to listen to pressure from Iraqi Prime Minister Mohammed Shia al-Sudani in early March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian President Masoud Pezeshkian declare that the killing of Ayatollah Ali Khamenei constituted a war on all the world's Muslims in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mara Redlich Revkin report that Kataib Hezbollah and Harakat al-Nujaba are the factions most ideologically aligned with the Islamic Revolutionary Guard Corps in Iraq in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did MSC, a global shipping company, instruct its vessels in the Gulf to seek safe shelter due to immediate Houthi attacks on oil facilities in early March 2026?",
+    "a": "No"
+  }
+]

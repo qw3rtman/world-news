@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did European intelligence chiefs express pessimism about reaching a peace agreement to end Russia's war in Ukraine in 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the latest round of U.S.-brokered talks between Ukrainian and Russian negotiators take place in Moscow in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did four of the five interviewed European intelligence chiefs believe that Moscow was using the talks to push for sanctions relief and business deals?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump assert that the prospect of a peace deal was \"reasonably far\" away?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ukrainian leader Volodymyr Zelenskiy suggest on the social media platform X that discussing the conflict's historical roots was a delay tactic?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. negotiating team for the 2026 peace talks include former Secretary of State Henry Kissinger?",
+    "a": "No"
+  },
+  {
+    "q": "Did Russian envoy Kirill Dmitriev claim on X that the portfolio of potential U.S.-Russia projects was worth over $14 trillion?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the third European intelligence chief state that Russia's economy was on the verge of immediate collapse?",
+    "a": "No"
+  },
+  {
+    "q": "Did White House spokeswoman Anna Kelly respond to the anonymous intelligence chiefs by stating they had done nothing to help end the war?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the liquid part of Russia's \"rainy day\" fund increase since the 2022 invasion?",
+    "a": "No"
+  }
+]

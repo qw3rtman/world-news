@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Vietnam's trade deficit narrow in February 2026 compared to January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the trade deficit in Vietnam reported as $1.05 billion in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the National Statistics Office in Hanoi release the trade data for February 2026 on Friday?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the February 2026 trade deficit in Vietnam larger than the Bloomberg survey estimate of $2.03 billion?",
+    "a": "No"
+  },
+  {
+    "q": "Did Vietnam's trade deficit in February 2026 widen to $1.78 billion?",
+    "a": "No"
+  },
+  {
+    "q": "Did Vietnam's exports and imports both grow more than expected in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did consumer prices spike in Vietnam during February 2026 due to holiday effects?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the trade deficit in Vietnam reported as $2.03 billion in January 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the trade deficit in Vietnam decrease from $1.78 billion in January 2026 to $1.05 billion in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Bloomberg survey estimate a trade deficit of $1.05 billion for Vietnam in February 2026?",
+    "a": "No"
+  }
+]

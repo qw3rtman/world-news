@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did spot gold prices fall more than 1% on Thursday, March 12, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. dollar lose value for three consecutive sessions leading up to March 12, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Blue Line Futures chief market strategist Phillip Streible identify rising treasury yields as a negative factor for gold prices in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's new Supreme Leader Ayatollah Mojtaba Khamenei state that Iran would keep the Strait of Hormuz open during the conflict in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Chile’s central bank boost its gold reserves to $1.108 billion in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Chile’s central bank issue its first major gold purchase since at least 2010 in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did spot silver prices ease by 1% to $84.90 per ounce on March 12, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did analysts at BMI expect silver to average $84 per ounce in 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did spot platinum lose 1.1% to $2,145.75 on March 12, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did oil prices fall sharply in reaction to the escalation of Iranian attacks in Iraqi waters in March 2026?",
+    "a": "No"
+  }
+]

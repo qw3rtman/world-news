@@ -1,0 +1,22 @@
+{
+  "q": "Did the U.S. military move forces into position in the Middle East in February 2026?",
+  "a": "Yes",
+  "q": "Was the U.S. military buildup in the Middle East in February 2026 intended for possible strikes on Iran?",
+  "a": "Yes",
+  "q": "Did U.S. President Donald Trump consider limited strikes on Iran in February 2026?",
+  "a": "Yes",
+  "q": "Did the U.S. military move forces into position in the Middle East in March 2026?",
+  "a": "No",
+  "q": "Was the U.S. military buildup in the Middle East in February 2026 intended for possible strikes on Iraq?",
+  "a": "No",
+  "q": "Did U.S. President Joe Biden consider limited strikes on Iran in February 2026?",
+  "a": "No",
+  "q": "Did the U.S. military move forces into position in the Middle East in January 2026?",
+  "a": "No",
+  "q": "Was the U.S. military buildup in the Middle East in February 2026 intended for possible strikes on Syria?",
+  "a": "No",
+  "q": "Did U.S. President Donald Trump consider extensive strikes on Iran in February 2026?",
+  "a": "No",
+  "q": "Did the U.S. military move forces into position in the Middle East in December 2025?",
+  "a": "No"
+}

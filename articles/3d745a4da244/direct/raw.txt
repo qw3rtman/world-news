@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iran's new Supreme Leader Mojtaba Khamenei issue his first public statement since taking office in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mojtaba Khamenei demand that all U.S. bases in the region be closed immediately in his statement?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mojtaba Khamenei threaten to keep the Strait of Hormuz closed in his March 2026 statement?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did CBS News reporter Ramy Inocencio report on Mojtaba Khamenei's statement in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mojtaba Khamenei call for the immediate closure of all Iranian military bases in the region in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Mojtaba Khamenei threaten to keep the Suez Canal closed in his March 2026 statement?",
+    "a": "No"
+  },
+  {
+    "q": "Did Mojtaba Khamenei issue his first public statement as Supreme Leader in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did CBS News reporter Anderson Cooper report on Mojtaba Khamenei's statement in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Mojtaba Khamenei demand that all U.S. bases in the region be expanded in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Mojtaba Khamenei's statement in March 2026 include a call for the reopening of the Strait of Hormuz?",
+    "a": "No"
+  }
+]

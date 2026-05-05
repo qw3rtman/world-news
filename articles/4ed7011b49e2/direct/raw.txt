@@ -1,0 +1,40 @@
+{
+  "q": "Did President Donald Trump deliver the first official State of the Union address of his second term on Tuesday night in February 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did Vice President JD Vance and House Speaker Mike Johnson sit directly behind President Donald Trump during the 2026 State of the Union address?",
+  "a": "Yes"
+}
+{
+  "q": "Did former House Speaker Nancy Pelosi rip up pages of President Donald Trump's speech during the 2026 State of the Union address?",
+  "a": "No"
+}
+{
+  "q": "Did Chief Justice John Roberts and Associate Justices Elena Kagan, Brett Kavanaugh, and Amy Coney Barrett attend the 2026 State of the Union address?",
+  "a": "No"
+}
+{
+  "q": "Did the Supreme Court rule in early 2026 that President Donald Trump lacks the authority to impose sweeping tariffs under an emergency powers law?",
+  "a": "Yes"
+}
+{
+  "q": "Is the first lady's box located on the chamber floor to the left of the president from the viewers' perspective?",
+  "a": "No"
+}
+{
+  "q": "Do senators typically occupy rows closer to the front while House members occupy rows closer to the back during the State of the Union address?",
+  "a": "Yes"
+}
+{
+  "q": "Did the Trump administration and Congress release an official seating chart for the 2026 State of the Union address?",
+  "a": "No"
+}
+{
+  "q": "Did the second lady typically sit in the first lady's box during the 2026 State of the Union address?",
+  "a": "Yes"
+}
+{
+  "q": "Did the 2026 State of the Union address follow the same seating arrangement as the 2020 address where the vice president and speaker were from different parties?",
+  "a": "No"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the newly created Joint Interagency Anti-Cartel Task Force (JIATF-CC) collaborate with the Mexican Army in the operation against Nemesio Oseguera Cervantes (alias \"El Mencho\") in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the operation against Nemesio Oseguera Cervantes (alias \"El Mencho\") primarily conducted by United States forces in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is the Joint Interagency Anti-Cartel Task Force (JIATF-CC) directed by U.S. Air Force General Maurizio Calabrese as of February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the Cartel Jalisco Nueva Generación (CJNG) designated as a terrorist organization by the administration of U.S. President Joe Biden in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the inauguration ceremony for the Joint Interagency Anti-Cartel Task Force (JIATF-CC) held in Tucson, Arizona, in early 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Mexican government reject any direct intervention by United States forces on Mexican soil in the security cooperation model advocated by President Claudia Sheinbaum in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. government offer a reward of US$15 million for the capture of Nemesio Oseguera Cervantes (alias \"El Mencho\") in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the creation of the Joint Interagency Anti-Cartel Task Force (JIATF-CC) occur in December 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Mexican government offer a reward of US$1,750,000 for the capture of Nemesio Oseguera Cervantes (alias \"El Mencho\") in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the operation against Nemesio Oseguera Cervantes (alias \"El Mencho\") take place in the state of Sinaloa in February 2026?",
+    "a": "No"
+  }
+]

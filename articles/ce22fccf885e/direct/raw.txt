@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Ayatollah Ali Khamenei order the Islamic Revolutionary Guard Corps to crack down on protesters in January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mojtaba Khamenei publicly speak about the succession crisis before March 1, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is Mojtaba Khamenei believed to be the frontrunner to succeed his father as supreme leader of Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump explicitly name Reza Pahlavi as the candidate he wants to lead Iran in an interview with CBS News in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ayatollah Ali Khamenei serve as commander-in-chief of all Iranian armed forces, including the IRGC, until his death in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Reza Pahlavi the son of the former shah who was overthrown in the 1979 Islamic Revolution?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Women, Life, Freedom movement begin in 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Does the article state that Hassan Rouhani is a deeply unpopular former president of Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump confirm that he knows exactly who is currently running Iran in his absence?",
+    "a": "No"
+  },
+  {
+    "q": "Is Mojtaba Khamenei described as being close to the IRGC leadership?",
+    "a": "Yes"
+  }
+]

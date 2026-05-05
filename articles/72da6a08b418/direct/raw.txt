@@ -1,0 +1,22 @@
+{
+  "q": "Did the Mexican Navy seize packages of suspected cocaine during a maritime operation in the Pacific Ocean on Friday, March 6, 2026?",
+  "a": "Yes",
+  "q": "Did Mexican authorities release images of the seized cocaine packages on Monday, March 9, 2026?",
+  "a": "Yes",
+  "q": "Did the Mexican Navy seize nearly 2 tons of suspected cocaine during the operation?",
+  "a": "Yes",
+  "q": "Did the U.S. Navy seize the suspected cocaine packages during the maritime operation?",
+  "a": "No",
+  "q": "Did the maritime operation take place in the Atlantic Ocean?",
+  "a": "No",
+  "q": "Did Mexican authorities release the images of the seized packages on Friday, March 6, 2026?",
+  "a": "No",
+  "q": "Did the seized packages contain suspected heroin?",
+  "a": "No",
+  "q": "Did the article state that the U.S. continued lethal strikes as context for the seizure?",
+  "a": "Yes",
+  "q": "Did the Mexican Army seize the packages of suspected cocaine?",
+  "a": "No",
+  "q": "Did the maritime operation occur in the Gulf of Mexico?",
+  "a": "No"
+}

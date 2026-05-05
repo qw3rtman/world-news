@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump state that the war with Iran was 'pretty much' complete in remarks made overnight before March 10, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Prime Minister Benjamin Netanyahu's office express surprise at U.S. President Donald Trump's remarks regarding the status of the war with Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did a source familiar with the matter tell the newspaper Haaretz about Prime Minister Benjamin Netanyahu's office's reaction to U.S. President Donald Trump's comments in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state that the war with Iran had already ended completely in his remarks in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Prime Minister Benjamin Netanyahu's office indicate that the war with Iran could end soon following U.S. President Donald Trump's remarks in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump make his remarks about the war with Iran to the newspaper Haaretz in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the information regarding Prime Minister Benjamin Netanyahu's office's lack of surprise attributed to a source familiar with the matter in the March 10, 2026 report?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Prime Minister Benjamin Netanyahu's office believe that the war with Iran would continue indefinitely after U.S. President Donald Trump's remarks in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump use the phrase 'pretty much' to describe the status of the war with Iran in his overnight remarks in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the source who spoke to Haaretz in March 2026 represent the official stance of U.S. President Donald Trump's office?",
+    "a": "No"
+  }
+]

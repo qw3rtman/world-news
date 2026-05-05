@@ -1,0 +1,40 @@
+{
+  "q": "Did Brent crude oil close above $100 per barrel on March 12, 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did Iran's new supreme leader Mojtaba Khamenei vow to keep the Strait of Hormuz closed in March 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did the International Energy Agency announce the release of 400 million barrels from emergency reserves in March 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did the United States announce it would release 172 million barrels from its Strategic Petroleum Reserve in March 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did Energy Secretary Chris Wright state that the U.S. Navy was ready to escort tankers through the Strait of Hormuz in March 2026?",
+  "a": "No"
+}
+{
+  "q": "Did the IEA's emergency stockpile release close the entire supply gap triggered by the closure of the Strait of Hormuz in March 2026?",
+  "a": "No"
+}
+{
+  "q": "Did the United States complete the release of its 172 million barrels from the Strategic Petroleum Reserve within 30 days in March 2026?",
+  "a": "No"
+}
+{
+  "q": "Was Ayatollah Ali Khamenei alive and serving as Iran's supreme leader in March 2026?",
+  "a": "No"
+}
+{
+  "q": "Did Brent crude oil last close above $100 per barrel in March 2026?",
+  "a": "No"
+}
+{
+  "q": "Did the International Energy Agency provide specific details on how fast individual countries would release their reserves in March 2026?",
+  "a": "No"
+}

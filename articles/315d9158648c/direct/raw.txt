@@ -1,0 +1,22 @@
+{
+  "q": "Did Ayatollah Khamenei die in March 2026?",
+  "a": "Yes",
+  "q": "Did the death of Ayatollah Khamenei spark Shia protests?",
+  "a": "Yes",
+  "q": "Did the death of Ayatollah Khamenei lead to the immediate end of the Islamic Republic?",
+  "a": "No",
+  "q": "Did the death of Ayatollah Khamenei remove the religious element from geopolitics?",
+  "a": "No",
+  "q": "Did the article state that the Islamic Republic is in its death throes following the death of Ayatollah Khamenei?",
+  "a": "Yes",
+  "q": "Did the death of Ayatollah Khamenei re-introduce a secular element to geopolitics?",
+  "a": "No",
+  "q": "Did the article suggest that killing the supreme leader could mark the end of the Islamic Revolution?",
+  "a": "Yes",
+  "q": "Did the article state that Sunni protests erupted following the death of Ayatollah Khamenei?",
+  "a": "No",
+  "q": "Did the article claim that the Islamic Revolution was already at its end before the death of Ayatollah Khamenei?",
+  "a": "No",
+  "q": "Did the article identify Ayatollah Khamenei as the supreme leader of the Islamic Republic?",
+  "a": "Yes"
+}

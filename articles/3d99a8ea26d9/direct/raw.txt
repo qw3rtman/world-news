@@ -1,0 +1,22 @@
+{
+  "q": "Did Iran launch a wave of missiles at Israel in March 2026?",
+  "a": "Yes",
+  "q": "Did the missile attacks result in millions of residents seeking shelter in bomb shelters?",
+  "a": "Yes",
+  "q": "Was the U.S.-Israel war with Iran in its first day when the missile attacks occurred in March 2026?",
+  "a": "No",
+  "q": "Did U.S. Republicans block a measure to halt the U.S. air campaign in Washington in March 2026?",
+  "a": "Yes",
+  "q": "Did the U.S. air assault against Iran continue after the blocking measure failed in Washington in March 2026?",
+  "a": "Yes",
+  "q": "Did the missile attacks occur several days after the U.S. air assault was halted in Washington in March 2026?",
+  "a": "No",
+  "q": "Did the U.S.-Israel war with Iran enter its sixth day following the missile launches in March 2026?",
+  "a": "Yes",
+  "q": "Did U.S. Democrats block the measure to halt the U.S. air campaign in Washington in March 2026?",
+  "a": "No",
+  "q": "Did the missile attacks sent by Iran target residents in Israel in March 2026?",
+  "a": "Yes",
+  "q": "Did the U.S. air campaign against Iran conclude before the sixth day of the war in March 2026?",
+  "a": "No"
+}

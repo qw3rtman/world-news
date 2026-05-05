@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did US military forces reportedly destroy Iran’s air defenses in the early hours of Saturday night during the conflict described in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump report that 48 top Iranian leaders, including Supreme Leader Ali Khamenei, were killed in the initial hours of the air campaign?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ebrahim Raisi, a former Iranian president, survive the helicopter crash that occurred two years prior to March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran’s foreign minister acknowledge on Sunday that its military units were likely acting independently and out of contact with a chain of command?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran primarily target American military bases in the Gulf states rather than civilian infrastructure, hotels, and residences?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United Kingdom, France, and Germany issue a joint statement on Sunday indicating they might join strikes against Iran’s missile and drone supplies?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Russia and China provide significant military capacity to replace Iran’s destroyed air defense systems during the conflict?",
+    "a": "No"
+  },
+  {
+    "q": "Did OPEC, led by Saudi Arabia, agree to increase oil production by more than 200,000 barrels per day on Sunday?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran’s crown jewel proxy, Hezbollah, engage significantly on Iran’s northern border in the early hours of the conflict?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United States maintain overwhelming conventional superiority, including airpower and naval strike groups, over Iran during the conflict?",
+    "a": "Yes"
+  }
+]

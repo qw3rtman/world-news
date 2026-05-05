@@ -1,0 +1,40 @@
+{
+  "q": "Did global crude oil prices briefly surge past 9% on Monday, March 2, 2026, following the halt of tanker traffic through the Strait of Hormuz?",
+  "a": "Yes"
+}
+{
+  "q": "Did Brent crude trade in the high $70s on Monday, March 2, 2026, before the U.S. and Israel attacked Iran?",
+  "a": "No"
+}
+{
+  "q": "Did the Dow Jones Industrial Average end Monday, March 2, 2026, down just over 70 points after initially falling as much as 600 points?",
+  "a": "Yes"
+}
+{
+  "q": "Did the S&P 500 index end Monday, March 2, 2026, down more than 100 points following the start of the war with Iran?",
+  "a": "No"
+}
+{
+  "q": "Did Patrick de Haan of GasBuddy estimate that U.S. gasoline prices would rise by 10-30 cents on average in the days following the March 2026 attacks on Iran?",
+  "a": "Yes"
+}
+{
+  "q": "Did Patrick de Haan of GasBuddy estimate that U.S. gasoline prices would rise by 1-2 dollars on average in the days following the March 2026 attacks on Iran?",
+  "a": "No"
+}
+{
+  "q": "Did European natural gas markets surge more than 20% in early March 2026 due to the conflict affecting the Strait of Hormuz?",
+  "a": "Yes"
+}
+{
+  "q": "Did spot natural gas prices in the United States surge more than 20% in early March 2026, mirroring the European market reaction?",
+  "a": "No"
+}
+{
+  "q": "Did OPEC+ agree to a production increase during the weekend prior to March 2, 2026, that was larger than expected?",
+  "a": "Yes"
+}
+{
+  "q": "Did OPEC+ agree to a production cut during the weekend prior to March 2, 2026, in an effort to stabilize oil prices amid the Iran war?",
+  "a": "No"
+}

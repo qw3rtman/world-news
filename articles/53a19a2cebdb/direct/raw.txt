@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump state in a phone conversation with CBS News on Monday, March 8, 2026, that he was considering taking over the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. crude oil prices rise by 6.19% to $85.27 per barrel in extended trading on Monday, March 8, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did G7 energy ministers hold a virtual meeting on Tuesday, March 9, 2026, to discuss a possible joint release of oil reserves?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did oil analyst Matt Smith of energy consulting firm Kpler state that a large number of commercial vessels were actively moving through the Strait of Hormuz on Monday, March 8, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Global benchmark Brent crude prices hit a high of $119.50 per barrel on Monday, March 8, 2026, marking the first time oil prices exceeded $100 since Russia invaded Ukraine in 2022?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Energy Secretary Chris Wright state on Sunday, March 7, 2026, that normal ship traffic through the Strait of Hormuz would take several months to resume?",
+    "a": "No"
+  },
+  {
+    "q": "Did the output from Iraq's three main southern oilfields fall by 70% to 1.3 million barrels per day due to the Iran war as of Sunday, March 7, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump post on Truth Social on Monday, March 8, 2026, that a gain in short-term oil prices was a \"very large price to pay\" for destroying Iran’s nuclear threat?",
+    "a": "No"
+  },
+  {
+    "q": "Did Kuwait, the fifth-biggest producer in OPEC, announce precautionary cuts to its oil production and refinery output on Saturday, March 7, 2026, due to Iranian threats?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did G7 finance ministers hold a virtual meeting on Tuesday, March 9, 2026, where they discussed the Iran war and stated they were ready to support global energy supply?",
+    "a": "No"
+  }
+]

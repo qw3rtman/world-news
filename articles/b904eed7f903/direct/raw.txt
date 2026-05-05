@@ -1,0 +1,62 @@
+[
+  {
+    "q": "Did Iranian state media confirm the death of Supreme Leader Ayatollah Ali Khamenei on Sunday, February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu both announce the death of Ayatollah Ali Khamenei on Saturday, February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ali Larijani, Secretary of the Supreme National Security Council, vow to \"stab\" America in the heart in retaliation for the strikes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did satellite images from Airbus show black smoke rising from Ayatollah Ali Khamenei's compound in Tehran on Saturday, February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran’s Foreign Ministry initially insist that Ayatollah Ali Khamenei was \"safe and sound\" despite reports of his death?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US Secretary of State Marco Rubio state in January 2026 that \"no one knows\" who would succeed Ayatollah Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the joint US-Israeli strikes in February 2026 target Iranian President Masoud Pezeshkian and armed forces chief of staff Abdolrahim Mousavi?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the protests that began in January 2026 spread across all 31 of Iran's provinces within weeks before being cracked down on?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the 1953 CIA-backed coup that overthrew Mohammad Mossadegh restore Shah Mohammad Reza Pahlavi to the throne?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Reza Pahlavi, the eldest son of the last shah of Iran, say that any attempt to appoint a successor to Ayatollah Ali Khamenei is \"doomed to fail from the outset\"?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Iranian TV broadcaster who confirmed Ayatollah Ali Khamenei's death remain calm and composed during the broadcast?",
+    "a": "No"
+  },
+  {
+    "q": "Did US President Donald Trump state that one of the aims of the joint US-Israeli attack was to install a secular democracy in Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did experts say that Ayatollah Ali Khamenei's death was likely to usher in moderate rule by the Islamic Revolutionary Guard Corps?",
+    "a": "No"
+  },
+  {
+    "q": "Did the protests in January 2026 remain confined to Tehran and not spread to other provinces?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran's constitution specify that the Supreme National Security Council Secretary would immediately become the new supreme leader?",
+    "a": "No"
+  }
+]

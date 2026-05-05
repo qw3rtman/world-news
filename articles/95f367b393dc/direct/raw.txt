@@ -1,0 +1,22 @@
+{
+  "q": "Did gold prices rise over 1% to a three-week high on Monday, February 23, 2026, following a U.S. Supreme Court ruling against President Donald Trump's tariffs?",
+  "a": "Yes",
+  "q": "Did spot gold reach its highest level since January 30, 2026, during the trading session on February 23, 2026?",
+  "a": "Yes",
+  "q": "Did the U.S. Supreme Court rule on Friday, February 20, 2026, that President Donald Trump's sweeping tariffs exceeded his authority?",
+  "a": "Yes",
+  "q": "Did President Donald Trump respond to the Supreme Court ruling by imposing a blanket 20% levy on imports?",
+  "a": "No",
+  "q": "Did independent analyst Ross Norman attribute the price recovery in gold and silver partly to concerns or confusion over the outlook for tariffs?",
+  "a": "Yes",
+  "q": "Did data released on Friday, February 20, 2026, show that underlying U.S. inflation increased less than expected in December?",
+  "a": "No",
+  "q": "Did spot silver climb 2.6% to $86.73 per ounce on February 23, 2026, marking a more than two-week high?",
+  "a": "Yes",
+  "q": "Did Iran indicate it was prepared to make concessions on its nuclear program in exchange for the lifting of sanctions and recognition of its right to enrich uranium?",
+  "a": "Yes",
+  "q": "Did U.S. gold futures for April delivery rise by 1.7% to $5,167.90 per ounce on February 23, 2026?",
+  "a": "Yes",
+  "q": "Did the Federal Reserve immediately announce an interest rate cut on Friday, February 20, 2026, in response to the inflation data?",
+  "a": "No"
+}

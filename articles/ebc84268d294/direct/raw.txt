@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Mastercard announce a definitive agreement to acquire BVNK on March 17, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the total value of the acquisition of BVNK by Mastercard up to $1.8 billion?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the acquisition deal include $300 million in contingent payments?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the volume of digital currency payment use cases estimated to reach at least $350 billion in 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did BVNK build its infrastructure since its founding in 2021?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the acquisition of BVNK by Mastercard expected to close after the end of 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Senator John Cornyn publicly endorse the acquisition of BVNK by Mastercard on March 17, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is the transaction anticipated to close before the end of 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Mastercard acquire Visa to connect on-chain payments and fiat rails in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is the contingent payment portion of the BVNK acquisition valued at $1.5 billion?",
+    "a": "No"
+  }
+]

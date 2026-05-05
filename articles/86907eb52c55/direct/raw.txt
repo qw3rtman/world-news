@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump call on the people of Iran to rise up and bring about regime change following the death of Ayatollah Ali Khamenei in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ayatollah Ali Khamenei begin ruling Iran with sweeping powers in 1989?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Islamic Revolutionary Guard Corps (IRGC) have nearly 1 million personnel under its command in some capacity as of March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that the designated replacements in Ayatollah Ali Khamenei's succession plan were confirmed to be alive in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article claim that the Assembly of Experts was expected to follow convention and select a new leader from the clerical establishment immediately after Ayatollah Ali Khamenei's death in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article identify Allyson Horn as the ABC's China correspondent and former Middle East correspondent in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that Ayatollah Ali Khamenei's death marked the fourth leadership change in Iran since the establishment of the regime?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump claim in March 2026 that many of Iran's IRGC and security forces were looking for immunity from the United States?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article suggest that a military takeover by the Islamic Revolutionary Guard Corps (IRGC) was considered less plausible than regime continuance in the immediate aftermath of Ayatollah Ali Khamenei's death in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article state that the Islamic Revolutionary Guard Corps (IRGC) is composed of ground, air, and naval forces as well as internal security militias?",
+    "a": "Yes"
+  }
+]

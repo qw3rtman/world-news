@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did US crude oil prices jump 7.5% following the United States and Israel's strikes against Iran in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Brent crude oil spike to trade at around $85 a barrel in the immediate aftermath of the strikes in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did OPEC+ announce an increase in daily output by 206,000 barrels a day in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran successfully close the Strait of Hormuz to all vessel traffic in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the US Energy Information Administration classify the Strait of Hormuz as a critical oil chokepoint in its March 2026 reporting?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Saudi Arabia shut down all units at its Ras Tanura refinery permanently in March 2026 due to a drone strike?",
+    "a": "No"
+  },
+  {
+    "q": "Did US President Donald Trump suggest the military conflict with Iran could last for weeks in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Goldman Sachs estimate that oil prices would stay below $90 a barrel during the 2026 US-Israeli strikes on Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did defense stocks such as Northrop Grumman and Lockheed Martin rise in pre-market trading in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the American AutomobileAA report that national gas prices averaged $4.50 per gallon in early March 2026?",
+    "a": "No"
+  }
+]

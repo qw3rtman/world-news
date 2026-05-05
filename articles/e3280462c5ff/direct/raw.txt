@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Israeli Defence Minister Israel Katz authorize the IDF to advance and hold additional dominant terrain in Lebanon on Tuesday, March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Lebanese Prime Minister Nawaf Salam declare on Monday, March 2, 2026, that Hezbollah’s decision to launch an attack on Israel was illegal and a violation of Lebanon’s sovereignty?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Iranian-backed militia Hezbollah launch a volley of predawn rockets at the port of Haifa on Monday, March 2, 2026, in revenge for the assassination of Iran’s Supreme Leader Ayatollah Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Lebanese army immediately disarm Hezbollah following Prime Minister Nawaf Salam’s declaration on Monday, March 2, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the 2024 war between Israel and Hezbollah leave more than 4,000 Lebanese civilians dead?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Israeli military issue evacuation notices to residents of 53 villages in southern Lebanon on Monday, March 2, 2026, warning them to move at least one kilometre away from their homes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Iranian response to the U.S.-Israeli attacks on Iran include firing missiles at British military bases in Germany?",
+    "a": "No"
+  },
+  {
+    "q": "Did the joint U.S.-Israeli attacks on Iran begin on Saturday, February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did independent MP Mark Daou state that Hezbollah had always acted primarily on Iranian orders and put Iran’s interests ahead of Lebanon’s?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Reuters report on Tuesday, March 3, 2026, that the Lebanese army had reinforced at least seven positions on its side of the border ahead of the Israeli advance?",
+    "a": "No"
+  }
+]

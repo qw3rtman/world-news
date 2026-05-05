@@ -1,0 +1,22 @@
+{
+  "q": "Did President Donald Trump end the third week of the Iran war in March 2026?",
+  "a": "Yes",
+  "q": "Did global energy prices surge during the third week of the Iran war in March 2026?",
+  "a": "Yes",
+  "q": "Did the United States stand isolated from its allies during the third week of the Iran war in March 2026?",
+  "a": "Yes",
+  "q": "Did more troops prepare to deploy during the third week of the Iran war in March 2026?",
+  "a": "Yes",
+  "q": "Did President Donald Trump promise that the Iran war would be a 'short excursion' in March 2026?",
+  "a": "Yes",
+  "q": "Did global energy prices decline during the third week of the Iran war in March 2026?",
+  "a": "No",
+  "q": "Did the United States stand closely aligned with its allies during the third week of the Iran war in March 2026?",
+  "a": "No",
+  "q": "Did fewer troops prepare to deploy during the third week of the Iran war in March 2026?",
+  "a": "No",
+  "q": "Did President Donald Trump promise that the Iran war would be a 'long-term occupation' in March 2026?",
+  "a": "No",
+  "q": "Did President Donald Trump end the first week of the Iran war in March 2026?",
+  "a": "No"
+}

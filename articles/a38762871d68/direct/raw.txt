@@ -1,0 +1,40 @@
+{
+  "q": "Did a reporter on Iranian state TV publicly say \"death to Khamenei\" during a live broadcast in February 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Was the reporter on Iranian state TV fired for his on-air comment in February 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did the reporter on Iranian state TV intend to say \"death to America\" during his live broadcast in February 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Was the live broadcast by the Iranian state TV reporter in February 2026 covering the anniversary of the 1979 revolution?",
+  "a": "Yes"
+}
+{
+  "q": "Was former Supreme Leader Ayatollah Ali Khamenei killed in US and Israeli airstrikes on Saturday in March 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did the reporter on Iranian state TV intend to say \"death to Khamenei\" during his live broadcast in February 2026?",
+  "a": "No"
+}
+{
+  "q": "Was former Supreme Leader Ayatollah Ali Khamenei killed in a cyberattack on Iranian state infrastructure in March 2026?",
+  "a": "No"
+}
+{
+  "q": "Did the live broadcast by the Iranian state TV reporter in February 2026 cover the anniversary of the 1953 coup?",
+  "a": "No"
+}
+{
+  "q": "Was the reporter on Iranian state TV retained by the network for his on-air comment in February 2026?",
+  "a": "No"
+}
+{
+  "q": "Was former Supreme Leader Ayatollah Ali Khamenei killed in US and Israeli airstrikes on Saturday in February 2026?",
+  "a": "No"
+}

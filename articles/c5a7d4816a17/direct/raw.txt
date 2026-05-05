@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did global oil benchmarks surge to approximately $105 per barrel in March 2026 due to escalating tensions involving Iran, the United States, and Israel?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the Strait of Hormuz described as the narrow channel through which roughly one-fifth of the world’s oil supply passes every day?",
+    "a": "Yes"
+  },
+  {
+    "q": "Has the UAE Fuel Price Committee adjusted fuel prices in the United Arab Emirates on a monthly basis since 2015?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does Brent Crude represent oil extracted from fields in the North Sea and serve as the global reference point for energy markets?",
+    "a": "Yes"
+  },
+  {
+    "q": "Are petrol prices in Kuwait described as being more heavily subsidised compared to some of its Gulf neighbours to cushion residents from rapid market swings?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did analysts project that UAE petrol prices could potentially move toward the Dh3.60 to Dh4 per litre range if crude climbs toward $110–$120 per barrel in April 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that the United States and Israel are currently at war with Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article claim that Saudi Aramco alone determines fuel prices in Saudi Arabia without regard to global market trends?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article assert that Qatar, Oman, and Bahrain do not review petrol prices regularly or link them to international oil benchmarks?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article report that the Strait of Hormuz handles roughly one-half of the world’s oil supply every day?",
+    "a": "No"
+  }
+]

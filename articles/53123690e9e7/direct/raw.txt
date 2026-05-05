@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did an Iranian-made Shahed drone strike the British Royal Air Force base of Akrotiri in Cyprus on March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the drone strike on the Akrotiri base result in any casualties among personnel or local residents on March 2, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Cypriot officials attribute the launch of the drone to the Iran-backed militant group Hezbollah from Lebanon on March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the drone strike on the Akrotiri base occur during daylight hours on March 2, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump specifically request that the United Kingdom use the Akrotiri base for offensive strikes against Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did British Foreign Minister Yvette Cooper state that the United Kingdom was being targeted by Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Cyprus, as an EU member, invoke the EU's mutual defence clause to automatically declare war on Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Greek Defence Minister Nikos Dendias announce the deployment of two frigates and four F-16 fighter jets to defend Cyprus in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did two additional drones heading towards Akrotiri successfully bypass interception and strike the base on March 2, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Prime Minister Keir Starmer state that Britain had accepted a U.S. request to use its bases for defensive strikes in March 2026?",
+    "a": "Yes"
+  }
+]

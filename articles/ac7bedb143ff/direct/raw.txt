@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. General Dan Caine, chairman of the Joint Chiefs of Staff, outline the initial timeline of the U.S. military operation in Iran on March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump authorize Operation Epic Fury via the U.S. Central Command on February 27, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Cyber Command and U.S. Space Command initiate the first moves of the operation by disrupting Iran's communication and detection capabilities before the attack began?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the initial daylight strike on February 28, 2026, involve more than 100 aircraft launching in a single synchronized wave?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the February 28, 2026, strike rely on a trigger event conducted by the Israel Defense Forces, which was enabled by U.S. intelligence?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. B-2 bombers fly a 37-hour round-trip sortie from the continental United States during the initial phase of the operation?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. military operation in Iran result in zero service member fatalities by March 2, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the initial phase of the attack, as described on March 1-2, 2026, focus primarily on striking Iranian civilian infrastructure and residential areas?",
+    "a": "No"
+  },
+  {
+    "q": "Did the February 28, 2026, strike occur at 1:15 a.m. Iran time?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israel carry out the majority of the initial 1,000+ targets struck in the first 24 hours of the operation?",
+    "a": "No"
+  }
+]

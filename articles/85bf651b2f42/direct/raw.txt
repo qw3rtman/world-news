@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump state on Friday night, March 13, 2026, that the US had 'totally obliterated every military target' on Kharg Island?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran’s state-affiliated Fars News Agency report that significant oil infrastructure on Kharg Island was damaged during the US strikes on March 11, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Pentagon deploy a Marine Expeditionary Unit to the Middle East as a rapid response unit in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the US Department of State issue a Level 4 'do not travel' advisory for the entirety of Oman due to safety risks in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did a senior Iranian official tell CNN that Tehran was considering allowing some vessels to pass through the Strait of Hormuz if the cargo was traded in Chinese yuan in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Vice President JD Vance publicly reveal the specific advice he initially gave President Donald Trump regarding military options in Iran during a speech in North Carolina on March 13, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did global oil prices reach their highest level since July 2022 in March 2026 due to anxieties about the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli strikes in Southern Lebanon on March 13, 2026, kill nine family members, including five children, at a site targeted for Hezbollah infrastructure?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ukrainian President Volodymyr Zelensky state that the US sought to accelerate the next round of trilateral talks to end Russia’s invasion of Ukraine in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the US government offer a reward of up to $10 million for information on key Iranian leaders, including Supreme Leader Mojtaba Khamenei, in March 2026?",
+    "a": "Yes"
+  }
+]

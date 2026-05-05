@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump state in March 2026 that he is not interested in negotiating with Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump indicate in March 2026 that the Iran war would end once Tehran no longer has a functioning military?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state in March 2026 that he is eager to negotiate a peace deal with Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state in March 2026 that the Iran war would end once Iran's leadership is completely wiped out?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state in March 2026 that the Iran war would end once Iran's economy is completely collapsed?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state in March 2026 that he is not interested in negotiating with North Korea?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state in March 2026 that the Iran war would end once Tehran's nuclear facilities are destroyed?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state in March 2026 that he is not interested in negotiating with Russia?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state in March 2026 that the Iran war would end once Tehran's leadership is completely wiped out?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state in March 2026 that he is interested in negotiating with Iran?",
+    "a": "No"
+  }
+]

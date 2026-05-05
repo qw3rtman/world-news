@@ -1,0 +1,22 @@
+{
+  "q": "Did Iran fire at least six cluster missiles at Israel since the war began as of March 2026?",
+  "a": "Yes",
+  "q": "Did Israel's defense establishment identify a trend of cluster warhead missiles being fired by Iran at Israeli population centers?",
+  "a": "Yes",
+  "q": "Did officials believe the trend of cluster missile attacks would continue for the next several days in March 2026?",
+  "a": "Yes",
+  "q": "Did Iran fire at least six conventional high-explosive missiles at Israel since the war began as of March 2026?",
+  "a": "No",
+  "q": "Did Israel's defense establishment identify a trend of cluster warhead missiles being fired by Hezbollah at Israeli population centers?",
+  "a": "No",
+  "q": "Did officials believe the trend of cluster missile attacks would cease immediately in March 2026?",
+  "a": "No",
+  "q": "Did Iran fire at least six cluster missiles at Lebanon since the war began as of March 2026?",
+  "a": "No",
+  "q": "Did the United States defense establishment identify a trend of cluster warhead missiles being fired by Iran at Israeli population centers?",
+  "a": "No",
+  "q": "Did officials believe the trend of cluster missile attacks would continue for the next several months in March 2026?",
+  "a": "No",
+  "q": "Did Iran fire at least six cluster missiles at Syria since the war began as of March 2026?",
+  "a": "No"
+}

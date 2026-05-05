@@ -1,0 +1,22 @@
+{
+  "q": "Did the United States sink an Iranian warship in the events reported on March 4, 2026?",
+  "a": "Yes",
+  "q": "Did NATO shoot down an Iranian missile that was headed into Turkish airspace in March 2026?",
+  "a": "Yes",
+  "q": "Did explosions occur in Tehran as part of the events reported on March 4, 2026?",
+  "a": "Yes",
+  "q": "Did Mojtaba Khamenei emerge as a successor to his father, Ayatollah Ali Khamenei, following his assassination?",
+  "a": "Yes",
+  "q": "Did Ayatollah Ali Khamenei remain alive and in power during the events reported on March 4, 2026?",
+  "a": "No",
+  "q": "Did the United States shoot down an Iranian missile in March 2026?",
+  "a": "No",
+  "q": "Did NATO sink an Iranian warship in March 2026?",
+  "a": "No",
+  "q": "Did Mojtaba Khamenei assume the role of Iran’s supreme leader in February 2026?",
+  "a": "No",
+  "q": "Did explosions ring out in Isfahan in the events reported on March 4, 2026?",
+  "a": "No",
+  "q": "Did Ayatollah Ali Khamenei assassinate his son, Mojtaba Khamenei, in March 2026?",
+  "a": "No"
+}

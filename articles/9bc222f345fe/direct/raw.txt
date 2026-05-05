@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did South Korea’s Kospi index fall by 7.24% on Tuesday, March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Samsung Electronics shares plunge because its U.S. plant in Taylor, Texas began mass production earlier than scheduled in 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did SK Hynix shares fall by approximately 12% on Tuesday, March 3, 2026, in South Korea?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Japan’s Nikkei 225 index rise by 3.06% on Tuesday, March 3, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran report closing the Strait of Hormuz, contributing to a rise in U.S. crude futures on Tuesday, March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Australia’s S&P/ASX 200 index drop by 1.34% on Tuesday, March 3, 2026, after recording a marginal gain on Monday, March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Dow Jones Industrial Average fall by nearly 600 points at its lows on Monday, March 2, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did more than 14 million barrels of crude per day transit via the Strait of Hormuz on average last year, according to Kpler data?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Hong Kong’s Hang Seng index rise by 1.25% in its final hour of trading on Tuesday, March 3, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did South Korea’s defense stocks surge by over 20% on Tuesday, March 3, 2026, while other sectors fell?",
+    "a": "Yes"
+  }
+]

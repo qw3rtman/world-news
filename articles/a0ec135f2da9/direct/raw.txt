@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the price of silver stand at $82.46 per ounce at 8:45 a.m. Eastern Time on March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the price of silver $11.80 higher at 8:45 a.m. Eastern Time on March 3, 2026, compared to the same time the previous day?",
+    "a": "No"
+  },
+  {
+    "q": "Did the price of silver rise by more than $50 over the course of one year leading up to March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the price of gold $82.46 per ounce at 8:45 a.m. Eastern Time on March 3, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the price of silver decrease by $11.80 from the previous day at 8:45 a.m. Eastern Time on March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the price of silver $82.46 per ounce at 8:45 a.m. Pacific Time on March 3, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the price of silver one year ago lower than $32.46 per ounce?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the price of silver increase by $50 compared with one year ago as of March 3, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the specific price quote of $82.46 per ounce recorded at 8:45 a.m. Eastern Time on March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the price of silver $11.80 lower compared with one year ago as of March 3, 2026?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Brent crude oil futures settle at $98.96 a barrel on Monday, March 9, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. West Texas Intermediate (WTI) crude oil settle at its highest price since August 2022 on Monday, March 9, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Saudi Aramco begin cutting output at two of its oilfields in response to the expanding U.S.-Israeli war with Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's hardliners stage a show of force to proclaim loyalty to Supreme Leader Ayatollah Mojtaba Khamenei in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Strait of Hormuz remain virtually open and fully operational for global oil shipments during the week of March 9, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump commit to an immediate joint release of strategic petroleum reserves by G7 nations on Monday, March 9, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Pakistan's Prime Minister Shehbaz Sharif announce a two-week school closure to cut fuel use in response to the Iran war in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Hungary's Prime Minister Viktor Orban announce a cap on fuel prices and urge the European Union to suspend sanctions on Russian energy in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did data analytics firm Kpler estimate that oil exports from the Gulf would return to full capacity within one week if the Strait of Hormuz opened in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Senator Ted Cruz publicly endorse Ken Paxton in the 2026 Texas Republican U.S. Senate primary in March 2026?",
+    "a": "No"
+  }
+]

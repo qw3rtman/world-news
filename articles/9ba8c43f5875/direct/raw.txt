@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did White House Press Secretary Karoline Leavitt confirm on March 10, 2026, that the US Navy had not escorted a tanker through the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Energy Secretary Chris Wright post a claim on X on March 10, 2026, stating that the US Navy had successfully escorted an oil tanker through the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's Revolutionary Guards state on March 10, 2026, that no US Navy vessel had approached the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the White House confirm on March 10, 2026, that the US Navy had escorted an oil tanker through the Strait of Hormuz following Energy Secretary Chris Wright's post?",
+    "a": "No"
+  },
+  {
+    "q": "Did the UK Maritime Trade Organisation report that at least 10 oil tankers were struck or targeted in the Strait of Hormuz between March 1 and March 10, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the war against Iran begin on March 1, 2026, according to the article?",
+    "a": "No"
+  },
+  {
+    "q": "Did crude oil prices jump 30 percent to nearly $120 per barrel on Monday, March 9, 2026, due to supply disruptions?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Energy Secretary Chris Wright's deleted post on March 10, 2026, claim that the US Navy had escorted a vessel to ensure oil exports from the Gulf remained ongoing despite Tehran's vow to block them?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Department of Energy state on March 10, 2026, that the video clip deleted from Secretary Wright's X account was removed because it was incorrectly captioned by Department staff?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the US Navy escort oil tankers through the Strait of Hormuz on multiple occasions between February 28 and March 10, 2026, prior to the controversy?",
+    "a": "No"
+  }
+]

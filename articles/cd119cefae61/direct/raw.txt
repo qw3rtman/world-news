@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Warner Bros Discovery agree to be acquired by Paramount Skydance in a deal valued at $110 billion in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Netflix withdraw from the bidding war for Warner Bros Discovery in February 2026 after declining to match Paramount's latest offer?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the equity value of the Paramount-Warner Bros Discovery merger expected to be $110 billion?",
+    "a": "No"
+  },
+  {
+    "q": "Will Warner Bros Discovery shareholders vote on the proposed merger in early spring of 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did California regulators indicate they would conduct a vigorous review of the Paramount-Warner Bros Discovery deal in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the $110 billion acquisition expected to be funded entirely by debt commitments from Bank of America, Citigroup, and Apollo?",
+    "a": "No"
+  },
+  {
+    "q": "Did Paramount pay a $2.80 billion termination fee to Netflix in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the combined company expected to produce a minimum of 50 theatrical films annually?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Writers Guild of America issue a statement in February 2026 calling for the merger to be blocked?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is European Union antitrust approval expected to be a significant hurdle for the Paramount-Warner Bros Discovery deal?",
+    "a": "No"
+  }
+]

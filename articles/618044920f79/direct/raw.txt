@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the United States Department of Justice withhold documents from the Jeffrey Epstein files that contained allegations of sexual assault of a minor by U.S. President Donald Trump, according to an investigation by NPR in 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did an independent CNN review back up the NPR investigation regarding the withholding of Jeffrey Epstein files in 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Epstein Files Transparency Act mandate that all documents relating to Jeffrey Epstein be made public by December 19, 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Were the FBI interviews in which a woman accused Jeffrey Epstein of sexual assault included in the millions of documents released to the public?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did independent journalist Roger Sollenberger first report the contents of the internal DOJ presentation on February 15, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Senator Ted Cruz publicly endorse the withholding of the FBI interviews in the 2026 Jeffrey Epstein files controversy?",
+    "a": "No"
+  },
+  {
+    "q": "Did the internal DOJ presentation dated August 2025 place the alleged assault by Donald Trump as having taken place between 1983 and 1985?",
+    "a": "No"
+  },
+  {
+    "q": "Did the government witness whose testimony was instrumental in convicting Ghislaine Maxwell make the second accusation against Donald Trump in 1984?",
+    "a": "No"
+  },
+  {
+    "q": "Did Rep. Robert Garcia, the ranking member of the U.S. House Oversight Committee, state in 2026 that Democrats confirmed the DOJ appeared to have illegally withheld FBI interviews?",
+    "a": "No"
+  },
+  {
+    "q": "Did a White House spokesperson state in 2026 that President Donald Trump had been totally exonerated on anything relating to Jeffrey Epstein?",
+    "a": "No"
+  }
+]

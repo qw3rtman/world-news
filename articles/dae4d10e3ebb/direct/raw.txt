@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump state in early March 2026 that the U.S. had the capability to continue the assault on Iran for longer than the initially projected four to five weeks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Defense Secretary Pete Hegseth explicitly rule out the possibility of U.S. ground troops entering Iran during the 2026 conflict?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian security chief Ali Larijani post on X in March 2026 that Iran had prepared itself for a long war?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States and Israel strike fewer than 500 targets in Iran between the start of the airstrikes in Saturday March 2026 and Monday March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Lebanese government condemn Hezbollah’s decision to enter the U.S.-Israel war against Iran in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the fragile truce between Hezbollah and Israel, which the United States brokered, end in December 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did Lebanese Prime Minister Nawaf Salam ban Hezbollah’s military activities and order security agencies to detain militants behind the attacks in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the British government launch a public consultation in March 2026 that included proposals for overnight curfews for users under age 16?",
+    "a": "No"
+  },
+  {
+    "q": "Did Pakistani forces conduct airstrikes on Bagram Air Base in Afghanistan in early March 2026, resulting in flattened buildings according to satellite imagery?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Taliban regime in Afghanistan accept the presence of foreign troops on Afghan soil in early March 2026?",
+    "a": "No"
+  }
+]

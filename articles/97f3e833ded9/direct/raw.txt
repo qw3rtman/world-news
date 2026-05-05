@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Ayatollah Ali Khamenei die following joint U.S.-Israeli airstrikes in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the Assembly of Experts an 88-member clerical body responsible for appointing Iran's supreme leader?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the Guardian Council vet candidates for the Assembly of Experts before they can run?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the interim leadership council consist of President Masoud Pezeshkian, Judiciary Chief Gholam-Hossein Mohseni-Ejei, and Ayatollah Alireza Arafi?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does Iran’s constitution set a strict deadline for the Assembly of Experts to appoint a new supreme leader?",
+    "a": "No"
+  },
+  {
+    "q": "Is Hassan Khomeini the grandson of Iran’s late leader Ayatollah Ruhollah Khomeini?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Michael McFaul argue that air campaigns rarely lead to regime overthrow?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Gholam-Hossein Mohseni-Ejei currently serving as the Minister of Intelligence in Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Is the decision to select a new supreme leader by the Assembly of Experts determined by a two-thirds majority vote?",
+    "a": "No"
+  },
+  {
+    "q": "Is Alireza Arafi a member of the Guardian Council and the Assembly of Experts?",
+    "a": "Yes"
+  }
+]

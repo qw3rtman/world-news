@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Toyota raise its tender offer price for Toyota Industries to 20,600 yen per share in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Elliott Investment Management agree to tender its shares in Toyota Industries after the price increase in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the $30 billion valuation of the Toyota Industries deal in March 2026 nearly 10% higher than Toyota's previous bid?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Toyota originally offer 16,300 yen per share for Toyota Industries in June 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Paul Singer's Elliott Investment Management fund reject Toyota's initial and January offers as too low in the 2025-2026 takeover battle?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Senator Ted Cruz endorse the $30 billion Toyota Industries acquisition in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Tokyo Stock Exchange approve the transaction without any complaints from overseas investors regarding governance in the summer of 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did Travis Lundy of Quiddity Advisors describe the higher offer price as a 'disappointing outcome' for minority shareholders in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Toyota Industries spin off its automobile division as Toyota Motor in 1950?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Asian Corporate Governance Association raise concerns about inadequate financial disclosure in a letter to Toyota in August 2025?",
+    "a": "No"
+  }
+]

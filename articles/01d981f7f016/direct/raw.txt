@@ -1,0 +1,22 @@
+{
+  "q": "Did gold prices exceed $5,000 per ounce in February 2026?",
+  "a": "Yes",
+  "q": "Is the article titled 'Gold Above $5,000 Looks Like the New Normal'?",
+  "a": "Yes",
+  "q": "Was the article published on February 27, 2026?",
+  "a": "Yes",
+  "q": "Is Angela Cullen the author of the article?",
+  "a": "Yes",
+  "q": "Is Bloomberg the publisher of the article?",
+  "a": "Yes",
+  "q": "Does the article mention minipigs as Europe’s answer to building biotech muscle?",
+  "a": "Yes",
+  "q": "Does the article state that humanoids are coming to an assembly line?",
+  "a": "Yes",
+  "q": "Does the article claim that gold prices have fallen below $4,000 per ounce?",
+  "a": "No",
+  "q": "Does the article identify Reuters as the publisher?",
+  "a": "No",
+  "q": "Does the article state that the publication date was March 1, 2026?",
+  "a": "No"
+}

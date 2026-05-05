@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the U.S. and Israel conduct attacks against Iran as described in the article published on March 1, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran strike Israel and the United Arab Emirates in response to the U.S.-Israeli attacks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Iranian strikes on Israel and the United Arab Emirates result in the death of several people?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the situation described in the article characterized as Iran's biggest test in five decades?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Iran currently attempting to rebuild its leadership structure following the attacks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran strike China and Japan in retaliation for the U.S.-Israeli attacks?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Iranian strikes result in zero casualties among the targeted populations?",
+    "a": "No"
+  },
+  {
+    "q": "Is the crisis described in the article characterized as Iran's biggest test in fifty years?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United Kingdom and France conduct the attacks against Iran described in the article?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran successfully rebuild its entire leadership structure before striking Israel and the United Arab Emirates?",
+    "a": "No"
+  }
+]

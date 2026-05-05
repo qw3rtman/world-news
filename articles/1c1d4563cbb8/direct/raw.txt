@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump post a video statement on Truth Social announcing major combat operations in Iran on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump claim that Operation Midnight Hammer obliterated Iran's nuclear program at Fordo, Natanz, and Isfahan in June 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump state that Hamas, an Iranian proxy, launched the October 7 attacks on Israel that killed more than 1,000 people?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump offer complete immunity to the Islamic Revolutionary Guard if they laid down their weapons during the February 2026 conflict?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump claim that Iran was directly responsible for the 2000 attack on the USS Cole?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump state that the U.S. military began major combat operations in Iraq in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump claim that the 1983 marine barracks bombing in Beirut killed 441 American military personnel?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump state that the Iranian regime held American hostages for 144 days during the 1979 embassy takeover?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump claim that Operation Midnight Hammer took place in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump state that the October 7 attacks on Israel resulted in the hostage-taking of 120 American citizens?",
+    "a": "No"
+  }
+]

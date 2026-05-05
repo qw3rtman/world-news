@@ -1,0 +1,40 @@
+{
+  "q": "Did the Justice Department withhold FBI interviews and notes related to a woman who accused President Donald Trump of sexual abuse when she was a minor?",
+  "a": "Yes"
+}
+{
+  "q": "Did House Oversight Committee ranking member Rep. Robert Garcia, D-Calif., state that Democrats confirmed the DOJ appeared to have illegally withheld FBI interviews with the survivor who accused President Trump?",
+  "a": "Yes"
+}
+{
+  "q": "Did the Justice Department explicitly state that documents were withheld on the basis of embarrassment, reputational harm, or political sensitivity to government officials?",
+  "a": "No"
+}
+{
+  "q": "Did the first interview of the woman who directly named President Trump in her abuse allegation, conducted on July 24, 2019, appear in the public database?",
+  "a": "Yes"
+}
+{
+  "q": "Did the first interview of the woman who directly named President Trump in her abuse allegation, conducted on July 24, 2019, mention President Trump?",
+  "a": "No"
+}
+{
+  "q": "Did Attorney General Pam Bondi and Deputy Attorney General Todd Blanche sign a letter on February 14 insisting that no records were withheld on the basis of embarrassment or political sensitivity?",
+  "a": "Yes"
+}
+{
+  "q": "Did the second woman, who met Epstein and Trump at Mar-a-Lago, voluntarily dismiss her claims against Epstein's estate in December 2021?",
+  "a": "No"
+}
+{
+  "q": "Did the second woman's interview detailing her meeting with President Trump at Mar-a-Lago get removed from the DOJ's public files and subsequently republished on February 19?",
+  "a": "Yes"
+}
+{
+  "q": "Did the second woman's interview detailing her meeting with President Trump at Mar-a-Lago get removed from the DOJ's public files and never republished?",
+  "a": "No"
+}
+{
+  "q": "Did Robert Glassman, attorney for the woman who testified against Ghislaine Maxwell, criticize the Justice Department for releasing the names of courageous victims?",
+  "a": "Yes"
+}

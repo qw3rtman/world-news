@@ -1,0 +1,40 @@
+{
+  "q": "Did global energy prices soar on Thursday, March 19, 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did Iran attack two oil refineries in Kuwait on March 19, 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did Iran attack a key natural gas facility in Qatar on March 19, 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Is the attacked natural gas facility in Qatar capable of supplying one-fifth of the world’s liquified natural gas?",
+  "a": "Yes"
+}
+{
+  "q": "Did oil prices approach $115 per barrel as of March 19, 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did Iran attack two oil refineries in Saudi Arabia on March 19, 2026?",
+  "a": "No"
+}
+{
+  "q": "Did Iran attack a key natural gas facility in the United Arab Emirates on March 19, 2026?",
+  "a": "No"
+}
+{
+  "q": "Is the attacked natural gas facility in Qatar capable of supplying one-half of the world’s liquified natural gas?",
+  "a": "No"
+}
+{
+  "q": "Did oil prices approach $100 per barrel as of March 19, 2026?",
+  "a": "No"
+}
+{
+  "q": "Did global energy prices fall on Thursday, March 19, 2026?",
+  "a": "No"
+}

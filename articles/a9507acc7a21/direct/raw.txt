@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump announce that joint U.S.-Israel strikes on Iran killed Supreme Leader Ayatollah Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Venezuelan leader Nicolas Maduro captured by the U.S. in December 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Is the scheduled date for U.S. President Donald Trump's visit to Beijing from March 31 to April 2?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did China's Foreign Ministry explicitly demand the immediate removal of U.S. President Donald Trump from office?",
+    "a": "No"
+  },
+  {
+    "q": "Did Polymarket show a drop in the probability of U.S. President Donald Trump visiting China by March 31 to 42% as of late Monday morning?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is this trip scheduled to be the first visit by a sitting U.S. president to China since 2012?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump tell the British newspaper the Daily Mail that U.S. strikes on Iran could last four weeks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Chinese state media highlight U.S. President Donald Trump's statement about the four-week duration of the Iran strikes on Sunday?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Secretary of State Marco Rubio speak with Chinese diplomat Wang Yi at the Munich Security Conference in mid-February?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Chinese columnist Niutanqing describe the Iran conflict as less intense than the conflict in Ukraine?",
+    "a": "No"
+  }
+]

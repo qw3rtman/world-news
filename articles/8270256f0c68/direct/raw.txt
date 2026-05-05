@@ -1,0 +1,22 @@
+{
+  "q": "Did Amazon acquire the Swiss robotics company Rivr in March 2026?",
+  "a": "Yes",
+  "q": "Was the acquisition of Rivr publicly announced by Amazon before the notice was sent to third-party delivery contractors?",
+  "a": "No",
+  "q": "Does Rivr's technology include a four-legged robot on wheels designed for doorstep delivery?",
+  "a": "Yes",
+  "q": "Did Amazon acquire Kiva Systems for $775 million in 2022?",
+  "a": "No",
+  "q": "Did Bezos Expeditions participate in Rivr's $22 million seed round in March 2025?",
+  "a": "Yes",
+  "q": "Is Rivr formerly known as Amazon Robotics?",
+  "a": "No",
+  "q": "Did Amazon deploy more than 1 million robots across its operations network by October 2025?",
+  "a": "Yes",
+  "q": "Does Rivr's technology aim to replace delivery associates entirely rather than help them carry packages?",
+  "a": "No",
+  "q": "Was the $1 billion Industrial Innovation Fund launched in 2022 to support warehouse and logistics technologies?",
+  "a": "Yes",
+  "q": "Was The Information the first to report on the acquisition of Rivr by Amazon?",
+  "a": "No"
+}

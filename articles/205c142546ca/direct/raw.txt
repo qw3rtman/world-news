@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Gilead Sciences Inc. agree to acquire Arcellx Inc. in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the maximum total acquisition price for Arcellx Inc. by Gilead Sciences Inc. $7.8 billion?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Gilead Sciences Inc. pay $115 per share in cash for Arcellx Inc. shares?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the contingent payment to Arcellx Inc. shareholders dependent on future regulatory approvals?",
+    "a": "No"
+  },
+  {
+    "q": "Did Gilead Sciences Inc. own 50% of Arcellx Inc.’s outstanding stock prior to the agreement?",
+    "a": "No"
+  },
+  {
+    "q": "Is the contingent payment amount set at $5 per share?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the acquisition price of $115 per share approximately half of Arcellx Inc.’s Friday closing price?",
+    "a": "No"
+  },
+  {
+    "q": "Is Arcellx Inc. described as a cancer-focused biotech company?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Gilead Sciences Inc. announce the agreement on Tuesday, February 24, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is the acquisition intended to boost Gilead Sciences Inc.’s drug pipeline?",
+    "a": "Yes"
+  }
+]

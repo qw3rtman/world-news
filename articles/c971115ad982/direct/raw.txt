@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Mojtaba Khamenei attend the memorial service for his father, Ayatollah Ali Khamenei, in Tehran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Islamic Revolutionary Guard Corps (IRGC) and the Basij volunteer paramilitary force back Mojtaba Khamenei for the role of Iran's next supreme leader in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the 88-member Assembly of Experts decide on Iran's next supreme leader in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Mojtaba Khamenei fight in the Iran-Iraq war with the Habib ibn Mazahir Battalion at the age of 17?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump publicly name a specific Iranian official as the preferred successor to Ayatollah Ali Khamenei in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Mojtaba Khamenei hold any formal government office prior to the potential succession in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Mojtaba Khamenei receive the title of ayatollah in 2022?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the senior Ayatollah Ali Khamenei express support for hereditary succession by his son Mojtaba in a 2024 Reuters interview?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli Defense Minister Israel Katz warn that Iran's next supreme leader would be a target for elimination in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Hassan Khomeini, a moderate cleric and grandson of Ayatollah Ruhollah Khomeini, serve as Iran's supreme leader immediately following the 1979 revolution?",
+    "a": "No"
+  }
+]

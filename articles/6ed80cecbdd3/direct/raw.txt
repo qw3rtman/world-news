@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did debris from an intercepted drone damage the Abu Dhabi complex housing the Israeli embassy on March 1, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the drone debris falling on the Etihad Towers complex in Abu Dhabi cause minor injuries to a woman and her child on March 1, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. and Israel launch strikes on Iran on Sunday, March 1, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Oman experience retaliatory strikes for the first time on March 1, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did DP World permanently close Jebel Ali Port in Dubai on March 1, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did loud blasts from retaliatory strikes on March 1, 2026, reverberate across Dubai and the Qatari capital Doha?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Burj Al Arab hotel in Dubai suffer damage from debris on March 1, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Qatar's interior ministry report a large-scale fire in a residential zone in Doha on March 1, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the commercial port of Duqm in Oman suffer damage from two drones on March 1, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Jebel Ali Port in Dubai account for 10% of Dubai's gross domestic product on March 1, 2026?",
+    "a": "No"
+  }
+]

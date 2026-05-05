@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Brent crude oil prices jump 23 percent to US$114.14 a barrel in London on Monday, March 9, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran close the Strait of Hormuz in early March 2026, leading traders to price in prolonged supply disruption?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Goldman Sachs raise its average price forecast for West Texas Intermediate crude to US$71 a barrel for the second quarter of 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Deutsche Bank predict a worst-case scenario where oil prices could surge as high as US$200 a barrel in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did West Texas Intermediate (WTI) crude prices rise 23 percent to US$114.11 a barrel in London on Monday, March 9, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Goldman Sachs lower its average price forecast for Brent crude to US$66 a barrel for the second quarter of 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did oil prices last trade at current levels in 2008 following the global financial crisis, rather than since 2022?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Strait of Hormuz handle about one-half of global crude flows, rather than one-fifth, according to the article?",
+    "a": "No"
+  },
+  {
+    "q": "Did Goldman Sachs warn that risks to oil prices remained tilted to the downside in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the surge in oil prices in March 2026 inject volatility into risk assets due to easing military tensions in the Middle East?",
+    "a": "No"
+  }
+]

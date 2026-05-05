@@ -1,0 +1,22 @@
+{
+  "q": "Did Iran appear to set ablaze two oil tankers in Iraqi waters in March 2026?",
+  "a": "Yes",
+  "q": "Did Iran warn that oil prices could reach $200 a barrel in March 2026?",
+  "a": "Yes",
+  "q": "Did President Donald Trump claim that the U.S. had already won the war in March 2026?",
+  "a": "Yes",
+  "q": "Did the Iranian strikes target oil and transport facilities in the Middle East in March 2026?",
+  "a": "Yes",
+  "q": "Did Iran set ablaze two tankers in Iranian waters in March 2026?",
+  "a": "No",
+  "q": "Did President Donald Trump claim that the U.S. had lost the war in March 2026?",
+  "a": "No",
+  "q": "Did Iran warn that oil prices would drop to $20 a barrel in March 2026?",
+  "a": "No",
+  "q": "Did the Iranian strikes target oil and transport facilities in the United States in March 2026?",
+  "a": "No",
+  "q": "Did Iran appear to set ablaze two fighter jets in Iraqi waters in March 2026?",
+  "a": "No",
+  "q": "Did President Donald Trump claim that the U.S. had already won the war in February 2026?",
+  "a": "No"
+}

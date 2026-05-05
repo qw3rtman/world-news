@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the United States and Israel conduct joint attacks on Iran in March 2026 that contributed to the disruption of shipping in the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Revolutionary Guard Corps of Iran claim in March 2026 that any vessel attempting to pass through the Strait of Hormuz would be set ablaze?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Strait of Hormuz carry one-fifth of the oil consumed globally as well as large quantities of gas prior to the shutdown?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did at least five tankers get damaged and two personnel killed in the Strait of Hormuz during the March 2026 incidents?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did oil prices drop below $70 per barrel in March 2026 following the joint US and Israeli attacks on Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did maritime intelligence analyst Michelle Bockmann of Windward report that shipping traffic through the Strait of Hormuz was down at least 80 percent in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did vessel tracking service Kpler show that limited traffic continued in the Strait of Hormuz in March 2026 primarily consisting of ships flying the flag of the United Kingdom?",
+    "a": "No"
+  },
+  {
+    "q": "Did Qatar pre-emptively pause LNG production in March 2026 due to pressure on energy infrastructure in the Gulf?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States Energy Information Administration state in March 2026 that China, India, Japan, and South Korea accounted for nearly 70 percent of crude oil shipments through the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did supply chain executive David Warrick state in March 2026 that rerouting ships around the Cape of Good Hope near the north of Africa was adding thousands of dollars to costs?",
+    "a": "No"
+  }
+]

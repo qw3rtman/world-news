@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iranian missiles target oil infrastructure in Gulf states following a joint US-Israeli attack on Iran in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's foreign minister state in a letter to the United Nations Security Council that Iran would exercise its right of self-defense in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did an Iranian missile strike the headquarters of the US Navy in Qatar in early March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Kuwait report that Iranian strikes hit Ali Al-Salem air base, which hosts members of the US air force, in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Arab Emirates allow the US to use its territory to launch airstrikes against Iran before the conflict began in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Hasan Alhasan, an expert at the International Institute for Strategic Studies, state that Gulf states are not as heavily defended as Israel in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Andreas Krieg, a senior lecturer at King's College London, predict that Gulf states would likely launch offensive strikes against Iran in early March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran fire 137 missiles at the UAE on the first day of fighting in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Oman and Qatar cease all diplomatic negotiations with Iran in early March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the majority of Gulf states have official diplomatic relations with Israel prior to the conflict in March 2026?",
+    "a": "No"
+  }
+]

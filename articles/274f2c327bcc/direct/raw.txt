@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the United States and Iran hold indirect nuclear talks in Geneva in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump withdraw the United States from the Iran nuclear agreement on May 8, 2018?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran launch its first direct attack on Israel in April 2024?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israel assassinate Hamas leader Ismail Haniyeh in Gaza in July 2024?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United States intervene in the Iran-Israel war by attacking Iranian nuclear sites on June 22, 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.N. Security Council approve the reimposition of snapback sanctions on Iran on September 28, 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran block the internet and international telephone calls in January 2026 following nationwide protests?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump cancel meetings with Iran on January 13, 2026, after the protests began?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran shoot down a Ukrainian passenger plane in Baghdad in January 2020?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran and the U.S. hold their first round of direct talks in Oman in April 2025?",
+    "a": "No"
+  }
+]

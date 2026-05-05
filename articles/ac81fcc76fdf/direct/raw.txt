@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Ukrainian President Volodymyr Zelenskyy state in February 2026 that Ukrainian forces had regained 300 square kilometres of territory in southern Ukraine?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ukrainian Commander in Chief Oleksandr Syrskii attribute the southern territorial gains to advances made since the end of January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Institute for the Study of War attribute Kyiv’s recent successes to Ukraine persuading Starlink to disconnect illegal Russian terminals?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Russia seize more than 5 percent of Ukraine’s territory over the past three years according to European leaders' public notes?",
+    "a": "No"
+  },
+  {
+    "q": "Did Russian forces capture the city of Pokrovsk in Ukraine’s Donetsk region in July 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ukraine down all but 26 drones and 31 missiles during the Russian attack launched on Sunday, two days before the war's fourth anniversary?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ukrainian-made FP-5 “Flamingo” missiles strike the Votkinsk missile factory in Russia’s Udmurtia on February 21, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the FP-5 “Flamingo” missile carry a warhead weighing 500kg (1,102 pounds) during its first confirmed successful use against a high-value target?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ukraine strike the Kaleykino Oil Pumping Station in Tatarstan on Monday, 2026, as part of a campaign to damage Russian fuel supply chains?",
+    "a": "Yes"
+  },
+  {
+    "q": "Has the European Union sent 195 billion euros ($230bn) to Ukraine to date, according to statements made on the war's fourth anniversary?",
+    "a": "Yes"
+  }
+]

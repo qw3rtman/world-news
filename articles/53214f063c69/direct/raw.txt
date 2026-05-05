@@ -1,0 +1,22 @@
+{
+  "q": "Did Meta spend millions on an effort to make in-house AI chips in March 2026?",
+  "a": "Yes",
+  "q": "Did Nvidia invest $2 billion in a deal with Amsterdam-based Nebius in March 2026?",
+  "a": "Yes",
+  "q": "Is the article titled 'Meta Spends Millions on Effort to Make In-House AI Chips' published by Bloomberg?",
+  "a": "Yes",
+  "q": "Did the deal between Nvidia and Nebius aim to develop AI data centers with 5 gigawatts of power by the end of 2030?",
+  "a": "Yes",
+  "q": "Was the article published on March 12, 2026?",
+  "a": "Yes",
+  "q": "Did Nvidia invest $2 billion in a deal with Meta to develop in-house AI chips in March 2026?",
+  "a": "No",
+  "q": "Did the deal between Nvidia and Nebius aim to develop AI data centers with 10 gigawatts of power by the end of 2030?",
+  "a": "No",
+  "q": "Was the article written by John Smith in March 2026?",
+  "a": "No",
+  "q": "Did Nvidia invest $2 billion in a deal with Amsterdam-based Nebius to develop AI data centers by the end of 2025?",
+  "a": "No",
+  "q": "Is the article available to all readers without a subscription in March 2026?",
+  "a": "No"
+}

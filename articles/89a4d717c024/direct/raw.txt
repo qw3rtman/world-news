@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu state in an interview on Fox News' \"Hannity\" program in March 2026 that the war against Iran would not take years?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump initially project that the war against Iran would last four to five weeks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian Supreme Leader Ali Khamenei survive the initial U.S. and Israeli air attacks on Tehran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did a Reuters/Ipsos poll conducted over the weekend of March 2, 2026, show that a majority of Americans approved of U.S. strikes on Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu express hope for a lasting path to peace between Israel and Saudi Arabia during the conflict in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump explicitly state on Monday, March 2, 2026, that a primary goal of the war was to topple the Iranian government?",
+    "a": "No"
+  },
+  {
+    "q": "Did the initial U.S. and Israeli air war against Iran begin with attacks on Tehran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu claim that Israel is the only Middle Eastern country possessing nuclear weapons?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian Supreme Leader Ali Khamenei order retaliatory missile attacks against Arab nations with U.S. bases after the initial strikes in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump shift his stated aims for the war from toppling the Iranian government to preventing Iran from developing a nuclear weapon by March 2, 2026?",
+    "a": "Yes"
+  }
+]

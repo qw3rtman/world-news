@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump request to postpone his meeting with Chinese leader Xi Jinping by approximately one month in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the proposed meeting between U.S. President Donald Trump and Chinese leader Xi Jinping scheduled to take place in Beijing in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state he wanted to remain in Washington, D.C., during the ongoing U.S.-Israeli war with Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump request to postpone the summit with Chinese leader Xi Jinping by one week in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the proposed meeting between U.S. President Donald Trump and Chinese leader Xi Jinping scheduled to take place in Washington, D.C., in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state he wanted to remain in Beijing during the ongoing U.S.-Israeli war with Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump request to postpone the summit with Russian President Vladimir Putin in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump request to postpone the meeting with Chinese leader Xi Jinping by six months in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the conflict involving the United States, Israel, and Iran described as ongoing in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump request to postpone the summit with Chinese leader Xi Jinping to avoid attending the 2026 U.S. Presidential Inauguration in March 2026?",
+    "a": "No"
+  }
+]

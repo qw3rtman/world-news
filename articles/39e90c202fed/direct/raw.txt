@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the United States and Israel jointly kill Ayatollah Ali Khamenei in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Masoud Pezeshkian named to the three-person leadership council formed to hold power in Iran after the death of Ayatollah Ali Khamenei in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Islamic Revolutionary Guard Corps commander Maj. Gen. Mohammad Pakpour survive the US-Israeli strikes in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is the Assembly of Experts, a body of 88 senior clerics, responsible for selecting the new supreme leader of Iran after the death of Ayatollah Ali Khamenei in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mojtaba Khamenei, the second son of the late Ayatollah Ali Khamenei, become the official successor to the supreme leadership in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did US President Donald Trump urge Iranians to overthrow their government in a video posted to Truth Social in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Reza Pahlavi, the eldest son of the deposed shah, have the backing of Israel as a potential next leader of Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is the Guardian Council, a body of 12 jurists, responsible for vetting the members of the Assembly of Experts in Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the IRGC cease to exist as a military force following the US-Israeli strikes in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Basij, a volunteer paramilitary force, operate like a street-level police force enforcing Islamic morality in Iran in March 2026?",
+    "a": "Yes"
+  }
+]

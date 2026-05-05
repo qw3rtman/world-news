@@ -1,0 +1,22 @@
+{
+  "q": "Did silver prices experience increased volatility following a significant rally in March 2026?",
+  "a": "Yes",
+  "q": "Was the U.S.-Iran conflict cited as a factor contributing to the volatility in precious-metals markets in March 2026?",
+  "a": "Yes",
+  "q": "Did rising oil prices contribute to the scrambling of precious-metals markets in March 2026?",
+  "a": "Yes",
+  "q": "Were shifting Federal Reserve expectations identified as a driver of volatility in silver prices in March 2026?",
+  "a": "Yes",
+  "q": "Did investors struggle to parse the influence of safe-haven flows tied to the U.S.-Iran conflict in March 2026?",
+  "a": "Yes",
+  "q": "Did the volatility in precious metals prices occur exclusively during the week of March 4, 2026, and not over the preceding month?",
+  "a": "No",
+  "q": "Were gold prices the primary focus of the volatility described in the article regarding the U.S.-Iran conflict in March 2026?",
+  "a": "No",
+  "q": "Did the surge in oil prices lead to a decrease in inflation pressures according to the article in March 2026?",
+  "a": "No",
+  "q": "Did the article state that the U.S.-Iran conflict had no impact on safe-haven flows in March 2026?",
+  "a": "No",
+  "q": "Did the article attribute the market scrambling solely to the U.S.-Iran conflict, excluding oil prices and Federal Reserve expectations in March 2026?",
+  "a": "No"
+}

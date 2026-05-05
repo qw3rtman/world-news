@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Mojtaba Khamenei succeed his father Ali Khamenei as the supreme leader of Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Assembly of Experts appoint Mojtaba Khamenei as the supreme leader by a unanimous vote?",
+    "a": "No"
+  },
+  {
+    "q": "Did Pope Leo warn of a climate of hatred and fear in the Middle East during the week of March 9, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. military report that eight Americans had died from wounds sustained during Iran's initial counter-attack by March 9, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. crude futures rise more than 20% in early trade on Monday, March 9, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Strait of Hormuz remain fully open for global oil shipments during the week of March 9, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state that Washington should have a say in the selection of Iran's new supreme leader in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israel report that its soldiers were killed in northern Lebanon during the week of March 9, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Japan instruct a national oil reserve storage site to prepare for a possible release of crude in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the G7 finance ministers unanimously agree to release oil from emergency reserves on Monday, March 9, 2026?",
+    "a": "No"
+  }
+]

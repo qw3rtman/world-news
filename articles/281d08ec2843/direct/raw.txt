@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Japan's headline inflation rate fall to 1.5% in January 2026, marking the first time it dropped below the Bank of Japan's 2% target since March 2022?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Japan's core inflation rate, which excludes fresh food prices, rise to 2.4% in January 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Bank of Japan upgrade its inflation forecasts for fiscal 2026 in January 2026, projecting core inflation at 1.9%?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Prime Minister Sanae Takaichi pledge to suspend the 8% food tax for five years following her election victory in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the ruling Liberal Democratic Party win 316 seats in the February 8, 2026, Lower House election, marking its strongest showing since the end of World War II?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Japan's economy contract by 0.5% in the fourth quarter of 2025, pushing the country into a technical recession?",
+    "a": "No"
+  },
+  {
+    "q": "Did Norihiro Yamaguchi of Oxford Economics expect the Bank of Japan to raise interest rates to 1% at its June 2026 meeting?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Japan's goods inflation rate hold steady at 2.7% in January 2026, matching the level seen in December 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Bank of Japan project that consumer prices would fall below 2% in the first half of 2026 due to stabilizing food prices and government cost-easing efforts?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did rice inflation accelerate to 35.0% in January 2026 after slowing for seven consecutive months prior?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the management buyout of Gunvor Group Ltd, reported in February 2026, value the trading group at approximately $5 billion?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Torbjorn Tornqvist provide a loan of more than $4 billion to Gunvor employees to finance the buyout?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Torbjorn Tornqvist retaining his 86% stake in Gunvor Group Ltd following the buyout announced in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. Treasury block Torbjorn Tornqvist's bid to buy assets of Russia's Lukoil in December 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Will Gunvor employees repay the vendor loan over a period of 5 years from annual dividends?",
+    "a": "No"
+  },
+  {
+    "q": "Is Gary Pedersen the CEO of Gunvor Group Ltd?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Gunvor disclose its equity value of $6.5 billion in its 2025 annual report?",
+    "a": "No"
+  },
+  {
+    "q": "Did the $5 billion valuation exclude assets related to Torbjorn Tornqvist's sailing hobbies?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Vitol trade more than 230 million tons of oil and fuels in 2024?",
+    "a": "No"
+  },
+  {
+    "q": "Did Goldman Sachs go public in 1999?",
+    "a": "Yes"
+  }
+]

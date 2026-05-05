@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Universal Health Services announce the acquisition of Talkspace on Monday, March 9, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the acquisition price for Talkspace set at $835 million?",
+    "a": "Yes"
+  },
+  {
+    "q": "Will Universal Health Services pay $5.25 per share for Talkspace stock?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Talkspace expected to close its acquisition by the third quarter of 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Talkspace report a net profit of $7.8 million in 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does Universal Health Services operate fewer than 100 inpatient facilities across the United States?",
+    "a": "No"
+  },
+  {
+    "q": "Did Talkspace report $228 million in revenue in 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is the acquisition price per share $5.25, which is below Talkspace's Friday closing price of $4.78?",
+    "a": "No"
+  },
+  {
+    "q": "Did Universal Health Services earn $17.4 billion in revenue in 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Steve Filton, Universal’s chief executive officer, state that the acquisition would accelerate expansion into outpatient services?",
+    "a": "No"
+  }
+]

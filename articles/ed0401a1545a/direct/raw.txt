@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Brent crude oil trade just above $100 a barrel on Thursday, March 12, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mojtaba Khamenei, the son of former leader Ali Khamenei, warn that the Strait of Hormuz would remain closed as a tool of pressure in comments delivered on Iranian state television?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the International Energy Agency warn that oil supply would shrink further if ships did not resume transit through the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did 32 of the world’s biggest economies, including the United States, agree to add 400 million barrels of oil to the global market on Wednesday, March 11, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the 400 million barrels of emergency oil stock release agreed to by the United States and other economies absorb the impact of the Strait of Hormuz blockade for more than 60 days?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran strike two foreign oil tankers in Iraqi waters on Thursday, March 12, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Kingdom’s maritime agency report that the sixth ship to come under attack in the last two days was struck in the Red Sea?",
+    "a": "No"
+  },
+  {
+    "q": "Did the International Energy Agency estimate that oil output cuts by seven Gulf countries amounted to at least 10 million barrels a day by March 10, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Ali Khamenei, the former supreme leader of Iran, killed by an Iranian strike at the start of the war?",
+    "a": "No"
+  },
+  {
+    "q": "Did Jim Reid, the head of global macroeconomic research at Deutsche Bank, write that investors are increasingly pricing in a more protracted conflict?",
+    "a": "Yes"
+  }
+]

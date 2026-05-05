@@ -1,0 +1,22 @@
+{
+  "q": "Did spot gold prices remain nearly steady at approximately $5,000.61 per ounce on Tuesday, March 17, 2026?",
+  "a": "Yes",
+  "q": "Did U.S. gold futures for April delivery rise by 0.07% on Tuesday, March 17, 2026?",
+  "a": "Yes",
+  "q": "Did Jim Wyckoff, senior analyst at Kitco Metals, state that he believes gold will likely make new record highs in the near term?",
+  "a": "No",
+  "q": "Was the U.S.-Israeli war on Iran in its third week as of Tuesday, March 17, 2026?",
+  "a": "Yes",
+  "q": "Did Israel claim on Tuesday, March 17, 2026, that it killed Iran's new supreme leader?",
+  "a": "No",
+  "q": "Did international oil prices rise more than 1% on Tuesday, March 17, 2026?",
+  "a": "Yes",
+  "q": "Did Commerzbank state that the Federal Reserve meeting was likely to provide strong impetus to gold prices?",
+  "a": "No",
+  "q": "Did investors expect the U.S. Federal Reserve to keep interest rates steady when announcing its decision on Wednesday, March 18, 2026?",
+  "a": "Yes",
+  "q": "Did spot silver prices fall 1.97% on Tuesday, March 17, 2026?",
+  "a": "Yes",
+  "q": "Did palladium prices fall 0.41% on Tuesday, March 17, 2026?",
+  "a": "No"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump state in March 2019 that he fully supported making daylight saving time permanent?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump sign the Standard Time Act into law in March 1918?",
+    "a": "No"
+  },
+  {
+    "q": "Is the Uniform Time Act of 1966 the federal law that established the twice-yearly daylight saving time schedule as we know it today?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Senator Marco Rubio introduce the Sunshine Protection Act in 2024?",
+    "a": "No"
+  },
+  {
+    "q": "Does the Daylight Act of 2026, introduced by Rep. Greg Steube, propose moving U.S. time zones forward 30 minutes permanently?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump describe daylight saving time as a \"50-50 issue\" in March 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Senator Sheldon Whitehouse, D-Rhode Island, introduce the Daylight Act of 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was daylight saving time initially introduced as a federal law in 1918 to conserve fuel during World War I?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Lyndon B. Johnson sign the Standard Time Act into law in 1918?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump write on X in December 2024 that the Republican Party would use its best efforts to eliminate daylight saving time?",
+    "a": "Yes"
+  }
+]

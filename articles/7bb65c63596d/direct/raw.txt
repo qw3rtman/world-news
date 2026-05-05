@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Mayor Zohran Mamdani of New York City declare a state of emergency and issue a travel ban during the winter storm in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Governor Mikie Sherill of New Jersey state that the entire state was under a blizzard warning for the first time in 30 years during the February 2026 storm?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did meteorologist Michael Linden of MyRadar explain that a bomb cyclone requires a central pressure drop of at least 24 millibars in 24 hours during the February 2026 storm coverage?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did more than 9,000 flights get canceled on Sunday and Monday due to the winter storm in the Northeastern United States in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Supreme Court uphold President Donald Trump's emergency tariffs on Friday in February 2026, leading to immediate trade tensions with China?",
+    "a": "No"
+  },
+  {
+    "q": "Did Nemesio Oseguera Cervantes, known as El Mencho, die while being transported to Mexico City following a military operation in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the armed man shot and killed at Mar-a-Lago in February 2026 have a history of violent criminal convictions prior to the incident?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump have an approval rating of 39 percent in a fresh ABC News and Washington Post poll conducted ahead of his State of the Union address in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Jack Hughes score the game-winning goal in regulation time to give Team USA the men's hockey gold medal at the 2026 Winter Olympics?",
+    "a": "No"
+  },
+  {
+    "q": "Did the 2026 Winter Olympics closing ceremony take place in the historic Verona arena in Italy?",
+    "a": "Yes"
+  }
+]

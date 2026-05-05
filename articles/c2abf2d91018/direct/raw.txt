@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump state in March 2026 that the U.S. has the capability to sustain military operations against Iran for longer than the projected four-to-five-week time frame?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. and Israeli forces kill Supreme Leader Ayatollah Ali Khamenei on Saturday, March 1, 2026, prior to the intensification of the war?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Sen. Tim Kaine, D-Va., express concern in March 2026 about the Trump administration launching military operations against Iran without seeking congressional authorization?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Pentagon identify Sgt. 1st Class Nicole M. Amor as one of the six U.S. soldiers killed in a drone strike in Kuwait in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu provide evidence in a March 2026 Fox News interview that Iran was rebuilding sites to make its atomic bomb program immune within months?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United Arab Emirates report in March 2026 that it had been attacked by more than 800 detected Iranian drones and missiles?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Australian Foreign Minister Penny Wong announce in March 2026 that a commercial flight from Dubai to Sydney would repatriate 24,000 Australians stranded in the United Arab Emirates?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Sen. Josh Hawley, R-MO, state in March 2026 that he would vote 'yes' on a war powers resolution unless ground troops were introduced?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. Embassy in Israel tell Americans in March 2026 that they must find their own way home and that the embassy would not assist in evacuations?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did China's Foreign Minister Wang Yi call for an immediate cessation of military operations against Iran in a March 2026 phone call with Israeli Foreign Minister Gideon Sa'ar?",
+    "a": "Yes"
+  }
+]

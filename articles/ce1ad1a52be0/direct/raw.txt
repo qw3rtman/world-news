@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did US President Donald Trump ask allies such as Japan and South Korea to contribute military vessels for escort duties in the Strait of Hormuz in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the US and Israel launch attacks on Iran on March 1, 2026, causing commercial traffic in the Strait of Hormuz to cease?",
+    "a": "No"
+  },
+  {
+    "q": "Did naval analyst Jennifer Parker state that the narrow width of the Strait of Hormuz creates blind spots for warships escorting massive oil tankers in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the US Navy decommission its dedicated minesweepers in the Persian Gulf in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did analyst Carl Schuster note that airborne warning and control planes and reconnaissance drones are necessary to detect missile launches from inland Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the US Navy have 100 Arleigh Burke-class destroyers on active duty in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did analyst Collin Koh express skepticism about the feasibility of destroying all dispersed Iranian threats, including those from small fishing boats, in the Strait of Hormuz in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did South Korean research fellow Yu Ji-hoon state that South Korea’s minesweepers are well-suited for long-term high-threat missions in the Strait of Hormuz in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did analyst Alessio Patalano argue that Western naval capabilities and support structures are significantly smaller now than they were in the 1980s in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the US Navy replace its decommissioned minesweepers with four littoral combat ships that were fully deployed in the Persian Gulf region before the war in March 2026?",
+    "a": "No"
+  }
+]

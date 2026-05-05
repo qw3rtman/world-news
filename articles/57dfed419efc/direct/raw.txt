@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the closure of the Strait of Hormuz disrupt approximately one-fifth of global oil, fuel, and LNG transport?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the daily charter cost for a very large crude carrier (VLCC) increase from around $120,000 to more than $450,000 following the outbreak of fighting?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did China's domestic crude oil futures prices rise by 31% in the week following the strikes, outpacing the 12% increase in Brent crude?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Qatar pause liquefied natural gas loadings after its main liquefaction facilities were hit by Iranian drones?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did nearby European natural gas futures contracts soar by close to 70% since Friday due to the supply disruption?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Senator Ted Cruz propose that the U.S. Navy escort tankers through the Strait of Hormuz to lower energy costs?",
+    "a": "No"
+  },
+  {
+    "q": "Did Brent crude oil futures rise by approximately 31% in the week following the Iran strikes?",
+    "a": "No"
+  },
+  {
+    "q": "Did European nations increase their local gas stockpiles to multi-year highs in recent months before the crisis?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. gasoline futures prices drop by 10% following the Iran strikes due to the U.S. being a major crude oil exporter?",
+    "a": "No"
+  },
+  {
+    "q": "Did the global tanker fleet experience a surge in shipping rates from Singapore to Japan and from the U.S. to Europe this week?",
+    "a": "Yes"
+  }
+]

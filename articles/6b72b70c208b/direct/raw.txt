@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the French mayoral elections described in the article take place on March 15, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Sarah Knafo, a candidate for the party Reconquete, campaign for the position of mayor of Paris in the 2026 French municipal elections?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the far-right party Rassemblement National, led by Marine Le Pen, win the mayoral races in Nice, Marseille, and Toulon in the 2026 French municipal elections?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Socialist-Green coalition hold the lead in the Paris mayoral race polls as of March 15, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Rachida Dati, the mainstream conservative candidate in Paris, agree to ally with Sarah Knafo for the runoff election on March 22, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did political analyst Jean-Yves Camus state that the party Reconquete takes a harder line on immigration than Marine Le Pen's Rassemblement National?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the controversial French leader Jean-Luc Melenchon imply that the media's pronunciation of Jeffrey Epstein's name pointed to a plot during a rally in January 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the retiree Edith Daubert express support for Sarah Knafo in the 7th arrondissement of Paris during the 2026 mayoral elections?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the far-left party in France gain significant support in the northern towns of France during the 2026 municipal elections due to the behavior of leader Jean-Luc Melenchon?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article state that 36,000 municipalities across France participated in the two-round mayoral election on March 15, 2026?",
+    "a": "Yes"
+  }
+]

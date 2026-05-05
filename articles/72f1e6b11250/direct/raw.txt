@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. General licenses issued in February 2026 allow Shell to progress with its Dragon natural gas project?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the Dragon natural gas project located in Venezuelan waters?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the Dragon project have estimated reserves of 4.5 trillion cubic feet?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does Shell plan to export gas from the Dragon project via the Atlantic LNG facility in Trinidad and Tobago?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Shell CEO Wael Sawan state that Shell hopes to produce gas from Venezuela's Dragon field in three years?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Shell a 45% shareholder in the Atlantic LNG facility?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Atlantic LNG export 12 million metric tonnes of LNG in 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Does BP own a 10% stake in the Atlantic LNG facility?",
+    "a": "No"
+  },
+  {
+    "q": "Was the Dragon project halted due to a lack of reserves rather than shifting U.S. policy?",
+    "a": "No"
+  },
+  {
+    "q": "Did Shell commit to a specific date for its final investment decision regarding the Dragon project in the article?",
+    "a": "No"
+  }
+]

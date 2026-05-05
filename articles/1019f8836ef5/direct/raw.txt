@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the U.S. Supreme Court rule against President Donald Trump's tariffs in a 6-3 decision in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump state he would sign an executive order to impose a 10% tax on imports from around the world after the Supreme Court ruling?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did former Vice President Mike Pence criticize the Supreme Court's ruling against President Donald Trump's tariffs in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Senator Mitch McConnell describe President Donald Trump's assertion that he can bypass Congress to implement tariffs as illegal?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did an AP-NORC poll conducted in April 2026 find that 76% of Americans believed Trump's worldwide tariffs would decrease the cost of consumer goods?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump claim he would use other laws to impose alternative tariffs after the Supreme Court struck down the original tariffs?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did six House Republicans join with Democrats in January 2026 to vote for a resolution supporting President Donald Trump's tariffs on Canada?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Supreme Court ruling in February 2026 raise questions about whether roughly $175 billion in import taxes would be refunded?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump deliver a speech at a Georgia steel company named Coosa Steel in January 2026 where he used the word 'tariff' 28 times?",
+    "a": "No"
+  },
+  {
+    "q": "Did Rep. Suzan DelBene, D-Wash., state that President Donald Trump is not a king and his tariffs were always illegal?",
+    "a": "Yes"
+  }
+]

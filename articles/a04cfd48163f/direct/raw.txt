@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iran's ambassador to the United Nations in Geneva, Ali Bahreini, state on March 3, 2026, that Iran had not contacted the United States regarding peace talks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump and Israeli Prime Minister Benjamin Netanyahu provide fixed end dates for the conflict during their recent public statements?",
+    "a": "No"
+  },
+  {
+    "q": "Did joint U.S. and Israeli airstrikes on Iran result in the death of Supreme Leader Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran resume nuclear program negotiations with the United States immediately after the airstrikes began on March 1, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Oman serve as the mediator for the talks between Iranian and U.S. negotiators in Geneva last Thursday?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran retaliate against the United States mainland by firing missiles and drones directly at U.S. soil?",
+    "a": "No"
+  },
+  {
+    "q": "Did a source familiar with Israel's war plan tell Reuters that the Israeli campaign was moving faster than the originally planned two-week duration?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ali Bahreini express optimism that negotiations would be useful for de-escalating the conflict in the immediate future?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran disrupt global energy supplies by strangling shipping through the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump suggest that the war would last for several years rather than weeks?",
+    "a": "No"
+  }
+]

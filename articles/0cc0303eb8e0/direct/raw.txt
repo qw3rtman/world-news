@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Abhilash Koikkara, Head - Forex & Commodities at Nuvama Professional Clients Group, predict that gold may extend its rally to Rs 1,63,000 per 10 grams in the article published on February 19, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article published on February 19, 2026, identify Rs 147,000 as the crucial support zone for MCX Gold?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article published on February 19, 2026, state that MCX Silver had sustained its support for three consecutive weeks on the weekly chart?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article published on February 19, 2026, list Rs 225,000 as the immediate support level for MCX Silver?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article published on February 19, 2026, identify Rs 260,000 as the resistance level near the 30-day EMA for MCX Silver?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article published on February 19, 2026, attribute the gold price prediction to U.S. President Donald Trump?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article published on February 19, 2026, state that a decisive close above the 147,000 level for MCX Gold would trigger further correction?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article published on February 19, 2026, recommend a stop-loss of Rs 163,000 for MCX Gold trading?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article published on February 19, 2026, state that MCX Silver prices were hovering near a crucial resistance zone rather than a support zone?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article published on February 19, 2026, claim that the TOI Business Desk represents the views of Nuvama Professional Clients Group?",
+    "a": "No"
+  }
+]

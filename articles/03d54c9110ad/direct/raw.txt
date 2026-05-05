@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Saudi Arabia warn Iran in March 2026 that continued attacks on its energy sector could prompt a response in kind?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the warning from Saudi Arabia to Iran reported by Reuters on March 7, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian President Masoud Pezeshkian apologize to Arab neighbors for Iranian attacks during a televised speech in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian President Masoud Pezeshkian instruct the country's armed forces to stop hitting regional countries during his March 2026 speech?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Arab Emirates and Bahrain escape any attacks in the period following Iranian President Masoud Pezeshkian's March 2026 speech?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iraqi Kurdistan remain unattacked after Iranian President Masoud Pezeshkian's March 2026 televised speech?",
+    "a": "No"
+  },
+  {
+    "q": "Did the attacks on the United Arab Emirates, Bahrain, and Iraqi Kurdistan occur before Iranian President Masoud Pezeshkian's March 2026 televised speech?",
+    "a": "No"
+  },
+  {
+    "q": "Did Reuters report that Saudi Arabia's warning was based on statements from four sources familiar with the matter?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian President Masoud Pezeshkian blame Saudi Arabia for the attacks on Arab neighbors during his March 2026 speech?",
+    "a": "No"
+  },
+  {
+    "q": "Did the attacks on the United Arab Emirates, Bahrain, and Iraqi Kurdistan happen immediately after Iranian President Masoud Pezeshkian's March 2026 speech?",
+    "a": "Yes"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump state in March 2026 that military operations against Iran were likely to last four to five weeks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Defense Secretary Pete Hegseth claim that Iranian officials spent weeks stalling during recent U.S. negotiations as part of their plans to attack?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. military confirm that six American service members were killed in Kuwait during the operations against Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Secretary of State Marco Rubio state in March 2026 that regime change was the primary objective of the U.S. military operation in Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. State Department urge American citizens to leave more than a dozen Middle Eastern countries in March 2026 due to safety risks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did NATO Secretary General Mark Rutte state in March 2026 that NATO would directly enter the war against Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. military report in March 2026 that it had taken out 11 Iranian warships in the Gulf of Oman?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Spanish Defense Minister Margarita Robles state in March 2026 that Spanish bases were used to assist the U.S. attack on Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did the UAE Defense Ministry report in March 2026 that it intercepted 148 drones on a single day?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Vice President JD Vance state in March 2026 that there was no chance the U.S. would be pulled into a drawn-out war in the Middle East?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. Defense Secretary Pete Hegseth confirm that U.S. forces were on the ground in Iran during the joint military operations with Israel in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Defense Secretary Pete Hegseth state that the United States reserves the right to deploy boots on the ground in Iran during the conflict in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Defense Secretary Pete Hegseth confirm that seven U.S. service members had died in the fight against Iran by March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Defense Secretary Pete Hegseth express concern that Russia was helping Iran locate U.S. military bases to target in their counterstrikes in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump tell Time magazine that the United States expects some people to die when going to war in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Defense Secretary Pete Hegseth tell CBS News that the Pentagon would publicly disclose exactly how far the United States is willing to go in the Iran conflict in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Defense Secretary Pete Hegseth state that the only people who need to be worried right now are Iranians in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump rule out threats to U.S. citizens when asked by Time magazine about the possibility of an attack on the homeland in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Defense Secretary Pete Hegseth give the \"60 Minutes\" interview with CBS News’s Major Garrett that aired in late March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Defense Secretary Pete Hegseth state that no one was putting the United States in danger during the Iran conflict in March 2026?",
+    "a": "Yes"
+  }
+]

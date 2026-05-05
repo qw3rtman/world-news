@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did oil options and futures signal that the Middle East conflict was likely short-lived in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Israel-U.S. attack on Iran cause war-risk insurance costs to surge in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did 30-day at-the-money Brent implied volatility jump 17.5 points over the week through Tuesday in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the spread between the front-month Brent contract and the six-month contract widen to about $10 in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the put-to-call ratio on West Texas Intermediate options roughly double to 0.70 on Monday in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did much of the 2027 Brent strip trade above $80 a barrel in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Brent options open interest surge to more than 700,000 contracts on March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did more than 40% of Brent futures open interest concentrate in August through December expiries in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Brian E. Kinsella state that the market was betting the disruption was logistical rather than structural in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Russia-Ukraine war in 2022 see the steepest Brent backwardation since March 2026?",
+    "a": "No"
+  }
+]

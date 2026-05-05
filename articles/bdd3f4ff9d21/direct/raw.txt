@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Anthropic CEO Dario Amodei meet with U.S. Defense Secretary Pete Hegseth in February 2026 to discuss the company's military usage restrictions?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Pentagon issue Anthropic a deadline of Friday at 5 p.m. to respond to its ultimatum in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Pentagon announce an agreement with xAI to deploy its AI technology across classified networks in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Anthropic CEO Dario Amodei state during the February 2026 meeting that the company had raised concerns about the use of its AI products during the Venezuela military raid?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Pentagon threaten to label Anthropic as a supply-chain risk or invoke the Defense Production Act if the company did not change its rules in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Alphabet's Google serve as the only large language model provider on classified networks for the Pentagon until recently in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Pentagon express concern that Anthropic had asked questions about how its AI products were used during the Venezuela military raid that captured President Nicolas Maduro in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Anthropic agree to remove safeguards preventing its technology from being used to target weapons autonomously during the February 2026 negotiations?",
+    "a": "No"
+  },
+  {
+    "q": "Did Franklin Turner, a government contracts lawyer at McCarter & English, suggest that adverse action against Anthropic would likely trigger downstream litigation in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Pentagon intend to invoke the International Emergency Economic Powers Act to force Anthropic to change its usage policies in February 2026?",
+    "a": "No"
+  }
+]

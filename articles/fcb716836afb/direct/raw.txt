@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Lebanon's Hezbollah return to guerrilla warfare tactics in March 2026 after lessons from its 2024 war with Israel?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did fighters from Hezbollah use communication devices openly in March 2026 to coordinate attacks on Israeli troops?",
+    "a": "No"
+  },
+  {
+    "q": "Did Hezbollah open fire on Israeli forces in early March 2026 to avenge the killing of Supreme Leader Ayatollah Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Lebanese government ban Hezbollah's military activities in March 2026, following a ban enacted in December 2024?",
+    "a": "No"
+  },
+  {
+    "q": "Was Hezbollah's main supply route from Iran severed in December 2024 after President Bashar al-Assad was toppled?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Hezbollah's elite Radwan fighters withdraw from south Lebanon in March 2026 following the 2024 ceasefire?",
+    "a": "No"
+  },
+  {
+    "q": "Did an Israeli security source state in March 2026 that Hezbollah was stabilizing its ranks despite losing senior commanders?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Hezbollah appoint only one deputy for every commander in March 2026 to ensure operational continuity?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Israeli military launch airstrikes in the eastern Bekaa Valley in March 2026 as part of its offensive against Hezbollah?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Hezbollah rely on booby-trapped pagers and its private phone network for communication in March 2026, despite Israeli penetrations in 2024?",
+    "a": "No"
+  }
+]

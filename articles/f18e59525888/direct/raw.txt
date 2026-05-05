@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did spot gold prices fall more than 3% to $4,654.29 an ounce on Thursday, March 19, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the ProShares Ultra Silver ETF shed 20% ahead of the opening bell on Thursday, March 19, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Federal Reserve raise interest rates on Wednesday, March 18, 2026, citing uncertain impacts from the Iran war?",
+    "a": "No"
+  },
+  {
+    "q": "Did silver futures suffer their biggest single-day blow since the 1980s at the end of January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Swiss National Bank lower its key policy rate to 0% on Thursday, March 19, 2026, while flagging the war in Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did shares of Fresnillo, the world’s leading silver producer, fall 9.3% during the European trading session on Thursday, March 19, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did oil and gas prices spike on Wednesday, March 18, 2026, after energy facilities in Iran and Qatar were hit by strikes?",
+    "a": "No"
+  },
+  {
+    "q": "Did gold and silver prices surge 66% and 135%, respectively, over the course of 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Paul Surguy of Kingswood Group state that gold has been the beneficiary of a fair tailwind for some time in an email on Tuesday, March 17, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Bank of Japan raise interest rates on Wednesday, March 18, 2026, noting that inflation risks are tilted to the upside due to the Iran war?",
+    "a": "No"
+  }
+]

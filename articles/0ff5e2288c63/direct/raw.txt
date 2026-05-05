@@ -1,0 +1,22 @@
+{
+  "q": "Did the United States and Israel carry out strikes on Iran in late February 2026?",
+  "a": "Yes",
+  "q": "Did Iran launch missiles towards Israel in retaliation for the strikes?",
+  "a": "Yes",
+  "q": "Did President Donald Trump state that the strikes were aimed at eliminating a security threat and offering Iranians an opportunity to challenge their leadership?",
+  "a": "Yes",
+  "q": "Did Brent crude oil trade near $73 per barrel on Friday following the attacks?",
+  "a": "Yes",
+  "q": "Did several oil majors and trading firms suspend shipments through the Strait of Hormuz after the attacks?",
+  "a": "Yes",
+  "q": "Did William Jackson, chief emerging markets economist at Capital Economics, predict that Brent crude could climb to about $80 even if tensions remain contained?",
+  "a": "Yes",
+  "q": "Did the VIX volatility index climb by roughly one-third in 2026?",
+  "a": "Yes",
+  "q": "Did gold surge 22% in 2026 according to the article?",
+  "a": "Yes",
+  "q": "Did Bitcoin behave like a traditional safe-haven hedge by slipping only 2% on Saturday and declining less than 10% over the past two months?",
+  "a": "No",
+  "q": "Did analysts at Commonwealth Bank of Australia note that during the June 2025 conflict involving Iran, the dollar index strengthened significantly and did not weaken?",
+  "a": "No"
+}

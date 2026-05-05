@@ -1,0 +1,40 @@
+{
+  "q": "Did U.S. President Donald Trump claim in a video posted to social media that Iran has been building missiles that could soon reach the American homeland?",
+  "a": "Yes"
+}
+{
+  "q": "Did U.S. President Donald Trump make the claim that Iran is building missiles capable of hitting the U.S. during his State of the Union address on Tuesday night?",
+  "a": "Yes"
+}
+{
+  "q": "Did sources tell CNN that U.S. intelligence backs up the assertion that Iran is currently pursuing an intercontinental ballistic missile program to hit the U.S.?",
+  "a": "No"
+}
+{
+  "q": "Did an unclassified assessment from the Defense Intelligence Agency in 2025 state that Iran could develop a militarily viable intercontinental ballistic missile by 2035?",
+  "a": "Yes"
+}
+{
+  "q": "Did White House spokesperson Anna Kelly respond to CNN’s reporting by stating that President Trump is wrong to highlight the concern posed by Iran?",
+  "a": "No"
+}
+{
+  "q": "Did Iranian Foreign Minister Abbas Araghchi state in an interview that his country was not developing long-range missiles and had deliberately limited their range to 2,000 kilometers?",
+  "a": "Yes"
+}
+{
+  "q": "Did the matter of Iranian missile technology come up in a briefing with Secretary of State Marco Rubio, CIA Director John Ratcliffe, and the Gang of Eight congressional leaders this week?",
+  "a": "No"
+}
+{
+  "q": "Did Secretary of State Marco Rubio state that Iran is certainly trying to achieve intercontinental ballistic missiles and is increasing the range of its current missiles?",
+  "a": "Yes"
+}
+{
+  "q": "Did Special Envoy Steve Witkoff claim that Iran was probably a week away from having industrial-grade bombmaking material despite the administration's assertions that the nuclear program was obliterated last year?",
+  "a": "Yes"
+}
+{
+  "q": "Did sources and experts say that the work to build back Iran’s nuclear program is likely to be impacted by upcoming military strikes?",
+  "a": "No"
+}

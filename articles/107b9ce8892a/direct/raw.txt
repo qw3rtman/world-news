@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did silver futures on the Multi Commodity Exchange (MCX) rise by approximately 5% on February 23, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the price of silver futures for March delivery on the Multi Commodity Exchange (MCX) reach ₹2,65,282 per kg on February 23, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump raise a global levy from 10% to 15% following the U.S. Supreme Court's rejection of his \"reciprocal\" tariffs in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did India delay talks aimed at finalising an interim deal with Washington in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did COMEX silver futures for the March contract rise by 5.58% to $86.93 per ounce in the international market on February 23, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did silver futures on the Multi Commodity Exchange (MCX) for March delivery trade in fewer than 5,000 lots on February 23, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump lower a global levy from 15% to 10% in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did India accelerate talks to finalize an interim deal with Washington in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did diplomats reconvene in New York on Thursday in February 2026 regarding stalled nuclear negotiations with Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did Jigar Trivedi, a Senior Research Analyst at HDFC Bank, attribute the rise in silver prices to safe-haven demand in February 2026?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did explosions occur in the Iranian capital city of Tehran on the early Saturday morning following the March 6, 2026 publication date?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state that he would negotiate with Iran only after its unconditional surrender?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Russian President Vladimir Putin express condolences to Iranian President Masoud Pezeshkian regarding the death of Supreme Leader Ayatollah Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Treasury Secretary Scott Bessent warn that the \"biggest bombing campaign\" of the war had already concluded?",
+    "a": "No"
+  },
+  {
+    "q": "Did Saudi Arabia report shooting down a ballistic missile launched toward Prince Sultan Air Base?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Qatar’s energy minister Saad al-Kaabi predict that oil prices would drop to $150 a barrel due to the conflict?",
+    "a": "No"
+  },
+  {
+    "q": "Did evidence suggest that a Feb. 28 explosion at a school in Minab, Iran, was likely caused by U.S. airstrikes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Lebanese Health Ministry report that at least 217 people were killed by Israeli strikes since Monday in the week following March 6, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran’s U.N. ambassador Amir Saeid Iravani accept that foreign powers could interfere in Iran's internal affairs to select a new supreme leader?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article state that six U.S. troops have been killed in the conflict?",
+    "a": "Yes"
+  }
+]

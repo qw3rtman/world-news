@@ -1,0 +1,22 @@
+{
+  "q": "Did the International Energy Agency announce on Sunday that more than 400 million barrels of oil reserves would begin flowing to the market to combat price spikes?",
+  "a": "Yes",
+  "q": "Did U.S. President Donald Trump plan to announce a coalition to escort ships through the Strait of Hormuz as soon as the week of March 15, 2026?",
+  "a": "Yes",
+  "q": "Did Iranian drones hit a key oil terminal in Fujairah in the United Arab Emirates shortly after U.S. and Israeli attacks on Iran's Kharg Island?",
+  "a": "Yes",
+  "q": "Did U.S. Energy Secretary Chris Wright state that he expects the war with Iran to end within the next few weeks?",
+  "a": "Yes",
+  "q": "Did the International Energy Agency report that global oil supply was expected to fall by 8 million barrels per day in March due to shipping disruptions?",
+  "a": "Yes",
+  "q": "Did the International Energy Agency announce that oil reserves from Europe and the Americas would be released immediately on Sunday, March 15, 2026?",
+  "a": "No",
+  "q": "Did U.S. President Donald Trump urge allies to deploy warships to help secure the Strait of Malacca instead of the Strait of Hormuz?",
+  "a": "No",
+  "q": "Did the United States and Israel launch attacks on Iran's Ras Tanura export terminal and Abqaiq oil processing facilities on Saturday, March 14, 2026?",
+  "a": "No",
+  "q": "Did the Trump administration actively support and initiate diplomatic negotiations with Middle Eastern allies to end the conflict by March 15, 2026?",
+  "a": "No",
+  "q": "Did the Strait of Hormuz remain open during the third week of the U.S.-Israeli war against Iran, allowing normal shipping flows?",
+  "a": "No"
+}

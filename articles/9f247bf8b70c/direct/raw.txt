@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Paul Chaplin serve as the Chief Executive Officer of Bavarian Nordic A/S starting in 2014?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Paul Chaplin join Bavarian Nordic A/S in 2014?",
+    "a": "No"
+  },
+  {
+    "q": "Did Bavarian Nordic A/S announce that Paul Chaplin would step down at the end of 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Bavarian Nordic A/S announce that Paul Chaplin would step down immediately in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was Paul Chaplin’s departure from Bavarian Nordic A/S attributed to personal reasons?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Paul Chaplin’s departure from Bavarian Nordic A/S attributed to poor financial performance in 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Was this the second major leadership shake-up at Bavarian Nordic A/S since a failed takeover bid last year?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was this the first major leadership shake-up at Bavarian Nordic A/S since a failed takeover bid last year?",
+    "a": "No"
+  },
+  {
+    "q": "Did shareholders reject a takeover bid for Bavarian Nordic A/S in 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did shareholders approve a $3 billion takeover bid for Bavarian Nordic A/S in 2025?",
+    "a": "No"
+  }
+]

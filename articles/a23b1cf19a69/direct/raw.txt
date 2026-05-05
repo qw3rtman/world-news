@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did UK Prime Minister Sir Keir Starmer publicly state in March 2026 that he stands by his decision not to join the initial US-Israeli strikes on Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did UK Prime Minister Sir Keir Starmer announce in March 2026 that the UK was sending four additional Typhoon fighter jets to Qatar?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump criticize UK Prime Minister Sir Keir Starmer in March 2026 for refusing to allow the use of UK bases in the initial strikes on Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did UK Defence Secretary John Healey confirm in March 2026 that the British warship HMS Dragon had already arrived in Cyprus to support air defence activities?",
+    "a": "No"
+  },
+  {
+    "q": "Did Conservative leader Kemi Badenoch tell BBC Radio 4 in March 2026 that the UK should try to finish the conflict quickly rather than let it drag out?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did UK Prime Minister Sir Keir Starmer chair a meeting of the government's emergency committee Cobra in March 2026 to discuss the conflict?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did UK Defence Secretary John Healey rule out the UK joining US and Israeli strikes on Iran during his meeting with his Cypriot counterpart in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Ministry of Defence describe the damage caused by a drone striking the runway at RAF Akrotiri in March 2026 as minimal?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the UK government update its travel advice for Cyprus in March 2026 to warn that the risk of a terrorist attack cannot be ruled out?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did UK Prime Minister Sir Keir Starmer state in March 2026 that the drone that struck RAF Akrotiri was probably fired from Israel?",
+    "a": "No"
+  }
+]

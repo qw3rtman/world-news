@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iranian missiles target oil infrastructure and airports in Gulf states following a joint US-Israeli attack on Iran in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's Islamic Revolutionary Guard Corps state that it would consider all US assets in the region to be legitimate targets?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did an Iranian missile strike the headquarters of the US Navy in Bahrain?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Qatar intercept missiles that were heading for Al Udeid Air Base?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Kuwait report that Iranian strikes had hit Ali Al-Salem air base?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Saudi Arabia and the UAE allow the United States to use their territory to launch airstrikes against Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did Hasan Alhasan of the International Institute for Strategic Studies argue that Gulf cities are more heavily defended than Israel?",
+    "a": "No"
+  },
+  {
+    "q": "Did Andreas Krieg predict that Gulf states would actively join a widening war through offensive strikes?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran fire 137 missiles at the UAE on the first day of fighting?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Anwar Gargash, a former UAE foreign minister, state that the UAE would sit by while being attacked?",
+    "a": "No"
+  }
+]

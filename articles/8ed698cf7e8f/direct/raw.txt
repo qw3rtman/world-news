@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump state in an interview with Reuters on March 6, 2026, that he was not concerned about rising U.S. gas prices resulting from the war?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israel announce a broad-scale wave of strikes against Tehran on March 6, 2026, with state media reporting that Jomhuri Avenue was hit?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States grant India a 30-day waiver to purchase Russian oil stranded at sea on March 6, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Defense Secretary Pete Hegseth state on March 6, 2026, that the United States had a shortage of munitions for the war with Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did Japan confirm that two of its citizens were being held in Iran and that one had been detained by local authorities in Tehran on January 20, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump say on March 6, 2026, that he planned to tap into the Strategic Petroleum Reserve to lower gas prices?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Qatari Ministry of Defense report on March 6, 2026, that air defenses successfully intercepted a drone attack targeting the Al-Udeid Air Base?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States Central Command report on March 6, 2026, that it had sunk 30 Iranian ships and struck a drone ship that was on fire?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Canadian Chief of the Defence Staff Jennie Carignan confirm on March 6, 2026, that Canada was participating in Operation Epic Fury against Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Kuwaiti army report on March 6, 2026, that falling debris from an interception damaged a vehicle but caused no injuries?",
+    "a": "Yes"
+  }
+]

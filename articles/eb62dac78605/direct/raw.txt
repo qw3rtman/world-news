@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did global mergers and acquisitions activity carry over from 2025 into 2026 according to the article published on February 25, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the capital squeeze described in the article the tightest in 30 years as of early 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did artificial intelligence-led demand fuel large-scale transactions in the 2026 global M&A market?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump's sweeping tariffs early in 2025 briefly scuttle acquisitions and new public listings?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the total value of global deal-making activity surge nearly 40% to a record of $4.9 trillion in 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the private market intelligence firm Pitchbook report the 2025 global M&A record value?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the global M&A boom define the year 2026 rather than 2025 according to the article?",
+    "a": "No"
+  },
+  {
+    "q": "Did the capital squeeze in early 2026 represent the tightest conditions in 50 years?",
+    "a": "No"
+  },
+  {
+    "q": "Did the total value of deal-making activity decline by 40% in 2025 due to Trump's tariffs?",
+    "a": "No"
+  },
+  {
+    "q": "Did the sluggish start to 2026 result from European Union tariffs rather than U.S. tariffs?",
+    "a": "No"
+  }
+]

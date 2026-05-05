@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Netflix acquire Ben Affleck’s AI company, InterPositive, in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Netflix disclose the specific financial sum paid for the acquisition of InterPositive?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ben Affleck join Netflix as a senior advisor following the acquisition of InterPositive?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the International Alliance of Theatrical Stage Employees (IATSE) explicitly condemn the acquisition of InterPositive in its statement to NPR?",
+    "a": "No"
+  },
+  {
+    "q": "Did Artists Equity, the production company founded by Ben Affleck and Matt Damon, sign a multi-year partnership with Netflix earlier in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Warner Brothers Discovery accept Paramount’s $110 billion acquisition bid in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ben Affleck sign on to the Creators Coalition on AI, which advocates for human-centered innovation?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Elizabeth Stone, Netflix’s chief product and technology officer, state that the InterPositive partnership aims to replace human storytellers?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Warner Brothers Discovery board declare Paramount’s bid superior to Netflix’s previous $83 billion offer on February 26, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ben Affleck and Matt Damon star together in the Netflix thriller \"The Rip\"?",
+    "a": "Yes"
+  }
+]

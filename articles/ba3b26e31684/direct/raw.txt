@@ -1,0 +1,40 @@
+{
+  "q": "Did the Israel Defense Forces announce an expansion of its ground offensive in southern Lebanon on Monday, March 16, 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did the Israel Defense Forces announce a withdrawal of troops from the northern border with Lebanon on Monday, March 16, 2026?",
+  "a": "No"
+}
+{
+  "q": "Did the Israeli army state it was sending additional troops to the northern border with Lebanon on Monday, March 16, 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did the Israel Defense Forces announce a ground offensive against Hamas in the Gaza Strip on Monday, March 16, 2026?",
+  "a": "No"
+}
+{
+  "q": "Did the Israeli army's announcement on Monday, March 16, 2026, signal a potentially broader campaign against Hezbollah than previously expected?",
+  "a": "Yes"
+}
+{
+  "q": "Did the Israel Defense Forces announce a ceasefire agreement with Hezbollah on Monday, March 16, 2026?",
+  "a": "No"
+}
+{
+  "q": "Did the Israeli army deepen its ground offensive specifically in southern Lebanon on Monday, March 16, 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did the Israel Defense Forces announce a naval blockade of the Lebanese coast on Monday, March 16, 2026?",
+  "a": "No"
+}
+{
+  "q": "Did the Israeli army's move on Monday, March 16, 2026, involve sending additional troops to the northern border?",
+  "a": "Yes"
+}
+{
+  "q": "Did the Israel Defense Forces announce that its ground offensive in Lebanon was concluding on Monday, March 16, 2026?",
+  "a": "No"
+}

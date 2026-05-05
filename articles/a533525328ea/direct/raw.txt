@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.K. Prime Minister Sir Keir Starmer decide to allow U.S. forces to use joint military bases in the context of the conflict launched by America and Israel in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.K. Prime Minister Boris Johnson make the decision to allow U.S. forces to use joint military bases in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the conflict in question launched by the United States and Israel in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the conflict in question launched by the United Kingdom and France in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the decision by U.K. Prime Minister Sir Keir Starmer bring the United Kingdom closer to the conflict in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the decision by U.K. Prime Minister Sir Keir Starmer bring the United Kingdom further away from the conflict in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article published on March 2, 2026, address the potential for the United Kingdom to go to war with Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article published on March 2, 2026, address the potential for the United Kingdom to go to war with Russia?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article state that U.S. forces were allowed to use joint military bases in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that U.S. forces were prohibited from using joint military bases in March 2026?",
+    "a": "No"
+  }
+]

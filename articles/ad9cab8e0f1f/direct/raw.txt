@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Jateen Trivedi, VP Research Analyst at LKP Securities, state that gold rates showed a positive bias on February 27, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Gold April futures on MCX trade near ₹1,60,100 on February 27, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the gold price witness a sharp rebound from intraday lows around ₹1,58,500 on February 27, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the RSI indicator near 45 on February 27, 2026, signaling weakening bullish momentum?",
+    "a": "No"
+  },
+  {
+    "q": "Did the MACD indicator turn positive with a bullish crossover on February 27, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Jateen Trivedi advise traders to initiate short positions near ₹1,60,100 on February 27, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the recommended stop-loss level set below ₹1,59,400 on February 27, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the chart reflect a U-shaped recovery from lower levels on February 27, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Were ₹1,60,600 and ₹1,61,000 listed as price targets on February 27, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the TOI Business Desk state that the expert opinions represented the official views of The Times of India on February 27, 2026?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the United States and Israel launch a pre-emptive attack against Iran in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Iran's supreme leader, Ayatollah Ali Khamenei, in Tehran when the strikes began in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israel and Iran engage in a 12-day air war in June 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran agree to link its nuclear program curbs to restrictions on its missile program in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Israeli military close its airspace to civilian flights following the February 2026 attacks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump personally order the February 2026 strikes on Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran launch missiles toward the U.S. Al Udeid air base in Qatar during the June 2025 conflict?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israel insist that any U.S. deal with Iran must include the dismantling of Tehran's nuclear infrastructure in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the February 2026 attack result in the immediate death of Ayatollah Ali Khamenei?",
+    "a": "No"
+  },
+  {
+    "q": "Did Western powers warn that Iran's ballistic missile project could deliver nuclear weapons in February 2026?",
+    "a": "Yes"
+  }
+]

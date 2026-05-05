@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did satellite imagery suggest that the Egyptian government carried out drone strikes in Sudan against the paramilitary Rapid Support Forces in early 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israel become the first country to formally recognize Somaliland in December 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Abdel Fattah el-Sisi deploy approximately 1,100 Egyptian soldiers to Somalia in February 2026 as part of the African Union Support and Stabilization Mission?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Egypt reach agreements in late 2025 to upgrade ports in Djibouti and Eritrea, which analysts viewed as encircling Ethiopia?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the Grand Egyptian Museum located in Addis Ababa, Ethiopia?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United Arab Emirates reportedly finalize an agreement on a new military coalition with Somalia and Egypt in early 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did an intelligence report commissioned by Kenya’s parliament state that more than 1,000 Kenyans are fighting for Russia in Ukraine in early 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Chad close its eastern border with Sudan in February 2026 after clashes between the Rapid Support Forces and militia fighters allied with Sudan’s government spilled into Chadian territory?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did a Tunisian court order the release of prominent lawyer Ahmed Souab in February 2026 after he was sentenced to five years in prison last October?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Google launch an open access data set for 21 African languages in partnership with universities across the continent in early 2026?",
+    "a": "Yes"
+  }
+]

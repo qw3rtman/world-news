@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did six U.S. service members die during Iran's initial attacks in response to U.S. and Israeli strikes across Iran on Saturday, March 1, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Were the six U.S. service members killed in action ground-based forces stationed in Kuwait?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump state that his administration expects the conflict with Iran to last for four to five weeks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. F-15E fighter jets crash in Kuwait on Sunday night, March 1, 2026, due to an apparent friendly fire incident involving Kuwaiti air defenses?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Iranian Red Crescent Society report that at least 555 Iranians have been killed since the beginning of the joint U.S.-Israeli military campaign on Saturday, March 1, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Secretary of State Marco Rubio state that the U.S. needed to preemptively attack Iran before it launched attacks against American forces?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Iranian Supreme Leader Ayatollah Ali Khamenei survive the initial U.S. and Israeli strikes on Saturday, March 1, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the State Department urge Americans to depart from 14 Middle Eastern countries, including Iran, Israel, Kuwait, and the United Arab Emirates, on Monday, March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. military's Central Command confirm President Trump's claim that the U.S. had sunk nine Iranian warships?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran-backed militias in Iraq fire at a U.S. base in Irbil in the Kurdistan Region of Iraq on Monday, March 2, 2026?",
+    "a": "Yes"
+  }
+]

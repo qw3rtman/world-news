@@ -1,0 +1,22 @@
+{
+  "q": "Did a senior Iranian official state in March 2026 that Iran is ready for a long war with the United States?",
+  "a": "Yes",
+  "q": "Did the senior Iranian official tell CNN that there is room for diplomacy with the United States in March 2026?",
+  "a": "No",
+  "q": "Did the senior Iranian official claim that only economic pain will end the conflict with the United States in March 2026?",
+  "a": "Yes",
+  "q": "Did the senior Iranian official tell CNN that military victory is the only way to end the conflict with the United States in March 2026?",
+  "a": "No",
+  "q": "Was the statement regarding Iran's readiness for a long war with the United States made in an exclusive interview with CNN in March 2026?",
+  "a": "Yes",
+  "q": "Was the statement regarding Iran's readiness for a long war with the United States made in an exclusive interview with Fox News in March 2026?",
+  "a": "No",
+  "q": "Did the senior Iranian official indicate that the United States is the adversary in the potential long war in March 2026?",
+  "a": "Yes",
+  "q": "Did the senior Iranian official indicate that China is the adversary in the potential long war in March 2026?",
+  "a": "No",
+  "q": "Did the senior Iranian official suggest that economic suffering is a necessary condition for ending the conflict with the United States in March 2026?",
+  "a": "Yes",
+  "q": "Did the senior Iranian official suggest that military defeat is a necessary condition for ending the conflict with the United States in March 2026?",
+  "a": "No"
+}

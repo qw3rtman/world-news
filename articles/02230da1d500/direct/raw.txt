@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Kevin Warsh serve as a Federal Reserve governor from 2006 to 2011?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Kevin Warsh leave his post as a Fed governor in part due to his opposition to quantitative easing programs engineered by then-Chair Ben Bernanke?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Federal Reserve's balance sheet peak at $9 trillion after the COVID-19 pandemic?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Treasury Secretary Scott Bessent claim that the bulging balance sheet distorts debt markets?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Justice Department drop its criminal probe of Chair Jerome Powell in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the White House attempt to fire Governor Lisa Cook in a case awaiting resolution by the Supreme Court?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Kevin Warsh facilitate JPMorgan Chase’s 2008 takeover of Lehman Brothers during the Great Financial Crisis?",
+    "a": "No"
+  },
+  {
+    "q": "Did Michelle Bowman, the Fed’s vice chair for banking supervision, begin to pare supervisory staff by 30%?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Scott Bessent admit that the Fed will likely make significant balance sheet moves before 2027?",
+    "a": "No"
+  },
+  {
+    "q": "Did Kevin Warsh serve as a conduit to Wall Street during the Great Financial Crisis, including facilitating JPMorgan Chase’s takeover of Bear Stearns?",
+    "a": "Yes"
+  }
+]

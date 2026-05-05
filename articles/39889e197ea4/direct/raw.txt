@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. Secretary of Energy Chris Wright post on social media that the U.S. Navy had escorted a tanker through the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did White House Press Secretary Karoline Leavitt confirm that the U.S. Navy had escorted a tanker through the Strait of Hormuz?",
+    "a": "No"
+  },
+  {
+    "q": "Did Japan’s Prime Minister Takaichi Sanae announce that Tokyo plans to independently release stockpiled oil as early as Monday?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did G7 energy ministers convene in London on Tuesday to discuss the U.S.-Iran war and its impact on global oil markets?",
+    "a": "No"
+  },
+  {
+    "q": "Did IEA Executive Director Fatih Birol state that member countries currently hold over 1.2 billion barrels of public emergency oil stocks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.K.’s Maritime Trade Operations report that three cargo ships off Iran’s coast had been struck by projectiles on Wednesday morning?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did authorities in Dubai report that two drones fell near Dubai International Airport on Tuesday, injuring four people?",
+    "a": "No"
+  },
+  {
+    "q": "Did energy market analyst Sasha Foss warn that oil prices could spike back up over $100 if the conflict does not end by the end of the week?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Paul Gooden, head of global natural resources at Ninety One, state that oil prices are unlikely to return to the $80–$90 range seen earlier this year?",
+    "a": "No"
+  },
+  {
+    "q": "Did Reuters report on Wednesday morning that the IEA would recommend the release of strategic oil stocks exceeding 100 million barrels per day in the first month?",
+    "a": "Yes"
+  }
+]

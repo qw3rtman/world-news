@@ -1,0 +1,22 @@
+{
+  "q": "Did the United States and Israel conduct an airstrike campaign that resulted in the death of Supreme Leader Ayatollah Ali Khamenei?",
+  "a": "Yes",
+  "q": "Did Iran's President Masoud Pezeshkian serve as a member of the temporary leadership council formed to assume leadership duties after Khamenei's death?",
+  "a": "Yes",
+  "q": "Did the temporary leadership council consist of the sitting president, the head of the judiciary, and a member of the Expediency Council?",
+  "a": "No",
+  "q": "Is the Assembly of Experts an 88-member panel composed entirely of Shiite clerics who are popularly elected every eight years?",
+  "a": "Yes",
+  "q": "Did the Guardian Council approve former Iranian President Hassan Rouhani's candidacy for the Assembly of Experts in March 2024?",
+  "a": "No",
+  "q": "Was Ebrahim Raisi, a hard-line president and protégé of Khamenei, killed in a helicopter crash in May 2024?",
+  "a": "Yes",
+  "q": "Did Mojtaba Khamenei hold government office prior to being considered a potential candidate for supreme leader?",
+  "a": "No",
+  "q": "Was the 1989 succession of Grand Ayatollah Ruhollah Khomeini the only previous transfer of power in the office of supreme leader?",
+  "a": "Yes",
+  "q": "Did Israel launch a 12-day war against Iran in June 2025?",
+  "a": "Yes",
+  "q": "Did the United States designate the Islamic Revolutionary Guard as a terrorist organization in 2021?",
+  "a": "No"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Anthropic CEO Dario Amodei reject the Pentagon's ultimatum in February 2026 to loosen safety restrictions on its AI model?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Anthropic CEO Dario Amodei state that the company's AI model, Claude, must not be used to power entirely autonomous weapons that kill targets without human approval?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Pentagon spokesman Sean Parnell warn that Anthropic had until 5:01 PM ET on Friday to decide on the contract terms in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Defense Secretary Pete Hegseth threaten to cancel Anthropic's $200 million contract with the Defense Department during a meeting in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Anthropic agree to the Pentagon's latest contract changes in February 2026 to avoid being blacklisted from military work?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Pentagon intend to use Anthropic's AI tools for domestic mass surveillance in the United States in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Pentagon designate Anthropic as a \"supply chain risk\" for Huawei in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Pentagon threaten to invoke the Defense Production Act to force Anthropic to remove its guardrails in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Anthropic the first AI company cleared for classified use by defense officials in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Anthropic's CEO Dario Amodei describe domestic mass surveillance and fully autonomous weapons as \"bright green lines\" for the company in February 2026?",
+    "a": "No"
+  }
+]

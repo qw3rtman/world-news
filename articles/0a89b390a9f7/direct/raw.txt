@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Viking Mines conduct phase one gravity and magnetic surveys at its Linka tungsten project in Nevada in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the principal tungsten mineral at the Linka project, scheelite, have a specific gravity of 19.3?",
+    "a": "No"
+  },
+  {
+    "q": "Did Viking Mines report that simple gravity separation produced a 22.9 per cent tungsten trioxide concentrate from a 1.4 per cent feed in initial metallurgical tests?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the specific gravity of gold 6.1?",
+    "a": "No"
+  },
+  {
+    "q": "Did Viking Mines plan to extend its magnetic survey program by an additional 2.8 square kilometres to the west?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the magnetic survey identify a big magnetic high on the eastern side of the survey grid?",
+    "a": "No"
+  },
+  {
+    "q": "Did Viking Mines flag a trial gradient array-induced polarisation (GAIP) survey over the northernmost Conquest mineralised zone?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the initial metallurgical tests achieve a rougher recovery of 85 per cent?",
+    "a": "No"
+  },
+  {
+    "q": "Did Viking Mines plan to extend its gravity grid by an additional 0.35 square kilometres to the southwest?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Viking Mines identify northeast-trending structures as being unrelated to the tungsten-mineralised system?",
+    "a": "No"
+  }
+]

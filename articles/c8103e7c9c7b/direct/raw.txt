@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did European allies rush warships and anti-drone defences to Cyprus after a British air base was hit in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did French President Emmanuel Macron confirm that the French frigate Languedoc would arrive in Cyprus on Tuesday evening in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Greece agree to send four F-16 fighter jets and two frigates, including the ship Psara, to Cyprus in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the UK announce it is sending the Type 45 Destroyer HMS Dragon to Cyprus in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the drone strike on RAF Akrotiri in March 2026 result in significant structural damage and multiple casualties?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Cypriot government suspect that the Iran-backed group Hezbollah in Lebanon was responsible for the drone strike on RAF Akrotiri in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did British planes participate in offensive US-Israeli strikes on Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did British Prime Minister Keir Starmer state that bases in Cyprus were being used by US bombers for strikes in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the UK retain sovereignty over sites including the Akrotiri peninsula when Cyprus gained independence in 1960?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the last attack on RAF Akrotiri occur in 2025 by pro-Libyan militants?",
+    "a": "No"
+  }
+]

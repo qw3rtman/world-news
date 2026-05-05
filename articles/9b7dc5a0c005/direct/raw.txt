@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Balendra Shah serve as the mayor of Kathmandu before running for prime minister in the 2026 Nepal election?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did former Prime Minister KP Sharma Oli resign as a result of the anti-corruption protests in September 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Balendra Shah contest the 2026 Nepal election in the Jhapa-5 constituency against KP Sharma Oli?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Rastriya Swatantra Party win the previous general election in 2022?",
+    "a": "No"
+  },
+  {
+    "q": "Was the 2026 Nepal election held in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did KP Sharma Oli provide evidence to support claims that the protests were an international conspiracy?",
+    "a": "No"
+  },
+  {
+    "q": "Did seventy-seven people die during the anti-corruption protests in Nepal?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is youth unemployment in Nepal estimated at 20.6% according to the World Bank?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Balendra Shah hold numerous traditional press interviews throughout his campaign?",
+    "a": "No"
+  },
+  {
+    "q": "Was the 2026 Nepal election the first in decades to potentially produce a government without a communist party?",
+    "a": "Yes"
+  }
+]

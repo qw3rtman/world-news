@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did State Rep. James Talarico win the Democratic primary for U.S. Senate in Texas in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Rep. Jasmine Crockett concede the Democratic primary for U.S. Senate in Texas to James Talarico in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Will the winner of the Republican primary for U.S. Senate in Texas face a runoff against Texas Attorney General Ken Paxton in May 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did former Rep. Colin Allred win the Democratic primary for U.S. Senate in Texas in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did James Talarico raise more than $20 million for his U.S. Senate campaign in Texas starting in September 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Rep. Jasmine Crockett raise more than $20 million for her U.S. Senate campaign in Texas starting in December 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did \"Late Show\" host Stephen Colbert interview James Talarico about his U.S. Senate campaign in Texas in early 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Democratic primary for U.S. Senate in Texas in March 2026 tally more than 2.2 million votes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did James Talarico argue that Democrats should focus primarily on reenergizing base voters, including Black and young voters, for the November 2026 general election in Texas?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Rep. Jasmine Crockett enter the Democratic primary for U.S. Senate in Texas in December 2025?",
+    "a": "Yes"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did US Ambassador to Israel Mike Huckabee disavow the belief that the Bible promised the land between the Nile and the Euphrates to Israel during his interview with Tucker Carlson in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli opposition leader Yair Lapid state in February 2026 that Zionism is based on the Bible and that the biblical borders of the land of Israel are clear?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israel return the Sinai Peninsula to Egypt in 1982 after occupying it since the 1967 war?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Irgun, a Zionist armed group, include a map of both Palestine and Jordan in its emblem prior to 1948?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Saudi Arabia, Egypt, and Turkiye condemn US Ambassador Mike Huckabee's support for Greater Israel in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli Finance Minister Bezalel Smotrich give a speech in 2024 at a podium displaying a map that showed Jordan as part of Israel?",
+    "a": "No"
+  },
+  {
+    "q": "Did the 1948 war result in Israel taking control of all of Mandatory Palestine, including the West Bank and the Gaza Strip?",
+    "a": "No"
+  },
+  {
+    "q": "Did an expansion of Israeli settlements into Gaza receive support from far-right Israeli parties in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the British Mandate for Palestine, created by the League of Nations, geographically limit Israel upon its creation in 1948?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US Ambassador Mike Huckabee state that it would be fine if Israel took all the land between the Nile and the Euphrates during an interview with Tucker Carlson in January 2026?",
+    "a": "No"
+  }
+]

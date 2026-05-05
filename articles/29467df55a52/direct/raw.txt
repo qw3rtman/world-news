@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Goldman Sachs raise its 2026 Brent crude oil forecast to $85 a barrel in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did J.P. Morgan expect Brent crude prices to average $100 per barrel in the second quarter of 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. West Texas Intermediate crude settle at $112.18 a barrel in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran threaten to strike energy and water infrastructure across the Gulf in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did oil prices surge more than 50% in February 2026 according to the article?",
+    "a": "No"
+  },
+  {
+    "q": "Did Goldman Sachs cite prolonged disruptions in Strait of Hormuz shipments as a reason for its forecast revision in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump threaten to attack Iran's electricity grid in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did J.P. Morgan expect Brent crude prices to average $85 a barrel in the second quarter of 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Brent crude futures settle at their highest level since July 2022 in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S.-Israeli war on Iran last for more than six weeks as of March 23, 2026?",
+    "a": "No"
+  }
+]

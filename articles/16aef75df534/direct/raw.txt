@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the joint US-Israeli air attacks that killed Ayatollah Ali Khamenei occur in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump describe the operation to kill Ayatollah Ali Khamenei as a 'liberation' moment?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Islamic Revolutionary Guard Corps (IRGC) replace the regular army (Artesh) as Iran's primary military force?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ali Larijani, secretary of Iran’s Supreme National Security Council, state that an interim leadership council would soon be formed?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran’s Supreme Leader Ayatollah Ali Khamenei assume leadership in 1979 following the Islamic revolution?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Masoud Pezeshkian state that seeking revenge for the killing of Khamenei is Iran’s 'duty and legitimate right'?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Michael Mulroy, a former US deputy assistant secretary of defence, argue that air strikes alone are sufficient to facilitate regime change in Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Basij paramilitary volunteer militia become embedded in every neighbourhood specifically to crush internal dissent?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ali Shamkhani, adviser to Ayatollah Ali Khamenei, survive the joint US-Israeli air attacks in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Hassan Ahmadian, a professor at the University of Tehran, suggest that the era of 'strategic patience' died with the supreme leader?",
+    "a": "Yes"
+  }
+]

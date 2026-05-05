@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the price of silver decrease by $0.72 per ounce on Monday, March 2, 2026, compared to the same time on the previous day?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the price of silver valued at $94.26 per ounce at 8:45 a.m. Eastern Time on Monday, March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the price of silver increase by more than $62 over the past year leading up to Monday, March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Joseph Hostetler a staff writer on Fortune's personal finance commerce team?",
+    "a": "Yes"
+  },
+  {
+    "q": "Has Joseph Hostetler previously served as a reporter and editor at Business Insider?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the price of silver increase by $0.72 per ounce on Monday, March 2, 2026, compared to the same time on the previous day?",
+    "a": "No"
+  },
+  {
+    "q": "Was the price of silver valued at $94.98 per ounce at 8:45 a.m. Eastern Time on Monday, March 2, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Has Joseph Hostetler previously served as a reporter and editor at The New York Times?",
+    "a": "No"
+  },
+  {
+    "q": "Is Joseph Hostetler a senior editor at CNN?",
+    "a": "No"
+  },
+  {
+    "q": "Did the price of silver decrease by more than $62 over the past year leading up to Monday, March 2, 2026?",
+    "a": "No"
+  }
+]

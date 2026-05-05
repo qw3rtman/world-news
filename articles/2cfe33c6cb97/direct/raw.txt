@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the joint US-Israeli airstrike operation on Iran occur on Monday, March 09, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the joint US-Israeli airstrike operation kill 49 top Iranian leaders in a single day?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the joint US-Israeli airstrike operation result in the destruction of Iran’s leadership?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the joint US-Israeli airstrike operation move slower than anyone anticipated?",
+    "a": "No"
+  },
+  {
+    "q": "Did the White House demonstrate a determination to engage in nation-building following the airstrike operation?",
+    "a": "No"
+  },
+  {
+    "q": "Did the White House demand total victory despite its aversion to nation-building?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article examine four emerging scenarios for Iran’s future?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article examine three emerging scenarios for Iran’s future?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article weigh the hopes of exiled activists against the White House's stance?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article weigh the hopes of Iranian military generals against the White House's stance?",
+    "a": "No"
+  }
+]

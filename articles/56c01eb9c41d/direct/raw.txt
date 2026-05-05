@@ -1,0 +1,40 @@
+{
+  "q": "Did the price of Brent crude oil settle above $90 a barrel on Friday afternoon in March 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did the price of West Texas Intermediate crude oil settle above $90 a barrel on Friday afternoon in March 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did U.S. President Donald Trump demand 'unconditional surrender' from Iran in March 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did Kuwait cut oil production in March 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did the article report that oil prices had fallen below $80 a barrel in March 2026?",
+  "a": "No"
+}
+{
+  "q": "Did U.S. President Donald Trump demand 'immediate ceasefire' from Iran in March 2026?",
+  "a": "No"
+}
+{
+  "q": "Did Saudi Arabia cut oil production in March 2026?",
+  "a": "No"
+}
+{
+  "q": "Did the price of Brent crude oil settle below $80 a barrel on Friday afternoon in March 2026?",
+  "a": "No"
+}
+{
+  "q": "Did the article attribute the rise in oil prices to a war involving Iraq in March 2026?",
+  "a": "No"
+}
+{
+  "q": "Did the article report that West Texas Intermediate crude oil settled below $80 a barrel on Friday afternoon in March 2026?",
+  "a": "No"
+}

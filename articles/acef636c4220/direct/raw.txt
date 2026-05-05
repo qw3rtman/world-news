@@ -1,0 +1,22 @@
+{
+  "q": "Did Treasury Secretary Scott Bessent state that a potential delay in the meeting between U.S. President Donald Trump and Chinese Leader Xi Jinping would be due to logistical reasons rather than political demands?",
+  "a": "Yes",
+  "q": "Did U.S. President Donald Trump suggest that the summit could be delayed because China was not helping to reopen the Strait of Hormuz?",
+  "a": "No",
+  "q": "Is the scheduled visit by U.S. President Donald Trump to China set to occur from March 31 to April 2?",
+  "a": "Yes",
+  "q": "Is the scheduled visit by U.S. President Donald Trump to China the first visit by a U.S. president to that country since 2017?",
+  "a": "Yes",
+  "q": "Did Treasury Secretary Scott Bessent make his comments regarding the summit delay during an appearance on CNN’s \"Anderson Cooper 360\"?",
+  "a": "No",
+  "q": "Did the Supreme Court previously rule that the initial tariff tool used by the Trump administration was unlawful?",
+  "a": "Yes",
+  "q": "Did the United States and China agree to a permanent end to their trade war during the meeting in South Korea five months ago?",
+  "a": "No",
+  "q": "Is the Strait of Hormuz responsible for carrying roughly 20% of the world’s oil supply?",
+  "a": "Yes",
+  "q": "Did Treasury Secretary Scott Bessent state that the markets should react negatively to the possibility of the Trump-Xi summit being postponed?",
+  "a": "No",
+  "q": "Is the new U.S. trade investigation into China being conducted under Section 301 of the Trade Act of 1974?",
+  "a": "Yes"
+}

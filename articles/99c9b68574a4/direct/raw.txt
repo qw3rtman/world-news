@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Liberty Global Ltd. agree to buy out Vodafone Group Plc's stake in the Dutch telecommunications company VodafoneZiggo in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the buyout transaction valued at €1 billion in cash plus a stake in a new holding company?",
+    "a": "Yes"
+  },
+  {
+    "q": "Will Vodafone receive a 10% stake in the newly formed Ziggo Group?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the newly formed Ziggo Group include Liberty Global’s interest in the Belgian telecom Telenet Group?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the newly formed Ziggo Group include Liberty Global’s interest in the Spanish telecom Telefonica?",
+    "a": "No"
+  },
+  {
+    "q": "Did Liberty Global plan to list Ziggo Group in Amsterdam in 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Liberty Global plan to spin off its entire 90% holding of Ziggo Group to shareholders?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Vodafone receive a 90% stake in the newly formed Ziggo Group?",
+    "a": "No"
+  },
+  {
+    "q": "Was the buyout transaction valued at $1.2 billion in stock?",
+    "a": "No"
+  },
+  {
+    "q": "Did Liberty Global plan to list Ziggo Group in London?",
+    "a": "No"
+  }
+]

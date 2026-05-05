@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did analysts and former government officials report that preparations for the summit between US President Donald Trump and Chinese leader Xi Jinping were inadequate as of late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the planned summit between US President Donald Trump and Chinese leader Xi Jinping scheduled to take place in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump delegate the primary responsibility for summit planning to a large team of experienced diplomats in early 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Chinese leader Xi Jinping and US President Donald Trump hold a telephone call earlier in February 2026 to ease fears that the summit might be cancelled?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Chinese officials express satisfaction with the US planning process for the February 2026 summit, viewing it as an opportunity?",
+    "a": "No"
+  },
+  {
+    "q": "Did a former US official close to the planning details describe the preparation team as a handful of people who had never organized such a summit before?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump rely heavily on established bureaucratic processes and detailed agendas as the organizing principles for the 2026 Beijing summit?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article state that the planning deficit reflected cultural differences between Beijing, which prefers heavily staged events, and Washington, which is more tolerant of spontaneity?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump publicly endorse the Chinese government's approach to summit planning as superior to the US approach in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article identify Mark Magnier as the reporter for the South China Morning Post piece published on February 26, 2026?",
+    "a": "Yes"
+  }
+]

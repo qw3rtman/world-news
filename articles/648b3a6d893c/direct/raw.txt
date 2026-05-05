@@ -1,0 +1,40 @@
+{
+  "q": "Did the election for the next United Nations secretary-general take place in March 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Is the term for the next United Nations secretary-general scheduled to last for ten years?",
+  "a": "No"
+}
+{
+  "q": "Will the five-year term for the next United Nations secretary-general begin on January 1, 2027?",
+  "a": "Yes"
+}
+{
+  "q": "Is the current United Nations secretary-general named Annalena Baerbock?",
+  "a": "No"
+}
+{
+  "q": "Did Sierra Leone, serving as president of the U.N. Security Council, send a joint letter soliciting nominations for the next secretary-general?",
+  "a": "Yes"
+}
+{
+  "q": "Did Annalena Baerbock, president of the 193-member General Assembly, send a joint letter soliciting nominations for the next secretary-general?",
+  "a": "Yes"
+}
+{
+  "q": "Was the joint letter soliciting nominations for the next United Nations secretary-general sent on November 25?",
+  "a": "Yes"
+}
+{
+  "q": "Does the U.N. Security Council consist of 193 members?",
+  "a": "No"
+}
+{
+  "q": "Did the race for the next United Nations secretary-general formally start with the sending of a joint letter on November 25?",
+  "a": "Yes"
+}
+{
+  "q": "Is the successor to current U.N. chief Antonio Guterres being chosen through a process that excludes the U.N. Security Council?",
+  "a": "No"
+}

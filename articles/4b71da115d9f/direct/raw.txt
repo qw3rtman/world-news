@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Ayatollah Ali Khamenei, the Iranian Supreme Leader, die at the age of 86 in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Were the airstrikes that killed Ayatollah Ali Khamenei in March 2026 conducted jointly by the United States and Israel?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ayatollah Ali Khamenei assume the role of Supreme Leader of Iran immediately following the death of Ayatollah Ruhollah Khomeini in 1979?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ayatollah Ali Khamenei intervene in the 2009 Iranian presidential elections to ensure the victory of Mahmoud Ahmadinejad?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump withdraw the United States from the 2015 Iran nuclear agreement during his second term in office?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ayatollah Ali Khamenei rely on the Islamic Revolutionary Guard Corps to build his power base and sideline other political figures?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ayatollah Ali Khamenei successfully negotiate a new nuclear deal with the United States in early 2025 before the strikes occurred?",
+    "a": "No"
+  },
+  {
+    "q": "Did analysts state that Iran increased its nuclear enrichment to a point close to bomb capability after the U.S. withdrawal from the 2015 deal?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ayatollah Ali Khamenei have strong religious credentials that made him feel secure in his position from the start of his rule?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ayatollah Ali Khamenei develop proxies such as Hezbollah in Lebanon and Hamas in Gaza as part of Iran's defensive policies?",
+    "a": "Yes"
+  }
+]

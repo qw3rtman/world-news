@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Brent crude oil prices briefly top $119 a barrel on Thursday, March 19, 2026, following fresh attacks on energy infrastructure?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ryan Sweet, chief global economist at Oxford Economics, state that every penny increase in gasoline prices reduces consumer spending by one and a half billion dollars over the course of a year?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. experience a mild economic contraction in March 2026 as a result of oil prices approaching 2008 levels?",
+    "a": "No"
+  },
+  {
+    "q": "Did average gasoline prices in the U.S. reach $3.88 per gallon on Thursday, March 19, 2026, according to data from AAA?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Senator Ted Cruz endorse the \"big, beautiful bill\" act as the primary reason for increased consumer tax refunds in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did a March 11 Oxford Economics research note suggest that U.S. layoffs could rise if Brent oil prices rose to $140 per barrel and remained there for two months?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Consumer Price Index jump to an annual pace of 6% in March 2026 due to oil prices increasing to $150 per barrel for three months?",
+    "a": "No"
+  },
+  {
+    "q": "Did the nonpartisan Tax Foundation estimate that the average tax refund in 2026 would be $748?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did diesel fuel prices in the U.S. surpass $5 a gallon for the first time since 2022 in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did TD Securities predict that oil prices would stabilize at $119 a barrel if the Middle East conflict ended in April 2026?",
+    "a": "No"
+  }
+]

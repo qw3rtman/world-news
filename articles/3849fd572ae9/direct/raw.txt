@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump announce on Sunday, March 1, 2026, that the U.S. military had destroyed nine Iranian warships?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Pentagon deploy B-2 stealth bombers from the U.S. to strike hardened, underground Iranian missile facilities during the conflict described in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. strikes in March 2026 largely destroy Iran's naval headquarters according to President Trump?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. military's Central Command confirm that five U.S. servicemembers were killed in combat on Sunday, March 1, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran's military retaliate against the U.S. with hundreds of missile and drone attacks during the conflict in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump announce in March 2026 that the U.S. military had already sunk all of Iran's Navy warships?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Pentagon use 2,000-lb bombs during its bombings of Iran's military in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. military's Central Command report that another five U.S. servicemembers were killed, rather than seriously wounded, during the conflict in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump make his announcement regarding the sinking of Iran's Navy via a social media post in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state in March 2026 that Iran's Navy was doing very well other than the ships being sunk?",
+    "a": "No"
+  }
+]

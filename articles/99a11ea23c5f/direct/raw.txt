@@ -1,0 +1,22 @@
+{
+  "q": "Did Nvidia invest $2 billion in Nebius stock in March 2026?",
+  "a": "Yes",
+  "q": "Did Nvidia invest $2 billion in CoreWeave stock in March 2026?",
+  "a": "No",
+  "q": "Does Nebius have cloud-computing deals with Microsoft in March 2026?",
+  "a": "Yes",
+  "q": "Does Nebius have cloud-computing deals with Amazon in March 2026?",
+  "a": "No",
+  "q": "Did Nebius stock rise by double-digits on Wednesday in March 2026?",
+  "a": "Yes",
+  "q": "Did Nebius stock fall by double-digits on Wednesday in March 2026?",
+  "a": "No",
+  "q": "Is Nvidia described as a chip maker in March 2026?",
+  "a": "Yes",
+  "q": "Is Nvidia described as a cloud-computing company in March 2026?",
+  "a": "No",
+  "q": "Is Nebius described as an AI cloud company in March 2026?",
+  "a": "Yes",
+  "q": "Is Meta Platforms described as a chip maker in March 2026?",
+  "a": "No"
+}

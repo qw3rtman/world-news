@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Google release Gemini 3.1 Pro in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Gemini 3.1 Pro the first Google AI model to include an advanced reasoning engine?",
+    "a": "No"
+  },
+  {
+    "q": "Does Gemini 3.1 Pro generate animated SVGs directly from text prompts?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Gemini 3.1 Pro score 77.1% on the GPQA Diamond benchmark?",
+    "a": "No"
+  },
+  {
+    "q": "Is Google AI Studio a platform where developers can access Gemini 3.1 Pro?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Gemini 3.1 Pro the first Google AI model to use a .1 increment in its naming convention?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Gemini 3.1 Pro achieve a score of 94.3% on the ARC-AGI-2 benchmark?",
+    "a": "No"
+  },
+  {
+    "q": "Are Google AI Pro and Ultra subscribers eligible for higher usage limits when accessing Gemini 3.1 Pro?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Gemini 3.1 Pro currently available for general public access without any preview restrictions?",
+    "a": "No"
+  },
+  {
+    "q": "Does Gemini 3.1 Pro use pure code rather than pixels to build its animated SVG outputs?",
+    "a": "Yes"
+  }
+]

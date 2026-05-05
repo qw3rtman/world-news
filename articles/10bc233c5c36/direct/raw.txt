@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump state that the war against Iran could be short-lived in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran select Ayatollah Mojtaba Khamenei as its new supreme leader in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. stock prices fall sharply and remain low throughout March 9, 2026, due to war fears?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian Revolutionary Guard spokesperson Ali Mohammad Naini state that Iran would determine when the war ends in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the war between the United States and Iran begin in June 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli military forces carry out strikes on the Iranian city of Isfahan in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump express satisfaction with the selection of Mojtaba Khamenei as Iran's supreme leader in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the International Maritime Organization report that attacks on merchant ships near the Strait of Hormuz had killed at least seven mariners by March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Turkey report that NATO defenses intercepted a ballistic missile that entered its airspace for the first time since the war started in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the war result in the death of at least seven U.S. service members by March 2026?",
+    "a": "Yes"
+  }
+]

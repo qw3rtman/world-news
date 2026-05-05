@@ -1,0 +1,22 @@
+{
+  "q": "Did Senate Majority Leader John Thune state that a Senate vote on the DHS funding bill would not take place on Friday, March 6, 2026?",
+  "a": "Yes",
+  "q": "Is Senate Minority Leader Chuck Schumer expected to vote against the DHS funding bill unless ICE tactics are reformed?",
+  "a": "Yes",
+  "q": "Did the House of Representatives pass the DHS funding bill (HR 7744) on Thursday, March 5, 2026?",
+  "a": "Yes",
+  "q": "Was Kristi Noem removed as Homeland Security secretary by President Donald Trump on March 5, 2026?",
+  "a": "Yes",
+  "q": "Is the partial government shutdown projected to reach day 24 by the end of the weekend following the March 6, 2026 recess?",
+  "a": "Yes",
+  "q": "Did the Senate vote to pass the DHS funding bill on Friday, March 6, 2026, after two prior failures?",
+  "a": "No",
+  "q": "Is the DHS funding bill expected to pass the Senate on Monday, March 9, 2026, with only 50 votes?",
+  "a": "No",
+  "q": "Were ICE and Border Patrol agencies among those facing a funding lapse during the March 2026 shutdown?",
+  "a": "No",
+  "q": "Was the longest government shutdown in history the 43-day shutdown that occurred in 2026?",
+  "a": "No",
+  "q": "Did the House of Representatives fail to pass a war powers vote to rein in President Donald Trump's war in Iran on Thursday, March 5, 2026?",
+  "a": "No"
+}

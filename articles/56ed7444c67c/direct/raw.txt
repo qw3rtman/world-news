@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did a drone attack on Cyprus prompt the UK and European nations to scramble for defense in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States and Israel launch attacks on Iran in the weekend preceding March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did European leaders call for de-escalation immediately after the US and Israel attacked Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the conflict in March 2026 primarily driven by Russia's ongoing invasion of Ukraine rather than tensions with Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did the drone attack occur at RAF Akrotiri air base near Limassol, Cyprus, in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was Cyprus considered Europe's western outpost during the March 2026 conflict?",
+    "a": "No"
+  },
+  {
+    "q": "Were European resources described as stretched due to the war in Ukraine during the March 2026 Iran conflict?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Kingdom and European nations successfully avoid any involvement in the March 2026 Iran war?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article report that oil shock risks were a factor in the March 2026 Iran conflict?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the drone attack on Cyprus occur in February 2026, prior to the US and Israel's attacks on Iran?",
+    "a": "No"
+  }
+]

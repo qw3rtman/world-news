@@ -1,0 +1,22 @@
+{
+  "q": "Did the article published in March 2026 state that a geographically distant conflict is having immediate consequences across the Indo-Pacific?",
+  "a": "Yes",
+  "q": "Did the article published in March 2026 claim that China is moving from embodied intelligence to AI in the cloud?",
+  "a": "No",
+  "q": "Did the article published in March 2026 identify elderly people living alone in poorly ventilated homes as being at greatest risk during soaring temperatures?",
+  "a": "Yes",
+  "q": "Did the article published in March 2026 state that nuclear accidents have become opportunities to strengthen nuclear safety while conveniently forgetting the lasting harm done to victims?",
+  "a": "Yes",
+  "q": "Did the article published in March 2026 discuss moral panic, memory, and symbolic politics in Kazakhstan?",
+  "a": "No",
+  "q": "Did the article published in March 2026 mention energy disruptions as a consequence of the geographically distant conflict?",
+  "a": "Yes",
+  "q": "Did the article published in March 2026 suggest that nuclear accidents have led to increased forgetting of the harm done to victims rather than strengthening safety?",
+  "a": "No",
+  "q": "Did the article published in March 2026 highlight alliance tensions as a consequence of the geographically distant conflict?",
+  "a": "Yes",
+  "q": "Did the article published in March 2026 state that China is moving from physical, real-world applications to AI in the cloud?",
+  "a": "No",
+  "q": "Did the article published in March 2026 identify elderly people living alone in well-ventilated homes as being at greatest risk during soaring temperatures?",
+  "a": "No"
+}

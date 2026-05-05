@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did US Treasury Secretary Scott Bessent and China’s Vice-Premier He Lifeng plan to meet in Paris in mid-March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump and Chinese President Xi Jinping meet in Paris in mid-March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was US Trade Representative Jamieson Greer expected to attend the mid-March 2026 meeting with Chinese Vice-Premier He Lifeng?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Chinese Foreign Minister Wang Yi support the US strikes against Iran in early March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was US President Donald Trump scheduled to visit China between March 31 and April 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Had US President Donald Trump visited China prior to his scheduled 2026 trip?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Supreme Court uphold the US fentanyl tariffs in early 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the mid-March 2026 meeting between US and Chinese trade officials occur before the Supreme Court struck down the fentanyl tariffs?",
+    "a": "No"
+  },
+  {
+    "q": "Did Chinese Vice-Premier He Lifeng and US Treasury Secretary Scott Bessent previously meet in Geneva in May 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the mid-March 2026 meeting between US and Chinese trade officials confirmed by the Chinese government before March 3, 2026?",
+    "a": "No"
+  }
+]

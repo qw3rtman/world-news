@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did UBS raise its average Brent crude oil price forecast for the full year 2026 on March 4, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did UBS cite the near de facto closure of the Strait of Hormuz as a reason for raising its 2026 Brent crude oil price forecasts?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did UBS set its average Brent crude oil price forecast for 2027 at $72 per barrel in the March 4, 2026 report?",
+    "a": "No"
+  },
+  {
+    "q": "Did UBS raise its previous forecast for the full year 2026 Brent crude oil price by $10 per barrel?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did UBS predict that a prolonged closure of the Strait of Hormuz would drive Brent crude oil prices below $90 per barrel?",
+    "a": "No"
+  },
+  {
+    "q": "Did UBS state that Brent crude oil prices were unlikely to retreat to the $60 per barrel level seen at the start of 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. West Texas Intermediate crude trade near $82.32 per barrel on March 4, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did UBS leave its forecasts for 2027 and 2028 unchanged at $70 and $75 per barrel respectively in the March 4, 2026 report?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did UBS report that strikes on Qatar LNG infrastructure could lift Brent crude oil prices above $100 per barrel?",
+    "a": "No"
+  },
+  {
+    "q": "Did Brent crude oil close at its highest level since January 2025 on March 3, 2026?",
+    "a": "Yes"
+  }
+]

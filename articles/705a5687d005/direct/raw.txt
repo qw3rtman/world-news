@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump state that the war against Iran could be short-lived in a comment made on Monday, March 9, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran select Ayatollah Mojtaba Khamenei as its new supreme leader in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did oil prices briefly reach their highest level since 2022 following the selection of Iran's new supreme leader in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump threaten to hit Iran twenty times harder if Iran disrupted oil flow through the Strait of Hormuz in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Russian President Vladimir Putin voice ideas regarding a quick political and diplomatic settlement of the Iran war during a call with U.S. President Donald Trump on March 9, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the war between the United States and Iran start in January 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian Supreme Leader Ayatollah Ali Khamenei survive the opening salvo of the war in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli military strikes in March 2026 target the city of Isfahan in addition to Tehran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. stock markets experience a manic day with prices swinging from steep losses to solid gains due to war uncertainty on March 9, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran-backed Hezbollah fire rockets into Israel from Syria on Monday, March 9, 2026?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Minneapolis Fed President Neel Kashkari state that US-Israeli attacks on Iran had introduced uncertainty for policymakers in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Federal Reserve official Neel Kashkari speak at the Bloomberg Invest conference in New York in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Federal Reserve official Neel Kashkari declare that it was too soon to know the imprint of the Iran conflict on inflation in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Federal Reserve official Neel Kashkari identify the duration of elevated energy prices as a central question for policymakers in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Federal Reserve official Neel Kashkari speak at the Bloomberg Invest conference in Washington, D.C. in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Federal Reserve official Neel Kashkari state that the US-Iraqi attacks on Iran had introduced uncertainty for policymakers in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Federal Reserve official Neel Kashkari state that it was too soon to know the imprint of the Iran conflict on employment in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Federal Reserve official Neel Kashkari identify the duration of elevated housing prices as a central question for policymakers in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Federal Reserve official Neel Kashkari speak at the Bloomberg Invest conference in Chicago in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Federal Reserve official Neel Kashkari state that the US-Russian attacks on Iran had introduced uncertainty for policymakers in March 2026?",
+    "a": "No"
+  }
+]

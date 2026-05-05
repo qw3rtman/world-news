@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Israel kill Ali Larijani, the Iranian security chief, as confirmed by the Iranian government on Tuesday in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Ali Larijani the most senior Iranian figure targeted since the first day of the U.S.-Israeli war in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's new supreme leader reject de-escalation offers conveyed by intermediary countries in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Iranian government confirm the killing of Ali Larijani on Monday in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was Ali Larijani the most junior figure targeted by Israel since the first day of the U.S.-Israeli war in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran's new supreme leader accept de-escalation offers conveyed by intermediary countries in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the killing of Ali Larijani confirmed by the United States government on Tuesday in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was Ali Larijani a senior U.S. official targeted by Israel since the first day of the U.S.-Israeli war in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Were de-escalation offers in March 2026 conveyed directly by Israel rather than intermediary countries?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran's new supreme leader reject de-escalation offers conveyed by the United Nations in March 2026?",
+    "a": "No"
+  }
+]

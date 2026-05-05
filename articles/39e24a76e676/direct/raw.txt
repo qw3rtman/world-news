@@ -1,0 +1,22 @@
+{
+  "q": "Did U.S. President Donald Trump consider deploying special forces to seize Iran’s near-bomb-grade uranium in March 2026?",
+  "a": "Yes",
+  "q": "Did U.S. officials express concern that Iran’s uranium stockpile may have been moved in March 2026?",
+  "a": "Yes",
+  "q": "Did three diplomatic officials provide information to Fortune regarding the potential seizure of Iran’s uranium in March 2026?",
+  "a": "Yes",
+  "q": "Did U.S. President Donald Trump decide to deploy special forces to seize Iran’s near-bomb-grade uranium in March 2026?",
+  "a": "No",
+  "q": "Did U.S. officials express concern that Iran’s uranium stockpile was intact and stationary in March 2026?",
+  "a": "No",
+  "q": "Did three military generals provide information to Fortune regarding the potential seizure of Iran’s uranium in March 2026?",
+  "a": "No",
+  "q": "Did U.S. President Donald Trump consider deploying naval forces to seize Iran’s near-bomb-grade uranium in March 2026?",
+  "a": "No",
+  "q": "Did U.S. officials express concern that Iran’s uranium stockpile had been destroyed in March 2026?",
+  "a": "No",
+  "q": "Did three diplomatic officials provide information to The New York Times regarding the potential seizure of Iran’s uranium in March 2026?",
+  "a": "No",
+  "q": "Did U.S. President Donald Trump consider deploying special forces to seize Iran’s low-enriched uranium in March 2026?",
+  "a": "No"
+}

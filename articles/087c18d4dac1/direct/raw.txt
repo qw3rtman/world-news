@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Brent crude oil prices jump 10 per cent to about US$80 a barrel on Sunday, March 1, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. and Israeli strikes on Iran cause oil traders to predict prices could climb as high as US$100 a barrel?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the global oil benchmark reach US$73 a barrel on Friday, February 27, 2026, for its highest level since July 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ajay Parmar, director of energy and refining at ICIS, identify the closing of the Strait of Hormuz as the key factor supporting oil prices?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did more than 20 per cent of global oil move through the Strait of Hormuz before shipments were suspended?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the OPEC+ group agree to raise output by 206,000 barrels per day starting in May 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did RBC analyst Helima Croft report that Middle East leaders warned Washington oil prices could jump to more than US$100 a barrel?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Rabobank analysts predict that oil prices would hold above US$100 a barrel in the near term?",
+    "a": "No"
+  },
+  {
+    "q": "Did Rystad energy economist Jorge Leon estimate that the net impact of the Strait of Hormuz closure would be a loss of 8 million to 10 million barrels per day of crude oil supply?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Kpler analysts suggest in a webinar on Sunday, March 1, 2026, that India might turn to Chinese oil to make up for potential Middle East supply loss?",
+    "a": "No"
+  }
+]

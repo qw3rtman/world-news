@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Israeli Defence Minister Israel Katz authorize the Israel Defense Forces to seize additional strategic positions in Lebanon on March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli military spokesman Brigadier General Effie Defrin state that troops were creating a buffer zone inside Lebanon on March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Lebanese army redeploy soldiers from border positions on March 3, 2026, citing safety dangers due to Israeli escalation?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Hezbollah claim it launched an initial rocket attack on Israel on March 2, 2026, to avenge the killing of Iranian supreme leader Ayatollah Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Israeli military report killing Hezbollah's intelligence chief, Hussein Muakalled, on March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump declare an immediate ban on Hezbollah's military activities in Lebanon on March 2, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Israeli military strike more than 160 Hezbollah targets in south Lebanon on March 3, 2026, including members of the Radwan Force?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli forces fully withdraw from all Lebanese territory by November 2024 as originally planned under the ceasefire agreement?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli military chief Lieutenant General Eyal Zamir state on March 3, 2026, that Israel was determined to eliminate Hezbollah until it was disarmed?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Lebanese government declare an immediate ban on Hezbollah's military activities on March 3, 2026, in response to the rocket attack?",
+    "a": "No"
+  }
+]

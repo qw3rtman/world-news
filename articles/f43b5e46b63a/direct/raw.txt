@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did CrowdStrike and Nebius announce a partnership in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Nebius headquartered in Austin, Texas?",
+    "a": "No"
+  },
+  {
+    "q": "Does the CrowdStrike Falcon platform integrate directly into Nebius’s AI cloud environment?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Daniel Bernard, Chief Revenue Officer at Nebius, state that AI companies need infrastructure that performs predictably at scale?",
+    "a": "No"
+  },
+  {
+    "q": "Is Nebius listed on the Nasdaq stock exchange?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the partnership involve integrating the Falcon platform with AWS infrastructure?",
+    "a": "No"
+  },
+  {
+    "q": "Does the CrowdStrike Falcon platform use a single lightweight-agent architecture?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Mark Boroditsky the Chief Business Officer at CrowdStrike?",
+    "a": "No"
+  },
+  {
+    "q": "Is Nebius AI Cloud purpose-built for distributed AI workloads?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the partnership require organizations to disrupt their existing security architecture to scale AI?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. Treasury Secretary Scott Bessent and China’s Vice Premier He Lifeng plan to meet in Paris in mid-March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the planned mid-March 2026 meeting between U.S. and Chinese trade negotiators occur despite American military strikes against Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that the location of the mid-March 2026 trade negotiations was confirmed to be Beijing, China?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article identify U.S. Treasury Secretary Scott Bessent as the U.S. official expected to attend the mid-March 2026 negotiations?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that the Supreme Court had upheld the U.S. fentanyl tariffs scheduled to be discussed in mid-March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article mention that a possible Chinese purchase of Boeing planes was among the issues to be addressed in the mid-March 2026 talks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that China’s Vice Premier He Lifeng was expected to meet with U.S. Secretary of State Antony Blinken in Paris in mid-March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article indicate that commitments to buy U.S. soybeans were among the potential topics for the mid-March 2026 negotiations?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that the timing and location of the mid-March 2026 trade negotiations were fixed and could not shift?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article identify Taiwan as a self-ruled island that China views as its own in the context of the mid-March 2026 negotiations?",
+    "a": "Yes"
+  }
+]

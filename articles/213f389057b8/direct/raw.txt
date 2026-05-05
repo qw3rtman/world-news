@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Google acquire the Israeli cybersecurity firm Wiz for $32 billion in cash in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Wiz maintaining its own brand identity after joining Google Cloud?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Google initially offer $23 billion to acquire Wiz in 2024?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Wiz CEO Assaf Rappaport accept Google's initial $23 billion offer in 2024?",
+    "a": "No"
+  },
+  {
+    "q": "Did the European Union regulators approve the acquisition in November 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did Wiz cross $1 billion in annual recurring revenue in 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is this acquisition Google’s largest in its history?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. regulators approve the acquisition in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Will Wiz continue to secure customers across all cloud environments rather than only Google Cloud?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Google revive acquisition talks with Wiz in late 2024?",
+    "a": "No"
+  }
+]

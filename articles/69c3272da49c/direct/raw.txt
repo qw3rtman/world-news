@@ -1,0 +1,22 @@
+{
+  "q": "Did the United Kingdom prepare a warship to defend Cyprus from Iranian missiles in March 2026?",
+  "a": "Yes",
+  "q": "Was the warship identified as HMS Duncan in the United Kingdom's March 2026 deployment plans to defend Cyprus?",
+  "a": "Yes",
+  "q": "Was the RAF Akrotiri hit by an Iranian missile in the events leading to the March 2026 UK warship preparation?",
+  "a": "No",
+  "q": "Was the warship HMS Duncan deployed to Cyprus in a combat role rather than a defensive role in March 2026?",
+  "a": "No",
+  "q": "Did the United States prepare a warship to defend Cyprus from Iranian missiles in March 2026?",
+  "a": "No",
+  "q": "Was the RAF Akrotiri located in Cyprus when it was hit by an Iranian drone in the context of the March 2026 article?",
+  "a": "Yes",
+  "q": "Was the warship HMS Duncan deployed to defend Cyprus from Turkish missiles in March 2026?",
+  "a": "No",
+  "q": "Did the United Kingdom prepare a warship to defend Cyprus from Iranian drones in March 2026?",
+  "a": "No",
+  "q": "Was the RAF Akrotiri hit by an Iranian drone prior to the March 2026 UK warship preparation plans?",
+  "a": "Yes",
+  "q": "Was the warship HMS Duncan deployed to defend Cyprus from Russian missiles in March 2026?",
+  "a": "No"
+}

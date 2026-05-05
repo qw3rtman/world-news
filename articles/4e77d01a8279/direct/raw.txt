@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the price of gold reach its all-time high of $5,589.38 per ounce on January 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the price of gold start the year 2025 trading at approximately $2,624 per ounce?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the World Gold Council report that gold set roughly one new all-time high per week during 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the price of gold break through the $4,000 per ounce mark for the first time in late 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article attribute gold's rising demand primarily to a single brief market panic in early 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did the price of gold reach its all-time high of $5,589.38 per ounce in December 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did the price of gold start 2025 trading at approximately $3,000 per ounce?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article state that gold broke through the $4,000 per ounce mark for the first time in late 2024?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article identify sticky inflation and uneven economic data as factors driving investor behavior in 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article claim that central bank selling was the primary driver of gold's structural price support in 2025?",
+    "a": "No"
+  }
+]

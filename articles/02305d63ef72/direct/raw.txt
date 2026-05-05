@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Wood Mackenzie state that oil prices could hit $100 a barrel if transit flows through the Strait of Hormuz do not resume quickly in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Alan Gelder, senior VP of refining, chemicals and oil markets at Wood Mackenzie, say that tanker rates and insurance increases would be the primary driver of oil price impacts in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Alan Gelder indicate that the costs of increased tanker rates and insurance would be a small part of the total oil price impact if curtailments last more than a few days in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that oil exports could normalize within a few days even in an optimistic scenario where Iran cooperates with the U.S. in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Alan Gelder compare the potential upward pressure on oil prices to the early days of the Russia-Ukraine conflict in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did oil prices fall below $125 a barrel during the early days of the Russia-Ukraine conflict according to Alan Gelder in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article identify the Strait of Hormuz as the location where transit flows are critical for preventing oil prices from topping $100 a barrel in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that fears of supply losses during the early days of the Russia-Ukraine conflict pushed prices above $150 a barrel in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Alan Gelder state that the key question regarding oil markets in March 2026 is when vessels re-establish export flows?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article suggest that Iran's non-cooperation with the U.S. is the only scenario where oil exports could take weeks to normalize in March 2026?",
+    "a": "No"
+  }
+]

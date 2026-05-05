@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Public Storage agree to acquire National Storage Affiliates in an all-stock deal valued at approximately $10.5 billion in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Will shareholders of National Storage Affiliates receive 0.14 shares of Public Storage common stock for each share they own in the March 2026 acquisition?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the acquisition expected to close in the third quarter of 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Goldman Sachs and Wells Fargo provide $4 billion in committed financing to Public Storage to finance the March 2026 transaction?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does National Storage Affiliates own a portfolio of more than 1,000 self-storage properties across 37 U.S. states and Puerto Rico?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Public Storage acquire National Storage Affiliates for a cash payment of $10.5 billion in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the boards of trustees of Public Storage and National Storage Affiliates unanimously approve the March 2026 acquisition deal?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the joint venture formed ahead of the closing expected to be valued at roughly $3.3 billion with National Storage's operating partnership unitholders owning about 80% of the venture?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did analysts at JPMorgan Chase predict that Public Storage would increase in-store labor costs to improve National Storage Affiliates' performance in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is National Storage Affiliates a Colorado-based company that owns properties in 37 U.S. states and Puerto Rico?",
+    "a": "Yes"
+  }
+]

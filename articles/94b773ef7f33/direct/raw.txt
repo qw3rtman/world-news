@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did spot gold trade at $5182 on February 24, 2026, according to the article?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Supreme Court of the United States rule by a 6-3 margin on February 20, 2026, that President Donald Trump exceeded his authority in imposing tariffs under the International Emergency Economic Powers Act?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Federal Reserve Governor Christopher Waller state he would support a 25-basis-point rate cut at the March 17-18, 2026 meeting if the labor market weakens?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the annualized fourth-quarter advance U.S. GDP data released on February 20, 2026, come in at 2.8%?",
+    "a": "No"
+  },
+  {
+    "q": "Did the third round of nuclear talks between the United States and Iran take place on February 20, 2026, in Geneva?",
+    "a": "No"
+  },
+  {
+    "q": "Did the registered COMEX gold inventory fall to 17.17 million ounces on the date of the report, marking the lowest level since September 2024?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the new global 15% tariff regime imposed by President Donald Trump under Section 122 of the 1974 Trade Act come into effect on February 20, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Japan's nationwide CPI inflation cool to 1.5% year-over-year as of the data reported in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did money managers decrease their bullish gold bets in the week ending February 17, 2026, by 3,019 net-long positions?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Core PCE Price Index in December 2025 rise by 3% year-over-year, according to the data roundup in the article?",
+    "a": "Yes"
+  }
+]

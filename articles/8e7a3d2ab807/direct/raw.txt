@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did gold prices rise by Rs 7,000 per 10 grams on the Monday reported in the article published on March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did silver prices reach Rs 2.86 lakh per kg on the Monday reported in the article published on March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Aksha Kamboj, vice president at the India Bullion & Jewellers Association, state that sustained demand for gold could boost prices to new highs?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did crude oil prices climb following joint Israeli and US military strikes on Iran on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did gold prices surge by 125% earlier in the calendar year 2025 according to the article?",
+    "a": "No"
+  },
+  {
+    "q": "Did Renisha Chainani, head of research at Augmont Gold, advise investors to sell their positions due to soaring prices?",
+    "a": "No"
+  },
+  {
+    "q": "Did silver prices gain Rs 20,000 per kg on the Monday reported in the article published on March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did gold prices gain 30% since January according to the article published on March 3, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Aksha Kamboj state that the extent of the rally would depend on the outcome of the West Asian conflict?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is India described as being heavily reliant on Middle Eastern oil imports in the article published on March 3, 2026?",
+    "a": "Yes"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. private equity firm Thoma Bravo enter advanced talks to buy WWEX Group in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the proposed shipping technology business created by the combination of Thoma Bravo and WWEX Group valued at as much as $12 billion?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Bloomberg News report the potential deal on Monday, March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the buyout valuing WWEX Group at approximately $5 billion?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does Thoma Bravo plan to combine WWEX with Auctane, an e-commerce shipping software provider in its portfolio?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Thoma Bravo immediately respond to Reuters' request for comment regarding the deal on March 2, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did WWEX Group, which includes the Worldwide Express brand, provide a comment on the deal on March 2, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is WWEX Group a software-focused private equity firm?",
+    "a": "No"
+  },
+  {
+    "q": "Is the potential announcement of the deal scheduled for Wednesday, March 4, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Carlos Méndez report from Mexico City for this Reuters article on March 2, 2026?",
+    "a": "Yes"
+  }
+]

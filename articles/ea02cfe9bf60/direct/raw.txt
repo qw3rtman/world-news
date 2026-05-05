@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Israeli Foreign Minister Gideon Saar state that the war with Iran will end when Israel and the U.S. decide in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state that the war with Iran would not end this week in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did German Foreign Minister Johann Wadephul visit Israel in March 2026, marking the first public visit by a senior foreign official since the war began?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the war with Iran begin in February 2026, making it the 11th day of conflict as of March 10, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli Foreign Minister Gideon Saar provide a specific timeline for when the war with Iran would end in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did German Chancellor Friedrich Merz state that there appeared to be a plan to bring the war with Iran to a swift end in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Israeli military kill Ayatollah Ali Khamenei on the first day of the war with Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did fighting expand to Lebanon where Israel is battling Hezbollah in the war with Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did German Foreign Minister Johann Wadephul state that Iran was currently prepared to accept agreements on its nuclear and missile programs in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israel launch a surprise attack on Iran in June 2025 that ignited a 12-day war ending after the U.S. bombed key Iranian nuclear sites?",
+    "a": "Yes"
+  }
+]

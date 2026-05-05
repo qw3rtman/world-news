@@ -1,0 +1,22 @@
+{
+  "q": "Did Pakistan's prime minister offer to host peace talks between the United States and Iran in March 2026?",
+  "a": "Yes",
+  "q": "Did U.S. President Donald Trump postpone threats to bomb Iranian power plants in March 2026?",
+  "a": "Yes",
+  "q": "Did an Iranian missile strike occur in Tel Aviv in March 2026?",
+  "a": "Yes",
+  "q": "Did Pakistan's prime minister offer to host peace talks between the United States and Israel in March 2026?",
+  "a": "No",
+  "q": "Did U.S. President Donald Trump increase threats to bomb Iranian power plants in March 2026?",
+  "a": "No",
+  "q": "Did an Iranian missile strike occur in Tehran in March 2026?",
+  "a": "No",
+  "q": "Did the United States and Iran engage in talks described as 'productive' in March 2026?",
+  "a": "Yes",
+  "q": "Did Pakistan's prime minister offer to host peace talks between the United Kingdom and Iran in March 2026?",
+  "a": "No",
+  "q": "Did U.S. President Donald Trump cancel all threats regarding Iranian nuclear facilities in March 2026?",
+  "a": "No",
+  "q": "Did emergency personnel work at the scene of an Iranian missile strike in Tel Aviv in March 2026?",
+  "a": "Yes"
+}

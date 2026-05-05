@@ -1,0 +1,22 @@
+{
+  "q": "Did the U.S. and Israel conduct a strike on Iran over the weekend in early March 2026?",
+  "a": "Yes",
+  "q": "Did the U.S.-Israeli strike on Iran cause traffic disruptions to the Strait of Hormuz?",
+  "a": "Yes",
+  "q": "Did the strike escalate concerns about potential oil export blockages?",
+  "a": "Yes",
+  "q": "Did the article suggest the event could result in a repeat of the oil shock experienced in the 1970s?",
+  "a": "Yes",
+  "q": "Did the article state that crude oil costs had already dropped below $50 per barrel following the strike?",
+  "a": "No",
+  "q": "Did the article identify the Strait of Malacca as the key trade passage affected by the strike?",
+  "a": "No",
+  "q": "Did the article attribute the strike solely to the United States without Israeli involvement?",
+  "a": "No",
+  "q": "Did the article compare the potential economic impact to the oil shock of the 1990s?",
+  "a": "No",
+  "q": "Did the article claim that oil exports from Iran were completely halted immediately after the strike?",
+  "a": "No",
+  "q": "Did the article predict that crude costs would rival the 1973 oil shock specifically?",
+  "a": "No"
+}

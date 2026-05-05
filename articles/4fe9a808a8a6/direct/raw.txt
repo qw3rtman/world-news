@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump threaten to veto legislation until Congress approved voter ID legislation as part of the SAVE America Act in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did NBC News Senior National Political reporter Sahil Kapur discuss President Donald Trump's efforts to pass the SAVE America Act in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump state that the new provisions to the SAVE America Act strengthened his election message in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did CNN Senior National Political reporter Jake Tapper discuss President Donald Trump's efforts to pass the SAVE America Act in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump threaten to sign any bill immediately without conditions regarding voter ID legislation in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the SAVE America Act include voter ID legislation that President Donald Trump demanded be approved in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump threaten to not sign any bill until Congress approved gun control legislation in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did NBC News Senior National Political reporter Sahil Kapur report that the new provisions to the SAVE America Act 'undercut' the election message in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump threaten to not sign any bill until Congress approved healthcare reform legislation in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did NBC News Senior National Political reporter Sahil Kapur discuss President Donald Trump's efforts to pass the Affordable Care Act in March 2026?",
+    "a": "No"
+  }
+]

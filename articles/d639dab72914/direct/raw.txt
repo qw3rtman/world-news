@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump order federal agencies and military contractors to cease business with Anthropic in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Defense Secretary Pete Hegseth designate Anthropic as a \"supply chain risk\" in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Anthropic agree to allow the Pentagon to use its Claude AI system for autonomous weapons in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Pentagon have six months to phase out the use of Anthropic’s products in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did OpenAI have a contract worth up to $200 million to use Claude on the military’s classified networks in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Anthropic CEO Dario Amodei meet with Defense Secretary Pete Hegseth at the Pentagon in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the General Services Administration remove Anthropic from USAi.gov in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Nvidia CEO Jensen Huang state that the loss of the Pentagon contract would be \"the end of the world\" for Anthropic in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the Pentagon contract with Anthropic valued at up to $200 million in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Pentagon consider using the Defense Procurement Act to compel Anthropic to work with them in February 2026?",
+    "a": "Yes"
+  }
+]

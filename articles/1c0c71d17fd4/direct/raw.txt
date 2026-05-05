@@ -1,0 +1,22 @@
+{
+  "q": "Did the United Kingdom allow United States forces to use joint military bases in March 2026?",
+  "a": "Yes",
+  "q": "Is Sir Keir Starmer the Prime Minister of the United Kingdom as of March 2026?",
+  "a": "Yes",
+  "q": "Did the United Kingdom initiate the military conflict with Iran in March 2026?",
+  "a": "No",
+  "q": "Is the military conflict with Iran described as being launched by the United Kingdom in March 2026?",
+  "a": "No",
+  "q": "Are the United States and Israel described as launching the conflict with Iran in March 2026?",
+  "a": "Yes",
+  "q": "Did the United Kingdom ban United States forces from using its military bases in March 2026?",
+  "a": "No",
+  "q": "Did the decision to allow US base usage bring the United Kingdom closer to the conflict in March 2026?",
+  "a": "Yes",
+  "q": "Is France described as launching the conflict with Iran in March 2026?",
+  "a": "No",
+  "q": "Did Sir Keir Starmer make the decision regarding military base usage in March 2026?",
+  "a": "Yes",
+  "q": "Is the article dated March 5, 2026?",
+  "a": "No"
+}

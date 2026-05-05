@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did gasoline prices in the U.S. reach an average of $3.84 per gallon in March 2026, according to AAA data?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did diesel prices in California, Hawaii, and Washington top $6 per gallon in March 2026, according to AAA?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the price of Brent crude oil surge to as high as $111.45 per barrel on Wednesday afternoon in March 2026, according to FactSet?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump issue a 60-day waiver of the Jones Act on Wednesday in March 2026 to ease energy prices?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did gasoline prices in the U.S. jump on Wednesday in March 2026 as the Iran war continued to take a toll on energy infrastructure in the Middle East?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the price of benchmark U.S. crude rise to $111.45 per barrel in March 2026, according to FactSet?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran threaten to attack oil and gas infrastructure in the United States, Qatar, and Saudi Arabia in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Patrick De Haan, a petroleum expert at AAA, suggest that markets could shrug off concerns about escalating violence in the Persian Gulf in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did diesel prices top $5 per gallon for the first time since 2023 in March 2026, according to AAA?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Jones Act require goods shipped between American ports to be carried on ships that are foreign-built, foreign-flagged, and foreign-crewed in March 2026?",
+    "a": "No"
+  }
+]

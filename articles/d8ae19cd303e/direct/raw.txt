@@ -1,0 +1,22 @@
+{
+  "q": "Did President Donald Trump state that the US would consider striking areas in Iran that were not previously considered targets on March 7, 2026?",
+  "a": "Yes",
+  "q": "Did President Donald Trump make the announcement regarding potential new targets in Iran via a social media post in the early hours of Saturday, March 7, 2026?",
+  "a": "Yes",
+  "q": "Was the US and Israel bombardment of Tehran and other cities on March 7, 2026, the eighth day of the conflict?",
+  "a": "Yes",
+  "q": "Did President Donald Trump declare that the attacks on Iran would continue until Iran surrendered or completely collapsed on March 7, 2026?",
+  "a": "Yes",
+  "q": "Did explosions reported in Tehran result in visible smoke in the distance on March 6, 2026?",
+  "a": "Yes",
+  "q": "Did President Donald Trump state that the US would only target military installations in Iran on March 7, 2026?",
+  "a": "No",
+  "q": "Was the US and Israel bombardment of Tehran and other cities on March 7, 2026, the first day of the conflict?",
+  "a": "No",
+  "q": "Did President Donald Trump make the announcement regarding potential new targets in Iran via a formal press conference on March 7, 2026?",
+  "a": "No",
+  "q": "Did President Donald Trump declare that the attacks on Iran would continue until Iran signed a peace treaty on March 7, 2026?",
+  "a": "No",
+  "q": "Did explosions reported in Tehran result in no visible smoke in the distance on March 6, 2026?",
+  "a": "No"
+}

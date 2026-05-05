@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Abhilash Koikkara, Head of Forex & Commodities at Nuvama Professional Clients Group, state that gold prices are exhibiting a bullish bias in the article published on February 26, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article published on February 26, 2026, identify Rs 157,000 as the key support area for MCX Gold?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article published on February 26, 2026, recommend a stop-loss of 170,000 for MCX Gold trading?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article published on February 26, 2026, project that MCX Gold could advance toward the 170,000 level?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article published on February 26, 2026, state that silver prices are currently facing resistance on the weekly chart?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article published on February 26, 2026, identify Rs 280,000 as the immediate support level for MCX Silver?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article published on February 26, 2026, suggest that a decisive close below the 255,000 level for silver could temper its bullish bias?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article published on February 26, 2026, list the Current Market Price (CMP) for MCX Silver as 255,000?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article published on February 26, 2026, attribute the view that silver has rebounded from support after holding above its recent swing low for a third consecutive week to Abhilash Koikkara?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article published on February 26, 2026, state that The Times of India officially endorses the specific trading recommendations provided by Abhilash Koikkara?",
+    "a": "No"
+  }
+]

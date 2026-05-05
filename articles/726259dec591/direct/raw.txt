@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did US and Chinese trade negotiators schedule a meeting for mid-March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the planned meeting between US and Chinese trade negotiators in March 2026 scheduled for late April?",
+    "a": "No"
+  },
+  {
+    "q": "Did the scheduled trade negotiations in March 2026 signal that a summit between Donald Trump and Xi Jinping was proceeding?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the March 2026 trade negotiations indicate that the Donald Trump and Xi Jinping summit was being cancelled?",
+    "a": "No"
+  },
+  {
+    "q": "Did American strikes against Iran occur prior to the March 2026 US-China trade talks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Were American strikes against Iran the primary reason for cancelling the March 2026 US-China trade negotiations?",
+    "a": "No"
+  },
+  {
+    "q": "Did people familiar with the matter provide information regarding the mid-March 2026 trade negotiations?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the US Treasury Department officially announce the mid-March 2026 trade negotiations before people familiar with the matter spoke?",
+    "a": "No"
+  },
+  {
+    "q": "Was the Donald Trump and Xi Jinping summit planned to take place in the context of ongoing American strikes against Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the March 2026 trade negotiations take place in Beijing, China?",
+    "a": "No"
+  }
+]

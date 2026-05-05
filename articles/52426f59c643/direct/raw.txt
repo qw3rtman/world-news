@@ -1,0 +1,40 @@
+{
+  "q": "Did SAP offer $600 million to acquire FourKites?",
+  "a": "Yes"
+}
+{
+  "q": "Was the acquisition offer for FourKites reported in February 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Is FourKites a supply chain visibility provider?",
+  "a": "Yes"
+}
+{
+  "q": "Was FourKites backed by private equity?",
+  "a": "Yes"
+}
+{
+  "q": "Did SAP offer $600 million to acquire FourKites in January 2026?",
+  "a": "No"
+}
+{
+  "q": "Did SAP offer $600 million to acquire FourKites over a year ago?",
+  "a": "Yes"
+}
+{
+  "q": "Is end-to-end visibility considered a critical requirement for global supply chains?",
+  "a": "Yes"
+}
+{
+  "q": "Is process automation considered a critical requirement for global supply chains?",
+  "a": "Yes"
+}
+{
+  "q": "Did SAP offer $600 million to acquire FourKites in March 2026?",
+  "a": "No"
+}
+{
+  "q": "Did SAP offer $600 million to acquire a logistics software company named Flexport?",
+  "a": "No"
+}

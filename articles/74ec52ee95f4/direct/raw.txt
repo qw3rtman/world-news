@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did David Roche of Quantum Strategy state in February 2026 that he believes Iran's current regime could fall within a year?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did David Roche of Quantum Strategy state in February 2026 that he believes Iran's current regime will remain in power for at least five years?",
+    "a": "No"
+  },
+  {
+    "q": "Did David Roche of Quantum Strategy state in February 2026 that he expects Tehran to concede to U.S. demands to limit its nuclear program?",
+    "a": "No"
+  },
+  {
+    "q": "Did David Roche of Quantum Strategy state in February 2026 that Iran views its nuclear program as a threat to national sovereignty?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did David Roche of Quantum Strategy state in February 2026 that Iran views its nuclear program as a tool for regional expansion rather than a matter of national sovereignty?",
+    "a": "No"
+  },
+  {
+    "q": "Is Quantum Strategy the organization David Roche represents in his February 2026 comments on Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is BlackRock the organization David Roche represents in his February 2026 comments on Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article published on February 27, 2026, feature an interview or explanation by David Roche regarding Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article published on February 27, 2026, feature an interview or explanation by John Bolton regarding Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did David Roche of Quantum Strategy state in February 2026 that he does not see Tehran conceding to U.S. demands?",
+    "a": "Yes"
+  }
+]

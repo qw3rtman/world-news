@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Upgrad sign a term sheet to acquire Unacademy in an all-stock transaction in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Unacademy cofounder Gaurav Munjal announce that he would continue to lead the company after the acquisition?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Upgrad founder Ronnie Screwvala state that the agreement includes a break fee clause if the transaction does not close?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Unacademy complete a Rs 50 crore ESOP buyback with nearly 40% of former employees participating?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Unacademy acquire the startup PrepLadder as part of its expansion strategy?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Unacademy cofounder Gaurav Munjal disclose the specific valuation details of the all-stock deal in his March 2026 announcement?",
+    "a": "No"
+  },
+  {
+    "q": "Was Unacademy last valued at approximately $2.25 billion in 2024 according to Tracxn data?",
+    "a": "No"
+  },
+  {
+    "q": "Did Upgrad acquire the startup Internshala as part of its acquisition-led expansion strategy?",
+    "a": "No"
+  },
+  {
+    "q": "Did Unacademy’s global product Airlearn gain traction in markets including the US, UK, Germany, and Canada?",
+    "a": "No"
+  },
+  {
+    "q": "Did Upgrad acquire the startup Harappa Education as part of its expansion into professional skilling and higher education?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Danish drugmaker Novo Nordisk partner with U.S.-based Vivtex Corp in a deal worth up to $2.1 billion in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Vivtex Corp a publicly traded company listed on the stock exchange?",
+    "a": "No"
+  },
+  {
+    "q": "Did Novo Nordisk take charge of global development and commercialization under the partnership with Vivtex?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Vivtex retain control of global development and commercialization while Novo Nordisk provided only the drug-delivery technology?",
+    "a": "No"
+  },
+  {
+    "q": "Does Vivtex's platform utilize AI tools to help make biologic drugs work as pills?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the primary goal of the partnership to improve the absorption of biologic drugs in the lungs rather than the gut?",
+    "a": "No"
+  },
+  {
+    "q": "Did Novo Nordisk launch the world's first oral drug for obesity in the U.S. in January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Wegovy currently available as an oral pill in the U.S. market as of January 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is Rybelsus an oral diabetes drug offered by Novo Nordisk?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Novo Nordisk agree to pay a fixed, disclosed upfront payment to Vivtex under the deal?",
+    "a": "No"
+  }
+]

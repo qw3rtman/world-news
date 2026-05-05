@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu state in March 2026 that regime change in Iran cannot be guaranteed without an internal uprising?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu deliver his first press briefing since the start of the war via a video conference?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu guarantee that U.S.-Israeli strikes would directly result in the toppling of the Iranian regime?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu identify the Basij Force as a target for Israeli airstrikes in Tehran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu claim that the Iranian regime could be brought down solely by external military force without internal participation?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu state that forms of aid for the Iranian opposition would include airstrikes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu assert that the U.S. military was solely responsible for the strikes that weakened Iran's clerical leadership?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu explicitly deny certainty that the Iranian people would bring down the regime?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu state that the Israeli Air Force had carried out strikes on Basij Force roadblocks in Tehran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu claim that an internal uprising was unnecessary for the toppling of the Iranian regime?",
+    "a": "No"
+  }
+]

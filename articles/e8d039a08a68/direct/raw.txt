@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Balendra Shah, the former mayor of Kathmandu, run as the candidate for the National Independent Party in the March 5, 2026, Nepalese general election?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Gagan Thapa, the leader of the Nepali Congress, secure his position as party chief through a rebellion against the senior leadership earlier in 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the youth-led protest movement in Nepal that ousted the previous government triggered by a social media ban?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did former Prime Minister Khadga Prasad Oli's government fall in September 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the Nepali Congress, led by Gagan Thapa, traditionally viewed as having closer political ties to China?",
+    "a": "No"
+  },
+  {
+    "q": "Did Balendra Shah win the 2022 Kathmandu mayoral election as a candidate for a traditional political party?",
+    "a": "No"
+  },
+  {
+    "q": "Was the 2015 economic blockade imposed on Nepal by neighboring India responsible for shortages of fuel and medicine?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the next prime minister of Nepal chosen directly by popular vote in the nationwide election on March 5, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Gagan Thapa set a goal to eliminate corruption within five years if elected prime minister?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Balendra Shah, the front-runner for prime minister, a 49-year-old structural engineer?",
+    "a": "No"
+  }
+]

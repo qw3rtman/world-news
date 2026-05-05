@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Saudi Arabia's military raise its readiness levels to full alert after attacks by Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Ras Tanura refinery, run by Aramco, go into partial shutdown after a drone strike on the Gulf coast in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did a source close to the Saudi government state that Saudi Arabia would target Iranian oil facilities if Iran launched a concerted attack on Aramco in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Saudi defence ministry confirm that two drones targeted the Ras Tanura refinery and were intercepted in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did an Iranian missile strike targeting an air base near Riyadh, which houses US personnel, occur for the first time in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the drone attack on the Ras Tanura refinery occur in March 2022, three years prior to the events described in the article?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Houthis launch the drone attack targeting the YASREF refinery in Yanbu Industrial City in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the attack on the Ras Tanura refinery cause a fire that was extinguished, according to a source familiar with the incident in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did analyst Torbjorn Soltvedt of Verisk Maplecroft state that the attack on the Ras Tanura refinery marked a significant escalation in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that Saudi Arabia immediately launched a military retaliation against Iran following the drone strike on the Ras Tanura refinery in March 2026?",
+    "a": "No"
+  }
+]

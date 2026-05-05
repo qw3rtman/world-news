@@ -1,0 +1,22 @@
+{
+  "q": "Did the International Energy Agency announce that more than 400 million barrels of oil reserves would begin flowing to the market in March 2026?",
+  "a": "Yes",
+  "q": "Did U.S. President Donald Trump threaten more strikes on Iran’s Kharg Island oil export hub after the United States hit military targets there in March 2026?",
+  "a": "Yes",
+  "q": "Did Iranian drones hit a key oil terminal in Ras Tanura in Saudi Arabia shortly after the attacks on Kharg Island in March 2026?",
+  "a": "No",
+  "q": "Did Brent crude oil close below $100 per barrel for the second straight session in March 2026?",
+  "a": "No",
+  "q": "Did U.S. Energy Secretary Chris Wright state that he expects the war with Iran to end within the next few weeks in March 2026?",
+  "a": "Yes",
+  "q": "Did the International Energy Agency report that global oil supply was expected to rise by 8 million barrels per day in March 2026 due to shipping disruptions?",
+  "a": "No",
+  "q": "Did the Strait of Hormuz remain shut during the third week of the U.S.-Israeli war against Iran in March 2026?",
+  "a": "Yes",
+  "q": "Did the Trump administration accept diplomatic negotiation efforts proposed by Middle Eastern allies in March 2026?",
+  "a": "No",
+  "q": "Did oil loading operations resume at the Fujairah terminal in the United Arab Emirates in March 2026?",
+  "a": "Yes",
+  "q": "Did U.S. West Texas Intermediate crude oil climb to $103.14 per barrel in March 2026?",
+  "a": "No"
+}

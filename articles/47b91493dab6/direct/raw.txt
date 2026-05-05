@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Netflix announce the acquisition of Ben Affleck’s AI startup, InterPositive, in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ben Affleck join Netflix as the Chief Technology Officer following the acquisition of InterPositive?",
+    "a": "No"
+  },
+  {
+    "q": "Does InterPositive specialize in tools for film and television production?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did InterPositive’s technology focus on generating visual outputs based on text prompts?",
+    "a": "No"
+  },
+  {
+    "q": "Did all 16 members of InterPositive’s engineering and research team move to Netflix as part of the acquisition deal?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ben Affleck found InterPositive in 2024?",
+    "a": "No"
+  },
+  {
+    "q": "Did Netflix announce a specific date for the deployment of InterPositive’s technology on its internally developed projects?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ben Affleck cite the early rise of AI in production as a primary inspiration for founding InterPositive?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Netflix acquire InterPositive from Warner Bros.?",
+    "a": "No"
+  },
+  {
+    "q": "Can InterPositive’s models be used to edit out visual elements like stunt wires from footage?",
+    "a": "Yes"
+  }
+]

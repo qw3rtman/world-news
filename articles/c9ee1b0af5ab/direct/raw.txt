@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Chicago Mayor Brandon Johnson attend the 2026 State of the Union address to speak at an unofficial rebuttal at the National Press Club?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Marimar Martinez attend the 2026 State of the Union address as a guest of U.S. Rep. Jesus \"Chuy\" Garcia?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Jaime, a student at the University of Illinois Chicago, a guest of U.S. Rep. Raja Krishnamoorthi at the 2026 State of the Union address?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Rick Woldenberg, CEO of Learning Resources, attend the 2026 State of the Union address as a guest of Congressman Brad Schneider?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Sen. Dick Durbin invite original \"Dreamer\" Tereza Lee as his guest to the 2026 State of the Union address?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Senator Ted Cruz attend the 2026 State of the Union address as a guest of House Minority Leader Hakeem Jeffries?",
+    "a": "No"
+  },
+  {
+    "q": "Did Jaime's father, a 30-year union roofer, win a Supreme Court case striking down global tariffs?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Rep. Eric Burlison boycott the 2026 State of the Union address in protest of the president?",
+    "a": "No"
+  },
+  {
+    "q": "Did Chicago Mayor Brandon Johnson speak inside the House chamber during President Trump's address?",
+    "a": "No"
+  },
+  {
+    "q": "Did Marimar Martinez attend the 2026 State of the Union address as a guest of U.S. Rep. Sean Casten?",
+    "a": "No"
+  }
+]

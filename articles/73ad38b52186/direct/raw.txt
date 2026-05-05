@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump speak with Russian President Vladimir Putin on Monday, March 9, 2026, to discuss the war in Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Putin's foreign affairs adviser Yuri Ushakov describe the March 9, 2026, call between Trump and Putin as lasting approximately one hour?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Russian President Vladimir Putin state that Russia intends to permanently ban all gas exports to the European Union starting in 2027?",
+    "a": "No"
+  },
+  {
+    "q": "Did the March 9, 2026, conversation between Trump and Putin include discussions regarding Venezuela and the global oil market?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Yuri Ushakov report that President Trump endorsed a military strategy independent of the ongoing U.S.-Israeli operation during the March 9, 2026, call?",
+    "a": "No"
+  },
+  {
+    "q": "Did Russian President Vladimir Putin emphasize that Moscow considers itself a reliable energy supplier to countries such as Slovakia and Hungary?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the March 9, 2026, call between Trump and Putin focus primarily on resolving the conflict in Ukraine?",
+    "a": "No"
+  },
+  {
+    "q": "Did Putin state that Russia is increasing oil and gas supplies to reliable partners in the Asia-Pacific region?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Kremlin report that the March 9, 2026, discussion between Trump and Putin was characterized as 'frank and businesslike'?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Russian President Vladimir Putin claim that attempts to destabilize the Middle East would have no impact on global energy prices?",
+    "a": "No"
+  }
+]

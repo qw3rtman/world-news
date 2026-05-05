@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump claim in his February 25, 2026 State of the Union address that 2.4 million Americans were lifted off food stamps?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Defense Department state that the $1,776 'Warrior Dividend' payments to service members were funded by tariffs?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Metropolitan Police Department of Washington, D.C. report that assaults with a dangerous weapon increased in 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Joe Biden sign the Inflation Reduction Act in 2022, which capped insulin costs at $35 a month for Medicare beneficiaries?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was inflation at a record high of 8.9% when President Donald Trump assumed office in January 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Bureau of Labor Statistics report that 584,000 jobs were created in the United States in 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the White House website list $18 trillion in total investment commitments from global companies?",
+    "a": "No"
+  },
+  {
+    "q": "Did the One Big Beautiful Bill Act signed by President Donald Trump in July 2025 eliminate all taxes on Social Security income for seniors?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Council on Criminal Justice analyze crime data indicating that the U.S. murder rate saw its largest single-year percentage drop on record?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the SAVE America Act, as described by President Donald Trump in his February 2026 address, eliminate mail-in voting for all voters?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "q": "Did gold prices rise more than 6% during the week leading up to March 2, 2026?",
+  "a": "No",
+  "q": "Was a stronger U.S. dollar a factor contributing to the decline in gold prices in early March 2026?",
+  "a": "Yes",
+  "q": "Did traders increase their bets on the scope of interest-rate cuts by the Federal Reserve during the week of March 2, 2026?",
+  "a": "No",
+  "q": "Did bond yields advance during the week of March 2, 2026?",
+  "a": "Yes",
+  "q": "Did the escalation of the Iran war lead to expectations that the Federal Reserve would cut interest rates aggressively in March 2026?",
+  "a": "No",
+  "q": "Did forced selling tied to an equities rout contribute to the drop in gold prices in early March 2026?",
+  "a": "Yes",
+  "q": "Did surging energy prices resulting from the Iran war create inflationary risks that may have forced the Federal Reserve to hold rates steady or hike them in March 2026?",
+  "a": "Yes",
+  "q": "Did gold prices slump less than 1% during the week of March 2, 2026?",
+  "a": "No",
+  "q": "Did global central bank peers face pressure to hold rates steady or hike them due to inflationary risks from the Iran war in March 2026?",
+  "a": "Yes",
+  "q": "Did the greenback gauge rally during the week of March 2, 2026?",
+  "a": "Yes"
+}

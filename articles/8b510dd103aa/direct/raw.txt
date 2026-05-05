@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did NATO Secretary General Mark Rutte praise U.S. and Israeli military action against Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did NATO Secretary General Mark Rutte state that NATO itself would be directly involved in the military action against Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did NATO Secretary General Mark Rutte tell Germany's ARD television in Brussels about his views on the military action in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did NATO Secretary General Mark Rutte claim that the military action was increasing Iran's ability to acquire nuclear capability in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did NATO Secretary General Mark Rutte say there were no plans for NATO to get dragged into the conflict in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did NATO Secretary General Mark Rutte praise Russian military action against Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did NATO Secretary General Mark Rutte allow that individual allies could do what they can to enable the Americans in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did NATO Secretary General Mark Rutte state that the military action was degrading Iran's ballistic missile capability in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did NATO Secretary General Mark Rutte tell France's TF1 television about his views on the military action in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did NATO Secretary General Mark Rutte say that NATO would be part of the military action alongside Israel in March 2026?",
+    "a": "No"
+  }
+]

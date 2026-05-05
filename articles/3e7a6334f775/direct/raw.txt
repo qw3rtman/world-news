@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Ayatollah Ali Khamenei assume the role of supreme leader of Iran in 1989?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ayatollah Ruhollah Khomeini succeed Ayatollah Ali Khamenei as the supreme leader of Iran in 1989?",
+    "a": "No"
+  },
+  {
+    "q": "Did nine pro-Iranian protesters die during the violence against the US consulate in Karachi on Sunday?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Pezeshkian of Iran call for piecemeal attacks on luxury hotels in the Gulf states as his primary form of revenge?",
+    "a": "No"
+  },
+  {
+    "q": "Did Norman Roule, a veteran Iran-watcher for the US government, argue that Iran now has political space for change?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Reza Pahlavi and Maryam Rajavi agree on keeping religion in politics as part of their common platform?",
+    "a": "No"
+  },
+  {
+    "q": "Did sharp US intelligence cooperation with Israel ensure that the supreme leader was taken out in the first wave of attacks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the killing of Ayatollah Ali Khamenei result in the immediate and total collapse of the Iranian regime?",
+    "a": "No"
+  },
+  {
+    "q": "Did thousands of protesters take to the streets in Indian-administered Kashmir following the death of Ayatollah Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Trump’s bombs serve to crystallize the choice for IRGC officers to either abandon the establishment or wait for democratic accountability?",
+    "a": "Yes"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Qatar’s airforce shoot down two Iranian Sukhoi Su-24 jets on Monday, March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Iranian attack on Qatar’s natural gas plant cause gas prices in Europe to rise by 50 percent?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian drones target Saudi Arabia’s largest refinery on Monday, March 2, 2026, forcing it to shut down?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did an Iranian drone target an Amazon data centre in the United Arab Emirates on Monday, March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ayatollah Khamenei survive the Israeli airstrike that occurred days before the March 2026 attacks?",
+    "a": "No"
+  },
+  {
+    "q": "Did Saudi Arabia publicly urge President Trump to attack Iran before the hostilities began in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Iranian attack knock out all of Saudi Arabia’s oil production in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Qatar and Oman attempt to mediate a nuclear deal with Iran before the March 2026 conflict?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Gulf states’ defenses fail to intercept most of the Iranian drones and missiles in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ali Shihabi suggest that a concerted attack similar to the 2019 swarm would trigger a Saudi response targeting Kharg Island?",
+    "a": "Yes"
+  }
+]

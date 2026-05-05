@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did The Information report on February 26, 2026, that Amazon's investment in OpenAI could depend on an IPO or AGI milestone?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Amazon the sole investor in OpenAI's upcoming funding round?",
+    "a": "No"
+  },
+  {
+    "q": "Will Amazon invest $15 billion upfront as part of the proposed deal with OpenAI?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the additional $35 billion contingent on OpenAI achieving a milestone in quantum computing rather than AGI or an IPO?",
+    "a": "No"
+  },
+  {
+    "q": "Are SoftBank and Nvidia each planning to invest $30 billion in OpenAI?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Microsoft the primary backer of OpenAI according to the report?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Reuters verify the report on February 26, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Could OpenAI's IPO potentially value the company at up to $1 trillion?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the $50 billion investment amount fixed and non-negotiable?",
+    "a": "No"
+  },
+  {
+    "q": "Is Nvidia investing $50 billion in three installments over the year?",
+    "a": "No"
+  }
+]

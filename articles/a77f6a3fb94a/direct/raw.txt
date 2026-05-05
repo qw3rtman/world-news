@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iran launch strikes on Gulf states in response to U.S. and Israeli airstrikes on Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's Supreme Leader Ali Khamenei survive the U.S. and Israeli military strikes that began in early March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Gulf Cooperation Council invoke Article 51 of the U.N. Charter during an emergency meeting in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Arab Emirates bear the brunt of Iran's assault with 80% of the strikes targeting its infrastructure in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Qatar’s LNG facilities, which account for around 20% of global supply, face shutdowns due to missile threats in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state that the military strikes on Iran were intended to expand Iran's nuclear capabilities in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the UAE summon Iran’s ambassador and close its embassy in Tehran in response to the strikes in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did analysts report that Iran successfully forced Gulf states to maintain neutrality and avoid alignment with the United States in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did attacks on facilities hosting French forces in Abu Dhabi raise the possibility of NATO being drawn into the conflict in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Gulf states activate joint air-defence systems and reconnaissance flights across regional airspace in February 2026?",
+    "a": "No"
+  }
+]

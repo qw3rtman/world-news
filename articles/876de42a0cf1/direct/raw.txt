@@ -1,0 +1,22 @@
+{
+  "q": "Did U.S. President Donald Trump consider deploying special forces to seize Iran’s near-weapons-grade uranium in March 2026?",
+  "a": "Yes",
+  "q": "Did Bloomberg News report on the consideration of deploying special forces to seize Iran’s near-weapons-grade uranium in March 2026?",
+  "a": "Yes",
+  "q": "Did three diplomatic officials briefed on the matter provide information to Bloomberg News regarding the potential seizure of Iran’s uranium in March 2026?",
+  "a": "Yes",
+  "q": "Did U.S. President Donald Trump consider deploying special forces to seize Iran’s high-enriched uranium in March 2026?",
+  "a": "No",
+  "q": "Did the U.S. Secretary of State consider deploying special forces to seize Iran’s near-weapons-grade uranium in March 2026?",
+  "a": "No",
+  "q": "Did Reuters report on the consideration of deploying special forces to seize Iran’s near-weapons-grade uranium in March 2026?",
+  "a": "No",
+  "q": "Did five diplomatic officials briefed on the matter provide information to Bloomberg News regarding the potential seizure of Iran’s uranium in March 2026?",
+  "a": "No",
+  "q": "Did U.S. President Donald Trump consider deploying special forces to seize Iran’s low-enriched uranium in March 2026?",
+  "a": "No",
+  "q": "Did the U.S. Department of Defense consider deploying special forces to seize Iran’s near-weapons-grade uranium in March 2026?",
+  "a": "No",
+  "q": "Did three military generals briefed on the matter provide information to Bloomberg News regarding the potential seizure of Iran’s uranium in March 2026?",
+  "a": "No"
+}

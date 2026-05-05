@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump state in a video message on Saturday that the U.S. objective was to eliminate imminent threats from the Iranian regime?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Defense Secretary Pete Hegseth describe the conflict as a \"so-called regime change war\" during his Monday briefing?",
+    "a": "No"
+  },
+  {
+    "q": "Did the death toll for U.S. service members reach six by the time of the reporting in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Senator Mark Warner, D-Va., claim that the stated goals for the operation had changed only once or twice?",
+    "a": "No"
+  },
+  {
+    "q": "Did unnamed U.S. officials brief the media on Saturday stating that the U.S. launched a preemptive strike to stave off an imminent Iranian offensive?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Vice President JD Vance insist on Monday that the war would drag on for an extended period?",
+    "a": "No"
+  },
+  {
+    "q": "Did Secretary of State Marco Rubio suggest that an attack from Iran would come only after an attack by U.S. ally Israel?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Trump confirm during a meeting with German Chancellor Friedrich Merz that Israel had forced Iran's hand independently of U.S. pressure?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Trump urge the Iranian people to topple the leadership that has ruled the country since 1979?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian leader Ayatollah Ali Khamenei remain alive and in power throughout the initial days of the conflict described in the article?",
+    "a": "No"
+  }
+]

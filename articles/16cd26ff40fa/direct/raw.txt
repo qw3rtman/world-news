@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Supreme Leader Ayatollah Ali Khamenei die in a surprise U.S. and Israeli bombardment in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Mojtaba Khamenei, the son of the late Supreme Leader, currently serving as a member of Iran's provisional governing council?",
+    "a": "No"
+  },
+  {
+    "q": "Was President Masoud Pezeshkian a member of the provisional governing council guiding Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did former President Hassan Rouhani serve on the Assembly of Experts until 2024?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump scrap the landmark nuclear agreement with Iran during his second term in office?",
+    "a": "No"
+  },
+  {
+    "q": "Is Hassan Khomeini, the grandson of Ayatollah Ruhollah Khomeini, currently employed at his grandfather's mausoleum in Tehran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the Assembly of Experts composed of 100 members who appoint Iran's supreme leader?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ayatollah Mohammed Mehdi Mirbagheri serve as the head of the Islamic Cultural Center in Qom in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did hard-liner Ayatollah Mohammad Taghi Mesbah Yazdi write that Iran should deprive itself of the right to produce special weapons?",
+    "a": "No"
+  },
+  {
+    "q": "Is Ayatollah Ali Reza Arafi a member of the provisional governing council in Iran as of March 2026?",
+    "a": "Yes"
+  }
+]

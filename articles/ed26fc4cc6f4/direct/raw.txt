@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did British Chancellor of the Exchequer Rachel Reeves pose outside 11 Downing Street in London, United Kingdom, ahead of presenting the Spring Forecast to Parliament on March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Secretary of State Marco Rubio speak to the media on Capitol Hill in Washington, D.C., United States, on the day of a briefing for Congressional leaders regarding the situation in Iran on March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. first lady Melania Trump preside over a United Nations Security Council meeting at U.N. headquarters in New York City, United States, on March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump award the Medal of Honor to retired U.S. Army Command Sergeant Major Terry Richardson during a ceremony at the White House in Washington, D.C., United States, on March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did an aircraft prepare to land in RAF Akrotiri, a British sovereign base in Cyprus, on March 3, 2026, after the base was hit by a drone causing limited damage?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Secretary of Defense Pete Hegseth hold a briefing amid the U.S.-Israeli conflict with Iran at the Pentagon in Washington, D.C., United States, on March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Nirav Modi watch his wife kiss her child at the Chhatrapati Shivaji Maharaj International Airport in Mumbai, India, while stranded in Dubai amid the U.S.-Israel conflict with Iran on March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Shi'ite Muslim men protest and chant anti-U.S. and anti-Israel slogans in Magam town, Central Kashmir, Indian Kashmir, on March 3, 2026, following the killing of Iran’s Supreme Leader Ayatollah Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did a soldier of the Chinese People's Liberation Army stand guard ahead of the annual meeting of the National People's Congress in Beijing, China, on March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Secretary of State Marco Rubio hold a briefing at the Pentagon in Washington, D.C., United States, on March 3, 2026?",
+    "a": "No"
+  }
+]

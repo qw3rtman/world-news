@@ -1,0 +1,22 @@
+{
+  "q": "Did the Stripe tender offer in February 2026 value the company at $159 billion?",
+  "a": "Yes",
+  "q": "Did Stripe's payments volume increase by 34% in 2025 compared to the prior year?",
+  "a": "Yes",
+  "q": "Did Microsoft shift a significant fraction of its payment volumes to Stripe according to President John Collison?",
+  "a": "Yes",
+  "q": "Did Stripe's revenue suite segment hit a $1 billion annual run rate in 2025?",
+  "a": "No",
+  "q": "Did Axios Pro first break the news of the tender offer in late March 2026?",
+  "a": "No",
+  "q": "Was Thrive listed as one of the investors participating in the Stripe tender offer?",
+  "a": "Yes",
+  "q": "Did Stripe disclose its specific revenue figures in its 2025 annual report?",
+  "a": "No",
+  "q": "Did the 2025 startup cohort grow 50% faster than the prior cohorts according to the article?",
+  "a": "Yes",
+  "q": "Did Nvidia and Amazon shift a significant fraction of their payment volumes to Stripe according to President John Collison?",
+  "a": "No",
+  "q": "Was Stripe's valuation $107 billion in the year prior to the 2026 tender offer?",
+  "a": "Yes"
+}

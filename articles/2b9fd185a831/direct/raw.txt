@@ -1,0 +1,22 @@
+{
+  "q": "Did President Donald Trump launch a wide-ranging attack on Iran on a Saturday in March 2026?",
+  "a": "Yes",
+  "q": "Was the lobbying effort that influenced President Donald Trump's decision to attack Iran conducted by Israel and Saudi Arabia?",
+  "a": "Yes",
+  "q": "Did the attack on Iran aim to topple Iranian Supreme Leader Ali Khamenei?",
+  "a": "Yes",
+  "q": "Did the lobbying effort to influence President Donald Trump's decision come from Iran and Russia?",
+  "a": "No",
+  "q": "Did the attack on Iran occur in February 2026?",
+  "a": "No",
+  "q": "Did the attack on Iran aim to remove Iranian President Ebrahim Raisi from power?",
+  "a": "No",
+  "q": "Did the article state that the lobbying effort was conducted by the United Nations and the European Union?",
+  "a": "No",
+  "q": "Did the attack on Iran take place on a Monday in March 2026?",
+  "a": "No",
+  "q": "Did the article state that the lobbying effort was conducted by Turkey and Qatar?",
+  "a": "No",
+  "q": "Did the article state that the attack on Iran aimed to topple Iranian Supreme Leader Hassan Rouhani?",
+  "a": "No"
+}

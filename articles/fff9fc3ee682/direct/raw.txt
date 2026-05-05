@@ -1,0 +1,22 @@
+{
+  "q": "Did the article titled 'The Russia-Ukraine war in maps and charts — four years on' publish on February 24, 2026?",
+  "a": "Yes",
+  "q": "Does the article state that the Russia-Ukraine war began in 2022?",
+  "a": "Yes",
+  "q": "Does the article claim that the front lines have remained static since 2022?",
+  "a": "No",
+  "q": "Does the article include data regarding the number of civilian deaths in the conflict?",
+  "a": "Yes",
+  "q": "Does the article focus exclusively on military deaths and omit civilian casualty statistics?",
+  "a": "No",
+  "q": "Does the article provide information on the displacement of Ukrainians?",
+  "a": "Yes",
+  "q": "Does the article analyze the economic impact of the war on the Russian ruble?",
+  "a": "No",
+  "q": "Does the article use maps and charts as its primary method of presenting information?",
+  "a": "Yes",
+  "q": "Does the article report that the war concluded in 2024?",
+  "a": "No",
+  "q": "Does the article cover the period of the conflict spanning four years as of its publication date?",
+  "a": "Yes"
+}

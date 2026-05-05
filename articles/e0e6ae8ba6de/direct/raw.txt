@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did KKR & Co Inc explore the sale of its subsidiary BMC Helix in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Jefferies Group LLC advise KKR & Co Inc on the potential sale of BMC Helix in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the potential sale value of BMC Helix estimated at approximately $1.5 billion in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did BMC Helix generate around $750 million in annual recurring revenue according to sources in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did KKR & Co Inc spin off BMC Helix into an independent company in 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did KKR & Co Inc plan to begin groundwork for an initial public offering for BMC Helix in 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did BMC Helix compete primarily with Salesforce Inc in the IT service management sector in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did BMC Software Inc continue to focus on mainframe automation and software business after spinning off Helix in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did concerns about artificial intelligence disrupt the software sector and slow dealmaking in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did KKR & Co Inc and Jefferies Group LLC provide public comments regarding the sale exploration in February 2026?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "q": "Did U.S. Central Command confirm on Sunday that three U.S. service members were killed in the strikes against Iran?",
+  "a": "Yes"
+}
+{
+  "q": "Did the three U.S. service members killed in the strikes belong to ground-based forces stationed in Kuwait?",
+  "a": "Yes"
+}
+{
+  "q": "Did U.S. B-2 stealth bombers strike Iran's ballistic missile facilities on Saturday night?",
+  "a": "Yes"
+}
+{
+  "q": "Did Iranian state media confirm that Supreme Leader Ayatollah Ali Khamenei was killed in air strikes targeting his office in Tehran?",
+  "a": "Yes"
+}
+{
+  "q": "Did Iran establish a three-person temporary leadership council to govern the country under Islamic law after the death of Ayatollah Ali Khamenei?",
+  "a": "Yes"
+}
+{
+  "q": "Did U.S. Central Command confirm President Trump's claim that U.S. forces had sunk nine Iranian naval ships?",
+  "a": "No"
+}
+{
+  "q": "Did Iranian Foreign Ministry Spokesperson Esmail Baghaei tell NPR that 158 students were killed at an elementary school in Minab?",
+  "a": "No"
+}
+{
+  "q": "Did the Israeli military state that it was aware of its forces operating in the area of the school strike in Minab?",
+  "a": "No"
+}
+{
+  "q": "Did Iran announce it was closing the Strait of Hormuz on Sunday?",
+  "a": "No"
+}
+{
+  "q": "Did the Iranian missile attack near Jerusalem on Sunday kill at least nine people?",
+  "a": "No"
+}

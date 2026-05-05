@@ -1,0 +1,22 @@
+{
+  "q": "Did Iran vow revenge on Sunday, March 1, 2026, following the killing of its supreme leader?",
+  "a": "Yes",
+  "q": "Did Iran trade strikes with Israel as part of a widening war prompted by a surprise U.S. and Israeli bombardment on Saturday, February 28, 2026?",
+  "a": "Yes",
+  "q": "Did Iran state that it would pick a new supreme leader in one or two days on Sunday, March 1, 2026?",
+  "a": "Yes",
+  "q": "Did the surprise U.S. and Israeli bombardment that prompted the widening war occur on Sunday, March 1, 2026?",
+  "a": "No",
+  "q": "Did Iran trade strikes with Iran as part of the widening war prompted by the surprise U.S. and Israeli bombardment on February 28, 2026?",
+  "a": "No",
+  "q": "Did Iran state that it would pick a new supreme leader in one or two weeks on Sunday, March 1, 2026?",
+  "a": "No",
+  "q": "Was the killing of Iran's supreme leader the event that prompted Iran to vow revenge on Sunday, March 1, 2026?",
+  "a": "Yes",
+  "q": "Did the surprise U.S. and Israeli bombardment occur on Sunday, March 1, 2026, rather than a day earlier?",
+  "a": "No",
+  "q": "Did Iran trade strikes with Israel as part of a widening war prompted by a surprise U.S. and Israeli bombardment a day earlier than Sunday, March 1, 2026?",
+  "a": "Yes",
+  "q": "Did Iran state that it would pick a new supreme leader in one or two months on Sunday, March 1, 2026?",
+  "a": "No"
+}

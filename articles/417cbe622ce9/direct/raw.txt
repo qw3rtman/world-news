@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.N. Secretary General António Guterres call for an immediate cessation of hostilities following the U.S.-Israel strikes on Iran in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did European Commission President Ursula von der Leyen explicitly condemn the U.S.-Israel strikes on Iran as a violation of international law in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the leaders of France, Germany, and the United Kingdom state that their countries participated in the strikes on Iran in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Spanish Prime Minister Pedro Sánchez reject the unilateral military action by the United States and Israel in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Canadian Prime Minister Justin Trudeau state that Canada supports the U.S. acting to prevent Iran from obtaining a nuclear weapon in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Russian Foreign Ministry accuse Washington and Tel Aviv of falsely hyping threats surrounding Iran's nuclear program to pursue regime change in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Chinese Foreign Ministry spokespersons call for the resumption of dialogue and negotiation to uphold peace in the Middle East in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ukrainian President Volodymyr Zelenskyy condemn the Trump Administration's strikes on Iran in a video address in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Omani Foreign Minister Badr Albusaidi tell CBS News that Iran had agreed to zero stockpiling of nuclear enrichment in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Australian Prime Minister Anthony Albanese state that Australia stands with the Iranian regime in its struggle against oppression in February 2026?",
+    "a": "No"
+  }
+]

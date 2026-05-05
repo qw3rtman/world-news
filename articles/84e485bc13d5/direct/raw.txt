@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Gilead Sciences, Inc. announce a definitive agreement to acquire Arcellx, Inc. in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the cash consideration for the acquisition of Arcellx, Inc. shares set at $115 per share?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the contingent value right (CVR) associated with the Arcellx, Inc. acquisition tied to cumulative global net sales of anito-cel reaching at least $6.0 billion?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the anticipated Prescription Drug User Fee Act (PDUFA) action date for the anito-cel Biologics License Application (BLA) December 23, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Gilead Sciences, Inc. expected to own 100 percent of Arcellx, Inc. immediately upon the announcement of the agreement in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is the transaction anticipated to close during the first quarter of 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is the contingent value right (CVR) transferable to other parties after the acquisition closes?",
+    "a": "No"
+  },
+  {
+    "q": "Is the proposed transaction expected to be accretive to Gilead Sciences, Inc. earnings per share in 2027?",
+    "a": "No"
+  },
+  {
+    "q": "Is anito-cel an investigational BCMA-directed CAR T-cell therapy for patients with multiple myeloma?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Ropes & Gray LLP serving as the exclusive financial advisor to Arcellx, Inc. for this transaction?",
+    "a": "No"
+  }
+]

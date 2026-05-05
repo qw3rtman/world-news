@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the U.S. military state that Kuwait mistakenly shot down three American fighter aircraft during a combat mission in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the joint U.S.-Israeli strike that began the war in March 2026 result in the death of Iranian Supreme Leader Ayatollah Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Iranian Red Crescent Society report that attacks on 131 cities in Iran had killed at least 555 people by Monday, March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Defense Secretary Pete Hegseth describe the U.S.-Israeli campaign in Iran as the 'most precise aerial operation in history' during a Pentagon news conference on Monday, March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did state-owned firm QatarEnergy announce it would stop production of liquefied natural gas due to war attacks on its facilities in Qatar in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. military report that all six pilots ejected safely and were in stable condition after Kuwait mistakenly shot down American fighter aircraft in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israel report that its strikes in southern Lebanon in March 2026 killed at least 31 people and injured 149 others?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Trump administration assert that Iran had been rebuilding its nuclear program and had enriched nuclear fuel since June 2025 in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did three U.S. service members die on Monday, March 2, 2026, from injuries sustained during the initial Saturday attack on Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did Bahrain report that it had intercepted 61 missiles and 34 attack drones launched against it in March 2026, with no casualties reported from the strikes?",
+    "a": "No"
+  }
+]

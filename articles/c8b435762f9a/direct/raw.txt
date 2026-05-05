@@ -1,0 +1,22 @@
+{
+  "q": "Did the Mexican army kill the cartel leader known as 'El Mencho' on Sunday in February 2026?",
+  "a": "Yes",
+  "q": "Was 'El Mencho' described as one of the United States’ most wanted fugitives at the time of his death in February 2026?",
+  "a": "Yes",
+  "q": "Did the United States Marine Corps kill 'El Mencho' in a joint operation with Mexican forces in February 2026?",
+  "a": "No",
+  "q": "Was 'El Mencho' considered the least powerful cartel leader in Mexico at the time of his death in February 2026?",
+  "a": "No",
+  "q": "Did the Mexican army kill 'El Mencho' on a Monday in February 2026?",
+  "a": "No",
+  "q": "Was 'El Mencho' not listed as a fugitive wanted by the United States government at the time of his death in February 2026?",
+  "a": "No",
+  "q": "Was the killing of 'El Mencho' by the Mexican army characterized as a major victory in February 2026?",
+  "a": "Yes",
+  "q": "Did the Mexican navy kill 'El Mencho' on Sunday in February 2026?",
+  "a": "No",
+  "q": "Did 'El Mencho' surrender to Mexican authorities in February 2026 rather than being killed?",
+  "a": "No",
+  "q": "Was 'El Mencho' killed in a different country than Mexico in February 2026?",
+  "a": "No"
+}

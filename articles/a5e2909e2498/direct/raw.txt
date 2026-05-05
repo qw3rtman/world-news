@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iranian President Masoud Pezeshkian state that Iran had made all necessary preparations for any potential scenario in a post on X on Sunday?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump give Iran a deadline of 10 to 15 days to reach an agreement on Thursday?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States deploy two aircraft carriers and more than 120 additional aircraft to the Middle East in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran and the United States hold indirect talks in Muscat on February 17, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. administration chief Middle East negotiator Steve Witkoff describe President Trump as 'curious' why Iran had not yet 'capitulated' during a Fox interview on Saturday?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Sultanate of Oman's Badr Albusaidi confirm that US-Iran negotiations were set for Geneva on Sunday, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian Foreign Minister Abbas Araghchi state that a diplomatic solution was within reach and that negotiators aimed to finalize elements of a proposal within two to three days?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. military buildup in the Middle East include a concentration described by media as the largest airpower in the region since 2011?",
+    "a": "No"
+  },
+  {
+    "q": "Did governments including Sweden, Serbia, Poland, and Australia advise their citizens to leave Iran due to concerns about the prospect of war?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian President Masoud Pezeshkian vow that the country would 'bow down' to pressure from the United States in his Sunday post on X?",
+    "a": "No"
+  }
+]

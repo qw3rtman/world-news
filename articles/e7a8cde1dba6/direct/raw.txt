@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the United Kingdom plan to send the warship HMS Duncan to the region in March 2026 to defend the Royal Air Force Akrotiri base in Cyprus?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did an Iranian-made drone strike hit a runway at the Royal Air Force Akrotiri base in the early hours of Monday in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Times newspaper report that UK Defence Minister John Healey met with senior military figures to discuss sending HMS Duncan to the region in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Kingdom Ministry of Defence immediately confirm the report about sending HMS Duncan to defend the Akrotiri base in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did France plan to send anti-missile and anti-drone systems to Cyprus in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the semi-official Cyprus News Agency report that the United Kingdom planned to send anti-missile and anti-drone systems to Cyprus in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran target UK assets at the Royal Air Force Akrotiri base in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Times newspaper cite four sources regarding the plan to send HMS Duncan to the region in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United Kingdom plan to send HMS Duncan to defend the Royal Air Force Akrotiri base from Israeli attacks in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Times newspaper publish the report about the UK warship deployment on Tuesday in March 2026?",
+    "a": "Yes"
+  }
+]

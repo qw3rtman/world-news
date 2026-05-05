@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the price of Mars sour crude trade at a $11 premium to West Texas Intermediate (WTI) crude on Friday, March 6, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the $11 premium for Mars sour crude over WTI the highest level recorded since April 2020?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Brent crude settle at $92.69 a barrel on Friday, March 6, 2026, marking its highest level since October 2023?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the effective closure of the Strait of Hormuz force Iraq to curb its oil output?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Kuwait announce additional production cuts on Friday, March 6, 2026, which helped lift Mars prices?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mars sour crude trade at a premium of $4.50 to WTI crude on the Friday before March 6, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Matthew Lewis, founder of Plainview Energy Analytics, state that buyers in Europe are scrambling for medium and heavy crude barrels?",
+    "a": "No"
+  },
+  {
+    "q": "Did Tim Snyder, chief economist at Matador Economics, attribute the price rise primarily to the seasonal shift into driving season rather than war-related supply disruption?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article report that the Heavy Louisiana Sweet grade saw its price decline due to the Iran conflict?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article state that the Strait of Hormuz remains a key route for light sweet crude from the Persian Gulf?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the Department of Homeland Security shutdown reach its tenth day as of February 23, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump have direct conversations with Senate Minority Leader Chuck Schumer regarding the DHS funding deal in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did White House Press Secretary Karoline Leavitt blame Senate Democrats for the Department of Homeland Security shutdown in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Senate Majority Leader John Thune state that Republicans were willing to require Immigration and Customs Enforcement agents to obtain judicial warrants in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did winter storms cause the U.S. Senate to delay a vote on the DHS spending bill until after the State of the Union address in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Senator Tim Kaine file a war powers resolution to support a U.S. military strike against Iran in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the Department of Homeland Security shutdown the third shutdown during President Donald Trump's second term as of February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Supreme Court block President Donald Trump's attempt to implement global 10% tariffs without congressional approval in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Senate Minority Leader Chuck Schumer reject the White House's counterproposal for DHS funding as \"unserious\" in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump consider a limited military strike against Iran in February 2026?",
+    "a": "Yes"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did former Dutch central bank governor Klaas Knot and former Spanish central bank governor Pablo Hernandez de Cos emerge as front-runners to replace Christine Lagarde at the European Central Bank in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did outgoing French President Emmanuel Macron plan to have a say in picking Lagarde's successor before the spring 2027 presidential election?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did ECB Executive Board member Isabel Schnabel's term expire in May 2027?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump's vocal demands on the Federal Reserve influence the perception that ECB candidates should guard against political pressure?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did former ECB chief Mario Draghi serve as a policy hawk who frequently dissented with easy-money policies during his tenure?",
+    "a": "No"
+  },
+  {
+    "q": "Did Bundesbank head Joachim Nagel express interest in becoming the euro zone's top central banker in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Croatia's central banker Boris Vujcic serve as the ECB President before being appointed vice-president?",
+    "a": "No"
+  },
+  {
+    "q": "Did French central bank governor Francois Villeroy de Galhau resign in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Germany's Ursula von der Leyen hold the position of President of the European Commission until 2027?",
+    "a": "No"
+  },
+  {
+    "q": "Did the European Parliament ratify Christine Lagarde's nomination as ECB President at the time of her initial appointment?",
+    "a": "Yes"
+  }
+]

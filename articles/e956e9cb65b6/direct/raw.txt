@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Republican Senator John Cornyn and Texas Attorney General Ken Paxton advance to a runoff for the 2026 Texas Republican U.S. Senate nomination?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump endorse a candidate in the 2026 Texas Republican U.S. Senate primary before the results were projected?",
+    "a": "No"
+  },
+  {
+    "q": "Did State Representative James Talarico win the 2026 Texas Democratic U.S. Senate primary over Representative Jasmine Crockett?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Representative Dan Crenshaw become the first congressional incumbent to lose a primary in the 2026 midterm election cycle?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did State Representative Steve Toth defeat Representative Dan Crenshaw in the 2026 Texas Republican U.S. House primary?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Texas Supreme Court temporarily block lower court orders to keep polling sites in Dallas and Williamson counties open an extra two hours?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Former Republican National Committee Chair Michael Whatley face former Governor Roy Cooper in the November 2026 North Carolina U.S. Senate general election?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Representative Tony Gonzales win the 2026 Texas Republican U.S. House primary outright without going to a runoff?",
+    "a": "No"
+  },
+  {
+    "q": "Did the National Republican Senatorial Committee call on GOP voters to support Ken Paxton in the 2026 Texas Republican U.S. Senate runoff?",
+    "a": "No"
+  },
+  {
+    "q": "Did Incumbent Henry Cuellar win the 2026 Texas Democratic U.S. House primary in the 28th Congressional District?",
+    "a": "Yes"
+  }
+]

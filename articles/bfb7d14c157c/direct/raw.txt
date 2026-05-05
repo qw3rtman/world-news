@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did State Rep. James Talarico win the Democratic Senate nomination in Texas over U.S. Rep. Jasmine Crockett in the primary election held on March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Senator John Cornyn defeat State Attorney General Ken Paxton outright in the first round of the 2026 Texas Republican Senate primary?",
+    "a": "No"
+  },
+  {
+    "q": "Will State Attorney General Ken Paxton and U.S. Senator John Cornyn face each other in a runoff election on May 26, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did GOP Rep. Wesley Hunt finish in third place with 13% of the vote in the 2026 Texas Republican Senate primary?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump explicitly endorse Ken Paxton over John Cornyn in the 2026 Texas Republican Senate primary?",
+    "a": "No"
+  },
+  {
+    "q": "Did a Dallas County judge order polling places to stay open two hours later due to voter confusion caused by new Republican-led rules in the 2026 Texas Democratic Senate primary?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Senator John Cornyn spend $4.4 million on advertising in the 2026 Texas Republican Senate primary?",
+    "a": "No"
+  },
+  {
+    "q": "Was State Attorney General Ken Paxton acquitted by the Texas Senate on bribery and corruption charges in 2023?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Rep. Jasmine Crockett campaign on a platform of appealing to voters across the political spectrum by highlighting her populist message and Christian faith?",
+    "a": "No"
+  },
+  {
+    "q": "Did James Talarico and his allied super PAC spend a combined $25.3 million on advertising in the 2026 Texas Democratic Senate primary?",
+    "a": "Yes"
+  }
+]

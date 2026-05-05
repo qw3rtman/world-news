@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the International Energy Agency announce on Sunday, March 15, 2026, that more than 400 million barrels of oil reserves would begin flowing to the market soon?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump announce a coalition to escort ships through the Strait of Hormuz in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian drones hit the oil terminal in Fujairah, United Arab Emirates, shortly after U.S.-Israeli attacks on Iran's Kharg Island?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Saudi Arabia's Ras Tanura export terminal and Abqaiq oil processing facilities remain fully operational and unlisted as vulnerable during the March 2026 conflict?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Energy Secretary Chris Wright state on Sunday, March 15, 2026, that he expects the war with Iran to end within the next few weeks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States and Israel launch attacks on Iran in January 2026, marking the start of the conflict?",
+    "a": "No"
+  },
+  {
+    "q": "Did global oil supply fall by 8 million barrels per day in March 2026 due to shipping disruptions, according to the International Energy Agency?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran agree to a ceasefire in March 2026 in exchange for the United States and Israel halting their strikes?",
+    "a": "No"
+  },
+  {
+    "q": "Did Brent and U.S. West Texas Intermediate crude futures surge more than 40% in March 2026 to their highest levels since 2022?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Trump administration embrace diplomatic negotiations proposed by Middle Eastern allies in March 2026?",
+    "a": "No"
+  }
+]

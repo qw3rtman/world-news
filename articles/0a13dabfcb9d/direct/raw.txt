@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Chicago Mayor Brandon Johnson attend the 2026 State of the Union address to deliver an unofficial rebuttal at the National Press Club?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Marimar Martinez attend the 2026 State of the Union address as a guest of U.S. Rep. Jesus \"Chuy\" Garcia?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Rick Woldenberg, CEO of Learning Resources, a guest of U.S. Rep. Brad Schneider at the 2026 State of the Union address?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Tereza Lee, an original \"Dreamer,\" attend the 2026 State of the Union address as a guest of outgoing U.S. Sen. Dick Durbin?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Sen. Tammy Duckworth attend the 2026 State of the Union address as part of the Illinois congressional delegation?",
+    "a": "No"
+  },
+  {
+    "q": "Did Jaime, a student at the University of Illinois Chicago, attend the 2026 State of the Union address as a guest of U.S. Rep. Jesus \"Chuy\" Garcia?",
+    "a": "No"
+  },
+  {
+    "q": "Did three of Rev. Jesse Jackson's children attend the 2026 State of the Union address as guests of House Minority Leader Hakeem Jeffries?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Rick Woldenberg attend the 2026 State of the Union address as a guest of U.S. Rep. Raja Krishnamoorthi?",
+    "a": "No"
+  },
+  {
+    "q": "Did Jaime's father, a union roofer, sign a \"voluntary departure\" agreement after being detained at the ICE facility in Broadview?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Chicago Urban League CEO attend the 2026 State of the Union address as a guest of U.S. Rep. Raja Krishnamoorthi?",
+    "a": "No"
+  }
+]

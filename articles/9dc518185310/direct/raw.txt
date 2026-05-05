@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did French President Emmanuel Macron, German Chancellor Friedrich Merz, and British Prime Minister Keir Starmer issue a joint statement on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the joint statement from Germany, France, and the UK explicitly condemn Iranian attacks on countries in the region?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the leaders state that their countries participated in the military strikes on Saturday, February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the joint statement urge the Iranian leadership to seek a negotiated solution and resume negotiations?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the leaders claim that the United States, Israel, and regional partners participated in the strikes on Saturday, February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the statement call on Iran to end its nuclear program and curb its ballistic missile program?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the joint statement attribute the responsibility for determining Iran's future to the Iranian leadership rather than the Iranian people?",
+    "a": "No"
+  },
+  {
+    "q": "Did the leaders express a commitment to regional stability and the protection of civilian life?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the joint statement demand that Iran cease its destabilizing activity in the region?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the leaders state that they were in close contact with international partners excluding the United States?",
+    "a": "No"
+  }
+]

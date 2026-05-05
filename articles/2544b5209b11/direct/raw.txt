@@ -1,0 +1,22 @@
+{
+  "q": "Did millions of Nepalis head to the polls on Thursday in March 2026 in a vote that could upend the country’s political order?",
+  "a": "Yes",
+  "q": "Is Balendra Shah, also known as Balen, a rapper-turned-politician leading the race for Nepal's next leader?",
+  "a": "Yes",
+  "q": "Is Balendra Shah drawing strong support from young voters who see the old political system as broken and in need of change?",
+  "a": "Yes",
+  "q": "Is the CNN reporter covering this event named Hanako Montgomery?",
+  "a": "Yes",
+  "q": "Did Balendra Shah previously serve as a member of the Nepali Congress party before becoming a rapper?",
+  "a": "No",
+  "q": "Did the vote take place on Wednesday in March 2026 instead of Thursday?",
+  "a": "No",
+  "q": "Is Balendra Shah a politician-turned-rapper rather than a rapper-turned-politician?",
+  "a": "No",
+  "q": "Is the primary support for Balendra Shah coming from elderly voters who want to preserve the old system?",
+  "a": "No",
+  "q": "Did the CNN report on this event come from a reporter named John Smith?",
+  "a": "No",
+  "q": "Did the article state that the vote had already concluded and upended the political order before the polls opened?",
+  "a": "No"
+}

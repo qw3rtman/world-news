@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Federal Reserve officials begin assessing the economic risks of the conflict with Iran on March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did New York Fed President John Williams compare the current economic situation to the 2022 Russian invasion of Ukraine?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Minneapolis Fed President Neel Kashkari express confidence that the Fed would need to cut the policy rate once in 2026 before the conflict escalated?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. oil prices surge more than 13% following the launch of attacks that killed Iran's Supreme Leader Ayatollah Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump consider a trade embargo on Spain because it refused U.S. military use of its bases during the Iran strikes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did New York Fed President John Williams state that past oil price movements have fundamentally shifted the U.S. economy?",
+    "a": "No"
+  },
+  {
+    "q": "Did the 2022 Russian invasion of Ukraine significantly change the trajectory of the U.S. economy and the Federal Reserve's monetary policy?",
+    "a": "No"
+  },
+  {
+    "q": "Did the closure of the Strait of Hormuz result in the cessation of approximately 20% of the world's crude oil flows?",
+    "a": "No"
+  },
+  {
+    "q": "Did traders see a greater than 70% chance of a Fed rate cut by July 2026 after the conflict began?",
+    "a": "No"
+  },
+  {
+    "q": "Is Kevin Warsh expected to lead a policy-setting meeting for the first time in June 2026 as Trump's nominee to succeed Fed Chair Jerome Powell?",
+    "a": "No"
+  }
+]

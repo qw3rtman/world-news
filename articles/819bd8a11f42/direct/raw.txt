@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did UAE defense authorities report on March 14, 2026, that they engaged nine ballistic missiles and 33 unmanned aerial vehicles launched from Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Saudi Arabia report on March 14, 2026, that it intercepted seven drones in the capital Riyadh and the eastern region?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Qatar officials report on March 14, 2026, that they successfully intercepted four ballistic missiles and several drones launched from Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Kuwait News Agency report on March 14, 2026, that air defense systems responded to two drones targeting the Ahmad Al-Jaber Air Base, resulting in material damage?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Pentagon identify six US service members killed in a KC-135 refueling plane crash in Iraq on March 14, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump state on March 14, 2026, that he was prepared to reach a deal with Iran to end the war?",
+    "a": "No"
+  },
+  {
+    "q": "Did Formula 1 and the FIA confirm on March 14, 2026, that the Grand Prix races in Bahrain and Saudi Arabia would proceed in April?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Chinese Embassy in Washington confirm on March 14, 2026, that China was sending naval assets to the Strait of Hormuz?",
+    "a": "No"
+  },
+  {
+    "q": "Did the British Ministry of Defense confirm on March 14, 2026, that the UK was sending warships to the Strait of Hormuz?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Pentagon state on March 14, 2026, that the KC-135 crash in Iraq was due to hostile fire?",
+    "a": "No"
+  }
+]

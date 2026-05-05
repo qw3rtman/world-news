@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Apple acquire MotionVFX, a Warsaw-based company founded in 2009, in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Apple publicly disclose the financial terms of its acquisition of MotionVFX in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is MotionVFX a developer of plug-ins and templates for Apple’s Final Cut Pro video editing software?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Apple acquire MotionVFX primarily to compete with Adobe Premiere Pro and the Adobe Creative Cloud suite?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Apple launch the Creator Studio subscription bundle in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Does the Apple Creator Studio bundle cost $12.99 per month or $129 per year?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the Apple Creator Studio bundle include access to Adobe Photoshop and Illustrator?",
+    "a": "No"
+  },
+  {
+    "q": "Did Apple’s services business account for more than 26% of revenue in the last fiscal year prior to March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did MotionVFX’s subscription packages start at $49 per month for access to its professional-grade tools?",
+    "a": "No"
+  },
+  {
+    "q": "Did Apple’s services business segment account for 8.5% of revenue in 2015?",
+    "a": "Yes"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "q": "Did the Israeli military strike sites across Iran overnight in the events reported on March 12, 2026?",
+  "a": "Yes",
+  "q": "Did Iranian drone attacks temporarily shut down Dubai airport in the events reported on March 12, 2026?",
+  "a": "Yes",
+  "q": "Did Iranian drone attacks hit a key oil facility in the United Arab Emirates in the events reported on March 12, 2026?",
+  "a": "Yes",
+  "q": "Did Israel state it had plans for at least three weeks of war in the report published on March 12, 2026?",
+  "a": "Yes",
+  "q": "Did emergency personnel work at the site of a strike in Tehran in the events reported on March 12, 2026?",
+  "a": "Yes",
+  "q": "Did Iranian drone attacks temporarily shut down Abu Dhabi airport in the events reported on March 12, 2026?",
+  "a": "No",
+  "q": "Did Israel state it had plans for at least six months of war in the report published on March 12, 2026?",
+  "a": "No",
+  "q": "Did the Israeli military pound sites across Syria overnight in the events reported on March 12, 2026?",
+  "a": "No",
+  "q": "Did Iranian drone attacks hit a key oil facility in Qatar in the events reported on March 12, 2026?",
+  "a": "No",
+  "q": "Did emergency personnel work at the site of a strike in Isfahan in the events reported on March 12, 2026?",
+  "a": "No"
+}

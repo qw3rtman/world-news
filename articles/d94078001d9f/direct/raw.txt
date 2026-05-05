@@ -1,0 +1,62 @@
+[
+  {
+    "q": "Did oil prices for West Texas Intermediate pull back to around $105 per barrel on Monday, March 9, 2026, after breaching $110?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Group of Seven finance ministers hold a call at 8:30 a.m. EST on Monday, March 9, 2026, to discuss a coordinated release of crude from strategic reserves?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. government order non-emergency government employees to leave Saudi Arabia on Monday, March 9, 2026, citing heightened risks from armed conflict and missile attacks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Israeli military begin a new wave of strikes targeting infrastructure in central Iran on Monday, March 9, 2026, following strikes on Iranian oil facilities on Sunday?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian President Masoud Pezeshkian apologize for striking Middle Eastern neighbors and promise to stop firing at countries not aiding the U.S. and Israel in a pre-recorded video released on Saturday, March 7, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Energy Secretary Chris Wright state on Sunday, March 8, 2026, that traffic through the Strait of Hormuz would resume once Washington destroys Tehran's ability to threaten shipping?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ukrainian President Volodymyr Zelenskyy agree to a U.S. request to send interceptor drones and drone experts to protect American military bases in Jordan on Sunday, March 8, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran launch swarms of Shahed 'kamikaze' drones to overwhelm air defense systems across the Gulf on Monday, March 9, 2026, citing the presence of U.S. military bases and regional support for American strikes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did China send a special envoy to the Middle East to mediate a ceasefire last week, with top diplomat Wang Yi reiterating Beijing's call for an end to military action during a press conference on Sunday, March 8, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did former CIA director David Petraeus describe Mojtaba Khamenei as a 'continuation of what his father was, which is a very hardline ideological cleric' in an interview with CNN on Sunday, March 8, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Arab Emirates, Kuwait, and Iraq announce plans to cut output on Monday, March 9, 2026, because tanker traffic had avoided the Strait of Hormuz due to threats from Tehran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Saudi Arabia confirm on Sunday, March 8, 2026, that Iranian attacks had ceased following President Pezeshkian's apology, leading to a de-escalation of tensions?",
+    "a": "No"
+  },
+  {
+    "q": "Did Australia announce on Monday, March 9, 2026, that it would participate in offensive military action against Iran while reviewing requests for defensive support?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump post on Truth Social on Monday, March 9, 2026, that he opposed the rise in short-term oil prices and considered them too high a cost for destroying Iran's nuclear threat?",
+    "a": "No"
+  },
+  {
+    "q": "Did South Korea report on Monday, March 9, 2026, that it had already introduced an oil price cap for the first time in 30 years in response to the global supply shock?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. Ambassador to Israel Mike Huckabee instruct embassy staff to leave Israel on the day the instruction was issued?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. State Department confirm that nonessential staff had been evacuated from U.S. missions in Iraq and Kuwait?",
+    "a": "No"
+  },
+  {
+    "q": "Did the aircraft carrier USS Gerald R. Ford arrive in Israel in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the nuclear talks between American and Iranian officials in Geneva in February 2026 result in a breakthrough?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump warn Iran on February 19, 2026, that it had 10 to 15 days to reach a nuclear agreement?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.K. Foreign Office announce that its embassy in Iran had completely ceased all operations?",
+    "a": "No"
+  },
+  {
+    "q": "Did satellite imagery show a reduction in U.S. military aircraft at Al Udeid Air Base in Qatar in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the bombing of three Iranian nuclear sites ordered by Trump cause significant damage?",
+    "a": "No"
+  },
+  {
+    "q": "Did retired U.S. Vice Admiral Robert Murrett state that the evacuation orders reflected a final White House decision to conduct military operations?",
+    "a": "No"
+  },
+  {
+    "q": "Did Jon Hoffman of the Cato Institute argue that special interests are pushing the United States toward war with Iran?",
+    "a": "Yes"
+  }
+]

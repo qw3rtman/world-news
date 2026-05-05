@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu state on February 28, 2026, that there were many signs Iranian Supreme Leader Ayatollah Ali Khamenei may have been killed?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu claim in a video statement on February 28, 2026, that Israeli forces destroyed the compound of Ayatollah Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu state on February 28, 2026, that he would continue hitting targets of the Iranian regime in the next few days?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu state on February 28, 2026, that the Israeli-U.S. strikes had eliminated senior officials and Revolutionary Guards commanders in Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu state on February 28, 2026, that Ayatollah Ali Khamenei had been dispatching terrorism across the world for more than 30 years?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu state on February 28, 2026, that he had personally led the military strikes that destroyed Ayatollah Ali Khamenei's compound?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu state on February 28, 2026, that Ayatollah Ali Khamenei had worked tirelessly on a program to annihilate the state of Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu state on February 28, 2026, that he had already hit thousands of targets of the Iranian terror regime?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu state on February 28, 2026, that the strikes were conducted solely by the Iranian Revolutionary Guards?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu state on February 28, 2026, that Ayatollah Ali Khamenei had made his own people happy and prosperous?",
+    "a": "No"
+  }
+]

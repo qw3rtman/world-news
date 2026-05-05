@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the Pentagon give Anthropic a deadline of Friday, February 27, 2026, to lift restrictions on its Claude AI system?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the value of the Pentagon contract with Anthropic $200 million?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did War Secretary Pete Hegseth meet with Anthropic CEO Dario Amodei at the Pentagon in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Anthropic CEO Dario Amodei state that the company’s red lines include prohibiting the use of Claude for fully autonomous weapons?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the $200 million contract between the Pentagon and Anthropic awarded in January 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Pentagon claim that Anthropic’s AI tool Claude was used in the January 2026 military operation to capture Venezuelan leader Nicolás Maduro?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did War Secretary Pete Hegseth threaten to invoke the Defense Production Act against Anthropic if it did not agree to allow all lawful military uses of Claude?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Elon Musk’s Grok AI chatbot refuse to allow its products to be used for all lawful purposes according to Pentagon officials?",
+    "a": "No"
+  },
+  {
+    "q": "Does the article state that Claude is currently the only advanced, commercial AI model operating inside the Pentagon’s classified networks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Pentagon explicitly state that its position on Anthropic’s restrictions is primarily about preventing mass surveillance of Americans?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the United States and Israel conduct military strikes on Tehran on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Iranian Supreme Leader Ali Khamenei assassinated during the United States and Israeli strikes on Tehran in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Houthi leader Abdel-Malik al-Houthi declare a clear military intervention in his first speech following the February 2026 strikes on Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did Hezbollah enter the conflict immediately after the outbreak of the war in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Houthis engage in direct military intervention during the 12-day war in June 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Was an agreement between the Houthi group and the United States brokered by the Sultanate of Oman in May 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Houthis launch large-scale direct attacks against Israeli military infrastructure in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is the Bab al-Mandeb Strait identified as a strategic pressure point the Houthis might use to support Iran indirectly?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Houthis receive military support from Saudi Arabia in an attempt to reorganize military decision-making in Houthi-controlled areas?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Houthis issue widespread escalatory rhetoric in their media messaging following the March 2026 strikes on Iran?",
+    "a": "No"
+  }
+]

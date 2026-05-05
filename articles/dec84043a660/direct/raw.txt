@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did BP announce a lockout of approximately 800 workers at its Whiting, Indiana refinery starting March 19, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Steelworkers union represent the workers at the Whiting refinery during the March 2026 lockout?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did BP state that lifting the lockout would require the union's acceptance of its latest proposal?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the previous collective bargaining agreement between BP and the union expire on January 31, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Eric Schultz, president of USW Local 7-1, claim that BP proposed cutting more than 100 jobs and accepting pay cuts?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Steelworkers union accept BP's \"last, best and final\" offer before the March 2026 lockout?",
+    "a": "No"
+  },
+  {
+    "q": "Is the Whiting refinery located in Texas, making it the largest refinery in the state?",
+    "a": "No"
+  },
+  {
+    "q": "Did BP lock out workers at its Whiting refinery starting March 19, 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did BP propose cutting more than 200 union jobs in operations, maintenance, and environmental safety?",
+    "a": "No"
+  },
+  {
+    "q": "Did the lockout decision follow a single round of negotiations where the union rejected key proposals?",
+    "a": "No"
+  }
+]

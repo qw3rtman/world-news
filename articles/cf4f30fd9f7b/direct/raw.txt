@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Venezuelan opposition leader María Corina Machado state in March 2026 that she plans to return to Venezuela in the coming weeks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Acting President Delcy Rodríguez warn in March 2026 that María Corina Machado would have to answer for her actions if she returns to Venezuela?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Secretary of State Marco Rubio indicate in March 2026 that elections in Venezuela could be held in the short term?",
+    "a": "No"
+  },
+  {
+    "q": "Was María Corina Machado awarded the 2025 Nobel Peace Prize for her fight for democratic transition in Venezuela?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did former President Nicolás Maduro plead guilty to drug-trafficking-related charges in U.S. courts after his capture in January 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did María Corina Machado present her Nobel Peace Prize medal to U.S. President Donald Trump after the military intervention that removed Nicolás Maduro?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the opposition claim in March 2026 that Edmundo González was the real winner of the July 2024 Venezuelan elections?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Acting President Delcy Rodríguez assume power in Venezuela in March 2026 following the capture of Nicolás Maduro?",
+    "a": "No"
+  },
+  {
+    "q": "Did María Corina Machado win the 2023 Venezuelan primary vote aimed at establishing a single candidate to compete against Nicolás Maduro?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Secretary of State Marco Rubio state in March 2026 that change in Venezuela must go through phases of stabilization, economic recovery, and transition?",
+    "a": "Yes"
+  }
+]

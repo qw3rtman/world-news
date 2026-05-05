@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump state in March 2026 that military operations against Iran would likely last four to five weeks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian Supreme Leader Ayatollah Ali Khamenei survive the U.S.-Israeli airstrike campaign described in the March 2026 article?",
+    "a": "No"
+  },
+  {
+    "q": "Did Secretary of State Marco Rubio brief members of Congress about the Iran operation in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did QatarEnergy increase its production of liquefied natural gas indefinitely after its facilities were struck in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. military confirm that two previously unaccounted for American service members were among the six Army soldiers killed in Kuwait in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Embassy in Kuwait come under attack from drones in March 2026, causing significant structural damage?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israel strike buildings housing Al-Manar channel studios in Beirut’s southern suburbs in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Defense Secretary Pete Hegseth state in March 2026 that the U.S. was engaged in a nation-building effort in Iran similar to Iraq?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Iranian Red Crescent Society report that the U.S.-Israeli operation had killed at least 555 people in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran’s ambassador to the International Atomic Energy Agency confirm in March 2026 that the Natanz nuclear enrichment site was targeted by airstrikes?",
+    "a": "No"
+  }
+]

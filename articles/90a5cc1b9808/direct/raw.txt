@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump directly name China in his State of the Union address on Tuesday, February 24, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the State of the Union address delivered by U.S. President Donald Trump on February 24, 2026, the longest State of the Union speech by any U.S. president?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump make direct references to the Chinese nation in all three of his State of the Union addresses during his first term from 2017 to 2021?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump plan to visit Beijing from March 31 to April 2, 2026, as the first trip by a U.S. president since 2017?",
+    "a": "Yes"
+  },
+  {
+    "q": "Had China’s foreign ministry confirmed the exact dates for U.S. President Donald Trump’s scheduled visit to Beijing in March 2026 by the time of the speech?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. Supreme Court strike down tariffs that U.S. President Donald Trump had imposed on a swath of countries last year shortly before the February 2026 State of the Union address?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Democrat U.S. President Joe Biden consistently refer to China by name in his State of the Union speeches, according to principal economist Yue Su?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Virginia Governor Abigail Spanberger, who delivered the Democratic Party’s rebuttal to the February 2026 State of the Union address, focus her remarks directly on criticizing U.S. President Donald Trump’s China policy?",
+    "a": "No"
+  },
+  {
+    "q": "Did two Chinese state media outlets post on Weibo highlighting opposition within the U.S. Congress to U.S. President Donald Trump’s February 2026 State of the Union address?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump avoid mentioning China in his February 2026 State of the Union address because he wanted to pick a fight with China in the upcoming midterm election year?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iranian missiles and drones strike cities including Dubai, Doha, and Manama in the days leading up to March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Were four American troops killed in Kuwait as part of a ground support team during the Iranian retaliation in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Oman, which had been mediating nuclear talks, avoid being targeted by Iranian forces in the March 2026 escalation?",
+    "a": "No"
+  },
+  {
+    "q": "Did a drone strike a residential building in Bahrain over the weekend preceding March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's missiles hit an airbase in Qatar where thousands of U.S. troops are stationed in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Strait of Hormuz remain fully open for shipping throughout the week of March 2, 2026, despite naval attack concerns?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Iran-backed Hezbollah group launch rockets and drones into Israel in response to the killing of Iran's supreme leader in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did airstrikes in Lebanon kill more than 30 people and wound 150, according to Lebanon's health ministry, in the days before March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Saudi Arabia's largest oil refinery remain fully operational without interruption during the Iranian drone attacks in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United Kingdom, France, and Germany state they would take steps to defend their interests in the region in March 2026?",
+    "a": "Yes"
+  }
+]

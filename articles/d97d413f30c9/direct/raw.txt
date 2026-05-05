@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the U.S. military receive the final go order for the attack on Iran from President Donald Trump on February 27, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. military launch cyberattacks aimed at jamming Iran's communication capabilities before the kinetic strike began?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. attack on Iran officially begin at 9:45 a.m. local time in Tehran on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did B-2 bomber jets launch from the U.S. mainland to strike underground facilities in Iran's southern flank during the initial 24 hours?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Central Command confirm that four American servicemembers were killed by an Iranian missile striking a tactical operations center?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Gen. Dan Caine, chairman of the Joint Chiefs of Staff, state that the trigger event for the U.S. attack was conducted by the U.S. military?",
+    "a": "No"
+  },
+  {
+    "q": "Did the military of U.S. ally Kuwait mistakenly shoot down three U.S. F-16 fighter jets on March 1, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran's state media report 555 fatalities in Iran since the U.S. and Israeli attack began?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the USS Gerald Ford aircraft carrier deploy to the Caribbean in January 2026 to buttress the capture of Venezuelan President Nicolas Maduro?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Pentagon chief Pete Hegseth state that the U.S. had intercepted zero ballistic missiles using Patriot and THAAD systems?",
+    "a": "No"
+  }
+]

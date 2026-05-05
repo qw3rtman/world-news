@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump ask to delay his summit with Chinese leader Xi Jinping by five or six weeks in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Supreme Court recently strike down many of Trump’s global tariffs in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Treasury Secretary Scott Bessent clarify that postponing the trip was related to China making a commitment regarding the Strait of Hormuz in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S.-Israeli attack on Tehran begin on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Chinese Foreign Affairs Ministry spokesperson Lin Jian state that China was upset by the likely delay of the summit in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did experts estimate that China gets over 90% of its oil through the Strait of Hormuz in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the latest round of U.S.-China trade talks end in Paris without any public announcements in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did China effectively shut down the Strait of Hormuz in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Donald Trump tell reporters in Washington that he thought it was important for him to be in the U.S. during the delay in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Beijing consider the new Section 301 trade investigations opened by the Trump administration as a \"manageable irritant\" in March 2026?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Anthropic CEO Dario Amodei schedule a meeting with U.S. Secretary of Defense Pete Hegseth at the Pentagon in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Pentagon CTO Emil Michael previously serve as a top executive at the ride-hailing company Uber?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Pentagon publicly announce that it had signed an agreement to use Grok, the AI model made by Elon Musk’s xAI, in classified systems on the evening before Amodei’s scheduled meeting with Hegseth?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Secretary of Defense Pete Hegseth publish a memo in January 2026 announcing that the Department of Defense would become an 'AI-first' warfighting force?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Anthropic’s Claude model hold an Impact Level 6 security classification, allowing it to operate on fully classified Pentagon networks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Senator Ted Cruz publicly endorse Anthropic’s refusal to allow lethal autonomous weapons in its contract with the Pentagon in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Pentagon designate Anthropic as a 'supply chain risk' because it had been found guilty of espionage and security vulnerabilities?",
+    "a": "No"
+  },
+  {
+    "q": "Did OpenAI, xAI, and Google’s Gemini models hold an Impact Level 6 security classification, allowing them to immediately replace Claude on classified Pentagon networks?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Pentagon issue the threat to classify Anthropic as a risk without informing the public or stating the reasons, as is standard procedure under federal regulations?",
+    "a": "No"
+  },
+  {
+    "q": "Did Anthropic agree to allow the military to use its AI services for mass domestic surveillance and lethal autonomous weapons with no humans in the loop?",
+    "a": "No"
+  }
+]

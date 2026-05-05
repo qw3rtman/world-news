@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Engie announce the acquisition of UK Power Networks for approximately $14 billion on February 26, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is UK Power Networks the largest acquisition in Engie's history?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Engie acquire UK Power Networks from Spanish utility Iberdrola?",
+    "a": "No"
+  },
+  {
+    "q": "Is the French state Engie's largest shareholder with a 24% stake?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Engie beat Spanish peer Iberdrola to acquire the British distributor Electricity North West in 2024?",
+    "a": "No"
+  },
+  {
+    "q": "Will Britain become Engie's second-largest market for earnings following this acquisition?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the deal price imply a multiple of 2.5 times UK Power Networks' regulated asset value?",
+    "a": "No"
+  },
+  {
+    "q": "Did Engie plan to raise up to 3 billion euros in new shares to help finance the acquisition?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Engie CEO Catherine MacGregor cite the UK's legally binding net zero target to 2050 as a reason for the acquisition?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is UK Power Networks the largest energy acquisition in Britain in the last decade according to Mergermarket?",
+    "a": "Yes"
+  }
+]

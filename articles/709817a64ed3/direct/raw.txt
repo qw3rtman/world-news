@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did The Information report that OpenAI topped $25 billion in annualized revenue as of the end of February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Reuters independently verify the $25 billion annualized revenue figure reported by The Information?",
+    "a": "No"
+  },
+  {
+    "q": "Was OpenAI's annualized revenue at the end of 2025 reported as $21.4 billion?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did OpenAI partner with Amazon Web Services as one of the four consulting firms to expand into the enterprise market?",
+    "a": "No"
+  },
+  {
+    "q": "Did OpenAI's annualized revenue increase by 17% from the end of 2025 to the end of February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Google listed as a rival selling AI capabilities to enterprises in the race against OpenAI?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Anthropic reach roughly $25 billion in annualized revenue by the end of February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is OpenAI targeting roughly $600 billion in total compute spending through 2030?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did OpenAI generate effectively zero revenue in late 2022 before growing to over $20 billion in 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the potential IPO valuation for OpenAI capped at $500 billion?",
+    "a": "No"
+  }
+]

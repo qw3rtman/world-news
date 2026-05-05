@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the United States allow embassy staff to leave Israel in late February 2026 due to concerns about a possible conflict with Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the eruption of the 'mud volcano' described in late February 2026 occur in the American West?",
+    "a": "No"
+  },
+  {
+    "q": "Was there a new gold rush underway across the American West as reported in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Champions League bracket reveal in late February 2026 indicate that Anthony Edwards' team had reached the final?",
+    "a": "No"
+  },
+  {
+    "q": "Did Anthony Edwards yell at his own coach after a late dagger shot in an event reported in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the 'Grey's Anatomy' tribute to Eric Dane broadcast in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Atlanta police issue a warning in late February 2026 after a Cutwater martini was found in a school lunch?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article in late February 2026 state that replacing entry-level workers with AI helps companies save money on healthcare costs?",
+    "a": "No"
+  },
+  {
+    "q": "Did Civil Rights icon Jesse Jackson lie in repose in Chicago in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article in late February 2026 advise travelers that they are owed refunds for spring break trips to Mexico even if they cancel voluntarily?",
+    "a": "No"
+  }
+]

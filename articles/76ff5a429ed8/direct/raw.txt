@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu give an interview to Fox News in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu give the interview to CNN in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu link U.S.-Israeli strikes to an opportunity for Iranian regime change in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu link U.S.-Israeli strikes to an opportunity for Syrian regime change in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu reinforce previous statements regarding the link between strikes and regime change in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu make new, unprecedented statements regarding the link between strikes and regime change in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the interview with Israeli Prime Minister Benjamin Netanyahu take place in Washington in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the interview with Israeli Prime Minister Benjamin Netanyahu take place in Jerusalem in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu state in March 2026 that the strikes would pave the way to normalization with Saudi Arabia?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu state in March 2026 that the strikes would pave the way to normalization with Egypt?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Brent crude oil prices advance by 1.86% to $71.66 a barrel on Thursday, February 19, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did gold prices fall below $5,000 per troy ounce on Wednesday, February 18, 2026, during the US-Iran tensions?",
+    "a": "No"
+  },
+  {
+    "q": "Did US Vice President JD Vance state that Iranian negotiators did not acknowledge President Donald Trump’s “red lines” in Geneva in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States shift military assets away from the Middle East in February 2026 to de-escalate tensions with Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did around 20 million barrels of oil pass through the Strait of Hormuz each day in February 2026, according to the US Energy Information Administration?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran fully close the Strait of Hormuz for planned naval exercises in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Dow Jones Industrial Average drop 268 points on Thursday, February 19, 2026, amid the geopolitical uncertainty?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did analysts at Capital Economics state that strikes on Iran would likely increase the pace of interest rate cuts by major central banks in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Daniela Hathorn, a senior market analyst at Capital.com, cite that geopolitical tension between the US and Iran was feeding into oil prices in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did oil prices rise sharply in June 2025 because Iran successfully shut the Strait of Hormuz indefinitely?",
+    "a": "No"
+  }
+]

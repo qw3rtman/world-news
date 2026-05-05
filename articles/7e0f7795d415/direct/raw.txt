@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump predict that oil prices would soon fall back to pre-war levels in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Brent crude trade near $100 a barrel in mid-March 2026, which was about 65% above its level at the start of that year?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did roughly a fifth of global oil supplies, or about 20 million barrels per day, become trapped by the closure of the Strait of Hormuz since the conflict began in early 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Omani crude trade at a record premium of $51 a barrel to Brent in March 2026, compared with an average of just 75 cents in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did China’s Sinopec plan to slash production throughput by more than 20% in March 2026 due to a crude supply shortfall?",
+    "a": "No"
+  },
+  {
+    "q": "Did the International Energy Agency announce a record release of 100 million barrels from member states’ strategic petroleum reserves in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Russia supply around 30% of Europe’s crude imports before the invasion of Ukraine in February 2022?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Brent crude reach $130 a barrel in the immediate aftermath of Russia’s full-scale invasion of Ukraine in February 2022?",
+    "a": "No"
+  },
+  {
+    "q": "Did Europe account for roughly three-quarters of Middle Eastern jet fuel exports shipped via the Strait of Hormuz in 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the International Energy Agency estimate that around 10 million barrels per day of Middle Eastern production had been shut in since the conflict began in March 2026?",
+    "a": "No"
+  }
+]

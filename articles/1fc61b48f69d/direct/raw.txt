@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Netflix announce an acquisition of Warner Bros. Discovery's studios and streaming assets for $82.7 billion in December 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Paramount, led by David Ellison, ultimately win the bidding war for Warner Bros. Discovery with an offer of $111 billion in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Larry Ellison, the chairman of Oracle, provide $45.7 billion in equity to back Paramount's acquisition of Warner Bros. Discovery in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Netflix increase its bid to match Paramount's final offer of $31 per share in February 2026 to remain in the bidding war?",
+    "a": "No"
+  },
+  {
+    "q": "Did Warner Bros. Discovery's board of directors initially reject Paramount's offers due to concerns about the combined company's $87 billion debt load in January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Comcast emerge as the final winner of the bidding war for Warner Bros. Discovery in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did California Attorney General Rob Bonta state on February 26, 2026, that the California Department of Justice had an open investigation into the merger?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Senators Elizabeth Warren, Bernie Sanders, and Richard Blumenthal urge the Federal Trade Commission (FTC) to review the merger in early 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Paramount file a lawsuit in January 2026 seeking more information about the Netflix deal before withdrawing from negotiations?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Paramount offer a $0.25 per share ticking fee to Warner Bros. Discovery shareholders for each quarter the deal failed to close by December 31, 2025?",
+    "a": "No"
+  }
+]

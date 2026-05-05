@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did WTI crude oil prices rise by 8.4% on Monday, March 1, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the official market close on Monday, March 1, 2026, show WTI crude oil trading at $79.45 per barrel?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. and Israeli airstrikes in June 2025 result in the death of Supreme Leader Ayatollah Ali Khamenei?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran's Revolutionary Guard commander state on March 1, 2026, that any ship attempting to pass through the Strait of Hormuz would be set on fire?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump agree to negotiate with Iran on Sunday, February 28, 2026, after Iranian security chief Ali Larijani accepted the offer?",
+    "a": "No"
+  },
+  {
+    "q": "Did tanker traffic through the Strait of Hormuz come to a halt as of March 1, 2026, according to consulting firm Rystad Energy?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did approximately three-quarters of the crude exports passing through the Strait of Hormuz in 2025 go to the United States?",
+    "a": "No"
+  },
+  {
+    "q": "Did UBS analysts led by Henri Patricot predict on Sunday, February 28, 2026, that Brent spot prices could rise above $120 per barrel?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran produce about 3.3 million barrels per day in early 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Barclays analysts tell clients on Saturday, February 27, 2026, that Brent oil could hit $100 per barrel?",
+    "a": "Yes"
+  }
+]

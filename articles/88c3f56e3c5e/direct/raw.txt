@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Saudi Crown Prince Mohammed bin Salman argue in favor of an attack on Iran during phone calls with U.S. President Donald Trump in the month prior to March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu continue to urge the United States to join strikes on Iran in early 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the joint U.S.-Israel attack on Iran in March 2026 result in the death of Iran's Supreme Leader, Ayatollah Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did American intelligence believe in March 2026 that Iran’s military posed an immediate threat to the U.S. mainland within the next decade?",
+    "a": "No"
+  },
+  {
+    "q": "Did Saudi Arabia publicly state that it would not allow its airspace to be used in an attack on Iran in early 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Qatar suffer missile strikes from Iran in March 2026, leading to its inclusion among the targeted Gulf states?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran inadvertently target a five-star hotel in Dubai during its retaliation in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the leaders of Saudi Arabia and the United Arab Emirates speak on the phone in March 2026 despite having no formal diplomatic ties at that time?",
+    "a": "No"
+  },
+  {
+    "q": "Did Emirati political commentator Abdulkhaleq Abdulla tell the London Telegraph in March 2026 that Iran was a unifying threat for the Gulf Co-operation Council nations?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Dr. Yoel Guzansky state in March 2026 that the Gulf states had previously worked together to dissuade Trump from striking Iran?",
+    "a": "No"
+  }
+]

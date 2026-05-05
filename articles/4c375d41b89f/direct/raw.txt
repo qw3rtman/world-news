@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Rafael Mariano Grossi, director-general of the International Atomic Energy Agency, state that Iran's nuclear enrichment capacities would likely remain after the military conflict in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Central Command report that 13 U.S. service members were killed in the war that began on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian Intelligence Minister Esmail Khatib die in an Israeli strike before Ali Larijani and Gholamreza Soleimani were killed in late March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israel launch its first attacks on Iran on June 13, 2025, according to the timeline provided by the IAEA director-general?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the drone strike on the Bushehr nuclear power plant in March 2026 result in significant reactor damage and multiple casualties?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran fire cluster munitions at the Tel Aviv suburb of Ramat Gan in response to the killing of Ali Larijani and Gholamreza Soleimani in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu state that the war was being waged primarily to eliminate Iran's conventional military forces rather than its nuclear program in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Supreme Leader Mojtaba Khamenei issue a written statement in March 2026 vowing to avenge the death of Ali Larijani?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the IAEA confirm that inspectors were still present at the underground nuclear complex in Isfahan when Israel launched attacks on June 13, 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did Lebanon's Health Ministry report that 10 people were killed in Israeli strikes on central Beirut in March 2026?",
+    "a": "Yes"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "q": "Is ConocoPhillips exploring the sale of assets located in the Permian Basin?",
+  "a": "Yes",
+  "q": "Is ConocoPhillips selling assets acquired through deals with Concho Resources Inc.?",
+  "a": "Yes",
+  "q": "Is ConocoPhillips selling assets acquired through deals with ExxonMobil Corporation?",
+  "a": "No",
+  "q": "Are the assets expected to fetch approximately $2 billion?",
+  "a": "Yes",
+  "q": "Are the assets expected to fetch approximately $10 billion?",
+  "a": "No",
+  "q": "Is the sale part of a broader streamlining of ConocoPhillips' portfolio?",
+  "a": "Yes",
+  "q": "Is the sale part of a broader expansion of ConocoPhillips' portfolio?",
+  "a": "No",
+  "q": "Are the people providing information about the matter asking not to be identified?",
+  "a": "Yes",
+  "q": "Are the people providing information about the matter publicly identified as ConocoPhillips executives?",
+  "a": "No",
+  "q": "Did the article report that the sale discussions were public knowledge?",
+  "a": "No"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Canada, France, Germany, Italy, and Britain issue a joint statement on Monday, March 16, 2026, warning against a significant Israeli ground offensive in Lebanon?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the joint statement by Canada, France, Germany, Italy, and Britain explicitly call for the immediate disarmament of the Iran-backed militant group Hezbollah by the Lebanese government?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Hezbollah open fire at Israel on March 2, 2026, stating it aimed to avenge the killing of Iranian Supreme Leader Ayatollah Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the joint statement by Canada, France, Germany, Italy, and Britain urge for the immediate de-escalation of violence in Lebanon?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the joint statement by Canada, France, Germany, Italy, and Britain include Spain as a signatory warning against the Israeli ground offensive?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article state that more than 880 people had been killed in Lebanon as a result of Israel's offensive by March 16, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that more than 1 million people in Lebanon had been driven from their homes by March 16, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that more than 130,000 people in Lebanon were living in collective shelters according to Lebanese authorities by March 16, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that Ayatollah Ali Khamenei was killed on the first day of the U.S. and Israel's war on Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the joint statement by Canada, France, Germany, Italy, and Britain endorse Israel's threat of Gaza-scale devastation in Lebanon?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the U.S. military state that Kuwait mistakenly shot down three American F-15E Strike Eagles during a combat mission in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Iranian Red Crescent Society report that at least 555 people had been killed in Iran by the U.S.-Israeli campaign as of March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Senator Mark Warner state that there was an imminent threat to the United States from Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Secretary of State Marco Rubio state that regime change was the primary objective of the U.S. military operation in Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the State Department urge U.S. citizens to leave countries including Iran, Iraq, Jordan, Lebanon, and Israel in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Spanish Prime Minister Pedro Sánchez confirm that Spanish bases were used to launch attacks on Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did First Lady Melania Trump chair a U.N. Security Council session on protecting children in armed conflict in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did NATO Secretary General Mark Rutte state that NATO would directly enter the war against Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump project that the U.S. operation in Iran would take four to five weeks in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the International Atomic Energy Agency report confirmed damage to Iran's Natanz nuclear enrichment site in March 2026?",
+    "a": "No"
+  }
+]

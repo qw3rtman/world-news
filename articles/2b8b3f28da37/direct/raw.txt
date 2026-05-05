@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did US President Donald Trump state in a March 2026 interview that the decision to end the war with Iran would be taken mutually with Israeli Prime Minister Benjamin Netanyahu?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian Supreme Leader Ayatollah Ali Khamenei survive the initial joint military strikes by the United States and Israel in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did White House Press Secretary Karoline Leavitt state in March 2026 that Washington expected the conflict to last between four and six weeks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump give a clear, specific timeline for how long the war with Iran would continue during his March 2026 interview?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran announce in March 2026 that Mojtaba Khamenei would succeed his father as the new leader of the Islamic Republic?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the joint military operation by the United States and Israel against Iran begin on March 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did US President Donald Trump indicate that he would make the final decision on ending the war, despite consulting with Netanyahu?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu publicly endorse the killing of Ayatollah Ali Khamenei as a necessary step to destroy Iran's nuclear program in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did US President Donald Trump avoid discussing the possibility of Israel continuing the war against Iran after the US decides to stop its strikes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the joint US-Israeli military strikes in February 2026 target and kill Iran's President Ebrahim Raisi?",
+    "a": "No"
+  }
+]

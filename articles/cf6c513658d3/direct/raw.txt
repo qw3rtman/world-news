@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iran name Mojtaba Khamenei to succeed his father Ali Khamenei as supreme leader in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Mojtaba Khamenei appointed supreme leader by a decisive vote of the Assembly of Experts in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Pope Leo warn of a 'tragedy of enormous proportions' due to hatred and fear in the Middle East in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state that Washington should have a say in the selection of Iran's new supreme leader in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. military report that eight Americans had died from wounds sustained during Iran's initial counter-attack in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israel claim it targeted Iranian commanders operating in Beirut when an Israeli strike hit an apartment in the Ramada hotel building in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Strait of Hormuz remain fully open for global oil shipments in March 2026 despite the conflict?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. crude futures rise more than 20% in early trade in March 2026, hitting their highest level since July 2022?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Israeli military report that three of its soldiers were killed in southern Lebanon in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Japan rely on the Middle East for around 95% of its crude supply in March 2026?",
+    "a": "Yes"
+  }
+]

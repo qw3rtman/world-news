@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Saudi Crown Prince Mohammed bin Salman hold private calls with U.S. President Donald Trump urging military action against Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Saudi Arabia publicly state that it would permit its airspace to be used for U.S. strikes on Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. intelligence assessments indicate that Iran posed an immediate threat to the United States in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. strike on Iran result in the death of Supreme Leader Ayatollah Ali Khamenei in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Saudi Defence Minister Khalid bin Salman echo concerns about inaction during closed-door meetings with U.S. officials in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian President Masoud Pezeshkian publicly endorse the U.S. military strikes on Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did The Washington Post report that Saudi Crown Prince Mohammed bin Salman argued that failing to strike Iran immediately would allow Tehran to grow stronger in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. envoy Steve Witkoff and Jared Kushner negotiate a deal with Iranian officials that allowed Saudi airspace to be used for strikes in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Saudi Arabia publicly back a diplomatic solution while privately pressing for military action against Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. launch a full-scale strike on Iran without Israel’s support in March 2026?",
+    "a": "No"
+  }
+]

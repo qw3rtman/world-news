@@ -1,0 +1,22 @@
+{
+  "q": "Did U.S. President Donald Trump signal a willingness to engage in dialogue with Iran's new leadership following the death of Supreme Leader Ayatollah Ali Khamenei in March 2026?",
+  "a": "Yes",
+  "q": "Did U.S. B-2 stealth bombers strike Iran’s ballistic missile facilities with 2,000-pound bombs during the military campaign in March 2026?",
+  "a": "Yes",
+  "q": "Did Iranian-supported militant groups in Iraq and Lebanon claim to have struck Israel and a U.S. base as part of the conflict widening in March 2026?",
+  "a": "Yes",
+  "q": "Did Iranian retaliatory strikes kill three U.S. service members who were deployed to Kuwait as part of a supplies and logistics unit in March 2026?",
+  "a": "Yes",
+  "q": "Did the Israeli military confirm that it struck a girls’ school in southern Iran that killed at least 165 people on Saturday in March 2026?",
+  "a": "No",
+  "q": "Did U.S. Secretary of State Antony Blinken lead the diplomatic effort to stop Iran’s attacks alongside Britain, France, and Germany in March 2026?",
+  "a": "No",
+  "q": "Did the paramilitary Basij set up checkpoints across Tehran and stop people celebrating Supreme Leader Ayatollah Ali Khamenei’s death in March 2026?",
+  "a": "No",
+  "q": "Did the killing of Supreme Leader Ayatollah Ali Khamenei occur during the 12-day war that took place in June 2025?",
+  "a": "No",
+  "q": "Did the Lebanese militant group Hezbollah claim its strikes against Israel in March 2026 were the first such claim in more than a year?",
+  "a": "Yes",
+  "q": "Did Iranian Foreign Minister Abbas Araghchi state that a new supreme leader would be chosen within one or two days after Ayatollah Ali Khamenei’s death in March 2026?",
+  "a": "Yes"
+}

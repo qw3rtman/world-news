@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the Federal Open Market Committee vote 11-1 to keep the benchmark federal funds rate in the range of 3.5%-3.75% in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Governor Christopher Waller dissent from the Federal Open Market Committee's decision to hold interest rates steady in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Federal Reserve Chair Jerome Powell state that near-term inflation expectations had risen due to supply disruptions in the Middle East in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Attorney Jeanine Pirro successfully compel Federal Reserve Chair Jerome Powell to testify regarding the Fed's headquarters renovation in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Federal Reserve officials project that gross domestic product would increase at a 2.4% pace in 2026 in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Federal Open Market Committee's dot plot in March 2026 indicate that the median outlook was for two rate cuts in 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump tap former Fed Governor Kevin Warsh as the successor to Federal Reserve Chair Jerome Powell in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Senator Thom Tillis vow to support Kevin Warsh's nomination to the Federal Reserve Board in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Federal Reserve officials expect the personal consumption expenditures price index to reflect a 2.7% inflation rate for 2026 in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Governor Stephen Miran vote to hold interest rates steady at the March 2026 Federal Open Market Committee meeting?",
+    "a": "No"
+  }
+]

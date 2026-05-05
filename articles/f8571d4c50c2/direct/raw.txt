@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Juan Pablo Guanipa spend the first 21 days of his 260-day imprisonment in a 3x3 meter cell at the Bolivarian National Police headquarters in Maripérez?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Juan Pablo Guanipa currently a national leader of the political party Primero Justicia?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Marco Rubio confirm to Caribbean countries that Venezuela is heading towards an electoral consultation in the interview published on February 27, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Edmundo González win in all polling stations designated for police and military personnel during the July 2024 Venezuelan presidential elections?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Juan Pablo Guanipa’s wife recently pass away from cancer prior to the February 2026 interview?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Donald Trump invite Nicolás Maduro to attend the State of the Union address in 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Juan Pablo Guanipa state that the Venezuelan amnesty law benefits people currently in exile?",
+    "a": "No"
+  },
+  {
+    "q": "Did María Corina Machado win the 2023 Venezuelan primary elections with 90% of the vote according to Juan Pablo Guanipa?",
+    "a": "No"
+  },
+  {
+    "q": "Did Juan Pablo Guanipa discuss political reconciliation with his brother Tomás Guanipa the day before his release from prison?",
+    "a": "No"
+  },
+  {
+    "q": "Did Juan Pablo Guanipa spend 10 months in hiding under harsh conditions before his arrest?",
+    "a": "Yes"
+  }
+]

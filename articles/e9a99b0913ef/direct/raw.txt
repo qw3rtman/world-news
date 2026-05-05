@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Motilal Oswal Financial Services Ltd (MOFSL) report that gold prices crossed the $5,000 per ounce mark in early 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does Motilal Oswal Financial Services Ltd (MOFSL) project that Comex gold will settle towards $7,500 per ounce over the next 12 months?",
+    "a": "No"
+  },
+  {
+    "q": "Did gold prices continue to climb between 2023 and 2025 despite real interest rates being positive?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did central banks add approximately 500 tonnes of gold annually for four consecutive years as part of reserve diversification efforts?",
+    "a": "No"
+  },
+  {
+    "q": "Did Navneet Damani, head of research for Commodities at Motilal Oswal Financial Services Ltd, state that gold has entered a structural repricing phase?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Motilal Oswal Financial Services Ltd (MOFSL) attribute the current gold price cycle primarily to deflationary pressures rather than fiscal and monetary confidence issues?",
+    "a": "No"
+  },
+  {
+    "q": "Did rising geopolitical tensions in Eastern Europe, the Middle East, and Asia contribute to heightened inflation and currency volatility according to the report?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did exchange-traded funds (ETFs) experience significant outflows in the period leading up to the February 2026 report?",
+    "a": "No"
+  },
+  {
+    "q": "Did Manav Modi, an analyst at Motilal Oswal Financial Services Ltd (MOFSL), describe real returns as increasingly temporary and policy-driven?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Motilal Oswal Financial Services Ltd (MOFSL) identify shrinking inventories across major exchanges and limited mine output as factors supporting elevated precious metal prices?",
+    "a": "Yes"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Standard Chartered raise its 2026 Brent crude oil forecast to $70 per barrel from $63.50 per barrel in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Standard Chartered raise its first-quarter 2026 Brent forecast to $74 per barrel from $62 per barrel in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Brent futures rise approximately 6% to $82.38 per barrel in March 2026 following the widening of the U.S.-Israel war against Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did OPEC+ agree to an oil output boost of 206,000 barrels per day for April 2026 in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Standard Chartered cite perceptions of loose market balances as a factor dampening upward price risk in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Standard Chartered lower its second-quarter 2026 Brent forecast to $67 per barrel from $63 per barrel in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran respond to the conflict by attacking energy infrastructure in Gulf countries and tankers in the Strait of Hormuz in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S.-Israel war against Iran begin in February 2026, causing Brent futures to soar in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israel attack Lebanon in March 2026, contributing to the disruption of oil and gas fuel shipments in the Middle East?",
+    "a": "No"
+  },
+  {
+    "q": "Did Standard Chartered report that OPEC had restarted its incremental production increases in March 2026?",
+    "a": "No"
+  }
+]

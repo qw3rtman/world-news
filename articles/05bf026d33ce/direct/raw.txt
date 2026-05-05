@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Nvidia CEO Jensen Huang state at the Morgan Stanley Technology, Media, and Telecom conference in March 2026 that recent investments in OpenAI and Anthropic might be the company's last in those firms?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Nvidia finalize a $100 billion investment deal with OpenAI in September 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did Nvidia CEO Jensen Huang indicate that Nvidia had finalized a $30 billion investment in OpenAI?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Nvidia CEO Jensen Huang confirm that Nvidia would make a $10 billion investment in Anthropic?",
+    "a": "No"
+  },
+  {
+    "q": "Did Reuters exclusively report in 2025 that OpenAI was laying the groundwork for an IPO that could value the company at up to $1 trillion?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Financial Times report in February 2026 that Nvidia and OpenAI had abandoned their $100 billion deal?",
+    "a": "Yes"
+  },
+  {
+    "q": "Has Anthropic finalized its decision to go public this year?",
+    "a": "No"
+  },
+  {
+    "q": "Is Nvidia CEO Jensen Huang reporting from Mexico City for this article?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Nvidia CEO Jensen Huang state at the Morgan Stanley conference that the opportunity to invest $100 billion in OpenAI is likely not available?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Nvidia CEO Jensen Huang state that Nvidia would likely make a $100 billion investment in Anthropic?",
+    "a": "No"
+  }
+]

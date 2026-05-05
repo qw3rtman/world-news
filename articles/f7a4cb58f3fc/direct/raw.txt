@@ -1,0 +1,22 @@
+{
+  "q": "Did gold prices rise after a run of three weekly gains in February 2026?",
+  "a": "Yes",
+  "q": "Did bullion prices rise as much as 2.2% to top $5,200 an ounce during the week of February 22, 2026?",
+  "a": "Yes",
+  "q": "Did US President Donald Trump announce a global tariff of 15% following a Supreme Court ruling against his use of emergency powers?",
+  "a": "Yes",
+  "q": "Did the Supreme Court rule in favor of US President Donald Trump's use of emergency powers to levy duties in February 2026?",
+  "a": "No",
+  "q": "Did US President Donald Trump impose a global tariff of 25% after the Supreme Court ruling in February 2026?",
+  "a": "No",
+  "q": "Did gold prices fall by more than 5% during the week of February 22, 2026?",
+  "a": "No",
+  "q": "Did the dollar strengthen due to heightened uncertainty over US trade policy in February 2026?",
+  "a": "No",
+  "q": "Did a weaker dollar make gold cheaper for many buyers in February 2026?",
+  "a": "Yes",
+  "q": "Did gold prices top $5,000 an ounce during the week of February 22, 2026?",
+  "a": "Yes",
+  "q": "Did US President Donald Trump announce a global tariff of 10% after the Supreme Court ruling in February 2026?",
+  "a": "No"
+}

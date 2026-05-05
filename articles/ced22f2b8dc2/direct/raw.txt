@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. and Israeli strikes kill Ayatollah Ali Khamenei in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Mojtaba Khamenei considered a frontrunner to succeed his father as Iran's next leader?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Saeed Jalili win approximately 13 million votes in the second round of Iran's last presidential election?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the Basij organization function as an official volunteer militia in Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's Supreme Leader Ali Khamenei survive the initial U.S. and Israeli strikes in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Saeed Jalili win the first round of Iran's last presidential election with around 13 million votes?",
+    "a": "No"
+  },
+  {
+    "q": "Is Mojtaba Khamenei the current Supreme Leader of Iran as of March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is the Basij organization described as an unofficial, independent citizen group in the article?",
+    "a": "No"
+  },
+  {
+    "q": "Did over 61 million people in Iran have eligibility to vote in the last presidential election?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Basij member Hassan from Mashhad express strong certainty that the Islamic Republic would survive?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did an Israeli source tell CNN that Israel's strike on Iran was coordinated with the United States?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did CNN reporter Jeremy Diamond report from Tehran regarding the strike on Iran in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was it clear at the time of the report whether the United States also took part in the attack on Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did an Israeli source inform CNN about the coordination of Israel's strike on Iran on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did CNN reporter Jeremy Diamond report from Isfahan regarding the strike on Iran in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United States confirm its direct participation in the attack on Iran at the time of the report?",
+    "a": "No"
+  },
+  {
+    "q": "Was the nature of the strike on Iran described as potentially unilateral or involving U.S. participation in the report?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did CNN reporter Jeremy Diamond report from Jerusalem regarding the strike on Iran in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Israeli source tell CNN that the strike on Iran was coordinated with the United States?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did CNN reporter Jeremy Diamond report from Dubai regarding the strike on Iran in February 2026?",
+    "a": "No"
+  }
+]

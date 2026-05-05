@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the article state that elite US troops from the Delta Force may launch a covert mission to seize Iran’s enriched uranium stockpile in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article report that the Fordow uranium enrichment facility was targeted by American bombs last year, as evidenced by satellite images of craters?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article claim that the US special forces mission would likely involve specialist scientists to help handle the nuclear material?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that the Iranian regime has allowed International Atomic Energy Agency inspections at the Isfahan nuclear facility?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article report that Iran possesses 440kg of uranium enriched to 90 per cent purity?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article claim that the covert snatch operation would be similar in its initial stage to the raid on Venezuelan President Nicolás Maduro’s safe house in January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that the Pentagon has not yet war-gamed the scenario of securing Iran’s nuclear stockpile?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article report that the back-up facility near Natanz, located underneath Pickaxe Mountain, was targeted and seriously damaged last June?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article state that U.S. President Donald Trump suggested the US might send troops into Iran at some point in the future?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article claim that the International Atomic Energy Agency knows the exact location of Iran’s entire uranium stockpile?",
+    "a": "No"
+  }
+]

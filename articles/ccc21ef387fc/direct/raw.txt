@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the Houthis actively join Iran’s defense in the first week of the Iran war as of March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Houthis resume attacks on commercial shipping in the Red Sea during the Gaza war?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the United States designated the Houthis as a Foreign Terrorist Organization in March 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the World Food Programme resume food distributions in northern Yemen in January 2026 after being forced to stop?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Southern Transitional Council seize territory from other government-affiliated factions in December 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does Saudi Arabia rely on facilities along the Red Sea for oil exports to Asia because the Strait of Hormuz is effectively closed due to the Iran war?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Houthis successfully seize control of Yemen’s oil and gas resources in the Marib governorate by April 2022?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Presidential Leadership Council form as the Yemeni government’s executive body in 2022?",
+    "a": "Yes"
+  },
+  {
+    "q": "Has Yemen witnessed large-scale conflict and coalition campaigns attempting to unseat the Houthis since 2018?",
+    "a": "No"
+  },
+  {
+    "q": "Did Allison Minor previously serve as the director for Arabian Peninsula affairs at the National Security Council?",
+    "a": "Yes"
+  }
+]

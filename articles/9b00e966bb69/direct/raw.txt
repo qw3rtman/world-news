@@ -1,0 +1,22 @@
+{
+  "q": "Did the United States and Ecuador launch joint military action against cartels in March 2026?",
+  "a": "Yes",
+  "q": "Did the joint military action mark a major escalation of Washington’s regional campaign against drug trafficking?",
+  "a": "Yes",
+  "q": "Did the White House provide Mexico with intelligence that was used to capture the leader of the country’s biggest cartel during President Donald Trump’s second term?",
+  "a": "Yes",
+  "q": "Did the White House strike dozens of vessels in the Caribbean allegedly carrying drugs to the US since the start of President Donald Trump’s second term?",
+  "a": "Yes",
+  "q": "Did experts warn that the war on drugs is likely to result in a significant drop in drug production due to strong demand in the US and Europe?",
+  "a": "No",
+  "q": "Did the joint military action against cartels occur during the first term of President Donald Trump?",
+  "a": "No",
+  "q": "Did the joint military action take place in the Caribbean rather than in Ecuador?",
+  "a": "No",
+  "q": "Did experts warn that the war on drugs is unlikely to translate to a drop in drug production given strong demand in the US and Europe?",
+  "a": "Yes",
+  "q": "Did the intelligence provided by the White House to Mexico lead to the capture of the leader of Mexico’s second-biggest cartel?",
+  "a": "No",
+  "q": "Did experts warn that the war on drugs may instead turn Latin America even more violent?",
+  "a": "Yes"
+}

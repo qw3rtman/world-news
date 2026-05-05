@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the conflict between the United States and Iran lead to the closure of the Strait of Hormuz in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the Strait of Hormuz facilitate the flow of approximately 20% of the world’s oil?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did international oil prices exceed $100 a barrel in March 2026 due to the closure of the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the last time international oil prices reached $100 a barrel prior to the events in March 2026 in the year 2020?",
+    "a": "No"
+  },
+  {
+    "q": "Did the closure of the Strait of Hormuz result in a 50% reduction in global oil flow?",
+    "a": "No"
+  },
+  {
+    "q": "Is the conflict described in the article between the United States and Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the war in Iran lead to the closure of the Strait of Malacca rather than the Strait of Hormuz in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article state that oil prices had not hit $100 a barrel since the year 2019?",
+    "a": "No"
+  },
+  {
+    "q": "Did the closure of the Strait of Hormuz cause oil prices to spike above $100 a barrel in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the conflict between the United States and Iran lead to the closure of the Suez Canal in March 2026?",
+    "a": "No"
+  }
+]

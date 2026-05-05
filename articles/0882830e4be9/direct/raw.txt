@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did China’s Ministry of Foreign Affairs call for an immediate ceasefire following US-Israeli strikes against Iran in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did China’s envoy Fu Cong state that the indiscriminate use of force is unacceptable during the UN Security Council emergency session on Feb 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States and Israel launch an attack on Iran on Feb 28, 2026, that resulted in the death of Iran’s Supreme Leader Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did China’s embassy in Israel advise Chinese citizens to evacuate to Egypt via the Taba border crossing on March 1, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Cathay Group suspend passenger flights to and from Dubai and Riyadh on Feb 28, 2026, citing regional tensions?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did China’s Ministry of Foreign Affairs endorse the US-Israeli strikes against Iran in its statement on Feb 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did China’s envoy Fu Cong attend the UN Security Council emergency session on March 1, 2026, to discuss the Iran conflict?",
+    "a": "No"
+  },
+  {
+    "q": "Did Cathay Group suspend all operations in the Middle East, including flights to Tehran, on Feb 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did China’s embassy in Israel advise Chinese citizens to leave for Jordan via the Arish border crossing on March 1, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran’s Supreme Leader Ali Khamenei survive the US-Israeli attack launched on Feb 28, 2026?",
+    "a": "No"
+  }
+]

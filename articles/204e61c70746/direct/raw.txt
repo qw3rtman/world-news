@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did China’s legislature signal a desire for steady relations with the US in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was a summit between Chinese leader Xi Jinping and U.S. President Donald Trump scheduled to take place in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Lou Qinjian serve as the spokesman for the National People’s Congress in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Lou Qinjian state that head of state diplomacy is an irreplaceable driver of bilateral ties in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Lou Qinjian tell reporters that both leaders had maintained regular communication since 2024 in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the National People’s Congress signal a desire for stable ties with the UK in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the planned summit between Xi Jinping and Donald Trump scheduled for February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Lou Qinjian serve as the spokesman for the Standing Committee of the National People’s Congress in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Lou Qinjian describe head of state diplomacy as a replaceable driver of bilateral ties in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article report that Xi Jinping and Donald Trump had not communicated since 2024 in March 2026?",
+    "a": "No"
+  }
+]

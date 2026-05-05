@@ -1,0 +1,22 @@
+{
+  "q": "Did US President Donald Trump announce his travel to China would take place from March 31 to April 2, 2026?",
+  "a": "Yes",
+  "q": "Did a White House official confirm the travel dates on February 20, 2026?",
+  "a": "Yes",
+  "q": "Was this visit the first in-person meeting between US President Donald Trump and Chinese President Xi Jinping since their October 2025 encounter in South Korea?",
+  "a": "Yes",
+  "q": "Did US President Donald Trump state that he intended to put on the biggest display ever seen in the history of China during the trip?",
+  "a": "Yes",
+  "q": "Did the October 2025 meeting in South Korea result in an agreement for Beijing to crack down on the illicit fentanyl trade?",
+  "a": "Yes",
+  "q": "Did US President Donald Trump announce the travel dates on February 21, 2026?",
+  "a": "No",
+  "q": "Did Chinese President Xi Jinping raise the issue of Taiwan during the October 2025 meeting in South Korea?",
+  "a": "No",
+  "q": "Did the United States announce its largest-ever arms sales deal with Taiwan in January 2026?",
+  "a": "No",
+  "q": "Did US President Donald Trump tag Canada as the primary reason for several hawkish policy steps in the past several months?",
+  "a": "No",
+  "q": "Did Chinese President Xi Jinping agree to further increase soybean purchases during a February 2026 call with US President Donald Trump?",
+  "a": "No"
+}

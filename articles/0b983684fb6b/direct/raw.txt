@@ -1,0 +1,22 @@
+{
+  "q": "Did Rep. Jasmine Crockett participate in a debate with state Rep. James Talarico in January?",
+  "a": "Yes",
+  "q": "Are Latino voters expected to be the deciding factor in the primary contest between Rep. Jasmine Crockett and state Rep. James Talarico?",
+  "a": "Yes",
+  "q": "Did composer Philip Glass, soprano Renée Fleming, and banjoist Béla Fleck back out of events at the Kennedy Center?",
+  "a": "Yes",
+  "q": "Did President Donald Trump’s name appear on the Kennedy Center facade on December 19?",
+  "a": "Yes",
+  "q": "Is the meteorological winter of the 2025-2026 season preliminarily ranked as the warmest on record for the contiguous United States?",
+  "a": "No",
+  "q": "Did the Cleveland Plain Dealer reduce traffic by banning AI-drafted news articles?",
+  "a": "No",
+  "q": "Are Yosemite National Park and other parks dropping reservation systems, raising concerns about overcrowding?",
+  "a": "Yes",
+  "q": "Did New York receive more snow on Sunday after a blizzard made a sculpture possible?",
+  "a": "Yes",
+  "q": "Are Democrats planning to summon President Donald Trump to testify if they take control of the chamber after the midterms?",
+  "a": "Yes",
+  "q": "Did the centennial of Black History Month offer a microcosm of Vice President Kamala Harris’s views on race and progress?",
+  "a": "No"
+}

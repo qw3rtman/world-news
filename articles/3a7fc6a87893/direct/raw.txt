@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Ecuadorean and U.S. forces launch joint operations to combat drug trafficking in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Southern Command provide detailed operational specifics regarding the joint actions in Ecuador in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ecuador’s Defense Ministry describe the joint operations with the U.S. as an \"offensive\" operation in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ecuador’s Defense Ministry release full operational details of the joint actions in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Daniel Noboa announce that his government would conduct joint operations with the U.S. in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Daniel Noboa frame the joint operations in March 2026 as a response to illegal mining and narco-terrorism?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did a new U.S.-military-led task force play a role in the Mexican military raid that killed Nemesio Oseguera, alias \"El Mencho,\" in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. Southern Command state that its joint actions in Ecuador were meant to combat illicit drug trafficking in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Mexican military raid that killed Nemesio Oseguera, alias \"El Mencho,\" take place in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. Southern Command announce the joint operations in Ecuador via a statement on the social media website X in March 2026?",
+    "a": "Yes"
+  }
+]

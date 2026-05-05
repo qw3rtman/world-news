@@ -1,0 +1,40 @@
+{
+  "q": "Did the Pentagon identify the names of four U.S. soldiers killed in the Iran war on Sunday, March 1, 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Were the four U.S. soldiers killed in the Iran war part of a security team assigned to protect a base in Erbil, Iraq?",
+  "a": "Yes"
+}
+{
+  "q": "Did the four U.S. soldiers die when their infantry fighting vehicle was hit during an Iranian strike near Mehran, western Iran?",
+  "a": "Yes"
+}
+{
+  "q": "Did the Department of Defense release the final names of the four U.S. soldiers killed in the Iran war on Sunday, March 1, 2026?",
+  "a": "No"
+}
+{
+  "q": "Were the four U.S. soldiers killed in the Iran war part of a security team assigned to protect a base in Baghdad, Iraq?",
+  "a": "No"
+}
+{
+  "q": "Did the four U.S. soldiers die when their infantry fighting vehicle was hit during an Iranian strike near Tehran, Iran?",
+  "a": "No"
+}
+{
+  "q": "Have more than 50,000 U.S. troops been deployed to the Middle East in the past weeks following the escalation of hostilities between the U.S. and Iran?",
+  "a": "Yes"
+}
+{
+  "q": "Did the U.S. respond to Iranian aggression with airstrikes that destroyed multiple Iranian missile sites, command and control positions, and radar systems?",
+  "a": "Yes"
+}
+{
+  "q": "Did the U.S. respond to Iranian aggression with airstrikes that destroyed multiple Iranian nuclear power plants, command and control positions, and radar systems?",
+  "a": "No"
+}
+{
+  "q": "Did the Department of Defense confirm that the final names of the four U.S. soldiers killed in the Iran war were released on Sunday, March 1, 2026?",
+  "a": "No"
+}

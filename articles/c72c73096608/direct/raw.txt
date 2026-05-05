@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the Lebanese General Security Directorate announce on March 26 that it is pursuing Iran's IRGC members?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Lebanese government order the arrest of Iran's IRGC members in response to Israel's explicit military ultimatum?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Lebanese General Security Directorate cite the need to protect national security and sovereignty as the reason for pursuing Iran's IRGC members?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Hezbollah’s political wing lead diplomatic discussions between Lebanon and Iran to de-escalate the situation?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran accuse Lebanon of unjustly cracking down on its operatives while organizing funerals and military parades for the IRGC in the country?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Lebanese General Security Directorate announce on February 26 that it is pursuing Iran's IRGC members?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Lebanese government order the arrest of Hezbollah members in response to Israel's explicit military ultimatum?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Lebanese General Security Directorate cite the need to expand foreign interference from Iran as the reason for pursuing Iran's IRGC members?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United Nations lead diplomatic discussions between Lebanon and Iran to de-escalate the situation?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran praise Lebanon for its fair treatment of its operatives while organizing funerals and military parades for the IRGC in the country?",
+    "a": "No"
+  }
+]

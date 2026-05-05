@@ -1,0 +1,22 @@
+{
+  "q": "Did the United States and Israel launch military strikes against Iran overnight on February 28, 2026?",
+  "a": "Yes",
+  "q": "Did the military strikes launched by the United States and Israel on February 28, 2026, target Iran’s Supreme Leader Khamanei and President Masoud Pezeshkian?",
+  "a": "Yes",
+  "q": "Did a person briefed on Israel’s operation state to NPR that the goal of the strikes was to kill Iran’s Supreme Leader Khamanei and President Masoud Pezeshkian?",
+  "a": "Yes",
+  "q": "Did Iran respond to the February 28, 2026 strikes by lobbing missiles at Israel and other countries in the region that host U.S. troops?",
+  "a": "Yes",
+  "q": "Did NPR international correspondent Daniel Estrin, based in Tel Aviv, discuss the February 28, 2026 strikes with NPR national security correspondent Greg Myre on the Sources & Methods program?",
+  "a": "Yes",
+  "q": "Did the military strikes launched by the United States and Israel on February 28, 2026, target Iran’s Foreign Minister Hossein Amir-Abdollahian and Defense Minister Mohammad Bagheri?",
+  "a": "No",
+  "q": "Did Iran respond to the February 28, 2026 strikes by launching cyberattacks against U.S. banking institutions rather than lobbing missiles?",
+  "a": "No",
+  "q": "Did NPR national security correspondent Greg Myre, based in Washington D.C., discuss the February 28, 2026 strikes with NPR international correspondent Daniel Estrin on the Sources & Methods program?",
+  "a": "No",
+  "q": "Did the person briefed on Israel’s operation speak to The New York Times about the goal of killing Iran’s Supreme Leader Khamanei and President Masoud Pezeshkian?",
+  "a": "No",
+  "q": "Did the United States and Israel launch military strikes against Iraq overnight on February 28, 2026?",
+  "a": "No"
+}

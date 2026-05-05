@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the U.S. Senate vote to block a war powers resolution on March 5, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the U.S.-Iran war in its fifth day as of March 5, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Treasury Secretary Scott Bessent announce measures to stabilize oil shipments in the Gulf on Wednesday, March 4, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Defense Secretary Pete Hegseth state that America was losing the war decisively during a briefing on Wednesday, March 4, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was Supreme Leader Ayatollah Ali Khamenei killed in the opening salvos of the U.S.-Israeli war on Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did executives from Lockheed Martin and RTX meet with White House officials on Wednesday, March 4, 2026, to discuss accelerating weapons production?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump claim on Tuesday, March 3, 2026, that the U.S. had a virtually unlimited supply of medium and upper medium grade weapons?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Joint Chiefs of Staff Chairman Gen. Dan Caine join Defense Secretary Pete Hegseth for a briefing on Wednesday, March 4, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Arab Emirates admit that its inventories of Patriot interceptor missiles were running low on Wednesday, March 4, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran continue its drone and missile strikes on neighboring countries for a fifth day as of March 5, 2026?",
+    "a": "Yes"
+  }
+]

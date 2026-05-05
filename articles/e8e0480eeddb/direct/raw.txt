@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump attend a dignified transfer ceremony for fallen U.S. service members at Dover Air Force Base in Delaware in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump publicly blame Iran for the bombing of the Shajareh Tayyebeh elementary school in Minab, southern Iran, in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did preliminary U.S. investigation findings in March 2026 indicate that a U.S. munition was likely responsible for the strike on the Shajareh Tayyebeh elementary school?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian President Masoud Pezeshkian announce in March 2026 that Iran would no longer attack neighboring countries unless an attack on Iran originated from those countries?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Vice President JD Vance publicly oppose the U.S. military action in Iran before the strikes began in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Israel Defense Forces claim in March 2026 that it had launched approximately 3,400 strikes across Iran since the start of Operation Roaring Lion?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump confirm in March 2026 that Russia is actively sharing intelligence with Iran regarding the location of U.S. forces in the Middle East?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. military confirm in March 2026 that Israel was responsible for the bombing of the Shajareh Tayyebeh elementary school in Minab, Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United Kingdom confirm in March 2026 that it had deployed the aircraft carrier HMS Prince of Wales to the Middle East to join offensive combat operations against Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did Kuwait announce in March 2026 that it had increased crude oil production to compensate for the disruption of shipping in the Strait of Hormuz?",
+    "a": "No"
+  }
+]

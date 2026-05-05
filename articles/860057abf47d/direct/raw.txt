@@ -1,0 +1,22 @@
+{
+  "q": "Did U.S. President Donald Trump state that the summit with Chinese President Xi Jinping is being postponed in March 2026?",
+  "a": "Yes",
+  "q": "Did the postponement of the summit inject uncertainty into the trade negotiations between the United States and China in March 2026?",
+  "a": "Yes",
+  "q": "Did U.S. President Donald Trump announce a specific new date for the summit with Chinese President Xi Jinping in March 2026?",
+  "a": "No",
+  "q": "Did U.S. President Donald Trump make the announcement regarding the summit postponement during a meeting with the Irish prime minister in March 2026?",
+  "a": "Yes",
+  "q": "Did Chinese President Xi Jinping reject the postponement of the summit in March 2026?",
+  "a": "No",
+  "q": "Did U.S. President Donald Trump indicate that the new summit would take place approximately five or six weeks after the March 2026 announcement?",
+  "a": "Yes",
+  "q": "Did U.S. President Donald Trump make the announcement about the summit postponement in the Oval Office of the White House in March 2026?",
+  "a": "No",
+  "q": "Did U.S. President Donald Trump state that China was fine with the postponement of the summit in March 2026?",
+  "a": "Yes",
+  "q": "Was the summit between U.S. President Donald Trump and Chinese President Xi Jinping scheduled to occur in February 2026?",
+  "a": "No",
+  "q": "Did U.S. President Donald Trump state that the summit would take place in about five or six weeks in March 2026?",
+  "a": "Yes"
+}

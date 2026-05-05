@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Ubisoft CEO Yves Guillemot confirm in an interview with Variety in February 2026 that multiple Far Cry and Assassin's Creed games are in development?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ubisoft reorganize its structure into five 'creative houses' as part of a recent restructuring?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the Tencent-backed subsidiary Vantage Studios included in Ubisoft's updated organizational structure?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ubisoft confirm that the Assassin's Creed community exceeded 30 million players in the previous year?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the Far Cry project codenamed Project Blackbird feature a narrative that unfolds over 72 in-game hours?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ubisoft confirm that the Assassin's Creed title codenamed Singularity was a virtual trading card game incorporating Web3 and blockchain elements?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ubisoft confirm that the Far Cry anthology series will star Rob McElhenney?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ubisoft cancel the Assassin's Creed remake of Black Flag as part of its recent restructuring?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ubisoft confirm layoffs affecting 40 developers at the studio working on the Splinter Cell remake?",
+    "a": "No"
+  },
+  {
+    "q": "Is the Far Cry standalone multiplayer title known as Project Maverick set in the Alaskan wilderness?",
+    "a": "No"
+  }
+]

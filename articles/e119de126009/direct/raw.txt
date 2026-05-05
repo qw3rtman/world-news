@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the White House announce in March 2026 that China agreed to postpone U.S. President Donald Trump's visit to Beijing?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was U.S. President Donald Trump's visit to Beijing originally scheduled to take place in April 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did White House Spokeswoman Karoline Leavitt state that a new date for the visit had already been finalized in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump cite the demands of the Iran war as the reason for postponing his trip to Asia in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump specify an exact new date for his visit to Beijing when he announced the postponement in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did a spokesperson for China's embassy in Washington describe head-of-state diplomacy as playing an irreplaceable role in bilateral relations in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump propose moving his trip to Asia to approximately five or six weeks after the March 2026 announcement?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did White House Spokeswoman Karoline Leavitt announce the postponement of the visit on Thursday, March 19, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the spokesperson for China's embassy in Washington state that China and the U.S. would cease all communication regarding President Trump’s visit in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the White House indicate in March 2026 that it was working to secure a new date for the visit as soon as possible?",
+    "a": "Yes"
+  }
+]

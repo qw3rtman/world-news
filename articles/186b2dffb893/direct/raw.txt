@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did IRGC general Ebrahim Jabbari state that oil prices would soon reach $200 a barrel in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did IRGC general Ebrahim Jabbari claim that the Strait of Hormuz was closed in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Brent crude oil prices fall below $80 a barrel in March 2026 amid the reported supply disruptions?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article report that the United States and Israel carried out joint operations in Iran in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that Iran's supreme leader Ali Khamenei survived the US-Israeli joint operations in early March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article identify the Strait of Hormuz as a corridor handling roughly one-fifth of the world’s traded oil in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did IRGC general Ebrahim Jabbari state that Iran would target only military facilities in retaliation in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Brent crude oil prices rise above $85 a barrel for the first time since July 2024 in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article report that Qatar, the United Arab Emirates, and other Gulf countries export significant volumes of liquefied natural gas through the Strait of Hormuz in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that approximately 50 million barrels of global daily oil consumption pass through the Strait of Hormuz in March 2026?",
+    "a": "No"
+  }
+]

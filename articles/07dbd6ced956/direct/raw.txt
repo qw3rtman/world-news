@@ -1,0 +1,22 @@
+{
+  "q": "Did the Israeli military announce an expansion of strikes to additional areas in western and central Iran in March 2026?",
+  "a": "Yes",
+  "q": "Did the Israeli military announce a reduction in the scope of strikes against Iranian infrastructure in March 2026?",
+  "a": "No",
+  "q": "Did the Israeli military say it was expanding strikes to eastern Iran in March 2026?",
+  "a": "No",
+  "q": "Did the Israeli military say it was expanding strikes to southern Iran in March 2026?",
+  "a": "No",
+  "q": "Did the Iranian military announce an expansion of its own strikes to western Iran in March 2026?",
+  "a": "No",
+  "q": "Did the Israeli military say it was expanding the scope of its strikes against Iranian infrastructure in March 2026?",
+  "a": "Yes",
+  "q": "Did the Israeli military say it was expanding strikes to northern Iran in March 2026?",
+  "a": "No",
+  "q": "Did the Israeli military say it was expanding strikes to coastal areas of Iran in March 2026?",
+  "a": "No",
+  "q": "Did the United States military announce an expansion of strikes to western and central Iran in March 2026?",
+  "a": "No",
+  "q": "Did the Israeli military say it was expanding the scope of its strikes against Israeli infrastructure in March 2026?",
+  "a": "No"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Mojtaba Khamenei assume the role of supreme leader of Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States conduct an airstrike on an IRGC base adjacent to a Minab school in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Senator Ted Cruz publicly endorse Texas Attorney General Ken Paxton in the 2026 Texas Republican U.S. Senate primary in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Pope Francis die in a dramatic conclave battle in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did a judge rule that Kari Lake unlawfully ran the U.S. Agency for Global Media and void Voice of America layoffs in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Iranian missile strike that tore apart a home in Tel Aviv occur in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the severe storms that spawned tornadoes leave 8 dead across the Central United States in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the UFC announce a White House event lineup in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Bernard LaFayette, the Selma voting rights organizer, die in March 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Justice Department post FBI interview memos related to a Trump sex abuse allegation in March 2026?",
+    "a": "Yes"
+  }
+]

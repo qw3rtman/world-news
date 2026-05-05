@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump increase the global tariffs he announced in response to the Supreme Court ruling from 10% to 15%?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Supreme Court rule that President Donald Trump’s emergency tariffs were illegal in a 6-3 decision?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Justice Brett Kavanaugh join the majority opinion declaring President Donald Trump’s emergency tariffs illegal?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump revoke his endorsement of Rep. Jeff Hurd in favor of Hurd’s primary challenger?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Illinois Governor JB Pritzker send President Donald Trump an invoice demanding a $1,700 refund for every family in the state?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Kentucky Governor Andy Beshear criticize President Donald Trump’s tariff policy in an interview on MS Now’s “The Weekend”?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Supreme Court justices Neil Gorsuch and Amy Coney Barrett side with President Donald Trump in the tariff ruling?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump send a hospital boat to Greenland to provide medical care?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Federal Emergency Management Agency provide assistance to Washington, DC, for a sewage spill in the Potomac River without authorization from President Donald Trump?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Kennedy Center cancel a performance due to vandalism involving a mysterious substance poured on its outdoor ice rink?",
+    "a": "Yes"
+  }
+]

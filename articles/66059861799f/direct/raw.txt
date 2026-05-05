@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump indicate on March 12, 2026, that the possibility of sending American troops into Iran to secure nuclear material had not been ruled out?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States drop $11.3 billion in military aid to Israel during the week of March 5, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Would a potential U.S. special forces raid on Iran’s nuclear sites in March 2026 likely target the Natanz Nuclear Facility, the Fordow Fuel Enrichment Plant, and the Isfahan Nuclear Technology Center?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the U.S. Special Operations Command the lead entity for counter-WMD missions under a directive issued in 2023?",
+    "a": "No"
+  },
+  {
+    "q": "Would U.S. special forces units such as Navy SEAL Team Six and Army Delta Force be trained to operate in hazardous environments involving nuclear materials during a raid in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Could enriched uranium stored in specialized containers be easily destroyed with conventional explosives without risking radioactive contamination during a raid in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Rafael Mariano Grossi, the head of the International Atomic Energy Agency, warn in March 2026 that attacks on nuclear infrastructure could trigger radiological incidents affecting neighboring countries?",
+    "a": "Yes"
+  },
+  {
+    "q": "Would a potential U.S. ground operation in Iran in March 2026 involve a large-scale invasion force rather than a limited contingent of troops?",
+    "a": "No"
+  },
+  {
+    "q": "Is the Kharg Island Oil Terminal considered a strategic asset that could be seized as part of economic pressure against Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Would a U.S. raid on Iran’s nuclear sites in March 2026 likely be authorized before sustained airstrikes significantly weaken Iran’s air defenses?",
+    "a": "No"
+  }
+]

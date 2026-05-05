@@ -1,0 +1,22 @@
+{
+  "q": "Did Google release the Gemini 3.1 Pro AI model on February 19, 2026?",
+  "a": "Yes",
+  "q": "Is the Gemini 3.1 Pro AI model available in the Gemini app?",
+  "a": "Yes",
+  "q": "Is the Gemini 3.1 Pro AI model available in NotebookLM?",
+  "a": "Yes",
+  "q": "Did The Verge publish an article about the Gemini 3.1 Pro AI model on February 19, 2026?",
+  "a": "Yes",
+  "q": "Is the Gemini 3.1 Pro AI model described as representing a step forward in core reasoning?",
+  "a": "Yes",
+  "q": "Was the Gemini 3.1 Pro AI model released on March 1, 2026?",
+  "a": "No",
+  "q": "Is the Gemini 3.1 Pro AI model available in Microsoft Word?",
+  "a": "No",
+  "q": "Is the Gemini 3.1 Pro AI model designed for tasks where a simple answer is sufficient?",
+  "a": "No",
+  "q": "Was the article about the Gemini 3.1 Pro AI model published by The New York Times?",
+  "a": "No",
+  "q": "Is the Gemini 3.1 Pro AI model described as lacking improved intelligence for complex topics?",
+  "a": "No"
+}

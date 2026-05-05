@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Democrat James Talarico win the Democratic U.S. Senate primary in Texas in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Rep. Jasmine Crockett concede to James Talarico in the 2026 Texas Democratic U.S. Senate primary?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did James Talarico explicitly mention Donald Trump during his primary night celebration speech in Austin, Texas, in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Senator John Cornyn advance to the Republican runoff for the 2026 Texas U.S. Senate seat?",
+    "a": "No"
+  },
+  {
+    "q": "Is James Talarico a Presbyterian seminarian and former teacher?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did James Talarico campaign primarily on a message of aggressive confrontation with Republicans rather than unity?",
+    "a": "No"
+  },
+  {
+    "q": "Did state Attorney General Ken Paxton advance to the Republican runoff for the 2026 Texas U.S. Senate seat?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Rep. Jasmine Crockett describe herself as a smiling advocate for unity and change in her concession speech?",
+    "a": "No"
+  },
+  {
+    "q": "Did James Talarico defeat Jasmine Crockett in the 2026 Texas Democratic U.S. Senate primary?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did James Talarico advocate for Texas conservatives' policies to restrict curriculum and reshape how U.S. history is taught?",
+    "a": "No"
+  }
+]

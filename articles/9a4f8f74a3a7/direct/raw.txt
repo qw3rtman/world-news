@@ -1,0 +1,22 @@
+{
+  "q": "Did Iran warn it would strike energy and water infrastructure across the Gulf in response to U.S. President Donald Trump's threat to attack its electricity grid?",
+  "a": "Yes",
+  "q": "Did the warning from Iran occur after the publication date of March 10, 2026?",
+  "a": "No",
+  "q": "Did Iran state that the Strait of Hormuz was open to all ships including those linked to its enemies?",
+  "a": "No",
+  "q": "Did Reuters report that a Patriot missile involved in a Bahrain blast was likely U.S.-operated?",
+  "a": "Yes",
+  "q": "Did the article state that the region is heavily dependent on desalination for drinking water?",
+  "a": "Yes",
+  "q": "Did the article identify the lightning photo as being taken at Sultan Qaboos Port in Muscat, Oman?",
+  "a": "Yes",
+  "q": "Did the article report that Iran had already struck the U.S. electricity grid as of March 10, 2026?",
+  "a": "No",
+  "q": "Did the article mention that investors were bracing for a market shock on Monday?",
+  "a": "Yes",
+  "q": "Did the article state that the Strait of Hormuz was closed to all enemy-linked ships?",
+  "a": "No",
+  "q": "Did the article attribute the threat to strike Gulf infrastructure to U.S. President Donald Trump?",
+  "a": "No"
+}

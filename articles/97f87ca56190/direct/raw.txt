@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Omani Foreign Minister Badr Albusaidi state that a peace deal was within reach during an interview on CBS News' \"Face the Nation\" in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump withdraw the United States from the Iran nuclear deal negotiated during the Obama administration in his first term?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. State Department authorize non-emergency personnel to leave Iran on Friday, February 27, 2026, citing safety risks?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran's Foreign Minister Abbas Araghchi vow that Iran would under no circumstances ever develop a nuclear weapon in early February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Secretary of State Marco Rubio confirm in February 2026 that Iran is currently actively enriching uranium?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump claim in his 2026 State of the Union address that the U.S. had obliterated Iran's nuclear weapons program with strikes in June 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Sanam Vakil, director of the Middle East and North Africa Program at Chatham House, argue in February 2026 that a military clash between the U.S. and Iran was imminent?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Nations' nuclear watchdog agency, the IAEA, fully endorse President Trump's claim that Iran's nuclear program had been completely obliterated in June 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did Retired Lt. Gen. H.R. McMaster predict in February 2026 that President Trump would be willing to make concessions that replicate the flaws of the 2015 Iran Nuclear Deal?",
+    "a": "No"
+  },
+  {
+    "q": "Did the fourth round of U.S.-Iran nuclear negotiations take place in Geneva, Switzerland, in late February 2026?",
+    "a": "Yes"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the UK parliament approve legislation to remove the remaining hereditary peers from the House of Lords in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did French Foreign Minister Jean-Noel Barrot announce that France would provide 60 metric tons of humanitarian aid for Lebanon in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Energy Secretary Chris Wright announce on Wednesday in March 2026 that the U.S. would release 172 million barrels of oil from its strategic petroleum reserve?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the European Commission President Ursula von der Leyen announce on Wednesday in March 2026 that the EU intended to provide 100 million euros in humanitarian aid to Lebanon?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Supreme Court rule in March 2026 that the Trump administration must keep making payments on the $16 billion New York Hudson Tunnel?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Russian government prepare a 10% cut to all \"non-sensitive\" spending in its 2025 budget in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the International Energy Agency recommend a release of less than 10 million barrels of strategic oil stocks in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. Trade Representative Jamieson Greer say in March 2026 that new tariffs could be imposed against China, the European Union, India, Japan, South Korea, and Mexico by this winter?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Baseball Hall of Fame allow Andre Dawson to recast his plaque with a logo on his cap in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the FBI open its first office in Ecuador in March 2026 as part of the fight against drug trafficking?",
+    "a": "Yes"
+  }
+]

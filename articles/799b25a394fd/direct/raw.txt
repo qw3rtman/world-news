@@ -1,0 +1,40 @@
+{
+  "q": "Did US crude oil prices settle at $94.77 a barrel on Monday, March 9, 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did Brent crude oil prices rise by 6.8% on Monday, March 9, 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Was the last time oil traded above $100 prior to March 2026 in the wake of Russia’s attack on Ukraine in March 2022?",
+  "a": "Yes"
+}
+{
+  "q": "Did Iran threaten to attack any tanker transiting the Strait of Hormuz in March 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did the estimated 20% of disrupted oil supply during the March 2026 Iran war exceed the record set during the Suez Crisis of 1956-1957?",
+  "a": "Yes"
+}
+{
+  "q": "Did Saudi Arabia and the United Arab Emirates remain connected to global oil markets in March 2026 despite the war with Iran?",
+  "a": "No"
+}
+{
+  "q": "Did oil prices reach $120 a barrel in March 2026 before settling below $100?",
+  "a": "No"
+}
+{
+  "q": "Did US gas prices fall to $3.48 a gallon in March 2026?",
+  "a": "No"
+}
+{
+  "q": "Did the G7 nations’ finance ministers meet in March 2026 to discuss the joint release of oil reserves?",
+  "a": "No"
+}
+{
+  "q": "Did maritime insurers agree to cover ships in the Strait of Hormuz in March 2026 without conditions?",
+  "a": "No"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Texas Attorney General Ken Paxton and U.S. Senator John Cornyn both fail to secure a majority of the vote in the 2026 Texas Republican U.S. Senate primary held in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the runoff between Ken Paxton and John Cornyn scheduled to take place in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Representative Wesley Hunt finish first in the March 2026 Texas Republican U.S. Senate primary?",
+    "a": "No"
+  },
+  {
+    "q": "Did prediction markets on Polymarket show Ken Paxton with an 82 percent probability of winning the March 2026 Texas Republican U.S. Senate primary?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Steve Bannon publicly endorse U.S. Senator John Cornyn in the March 2026 Texas Republican U.S. Senate primary?",
+    "a": "No"
+  },
+  {
+    "q": "Did Texas Attorney General Ken Paxton and U.S. Senator John Cornyn both poll above 40 percent in the three-way race during the weeks leading up to the March 2026 primary?",
+    "a": "No"
+  },
+  {
+    "q": "Did pro-John Cornyn groups spend more than $50 million on advertising during the 2026 Texas Republican U.S. Senate primary?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump explicitly state in February 2026 that he supported only U.S. Senator John Cornyn in the Texas Republican U.S. Senate primary?",
+    "a": "No"
+  },
+  {
+    "q": "Has Texas not elected a Democrat to statewide federal office in more than three decades as of the March 2026 election cycle?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Texas law require a candidate to receive exactly 50 percent of the vote to avoid a runoff in the March 2026 Texas Republican U.S. Senate primary?",
+    "a": "No"
+  }
+]

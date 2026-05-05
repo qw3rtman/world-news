@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Kamal Kharazi, Foreign Policy Advisor to the office of the Supreme Leader of Iran, tell CNN’s Fred Pleitgen in an exclusive interview in Tehran that there is no room for diplomacy anymore?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state during his Florida press conference on March 10, 2026, that the United States had struck over 5,000 targets in Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump claim that Iran was planning to take over the Middle East if the U.S. and Israel had not struck first?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump assert that the spike in oil prices primarily affects countries other than the United States because the U.S. has so much oil?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran’s Islamic Revolutionary Guard Corps (IRGC) grant unrestricted passage through the Strait of Hormuz to any Arab or European country that expelled Israeli and American ambassadors starting Tuesday?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump identify Mojtaba Khamenei as the undisputed new supreme leader of Iran following the killing of Ayatollah Ali Khamenei?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Defense Secretary Pete Hegseth tell CBS News’ “60 Minutes” on Sunday that the war with Iran was already very complete?",
+    "a": "No"
+  },
+  {
+    "q": "Did Prime Minister Shehbaz Sharif of Pakistan announce that schools would remain open while switching higher education institutions to online learning to address austerity measures?",
+    "a": "No"
+  },
+  {
+    "q": "Did Australian Prime Minister Anthony Albanese confirm that Australia would deploy combat troops to Iran to help defend the UAE?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Israeli military spokesperson Effie Defrin state that Israel had struck key strongholds of the Iranian regime across three provinces during the strikes in Tehran?",
+    "a": "No"
+  }
+]

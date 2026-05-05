@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iranian missiles strike the headquarters of the US Navy in Bahrain during the conflict described in the article?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Qatar intercept missiles heading for Al Udeid Air Base, the largest American base in the region?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Saudi Arabia and the UAE allow the United States to use their territory to launch airstrikes against Iran prior to the attacks?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran fire 137 missiles at the United Arab Emirates on the first day of fighting?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Arab Emirates and Saudi Arabia have no official diplomatic relations with Israel at the time of the article?",
+    "a": "No"
+  },
+  {
+    "q": "Did Hasan Alhasan of the International Institute for Strategic Studies state that Gulf states are not as heavily defended as Israel?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's foreign minister claim in a letter to the United Nations Security Council that Iran would exercise its right of self-defense?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Andreas Krieg of King's College London predict that Gulf states would actively join the war through offensive strikes?",
+    "a": "No"
+  },
+  {
+    "q": "Did Kuwait report that Iranian strikes had hit Ali Al-Salem air base?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Islamic Revolutionary Guard Corps state that it would consider only Iranian assets in the region to be legitimate targets?",
+    "a": "No"
+  }
+]

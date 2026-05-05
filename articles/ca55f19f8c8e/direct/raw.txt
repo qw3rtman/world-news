@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump state in late February 2026 that he had not yet made a final decision on whether to take military action against Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the USS Gerald R. Ford aircraft carrier arrive off the coast of Israel in February 2026 as part of a U.S. military buildup?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran agree to halt all uranium enrichment activities during the indirect nuclear negotiations in Geneva in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Omani Foreign Minister Badr Al Busaidi meet with Vice President JD Vance in Washington in late February 2026 to discuss preventing military confrontation with Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did International Atomic Energy Agency Director General Rafael Grossi confirm in February 2026 that inspectors had full access to all four of Iran’s declared enrichment sites?",
+    "a": "No"
+  },
+  {
+    "q": "Did Senate Democratic Leader Chuck Schumer publicly urge the Trump administration to explain its approach to Iran in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did China advise its citizens to travel to Iran in late February 2026 citing improved security conditions?",
+    "a": "No"
+  },
+  {
+    "q": "Did Secretary of State Marco Rubio travel to Israel in early March 2026 for discussions on Iran and Lebanon?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran’s foreign minister Abbas Araghchi declare in February 2026 that the Geneva talks had made no progress and were the least intense so far?",
+    "a": "No"
+  },
+  {
+    "q": "Did Vice President JD Vance state in late February 2026 that there was no chance the U.S. would enter a years-long war with Iran?",
+    "a": "Yes"
+  }
+]

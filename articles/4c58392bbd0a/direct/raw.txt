@@ -1,0 +1,22 @@
+{
+  "q": "Did Honeywell International Inc. agree to acquire Johnson Matthey Plc’s Catalyst Technologies in February 2026?",
+  "a": "Yes",
+  "q": "Was the acquisition price for Johnson Matthey Plc’s Catalyst Unit set at £1.8 billion in the final agreement reached in February 2026?",
+  "a": "No",
+  "q": "Did Johnson Matthey Plc expect to return approximately £1 billion of net sale proceeds to its shareholders following the deal?",
+  "a": "Yes",
+  "q": "Was the prior agreement from May 2026 valued at £1.33 billion before being renegotiated?",
+  "a": "No",
+  "q": "Did Bloomberg News report that Honeywell International Inc. agreed to a price cut for the acquisition?",
+  "a": "Yes",
+  "q": "Is Catalyst Technologies a division of Honeywell International Inc. that was being sold to Johnson Matthey Plc?",
+  "a": "No",
+  "q": "Was the deal valued at £1.33 billion ($1.8 billion) in the final agreement announced on February 23, 2026?",
+  "a": "Yes",
+  "q": "Did the prior agreement from May 2026 risk falling apart due to a price increase?",
+  "a": "No",
+  "q": "Were Liana Baker and Aaron Kirchfeld the reporters who authored the article published on February 23, 2026?",
+  "a": "Yes",
+  "q": "Did Johnson Matthey Plc plan to retain the Catalyst Technologies unit rather than sell it?",
+  "a": "No"
+}

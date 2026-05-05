@@ -1,0 +1,22 @@
+{
+  "q": "Did OpenAI acquire Promptfoo, an AI security platform, in March 2026?",
+  "a": "Yes",
+  "q": "Is Promptfoo used by 50 percent of Fortune 500 companies according to OpenAI?",
+  "a": "No",
+  "q": "Does the Promptfoo tool help identify and remediate vulnerabilities in AI systems during development?",
+  "a": "Yes",
+  "q": "Did Microsoft acquire Promptfoo, an AI security platform, in March 2026?",
+  "a": "No",
+  "q": "Did OpenAI state that Promptfoo is used by 25 percent of Fortune 500 companies?",
+  "a": "Yes",
+  "q": "Does the Promptfoo tool help identify and remediate vulnerabilities in AI systems after they have been deployed to production?",
+  "a": "No",
+  "q": "Was the acquisition of Promptfoo by OpenAI reported by The Verge on March 9, 2026?",
+  "a": "Yes",
+  "q": "Is Promptfoo a social media management platform rather than an AI security platform?",
+  "a": "No",
+  "q": "Did OpenAI acquire Promptfoo in February 2026?",
+  "a": "No",
+  "q": "Is Promptfoo described as a tool that assists in the development phase of AI systems?",
+  "a": "Yes"
+}

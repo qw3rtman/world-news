@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Defense Secretary Pete Hegseth give Anthropic CEO Dario Amodei a Friday deadline to open the company’s artificial intelligence technology for unrestricted military use in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Anthropic CEO Dario Amodei agree to remove the company's ethical restrictions on fully autonomous military targeting operations during the meeting with Defense Secretary Pete Hegseth in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Pentagon announce in the summer of 2025 that it was awarding defense contracts worth up to $200 million each to Anthropic, Google, OpenAI, and Elon Musk’s xAI?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Elon Musk’s xAI company state that its Grok chatbot was ready to be used in classified military settings in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did OpenAI announce in January 2026 that it would join the secure but unclassified Pentagon AI network called GenAI.mil?",
+    "a": "No"
+  },
+  {
+    "q": "Did Defense Secretary Pete Hegseth state in a January 2026 speech at SpaceX in South Texas that he was shrugging off AI models that would not allow the military to fight wars?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Anthropic co-founder Jack Clark publicly accuse Trump’s top AI adviser David Sacks of running a sophisticated regulatory capture strategy based on fear-mongering in October 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did Anthropic become the first AI company to get approved for classified military networks, where it works with partners like Palantir?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Defense Secretary Pete Hegseth vow to root out what he calls a \"woke culture\" in the armed forces in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Anthropic publicly criticize chipmaker Nvidia in February 2026 for criticizing Trump’s proposals to loosen export controls on AI computer chips sold in China?",
+    "a": "No"
+  }
+]

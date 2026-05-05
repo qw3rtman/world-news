@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Chinese Foreign Minister Wang Yi state that China will never seek hegemony or expansion during a news conference in Beijing in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump introduce the concept of the 'G2' in 2005 to underscore the importance of communication between the world's two biggest economies?",
+    "a": "No"
+  },
+  {
+    "q": "Is U.S. President Donald Trump scheduled to travel to China for a three-day trip starting on March 31, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Chinese Foreign Minister Wang Yi express support for the U.S.-Israeli strikes on Iran during his news conference in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did American economist C. Fred Bergsten introduce the concept of the 'G2' in 2005?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Chinese President Xi Jinping expected to attend the G20 summit in Washington, D.C., in December 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Chinese Foreign Minister Wang Yi state that world history has always been written by many countries together during a news conference in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the Asia-Pacific Economic Cooperation summit that China is hosting in 2026 located in Shenzhen?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump meet with Chinese President Xi Jinping in South Korea last fall?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump attend the Asia-Pacific Economic Cooperation summit hosted by China in Shenzhen in November 2026?",
+    "a": "No"
+  }
+]

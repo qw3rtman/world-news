@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the Justice Department withhold FBI interview documents related to an accuser who alleged that President Donald Trump sexually abused her when she was a minor?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Justice Department publicly release all 53 pages of interview documents and notes related to the first accuser who named President Donald Trump in her abuse allegation?",
+    "a": "No"
+  },
+  {
+    "q": "Did the first interview of the woman who accused President Donald Trump of abuse, conducted on July 24, 2019, mention President Trump?",
+    "a": "No"
+  },
+  {
+    "q": "Did Attorney General Pam Bondi and Deputy Attorney General Todd Blanche state in a February 14 letter that no records were withheld on the basis of political sensitivity to a government official?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the second accuser, Testifying Witness 3500, allege that Jeffrey Epstein told Donald Trump \"This is a good one, huh\" during a meeting at Mar-a-Lago?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the interview with the second accuser regarding her meeting with President Donald Trump at Mar-a-Lago remain permanently removed from the Justice Department's public database after January 30?",
+    "a": "No"
+  },
+  {
+    "q": "Did Rep. Robert Garcia, D-Calif., state that Democrats on the House Oversight Committee confirmed the Justice Department illegally withheld FBI interviews with the survivor who accused President Donald Trump?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the FBI mark the allegations involving President Donald Trump as credible and send them to the Washington office for immediate prosecution rather than verification?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Justice Department spokeswoman Natalie Baldassarre state that documents not published were privileged, duplicates, or related to an ongoing federal investigation?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the second accuser voluntarily dismiss her claims against Jeffrey Epstein's estate in December 2019?",
+    "a": "No"
+  }
+]

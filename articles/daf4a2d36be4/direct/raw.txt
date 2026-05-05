@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the joint US-Israeli military operation against Iran, known as Operation Epic Fury, begin in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran confirm the death of Supreme Leader Ayatollah Ali Khamenei following the strikes in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Islamic Revolutionary Guard Corps threaten a 'regret-inducing punishment' in response to the strikes in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States military deploy suicide drones modelled after Iran’s Shahed drones for the first time during the strikes in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Israeli military mobilize approximately 20,000 reservists in the 24 hours following the strikes in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump state that Iran 'better not' retaliate against the US in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the US Secretary of State Marco Rubio proceed with his scheduled visit to Israel in early March 2026 despite the ongoing conflict?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Iranian parliament speaker Mohammad-Bagher Ghalibaf praise President Trump and Prime Minister Netanyahu for crossing a red line in late February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United Kingdom play a direct combat role in the initial US-Israeli strikes on Iran in late February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Houthi rebel leader in Yemen, Abdul-Malik al-Houthi, condemn the US-Israeli strikes on Iran in late February 2026?",
+    "a": "No"
+  }
+]

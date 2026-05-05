@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump tell ABC that deploying U.S. ground forces in Iran was 'on the table' in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump signal an intention to use special forces to seize Iran's nuclear stockpile in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump tell Fox News that deploying U.S. ground forces in Iran was 'on the table' in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump signal an intention to use special forces to seize Iraq's nuclear stockpile in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump implicate a potential ground operation when discussing the use of special forces in Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump tell ABC that deploying U.S. naval forces in Iran was 'on the table' in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump signal an intention to use special forces to seize Iran's oil reserves in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump make the statement regarding Iran in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ben Samuels write the article titled 'Trump Says Deploying U.S. Ground Forces in Iran 'On the Table' - U.S. News' published on March 08, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump tell ABC that deploying U.S. air forces in Iran was 'on the table' in March 2026?",
+    "a": "No"
+  }
+]

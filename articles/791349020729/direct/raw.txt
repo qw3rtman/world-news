@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump indicate in March 2026 that deploying U.S. ground forces in Iran was a possibility?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump tell ABC News in March 2026 that 'everything is on the table' regarding military options in Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump signal in March 2026 that he was considering the use of special forces to seize Iran's nuclear stockpile?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump tell Fox News in March 2026 that deploying U.S. ground forces in Iran was on the table?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump signal in March 2026 that he was considering the use of special forces to seize Iraq's nuclear stockpile?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump signal in March 2026 that he was considering the use of special forces to seize Iran's oil reserves?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump signal in March 2026 that he was considering the use of conventional army divisions to seize Iran's nuclear stockpile?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump signal in March 2026 that he was weighing the use of special forces in Syria to seize its nuclear stockpile?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump tell ABC News in March 2026 that 'nothing is on the table' regarding military options in Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump signal in March 2026 that he was weighing the use of special forces in Iran to seize its uranium enrichment facilities?",
+    "a": "No"
+  }
+]

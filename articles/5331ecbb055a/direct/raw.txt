@@ -1,0 +1,40 @@
+{
+  "q": "Did joint U.S.–Israeli strikes, dubbed Operation Epic Fury, target Iranian sites and kill Iran’s Supreme Leader Ayatollah Ali Khamenei in the weekend prior to March 2, 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did economist Stephen Moore predict that gas prices could increase by 25 to 50 cents a gallon in the short term due to Middle East tensions?",
+  "a": "Yes"
+}
+{
+  "q": "Did Patrick De Haan, head of petroleum analysis at GasBuddy, report that wholesale gasoline prices had risen 11 cents per gallon following the weekend strikes?",
+  "a": "Yes"
+}
+{
+  "q": "Did Jaime Brito, executive director of refining and oil products at OPIS, state that the Strait of Hormuz represents around 25% of global oil trade?",
+  "a": "Yes"
+}
+{
+  "q": "Did Maersk announce that it would suspend all vessel crossings through the Strait of Hormuz until further notice?",
+  "a": "Yes"
+}
+{
+  "q": "Did economist Stephen Moore attribute the potential gas price increases to the fact that the ongoing conflict in Iran is near the Strait of Hormuz?",
+  "a": "Yes"
+}
+{
+  "q": "Did Patrick De Haan predict that the national average gas price could hit $4 per gallon as soon as Monday?",
+  "a": "No"
+}
+{
+  "q": "Did Jaime Brito state that March gasoline prices are expected to be significantly high due to peak summer driving season demand?",
+  "a": "No"
+}
+{
+  "q": "Did Maersk announce that it would suspend all vessel crossings through the Suez Canal until further notice?",
+  "a": "No"
+}
+{
+  "q": "Did Patrick De Haan report that oil prices were down $5 per barrel following the joint U.S.–Israeli strikes?",
+  "a": "No"
+}

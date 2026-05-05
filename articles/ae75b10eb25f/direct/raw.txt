@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Mr. Reza Pahlavi, the son of Iran’s last shah, release a video message on February 28, 2026, expressing confidence in victory against the Islamic republic?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mr. Reza Pahlavi urge US President Donald Trump to intervene in Iran prior to the strikes mentioned in the article?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mr. Reza Pahlavi instruct Iranians to immediately take to the streets to reclaim Iran on February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United States and Israel launch an attack on the Islamic republic shortly before Mr. Reza Pahlavi’s February 28, 2026 statement?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does Mr. Reza Pahlavi enjoy universal support among critics of the Islamic republic, according to the article?",
+    "a": "No"
+  },
+  {
+    "q": "Does Mr. Reza Pahlavi advocate for the establishment of a secular democracy in Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Islamic republic crush a mass uprising in January 2026, killing thousands of people?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the mass uprising crushed by the Islamic republic in January 2026 occur in the year 1979?",
+    "a": "No"
+  },
+  {
+    "q": "Did Mr. Reza Pahlavi state that he lives in exile in the London area?",
+    "a": "No"
+  },
+  {
+    "q": "Did Mr. Reza Pahlavi suggest coordination with the United States and Israel after the strikes occurred?",
+    "a": "Yes"
+  }
+]

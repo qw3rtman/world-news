@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. crude oil hit $100 per barrel on Sunday, March 15, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the International Energy Agency agree to release 400 million barrels of oil in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the national average price per gallon of unleaded gas in the U.S. reach $4.00 on Sunday, March 15, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. strike Kharg Island on Friday, March 13, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Energy Secretary Chris Wright state that the Strait of Hormuz was safe for ships to pass on March 15, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did oil prices fall below $80 a barrel after the International Energy Agency announced its emergency release in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump state that the strikes on Kharg Island had destroyed the island's oil infrastructure on March 15, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. and Israel launch wide-scale strikes on targets in Iran before the national average gas price rose to around $3.70 per gallon in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did more than 50% of the world's oil supply pass through the Strait of Hormuz in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. crude oil prices rise nearly 75% since the start of 2026 according to the article published on March 15, 2026?",
+    "a": "Yes"
+  }
+]

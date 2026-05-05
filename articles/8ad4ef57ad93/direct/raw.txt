@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the White House confirm that Iranian Supreme Leader Ayatollah Ali Khamenei was killed in the U.S.-Israeli strikes against Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S.-Israeli strikes against Iran in March 2026 result in the deaths of 49 senior Iranian regime leaders?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Abba Milani, director of the Iranian Studies Program at Stanford University, join CBS News to discuss the future of the Iranian regime after the March 2026 strikes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S.-Israeli strikes against Iran in March 2026 spare Iranian Supreme Leader Ayatollah Ali Khamenei?",
+    "a": "No"
+  },
+  {
+    "q": "Did the White House report that only 5 senior regime leaders were killed in the U.S.-Israeli strikes against Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Abba Milani, director of the Iranian Studies Program at Harvard University, join CBS News to discuss the Iranian regime in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the future of the Iranian regime considered certain and secure following the U.S.-Israeli strikes in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Were the U.S.-Israeli strikes against Iran in March 2026 conducted jointly by the United States and Israel?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the White House state that Iranian Supreme Leader Ayatollah Ali Khamenei survived the U.S.-Israeli strikes against Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Abba Milani, director of the Iranian Studies Program at Stanford University, join Fox News to discuss the Iranian regime in March 2026?",
+    "a": "No"
+  }
+]

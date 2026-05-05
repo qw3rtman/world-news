@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Secretary of Energy Chris Wright claim in a social media post that the U.S. Navy had successfully escorted a tanker through the Strait of Hormuz in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did White House Press Secretary Karoline Leavitt confirm that the U.S. Navy had escorted a tanker through the Strait of Hormuz in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. crude oil prices fall by approximately 11.94% to close at $83.45 per barrel in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the International Energy Agency hold an ordinary meeting in March 2026 to discuss the release of emergency stockpiles?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran cause the disruption of oil traffic through the Strait of Hormuz in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Saudi Aramco CEO Amin Nasser state that the current crisis was the smallest disruption the region's oil and gas industry had faced in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump warn that Iran would be hit \"twenty times harder\" if it attempted to halt oil flows through the Strait of Hormuz in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Energy Department spokesperson state that the video clip was deleted from Secretary Wright's account because it was incorrectly captioned by Department of Energy staff in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Bob McNally, president of Rapidan Energy Group, state that the market was pessimistic about the restoration of navigation through the Strait of Hormuz in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did about 20% of global petroleum consumption get exported through the Strait of Hormuz prior to the war in March 2026?",
+    "a": "Yes"
+  }
+]

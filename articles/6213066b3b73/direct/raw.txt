@@ -1,0 +1,22 @@
+{
+  "q": "Did James Talarico win the Democratic nomination for U.S. Senate in Texas in March 2026?",
+  "a": "Yes",
+  "q": "Did Congresswoman Jasmine Crockett defeat James Talarico in the 2026 Texas Democratic Senate primary?",
+  "a": "No",
+  "q": "Was the Associated Press the organization that called the Texas Democratic Senate primary race for James Talarico?",
+  "a": "Yes",
+  "q": "Did the Associated Press call the Texas Democratic Senate primary race for Jasmine Crockett?",
+  "a": "No",
+  "q": "Will the 2026 Republican U.S. Senate primary in Texas go to a runoff election in May 2026?",
+  "a": "Yes",
+  "q": "Did U.S. Senator John Cornyn win the Republican nomination for U.S. Senate in Texas outright in the March 2026 primary?",
+  "a": "No",
+  "q": "Did advertising and reserved ad time spending for the 2026 Texas Senate primary exceed $110 million?",
+  "a": "Yes",
+  "q": "Did advertising and reserved ad time spending for the 2026 Texas Senate primary fall below $50 million?",
+  "a": "No",
+  "q": "Did former Vice President Kamala Harris endorse Congresswoman Jasmine Crockett in the 2026 Texas Democratic Senate primary?",
+  "a": "Yes",
+  "q": "Did former Vice President Kamala Harris endorse State Representative James Talarico in the 2026 Texas Democratic Senate primary?",
+  "a": "No"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the U.S. House of Representatives pass a measure to fund the Department of Homeland Security through September in a 221 to 209 vote on March 5, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Senate Democrats block the similar DHS funding legislation by failing to reach the 60-vote threshold needed to advance the measure on March 5, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump announce the replacement of DHS Secretary Kristi Noem shortly before the Senate vote on March 5, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Senator John Cornyn of Texas state that the threat from Iran makes it vital to ensure the Department of Homeland Security is fully funded and functioning on March 5, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did House Speaker Mike Johnson of Louisiana accuse Democrats of playing political games and call it shameful to vote against funding DHS on March 5, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the partial government shutdown of the Department of Homeland Security begin on February 14, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Democratic Senator Richard Blumenthal of Connecticut oppose any funding for the Department of Homeland Security without reforms to immigration enforcement on March 5, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did House Majority Leader Steve Scalise of Louisiana point to a deadly shooting at a bar in Austin, Texas, as evidence of a heightened threat environment on March 5, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Trump administration's immigration enforcement campaign lose its funding due to the shutdown of the Department of Homeland Security in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Democrats demand reforms including requiring immigration agents to wear body cameras and banning them from wearing masks after the fatal shooting of Alex Pretti in Minnesota?",
+    "a": "Yes"
+  }
+]

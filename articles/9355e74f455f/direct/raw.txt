@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did British Prime Minister Keir Starmer announce the deployment of the naval vessel HMS Dragon to the eastern Mediterranean in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump publicly endorse Prime Minister Keir Starmer’s decision to block the use of British bases for pre-emptive strikes on Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the British destroyer HMS Dragon expected to sail for the Middle East region immediately after the March 4, 2026 announcement?",
+    "a": "No"
+  },
+  {
+    "q": "Did an Iranian-made drone strike a British military base on the island of Cyprus in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the article state that Britain’s full-time trained army size in 2026 is larger than it was during the Napoleonic Wars?",
+    "a": "No"
+  },
+  {
+    "q": "Did Prime Minister Keir Starmer plan to spend 2.5% of GDP on defence by 2027 according to the March 2026 report?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did former British defence attaché Simon Diggins describe Britain as 'operationally and strategically' relevant despite its military cuts in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump compare Prime Minister Keir Starmer to Winston Churchill in his criticism of Britain in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did British jets bring down Iranian drones during the conflict escalation described in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the International Institute for Strategic Studies report that Britain had fallen behind other European countries in rearmament as of March 2026?",
+    "a": "Yes"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "q": "Did the Cuban government release the names of individuals involved in a deadly strike on a boat registered in Florida in February 2026?",
+  "a": "Yes",
+  "q": "Was the boat involved in the deadly strike registered in the state of Texas?",
+  "a": "No",
+  "q": "Did the Cuban government release the names of those involved in the incident on February 26, 2026?",
+  "a": "Yes",
+  "q": "Did the boat approach the island nation of Cuba from the north?",
+  "a": "No",
+  "q": "Was the strike on the boat registered in Florida described as deadly in the February 2026 report?",
+  "a": "Yes",
+  "q": "Did the Cuban government release the names of the individuals involved in the strike in January 2026?",
+  "a": "No",
+  "q": "Did the Cuban government release some, but not necessarily all, of the names of those involved in the strike?",
+  "a": "Yes",
+  "q": "Was the boat involved in the deadly strike registered in the state of California?",
+  "a": "No",
+  "q": "Did the deadly strike occur when the boat registered in Florida approached the island nation of Cuba?",
+  "a": "Yes",
+  "q": "Did the Cuban government release the names of the individuals involved in a non-deadly strike on a boat registered in Florida?",
+  "a": "No"
+}

@@ -1,0 +1,40 @@
+{
+  "q": "Did gold record its seventh straight monthly gain in February 2026, marking the longest streak since 1973?",
+  "a": "Yes"
+}
+{
+  "q": "Did Bank Negara Malaysia make its first net purchase of gold since 2018 in the period described in the article?",
+  "a": "Yes"
+}
+{
+  "q": "Did the Bank of Korea resume gold investments for the first time since 2013 during the period described in the article?",
+  "a": "Yes"
+}
+{
+  "q": "Did the Central Bank of Uzbekistan buy 9 tons of gold in the current month while continuing its buying streak since October?",
+  "a": "Yes"
+}
+{
+  "q": "Did spot gold hold broadly positive above $5,000 per ounce during the week described in the article?",
+  "a": "Yes"
+}
+{
+  "q": "Did U.S. President Donald Trump reshaping of international relations contribute to the gold rally driven by heightened geopolitical tensions?",
+  "a": "Yes"
+}
+{
+  "q": "Did the Central Bank of Korea make its first net purchase of gold since 2018 during the period described in the article?",
+  "a": "No"
+}
+{
+  "q": "Did spot silver have a lower side target of $76–$89 per ounce for the current week described in the article?",
+  "a": "No"
+}
+{
+  "q": "Did gold face immediate resistance at Rs 1,65,000–1,65,700 per 10 grams on the MCX April futures contract?",
+  "a": "No"
+}
+{
+  "q": "Did the article state that gold recorded its seventh straight monthly gain in January 2026, the longest streak since 1973?",
+  "a": "No"
+}

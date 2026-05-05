@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Israeli Defence Minister Israel Katz authorize the Israel Defense Forces to seize additional strategic positions in Lebanon on March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Lebanese army redeploy soldiers from border positions to their bases on March 3, 2026, due to safety concerns?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Hezbollah state it launched an initial rocket attack on Israel on March 2, 2026, to avenge the killing of Iranian supreme leader Ayatollah Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Israeli military report killing Hezbollah's intelligence chief, Hussein Muakalled, on March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Israeli military strike more than 160 Hezbollah targets in south Lebanon on March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Israeli government declare an immediate ban on Hezbollah's military activities on March 3, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli forces enter Lebanon for the first time in September 2024 after nearly a year of cross-border exchanges?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Israeli military state it planned to evacuate northern communities again on March 3, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israel withdraw all of its forces from Lebanon under the November 2024 ceasefire?",
+    "a": "No"
+  },
+  {
+    "q": "Did one person suffer light injuries from glass shrapnel in the village of Yuval on March 3, 2026?",
+    "a": "No"
+  }
+]

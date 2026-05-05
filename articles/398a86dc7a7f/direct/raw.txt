@@ -1,0 +1,3 @@
+{
+  "error": "The provided article text contains no factual content, only metadata (title, publication date, and UI elements). It is impossible to generate self-contained factual questions that probe specific recall from the article without inventing information, which violates the requirement to base questions strictly on the article's content. Please provide the full article text."
+}

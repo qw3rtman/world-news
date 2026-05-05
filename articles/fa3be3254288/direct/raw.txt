@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the AP-NORC poll find that views of the Democratic Party among rank-and-file Democrats have bounced back since President Donald Trump’s 2024 victory?",
+    "a": "No"
+  },
+  {
+    "q": "Did the AP-NORC poll find that only about 7 in 10 Democrats have a positive view of the Democratic Party?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that the lackluster favorability among Democrats spells electoral doom for the party in the upcoming midterm elections?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article identify The Associated Press-NORC Center for Public Affairs Research as the organization that conducted the new polling?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that Democrats’ favorability of their party increased after the 2024 election?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article mention that Democratic candidates had notched a series of wins in recent special elections?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that the midterm elections were scheduled to take place in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article suggest that broadly negative views of President Donald Trump and other Republicans could benefit Democrats this year?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article claim that the lack of enthusiasm among Democrats is primarily due to their dissatisfaction with the results of November’s offseason elections?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article state that despite recent special election victories, views of the Democratic Party among rank-and-file Democrats have not recovered?",
+    "a": "Yes"
+  }
+]

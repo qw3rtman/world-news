@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng plan to meet in Paris in mid-March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump arrive in Beijing in early March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. Supreme Court strike down duties aimed at curbing fentanyl flows prior to the mid-March 2026 trade talks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Chinese Vice Premier He Lifeng meet with U.S. Treasury Secretary Scott Bessent in Beijing in mid-March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Boeing plan to sell as many as 500 jets to China in 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Chinese buyers restart booking U.S. soybeans in late January 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. military campaign against Iran result in the death of Supreme Leader Ayatollah Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the White House announce a new temporary tariff of 15% on U.S. imports from all countries in early March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. capture Venezuelan leader Nicolas Maduro in a raid in Caracas in January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the South China Morning Post report that Beijing and Washington had begun talks on restarting reciprocal investment in early March 2026?",
+    "a": "Yes"
+  }
+]

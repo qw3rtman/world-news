@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the Assembly of Experts appoint Mojtaba Khamenei as the successor to his father, Ali Khamenei, in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump declare Mojtaba Khamenei an unacceptable successor before his appointment?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Ayatollah Ali Khamenei killed in a U.S.-Israeli strike at the start of the conflict in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mojtaba Khamenei hold the clerical rank of Ayatollah before his elevation to Supreme Leader in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. Treasury sanction Mojtaba Khamenei in 2019?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mojtaba Khamenei serve as an elected official in the Iranian parliament before becoming Supreme Leader in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israel warn that any successor to Ali Khamenei would also be a target for strikes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mojtaba Khamenei study under reformist clerics in the seminaries of Qom before his appointment in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did senior fellow Paul Salem state that Mojtaba Khamenei was positioned to strike a diplomatic deal with the United States after his appointment in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Mojtaba Khamenei's wife, mother, and other family members die in U.S.-Israeli strikes prior to his succession in March 2026?",
+    "a": "Yes"
+  }
+]

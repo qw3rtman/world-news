@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did IMM Private Equity emerge as the preferred bidder for CGBio in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is A-Hana the company that holds a 55.84 percent stake in CGBio?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did CGBio's exports reach $21.8 million in 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Bluenet the company controlled by the Daewoong Group’s founding family?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did IMM Private Equity sell Genuone Sciences for about 320 billion won in 2024?",
+    "a": "No"
+  },
+  {
+    "q": "Is IMM Private Equity seeking to acquire a 55.84 percent stake in CGBio?",
+    "a": "No"
+  },
+  {
+    "q": "Did CGBio's exports grow from $12.6 million in 2023 to $17.4 million in 2024?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Kolmar Korea the company that holds a 51 percent stake in CGBio?",
+    "a": "No"
+  },
+  {
+    "q": "Did IMM Private Equity invest about 320 billion won to acquire Kolmar Korea’s pharmaceutical manufacturing unit in 2020?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the transaction expected to be worth about 1 trillion won?",
+    "a": "No"
+  }
+]

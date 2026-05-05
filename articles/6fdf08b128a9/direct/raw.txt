@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iraq declare a force majeure at all oilfields operated by foreign companies in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did drones strike the Mina Al-Ahmadi and Mina Abdullah refineries in Kuwait on Friday, March 20, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Treasury Secretary Scott Bessent state that Washington may soon lift sanctions on about 140 million barrels of Iranian crude stored aboard tankers?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Saudi oil officials expect crude prices to climb above $180 a barrel if Iran war disruptions last through late May 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu state that Israel is assisting U.S. efforts to reopen the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Citi raise its near-term price outlook for Brent crude to $180 per barrel over the next one to three months?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. crude oil settle at $98.32 per barrel on Friday, March 20, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran close the Strait of Hormuz due to attacks by Iraq?",
+    "a": "No"
+  },
+  {
+    "q": "Did Citi assume a de-escalation within four to six weeks that would allow Brent crude to ease back to $70–$80 by year-end?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Treasury Secretary Scott Bessent tell the Fox Business Network that bringing sanctioned Iranian crude back into global markets would help cap prices over the next 30 to 45 days?",
+    "a": "No"
+  }
+]

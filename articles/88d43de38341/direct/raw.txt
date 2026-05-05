@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did US President Donald Trump threaten more tariffs after the US Supreme Court ruled that his Liberation Day reciprocal tariffs are illegal in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump endorse the US Supreme Court's ruling that his Liberation Day reciprocal tariffs were illegal in late February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did India's share of global gold ETF holdings rise from 1.9% to 2.5% in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did India's share of global gold ETF holdings decline from 2.5% to 1.9% in late February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran and the United States schedule a third round of nuclear negotiations in Geneva for Thursday in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran and the United States schedule a third round of nuclear negotiations in Geneva for Tuesday in late February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United States start enforcing a temporary 10% universal import tariff on Tuesday in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States start enforcing a temporary 15% universal import tariff on Tuesday in late February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did central banks net-purchase around 1,000 tons of gold for the fourth consecutive year as of late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did central banks net-purchase around 1,000 tons of gold for the first time in four years as of late February 2026?",
+    "a": "No"
+  }
+]

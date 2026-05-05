@@ -1,0 +1,22 @@
+{
+  "q": "As of 9 a.m. Eastern Time on March 17, 2026, was the price of oil trading at $102.98 per barrel?",
+  "a": "Yes",
+  "q": "Was the Brent benchmark used to determine the oil price on March 17, 2026?",
+  "a": "Yes",
+  "q": "Was the oil price on March 17, 2026, more than $31 higher than its level a year prior?",
+  "a": "Yes",
+  "q": "Was the oil price on March 17, 2026, 84 cents lower than the previous morning's level?",
+  "a": "No",
+  "q": "Was the oil price on March 17, 2026, based on the WTI benchmark rather than the Brent benchmark?",
+  "a": "No",
+  "q": "Was the oil price on March 17, 2026, exactly $31 higher than its level a year prior?",
+  "a": "No",
+  "q": "Was the oil price on March 17, 2026, trading at $102.14 per barrel?",
+  "a": "No",
+  "q": "Was the oil price on March 17, 2026, 84 cents above the level from the previous morning?",
+  "a": "Yes",
+  "q": "Was the oil price on March 17, 2026, lower than its level a year prior?",
+  "a": "No",
+  "q": "Was the time specified for the oil price quote on March 17, 2026, 12 p.m. Central Time?",
+  "a": "No"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. Federal Communications Commission Chair Brendan Carr signal that the FCC would not seek to block Paramount's $110 billion deal to buy Warner Bros in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Paramount's $110 billion deal for Warner Bros in March 2026 include a purchase price of $31 per share?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the financing for Paramount's acquisition of Warner Bros in March 2026 include $47 billion in equity from the Ellison family and RedBird Capital Partners?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Federal Communications Commission Chair Brendan Carr state that the market share implications of the Paramount-Warner Bros combination were drastically different from Warner Bros' previously agreed deal with Netflix?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Netflix decline to raise its offer for Warner Bros prior to Paramount's acquisition deal in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Federal Communications Commission Chair Brendan Carr indicate that the $54 billion in debt commitments for the Warner Bros deal would qualify as bona fide debt under FCC rules?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the $54 billion in debt commitments for Paramount's acquisition of Warner Bros in March 2026 come from JPMorgan Chase, Wells Fargo, and Goldman Sachs?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Federal Communications Commission Chair Brendan Carr make his comments regarding the Paramount-Warner Bros deal at the Mobile World Congress in London in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the $110 billion deal for Warner Bros in March 2026 involve a combination of CBS and CNN rather than Paramount and Warner Bros?",
+    "a": "No"
+  },
+  {
+    "q": "Did cinema operators express concern in March 2026 that combining large Hollywood studios could cost jobs and reduce the number of movies released in theaters?",
+    "a": "Yes"
+  }
+]

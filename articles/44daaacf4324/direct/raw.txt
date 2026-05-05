@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the U.S. unemployment rate increase to 4.4% in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. economy gain 126,000 nonfarm payroll jobs in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. Supreme Court strike down President Donald Trump's sweeping tariffs implemented under a national emergency law in 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did federal government employment increase by 330,000 jobs since peaking in October 2024?",
+    "a": "No"
+  },
+  {
+    "q": "Did the strike by healthcare workers at Kaiser Permanente in California and Hawaii end before the February 2026 employment report was released?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Bureau of Labor Statistics report that construction employment increased by 11,000 jobs in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. labor force participation rate fall to 62.0% in February 2026, the lowest level since December 2021?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did factory employment in the United States increase in all but one month since President Donald Trump returned to the White House?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. civilian noninstitutional population get revised down by 231,000 in the January 2026 household survey data?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did average hourly earnings decrease by 0.4% in February 2026?",
+    "a": "No"
+  }
+]

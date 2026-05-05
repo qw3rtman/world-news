@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Israeli officials state in March 2026 that they expect the military campaign against Hizbollah to continue beyond the end of the war against Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli officials estimate in March 2026 that the US-Israeli war with Iran would last for several weeks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump state in March 2026 that the war with Iran was ahead of schedule?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli officials state in March 2026 that the war against Iran was intended to destroy Tehran’s nuclear and ballistic missile capabilities?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump state in March 2026 that the war with Iran was behind schedule?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli officials state in March 2026 that the military campaign against Hizbollah was expected to end before the war against Iran concluded?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli officials state in March 2026 that the war against Iran was intended to eliminate the main security pillars supporting the Islamic republic?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump state in March 2026 that the war with Iran was significantly behind schedule?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli officials state in March 2026 that the extended campaign was directed against the Lebanese militant group Hizbollah?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli officials state in March 2026 that the war against Iran was intended to destroy Tehran’s diplomatic relations with European nations?",
+    "a": "No"
+  }
+]

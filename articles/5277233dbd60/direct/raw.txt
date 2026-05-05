@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Israeli airstrikes kill Iran's Supreme Leader Ayatollah Ali Khamenei in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump confirm the death of Ayatollah Ali Khamenei following the Israeli strike?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's government announce 40 days of mourning after confirming the death of Ayatollah Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ayatollah Ali Khamenei survive an assassination attempt in 1981 that resulted in the loss of the use of his right arm?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ayatollah Ali Khamenei succeed Ayatollah Ruhollah Khomeini as Iran's supreme leader in 1989?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ayatollah Ali Khamenei personally lead the Hamas attack on Israel on October 7, 2023?",
+    "a": "No"
+  },
+  {
+    "q": "Did the 2015 Joint Comprehensive Plan of Action nuclear agreement survive U.S. withdrawal during President Donald Trump's first term?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israel launch major airstrikes on Iran's nuclear enrichment sites on June 21, 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did Syria's then-dictator Bashar al-Assad remain in power until after Ayatollah Ali Khamenei's death in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did more than 7,000 people die during mass protests in Iran in late December 2025 under Ayatollah Ali Khamenei's rule?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did seven current and former officials tell CNN that recovering Iran’s remaining highly enriched uranium stockpile would require a significant number of US ground troops?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the US bombing campaign that struck three Iranian nuclear facilities in June 2025 destroy all of Iran’s highly enriched uranium stockpile?",
+    "a": "No"
+  },
+  {
+    "q": "Is the Isfahan nuclear site accessible to the Iranians because they had been clearing rubble and accessing underground tunnels since the US military strikes last year?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did UN nuclear watchdog chief Rafael Grossi state on Monday that around 200 kilograms of Iran’s highly enriched uranium is probably still at Iran’s Natanz nuclear facility?",
+    "a": "No"
+  },
+  {
+    "q": "Is Iran’s uranium currently enriched at around 60%, according to the International Atomic Energy Agency?",
+    "a": "Yes"
+  },
+  {
+    "q": "Can US military airstrikes penetrate the Isfahan tunnels primarily because the facility has ventilation shaft openings that serve as weak points?",
+    "a": "No"
+  },
+  {
+    "q": "Has at least six MC-130Js been flying out of RAF Mildenhall in the United Kingdom, according to flight data and satellite imagery reviewed by CNN?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Mojtaba Khamenei, the eldest son of former Supreme Leader Ali Khamenei, installed as Iran’s new ayatollah?",
+    "a": "No"
+  },
+  {
+    "q": "Has President Donald Trump made the complete elimination of Iran’s nuclear capability one of his stated aims of the war?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the White House and Pentagon respond to a request for comment ahead of the publication of this report on March 9, 2026?",
+    "a": "No"
+  }
+]

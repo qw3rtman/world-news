@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the U.S. ease sanctions on Venezuela's energy sector in February 2026 by issuing general licenses?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did BP receive an exploration and production license for the Manakin-Cocuina gas field from Venezuela in 2024?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Chevron export approximately 150,000 barrels per day of crude from Venezuela to the U.S. Gulf Coast in November 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. government welcome Chinese companies like China National Petroleum Corp to continue investing in Venezuela in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did ConocoPhillips collect $12 billion in compensation for the expropriation of its assets in Venezuela as of February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Eni state that Venezuela owed it approximately $3 billion by the end of 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did ExxonMobil CEO Darren Woods call Venezuela uninvestable without major reforms in January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Maurel & Prom hold a 60% stake in the Urdaneta Oeste field in Venezuela as of January 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Repsol agree to receive oil from PDVSA as debt repayment under a previous permit before its license was revoked in March 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Rosneft sell its stakes in Venezuelan projects to a widely known state company in 2020 to avoid U.S. sanctions?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. Treasury Secretary Scott Bessent state that any rescheduling of the meeting between U.S. President Donald Trump and Chinese President Xi Jinping would be due to logistics?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump tell the Financial Times on Sunday that he may postpone the meeting with Chinese President Xi if China does not help to unblock the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the U.S.-Israeli war on Iran entering its third week as of the March 16, 2026 reporting date?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump travel to China in 2017, marking the most recent visit by a U.S. president before the scheduled 2026 trip?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the key shipping route affected by the Iran conflict responsible for 20% of the world's oil and liquefied natural gas flow?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Chinese foreign ministry immediately respond to a Reuters request for comment regarding the potential postponement of the Trump-Xi meeting?",
+    "a": "No"
+  },
+  {
+    "q": "Is the scheduled travel period for U.S. President Donald Trump to China from April 10 to April 14?",
+    "a": "No"
+  },
+  {
+    "q": "Is the upcoming meeting between U.S. President Donald Trump and Chinese President Xi Jinping the first in-person talks between the two leaders since their meeting in South Korea?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Treasury Secretary Scott Bessent attribute potential changes to the Trump-Xi meeting schedule to geopolitical tensions with Russia?",
+    "a": "No"
+  },
+  {
+    "q": "Is the U.S.-Israeli war on Iran expected to have a clear end in sight as of the March 16, 2026 reporting date?",
+    "a": "No"
+  }
+]

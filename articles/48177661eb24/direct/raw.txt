@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump state in his State of the Union address on February 24, 2026, that he wants Iran to declare it will never have a nuclear weapon?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. fighter jets and aircraft carriers deploy to the region in February 2026 as part of President Donald Trump's threats against Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Secretary of State Marco Rubio travel to Israel in early March 2026 to discuss Iran and other regional issues?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the third round of indirect negotiations between the United States and Iran end on February 26, 2026, without a deal?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did a later U.S. assessment determine that all three Iranian nuclear sites bombed last June were completely destroyed?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump insist that Iran be allowed to enrich uranium up to 30% for civilian purposes?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United States demand that any new nuclear deal with Iran include a sunset clause with a future ending date?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. intelligence reports back up President Donald Trump's claim that Iran was soon capable of building a missile to strike the United States?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran object to the U.S. demand that it deliver all of its remaining enriched uranium to the United States?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did former U.S. Ambassador Daniel Kurtzer state that proxy activity by groups like Hezbollah had significantly increased since the Israeli attacks last summer?",
+    "a": "No"
+  }
+]

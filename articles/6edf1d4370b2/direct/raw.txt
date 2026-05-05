@@ -1,0 +1,22 @@
+{
+  "q": "Did a key Iranian official state in late February 2026 that Iran would not negotiate with the United States?",
+  "a": "Yes",
+  "q": "Did the United States conduct targeted attacks that resulted in the killing of Iranian Supreme Leader Ali Khamenei in February 2026?",
+  "a": "Yes",
+  "q": "Did the U.S. strikes on Iran in February 2026 mark a departure from decades of U.S. policy by killing a sitting head of state?",
+  "a": "Yes",
+  "q": "Did Hezbollah fire on Israel in response to the death of Ali Khamenei in February 2026?",
+  "a": "Yes",
+  "q": "Did the Iranian missile and drone volley in February 2026 drastically alter the dynamic of Dubai, trapping travelers on the city?",
+  "a": "Yes",
+  "q": "Did the United States conduct its strikes on Iran in March 2026, following the February 2026 timeline?",
+  "a": "No",
+  "q": "Did the U.S. strikes in February 2026 result in the killing of Iranian President Ebrahim Raisi rather than Supreme Leader Ali Khamenei?",
+  "a": "No",
+  "q": "Did Iranian officials in late February 2026 express a willingness to negotiate with the United States regarding the strikes?",
+  "a": "No",
+  "q": "Did the Iranian missile and drone attacks in February 2026 target London instead of Dubai?",
+  "a": "No",
+  "q": "Did Hezbollah fire on Israel in response to the U.S. strikes in February 2026 rather than in response to the death of Ali Khamenei?",
+  "a": "No"
+}

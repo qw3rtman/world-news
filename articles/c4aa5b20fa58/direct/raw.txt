@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Mojtaba Khamenei publicly endorse his father, Ayatollah Ali Khamenei, for re-election as Supreme Leader in 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did an Israeli airstrike kill Iran's late Supreme Leader Ayatollah Ali Khamenei in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mojtaba Khamenei's wife, Zahra Haddad Adel, die in the same Israeli airstrike that killed her husband's father?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mojtaba Khamenei hold an elected or appointed government position prior to the March 2026 airstrike?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United States sanction Mojtaba Khamenei in 2019 during the administration of U.S. President Donald Trump?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mojtaba Khamenei serve as a commander in the Iran-Iraq war with the Habib ibn Mazahir Battalion?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the 88-seat Assembly of Experts select Mojtaba Khamenei as the new Supreme Leader in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Mojtaba Khamenei support the election of hard-line President Mahmoud Ahmadinejad in 2005?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mojtaba Khamenei grow up in Tehran during the 1979 Islamic Revolution?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. Treasury designate Iran's Revolutionary Guard as a terrorist organization in 2019?",
+    "a": "Yes"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump announce the start of major combat operations in Iran on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump name the U.S. military campaign in Iran 'Operation Desert Storm'?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli Defense Minister Israel Katz describe Israel's attack on Iran as a pre-emptive action?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did an Israeli airstrike kill nearly 60 students at a girls' school in the northern city of Tabriz, according to Iran’s state-run news agency?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian Foreign Minister Abbas Araghchi state that Iran would target all U.S. bases in the region?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Emirati military report that debris from Iranian missile attacks resulted in the death of a European national?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump, Defense Secretary Pete Hegseth, and Chairman of the Joint Chiefs of Staff Gen. Dan Caine monitor the situation from Mar-a-Lago?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian Defense Minister Amir Nasirzadeh and IRGC commander Mohammed Pakpour survive the Israeli attacks without being killed?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian Foreign Minister Abbas Araghchi describe the U.S. pursuit of regime change in Iran as 'mission impossible'?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran’s semi-official Fars news agency report that U.S. bases in Saudi Arabia, Oman, and Yemen were being attacked?",
+    "a": "No"
+  }
+]

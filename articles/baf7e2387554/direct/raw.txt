@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did British Prime Minister Keir Starmer state on February 28, 2026, that British forces were participating in coordinated regional defensive operations?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did British forces take part in the U.S. and Israeli strikes against Iran on February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump describe the strikes against Iran as a \"pre-emptive\" strike intended to end a security threat to the United States?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did British Prime Minister Keir Starmer hold an emergency COBRA meeting with French and German counterparts on February 27, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the British government advise against all travel to Israel and the Palestinian territories on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did British Prime Minister Keir Starmer state that the Iranian regime is \"utterly abhorrent\" during his video statement on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did British embassy staff move from Tel Aviv to another location in Israel on February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did British Prime Minister Keir Starmer say that Iran must never be allowed to develop nuclear weapons?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the joint statement issued by the British, French, and German leaders condemn \"Iranian attacks on countries in the region\"?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did British Prime Minister Keir Starmer issue a statement from 10 Downing Street after the strikes began on February 27, 2026?",
+    "a": "No"
+  }
+]

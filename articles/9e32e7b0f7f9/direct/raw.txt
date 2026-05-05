@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did OpenAI release the GPT-5.4 model on March 5, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did OpenAI CEO Sam Altman personally code the GPT-5.4 model before its release?",
+    "a": "No"
+  },
+  {
+    "q": "Is GPT-5.4 described as OpenAI's most capable system to date for professional use?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did OpenAI launch GPT-5.4 primarily to compete with Google DeepMind for consumer gaming applications?",
+    "a": "No"
+  },
+  {
+    "q": "Does the GPT-5.4 model include the ability to autonomously operate computers and software?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Anthropic identified as the company whose stronghold in enterprise customers GPT-5.4 directly challenges?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was GPT-5.4 released by Anthropic as a direct competitor to OpenAI's previous models?",
+    "a": "No"
+  },
+  {
+    "q": "Does the GPT-5.4 model combine advanced reasoning and coding capabilities?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the tech reporter Beatrice Nolan work for The Verge when she wrote the article about the GPT-5.4 launch?",
+    "a": "No"
+  },
+  {
+    "q": "Is GPT-5.4 characterized as a direct shot at Anthropic in the competition for enterprise customers?",
+    "a": "Yes"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the White House submit a counteroffer to reopen the government in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Department of Homeland Security remain without funding for two weeks as of late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Senate Minority Leader Chuck Schumer and House Minority Leader Hakeem Jeffries issue a joint statement acknowledging receipt of the White House's counteroffer in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Senate Democrats block an attempt by Senate Majority Leader John Thune to fund the Department of Homeland Security using an original compromise bill in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Democrats propose reforms requiring Immigration and Customs Enforcement agents to obtain judicial warrants in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Senate Majority Leader John Thune, R-S.D., publicly endorse the Democratic demands for stringent Immigration and Customs Enforcement reforms in late February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Department of Homeland Security remain without funding for three weeks as of late February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Senate Minority Leader Chuck Schumer state that Democrats were committed to fighting for reforms to rein in the Federal Bureau of Investigation in late February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Senate Minority Leader Chuck Schumer and House Minority Leader Hakeem Jeffries reject the White House's counteroffer immediately upon receipt in late February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Senator Elizabeth Warren, D-Mass., accuse the White House of being slow to return on proposals made by Democrats in late February 2026?",
+    "a": "No"
+  }
+]

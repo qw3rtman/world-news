@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Qatari F-15 fighter aircraft shoot down two Iranian Su-24 bombers in their first aerial combat mission on Monday morning, March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Iranian bombers target Ras Laffan, a key natural gas processing facility in Qatar, during the March 2026 aerial incident?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian Supreme Leader Ali Khamenei survive the US and Israeli airstrikes on his compound in Tehran on Saturday, February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Qatari Prime Minister Mohammed bin Abdulrahman Al Thani describe the March 2026 incident as indicating Iran's genuine desire to deescalate the conflict?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Iranian jets switch to a flying altitude of 80 feet to evade radar detection during the March 2026 attack on Qatar?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US General Dan Caine, chairman of the Joint Chiefs of Staff, confirm that Qatari fighters had never previously shot down Iranian bombers before the March 2026 incident?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Iranian bombers carry only unmanned drones rather than bombs and guided munitions during the March 2026 operation?",
+    "a": "No"
+  },
+  {
+    "q": "Did six US service members die when an Iranian projectile struck a makeshift operations center at Kuwait’s Shuaiba port on Sunday, March 1, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran dispatch two Soviet-era F-16 tactical bombers toward al-Udeid Air Base in the March 2026 incident?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Iranian planes crash into Qatar’s territorial waters following the aerial engagement in March 2026?",
+    "a": "Yes"
+  }
+]

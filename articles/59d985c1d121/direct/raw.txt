@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. Central Command report that American forces sank 16 Iranian minelaying vessels near the Strait of Hormuz in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state on Truth Social that military consequences for Iran would be at a level never seen before if mines were not removed immediately in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did a CNN report in March 2026 indicate that Iran had laid only a few dozen mines in the Strait of Hormuz in recent days?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the energy consulting firm Kpler report that the Strait of Hormuz saw roughly 13 million barrels of crude per day passing through it in 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump order the U.S. Development Finance Corporation to provide political risk insurance for maritime trade through the Gulf in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. forces sink 16 Iranian destroyers near the Strait of Hormuz in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. Navy agree to near-daily requests from the shipping industry to escort ships through the Strait of Hormuz in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Robert Strauss Center for International Security and Law in Texas state that mines would be detrimental for use by Iran in the shipping lanes of the Strait of Hormuz in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did a CIA report declassified in 2009 state that Iran had fully abandoned its mine warfare capability and strategy in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. decommission four Independence-class littoral combat ships stationed in Bahrain in late 2025?",
+    "a": "No"
+  }
+]

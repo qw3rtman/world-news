@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the joint U.S.-Israeli military operation against Iran, dubbed \"Operation Epic Fury,\" begin shortly after midnight on Saturday, February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Central Command confirm that U.S. service members suffered casualties or related injuries during the initial strikes on Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian drones and ballistic missiles strike targets in Saudi Arabia, Qatar, the United Arab Emirates, and Bahrain in retaliation for the U.S.-Israeli strikes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. and Israeli officials initially confirm that Iran’s Supreme Leader Ayatollah Ali Khamenei was killed in the Israeli strike?",
+    "a": "No"
+  },
+  {
+    "q": "Did Secretary of State Marco Rubio brief seven of the eight members of the \"Gang of Eight\" in Congress prior to the launch of the strikes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Chairman of the Joint Chiefs Gen. Dan Caine monitor the situation with President Trump at the White House in Washington, D.C.?",
+    "a": "No"
+  },
+  {
+    "q": "Did major shipping companies suspend crude oil and liquefied natural gas shipments through the Strait of Hormuz due to the conflict?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran successfully close the Strait of Hormuz to all global energy supplies within hours of the first bombings?",
+    "a": "No"
+  },
+  {
+    "q": "Did Rep. Ro Khanna, D-Calif., call for a congressional vote on Rep. Thomas Massie’s war powers resolution to end the Iran operation?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did exiled Iranian leader Reza Pahlavi urge Iranians to immediately return to the streets for the \"final action\" during the strikes?",
+    "a": "No"
+  }
+]

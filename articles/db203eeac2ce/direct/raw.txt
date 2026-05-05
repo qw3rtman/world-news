@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. elite troops capture Nicolás Maduro on January 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Edmundo González Urrutia win the July 28, 2024 Venezuelan presidential election with 67% of the vote according to observer tally sheets?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did María Corina Machado announce her return to Venezuela in March 2026 to prepare for new elections?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the National Electoral Council (CNI) and the Supreme Court of Venezuela come under new leadership following the January 2026 U.S. military intervention?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Secretary of State Marco Rubio outline a three-phase roadmap for Venezuela consisting of stabilization, reconstruction, and transition?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Interior Minister Diosdado Cabello publicly endorse María Corina Machado’s candidacy for president in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did more than 30 countries, including the United States and the 27 members of the European Union, recognize Edmundo González as president-elect after the July 2024 election?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Henry Alviárez, the main leader of Vente Venezuela inside the country, spend nearly two years in prison before his release in early 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Chavista government led by Delcy Rodríguez immediately schedule new presidential elections for May 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the voter tallies from the July 2024 election end up stored in bank vaults in Panama?",
+    "a": "Yes"
+  }
+]

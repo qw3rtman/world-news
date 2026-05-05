@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the Iranian missile strike the headquarters of the US Navy in Bahrain?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Qatar intercept missiles heading for Al Udeid Air Base?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Kuwait report that Iranian strikes hit Ali Al-Salem air base?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Arab Emirates allow American forces to use its territory to launch airstrikes against Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did Saudi Arabia allow American forces to use its territory to launch airstrikes against Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran fire 137 missiles at the UAE on the first day of fighting?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran fire 66 missiles at Qatar on the first day of fighting?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran fire 45 missiles at Qatar on the first day of fighting?",
+    "a": "No"
+  },
+  {
+    "q": "Did Hasan Alhasan state that Gulf states are more heavily defended than Israel?",
+    "a": "No"
+  },
+  {
+    "q": "Did Andreas Krieg predict that Gulf states will try to contain spillover rather than actively join a widening war?",
+    "a": "Yes"
+  }
+]

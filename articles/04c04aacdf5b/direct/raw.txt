@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Ukrainian troops retake nine settlements in the Zaporizhzhia region since the end of January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Commander-in-Chief Oleksandr Syrskyi state that Ukrainian troops regained control over more territory than Russian forces captured for the first time since summer 2024?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did SpaceX owner Elon Musk shut down Starlink communications terminals for Russian forces in response to a plea from Kyiv in late January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Ukrainian battlefield mapping project DeepState report that Russian troops occupied 126 square kilometres of Ukrainian territory in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Volodymyr Zelenskiy announce that a new round of U.S.-brokered peace talks between Ukraine and Russia was expected to take place in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ukrainian troops strengthen their control over the town of Pokrovsk in the Zaporizhzhia region in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Russian forces experience Starlink outages because of a decision by U.S. President Donald Trump in late January 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did DeepState report that Russian troops occupied 517 square kilometres of Ukrainian territory in January-February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Ukrainian counterattack operation in the Zaporizhzhia region start on February 15, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Reuters verify the data regarding Ukrainian advances and Russian territorial gains reported by DeepState in March 2026?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the United States and Ecuador carry out joint strikes inside Ecuador in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US Southern Command state that the joint force was conducting operations against Designated Terrorist Organizations in Ecuador?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did General Francis Donovan direct the joint force at the order of US Defense Secretary Pete Hegseth?",
+    "a": "Yes"
+  },
+  {
+    "q": "Were the strikes conducted in the southwestern province of Esmeraldas, Ecuador?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ecuadorian President Daniel Noboa identify the targeted group as the Comandos de la Frontera (CDF)?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the strikes destroy the hideout of Mono Tole, the leader of the CDF?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States and Ecuador use only ground troops for the operation in Sucumbios?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ecuadorian President Daniel Noboa hold talks with Mark Schafer in Quito earlier in the week of March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is US President Donald Trump expected to attend the \"Shield of the Americas\" meeting in Miami in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ecuadorian President Daniel Noboa accuse neighboring Brazil of not doing enough to combat drug trafficking?",
+    "a": "No"
+  }
+]

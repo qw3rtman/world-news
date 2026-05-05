@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did OpenAI launch the GPT-5.4 model on March 5, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is GPT-5.4 OpenAI's first model to include native computer use capabilities?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the GPT-5.4 Thinking model available to ChatGPT Plus, Team, and Pro users?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the GPT-5.4 Thinking feature currently available on the iOS app?",
+    "a": "No"
+  },
+  {
+    "q": "Does OpenAI claim that individual claims in GPT-5.4 are 33 percent less likely to be false compared to GPT-5.2?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the GPT-5.4 Pro model rolling out for ChatGPT Enterprise and Edu users?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did OpenAI introduce the ChatGPT Agent in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Does GPT-5.4 issue keyboard and mouse commands in response to screenshots?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the GPT-5.4 Pro model exclusively available through the API and not for ChatGPT Enterprise or Edu users?",
+    "a": "No"
+  },
+  {
+    "q": "Is the GPT-5.4 model being rolled out to OpenAI's AI-powered coding tool, Codex?",
+    "a": "Yes"
+  }
+]

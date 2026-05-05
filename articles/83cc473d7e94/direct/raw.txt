@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the United States and Israel launch attacks on Iran in March 2026 that resulted in the death of Supreme Leader Ayatollah Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump campaign for reelection as a \"peace president\" prior to the March 2026 strikes on Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the March 2026 U.S. military operation against Iran include the first combat use of low-cost one-way attack drones modeled after Iranian designs?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the March 2026 U.S. and Israeli strikes on Iran target nuclear facilities exclusively rather than military or leadership targets?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump publicly state a preference for a diplomatic solution to the standoff with Iran before launching the March 2026 attacks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the March 2026 U.S. military operation against Iran utilize stealth fighters and Tomahawk cruise missiles?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran respond to the March 2026 strikes by launching missiles exclusively at Israel and not at any other countries?",
+    "a": "No"
+  },
+  {
+    "q": "Did the March 2026 U.S. and Israeli attacks on Iran occur on a Saturday?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran describe the March 2026 U.S. and Israeli strikes as unprovoked and illegal?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the March 2026 U.S. military operation against Iran result in the immediate surrender of the Iranian government?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did GSK agree to acquire the privately held firm 35Pharma for $950 million in cash in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the experimental drug HS235 developed by GSK intended for trials in pulmonary arterial hypertension?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is pulmonary arterial hypertension described as a form of high blood pressure in the lungs?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Merck's drug Winrevair receive approval for the treatment of pulmonary arterial hypertension in 2024?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Winrevair generate $1.4 billion in sales in 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is 35Pharma a publicly traded company listed on the London Stock Exchange?",
+    "a": "No"
+  },
+  {
+    "q": "Is the experimental drug HS235 already approved for general use in treating pulmonary arterial hypertension?",
+    "a": "No"
+  },
+  {
+    "q": "Did Merck's drug Winrevair reach $1.4 billion in sales in 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is the acquisition of 35Pharma by GSK funded primarily through the issuance of new stock?",
+    "a": "No"
+  },
+  {
+    "q": "Is pulmonary arterial hypertension a form of high blood pressure in the brain?",
+    "a": "No"
+  }
+]

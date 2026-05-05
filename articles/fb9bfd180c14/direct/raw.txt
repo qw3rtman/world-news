@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did US President Donald Trump confirm that his planned meeting with Chinese President Xi Jinping in Beijing would be delayed by five or six weeks on March 17, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the original schedule for the Beijing trip set for March 31 to April 2, 2026, according to a White House announcement in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Chinese embassy in Washington confirm the specific new timeline for President Trump's visit to China on March 17, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was this scheduled visit to Beijing intended to be US President Donald Trump's first visit to China during his second term?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump make the announcement regarding the delay during a bilateral meeting with UK Prime Minister Rishi Sunak on March 17, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did US President Donald Trump attribute the delay of the Beijing meeting to the ongoing US-Israel war against Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump state that the Chinese government was unhappy with the proposed delay of the meeting?",
+    "a": "No"
+  },
+  {
+    "q": "Did US President Donald Trump describe the current economic relationship with China as \"very good\" when speaking to reporters at the White House on March 17, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the delay of the Beijing meeting occur after US President Donald Trump met with Irish leader Micheal Martin to mark St Patrick's Day on March 17, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Chinese embassy in Washington state that China and the US had ceased all communication regarding the dates of President Trump's visit on March 17, 2026?",
+    "a": "No"
+  }
+]

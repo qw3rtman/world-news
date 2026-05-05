@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the Israeli Defense Forces state that its campaign against Iran began on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Qatar Grand Prix remain scheduled for April 2026 despite the escalating conflict in the Middle East?",
+    "a": "No"
+  },
+  {
+    "q": "Did UK Energy Secretary Ed Miliband state that the United Kingdom is exploring options to help secure the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump publicly endorse Japan's decision to dispatch naval vessels to the Middle East to escort ships?",
+    "a": "No"
+  },
+  {
+    "q": "Did the internet watchdog NetBlocks report that Iran had been largely cut off from the internet for more than 15 days as of mid-March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the UAE defense ministry report that it engaged nine ballistic missiles and 33 unmanned aerial vehicles launched from Iran on Saturday, March 14, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian Foreign Minister Abbas Araghchi confirm that Supreme Leader Mojtaba Khamenei had been publicly seen and heard speaking to the nation one week after his appointment?",
+    "a": "No"
+  },
+  {
+    "q": "Did the International Federation of Motorcycling (FIM) coordinate with MotoGP to postpone the Qatar Grand Prix to November 8, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Japan's ruling Liberal Democratic Party policy chief Takayuki Kobayashi state that dispatching naval vessels to the Middle East would face no legal hurdles?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Pentagon identify the six US service members killed in Iraq as having died in a KC-135 refueling plane crash?",
+    "a": "Yes"
+  }
+]

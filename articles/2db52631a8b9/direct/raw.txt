@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump launch airstrikes on Iran in the days leading up to March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran produce approximately 3.3 million barrels of crude oil per day in early 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Strait of Hormuz handle roughly 31% of total seaborne oil flows in 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does Saudi Arabia have an alternative pipeline capable of transporting 5 million barrels of crude per day to the Red Sea?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does Kuwait possess an alternative pipeline route that bypasses the Strait of Hormuz for its oil exports?",
+    "a": "No"
+  },
+  {
+    "q": "Did the European Union’s naval mission Aspides officially confirm an order to shut the Strait of Hormuz in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the 1979 oil shock primarily result from an Arab OPEC embargo against the United States?",
+    "a": "No"
+  },
+  {
+    "q": "Does the Habshan-Fujairah pipeline allow the United Arab Emirates to bypass the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is nearly 90% of Iran’s oil exports currently directed to China?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iraq rely primarily on the Basra port for its southern crude exports, which must transit the Strait of Hormuz?",
+    "a": "Yes"
+  }
+]

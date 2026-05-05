@@ -1,0 +1,22 @@
+{
+  "q": "Did the USS Frank E. Petersen Jr. fire a Tomahawk missile during Operation Epic Fury on February 28, 2026?",
+  "a": "Yes",
+  "q": "Did Israel’s stocks of Arrow 3 anti-ballistic missile interceptors run critically low during the strike campaign against Iran in 2025?",
+  "a": "Yes",
+  "q": "Did Iran launch approximately 631 missiles during the June 2025 conflict, with around 500 reaching Israeli airspace?",
+  "a": "Yes",
+  "q": "Did the United States rush additional missile defense assets, including THAAD systems, to the region in response to Israel’s low interceptor stocks in 2025?",
+  "a": "Yes",
+  "q": "Did U.S. President Donald Trump order the attack on Iran after being briefed on concerns about dwindling U.S. precision munition stockpiles?",
+  "a": "Yes",
+  "q": "Did Iran fire fewer than 500 missiles and drones during the first 48 hours of the war described in the article?",
+  "a": "No",
+  "q": "Did the United States and Israel successfully avoid a war of attrition by exhausting Iranian air defenses without depleting their own interceptor stockpiles?",
+  "a": "No",
+  "q": "Did the nine-month Battle of Mosul against the Islamic State in Iraq occur during 2025 and 2026?",
+  "a": "No",
+  "q": "Did Iran lose 200 ballistic missile launchers during the initial phase of the conflict, according to Israeli military sources?",
+  "a": "Yes",
+  "q": "Did the article state that the Allied bombing campaigns in World War II successfully compelled Germany to surrender quickly without the need for ground operations?",
+  "a": "No"
+}

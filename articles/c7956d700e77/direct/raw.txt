@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did France, Germany, and the U.K. issue a joint statement on March 1, 2026, declaring readiness to take defensive action against Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the joint statement from France, Germany, and the U.K. on March 1, 2026, condemn Iran's missile attacks as indiscriminate and disproportionate?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did British Prime Minister Keir Starmer confirm on March 1, 2026, that the U.K. had accepted a U.S. request to allow the use of British bases for defensive strikes against Iranian missiles?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian Revolutionary Guards announce a large-scale attack on March 1, 2026, resulting in at least nine deaths in Beit Shemesh?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran launch missile and drone strikes on February 28, 2026, in response to U.S.-Israeli military operations?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did a German army spokesman confirm on March 1, 2026, that a German army camp in eastern Jordan was hit by Iranian attacks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did British Prime Minister Keir Starmer state on March 1, 2026, that the U.K. would join offensive action against Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian President Masoud Pezeshkian declare the killing of Khamenei a 'declaration of war against Christians' on March 1, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian missile and drone strikes on March 1, 2026, result in confirmed casualties at the multinational military base near Arbil in northern Iraq?",
+    "a": "No"
+  },
+  {
+    "q": "Did France, Germany, and the U.K. state in their March 1, 2026 joint statement that they were directly involved in the initial U.S. and Israeli military operations against Iran?",
+    "a": "No"
+  }
+]

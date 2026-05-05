@@ -1,0 +1,22 @@
+{
+  "q": "Did Defense Secretary Pete Hegseth issue an ultimatum to the AI startup Anthropic in February 2026?",
+  "a": "Yes",
+  "q": "Did the ultimatum require Anthropic to join a military program by Friday or face the loss of $200 million?",
+  "a": "Yes",
+  "q": "Did the Trump administration condemn AI safeguards as \"woke AI\"?",
+  "a": "Yes",
+  "q": "Did Defense Secretary Pete Hegseth deliver a speech criticizing AI systems with ideological restrictions at SpaceX in January 2026?",
+  "a": "Yes",
+  "q": "Did Defense Secretary Pete Hegseth state that Department of War AI would be designed as \"chatbots for an Ivy League faculty lounge\"?",
+  "a": "No",
+  "q": "Did Defense Secretary Pete Hegseth issue the ultimatum to the AI startup OpenAI?",
+  "a": "No",
+  "q": "Did the ultimatum threaten the loss of $20 million if Anthropic failed to comply?",
+  "a": "No",
+  "q": "Did Defense Secretary Pete Hegseth deliver his speech criticizing \"woke AI\" at the White House?",
+  "a": "No",
+  "q": "Did the Trump administration endorse AI safeguards as necessary for ethical development?",
+  "a": "No",
+  "q": "Did Defense Secretary Pete Hegseth rail against AI systems without ideological restrictions?",
+  "a": "No"
+}

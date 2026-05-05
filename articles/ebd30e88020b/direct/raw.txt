@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Emmanuel Gregoire receive 37.98 percent of the vote in the first round of the 2026 Paris mayoral election on Sunday?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Rachida Dati receive 25.46 percent of the vote in the first round of the 2026 Paris mayoral election on Sunday?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Sophia Chikirou place third in the first round of the 2026 Paris mayoral election with 11.72 percent of the vote?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did outgoing Paris Mayor Anne Hidalgo endorse Emmanuel Gregoire in the 2026 Paris mayoral election to stave off populism?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Emmanuel Macron approve the alliance between Rachida Dati and Pierre-Yves Bournazel for the 2026 Paris mayoral election?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Emmanuel Gregoire agree to form an alliance with Sophia Chikirou's France Unbowed (LFI) party for the 2026 Paris mayoral election?",
+    "a": "No"
+  },
+  {
+    "q": "Did Pierre-Yves Bournazel's team confirm that an alliance with Rachida Dati had been finalized before the second round of the 2026 Paris mayoral election?",
+    "a": "No"
+  },
+  {
+    "q": "Did Sarah Knafo place fourth in the first round of the 2026 Paris mayoral election with 10.40 percent of the vote?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Rachida Dati scheduled to appear in court in March 2026 to face graft charges related to her time in the European Parliament?",
+    "a": "No"
+  },
+  {
+    "q": "Did Emmanuel Gregoire promise to give weapons to municipal police officers and increase video surveillance as part of his platform in the 2026 Paris mayoral election?",
+    "a": "No"
+  }
+]

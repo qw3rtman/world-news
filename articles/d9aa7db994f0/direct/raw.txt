@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Jateen Trivedi, VP Research Analyst at LKP Securities, recommend a 'sell on rise' strategy for gold on March 13, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Were Gold April futures on the MCX trading near ₹1,59,860 on March 13, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Relative Strength Index (RSI) indicator hover near 23 on March 13, 2026, indicating oversold territory?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article identify ₹1,61,000 as the immediate moving average resistance zone on March 13, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article state that the 8 EMA was trending above the 21 EMA on March 13, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article suggest that a pullback toward the mid-band of the Bollinger bands could provide a selling opportunity on March 13, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article identify the MACD indicator as being in positive territory with shrinking histogram bars on March 13, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article set the trading target at ₹1,59,000 for the session on March 13, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that the broader intraday sentiment would remain positive until prices reclaimed ₹1,60,300 on March 13, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article specify a stop-loss level above ₹1,61,000 for the recommended trading strategy on March 13, 2026?",
+    "a": "Yes"
+  }
+]

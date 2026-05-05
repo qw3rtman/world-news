@@ -1,0 +1,22 @@
+{
+  "q": "Did President Donald Trump state that he expects the war in Iran to end \"very soon\" during a news conference at his Miami-area golf club in March 2026?",
+  "a": "Yes",
+  "q": "Did President Donald Trump explicitly state that he expects the war in Iran to end next week during the March 2026 news conference?",
+  "a": "No",
+  "q": "Did U.S. intelligence agencies assess in the year prior to March 2026 that Iran was actively building a nuclear weapon?",
+  "a": "No",
+  "q": "Was Ayatollah Mojtaba Khamenei named as Iran's new supreme leader on Sunday prior to the March 2026 news conference?",
+  "a": "Yes",
+  "q": "Did President Donald Trump express disappointment in the selection of Ayatollah Mojtaba Khamenei as Iran's new supreme leader because he believed it would lead to more of the same in Iran?",
+  "a": "Yes",
+  "q": "Did the preliminary U.S. assessment of the elementary school bombing in Iran conclude that American forces intentionally targeted the school?",
+  "a": "No",
+  "q": "Did President Donald Trump blame Iran for the elementary school bombing in Iran because he claimed he did not know enough about the investigation?",
+  "a": "Yes",
+  "q": "Did President Donald Trump cite the 2003 invasion of Iraq and the purging of Saddam Hussein's government as a positive example for how to handle Iran's leadership transition?",
+  "a": "No",
+  "q": "Did seven American service members die in the U.S.-Iran war as of the March 2026 news conference?",
+  "a": "Yes",
+  "q": "Did oil prices drop significantly during the week of March 2026 due to the war, with no surge in crude oil prices observed?",
+  "a": "No"
+}

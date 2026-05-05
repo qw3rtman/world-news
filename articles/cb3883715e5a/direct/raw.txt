@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Marine Le Pen accuse President Emmanuel Macron of staging an administrative coup d’état in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Jordan Bardella accuse President Emmanuel Macron of attempting to make France 'Le Pen-proof' in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Christine Lagarde announce her immediate resignation as head of the European Central Bank in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Emmanuel Macron appoint Amélie de Montchalin to head the Court of Auditors in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Jordan Bardella plan to run for the French presidency in April 2027 if Marine Le Pen was barred by an appeal court verdict?",
+    "a": "No"
+  },
+  {
+    "q": "Did François Villeroy de Galhau announce he would step down as governor of the Banque de France in June 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Emmanuel Macron appoint Richard Ferrand as head of the Constitutional Council in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the National Rally accuse President Emmanuel Macron of coordinating with German Chancellor Friedrich Merz to control the European Central Bank before the 2027 French elections?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Marine Le Pen aim to appoint Jordan Bardella as prime minister if she won the April 2027 presidential election?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Emmanuel Macron appoint Air Force General Fabien Mandon as head of the armed forces last year?",
+    "a": "Yes"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iranian sources report in February 2026 that Mojtaba Khamenei survived U.S. and Israeli air strikes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Mojtaba Khamenei the son of Iran's current Supreme Leader Ali Khamenei?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. and Israeli air strikes target Iran in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Reuters report that Mojtaba Khamenei was killed in the February 2026 air strikes?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian sources tell Reuters that Mojtaba Khamenei survived the February 2026 assault?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Ali Khamenei alive in February 2026 according to the report?",
+    "a": "No"
+  },
+  {
+    "q": "Did Chinese military forces participate in the February 2026 air strikes on Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did two Iranian sources provide information to Reuters regarding Mojtaba Khamenei's survival in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the February 2026 air strikes on Iran involve only Israeli forces?",
+    "a": "No"
+  },
+  {
+    "q": "Was Mojtaba Khamenei identified as the son of Iran's late Supreme Leader in the February 2026 report?",
+    "a": "Yes"
+  }
+]

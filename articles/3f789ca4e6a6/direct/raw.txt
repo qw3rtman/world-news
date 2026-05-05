@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the International Energy Agency warn that the Strait of Hormuz disruptions could amount to the largest supply disruption in history?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump authorize the release of 172 million barrels from the Strategic Petroleum Reserve starting in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Indian Oil Corporation and Reliance Industries purchase nearly all available Russian cargoes on the spot market following a U.S. waiver in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did China order refiners to halt exports of refined fuel in March 2026 to protect domestic fuel availability?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did South Korea fix the maximum wholesale price of gasoline at 1,724 won per litre in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Secretary of Energy Chris Wright state that 32 member nations of the International Energy Agency agreed to release 400 million barrels of oil in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Germany’s Chancellor Friedrich Merz agree to ease sanctions on Russia to offset the supply shock in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Australia’s Energy Minister Chris Bowen say the fuel from emergency reserves would enter the market immediately in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Hungary’s Prime Minister Viktor Orban call on the European Union to suspend sanctions on Russian energy in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran’s former supreme leader call for the Strait of Hormuz to remain closed in March 2026?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump announce plans to travel to China from March 31 to April 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Supreme Court uphold the 20% tariffs imposed on Chinese goods under the International Emergency Economic Powers Act in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump meet with Chinese President Xi Jinping in South Korea in October 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Chinese embassy in Washington confirm the dates of U.S. President Donald Trump's planned visit in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump propose a new 10% global tariff for 150 days after the Supreme Court ruling in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump last visit China in 2024?",
+    "a": "No"
+  },
+  {
+    "q": "Did Washington announce an $11.1 billion arms sale approval to Taiwan in December 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump impose the 20% tariffs on Chinese goods using legislated trade authorities known as Section 301?",
+    "a": "No"
+  },
+  {
+    "q": "Did Chinese President Xi Jinping raise the issue of U.S. arms sales to Taiwan during a phone call with U.S. President Donald Trump in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump begin his second term as president in January 2026?",
+    "a": "No"
+  }
+]

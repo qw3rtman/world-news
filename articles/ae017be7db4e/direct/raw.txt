@@ -1,0 +1,40 @@
+{
+  "q": "Did Shawn Tully publish the article titled 'Analyzing the SpaceX IPO: What would it take to justify a $1.5 trillion market cap?' on March 8, 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did Elon Musk merge SpaceX with xAI prior to the planned IPO?",
+  "a": "Yes"
+}
+{
+  "q": "Does the article state that the combined entity expects to raise $50 billion in capital?",
+  "a": "Yes"
+}
+{
+  "q": "Does the article claim that a $1.5 trillion market cap for SpaceX would make it the highest-valued company in history, surpassing Saudi Aramco?",
+  "a": "No"
+}
+{
+  "q": "Does the article identify Alibaba as the company with the second-highest total valuation among IPOs?",
+  "a": "No"
+}
+{
+  "q": "Does the article state that SpaceX's planned IPO would be the single biggest IPO capital raise of all time?",
+  "a": "Yes"
+}
+{
+  "q": "Does the article report that the planned IPO for SpaceX is scheduled for the summer of 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Does the article claim that the combined SpaceX and xAI entity would have a market cap of $167 billion?",
+  "a": "No"
+}
+{
+  "q": "Does the article state that Alibaba's 2018 introduction had a valuation of $167 million?",
+  "a": "Yes"
+}
+{
+  "q": "Does the article assert that Berkshire Hathaway earns less than the projected earnings required for SpaceX to justify a $1.5 trillion market cap?",
+  "a": "Yes"
+}

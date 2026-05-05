@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iranian Supreme Leader Ali Khamenei die as a result of air strikes launched by the United States and Israel in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state that the United States worked closely with Israel to target Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran launch missiles at Israel and at least seven other countries, including Gulf states that host U.S. bases, in response to the strikes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Pentagon confirm that there were U.S. deaths or injuries resulting from Iran's retaliatory missile and drone attacks?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu confirm that Ali Khamenei's compound had been destroyed?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran announce that it had closed the Strait of Hormuz, through which around a fifth of global oil consumption passes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Department of Defense name the military campaign against Iran \"Operation Desert Storm\"?",
+    "a": "No"
+  },
+  {
+    "q": "Did a girls' primary school in the southern Iranian town of Minab reportedly get hit, killing 85 people?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Russian U.N. envoy Vasily Nebenzya support the U.S. claim that preventing Iran from acquiring a nuclear weapon justified the attacks?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran fire missiles at Abu Dhabi, Dubai, and Doha, damaging an airport terminal in Dubai?",
+    "a": "Yes"
+  }
+]

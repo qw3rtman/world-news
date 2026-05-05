@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the pan-European Stoxx 600 index close 3.2% lower on Tuesday, March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did banking stocks decline by 4.3% during the trading session on Tuesday, March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Strait of Hormuz remain open for shipping during the conflict in early March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state that the war with Iran would last four to five weeks in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the European Union call for the immediate military defeat of Iran in early March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did euro zone inflation rise to 1.9% in February 2026 according to Eurostat flash data?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did French defense giant Thales report a 7.6% jump in sales to 22.1 billion euros for the full year 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Paris-listed Thales stock close 2.4% higher on Tuesday, March 3, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did British investment manager Aberdeen report that its assets under management jumped 9% to £556 billion in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did analysts at Citi state that Aberdeen’s new guidance for annual growth in net capital generation was well-above consensus in early March 2026?",
+    "a": "No"
+  }
+]

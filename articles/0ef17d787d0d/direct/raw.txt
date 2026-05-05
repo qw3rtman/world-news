@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the Bank of Japan raise its key interest rate to 0.75% in December 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Prime Minister Sanae Takaichi win the Japanese election on February 8, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the majority of economists polled by Reuters expect the Bank of Japan to raise its policy rate to 1% by the end of June 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did all 76 economists surveyed by Reuters expect the Bank of Japan to raise interest rates at its March 2026 meeting?",
+    "a": "No"
+  },
+  {
+    "q": "Did the consensus forecast for the next Bank of Japan rate hike shift from end-September 2026 to end-June 2026 in the February 2026 poll?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the yen strengthen against the U.S. dollar in January 2026 after sliding close to 160 yen per dollar?",
+    "a": "No"
+  },
+  {
+    "q": "Did more than half of the economists surveyed express concern that a proposed two-year suspension of the consumption tax on food and beverages would strain public finances?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Capital Economics head Marcel Thieliant state that a Bank of Japan rate hike in April 2026 was more likely than one in June 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the median of 29 economists expect wage growth of 5.2% in the 2026 spring wage negotiations?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did 81% of economists surveyed in December 2025 believe that the 2026 pay increase would not exceed last year's 5.25%?",
+    "a": "No"
+  }
+]

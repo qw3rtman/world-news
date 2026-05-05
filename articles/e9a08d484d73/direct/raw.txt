@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did China's Foreign Minister Wang Yi call for an immediate ceasefire following the U.S. and Israeli attacks on Iran in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did China's Foreign Minister Wang Yi state that the killing of Iran's Supreme Leader Ali Khamenei was unacceptable during a phone call with Russia's Foreign Minister Sergei Lavrov on March 1, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump urge Iranians to seize the moment and take over the government after the attacks on Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Cathay Group suspend operations in the Middle East, affecting flights to and from Dubai and Riyadh, in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Russian Foreign Ministry state that the security of Gulf states must be guaranteed as part of a political and diplomatic settlement in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did China's embassy in Iran advise its nationals to evacuate to Egypt via the Taba border crossing in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran launch retaliatory strikes aimed primarily at hitting U.S. bases in the region in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Xinhua news agency describe Washington's use of military coercion as a departure from the fundamental norms of international relations in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did China's foreign ministry list land routes to Azerbaijan, Armenia, Turkey, and Iraq for Chinese citizens to leave Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. and Israel attack Iran on Sunday, March 1, 2026, killing Supreme Leader Ali Khamenei?",
+    "a": "No"
+  }
+]

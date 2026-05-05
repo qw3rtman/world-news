@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Russian President Vladimir Putin hold a phone conversation with U.S. President Donald Trump on Monday, March 9, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump publicly criticize Russian President Vladimir Putin for his role in the US-Israeli war with Iran during their March 9, 2026 phone call?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Trump administration grant Indian refiners a 30-day waiver to purchase Russian oil stranded at sea in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Trump administration impose new secondary tariffs on India for purchasing Russian oil in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did US-Israeli strikes kill Iran’s Supreme Leader Ayatollah Ali Khamenei during the war that erupted in the Gulf region in early 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Venezuelan President Nicolás Maduro remain in power during the early months of 2026 despite US commando operations?",
+    "a": "No"
+  },
+  {
+    "q": "Did the price of oil surge past $100 per barrel in early March 2026 due to the closure of the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Russian President Vladimir Putin personally criticize U.S. President Donald Trump in an official message regarding the killing of Ayatollah Ali Khamenei?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ukrainian President Volodymyr Zelensky offer expertise in countering Shahed drones to help the Gulf region in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Russian President Vladimir Putin have telephone conversations with Saudi Crown Prince Mohammed bin Salman following the start of the US-Israeli campaign in Iran in March 2026?",
+    "a": "No"
+  }
+]

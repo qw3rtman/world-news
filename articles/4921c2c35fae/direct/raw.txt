@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. intelligence indicate that Iran was preparing to launch a preemptive strike against the United States before the joint U.S.-Israeli attacks in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Trump administration officials tell congressional staff in private briefings in March 2026 that U.S. intelligence did not suggest Iran was preparing to launch a preemptive strike against the U.S.?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Secretary of State Marco Rubio, Defense Secretary Pete Hegseth, CIA Director John Ratcliffe, and Gen. Dan Caine brief the full membership of Congress on the U.S. military operation against Iran on Tuesday, March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the joint U.S.-Israeli military operation against Iran result in the killing of Supreme Leader Ayatollah Ali Khamenei and approximately 40 senior figures?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. military operation against Iran in March 2026 result in the deaths of three American troops?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the joint U.S.-Israeli strikes on Iran in March 2026 involve three strikes in three locations hitting within a single minute?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump explicitly spell out the specific objectives of the U.S. military operation against Iran in his video message on Sunday, March 1, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did senior Trump administration officials tell reporters on Saturday, February 28, 2026, that there were indicators that Iran could launch a preemptive attack?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the CIA begin tracking the movements of senior Iranian leaders, including Ayatollah Ali Khamenei, only in the weeks immediately preceding the March 2026 strikes?",
+    "a": "No"
+  },
+  {
+    "q": "Did Virginia Senator Mark Warner, the senior Democrat on the committee, express serious concerns about the justification for the strikes and the risks to U.S. service members in March 2026?",
+    "a": "Yes"
+  }
+]

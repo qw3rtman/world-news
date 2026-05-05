@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Houthi leader Abdul Malik al-Houthi state in March 2026 that the group's fingers were on the trigger and ready to respond to developments warranting war against the U.S. and Israel?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Joe Biden re-list the Houthi movement as a foreign terrorist organization during his administration in 2021?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump launch military strikes against the Houthis in Yemen at the start of his second term after reimposing their terrorist designation?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Houthi leader Abdul Malik al-Houthi declare in March 2026 that the group had already fully entered the conflict on Iran's side alongside other axis members?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump announce in May 2025 that the U.S. would stop its air bombing campaign against the Houthis because they did not want to fight?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Middle East Institute associate fellow Nadwa Al-Dawsari argue in March 2026 that the Islamic Revolutionary Guard Corps (IRGC) wants to drag the Houthis into a suicidal war to ensure the Iranian regime's survival?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Islamic Republic of Iran form the \"Axis of Resistance\" prior to Hamas' invasion of Israel on October 7, 2023?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump de-list the Houthi movement as a foreign terrorist organization during the start of his second term?",
+    "a": "No"
+  },
+  {
+    "q": "Did Houthi leader Abdul Malik al-Houthi declare in March 2026 that the group was prepared to attack Saudi Arabia if the Saudis intervened in the conflict?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Houthi leader Abdul Malik al-Houthi state in March 2026 that the group had not intervened in the conflict because it was the first line of resistance for the axis?",
+    "a": "No"
+  }
+]

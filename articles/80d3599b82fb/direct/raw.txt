@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iran's foreign minister Abbas Araghchi claim that the U.S. attacked Kharg Island from locations near Dubai in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did debris from an intercepted Iranian drone cause a fire at the Khalifa port in Abu Dhabi in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state that the U.S. had \"obliterated\" military sites on Kharg Island in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's joint military command threaten to attack U.S.-linked oil infrastructure in the region in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did a missile strike a helipad inside the U.S. Embassy compound in Baghdad on Saturday in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the amphibious assault ship USS Tripoli sail near Taiwan in January 2026 before heading to the Middle East?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israel's air force hit more than 200 targets in Iran in the 24 hours prior to March 14, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the State Department advise U.S. citizens in Iraq to leave by commercial flights in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran's semiofficial Fars news agency report that the strikes on Kharg Island caused no damage to oil infrastructure in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Central Command confirm that it had destroyed naval mine storage facilities and missile storage bunkers on Kharg Island in March 2026?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump state at the White House on 1 March 2026 that \"everything's been knocked out in Iran\"?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the UK government charter a repatriation flight out of Muscat, Oman, scheduled to depart on 4 March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the US military destroy 17 Iranian ships during the military operation that began in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the South Korean Kospi exchange activate its circuit breaker to halt trading because stocks fell by more than 15% on 1 March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the US identify four of the first American soldiers killed in the conflict with Iran as of 1 March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the US military strike nearly 2,000 targets in Iran during the first 24 hours of the operation, a scale described as double that of the 2003 Iraq invasion?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the UK send air defence destroyer HMS Dragon to Cyprus in response to attacks on a British base there in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the US Embassy in Riyadh sustain no structural damage after being struck by two drones on Monday, 2 March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Human Rights Activists News Agency (HRANA) report that 1,097 civilians had been killed in Iran since 28 February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Saudi Arabia confirm that it intercepted nine cruise missiles launched from an unknown source south of Riyadh on 1 March 2026?",
+    "a": "No"
+  }
+]

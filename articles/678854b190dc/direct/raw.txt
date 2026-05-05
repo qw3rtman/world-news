@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Supreme Leader Ayatollah Ali Khamenei warn that Iran could sink American warships in the event of a U.S. attack in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran successfully deliver purchased Chinese YJ-12 sea-skimming missiles to its forces by February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Saudi Arabia and the United Arab Emirates state they would not allow their airspace to be used by the U.S. in the event of a regional war in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump declare that Iran’s main nuclear sites had been \"obliterated\" during the 12-day war in June 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran’s U.N. ambassador Amir Saeid Iravani state that only Israeli bases and facilities would be legitimate targets in the event of a U.S. attack in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran launch missiles at a U.S. base in Iraq following the killing of its top general in 2020?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the 12-day war in June 2025 leave Iran’s shorter-range missile arsenal largely untouched according to expert Danny Citrinowicz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Houthi rebels in Yemen join Iran’s \"Axis of Resistance\" without suffering any major losses in the fighting that followed Hamas’ October 2023 attack?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran bar international inspections of its nuclear sites after the U.S. and Israeli strikes in June 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump recently state that capturing Venezuelan leader Nicolás Maduro was the \"best thing that could happen\" for Iran in February 2026?",
+    "a": "No"
+  }
+]

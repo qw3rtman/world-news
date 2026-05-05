@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did sources indicate that Russia is providing intelligence to Iran regarding the location of U.S. forces in the Middle East in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did sources indicate that Russia is directly helping to direct Iranian missile or drone strikes in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump describe a reporter's question about Russian intelligence assistance to Iran as \"stupid\" in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state that Iran's Air Force was still operational and intact in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Washington Post first report on Russia’s assistance to Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian Foreign Minister Abbas Araghchi confirm in an interview with NBC News in March 2026 that Iran was receiving specific military assistance from Russia?",
+    "a": "No"
+  },
+  {
+    "q": "Did Nicole Grajewski note that Iranian aerial attacks in March 2026 appeared more precise than those in the June 2025 war between Iran and Israel?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Defense Secretary Pete Hegseth state at a Pentagon press conference in March 2026 that Russia and China were significant factors in the conflict?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump claim that Moscow would not have launched a full-scale invasion of Ukraine if he had been in the White House at the time in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran begin firing missiles and drones at U.S. bases after the United States and Israel launched an air war against Iran in March 2026?",
+    "a": "No"
+  }
+]

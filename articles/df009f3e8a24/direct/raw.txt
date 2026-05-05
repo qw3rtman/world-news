@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Webflow acquire the AI content-generation platform Vidoso in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Vidoso raise a total of $330 million in funding prior to the acquisition?",
+    "a": "No"
+  },
+  {
+    "q": "Did Webflow CEO Linda Tong describe Webflow as an agentic marketing platform rather than just a website builder?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Vidoso’s team consist of forty employees joining Webflow full-time?",
+    "a": "No"
+  },
+  {
+    "q": "Did Webflow acquire the website personalization startup Intellimize in 2024?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Vidoso CEO Sharad Verma state that frontier models are trained on the specifics of individual brands rather than the average of the internet?",
+    "a": "No"
+  },
+  {
+    "q": "Did Vidoso utilize large language models to generate marketing collateral such as images, presentations, and video clips?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Webflow disclose the specific financial terms of the acquisition deal with Vidoso?",
+    "a": "No"
+  },
+  {
+    "q": "Did Webflow launch a Google Ads integration earlier in 2026 to improve performance tracking?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Vidoso raise funding from Aspenwood Ventures, Emergent Ventures, and Sequoia Capital?",
+    "a": "No"
+  }
+]

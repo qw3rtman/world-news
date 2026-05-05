@@ -1,0 +1,40 @@
+{
+  "q": "Did the article state that Sidney Crosby, the captain of the Canadian national hockey team, was out of the gold medal game due to injury in February 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did the article state that the United States won the 2026 Nations Cup final in February 2026?",
+  "a": "No"
+}
+{
+  "q": "Did the article mention that DOGE (Department of Government Efficiency) accomplishments were the subject of an exclusive report in February 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did the article state that the Department of Homeland Security was the subject of an exclusive report on accomplishments in February 2026?",
+  "a": "No"
+}
+{
+  "q": "Did the article mention that Alysa Liu achieved an Olympic triumph in February 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did the article mention that Sidney Crosby achieved an Olympic triumph in February 2026?",
+  "a": "No"
+}
+{
+  "q": "Did the article state that there is a looming sewage nightmare in the United States in February 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did the article state that there is a looming sewage nightmare in Canada in February 2026?",
+  "a": "No"
+}
+{
+  "q": "Did the article mention that Eric Dane has ALS in February 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did the article mention that Sidney Crosby has ALS in February 2026?",
+  "a": "No"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Gilead Sciences announce the acquisition of Arcellx in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the total value of the Gilead Sciences acquisition of Arcellx deal $7.8 billion?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the acquisition price for Arcellx shares include a premium of 79% over the stock's Friday close?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the experimental CAR-T therapy central to the deal named anito-cel?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the anito-cel therapy initially developed by Gilead Sciences?",
+    "a": "No"
+  },
+  {
+    "q": "Is Gilead Sciences acquiring Arcellx to merge with a company that co-develops a CAR-T therapy for leukemia?",
+    "a": "No"
+  },
+  {
+    "q": "Are Arcellx shareholders eligible for an additional payment of $10 per share based on future sales targets?",
+    "a": "No"
+  },
+  {
+    "q": "Has Kite Pharma, Gilead’s cell therapy division, co-developed the anito-cel therapy with Arcellx since 2023?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the acquisition of Arcellx by Gilead Sciences valued at $11.5 billion?",
+    "a": "No"
+  },
+  {
+    "q": "Is the anito-cel therapy being developed as a treatment for multiple myeloma?",
+    "a": "Yes"
+  }
+]

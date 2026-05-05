@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Nvidia announce a $2 billion investment in Nebius Group in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did shares of Nebius Group rise by 16% following the announcement of the Nvidia investment in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Nvidia CEO Jensen Huang state that Nebius is building an AI cloud designed for the agentic era?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Nvidia announce a $2 billion investment in Lumentum in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Nvidia take a $2 billion stake in Synopsys in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Nvidia announce a $2 billion investment in CoreWeave in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Nvidia contribute $30 billion to the $110 billion funding round for OpenAI in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Nvidia CEO Jensen Huang say that investments in OpenAI and Anthropic might be the last before those companies go public?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Nebius CEO Arkady Volozh state that Nebius was adapted from a general-purpose cloud?",
+    "a": "No"
+  },
+  {
+    "q": "Did Nvidia plan to give Nebius early access to its latest generation of accelerated computing platform?",
+    "a": "Yes"
+  }
+]

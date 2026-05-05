@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Nebius Group agree to provide Meta Platforms with $12 billion worth of AI computing capacity by 2027 in the deal announced on March 16, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the total potential value of the agreement between Nebius Group and Meta Platforms up to $27 billion?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Nvidia invest $2 billion to buy an 8.3% stake in Nebius Group?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Nebius Group report a fourth quarter net profit of $250 million in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Nebius Group sign an initial $3 billion deal with Meta in November 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Nebius Group headquartered in San Francisco, California?",
+    "a": "No"
+  },
+  {
+    "q": "Did Nebius Group sign a $17.4 billion deal with Microsoft in September 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Nebius Group raise its 2026 revenue guidance to between $7 billion and $9 billion by the end of 2026 on March 16, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Nvidia invest in Nebius Group using chips in Nebius's data centers?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Nebius Group's primary business model to serve a broad range of industries unlike large cloud firms?",
+    "a": "No"
+  }
+]

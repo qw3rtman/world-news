@@ -1,0 +1,40 @@
+{
+  "q": "Did the price of silver stand at $87.87 per ounce at 8:45 a.m. Eastern Time on February 24, 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did the price of silver increase by $1.59 from the previous day at 8:45 a.m. Eastern Time on February 24, 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did the price of silver rise by more than $55 compared to one year prior on February 24, 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Was the article titled 'Current price of silver as of Tuesday, February 24, 2026' published by Fortune on February 24, 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Was the article written by Joseph Hostetler, a Staff Writer for Personal Finance?",
+  "a": "Yes"
+}
+{
+  "q": "Did the price of gold stand at $87.87 per ounce at 8:45 a.m. Eastern Time on February 24, 2026?",
+  "a": "No"
+}
+{
+  "q": "Did the price of silver decrease by $1.59 from the previous day at 8:45 a.m. Eastern Time on February 24, 2026?",
+  "a": "No"
+}
+{
+  "q": "Did the price of silver rise by exactly $55 compared to one year prior on February 24, 2026?",
+  "a": "No"
+}
+{
+  "q": "Was the article published by The Wall Street Journal on February 24, 2026?",
+  "a": "No"
+}
+{
+  "q": "Was the article written by a reporter for the Technology section?",
+  "a": "No"
+}

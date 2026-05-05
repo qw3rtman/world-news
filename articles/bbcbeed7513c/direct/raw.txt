@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the Israeli government approve funding for urgent defense procurement on Saturday, March 14, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israel inform the United States that it was running critically low on air defense interceptors?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Israeli military state it was preparing for at least three more weeks of war as of March 15, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article report that Israel entered the current war with a surplus of air defense interceptors?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article state that the United States President in March 2026 was Joe Biden?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article claim that the Iranian regime had completely collapsed and could no longer damage the global economy?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article attribute the reporting on Israel's interceptor shortages to The Washington Post?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article report that the current war with Iran followed a conflict between Israel and Tehran the previous summer?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that Israel had enough air defense interceptors to thwart Iranian attacks as of Sunday, March 15, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article report that the Israeli government rejected funding for defense procurement on Saturday, March 14, 2026?",
+    "a": "No"
+  }
+]

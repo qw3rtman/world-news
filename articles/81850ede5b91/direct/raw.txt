@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did JPMorgan raise its long-term forecast for gold prices to $4,500 an ounce in the report published on February 25, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did JPMorgan keep its 2026 year-end forecast for gold prices at $6,300 an ounce in the report published on February 25, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did spot gold hit a record peak of $5,594.82 an ounce on January 29, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did gold prices surge by more than 64% during the year 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did JPMorgan cite the U.S. Federal Reserve's interest rate easing cycle as a driver for gold prices in the report published on February 25, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Bank of America forecast that gold prices would hit $4,500 an ounce over the next 12 months in the report published on February 25, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did spot gold hit a three-week high of $5,248.89 an ounce on Wednesday, February 25, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Bank of America express concern that silver prices could pull back further in the near term in the report published on February 25, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did spot silver trade around $100.70 per ounce on Wednesday, February 25, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did JPMorgan raise its long-term forecast for gold prices to $6,300 an ounce in the report published on February 25, 2026?",
+    "a": "No"
+  }
+]

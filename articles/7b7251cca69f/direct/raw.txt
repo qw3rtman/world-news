@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the Arleigh Burke-class guided-missile destroyer USS Frank E. Petersen Jr. fire a Tomahawk missile during Operation Epic Fury on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump order the attack on Iran after being briefed on concerns regarding dwindling U.S. military stockpiles of precision munitions?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran launch more than 1,200 missiles and drones during the first 48 hours of the war described in the article?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israel’s stocks of Arrow 3 anti-ballistic missile interceptors run critically low during the strike campaign against Iran last year, prompting the United States to rush additional missile defense assets to the region?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States and Israel avoid a prolonged war of attrition in the current conflict by successfully exhausting Iran’s air defenses without depleting their own interceptor stockpiles?",
+    "a": "No"
+  },
+  {
+    "q": "Did the nine-month Battle of Mosul against the Islamic State in Iraq in 2016 and 2017 experience a similar situation to the current conflict where high-end interceptor stocks were nearly exhausted?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran successfully neutralize 86 percent of the missiles launched by Israel during the June 2025 conflict?",
+    "a": "No"
+  },
+  {
+    "q": "Did the multidomain operations (MDO) concept rely on decapitation strikes at the outset of the campaign to lead to the rapid collapse of enemy resistance?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Amos C. Fox serve as the host of the Revolution in Military Affairs podcast and a retired U.S. Navy admiral?",
+    "a": "No"
+  },
+  {
+    "q": "Did Franz-Stefan Gady co-edit the book Multidomain Operations: The Pursuit of Dominance on the 21st Century Battlefield with Amos C. Fox?",
+    "a": "Yes"
+  }
+]

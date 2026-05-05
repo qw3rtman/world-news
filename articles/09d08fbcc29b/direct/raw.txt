@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Joshua Ngu state that concerns around gas supplies are more pressing than crude oil supply in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Joshua Ngu the Vice President for Asia Pacific at Wood Mackenzie?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Joshua Ngu say that gas prices are more sensitive than crude oil prices in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Joshua Ngu predict that oil prices would drop below $100 per barrel in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Joshua Ngu claim that OPEC’s latest production increase would likely result in a meaningful decline in prices in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Joshua Ngu work for BP in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Joshua Ngu say that each day of the Iran war adds to oil's upside risk in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Joshua Ngu state that crude oil supply concerns are more pressing than gas supplies in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Joshua Ngu suggest that OPEC’s production increase would have no meaningful impact on prices in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Joshua Ngu work for Shell in March 2026?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the United States and Israel launch military strikes against targets in Iran on February 27, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Were the military strikes carried out by the U.S. and Israel directed at targets in Iraq in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump threaten the Iranian regime regarding its nuclear program prior to the strikes in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump threaten the Iranian regime regarding its violent crackdown on protesters in January 2026 prior to the strikes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the military strikes occur after U.S. President Donald Trump had threatened the Iranian regime for weeks in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the military strikes occur before U.S. President Donald Trump threatened the Iranian regime over its violent crackdown on protesters in January 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Carissa Lawson anchor the CBS News special report regarding the strikes in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. and Israel launch the military strikes in coordination with the United Kingdom in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the primary stated goal of the strikes in February 2026 to force a new deal to rein in Iran's nuclear program?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the military strikes in February 2026 occur in direct response to Iran's nuclear program violations without any mention of prior threats?",
+    "a": "No"
+  }
+]

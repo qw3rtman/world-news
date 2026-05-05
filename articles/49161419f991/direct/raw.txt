@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the German chancellor's spokesperson state that the conflict in the Strait of Hormuz is not NATO's war on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did European countries commit to assisting with securing the Strait of Hormuz on February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was Iran still exporting millions of barrels of oil through the Strait of Hormuz as of February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Had all traffic through the Strait of Hormuz been completely paralyzed by February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the United States and Israel engaged in a war with Iran on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the conflict between the United States, Israel, and Iran in its first week as of February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did US allies resist President Donald Trump's calls to help secure the Strait of Hormuz on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States and Israel end their war with Iran before February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the German chancellor's spokesperson provide a statement regarding European assistance on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States and Israel conduct their war against Iran without any allied resistance regarding the Strait of Hormuz on February 28, 2026?",
+    "a": "No"
+  }
+]

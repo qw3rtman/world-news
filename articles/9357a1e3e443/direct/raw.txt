@@ -1,0 +1,22 @@
+{
+  "q": "Did the One Big Beautiful Bill Act provide the Department of Homeland Security with $170 billion in funding for immigration enforcement through 2029?",
+  "a": "Yes",
+  "q": "Did Transportation Security Administration workers receive their full pay during the four-week funding lapse described in March 2026?",
+  "a": "No",
+  "q": "Did ICE receive $45 billion from the One Big Beautiful Bill Act specifically for the construction of new detention centers?",
+  "a": "Yes",
+  "q": "Did Customs and Border Protection successfully build a barrier through Big Bend National Park in Texas during the shutdown?",
+  "a": "No",
+  "q": "Did Senate Minority Leader Chuck Schumer call for DHS agents to wear body cameras and IDs displaying their agency and last name?",
+  "a": "Yes",
+  "q": "Did DHS Secretary Kristi Noem remain in her position after the House passed the appropriations bill in March 2026?",
+  "a": "No",
+  "q": "Did ICE deport an estimated 56,000 people during the 43-day funding lapse in the previous fall?",
+  "a": "Yes",
+  "q": "Is US Citizenship and Immigration Services primarily funded by federal appropriations rather than fees?",
+  "a": "No",
+  "q": "Did roughly 15 percent of Federal Emergency Management Agency workers receive furloughs during the shutdown?",
+  "a": "Yes",
+  "q": "Did the Global Entry program remain fully operational at most airports during the March 2026 shutdown?",
+  "a": "No"
+}

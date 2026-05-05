@@ -1,0 +1,22 @@
+{
+  "q": "Did Joe Kent resign from his position in March 2026?",
+  "a": "Yes",
+  "q": "Is Joe Kent a former member of the U.S. Army Special Forces?",
+  "a": "Yes",
+  "q": "Is Joe Kent 45 years old as of March 2026?",
+  "a": "Yes",
+  "q": "Did Joe Kent resign due to his opposition to the U.S. involvement in the Iran war?",
+  "a": "Yes",
+  "q": "Is Joe Kent described as having ties to far-right conspiracies?",
+  "a": "Yes",
+  "q": "Did Joe Kent resign over the U.S. involvement in the Iraq war in March 2026?",
+  "a": "No",
+  "q": "Is Joe Kent a 35-year-old former Navy SEAL in March 2026?",
+  "a": "No",
+  "q": "Did Joe Kent resign in February 2026?",
+  "a": "No",
+  "q": "Is Joe Kent described as a moderate political candidate with no ties to conspiracy theories in March 2026?",
+  "a": "No",
+  "q": "Did Joe Kent resign because of the U.S. involvement in the Afghanistan war in March 2026?",
+  "a": "No"
+}

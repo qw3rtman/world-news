@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did OpenAI acquire Promptfoo in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Promptfoo founded in 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Will Promptfoo’s technology be integrated into OpenAI Frontier?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did OpenAI disclose the financial value of the acquisition transaction?",
+    "a": "No"
+  },
+  {
+    "q": "Was Promptfoo valued at $86 million following its funding round in July 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ian Webster and Michael D’Angelo found Promptfoo?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Promptfoo’s technology designed to protect LLMs from online adversaries?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did PitchBook report that Promptfoo had raised $230 million since its founding?",
+    "a": "No"
+  },
+  {
+    "q": "Does Promptfoo claim its products are used by more than 25% of Fortune 500 companies?",
+    "a": "Yes"
+  },
+  {
+    "q": "Will OpenAI discontinue Promptfoo’s open source offering after the acquisition?",
+    "a": "No"
+  }
+]

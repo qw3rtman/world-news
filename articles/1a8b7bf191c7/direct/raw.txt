@@ -1,0 +1,41 @@
+{
+  "q": "Did the article state that President Donald Trump called the war against Iran a 'short-term excursion' on Monday, March 10, 2026?",
+  "a": "Yes"
+},
+{
+  "q": "Did the article identify Mojtaba Khamenei as the new supreme leader of Iran?",
+  "a": "Yes"
+},
+{
+  "q": "Did the article state that the White House confirmed the original military timeframe for the operation as four to six weeks?",
+  "a": "Yes"
+},
+{
+  "q": "Did the article assign a 60% probability to the 'Base case' scenario of a contained Iran?",
+  "a": "Yes"
+},
+{
+  "q": "Did the article state that the military objective includes degrading Iran's ability to project power outside its borders?",
+  "a": "Yes"
+},
+{
+  "q": "Did the article state that the worst-case scenario has a projected probability of 60%?",
+  "a": "No"
+},
+{
+  "q": "Did the article state that the military objective includes the immediate overthrow of the Iranian regime in Tehran?",
+  "a": "No"
+},
+{
+  "q": "Did the article state that General Dan Caine is the chairman of the Joint Chiefs of Staff?",
+  "a": "No"
+},
+{
+  "q": "Did the article state that the best-case scenario relies heavily on US ground forces to degrade the Basij militias?",
+  "a": "No"
+},
+{
+  "q": "Did the article state that the base-case scenario presumes regime change in Tehran?",
+  "a": "No"
+}
+}

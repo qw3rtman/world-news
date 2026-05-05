@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did TD Cowen publish a research note on Sunday, March 1, 2026, stating that crude oil prices are likely to top $90 a barrel?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the analysts in the TD Cowen research note attribute the potential rise in oil prices to a geopolitical crisis in the Middle East?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the TD Cowen analysts state that 20% of the world’s oil passes through the Straits of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the TD Cowen analysts describe the flow of oil through the Straits of Hormuz as being slowed to 'a trickle' due to increased insurance costs and risks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the TD Cowen analysts state that the Straits of Hormuz were 'effectively closed' due to the ongoing conflict?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the TD Cowen analysts suggest that traders were likely to apply a risk premium of $5 to $10 a barrel because of the conflict?",
+    "a": "No"
+  },
+  {
+    "q": "Did the TD Cowen research note published on March 1, 2026, predict that crude oil prices would fall below $80 a barrel?",
+    "a": "No"
+  },
+  {
+    "q": "Did the TD Cowen analysts state that 50% of the world’s oil passes through the Straits of Hormuz?",
+    "a": "No"
+  },
+  {
+    "q": "Did the TD Cowen analysts attribute the disruption in oil flows to a hurricane in the Gulf of Mexico rather than a geopolitical crisis in the Middle East?",
+    "a": "No"
+  },
+  {
+    "q": "Did the TD Cowen analysts state that the Straits of Hormuz were fully operational with no changes to insurance costs?",
+    "a": "No"
+  }
+]

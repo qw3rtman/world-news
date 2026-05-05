@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did James Talarico defeat Jasmine Crockett in the Democratic primary for Senate in Texas in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Jasmine Crockett concede the race and call for Democratic unity in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did James Talarico secure a majority of votes to avoid a runoff in the March 2026 Texas Democratic Senate primary?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Senate Minority Leader Chuck Schumer and Democratic Senatorial Campaign Committee Chair Sen. Kirsten Gillibrand issue a joint statement praising James Talarico in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Texas Democratic Senate primary set the record as the most expensive Senate primary in U.S. history in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Jasmine Crockett win the March 2026 Texas Democratic Senate primary outright in the first round?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Senator John Cornyn and Texas Attorney General Ken Paxton both reach the 50 percent mark to avoid a runoff in the March 2026 Texas Republican Senate primary?",
+    "a": "No"
+  },
+  {
+    "q": "Did James Talarico hold a higher name ID than Jasmine Crockett entering the March 2026 Texas Democratic Senate primary?",
+    "a": "No"
+  },
+  {
+    "q": "Did Sen. Chris Coons (D-Del.) publicly endorse Jasmine Crockett over James Talarico in the March 2026 Texas Democratic Senate primary?",
+    "a": "No"
+  },
+  {
+    "q": "Did James Talarico serve as a middle school teacher and Presbyterian seminarian before his March 2026 Senate run?",
+    "a": "Yes"
+  }
+]

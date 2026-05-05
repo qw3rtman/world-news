@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump accuse Iran of building nuclear weapons that could soon reach the U.S. homeland in his video statement on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States and Israel bomb three of Iran's nuclear sites in June 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Defense Intelligence Agency release a missile threat assessment in May 2025 stating that Iran could develop a long-range missile by 2035?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Secretary of State Marco Rubio state that Iran is years away from having missiles that could reach the U.S. in his remarks following the State of the Union address?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump seek congressional approval for the military action taken against Iran on February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did a November 2025 White House document state that the strikes significantly degraded Iran's nuclear program rather than obliterated it?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Trump envoy Steve Witkoff claim on Fox News on February 21, 2026, that Iran was probably a week away from having industrial grade bomb making material?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the International Atomic Energy Agency have full access to the sites the U.S. bombed in Iran in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Richard Nephew, who worked for the U.S. government on Iranian issues during the Biden administration, express doubt that Iran currently possesses intercontinental ballistic missiles?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump launch the January 2026 strikes that resulted in the ouster of Venezuela's leader Nicholas Maduro?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump address a joint session of the 119th Congress on Tuesday, February 24, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did House Speaker Mike Johnson formally invite President Donald Trump to speak to Congress in January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Were Vice President JD Vance and House Speaker Mike Johnson expected to be seated behind President Donald Trump during the address?",
+    "a": "Yes"
+  },
+  {
+    "q": "Are seats in the chamber for Senators and House members assigned by the Congressional Research Service on a first-come, first-served basis?",
+    "a": "No"
+  },
+  {
+    "q": "Did the president and first lady typically invite about two dozen guests to sit in the gallery during the address?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Doug Collins, the secretary of the Department Veterans Affairs, assigned the role of designated survivor during the 2025 address?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the designated survivor expected to be present in the chamber during President Donald Trump’s address on February 24, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the 119th Congress meet in a joint session to hear President Donald Trump’s address on Monday, February 23, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did former members of Congress and members of the diplomatic corps sit in front of the president during the address?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the secretary of the Department of Homeland Security assigned the role of designated survivor during President Donald Trump’s address in 2025?",
+    "a": "No"
+  }
+]

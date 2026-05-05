@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the Department of Homeland Security shutdown last for more than two weeks as of March 1, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Trump administration send its latest proposal to reopen the Department of Homeland Security to Senate Democrats on February 27, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Senate Majority Leader John Thune contradict Senate Appropriations Committee top Democrat Patty Murray regarding the earnestness of negotiations on February 25, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Immigration and Customs Enforcement operations continue as usual during the Department of Homeland Security shutdown?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump make frequent and detailed mentions of the funding lapse in his State of the Union speech on February 24, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Transportation Security Administration union leaders anticipate longer wait times for airline passengers after employees received only a fraction of their usual pay on February 27, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did House Speaker Mike Johnson indicate openness to a ban on mask-wearing for federal agents as a condition for reopening the Department of Homeland Security?",
+    "a": "No"
+  },
+  {
+    "q": "Did five federal agents detain a senior named Ellie Aghayeva at a Columbia University residential dorm without a warrant in New York City?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did New York City Mayor Zohran Mamdani make a personal appeal to the president to secure the release of Ellie Aghayeva?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Republicans agree to set aside $20 million for body-worn cameras for immigration enforcement agents after the fatal shootings of two Minnesotans in January?",
+    "a": "No"
+  }
+]

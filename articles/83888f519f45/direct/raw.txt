@@ -1,0 +1,22 @@
+{
+  "q": "Did AES, the utilities and clean energy company, agree to be taken private in a deal valued at $33 billion in March 2026?",
+  "a": "Yes",
+  "q": "Is AES currently a constituent of the S&P 500 index as of March 2026?",
+  "a": "Yes",
+  "q": "Does the investor consortium acquiring AES include EQT Group infrastructure fund?",
+  "a": "Yes",
+  "q": "Does the investor consortium acquiring AES include BlackRock-owned Global Infrastructure Partners?",
+  "a": "Yes",
+  "q": "Is AES the best-performing stock in the S&P 500 on March 2, 2026?",
+  "a": "No",
+  "q": "Is the acquisition of AES being led solely by BlackRock without any other consortium members?",
+  "a": "No",
+  "q": "Is the deal to take AES private valued at $10 billion?",
+  "a": "No",
+  "q": "Is AES a technology and software company rather than a utilities and clean energy company?",
+  "a": "No",
+  "q": "Is EQT Group a technology firm rather than an infrastructure fund?",
+  "a": "No",
+  "q": "Was the article published in February 2026?",
+  "a": "No"
+}

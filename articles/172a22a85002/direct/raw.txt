@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the U.S. Senate vote down the war powers resolution to halt attacks against Iran on Wednesday, March 4, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the war powers resolution in the U.S. Senate pass with a 53-47 vote tally?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Secretary of State Marco Rubio tell Turkish Foreign Minister Hakan Fidan that attacks on Turkey’s territory are unacceptable?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Spanish Foreign Minister José Manuel Albares confirm that the Spanish government agreed to cooperate with U.S. military operations in the Middle East?",
+    "a": "No"
+  },
+  {
+    "q": "Did Defense Secretary Pete Hegseth state that a U.S. submarine sank an Iranian warship in international waters?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the six U.S. soldiers killed in the Kuwait attack die in a drone strike on a command center in Port Shuaiba, Kuwait, on Wednesday, March 4, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did South Korean President Lee Jae Myung activate an emergency financial package worth 100 trillion won to calm market volatility?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the White House press secretary Karoline Leavitt state that U.S. ground troops are currently part of the plan for the operation in Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United Nations peacekeepers report that both Israel and Hezbollah were violating Lebanon’s 2006 ceasefire?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Arab League chief Ahmed Aboul Gheit demand that Iran stop attacks on Gulf nations?",
+    "a": "Yes"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did France, Germany, and the UK issue a joint statement on Sunday, March 1, 2026, declaring they were ready to take defensive action against Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the joint statement from France, Germany, and the UK explicitly condemn Iran's missile attacks as indiscriminate and disproportionate?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the three nations state they would potentially enable defensive action to destroy Iran's capability to fire missiles and drones at their source?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran launch missile and drone strikes on a multinational military base near Arbil in northern Iraq and a German army camp in eastern Jordan?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did a German army spokesman confirm that there were casualties resulting from the Iranian attacks on the base near Arbil and the camp in Jordan?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran's Revolutionary Guards announce a large-scale attack on Sunday, March 1, 2026, with blasts reported in Riyadh, Dubai, and Abu Dhabi?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli rescue services report that at least nine people were killed in the city of Tel Aviv following the Iranian strikes?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran's President Masoud Pezeshkian describe the killing of Khamenei as a declaration of war against Muslims?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's Foreign Minister Abbas Araghchi tell the BBC News on Sunday, March 1, 2026, that Iran sees no limit to defending its people?",
+    "a": "No"
+  },
+  {
+    "q": "Did the joint statement from France, Germany, and the UK call on Iran to stop its reckless attacks immediately?",
+    "a": "Yes"
+  }
+]

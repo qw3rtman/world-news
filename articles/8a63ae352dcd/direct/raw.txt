@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Mojtaba Khamanei survive the assault on Iran by U.S. and Israeli air strikes in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Mojtaba Khamanei the son of Iran's current Supreme Leader Ali Khamanei?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian sources tell Reuters that Mojtaba Khamanei survived the air strikes in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Were the air strikes on Iran conducted by the United States and British forces in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Mojtaba Khamanei die in the U.S. and Israeli air strikes on Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was Mojtaba Khamanei the son of Iran's late Supreme Leader?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the air strikes on Iran in March 2026 involve U.S. and Israeli forces?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mojtaba Khamanei survive the assault by Russian and Chinese air strikes in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did two Iranian sources provide information to Reuters regarding Mojtaba Khamanei's survival in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Mojtaba Khamanei the brother of Iran's late Supreme Leader?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Chinese Foreign Minister Wang Yi speak to the press on March 8, 2026, on the sidelines of the fourth session of the 14th National People’s Congress?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump schedule a visit to China from March 31 to April 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Chinese Foreign Minister Wang Yi explicitly name Venezuelan leader Nicolas Maduro in his remarks to the press on March 8, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Treasury Secretary Scott Bessent and Chinese Premier Li Qiang meet in Paris towards the end of March 2026 to discuss business deals?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Chinese President Xi Jinping and U.S. President Donald Trump hold an in-person meeting in South Korea in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did joint U.S.-Israeli attacks on Iran begin on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Chinese Foreign Minister Wang Yi endorse the concept of a U.S.-China \"G2\" leading the world in his March 8, 2026 remarks?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United States and China reach a fragile truce in October 2025 to lower tariffs on each other’s goods to below 50% for one year?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Chinese Foreign Minister Wang Yi hold phone calls with the foreign ministers of Russia, Iran, and Israel since the joint U.S.-Israel strikes on Iran began on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Beijing confirm the exact dates of U.S. President Donald Trump's visit to China on March 8, 2026?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the panel of clerics convene to choose Iran's next supreme leader after the death of Ayatollah Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Ayatollah Ali Khamenei killed in a cyberattack on Iranian nuclear facilities in 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is Mojtaba Khamenei, the 56-year-old son of the late Ayatollah Ali Khamenei, considered the front-runner to succeed his father?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the council of experts meet in person in Tehran to select Iran's next supreme leader in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran specialist Afshon Ostovar describe Mojtaba Khamenei as having important connections to the Islamic Revolutionary Guard Corps?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ali Vaez, director of the Iran Project at the International Crisis Group, state that the current Iranian system can be sustained without fundamental structural changes?",
+    "a": "No"
+  },
+  {
+    "q": "Did Jonathan Panikoff, director of the Atlantic Council's Scowcroft Middle East Security Initiative, predict that a new supreme leader will be deferential to the Revolutionary Guards?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the late Ayatollah Ali Khamenei have 88 clerics in the council of experts serving as his direct military commanders in the Iranian army?",
+    "a": "No"
+  },
+  {
+    "q": "Was the grandson of Ayatollah Khomeini included among the potential names suggested by Ayatollah Ali Khamenei for the succession?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Jonathan Panikoff assert that the new supreme leader will wield more absolute power than Ayatollah Ali Khamenei did?",
+    "a": "No"
+  }
+]

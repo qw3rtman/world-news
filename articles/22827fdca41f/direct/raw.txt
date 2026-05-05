@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. crude oil futures rise more than 25% on Sunday, March 8, 2026, reaching nearly $115 per barrel?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. and Israel first strike Iran on March 1, 2026, initiating the conflict that disrupted oil markets?",
+    "a": "No"
+  },
+  {
+    "q": "Did Senate Minority Leader Chuck Schumer, D-N.Y., suggest that the administration should tap the national strategic petroleum reserve on Sunday, March 8, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Treasury Secretary Scott Bessent state on Friday, March 6, 2026, that the Treasury Department had already unsanctioned Russian oil to create supply?",
+    "a": "No"
+  },
+  {
+    "q": "Did GasBuddy analyst Patrick De Haan predict an 85% chance of diesel fuel hitting $5 per gallon in the next week as of March 8, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Japan’s Nikkei 225 index finish 5.2% higher on Monday, March 9, 2026, as global markets reacted to the oil price surge?",
+    "a": "No"
+  },
+  {
+    "q": "Did Interior Secretary Doug Burgum say on Sunday, March 8, 2026, that it might be weeks before ships are passing through the Strait of Hormuz again?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the price of U.S. crude oil skyrocket more than 20% in 2026, according to the article published on March 8, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. retail gas prices soar to a national average of more than $3.45 per gallon following the oil surge in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump tell Reuters on Friday, March 6, 2026, that he was deeply concerned about the rising price of oil and gas?",
+    "a": "No"
+  }
+]

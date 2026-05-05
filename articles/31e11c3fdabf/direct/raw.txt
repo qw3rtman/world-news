@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Defense Secretary Pete Hegseth set a Friday deadline for Anthropic to agree to broad military access for its AI models in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Anthropic CEO Dario Amodei meet with Defense Secretary Pete Hegseth on Tuesday morning to discuss the deadline in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Anthropic agree to the Department of Defense's demand for \"all lawful use cases\" without limitation in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Defense Secretary Pete Hegseth threaten to label Anthropic a \"supply chain risk\" if the company failed to comply with the deadline in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Elon Musk's xAI become the only AI company cleared to deploy its models on the Department of Defense's classified networks in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Anthropic close a $30 billion funding round at a $380 billion valuation in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did David Sacks, serving as the administration's AI and crypto czar, accuse Anthropic of supporting \"woke AI\" in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Department of Defense want Anthropic to ensure its models would not be used for autonomous weapons or mass surveillance of Americans in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Anthropic receive a $200 million contract with the Department of Defense in 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the White House maintain a strong and supportive relationship with Anthropic following President Donald Trump's return to office in February 2026?",
+    "a": "No"
+  }
+]

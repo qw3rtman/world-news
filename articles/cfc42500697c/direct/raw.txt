@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did five lists qualify for the second round of the 2026 Paris municipal elections?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Emmanuel Grégoire receive 37.98% of the vote in the first round of the 2026 Paris municipal elections?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Rachida Dati propose a fusion of her list with Pierre-Yves Bournazel's list after the first round of the 2026 Paris municipal elections?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Sophia Chikirou announce she would withdraw from the second round of the 2026 Paris municipal elections?",
+    "a": "No"
+  },
+  {
+    "q": "Did Sarah Knafo, an extreme-right eurodeputy, secure more than 10% of the vote in the first round of the 2026 Paris municipal elections?",
+    "a": "No"
+  },
+  {
+    "q": "Did Anne Hidalgo call for mobilization around Emmanuel Grégoire for the second round of the 2026 Paris municipal elections?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Rachida Dati win re-election as mayor of the 7th arrondissement in the first round of the 2026 Paris municipal elections?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Emmanuel Grégoire agree to a televised debate with Rachida Dati before the first round of the 2026 Paris municipal elections?",
+    "a": "No"
+  },
+  {
+    "q": "Is Rachida Dati scheduled to stand trial for corruption and influence trafficking in September 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Emmanuel Grégoire's alliance include the Les Républicains (LR) party for the 2026 Paris municipal elections?",
+    "a": "No"
+  }
+]

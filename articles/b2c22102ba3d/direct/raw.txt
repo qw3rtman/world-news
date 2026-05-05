@@ -1,0 +1,22 @@
+{
+  "q": "Did Socialist candidate Emmanuel Gregoire lead in the Paris mayoral race during the first-round local elections in March 2026?",
+  "a": "Yes",
+  "q": "Did the far right look strong in several southern cities during the first-round local elections in March 2026?",
+  "a": "Yes",
+  "q": "Were the first-round local elections in France held on Sunday in March 2026?",
+  "a": "Yes",
+  "q": "Were the first-round local elections in France seen as a political barometer ahead of France's presidential polls in March 2026?",
+  "a": "Yes",
+  "q": "Did the article state that the far right was leading in Paris during the first-round local elections in March 2026?",
+  "a": "No",
+  "q": "Did Socialist candidate Emmanuel Gregoire lose in the Paris mayoral race during the first-round local elections in March 2026?",
+  "a": "No",
+  "q": "Were the first-round local elections in France held on Saturday in March 2026?",
+  "a": "No",
+  "q": "Were the first-round local elections in France seen as a political barometer ahead of France's parliamentary elections in March 2026?",
+  "a": "No",
+  "q": "Did the far right look strong in several northern cities during the first-round local elections in March 2026?",
+  "a": "No",
+  "q": "Did the article state that Emmanuel Gregoire was a far-right candidate in the Paris mayoral race in March 2026?",
+  "a": "No"
+}

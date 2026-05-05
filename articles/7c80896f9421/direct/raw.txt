@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Defense Secretary Pete Hegseth give Anthropic CEO Dario Amodei until Friday evening to provide the military with unfettered access to its AI model in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Anthropic agree to allow its Claude model to be used for the mass surveillance of Americans during the February 2026 negotiations with the Pentagon?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Pentagon declare Anthropic a supply chain risk and sever ties with the company immediately following the Tuesday meeting in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Anthropic CEO Dario Amodei deny that the company raised concerns with Palantir regarding the use of Claude during the Maduro raid in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Elon Musk's xAI model, Grok, fully replace Claude as the only AI model used for the military's most sensitive work in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Defense Secretary Pete Hegseth mention the Defense Production Act as a potential tool to force Anthropic to tailor its model to military needs in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Google's Gemini model become the primary AI solution for classified systems in February 2026 after reaching a deal with the Pentagon?",
+    "a": "No"
+  },
+  {
+    "q": "Did Deputy Secretary Steve Feinberg attend the February 2026 meeting between Defense Secretary Pete Hegseth and Anthropic CEO Dario Amodei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Anthropic state it was unwilling to adapt its usage policies for the Pentagon in any way during the February 2026 negotiations?",
+    "a": "No"
+  },
+  {
+    "q": "Was the Defense Production Act used during the COVID-19 pandemic to increase production of vaccines and ventilators, according to the February 2026 article?",
+    "a": "Yes"
+  }
+]

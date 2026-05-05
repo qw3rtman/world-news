@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Israel launch a pre-emptive attack against Iran in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump confirm 'major combat operations' regarding the strikes on Iran in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States express support for Pakistan's 'right to defend itself' against attacks from Afghanistan's Taliban rulers in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did fighting between Pakistan and Afghanistan's Taliban military enter its third day on a Saturday in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States condemn Pakistan's actions as 'open war' against Afghanistan in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran launch a pre-emptive attack against Israel in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Taliban's lightning offensive in 2021 wrest control of Afghanistan from a U.S.-led military coalition?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States support Afghanistan's Taliban rulers in their conflict with Pakistan in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the international community call for urgent talks regarding the conflict between Pakistan and Afghanistan's Taliban in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Pakistan's then intelligence chief fly into the capital Kabul for talks in 2021?",
+    "a": "Yes"
+  }
+]

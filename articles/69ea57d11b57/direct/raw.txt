@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did US President Donald Trump schedule a visit to Beijing for March 31, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the US Supreme Court strike down Mr. Trump’s reciprocal tariffs in a ruling on February 20, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did China’s Ministry of Foreign Affairs officially confirm the specific date of President Trump’s visit to Beijing?",
+    "a": "No"
+  },
+  {
+    "q": "Did Mr. Han Lin, China managing director of The Asia Group, state that there was an 80 per cent chance of the visit happening in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did former US diplomat David Meale, now with Eurasia Group, argue that the trip would likely be cancelled due to the Iran strikes?",
+    "a": "No"
+  },
+  {
+    "q": "Did US President Donald Trump and Chinese President Xi Jinping hold a bilateral meeting at Gimhae International Airport on October 30, 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Professor Dennis Wilder, a former White House Asia hand teaching at Georgetown University, confirm that preparations for the visit are in a state of chaos?",
+    "a": "No"
+  },
+  {
+    "q": "Did Mr. Han Lin suggest that Chinese President Xi Jinping is more likely to extend only selective, symbolic concessions due to the loss of tariff leverage?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mr. Han Lin, who is based in Shanghai, state that many in the White House preferred Mr. Trump not to go to Beijing?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Bhagyashree Garekar serve as The Straits Times’ US correspondent during the Bush and Obama administrations?",
+    "a": "No"
+  }
+]

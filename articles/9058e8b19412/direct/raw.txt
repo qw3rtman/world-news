@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu declare in March 2026 that Israel has a systematic plan to eradicate the Iranian regime?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian President Masoud Pezeshkian accept U.S. President Donald Trump’s demand for unconditional surrender in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did an Israeli strike in March 2026 set part of Tehran’s Mehrabad International Airport ablaze and destroy 16 aircraft?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran’s Revolutionary Guards claim to have struck the US naval base in Juffair in Bahrain because it was used to attack an Iranian nuclear facility?",
+    "a": "No"
+  },
+  {
+    "q": "Did the conflict in March 2026 begin after joint Israeli and U.S. air strikes killed Iran’s Supreme Leader Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran’s judiciary chief Gholamhossein Mohseni Ejei apologize to the United States for attacks on its territory in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United Arab Emirates report intercepting 15 missiles and 119 drones on Saturday morning in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump claim in March 2026 that Iran had already used a nuclear weapon against Israel?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli Defence Minister Israel Katz warn Lebanese President Joseph Aoun that Lebanon would face a heavy price if Hezbollah is not disarmed in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran’s ambassador to the United Nations, Amir Saeid Iravani, state in March 2026 that Iran’s future leadership would be determined by foreign powers?",
+    "a": "No"
+  }
+]

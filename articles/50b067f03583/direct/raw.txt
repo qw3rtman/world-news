@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Venezuelan opposition leader Maria Corina Machado announce her intention to return to Venezuela in a message posted on her social media accounts on March 1, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Venezuelan opposition leader Maria Corina Machado leave Venezuela in December 2025 to travel to Oslo?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Venezuelan opposition leader Maria Corina Machado receive the Nobel Peace Prize in Oslo in December 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States capture former Venezuelan leader Nicolas Maduro on January 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Venezuelan opposition leader Maria Corina Machado currently located in Oslo, Norway?",
+    "a": "No"
+  },
+  {
+    "q": "Has Interim President Delcy Rodriguez of Venezuela stated that Venezuelan opposition leader Maria Corina Machado does not need to answer to Venezuela?",
+    "a": "No"
+  },
+  {
+    "q": "Is Venezuelan opposition leader Maria Corina Machado under investigation in Venezuela?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Venezuelan opposition leader Maria Corina Machado leave Venezuela in March 2026 to receive an award?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United States capture former Venezuelan leader Nicolas Maduro on December 1, 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Is Venezuelan opposition leader Maria Corina Machado a 58-year-old industrial engineer?",
+    "a": "Yes"
+  }
+]

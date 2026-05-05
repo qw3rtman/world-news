@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iran’s Foreign Minister Abbas Araghchi reject calls for a ceasefire in an interview with NBC News’ “Meet the Press” on March 8, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Abbas Araghchi state that Israel and the United States had already shattered a ceasefire reached to end a 12-day war last year?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did four sources tell NBC News on Friday, March 6, 2026, that Russia was providing intelligence to Iran on the location of U.S. forces in the Middle East?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did United Nations Ambassador Mike Waltz state that Russian intelligence sharing with Iran had been highly effective in helping Iran protect its military assets?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian President Masoud Pezeshkian apologize to the region after Iranian strikes killed people in Kuwait, the United Arab Emirates, and Oman?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Abbas Araghchi claim that Iran had intentionally attacked neighboring Gulf nations rather than targeting American bases located in those countries?",
+    "a": "No"
+  },
+  {
+    "q": "Did Abbas Araghchi deny President Donald Trump’s claim that Iran possessed missiles capable of reaching the United States, calling it misinformation?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Iranian Assembly of Experts choose Ayatollah Ali Khamenei as the new supreme leader after he was killed in strikes?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump post on Truth Social on Friday, March 6, 2026, that the U.S. would not make a deal with Iran except for unconditional surrender?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Abbas Araghchi state that Iran would allow President Donald Trump to be involved in choosing Iran’s next supreme leader?",
+    "a": "No"
+  }
+]

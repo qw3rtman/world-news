@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did OpenAI raise $110 billion in funding in the announcement made on Friday, February 27, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Amazon invest $50 billion in OpenAI during the funding round announced in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Nvidia invest $30 billion in OpenAI during the funding round announced in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did SoftBank Group invest $30 billion in OpenAI during the funding round announced in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did SoftBank Group increase its stake in OpenAI to approximately 13 percent following the February 2026 investment?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did OpenAI value the company at $730 billion following the funding round announced in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Google invest $30 billion in OpenAI during the funding round announced in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did OpenAI CEO Sam Altman state that building AI requires deep collaboration across the stack in the February 2026 announcement?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the February 2026 funding round include an investment from Apple Inc.?",
+    "a": "No"
+  },
+  {
+    "q": "Did OpenAI operate the AI product Bard during the funding announcement in February 2026?",
+    "a": "No"
+  }
+]

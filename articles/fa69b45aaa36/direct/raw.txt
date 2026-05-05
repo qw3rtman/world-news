@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the United States and Israel launch joint military strikes on Iranian targets in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump post a video to Truth Social encouraging Iranians to seize control of their government in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did blasts from Iranian counter-strikes on US targets occur in Doha and Dubai in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Secretary of State Marco Rubio state that the US was investigating a speedboat shooting involving Cuban territory in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did a tram derailment in central Milan result in two deaths and around 40 injuries in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump endorse the Taliban's rule in Afghanistan during the February 2026 cross-border attacks between Pakistan and Afghanistan?",
+    "a": "No"
+  },
+  {
+    "q": "Did Pokémon launch in 1996 as a video game inspired by a designer's love of bug collecting?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the social media video of a woman pushing a girl at Tokyo’s Shibuya Crossing spark online outrage in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Kansas enact a new law in February 2026 that voided IDs by requiring driver’s licenses to list sex assigned at birth?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Cuba authorities claim the individuals shot on the Florida-registered speedboat were US citizens attempting to infiltrate American territory in February 2026?",
+    "a": "No"
+  }
+]

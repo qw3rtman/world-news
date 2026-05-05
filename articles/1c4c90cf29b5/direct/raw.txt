@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. military personnel participate in the actual ground operation during the joint mission with Ecuador announced on March 3, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the joint military operation with Ecuador announced by U.S. Southern Command on March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was this joint operation the first time the U.S. military had participated in a land operation as part of the Trump administration’s fight against Latin American drug cartels?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. military carry out airstrikes targeting drug smuggling boats in the Eastern Pacific and Caribbean prior to the Ecuador operation?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. military advisors participate directly in the ground and airlift operations executed by Ecuadorian forces?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Southern Command release a video showing Ecuadorian forces and aircraft in connection with the March 3, 2026 announcement?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Southern Command provide specific operational details about the joint mission in its announcement?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. military role in the joint mission consist of providing planning, intelligence, and operational support to Ecuadorian troops?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the joint operation target designated terrorist organizations in Ecuador?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was this joint operation with Ecuador the first time the U.S. military had conducted any military operation against Latin American drug cartels?",
+    "a": "No"
+  }
+]

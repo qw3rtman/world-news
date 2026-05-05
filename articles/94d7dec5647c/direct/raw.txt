@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Russian hardliners initially express cautious optimism about President Donald Trump after he returned to the White House in 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did nationalist tycoon Konstantin Malofeyev publicly state that the United States wants a weak Russia?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Kremlin provide tangible material help to Iran following the U.S.-Israeli air war?",
+    "a": "No"
+  },
+  {
+    "q": "Did war blogger Boris Rozhin, known as \"Colonel Cassad,\" describe President Donald Trump as a monster driven mad by impunity?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump topple Syria's Bashar al-Assad in January 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did Andrei Sidorov tell state TV that he regretted President Donald Trump surviving an assassination attempt in July 2024?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Vladimir Putin seize Venezuela's Nicolas Maduro at gunpoint in January 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Kirill Dmitriev suggest that increasing oil prices could help Russia's state budget which is under strain?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did ultra-nationalist philosopher Alexander Dugin state that he currently views President Donald Trump as a great hope for Russia?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Kremlin condemn U.S. actions in Iran as \"unprovoked aggression\" while avoiding personal criticism of President Donald Trump?",
+    "a": "Yes"
+  }
+]

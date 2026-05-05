@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the U.S. Energy Information Administration state that Brent oil prices would trade above $95 a barrel over the next two months in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Energy Information Administration forecast that Brent oil prices would fall to around $70 a barrel by the end of 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Energy Information Administration attribute the disruption in oil supplies to the Iran war in its March 2026 report?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Energy Information Administration forecast that global oil production would continue to outpace demand once oil flows were reestablished through the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Energy Information Administration raise its 2026 Brent price forecast by 37% from the prior month?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Energy Information Administration forecast that U.S. retail gasoline prices would be around $3.34 a gallon in 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Energy Information Administration forecast that U.S. crude production would average 13.32 million barrels per day in 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. Energy Information Administration forecast that Brent crude prices would fall below $80 a barrel in the first quarter of 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. Energy Information Administration state that oil shipments had been largely blocked from using the Strait of Malacca in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. Energy Information Administration forecast that U.S. crude futures would be up around 10% so far in March 2026?",
+    "a": "No"
+  }
+]

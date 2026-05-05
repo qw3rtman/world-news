@@ -1,0 +1,22 @@
+{
+  "q": "Did the United States and Israel conduct an attack on Iran prior to March 3, 2026?",
+  "a": "Yes",
+  "q": "Did Friedrich Merz meet with Donald Trump in Washington on Tuesday, March 3, 2026?",
+  "a": "Yes",
+  "q": "Was one of Friedrich Merz's goals to persuade Donald Trump to adopt a tougher stance on Russia?",
+  "a": "Yes",
+  "q": "Did the U.S. Supreme Court rule in favor of Donald Trump’s use of emergency tariff powers in the context of the events described in March 2026?",
+  "a": "No",
+  "q": "Did the U.S. Supreme Court’s ruling clarify American trade policy for European companies exporting to the United States in March 2026?",
+  "a": "No",
+  "q": "Was the EU-US trade pact sealed last year (2025) called into question by the Supreme Court’s ruling in March 2026?",
+  "a": "Yes",
+  "q": "Did the US-Israeli attack on Iran help Friedrich Merz achieve his goal of securing more clarity on American trade policy?",
+  "a": "No",
+  "q": "Is the United States described as the world’s biggest economy in the context of the March 2026 article?",
+  "a": "Yes",
+  "q": "Did Donald Trump hold talks with Friedrich Merz in Berlin in March 2026?",
+  "a": "No",
+  "q": "Did the Supreme Court’s ruling strike down Donald Trump’s use of emergency tariff powers?",
+  "a": "Yes"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. Senator John Cornyn and Texas Attorney General Ken Paxton advance to a runoff in the 2026 Texas Republican U.S. Senate primary?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the scheduled date for the 2026 Texas Republican U.S. Senate primary runoff May 26, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump endorse a candidate in the 2026 Texas Republican U.S. Senate primary prior to the March 3, 2026, election?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Representative Wesley Hunt advance to the runoff in the 2026 Texas Republican U.S. Senate primary?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Senator John Cornyn criticize U.S. President Donald Trump's language surrounding the January 6, 2021, riot?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Texas Attorney General Ken Paxton convicted of criminal charges related to corruption allegations in 2023?",
+    "a": "No"
+  },
+  {
+    "q": "Did Turnip Point Action, an organization co-founded by Charlie Kirk, endorse Ken Paxton in the 2026 Texas Republican U.S. Senate primary?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Senator John Cornyn lose the bid for the top Senate leadership position in 2024 to U.S. Senator John Thune?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Senator John Cornyn win the 2026 Texas Republican U.S. Senate primary outright in the first round without needing a runoff?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Representative Wesley Hunt win a statewide election in Texas prior to launching his 2026 Senate bid?",
+    "a": "No"
+  }
+]

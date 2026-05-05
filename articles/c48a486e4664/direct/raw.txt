@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump publicly encourage Iranian demonstrators and warn of severe consequences for violent suppression in early 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Nations Security Council reimpose sanctions related to Iran’s missile activities in 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. military strikes last summer target Iran’s nuclear enrichment infrastructure at Fordow, Natanz, and Isfahan?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran’s Supreme Leader, Ayatollah Ali Khamenei, agree to a last-minute diplomatic breakthrough to de-escalate the crisis in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the precipitating event for the 2026 crisis stem primarily from Iran’s unresolved nuclear program rather than its internal crackdown?",
+    "a": "No"
+  },
+  {
+    "q": "Did all 27 European Union members move in concert to sanction the Islamic Revolutionary Guard Corps and label it a terrorist organization following the crackdown?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran transfer missile and drone technology to China for use in Ukraine?",
+    "a": "No"
+  },
+  {
+    "q": "Did the US Navy destroyers in the eastern Mediterranean join Israeli air defense batteries in intercepting Iranian missiles on October 1, 2024?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the new underground nuclear facility at \"Pickaxe\" mountain begin significant construction prior to the US strikes in June 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did the US military buildup in the region trigger the crisis, rather than being triggered by the crisis?",
+    "a": "No"
+  }
+]

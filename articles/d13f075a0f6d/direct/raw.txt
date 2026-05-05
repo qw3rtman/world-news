@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Qatar seek to strengthen its defence partnership with the United States following Iranian air strikes on Qatari territory in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran launch missile and drone attacks on Qatar after U.S.-Israeli strikes killed its top leaders in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Al Udeid Air Base, the largest U.S. base in the Middle East located in Qatar, attacked by Iran during the war that erupted on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Qatar Foreign Ministry spokesperson Majed Al Ansari state that the existing security partnership with the United States was in question during a media briefing on March 10, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump pledge in March 2026 to treat any armed attack on Qatar as a threat to U.S. security?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Iranian attacks on Gulf neighbours in February 2026 disrupt regional oil output and cause oil prices to surge?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Qatar announce it would weaken its security deals with European countries in response to the Iranian strikes in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran vow to retaliate against U.S. targets in the region if any attack occurred in the context of the February 2026 conflict?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the war between Iran and the U.S.-backed coalition that erupted on February 28, 2026, primarily focused on strikes against Israeli territory rather than Qatari territory?",
+    "a": "No"
+  },
+  {
+    "q": "Did Reuters report the news about Qatar's security partnership concerns from Doha and Dubai in March 2026?",
+    "a": "Yes"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Israeli ground troops cross into southern Lebanon on Tuesday, March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran hit the U.S. embassy in Riyadh with a drone on Tuesday, March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ayatollah Ali Khamenei survive the initial U.S. and Israeli attacks on Iran that began on Saturday, February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United Arab Emirates report being targeted with more than 1,000 missiles and drones since Saturday, February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state on social media on Tuesday, March 3, 2026, that negotiations to halt the war were still viable?",
+    "a": "No"
+  },
+  {
+    "q": "Did monitors from the United Nations Interim Force in Lebanon record Israeli troops crossing the border in four locations on Tuesday, March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Lebanese army reinforce its positions in southern Lebanon ahead of the Israeli advance on Tuesday, March 3, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the 2024 war between Israel and Hezbollah end with more than 4,000 civilians dead?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mahmoud Qmati, deputy head of Hezbollah’s political council, accuse Iran of violating the ceasefire by occupying Lebanese territory after the 2024 war?",
+    "a": "No"
+  },
+  {
+    "q": "Did international assistance from countries such as Iran and Qatar allow the Al-Rissala Scouts organization to provide adequate supplies during the 2024 war?",
+    "a": "Yes"
+  }
+]

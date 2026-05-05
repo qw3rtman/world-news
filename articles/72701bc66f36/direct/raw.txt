@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the military campaign against Iran result in the death of Supreme Leader Ayatollah Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Brent crude oil prices surge 8% over the weekend to approximately $78 a barrel following the military campaign?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the Strait of Hormuz described as a vital waterway through which much of the world’s oil and gas passes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Daan Struyven serve as the head of oil research at Goldman Sachs at the time of the article's publication?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that traders are betting on a disruption lasting about four weeks based on the specific price point?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that the military campaign was conducted solely by the United States without Israeli involvement?",
+    "a": "No"
+  },
+  {
+    "q": "Did Brent crude oil prices drop by 8% over the weekend to approximately $78 a barrel?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article attribute the four-week disruption prediction to the head of oil research at JPMorgan Chase?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article state that the disruption is expected to last approximately one year rather than four weeks?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article claim that the death of Supreme Leader Ayatollah Ali Khamenei occurred before the military campaign began?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. stocks close higher on Wednesday, March 4, 2026, following news that Iran signaled openness to talks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump pledge to steady oil markets to calm investor anxiety about the Middle East clash in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the technology sector lead the rebound in U.S. stocks on Wednesday, March 4, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran reject all possibilities of diplomatic talks in March 2026, causing U.S. stocks to fall?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. stocks close lower on Wednesday, March 4, 2026, due to rising oil prices?",
+    "a": "No"
+  },
+  {
+    "q": "Did the financial sector lead the rebound in U.S. stocks on Wednesday, March 4, 2026, rather than the technology sector?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump increase oil production quotas to steady markets in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did investor anxiety about the Middle East clash increase on Wednesday, March 4, 2026, due to news that Iran rejected talks?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. stocks close up on Wednesday, March 4, 2026, primarily because of a pledge by U.S. Vice President JD Vance?",
+    "a": "No"
+  },
+  {
+    "q": "Did the news report in March 2026 state that Iran had signaled openness to talks, contributing to the rise in U.S. stocks?",
+    "a": "Yes"
+  }
+]

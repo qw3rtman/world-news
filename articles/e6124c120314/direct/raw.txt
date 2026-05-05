@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Brent North Sea crude oil prices plunge 9.6 percent on Tuesday, March 9, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump state that the US-Israeli war on Iran would end 'very soon' during a news conference in Florida on Monday, March 9, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the International Energy Agency meet for crisis talks on Tuesday, March 9, 2026, to assess the security of supply and potential release of emergency stocks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran respond to the conflict by vowing to block Gulf oil exports and asserting that it, not the US, would determine the end of the war?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the strategic Strait of Hormuz remain open for normal shipping traffic without interruption throughout the second week of the conflict in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did West Texas Intermediate crude oil prices rise by 10.1 percent on Tuesday, March 9, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did European gas prices sink 15 percent on Tuesday, March 9, 2026, helping ease concerns over a renewed surge of global inflation?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian attacks on shipping in the Strait of Hormuz occur in retaliation for US-Israeli strikes that killed Iran's president?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Dow Jones Industrial Average rise 0.5 percent on Tuesday, March 9, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did nearly 20 percent of the world's crude oil transit through the Strait of Hormuz before the conflict disrupted shipping in March 2026?",
+    "a": "Yes"
+  }
+]

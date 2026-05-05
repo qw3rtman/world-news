@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump post to Truth Social on Friday, March 6, 2026, demanding Iran's unconditional surrender?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump endorse Mojtaba Khamenei as the likely next Supreme Leader of Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. House of Representatives vote to halt the war against Iran on Thursday, March 5, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian state media report that at least 175 school girls were killed in a military strike in Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Qatar’s Energy Minister Saad al-Kaabi tell the Financial Times in March 2026 that Gulf energy exporters would shut down production within weeks?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. and Israel kill Supreme Leader Ayatollah Ali Khamenei in the initial strikes of the war launched in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Senate vote down a measure to halt the war against Iran on Wednesday, March 4, 2026, largely along party lines?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the State Department organize evacuation plans for Americans stranded in Iran before the war was launched in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Institute of War analyze that the U.S. and Israel targeted Iranian naval ports and ships in waters near Sri Lanka in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran’s secretary of the Supreme National Security Council, Ali Larijani, state in March 2026 that Iran had prepared itself for a short war?",
+    "a": "No"
+  }
+]

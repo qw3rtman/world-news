@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Britain, France, and Greece send air-defence forces to a base in Cyprus following drone strikes in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did an Iranian-made Shahed drone strike the Royal Air Force Akrotiri base in Cyprus in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did French President Emmanuel Macron confirm that the French frigate Languedoc could arrive in Cyprus as early as Tuesday evening in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Greece send four F-16 fighter jets and two frigates equipped with the Centauros anti-drone jamming system to Cyprus in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did British Prime Minister Keir Starmer state that London was fully committed to the security of Cyprus and British personnel in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the drone strike on the Royal Air Force Akrotiri base most likely launched by Iran directly from Iranian territory in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the British Type 45 destroyer HMS Dragon deploy the Sea Viper missile system to Cyprus in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Cyprus possess a fully operational air force prior to the March 2026 drone strikes?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump order the initial U.S. and Israeli strikes on Iran that preceded the regional turmoil in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Ministry of Defence state that British forces had engaged Iranian drones over Jordan for the first time in March 2026?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Oracle report its third-quarter earnings on Tuesday in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Oracle announce a $50 billion financing plan at the beginning of February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Oracle’s $300 billion deal with OpenAI cause its stock to rise by 35% in September 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did OpenAI executive Sachin Katti state that the first steel beams went up at the Oracle site in Wisconsin in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did TD Cowen report in January 2026 that Oracle was evaluating a reduction in force of 20,000 to 30,000 employees?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Bloomberg report in late February 2026 that Oracle’s deal to deliver eight sites to OpenAI had fallen through?",
+    "a": "No"
+  },
+  {
+    "q": "Did Oracle’s latest debt raise include a $10 billion convertible preferred offering in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did OpenAI executive Sachin Katti previously hold the role of AI chief and chief technology officer at Amazon in 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Oracle’s 5-year credit default swaps narrow significantly in late 2025 due to investor confidence?",
+    "a": "No"
+  },
+  {
+    "q": "Did TD Cowen estimate in January 2026 that a workforce reduction could drive approximately $20 billion to $30 billion of incremental free cash flow?",
+    "a": "No"
+  }
+]

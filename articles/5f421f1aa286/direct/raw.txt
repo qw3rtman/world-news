@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iranian sources report that Mojtaba Khamenei survived the assault on Iran in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the assault on Iran in February 2026 involve U.S. and Israeli air strikes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Mojtaba Khamenei the son of Iran's current Supreme Leader in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian sources tell Reuters that Mojtaba Khamenei died in the February 2026 assault?",
+    "a": "No"
+  },
+  {
+    "q": "Did the February 2026 assault on Iran involve Russian air strikes?",
+    "a": "No"
+  },
+  {
+    "q": "Did Reuters receive information about Mojtaba Khamenei's survival from Iranian sources in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Mojtaba Khamenei the brother of Iran's late Supreme Leader in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the February 2026 assault on Iran involve ground troops from the United States?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian sources confirm that Mojtaba Khamenei was injured but survived the February 2026 assault?",
+    "a": "No"
+  },
+  {
+    "q": "Was the news about Mojtaba Khamenei's survival reported by Reuters in February 2026?",
+    "a": "Yes"
+  }
+]

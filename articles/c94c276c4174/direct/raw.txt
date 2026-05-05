@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Reza Pahlavi pen an opinion piece in The Washington Post in early 2026 thanking U.S. President Donald Trump for strikes against Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Reza Pahlavi visit Iran in 2023 for an unprecedented trip while the Islamic Republic was still in power?",
+    "a": "No"
+  },
+  {
+    "q": "Did the National Union for Democracy in Iran (NUFDI) release an \"Emergency Phase Booklet\" in July 2025 that envisioned Reza Pahlavi having veto power over transitional government institutions?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the NUFDI's 2025 \"Iran Prosperity Project\" roadmap explicitly demand a federalist model of government to satisfy ethnic minority groups?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Islamic Republic of Iran announce transition plans including an interim leadership council composed of the president, the head of the judiciary, and a jurist from the Guardian Council after the killing of Supreme Leader Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Reza Pahlavi publicly endorse the formation of a theocratic regime led by clerics as part of his proposed democratic transition for Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did British-Iranian journalist Christiane Amanpour interview Reza Pahlavi at the 62nd Munich Security Conference in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Reza Pahlavi return to Iran in 2026 to lead the transition to a secular government following the collapse of the Islamic Republic?",
+    "a": "No"
+  },
+  {
+    "q": "Did Reza Pahlavi's father, Mohammad Reza Pahlavi, attempt to continue the reforms of his father, Reza Khan, but was ultimately forced into exile by the British after the Anglo-Soviet invasion in 1941?",
+    "a": "No"
+  },
+  {
+    "q": "Did the NUFDI's \"Emergency Phase Booklet\" envision a highly centralized government under Reza Pahlavi until a referendum could determine the country's future political system?",
+    "a": "Yes"
+  }
+]

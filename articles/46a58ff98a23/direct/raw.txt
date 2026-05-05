@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did experts believe that Yemen's Houthi group would have no substantial role to play in the Iran war in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Houthi rebel group, officially known as Ansar Allah, control large parts of northern and western Yemen, including the capital Sanaa, since 2014?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the UN report that the conflict between the Houthis and the Saudi-led coalition claimed more than 150,000 lives?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Houthi leader Abdul Malik al-Houthi warn US ships against transiting the Red Sea in late summer 2023?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Abdulghani al-Iryani, a senior researcher at the Sanaa Center for Strategic Studies, argue that the Houthis would have no role to play in the confrontation because their added value was to cause trouble while giving Iran deniability?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the ceasefire between the Houthis and the Saudi-led coalition occur in 2021?",
+    "a": "No"
+  },
+  {
+    "q": "Did Hezbollah in Lebanon attack Israel in Iraq during the Iran war in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Thomas Volk, head of the Middle East and North Africa division at the Konrad Adenauer Foundation, state that Iran would not try to mobilize all its partners in the fight?",
+    "a": "No"
+  },
+  {
+    "q": "Did Abdulghani al-Iryani claim that the Houthis were currently focused on consolidating their position in Yemen and attempting to bring Saudi Arabia back to the negotiating table?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Thomas Volk suggest that weakening the Iranian regime would have no consequences for the Houthis in the medium term?",
+    "a": "No"
+  }
+]

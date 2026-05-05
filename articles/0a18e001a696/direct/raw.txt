@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the Social Democratic Party (SPD) receive 5.5% of the vote in the March 2026 Baden-Württemberg state election?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the Social Democratic Party (SPD) the oldest political party in Germany, having been founded in 1863?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Chancellor Gerhard Schröder implement the \"Agenda 2010\" welfare reforms while leading an SPD-Greens coalition government from 1998 to 2005?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Left Party (Die Linke) form in 2007 through the merger of the Party of Democratic Socialism (PDS) and Labour and Social Justice – The Electoral Alternative?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Chancellor Olaf Scholz lead a three-way coalition government that included the Greens and the Free Democrats (FDP) from 2021 until its collapse in 2024?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Social Democratic Party (SPD) win the 2025 German federal general election outright with 25.7% of the vote?",
+    "a": "No"
+  },
+  {
+    "q": "Is the Social Democratic Party (SPD) currently the senior partner in the federal coalition government led by Chancellor Friedrich Merz?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Alternative for Germany (AfD) receive 38% of the working-class vote in the February 2025 general election according to an infratest-dimap poll?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Social Democratic Party (SPD) govern in a coalition with the Christian Democratic Union (CDU) and Christian Social Union (CSU) for the entire period from 2005 to 2021?",
+    "a": "No"
+  },
+  {
+    "q": "Is the western state of Rhineland-Palatinate scheduled to hold its state election before Baden-Württemberg in March 2026?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump state in February 2026 that he had not yet decided whether to launch a military strike on Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. military buildup in the Middle East prior to February 2026 include two aircraft carriers positioned near Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian Foreign Minister Abbas Araghchi declare in February 2026 that diplomacy was the only solution for Iran's nuclear program?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States deploy large numbers of ground troops near Iran in preparation for a potential conflict in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump seek formal support from the U.S. Congress for military action against Iran in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran agree to negotiate on scaling back its missile program outside of its nuclear program discussions in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump bomb seven countries during the past year leading up to February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Trump administration make its case for military action against Iran at the United Nations in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian Supreme Leader Ali Khamenei rule Iran for 37 years as of February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump deliver a major speech to the American people specifically advocating for a new Middle East war in February 2026?",
+    "a": "No"
+  }
+]

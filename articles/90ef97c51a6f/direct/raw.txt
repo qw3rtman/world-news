@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the war in Ukraine enter its fifth year as of February 27, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state he could swiftly end the conflict upon his return to office?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did more than a year of U.S. efforts to negotiate a peace deal successfully break the impasse on Ukraine’s occupied lands by February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Russia maintain a maximalist stance regarding the part of the eastern Donetsk region it had not yet captured?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ukraine accept Russia’s demand for the part of the eastern Donetsk region that Russia had not captured?",
+    "a": "No"
+  },
+  {
+    "q": "Was a U.S. proposal to turn the disputed area into a “free economic zone” designed to serve as a buffer?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. proposal to create a “free economic zone” win over both Russia and Ukraine by February 27, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Aliaksandr Kudrytski and Daryna Krasnolutska write the Bloomberg article published on February 27, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the impasse in February 2026 concern Ukraine’s western regions rather than its occupied eastern lands?",
+    "a": "No"
+  },
+  {
+    "q": "Had the war in Ukraine lasted less than five years by February 27, 2026?",
+    "a": "No"
+  }
+]

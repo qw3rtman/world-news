@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Viking Holdings Ltd announce new Mississippi and Ohio River voyages for 2027 on February 18, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the Viking Mississippi the first truly modern ship designed for the Mississippi River region?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the 15-day Bayous, Blues & Bluegrass itinerary operate between New Orleans and Louisville?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the 8-day Mississippi & Ohio River Explorer itinerary offer a journey between Memphis and Louisville?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the Viking Mississippi host 386 guests in 193 all-outside staterooms?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the Viking Savings Event offering up to 35 percent off all-inclusive voyages until March 1, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Senator Ted Cruz endorse Viking Holdings Ltd for its 2027 river expansion in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is the Viking Mississippi currently sailing on the Amazon River in South America?",
+    "a": "No"
+  },
+  {
+    "q": "Does the Heartland of America itinerary include a visit to St. Paul?",
+    "a": "No"
+  },
+  {
+    "q": "Was Viking rated #1 for Rivers and #1 for Oceans by Condé Nast Traveler in the 2025 Readers’ Choice Awards?",
+    "a": "No"
+  }
+]

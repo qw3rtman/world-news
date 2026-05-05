@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. Secretary of State Marco Rubio meet with Saudi Foreign Minister Prince Faisal bin Farhan Al Saud in Washington, D.C., on April 9, 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Saudi Arabia permit U.S. forces to use its bases for military operations against Iran before the U.S. and Israeli military campaign began on February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian President Masoud Pezeshkian apologize to neighboring Gulf states for Iranian strikes that hit civilian targets?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran’s Supreme Leader Ayatollah Ali Khamenei survive the first day of the war between the U.S./Israel and Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. and Israeli military campaign against Iran begin on February 28, 2026, following the collapse of talks on Iran’s nuclear program?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Khatam al-Anbiya Central Headquarters state that Iran’s armed forces had already taken action against neighboring Gulf states?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump claim that Iran’s promise to stop shooting at Middle East neighbors was made because of relentless U.S. and Israeli attacks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Saudi Foreign Minister Prince Faisal bin Farhan speak to Iranian Foreign Minister Abbas Araqchi three days before Pezeshkian’s apology speech?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran demand that U.S. bases in the region be closed and that some Gulf states stop sharing intelligence with Washington?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Arab Emirates, Kuwait, Qatar, Bahrain, and Saudi Arabia all come under heavy drone and missile fire from Iran over the past week?",
+    "a": "Yes"
+  }
+]

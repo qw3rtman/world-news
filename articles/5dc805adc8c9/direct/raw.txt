@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Kamal Kharazi, Foreign Policy Advisor to the office of the Supreme Leader, state in an interview with CNN on Monday that there is no room for diplomacy anymore?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Kamal Kharazi suggest that the war with the US would only end through economic pain?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did crude oil prices surge past $100 a barrel on Monday following the disruption of maritime traffic through the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did an estimated 20% of the world oil supply get disrupted by the ongoing conflict, which was roughly twice as big as the record set during the Suez Crisis of 1956-1957?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mojtaba Khamenei, the second son of former Supreme Leader Ali Khamenei, get elevated to the country’s highest post over the weekend?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Kamal Kharazi claim that the Iranian government is currently willing to engage in diplomacy to resolve the conflict with the US?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Islamic Revolutionary Guard Corps (IRGC) spokesperson state that Iran is using 100% of its firepower to attack US bases and strategic interests in the region?",
+    "a": "No"
+  },
+  {
+    "q": "Did the disruption of oil supply due to the conflict amount to roughly the same size as the record set during the Suez Crisis of 1956-1957?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Iranian government review and approve CNN’s reporting prior to its publication or broadcast in this exclusive interview?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump state that Mojtaba Khamenei’s appointment as his father’s successor would be \"acceptable\" to him?",
+    "a": "No"
+  }
+]

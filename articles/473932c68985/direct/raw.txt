@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump state on March 16, 2026, that he is seeking to delay his trip to China by about a month?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump attribute the requested delay of his trip to China to the ongoing Iran war?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the originally scheduled date for the meeting between U.S. President Donald Trump and Chinese President Xi Jinping set for March 31 to April 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did China's embassy in Washington provide an immediate response to a request for comment regarding the delay on March 16, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Treasury Secretary Scott Bessent state on March 16, 2026, that the delay was primarily due to trade disagreements with Beijing?",
+    "a": "No"
+  },
+  {
+    "q": "Did Chinese Vice Premier He Lifeng travel to Paris in March 2026 for talks with U.S. Treasury Secretary Scott Bessent?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump tell the Financial Times on March 15, 2026, that he might postpone the meeting if China did not help unblock the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did China directly respond to U.S. President Donald Trump's request for assistance in helping ships safely transit the Strait of Hormuz by March 16, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian crude oil exports through the Strait of Hormuz drop by more than 60% since the war started as of March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Chinese foreign ministry spokesperson Lin Jian state on March 16, 2026, that both sides are communicating about the trip?",
+    "a": "Yes"
+  }
+]

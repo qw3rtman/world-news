@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did UniCredit SpA make an unsolicited bid for Commerzbank AG in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the value of UniCredit's bid for Commerzbank approximately 35 billion euros?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does UniCredit own nearly 30% of Commerzbank as of March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did German Chancellor Friedrich Merz express support for a merger between UniCredit and Commerzbank in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Italian Prime Minister Giorgia Meloni actively support UniCredit CEO Andrea Orcel's expansion plans in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the European Central Bank authorize UniCredit to cross the 10% ownership threshold in Commerzbank?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the German labour union Verdi supportive of UniCredit's takeover bid for Commerzbank?",
+    "a": "No"
+  },
+  {
+    "q": "Did German Finance Minister Lars Klingbeil describe UniCredit's advances as unfriendly?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Italian Finance Minister Giancarlo Giorgetti support UniCredit's bid for Banco BPM in 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did Commerzbank CEO Bettina Orlopp state that UniCredit's bid was coordinated with her bank?",
+    "a": "No"
+  }
+]

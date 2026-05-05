@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Israel reportedly prepare a ground invasion in southern Lebanon in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the reported Israeli ground invasion target the northern region of Lebanon in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israel cite a threat from the Iranian-backed militant group Hezbollah as the reason for the invasion in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israel cite a threat from the Palestinian militant group Hamas as the reason for the invasion in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the reported Israeli military action described as a ground invasion in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the reported Israeli military action described as an aerial bombing campaign in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article state that Israel was preparing for military action in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that Israel had already completed the ground invasion in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the reported threat originate from an Iranian-backed group in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the reported threat originate from a Syrian-backed group in March 2026?",
+    "a": "No"
+  }
+]

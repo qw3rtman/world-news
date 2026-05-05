@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. Treasury Secretary Scott Bessent state in an interview on March 12, 2026, that the U.S. Navy would escort vessels through the Strait of Hormuz when it is militarily possible?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Treasury Secretary Scott Bessent indicate that the U.S. Navy might operate with an international coalition in the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Treasury Secretary Scott Bessent say that the U.S. Navy would begin escorting ships only after achieving complete control of the skies and degrading Iran’s missile rebuilding capabilities?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Treasury Secretary Scott Bessent state that he would confront President Donald Trump if the cost of the Iran war became unaffordable?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Islamic Revolutionary Guard Corps state it would block oil shipments from the Gulf unless U.S. and Israeli attacks cease?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Treasury Secretary Scott Bessent claim that Iranian tankers had not been allowed to pass through the Strait of Hormuz?",
+    "a": "No"
+  },
+  {
+    "q": "Did Reuters report on March 11, 2026, that the first six days of the war on Iran had cost the United States at least $11.3 billion?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Treasury Secretary Scott Bessent state that Chinese-flagged tankers had not come through the Strait of Hormuz?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. and Israeli strikes on Iran contribute to paralyzed shipping through the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Treasury Secretary Scott Bessent state that the U.S. Navy would escort vessels through the Strait of Hormuz immediately, regardless of military conditions?",
+    "a": "No"
+  }
+]

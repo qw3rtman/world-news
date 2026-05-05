@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Paramount Skydance win the bidding war for Warner Bros. in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Netflix offer a final bid of $31 per share in cash for Warner Bros. in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did David Ellison personally guarantee $45.7 billion in equity for the Paramount-Warner Bros. deal using funds from Larry Ellison?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Netflix CEO Ted Sarandos announce that Netflix would continue bidding against Paramount in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did David Ellison state during an investor call on March 2, 2026, that HBO Max and Paramount+ would be combined into one streaming service?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did David Ellison confirm that the combined streaming service would cost less than $10 per month in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did David Ellison state that HBO would maintain its independence and continue to operate as \"HBO\" under the new ownership in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did David Ellison announce that movies from the combined studio would move to the streaming service immediately after theatrical release in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did FCC Chairman Brendan Carr signal his personal approval of the Paramount-Warner Bros. deal in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did John Oliver state on his March 1, 2026 episode that the merger was great news for consumers?",
+    "a": "No"
+  }
+]

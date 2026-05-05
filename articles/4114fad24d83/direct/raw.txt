@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the United States and Israel launch a joint military operation against Iran on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the joint U.S.-Israeli airstrike on February 28, 2026, result in the death of Supreme Leader Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump authorize the military strike on Iran without seeking prior authorization from the U.S. Congress?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Islamic Revolutionary Guards Corps (IRGC) claim to have targeted a U.S. fuel support vessel in the Indian Ocean following the strikes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Brookings article state that the Iranian regime immediately collapsed and transitioned to a democratic government within five days of the airstrike?",
+    "a": "No"
+  },
+  {
+    "q": "Did Russian President Vladimir Putin publicly endorse the U.S. and Israeli strikes on Iran as a violation of international law?",
+    "a": "No"
+  },
+  {
+    "q": "Did Turkish President Recep Tayyip Erdoğan blame U.S. President Donald Trump for triggering the conflict with Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Brent crude oil price increase by more than 40% in the first two weeks following the February 2026 strikes on Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did Indian Prime Minister Narendra Modi explicitly condemn the U.S. and Israeli strikes on Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Association of Southeast Asian Nations (ASEAN) issue a unified statement condemning the U.S. and Israeli strikes on Iran?",
+    "a": "No"
+  }
+]

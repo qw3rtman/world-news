@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Russian President Vladimir Putin announce a \"special military operation\" against Ukraine on February 24, 2022?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Russian forces occupy roughly 27 percent of Ukrainian territory at their furthest advance in March 2022?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Institute for the Study of War estimate that Ukraine had reclaimed approximately 74,000 square kilometers of territory by late November 2022?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Russian forces capture the town of Pokrovsk in early December 2024?",
+    "a": "No"
+  },
+  {
+    "q": "Did drone-led targeting of civilians become the leading form of attack in Ukraine in 2025, according to ACLED?",
+    "a": "Yes"
+  },
+  {
+    "q": "Are Geran-2 drones currently produced in Tatarstan, a republic about 800km east of Moscow?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ukrainian President Volodymyr Zelenskyy declare a nationwide state of emergency for the energy sector in January 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Russia carry out more than 1,900 attacks on Ukraine’s energy infrastructure since the conflict began?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the peace talks held in Istanbul on March 29, 2022, collapse in April following the discovery of mass civilian killings in Bucha?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Trump administration's envoys Steve Witkoff and Jared Kushner facilitate trilateral peace talks in Abu Dhabi and Geneva in late January 2026?",
+    "a": "Yes"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump publicly endorse Texas Senator John Cornyn in the 2026 Texas Republican U.S. Senate primary before the March 11, 2026 runoff deadline?",
+    "a": "No"
+  },
+  {
+    "q": "Did Texas Attorney General Ken Paxton announce in March 2026 that he would consider dropping out of the runoff if the Senate passed President Trump’s voting restrictions bill?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the 2026 Texas Republican U.S. Senate primary between John Cornyn and Ken Paxton require a runoff because neither candidate received 50% of the votes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Senate Majority Leader John Thune publicly support eliminating the 60-vote filibuster threshold to advance President Trump’s voting bill in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the \"SAVE America Act\" pass the U.S. House of Representatives before the March 2026 Texas Senate runoff?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Texas Senator John Cornyn oppose changing filibuster rules in a New York Post op-ed published in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the deadline for candidates to withdraw from the 2026 Texas Republican U.S. Senate runoff race set for March 18, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Republican Senator Thom Tillis of North Carolina argue in March 2026 that there is a viable path to success by nuking the filibuster?",
+    "a": "No"
+  },
+  {
+    "q": "Did White House officials describe Texas Attorney General Ken Paxton’s ultimatum regarding the voting bill as a \"genius move\" in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump hold out on making an endorsement for the entire duration of the 2026 Texas Republican primary campaign before the runoff?",
+    "a": "Yes"
+  }
+]

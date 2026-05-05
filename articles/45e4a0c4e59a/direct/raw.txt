@@ -1,0 +1,40 @@
+{
+  "q": "Did satellite images reveal that Iran has taken steps to repair and fortify nuclear and missile sites in February 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Is CNN’s Isobel Yeung the reporter covering the story about Iran's preparations for US strikes in February 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Has the US military reduced its forces in the Middle East as of February 2026?",
+  "a": "No"
+}
+{
+  "q": "Did satellite images reveal that Iran has dismantled its nuclear and missile sites in February 2026?",
+  "a": "No"
+}
+{
+  "q": "Is the article published by CNN in February 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did satellite images reveal that Iran has taken steps to repair and fortify biological weapons sites in February 2026?",
+  "a": "No"
+}
+{
+  "q": "Is the reporter for this CNN story in February 2026 named Isobel Yeung?",
+  "a": "Yes"
+}
+{
+  "q": "Did the US military forces expand their buildup in Europe as of February 2026?",
+  "a": "No"
+}
+{
+  "q": "Are the satellite images in the February 2026 report showing Iran preparing for potential US strikes?",
+  "a": "Yes"
+}
+{
+  "q": "Did satellite images reveal that Iran has taken steps to repair and fortify conventional air force bases in February 2026?",
+  "a": "No"
+}

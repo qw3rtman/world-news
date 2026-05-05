@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did oil prices reach a high of $110 per barrel on Wednesday, March 18, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran and Qatar accuse Israel of attacking a natural gas field they share in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Tehran vow to retaliate by targeting energy sites in neighboring countries in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the White House suspend a law prohibiting foreign vessels from shipping oil and gas between US ports on Wednesday, March 18, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Vice President JD Vance describe rising gas prices as a \"permanent crisis\" in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did analysts say the White House's suspension of the shipping law would significantly ease rising gas prices in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran and Qatar accuse Saudi Arabia of attacking a natural gas field in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Tehran vow to retaliate by targeting military bases in Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the White House suspend a law prohibiting foreign vessels from shipping coal between US ports on Wednesday, March 18, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Vice President JD Vance describe rising gas prices as a \"temporary blip\" in March 2026?",
+    "a": "Yes"
+  }
+]

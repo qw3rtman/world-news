@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did IDF officials state that Israel is preparing for the possibility of a weeks-long war with Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did IDF officials warn that Iran may increase the rate of missile launches toward Israel in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did missile barrages toward Israel increase significantly in the days leading up to March 7, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did IDF officials suggest that Iran might redirect resources from attacks in Gulf states to Israeli territory in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did IDF officials state that Iran has already redirected its full military resources to Israeli territory as of March 7, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Israeli Defense Forces predict that the conflict with Iran could last for several weeks in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did IDF officials attribute the recent decrease in missile barrages to a ceasefire agreement with Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did IDF officials warn that Tehran might ramp up missile launches specifically if it redirects resources from Gulf states in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did IDF officials state that Iran has decreased its missile launch rate toward Gulf states in recent days as of March 7, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did IDF officials express concern that Iran might increase missile attacks on Israel even if overall barrages have recently decreased in March 2026?",
+    "a": "Yes"
+  }
+]

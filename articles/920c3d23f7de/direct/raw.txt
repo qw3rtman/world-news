@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S.-Israeli strikes on Iran under Operation Epic Fury trigger electronic warfare activity in the Strait of Hormuz region on Sunday, March 1, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. maritime authorities issue a warning on February 28, 2026, urging commercial vessels to avoid the Persian Gulf, Gulf of Oman, and Arabian Sea?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Jakob P. Larsen, head of maritime security at BIMCO, state that ships in the Persian Gulf are under threat from Iranian attacks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Kingdom Maritime Trade Operations (UKMTO) report that a vessel west of Sharjah, UAE, was struck by a projectile that ignited a blaze aboard?",
+    "a": "No"
+  },
+  {
+    "q": "Did maritime intelligence firm Windward report that GPS and Automatic Identification System (AIS) interference impacted more than 1,000 ships?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Windward identify new AIS jamming clusters exclusively in Iranian waters, with no clusters found in Emirati, Qatari, or Omani waters?",
+    "a": "No"
+  },
+  {
+    "q": "Did major shipping company Maersk announce it would reroute some services away from the region citing crew and cargo safety?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did industry groups warn that the Houthis have threatened to resume attacks on ships in the Red Sea, Bab el-Mandeb Strait, and Gulf of Aden?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Jakob P. Larsen confirm that there are clear signs of Iranian attempts to close the Strait of Hormuz with sea mines or naval mines?",
+    "a": "No"
+  },
+  {
+    "q": "Did roughly 20% of global oil and gas exports pass through the Strait of Hormuz at the time of the reported incidents in March 2026?",
+    "a": "Yes"
+  }
+]

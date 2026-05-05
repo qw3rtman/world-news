@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did BP sell its German oil refinery site in Gelsenkirchen to the investment firm Klesch Group in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did BP disclose the specific financial value of the sale of the Gelsenkirchen refinery to Klesch Group in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did BP raise its structural cost reduction target to between $6.5 billion and $7.5 billion by 2027 following the sale of the Gelsenkirchen refinery in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did BP's divestment programme reach $20 billion of its targeted amount by March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is the Gelsenkirchen refinery processed approximately 12 million metric tons of crude oil annually as of the March 2026 announcement?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Meg O'Neill take over as BP's chief executive in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Are approximately 1,800 employees at the Gelsenkirchen refinery complex expected to join Klesch Group upon completion of the deal in the second half of 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did BP lift its cost savings target to $5.5 billion to $6.5 billion in February 2026 after the sale of its Castrol business?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the 2027 cost reduction target of between $6.5 billion and $7.5 billion equivalent to around 50% of BP's 2023 cost baseline?",
+    "a": "No"
+  },
+  {
+    "q": "Was the sale of the Gelsenkirchen refinery part of BP's $20 billion divestment plan aimed at cutting debt and boosting returns?",
+    "a": "Yes"
+  }
+]

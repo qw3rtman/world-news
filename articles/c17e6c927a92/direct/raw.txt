@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Alphabet, Amazon.com, Meta Platforms, and Microsoft plan to spend about $650 billion in 2026 largely on chip-packed data centres?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Morgan Stanley foresee $2.9 trillion of global data-centre investment between 2025 and 2028, with roughly $900 billion coming from private credit and asset-backed lending?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did OpenAI CEO Sam Altman float infrastructure build-out deals worth $1.4 trillion, requiring 30 gigawatts of power?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Amazon pledge $110 billion in OpenAI's recent funding round, beginning with an initial payment of about $15 billion?",
+    "a": "No"
+  },
+  {
+    "q": "Did S&P Global assign a negative credit outlook to SoftBank as it explored a bridge loan of up to $40 billion?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Anthropic’s CFO state in a court filing that the company had spent over $10 billion on training models to generate roughly $5 billion of cumulative revenue?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Trump administration label Anthropic a supply-chain risk after CEO Dario Amodei resisted allowing Claude to be used for mass surveillance or autonomous weapons?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Microsoft state that 45% of its $625 billion in demand backlog is tied to Anthropic?",
+    "a": "No"
+  },
+  {
+    "q": "Did Nvidia and Alphabet trade on average at 5.6 times expected sales in 2030, according to Visible Alpha?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did HSBC estimate that OpenAI may need $207 billion in additional financing by 2030, despite a just-announced $110 billion funding round?",
+    "a": "Yes"
+  }
+]

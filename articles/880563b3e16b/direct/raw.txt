@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the U.S. Transportation Department approve American Airlines' request to operate flights to Caracas and Maracaibo from Miami in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Transportation Secretary Sean Duffy rescind a 2019 order in January 2026 that barred U.S. airlines from flying to Venezuela?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did American Airlines plan to operate the resumed Venezuela services through its wholly owned regional carrier Envoy in 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the U.S. Transportation Department's approval for American Airlines' Venezuela flights valid for a period of five years in 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. Transportation Security Administration review airport security procedures in Caracas in early 2026 as a prerequisite for resuming flights?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did American Airlines initially apply to resume service to Venezuela in December 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump direct Transportation Secretary Sean Duffy to lift the restrictions on flights to Venezuela in January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. State Department remove Venezuela from its 'Do Not Travel' list for Americans in early 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did American Airlines previously serve as the largest U.S. airline in Venezuela before suspending service in 2019?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Trump administration capture the country's president, Nicolás Maduro, in February 2026?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. Treasury Secretary Scott Bessent state in an interview on March 12, 2026, that the U.S. Navy would escort vessels through the Strait of Hormuz when militarily possible?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Treasury Secretary Scott Bessent specify that the U.S. Navy would escort vessels through the Strait of Hormuz only after achieving complete control of the skies and degrading Iran's missile rebuilding capabilities?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Islamic Revolutionary Guard Corps state in March 2026 that it would block oil shipments from the Gulf unless U.S. and Israeli attacks ceased?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Treasury Secretary Scott Bessent claim in March 2026 that Iranian tankers and some Chinese flag tankers had successfully passed through the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Treasury Secretary Scott Bessent state in March 2026 that the Strait of Hormuz had been mined by Iran, preventing normal shipping traffic?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Treasury Secretary Scott Bessent state in March 2026 that the U.S. Navy would escort vessels through the Strait of Hormuz without the involvement of an international coalition?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Treasury Secretary Scott Bessent state in March 2026 that the U.S. Navy would escort vessels through the Strait of Hormuz as soon as the U.S. had complete control of the seas and degraded Iran's naval capabilities?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Islamic Revolutionary Guard Corps state in March 2026 that it would block oil shipments from the Gulf unless European sanctions were lifted?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Treasury Secretary Scott Bessent state in March 2026 that only Iranian tankers had passed through the Strait of Hormuz, with no Chinese flag tankers observed?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Treasury Secretary Scott Bessent give the interview to BBC News on March 12, 2026, regarding the Strait of Hormuz?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Cuban President Miguel Díaz-Canel describe the incident involving the US-registered boat as 'terrorist and mercenary aggression' in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Cuban border guards kill six exiles on the Florida-registered speedboat that opened fire on a patrol in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Trump administration impose an oil blockade on Cuba in January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US Secretary of State Marco Rubio attend the Caricom meeting in St Kitts and Nevis in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Raúl Guillermo Rodríguez Castro hold an official role in the Cuban government when he met US officials in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the speedboat involved in the incident originate from the Florida Keys in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the speedboat a 40ft Pro-Line model in the February 2026 incident?",
+    "a": "No"
+  },
+  {
+    "q": "Did Cuban authorities accuse the survivors of the boat incident of intending to carry out an infiltration for the purposes of terrorism in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did at least two of the individuals on the boat hold US citizenship in the February 2026 incident?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the boat involved in the February 2026 incident have a particularly powerful engine?",
+    "a": "No"
+  }
+]

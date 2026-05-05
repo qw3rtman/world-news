@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Gilead Sciences agree to acquire Arcellx for up to $7.8 billion in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Gilead Sciences the developer of the market-leading CAR-T therapy Carvykti?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Senator Ted Cruz publicly endorse Ken Paxton in the 2026 Texas Republican U.S. Senate primary?",
+    "a": "No"
+  },
+  {
+    "q": "Is the U.S. Food and Drug Administration expected to issue a decision on anito-cel by December 23, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Johnson & Johnson acquire Immunomedics for $21 billion in 2020?",
+    "a": "No"
+  },
+  {
+    "q": "Is the proposed acquisition of Arcellx by Gilead Sciences expected to close in the second quarter of 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Will Gilead Sciences pay Arcellx shareholders a $5 per share contingent payment if anito-cel achieves $10 billion in cumulative global net sales by the end of 2029?",
+    "a": "No"
+  },
+  {
+    "q": "Did Gilead Sciences acquire Immunomedics for $21 billion in 2020?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is anito-cel currently being reviewed by the U.S. Food and Drug Administration as a first-line treatment for multiple myeloma?",
+    "a": "No"
+  },
+  {
+    "q": "Did Carvykti generate approximately $1.9 billion in sales in 2025?",
+    "a": "Yes"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "q": "Did President Donald Trump give consistent answers regarding the expected duration of the war in Iran in the article published on March 2, 2026?",
+  "a": "No",
+  "q": "Did the U.S. and Israel launch an attack on Iran called Operation Epic Fury on a Saturday morning?",
+  "a": "Yes",
+  "q": "Did Operation Epic Fury result in the death of Supreme Leader Ayatollah Ali Khamenei?",
+  "a": "Yes",
+  "q": "Did President Trump tell The New York Times that the conflict would last four to five weeks?",
+  "a": "Yes",
+  "q": "Did President Trump state in a video address that the mission would end in two or three days?",
+  "a": "No",
+  "q": "Did President Trump report that three U.S. military service members had been killed in action during the conflict?",
+  "a": "Yes",
+  "q": "Did Iran’s security chief Ali Larijani confirm on X that Iran planned to hold talks with the U.S. on Monday?",
+  "a": "No",
+  "q": "Did President Trump tell The Atlantic's Michael Scherer that he had agreed to speak with Iran's new leader?",
+  "a": "Yes",
+  "q": "Did President Trump predict that Iran would take only a few months to recover from the strikes?",
+  "a": "No",
+  "q": "Did President Trump tell Axios that he could end the conflict in two or three days?",
+  "a": "Yes"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump publicly raise the possibility of deploying \"boots on the ground\" in Iran during an interview with the New York Post on Monday, March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Secretary of War Pete Hegseth state that the military operation in Iran would strictly avoid any form of nation-building or democracy-building exercise?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the joint US-Israeli operation against Iran begin on Saturday morning, February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump claim that 49 members of Iran's leadership were killed within a single day of the operation?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Secretary of War Pete Hegseth explicitly rule out the use of ground troops in the operation against Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian President Pezeshkian serve as a member of the three-man leadership committee named to succeed the killed supreme leader?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Reza Pahlavi, the son of the late shah, appear publicly in Washington and Israel offering himself as an interim leader for a constitutional monarchy?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ali Larijani, the head of the national security council, survive the initial bombing campaign and remain a potential figure for negotiation?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article identify Iraq as the primary precedent for a regime being brought down by a U.S. air campaign alone without ground invasion?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article state that the People’s Mojahedin Organisation of Iran (MEK) is widely supported by liberal, westernised urban women in Iran?",
+    "a": "No"
+  }
+]

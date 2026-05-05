@@ -1,0 +1,40 @@
+{
+  "q": "Did State lawmaker James Talarico win the Democratic U.S. Senate primary in the 2026 Texas election?",
+  "a": "Yes"
+}
+{
+  "q": "Did incumbent U.S. Senator John Cornyn win the Republican U.S. Senate primary outright in the first round of the 2026 Texas election?",
+  "a": "No"
+}
+{
+  "q": "Is Attorney General Ken Paxton a candidate in the Republican U.S. Senate runoff in the 2026 Texas election?",
+  "a": "Yes"
+}
+{
+  "q": "Is the Republican U.S. Senate runoff in the 2026 Texas election scheduled for April 12, 2026?",
+  "a": "No"
+}
+{
+  "q": "Does the 2026 Texas election rule require a candidate to receive more than 50% support to avoid a runoff?",
+  "a": "Yes"
+}
+{
+  "q": "Is the Republican U.S. Senate runoff in the 2026 Texas election between incumbent Senator John Cornyn and State lawmaker James Talarico?",
+  "a": "No"
+}
+{
+  "q": "Did the 2026 Texas Republican U.S. Senate primary between John Cornyn and Ken Paxton go to a runoff?",
+  "a": "Yes"
+}
+{
+  "q": "Is the Democratic U.S. Senate primary in the 2026 Texas election going to a runoff between the top two finishers?",
+  "a": "No"
+}
+{
+  "q": "Is the date for the 2026 Texas Republican U.S. Senate runoff set for May 26, 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did State lawmaker James Talarico win the Republican U.S. Senate primary in the 2026 Texas election?",
+  "a": "No"
+}

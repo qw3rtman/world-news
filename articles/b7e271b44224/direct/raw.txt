@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Cuban border guard troops fatally shoot four people on a Florida-registered speedboat near Falcones Cay on Wednesday, February 25, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was US citizen Hector Correa among the four people killed in the speedboat incident in Cuban territorial waters in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US Secretary of State Marco Rubio state that the speedboat carried US government personnel and was part of an official operation during the February 2026 incident?",
+    "a": "No"
+  },
+  {
+    "q": "Was the speedboat involved in the February 2026 Cuban shootout reported as stolen from the Florida Keys on the night of the incident?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump’s administration block all oil deliveries to Cuba and talk of regime change following the January 2026 capture of Venezuelan leader Nicolás Maduro?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the 1996 Cuban military shootdown of Brothers to the Rescue planes occur just one day before the February 25, 2026 speedboat incident?",
+    "a": "No"
+  },
+  {
+    "q": "Did Amijail Sánchez González, an individual identified as being on the speedboat, post a Facebook declaration signed by four anti-government groups on January 31, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Republican Party of Cuba claim responsibility for the February 2026 speedboat attack and state it was fully aware of the participants' intentions?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Cuban Interior Ministry state that the passengers aboard the speedboat were armed with assault rifles, handguns, and molotov cocktails?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States slightly ease the embargo on Wednesday, February 25, 2026, by granting licenses to private Cuban entities to resell oil from Venezuela?",
+    "a": "Yes"
+  }
+]

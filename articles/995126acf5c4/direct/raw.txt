@@ -1,0 +1,22 @@
+{
+  "q": "Did Viking Mines report a 16-fold increase in tungsten grade during metallurgical test work at its Linka project in Nevada in March 2026?",
+  "a": "Yes",
+  "q": "Did Viking Mines use complex chemical processing methods to achieve the 16-fold tungsten grade upgrade at the Linka project in Nevada in March 2026?",
+  "a": "No",
+  "q": "Did the initial gravity separation test work on the Linka Pit sample achieve a recovery rate of 63.7 per cent in Nevada in March 2026?",
+  "a": "Yes",
+  "q": "Did the 63.7 per cent tungsten recovery rate at the Linka project in Nevada in March 2026 occur at the finest grind size tested?",
+  "a": "No",
+  "q": "Did Viking Metals engage Mineral Technologies as a processing specialist to evaluate low-cost modular solutions for the Linka project in Nevada in March 2026?",
+  "a": "Yes",
+  "q": "Did Viking Metals engage Rio Tinto as the primary processing specialist to evaluate low-cost modular solutions for the Linka project in Nevada in March 2026?",
+  "a": "No",
+  "q": "Is tungsten classified as a critical mineral by the United States government?",
+  "a": "Yes",
+  "q": "Is tungsten classified as a critical mineral by the People's Republic of China government?",
+  "a": "No",
+  "q": "Did the historic Linka mine in Nevada produce tungsten during the World War II and Korean War eras?",
+  "a": "Yes",
+  "q": "Did the historic Linka mine in Nevada produce tungsten primarily during the 1990s dot-com boom era?",
+  "a": "No"
+}

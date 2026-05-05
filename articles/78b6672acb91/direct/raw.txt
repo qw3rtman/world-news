@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the first round of the 2026 French municipal elections occur in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Louis Aliot win by a landslide in Perpignan during the first round of the 2026 French municipal elections?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did incumbent Paris mayor Anne Hidalgo seek a third term in the 2026 French municipal elections?",
+    "a": "No"
+  },
+  {
+    "q": "Is Marine Le Pen currently barred from holding public office for five years following her embezzlement conviction?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did France Unbowed maintain its traditional alliance with the Socialists, Greens, and Communists for the 2026 municipal elections?",
+    "a": "No"
+  },
+  {
+    "q": "Did turnout in the 2026 French municipal elections exceed the turnout recorded in the 2020 vote?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Éric Ciotti the incumbent mayor of Nice in the 2026 municipal elections?",
+    "a": "No"
+  },
+  {
+    "q": "Is Rachida Dati scheduled to stand trial in September 2026 on charges of corruption and influence peddling?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Emmanuel Macron seek a third consecutive term as president in the 2027 presidential race?",
+    "a": "No"
+  },
+  {
+    "q": "Did Benoît Payan finish the first round of the Marseille mayoral race with a clear lead over Franck Allisio?",
+    "a": "No"
+  }
+]

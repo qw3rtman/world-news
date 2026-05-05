@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump state in March 2026 that he would not sign any other bills until the SAVE America Act is passed?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the SAVE America Act clear the U.S. House of Representatives in February 2026 on a 218-213 vote?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Senate Majority Leader John Thune state in March 2026 that a talking filibuster is much more complicated and risky than assumed?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Senate Minority Leader Chuck Schumer state in March 2026 that Senate Democrats would help pass the SAVE America Act under any circumstances?",
+    "a": "No"
+  },
+  {
+    "q": "Did the SAVE America Act require proof of citizenship to register to vote in elections in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump urge House Republicans to include a provision allowing mail-in ballots for all voters in the SAVE America Act in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Senate Majority Leader John Thune state in March 2026 that a talking filibuster would make it hard to advance government funding legislation?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the SAVE America Act pass the U.S. Senate in March 2026 without the need for a filibuster?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump speak at the House GOP’s annual issues conference in Florida in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state in March 2026 that he would sign a watered-down version of the SAVE America Act if necessary?",
+    "a": "No"
+  }
+]

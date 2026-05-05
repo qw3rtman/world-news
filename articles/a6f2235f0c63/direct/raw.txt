@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Ukrainian President Volodymyr Zelenskiy state on March 2, 2026, that the U.S.-brokered peace talks scheduled for March 5 and 6 had not been canceled?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the weekend strikes on Iran by the U.S. and Israel in early March 2026 lead to the immediate cancellation of the Ukraine-Russia peace talks?",
+    "a": "No"
+  },
+  {
+    "q": "Was the initial location for the Ukraine-Russia peace talks scheduled to take place on March 5 and 6, 2026, in Abu Dhabi?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ukrainian President Volodymyr Zelenskiy confirm on March 2, 2026, that the peace talks would definitely proceed in Abu Dhabi despite ongoing hostilities?",
+    "a": "No"
+  },
+  {
+    "q": "Did Kremlin spokesman Dmitry Peskov state on March 2, 2026, that it was in Russia's interest to continue peace talks with Ukraine?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump withdraw his efforts to push for an end to the Ukraine-Russia conflict in early March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ukrainian President Volodymyr Zelenskiy refuse on March 2, 2026, to cede to Moscow's demand that Ukraine withdraw from the remaining 20% of the eastern Donetsk region?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ukraine and Russia reach a diplomatic settlement to end the four-year war by March 2, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ukrainian President Volodymyr Zelenskiy state on March 2, 2026, that hostilities in the Middle East had so far had no impact on weapons supplies to Ukraine from its allies?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ukrainian President Volodymyr Zelenskiy state on March 2, 2026, that he had already received direct requests from Britain to share Ukraine's experience in air defense?",
+    "a": "No"
+  }
+]

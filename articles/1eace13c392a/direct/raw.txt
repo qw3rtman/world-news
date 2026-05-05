@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the United States and Israel launch coordinated military strikes inside Iran in February 2026 under the name Operation Epic Fury?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the 2025 U.S.-Israeli strike known as Operation Midnight Hammer completely eliminate Iran’s nuclear program rather than merely setting it back by months?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran’s parliament vote to close the Strait of Hormuz following the initial strikes in Operation Epic Fury?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Supreme Leader Ali Khamenei die in December 2025 during the protests that erupted in Tehran’s Grand Bazaar?",
+    "a": "No"
+  },
+  {
+    "q": "Does the article state that Crown Prince Reza Pahlavi currently commands a structured internal apparatus capable of immediately administering Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did the International Atomic Energy Agency acknowledge in late 2025 that it could no longer fully verify Iran’s nuclear inventory?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the article claim that the Mujahedin-e Khalq (MEK) has strong domestic credibility in Iran due to its historical alignment with Saddam Hussein?",
+    "a": "No"
+  },
+  {
+    "q": "Did China and Russia avoid direct military confrontation with the United States during the 2026 strikes on Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the 2025 strike on Fordow, Natanz, and Isfahan conducted using only fighter jets without the involvement of B-2 stealth bombers or submarines?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article report that Iran’s Supreme Leader was moved to a secure location after the 2026 strikes?",
+    "a": "Yes"
+  }
+]

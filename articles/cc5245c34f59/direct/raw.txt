@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Ukrainian President Volodymyr Zelenskiy state in March 2026 that Russia's military had failed to achieve the aims it set out in the previous year?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ukrainian President Volodymyr Zelenskiy claim in March 2026 that Russia's plans to seize all of eastern Ukraine and areas further south remained unchanged?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ukrainian President Volodymyr Zelenskiy state in March 2026 that Moscow was considering how to make gains in the southern Odesa region on the Black Sea?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ukrainian President Volodymyr Zelenskiy state in March 2026 that Ukraine had secured maps outlining Russian plans for 2026-2027 that accurately reflected reality?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Russian Defence Ministry state in March 2026 that its forces had captured nine new settlements in the Zaporizhzhia region?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ukraine's General Staff state in March 2026 that its troops had retaken nine settlements in the Zaporizhzhia region since the end of January?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ukrainian President Volodymyr Zelenskiy state in March 2026 that Ukraine did not see that Russia had the capability to accomplish the tasks outlined on the secured maps?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ukrainian President Volodymyr Zelenskiy state in March 2026 that he accepted the notion of Ukraine ceding parts of the Donetsk region that Russian forces had not captured?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Russian Defence Ministry state in March 2026 that its forces had captured three new villages?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ukrainian President Volodymyr Zelenskiy state in March 2026 that Russia's directions remained current specifically regarding the occupation of the Kharkiv and Mykolaiv regions?",
+    "a": "No"
+  }
+]

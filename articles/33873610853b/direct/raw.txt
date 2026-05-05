@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Israel Defense Forces Chief of Staff Eyal Zamir state on Monday, March 2, 2026, that the Israeli military would continue the war against Hezbollah in Lebanon until the threat posed by the group is eliminated?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Hezbollah described in the March 2, 2026 statements by Israel Defense Forces Chief of Staff Eyal Zamir as a militia group allied with Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israel Defense Forces Chief of Staff Eyal Zamir state on March 2, 2026, that the Israeli military would end the war against Hezbollah in Lebanon once a ceasefire agreement is signed?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state on March 2, 2026, that the United States would unilaterally eliminate the Hezbollah threat in Lebanon?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israel Defense Forces Chief of Staff Eyal Zamir state on March 2, 2026, that the war against Hezbollah in Lebanon would continue until the threat posed by the Shi'ite militia group is eliminated?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israel Defense Forces Chief of Staff Eyal Zamir state on March 2, 2026, that the Israeli military would withdraw from Lebanon immediately to focus on the war against Hamas in Gaza?",
+    "a": "No"
+  },
+  {
+    "q": "Is Hezbollah identified in the March 2, 2026 statements by Israel Defense Forces Chief of Staff Eyal Zamir as a Shi'ite militia group?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israel Defense Forces Chief of Staff Eyal Zamir state on March 2, 2026, that the Israeli military would continue the war against Hezbollah in Lebanon until the threat posed by the Sunni extremist group ISIS is eliminated?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israel Defense Forces Chief of Staff Eyal Zamir make his statements regarding the war against Hezbollah in Lebanon on Monday, March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israel Defense Forces Chief of Staff Eyal Zamir state on March 2, 2026, that the Israeli military would continue the war against Hezbollah in Lebanon until the threat posed by the group is neutralized through diplomatic talks rather than military elimination?",
+    "a": "No"
+  }
+]

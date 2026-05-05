@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump state on Friday that the U.S. Central Command executed a bombing raid on Iran’s Kharg Island?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump explicitly state that the U.S. deliberately targeted and destroyed Kharg Island’s oil infrastructure during the strike?",
+    "a": "No"
+  },
+  {
+    "q": "Is Kharg Island located roughly 35 miles off Iran’s Bushehr province in the Persian Gulf?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that approximately 90% of Iran’s crude oil exports pass through Kharg Island?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article identify China and India as the primary destinations for most of the crude oil exported through Kharg Island?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that the Strait of Hormuz carries roughly 20 million barrels of oil a day and about one-fifth of the global supply of liquefied natural gas?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article report that the national average price for regular gasoline rose to $4.89 a gallon on the Friday mentioned in the report?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump threaten to reconsider his decision not to destroy oil infrastructure if Iran interfered with shipping through the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that benchmark oil prices fell below $80 a barrel for the first time since 2022 due to the conflict?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump tell reporters before boarding Air Force One that the U.S. Navy may start escorting tankers through the Strait of Hormuz very soon?",
+    "a": "Yes"
+  }
+]

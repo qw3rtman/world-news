@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did spot gold rise 1.1% to $5,202.28 per ounce on Wednesday, February 25, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. gold futures for April delivery settle at $5,226.20 on February 25, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Trump administration attempt to raise the temporary global import tariff to 15% after initially collecting 10% on Tuesday, February 24, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran and the United States hold a third round of nuclear talks in Geneva on Thursday, February 26, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did gold prices scale a record high of $5,594.82 on January 29, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Bank of America expect gold prices to hit $5,000 per ounce over the next 12 months as of February 25, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did spot silver climb 3.9% to $90.73 per ounce on February 25, 2026, reaching a three-week high?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did spot platinum rise 7.1% to $2,320.90 per ounce on February 25, 2026, marking its highest point since January 29, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Bank of America predict that silver would rise above $120 per ounce in 2026, based on its note from February 25, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did palladium climb 2.6% to $1,814.41 on February 25, 2026?",
+    "a": "Yes"
+  }
+]

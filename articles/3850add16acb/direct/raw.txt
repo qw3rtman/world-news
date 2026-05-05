@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Goldman Sachs suggest in March 2026 that high oil prices could persist through 2027?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Brent crude oil prices rise above $110 per barrel on Friday, March 20, 2026, before dipping to $108.5?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States commit to releasing more than 172 million barrels of crude oil from its reserves as part of an International Energy Agency agreement in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Strait of Hormuz remain effectively closed for 19 days as of March 20, 2026, choking off 20% of the world’s oil supply?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the White House impose a ban on crude oil and gas exports in March 2026 to ease surging energy prices?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu order attacks on Iran’s South Pars field in March 2026, triggering retaliation against Qatar’s Ras Laffan?",
+    "a": "No"
+  },
+  {
+    "q": "Did Treasury Secretary Scott Bessent suggest lifting sanctions on Iranian oil already at sea in March 2026 to lower oil prices?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Kingdom send a large military fleet into the Strait of Hormuz in March 2026 to reopen the waterway amid active hostilities?",
+    "a": "No"
+  },
+  {
+    "q": "Did average US regular gasoline prices reach $3.91 per gallon in March 2026, the highest level since October 13, 2022?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did QatarEnergy state in March 2026 that missile attacks on Ras Laffan would reduce its liquefied natural gas export capacity by 50%?",
+    "a": "No"
+  }
+]

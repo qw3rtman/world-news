@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the Department of Homeland Security shut down on February 14, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the Department of Homeland Security shutdown the first government closure to coincide with a U.S. state-of-the-union address?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Supreme Court uphold President Donald Trump's signature tariff policy prior to the February 24, 2026 state-of-the-union speech?",
+    "a": "No"
+  },
+  {
+    "q": "Did lawmakers agree on a funding deal for the Department of Homeland Security before February 14, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is the Department of Homeland Security responsible for overseeing airport security and drug busts?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump deliver his state-of-the-union speech on February 23, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is the United States amassing a military force in the Middle East in anticipation of a potential attack on Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Has the Department of Homeland Security shutdown caused significant public outcry as of late February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Supreme Court justices sit in front of President Donald Trump during the February 24, 2026 state-of-the-union address?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Department of Homeland Security remain fully operational during the budget impasse in February 2026?",
+    "a": "No"
+  }
+]

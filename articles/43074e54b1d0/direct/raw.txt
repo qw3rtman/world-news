@@ -1,0 +1,40 @@
+{
+  "q": "Did Joe Kent, a Trump-appointed senior intelligence official, resign from his post in March 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did Joe Kent state that Iran posed an imminent threat to the United States as his reason for resigning in March 2026?",
+  "a": "No"
+}
+{
+  "q": "Did Israel claim responsibility for killing Ali Larijani on Tuesday, March 3, 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did Ali Larijani serve as the de facto leader and key architect of Iran’s military and diplomatic strategy during the conflict with the US and Israel in 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did experts warn that the killing of Ali Larijani would likely shorten the duration of the war in March 2026?",
+  "a": "No"
+}
+{
+  "q": "Did President Donald Trump successfully secure an international coalition to police the Strait of Hormuz by Tuesday, March 3, 2026?",
+  "a": "No"
+}
+{
+  "q": "Did countries resist President Donald Trump’s pressure campaign to help secure the Strait of Hormuz in March 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did President Donald Trump actively engage in diplomacy with Iran to resolve the conflict in March 2026?",
+  "a": "No"
+}
+{
+  "q": "Was the conflict between the US and Iran in its 18th day as of Tuesday, March 3, 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did Joe Kent resign from his post because he disagreed with Israel’s decision to kill Ali Larijani in March 2026?",
+  "a": "No"
+}

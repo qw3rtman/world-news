@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Agilent Technologies Inc. announce a definitive agreement to acquire Biocare Medical on March 9, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the acquisition of Biocare Medical by Agilent Technologies Inc. structured as an all-cash transaction valued at $950 million?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Biocare Medical currently owned by an investor group led by Excellere Partners and GHO Capital Partners LLP?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Biocare Medical generate over $90 million in revenue in the fiscal year 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Agilent President and CEO Padraig McDonnell the individual who stated that the acquisition reflects a strategy to drive long-term growth through customer-centric innovation?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Barclays serving as the exclusive financial adviser for Biocare Medical in this transaction?",
+    "a": "No"
+  },
+  {
+    "q": "Is the transaction expected to close by no later than Agilent's first fiscal quarter of 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is Sullivan & Cromwell LLP serving as the legal adviser for Biocare Medical in this transaction?",
+    "a": "No"
+  },
+  {
+    "q": "Is the transaction expected to become accretive to Agilent’s earnings per share approximately 12 months following close?",
+    "a": "Yes"
+  },
+  {
+    "q": "Will Biocare Medical become part of the Agilent Life Sciences and Diagnostics Group upon close of the transaction?",
+    "a": "No"
+  }
+]

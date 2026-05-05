@@ -1,0 +1,22 @@
+{
+  "q": "Did U.S. President Donald Trump cut off trade with Spain in March 2026?",
+  "a": "Yes",
+  "q": "Did U.S. President Donald Trump attack the United Kingdom for its lack of support for the American mission in Iran in March 2026?",
+  "a": "Yes",
+  "q": "Did U.S. President Donald Trump praise the Spanish government for its critical comments in March 2026?",
+  "a": "No",
+  "q": "Did U.S. President Donald Trump cut off trade with the United Kingdom in March 2026?",
+  "a": "No",
+  "q": "Did U.S. President Donald Trump attack Spain for its lack of support for the American mission in Iran in March 2026?",
+  "a": "No",
+  "q": "Did U.S. President Donald Trump lambast Madrid for its critical comments in March 2026?",
+  "a": "Yes",
+  "q": "Did U.S. President Donald Trump cut off trade with Iran in March 2026?",
+  "a": "No",
+  "q": "Did U.S. President Donald Trump attack the United Kingdom for its critical comments in March 2026?",
+  "a": "No",
+  "q": "Did U.S. President Donald Trump cut off trade with Spain in February 2026?",
+  "a": "No",
+  "q": "Did U.S. President Donald Trump attack the United Kingdom for its support for the American mission in Iran in March 2026?",
+  "a": "No"
+}

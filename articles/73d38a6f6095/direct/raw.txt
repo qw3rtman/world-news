@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the United States and Israel jointly carry out the strikes that killed Iran’s Supreme Leader Ayatollah Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ayatollah Ali Khamenei serve as the Supreme Leader of Iran for nearly four decades before his death?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did political scientist Ali Alfoneh author the book titled Political Succession in the Islamic Republic of Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did analysts predict that the immediate result of Khamenei's death would be a rapid and total collapse of the Islamic Republic?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran’s security apparatus deploy paramilitary units nationwide within hours of Khamenei’s killing to deter unrest?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ali Alfoneh state that the regime's survival depends primarily on winning a military victory against the United States?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article identify the publication This Week In Asia as the outlet where Ali Alfoneh made his comments?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that the Islamic Republic’s security institutions had already fractured and ceased to close ranks after Khamenei's death?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article warn that power might shift further toward the military establishment during a contested interim period?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ali Alfoneh claim that an angry and impoverished public returning to the streets would likely strengthen the security services?",
+    "a": "No"
+  }
+]

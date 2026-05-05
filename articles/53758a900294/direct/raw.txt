@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Warner Bros. win the Academy Award for Best Picture in March 2026 for the film \"One Battle After Another\"?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Paramount Skydance CEO David Ellison win the bidding war for Warner Bros. Discovery with a bid backed by Larry Ellison?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Netflix win the Academy Award for Best Picture in March 2026 with the film \"Frankenstein\"?",
+    "a": "No"
+  },
+  {
+    "q": "Did Warner Bros. receive a total of 11 Academy Awards at the March 2026 ceremony?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did A24's film \"Marty Supreme\" win the Academy Award for Best Picture in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is the proposed merger between Paramount Skydance and Warner Bros. Discovery valued at $110 billion?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Michael B. Jordan win the Academy Award for Best Actor in March 2026 for his role in \"One Battle After Another\"?",
+    "a": "No"
+  },
+  {
+    "q": "Did NBCUniversal's Focus Features unit win the Academy Award for Best Actress in March 2026 for Jessie Buckley's performance in \"Hamnet\"?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Walt Disney's 20th Century Studios win the Academy Award for Best Animated Feature in March 2026 for \"Avatar: Fire and Ash\"?",
+    "a": "No"
+  },
+  {
+    "q": "Did Paramount Skydance plan to achieve $6 billion in cost savings from the proposed deal with Warner Bros. Discovery?",
+    "a": "Yes"
+  }
+]

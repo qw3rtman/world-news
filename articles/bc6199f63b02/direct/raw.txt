@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did retired Gen. Jack Keane state that Gulf states are preparing for combat against Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Saturday morning strikes in February 2026 target senior Iranian leaders and Iran’s ballistic missile infrastructure?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the February 2026 U.S.-led airstrikes result in the elimination of Supreme Leader Ayatollah Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did retired Gen. Jack Keane publicly identify the three specific Gulf states preparing for combat in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Saturday morning strikes in February 2026 occur at night rather than during the day?",
+    "a": "No"
+  },
+  {
+    "q": "Did retired Gen. Jack Keane claim that air superiority had already been achieved inside Iranian territory in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the February 2026 coordinated operation involve only the U.S. Central Command without participation from the Israel Defense Forces?",
+    "a": "No"
+  },
+  {
+    "q": "Did retired Gen. Jack Keane state that one of the three Gulf states preparing for combat had already started its operations in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did retired Gen. Jack Keane claim that the Gulf states were publicly criticizing the U.S. and IDF strikes in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the February 2026 strikes target Iran’s nuclear power plants rather than its ballistic missile and drone infrastructure?",
+    "a": "No"
+  }
+]

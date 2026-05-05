@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Balendra Shah, the prime ministerial candidate for the Rastriya Swatantra Party, campaign in the Jhapa district of Nepal ahead of the March 5, 2026 election?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did former Prime Minister K.P. Sharma Oli resign from office following the Gen Z demonstrations in September 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Gen Z demonstrations in Nepal result in 77 deaths and force the resignation of Prime Minister K.P. Sharma Oli?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Balendra Shah, the Rastriya Swatantra Party candidate, rely heavily on mainstream press coverage during his 2026 campaign?",
+    "a": "No"
+  },
+  {
+    "q": "Did K.P. Sharma Oli win his six electoral victories in the Jhapa district during the 1990s?",
+    "a": "No"
+  },
+  {
+    "q": "Did Balendra Shah, the former mayor of Kathmandu, join the Rastriya Swatantra Party in January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Gen Z demonstrations in Nepal primarily focus on issues of rampant corruption and unemployment?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did K.P. Sharma Oli, the four-time prime minister, campaign exclusively through social media and avoid face-to-face interactions in the Jhapa district in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Balendra Shah's campaign team distribute \"Promise Letters\" based on documented public grievances during the 2026 election?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Gen Z demonstrations in Nepal leave 77 people dead and force the resignation of Prime Minister Pushpa Kamal Dahal?",
+    "a": "No"
+  }
+]

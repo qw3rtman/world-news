@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did spot gold rise more than 2% to a three-week high on Monday, February 23, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump vow to raise duties on all U.S. imports from 10% to 15% following the Supreme Court's ruling against his earlier levies?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did spot gold touch a record high of $5,594.82 per ounce on January 29, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mainland China's gold market remain closed for the Lunar New Year holiday and reopen on Wednesday, February 25, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did underlying U.S. inflation rise more than expected in December 2025, according to data released on Friday, February 20, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. gold futures for April delivery settle 2.8% higher at $5,225.60 per ounce on Monday, February 23, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did CPM Group managing partner Jeffrey Christian state that gold prices were expected to fall sharply during the Lunar New Year holiday week?",
+    "a": "No"
+  },
+  {
+    "q": "Did spot silver climb 3.2% to $87.23 per ounce on Monday, February 23, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. economic growth accelerate sharply in the fourth quarter of 2025, according to separate figures released on Friday, February 20, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did spot platinum edge 0.7% higher to $2,140.75 per ounce on Monday, February 23, 2026?",
+    "a": "No"
+  }
+]

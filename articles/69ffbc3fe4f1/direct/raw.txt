@@ -1,0 +1,22 @@
+{
+  "q": "Did U.S. President Donald Trump state that the U.S. military had struck numerous Iranian naval and air targets four days into the war?",
+  "a": "Yes",
+  "q": "Did Iranian drones strike the U.S. embassy in Saudi Arabia in response to the U.S. assault on Iran?",
+  "a": "Yes",
+  "q": "Did Secretary of State Marco Rubio report that the U.S. consulate in Dubai was hit and all personnel were accounted for?",
+  "a": "Yes",
+  "q": "Did the Israeli military strike the Minzadehei underground nuclear development site in Tehran?",
+  "a": "Yes",
+  "q": "Did Iran's Supreme Leader Ayatollah Ali Khamenei survive the opening salvoes of the conflict?",
+  "a": "No",
+  "q": "Did U.S. retail gasoline prices average $5.00 per gallon according to the American Automobile Association?",
+  "a": "No",
+  "q": "Did Qatar increase its LNG production in response to the disruption of shipping through the Strait of Hormuz?",
+  "a": "No",
+  "q": "Did Iran report that 165 girls were killed on the war's first day when their school was bombed?",
+  "a": "No",
+  "q": "Did Israeli Foreign Minister Gideon Saar explicitly set a firm timeframe for the end of the military campaign during his closed-door briefing?",
+  "a": "No",
+  "q": "Did the European wholesale price for natural gas rise by 40% as global markets slid?",
+  "a": "Yes"
+}

@@ -1,0 +1,22 @@
+{
+  "q": "Did two sources familiar with the matter tell Reuters on Wednesday that the strike on an Iranian girls' school may be the result of U.S. use of outdated targeting data?",
+  "a": "Yes",
+  "q": "Did the strike on an Iranian girls' school kill scores of adults rather than children?",
+  "a": "No",
+  "q": "Did the sources tell Reuters on Wednesday, March 4, 2026, that the strike may be the result of U.S. use of outdated targeting data?",
+  "a": "No",
+  "q": "Would the strike on the Iranian girls' school rank among the worst cases of civilian casualties in decades of U.S. conflicts?",
+  "a": "Yes",
+  "q": "Did two sources familiar with the matter tell Reuters on Wednesday that the strike on an Iranian girls' school was the result of intentional targeting errors by Iranian forces?",
+  "a": "No",
+  "q": "Did the strike on an Iranian girls' school kill scores of children?",
+  "a": "Yes",
+  "q": "Did the sources tell Reuters on Wednesday that the strike on an Iranian girls' school was the result of U.S. use of cutting-edge targeting data?",
+  "a": "No",
+  "q": "Did the strike on an Iranian girls' school result in civilian casualties that would rank among the worst cases in decades of U.S. conflicts?",
+  "a": "Yes",
+  "q": "Did two sources familiar with the matter tell Reuters on Wednesday that the strike on an Iranian girls' school was unrelated to U.S. military operations?",
+  "a": "No",
+  "q": "Did the strike on an Iranian girls' school kill scores of children, potentially resulting from U.S. use of outdated targeting data?",
+  "a": "Yes"
+}

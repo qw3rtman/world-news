@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did shares of American Airlines Group Inc. drop as much as 7.4% on Monday, March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did shares of Carnival Corp. plunge nearly 12% on Monday, March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did shares of Exxon Mobil Corp. jump 4.7% to an intraday record on Monday, March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did defense contractors such as Lockheed Martin Corp. and RTX Corp. advance on Monday, March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did shares of cruise operators fall on Monday, March 2, 2026, as investors reacted to the conflict in the Middle East?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did shares of American Airlines Group Inc. rise as much as 7.4% on Monday, March 2, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did shares of Carnival Corp. jump nearly 12% on Monday, March 2, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did shares of Exxon Mobil Corp. drop 4.7% on Monday, March 2, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did defense contractors such as Lockheed Martin Corp. and RTX Corp. fall on Monday, March 2, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did shares of hotels fall on Monday, March 2, 2026, as investors reacted to the conflict in Ukraine?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump publicly call for regime change in Iran following the joint U.S. and Israeli military strikes in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu reference the Jewish holiday of Purim in his first public statement regarding the attack on Iran in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran launch a retaliatory strike using a drone that hit a densely populated neighborhood in Dubai in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump authorize the first American military attack on Iranian soil in June 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran fire ballistic missiles at the al-Udeid Air Base in Qatar in retaliation for the U.S. strikes on Iran in June 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Ambassador to Israel Mike Huckabee encourage U.S. citizens in Israel to remain in their homes rather than seek shelters during the February 2026 strikes on Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli hospitals, including Tel Aviv’s Sourasky Medical Center, shift to underground operations in response to the February 2026 strikes on Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Human Rights Activists News Agency (HRANA) report that at least 5,520 protesters were killed in Iran during the demonstrations that began in late December 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States carry out its previous military strikes on Iranian nuclear facilities in March 2024?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli Defense Minister Israel Katz describe the February 2026 military action against Iran as a \"preemptive strike\"?",
+    "a": "Yes"
+  }
+]

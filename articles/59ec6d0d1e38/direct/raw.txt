@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did spot gold prices fall 3.6% to $5,137.00 an ounce on Tuesday, March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. gold futures settle 3.5% lower at $5,123.70 on Tuesday, March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Bob Haberkorn, senior market strategist at RJO Futures, attribute the decline in gold prices to a flight to liquidity and a strong dollar on March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did spot gold prices gain 64% in the year 2025, according to data reported on March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did platinum lose 8.4% to $2,108.51 on Tuesday, March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did a senior Iranian Revolutionary Guards official announce the closure of the Strait of Hormuz on Tuesday, March 3, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did crude oil benchmarks jump over 8% on Monday, March 2, 2026, in response to the Iran conflict?",
+    "a": "No"
+  },
+  {
+    "q": "Did spot silver fall 6.6% to $83.50 an ounce on Monday, March 2, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Fawad Razaqzada, market analyst at City Index and FOREX.com, state that gold is typically preferred in high-rate environments because it yields interest on March 3, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did spot gold hit an over four-week high in the session preceding Tuesday, March 3, 2026?",
+    "a": "Yes"
+  }
+]

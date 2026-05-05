@@ -1,0 +1,22 @@
+{
+  "q": "Did UniCredit make a takeover offer for the Commerzbank as reported in the March 16, 2026 DER SPIEGEL article?",
+  "a": "Yes",
+  "q": "Is Andrea Orcel identified as the CEO of UniCredit in the March 16, 2026 DER SPIEGEL article?",
+  "a": "Yes",
+  "q": "Is the photograph of Andrea Orcel credited to Nick Zonna / ZUMA Press / picture alliance in the March 16, 2026 DER SPIEGEL article?",
+  "a": "Yes",
+  "q": "Does the March 16, 2026 DER SPIEGEL article state that the article link is invalid because it is older than 30 days?",
+  "a": "No",
+  "q": "Does the March 16, 2026 DER SPIEGEL article state that the article link is invalid because it has been opened 10 times?",
+  "a": "No",
+  "q": "Does the March 16, 2026 DER SPIEGEL article provide the specific financial terms of the takeover offer for the Commerzbank?",
+  "a": "No",
+  "q": "Does the March 16, 2026 DER SPIEGEL article mention that Andrea Orcel has already completed the takeover of the Commerzbank?",
+  "a": "No",
+  "q": "Is the article published by the Financial Times in March 2026?",
+  "a": "No",
+  "q": "Is the article written by a journalist named Hans Mueller in March 2026?",
+  "a": "No",
+  "q": "Does the March 16, 2026 DER SPIEGEL article discuss the merger with Deutsche Bank?",
+  "a": "No"
+}

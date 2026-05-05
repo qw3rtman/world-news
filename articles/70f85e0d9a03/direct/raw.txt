@@ -1,0 +1,40 @@
+{
+  "q": "Did CNN publish the article titled 'Breaking News, Latest News and Videos | CNN' on February 21, 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did U.S. assets strike across the Middle East according to the news updates provided in the article?",
+  "a": "Yes"
+}
+{
+  "q": "Did European nations scramble to evacuate citizens stranded in the Middle East?",
+  "a": "Yes"
+}
+{
+  "q": "Did the Israeli military claim to have intercepted rockets launched from Lebanon?",
+  "a": "Yes"
+}
+{
+  "q": "Did the article suggest that China may benefit from President Donald Trump's call to safeguard the Strait of Hormuz?",
+  "a": "Yes"
+}
+{
+  "q": "Did the Israeli military order further evacuations in southern Lebanon?",
+  "a": "Yes"
+}
+{
+  "q": "Did the article report that U.S. assets struck across North Africa in February 2026?",
+  "a": "No"
+}
+{
+  "q": "Did Asian nations scramble to evacuate citizens stranded in the Middle East according to the article?",
+  "a": "No"
+}
+{
+  "q": "Did the Israeli military claim to have intercepted rockets launched from Syria?",
+  "a": "No"
+}
+{
+  "q": "Did the article suggest that Russia may benefit from President Donald Trump's call to safeguard the Strait of Hormuz?",
+  "a": "No"
+}

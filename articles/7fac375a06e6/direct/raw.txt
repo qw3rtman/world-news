@@ -1,0 +1,22 @@
+{
+  "q": "Did Brent crude futures settle above $100 per barrel on March 12, 2026?",
+  "a": "Yes",
+  "q": "Did U.S. Energy Secretary Chris Wright state on March 12, 2026, that the U.S. Navy was currently escorting ships through the Strait of Hormuz?",
+  "a": "No",
+  "q": "Did the International Energy Agency approve the release of 400 million barrels of oil from strategic stockpiles in March 2026?",
+  "a": "Yes",
+  "q": "Did U.S. President Donald Trump propose waiving the Jones Act in March 2026 to allow energy shipments between U.S. ports and foreign nations?",
+  "a": "No",
+  "q": "Did Iran's supreme leader vow to keep the Strait of Hormuz closed in March 2026?",
+  "a": "Yes",
+  "q": "Did Oman shift all vessels out of its main oil export terminal at Mina Al Fahal in March 2026 due to precautionary measures?",
+  "a": "Yes",
+  "q": "Did Middle East Gulf countries increase total oil production by 10 million barrels per day in March 2026?",
+  "a": "No",
+  "q": "Did China order an immediate ban on refined fuel exports in March 2026?",
+  "a": "Yes",
+  "q": "Did the International Energy Agency state that the Middle East conflict caused the second-largest oil-supply disruption in global market history in March 2026?",
+  "a": "No",
+  "q": "Did Brent crude hit a session high of $119.50 a barrel on Monday, March 9, 2026, before dropping?",
+  "a": "Yes"
+}

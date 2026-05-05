@@ -1,0 +1,22 @@
+{
+  "q": "Did Hamas military chief Mohammad Deif declare that the day had come for the Islamic resistance in Lebanon, Iran, Yemen, Iraq, and Syria on October 7, 2023?",
+  "a": "Yes",
+  "q": "Did the rockets and gunmen pour into Israel from Gaza at dawn on October 7, 2023?",
+  "a": "Yes",
+  "q": "Did the day that came on October 7, 2023, match the specific outcome that Hamas military chief Mohammad Deif had imagined?",
+  "a": "No",
+  "q": "Did the article state that the shift in regional power occurred before the Hamas attack on October 7, 2023?",
+  "a": "No",
+  "q": "Did the article identify Ethan Bronner as the author of the report published on March 7, 2026?",
+  "a": "Yes",
+  "q": "Did Hamas military chief Mohammad Deif make his declaration from within Israel during the dawn attack on October 7, 2023?",
+  "a": "No",
+  "q": "Did the article mention Syria as one of the locations of the Islamic resistance brothers to whom Deif addressed his declaration?",
+  "a": "Yes",
+  "q": "Did the article claim that Israel successfully prevented any rockets from entering its territory on October 7, 2023?",
+  "a": "No",
+  "q": "Was the Bloomberg article titled 'Israel’s War With Iran Marks Shift in Regional Power Since Hamas Attack' published in the year 2026?",
+  "a": "Yes",
+  "q": "Did the article state that the Islamic resistance in Lebanon, Iran, Yemen, Iraq, and Syria achieved the exact victory that Mohammad Deif predicted on October 7, 2023?",
+  "a": "No"
+}

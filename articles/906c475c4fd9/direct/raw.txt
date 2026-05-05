@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did oil prices rise following joint strikes from the United States and Israel against Iran on March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did crude oil prices reach triple-digit levels at the start of trading on March 2, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did petroleum analyst Patrick De Haan characterize the price movement as a structural supply shock rather than a risk premium on March 2, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Rob Haworth of U.S. Bank Asset Management state that the market believes the conflict is likely limited in duration to up to 4 weeks on March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Venezuela's oil production offset the more than 3 million barrels a day produced by Iran on March 2, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Neil Dingmann of William Blair report that global oil producers including OPEC+ signaled intent to step into the void left by Iran on March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Patrick De Haan state that Venezuelan production could approach Iran’s export scale within weeks on March 2, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Rob Haworth identify a prolonged conflict leaving the Strait of Hormuz unnavigable as the key risk for oil exceeding $100 per barrel on March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Patrick De Haan forecast that U.S. consumers would see gas price increases of 10-30 cents per gallon over the coming week on March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Patrick De Haan state that the oil market was poorly supplied ahead of the conflict on March 2, 2026?",
+    "a": "No"
+  }
+]

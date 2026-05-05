@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump increase global tariffs to 15% in February 2026 after the Supreme Court ruled his previous emergency tariffs illegal?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Supreme Court Justices Neil Gorsuch and Amy Coney Barrett join the majority opinion ruling against President Donald Trump’s emergency tariffs in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump revoke his endorsement of Representative Jeff Hurd in February 2026 because Hurd voted to repeal tariffs on Canada?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did eighteen Democratic governors boycott President Donald Trump’s Saturday dinner for governors in February 2026 due to initial exclusion efforts?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Supreme Court rule in February 2026 that President Donald Trump’s emergency tariffs were legal under his national emergency powers?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump send a hospital boat to Greenland in February 2026 to provide medical care for sick residents?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Illinois Governor JB Pritzker demand a refund of $8.68 billion from President Donald Trump in February 2026 for tariff impacts on families?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Supreme Court Justice Brett Kavanaugh join the majority opinion ruling against President Donald Trump’s emergency tariffs in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump authorize FEMA assistance for a sewage spill in the Potomac River in February 2026 while Maryland Governor Wes Moore argued the federal government was responsible?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did imports from Canada and Mexico become completely tariff-free under President Donald Trump’s new 15% global tariff announcement in February 2026?",
+    "a": "No"
+  }
+]

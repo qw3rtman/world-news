@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iran effectively close the Strait of Hormuz in March 2026 using cheap drones rather than a traditional naval blockade?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did global crude oil prices drop by more than 10% in the days following the U.S. and Israel's attack on Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the closure of the Strait of Hormuz force Iraq to shut down production in some of its largest oil fields because it lacked alternative export routes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did experts anticipate that the closure of the Strait of Hormuz would result in an insurance-driven shutdown similar to the tanker war of the 1980s?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump announce that the U.S. Development Finance Corporation would provide political risk insurance to shipping lines in the Gulf in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did William Henagan of the Council on Foreign Relations state that the DFC has the capacity to feasibly insure all maritime trade in the Middle East?",
+    "a": "No"
+  },
+  {
+    "q": "Did recent attacks on oil and gas infrastructure in Saudi Arabia, Qatar, and the UAE raise questions about the feasibility of redirecting oil to other ports?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran achieve the closure of the Strait of Hormuz by deploying underwater mines and relying heavily on anti-ship missiles?",
+    "a": "No"
+  },
+  {
+    "q": "Did Helima Croft of RBC Capital Markets describe the situation as the biggest energy crisis since the oil embargo in the 1970s?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Stamatis Tsantanis of Seanergy Maritime state that normal traffic through the strait would resume immediately once U.S. naval escorts were provided?",
+    "a": "No"
+  }
+]

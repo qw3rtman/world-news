@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Mojtaba Khamenei succeed his father, Ayatollah Ali Khamenei, as Iran's supreme leader in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Ayatollah Ali Khamenei killed in the first wave of US and Israeli strikes in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump publicly express opposition to Mojtaba Khamenei becoming Iran's new supreme leader in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Assembly of Experts select Mojtaba Khamenei as the new supreme leader in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Mojtaba Khamenei hold any government office prior to becoming supreme leader in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israel state it would continue to pursue Mojtaba Khamenei after his appointment as supreme leader in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Mojtaba Khamenei the eldest of Ayatollah Ali Khamenei's six children?",
+    "a": "No"
+  },
+  {
+    "q": "Did the US impose sanctions on Mojtaba Khamenei in 2019?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mojtaba Khamenei wear clerical clothing from the time of his birth in 1969?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran's UN ambassador claim that US-Israeli strikes killed at least 1,332 Iranian civilians in March 2026?",
+    "a": "Yes"
+  }
+]

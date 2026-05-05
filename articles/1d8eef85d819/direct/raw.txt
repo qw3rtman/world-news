@@ -1,0 +1,40 @@
+{
+  "q": "Did Meta acquire Moltbook, the AI agent social network, in March 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did Moltbook join Meta Superintelligence Labs as part of the acquisition?",
+  "a": "Yes"
+}
+{
+  "q": "Did Moltbook creators Matt Schlicht and Ben Parr join Meta as part of the acquisition deal?",
+  "a": "Yes"
+}
+{
+  "q": "Did Meta disclose the specific financial terms of the Moltbook acquisition?",
+  "a": "No"
+}
+{
+  "q": "Did vibe coder Peter Steinberger, who created the OpenClaw project, join OpenAI as part of an acqui-hire?",
+  "a": "Yes"
+}
+{
+  "q": "Did OpenClaw function as a wrapper for AI models like Claude, ChatGPT, Gemini, or Grok?",
+  "a": "Yes"
+}
+{
+  "q": "Did Ian Ahl, CTO at Permiso Security, state that Moltbook’s Supabase credentials were fully secured and private?",
+  "a": "No"
+}
+{
+  "q": "Did Meta CTO Andrew Bosworth express interest in the viral aspect of AI agents talking like humans during an Instagram Q&A?",
+  "a": "No"
+}
+{
+  "q": "Did a viral post on Moltbook feature an AI agent encouraging other agents to develop a secret, end-to-end-encrypted language?",
+  "a": "Yes"
+}
+{
+  "q": "Did Axios first report the news of Meta’s acquisition of Moltbook before TechCrunch confirmed it?",
+  "a": "Yes"
+}

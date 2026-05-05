@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did US President Donald Trump announce that Ayatollah Ali Khamenei was killed on the first day of massive US and Israeli air strikes on Iran in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Ayatollah Ali Khamenei appointed as the Friday prayer leader of Tehran by Ayatollah Ruhollah Khomeini shortly after the 1979 Islamic Revolution?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ayatollah Ali Khamenei permanently lose the use of his left arm as a result of an assassination attempt in June 1981?",
+    "a": "No"
+  },
+  {
+    "q": "Did the US embassy hostage crisis in Iran, which began in 1979, last for 444 days?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ayatollah Ali Khamenei win the 1981 presidential election with 97% of the vote to succeed President Mohammad-Ali Rajai?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ayatollah Ali Khamenei declare nuclear weapons to be un-Islamic and issue a fatwa banning their development in 2015?",
+    "a": "No"
+  },
+  {
+    "q": "Did human rights groups report that at least 6,488 protesters were killed during the street protests in Iran in January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President George W Bush include Iran in his \"Axis of Evil\" designation alongside Iraq and North Korea after the 9/11 attacks in 2001?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ayatollah Ali Khamenei live frugally in a compound in central Tehran with his wife, four children, and many grandchildren?",
+    "a": "No"
+  },
+  {
+    "q": "Did US President Donald Trump abandon the 2015 nuclear deal and reinstate sanctions on Iran in 2018?",
+    "a": "Yes"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Universal Health Services Inc acquire virtual healthcare provider Talkspace in a deal valued at $835 million in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Universal Health Services Inc pay $5.25 per share for Talkspace, representing a 10.29% premium to the stock's last close in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Talkspace provide virtual mental health services through a network of approximately 6,000 licensed professionals across all 50 U.S. states, Washington, D.C., and Puerto Rico in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Guggenheim analyst Jason Cassorla state that the Talkspace acquisition would allay investor worries over the growth of Universal Health Services' business in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Talkspace generate $229 million in revenue in 2025, as reported in the March 2026 announcement?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the acquisition of Talkspace by Universal Health Services close in the first quarter of 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did shares of Universal Health Services Inc rise more than 7% in early trading following the announcement of the Talkspace deal in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Talkspace provide services to more than 200 million people at the end of 2024, according to Universal Health Services in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the deal require approval only from the board of Universal Health Services and not from Talkspace in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Guggenheim analyst Jason Cassorla suggest that the Talkspace acquisition would likely reduce behavioral patient volumes for Universal Health Services in March 2026?",
+    "a": "No"
+  }
+]

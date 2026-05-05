@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Luma launch its Luma Agents platform on March 5, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the Uni-1 model the first release in Luma's Unified Intelligence family of AI models?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Luma CEO Amit Jain describe the Uni-1 model's capability as 'intelligence in pixels'?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Luma Agents currently available to the public via an API?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Luma demonstrate a case where Luma Agents converted a $15 million year-long ad campaign into localized ads in under 40 hours?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Luma Agents demonstrate the ability to generate ad campaign ideas from a 200-word brief and an image of a tube of lipstick?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Luma Agents coordinate with Google's Gemini 2.0 model during the product launch in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Luma CEO Amit Jain state that the current workflow for AI tools in creative environments accelerates benefits as much as the coding industry does?",
+    "a": "No"
+  },
+  {
+    "q": "Did Luma immediately roll out full public access to Luma Agents to all users simultaneously upon launch in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Luma Agents demonstrate the ability to produce localized ads for under $20,000 in the case study cited by Amit Jain?",
+    "a": "Yes"
+  }
+]

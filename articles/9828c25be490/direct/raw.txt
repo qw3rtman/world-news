@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iran’s Supreme Leader Ali Khamenei die in airstrikes on Saturday, February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ali Khamenei permanently lose the use of his right arm in 1981?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Assembly of Experts formally and permanently appoint Ali Khamenei as leader of the Islamic Republic in November 1989?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States military campaign against the Houthis in the Red Sea and Yemen significantly weaken the Islamic Republic’s influence in the region during 2024 and 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ali Khamenei personally order the suppression of the January 2026 protests with an explicit instruction to \"shoot to kill\"?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran’s Supreme Leader Ali Khamenei die in a bombing at the Abuzar Mosque in Tehran in 1981?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United States carry out an independent operation dubbed \"Midnight Hammer\" against Iran’s nuclear infrastructure in June 2024?",
+    "a": "No"
+  },
+  {
+    "q": "Did the January 2026 massacre result in over 36,000 deaths according to reports cited in the article?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Constitution of the Islamic Republic require the Supreme Leader to be a \"source of emulation\" (marjaʿ-e taqlid) at the time of Ali Khamenei's initial selection in June 1989?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israel launch an operation against nuclear and missile facilities in Iran, including sites at Natanz and Fordow, in June 2025?",
+    "a": "No"
+  }
+]

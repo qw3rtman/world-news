@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the United Arab Emirates consider freezing Iranian assets in response to Iranian drone and missile attacks in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Arab Emirates join military action against Iran following the strikes in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran fire more than 1,000 drones and missiles against targets in the UAE in retaliation for a U.S.-Israel joint attack in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Arab Emirates decide to freeze billions of dollars of Iranian assets by mid-March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Wall Street Journal report that the United Arab Emirates was considering cutting off Iranian access to billions of dollars held in the Gulf state in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Arab Emirates affirm its stance to join offensive military action against Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian strikes in March 2026 damage infrastructure including Dubai International airport and the Fairmont hotel?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States Treasury state that enforcement of sanctions within the UAE had exceeded the country's stated commitments in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S.-based think tank Atlantic Council identify Dubai as a crucial financial corridor for Iranian businesses to bypass Western sanctions in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Arab Emirates ministry of foreign affairs state in March 2026 that its policy involved active de-escalation and a rejection of the Charter of the United Nations?",
+    "a": "No"
+  }
+]

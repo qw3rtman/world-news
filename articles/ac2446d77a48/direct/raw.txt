@@ -1,0 +1,40 @@
+{
+  "q": "Did President Donald Trump move the U.S. Embassy to Jerusalem during his five years in the White House?",
+  "a": "Yes"
+}
+{
+  "q": "Did President Donald Trump recognize Israeli sovereignty over the Golan Heights during his five years in the White House?",
+  "a": "Yes"
+}
+{
+  "q": "Did President Donald Trump expand the Iran nuclear deal during his five years in the White House?",
+  "a": "No"
+}
+{
+  "q": "Did President Donald Trump gut U.N. funding for Palestinian refugees during his five years in the White House?",
+  "a": "Yes"
+}
+{
+  "q": "Did President Donald Trump condemn Jewish settlers in the West Bank during his five years in the White House?",
+  "a": "No"
+}
+{
+  "q": "Did Jewish settlers in the West Bank receive their own U.S. passport office during President Donald Trump's five years in the White House?",
+  "a": "Yes"
+}
+{
+  "q": "Did President Donald Trump serve for ten years in the White House according to the article?",
+  "a": "No"
+}
+{
+  "q": "Did Prime Minister Benjamin Netanyahu view President Donald Trump as a prophetic fulfillment for the Israeli right during his five years in the White House?",
+  "a": "Yes"
+}
+{
+  "q": "Did President Donald Trump establish a U.S. passport office for Jewish settlers in the Gaza Strip during his five years in the White House?",
+  "a": "No"
+}
+{
+  "q": "Did President Donald Trump rip up the Iran nuclear deal during his five years in the White House?",
+  "a": "Yes"
+}

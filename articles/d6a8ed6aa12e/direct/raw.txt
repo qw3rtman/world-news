@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Viking Mines complete the digitisation of historical data for 70 holes and 2881 metres of drilling at its Linka project in Nevada, USA, by February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is tungsten trioxide also known as tungstite, a rare yellow secondary mineral formed by the weathering of tungsten-bearing ores?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Viking Mines identify the Conquest area as being located 650 metres southwest of the Linka Main pit in Nevada?",
+    "a": "No"
+  },
+  {
+    "q": "Did the standout drill intercept at the Conquest area include 1.5 metres assaying 4.8 per cent tungsten trioxide?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the basal quartz monzonite at the Conquest site believed to potentially exist as a horizontal flat-lying layer rather than a dyke or steeply dipping feeder structure?",
+    "a": "No"
+  },
+  {
+    "q": "Did Rotterdam ammonium paratungstate (APT) prices increase by almost 500 per cent in the year leading up to February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does Viking Mines plan to begin its maiden reverse circulation drilling program in the first quarter of 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Will upcoming 2026 US procurement changes under the Defense Federal Acquisition Regulation Supplement (DFARS) restrict tungsten from certain countries?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the Conquest tungsten mineralisation hosted in the Antelope Valley Limestone rather than the Vinini Formation?",
+    "a": "No"
+  },
+  {
+    "q": "Does Viking Mines intend to integrate geophysical data, including gravity and magnetic data, into a 3D model of the 1.6 km-long mineralised corridor?",
+    "a": "Yes"
+  }
+]

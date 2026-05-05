@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump state during his 2026 State of the Union address that Iran's nuclear program was \"obliterated\" last summer?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. special envoy Steve Witkoff assert on a Saturday in early 2026 that Iran could be as close as a week away from having industrial-grade bomb-making material?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Defense Intelligence Agency report in early 2026 that Iran could have 60 intercontinental ballistic missiles capable of reaching the U.S. homeland by 2035?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's foreign ministry spokesman Esmail Baghaei compare President Donald Trump's remarks to Nazi propaganda in early 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the CIA publicly confirm in early 2026 that the U.S. government had acknowledged Iran had decided to pursue the capability to build intercontinental ballistic missiles?",
+    "a": "No"
+  },
+  {
+    "q": "Did the initial U.S. assessment after the June 2025 Operation Midnight Hammer find that all three targeted nuclear enrichment sites were mostly destroyed?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump pull the U.S. out of the landmark Obama-era nuclear deal with Iran in 2018?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Rafael Grossi, head of the International Atomic Energy Agency, indicate in 2026 that the Iranian nuclear program had been completely eliminated by the U.S. and Israeli strikes?",
+    "a": "No"
+  },
+  {
+    "q": "Did Kelsey Davenport, director for nonproliferation policy at the Arms Control Association, state in early 2026 that there appeared to be little indication of Iran testing missiles capable of targeting the U.S.?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump state in his 2026 State of the Union address that his preference was to resolve the issue through military action rather than diplomacy?",
+    "a": "No"
+  }
+]

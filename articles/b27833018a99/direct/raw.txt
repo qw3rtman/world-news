@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Israeli officials state on Sunday, March 15, 2026, that Israel and Lebanon were expected to hold talks aimed at securing a durable ceasefire?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ron Dermer, serving as a confidante to Israeli Prime Minister Benjamin Netanyahu, lead the Israeli delegation for the expected talks with Lebanon in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Lebanon's President Joseph Aoun demand a full ceasefire as a prerequisite for allowing negotiations to take place in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Lebanese government ban Hezbollah's military activities in March 2026, a move that the group rejected and continued to fight against?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israel's Foreign Minister Gideon Saar confirm on Sunday, March 15, 2026, that talks with Lebanon were being held?",
+    "a": "No"
+  },
+  {
+    "q": "Did the war in the Middle East begin on March 2, 2026, when Hezbollah opened fire at Israel to avenge the killing of Iran's president?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Israeli military offensive against Hezbollah in Lebanon result in more than 1,500 deaths in Lebanon by mid-March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Saudi Arabia lead the diplomatic initiative for the expected ceasefire talks between Israel and Lebanon in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israel's newspaper Haaretz first report the expected talks between Israel and Lebanon on Saturday, March 14, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ron Dermer visit Saudi Arabia in February 2026 to discuss the talks that would begin once the military campaign against Hezbollah was exhausted?",
+    "a": "No"
+  }
+]

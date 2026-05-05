@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did US President Donald Trump announce \"major combat operations\" in Iran in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian state media confirm the death of Supreme Leader Ayatollah Ali Khamenei on Sunday in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the domestic commodities market in India remain closed on Tuesday in March 2026 for the festival of Holi?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did silver futures for March delivery on the Multi Commodity Exchange (MCX) surge by approximately 8.72 percent in the week leading up to March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the US Supreme Court rule in favor of US President Donald Trump’s trade tariffs in early March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Jateen Trivedi of LKP Securities state that gold and silver prices were set to remain highly volatile with gap-up openings in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Comex silver futures jump by USD 10.34 (12.55 percent) over the past week in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Pranav Mer of JM Financial Services attribute the rise in bullion prices primarily to a swift diplomatic resolution in the Middle East in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did rising crude oil prices due to fears of supply disruptions through the Strait of Hormuz support bullion interest in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that the Multi Commodity Exchange (MCX) was closed on Monday in March 2026?",
+    "a": "No"
+  }
+]

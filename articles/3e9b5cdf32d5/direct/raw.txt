@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President William Ruto of Kenya announce that two border crossings with Somalia would be reopened in April 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Had Kenya's land borders with Somalia been officially closed since 2011 prior to the 2026 announcement?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Kenya reverse a previous decision to reopen the border in 2023 following attacks blamed on Al-Shabab?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the 2023 reversal of the border reopening decision follow the killing of five civilians and eight police officers?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the Kenya-Somalia border dispute primarily focused on a land border crossing point in Mandera?",
+    "a": "No"
+  },
+  {
+    "q": "Did Somalia join the East African Community passport system in 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the Westgate shopping mall attack in Nairobi carried out by Al-Shabab in 2013?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President William Ruto state that it was unacceptable for Kenyans in Mandera to remain cut off from their kin in Somalia?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Al-Shabab an al-Qaeda-affiliated insurgency group based in Kenya?",
+    "a": "No"
+  },
+  {
+    "q": "Did Somali traders express support for the border opening due to severe drought conditions affecting the region?",
+    "a": "Yes"
+  }
+]

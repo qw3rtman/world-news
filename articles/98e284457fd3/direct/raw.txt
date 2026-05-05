@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did GSK agree to pay $950 million in cash for the Canadian biotech company 35Pharma in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Luke Miels the new CEO of GSK who took over from Emma Walmsley in January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the acquisition of 35Pharma the first major deal struck by CEO Luke Miels to accelerate the development of new medicines at GSK?",
+    "a": "No"
+  },
+  {
+    "q": "Did GSK agree to buy RAPT Therapeutics for $2.2 billion in January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the experimental drug HS235 developed by GSK intended to treat pulmonary hypertension, a condition affecting more than 80 million people globally?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Merck's injectable treatment Winrevair a current treatment for pulmonary hypertension?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did GSK shares rise nearly 21% in the year 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Has CEO Luke Miels stated that GSK will keep its focus on the downstream effects of obesity like liver and heart diseases?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did GSK agree to a deal worth up to $1 billion on Tuesday for global rights to develop therapies from Frontier Biotechnologies targeting kidney diseases?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the drug HS235 in late-stage clinical trials for treating pulmonary hypertension in patients who have previously received treatment?",
+    "a": "No"
+  }
+]

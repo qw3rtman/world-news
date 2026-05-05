@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Likud minister Gila Gamliel state that Israeli national elections would likely be moved up in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Gila Gamliel propose moving Israeli national elections to late June or July 7 in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Gila Gamliel suggest that the original election date was October in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Gila Gamliel cite the Iran war as a factor influencing the potential change in election timing in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Gila Gamliel claim that many Israelis would likely want to go on vacation in August in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Likud minister Gila Gamliel propose moving Israeli national elections to late June or July 7 in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Gila Gamliel propose moving Israeli national elections to late June or July 7 in March 2027?",
+    "a": "No"
+  },
+  {
+    "q": "Did Gila Gamliel suggest that the original election date was November in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Gila Gamliel cite the Russia-Ukraine war as a factor influencing the potential change in election timing in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Gila Gamliel claim that many Israelis would likely want to go on vacation in September in March 2026?",
+    "a": "No"
+  }
+]

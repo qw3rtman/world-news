@@ -1,0 +1,22 @@
+{
+  "q": "Did Treasury Secretary Scott Bessent state that the United States may 'unsanction' some Iranian oil in March 2026?",
+  "a": "Yes",
+  "q": "Did Treasury Secretary Scott Bessent state that the United States would permanently ban all Iranian oil imports in March 2026?",
+  "a": "No",
+  "q": "Did sources dispute President Donald Trump’s claim that the US 'knew nothing' about the strike on Iran’s South Pars gas field in March 2026?",
+  "a": "Yes",
+  "q": "Did sources confirm President Donald Trump’s claim that the US 'knew nothing' about the strike on Iran’s South Pars gas field in March 2026?",
+  "a": "No",
+  "q": "Did Treasury Secretary Scott Bessent indicate that the US might conduct another reserve release in March 2026?",
+  "a": "Yes",
+  "q": "Did Treasury Secretary Scott Bessent indicate that the US would cease all strategic petroleum reserve releases in March 2026?",
+  "a": "No",
+  "q": "Is the South Pars gas field identified as the world’s largest gas field in the March 2026 reporting?",
+  "a": "Yes",
+  "q": "Is the South Pars gas field identified as the world’s largest oil field in the March 2026 reporting?",
+  "a": "No",
+  "q": "Did Israel carry out an attack on the South Pars gas field in March 2026?",
+  "a": "Yes",
+  "q": "Did Iran carry out an attack on the South Pars gas field in March 2026?",
+  "a": "No"
+}

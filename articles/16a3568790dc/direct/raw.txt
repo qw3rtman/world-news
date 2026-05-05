@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Tullow Oil announce a refinancing deal with Glencore in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Tullow Oil agree to sell its floating production vessel serving Ghana's TEN oilfields for $205 million in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Tullow Oil extend the maturity of its senior secured notes to November 2028 in the February 2026 announcement?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Tullow Oil report that its 2025 output averaged 42,000 barrels of oil equivalent per day in the February 2026 report?",
+    "a": "No"
+  },
+  {
+    "q": "Did Tullow Oil strike a deal with the Ghanaian government to extend its West Cape Three Points and Deep Water Tano Petroleum agreements in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Tullow Oil's shares fall by more than 70% on Thursday, February 19, 2026, following the announcement?",
+    "a": "No"
+  },
+  {
+    "q": "Did Tullow Oil expect its 2026 output to average between 34,000 and 42,000 barrels of oil equivalent per day in the February 2026 statement?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Tullow Oil's CEO Ian Perks attribute the company's financial strain to rising natural production and delayed government payments in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Tullow Oil expect to have liquidity headroom in excess of $200 million following the refinancing in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Tullow Oil's shares rise by about 23% on Friday, February 20, 2026, after falling more than 70% in 2025?",
+    "a": "No"
+  }
+]

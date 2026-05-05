@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump rally billions of dollars in pledges for Gaza's reconstruction in the week before March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did COGAT, the Israeli military body overseeing civilian affairs in Gaza, keep all crossings into the territory open on March 1, 2026, to allow humanitarian aid?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.N. World Food Program report that households in Gaza averaged two meals per day in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the World Central Kitchen state that it had already run out of supplies by March 2, 2026, due to the closure of Gaza's crossings?",
+    "a": "No"
+  },
+  {
+    "q": "Did the main Rafah border crossing reopen a month prior to March 2, 2026, allowing a flow of Palestinian traffic but no cargo?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the strikes on Iran cause the holy Muslim fasting month of Ramadan to be completely canceled for Palestinians in Gaza in 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did José Andrés, founder of the World Central Kitchen, publicly state that his organization provides 1 million meals a day in Gaza?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Oct. 10, 2023, U.S.-brokered ceasefire result in the complete cessation of all Israeli fire in Gaza by March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump launch his new Board of Peace less than two weeks before March 2, 2026, to aim at ending the war in Gaza?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israel close the Rafah border crossing with Egypt in response to the strikes on Iran in March 2026?",
+    "a": "No"
+  }
+]

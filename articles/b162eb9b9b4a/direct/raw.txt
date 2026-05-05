@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iran name Mojtaba Khamenei as its new supreme leader in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Mojtaba Khamenei the grandson of the previous supreme leader Ayatollah Ali Khamenei?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. confirm that a seventh service member died in the war with Iran by March 8, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did six members of the Army Reserve die in a drone attack on U.S. troops in Saudi Arabia?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israel target Iran's oil facilities for the first time on Saturday, March 7, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran target a desalination plant in Kuwait during the conflict?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli strikes in Beirut kill at least four people at a hotel in central Beirut on Sunday, March 8, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did British Prime Minister Keir Starmer authorize offensive operations against Iran from British bases?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran launch a missile strike on the U.S. base at Erbil's international airport in Iraq's Kurdistan region?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Chinese Foreign Minister Wang Yi call for continued military escalation in the Middle East?",
+    "a": "No"
+  }
+]

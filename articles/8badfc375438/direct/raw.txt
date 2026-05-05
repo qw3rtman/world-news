@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Palmer Luckey’s ModRetro enter into talks with potential new investors in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was ModRetro’s proposed fundraising valuation reported as $1 billion in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Anduril’s proposed fundraising valuation reported as $60 billion in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Anduril sell drones and autonomous weapons to the military in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the article published by The Verge on March 7, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Palmer Luckey’s ModRetro enter into talks with potential new investors in December 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Was Anduril’s proposed fundraising valuation reported as $10 billion in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Anduril sell consumer gaming consoles to the military in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the article published by The Wall Street Journal on March 7, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Palmer Luckey’s ModRetro enter into talks with potential new investors in March 2025?",
+    "a": "No"
+  }
+]

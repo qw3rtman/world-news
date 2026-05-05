@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the Houthi movement limit its support for Iran to rhetoric and protests during the week following the US-Israeli attacks on Iran that began on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli strikes in August 2025 kill at least 12 Houthi high-ranking government members, including Prime Minister Ahmed al-Rahawi?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Houthi chief Abdel-Malik al-Houthi state this week that Yemen stands clearly with the Islamic Republic of Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Houthi military campaign in the Red Sea corridor from late 2023 to 2025 result in the sinking of four ships?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did a 2022 United Nations report find that thousands of weapons seized in the Arabian Sea likely originated from a single port in Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Houthi movement launch direct military attacks against US and Israeli targets in the week following the start of the US-Israeli attacks on Iran on February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli strikes in August 2026 kill at least 12 Houthi high-ranking government members, including Prime Minister Ahmed al-Rahawi?",
+    "a": "No"
+  },
+  {
+    "q": "Did Yemeni political commentator Sadam al-Huraibi claim that the Houthis will enter the war only if Iran explicitly requests it?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Houthi military campaign in the Red Sea corridor from late 2023 to 2025 result in the sinking of ten ships?",
+    "a": "No"
+  },
+  {
+    "q": "Did Houthi chief Abdel-Malik al-Houthi state this week that Yemen remains neutral and does not stand with the Islamic Republic of Iran?",
+    "a": "No"
+  }
+]

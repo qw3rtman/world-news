@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the United States and Venezuela agree to reestablish diplomatic relations in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Secretary of the Interior Doug Burgum visit Venezuela in February 2026 to focus on the country's oil potential?",
+    "a": "No"
+  },
+  {
+    "q": "Were diplomatic relations between the United States and Venezuela cut off in 2019?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did former President Nicolás Maduro remain in power in Venezuela after the U.S. military operation in January 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Energy Secretary Chris Wright visit Venezuela in February 2026 to center his discussions on the nation's oil potential?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Acting President Delcy Rodríguez express confidence that reestablishing diplomatic relations would contribute to a mutually beneficial relationship?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump give public support to Venezuelan opposition lawmaker Juan Guaidó in 2019?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Trump administration work with Venezuela’s political opposition leader María Corina Machado immediately following Maduro’s ouster in January 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Rodríguez’s government approve an amnesty law that enabled the release of politicians and activists held for political motivations?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. diplomatic staff move to neighboring Colombia after relations were cut off in 2019?",
+    "a": "Yes"
+  }
+]

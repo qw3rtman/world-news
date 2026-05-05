@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Meta Platforms Inc. agree to pay as much as $27 billion for access to artificial intelligence infrastructure from Nebius Group NV?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the $27 billion payment from Meta Platforms Inc. to Nebius Group NV scheduled to be paid over a period of ten years?",
+    "a": "No"
+  },
+  {
+    "q": "Does Nebius Group NV have a strategic partnership with Nvidia Corp.?",
+    "a": "Yes"
+  },
+  {
+    "q": "Will Meta Platforms Inc. receive $12 billion of dedicated capacity from Nebius Group NV starting in early 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Is Nebius Group NV described as a cloud provider that operates data centers?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Meta Platforms Inc. commit to buying $15 billion in additional capacity that Nebius Group NV is building exclusively for its own internal use?",
+    "a": "No"
+  },
+  {
+    "q": "Did Nebius Group NV issue a statement on Monday regarding the agreement with Meta Platforms Inc.?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Nebius Group NV a company based in the United States?",
+    "a": "No"
+  },
+  {
+    "q": "Is Meta Platforms Inc. spending aggressively to compete with the industry’s top frontier models?",
+    "a": "Yes"
+  },
+  {
+    "q": "Will the $12 billion of dedicated capacity provided by Nebius Group NV to Meta Platforms Inc. start in early 2030?",
+    "a": "No"
+  }
+]

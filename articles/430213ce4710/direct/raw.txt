@@ -1,0 +1,22 @@
+{
+  "q": "Did the price of silver trade at $90.75 per ounce as of 9:15 a.m. Eastern Time on Wednesday, February 25, 2026?",
+  "a": "Yes",
+  "q": "Was the price of silver down $2.88 from the previous day at the same hour on Wednesday, February 25, 2026?",
+  "a": "No",
+  "q": "Did the price of silver increase by more than $59 over the past 12 months leading up to Wednesday, February 25, 2026?",
+  "a": "Yes",
+  "q": "Did the price of silver trade at $93.63 per ounce as of 9:15 a.m. Eastern Time on Wednesday, February 25, 2026?",
+  "a": "No",
+  "q": "Was the time cited for the silver price quote 9:15 a.m. Pacific Time on Wednesday, February 25, 2026?",
+  "a": "No",
+  "q": "Did the price of silver gain exactly $2.88 from the previous day at the same hour on Wednesday, February 25, 2026?",
+  "a": "Yes",
+  "q": "Did the price of silver decrease by more than $59 over the past 12 months leading up to Wednesday, February 25, 2026?",
+  "a": "No",
+  "q": "Was the publication date of the article reporting the current price of silver Wednesday, February 25, 2026?",
+  "a": "Yes",
+  "q": "Did the price of silver trade at $87.87 per ounce as of 9:15 a.m. Eastern Time on Wednesday, February 25, 2026?",
+  "a": "No",
+  "q": "Did the price of silver represent a gain of more than $59 over the past 12 months as of Wednesday, February 25, 2026?",
+  "a": "Yes"
+}

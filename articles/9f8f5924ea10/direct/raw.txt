@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Defense Secretary Pete Hegseth state during a press briefing on Monday, March 2, 2026, that the United States currently had troops in Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump tell The New York Post on Monday, March 2, 2026, that he does not say 'There will be no boots on the ground' regarding Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Senator Lindsey Graham state on NBC News’ 'Meet the Press' over the weekend prior to March 2, 2026, that the goal of the operation was to change the Iranian regime?",
+    "a": "No"
+  },
+  {
+    "q": "Did Joint Chiefs of Staff Chair Gen. Dan Caine state on Monday, March 2, 2026, that military objectives in Iran would take time to achieve and that additional U.S. losses were expected?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Central Command announce on Sunday, March 1, 2026, that four American service members had been killed in action during the operation?",
+    "a": "No"
+  },
+  {
+    "q": "Did Vice President JD Vance state on Thursday prior to March 2, 2026, that there was 'no chance' the strikes on Iran would lead to a longer war in the Middle East?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran launch retaliatory attacks against Gulf states that host U.S. military bases, including Qatar, the United Arab Emirates, Kuwait, and Saudi Arabia, during the conflict in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Hezbollah, the Iranian proxy militia in Lebanon, launch rockets into Israel in early March 2026, ending a monthslong ceasefire?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Defense Secretary Pete Hegseth reference his experience fighting in Afghanistan when discussing the U.S. approach to the Iran conflict on Monday, March 2, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Trump call on Iranians to stage a revolution against the Islamic regime in early March 2026, following the death of Supreme Leader Ayatollah Ali Khamenei?",
+    "a": "Yes"
+  }
+]

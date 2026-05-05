@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump order the largest American military buildup in the Middle East since the onset of the Iraq War in early 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Envoy Steve Witkoff and Jared Kushner conduct indirect talks with Iranian officials in Geneva, Switzerland, in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian Supreme Leader Ayatollah Ali Khamenei agree to allow zero uranium enrichment in the February 2026 negotiations?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian Foreign Minister Abbas Araghchi state in February 2026 that zero uranium enrichment was not on the table?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Chairman of the Joint Chiefs Gen. Dan Caine express concerns about the potential for U.S. casualties in a major military operation against Iran in early 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Trump administration have a clear picture of who would replace the Iranian leadership if the regime were toppled in 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran retaliate against U.S. military bases in June 2025 following strikes on its nuclear facilities, resulting in American troop deaths?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump declare on Truth Social in February 2026 that he would rather have a deal with Iran than not?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States launch surprise strikes on Iran’s nuclear program in February 2026 before any scheduled diplomatic talks in Geneva?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Islamic Revolutionary Guard Corps (IRGC) plan to target American military bases in retaliation for any U.S. strikes in 2026?",
+    "a": "No"
+  }
+]

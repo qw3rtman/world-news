@@ -1,0 +1,22 @@
+{
+  "q": "Did the Cuban Coast Guard kill at least one American citizen during the confrontation in Cuban waters on Wednesday, February 25, 2026?",
+  "a": "Yes",
+  "q": "Were a total of four men killed in the incident involving the boat reported stolen from the Florida Keys?",
+  "a": "Yes",
+  "q": "Were six individuals injured in the Cuban Coast Guard strike on the boat registered in Florida?",
+  "a": "Yes",
+  "q": "Did the boat involved in the incident originate from Miami, Florida?",
+  "a": "No",
+  "q": "Did the United States Coast Guard engage the Cuban Coast Guard in the confrontation described in the report?",
+  "a": "No",
+  "q": "Did the confrontation result in zero injuries among the Americans aboard the vessel?",
+  "a": "No",
+  "q": "Was the boat reported as stolen from the Florida Keys prior to entering Cuban waters?",
+  "a": "Yes",
+  "q": "Did the Cuban Coast Guard report that all four men killed were Cuban nationals?",
+  "a": "No",
+  "q": "Did the incident occur in international waters rather than Cuban waters?",
+  "a": "No",
+  "q": "Was the boat involved in the strike registered in the state of Florida?",
+  "a": "Yes"
+}

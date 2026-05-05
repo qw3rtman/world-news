@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Juan Pablo Guanipa spend 260 days in jail during his imprisonment by the Chavista regime?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Juan Pablo Guanipa held in a 3x3 meter cell at the headquarters of the Bolivarian National Police in Maripérez during the first 21 days of his incarceration?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Juan Pablo Guanipa a 61-year-old lawyer and graduate of the University of Zulia?",
+    "a": "Yes"
+  },
+  {
+    "q": "Has Juan Pablo Guanipa been a close collaborator of María Corina Machado since 2022?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Marco Rubio confirm that Venezuela is heading towards an electoral consultation during a meeting with Caribbean countries?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Edmundo González win in all polling stations designated for police and military personnel in the July 2024 Venezuelan presidential elections?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Donald Trump invite Juan Pablo Guanipa to attend the State of the Union address in 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Does the amnesty law passed by the Chavista regime benefit all civilians and military personnel without exceptions?",
+    "a": "No"
+  },
+  {
+    "q": "Did María Corina Machado win the primary elections with 90% of the vote in 2023?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Juan Pablo Guanipa discuss political differences with his brother Tomás Guanipa the day before Tomás was released from prison?",
+    "a": "No"
+  }
+]

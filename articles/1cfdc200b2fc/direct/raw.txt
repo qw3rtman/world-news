@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Paramount Skydance Corp. receive early antitrust clearance from the U.S. Department of Justice for its proposed acquisition of Warner Bros. Discovery Inc. in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the proposed acquisition of Warner Bros. Discovery Inc. by Paramount Skydance Corp. valued at $77.9 billion?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the 10-day waiting period for the Hart-Scott-Rodino Act review expire on Friday, February 20, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Paramount Skydance Corp. state that it had complied with the U.S. Justice Department’s second-request review process under the Hart-Scott-Rodino Act?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Justice Department impose a statutory impediment preventing Paramount Skydance Corp. from closing its acquisition of Warner Bros. Discovery Inc. in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the 10-day waiting period associated with the Hart-Scott-Rodino Act review expire on Thursday, February 19, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the proposed acquisition of Warner Bros. Discovery Inc. by Paramount Skydance Corp. valued at $50 billion?",
+    "a": "No"
+  },
+  {
+    "q": "Did Paramount Skydance Corp. announce the antitrust clearance on February 20, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Justice Department require a third-request review process under the Hart-Scott-Rodino Act for the Paramount Skydance Corp. and Warner Bros. Discovery Inc. merger in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Paramount Skydance Corp. claim there were no statutory impediments in the United States to closing the acquisition of Warner Bros. Discovery Inc. after the February 2026 antitrust clearance?",
+    "a": "Yes"
+  }
+]

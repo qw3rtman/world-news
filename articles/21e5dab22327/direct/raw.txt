@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the United Arab Emirates, Qatar, and Bahrain report being attacked by Iran in retaliation for U.S. and Israeli strikes in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran target the U.S. Navy's Fifth Fleet in Bahrain during the retaliatory strikes in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Iranian retaliatory strikes in late February 2026 target five Middle Eastern countries: the UAE, Bahrain, Kuwait, Qatar, and Jordan?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did one person die in Abu Dhabi, United Arab Emirates, as a result of debris from Iranian attacks in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran state in late February 2026 that it was targeting 14 U.S. positions across the region?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Oman's foreign minister meet with U.S. Vice President Vance in Washington in late February 2026 to discuss Iran's nuclear enrichment stockpiling?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Saudi Arabia directly launch retaliatory missile strikes against Iran in response to the attacks in late February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Strait of Hormuz remain fully open and physically unblocked by Iran in late February 2026, with no impact on shipping traffic?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state in late February 2026 that the objective of the strikes was to eliminate imminent threats from Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's foreign minister claim in late February 2026 that American and Israeli assets in the Middle East were no longer legitimate targets?",
+    "a": "No"
+  }
+]

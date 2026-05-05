@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Matthew Gould serve as the British ambassador to Israel from 2010 to 2015?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Binyamin Netanyahu become Israel’s youngest prime minister at the age of 46 in 1996?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Yoni Netanyahu serve as the commander of the elite Sayeret Matkal unit during the 1976 hostage rescue at Entebbe?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Benzion Netanyahu die in 2012 at the age of 102?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Binyamin Netanyahu go to the U.S. Congress in 2015 to lobby against the Iran agreement negotiated by President Obama?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Binyamin Netanyahu become the first Israeli prime minister to face criminal charges in office in 2018?",
+    "a": "No"
+  },
+  {
+    "q": "Did Yair Netanyahu serve in a combat brigade in the Israel Defence Forces?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israel launch airstrikes on nuclear facilities in Natanz and Isfahan in June 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Was David Ben-Gurion Israel’s first prime minister?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Matthew Gould serve as the British ambassador to Iran between 2010 and 2015?",
+    "a": "No"
+  }
+]

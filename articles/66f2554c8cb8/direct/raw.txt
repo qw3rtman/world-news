@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Keurig Dr Pepper Inc. raise an additional $1.5 billion through a convertible equity investment in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the additional capital raised from accounts advised by T. Rowe Price Investment Management in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Keurig Dr Pepper Inc. decide to pursue a partial initial public offering of its beverage unit in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the acquisition target of Keurig Dr Pepper Inc. in February 2026 the Dutch coffee company JDE Peet’s NV?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Keurig Dr Pepper Inc. plan to split into three entities as part of its strategy in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Keurig Dr Pepper Inc. raise the additional capital in January 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the capital raise mean Keurig Dr Pepper Inc. would no longer consider a partial IPO of its beverage unit in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the capital raised through a convertible debt investment in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Keurig Dr Pepper Inc. aim to reduce its debt levels as part of the capital raise in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the partial initial public offering of the beverage unit a possibility raised by Keurig Dr Pepper Inc. in February 2026?",
+    "a": "No"
+  }
+]

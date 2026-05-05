@@ -1,0 +1,22 @@
+{
+  "q": "Did US Energy Secretary Chris Wright state that the US Navy escorted an oil tanker through the Strait of Hormuz in March 2026?",
+  "a": "Yes",
+  "q": "Was the escorted oil tanker operation the first of its kind since the start of the US-Israel war on Iran?",
+  "a": "Yes",
+  "q": "Did US Energy Secretary Chris Wright publish the statement about the escort operation on social media?",
+  "a": "Yes",
+  "q": "Did the US Navy escort the oil tanker to ensure oil remained flowing to global markets?",
+  "a": "Yes",
+  "q": "Did US Energy Secretary Chris Wright retain the social media post about the escort operation after it was reported?",
+  "a": "No",
+  "q": "Was the escorted oil tanker the first such operation since the start of the US-China trade war?",
+  "a": "No",
+  "q": "Did Reuters report that US Energy Secretary Chris Wright removed the post about the escort operation?",
+  "a": "No",
+  "q": "Did the US Navy escort the oil tanker through the Strait of Malacca?",
+  "a": "No",
+  "q": "Did the US-Israel war on Iran bring many shipments of oil to a standstill?",
+  "a": "No",
+  "q": "Did US Energy Secretary Chris Wright state that the US Navy escorted a coal barge through the Strait of Hormuz?",
+  "a": "No"
+}

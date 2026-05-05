@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump predict a quick end to the war with Iran on Monday, March 9, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Brent crude oil futures settle at $87.80 per barrel on Tuesday, March 10, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Energy Secretary Chris Wright post on X that the American military had facilitated a shipment of oil out of the Strait of Hormuz on Tuesday, March 10, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Energy Information Administration project that Brent oil prices would fall to around $70 by the end of 2026 in its monthly report?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the G7 energy ministers agree on Tuesday, March 10, 2026, to immediately release strategic oil reserves to curb spiking prices?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. West Texas Intermediate (WTI) crude settle at $95.00 per barrel on Tuesday, March 10, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran's Islamic Revolutionary Guard Corps state on Tuesday, March 10, 2026, that Tehran would allow one litre of oil to be exported if U.S. attacks continued?",
+    "a": "No"
+  },
+  {
+    "q": "Did Saudi Arabia's Aramco state on Tuesday, March 10, 2026, that there would be catastrophic consequences for global oil markets if the Iran war continues?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Goldman Sachs change its oil price forecast for Brent crude to $95 per barrel in the fourth quarter of 2026 on Tuesday, March 10, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Abu Dhabi state oil giant ADNOC shut its Ruwais refinery on Tuesday, March 10, 2026, following a fire caused by a drone strike?",
+    "a": "Yes"
+  }
+]

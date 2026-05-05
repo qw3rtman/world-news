@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did US President Donald Trump announce a new global levy of 15% on items imported into America in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the US Federal Reserve signal in late February 2026 that it would cut interest rates in March?",
+    "a": "No"
+  },
+  {
+    "q": "Did Spot Gold reach three-week highs following the US decision on 15% tariffs in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump plan to deliver his State of the Union address in January 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran submit a detailed nuclear proposal to the US in February 2026 ahead of negotiations in Geneva?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the US Personal Consumption Expenditures (PCE) Price Index show a 1.5% increase over the 12 months through December 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did China markets reopen on Tuesday in the week of February 25, 2026, following a long holiday?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the US Supreme Court rule against US President Donald Trump's sweeping tariffs in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the US Federal Reserve release a dovish outlook in late February 2026 that attracted fresh buyers to the US Dollar?",
+    "a": "No"
+  },
+  {
+    "q": "Did CME Group's FedWatch Tool indicate that traders were pricing in three 25-basis-point rate cuts by the Fed in 2026?",
+    "a": "Yes"
+  }
+]

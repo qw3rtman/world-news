@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iranian Kurdish militias consult with the United States in early March 2026 about attacking Iran's security forces?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Iranian Kurdish coalition base its training activities on the Iran-Iraq border in the semiautonomous region of Iraqi Kurdistan?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the planned Kurdish operation aim to create conditions for an uprising by Iranians opposed to the Islamic regime after the deaths of Supreme Leader Ali Khamenei and other top officials?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iraqi leaders in Erbil and Baghdad contact the Trump administration regarding the potential Kurdish operation in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did CNN report that President Trump held a telephone call with two of Iraqi Kurdistan’s top leaders in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States confirm independently that U.S. forces planned to enter Iran alongside Kurdish groups during the March 2026 discussions?",
+    "a": "No"
+  },
+  {
+    "q": "Did the CIA confirm its involvement in facilitating weapons for the Iranian Kurdish groups in early March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article state that the Iranian Kurdish groups have extensive and uniform battlefield experience prior to the March 2026 discussions?",
+    "a": "No"
+  },
+  {
+    "q": "Did Turkey express sympathy for arming Kurdish groups close to its borders in the context of the March 2026 regional tensions?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. military bases in Erbil support the international coalition fighting Islamic State militants in early March 2026?",
+    "a": "Yes"
+  }
+]

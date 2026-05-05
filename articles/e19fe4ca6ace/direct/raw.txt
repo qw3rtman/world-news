@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump confirm the death of Iran's Supreme Leader Ayatollah Ali Khamenei in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Ayatollah Ali Khamenei the first supreme leader of the Islamic Republic of Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israel launch airstrikes on three of Iran's nuclear enrichment sites on June 21, 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran-backed Hezbollah leader Hassan Nasrallah survive the conflict triggered by the October 7, 2023 Hamas attack on Israel?",
+    "a": "No"
+  },
+  {
+    "q": "Did Syrian dictator Bashar al-Assad flee to Russia in early January 2025 after his regime fell in December 2024?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ayatollah Ali Khamenei agree to secret nuclear negotiations with the United States in 2013 that led to the 2015 Joint Comprehensive Plan of Action?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Human Rights Activists News Agency report that Iran killed more than 10,000 citizens during the mass protests that started in late December 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ayatollah Ali Khamenei survive an assassination attempt in 1981 that resulted in the loss of use of his right arm?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump withdraw from the 2015 nuclear agreement during his second term in office?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran retaliate against Israel with missile strikes in June 2025 after Israel launched strikes on Iran's nuclear facilities?",
+    "a": "Yes"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump state that the war against Iran could be short-lived in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran select Ayatollah Mojtaba Khamenei as its new supreme leader in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did oil prices briefly reach their highest level since 2022 in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump threaten to hit Iran twenty times harder if they stopped the flow of oil through the Strait of Hormuz in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the war between the United States and Iran begin in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian President Masoud Pezeshkian voice ideas for a quick political settlement in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Saudi Arabia report that Iran attacked its Shaybah oil field in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United States bomb Iran’s key nuclear sites during a 12-day Israel-Iran war in June 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Turkey report that NATO defenses intercepted a ballistic missile that entered its airspace in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did at least seven U.S. service members die in the war against Iran as of March 2026?",
+    "a": "No"
+  }
+]

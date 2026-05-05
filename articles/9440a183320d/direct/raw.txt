@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the article published on March 18, 2026, in The Times of Israel state that analysts and AI systems typically identify seven fronts in Israel's conflict?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article published on March 18, 2026, in The Times of Israel list the information war as the seventh front of Israel's conflict?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article published on March 18, 2026, in The Times of Israel identify the attack on Bondi Beach in Sydney as an isolated incident detached from the Middle East conflict?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article published on March 18, 2026, in The Times of Israel claim that traditional media rigorously maintains context and rejects narrative simplification?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article published on March 18, 2026, in The Times of Israel list Moscow as one of the cities where Jewish life has been threatened or targeted?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article published on March 18, 2026, in The Times of Israel attribute the orchestration of forces in Syria, Iraq, and Lebanon primarily to Hamas?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article published on March 18, 2026, in The Times of Israel assert that the core connection between global attacks on Jews is ideology rather than geography?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article published on March 18, 2026, in The Times of Israel identify Houthi forces in Yemen as launching missiles and drones across vast distances?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article published on March 18, 2026, in The Times of Israel list Johannesburg as a city in Europe where Jews were attacked?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article published on March 18, 2026, in The Times of Israel argue that silence in the face of unchecked lies and violence constitutes complicity?",
+    "a": "Yes"
+  }
+]

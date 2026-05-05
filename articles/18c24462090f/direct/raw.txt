@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the June 3, 2026 local elections in South Korea include races for mayors, governors, and education superintendents?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did former President Yoon Suk Yeol take the oath of office in June 2022, one month prior to the 2022 local elections?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did People Power Party Chair Rep. Jang Dong-hyeok agree to sever ties with former President Yoon Suk Yeol in his Friday statement?",
+    "a": "No"
+  },
+  {
+    "q": "Did incumbent lawmakers need to quit their positions by March 5 to be eligible to run in the June 3, 2026 local elections?",
+    "a": "No"
+  },
+  {
+    "q": "Did Gallup Korea report on February 13, 2026, that the ruling Democratic Party of Korea had a 44 percent popularity rating?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did former President Yoon Suk Yeol receive a life sentence for leading an insurrection in a district court ruling prior to February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Seoul Mayor Oh Se-hoon side with People Power Party Chair Rep. Jang Dong-hyeok in defending former President Yoon Suk Yeol?",
+    "a": "No"
+  },
+  {
+    "q": "Did candidate registrations for the June 3, 2026 local elections in South Korea take place on May 14-15, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Lee Jae Myung occupy the Gyeyang B constituency in Incheon before it became a key battleground in the 2026 elections?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the People Power Party win 12 out of 17 key mayoral and gubernatorial posts in the June 2018 local elections?",
+    "a": "No"
+  }
+]

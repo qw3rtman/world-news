@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Nvidia agree to invest $2 billion in the artificial intelligence cloud company Nebius in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Nvidia acquire an approximately 8.3% stake in Nebius by purchasing shares at $94.94 per share?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Nebius shares jump 13.8% to $109.72 following the announcement of the Nvidia investment?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Nebius based in Amsterdam but listed on the Nasdaq stock exchange?",
+    "a": "Yes"
+  },
+  {
+    "q": "Will Nebius deploy more than 5 gigawatts of data center capacity by the end of 2030?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Nvidia announce a $30 billion investment in OpenAI last year?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Nvidia invest $2 billion in Coreweave to support its AI infrastructure expansion?",
+    "a": "No"
+  },
+  {
+    "q": "Did Nebius report capital spending of $4.1 billion in the December quarter?",
+    "a": "No"
+  },
+  {
+    "q": "Did Microsoft sign a $3 billion deal with Nebius for AI infrastructure supply?",
+    "a": "No"
+  },
+  {
+    "q": "Is Nebius classified as a large cloud firm that serves a broad range of industries?",
+    "a": "No"
+  }
+]

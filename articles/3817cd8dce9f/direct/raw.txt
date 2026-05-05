@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Israel launch coordinated strikes on Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Hezbollah fire six rockets into northern Israel on March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump personally order the March 2026 Israeli strikes on Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did the November 2024 ceasefire deal require the Lebanese government to disarm Hezbollah?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Lebanese government successfully disarm Hezbollah by early 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli forces advance more than one kilometer into Lebanese territory in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Lebanon’s President Joseph Aoun support Hezbollah’s military activities in early 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran’s Supreme Leader Ali Khamenei survive the Israeli airstrikes in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the IDF estimate that Hezbollah retained approximately one-third of its pre-war missile stockpile by the time of the 2024 ceasefire?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Lebanese army declare operational control south of the Litani River in January 2024?",
+    "a": "No"
+  }
+]

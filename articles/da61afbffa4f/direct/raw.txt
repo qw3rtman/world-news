@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iran accuse Israel of striking its South Pars gas field facilities on Wednesday, March 18, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Qatar's state oil giant QatarEnergy report extensive damage to the Ras Laffan Industrial City after it was hit by Iranian missiles on March 18, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Saudi Arabia confirm that it intercepted and destroyed four ballistic missiles launched toward Riyadh on Wednesday, March 18, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. spy chief Tulsi Gabbard tell Congress on March 18, 2026, that Iran's government had been completely destroyed since the war began?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israel publicly claim responsibility for the attack on the South Pars gas field on March 18, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran list the UAE's Al Hosn Gas Field as a direct and legitimate target for retaliation on March 18, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did France's President Emmanuel Macron call for a moratorium on strikes targeting civilian infrastructure after speaking with Trump and the Emir of Qatar on March 18, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israel kill Iran's intelligence minister Esmail Khatib on Thursday, March 19, 2026, a day after killing security chief Ali Larijani?",
+    "a": "No"
+  },
+  {
+    "q": "Did at least 13 U.S. military service members have been killed in the conflict by March 18, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran effectively shut the Strait of Hormuz before March 18, 2026, but spare production infrastructure to avoid lasting damage?",
+    "a": "No"
+  }
+]

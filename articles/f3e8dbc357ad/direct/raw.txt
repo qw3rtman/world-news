@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Viking announce new itineraries for the Viking Mississippi river ship in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Are the newly announced 2027 itineraries on the Mississippi and Ohio rivers available for booking starting in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the 15-day Bayous, Blues & Bluegrass itinerary operate between New Orleans and Louisville?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the 8-day Mississippi & Ohio River Explorer itinerary operate between Memphis and Louisville?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the Viking Mississippi the first truly modern ship in the Mississippi River region?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Viking announce new itineraries for the Viking Atlantic ocean ship in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Does the 15-day Bayous, Blues & Bluegrass itinerary operate between New Orleans and St. Paul?",
+    "a": "No"
+  },
+  {
+    "q": "Does the 8-day Mississippi & Ohio River Explorer itinerary operate between Memphis and New Orleans?",
+    "a": "No"
+  },
+  {
+    "q": "Is the Viking Mississippi designed to host 500 guests in 250 all-outside staterooms?",
+    "a": "No"
+  },
+  {
+    "q": "Did Viking announce new itineraries for the Viking Mississippi river ship in March 2027?",
+    "a": "No"
+  }
+]

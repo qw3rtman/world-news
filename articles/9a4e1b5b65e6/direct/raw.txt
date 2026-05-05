@@ -1,0 +1,22 @@
+{
+  "q": "Did the article state that Hamas paragliders began the war on Oct. 7, 2023?",
+  "a": "Yes",
+  "q": "Did the article describe Hamas as a 'terrorism multiplier' of Iran?",
+  "a": "Yes",
+  "q": "Did the article claim that Hezbollah was one of the entities that unintentionally magnified Israel’s security?",
+  "a": "Yes",
+  "q": "Did the article state that Iran’s regime mantra since its inception in 1979 has been 'Death to America'?",
+  "a": "Yes",
+  "q": "Did the article assert that the U.S. President Donald Trump personally ordered the attack on Iran?",
+  "a": "No",
+  "q": "Did the article claim that the war began on March 1, 2026?",
+  "a": "No",
+  "q": "Did the article state that Iran’s regime has been strengthened by the clasped hands of Israel and America?",
+  "a": "No",
+  "q": "Did the article identify Hezbollah as a 'paraglider' group rather than a terrorism multiplier?",
+  "a": "No",
+  "q": "Did the article claim that Iran’s regime mantra since its inception in 1979 has been 'Peace to America'?",
+  "a": "No",
+  "q": "Did the article state that the Hamas paragliders were tentacles of Hezbollah rather than Iran?",
+  "a": "No"
+}

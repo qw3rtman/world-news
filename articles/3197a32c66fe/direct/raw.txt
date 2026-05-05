@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Saudi Arabia intensify direct engagement with Iran in March 2026 to help defuse a war in the Middle East?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the information regarding Saudi Arabia's intensified engagement with Iran reported by Fortune on March 7, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did European officials report that Saudi Arabia's engagement with Iran was aimed at containing a war in the Middle East?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Saudi Arabia's engagement with Iran in March 2026 lead to an immediate cessation of hostilities in the Middle East?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United States government publicly announce Saudi Arabia's direct engagement with Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Saudi Arabia engage with Iran in March 2026 to boost global oil production levels?",
+    "a": "No"
+  },
+  {
+    "q": "Did Fortune report that the war in the Middle East was causing havoc and stressing global markets in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran reject Saudi Arabia's diplomatic engagement efforts in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article state that Saudi Arabia and Iran signed a formal peace treaty in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article attribute the reporting of Saudi Arabia's diplomatic efforts to several European officials?",
+    "a": "Yes"
+  }
+]

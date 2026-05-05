@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Kamal Kharazi, foreign policy adviser to the office of the Iranian supreme leader, state in an interview that Iran is prepared for a long war with the United States?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mojtaba Khamenei succeed his father, Ayatollah Ali Khamenei, as the supreme leader of Iran following his father's death?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump state in an interview that the war with Iran is nearly over, while later telling House Republicans that the US has not won enough?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Defense Secretary Pete Hegseth confirm that a US airstrike directly targeted an Iranian elementary school, killing at least 168 children?",
+    "a": "No"
+  },
+  {
+    "q": "Did the US State Department order \"non-emergency\" diplomats to leave Saudi Arabia due to risks associated with the conflict?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Turkey’s Defense Ministry report that NATO air defenses shot down an Iranian ballistic missile entering Turkish airspace?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Bahrain’s national oil company BAPCO declare force majeure on its operations after an Iranian drone attack wounded at least 32 people in a residential area?",
+    "a": "No"
+  },
+  {
+    "q": "Did Army Sgt. Benjamin Pennington become the seventh US service member identified as killed in the Iran war after dying at Prince Sultan Air Base in Saudi Arabia?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump announce that the United States would take over the Strait of Hormuz to control global oil shipments?",
+    "a": "No"
+  },
+  {
+    "q": "Did Russian President Vladimir Putin write to Mojtaba Khamenei to reiterate Moscow’s support for the new Iranian supreme leader?",
+    "a": "Yes"
+  }
+]

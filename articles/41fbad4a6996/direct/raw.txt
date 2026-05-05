@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump threaten to obliterate Iran's power plants if Tehran does not fully reopen the Strait of Hormuz within 48 hours?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran fire long-range missiles at an Israeli nuclear site for the first time during the conflict described in the article?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Iran war escalate beyond U.S. President Donald Trump's control three weeks into the conflict?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Islamic Revolutionary Guard Corps (IRGC) of Iran reboot Lebanon's Hezbollah to be ready for war?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump threaten to obliterate Iran's nuclear reactors if Tehran does not fully reopen the Strait of Hormuz within 48 hours?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran fire long-range missiles at an Egyptian nuclear site for the first time during the conflict described in the article?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Iran war remain fully under U.S. President Donald Trump's control three weeks into the conflict?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Islamic Revolutionary Guard Corps (IRGC) of Iran disband Lebanon's Hezbollah to prevent war during the conflict described in the article?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump threaten to obliterate Iran's power plants if Tehran does not fully reopen the Strait of Hormuz within 24 hours?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Iran war escalate beyond U.S. President Donald Trump's control one week into the conflict?",
+    "a": "No"
+  }
+]

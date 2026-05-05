@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Brent crude oil prices close above $103 per barrel on Tuesday, March 17, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state that NATO allies are unwilling to participate in the U.S. war against Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Strait of Hormuz facilitate approximately 31% of all seaborne crude flows in 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Warren Patterson, head of commodities strategy at ING, confirm that naval escorts for commercial vessels through the Strait of Hormuz had materialized by March 17, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. oil prices rise by more than 3% on Tuesday, March 17, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the energy consulting firm Kpler report that roughly 13 million barrels of oil per day passed through the Strait of Hormuz in 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump claim that the U.S. requires assistance from its allies to escort tankers through the Strait of Hormuz?",
+    "a": "No"
+  },
+  {
+    "q": "Did ship movements through the Strait of Hormuz increase significantly following Iranian attacks in early 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is the Strait of Hormuz located between Oman and Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Warren Patterson suggest that the U.S. would likely initiate naval escorts before eroding Iran’s ability to launch attacks on vessels?",
+    "a": "No"
+  }
+]

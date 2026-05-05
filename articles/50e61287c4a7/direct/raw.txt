@@ -1,0 +1,40 @@
+{
+  "q": "Did the article titled 'Hubris Without Idealism' argue that Donald Trump has embraced a warped version of neoconservatism?",
+  "a": "Yes"
+}
+{
+  "q": "Did the article titled 'Hubris Without Idealism' argue that Donald Trump has embraced a warped version of isolationism?",
+  "a": "No"
+}
+{
+  "q": "Did the article titled 'From ‘America First’ to ‘Always America Last’' state that Trump promised to stop wars?",
+  "a": "Yes"
+}
+{
+  "q": "Did the article titled 'From ‘America First’ to ‘Always America Last’' state that Trump promised to expand global military interventions?",
+  "a": "No"
+}
+{
+  "q": "Did the article titled 'The Disappearing American Mortgage' appear in the March 2, 2026 issue of The Atlantic?",
+  "a": "Yes"
+}
+{
+  "q": "Did the article titled 'The Disappearing American Mortgage' appear in the February 2, 2026 issue of The Atlantic?",
+  "a": "No"
+}
+{
+  "q": "Did Eliot A. Cohen write the article titled 'America’s Invaluable Ally'?",
+  "a": "Yes"
+}
+{
+  "q": "Did George Packer write the article titled 'America’s Invaluable Ally'?",
+  "a": "No"
+}
+{
+  "q": "Did the article titled 'From ‘America First’ to ‘Always America Last’' have multiple authors including Toluse Olorunnipa, Jonathan Lemire, and Ashley Parker?",
+  "a": "Yes"
+}
+{
+  "q": "Did the article titled 'From ‘America First’ to ‘Always America Last’' have a single author named Toluse Olorunnipa?",
+  "a": "No"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Seth Jones, president of the Defense and Security Department at the Center for Strategic and International Studies, state in March 2026 that U.S. munitions stockpiles could be depleted after about a week of extended strikes against Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. military fire a quarter of its entire THAAD missile stockpile in a few days of operations against Iran in 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Seth Jones claim that the U.S. military is currently using long-range, anti-ship missiles extensively in its strikes against Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did Seth Jones state that the U.S. defense budget in fiscal year 2025 was $2 trillion?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Seth Jones assert that the primary reason for lower munitions stockpiles is that the U.S. spends a significantly larger portion of its defense budget on weapons procurement compared to the Reagan administration?",
+    "a": "No"
+  },
+  {
+    "q": "Did Seth Jones estimate that by mid-2025, Iran possessed approximately 3,000 ballistic missiles?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Seth Jones state that Iran currently has the conventional military capability to launch a direct ballistic missile attack on the continental United States?",
+    "a": "No"
+  },
+  {
+    "q": "Did Seth Jones identify the Islamic Revolutionary Guards' Quds Force as a potential vehicle for Iran to carry out an attack inside the continental U.S.?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Seth Jones claim that the U.S. has a large, sufficient stockpile of GBU-52 massive ordinance penetrators (bunker busters) for a prolonged war?",
+    "a": "No"
+  },
+  {
+    "q": "Did Seth Jones warn that depleting U.S. munitions in the Iran conflict could reduce deterrence capabilities for potential conflicts involving North Korea, Russia, or China?",
+    "a": "Yes"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Rep. Kelly Morrison bring Colin Hortman to President Donald Trump's State of the Union address in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Rep. Betty McCollum bring Alina Bachman Hortman to President Donald Trump's State of the Union address in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Minnesota House Speaker Emerita Melissa Hortman attend President Donald Trump's State of the Union address in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Rep. Ilhan Omar bring Aliya Rahman to President Donald Trump's State of the Union address in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Rep. Ilhan Omar bring Gerardo Orozco Guzman to President Donald Trump's State of the Union address in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Rep. Ilhan Omar bring Mary Granlund to President Donald Trump's State of the Union address in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Rep. Pete Stauber bring conservative YouTuber Nick Shirley to President Donald Trump's State of the Union address in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Senator Tina Smith attend President Donald Trump's State of the Union address in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Minneapolis Mayor Jacob Frey attend President Donald Trump's State of the Union address in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Virginia Governor Abigail Spanberger deliver the Democratic response to President Donald Trump's State of the Union address in February 2026?",
+    "a": "Yes"
+  }
+]

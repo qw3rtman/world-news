@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Bloomberg News report in February 2026 that Stripe is considering an acquisition of PayPal or parts of the company?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did PayPal shares close nearly 7% higher following the Bloomberg report on February 24, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Stripe publicly traded and valued at $40 billion in a tender offer on February 24, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did PayPal appoint Chair Enrique Lores as president and chief executive after ousting CEO Alex Chriss in early 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Reuters independently verify the report that Stripe is considering acquiring PayPal on February 24, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was Alex Chriss ousted as CEO of PayPal because the company issued a muted profit outlook for 2026 that was below Wall Street estimates?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Apple and Google acquire PayPal's core business in early 2026 to address investor concerns about digital payments competition?",
+    "a": "No"
+  },
+  {
+    "q": "Was Stripe valued at $159 billion in a tender offer for employees and shareholders on February 24, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did PayPal's board state that CEO Alex Chriss's transformation speed had exceeded expectations before his ouster in early 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did PayPal and Stripe both decline to comment on the acquisition report on February 24, 2026?",
+    "a": "Yes"
+  }
+]

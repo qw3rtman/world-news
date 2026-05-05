@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did oil prices fall on Monday, March 15, 2026, as President Donald Trump pressured allies to help safeguard tanker traffic in the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Brent crude futures lose 2.84% to close at $100.21 per barrel on March 15, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. West Texas Intermediate futures rise 5.28% to settle at $93.50 per barrel on March 15, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. crude prices surpass $100 per barrel earlier in the trading session on March 15, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump pressure allies to help safeguard tanker traffic in the Strait of Malacca on March 15, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Brent crude futures settle at $93.50 per barrel on March 15, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. West Texas Intermediate futures fall 5.28% to settle at $93.50 per barrel on March 15, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did oil prices rise on Monday, March 15, 2026, as President Donald Trump pressured allies to help safeguard tanker traffic in the Strait of Hormuz?",
+    "a": "No"
+  },
+  {
+    "q": "Did Brent crude futures lose 5.28% to close at $93.50 per barrel on March 15, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. crude fail to surpass $100 per barrel during the trading session on March 15, 2026?",
+    "a": "No"
+  }
+]

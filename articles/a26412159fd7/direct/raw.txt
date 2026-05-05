@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the article state that Iran's supreme leader Ayatollah Ali Khamenei was killed in early 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump urge Iranians to seize power after the conclusion of the US-Israeli bombing campaign?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Pierre Razoux assert that the Iranian regime would continue with the same people in charge despite new rules of the game?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article identify Vice President Delcy Rodriguez as the successor to Nicolas Maduro in Venezuela after his removal by US forces?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that IRGC commander Mohammad Pakpour survived the Saturday strikes that killed Ayatollah Khamenei?",
+    "a": "No"
+  },
+  {
+    "q": "Did Theo Nencini claim that the Iranian regular army currently carries significant political weight in the country?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article identify Narges Mohammadi as the 2023 Nobel Peace Prize laureate who is currently jailed in Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Azadeh Kian speculate that Trump is looking to come to an understanding with the hardline wing of the Iranian regime?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article state that Reza Pahlavi possesses the structures and institutions necessary to come to power in Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article report that Iran's internal security forces number approximately 250,000 personnel?",
+    "a": "Yes"
+  }
+]

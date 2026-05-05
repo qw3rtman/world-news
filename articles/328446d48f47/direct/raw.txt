@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump announce the beginning of major combat operations in Iran in a video statement on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Pentagon designate the joint U.S.-Israeli attack on Iran as Operation Lion's Roar?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian missiles strike U.S. bases in Qatar, Bahrain, Kuwait, Iraq, the United Arab Emirates, and Jordan following the initial strikes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Prime Minister Benjamin Netanyahu release a statement stating the operation's objective was to remove the existential threat posed by the Iranian regime?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian Foreign Minister Abbas Araghchi describe the attacks as a violation of the UN Charter and a crime against international peace and security?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. bases in Qatar, Bahrain, Kuwait, Iraq, the United Arab Emirates, and Jordan suffer casualties as of 7:10 a.m. ET on February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Former Iranian crown prince Reza Pahlavi call the U.S. and Israeli strikes a \"humanitarian intervention\" from exile?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu post a photo of himself on the phone with President Trump with a copy of the book \"Allies at War\" by Tim Bouverie visible on his desk?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's foreign ministry claim that U.S.-Israeli strikes hit a girls' school in southern Iran, killing 53 students?",
+    "a": "No"
+  },
+  {
+    "q": "Did Oman's foreign minister Badr al-Busaidi express frustration that active negotiations had been undermined by the strikes?",
+    "a": "Yes"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "q": "Did U.S. President Donald Trump unilaterally withdraw the United States from the nuclear agreement on May 8, 2018?",
+  "a": "Yes",
+  "q": "Did Iran announce it would begin backing away from the nuclear accord on May 8, 2018?",
+  "a": "No",
+  "q": "Did U.S. and Iranian officials hold secret face-to-face talks in Oman in July 2012?",
+  "a": "Yes",
+  "q": "Did U.S. and Iranian officials hold secret face-to-face talks in Vienna in July 2012?",
+  "a": "No",
+  "q": "Did Israel launch its war against Iran on June 13, 2025?",
+  "a": "Yes",
+  "q": "Did the United States intervene in the war against Iran on June 13, 2025?",
+  "a": "No",
+  "q": "Did U.N. Security Council reject China and Russia's last-minute effort to stop snapback sanctions on Iran on September 26, 2025?",
+  "a": "Yes",
+  "q": "Did U.N. Security Council approve China and Russia's last-minute effort to stop snapback sanctions on Iran on September 26, 2025?",
+  "a": "No",
+  "q": "Did Iran and the U.S. hold indirect nuclear talks in Oman on February 6, 2026?",
+  "a": "Yes",
+  "q": "Did Iran and the U.S. hold indirect nuclear talks in Geneva on February 6, 2026?",
+  "a": "No"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did US President Donald Trump confirm in March 2026 that his planned meeting with Chinese President Xi Jinping in Beijing would be delayed by at least five or six weeks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Chinese embassy in Washington explicitly confirm the specific timeline of the five-to-six-week delay for the visit in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the original schedule for the Trump-Xi meeting in Beijing set for March 31 to April 2, 2026, according to a White House announcement in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did White House Press Secretary Karoline Leavitt state in March 2026 that the postponement was due to US President Donald Trump needing to attend to foreign policy negotiations in Europe?",
+    "a": "No"
+  },
+  {
+    "q": "Would the Beijing trip have marked the first visit to China by US President Donald Trump during his second term as of March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump tell reporters at the White House in March 2026 that China was unhappy with the decision to delay the visit?",
+    "a": "No"
+  },
+  {
+    "q": "Did White House Press Secretary Karoline Leavitt confirm in March 2026 that the US and China had agreed to postpone the trip?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump state in March 2026 that he expected to see President Xi Jinping in May 2026 to attend to domestic matters?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Chinese embassy in Washington state in March 2026 that China and the US remained in communication regarding the dates of the visit?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the planned meeting between US President Donald Trump and Chinese President Xi Jinping scheduled to take place in Washington, D.C., in March 2026?",
+    "a": "No"
+  }
+]

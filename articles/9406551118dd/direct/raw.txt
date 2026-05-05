@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Victory Capital Holdings Inc. send a proposal to acquire Janus Henderson Group PLC on February 26, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does Victory Capital’s proposed acquisition offer Janus Henderson shareholders total consideration of $57.04 per share?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the cash portion of Victory Capital’s proposed consideration for Janus Henderson shareholders set at $30.00 per share?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does Victory Capital’s proposal include a fixed exchange ratio of 0.350 shares of Victory Capital common stock for each Janus Henderson share?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does Victory Capital intend to retain the Janus Henderson brand following the combination?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did PJT Partners serve as the legal advisor to Victory Capital in this transaction?",
+    "a": "No"
+  },
+  {
+    "q": "Does Victory Capital’s proposal require Janus Henderson to pay Victory Capital $111.42 million in expense reimbursements if Janus Henderson shareholders do not approve the transaction?",
+    "a": "No"
+  },
+  {
+    "q": "Is the client consent closing condition in Victory Capital’s proposal set at 80%?",
+    "a": "No"
+  },
+  {
+    "q": "Does Victory Capital’s proposal include financing outs that allow Victory Capital to walk away if financing fails?",
+    "a": "No"
+  },
+  {
+    "q": "Did Victory Capital require a voting agreement from Trian Fund Management, L.P. to consummate the transaction?",
+    "a": "No"
+  }
+]

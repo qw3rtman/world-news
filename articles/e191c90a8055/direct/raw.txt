@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump postpone his trip to Beijing in March 2026 due to the war with Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the postponed trip to Beijing scheduled to take place from March 31 to April 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Treasury Secretary Scott Bessent hold talks with Chinese Vice Premier He Lifeng in Paris in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Chinese Foreign Ministry spokesperson Lin Jian state that describing the trip delay as a dispute over the Strait of Hormuz was misguided?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump last travel to China in October 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the White House specify an exact new date for Trump's rescheduled trip to Beijing in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did China directly respond to President Donald Trump's request for assistance regarding the war with Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Treasury Secretary Scott Bessent hold talks with Chinese Vice Premier He Lifeng in Beijing in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump last meet Chinese President Xi Jinping in South Korea in 2017?",
+    "a": "No"
+  },
+  {
+    "q": "Did the war with Iran cause oil prices to drop in March 2026?",
+    "a": "No"
+  }
+]

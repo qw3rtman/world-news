@@ -1,0 +1,40 @@
+{
+  "q": "Did the price of silver drop from $116.61 per ounce on January 28, 2026, to $70.90 per ounce on February 5, 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did the price of gold rise from under $3,000 in early 2025 to comfortably over $5,000 in early 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did the price of silver hit a record $100 per ounce milestone in late January 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Does the article state that silver is available for purchase through big box retailers like Costco and Walmart?",
+  "a": "Yes"
+}
+{
+  "q": "Do most experts recommend limiting precious metals to a maximum of 20% of your overall portfolio?",
+  "a": "No"
+}
+{
+  "q": "Did the Federal Reserve meet in January 2026 to discuss interest rate policy?",
+  "a": "No"
+}
+{
+  "q": "Is silver described in the article as having industrial uses that gold does not?",
+  "a": "Yes"
+}
+{
+  "q": "Did the price of silver rise from $70.90 per ounce on February 5, 2026, to $116.61 per ounce on February 28, 2026?",
+  "a": "No"
+}
+{
+  "q": "Does the article suggest that silver's value has doubled over the past year as of March 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did the price of silver drop by almost 50% between January 28, 2026, and February 5, 2026?",
+  "a": "No"
+}

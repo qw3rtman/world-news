@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump tell CBS News in March 2026 that the war with Iran is 'pretty much complete'?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state that Iran still possesses a functional navy and Air Force in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump say in March 2026 that the United States is ahead of his initial timeline of four to five weeks for the conflict?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump explicitly endorse Iran’s new supreme leader Mojtaba Khamenei in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump say in March 2026 that he has someone in mind to replace Mojtaba Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state in March 2026 that he is considering taking over the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump warn in March 2026 that Iran has not yet shot everything it has to shoot?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump warn in March 2026 that further escalation by Iran would be 'the end of that country'?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump tell CBS News in March 2026 that he has a detailed message for Mojtaba Khamenei?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state in March 2026 that ships are currently moving through the Strait of Hormuz?",
+    "a": "Yes"
+  }
+]

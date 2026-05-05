@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the United States report its first war deaths in the conflict with Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Central Command state that three U.S. service members were killed during operations against Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Central Command report that five U.S. service members were seriously wounded during operations against Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Central Command provide detailed information about the circumstances of the U.S. service member deaths in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the conflict with Iran spread to countries in South America in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United States report that no Americans were killed in the war with Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Central Command state that five U.S. service members were killed during operations against Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the war with Iran threaten to upend energy markets in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States report that the first Americans were wounded but not killed in the war with Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Central Command make the announcement regarding U.S. casualties on a Monday in March 2026?",
+    "a": "No"
+  }
+]

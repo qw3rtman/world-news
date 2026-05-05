@@ -1,0 +1,22 @@
+{
+  "q": "Did Israeli Prime Minister Benjamin Netanyahu give an interview to Fox News on the evening of March 2, 2026?",
+  "a": "Yes",
+  "q": "Did Israeli Prime Minister Benjamin Netanyahu link the U.S.-Israeli strikes to an opportunity for Iranian regime change during the March 2026 interview?",
+  "a": "Yes",
+  "q": "Did Israeli Prime Minister Benjamin Netanyahu state that the U.S.-Israeli strikes would pave the way for normalization with Saudi Arabia during the March 2026 interview?",
+  "a": "Yes",
+  "q": "Did Israeli Prime Minister Benjamin Netanyahu give the interview to CNN on the evening of March 2, 2026?",
+  "a": "No",
+  "q": "Did Israeli Prime Minister Benjamin Netanyahu link the U.S.-Israeli strikes to an opportunity for Syrian regime change during the March 2026 interview?",
+  "a": "No",
+  "q": "Did Israeli Prime Minister Benjamin Netanyahu state that the U.S.-Israeli strikes would pave the way for normalization with Qatar during the March 2026 interview?",
+  "a": "No",
+  "q": "Did the article report that the interview took place on the morning of March 3, 2026?",
+  "a": "No",
+  "q": "Did the article report that the interview was conducted by Ben Samuels in Jerusalem?",
+  "a": "No",
+  "q": "Did the article report that the interview reinforced Netanyahu's previous statements regarding the strikes?",
+  "a": "Yes",
+  "q": "Did the article report that the interview occurred in Tel Aviv?",
+  "a": "No"
+}

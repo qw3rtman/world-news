@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Saudi Arabia intensify direct engagement with Iran to help contain the war in the Middle East as reported by Bloomberg News on Friday, March 6, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran show an inclination to negotiate an end to the conflict with the United States and Israel as of the reporting date in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian strikes in late February 2026 target Basra airport and oil facilities in southern Iraq?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran completely close the Strait of Hormuz to all maritime traffic in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Gulf officials complain that the United States did not give them adequate advance notice before the initial attack on Iran on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did White House spokeswoman Anna Kelly state that Iran’s retaliatory ballistic missile attacks had increased by 90% due to Operation Epic Fury?",
+    "a": "No"
+  },
+  {
+    "q": "Did Prince Turki al-Faisal, the former Saudi intelligence chief, tell CNN that the war was \"Netanyahu’s war\" in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did six US soldiers die in Kuwait on Sunday when an Iranian drone strike hit an operations center in a civilian port?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US Defense Secretary Pete Hegseth and Gen. Dan Caine tell Congress that the US would be able to intercept most incoming Shahed drones?",
+    "a": "No"
+  },
+  {
+    "q": "Did the governments of Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the United Arab Emirates provide immediate public comments regarding their frustration with the US handling of the war in March 2026?",
+    "a": "No"
+  }
+]

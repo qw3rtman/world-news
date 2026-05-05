@@ -1,0 +1,22 @@
+{
+  "q": "On Friday, February 27, 2026, at 8:45 a.m. Eastern Time, did the price of silver stand at $92.06 per ounce?",
+  "a": "Yes",
+  "q": "Did the price of silver increase by $4.99 over the 24-hour period leading up to 8:45 a.m. Eastern Time on February 27, 2026?",
+  "a": "Yes",
+  "q": "Was the gain in the price of silver over the past year less than $60 as of February 27, 2026?",
+  "a": "No",
+  "q": "Did the price of silver decrease by $4.99 from the previous day on February 27, 2026?",
+  "a": "No",
+  "q": "Was the article published by Fortune on February 27, 2026?",
+  "a": "Yes",
+  "q": "Was the article written by U.S. Senator John Cornyn?",
+  "a": "No",
+  "q": "Did the price of silver exchange hands at $92.06 per ounce on Thursday, February 26, 2026?",
+  "a": "No",
+  "q": "Was Joseph Hostetler identified as a Staff Writer for Personal Finance?",
+  "a": "Yes",
+  "q": "Did the price of silver drop by more than $60 over the past year as of February 27, 2026?",
+  "a": "No",
+  "q": "Was the time of the silver price report 8:45 a.m. Pacific Time on February 27, 2026?",
+  "a": "No"
+}

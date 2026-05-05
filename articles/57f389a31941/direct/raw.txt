@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump state on Friday, February 20, 2026, that he was considering limited military strikes against Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian Foreign Minister Abbas Araghchi claim on February 20, 2026, that Iran expected to finalize a draft nuclear deal within the next two to three days?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the USS Gerald R. Ford carrier strike group enter the Mediterranean Sea via the Strait of Gibraltar on February 20, 2026, after being deployed from the Caribbean?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Democratic Senator Tim Kaine of Virginia file a war powers resolution on February 20, 2026, requiring congressional approval for any U.S. strikes on Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump unilaterally withdraw the United States from the 2015 Iran nuclear deal in 2024?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian Foreign Minister Abbas Araghchi state on February 20, 2026, that U.S. counterparts had demanded zero enrichment of uranium as part of the latest round of talks?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state in June 2025 that U.S. and Israeli strikes had obliterated Iran’s nuclear sites?",
+    "a": "No"
+  },
+  {
+    "q": "Did the USS Gerald R. Ford carrier strike group pass through the Strait of Gibraltar on February 20, 2026, after being sent by President Trump from the Middle East?",
+    "a": "No"
+  },
+  {
+    "q": "Did Democratic Senator Tim Kaine state on February 20, 2026, that his filed war powers resolution had a strong chance of becoming law?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ali Vaez of the International Crisis Group state on February 20, 2026, that Iran would treat any kinetic military action as an existential threat?",
+    "a": "Yes"
+  }
+]

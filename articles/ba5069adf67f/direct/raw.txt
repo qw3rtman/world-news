@@ -1,0 +1,40 @@
+{
+  "q": "Did the United States and Israel begin striking Iran on February 28, 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did U.S. President Donald Trump state on March 2, 2026, that he expected the military operation against Iran to last four weeks?",
+  "a": "Yes"
+}
+{
+  "q": "Is Iran scheduled to play two group-stage matches in Los Angeles during the 2026 World Cup?",
+  "a": "Yes"
+}
+{
+  "q": "Did FIFA Secretary General Mattias Grafstrom issue a statement on February 28, 2026, confirming that Iran would definitely participate in the World Cup?",
+  "a": "No"
+}
+{
+  "q": "Did FIFA President Gianni Infantino issue a public response to the U.S. attacks on Iran by March 2, 2026?",
+  "a": "No"
+}
+{
+  "q": "Is the travel ban announced by the Trump administration in June 2025 completely prohibiting all athletes and coaches from entering the United States for the World Cup?",
+  "a": "No"
+}
+{
+  "q": "Would Iraq be the next team in line to replace Iran at the 2026 World Cup if Iran withdraws?",
+  "a": "Yes"
+}
+{
+  "q": "Has any country ever participated in a World Cup hosted by a nation with which it was actively at war prior to the 2026 tournament?",
+  "a": "No"
+}
+{
+  "q": "Did the Soviet Union refuse to play Chile in a playoff to reach the World Cup in 1974?",
+  "a": "Yes"
+}
+{
+  "q": "Will the 2026 World Cup be hosted solely by the United States?",
+  "a": "No"
+}

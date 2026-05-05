@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump state on social media that the operation in Iran would continue until all objectives were achieved on March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump offer condolences for U.S. service members killed in the operation in Iran on March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump warn to expect fewer U.S. casualties in the operation in Iran on March 2, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did CBS News reporter Weijia Jiang report on U.S. President Donald Trump's update regarding the operation in Iran on March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump post the update about the operation in Iran via a traditional press release rather than social media on March 2, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state that the operation in Iran would cease immediately after the first phase of objectives on March 2, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump warn to expect more U.S. casualties in the operation in Iran on March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state that the operation in Iran would continue until all objectives were achieved on February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did CBS News reporter Weijia Jiang report on U.S. President Donald Trump's update regarding the operation in Iraq on March 2, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump offer condolences for U.S. service members killed in the operation in Iran on March 2, 2026?",
+    "a": "Yes"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the International Energy Agency announce a record release of 400 million barrels of oil from strategic reserves on March 10, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran threaten to destroy the world economy and fire on commercial ships in response to US and Israeli attacks that began on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the IEA's record oil reserve release successfully push crude prices lower on March 10, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did US President Donald Trump state on March 10, 2026, that the war was \"going to be ended soon\"?",
+    "a": "No"
+  },
+  {
+    "q": "Did Brent North Sea Crude prices rise by 5.6 percent to $92.74 per barrel by 1630 GMT on March 10, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran effectively shut down the Strait of Hormuz, through which nearly 20 percent of the world's oil usually transits, in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did analyst Helge Andre Martinsen estimate that lost oil supply was approximately 1.75 million barrels per day on March 10, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Wall Street equity markets close mostly lower on March 10, 2026, after the IEA announcement?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US group Citi, consultancies Deloitte and PwC, and other firms in Dubai open new offices on March 10, 2026, after Iran's threats?",
+    "a": "No"
+  },
+  {
+    "q": "Did the New York Nasdaq Composite index remain flat at 22,695.84 points by 1630 GMT on March 10, 2026?",
+    "a": "Yes"
+  }
+]

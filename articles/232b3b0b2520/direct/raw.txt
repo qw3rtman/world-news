@@ -1,0 +1,22 @@
+{
+  "q": "Was the Reuters sitemap published on February 24, 2026?",
+  "a": "Yes",
+  "q": "Did the Reuters sitemap published on February 24, 2026, contain exclusive news and analytics for financial market professionals?",
+  "a": "Yes",
+  "q": "Was the Reuters sitemap published on March 24, 2026?",
+  "a": "No",
+  "q": "Did the Reuters sitemap published on February 24, 2026, contain exclusive news and analytics for retail grocery shoppers?",
+  "a": "No",
+  "q": "Was the Reuters sitemap published on February 24, 2025?",
+  "a": "No",
+  "q": "Did the Reuters sitemap published on February 24, 2026, contain exclusive news and analytics for healthcare administrators?",
+  "a": "No",
+  "q": "Was the Reuters sitemap published on February 24, 2027?",
+  "a": "No",
+  "q": "Did the Reuters sitemap published on February 24, 2026, contain exclusive news and analytics for automotive engineers?",
+  "a": "No",
+  "q": "Was the Reuters sitemap published on January 24, 2026?",
+  "a": "No",
+  "q": "Did the Reuters sitemap published on February 24, 2026, contain exclusive news and analytics for legal scholars?",
+  "a": "No"
+}

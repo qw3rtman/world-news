@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Anthropic acquire the AI startup Vercept in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Anthropic acquire Vercept to help scale its coding agent engine Bun?",
+    "a": "No"
+  },
+  {
+    "q": "Did Anthropic announce it would shutter Vercept’s product Vy on March 25, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Matt Deitke, a co-founder of Vercept, join Anthropic as part of the acquisition deal?",
+    "a": "No"
+  },
+  {
+    "q": "Did Vercept raise a total of $50 million prior to the acquisition?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Seth Bannon, the lead investor from Fifty Years, join Anthropic as part of the acquisition?",
+    "a": "No"
+  },
+  {
+    "q": "Did Oren Etzioni, a co-founder of Vercept, post on LinkedIn that he was pleased with the acquisition outcome?",
+    "a": "No"
+  },
+  {
+    "q": "Did former Google CEO Eric Schmidt serve as an angel investor in Vercept?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Kiana Ehsani, the CEO of Vercept, state that the decision to join Anthropic was an easy choice?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Anthropic disclose the specific financial terms of the acquisition of Vercept?",
+    "a": "No"
+  }
+]

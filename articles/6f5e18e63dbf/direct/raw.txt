@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump authorize the military strikes on Iran, which were dubbed Operation Epic Fury, in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Supreme Leader Ayatollah Ali Khamenei survive the U.S. strikes on Iran in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran launch retaliatory missile strikes against Israel and U.S. military bases in the region in response to the February 2026 U.S. strikes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did a University of Maryland poll conducted in February 2026 show that a majority of Americans favored the U.S. initiating an attack on Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did former Georgia Congresswoman Marjorie Taylor Greene publicly criticize the U.S. strikes on Iran as an unwanted foreign war?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran launch its retaliatory missile strikes primarily against U.S. bases in Afghanistan and Pakistan in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump state in a social media video on February 28, 2026, that the mission against Iran was a noble one for the future?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the University of Maryland poll conducted in early February 2026 indicate that 49% of respondents opposed the U.S. attack on Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Jimmy Carter successfully secure the release of all 52 hostages held in the U.S. embassy in Iran during his presidency?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran's military response to the June 2025 bombing of its nuclear facilities result in immediate and fierce retaliation against U.S. bases in the region?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Israel carry out the killing of Iranian Supreme Leader Ayatollah Ali Khamenei in early 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Iranian regime appoint Ali Larijani as the key coordinator of the post-Khamenei leadership council?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Islamic Republic of Iran completely lose control of its airspace following the strikes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Reza Pahlavi establish an organized revolutionary structure inside Iran to challenge the regime?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Mojahedin-e-Khalq organization possess sufficient popular support to effectively challenge the regime on its own?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Iranian Kurdish groups form a broad coalition of five groups?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Iranian regime kill thousands of Iranians during protests in January 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Reza Pahlavi receive significant support from Israel?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that the Iranian regime collapsed automatically immediately after Khamenei's death?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article suggest that the Trump administration should avoid a Venezuela-style reshuffle in which the regime survives under new labels?",
+    "a": "Yes"
+  }
+]

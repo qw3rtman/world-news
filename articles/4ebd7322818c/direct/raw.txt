@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the article state that the AI model Gemini 3 Deep Think was announced with benchmark results in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article report that the Humanity’s Last Exam (HLE) benchmark score for Gemini 3 Deep Think was achieved without using tools?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article identify ARC-AGI-2 as a benchmark where Gemini 3 Deep Think achieved a score of 84.6%?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article claim that OpenAI shipped the GPT-5.3-Codex-Spark model in the first half of February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that the ARC-AGI-2 benchmark score of 84.6% was verified under the ARC Prize Verified v2 semi-private protocol?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article report that Anthropic shipped the GPT-5.3-Codex model in the first half of February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article state that the Gemini 3 Deep Think model achieved a score of 48.4% on the ARC-AGI-2 benchmark?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article claim that the GPT-5.3-Codex-Spark research preview was powered by Google's TPU infrastructure?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article report that the Humanity’s Last Exam (HLE) benchmark score for Gemini 3 Deep Think was 84.6%?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article state that the GPT-5.3-Codex-Spark variant processed fewer than 100 tokens per second?",
+    "a": "No"
+  }
+]

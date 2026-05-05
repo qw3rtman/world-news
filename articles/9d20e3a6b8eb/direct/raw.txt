@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iran state that nuclear talks with the US were \"very intense and very serious\" on February 26, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the third round of Omani-mediated nuclear discussions between the US and Iran take place in Geneva on February 26, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump threaten military action against Iran unless its leaders agreed to a nuclear accord by the deadline approaching in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the nuclear negotiations between the US and Iran conclude successfully with a signed agreement on February 26, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the third round of nuclear talks between the US and Iran take place in Muscat, Oman, in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Joe Biden threaten military action against Iran in February 2026 to secure a nuclear accord?",
+    "a": "No"
+  },
+  {
+    "q": "Did the negotiations between the US and Iran begin in January 2026 rather than February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the US and Iran conduct their third round of talks mediated by Qatar in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did fears of a new Middle East war in February 2026 specifically embroil Gulf Arab oil producers and Israel?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran describe the nuclear talks with the US as \"very intense and very serious\" in a statement released on February 26, 2026?",
+    "a": "Yes"
+  }
+]

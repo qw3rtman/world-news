@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iran appoint Mojtaba Khamenei as its new supreme leader in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. airstrikes on February 28, 2026, kill Ayatollah Ali Khamenei, the previous supreme leader of Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did oil prices rise above $120 per barrel following the appointment of Mojtaba Khamenei and Iran's closure of the Strait of Hormuz in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump publicly endorse Mojtaba Khamenei as the new supreme leader of Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Mojtaba Khamenei serve in the Islamic Revolutionary Guard Corps during the Iran-Iraq war in the late 1980s?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mojtaba Khamenei hold the traditional religious rank of Ayatollah before becoming supreme leader in 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Mojtaba Khamenei's wife, son, and mother die in U.S. airstrikes on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's former supreme leader, Ayatollah Ali Khamenei, publicly nominate his son Mojtaba as his successor during the 2024 Assembly of Experts meeting?",
+    "a": "No"
+  },
+  {
+    "q": "Did Mojtaba Khamenei act as a key coordinator with IRGC commanders and intelligence units while operating within his father's office?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did a Bloomberg investigation in January 2026 reveal that Mojtaba Khamenei owns luxury properties in London and Dubai?",
+    "a": "Yes"
+  }
+]

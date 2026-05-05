@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump state in March 2026 that he should be involved in choosing Iran’s next supreme leader?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Defense Secretary Pete Hegseth warn in March 2026 that American firepower over Tehran was about to surge dramatically?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ayatollah Ali Khamenei survive the opening strikes of the war in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. House of Representatives vote in March 2026 to defeat a resolution halting the bombardment of Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump refer to Delcy Rodríguez as the president of Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran’s ambassador to Egypt, Mojtaba Ferdousi Pour, deny in March 2026 that Iran wants to negotiate with the U.S.?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian Foreign Minister Abbas Araghchi accuse the U.S. Navy in March 2026 of sinking the Iranian frigate IRIS Dena in the Pacific Ocean?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli Lt. Gen. Eyal Zamir state in March 2026 that Israeli strikes had destroyed 80% of Iran’s air defenses?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Azerbaijan’s President Ilham Aliyev accuse Israel in March 2026 of launching a drone attack near an airport?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. Embassy in Kuwait remain open in March 2026 despite activating air defense systems against incoming missiles?",
+    "a": "No"
+  }
+]

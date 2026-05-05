@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Supreme Leader Ayatollah Ali Khamenei die in joint US-Israeli strikes in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is there an officially declared heir to Ayatollah Ali Khamenei as of March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Does the Iranian constitution require the next supreme leader to be a male cleric with political competence and moral authority?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mojtaba Khamenei hold a high-ranking clerical position in the Iranian regime as of March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is Ayatollah Alireza Arafi a member of the provisional leadership council formed by Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mohammad Mehdi Mirbagheri express support for the West and greater engagement with outside world in early 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is Hassan Khomeini the grandson of Ayatollah Ruhollah Khomeini, the founder of the Islamic Republic?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Hashem Hosseini Bushehri serve as the first deputy chairman of the Assembly of Experts in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Mojtaba Khamenei sanctioned by the United States in 2024?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Assembly of Experts successfully select a new supreme leader immediately after Ayatollah Ali Khamenei's death in February 2026?",
+    "a": "No"
+  }
+]

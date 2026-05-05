@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Omani Foreign Minister Badr al-Busaidi state that Iran agreed to 'zero stockpiling' of nuclear material in talks with the U.S. in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Omani Foreign Minister Badr al-Busaidi serve as the mediator between U.S. and Iranian officials in Geneva in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran currently hold a stockpile of between 300 and 400 kilograms of 60 percent enriched uranium as of February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Omani Foreign Minister Badr al-Busaidi suggest that Iran has agreed to downblend enriched uranium to the lowest level possible and convert it into irreversible fuel in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump express full optimism and satisfaction with the way Iran was negotiating a nuclear deal in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Omani Foreign Minister Badr al-Busaidi state that international nuclear inspectors would likely come from the International Atomic Energy Agency to inspect Iran’s facilities in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump threaten strikes against Iran if a nuclear deal was not reached in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Omani Foreign Minister Badr al-Busaidi tell Margaret Brennan of CBS’s “Face the Nation” that zero stockpiling is important because enriched material cannot be used to create a bomb if it cannot be stockpiled in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran currently hold a stockpile of between 100 and 200 kilograms of 90 percent enriched uranium as of February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Omani Foreign Minister Badr al-Busaidi state that Iran is offering to give up stockpiling enriched uranium as part of a deal with the U.S. in February 2026?",
+    "a": "Yes"
+  }
+]

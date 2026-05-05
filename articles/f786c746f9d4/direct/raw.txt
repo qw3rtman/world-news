@@ -1,0 +1,22 @@
+{
+  "q": "Did the United States and Israel launch a joint military operation against Iran in March 2026?",
+  "a": "Yes",
+  "q": "Was Iranian Supreme Leader Ayatollah Ali Khamenei killed in the initial US-Israeli strikes?",
+  "a": "Yes",
+  "q": "Did Pentagon briefers acknowledge to congressional staff that Iran was planning to strike US forces unless Israel attacked Iran first?",
+  "a": "No",
+  "q": "Did Venezuela supply nearly all of its crude exports to China in the year prior to March 2026?",
+  "a": "No",
+  "q": "Did Iran launch missile strikes targeting the United Arab Emirates cities of Dubai and Abu Dhabi?",
+  "a": "Yes",
+  "q": "Did the UAE government refuse to cover accommodation costs for stranded travelers during the conflict?",
+  "a": "No",
+  "q": "Did the Israeli military order evacuations across 52 settlements in southern Lebanon?",
+  "a": "Yes",
+  "q": "Did Iran’s top security official Ali Larijani state that Iran was ready to negotiate with the United States?",
+  "a": "No",
+  "q": "Did Thailand announce plans to evacuate its citizens from the Middle East by military or charter flights?",
+  "a": "Yes",
+  "q": "Did the World Health Organization Director-General Tedros Ghebreyesus confirm that the Gandhi Hospital in Tehran was intentionally targeted as a military base?",
+  "a": "No"
+}

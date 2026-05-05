@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Mojtaba Khamenei assume leadership of Iran following the death of his father, Supreme Leader Ayatollah Ali Khamenei, in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Mojtaba Khamenei elected by the Assembly of Experts to lead Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump publicly describe Mojtaba Khamenei as an \"unacceptable\" choice for Iran's leadership in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mojtaba Khamenei serve in the Islamic Revolutionary Guard Corps during the Iran-Iraq War between 1987 and 1988?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Nations impose sanctions on Mojtaba Khamenei in 2019?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Senator Ted Cruz publicly endorse Mojtaba Khamenei as the legitimate Supreme Leader of Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was Mojtaba Khamenei killed in the U.S.-Israeli airstrikes that targeted his father in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Mojtaba Khamenei join the Islamic Revolutionary Guard Corps to fight in the Iran-Iraq War in 1979?",
+    "a": "No"
+  },
+  {
+    "q": "Was Mojtaba Khamenei sanctioned by the United Nations in 2008 for his role in the Iranian revolution?",
+    "a": "No"
+  },
+  {
+    "q": "Did former President Hassan Rouhani win the election to become Iran's Supreme Leader in March 2026?",
+    "a": "No"
+  }
+]

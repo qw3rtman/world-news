@@ -1,0 +1,40 @@
+{
+  "q": "Did the Trump administration conduct targeted air strikes against high-profile targets in Iran in March 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did the United States act alone in conducting the targeted air strikes against Iran in March 2026?",
+  "a": "No"
+}
+{
+  "q": "Did Tehran respond to the U.S. strikes by firing missiles at Israeli and American military bases in March 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did Iran fire its retaliatory missiles at targets located within the United States in March 2026?",
+  "a": "No"
+}
+{
+  "q": "Did the military conflict in March 2026 occur after weeks of talks between Washington and Tehran regarding Iran’s nuclear program?",
+  "a": "Yes"
+}
+{
+  "q": "Did the military conflict in March 2026 occur before any talks between Washington and Tehran regarding Iran’s nuclear program?",
+  "a": "No"
+}
+{
+  "q": "Did President Donald Trump explain his rationale for the attacks in a video posted on Truth Social in March 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did President Donald Trump explain his rationale for the attacks in a press conference held at the White House in March 2026?",
+  "a": "No"
+}
+{
+  "q": "Were several U.S. service members reported dead as a result of Iran’s retaliation in March 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Were no U.S. service members reported dead as a result of Iran’s retaliation in March 2026?",
+  "a": "No"
+}

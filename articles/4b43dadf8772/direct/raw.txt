@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump hold a press conference on the war with Iran on March 9, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump describe his phone call with Russian President Vladimir Putin as having a 'positive' tone during the March 9, 2026 press conference?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump state that Russian President Vladimir Putin wants to be 'helpful' regarding the Middle East during the March 9, 2026 press conference?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump hold the press conference regarding the war with Iran on March 10, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump describe his phone call with Russian President Vladimir Putin as having a 'negative' tone during the March 9, 2026 press conference?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump state that Russian President Vladimir Putin wants to be 'helpful' regarding the Ukraine conflict during the March 9, 2026 press conference?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump hold a press conference on the war with Iraq on March 9, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump speak with Chinese President Xi Jinping during the press conference on the war with Iran on March 9, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump state that Russian President Vladimir Putin wants to be 'hostile' regarding the Middle East during the March 9, 2026 press conference?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump hold a press conference on the war with Iran on February 9, 2026?",
+    "a": "No"
+  }
+]

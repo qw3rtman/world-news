@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Brent crude oil prices near $120 a barrel in early trade on Monday, March 8, 2026, before settling around $104?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump describe surging oil costs as a \"very small price to pay\" for U.S. and world safety in a Sunday, March 7, 2026, Truth Social post?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran appoint Mojtaba Khamenei as its next supreme leader following the killing of his father, Ali Khamenei, in the first wave of U.S. and Israeli strikes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the average price of gasoline in America reach $3.45 a gallon on Sunday, March 7, 2026, according to AAA?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Energy Secretary Chris Wright state on CNN’s \"State of the Union\" that the U.S. plans to strike Iran’s oil industry and energy infrastructure sites?",
+    "a": "No"
+  },
+  {
+    "q": "Did the S&P 500 futures fall by more than 800 points, or 1.7%, on Monday, March 8, 2026, due to fears of prolonged fuel price spikes?",
+    "a": "No"
+  },
+  {
+    "q": "Did Homayoun Falakshahi, lead crude research analyst at Kpler, project that oil could rise to $150 a barrel by the end of March 2026 if travel through the Strait of Hormuz does not resume?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran threaten to attack oil tankers passing through the Strait of Hormuz, through which 50% of the world’s oil transits?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Trump administration announce a plan to supply insurance to oil tankers passing through the Strait of Hormuz on Sunday, March 7, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the initial strikes in Iran occur on February 28, 2026, triggering the shock that led to surging gasoline prices?",
+    "a": "Yes"
+  }
+]

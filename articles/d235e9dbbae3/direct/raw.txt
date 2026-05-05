@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did gold futures on the Multi Commodity Exchange (MCX) for April delivery rally by ₹2,946 on Monday, February 23, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the closing price of gold futures on the Multi Commodity Exchange (MCX) for April delivery ₹1,59,822 per 10 grams on Monday, February 23, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the business turnover for gold futures on the Multi Commodity Exchange (MCX) reach 7,515 lots on Monday, February 23, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did gold futures on the Comex advance by $96.61 on Monday, February 23, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump announce plans to raise global tariffs from 10% to 15% on Saturday, February 21, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Supreme Court reject U.S. President Donald Trump's 'reciprocal tariffs' prior to February 21, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did India finalize an interim trade deal with Washington on Saturday, February 21, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the closing price of gold futures on the Comex $5,177.51 per ounce on Monday, February 23, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Jigar Trivedi, Senior Research Analyst at Indusind Securities, attribute the international gold price climb to the U.S. Supreme Court's rejection of tariffs?",
+    "a": "No"
+  },
+  {
+    "q": "Are nuclear talks negotiators scheduled to meet again in Geneva on Thursday, February 26, 2026?",
+    "a": "No"
+  }
+]

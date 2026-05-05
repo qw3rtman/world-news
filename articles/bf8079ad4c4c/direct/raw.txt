@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the United States and Israel launch \"Operation Epic Fury\" against Iran on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump confirm in an interview with NBC News that Iran’s Supreme Leader Ali Khamenei was killed in the strikes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian state media outlet Fars News report that Trump’s claim regarding Khamenei’s death was baseless?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Vice President JD Vance join the Situation Room conference call from Mar-a-Lago while President Trump was in Washington?",
+    "a": "No"
+  },
+  {
+    "q": "Did Secretary of State Marco Rubio successfully reach all eight members of the \"Gang of Eight\" congressional leaders before the attacks?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu urge the Iranian people to oust the ayatollahs during the conflict?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Nations Security Secretary-General António Guterres state that the attacks on Iran carried no risk of igniting a chain of uncontrolled events?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Red Crescent Society spokesperson report that more than 200 people were killed in the attacks on Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran’s Islamic Revolutionary Guard Corps state that it targeted U.S. bases in Qatar and the UAE as well as the U.S. Navy’s Fifth Fleet in Bahrain?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. officials confirm that Israel was tasked with targeting Iran’s nuclear programs while the U.S. targeted Iranian leaders?",
+    "a": "No"
+  }
+]

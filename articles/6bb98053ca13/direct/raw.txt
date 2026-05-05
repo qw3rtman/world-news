@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S.-Israeli strikes on Iran kill Supreme Leader Ayatollah Ali Khamenei in early 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is President Donald Trump scheduled to meet with Chinese President Xi Jinping in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States capture Venezuelan President Nicolás Maduro in January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did China confirm the death of two of its citizens in Tehran following the strikes on Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Is Iran described as accounting for approximately 80% of China's total oil imports?",
+    "a": "No"
+  },
+  {
+    "q": "Did China broker a deal restoring diplomatic relations between Iran and Saudi Arabia?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the White House scheduled to begin the Trump-Xi visit on April 30, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Chinese Foreign Minister Wang Yi characterize the killing of Iran’s Supreme Leader as \"unacceptable\"?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran shut down the Strait of Hormuz, carrying about one-fifth of the world's oil output, in response to the strikes?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Ambassador to China Nicholas Burns describe China as a \"feckless friend\" for its authoritarian allies?",
+    "a": "Yes"
+  }
+]

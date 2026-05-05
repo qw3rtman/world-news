@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did US military forces reportedly destroy the remainder of Iran’s air defenses in the early hours of Saturday night during the March 2026 conflict?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump report that 48 top Iranian leaders, including Supreme Leader Ali Khamenei, were killed in the initial hours of the air campaign?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Ebrahim Raisi currently serving as the designated successor to Ali Khamenei in the Iranian regime's succession process?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran’s foreign minister acknowledge in an interview on Sunday that its military units were likely acting independently and out of contact with a chain of command?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran’s initial attacks in the March 2026 conflict target only American military bases and avoid civilian infrastructure in Gulf states?",
+    "a": "No"
+  },
+  {
+    "q": "Did the five Gulf states and Jordan join the United States in condemning Iran and asserting their right to self-defense by late Sunday?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Russia and China provide significant military aid, such as replacing destroyed air defense systems, to Iran during the early days of the conflict?",
+    "a": "No"
+  },
+  {
+    "q": "Did OPEC agree to increase oil production by more than 200,000 barrels per day on Sunday in response to the conflict?",
+    "a": "Yes"
+  },
+  {
+    "q": "Has Hezbollah, Iran’s primary proxy militia, fully engaged on Iran’s northern border in the early stages of the March 2026 conflict?",
+    "a": "No"
+  },
+  {
+    "q": "Is the United States currently the world’s largest producer of oil, according to the analysis of global market changes?",
+    "a": "Yes"
+  }
+]

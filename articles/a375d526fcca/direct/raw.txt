@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump encourage Latin American leaders to use military action against drug trafficking cartels at the Shield of the Americas Summit in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Shield of the Americas Summit take place at Trump National Doral Miami in Doral, Florida, in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Cuban President Miguel Diaz-Canel describe the Shield of the Americas Summit as \"small, reactionary, and neocolonial\" in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ecuador and the United States conduct joint military operations against organized crime groups in the Ecuadorian Amazon in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump attend the Shield of the Americas Summit in March 2026 to personally greet the leaders of Brazil and Mexico?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Shield of the Americas Summit in March 2026 include attendance by the leaders of Brazil and Mexico?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump travel to Dover Air Force Base in Delaware immediately after the Shield of the Americas Summit in March 2026 to oversee the transfer of troops killed in Kuwait?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Dominican Republic host the Shield of the Americas Summit in March 2026 after initially postponing the event due to deep regional differences?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump explicitly mention his administration's priority of countering Chinese influence in the Western Hemisphere during his remarks at the Shield of the Americas Summit in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Kristi Noem make her debut as a special envoy for the \"Shield of the Americas\" at a working lunch hosted by Secretary of State Marco Rubio in March 2026?",
+    "a": "Yes"
+  }
+]

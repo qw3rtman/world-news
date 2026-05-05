@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Jeff Schmid, President of the Federal Reserve Bank of Kansas City, state in March 2026 that inflation is nearly a percentage point above the US central bank’s target?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Jeff Schmid deliver remarks prepared for an event in Denver, Colorado, in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Jeff Schmid state in March 2026 that inflation has been above the Fed’s objective for nearly five years?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Jeff Schmid, President of the Federal Reserve Bank of New York, issue the March 2026 statement regarding inflation being too high?",
+    "a": "No"
+  },
+  {
+    "q": "Did Jeff Schmid state in March 2026 that inflation is currently below the US central bank’s target?",
+    "a": "No"
+  },
+  {
+    "q": "Was the event where Jeff Schmid delivered his remarks on inflation held in Washington, D.C., in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Jeff Schmid state in March 2026 that the Fed has ample room to be complacent about inflation?",
+    "a": "No"
+  },
+  {
+    "q": "Did Jeff Schmid state in March 2026 that inflation has been above the Fed’s objective for only one year?",
+    "a": "No"
+  },
+  {
+    "q": "Did Jeff Schmid state in March 2026 that the latest inflation numbers suggest the rate is nearly a percentage point below the US central bank’s target?",
+    "a": "No"
+  },
+  {
+    "q": "Did Jeff Schmid, President of the Federal Reserve Bank of Kansas City, deliver his remarks on Tuesday in March 2026?",
+    "a": "Yes"
+  }
+]

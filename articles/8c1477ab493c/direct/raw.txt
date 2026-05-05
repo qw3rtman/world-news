@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Brent North Sea crude oil prices rise more than 5% to $90.25 per barrel on Friday, March 6, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump state on his Truth Social platform on March 6, 2026, that the only acceptable outcome to end the conflict with Iran was unconditional surrender?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the US benchmark West Texas Intermediate (WTI) crude oil price climb 8.1% to $87.56 per barrel on March 6, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did 50 Israeli jets strike and destroy Iran Supreme Leader Ali Khamenei’s underground military bunker on March 6, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US Defense Secretary Pete Hegseth state on March 6, 2026, that American strikes against Iran were about to surge dramatically?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Brent North Sea crude oil reach its highest level since April 2024 on March 6, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump propose the slogan \"MAKE IRAN GREAT AGAIN (MIGA!)\" on March 6, 2026, as a play on his \"Make America Great Again\" slogan?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article report that Russia was providing real-time intelligence to Tehran on American military assets on March 6, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Iranian warship IRIS Dena sink after being struck by a torpedo without warning from the Indian Navy on March 6, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did US President Donald Trump promise economic rebuilding for Iran on March 6, 2026, conditional on the installation of new leadership, without requiring unconditional surrender?",
+    "a": "No"
+  }
+]

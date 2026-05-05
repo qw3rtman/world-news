@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did OpenAI launch the GPT-5.4 model in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the GPT-5.4 model available in ChatGPT under the name GPT-5.4 Thinking?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the GPT-5.4 model support up to 10 million tokens of context?",
+    "a": "No"
+  },
+  {
+    "q": "Did GPT-5.4 achieve an 83% win or tie rate against industry professionals on the GDPval benchmark?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is GPT-5.4 Thinking available to free-tier users immediately upon launch?",
+    "a": "No"
+  },
+  {
+    "q": "Does the GPT-5.4 model include built-in computer-use abilities to interact with software and websites?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did GPT-5.4 score 95% on the SWE-Bench Pro coding benchmark?",
+    "a": "No"
+  },
+  {
+    "q": "Will the previous GPT-5.2 Thinking model remain available for paid users for three months after the launch?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the GPT-5.4 Pro version available to Plus and Team plan subscribers?",
+    "a": "No"
+  },
+  {
+    "q": "Can developers access GPT-5.4 through the OpenAI API using the model name gpt-5.4?",
+    "a": "Yes"
+  }
+]

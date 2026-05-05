@@ -1,0 +1,22 @@
+{
+  "q": "Did the United States announce its first casualties in the war against Iran in February 2026?",
+  "a": "Yes",
+  "q": "Did Israel attack Lebanon in response to strikes by Hezbollah in February 2026?",
+  "a": "Yes",
+  "q": "Did Kuwait shoot down US jets in a friendly-fire incident in February 2026?",
+  "a": "Yes",
+  "q": "Did the United States announce its first casualties in the war against Iran in March 2026?",
+  "a": "No",
+  "q": "Did Israel attack Lebanon in response to strikes by Hamas in February 2026?",
+  "a": "No",
+  "q": "Did Kuwait shoot down Iranian jets in a friendly-fire incident in February 2026?",
+  "a": "No",
+  "q": "Did Lebanon ban Hezbollah military actions after an attack on Israel in February 2026?",
+  "a": "Yes",
+  "q": "Did the United States announce its first casualties in the war against Iraq in February 2026?",
+  "a": "No",
+  "q": "Did Israel attack Syria in response to strikes by Hezbollah in February 2026?",
+  "a": "No",
+  "q": "Did Kuwait shoot down Israeli jets in a friendly-fire incident in February 2026?",
+  "a": "No"
+}

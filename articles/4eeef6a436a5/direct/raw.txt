@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the G7 finance ministers and the International Energy Agency reach an agreement to release strategic crude reserves during their meeting in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the price of Brent crude oil jump by more than 25% on Monday morning in Asia following the escalation of the US-Israel war with Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did UK Chancellor Rachel Reeves state that the United Kingdom called for an immediate de-escalation in the Middle East during the G7 virtual meeting in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Would a release of emergency oil reserves by G7 nations be the first such coordinated action since 2022, following Russia's full-scale invasion of Ukraine?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran target energy infrastructure in neighboring Gulf states, including Saudi Arabia, during the conflict in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the International Energy Agency report that global oil markets had improved significantly in the days leading up to the March 2026 meeting?",
+    "a": "No"
+  },
+  {
+    "q": "Did US President Donald Trump post on Truth Social that short-term oil prices would drop rapidly once the destruction of the Iran nuclear threat was over in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did traffic through the Strait of Hormuz remain at normal levels throughout the first week of the war in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the UK interest rate rise to 4.09% on two-year government bonds in March 2026 as markets reassessed interest rate prospects?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the S&P 500 index close lower by more than 5% on Monday in March 2026 due to the surge in oil prices?",
+    "a": "No"
+  }
+]

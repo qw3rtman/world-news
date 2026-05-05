@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. Senator Amy Klobuchar bring Sean Sayverson, owner of a Moorhead brewery affected by tariffs, as a guest to the State of the Union in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Representative Pete Stauber bring YouTuber Nick Shirley as a guest to the State of the Union in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Senator Amy Klobuchar bring a representative from a Minneapolis-based tech startup as a guest to the State of the Union in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Representative Pete Stauber bring a local high school teacher as a guest to the State of the Union in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the article titled \"These are the guests the Minnesota delegation is bringing to the State of the Union\" published by CBS Minnesota on February 24, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Sean Sayverson own a large-scale industrial manufacturing plant in St. Paul that was unaffected by tariffs?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Representative Pete Stauber bring a veteran from the Minnesota National Guard as a guest to the State of the Union in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Senator Amy Klobuchar bring a local farmer from the Red River Valley as a guest to the State of the Union in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was Nick Shirley identified as a YouTuber in the context of his selection as a guest for the Minnesota delegation in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Minnesota delegation bring guests to the State of the Union in March 2026?",
+    "a": "No"
+  }
+]

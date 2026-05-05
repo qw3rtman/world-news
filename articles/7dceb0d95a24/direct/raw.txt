@@ -1,0 +1,22 @@
+{
+  "q": "Did a deadly boat shooting occur off the shores of Cuba in March 2026?",
+  "a": "Yes",
+  "q": "Is the United States described in the article as a communist nation?",
+  "a": "No",
+  "q": "Did Andrea Mitchell of NBC News report on the shared history between the U.S. and Cuba?",
+  "a": "Yes",
+  "q": "Was the Cuban missile crisis cited in the article as an example of past clashes between Cuba and the United States?",
+  "a": "Yes",
+  "q": "Did the article identify Elián González as the victim of the deadly boat shooting in March 2026?",
+  "a": "No",
+  "q": "Was 'Havana Syndrome' mentioned in the article as part of the historical context of U.S.-Cuba tensions?",
+  "a": "Yes",
+  "q": "Was the article published on February 28, 2026?",
+  "a": "No",
+  "q": "Does the article characterize Cuba as a communist country?",
+  "a": "Yes",
+  "q": "Did the article state that the deadly boat shooting was the first incident of its kind in decades of U.S.-Cuba tensions?",
+  "a": "No",
+  "q": "Did Andrea Mitchell look back at the shared history between the U.S. and Cuba in the report?",
+  "a": "Yes"
+}

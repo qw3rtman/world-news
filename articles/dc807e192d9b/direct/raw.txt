@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did ConocoPhillips explore the sale of Permian Basin assets in February 2026 as reported by Bloomberg News?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is ConocoPhillips headquartered in Houston?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did ConocoPhillips close $3.2 billion in asset sales in 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is ConocoPhillips targeting a total disposition value of $5 billion by the end of 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did ConocoPhillips immediately respond to Reuters' request for comment on the Bloomberg report?",
+    "a": "No"
+  },
+  {
+    "q": "Are the Permian Basin assets expected to fetch approximately $5 billion?",
+    "a": "No"
+  },
+  {
+    "q": "Were the Permian Basin assets originally acquired through deals with Concho Resources and Shell?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Bloomberg News report the sale exploration on Saturday, February 21, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is interest in the assets expected from both strategic buyers and private equity suitors?",
+    "a": "Yes"
+  },
+  {
+    "q": "Has ConocoPhillips definitively decided to sell the assets and will not reverse the decision?",
+    "a": "No"
+  }
+]

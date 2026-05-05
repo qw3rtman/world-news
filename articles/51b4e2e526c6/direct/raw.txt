@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Federal Reserve Bank of Minneapolis President Neel Kashkari state that attacks on Iran made him less certain about cutting interest rates in 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Federal Reserve Bank of Minneapolis President Neel Kashkari speak at the Bloomberg Invest conference in New York on March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Federal Reserve Bank of Minneapolis President Neel Kashkari previously plan for two interest-rate cuts in 2026 before the attacks on Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did Federal Reserve Bank of Minneapolis President Neel Kashkari speak at the Bloomberg Invest conference in Washington, D.C. on March 3, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Federal Reserve Bank of Minneapolis President Neel Kashkari say he needed more data after geopolitical events occurred on Tuesday, March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Federal Reserve Bank of Minneapolis President Neel Kashkari state that the attacks on Iran made him more certain about cutting interest rates in 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the article updated on March 3, 2026 at 5:34 PM UTC?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Federal Reserve Bank of Minneapolis President Neel Kashkari speak at the Bloomberg Invest conference in Boston on March 3, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Federal Reserve Bank of Minneapolis President Neel Kashkari say he needed less data after geopolitical events occurred on Tuesday, March 3, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the article published on March 2, 2026?",
+    "a": "No"
+  }
+]

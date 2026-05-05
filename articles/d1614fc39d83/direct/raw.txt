@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump publicly call for \"regime change\" in Iran following the military strikes in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Iran’s supreme leader, Ayatollah Ali Khamenei, killed during the U.S.-Israeli strikes on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the February 2026 U.S.-Israeli military operation against Iran, dubbed Operation Epic Fury, have clear objectives and a defined path to deescalation?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. and Israeli forces conduct their first military strikes against Iran’s nuclear facilities in June 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. intelligence assess in early 2026 that Iran was actively enriching uranium to weapons-grade quality prior to the February strikes?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump dispatch thousands of Starlink units into Iran to counter Tehran’s internet blackout?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran’s retaliatory strikes in February 2026 target an evacuated U.S. base in Qatar?",
+    "a": "No"
+  },
+  {
+    "q": "Did diplomatic talks between Iran and Western intermediaries take place in Oman and Switzerland in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States boost its military assets in the region, including two aircraft carrier groups, in mid-January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the initial June 2025 U.S. strikes against Iran target a wide set of strategic military targets including missile launch facilities and military commanders?",
+    "a": "No"
+  }
+]

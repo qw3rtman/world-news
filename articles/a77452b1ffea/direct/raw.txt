@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump speak with Russian President Vladimir Putin for approximately one hour on Monday, March 9, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the phone call between U.S. President Donald Trump and Russian President Vladimir Putin the first conversation between the two leaders since the start of the Iran war?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Russian President Vladimir Putin raise proposals for a quick settlement to the Ukraine war during the call with U.S. President Donald Trump on March 9, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Russian President Vladimir Putin state that he had been in contact with Iranian President Masoud Pezeshkian prior to the call with U.S. President Donald Trump?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Kremlin readout indicate that U.S. President Donald Trump and Russian President Vladimir Putin discussed energy markets during their March 9, 2026 conversation?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Russian President Vladimir Putin mention that he had been in contact with Gulf leaders during the period leading up to the March 9, 2026 call with U.S. President Donald Trump?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump and Russian President Vladimir Putin discuss the situation in Venezuela during their phone call on March 9, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Kremlin readout of the March 9, 2026 call state that Russian President Vladimir Putin proposed a quick settlement to the war in Venezuela?",
+    "a": "No"
+  },
+  {
+    "q": "Did the conversation between U.S. President Donald Trump and Russian President Vladimir Putin on March 9, 2026, last for approximately two hours?",
+    "a": "No"
+  },
+  {
+    "q": "Did Russian President Vladimir Putin claim to have been in contact with U.S. President Donald Trump's Vice President during the week of March 9, 2026?",
+    "a": "No"
+  }
+]

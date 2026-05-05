@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did US Central Command confirm that three US service members were killed in action during the conflict in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump publicly endorse the US military campaign against Iran in a video address during the week of February 27, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Israel Defense Forces order residents of more than 50 villages in Lebanon to evacuate in early February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian missiles strike the Israeli city of Tel Aviv, killing at least nine people, in late February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did UK Prime Minister Sir Keir Starmer state that the UK would join offensive military action against Iran in late February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did global oil prices jump by more than 10% when Asian markets opened on Monday, February 23, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Vice President JD Vance show public support for the US action against Iran upon President Trump's return to the White House in late February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the British Ministry of Defence report a suspected drone strike on RAF Akrotiri in Cyprus on Sunday night, February 22, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's Supreme Leader Ayatollah Ali Khamenei survive the US and Israeli air strikes in late February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did US Secretary of State Marco Rubio brief House and Senate leaders on Iran at 16:00 ET on Tuesday, February 24, 2026?",
+    "a": "Yes"
+  }
+]

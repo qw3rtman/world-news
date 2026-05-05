@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did US crude oil prices briefly reach nearly $120 per barrel on Sunday evening in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump tell CBS that he thinks the war with Iran is \"very complete\" on Monday, March 9, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Dow Jones Industrial Average close higher by 239 points on Monday, March 9, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the war with Iran halt the flow of oil through the Strait of Hormuz, which carries 20% of global oil consumption, as of March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did G7 finance ministers confirm the immediate joint release of strategic oil reserves on Monday, March 9, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did US crude oil prices settle at $86.47 per barrel by 4 p.m. ET on Monday, March 9, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the 10-year Treasury yield rise to 5.50% following a strong jobs report released on Friday, March 6, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Japan’s Nikkei 225 index slump 5.2% on Monday, March 9, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the US dollar index decline significantly on Monday, March 9, 2026, due to a lack of safe-haven demand?",
+    "a": "No"
+  },
+  {
+    "q": "Did the S&P 500 index fall more than 10% so far in March 2026?",
+    "a": "No"
+  }
+]

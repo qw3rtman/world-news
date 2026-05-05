@@ -1,0 +1,22 @@
+{
+  "q": "Did President Donald Trump state in March 2026 that his trip to China would be delayed for five or six weeks?",
+  "a": "Yes",
+  "q": "Did U.S. President Donald Trump originally schedule his trip to China for March 31 to April 2, 2026?",
+  "a": "Yes",
+  "q": "Did Chinese President Xi Jinping publicly reject the postponement of the U.S.-China summit in March 2026?",
+  "a": "No",
+  "q": "Did Treasury Secretary Scott Bessent state in March 2026 that the trip delay was because President Trump demanded China police the Straits of Hormuz?",
+  "a": "No",
+  "q": "Did the Supreme Court strike down many of President Donald Trump’s tariffs in February 2026?",
+  "a": "Yes",
+  "q": "Did White House press secretary Karoline Leavitt describe Operation Epic Fury as the primary focus of President Donald Trump in March 2026?",
+  "a": "Yes",
+  "q": "Did the planned U.S.-China summit in March 2026 focus primarily on military alliances rather than trade issues?",
+  "a": "No",
+  "q": "Did China’s foreign ministry spokesperson Lin Jian state in March 2026 that China would maintain communication with the United States regarding the trip?",
+  "a": "Yes",
+  "q": "Did President Donald Trump tell reporters in March 2026 that the trip delay was due to China refusing to reopen the Strait of Hormuz?",
+  "a": "No",
+  "q": "Did experts predict in March 2026 that the U.S.-China summit would result in a major breakthrough in trade relations?",
+  "a": "No"
+}

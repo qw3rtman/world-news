@@ -1,0 +1,60 @@
+{
+  "q": "Did President Donald Trump announce that the United States had begun major combat operations against Iran in February 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did President Donald Trump call for regime change in Iran during the February 2026 military strikes?",
+  "a": "Yes"
+}
+{
+  "q": "Did Iran launch retaliatory strikes against Israel and other U.S. allies in the region following the February 2026 U.S. strikes?",
+  "a": "Yes"
+}
+{
+  "q": "Did Iran direct strikes on the UAE, Kuwait, Qatar, Bahrain, and Saudi Arabia in response to the February 2026 U.S. military actions?",
+  "a": "Yes"
+}
+{
+  "q": "Did the article state that roughly one-fifth of all global oil passes through the Strait of Hormuz?",
+  "a": "Yes"
+}
+{
+  "q": "Did the article claim that Supreme Leader Ayatollah Ali Khamenei was captured alive by U.S. forces in February 2026?",
+  "a": "No"
+}
+{
+  "q": "Did President Donald Trump claim during his State of the Union address that 32,000 Iranians had been killed?",
+  "a": "Yes"
+}
+{
+  "q": "Did the article identify Reza Pahlavi as the son of Iran’s last shah and a potential transitional figure in the post-regime scenario?",
+  "a": "Yes"
+}
+{
+  "q": "Did the article state that the Islamic Republic has ruled Iran with an iron fist since 1979?",
+  "a": "Yes"
+}
+{
+  "q": "Did the article identify Hezbollah as a group operating in Lebanon that could open multiple fronts against Israel?",
+  "a": "Yes"
+}
+{
+  "q": "Did the article state that the United States launched strikes on Iran alongside France in February 2026?",
+  "a": "No"
+}
+{
+  "q": "Did the article claim that Supreme Leader Ayatollah Ali Khamenei is 76 years old in February 2026?",
+  "a": "No"
+}
+{
+  "q": "Did the article state that the most likely outcome of the February 2026 strikes is the immediate collapse of the Iranian regime?",
+  "a": "No"
+}
+{
+  "q": "Did the article claim that Reza Pahlavi is currently the most popular opposition figure within Iran?",
+  "a": "No"
+}
+{
+  "q": "Did the article state that Iran has not prepared for escalation by repositioning missile launchers or reinforcing facilities prior to February 2026?",
+  "a": "No"
+}

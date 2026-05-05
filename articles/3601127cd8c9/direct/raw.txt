@@ -1,0 +1,22 @@
+{
+  "q": "Did Illinois state troopers assign the code name 'Sprinter' to Juliana Stratton in March 2026?",
+  "a": "Yes",
+  "q": "Did Illinois state troopers assign the code name 'Believer' to Juliana Stratton in March 2026?",
+  "a": "No",
+  "q": "Did Illinois Governor JB Pritzker spend upward of $10 million to support Juliana Stratton in the March 2026 Illinois Democratic Senate primary?",
+  "a": "Yes",
+  "q": "Did Illinois Governor JB Pritzker spend upward of $10 million to support Ted Cruz in the March 2026 Illinois Democratic Senate primary?",
+  "a": "No",
+  "q": "Was Juliana Stratton the lieutenant governor of Illinois in March 2026?",
+  "a": "Yes",
+  "q": "Was Juliana Stratton the governor of Illinois in March 2026?",
+  "a": "No",
+  "q": "Was Juliana Stratton the new Democratic nominee for US Senate in March 2026?",
+  "a": "Yes",
+  "q": "Was Juliana Stratton the new Republican nominee for US Senate in March 2026?",
+  "a": "No",
+  "q": "Did Illinois state troopers assign the code name 'Believer' to JB Pritzker in March 2026?",
+  "a": "Yes",
+  "q": "Did Illinois state troopers assign the code name 'Sprinter' to JB Pritzker in March 2026?",
+  "a": "No"
+}

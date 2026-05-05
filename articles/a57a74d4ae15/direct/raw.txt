@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Ayatollah Ali Khamenei die before March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Assembly of Religious Experts in Iran meet in person at its headquarters in Qom on March 3, 2026, to vote on a successor?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israel and the United States destroy the headquarters of the Assembly of Religious Experts in Qom in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the average age of the members of the Assembly of Religious Experts in Iran under 50 years old?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Revolutionary Guard Corps (IRGC) play a primary role in dealing with potential unrest following the death of Ayatollah Ali Khamenei in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Alireza Arafi serve as the head of the Iranian judiciary before the death of Ayatollah Ali Khamenei in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is Ayatollah Sadeq Larijani the brother of Iran's current national security adviser?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the son of the former Shah of Iran successfully unify the Iranian opposition and take control of Iranian territory in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Trump administration consider reaching out to a member of the Revolutionary Guard Corps to avoid chaos in Iran in early 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mehrzad Boroujerdi hold the position of U.S. Ambassador to Iran in March 2026?",
+    "a": "No"
+  }
+]

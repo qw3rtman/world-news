@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iranian Supreme Leader Mojtaba Khamenei appear visually in the broadcast of his first purported address as supreme leader on March 12, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. confirm it would release 172 million barrels of oil from the Strategic Petroleum Reserve in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran-backed militias in Iraq claim that U.S. airstrikes killed at least nine people at two bases in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Central Command state that a refueling aircraft crashed in western Iraq due to hostile fire in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.N. refugee agency, UNHCR, report that as many as 3.2 million people have been displaced in Iran since the war began in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israel launch strikes on Hezbollah sites in Beirut in March 2026 after Hezbollah fired its biggest rocket attack against Israel since the start of the war?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian Supreme Leader Mojtaba Khamenei succeed his father, Ayatollah Ali Khamenei, who was killed in a U.S. strike in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United Nations Security Council adopt a resolution in March 2026 condemning Iran for recent attacks across the Persian Gulf region?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Central Command report that U.S. forces had struck about 6,000 targets in Iran since the war started in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Defense Secretary Pete Hegseth expand the special Pentagon office created to prevent the accidental targeting of civilians in March 2026?",
+    "a": "No"
+  }
+]

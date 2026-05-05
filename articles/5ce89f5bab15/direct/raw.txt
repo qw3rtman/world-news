@@ -1,0 +1,22 @@
+{
+  "q": "Did the website Campaign Monitor send a verification code via email to the user logging in from a new device on March 1, 2026?",
+  "a": "Yes",
+  "q": "Did the website Campaign Monitor instruct users to check their spam folder if the verification email did not arrive on March 1, 2026?",
+  "a": "Yes",
+  "q": "Did the website Campaign Monitor require users to enter a two-factor authentication code in addition to their email and password on March 1, 2026?",
+  "a": "Yes",
+  "q": "Did the website Campaign Monitor offer an option to stop asking for device verification on the current device for a period of 30 days on March 1, 2026?",
+  "a": "Yes",
+  "q": "Did the website Campaign Monitor provide a link for users who had lost their authenticator app on March 1, 2026?",
+  "a": "Yes",
+  "q": "Did the website Campaign Monitor require users to verify their identity via SMS text message instead of email on March 1, 2026?",
+  "a": "No",
+  "q": "Did the website Campaign Monitor instruct users to wait 7 days before checking their spam folder for the verification code on March 1, 2026?",
+  "a": "No",
+  "q": "Did the website Campaign Monitor allow users to skip the two-factor authentication step by clicking a \"Don't ask again\" button for 30 days on March 1, 2026?",
+  "a": "No",
+  "q": "Did the website Campaign Monitor require users to reset their password immediately upon logging in from a new device on March 1, 2026?",
+  "a": "No",
+  "q": "Did the website Campaign Monitor display a message stating that the user was logging in from an old device on March 1, 2026?",
+  "a": "No"
+}

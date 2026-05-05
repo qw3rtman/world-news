@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the killing of Supreme Leader Ayatollah Ali Khamenei in early March 2026 lead to visible fractures within Iran's ruling elite?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. and Israeli strikes result in the death of Supreme Leader Ayatollah Ali Khamenei in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Masoud Pezeshkian face public criticism from hardline cleric Hamid Rasai for his stance on striking Gulf states in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did hardline cleric Hamid Rasai publicly endorse President Masoud Pezeshkian's initial apology to Gulf states in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is Mojtaba Khamenei considered a frontrunner to succeed his father as Supreme Leader of Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mojtaba Khamenei enjoy strong support from moderate factions within Iran's system in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Islamic Revolutionary Guard Corps (IRGC) seize a larger role in strategy following the decapitation of top commanders in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Masoud Pezeshkian maintain his original statement including an apology to Gulf states without any retreat in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ayatollah Nouri Hamedani urge the clerical body to accelerate the appointment of a new supreme leader in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did leadership formally pass to a council that excluded President Masoud Pezeshkian after the death of Ayatollah Ali Khamenei in March 2026?",
+    "a": "No"
+  }
+]

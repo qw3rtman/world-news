@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Samsung announce the integration of Perplexity into Galaxy AI at its Unpacked event in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Will Galaxy S26 users be able to activate Perplexity by saying the wake phrase \"hey, Plex\"?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the Perplexity integration allow access to Samsung Notes, Clock, Gallery, Reminder, and Calendar?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Samsung specify exactly which third-party apps will be integrated with Perplexity in the Galaxy AI ecosystem?",
+    "a": "No"
+  },
+  {
+    "q": "Is the Perplexity integration in Galaxy S26 described as a transparent version of the app baked into the phone solely for quick answers?",
+    "a": "No"
+  },
+  {
+    "q": "Is Samsung's multi-agent ecosystem strategy designed to differentiate its devices from competitors like Apple and Google?",
+    "a": "Yes"
+  },
+  {
+    "q": "Will the next Samsung Unpacked event where more details about Galaxy AI are expected take place on February 25, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the Perplexity integration in Galaxy AI replace Bixby and Gemini as the only available AI assistants on the device?",
+    "a": "No"
+  },
+  {
+    "q": "Is Terrence O'Brien the author of the article published by The Verge on February 22, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Samsung announce the Perplexity integration at its Unpacked event in March 2026?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did White House spokespersons state that President Donald Trump's threat to withhold signature on legislation applied to Department of Homeland Security funding in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump post on Truth Social on March 8, 2026, stating he would not sign other bills until the SAVE America Act was passed?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the SAVE America Act require voters to prove their citizenship in person to register for federal elections in 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Homeland Security Secretary Kristi Noem replace Senator Markwayne Mullin as the head of the Department of Homeland Security in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Senate Majority Leader John Thune support procedurally creative methods to bypass the filibuster for the SAVE America Act in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did bills automatically become law after 10 days without the President's signature if Congress remained in session in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the House of Representatives remain in session for the rest of the week in March 2026 to address the Department of Homeland Security shutdown?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump fire Homeland Security Secretary Kristi Noem following contentious congressional hearings in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the SAVE America Act have a high likelihood of surviving the Senate's 60-vote threshold in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Democrats demand significant changes at the Department of Homeland Security before voting to fully fund the agency in March 2026?",
+    "a": "Yes"
+  }
+]

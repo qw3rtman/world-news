@@ -1,0 +1,22 @@
+{
+  "q": "Did PayPal Holdings Inc. attract takeover interest after its stock value declined by nearly half?",
+  "a": "Yes",
+  "q": "Did PayPal's shares jump as much as 9.7% following the news of takeover interest?",
+  "a": "Yes",
+  "q": "Is PayPal Holdings Inc. headquartered in San Jose, California?",
+  "a": "Yes",
+  "q": "Did PayPal field meetings with banks amid unsolicited interest from potential suitors?",
+  "a": "Yes",
+  "q": "Are all potential buyers interested in acquiring the entire PayPal company?",
+  "a": "No",
+  "q": "Did the article state that PayPal's stock price increased by more than 20%?",
+  "a": "No",
+  "q": "Did PayPal explicitly confirm the identities of the potential suitors in the article?",
+  "a": "No",
+  "q": "Did at least one large rival express interest in acquiring the whole company?",
+  "a": "Yes",
+  "q": "Is PayPal described in the article as a traditional brick-and-mortar bank?",
+  "a": "No",
+  "q": "Did some suitors express interest only in certain PayPal assets rather than the whole company?",
+  "a": "Yes"
+}

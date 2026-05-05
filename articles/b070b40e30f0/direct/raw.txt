@@ -1,0 +1,22 @@
+{
+  "q": "Did the article title describe the upcoming Paris mayoral election as a five-way race in March 2026?",
+  "a": "Yes",
+  "q": "Did Emmanuel Grégoire identify himself as a candidate for the La France Insoumise party in the March 2026 Paris municipal elections?",
+  "a": "No",
+  "q": "Did the 2026 Paris municipal elections take place on March 15 and 22, 2026?",
+  "a": "Yes",
+  "q": "Did Emmanuel Grégoire hold his first campaign meeting at La Bellevilloise in Paris on January 14, 2026?",
+  "a": "Yes",
+  "q": "Did the article state that Emmanuel Grégoire is a member of the Socialist Party (parti socialiste) while being a candidate for the united left?",
+  "a": "Yes",
+  "q": "Did the article report that the 2026 Paris mayoral election was scheduled to conclude in February 2026?",
+  "a": "No",
+  "q": "Did the article identify Emmanuel Grégoire as a deputy (député) in the March 2026 election context?",
+  "a": "Yes",
+  "q": "Did the article state that Emmanuel Grégoire was the sole candidate for the united left in the 2026 Paris municipal elections?",
+  "a": "No",
+  "q": "Did the article indicate that the photo of Emmanuel Grégoire was taken by AFP photographer Martin Lelièvre?",
+  "a": "Yes",
+  "q": "Did the article claim that Emmanuel Grégoire was running as the candidate for the La France Insoumise party in the March 2026 elections?",
+  "a": "No"
+}

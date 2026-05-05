@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump and Chinese President Xi Jinping meet in Beijing between March 31 and April 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the number of public export-control compliance enquiries to China's commerce ministry increase from 43 in the period 2019-2024 to 135 in 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States ease some export restrictions on advanced artificial-intelligence chips targeting China during President Donald Trump's second term?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did China enact its Export Control Law in October 2020?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the number of Chinese groups added to the U.S. Entity List surge to a record 257 in 2025 under President Donald Trump?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Pentagon publish and keep an updated Military End User list that added Alibaba and Baidu in early 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Nvidia CEO Jensen Huang criticize Biden-era export controls as a failure and state that President Donald Trump realized they were the wrong goal?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Beijing's October 2025 revision to its rare-earth export-control regime reflect lessons from the European Union's Foreign Direct Product Rule?",
+    "a": "No"
+  },
+  {
+    "q": "Did the rate of complaints regarding shipment delays and regulatory burdens among Chinese exporter queries nearly double in early 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Senator John Cornyn publicly endorse Texas Attorney General Ken Paxton in the 2026 Texas Republican U.S. Senate primary?",
+    "a": "No"
+  }
+]

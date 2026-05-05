@@ -1,0 +1,22 @@
+{
+  "q": "Did Chinese President Xi Jinping head to the negotiating table with Donald Trump in February 2026?",
+  "a": "Yes",
+  "q": "Did the United States leader retain the ability to quickly raise tariffs for nearly any reason in February 2026?",
+  "a": "No",
+  "q": "Did Chinese President Xi Jinping gain leverage before the summit with Donald Trump in February 2026?",
+  "a": "Yes",
+  "q": "Did Donald Trump lose the ability to quickly raise tariffs for nearly any reason in February 2026?",
+  "a": "Yes",
+  "q": "Did Chinese President Xi Jinping lose his ability to quickly raise tariffs for nearly any reason in February 2026?",
+  "a": "No",
+  "q": "Was the negotiation between Chinese President Xi Jinping and Donald Trump described as giving Xi a boost in bargaining power in February 2026?",
+  "a": "Yes",
+  "q": "Did Chinese President Xi Jinping head to the negotiating table with Vladimir Putin in February 2026?",
+  "a": "No",
+  "q": "Did the United States leader gain the ability to quickly raise tariffs for nearly any reason in February 2026?",
+  "a": "No",
+  "q": "Did Chinese President Xi Jinping lose leverage before the summit with Donald Trump in February 2026?",
+  "a": "No",
+  "q": "Was the article published on February 22, 2026?",
+  "a": "Yes"
+}

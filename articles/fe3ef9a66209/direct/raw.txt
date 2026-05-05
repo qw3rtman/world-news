@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the Federal Reserve paper published in February 2026 praise Kalshi's prediction market data?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Federal Reserve paper authors include Anthony M. Diercks, Jared Dean Katz, and Jonathan Wright?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Federal Reserve paper authors find that Kalshi had a perfect forecast record on Fed rate decisions the day before FOMC meetings?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Kalshi CEO Tarek Mansour criticize the Federal Reserve paper on X?",
+    "a": "No"
+  },
+  {
+    "q": "Did researchers at Europe's Centre for Economic Policy Research find evidence of favorite-longshot bias in Kalshi's markets?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Federal Reserve paper conclude that Kalshi data outperformed Bloomberg consensus on core inflation and unemployment?",
+    "a": "No"
+  },
+  {
+    "q": "Did CFTC chair Mike Selig signal that the commission would defend its exclusive jurisdiction over prediction derivative markets in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the American Gaming Association immediately respond to a request for comment regarding the Federal Reserve paper in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Federal Reserve paper authors note that Kalshi prices update in real time unlike periodic surveys?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Federal Reserve paper authors state that Kalshi data performed worse than fed funds futures forecasts on headline inflation?",
+    "a": "No"
+  }
+]

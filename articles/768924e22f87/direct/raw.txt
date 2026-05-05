@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Mohammad Bagher Ghalibaf, speaker of Iran's parliament, state on March 10, 2026, that Tehran was not seeking a ceasefire in the war?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mohammad Bagher Ghalibaf publish his statement regarding the ceasefire on the social media platform X on March 10, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mohammad Bagher Ghalibaf state on March 10, 2026, that Iran believed the aggressor must be struck so it learns a lesson?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mohammad Bagher Ghalibaf state on March 10, 2026, that Iran intended to break the cycle of 'war, negotiations and ceasefire and then war again'?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mohammad Bagher Ghalibaf state on March 10, 2026, that he believed Israel relied on a cycle of war and negotiations to maintain its dominance?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mohammad Bagher Ghalibaf, speaker of Iran's parliament, state on March 10, 2026, that Tehran was actively seeking a ceasefire?",
+    "a": "No"
+  },
+  {
+    "q": "Did Mohammad Bagher Ghalibaf state on March 10, 2026, that Iran believed the aggressor should be spared to avoid further conflict?",
+    "a": "No"
+  },
+  {
+    "q": "Did Mohammad Bagher Ghalibaf state on March 10, 2026, that Iran intended to join the cycle of 'war, negotiations and ceasefire and then war again'?",
+    "a": "No"
+  },
+  {
+    "q": "Did Mohammad Bagher Ghalibaf state on March 10, 2026, that he believed Iran relied on a cycle of war and negotiations to maintain its dominance?",
+    "a": "No"
+  },
+  {
+    "q": "Did Mohammad Bagher Ghalibaf state on March 10, 2026, that he believed the aggressor must be struck so it never again thinks of attacking Iran?",
+    "a": "Yes"
+  }
+]

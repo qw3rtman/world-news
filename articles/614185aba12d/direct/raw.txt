@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Qatar intercept two Iranian missiles over its country in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did a Qatari official confirm the interception of the missiles to CNN in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did AFP journalists report hearing explosions across Doha in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Qatari official state that the missile interceptions indicated Iran was seeking to retaliate against US-Israel strikes in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Qatar intercept three Iranian missiles over its country in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did a Qatari official confirm the interception of the missiles to Al Jazeera in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did AFP journalists report hearing explosions across Riyadh in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Qatari official state that the missile interceptions indicated Iran was seeking to retaliate against Russian strikes in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Qatar intercept two Iranian missiles over its country in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Qatar intercept two Iraqi missiles over its country in February 2026?",
+    "a": "No"
+  }
+]

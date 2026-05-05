@@ -1,0 +1,22 @@
+{
+  "q": "Did Hims & Hers announce the acquisition of the Australian digital health company Eucalyptus in February 2026?",
+  "a": "Yes",
+  "q": "Is the up-front cash payment for the acquisition of Eucalyptus valued at $1.15 billion?",
+  "a": "No",
+  "q": "Does the total value of the acquisition potentially reach $1.15 billion if certain financial targets are met?",
+  "a": "Yes",
+  "q": "Is the acquisition of Eucalyptus expected to close in the first quarter of 2026?",
+  "a": "No",
+  "q": "Does Hims & Hers currently offer a cancer screening test to patients in the United States as of February 2026?",
+  "a": "Yes",
+  "q": "Will the acquisition of Eucalyptus allow Hims & Hers to expand into Brazil and Mexico?",
+  "a": "No",
+  "q": "Is the up-front cash payment for the deal $240 million?",
+  "a": "Yes",
+  "q": "Is Eucalyptus a digital health company based in the United Kingdom?",
+  "a": "No",
+  "q": "Does Hims & Hers offer compounded obesity drugs to patients in the U.S.?",
+  "a": "Yes",
+  "q": "Is the acquisition of Eucalyptus expected to close in the middle of 2027?",
+  "a": "No"
+}

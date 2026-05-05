@@ -1,0 +1,22 @@
+{
+  "q": "Did the Lebanese armed group Hezbollah spend months restocking its arsenal of rockets and drones ahead of the war with Israel that began in March 2026?",
+  "a": "Yes",
+  "q": "Did Hezbollah launch its initial attacks on Israel on March 2, 2026, to avenge the death of Iran’s Supreme Leader Ali Khamenei?",
+  "a": "Yes",
+  "q": "Did Hezbollah’s media office head, Youssef al-Zein, tell Reuters that the group had decided to fight to the last breath?",
+  "a": "Yes",
+  "q": "Did an Israeli military official state that Hezbollah had a lot of arms left and was seeking to re-arm?",
+  "a": "Yes",
+  "q": "Did ALMA, an Israeli think tank, assess that Hezbollah’s arsenal on the eve of its attack included approximately 25,000 rockets and missiles?",
+  "a": "Yes",
+  "q": "Did Hezbollah receive its monthly budget of US$50 million primarily from the United States government?",
+  "a": "No",
+  "q": "Did Hezbollah launch fewer than 30 drones and rockets on March 4, 2026, indicating depleted stockpiles?",
+  "a": "No",
+  "q": "Did the 2024 conflict between Hezbollah and Israel end with a ceasefire brokered by the United Nations?",
+  "a": "No",
+  "q": "Did Hezbollah lose 50,000 fighters in the 2024 war, according to the second Lebanese source?",
+  "a": "No",
+  "q": "Did Hezbollah station new rockets and Iranian-made logistical materials in northern Lebanon before the latest war began?",
+  "a": "No"
+}

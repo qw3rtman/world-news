@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the International Energy Agency propose a release of emergency oil reserves exceeding 182 million barrels on March 11, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state on Truth Social that short-term oil price spikes were a small price to pay for world peace after the destruction of the Iran nuclear threat?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did oil prices fall below $80 per barrel on March 11, 2026, following the IEA's proposal?",
+    "a": "No"
+  },
+  {
+    "q": "Did the IEA member countries release 182 million barrels of oil in February 2022 in response to Russia's full-scale war on Ukraine?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the near-total closure of the Strait of Malacca cause the oil price surge above $100 per barrel in early March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Brent crude oil rise above $101 per barrel on March 11, 2026, after markets opened?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did IEA Executive Director Fatih Birol state that member countries collectively hold approximately 1.2 billion barrels of public oil stocks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did major oil producers including Saudi Arabia, Iraq, Kuwait, and the United Arab Emirates increase production to offset supply concerns on March 11, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the IEA emergency meeting of energy officials from its 32 member countries take place on Wednesday, March 11, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did analysts warn that the proposed IEA reserve release signals the seriousness of the disruption caused by the ongoing Middle East conflict?",
+    "a": "Yes"
+  }
+]

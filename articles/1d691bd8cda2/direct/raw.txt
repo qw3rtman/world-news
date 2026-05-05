@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump threaten \"death, fire and fury\" if Iran blockades the Strait of Hormuz in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Iranian Red Crescent Society report that more than 1,200 people were killed in Iran by Israeli and American strikes in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Defense Secretary Pete Hegseth describe a day in March 2026 as the \"most intense day\" of U.S. strikes on Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump claim that Iran was responsible for the Tomahawk missile strike on a school in Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Tehran vow to allow \"one liter of oil\" to leave the Middle East until U.S. and Israeli attacks ceased in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Iranian Red Crescent Society report that 13 people died in Iran as a result of Iranian retaliatory fire in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump describe the conflict with Iran as a \"little excursion\" that would conclude \"soon\" in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did experts identify Iran as one of the short list of countries known to possess Tomahawk missiles in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did an Iranian official warn U.S. President Donald Trump in March 2026 not to risk being \"eliminated\"?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Tehran vow to block oil exports until only Israeli attacks ceased, excluding U.S. attacks, in March 2026?",
+    "a": "No"
+  }
+]

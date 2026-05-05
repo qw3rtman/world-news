@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump state in early March 2026 that the U.S. and Israel had struck more than 2,000 targets in Iran since the conflict began?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Defense Secretary Pete Hegseth rule out the possibility of U.S. ground troops being deployed in Iran during the 2026 conflict?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian security chief Ali Larijani post on X in March 2026 that Iran had prepared itself for a long war?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States and Israel strike targets in Iran that resulted in the death of U.S. President Donald Trump in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Lebanese government ban Hezbollah’s military activities and demand the group relinquish its weapons in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the fragile truce between Hezbollah and Israel, brokered by the United States in November 2024, end in early 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did British Technology Minister Liz Kendall launch a public consultation in March 2026 regarding potential restrictions on social media usage for minors?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Australia become the first country to introduce a social media ban for people under age 16 in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Pakistani forces conduct airstrikes on Bagram Air Base in Afghanistan in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Taliban regime accept the presence of foreign troops at Bagram Air Base in March 2026?",
+    "a": "No"
+  }
+]

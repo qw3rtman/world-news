@@ -1,0 +1,22 @@
+{
+  "q": "Did the International Energy Agency propose releasing emergency oil reserves on March 11, 2026?",
+  "a": "Yes",
+  "q": "Did the proposed IEA oil reserve release exceed 182 million barrels?",
+  "a": "Yes",
+  "q": "Did the IEA member countries release 182 million barrels of oil in February 2026?",
+  "a": "No",
+  "q": "Did the IEA Executive Director Fatih Birol state that member countries collectively hold about 1.2 billion barrels of public oil stocks?",
+  "a": "Yes",
+  "q": "Did the proposed IEA reserve release aim to stabilize markets amid the escalating conflict in the Middle East?",
+  "a": "Yes",
+  "q": "Did the near-total closure of the Strait of Hormuz cause oil prices to briefly cross $100 per barrel for the first time in more than three and a half years?",
+  "a": "Yes",
+  "q": "Did U.S. President Donald Trump call the near-total closure of the Strait of Hormuz a 'very small price to pay for world peace'?",
+  "a": "No",
+  "q": "Did the IEA emergency meeting of energy officials take place on Wednesday, March 11, 2026?",
+  "a": "No",
+  "q": "Did major Gulf region oil producers, including Saudi Arabia, Iraq, Kuwait, and the United Arab Emirates, cut production as export shipments slowed?",
+  "a": "Yes",
+  "q": "Did the combined IEA public and mandatory commercial reserves cover roughly 124 days of lost supply from the Gulf region?",
+  "a": "No"
+}

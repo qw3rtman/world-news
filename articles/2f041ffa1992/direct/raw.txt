@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Cuban officials report that four people were killed in the incident?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did six people suffer injuries in the armed confrontation in Cuba's waters?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the vessel involved in the incident registered in the United States?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the incident involve a U.S.-registered speedboat violating territorial waters?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the incident result in the death of six people and the injury of four people?",
+    "a": "No"
+  },
+  {
+    "q": "Was the vessel involved in the incident a Cuban-registered fishing trawler?",
+    "a": "No"
+  },
+  {
+    "q": "Did the armed confrontation occur in the territorial waters of Cuba?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the incident result in zero fatalities and only property damage?",
+    "a": "No"
+  },
+  {
+    "q": "Did NBC News reporters Gabe Gutierrez and Jose Diaz-Balart report on the incident?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the incident take place in the territorial waters of the United States?",
+    "a": "No"
+  }
+]

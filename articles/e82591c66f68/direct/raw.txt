@@ -1,0 +1,22 @@
+{
+  "q": "Did U.S. President Donald Trump celebrate U.S.-Israeli airstrikes that killed Iran's Supreme Leader Ayatollah Ali Khamenei on February 28, 2026?",
+  "a": "Yes",
+  "q": "Did U.S. Central Command report U.S. casualties or combat-related injuries almost 12 hours after the first strikes on Iran in February 2026?",
+  "a": "No",
+  "q": "Did Secretary of State Marco Rubio inform top congressional leaders about the strikes on Iran before they commenced in February 2026?",
+  "a": "Yes",
+  "q": "Did the U.S. strikes on Iran in February 2026 aim to destroy Iranian nuclear sites rather than its navy and missiles?",
+  "a": "No",
+  "q": "Did U.S. President Donald Trump encourage members of Iran's Islamic Revolutionary Guard Corps to lay down their weapons and promised them immunity in February 2026?",
+  "a": "Yes",
+  "q": "Was the February 2026 series of U.S. strikes on Iran the first time Washington struck Iranian nuclear sites since Trump returned to the White House?",
+  "a": "No",
+  "q": "Did Senator Lindsey Graham criticize European allies for being 'pathologically soft' regarding the strikes on Iran in February 2026?",
+  "a": "Yes",
+  "q": "Did House Minority Leader Hakeem Jeffries state that the administration had already secured congressional authorization for the preemptive use of military force against Iran in February 2026?",
+  "a": "No",
+  "q": "Did U.S. President Donald Trump monitor the operation against Iran from his Mar-a-Lago resort in Florida in February 2026?",
+  "a": "Yes",
+  "q": "Did Iranian state media deny the death of Supreme Leader Ayatollah Ali Khamenei following the strikes in February 2026?",
+  "a": "No"
+}

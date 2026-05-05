@@ -1,0 +1,40 @@
+{
+  "q": "Did U.S. Senator Tom Cotton state in a March 1, 2026 interview that he believes U.S. military action against Iran will have overwhelming support among Republicans on Capitol Hill?",
+  "a": "Yes"
+}
+{
+  "q": "Did U.S. Senator Ted Cruz state in a March 1, 2026 interview that he believes U.S. military action against Iran will have overwhelming support among Republicans on Capitol Hill?",
+  "a": "No"
+}
+{
+  "q": "Did the U.S. and Israel launch strikes in Iran on Saturday, March 28, 2026, amid escalating tensions in the region?",
+  "a": "Yes"
+}
+{
+  "q": "Did the U.S. and Israel launch strikes in Iran on Saturday, March 14, 2026, amid escalating tensions in the region?",
+  "a": "No"
+}
+{
+  "q": "Did Iran retaliate against the U.S. and Israeli strikes by launching attacks on Israel and other Gulf countries, including Saudi Arabia and Qatar?",
+  "a": "Yes"
+}
+{
+  "q": "Did Iran retaliate against the U.S. and Israeli strikes by launching attacks on Israel and other Gulf countries, including Kuwait and Bahrain?",
+  "a": "No"
+}
+{
+  "q": "Did Rep. Ro Khanna call for Congress to convene on Monday, March 2, 2026, to vote on a war powers resolution to stop the war in Iran?",
+  "a": "Yes"
+}
+{
+  "q": "Did Rep. Eric Burlison call for Congress to convene on Monday, March 2, 2026, to vote on a war powers resolution to stop the war in Iran?",
+  "a": "No"
+}
+{
+  "q": "Did U.S. Senator Tom Cotton say that any forthcoming U.S. strikes in Iran will focus on Tehran’s missile arsenal?",
+  "a": "Yes"
+}
+{
+  "q": "Did U.S. Senator Tom Cotton say that any forthcoming U.S. strikes in Iran will focus on Tehran’s nuclear power plants?",
+  "a": "No"
+}

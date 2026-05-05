@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump state in a CBS phone interview on Tuesday, March 10, 2026, that the war with Iran was \"very complete\"?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Defense Secretary Pete Hegseth state during a Pentagon briefing on Tuesday, March 10, 2026, that the war with Iran would end only when the enemy is totally and decisively defeated?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Brent crude oil prices settle at $87.80 per barrel on Tuesday, March 10, 2026, following an 11.28% decline?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the International Energy Agency executive director Fatih Birol announce on Tuesday, March 10, 2026, that IEA member countries would meet to assess whether to release emergency oil stockpiles?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Group of Seven (G7) major developed economies announce on Monday, March 9, 2026, that they were ready to support global energy markets through the release of oil reserves if necessary?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state on Tuesday, March 10, 2026, that the war with Iran would end on Iran’s timeline rather than the United States’ timeline?",
+    "a": "No"
+  },
+  {
+    "q": "Did Saudi Aramco CEO Amin Nasser state on Tuesday, March 10, 2026, that the company would require weeks to ramp up production after the disruption?",
+    "a": "No"
+  },
+  {
+    "q": "Did Brent crude oil prices fall below $73 per barrel on Tuesday, March 10, 2026, dropping to levels lower than before the conflict started?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United States and Israel launch strikes on Iran on March 1, 2026, rather than February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the White House state on Tuesday, March 10, 2026, that it would provide insurance and secure naval escorts for ships transiting the Strait of Hormuz, although a clear plan had not yet emerged?",
+    "a": "Yes"
+  }
+]

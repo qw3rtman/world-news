@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Saudi Crown Prince Mohammed bin Salman make multiple private phone calls to U.S. President Donald Trump in the month leading up to the U.S. military strike on Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Saudi Crown Prince Mohammed bin Salman publicly pledge that Saudi airspace or territory would not be used in a U.S. attack on Iran following a phone call with Iranian President Masoud Pezeshkian?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. intelligence assessments in Washington conclude that Iran’s forces posed an immediate threat to the U.S. mainland within the next decade prior to the strike?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. military strike on Iran in March 2026 include the assassination of Iran’s leader?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Saudi Arabia seek to degrade Iran’s nuclear facilities and military infrastructure primarily to restore its own claim to leadership in the Islamic world?",
+    "a": "No"
+  },
+  {
+    "q": "Did the unusual alignment between Saudi Arabia and Israel emerge overnight without prior shared intelligence assessments or quiet security dialogues?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article identify the Strait of Hormuz as a chokepoint through which roughly a fifth of the world’s traded oil passes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump speak of engaging Iranian leadership in the period leading up to the March 2026 military strike?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that the U.S. attack on Iran was driven primarily by U.S. principals with deep financial ties to Tehran?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article identify Egypt, Jordan, and most Gulf monarchies as Sunni-majority states that have historically aligned to counterbalance Iranian influence?",
+    "a": "Yes"
+  }
+]

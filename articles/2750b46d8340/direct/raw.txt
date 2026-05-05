@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did OpenAI announce the acquisition of the developer tooling startup Astral on March 19, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did OpenAI disclose the specific financial terms of its acquisition of Astral on March 19, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Will the Astral team join OpenAI to help build the AI coding assistant Codex?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Astral's founder and CEO Charlie Marsh state that the goal of the acquisition is to build tools that radically change what it feels like to build software?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did OpenAI report that Codex had more than 10 million weekly active users as of March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is OpenAI's acquisition of Astral subject to regulatory approval?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did OpenAI acquire Jony Ive's AI devices startup io in May 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did OpenAI announce earlier in March 2026 that it would purchase the cybersecurity startup Promptfoo?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did OpenAI hire Albert Lee from Google to lead corporate development in January 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did OpenAI acquire the health-care technology startup Torch in January 2026?",
+    "a": "Yes"
+  }
+]

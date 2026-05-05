@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Anduril acquire the space surveillance firm ExoAnalytic Solutions in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Will ExoAnalytic Solutions operate as a separate subsidiary within Anduril following the acquisition?",
+    "a": "No"
+  },
+  {
+    "q": "Did Anduril raise a $4 billion funding round from investors Thrive Capital and Andreessen Horowitz in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did ExoAnalytic Solutions receive $26 million in SBIR grants from the federal government in 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is Anduril planning to launch three spacecraft in 2026 as part of internally funded R&D projects?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Anduril partner with SpaceX to launch an infrared tracking satellite in 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Pentagon award Anduril a contract in late 2025 to develop a space-based missile interceptor?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is ExoAnalytic Solutions operating a network of 400 telescopes to track spacecraft in low Earth orbit?",
+    "a": "No"
+  },
+  {
+    "q": "Will the addition of ExoAnalytic Solutions employees more than double Anduril's current space defense workforce?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was ExoAnalytic Solutions founded in 2024 by CEO Doug Hendrix?",
+    "a": "No"
+  }
+]

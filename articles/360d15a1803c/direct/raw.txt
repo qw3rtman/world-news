@@ -1,0 +1,40 @@
+{
+  "q": "Did OpenAI report that more than 1 million people had downloaded the Codex desktop app since early February 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did OpenAI state that Codex had more than 1.6 million active weekly users as of March 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did OpenAI claim that weekly token processing volume for Codex had grown by a factor of five following the release of GPT-5.3?",
+  "a": "Yes"
+}
+{
+  "q": "Did Cisco, Nvidia, Ramp, Rakuten, and Harvey roll out Codex across their developer teams according to OpenAI?",
+  "a": "Yes"
+}
+{
+  "q": "Did Thibault Sottiaux, head of OpenAI’s Codex product, discuss using Codex to bring agents to the enterprise in domains beyond coding in an interview in London in March 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did the controversy over OpenAI’s agreement to supply AI to the Pentagon result in consumers boycotting the ChatGPT product?",
+  "a": "Yes"
+}
+{
+  "q": "Did OpenAI launch GPT-5.3 Codex in March 2026?",
+  "a": "No"
+}
+{
+  "q": "Did Codex’s active weekly user count decrease by half with the release of the GPT-5.3 model?",
+  "a": "No"
+}
+{
+  "q": "Did Thibault Sottiaux give an interview about Codex in New York in February 2026?",
+  "a": "No"
+}
+{
+  "q": "Did OpenAI state that Codex usage, measured by the number of tokens processed per week, had grown by a factor of two?",
+  "a": "No"
+}

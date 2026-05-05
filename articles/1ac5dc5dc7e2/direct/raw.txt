@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump announce that massive airstrikes conducted in coordination with Israel killed Supreme Leader Ali Khamenei in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump publicly urge Iranian citizens to risk their lives to topple the regime in his statement released in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran close the Strait of Hormuz in response to U.S. and Israeli strikes in early March 2026, thereby choking global oil supplies?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Kingdom grant the United States use of the Diego Garcia base in the Indian Ocean for refueling operations during the March 2026 conflict with Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Central Command state in early March 2026 that its strikes were specifically intended to achieve full regime change in Iran rather than focusing solely on military targets?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian drones strike the port facility housing the U.S. Fifth Fleet in Bahrain in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Arab Emirates and Saudi Arabia serve as passionate advocates for the U.S. military operation against Iran in early March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the author of the article, David Ignatius, report that he narrowly avoided being killed by an Iranian car bomb at the American Embassy in Beirut in April 1983?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli officials provide a clear and detailed plan for post-war governance in Iran in early March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did a Western security official claim in early March 2026 that strikes on Iran’s intelligence service headquarters killed at least four senior commanders?",
+    "a": "Yes"
+  }
+]

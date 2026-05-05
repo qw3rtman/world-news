@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did French entertainment group Banijay flag franchise growth beyond television and into live events as a major growth driver for 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Banijay merge its operations with All3Media in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Banijay CEO François Riahi cite the television series 'Black Mirror' as an example of IP being adapted into live immersive experiences in 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Banijay CEO François Riahi cite the bidding war between Amazon and Disney over Warner's portfolio as evidence of the fundamental value of IP?",
+    "a": "No"
+  },
+  {
+    "q": "Did Banijay's production consolidated revenue rise by 0.4% in 2025 excluding currency effects?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Banijay's online betting consolidated revenue decline by 10.2% in 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did Banijay's gaming division, which operates the betting platform Betclic, contribute almost half of the group's profitability in 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Banijay CEO François Riahi say the gaming division is expected to benefit in 2026 from the Rugby World Cup?",
+    "a": "No"
+  },
+  {
+    "q": "Did Banijay state that its focus for the newly acquired Tipico would be winning new customers?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Banijay provide its mid-term financial guidance during its strategic update on March 5, 2026?",
+    "a": "No"
+  }
+]

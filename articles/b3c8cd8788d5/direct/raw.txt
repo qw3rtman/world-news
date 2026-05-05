@@ -1,0 +1,22 @@
+{
+  "q": "Did the Pentagon release the names of four U.S. service members who were killed in an Iranian counterattack in Kuwait on Wednesday, March 4, 2026?",
+  "a": "Yes",
+  "q": "Were the U.S. embassies in Beirut, Kuwait, and Saudi Arabia closed due to safety risks on Wednesday, March 4, 2026?",
+  "a": "Yes",
+  "q": "Did President Donald Trump state in the Oval Office on Tuesday, March 3, 2026, that there would have been a nuclear war without U.S. intervention in Iran?",
+  "a": "Yes",
+  "q": "Did the Iranian Red Crescent report that at least 787 people have been killed in Iran as of Wednesday, March 4, 2026?",
+  "a": "Yes",
+  "q": "Did Israel send troops into Lebanon as the conflict widened on Wednesday, March 4, 2026?",
+  "a": "Yes",
+  "q": "Did the U.S. consulate in Dubai remain unharmed and operational after the conflict began on Wednesday, March 4, 2026?",
+  "a": "No",
+  "q": "Did the Pentagon report that six U.S. service members had been killed in the conflict as of Wednesday, March 4, 2026?",
+  "a": "No",
+  "q": "Did the Iranian Red Crescent report that at least 787 people have been killed in Iran as of Wednesday, March 4, 2026?",
+  "a": "Yes",
+  "q": "Did Americans receive warnings to leave only 4 countries in the region due to serious safety risks on Wednesday, March 4, 2026?",
+  "a": "No",
+  "q": "Did President Donald Trump defend his decision to launch the war by claiming Iran would have taken out many countries on Tuesday, March 3, 2026?",
+  "a": "Yes"
+}

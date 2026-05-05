@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iran officially confirm the death of Supreme Leader Ayatollah Ali Khamenei in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the death of Ayatollah Ali Khamenei confirmed by the United Nations in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran enter a 40-day period of national mourning following the confirmation of Ayatollah Ali Khamenei's death in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran enter a 100-day period of national mourning following the confirmation of Ayatollah Ali Khamenei's death in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Were military strikes cited as part of the context for Ayatollah Ali Khamenei's death in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Were diplomatic negotiations cited as the primary context for Ayatollah Ali Khamenei's death in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Bloomberg journalists David Gura, Christina Ruffini, and Lisa Mateo report on the confirmation of Ayatollah Ali Khamenei's death in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did CNN journalists David Gura, Christina Ruffini, and Lisa Mateo report on the confirmation of Ayatollah Ali Khamenei's death in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was Ayatollah Ali Khamenei identified as the Supreme Leader of Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Ayatollah Ali Khamenei identified as the President of Iran in March 2026?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did US President Donald Trump, while speaking to reporters aboard Air Force One in March 2026, suggest that sending ground troops into Iran might be considered under exceptional circumstances?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the New York Times report that the US and Israel explored sending special operations troops into Iran to seize stockpiles of highly enriched uranium?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US intelligence agencies believe that Iran's main stockpile of enriched uranium was buried beneath the nuclear complex at the Isfahan Nuclear Technology Center?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did a separate proposal discussed by the Trump administration include seizing Kharg Island, which is responsible for nearly 90% of Iran’s crude oil exports?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli airstrikes target fuel depots and military infrastructure in Tehran, including facilities linked to the Islamic Revolutionary Guard Corps, during the week-long war in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump state in March 2026 that the US had wiped out Iran's navy, air force, and most of its missiles?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the proposed special forces raid plan involve deploying nuclear specialists to dilute the uranium at the site to render it unusable for weapons development?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian President Masoud Pezeshkian apologize for strikes on neighboring countries while hard-line figures signaled that Tehran’s war strategy would continue?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump rule out the idea of sending ground troops into Iran entirely during his remarks aboard Air Force One in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the special forces raid plan involve seizing Kharg Island, a major hub responsible for nearly 100% of Iran’s crude oil exports, to cripple Tehran’s energy revenues?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Jateen Trivedi, VP Research Analyst - Commodity and Currency at LKP Securities, state that gold prices are facing resistance at higher levels on February 20, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did gold futures on the Multi Commodity Exchange (MCX) trade near ₹1,54,700 on February 20, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the 8 EMA slip beneath the 21 EMA on February 20, 2026, indicating a bearish crossover?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Relative Strength Index (RSI) stand at 37.9 on February 20, 2026, reflecting weakening momentum?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did The Times of India explicitly endorse the 'Sell on Rise' strategy for gold traders on February 20, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did gold prices sustain upward momentum and break above the mid-Bollinger band on February 20, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the MACD remain in positive territory with bullish expansion on February 20, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article identify ₹1,56,500 as the next support zone if selling intensified on February 20, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Jateen Trivedi of HDFC Securities recommend selling gold near ₹1,55,500 on February 20, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the intraday bias remain positive until price reclaimed ₹1,56,500 decisively on February 20, 2026?",
+    "a": "No"
+  }
+]

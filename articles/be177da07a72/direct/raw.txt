@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iran's Foreign Minister Abbas Araghchi state in March 2026 that a new supreme leader could be elected within one or two days?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Ayatollah Ali Khamenei killed in joint US-Israeli strikes in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian emergency services report that at least 201 people were killed in the strikes that targeted Ayatollah Ali Khamenei in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Masoud Pezeshkian declare a 40-day public mourning period for Ayatollah Ali Khamenei in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is the authority to appoint a new supreme leader held by a clerical assembly of 88 members in Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the last time the Iranian constitutional succession process was triggered in 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran's Foreign Minister Abbas Araghchi claim in March 2026 that the killing of Ayatollah Ali Khamenei was an unprecedented violation of international law?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian strikes in March 2026 reportedly hit targets in Dubai, Doha, Manama, and the Omani port of Duqm?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's parliamentary speaker Mohammad Bagher Ghalibaf state in March 2026 that Iran would beg for an unconditional ceasefire?",
+    "a": "No"
+  },
+  {
+    "q": "Did US President Donald Trump warn in March 2026 that any Iranian retaliation would lead to further escalation?",
+    "a": "Yes"
+  }
+]

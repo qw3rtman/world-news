@@ -1,0 +1,22 @@
+{
+  "q": "Did U.S. President Donald Trump instruct Israel not to repeat strikes on Iranian natural gas infrastructure before the latest attacks?",
+  "a": "Yes",
+  "q": "Did the US-Israeli strikes result in the death of Iranian Supreme Leader Ali Khamenei?",
+  "a": "Yes",
+  "q": "Did Israel launch the fresh wave of attacks on Iran on the same day President Trump issued his instruction regarding natural gas infrastructure?",
+  "a": "No",
+  "q": "Did the US-Israeli strikes target Iranian nuclear weapons facilities rather than natural gas infrastructure?",
+  "a": "No",
+  "q": "Did Iranian retaliation following the strikes affect the Gulf region?",
+  "a": "Yes",
+  "q": "Was the article published by The New York Times on February 28, 2026?",
+  "a": "No",
+  "q": "Did the escalation of the U.S.-Israeli war on Iran involve strikes on natural gas infrastructure?",
+  "a": "Yes",
+  "q": "Did President Trump encourage Israel to increase strikes on Iranian natural gas infrastructure?",
+  "a": "No",
+  "q": "Was Ali Khamenei killed in a meeting with Iranian senior officials in Tehran in June 2006?",
+  "a": "No",
+  "q": "Did the events described in the article occur in late February 2026?",
+  "a": "Yes"
+}

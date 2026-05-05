@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iran’s Foreign Minister Badr Albusaidi state that Iran agreed it would 'never, ever have' nuclear material capable of producing a bomb in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Oman serve as the mediator for the indirect talks between the United States and Iran in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran agree to blend down its existing stockpiles of enriched uranium to the lowest enrichment levels in the February 2026 negotiations?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the latest round of talks between the United States and Iran end with a breakthrough in Geneva in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump express satisfaction with the pace of negotiations after the Geneva talks in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran commit to ensuring zero accumulation and zero stockpiling of nuclear material under any agreement in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Secretary of State Marco Rubio visit Iran directly to mediate the nuclear negotiations in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Badr Albusaidi indicate that American inspectors could be allowed access to nuclear facilities at some stage if a fair deal were secured in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the International Atomic Energy Agency inspectors grant full access to Iranian nuclear facilities in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump threaten military action if Iran refused a far-reaching deal in February 2026?",
+    "a": "Yes"
+  }
+]

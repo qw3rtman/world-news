@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the U.S. and Israel launch strikes against Iran in late February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S.-Israel strikes result in the death of Iranian Supreme Leader Ayatollah Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump describe the killing of Ayatollah Ali Khamenei as the single greatest chance for the Iranian people to take back their country?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran launch retaliatory missile strikes that caused damage and injuries at Dubai International Airport?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran target the United Kingdom with retaliatory air strikes in the Middle East?",
+    "a": "No"
+  },
+  {
+    "q": "Did perpetual swap futures for gold rise to approximately $5,334 per troy ounce on the Hyperliquid exchange?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Bitcoin finish the day of the initial strikes 1.8% lower at $66,725?",
+    "a": "No"
+  },
+  {
+    "q": "Is Iran the fourth-largest oil producer in the Organization of the Petroleum Exporting Countries (OPEC)?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did more than 14 million barrels of crude flow through the Strait of Hormuz in 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Qatar Airways permanently suspend all flights in response to the conflict?",
+    "a": "No"
+  }
+]

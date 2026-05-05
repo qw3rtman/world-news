@@ -1,0 +1,22 @@
+{
+  "q": "Did oil prices surge more than 17% after the International Energy Agency announced the largest release of crude stockpiles in its 50-year history in March 2026?",
+  "a": "Yes",
+  "q": "Did Brent oil prices close above $100 per barrel for the second consecutive session on Friday in March 2026?",
+  "a": "Yes",
+  "q": "Did more than 30 nations agree to release 400 million barrels of oil to address the supply disruption caused by the Iran war in March 2026?",
+  "a": "Yes",
+  "q": "Did the United States plan to release 172 million barrels from its Strategic Petroleum Reserve, representing 43% of the total IEA release, in March 2026?",
+  "a": "Yes",
+  "q": "Did the U.S. Energy Secretary Chris Wright state that the White House plans to replace the released oil with 200 million barrels within the next year at no cost to the taxpayer in March 2026?",
+  "a": "Yes",
+  "q": "Did the International Energy Agency release emergency stockpiles in response to the Iran war in March 2026?",
+  "a": "No",
+  "q": "Did the 400 million barrels of emergency stockpiles represent 41% of the total member-state stockpiles held by IEA countries in March 2026?",
+  "a": "No",
+  "q": "Did the U.S. plan to release its 172 million barrels of oil immediately upon President Donald Trump’s authorization in March 2026?",
+  "a": "No",
+  "q": "Did Rystad Energy forecast that a four-month war would push Brent oil prices to $110 per barrel by April 2026?",
+  "a": "No",
+  "q": "Did the IEA stockpile release fully address the 20% of liquefied natural gas exports unable to reach the global market due to the Strait of Hormuz closure in March 2026?",
+  "a": "No"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iran’s Foreign Minister Abbas Araghchi state in an interview with NBC News’ “Meet the Press” on March 8, 2026, that Iran needs to continue fighting for the sake of its people?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Ambassador to the United Nations Mike Waltz express doubt that President Donald Trump would address reports of Russia sharing intelligence with Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian President Masoud Pezeshkian apologize to the region after Iranian strikes killed people in Kuwait, the United Arab Emirates, and Oman on March 7, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Abbas Araghchi confirm that Russia is actively providing intelligence to help Iran locate American warships in the Middle East?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran’s Assembly of Experts choose a new supreme leader after strikes killed Ayatollah Ali Khamenei, according to Iranian state media reported in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Abbas Araghchi claim that Iran has intentionally limited its missile range to above 5,000 kilometers to avoid being seen as a threat?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump post on Truth Social on March 6, 2026, that the U.S. would not make a deal with Iran except for unconditional surrender?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mike Waltz state that Russian and Iranian cooperation has been highly effective in helping Iran protect its military assets from U.S. attacks?",
+    "a": "No"
+  },
+  {
+    "q": "Did Abbas Araghchi state that Iran would not allow any foreign interference in the selection of its next supreme leader?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Abbas Araghchi admit that Iran was intentionally attacking neighboring Gulf nations to destabilize the region?",
+    "a": "No"
+  }
+]

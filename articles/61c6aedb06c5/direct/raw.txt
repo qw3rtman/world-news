@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did oil prices rise 5.6% in post-settlement trading on Wednesday, March 18, 2026, following Iranian attacks on Middle Eastern energy facilities?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump's administration announce a 60-day waiver of the Jones Act shipping law on March 18, 2026, to allow foreign-flagged vessels to move fuel between U.S. ports?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Qatar's state oil and gas company report that the Ras Laffan Industrial City suffered extensive damage after being hit by Iranian missiles on March 18, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran state that it carried out the attack on its own South Pars gas field on March 18, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. diesel futures surge to a premium of nearly $85 per barrel over WTI crude on March 18, 2026, the highest level since October 2022?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Energy Information Administration report that U.S. crude inventories fell by 6.2 million barrels in the week ended March 13, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iraq's North Oil Company announce that crude exports from the Kirkuk fields to Turkey's Ceyhan port resumed on March 18, 2026, with an initial capacity of 250,000 barrels per day?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the war between Iran and the U.S./Israel result in a halt of shipments via the Strait of Hormuz, which handles 50% of global oil and LNG supply, on March 18, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. issue a general license authorizing certain deals involving Venezuela's state oil company PDVSA on March 18, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Brent futures settle at $96.32 on March 18, 2026, after rising 3.8%?",
+    "a": "No"
+  }
+]

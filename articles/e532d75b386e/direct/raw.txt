@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. Central Command state that it had struck or sunk over 20 Iranian ships as of March 5, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Defense Secretary Pete Hegseth claim that the U.S. torpedoed an Iranian ship in international waters in the Indian Ocean in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the GOP-led Senate reject a war powers resolution aimed at restricting President Donald Trump’s military action against Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Sen. Rand Paul of Kentucky vote against the war powers resolution in the Senate in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Spain’s Foreign Minister Jose Manuel Albares deny that Spain had agreed to cooperate with U.S. military strikes on Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the International Atomic Energy Agency report that it had detected significant damage to the Natanz nuclear facility in Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Sri Lankan navy rescue 32 people from the Iranian navy ship IRIS Dena in international waters in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Canadian Prime Minister Mark Carney categorically rule out any potential Canadian participation in the war with Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. government identify six service members who were killed, with at least five dying in a drone strike on a port in Kuwait in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Energy Secretary Chris Wright confirm that multiple ships had accepted the U.S. Navy’s offer to escort them through the Strait of Hormuz in March 2026?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did fifteen U.S. aircraft leave the Rota and Moron military bases in southern Spain after the U.S. and Israel launched attacks on Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Spanish Foreign Minister Jose Manuel Albares state that Spain would allow its military bases to be used for attacks on Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did at least seven of the departing U.S. aircraft land at Ramstein Air Base in Germany?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did British Prime Minister Keir Starmer initially refuse to allow the use of British bases for an attack on Iran but later authorize their use for collective self-defence?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Spanish Socialist Prime Minister Pedro Sanchez support the U.S.-Israeli actions in Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did Spanish Defence Minister Margarita Robles identify the departing aircraft as primarily aerial refuelling tankers including the Boeing KC-135 Stratotanker?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did FlightRadar24 show nine tankers departing from the Rota naval base on Sunday?",
+    "a": "No"
+  },
+  {
+    "q": "Did Spain condemn the attacks on Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did two flights departing from Rota head towards southern France?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. and Israel launch the attacks on Iran in February 2026?",
+    "a": "No"
+  }
+]

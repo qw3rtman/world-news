@@ -1,0 +1,22 @@
+{
+  "q": "Did Thoma Bravo agree to acquire WWEX Group Inc. in a deal announced in March 2026?",
+  "a": "Yes",
+  "q": "Is WWEX Group Inc. described as a third-party logistics provider in the March 2026 report?",
+  "a": "Yes",
+  "q": "Did Thoma Bravo plan to merge WWEX Group Inc. with Auctane Inc.?",
+  "a": "Yes",
+  "q": "Is Auctane Inc. identified as an e-commerce shipping software maker in the March 2026 report?",
+  "a": "Yes",
+  "q": "Was the combined entity expected to be valued at approximately $12 billion in the March 2026 deal?",
+  "a": "Yes",
+  "q": "Did Thoma Bravo plan to merge WWEX Group Inc. with FedEx Corporation in the March 2026 deal?",
+  "a": "No",
+  "q": "Is WWEX Group Inc. described as an e-commerce shipping software maker in the March 2026 report?",
+  "a": "No",
+  "q": "Was the deal announced by Thoma Bravo in February 2026?",
+  "a": "No",
+  "q": "Did Thoma Bravo plan to acquire Auctane Inc. directly rather than merging WWEX with it in the March 2026 report?",
+  "a": "No",
+  "q": "Was the potential shipping firm valued at $2 billion in the March 2026 report?",
+  "a": "No"
+}

@@ -1,0 +1,22 @@
+{
+  "q": "Did Treasury Secretary Scott Bessent tell Sky News that the U.S. Navy would begin escorting ships through the Strait of Hormuz as soon as it is militarily possible?",
+  "a": "Yes",
+  "q": "Did the war against Iran involving the U.S. and Israel begin on February 28, 2026?",
+  "a": "Yes",
+  "q": "Did Energy Secretary Chris Wright tell CNBC that the Navy is currently ready to escort oil tankers through the Strait of Hormuz?",
+  "a": "No",
+  "q": "Did President Donald Trump state on Wednesday that he believed the CEOs of major oil companies should send tankers through the Strait of Hormuz?",
+  "a": "Yes",
+  "q": "Did the U.S. government name Chubb as the lead underwriter for a federal government-led program to insure ships transiting the Strait of Hormuz?",
+  "a": "Yes",
+  "q": "Did Iran's new supreme leader, Mojtaba Khamenei, say earlier Thursday that the Strait of Hormuz should remain open to facilitate global trade?",
+  "a": "No",
+  "q": "Did Treasury Secretary Scott Bessent claim that the Iranian Navy is sunk literally and figuratively?",
+  "a": "Yes",
+  "q": "Did the Strait of Hormuz remain fully open to shipping throughout the conflict described in the article?",
+  "a": "No",
+  "q": "Did Energy Secretary Chris Wright state that all U.S. military assets are currently focused on destroying Iran's offensive capabilities and their supply manufacturing industry?",
+  "a": "Yes",
+  "q": "Did Treasury Secretary Scott Bessent tell Sky News that the U.S. Navy has already begun escorting oil tankers through the Strait of Hormuz?",
+  "a": "No"
+}

@@ -1,0 +1,44 @@
+```json
+[
+  {
+    "q": "Did Supreme Leader Ayatollah Ali Khamenei die in the events reported in the February 28, 2026 USA TODAY article?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump warn of more U.S. combat deaths before the conflict with Iran ends in the February 28, 2026 USA TODAY article?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Homeland Security shutdown standoff described in the February 28, 2026 USA TODAY article involve a dispute over border wall funding?",
+    "a": "No"
+  },
+  {
+    "q": "Did the protests mentioned in the February 28, 2026 USA TODAY article lack a specific musical soundtrack?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran announce a formal ceasefire agreement with the United States in the February 28, 2026 USA TODAY article?",
+    "a": "No"
+  },
+  {
+    "q": "Did the USA TODAY article published on February 28, 2026, report that Iran was waking to fear and whispered hope following Khamenei’s death?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state that the conflict with Iran had already ended in the February 28, 2026 USA TODAY article?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article titled 'What each side wants in the Homeland Security shutdown standoff' appear in the February 28, 2026 USA TODAY news roundup?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the February 28, 2026 USA TODAY article report that Ayatollah Ali Khamenei was currently alive and issuing new directives?",
+    "a": "No"
+  },
+  {
+    "q": "Did the February 28, 2026 USA TODAY article include a segment asking where the soundtrack was for a new era of protests?",
+    "a": "Yes"
+  }
+]
+```

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iran's Supreme Leader Ayatollah Ali Khamenei die during the first day of the U.S. and Israeli strikes on Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. military use Tomahawk Land Attack Missiles to suppress Iranian air defenses during the March 2026 operation?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's retaliatory strikes in March 2026 target the United Arab Emirates?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu state in a video that Israel was targeting military sites including missile installations?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Iranian Red Crescent report that nearly 800 people had been killed in Iran following the March 2026 strikes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's retaliatory strikes in March 2026 target Egypt?",
+    "a": "No"
+  },
+  {
+    "q": "Did Defense Secretary Pete Hegseth describe the U.S. military objective as ensuring Iran will never have nuclear weapons?",
+    "a": "No"
+  },
+  {
+    "q": "Was Iran's President Masoud Pezeshkian among the targets of the first round of strikes in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Israel Defense Forces warn individuals near military industrial factories to evacuate immediately in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did six U.S. service members die in the operation according to CENTCOM on Monday in March 2026?",
+    "a": "No"
+  }
+]

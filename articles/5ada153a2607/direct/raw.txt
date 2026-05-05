@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Benjamin Netanyahu describe the conflict with Iran as \"a fateful campaign for our very existence\"?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the assassination of Iran's Supreme Leader Ayatollah Ali Khamanei occur in June 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israel's prime minister Benjamin Netanyahu claim that the bombing campaign had changed the balance of power in the Middle East in Israel's favour during his first press conference since the war began?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States government signal that the war in Iran could be coming to an end soon due to pressure from spiralling oil prices?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Israeli military chief of staff, Lt Gen Eyal Zamir, state that the objective of the operation in Lebanon is to disarm Hamas?",
+    "a": "No"
+  },
+  {
+    "q": "Did the last war against Iran take place in June 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the journalist and policy advisor Neri Zilber describe the conflict as the \"War of Liberation\" which started on October 7, 2023?",
+    "a": "No"
+  },
+  {
+    "q": "Did Maj Gen Yaakov Amidror argue that Israel can achieve its core goals by leaving the Iranian regime too weak to threaten it, even without regime change?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Hezbollah respond to the killing of Khamenei by joining Iran's attacks on Israel after the ceasefire in 2024?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Benjamin Netanyahu suggest that Israel should withdraw immediately after creating conditions for regime change, rather than waiting for internal pressures in Iran to take their course?",
+    "a": "No"
+  }
+]

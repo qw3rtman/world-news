@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did suspected Iranian drones hit at least three ships in and around the Strait of Hormuz in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump state that the war with Iran would end soon, whenever he decided it should, in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran warn in March 2026 that it was ready for a long-term war of attrition that would destroy the entire American economy?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian drones strike Dubai's airport and wound four people in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Arab Emirates report intercepting Iranian drones and missiles in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Pentagon report that approximately 140 U.S. service members were wounded in the first 10 days of the war with Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Secretary of Defense Pete Hegseth claim in March 2026 that the U.S. and Israel were winning the war and rapidly meeting their objectives?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran threaten in March 2026 to start targeting U.S.-linked banks across Europe?",
+    "a": "No"
+  },
+  {
+    "q": "Did the drone attack on Dubai's airport in March 2026 cause the major aviation hub to cease operations entirely?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Pentagon report in March 2026 that fewer than 50 U.S. service members were wounded in the first 10 days of the war with Iran?",
+    "a": "No"
+  }
+]

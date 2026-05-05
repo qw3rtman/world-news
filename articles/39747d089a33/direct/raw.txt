@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump warn on Sunday, March 1, 2026, that combat operations in Iran would continue until all U.S. objectives were achieved?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump confirm via a video posted on Truth Social that three U.S. service members had been killed in the operations?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump vow to avenge the deaths of Americans during his Sunday, March 1, 2026, statement regarding the Iran operations?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state that combat operations in Iran had ceased immediately following the initial strikes?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump announce on Sunday, March 1, 2026, that five U.S. service members had been killed in the conflict?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump post his confirmation of the casualties via a video on X (formerly Twitter) rather than Truth Social?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state that combat operations in Iran would end once the first wave of strikes was completed?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump warn on Sunday, March 1, 2026, that there would likely be more casualties in the Iran operations?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump claim that no U.S. service members had been killed in the combat operations in Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state that the objectives in Iran were vague and undefined in his Sunday, March 1, 2026, address?",
+    "a": "No"
+  }
+]

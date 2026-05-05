@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Tenaya Therapeutics sign a research deal with Alnylam Pharmaceuticals in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the maximum total value of the research deal between Tenaya Therapeutics and Alnylam Pharmaceuticals $1.13 billion?",
+    "a": "Yes"
+  },
+  {
+    "q": "Will Alnylam Pharmaceuticals handle all further drug development and commercialization for any medicines resulting from the collaboration with Tenaya Therapeutics?",
+    "a": "Yes"
+  },
+  {
+    "q": "Will Tenaya Therapeutics receive up to $1.13 billion in upfront payments from Alnylam Pharmaceuticals?",
+    "a": "No"
+  },
+  {
+    "q": "Did Tenaya Therapeutics shares rise more than 11% in premarket trading following the announcement of the deal?",
+    "a": "Yes"
+  },
+  {
+    "q": "Will Tenaya Therapeutics retain responsibility for the commercialization of any medicines developed through the collaboration with Alnylam Pharmaceuticals?",
+    "a": "No"
+  },
+  {
+    "q": "Is Alnylam Pharmaceuticals' major growth driver a drug called Amvuttra?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Amvuttra record sales of $1.13 billion in 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Will the research period for the heart disease treatments target up to 15 genetic causes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Amvuttra used to treat a condition known as transthyretin amyloid cardiomyopathy (ATTR-CM)?",
+    "a": "Yes"
+  }
+]

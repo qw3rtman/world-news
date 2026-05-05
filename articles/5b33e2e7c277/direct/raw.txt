@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did OpenAI announce the acquisition of Python toolmaker Astral on Thursday, March 19, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did OpenAI disclose the specific financial terms of its acquisition of Astral to the public?",
+    "a": "No"
+  },
+  {
+    "q": "Is the AI coding system Codex backed by Microsoft?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Anthropic gain traction with its AI coding tool named Codex among software developers?",
+    "a": "No"
+  },
+  {
+    "q": "Did OpenAI report that its Codex platform had more than 2 million weekly active users as of March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the number of users for OpenAI's Codex platform increase five-fold since the beginning of 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is Charlie Marsh the founder and CEO of Astral?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did OpenAI state that it would discontinue support for Astral's open-source tools after the deal closes?",
+    "a": "No"
+  },
+  {
+    "q": "Did OpenAI launch a desktop app for its coding tools earlier in 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Sam Altman lead the company OpenAI?",
+    "a": "Yes"
+  }
+]

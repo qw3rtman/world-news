@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did US President Donald Trump publicly state on March 7 that the United States could deploy special forces to seize Iran’s uranium at a later date?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States and Israel conduct a 12-day war against Iran’s nuclear facilities in June 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is the quantity of highly enriched uranium stored at the Iranian complex sufficient for approximately 11 nuclear warheads?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the US special operations raid plan named Project Honey Badger developed in the wake of the September 11, 2001 terrorist attacks?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran’s envoy to the IAEA, Reza Najafi, state that safeguard measures should not be expected under wartime conditions?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States Central Command announce on March 8 that the war with Iran had resulted in six US service member deaths?",
+    "a": "No"
+  },
+  {
+    "q": "Did the death of Supreme Leader Ayatollah Ali Khamenei occur during the opening hours of the war with Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the highly enriched uranium stored in cylinders that weigh approximately 250kg each, requiring heavy machinery for transport?",
+    "a": "No"
+  },
+  {
+    "q": "Did the International Atomic Energy Agency last verify the location of Iran’s highly enriched uranium almost nine months prior to March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Institute for Science and International Security estimate that the probability of Iran deciding to build a nuclear weapon is above 50 percent?",
+    "a": "No"
+  }
+]

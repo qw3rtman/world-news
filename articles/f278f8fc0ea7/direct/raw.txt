@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Prince Reza Pahlavi state that he is running for the office of King of Iran in the March 2026 interview with CBS News?",
+    "a": "No"
+  },
+  {
+    "q": "Did Prince Reza Pahlavi live in Lubbock, Texas, in 1979 while the U.S. Air Force was training him to be a fighter pilot?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ayatollah Khamenei die in the opening hours of the war in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Prince Reza Pahlavi propose that Iran should weaponize its nuclear program as a core principle for a new Iran in the March 2026 interview?",
+    "a": "No"
+  },
+  {
+    "q": "Did an estimated 20,000 Iranian citizens die during the street protests in January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Prince Reza Pahlavi claim that his father, Mohammad Reza Pahlavi, turned his guns on the Iranian people before leaving the country in 1979?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. and Israeli forces attack Iran's nuclear facilities in June 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did 52 Americans remain hostages in the U.S. embassy in Tehran for 444 days starting in 1979?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Prince Reza Pahlavi state that he wants to be the future president of Iran after the regime's collapse in the March 2026 interview?",
+    "a": "No"
+  },
+  {
+    "q": "Did security forces kill more than 500 people and arrest 22,000 during the 2022 uprising that began after the death of a 22-year-old woman?",
+    "a": "Yes"
+  }
+]

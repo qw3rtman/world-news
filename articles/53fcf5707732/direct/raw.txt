@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump announce the death of Iranian Supreme Leader Ayatollah Ali Khamenei on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Secretary of State Marco Rubio cancel his planned visit to Israel on March 2, 2026, following the strikes on Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Vice President JD Vance monitor the strikes on Iran from the Situation Room at the White House on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the International Atomic Energy Agency Board of Governors convene a special session in Vienna on February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. military report confirmed American casualties among its forces during the initial strikes on Iran on February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israel close all crossings into Gaza on February 28, 2026, citing security reasons related to the missile exchange with Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did British Prime Minister Keir Starmer lead the United Kingdom's participation in the joint U.S.-Israeli airstrikes on Iran on February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Islamic Resistance in Iraq-Brigades of the Guardians of Blood claim responsibility for a drone attack on a U.S. base in Irbil, Iraq, on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Defense Secretary Pete Hegseth monitor the strikes on Iran from the Situation Room at the White House on February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the European Union hold an emergency security meeting on February 28, 2026, to discuss the conflict in the Middle East?",
+    "a": "No"
+  }
+]

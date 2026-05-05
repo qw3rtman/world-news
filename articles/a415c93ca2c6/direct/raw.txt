@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Brent crude oil prices spike more than 5% to nearly $110 a barrel on March 18, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the March 18, 2026 strike on Iran’s natural gas infrastructure carried out by Israel in coordination with the United States?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the South Pars gas field targeted in the March 18, 2026 strikes, marking the first time Iran’s upstream oil and gas infrastructure was hit since the war began?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the war between Iran and its adversaries begin on March 18, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Qatar’s foreign ministry condemn the March 18, 2026 strikes as a dangerous and irresponsible step?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran name Saudi Aramco’s Samref refinery as a specific target for retaliation in its March 18, 2026 response?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran’s military joint command state it would de-escalate the conflict following the March 18, 2026 strikes?",
+    "a": "No"
+  },
+  {
+    "q": "Is the South Pars gas field shared exclusively by Iran and Kuwait?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran list the Al Hosn gas field in the United Arab Emirates as a specific target for its March 18, 2026 retaliation?",
+    "a": "Yes"
+  },
+  {
+    "q": "Were the March 18, 2026 strikes the first time any Iranian infrastructure was targeted since the war began on February 28, 2026?",
+    "a": "No"
+  }
+]

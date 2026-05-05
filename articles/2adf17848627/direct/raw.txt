@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the Houthis formally announce their entry into the regional war following U.S. and Israeli strikes on Tehran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Houthis capture the Yemeni capital Sanaa in 2014?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Saudi Arabia lead a coalition of Arab states in a military intervention to dislodge the Houthis in 2015?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Houthis cease their attacks on international shipping in the Red Sea in October 2023?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Houthis cease their Red Sea attacks following a U.S.-brokered ceasefire between Israel and Hamas in October 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Houthi leader Abdul Malik Al-Houthi state in a televised speech on March 5, 2026, that his group was ready to strike at any moment?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the U.N.-brokered 2022 truce between the warring sides in Yemen, which has since held, involve the Houthis and the Saudi-led coalition?",
+    "a": "Yes"
+  },
+  {
+    "q": "Do the Houthis adhere to Iran's supreme leader in the same way that Lebanon's Hezbollah and Iraqi armed groups do?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Houthis begin firing on international shipping in the Red Sea after the October 7, 2023, attack on Israel led by Hamas?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Houthis deny being an Iranian proxy and claim they develop their own weapons?",
+    "a": "Yes"
+  }
+]

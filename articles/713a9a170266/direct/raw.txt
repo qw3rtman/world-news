@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did workers at BP’s Whiting, Indiana, refinery begin picketing on Thursday, March 19, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did BP bar more than 800 union members from entering the Whiting, Indiana, refinery?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the Whiting, Indiana, refinery described as the Midwest’s largest refinery?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Steelworkers union overwhelmingly reject BP's \"last, best and final\" offer before the lockout?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did BP propose a six-year contract, which is twice the length of the previous agreement?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the previous collective bargaining agreement expire on March 19, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Whiting, Indiana, refinery have a production capacity of 100,000 barrels per day?",
+    "a": "No"
+  },
+  {
+    "q": "Did BP state that it foresees significant negative impacts on refinery operations due to the lockout?",
+    "a": "No"
+  },
+  {
+    "q": "Did the labor dispute occur at BP’s refinery in Whiting, Texas?",
+    "a": "No"
+  },
+  {
+    "q": "Did the union USW 7-1 state that BP proposed to cut more than 100 local jobs?",
+    "a": "Yes"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Emmanuel Gregoire win the first round of the Paris mayoral election in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Emmanuel Gregoire receive approximately 38% of the vote in the first round of the Paris mayoral election in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Emmanuel Gregoire a candidate from the Socialist party in the 2026 Paris mayoral election?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the runoff for the 2026 Paris mayoral election scheduled for March 22?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the left-wing coalition extend its quarter-century rule over Paris following the first round of the 2026 mayoral election?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Emmanuel Gregoire win the 2026 Paris mayoral election outright in the first round without needing a runoff?",
+    "a": "No"
+  },
+  {
+    "q": "Did Emmanuel Gregoire receive more than 50% of the vote in the first round of the 2026 Paris mayoral election?",
+    "a": "No"
+  },
+  {
+    "q": "Was the 2026 Paris mayoral election runoff scheduled for March 15?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Conservative party lead the first round of the 2026 Paris mayoral election?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Interior Ministry release the results for the 2026 Paris mayoral election first round?",
+    "a": "No"
+  }
+]

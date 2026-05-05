@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump issue general licenses for oil and gas exploration in Venezuela in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Shell state that U.S. general licenses for exploration in Venezuela would allow it to progress with its Dragon natural gas project in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the Dragon natural gas project located in Venezuelan waters?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the Dragon natural gas project have reserves of 4.5 trillion cubic feet?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Shell CEO Wael Sawan state in February 2026 that Shell hopes to produce gas from the Dragon field in five years?",
+    "a": "No"
+  },
+  {
+    "q": "Does Shell hope to export gas from the Dragon project via the Atlantic LNG facility in Trinidad and Tobago?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does Shell own 100% of the Atlantic LNG facility?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Atlantic LNG facility export 12 million metric tonnes in 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Atlantic LNG facility export 9 million metric tonnes in 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Shell report that Atlantic LNG output was 15% of its global LNG production in 2025?",
+    "a": "No"
+  }
+]

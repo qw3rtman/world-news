@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did UniCredit make a bid to raise its stake in Commerzbank above 30% on March 16, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Commerzbank CEO Bettina Orlopp state that the bank's strategy focuses on independence?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the German government, which owns 12.7% of Commerzbank, state that a hostile takeover would be unacceptable?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did UniCredit CEO Andrea Orcel begin his tenure as CEO in 2021?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the German takeover rules mandating a cash offer with a pre-set minimum price cease to apply on March 16, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did UniCredit expect the necessary approvals for the transaction, mainly from the European Central Bank, to be completed in the first half of 2027?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Italian government state it would support any attempts by UniCredit to shift the group's headquarters to Germany?",
+    "a": "No"
+  },
+  {
+    "q": "Did UniCredit own 26% of Commerzbank directly through equity holdings as of March 16, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the German state of Hesse premier state that the offer would be assessed with a preference for UniCredit?",
+    "a": "No"
+  },
+  {
+    "q": "Did UniCredit expect the offer price to be set at 0.485 of a UniCredit share for each Commerzbank share?",
+    "a": "Yes"
+  }
+]

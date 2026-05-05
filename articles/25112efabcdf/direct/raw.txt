@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the Kremlin state on March 2, 2026, that it is in Russia's own interests to continue peace talks with Ukraine?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Moscow's preferred method for ending the fighting a political and diplomatic resolution, according to statements made on March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Has Ukrainian President Volodymyr Zelenskiy repeatedly rejected Russia's insistence that Ukraine hand over the remaining part of the eastern Donbas region?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Bloomberg News report on March 2, 2026, that Russian officials saw little reason to continue talks unless Kyiv signaled it was prepared to give up territory?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Senator John Cornyn publicly endorse the peace talks between Russia and Ukraine in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Kremlin spokesman Dmitry Peskov state on March 2, 2026, that Russia remained committed to the talks and that its approach was unchanged?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Dmitry Peskov state on March 2, 2026, that Russia trusted the United States first and foremost in the peace process?",
+    "a": "No"
+  },
+  {
+    "q": "Are peace talks between Russia and Ukraine reported to be deadlocked over the issue of the eastern Donbas region as of March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Kremlin state on March 2, 2026, that U.S. strikes on Iran would directly determine the outcome of the Ukraine peace process?",
+    "a": "No"
+  },
+  {
+    "q": "Did Reuters report on March 2, 2026, that the Kremlin said Moscow's preference was still to reach a diplomatic settlement to end the fighting?",
+    "a": "Yes"
+  }
+]

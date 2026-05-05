@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Stripe Inc. consider acquiring all or parts of PayPal Holdings Inc. in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the information regarding Stripe Inc.'s potential acquisition of PayPal Holdings Inc. reported by Bloomberg in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the people familiar with the matter confirm that Stripe Inc. had expressed preliminary interest in acquiring PayPal Holdings Inc. in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the people familiar with the matter speak on the record about Stripe Inc.'s potential acquisition of PayPal Holdings Inc. in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is Stripe Inc. a publicly traded company among the industry’s most valuable firms as of February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Stripe Inc. consider acquiring all or parts of Square Inc. in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was PayPal Holdings Inc. described as a digital payments pioneer in the February 2026 report?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the people familiar with the matter request to be identified because the matter was public in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Stripe Inc. finalize an acquisition of all or parts of PayPal Holdings Inc. in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the consideration of an acquisition by Stripe Inc. reported in an article published on February 24, 2026?",
+    "a": "Yes"
+  }
+]

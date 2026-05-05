@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the United States Department of Homeland Security reverse its decision to suspend TSA PreCheck due to the government shutdown in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Canada win the 4 Nations hockey final in February 2026, potentially affecting the gold medal game?",
+    "a": "Yes"
+  },
+  {
+    "q": "Were Travis Kelce and Patrick Mahomes named as defendants in a trademark infringement lawsuit in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Savannah Guthrie's mother case in its first week of legal proceedings in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Department of Government Efficiency (DOGE) release a definitive report on its accomplishments in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. Olympic medal count in Milan stabilize with no further changes on February 22, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Alysa Liu's father express only positive emotions regarding her Olympic triumph in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Democrats propose a significant tariff refund for consumers in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. resolve its sewage infrastructure crisis completely by February 22, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the government shutdown in February 2026 lead to the permanent cancellation of all TSA PreCheck services?",
+    "a": "No"
+  }
+]

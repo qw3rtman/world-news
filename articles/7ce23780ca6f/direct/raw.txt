@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Sen. John Cornyn serve as a top lieutenant to Sen. Mitch McConnell when McConnell was Senate majority leader?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Sen. John Cornyn represent the state of Texas in the U.S. Senate?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Sen. John Cornyn lose his first reelection primary race in his Senate career?",
+    "a": "No"
+  },
+  {
+    "q": "Was Sen. John Cornyn based in Kentucky during his tenure as a top lieutenant to Sen. Mitch McConnell?",
+    "a": "No"
+  },
+  {
+    "q": "Did Sen. John Cornyn face three reelection races in which he defeated every primary challenger?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Sen. John Cornyn build a reputation as a staunch conservative who could compromise with Democrats?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Sen. John Cornyn serve as the Senate majority leader before becoming a top lieutenant to Mitch McConnell?",
+    "a": "No"
+  },
+  {
+    "q": "Did Sen. John Cornyn demolish every primary challenger he faced in his three reelection races?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Sen. John Cornyn serve as a top lieutenant to Sen. Chuck Schumer while Schumer was majority leader?",
+    "a": "No"
+  },
+  {
+    "q": "Did Sen. John Cornyn help architect the Republican takeover of Texas, which became the country’s biggest red state?",
+    "a": "Yes"
+  }
+]

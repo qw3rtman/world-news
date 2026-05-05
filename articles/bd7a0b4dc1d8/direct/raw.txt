@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the partial government shutdown affecting the Department of Homeland Security start on Saturday, February 14, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Senate hold a successful vote to end the government shutdown on Friday, February 27, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Senate Minority Leader Chuck Schumer vote in favor of the DHS Appropriations Act during the February 24, 2026 vote?",
+    "a": "No"
+  },
+  {
+    "q": "Did prediction markets Polymarket and Kalshi show a 55% chance that the shutdown would extend past Good Friday and Easter 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump urge an end to the shutdown during the State of the Union address in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the 2026 partial government shutdown impact the Department of Education and the Department of Agriculture?",
+    "a": "No"
+  },
+  {
+    "q": "Did Senate Majority Leader John Thune provide a government shutdown update during a Senate hearing on Thursday, February 26, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the last full federal government shutdown in 2025 last for 43 days?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did less than 1% of Kalshi users believe the DHS would be fully funded by Sunday, March 1, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Senate Majority Leader Chuck Schumer and Senate Minority Leader Chuck Schumer both address the shutdown live in a Senate hearing on Thursday, February 26, 2026?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "q": "Did the article published on February 26, 2026, define the 'short term' as the next six weeks?",
+  "a": "Yes",
+  "q": "Did the article published on February 26, 2026, define the 'medium term' as the next six months?",
+  "a": "Yes",
+  "q": "Did the article published on February 26, 2026, identify a full-scale invasion of Iran as the baseline scenario?",
+  "a": "No",
+  "q": "Did the article published on February 26, 2026, identify Branch D (decapitation attempt) as the minimax branch?",
+  "a": "Yes",
+  "q": "Did the article published on February 26, 2026, identify Branch F (full-scale invasion/occupation) as the minimax branch?",
+  "a": "No",
+  "q": "Did the article published on February 26, 2026, state that the strategic beneficiary of the proposed actions is Moscow?",
+  "a": "Yes",
+  "q": "Did the article published on February 26, 2026, state that the strategic beneficiary of the proposed actions is Beijing?",
+  "a": "No",
+  "q": "Did the article published on February 26, 2026, list 'congressional constraint' as a discriminator to watch for intent?",
+  "a": "Yes",
+  "q": "Did the article published on February 26, 2026, list 'NATO troop numbers' as a primary discriminator to watch for intent?",
+  "a": "No",
+  "q": "Did the article published on February 26, 2026, assert that the Strait of Hormuz is not a metaphor in the context of Iranian retaliation?",
+  "a": "Yes"
+}

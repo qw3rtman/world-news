@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. strikes on Iran occur over the weekend prior to March 1, 2026, reigniting fears of Strait of Hormuz disruption?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the European Union's naval mission, Aspides, confirm that Iran had formally issued a directive to close the Strait of Hormuz?",
+    "a": "No"
+  },
+  {
+    "q": "Did Kpler data show that approximately 13 million barrels of oil per day moved through the Strait of Hormuz in 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Vandana Hari, CEO of Vanda Insights, state that the U.S. and its allies would likely deploy military escorts to protect shipping lanes if Iran blocked the strait?",
+    "a": "No"
+  },
+  {
+    "q": "Did Saul Kavonic, head of energy research at MST Marquee, suggest that a successful Iranian closure of the Strait could drive oil prices into the triple digits?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Bob McNally, president of Rapidan Energy Group, advise clients that the probability of conflict was 95%?",
+    "a": "No"
+  },
+  {
+    "q": "Did Brent crude settle at $72.48 on the Friday prior to March 1, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Andy Lipow, president of Lipow Oil Associates, estimate the probability of an attack on Saudi oil infrastructure followed by a complete closure of the Strait of Hormuz at 75%?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Khor Fakkan Container Terminal serve as a location where tankers were seen along the Strait of Hormuz in June 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Strait of Hormuz serve as a transit route for approximately 50% of all seaborne oil flows in 2025?",
+    "a": "No"
+  }
+]

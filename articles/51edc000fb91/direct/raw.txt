@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump tell advisers in February 2026 that he would consider a much bigger attack on Iran if diplomacy fails?",
+    "a": "Yes"
+  },
+  {
+    "q": "Were negotiators from the United States and Iran scheduled to meet in Geneva in February 2026 for last-ditch negotiations?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Vice President JD Vance strongly oppose a military strike against Iran during the White House Situation Room meeting in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Trump’s envoy Steve Witkoff state in February 2026 that the only acceptable outcome for Trump was for Iran to move to zero enrichment of uranium?",
+    "a": "Yes"
+  },
+  {
+    "q": "Had plans for a commando raid to seize Iranian nuclear facilities been shelved by February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did General Dan Caine provide Trump with the same high likelihood of success assurances in February 2026 for Iran as he had for the seizure of Venezuelan President Nicolas Maduro?",
+    "a": "No"
+  },
+  {
+    "q": "Was the second aircraft carrier group, the USS Gerald R. Ford, steaming south of Italy in the Mediterranean Sea in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian Foreign Minister Abbas Araghchi agree in February 2026 to give up Iran’s right to make nuclear fuel under the Nuclear Nonproliferation Treaty?",
+    "a": "No"
+  },
+  {
+    "q": "Did US Ambassador to Israel Mike Huckabee make comments in February 2026 that outraged Arab diplomats?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the military buildup around Iran in February 2026 the largest the US had concentrated in the region since the invasion of Iraq in 2003?",
+    "a": "No"
+  }
+]

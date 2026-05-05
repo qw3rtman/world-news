@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Retired Gen. Jack Keane state that the conflict had become a regional war in an interview on Fox News' 'Fox & Friends Weekend' on March 1, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Saturday morning airstrikes in March 2026 target senior Iranian leaders and Iran’s ballistic missile and drone infrastructure?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the coordinated operation between the Israel Defense Forces and U.S. Central Command in March 2026 result in the elimination of Supreme Leader Ayatollah Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Retired Gen. Jack Keane explicitly name the three Gulf states preparing for combat in his March 1, 2026 interview with Fox News?",
+    "a": "No"
+  },
+  {
+    "q": "Did Retired Gen. Jack Keane claim that one Gulf state had already started combat operations while two others were about to begin in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the March 2026 airstrikes occur at night, described as a rare nighttime assault by military officials?",
+    "a": "No"
+  },
+  {
+    "q": "Did Retired Gen. Jack Keane state that air superiority had already been achieved, allowing U.S. and allied forces to operate freely inside Iranian territory in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Retired Gen. Jack Keane identify Adm. Cooper as the commander of the Israel Defense Forces coordinating the Gulf state operations in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Retired Gen. Jack Keane say that the next 48 hours in March 2026 would focus on neutralizing Iran’s remaining retaliatory capabilities to prevent attacks on U.S. troops and Israeli civilians?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Retired Gen. Jack Keane state that the Gulf states were publicly resisting the strikes while privately supporting Iran in March 2026?",
+    "a": "No"
+  }
+]

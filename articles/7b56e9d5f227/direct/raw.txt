@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump state that combat operations against Iran would continue until all objectives were achieved in a statement released on Sunday, March 1, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump announce a ceasefire with Iran in a statement released on Sunday, March 1, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Willie James Inman report on U.S. President Donald Trump's statement regarding Iran on March 1, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did CBS News reporter Willie James Inman report on U.S. President Donald Trump's statement regarding Iran on February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump describe the combat operations against Iran as continuing \"in full force\" in his March 1, 2026 statement?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump describe the combat operations against Iran as \"minimal\" in his March 1, 2026 statement?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump link the continuation of combat operations against Iran to the achievement of specific objectives in his March 1, 2026 statement?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump link the continuation of combat operations against Iran to the withdrawal of U.S. troops from Iraq in his March 1, 2026 statement?",
+    "a": "No"
+  },
+  {
+    "q": "Was the CBS News report on U.S. President Donald Trump's statement regarding Iran published on March 1, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the CBS News report on U.S. President Donald Trump's statement regarding Iran published on March 2, 2026?",
+    "a": "No"
+  }
+]

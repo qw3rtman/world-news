@@ -1,0 +1,22 @@
+{
+  "q": "Did explosions occur across the Middle East on Saturday, February 28, 2026, following U.S. and Israeli operations in Iran?",
+  "a": "Yes",
+  "q": "Did Bahrain, Kuwait, Qatar, Jordan, and the United Arab Emirates all confirm that they had intercepted missiles launched from Iran?",
+  "a": "Yes",
+  "q": "Did the United Arab Emirates Ministry of Defense state that its air defenses successfully intercepted a number of Iranian ballistic missiles?",
+  "a": "Yes",
+  "q": "Did Qatar’s Ministry of Defense issue a statement condemning the targeting of Qatari territory by Iranian ballistic missiles as a violation of national sovereignty?",
+  "a": "Yes",
+  "q": "Did Saudi Arabia confirm its readiness to place all its military capabilities at the disposal of the UAE, Bahrain, Qatar, Kuwait, and Jordan?",
+  "a": "Yes",
+  "q": "Did the United States President Donald Trump state on Truth Social that the objective of the military operations was to eliminate imminent threats from the Iranian regime?",
+  "a": "Yes",
+  "q": "Did the United Arab Emirates confirm a permanent closure of its airspace as a precautionary measure?",
+  "a": "No",
+  "q": "Did CNBC’s team in the United Arab Emirates report hearing loud explosions only in Dubai and not in the capital, Abu Dhabi?",
+  "a": "No",
+  "q": "Did Qatar Airways confirm a permanent suspension of all flights to and from Doha due to the conflict?",
+  "a": "No",
+  "q": "Did the Israeli Defense Forces state that the additional barrage of missiles launched toward Israel was intercepted by the Aerial Defense Array?",
+  "a": "No"
+}

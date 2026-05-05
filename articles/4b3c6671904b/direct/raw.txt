@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Brent crude trade at $100.66 by 0020 GMT on Thursday in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US benchmark West Texas Intermediate rise to $120 per barrel in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United States and Israel carry out attacks on Iran on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the International Energy Agency announce a release of 100 million barrels from emergency stockpiles in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Saudi forces intercept dozens of drones in the Middle East in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state that controlling oil prices was his priority over defeating Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the International Energy Agency warn that the conflict could trigger the largest supply disruption in the oil industry's history in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran’s new supreme leader issue his first statement in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did analysts caution that prolonged closure of the Strait of Hormuz could push oil prices to $150 per barrel in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did oil briefly approach $100 per barrel as its highest level since 2022 in March 2026?",
+    "a": "No"
+  }
+]

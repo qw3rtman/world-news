@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Brent crude oil close above $100 per barrel on Friday, March 13, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the International Energy Agency agree to release 400 million stockpiled barrels of oil in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump issue a 30-day waiver for India to purchase sanctioned oil from Russia in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did oil tanker traffic through the Strait of Hormuz remain effectively at a standstill in mid-March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did WTI crude oil futures settle at $103.14 per barrel on Friday, March 13, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran’s former supreme leader Ali Khamenei vow to keep fighting in a message delivered via state television in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump claim on a call with G7 leaders in March 2026 that Iran was \"about to surrender\"?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the last similar reduction in global oil supply occur during the Arab embargo of the 1970s, according to EnQuest CEO Amjad Bseisu in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. crude oil prices rise by 2.67% on Friday, March 13, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump consider loosening rules under the Jones Act in March 2026 to lower energy costs?",
+    "a": "Yes"
+  }
+]

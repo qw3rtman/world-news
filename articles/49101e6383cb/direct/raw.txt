@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Warner Bros Discovery agree to be acquired by Paramount Skydance in a deal valued at $110 billion in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Netflix agree to match Paramount Skydance's final offer of $31 per share for Warner Bros Discovery in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is the proposed merger between Warner Bros Discovery and Paramount Skydance expected to close in the third quarter of 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did California regulators indicate they would conduct a vigorous review of the Warner Bros Discovery and Paramount Skydance merger in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the $110 billion acquisition of Warner Bros Discovery by Paramount Skydance expected to be funded entirely by equity from the Ellison Family and RedBird Capital Partners?",
+    "a": "No"
+  },
+  {
+    "q": "Did Paramount Skydance pay a $2.80 billion termination fee to Netflix in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Warner Bros Discovery shareholders vote on the proposed merger in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is the European Union antitrust approval for the Warner Bros Discovery and Paramount Skydance merger expected to be a significant hurdle in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Writers Guild of America state that the merger between Warner Bros Discovery and Paramount Skydance must be blocked in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Warner Bros Discovery agree to sell its studio and streaming assets to Netflix for $31 per share in February 2026?",
+    "a": "No"
+  }
+]

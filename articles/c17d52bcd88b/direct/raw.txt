@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Israeli officials tell The Associated Press that Supreme Leader Ayatollah Ali Khamenei was killed in a major attack on Iran by the U.S. and Israel on Saturday?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's Foreign Minister state that a leadership council of hard-line clerics would choose a replacement for the Supreme Leader within the next one or two days?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's President announce that a leadership council had begun work to choose a successor following the death of Supreme Leader Ayatollah Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the leadership council tasked with choosing Iran's new Supreme Leader consist of moderate reformists rather than hard-line clerics?",
+    "a": "No"
+  },
+  {
+    "q": "Did the major attack on Iran that resulted in the death of Supreme Leader Ayatollah Ali Khamenei involve only the United States, excluding Israel?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran's Foreign Minister indicate that the leadership council would take several weeks to select a successor rather than one or two days?",
+    "a": "No"
+  },
+  {
+    "q": "Did the attack on Iran that killed Supreme Leader Ayatollah Ali Khamenei occur on a Sunday rather than a Saturday?",
+    "a": "No"
+  },
+  {
+    "q": "Did the group chosen to select Iran's next Supreme Leader include members from the country's moderate political wing?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Associated Press report that the attack on Iran was carried out by Iranian separatist groups rather than foreign nations?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran's President claim that the Supreme Leader was still alive despite reports from Israeli officials?",
+    "a": "No"
+  }
+]

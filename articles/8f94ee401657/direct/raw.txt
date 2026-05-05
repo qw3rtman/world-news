@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the private equity investment binge in enterprise software peak at over $220 billion in 2021?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Hg delay the IPO of Visma until at least April 2027?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the BVP Nasdaq Emerging Cloud Index fall 25% in the year leading up to February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Intuit’s stock price drop by 46% year-to-date by February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Liftoff Mobile, a Blackstone-backed advertising technology company, delay its U.S. IPO on February 17, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did private equity-backed software groups’ revenue growth rate slow to 27% in 2025 according to Bain & Co data?",
+    "a": "No"
+  },
+  {
+    "q": "Did AlixPartners estimate that hybrid pricing models would account for 20% of software revenue by 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Anthropic’s rollout of Claude CoWork alleviate concerns that AI systems can replicate services offered by software groups?",
+    "a": "No"
+  },
+  {
+    "q": "Does Bain & Co estimate that private equity firms have about $3.8 trillion of stuck assets waiting to be sold?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did OpenAI, Anthropic, and Mistral cease to be AI challengers by 2027?",
+    "a": "No"
+  }
+]

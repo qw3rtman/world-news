@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the Israeli military report that Iranian missiles struck the Tel Aviv area of Israel on Tuesday, March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israel's ambulance service report treating three people who were lightly injured at the impact sites in central Israel on March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli police confirm that there were several impact areas involving munition fragments within the Tel Aviv district on March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Israeli military state that the circumstances of the impact were under review on March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did search and rescue forces operate together with emergency teams at the impact sites in central Israel on March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Israeli military report that the Iranian missile strikes occurred in the Jerusalem area on March 3, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israel's ambulance service report that all individuals treated at the impact sites were critically injured on March 3, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli police report that the impact areas involved intact missiles rather than munition fragments on March 3, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Israeli military report that the strikes were carried out by Hezbollah forces rather than Iranian missiles on March 3, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Israeli military report that the strikes occurred on Monday, March 2, 2026, rather than Tuesday, March 3, 2026?",
+    "a": "No"
+  }
+]

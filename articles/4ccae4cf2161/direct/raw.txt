@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu state that he had \"longed to do\" war with Iran for 40 years during the strikes on Tehran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump claim that previous U.S. strikes in the summer of 2025 obliterated Iran’s nuclear program?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu visit the White House four times in the year leading up to the March 2026 strikes on Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Were the primary motivations for the timing of the March 2026 Iran war related to closing windows on Iranian nuclear ambitions?",
+    "a": "No"
+  },
+  {
+    "q": "Is the October 7, 2023, Hamas-led attack that killed nearly 1,200 people considered the biggest security catastrophe in recent Israeli history?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did a Reuters/Ipsos survey in early 2026 find that a majority of Americans backed the Iran conflict?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israel and Iran exchange direct attacks for the first time in 2024, including an Israeli strike on an Iranian consulate in Syria?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the United States Congress currently controlled by Democrats as of March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did a Gallup poll in early 2026 find that, for the first time, more Americans sympathized with Palestinians than with Israelis?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. and Israeli missile interceptors have a production timeline that was faster and cheaper than Iranian projectile production?",
+    "a": "No"
+  }
+]

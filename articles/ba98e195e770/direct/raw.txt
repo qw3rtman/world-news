@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu state in late February 2026 that there were many signs Iran Supreme Leader Ayatollah Ali Khamenei had been killed?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian Foreign Minister Abbas Aragchi tell NBC News in late February 2026 that Ayatollah Ali Khamenei was still alive?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump join Israeli Prime Minister Benjamin Netanyahu in hinting at regime change in Iran during the February 2026 attacks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian Foreign Ministry Spokesperson Esmail Baghaei tell ABC News in late February 2026 that Ayatollah Ali Khamenei was dead?",
+    "a": "No"
+  },
+  {
+    "q": "Did the joint Israel-US attack on Iran in February 2026 begin on a Friday morning?",
+    "a": "No"
+  },
+  {
+    "q": "Did a satellite photo released by the New York Times in late February 2026 show damage to Ayatollah Ali Khamenei's compound in Tehran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu explicitly call for the Iranian people to establish a new and free Iran in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ayatollah Ali Khamenei take over leadership from Ruhollah Khomeini in 1979?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli television channel Channel 12 cite unnamed sources in late February 2026 as saying there were growing indications that Ayatollah Ali Khamenei was killed?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the joint Israel-US attack in February 2026 result in a 12-day war that began in June of the previous year?",
+    "a": "No"
+  }
+]

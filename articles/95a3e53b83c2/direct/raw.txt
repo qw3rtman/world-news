@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Wall Street traders drive stocks higher in the week of February 23, 2026, in anticipation of Nvidia's earnings results?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did traders hope that Nvidia's upcoming results would provide evidence that the outlook for artificial intelligence remains intact?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did stocks decline on February 23, 2026, as traders reacted negatively to Nvidia's earnings results?",
+    "a": "No"
+  },
+  {
+    "q": "Did Wall Street traders brace for Apple Inc.'s results on February 23, 2026, rather than Nvidia's?",
+    "a": "No"
+  },
+  {
+    "q": "Did traders expect Nvidia's results to signal that the outlook for artificial intelligence was deteriorating?",
+    "a": "No"
+  },
+  {
+    "q": "Were Wall Street traders bracing for Nvidia's results on February 23, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the stock market rally on February 23, 2026, driven by hopes regarding the future of artificial intelligence?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did traders on Wall Street drive stocks higher in February 2025 due to Nvidia's results?",
+    "a": "No"
+  },
+  {
+    "q": "Did traders hope that Nvidia's results would indicate that the outlook for artificial intelligence was intact?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did traders on Wall Street brace for Intel Corporation's results on February 23, 2026?",
+    "a": "No"
+  }
+]

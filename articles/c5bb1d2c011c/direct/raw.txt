@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did French President Emmanuel Macron announce a defensive mission to reopen the Strait of Hormuz on Monday, March 9, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US-Israeli strikes on Iran on February 28, 2026, trigger the regional war that led to the deployment of the Charles de Gaulle aircraft carrier?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did French President Emmanuel Macron visit Cyprus on March 9, 2026, to discuss regional security with Cypriot President Nikos Christodoulides and Greek Prime Minister Kyriakos Mitsotakis?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the European Union announce on March 9, 2026, that it was ready to enhance its operations to protect maritime traffic in the Red Sea?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the initial US-Israeli strikes on Iran in late February 2026 result in the death of Iranian Supreme Leader Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did French President Emmanuel Macron state that the mission to reopen the Strait of Hormuz would involve escorting container ships and tankers after the end of the hottest phase of the conflict?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian Supreme Leader Mojtaba Khamenei publicly endorse the US-Israeli strikes on Iran on March 9, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did US President Donald Trump express happiness with the appointment of Mojtaba Khamenei as Iran's successor on March 9, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did French President Emmanuel Macron claim that the conflict in the Middle East would likely last only a few hours after the February 28, 2026 strikes?",
+    "a": "No"
+  },
+  {
+    "q": "Did the European Union launch Operation Aspides in the Strait of Hormuz in 2024 to prevent attacks by Iran-backed Houthi rebel forces?",
+    "a": "No"
+  }
+]

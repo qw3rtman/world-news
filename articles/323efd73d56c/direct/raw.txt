@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iranian state media confirm that Supreme Leader Ali Khamenei was killed in an Israeli strike on Saturday, February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump celebrate Ali Khamenei's death on Truth Social, calling the killing \"justice\" for Americans?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump claim that U.S. intelligence played a direct role in tracking and targeting Ali Khamenei during the February 2026 operation?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Israeli military strike in February 2026 kill Iranian Defense Minister Aziz Nasirzadeh and IRGC commander Mohammad Pakpour?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mojtaba Khamenei, the son of the late Supreme Leader, survive the Israeli strikes in February 2026 according to intelligence assessments?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump endorse Ali Larijani as the legitimate successor to Ali Khamenei in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Israeli military strike in February 2026 kill former SPND chairman Reza Mozaffari-Nia and nuclear weapons research organization chairman Hossein Jabal Amelian?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's Assembly of Experts immediately select a new supreme leader within 40 days of Ali Khamenei's death in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian exiled former crown prince Reza Pahlavi call for Iranian security forces to join the nation and help ensure a stable transition in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Israeli military strike in February 2026 kill Iran's supreme national security council secretary Ali Larijani?",
+    "a": "No"
+  }
+]

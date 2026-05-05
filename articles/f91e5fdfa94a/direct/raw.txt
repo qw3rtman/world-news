@@ -1,0 +1,40 @@
+{
+  "q": "Did Brent crude oil close above $100 per barrel on Friday, March 13, 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did the International Energy Agency agree to release 400 million stockpiled barrels of oil in March 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did President Donald Trump issue a 30-day waiver for India to purchase sanctioned oil from Russia in March 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did Iran’s new supreme leader, Mojtaba Khamenei, vow to keep fighting in a message delivered via state television in March 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did WTI crude oil futures settle at $103.14 per barrel on Friday, March 13, 2026?",
+  "a": "No"
+}
+{
+  "q": "Did the International Energy Agency agree to release 100 million stockpiled barrels of oil in March 2026?",
+  "a": "No"
+}
+{
+  "q": "Did President Donald Trump issue a 60-day waiver for India to purchase sanctioned oil from Russia in March 2026?",
+  "a": "No"
+}
+{
+  "q": "Did Iran’s former supreme leader, Ayatollah Ali Khamenei, vow to keep fighting in a message delivered via state television in March 2026?",
+  "a": "No"
+}
+{
+  "q": "Did Brent crude oil futures rise by 10% during the single week ending March 13, 2026?",
+  "a": "No"
+}
+{
+  "q": "Did Amjad Bseisu, CEO of EnQuest, compare the current global oil supply reduction to the Arab embargo of the 1970s in March 2026?",
+  "a": "Yes"
+}

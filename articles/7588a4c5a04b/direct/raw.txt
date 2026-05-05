@@ -1,0 +1,22 @@
+{
+  "q": "Did Brent crude futures briefly hit $80 a barrel on Monday morning in March 2026?",
+  "a": "Yes",
+  "q": "Did oil prices rise above their earlier highs during the Monday morning trading session in March 2026?",
+  "a": "No",
+  "q": "Was the escalation of conflict in the Middle East cited as a driver for the crude oil price spike in March 2026?",
+  "a": "Yes",
+  "q": "Did the article report that the U.S.-Iran conflict had resulted in a ceasefire by March 2, 2026?",
+  "a": "No",
+  "q": "Did the article question whether crude oil prices could reach $120 a barrel in March 2026?",
+  "a": "Yes",
+  "q": "Did Brent crude futures hit $120 a barrel during the Monday morning session in March 2026?",
+  "a": "No",
+  "q": "Did oil prices dip below their earlier highs on Monday morning in March 2026?",
+  "a": "Yes",
+  "q": "Did the article attribute the crude oil price spike to supply disruptions in the North Sea in March 2026?",
+  "a": "No",
+  "q": "Did the conflict in the Middle East widen and escalate in March 2026?",
+  "a": "Yes",
+  "q": "Did Brent crude futures hit $80 a barrel on a Tuesday morning in March 2026?",
+  "a": "No"
+}

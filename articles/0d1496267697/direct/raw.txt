@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Japan’s consumer prices excluding fresh food rise by 2% from a year earlier in January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the January 2026 increase in Japan’s consumer prices excluding fresh food the smallest gain since January 2024?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the yen strengthen after the release of the January 2026 inflation data?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Ministry of Internal Affairs and Communications report that Japan’s consumer prices excluding fresh food rose by 2.4% in January 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Bank of Japan likely remain determined to raise the benchmark interest rate when the timing is right?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Japan’s consumer prices excluding fresh food rise by 2.4% in the month prior to January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the January 2026 inflation data released by the Bank of Japan?",
+    "a": "No"
+  },
+  {
+    "q": "Did the yen weaken after the data was released?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the January 2026 inflation reading match the median economist forecast?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Japan’s consumer prices excluding fresh food rise by 2% in February 2026?",
+    "a": "No"
+  }
+]

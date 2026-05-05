@@ -1,0 +1,22 @@
+{
+  "q": "Did France, Germany, and the UK issue a joint statement on March 1, 2026, expressing readiness to take defensive action against Iran?",
+  "a": "Yes",
+  "q": "Did the joint statement from France, Germany, and the UK in March 2026 characterize Iran's missile attacks as indiscriminate and disproportionate?",
+  "a": "Yes",
+  "q": "Did the joint statement from France, Germany, and the UK in March 2026 state that their defensive actions would potentially include destroying Iran’s capability to fire missiles and drones at their source?",
+  "a": "Yes",
+  "q": "Did the joint statement from France, Germany, and the UK in March 2026 express approval for Iran's attacks on countries not involved in initial US and Israeli military operations?",
+  "a": "No",
+  "q": "Did the joint statement from France, Germany, and the UK in March 2026 propose offensive action to conquer Iranian territory rather than defensive action?",
+  "a": "No",
+  "q": "Did the joint statement from France, Germany, and the UK in March 2026 specifically name Russia as a primary target for defensive action?",
+  "a": "No",
+  "q": "Did the joint statement from France, Germany, and the UK in March 2026 claim that Iran had launched drone attacks against the United States mainland?",
+  "a": "No",
+  "q": "Did the joint statement from France, Germany, and the UK in March 2026 indicate that they were ready to defend the interests of their allies in the Gulf region?",
+  "a": "Yes",
+  "q": "Did the joint statement from France, Germany, and the UK in March 2026 attribute the initial US and Israeli military operations to Iran?",
+  "a": "No",
+  "q": "Did the joint statement from France, Germany, and the UK in March 2026 report that the attacks were launched by Iran against countries in the region?",
+  "a": "Yes"
+}

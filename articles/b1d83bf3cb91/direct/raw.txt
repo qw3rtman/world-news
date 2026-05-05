@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did private equity firms Thoma Bravo and Hellman & Friedman evaluate a potential acquisition of FactSet in early 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did FactSet's share price drop by 39% over the six months leading up to March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Morningstar's share price fall by 27.6% since early September 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Gartner's share price decline by 29.5% since early September 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the deepening of the market selloff occur after Anthropic released an upgrade to its Claude Cowork AI tool in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did FactSet's enterprise-value-to-EBITDA ratio increase from 12 in 2026 to 30 in 2022?",
+    "a": "No"
+  },
+  {
+    "q": "Did FactSet's revenue growth in the quarter ending November 30, 2025, come primarily from acquiring new customers rather than price increases?",
+    "a": "No"
+  },
+  {
+    "q": "Did FactSet's market valuation drop from $17.5 billion a year prior to just over $8.4 billion in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did FactSet's shares jump 6% after Microsoft named it as a partner to develop new tech tools on February 24, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Morningstar CEO Kunal Kapoor tell shareholders that the company is well placed to benefit from the growth of AI?",
+    "a": "Yes"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "q": "Did the Israel Defense Forces begin preparations for a potential airstrike campaign in Lebanon in March 2026?",
+  "a": "Yes",
+  "q": "Did the Israel Defense Forces prepare for a potential ground operation on the Lebanese side of the border in March 2026?",
+  "a": "Yes",
+  "q": "Did the Israel Defense Forces prepare for a potential ground operation on the Israeli side of the border in March 2026?",
+  "a": "No",
+  "q": "Did the Israel Defense Forces prepare for a potential naval blockade of Lebanon in March 2026?",
+  "a": "No",
+  "q": "Was the stated purpose of the Israel Defense Forces' preparations in March 2026 to establish a protective buffer between Hezbollah and Israel's northern communities?",
+  "a": "Yes",
+  "q": "Was the stated purpose of the Israel Defense Forces' preparations in March 2026 to establish a protective buffer between Hezbollah and Israel's southern communities?",
+  "a": "No",
+  "q": "Did the Israel Defense Forces begin preparations for a potential airstrike campaign in Lebanon in February 2026?",
+  "a": "No",
+  "q": "Did the Israel Defense Forces begin preparations for a potential cyber warfare campaign in Lebanon in March 2026?",
+  "a": "No",
+  "q": "Did the Israel Defense Forces prepare for a potential ground operation on the Lebanese side of the border in February 2026?",
+  "a": "No",
+  "q": "Did the Israel Defense Forces prepare for a potential airstrike campaign in Syria in March 2026?",
+  "a": "No"
+}

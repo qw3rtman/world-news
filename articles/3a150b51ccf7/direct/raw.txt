@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Texas Attorney General Ken Paxton lead incumbent Senator John Cornyn by three percentage points in a Public Policy Polling survey commissioned by the Texas Justice Fund in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the 2026 Texas Republican U.S. Senate primary advance to a runoff because neither candidate won a majority of votes in the initial election?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Public Policy Polling survey of likely runoff voters conducted from March 5 to March 6, 2026, report a margin of error of 3.9 percent?",
+    "a": "No"
+  },
+  {
+    "q": "Did Senator John Cornyn lead Ken Paxton 73 to 16 percent among voters who disapproved of President Donald Trump in the Public Policy Polling survey?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did The Atlantic report that President Donald Trump was expected to endorse Ken Paxton in the 2026 Texas Republican U.S. Senate runoff?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Texas Public Opinion Research poll conducted from March 7 to March 8, 2026, show Ken Paxton leading John Cornyn 49 percent to 41 percent?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the Texas Justice Fund described as a 501(c)(3) organization focused on protecting voting rights and fair elections?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ken Paxton characterize John Cornyn as a coward who is silent about abolishing the filibuster in a post on X on Tuesday?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did John Cornyn accuse Ken Paxton of supporting child mutilation surgery in his statement on X on Wednesday?",
+    "a": "No"
+  },
+  {
+    "q": "Is the 2026 Texas Republican U.S. Senate runoff election scheduled to take place on May 26, 2026?",
+    "a": "Yes"
+  }
+]

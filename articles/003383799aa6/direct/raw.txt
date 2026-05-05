@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump explicitly state that overthrowing Iran's government was his top priority during his remarks at the White House on Monday, March 2, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu call on Iran's citizens to take to the streets and overthrow their rulers in remarks to Fox News on Monday night, March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Defense Secretary Pete Hegseth describe the military operation against Iran as a \"so-called regime-change war\" during a press conference on Monday, March 2, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the USS Gerald Ford aircraft carrier depart the Caribbean for the Mediterranean on February 12, 2026, the day after Prime Minister Netanyahu's meeting with President Trump?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the primary votes in the battleground states of Texas and North Carolina begin on Monday, March 3, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did a Reuters/Ipsos poll indicate that only one in four Americans backed U.S. strikes on Iran as of early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did former U.S. Ambassador Dan Shapiro state that Prime Minister Netanyahu ultimately decides when the war against Iran ends?",
+    "a": "No"
+  },
+  {
+    "q": "Did gas prices in the U.S. rise by 11 cents per gallon during the week leading up to March 4, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu meet with President Trump at Mar-a-Lago in Palm Beach on February 11, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Palestinian health officials report that at least 72,000 people were killed in Gaza during the military campaign that began in 2023?",
+    "a": "Yes"
+  }
+]

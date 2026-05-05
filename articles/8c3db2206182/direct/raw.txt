@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Brent crude oil prices hit $115 a barrel on Thursday morning following Israel’s strike on Iran’s South Pars natural gas field?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump publicly state that the United States had prior knowledge of Israel’s strike on Iran’s South Pars natural gas field?",
+    "a": "No"
+  },
+  {
+    "q": "Did the White House rule out imposing a ban on U.S. crude oil and gas exports to help ease surging energy prices?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump confirm that he was deploying thousands of U.S. troops to the Middle East in response to the conflict?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israel carry out strikes against Iranian naval targets in the Caspian Sea for the first time during the conflict?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Senate vote to approve a resolution aimed at reining in the President’s war powers regarding the conflict with Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Trump administration bypass Congress to expedite the sale of billions of dollars of weapons to the United Arab Emirates and Kuwait?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did former Trump administration counterterrorism chief Joe Kent state that there was intelligence suggesting Iran was planning a large-scale sneak attack similar to 9/11?",
+    "a": "No"
+  },
+  {
+    "q": "Did Qatar order Iran’s military and security attachés to leave the country within 24 hours after its Ras Laffan energy hub was struck?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Defense Secretary Pete Hegseth indicate a definitive timeline for when the war with Iran would end during his Pentagon press briefing?",
+    "a": "No"
+  }
+]

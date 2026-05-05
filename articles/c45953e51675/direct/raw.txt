@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S.-Israeli strikes on Iran disrupt maritime traffic through the Strait of Hormuz in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran account for 100% of Brazil's urea imports in 2025 according to data from consultancy Agrinvest?",
+    "a": "No"
+  },
+  {
+    "q": "Did Brazilian farmers begin planting the 2026/2027 crop cycle in September 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Egypt account for 40% of global urea supplies in 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran serve as the main destination for Brazil's corn exports last year, purchasing approximately 9 million tons?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Russia account for an estimated 16% of global urea supplies in 2024?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the shipping agency Alphamar Agencia Maritima report that ten ships were set to leave for Iran with more than 600,000 tons of Brazilian soybeans in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did China account for about 8% of global urea supplies in 2024?",
+    "a": "No"
+  },
+  {
+    "q": "Did Francisco Vieira, director at consultancy Agroconsult, state that nothing was expected to come from Iran due to potential bombing of factories in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did government data show that shipments from Iran represented less than 2.5% of Brazil's total urea imports last year?",
+    "a": "Yes"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump warn Iran against retaliation on Truth Social in March 2026 after the killing of Ayatollah Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Ayatollah Ali Khamenei killed by a U.S. airstrike in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Iranian government announce 40 days of mourning following the death of its supreme leader in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the joint U.S.-Israeli military operation in March 2026 receive prior approval from the U.S. Congress?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian state media report that an airstrike hit a girls' primary school in southern Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the International Atomic Energy Agency confirm in March 2026 that Iran had resumed uranium enrichment prior to the strikes?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Jordanian government report downing 49 drones and ballistic missiles in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump confirm in March 2026 that the strike killing Ayatollah Ali Khamenei was carried out by Israel?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. and Israel name their joint military operation \"Epic Fury\" and \"Roaring Lion\" respectively in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Bahraini government report in March 2026 that an Iranian airstrike hit the U.S. naval base housing the Fifth Fleet?",
+    "a": "Yes"
+  }
+]

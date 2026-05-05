@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the indirect negotiations between Iran and the United States in Geneva in February 2026 result in a signed agreement?",
+    "a": "No"
+  },
+  {
+    "q": "Did Oman's Foreign Minister Badr al-Busaidi mediate the talks between Iran and the United States in Geneva in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian Foreign Minister Abbas Araghchi state that Iran was prepared to halt its uranium enrichment program during the February 2026 talks?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump demand that Iran roll back its long-range missile program as part of the February 2026 negotiations?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the next round of technical-level talks between the United States and Iran take place in Washington, D.C. in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Steve Witkoff head the U.S. delegation during the indirect negotiations in Geneva in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israel launch a 12-day war against Iran in June 2025 that caused the collapse of previous negotiation rounds?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran admit to the International Atomic Energy Agency that it had restarted its nuclear weapons program in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Secretary of State Marco Rubio state that Iran was actively enriching uranium at the time of the February 2026 talks?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran briefly halt traffic in the Strait of Hormuz during the previous round of talks before February 2026?",
+    "a": "Yes"
+  }
+]

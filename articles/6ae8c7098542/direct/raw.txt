@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did European Council President António Costa state on Tuesday that Russia was the only winner in the Iran war?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Russian President Vladimir Putin suggest during a Monday meeting at the Kremlin that the European Union would rethink its long-term energy cooperation with Moscow?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Strait of Hormuz experience a virtual halt in shipping traffic as of Tuesday, March 10, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Kremlin spokesperson Dmitry Peskov confirm that the lifting of sanctions on specific countries was discussed in detail during the phone call between President Donald Trump and President Vladimir Putin?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran's new supreme leader Mojtaba Khamenei survive the first day of the U.S.-Israeli operation in Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. national average price for a gallon of gas hit $3.54 amid the war in Iran as of March 10, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did pro-Kremlin TV host Olga Skabeyeva claim on Tuesday that people in Estonia were walking because public transport had run out of fuel?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the discount Russia applies to its oil sales increase significantly since the crisis in Iran began, according to analyst Petras Katinas?",
+    "a": "No"
+  },
+  {
+    "q": "Did the first phone call between President Donald Trump and President Vladimir Putin since December 2025 occur shortly before Trump's comments on lifting sanctions?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did John Lough, head of foreign policy at the New Eurasian Strategies Centre, characterize Russia's role in the Middle East conflict as highly relevant and influential?",
+    "a": "No"
+  }
+]

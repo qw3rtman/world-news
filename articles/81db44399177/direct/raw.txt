@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iran’s Ministry of Defense confirm that three people from Pakistan, Nepal, and Bangladesh were killed in the United Arab Emirates during the retaliatory strikes on March 1, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian missiles strike a residential building in Jerusalem, Israel, resulting in six deaths and more than 20 injuries on Sunday, March 1, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ali Larijani, head of Iran’s National Security Council, state that Iran intended to attack civilian infrastructure in Gulf countries rather than only US military bases?",
+    "a": "No"
+  },
+  {
+    "q": "Did Pope Leo XIV express deep concern about the conflict and call for an end to the violence in the Middle East in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Israel Defense Forces confirm that it had struck a girls’ school in Minab, Iran, killing 148 people on Saturday, February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did China’s Foreign Minister Wang Yi condemn the US-Israeli attack on Iran as a violation of international law and call for an immediate cessation of military action in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the German shipping group Hapag-Lloyd permanently close the Strait of Hormuz to all vessel transit starting in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Grand Ayatollah Makarem Shirazi issue a religious order for Muslims to wage jihad against the United States and Israel following the death of Ayatollah Ali Khamenei in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Qatar Airways announce that its flight operations would remain suspended indefinitely starting in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did US President Donald Trump warn Iran that continued retaliatory strikes would be met with strong force from the United States in early March 2026?",
+    "a": "Yes"
+  }
+]

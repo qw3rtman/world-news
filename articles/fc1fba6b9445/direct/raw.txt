@@ -1,0 +1,22 @@
+{
+  "q": "Did the article titled 'The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video' provide specific factual details about election results on March 4, 2026?",
+  "a": "No",
+  "q": "Were Dan Merica and Matthew Choi identified as the authors of the analysis section in the article published on March 4, 2026?",
+  "a": "Yes",
+  "q": "Did the article published on March 4, 2026, state that the 2026 Texas Republican U.S. Senate primary runoff occurred in February 2026?",
+  "a": "No",
+  "q": "Did the article published on March 4, 2026, include a detailed breakdown of vote counts for specific candidates?",
+  "a": "No",
+  "q": "Was the publication date of the article containing the analysis by Dan Merica and Matthew Choi March 4, 2026?",
+  "a": "Yes",
+  "q": "Did the article published on March 4, 2026, report that U.S. Senator Ted Cruz endorsed Ken Paxton in the 2026 Texas Republican U.S. Senate primary?",
+  "a": "No",
+  "q": "Did the article published on March 4, 2026, explicitly list the final winner of the 2026 Texas Republican U.S. Senate primary?",
+  "a": "No",
+  "q": "Did the article published on March 4, 2026, indicate that there was likely more information to be learned as results continued coming in?",
+  "a": "Yes",
+  "q": "Did the article published on March 4, 2026, claim that Rep. Eric Burlison publicly endorsed U.S. Senator John Cornyn in the 2026 Texas Republican U.S. Senate primary?",
+  "a": "No",
+  "q": "Did the article published on March 4, 2026, contain substantive news content beyond a header and author attribution?",
+  "a": "No"
+}

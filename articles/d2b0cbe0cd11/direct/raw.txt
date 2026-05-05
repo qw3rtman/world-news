@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump lash out at U.S. allies over Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Germany’s defense minister endorse building an international coalition against Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Treasury Secretary Janet Yellen walk back President Donald Trump’s remarks tying his upcoming China visit to the Iran conflict in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Illinois primaries showcase the rise of a super PAC funded primarily by fossil fuel industries in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Missouri Republican Eric Schmitt unveil Trump-approved changes to a voter ID bill in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump vow to take over Cuba in a hostile manner in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did California Governor Gavin Newsom call FCC chairman’s threats ‘sick’ in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did an Israeli official confirm that Israel is running critically low on interceptors in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Nvidia expect $1 trillion in chip orders through 2027 in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did EV sales surge in the United States by 21% year-on-year in February 2026?",
+    "a": "No"
+  }
+]

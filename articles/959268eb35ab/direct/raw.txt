@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump launch the \"Shield of the Americas\" coalition during a summit in Miami, Florida, in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state that he was learning the languages of the Latin American leaders attending the March 2026 summit?",
+    "a": "No"
+  },
+  {
+    "q": "Did the January 2026 capture of Venezuelan President Nicolas Maduro serve as a culmination of the U.S. pressure campaign cited by U.S. President Donald Trump?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Secretary of State Marco Rubio deliver remarks in English and Spanish at the March 2026 summit?",
+    "a": "No"
+  },
+  {
+    "q": "Did Salvadoran President Nayib Bukele attend the March 2026 \"Shield of the Americas\" summit?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Argentine President Javier Milei attend the March 2026 summit?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump single out Mexico as the center of cartel activity during the March 2026 summit?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump explicitly mention China by name when warning against hostile foreign influence in the Western Hemisphere during the March 2026 summit?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Secretary of Defense Pete Hegseth joke that he \"only speaks American\" during the March 2026 summit?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Honduran President Nasry Asfura win his election with the backing of U.S. President Donald Trump?",
+    "a": "No"
+  }
+]

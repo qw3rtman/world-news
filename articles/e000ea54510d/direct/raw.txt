@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Victory Capital Holdings Inc. offer to acquire Janus Henderson at a price of $57.04 per share in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Nelson Peltz’s Trian Fund Management the entity that made the previous offer for Janus Henderson before Victory Capital Holdings Inc.?",
+    "a": "Yes"
+  },
+  {
+    "q": "Would Janus Henderson shareholders own approximately 38% of the combined company under Victory Capital Holdings Inc.'s proposal?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the proposed combined company have an enterprise value of approximately $16 billion according to the February 2026 statement?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the acquisition proposal made by Victory Capital Holdings Inc. structured as an all-cash deal?",
+    "a": "No"
+  },
+  {
+    "q": "Did Nelson Peltz’s Trian Fund Management offer a higher price per share than Victory Capital Holdings Inc. in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Would Janus Henderson shareholders own a majority stake (more than 50%) of the combined company under the proposed deal?",
+    "a": "No"
+  },
+  {
+    "q": "Was the previous offer for Janus Henderson made by Blackstone Group Inc. before Victory Capital Holdings Inc.?",
+    "a": "No"
+  },
+  {
+    "q": "Did the proposed transaction result in an enterprise value of $160 billion for the combined entity?",
+    "a": "No"
+  },
+  {
+    "q": "Was the acquisition bid by Victory Capital Holdings Inc. published in March 2026?",
+    "a": "No"
+  }
+]

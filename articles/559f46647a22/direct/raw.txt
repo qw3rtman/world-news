@@ -1,0 +1,43 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump state in March 2026 that ending the war with Iran would be a mutual decision with Israeli Prime Minister Benjamin Netanyahu?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump make the statement about the mutual decision to end the war with Iran during a press conference at the White House in March 2026?",
+    "a": "No"
+  },
+  {
+    {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu have input on resolving the conflict with Iran according to U.S. President Donald Trump in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state in March 2026 that he would make the decision to end the war with Iran unilaterally without considering other factors?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump speak by phone with The Times of Israel regarding the war with Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump speak by phone with Reuters regarding the war with Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump say he would make the decision to end the war with Iran at the right time in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state in March 2026 that the decision to end the war with Iran would be made solely by the U.S. Congress?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump mention that everything would be taken into account regarding the decision to end the war with Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state in March 2026 that Israeli Prime Minister Benjamin Netanyahu would have no input on resolving the conflict with Iran?",
+    "a": "No"
+  }
+]

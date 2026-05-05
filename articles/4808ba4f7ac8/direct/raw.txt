@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Hezbollah fighters begin referring to a future confrontation as the 'last war with Israel' following the inconclusive end of the 2006 conflict?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Hezbollah leader Sayyed Hassan Nasrallah state in his first speech after the October 8, 2023 launch that the conflict was the final confrontation?",
+    "a": "No"
+  },
+  {
+    "q": "Did the assassination of Iranian Supreme Leader Ali Khamenei change Hezbollah's calculus regarding the conflict with Israel?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the decision to join the battle on March 2, 2026, originate from Hezbollah’s political leadership?",
+    "a": "No"
+  },
+  {
+    "q": "Did a senior Lebanese official contact Hezbollah’s political leaders to ask if they were responsible for the initial rocket fire on March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Sheikh Naim Qassem, who was elected secretary-general in October 2024, immediately threaten revenge for the assassination of Ali Khamenei?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Lebanese cabinet ban all of Hezbollah’s military and security activities following the launching of rockets into Israel?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Hezbollah fire precision-guided missiles at an Israeli satellite communications station in the Ella Valley on March 9, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israel deploy large numbers of ground forces into Lebanon during the Sixty-Six-Day War in October and November 2024?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israel issue large-scale evacuation warnings for the southern suburbs of Beirut on March 5, 2026?",
+    "a": "Yes"
+  }
+]

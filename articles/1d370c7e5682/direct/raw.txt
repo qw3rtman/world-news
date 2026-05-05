@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the Kremlin initially assume that Russian forces would seize Ukraine in a matter of days when the full-scale invasion began in 2022?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump claim during his 2024 presidential campaign that he could end the war in a day upon returning to the White House?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the International Criminal Court issue an arrest warrant for Russian President Vladimir Putin in March 2023 on charges of war crimes related to the deportation of children?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Center for Strategic and International Studies estimate that Russia has suffered more total losses than any major power in any conflict since World War II?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.N. Human Rights Monitoring Mission confirm that Russian attacks killed more than 15,000 Ukrainian civilians and injured another 41,000?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the International Organization for Migration report that more than 5.3 million Ukrainians have left the country as refugees, while only about 3.7 million were displaced internally?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Trump administration increase U.S. military aid to Ukraine by 99% during the year it sponsored peace talks?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Kremlin successfully repatriate approximately 2,000 abducted Ukrainian children through an initiative led by President Volodymyr Zelenskyy?",
+    "a": "No"
+  },
+  {
+    "q": "Did the European countries issuing a report on Alexei Navalny's death conclude that he died from natural causes rather than a toxin?",
+    "a": "No"
+  },
+  {
+    "q": "Did Russian forces gain less than 1.5% of additional Ukrainian territory since 2023 despite having an advantage in men and matériel?",
+    "a": "No"
+  }
+]

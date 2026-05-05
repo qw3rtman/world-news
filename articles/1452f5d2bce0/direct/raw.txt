@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did silver futures prices rise by Rs. 1,037 on Thursday, February 19, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did silver futures reach Rs. 2,45,305 per kg on Thursday, February 19, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the global price of silver trading at $78.32 per ounce in New York on Thursday, February 19, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did silver prices fall by Rs. 1,037 on Thursday, February 19, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the global price of silver trading at $75.00 per ounce in New York on Thursday, February 19, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did silver futures rise by Rs. 1,037 to Rs. 2,45,305 per kg on Friday, February 20, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did silver prices rise due to weak global trends on Thursday, February 19, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the global price of silver trading 1.46% lower at $78.32 per ounce in New York on Thursday, February 19, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did silver futures reach Rs. 2,45,305 per kg in spot trade on Thursday, February 19, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did silver prices rise by Rs. 1,037 to Rs. 2,45,305 per kg in futures trade on Wednesday, February 18, 2026?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "q": "Did the article published on March 5, 2026, suggest that Paramount shifting away from larger MLB or NHL packages could create opportunities for Versant to gain live sports inventory?",
+  "a": "Yes",
+  "q": "Is Jeff Shell identified in the March 5, 2026 article as the President of Paramount?",
+  "a": "Yes",
+  "q": "Does the March 5, 2026 article state that Jeff Shell's future role at Paramount is secure regardless of whether the deal with Warner Bros. Discovery is approved?",
+  "a": "No",
+  "q": "Does the March 5, 2026 article indicate that Warner Bros. Discovery's TNT Sports has acquired sports rights?",
+  "a": "Yes",
+  "q": "Does the March 5, 2026 article suggest that Paramount wants to acquire the same type of sports rights that Warner Bros. Discovery's TNT Sports has acquired?",
+  "a": "No",
+  "q": "Did the March 5, 2026 article identify ESPN as a company that may have opportunities to gain live sports inventory if Paramount shifts away from larger MLB or NHL packages?",
+  "a": "No",
+  "q": "Is the merger discussed in the March 5, 2026 article between Paramount and Warner Bros. Discovery?",
+  "a": "Yes",
+  "q": "Does the March 5, 2026 article state that the potential merger between Paramount and Warner Bros. Discovery could change sports rights strategy?",
+  "a": "Yes",
+  "q": "Does the March 5, 2026 article identify Jeff Shell as the CEO of Warner Bros. Discovery?",
+  "a": "No",
+  "q": "Does the March 5, 2026 article mention the NHL as one of the leagues whose packages Paramount might shift away from?",
+  "a": "Yes"
+}

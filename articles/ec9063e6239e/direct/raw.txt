@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the Assembly of Experts name Mojtaba Khamenei as the next supreme leader of Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Mojtaba Khamenei elected to a government position prior to his appointment as supreme leader?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump publicly criticize Mojtaba Khamenei’s appointment as supreme leader in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran’s Revolutionary Guard issue a statement expressing support for Mojtaba Khamenei’s selection in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Ayatollah Ali Khamenei killed by an Israeli airstrike on March 1, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the war cause oil prices to rise above $100 a barrel in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States bomb Iran’s key nuclear sites during the 12-day Israel-Iran war in June 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Saudi Arabia confirm that Iran had implemented its statement to halt attacks on Gulf Arab states in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Arab League chief criticize Iran for its attacks on neighbors hosting U.S. forces in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. military report that seven soldiers were killed by Iranian attacks on troops in Saudi Arabia by March 2026?",
+    "a": "Yes"
+  }
+]

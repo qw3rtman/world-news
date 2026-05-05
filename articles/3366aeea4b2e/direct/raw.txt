@@ -1,0 +1,22 @@
+{
+  "q": "Did the Cuban coast guard kill four people on a U.S.-registered speedboat in February 2026?",
+  "a": "Yes",
+  "q": "Did the Cuban coast guard kill four people on a U.S.-registered speedboat in March 2026?",
+  "a": "No",
+  "q": "Did the Cuban coast guard kill four people on a U.S.-registered speedboat after the individuals opened fire?",
+  "a": "Yes",
+  "q": "Did the Cuban coast guard kill four people on a U.S.-registered speedboat after the individuals surrendered?",
+  "a": "No",
+  "q": "Did CBS News national correspondent Lilia Luciano report on the incident involving the Cuban coast guard and the U.S. speedboat in February 2026?",
+  "a": "Yes",
+  "q": "Did CBS News national correspondent John Cornyn report on the incident involving the Cuban coast guard and the U.S. speedboat in February 2026?",
+  "a": "No",
+  "q": "Was the speedboat involved in the February 2026 incident registered in the United States?",
+  "a": "Yes",
+  "q": "Was the speedboat involved in the February 2026 incident registered in Cuba?",
+  "a": "No",
+  "q": "Did the Cuban coast guard kill four people on board the speedboat in the incident reported in February 2026?",
+  "a": "Yes",
+  "q": "Did the Cuban coast guard kill three people on board the speedboat in the incident reported in February 2026?",
+  "a": "No"
+}

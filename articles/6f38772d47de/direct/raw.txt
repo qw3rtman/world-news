@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did CBS News project that Texas Attorney General Ken Paxton and U.S. Senator John Cornyn would advance to a runoff in the Texas Republican Senate primary in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump endorse U.S. Senator John Cornyn in the Texas Republican Senate primary before the March 2026 election?",
+    "a": "No"
+  },
+  {
+    "q": "Was U.S. Representative Wesley Hunt eliminated from the Texas Republican Senate primary race before the March 2026 runoff?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Texas Attorney General Ken Paxton win the March 2026 Texas Republican Senate primary outright without needing a runoff?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Texas Legislature impeach Texas Attorney General Ken Paxton in 2023 on 20 counts including bribery and abuse of public trust?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Senator John Cornyn face a serious primary challenger for the first time in his career during the 2026 Texas Republican Senate primary?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Texas Attorney General Ken Paxton's wife, Angela Paxton, vote in his 2023 impeachment trial in the Texas State Senate?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Texas State Senate convict Texas Attorney General Ken Paxton on a single count during his 2023 impeachment trial, resulting in his removal from office?",
+    "a": "No"
+  },
+  {
+    "q": "Did Texas Attorney General Ken Paxton file a lawsuit in 2020 to contest election results in four states won by former President Joe Biden?",
+    "a": "Yes"
+  },
+  {
+    "q": "Were the securities fraud charges against Texas Attorney General Ken Paxton dismissed in 2015 after he was convicted and sentenced to prison?",
+    "a": "No"
+  }
+]

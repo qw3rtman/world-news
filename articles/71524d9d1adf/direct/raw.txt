@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did analysts raise their forecast for Brent crude oil to average $63.85 per barrel in 2026 in the February survey?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. crude oil forecasts in the February survey project an average price of $60.38 per barrel for 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Norbert Rucker, head of economics at Julius Baer, state that Iran tensions are expected to be temporary and that focus should return to supply glut?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did analysts estimate the potential market surplus for the later part of 2026 to range from 0.8 million to 3.5 million barrels per day?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did OPEC+ producers plan to increase oil output by 137,000 barrels per day in April to end a three-month pause in production increases?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump mention a possible attack on Iran in his State of the Union speech during the week of February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the February survey of economists forecast that Brent crude would average $74.63 per barrel in 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Cyrus De La Rubia of Hamburg Commercial Bank state that China has recently added around 5 million barrels per day to its reserves?",
+    "a": "No"
+  },
+  {
+    "q": "Did most analysts expect U.S. oil production to grow significantly by more than 2 million barrels per day in 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Surabhi Menon of the Economist Intelligence Unit attribute downward pressure on oil demand growth primarily to a surge in global oil supply?",
+    "a": "No"
+  }
+]

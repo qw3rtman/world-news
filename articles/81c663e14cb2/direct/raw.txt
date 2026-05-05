@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump state in March 2026 that the U.S. requested a delay of his trip to China by 'a month or so' due to the war in Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Chinese President Xi Jinping confirm in March 2026 that he had cancelled his scheduled meeting with President Donald Trump in Beijing?",
+    "a": "No"
+  },
+  {
+    "q": "Did Treasury Secretary Scott Bessent state in March 2026 that any delay in President Donald Trump's trip to China was not a tactic to pressure Beijing regarding the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Energy Secretary Chris Wright state in March 2026 that he expected China to be a 'hostile partner' in reopening the Strait of Hormuz?",
+    "a": "No"
+  },
+  {
+    "q": "Did the war in Iran lead to the Strait of Hormuz being essentially closed in March 2026 after several ships came under attack?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump list Germany as one of the countries he hoped would help secure the Strait of Hormuz in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did China condemn the U.S. and Israeli strikes on Iran as being in violation of international law in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Associated Press report in March 2026 that China imports approximately 90 percent of its oil from the Middle East?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump claim in March 2026 that the U.S. had destroyed 28 ships capable of laying mines?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did a spokesperson for the Chinese Embassy in Washington state in March 2026 that China wanted hostilities to cease while explicitly addressing President Donald Trump's request for help?",
+    "a": "No"
+  }
+]

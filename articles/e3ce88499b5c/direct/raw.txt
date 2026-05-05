@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the White House confirm that at least one American citizen was killed by the Cuban government on February 26, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Were the American citizens aboard a stolen speedboat that entered Cuban waters on Wednesday, February 25, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the occupants of the speedboat allegedly open fire on the Cuban military before being killed?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the speedboat killed by the United States Coast Guard rather than Cuba's coast guard?",
+    "a": "No"
+  },
+  {
+    "q": "Did the incident result in the death of eight people rather than four people?",
+    "a": "No"
+  },
+  {
+    "q": "Did the White House confirm the deaths to CBS News on Friday, February 27, 2026, rather than Thursday, February 26, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the speedboat legally registered and not stolen when it entered Cuban waters?",
+    "a": "No"
+  },
+  {
+    "q": "Did the American citizens die in the waters of the United States rather than Cuban waters?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Cuban government deny any involvement in the deaths of the Americans aboard the speedboat?",
+    "a": "No"
+  },
+  {
+    "q": "Was the incident confirmed by the White House on Thursday, February 26, 2026?",
+    "a": "Yes"
+  }
+]

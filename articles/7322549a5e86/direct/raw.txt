@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did French drugmaker Servier announce the acquisition of U.S.-based Day One Biopharmaceuticals on March 6, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the proposed acquisition price for Day One Biopharmaceuticals approximately $2.5 billion?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the acquisition grant Servier access to Ojemda, which is the only U.S. Food and Drug Administration-approved monotherapy for pediatric low-grade glioma?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Ojemda currently being tested as a first-line therapy with trial results expected in the second half of 2027?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Servier planning to fund the transaction through a new debt issuance rather than existing cash and investments?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Senator Ted Cruz publicly endorse Servier's acquisition strategy for rare cancers in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is the acquisition expected to close in the fourth quarter of 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Does Ojemda compete with Novartis' combination therapy Tafinlar and Mekinist, which requires daily dosing?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Day One Biopharmaceuticals shares jump 65% in morning trade following the announcement of a $10 billion offer?",
+    "a": "No"
+  },
+  {
+    "q": "Is Servier's target for annual revenue by 2030 set at 10 billion euros?",
+    "a": "Yes"
+  }
+]

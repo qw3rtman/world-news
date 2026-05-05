@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Ayatollah Ali Khamenei die in US-Israeli strikes that occurred on a Saturday in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Pezeshkian announce that he, along with two other top officials, would lead Iran during a transitional period following the supreme leader's death?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ali Larijani, the head of the Supreme National Security Council, effectively run the country for Khamenei starting in January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mojtaba Khamenei publicly speak about his potential succession to the role of supreme leader immediately after the strikes began?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump explicitly name Reza Pahlavi as the specific individual he intended to lead Iran after the regime's fall?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Islamic Revolutionary Guard Corps and police forces kill tens of thousands of protesters during a crackdown in January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Gholamhossein Mohseni Ejei, the judiciary chief, serve as the head of the Supreme National Security Council during the transition?",
+    "a": "No"
+  },
+  {
+    "q": "Did Reza Pahlavi spend most of his adult life living in the United States before the March 2026 events?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Women, Life, Freedom movement begin its protests in 2024 rather than 2022?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump tell CBS News that he knew exactly who was running Iran but refused to disclose that person's identity?",
+    "a": "Yes"
+  }
+]

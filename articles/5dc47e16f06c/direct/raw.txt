@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did oil prices rise by 5.6% in extended trade after Iran attacked energy facilities in the Middle East in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Qatar's state oil and gas company report that the Ras Laffan Industrial City suffered extensive damage from Iranian missile strikes in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump's administration announce a 60-day waiver of the Jones Act shipping law in March 2026 to allow foreign-flagged vessels to move fuel between U.S. ports?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iraq's North Oil Company resume crude exports from the Kirkuk fields to Turkey's Ceyhan port in March 2026 after an agreement between Baghdad and the Kurdistan Regional Government?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Energy Information Administration report that U.S. crude inventories fell by 6.2 million barrels in the week ended March 13, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Saudi Arabia confirm that it intercepted and destroyed multiple ballistic missiles launched toward Riyadh in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. West Texas Intermediate crude prices rise by 5.6% in post-settlement trading in March 2026, matching the gain seen in Brent futures?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israel acknowledge immediate responsibility for the strike on Iran's South Pars gas field in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the war between Iran and the U.S./Israel halt shipments via the Strait of Hormuz, which handles 20% of global oil and LNG supply, in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. administration lift federal smog-cutting restrictions on winter-blend gasoline in March 2026 to help control rising fuel prices?",
+    "a": "No"
+  }
+]

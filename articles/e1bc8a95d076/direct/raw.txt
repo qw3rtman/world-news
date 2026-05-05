@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Russian officials state in late February 2026 that they consider it pointless to continue US-led peace talks with Ukraine unless Kyiv is willing to cede territory?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Russian officials indicate in late February 2026 that they would likely walk away from peace talks if Ukrainian President Volodymyr Zelenskiy failed to make a territorial concession?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did two people close to the Kremlin provide information to Bloomberg News in late February 2026 regarding Russia's stance on the upcoming peace talks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Bloomberg News report published on February 28, 2026, state that peace talks between Russia and Ukraine were planned for the following week?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the two people close to the Kremlin who spoke to Bloomberg News in late February 2026 agree to be publicly identified by name?",
+    "a": "No"
+  },
+  {
+    "q": "Did Russian officials in late February 2026 state that they were willing to continue US-led peace talks with Ukraine without any territorial concessions from Kyiv?",
+    "a": "No"
+  },
+  {
+    "q": "Did the peace talks between Russia and Ukraine planned for early March 2026 take place in Moscow rather than a neutral location?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Bloomberg News report published on February 28, 2026, claim that Ukrainian President Volodymyr Zelenskiy had already agreed to cede territory to Russia?",
+    "a": "No"
+  },
+  {
+    "q": "Did the two people close to the Kremlin who spoke to Bloomberg News in late February 2026 attribute their statements to official Kremlin policy documents released that day?",
+    "a": "No"
+  },
+  {
+    "q": "Did Russian officials in late February 2026 state that they were prepared to halt peace talks unless Ukraine ceded land to reach a deal?",
+    "a": "Yes"
+  }
+]

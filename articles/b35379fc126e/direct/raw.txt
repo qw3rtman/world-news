@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the Israeli military strike several Iranian fuel sites in the conflict described in the article published on March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran’s de facto leader vow to seek vengeance for the killing of the nation’s supreme leader in the events reported on March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump witness the return of the bodies of six U.S. service members in the events reported on March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did an Israeli strike hit near Mehrabad Airport in Tehran, creating fires and pillars of smoke, in the conflict reported on March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did a federal judge rule that Kari Lake’s appointment to oversee the parent agency of Voice of America was invalid in the ruling reported on March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Israeli military strike several Iranian nuclear enrichment facilities in the conflict described in the article published on March 2, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump witness the return of the bodies of twelve U.S. service members in the events reported on March 2, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did an Israeli strike hit near Ben Gurion Airport in Tel Aviv, creating fires and pillars of smoke, in the conflict reported on March 2, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did a federal judge rule that Kari Lake’s appointment to oversee the parent agency of Voice of America was valid in the ruling reported on March 2, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did volunteers hand out meals to displaced people and refugees at a community kitchen in Tehran in the events reported on March 2, 2026?",
+    "a": "No"
+  }
+]

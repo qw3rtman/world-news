@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the Israeli and U.S. war on Iran begin with airstrikes on the home and offices of Supreme Leader Ali Khamenei in the conflict described in the article published on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article state that the premise of the Israeli and U.S. strikes was to achieve regime collapse similar to what happened in Libya after Muammar al-Qaddafi?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Guardian Council in Iran's political system take on the task of selecting and supervising the supreme leader?",
+    "a": "No"
+  },
+  {
+    "q": "Did Article 111 of Iran's constitution stipulate that authority transfers immediately to an interim council composed of the president, the head of the judiciary, and a senior cleric selected through the Expediency Council if the supreme leader dies?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Islamic Revolutionary Guard Corps (IRGC) officially select the supreme leader according to the article?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Ebrahim Raisi die in a helicopter crash in 2024, which the article describes as a practice run for handling sudden leadership changes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Assembly of Experts make the real decisions regarding succession during the same timeframe as the events described in the article, rather than just voting officially?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ayatollah Ruhollah Khomeini eliminate the supreme authority during the 1979 revolution to avoid past patterns of collapse?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article state that the constitution lists qualifications for the next supreme leader but does not limit the choice to a strict religious path?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Expediency Council establish the task of guarding against political drift and keeping laws in line with Islamic principles?",
+    "a": "No"
+  }
+]

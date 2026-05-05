@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Ebrahim Jabari, a senior adviser to the Iranian Revolutionary Guards commander-in-chief, state on March 2, 2026, that the Revolutionary Guards and the regular navy would set ablaze any ship trying to pass through the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Were U.S. and Israeli strikes on Iran carried out on February 28, 2026, which triggered the closure of the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump offer assistance to Iranians in ousting the ruling clerics following the strikes on Iran in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran fire missiles at Qatar, Kuwait, and Bahrain in response to the U.S. and Israeli strikes in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the Strait of Hormuz approximately 33 kilometers (21 miles) wide at its narrowest point?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran fire missiles at the United Arab Emirates, Saudi Arabia, and Oman in response to the strikes in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the closure of the Strait of Hormuz threaten to choke one-third of global oil flows?",
+    "a": "No"
+  },
+  {
+    "q": "Were the Strait of Hormuz closures triggered by drone and missile attacks carried out by Yemen's Iran-aligned Houthi militants in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump seek to topple Iran's leaders through the strikes in late February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Houthi militants target vessels in the Red Sea and the Gulf of Aden since the Gaza war broke out in 2023?",
+    "a": "Yes"
+  }
+]

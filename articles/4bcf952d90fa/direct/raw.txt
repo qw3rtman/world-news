@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Ayatollah Ali Khamenei die on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Were Ayatollah Ali Khamenei killed by Israeli and American airstrikes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Mojtaba Khamenei appointed as Iran's next Supreme Leader nine days after his father's death?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mojtaba Khamenei serve as Iran's Supreme Leader starting in 1989?",
+    "a": "No"
+  },
+  {
+    "q": "Did Mehdi Karroubi accuse Mojtaba Khamenei of engineering the 2005 presidential election?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mojtaba Khamenei supervise the suppression of protesters during the 2009 Green Movement?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Mojtaba Khamenei the first son of Ayatollah Ali Khamenei?",
+    "a": "No"
+  },
+  {
+    "q": "Does the Islamic Revolutionary Guard Corps (IRGC) support Mojtaba Khamenei's leadership?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Iranian regime kill more than 10,000 people on January 8 and 9, 2026, as retribution for public celebration of Israeli attacks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Hashemi Rafsanjani publish a memoir in 2005 mentioning Mojtaba Khamenei's interference in politics?",
+    "a": "No"
+  }
+]

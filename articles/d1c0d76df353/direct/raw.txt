@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Houthi leader Abdul-Malik al-Houthi pledge to join the fight against Iran in the war beginning in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Houthi Prime Minister Ahmed al-Rahawi survive the Israeli airstrikes in Sanaa between August and October 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did Mojtaba Khamenei become the new supreme leader of Iran on March 8, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Central Command seize more than 750 tons of Iranian-origin materiel bound for the Houthis in July 2024?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Southern Transitional Council announce its statehood in January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Houthis launch ballistic missiles at Israel from the Red Sea during the first week of the U.S.-Iran war in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Century International find that more than 80 percent of items seized before reaching the Houthis in 2024-2025 were manufacturing inputs rather than finished weapons?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Houthis conduct a nationwide mobilization of a missile force designed for precision operations in northwestern Yemen in early 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Saudi Arabia reportedly warn Tehran that continued strikes could lead it to open bases to U.S. operations in 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the arrests of alleged members of a Saudi-U.S.-Israeli spy network occur in Sanaa in December 2025?",
+    "a": "No"
+  }
+]

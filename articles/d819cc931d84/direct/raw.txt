@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did a spokesperson for China's parliament state on March 4, 2026, that China is willing to work with the United States to promote communication at all levels?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the expected summit between U.S. President Donald Trump and Chinese President Xi Jinping scheduled to take place in Washington, D.C., at the end of March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was Venezuelan President Nicolas Maduro captured in a raid in Caracas in January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S.-Israeli war against Iran result in the death of Iranian Foreign Minister Hossein Amir-Abdollahian?",
+    "a": "No"
+  },
+  {
+    "q": "Did Chinese parliament spokesperson Lou Qinjian urge respect for Iran's sovereignty during a press conference on March 4, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the White House confirm that President Donald Trump will travel to China from March 20 to March 22, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Are top trade negotiators from China and the United States expected to meet in Paris in the week following March 4, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did China's parliament spokesperson state that China has no principles or red lines regarding its sovereignty and development interests on March 4, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the National People's Congress annual session open on Thursday, March 5, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does China consider Venezuela and Iran to be long-time minor oil suppliers and distant partners?",
+    "a": "No"
+  }
+]

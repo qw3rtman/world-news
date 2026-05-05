@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Brent crude oil prices rise by 7.6% to reach $78.41 on Monday morning ET following U.S. and Israeli strikes on Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump name the military offensive against Iran 'Operation Desert Storm'?",
+    "a": "No"
+  },
+  {
+    "q": "Did Exxon Mobil shares rise by 4.1% in pre-market trading on the Monday following the strikes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Amrita Sen of Energy Aspects state that the Strait of Hormuz would likely be closed altogether due to the conflict?",
+    "a": "No"
+  },
+  {
+    "q": "Did Albert Chu of Man Group suggest that the consensus expectation was for a faster resolution to the military operation?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israel launch fresh strikes against Hezbollah targets in Lebanon late on Sunday after Iran attacked regional infrastructure?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Amrita Sen identify Saudi Arabia's East-West pipeline via the Red Sea as the primary method for bypassing the Strait of Hormuz?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. West Texas Intermediate (WTI) crude prices rise by more than 7.4% to reach $72.01 on Monday?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Albert Chu state that the U.S. and Israel have superior military power to neutralize Iran's ability to completely shut off the Strait of Hormuz?",
+    "a": "No"
+  },
+  {
+    "q": "Did Amrita Sen warn that hitting energy infrastructure could cause oil prices to hit $100?",
+    "a": "Yes"
+  }
+]

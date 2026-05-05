@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump postpone his trip to Beijing in March 2026 due to the war with Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump meet with Chinese President Xi Jinping in Beijing during the week of March 31, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Treasury Secretary Scott Bessent hold talks with Chinese Vice Premier He Lifeng in Paris in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did China directly respond to U.S. President Donald Trump's request for assistance regarding the Strait of Hormuz in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump last travel to China in 2017?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump meet with Chinese President Xi Jinping in South Korea in October 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Chinese Foreign Ministry spokesperson Lin Jian describe the delay of the Beijing trip as being caused by a dispute over the Strait of Hormuz in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state that the postponed Beijing trip would take place in about five or six weeks in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did China import around 12 million barrels of oil daily in the first two months of 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump meet with Chinese President Xi Jinping in October 2026?",
+    "a": "No"
+  }
+]

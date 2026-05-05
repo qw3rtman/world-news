@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump state that U.S. forces bombed military sites on Iran’s Kharg Island in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. deployment include the amphibious assault ship USS Tripoli in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did an explosion occur in Ferdowsi Square in Tehran during a Quds Day rally in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Defense Secretary Pete Hegseth claim that over 15,000 enemy targets had been struck in Iran since the start of the war in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. military confirm that all six crew members of a KC-135 refueling plane were killed in a crash in Iraq in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the 31st Marine Expeditionary Unit deploy to the Middle East from its base in Qatar in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran’s parliament speaker Mohammad Bagher Qalibaf warn that attacks on Kharg Island would cause Iran to embrace all restraint in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. Navy destroyer USS Oscar Austin shoot down an Iranian ballistic missile over Saudi Arabia in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the crash of the KC-135 refueling plane in Iraq result from friendly or hostile fire in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Lebanese Health Ministry report that 773 people were killed in the first 10 days of fighting between Israel and Hezbollah in March 2026?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "q": "Did President Donald Trump announce U.S. strikes against Iran in the early hours of Saturday morning on February 28, 2026?",
+  "a": "Yes",
+  "q": "Did President Donald Trump describe the U.S. operation against Iran as a \"massive and ongoing operation\"?",
+  "a": "Yes",
+  "q": "Did President Donald Trump state that the operation was intended to prevent Iran from threatening America and core national security interests?",
+  "a": "Yes",
+  "q": "Did President Donald Trump characterize the Iranian government as a \"radical dictatorship\" in his statement on February 28, 2026?",
+  "a": "Yes",
+  "q": "Did President Donald Trump announce the U.S. strikes against Iran on Sunday morning, February 28, 2026?",
+  "a": "No",
+  "q": "Did President Donald Trump describe the Iranian government as a \"moderate democracy\" in his statement on February 28, 2026?",
+  "a": "No",
+  "q": "Did President Donald Trump state that the U.S. operation was a limited, one-time strike rather than an ongoing operation?",
+  "a": "No",
+  "q": "Did President Donald Trump announce the U.S. strikes against Iran on Friday evening, February 27, 2026?",
+  "a": "No",
+  "q": "Did President Donald Trump state that the operation was designed to protect Iran's core national security interests?",
+  "a": "No",
+  "q": "Did President Donald Trump announce the U.S. strikes against Iraq in his statement on February 28, 2026?",
+  "a": "No"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iran strike the Pars gas field in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran strike Qatar in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran fire missiles at Saudi Arabia in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the strike on the Pars gas field cause oil prices to fall in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran strike the South Pars oil field in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran fire missiles at the United Arab Emirates in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran strike the Al-Khor gas field in Qatar in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the escalation in the U.S.-Israeli war occur in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran vow to attack oil and gas targets throughout the Gulf in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran strike the Ras Laffan gas field in Qatar in March 2026?",
+    "a": "No"
+  }
+]

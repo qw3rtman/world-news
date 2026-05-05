@@ -1,0 +1,22 @@
+{
+  "q": "Did Israeli defense officials push for a long offensive against Iran in March 2026?",
+  "a": "Yes",
+  "q": "Did U.S. President Donald Trump express doubts about the military strategy against Iran in March 2026?",
+  "a": "Yes",
+  "q": "Was the war against Iran in its first day as of March 3, 2026?",
+  "a": "No",
+  "q": "Did Israeli defense officials report that the objectives of the war against Iran were met by March 3, 2026?",
+  "a": "No",
+  "q": "Did U.S. President Donald Trump fully endorse the Israeli defense officials' push for a long offensive against Iran in March 2026?",
+  "a": "No",
+  "q": "Was the war against Iran ongoing on March 3, 2026?",
+  "a": "Yes",
+  "q": "Did the war against Iran conclude before March 3, 2026?",
+  "a": "No",
+  "q": "Did Israeli defense officials oppose a long offensive against Iran in March 2026?",
+  "a": "No",
+  "q": "Did U.S. President Donald Trump have no doubts regarding the war against Iran in March 2026?",
+  "a": "No",
+  "q": "Was it the third day of the war against Iran as of March 3, 2026?",
+  "a": "Yes"
+}

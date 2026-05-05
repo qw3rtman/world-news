@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Reza Pahlavi, the U.S.-based son of Iran’s last shah, position himself as a transitional leader for a democratic system rather than a monarch in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ayatollah Ali Khamenei, the Supreme Leader of Iran, die as a result of joint U.S. and Israeli strikes in early 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Maryam Rajavi, leader of the National Council of Resistance of Iran, outline a 10-point plan for a democratic transition shortly after the U.S.-Israeli strikes commenced on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Reza Pahlavi publicly endorse the 1979 Islamic Revolution as the model for Iran's future governance in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Mojahedin-e Khalq (MeK) collaborate with then-Iraqi President Saddam Hussein during the 1980s war between Iran and Iraq?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Reza Pahlavi state during a March 1, 2026, interview with CBS News that he was officially running for the office of President of Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Coalition of Political Forces of Iranian Kurdistan include the Democratic Party of Iranian Kurdistan (PDKI) and the Kurdistan Freedom Party (PAK) as major members?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did analyst Alireza Nader argue that Reza Pahlavi’s political agenda had moved to the far left of the political spectrum in early 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Masoud Pezeshkian serve as part of the interim Leadership Council established in Iran following Ayatollah Khamenei's death in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did senior Iranian officials, including top figures from the Islamic Revolutionary Guard Corps, publicly defect to Washington in March 2026?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. special envoy Steve Witkoff state that Russian officials denied sharing intelligence on U.S. military assets with Iran during a phone call with President Donald Trump in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. intelligence officials confirm to ABC News in March 2026 that the United States believes Russia is providing Iran with the locations of American troops in the Middle East?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did White House Press Secretary Karoline Leavitt tell reporters on March 10, 2026, that President Trump and Special Envoy Steve Witkoff sent a message to Russia expressing unhappiness if intelligence sharing were occurring?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump publicly accuse Russian President Vladimir Putin of actively targeting U.S. service members with ballistic missiles during a news conference in Florida on March 9, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump state during a news conference on March 9, 2026, that he believed Russian President Vladimir Putin wanted to be helpful regarding Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump tell reporters on Air Force One in March 2026 that any intelligence sharing between Russia and Iran was inconsequential and not helping Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Russian President Vladimir Putin congratulate Iran's former Supreme Leader Ayatollah Ali Khamenei in a letter put out by the Kremlin in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump speak with Russian President Vladimir Putin for about an hour on Monday, March 9, 2026, regarding the intelligence allegations?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Secretary of Defense Pete Hegseth publicly deny in March 2026 that Russia was providing Iran with locations of American troops, contradicting the White House position?",
+    "a": "No"
+  },
+  {
+    "q": "Did an intelligence official confirm to ABC News in March 2026 that the intelligence sharing could enable Iranians to target specific locations with ballistic missiles and drones?",
+    "a": "Yes"
+  }
+]

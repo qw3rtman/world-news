@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Nvidia CEO Jensen Huang estimate that between $3 trillion and $4 trillion will be spent on AI infrastructure by the end of the decade?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Microsoft make a $1 billion investment in OpenAI in 2019 that made Microsoft the exclusive cloud provider for OpenAI?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Oracle sign a $300 billion five-year compute power deal with OpenAI that was set to begin in 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Nvidia buy a 4% stake in Intel for $5 billion in September 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Meta CEO Mark Zuckerberg state that the company plans to spend $600 billion on U.S. infrastructure through the end of 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Was the Stargate joint venture announced by President Donald Trump just two days after his second inauguration in January 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Elon Musk’s xAI build its hybrid data center and power-generation plant in South Memphis, Tennessee, using only nuclear power to avoid Clean Air Act violations?",
+    "a": "No"
+  },
+  {
+    "q": "Did Amazon project $200 billion in capital expenditures for 2026, up from $131 billion in 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did OpenAI announce in 2025 that it would continue to use Microsoft’s cloud exclusively for all future infrastructure demands?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Stargate project involve construction of eight data centers in Abilene, Texas, with the final building set to be finished by the end of 2026?",
+    "a": "Yes"
+  }
+]

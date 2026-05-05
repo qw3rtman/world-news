@@ -1,0 +1,42 @@
+[
+  {
+    "q": "As of February 26, 2026, was the price of silver $90.81 per ounce according to Priority Gold?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the price of gold reach comfortably over $5,000 per ounce in around one year leading up to February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the price of silver break through the record $100 per ounce milestone in January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the article edited by Angelica Leicht?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the article recommend that the precious metal portion of a portfolio should generally exceed 10%?",
+    "a": "No"
+  },
+  {
+    "q": "Was the price of silver hovering in the mid-$70 range in the weeks immediately preceding February 26, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the price of silver break the $100 per ounce record in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Does the article state that silver is an income producer like stocks, real estate, or bonds?",
+    "a": "No"
+  },
+  {
+    "q": "Is the article published by CBS News?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the article claim that silver prices are less volatile than gold prices?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did US President Donald Trump host the summit at his Florida golf club on March 7, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Kristi Noem serve as the special envoy for the \"Shield of the Americas\" coalition?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Argentine President Javier Milei attend the \"Shield of the Americas\" summit in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump sign a proclamation launching the \"Shield of the Americas\" coalition?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States deport more than 200 Venezuelans without trial to El Salvador last year?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Chilean President-elect Jose Antonio Kast attend the \"Shield of the Americas\" summit in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump remove Kristi Noem from the post of Homeland Security secretary in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ecuador's President Daniel Noboa announce joint military operations with the US against drug trafficking?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump capture Venezuelan President Nicolas Maduro in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Chinese President Xi Jinping meet with US President Donald Trump in Beijing in February 2026?",
+    "a": "No"
+  }
+]

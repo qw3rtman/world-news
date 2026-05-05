@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump post a video announcement regarding the US military campaign against Iran on Truth Social in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Vice President JD Vance express concern that the Iran operation could result in a prolonged conflict similar to the wars in Iraq or Afghanistan in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did US envoys Steve Witkoff and Jared Kushner engage in three rounds of indirect diplomatic talks with Iranian negotiators before the strikes in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu advise President Donald Trump that there was unlikely to be a more opportune moment to strike Iran during his visit to Washington in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump explicitly state in his February 2026 video that the US had already captured Iranian Supreme Leader Ayatollah Ali Khamenei?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran retaliate against the US Navy base in Bahrain, which houses the Fifth Fleet, following the US strikes in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did GOP Senator Lindsey Graham publicly support the diplomatic concessions offered by Iran during the negotiations in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump monitor the military strikes from Mar-a-Lago in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did General Dan Caine, the chairman of the Joint Chiefs of Staff, provide President Donald Trump with conclusive answers regarding the likelihood of success for the military options in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the US military conduct limited strikes on Iran’s nuclear facilities in June 2025, prior to the massive operation in February 2026?",
+    "a": "Yes"
+  }
+]

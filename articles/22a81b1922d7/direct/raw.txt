@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the price of gold surpass $5,300 per ounce in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did gold prices rally in early March 2026 in response to worsening conflict in the Middle East?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did analysts caution that chasing the gold price move may not pay off if tensions do not disrupt energy markets for long?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did silver prices decline in early March 2026 while gold prices surged?",
+    "a": "No"
+  },
+  {
+    "q": "Did the escalation of conflict in the Middle East lead to an immediate and permanent disruption of global energy markets in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did analysts recommend aggressively buying gold in early March 2026 regardless of energy market conditions?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article report that gold prices fell below $5,000 per ounce in early March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the conflict in early March 2026 involve military escalation in the South China Sea rather than the Middle East?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article state that silver prices are likely to benefit if the Middle East conflict persists?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the article claim that gold prices were driven higher by rising interest rates in early March 2026?",
+    "a": "No"
+  }
+]

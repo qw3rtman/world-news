@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did OpenAI acquire the cybersecurity startup Promptfoo in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did OpenAI disclose the specific financial terms of its acquisition of Promptfoo?",
+    "a": "No"
+  },
+  {
+    "q": "Will Promptfoo’s security tools be integrated into OpenAI’s Frontier platform for AI agents?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Ian Webster the CEO of OpenAI?",
+    "a": "No"
+  },
+  {
+    "q": "Did OpenAI acquire the health-care tech startup Torch in January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did OpenAI acquire the startup Software Applications in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did OpenAI hire Peter Steinberger in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Andreessen Horowitz lead the Series A financing round for Promptfoo?",
+    "a": "No"
+  },
+  {
+    "q": "Did Promptfoo have a post-valuation of $85.5 million as of July 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does OpenAI plan to discontinue the open-source project that allows developers to test AI-related prompts?",
+    "a": "No"
+  }
+]

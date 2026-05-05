@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. Defense Secretary Pete Hegseth set a Friday deadline for Anthropic to comply with demands to remove AI guardrails in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Anthropic agree to drop its restrictions on AI-controlled weapons to retain its Pentagon contract in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Does the Pentagon have a $200 million contract with Anthropic as of February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Defense Secretary Pete Hegseth threaten to invoke the Defense Production Act against Anthropic if it refused to drop AI guardrails in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Anthropic cite the lack of existing laws or regulations covering mass domestic surveillance of American citizens as a reason for refusing to drop its AI safeguards in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the \"supply chain risk\" designation typically reserved for companies seen as extensions of foreign adversaries like Russia or China?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Elon Musk’s xAI company confirm it was on board with being in a classified setting for Pentagon work in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Anthropic CEO Dario Amodei raise his voice and express anger during his Tuesday meeting with U.S. Defense Secretary Pete Hegseth in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Trump administration recently invoke the Defense Production Act during the pandemic?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Anthropic recently announce it is giving $100 million to a political group campaigning for more regulation of AI in February 2026?",
+    "a": "No"
+  }
+]

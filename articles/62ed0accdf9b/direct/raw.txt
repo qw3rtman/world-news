@@ -1,0 +1,22 @@
+{
+  "q": "Did the article published on March 4, 2026, contain substantive news reporting regarding a specific political event or policy change?",
+  "a": "No",
+  "q": "Did the text published on March 4, 2026, include the phrase 'Verification failed. Please try again.'?",
+  "a": "Yes",
+  "q": "Was the article titled 'Verifying Device' published in the year 2025?",
+  "a": "No",
+  "q": "Did the text published on March 4, 2026, instruct the reader to wait while verifying their device?",
+  "a": "Yes",
+  "q": "Did the article published on March 4, 2026, report on the outcome of the 2026 Texas Republican U.S. Senate primary?",
+  "a": "No",
+  "q": "Did the text published on March 4, 2026, consist entirely of system status messages and error prompts?",
+  "a": "Yes",
+  "q": "Was the article titled 'Verifying Device' published by the Associated Press?",
+  "a": "No",
+  "q": "Did the text published on March 4, 2026, contain the instruction 'Try Again'?",
+  "a": "Yes",
+  "q": "Did the article published on March 4, 2026, provide a detailed analysis of Honeywell International Inc.'s stock performance?",
+  "a": "No",
+  "q": "Did the text published on March 4, 2026, explicitly state that the verification process had failed?",
+  "a": "Yes"
+}

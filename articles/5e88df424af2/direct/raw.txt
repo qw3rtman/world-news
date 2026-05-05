@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did ASEAN foreign ministers describe the escalation of conflict in the Middle East as \"regrettable\" in a joint statement on March 4, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the US and Israel launch strikes on Iran on February 28, 2026, which triggered retaliatory attacks across the region?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Myanmar issue an official condemnation of the US-Israeli strike on Iran on February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Philippine President Ferdinand Marcos Jr., whose country is chairing ASEAN in 2026, state that Manila is not directly involved in the conflict?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Malaysia’s Prime Minister Anwar Ibrahim describe the US-Israeli strikes on Iran as a violation of international law and sovereignty on March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Singapore’s Foreign Minister Vivian Balakrishnan endorse the ASEAN foreign ministers’ statement on March 4, 2026, while expressing appreciation to Gulf states for ensuring the safety of Singaporeans?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Indonesia’s President Prabowo Subianto express readiness to travel to Tehran to facilitate dialogue on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Brunei issue a statement on February 28, 2026, strongly condemning the strike on Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Sultanate of Oman lead mediation initiatives between Washington and Tehran for weeks before the strike on Iran in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Timor-Leste, the newest member of the 11-strong regional grouping, refrain from issuing any statement on the conflict in March 2026?",
+    "a": "No"
+  }
+]

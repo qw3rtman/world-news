@@ -1,0 +1,22 @@
+{
+  "q": "Did the U.S. and Israel launch initial strikes against Iran in the early morning of Saturday?",
+  "a": "Yes",
+  "q": "Did the Iraqi Shiite militia Saraya Awliya al-Dam claim responsibility for a drone attack on U.S. troops at the airport in Baghdad on Monday?",
+  "a": "Yes",
+  "q": "Did the Lebanese government describe Hezbollah's missile strikes on Israel as legal?",
+  "a": "No",
+  "q": "Did the Houthis in Yemen announce that they would join military strikes against U.S. forces?",
+  "a": "No",
+  "q": "Did Secretary of Defense Pete Hegseth and Gen. Dan Caine state that one objective of the operation is to destroy Iran's Navy?",
+  "a": "Yes",
+  "q": "Were the three F-15 fighter jets shot down by Iranian air defenses in an apparent friendly-fire incident?",
+  "a": "No",
+  "q": "Did the Iraqi Prime Minister Mohammed Shia Al-Sudani affirm that Iraq remains committed to preventing escalation?",
+  "a": "Yes",
+  "q": "Did the Israel Defense Forces announce it would stand down and cease offensive operations against Hezbollah?",
+  "a": "No",
+  "q": "Did an Iranian-backed militia in Iraq and Hezbollah in Lebanon join the fight between Sunday and Monday?",
+  "a": "Yes",
+  "q": "Did the U.S. and Israel agree to a clear timeline for the conclusion of their strikes against Iran?",
+  "a": "No"
+}

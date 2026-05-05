@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Chinese international trade representative Li Chenggang issue a warning regarding U.S. tariffs in Paris on Monday, March 16, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump confirm in the Oval Office on March 16, 2026, that he wanted to delay his visit to China by approximately one month due to the Iran war?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did German Defense Minister Boris Pistorius state on March 16, 2026, that Germany planned to send vessels to help reopen the Strait of Hormuz?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Treasury Secretary Scott Bessent hold talks with Chinese officials in Paris on March 16, 2026, to prepare for the U.S. president's visit?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did China directly accept U.S. President Donald Trump's proposal for NATO members to help reopen the Strait of Hormuz on March 16, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the White House state on March 16, 2026, that the Iran war could reach a 'military resolution' within six weeks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state on March 16, 2026, that he wanted to cancel his upcoming visit to China indefinitely rather than delay it?",
+    "a": "No"
+  },
+  {
+    "q": "Did China's foreign ministry call on all parties to immediately cease military operations regarding the Iran conflict on March 16, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Luxembourg join Germany, Australia, and Japan in announcing plans to send vessels to help reopen the Strait of Hormuz on March 16, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Chinese foreign ministry official Lin Jian state on March 16, 2026, that head-of-state diplomacy plays an irreplaceable strategic guiding role in China-U.S. relations?",
+    "a": "Yes"
+  }
+]

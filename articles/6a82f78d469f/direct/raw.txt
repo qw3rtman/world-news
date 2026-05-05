@@ -1,0 +1,40 @@
+{
+  "q": "Did President Donald Trump announce major combat operations in Iran in a video shared on his Truth Social network on March 1, 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did Israel state that it was launching a preemptive attack on Iran at the same time President Trump announced U.S. combat operations in March 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did President Trump claim that Iran's proxies carried out the Marine barracks bombing in Beirut in 1983 that killed 241 American military personnel?",
+  "a": "Yes"
+}
+{
+  "q": "Did President Trump state that Hamas launched the October 7 attacks on Israel, slaughtering more than 1000 innocent people including 46 Americans, in March 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did President Trump claim that the United States obliterated Iran's nuclear program at Fordow, Natanz, and Isfahan in operation Midnight Hammer last June (2025)?",
+  "a": "Yes"
+}
+{
+  "q": "Did President Trump state that the U.S. Embassy in Tehran was taken over by Iran's regime in 1979, holding American hostages for 444 days?",
+  "a": "Yes"
+}
+{
+  "q": "Did President Trump claim that Iran killed tens of thousands of its own citizens on the street while they were protesting just before the March 2026 announcement?",
+  "a": "Yes"
+}
+{
+  "q": "Did President Trump state that the U.S. military would grant complete immunity to the Islamic Revolutionary Guard only if they fled the country before March 1, 2026?",
+  "a": "No"
+}
+{
+  "q": "Did President Trump claim that the USS Cole attack in 2000 was directly ordered by the Iranian regime rather than just involving them?",
+  "a": "No"
+}
+{
+  "q": "Did President Trump state that the U.S. military would spare Iran's missile industry and navy from destruction in the March 2026 operations?",
+  "a": "No"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Qatar fully shut its gas liquefaction operations in March 2026 following US and Israeli attacks on Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Qatar announce that restarting its gas liquefaction operations would take at least two weeks to reach full capacity?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Qatar completely halt its liquefaction facilities due to security concerns over the conflict involving Iran, the United States, and Israel?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Qatar's gas liquefaction shutdown have no impact on global energy markets because the nation is a minor LNG exporter?",
+    "a": "No"
+  },
+  {
+    "q": "Did Reuters sources indicate that Qatar's facilities could be brought back online and reach full capacity immediately after the shutdown?",
+    "a": "No"
+  },
+  {
+    "q": "Did the shutdown of Qatar's liquefaction operations occur in response to Tehran's retaliatory strikes across the region?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Qatar plan to maintain its gas liquefaction operations at full capacity despite the escalating tensions in the Middle East?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article state that Qatar is among the world's largest LNG exporters?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the US and Israeli attacks on Iran occur before the escalation of tensions that led to Qatar's shutdown?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Qatar's gas liquefaction shutdown affect only domestic consumption and not its role as a major global LNG exporter?",
+    "a": "No"
+  }
+]

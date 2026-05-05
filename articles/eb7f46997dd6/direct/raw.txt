@@ -1,0 +1,22 @@
+{
+  "q": "Did crude oil prices briefly exceed $100 per barrel on March 11, 2026?",
+  "a": "Yes",
+  "q": "Did the International Energy Agency coordinate a record release of 400 million barrels of crude reserves in March 2026?",
+  "a": "Yes",
+  "q": "Did Iran warn that the ongoing conflict could send oil prices to $200 per barrel in March 2026?",
+  "a": "Yes",
+  "q": "Did the U.S. Federal Reserve futures curve price in two interest rate cuts for 2026 as of March 12, 2026?",
+  "a": "No",
+  "q": "Did the Reserve Bank of Australia raise interest rates again in March 2026?",
+  "a": "No",
+  "q": "Was the International Energy Agency's March 2026 crude reserve release more than twice the size of the release following the 2022 Ukraine invasion?",
+  "a": "Yes",
+  "q": "Did U.S. Treasury yields hit their lowest point in six months heading into March 12, 2026?",
+  "a": "No",
+  "q": "Did the dollar strengthen against gold in March 2026?",
+  "a": "Yes",
+  "q": "Did the European Central Bank raise interest rates by July 2026?",
+  "a": "No",
+  "q": "Did the International Energy Agency coordinate emergency stock releases only four times since its creation in the mid-1970s?",
+  "a": "Yes"
+}

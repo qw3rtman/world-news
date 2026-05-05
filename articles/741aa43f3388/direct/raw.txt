@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump state on March 15, 2026, that his administration was talking to seven countries about helping to secure the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Energy Secretary Chris Wright predict on March 15, 2026, that the war on Iran would end within weeks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian Foreign Minister Abbas Araqchi state on March 15, 2026, that Iran had previously asked for a ceasefire and negotiations?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United States and Israel begin their intensive bombing campaign against Iran on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump explicitly identify the seven governments he had contacted regarding Strait of Hormuz security on March 15, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Strait of Hormuz remain effectively closed to most of the world's tanker traffic as of March 15, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump declare the war on Iran officially over on March 15, 2026, citing that Iran was decimated?",
+    "a": "No"
+  },
+  {
+    "q": "Did Brent crude oil prices rise on March 15, 2026, while U.S. crude prices fell on the same day?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran assert on March 15, 2026, that it had sunk much of the U.S. Navy's fleet during the conflict?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump warn on March 15, 2026, that NATO faces a \"very bad\" future if its members fail to assist the U.S. in protecting the strait?",
+    "a": "Yes"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "q": "Did the United Kingdom allow United States forces to use joint military bases in March 2026?",
+  "a": "Yes",
+  "q": "Was the decision to allow US forces to use UK military bases made by former Prime Minister Boris Johnson in March 2026?",
+  "a": "No",
+  "q": "Did the UK's decision bring the country closer to a conflict launched by America and Israel in March 2026?",
+  "a": "Yes",
+  "q": "Did the UK's decision bring the country closer to a conflict launched by France and Germany in March 2026?",
+  "a": "No",
+  "q": "Is the article titled 'Could the UK go to war with Iran? Britain’s situation explained'?",
+  "a": "Yes",
+  "q": "Is the article titled 'Will the UK join the US in bombing Iran?'?",
+  "a": "No",
+  "q": "Was the article published on March 2, 2026?",
+  "a": "Yes",
+  "q": "Was the article published on February 28, 2026?",
+  "a": "No",
+  "q": "Does the article suggest that allowing US forces to use bases brings the UK closer to the conflict launched by America and Israel?",
+  "a": "Yes",
+  "q": "Does the article suggest that allowing US forces to use bases brings the UK closer to the conflict launched by Russia and China?",
+  "a": "No"
+}

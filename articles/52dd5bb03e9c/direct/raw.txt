@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Anduril Industries sign a definitive agreement to acquire ExoAnalytic Solutions in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is ExoAnalytic Solutions a company that specializes in space sensing, awareness, and missile defense?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the Golden Dome missile defense project an initiative led by President Donald Trump to build a space-based shield?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Anduril receive smaller contracts for space-based interceptors in late November 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does ExoAnalytic Solutions own and operate more than 400 telescope systems deployed worldwide?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the acquisition of ExoAnalytic Solutions Anduril Industries' first overall acquisition?",
+    "a": "No"
+  },
+  {
+    "q": "Did Gokul Subramanian, Anduril's chief executive officer, comment on the deal?",
+    "a": "No"
+  },
+  {
+    "q": "Does the acquisition of ExoAnalytic Solutions include the integration of Anduril's expertise in autonomy and command and control?",
+    "a": "Yes"
+  },
+  {
+    "q": "Are the terms of the acquisition between Anduril Industries and ExoAnalytic Solutions publicly disclosed?",
+    "a": "No"
+  },
+  {
+    "q": "Is the acquisition of ExoAnalytic Solutions Anduril Industries' 11th acquisition under its space business unit?",
+    "a": "No"
+  }
+]

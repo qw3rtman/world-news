@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did global oil prices drop below $90 per barrel on Tuesday, March 10, 2026, following a three-year high of $120 the previous day?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump comment that the Iran war may end soon, contributing to the cooling of global oil prices?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did India increase its share of crude oil imports from non-Gulf sources to nearly 70% by March 10, 2026, up from 55% ten days earlier?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Saudi Aramco state that there would be catastrophic consequences for global oil markets if the Iran war continued to disrupt shipping in the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the UAE's largest oil refinery close on Tuesday, March 10, 2026, due to a drone attack?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump consider easing sanctions on Russia, which is the largest source of crude for India?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump and Russian President Vladimir Putin discuss the military conflict in West Asia and peace prospects in Ukraine on Tuesday, March 10, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did India secure nearly 70% of its crude oil requirements from non-Hormuz Strait routes ten days before March 10, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the critical artery connecting the Persian Gulf with the Gulf of Oman see more than 140 vessels transiting daily carrying roughly 20% of the world's oil shipments during the conflict?",
+    "a": "No"
+  },
+  {
+    "q": "Did petrol and diesel prices in India rise immediately after crude oil breached the $120 per barrel level on Monday, March 9, 2026?",
+    "a": "No"
+  }
+]

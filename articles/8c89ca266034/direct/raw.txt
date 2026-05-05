@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Hezbollah spend months restocking its arsenal of rockets and drones using support from Iran and its own weapons factories before the war that began in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump broker the ceasefire that ended the 2024 war between Israel and Hezbollah?",
+    "a": "No"
+  },
+  {
+    "q": "Did Hezbollah launch its first attacks on Israel on March 2, 2026, to avenge the death of Iran’s supreme leader Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Hezbollah’s media office head, Youssef al-Zein, confirm that the group had decided to \"fight to the last breath\" in an interview with Reuters?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Israel Defense Forces confirm that Hezbollah had replenished its drone and rocket stashes through local manufacturing without any diminished capability?",
+    "a": "No"
+  },
+  {
+    "q": "Did ALMA, an Israeli think tank, assess that Hezbollah’s arsenal on the eve of its March 2026 attack included approximately 25,000 rockets and missiles?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Hezbollah lose 5,000 operatives in the 2024 war, leaving it with approximately 95,000 fighters remaining?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Lebanon begin confiscating Hezbollah weapons in the country’s south last year, with Israel stating the organization was being disarmed faster than it was rearming?",
+    "a": "No"
+  },
+  {
+    "q": "Did a Dubai-based defense analyst identify a drone shown in a Hezbollah video on March 4, 2026, as a locally produced Shahed-101?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Hezbollah station new rockets and Iranian-made logistical materials in northern Lebanon before the latest war began?",
+    "a": "No"
+  }
+]

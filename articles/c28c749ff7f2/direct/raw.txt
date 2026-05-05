@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump tell advisers he would consider a larger attack intended to drive Iran's leaders from power if diplomacy or an initial targeted strike failed?",
+    "a": "Yes"
+  },
+  {
+    "q": "Were negotiators from the United States and Iran scheduled to meet in Geneva in late February 2026 for last-ditch negotiations to avoid military conflict?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Vice President JD Vance strongly oppose a military strike on Iran during the White House Situation Room meeting in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the plan for a commando raid by special operations forces to destroy Iranian nuclear facilities shelved as of late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump exit the 2015 nuclear agreement between Iran and the Obama administration in 2018?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Steve Witkoff state that the only acceptable outcome for an agreement was that Iran would move to 'zero enrichment' of nuclear material in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did General Dan Caine provide President Donald Trump with the same high likelihood of success reassurances for an Iran strike as he had for the seizure of President Nicolás Maduro in early January 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran's foreign minister, Abbas Araghchi, insist in a February 2026 interview that Iran was ready to give up its right to make nuclear fuel under the Nuclear Nonproliferation Treaty?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Ambassador to Israel Mike Huckabee outrage Arab diplomats with comments about Israel's rights in the Middle East in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the International Atomic Energy Agency director general, Rafael Grossi, propose that Iran be permitted to produce very small amounts of nuclear fuel solely for medical purposes in February 2026?",
+    "a": "Yes"
+  }
+]

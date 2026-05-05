@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iranian intelligence convey messages to the CIA through a third country in early March 2026 indicating preparedness to open talks on ending the war?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Defense Secretary Pete Hegseth state in a briefing on March 4, 2026, that the United States was \"just getting started\" in its joint operation with Israel to degrade Iran’s missile program?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump state on March 2, 2026, that he intended to speak with Iran’s new leaders because they wanted to talk?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian Foreign Minister Abbas Araghchi confirm in a March 4, 2026, interview that Iran had conveyed a message to the United States regarding ending the war?",
+    "a": "No"
+  },
+  {
+    "q": "Did Steve Witkoff, the president’s foreign envoy, resume direct contact with Iran’s top national security official Ali Larijani in March 2026 to facilitate negotiations?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli Defense Minister Israel Katz vow on March 4, 2026, that any new Iranian supreme leader appointed to replace Ayatollah Ali Khamenei would be a target for elimination?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did senior U.S. administration officials confirm in March 2026 that they had received messages from nearly a dozen nations offering to help defuse the conflict since it became kinetic?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian Deputy Foreign Minister Majid Takht-Ravanchi state on March 4, 2026, that Iran was currently in an offensive mode and actively sending messages to the United States?",
+    "a": "No"
+  },
+  {
+    "q": "Did the New York Times first report on the indirect messages from Iranian intelligence to the United States in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did lawmakers briefed by the administration on March 3, 2026, hear about a distinct endgame or specific diplomatic efforts to end the war with Iran?",
+    "a": "No"
+  }
+]

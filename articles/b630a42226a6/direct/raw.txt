@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the Bureau of Labor Statistics release the February jobs report on Friday morning in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did economists tracked by FactSet expect a gain of 130,000 payrolls in the February jobs report released in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the February jobs report released in March 2026 show an unemployment rate of 4.3 percent?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the February jobs report released in March 2026 show a lower unemployment rate than the January 2026 rate?",
+    "a": "No"
+  },
+  {
+    "q": "Did economists expect February 2026 payroll gains to be lower than the January 2026 gain of 130,000?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the February 2026 jobs report indicate that stable job conditions would signal policymakers are likely to move quickly on future interest rate cuts?",
+    "a": "No"
+  },
+  {
+    "q": "Was the February jobs report scheduled for release by the Bureau of Labor Statistics in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the January 2026 jobs report show a payroll gain of 60,000?",
+    "a": "No"
+  },
+  {
+    "q": "Did the February 2026 jobs report show an unemployment rate that remained the same as in January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the February 2026 jobs report suggest that policymakers were likely to move quickly on future interest rate cuts?",
+    "a": "No"
+  }
+]

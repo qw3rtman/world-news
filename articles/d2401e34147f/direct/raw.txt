@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Israeli military spokesperson Nadav Shoshani state on March 16, 2026, that detailed operational plans for the war with Iran were in place for at least three more weeks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump warn on March 15, 2026, that the NATO alliance faces a \"very bad\" future if its members fail to assist the United States in reopening the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran’s Foreign Minister Abbas Araqchi confirm on March 16, 2026, that Tehran had requested a ceasefire or exchanged messages with the United States regarding the conflict?",
+    "a": "No"
+  },
+  {
+    "q": "Did British Prime Minister Keir Starmer state on March 16, 2026, that Britain would not participate in military activity to reopen the Strait of Hormuz but would work with allies to reopen the waterway?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Germany’s Defence Minister Boris Pistorius rule out on March 16, 2026, his country’s participation in any military activity in the Iran war, including efforts to reopen the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Israeli military state on March 16, 2026, that its troops had begun limited ground operations against positions in northern Lebanon held by Hezbollah?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian drone attacks on March 16, 2026, temporarily shut down Dubai International Airport and hit a key oil facility in the United Arab Emirates?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Japan state on March 16, 2026, that it planned to dispatch naval vessels to the Strait of Hormuz to help protect the shipping route?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state on March 15, 2026, that he may postpone a meeting with Chinese President Xi Jinping scheduled for later in March if China does not help unblock the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Israeli military state on March 16, 2026, that its objectives were limited to weakening Iran’s capacity by striking ballistic missile infrastructure, nuclear facilities, and the security apparatus?",
+    "a": "Yes"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Medtronic Inc announce the acquisition of Scientia Vascular on Tuesday, March 10, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the total value of the acquisition of Scientia Vascular by Medtronic Inc reported as $550 million?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does Scientia Vascular operate its headquarters in Salt Lake City?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does Scientia Vascular produce guidewires and catheters designed for navigating blood vessels in the brain?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does Linnea Burman serve as the senior vice president and president of Medtronic's Neurovascular business?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Medtronic Inc expected to close the acquisition of Scientia Vascular in the first half of fiscal 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did shares of Medtronic Inc rise by more than 1% in early trading following the announcement?",
+    "a": "No"
+  },
+  {
+    "q": "Does the acquisition expand Medtronic's product lineup specifically for heart valve replacement procedures?",
+    "a": "No"
+  },
+  {
+    "q": "Did Leerink Partners analysts state that the deal reflects confidence in Scientia's underlying technology?",
+    "a": "No"
+  },
+  {
+    "q": "Did Medtronic Inc disclose specific details regarding potential earn-out and milestone payments in the announcement?",
+    "a": "No"
+  }
+]

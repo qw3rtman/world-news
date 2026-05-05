@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iran’s top national security official Ali Larijani vow that Iran would not negotiate with the United States in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Central Command report that six U.S. service members were killed in action since the start of the war in Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Kuwait mistakenly shoot down three U.S. fighter jets during the conflict in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump state that the U.S. military operation in Iran was expected to last four to five weeks in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran’s supreme leader Ayatollah Ali Khamenei survive the U.S.-Israeli strikes in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Defense Secretary Pete Hegseth declare that the U.S. goal in the war against Iran was regime change in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United Arab Emirates report that its air defenses intercepted 174 ballistic missiles launched by Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Ambassador Mike Huckabee recommend that Americans in Israel travel through Jordan to evacuate in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Amazon Web Services report that three of its data centers were hit by drone strikes in the Middle East in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Department of State order nonemergency personnel to leave Iraq, Bahrain, and Qatar in March 2026?",
+    "a": "Yes"
+  }
+]

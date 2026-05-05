@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did US President Donald Trump publicly state that the appointment of Mojtaba Khamenei as Iran’s next supreme leader would be \"unacceptable\" to him in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US Defense Secretary Pete Hegseth claim that a US submarine sank the Iranian warship IRIS Dena in international waters on March 4, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Interior Secretary Doug Burgum attribute the rise in US gasoline prices to a global shortage of oil rather than shipping disruptions in the Strait of Hormuz in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Israeli military strike the headquarters of the Islamic Revolutionary Guard Corps’ aerospace force in Tehran during the conflict in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did a military projectile strike a residential facility in Al-Kharj, Saudi Arabia, resulting in the first reported deaths in the kingdom since the start of the war with Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US Energy Secretary Chris Wright announce that the United States planned to strike Iran’s oil industry in response to the conflict in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did British Prime Minister Keir Starmer agree to deploy British aircraft carriers to the Middle East immediately following President Donald Trump's criticism in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did a CNN/SSRS poll conducted shortly after the war began show that 59% of Americans disapproved of the initial decision to strike Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian Foreign Minister Abbas Araghchi confirm that Mojtaba Khamenei had been officially selected as the new supreme leader by the Assembly of Experts in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Republican Senator Thom Tillis argue that President Donald Trump must seek congressional authorization if the conflict with Iran extends beyond the 60-day period specified in the War Powers Resolution?",
+    "a": "Yes"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Federal Reserve Chair Jerome Powell state he has no intention of leaving the central bank until the Department of Justice investigation into his congressional testimony is dropped?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump nominate Kevin Warsh as Jerome Powell's replacement as Federal Reserve Chair?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Federal Reserve Governor Stephen Miran dissent in favor of a quarter-point rate cut at the March 2026 meeting?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Justice Department successfully uphold the subpoenas issued to the Federal Reserve in the investigation involving Jerome Powell?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Federal Reserve raise its forecast for the number of rate cuts expected this year to two or more?",
+    "a": "No"
+  },
+  {
+    "q": "Did the broad S&P 500 index rise in response to Jerome Powell's comments on the uncertain economic outlook following the Iran war?",
+    "a": "No"
+  },
+  {
+    "q": "Is Kevin Warsh's confirmation as Federal Reserve Chair delayed because key Republican senators are opposed to the Department of Justice probe?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Federal Reserve Chair Jerome Powell indicate that he has already decided to stay on the Fed board as a governor until January 2028 after his chair term ends?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. employers shed 92,000 jobs in February 2026, according to the government report released earlier in the month?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Federal Reserve lower its key interest rate by a quarter-point during its March 2026 meeting?",
+    "a": "No"
+  }
+]

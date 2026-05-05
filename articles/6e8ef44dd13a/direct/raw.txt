@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the United States and Ecuador carry out joint military operations in Ecuador on March 6, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the US Southern Command confirm that individuals were killed or captured during the joint US-Ecuador operation in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the joint US-Ecuador operation in March 2026 target a training camp belonging to the Comandos de la Frontera near the Colombian border?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the joint US-Ecuador operation in March 2026 take place in north-west Ecuador near the Peruvian border?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ecuadorean President Daniel Noboa impose tariffs on Colombia in March 2026 in response to drug trafficking concerns?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ecuadorean President Daniel Noboa plan to attend the \"Shield of the Americas\" summit in Quito in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Pentagon spokesman Sean Parnell state that the Department of War executed the targeted action at the request of Ecuador in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ecuador's Defence Ministry dub the joint US-Ecuador operation \"Operation Total Liberation\" in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Comandos de la Frontera crime group targeted in March 2026 consist of FARC dissidents?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the joint US-Ecuador operation in March 2026 utilize only ground troops and no aerial assets such as helicopters or drones?",
+    "a": "No"
+  }
+]

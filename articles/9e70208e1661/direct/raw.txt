@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Kamal Kharazi, Foreign Policy Advisor to the office of the Supreme Leader, state in an interview in Tehran on March 9, 2026, that there is no room for diplomacy in the conflict with the US?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran strike residential buildings and airports in Gulf nations during the conflict that began in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did crude oil prices surge past $100 a barrel on Monday, March 9, 2026, due to disruptions in maritime traffic through the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Mojtaba Khamenei, the second son of former Supreme Leader Ali Khamenei, elevated to Iran’s highest post over the weekend preceding March 9, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did a spokesperson for the Islamic Revolutionary Guard Corps (IRGC) claim on Sunday, March 8, 2026, that Iran is using 60% of its firepower to attack US bases and strategic interests in the region?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Kamal Kharazi state in March 2026 that the war with the US would only end through diplomatic negotiations rather than economic pain?",
+    "a": "No"
+  },
+  {
+    "q": "Did the ongoing conflict in March 2026 disrupt approximately 5% of the world’s oil supply, which was less than the disruption during the Suez Crisis of 1956-1957?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Iranian government review and approve CNN’s reporting prior to its publication or broadcast in the exclusive interview conducted in Tehran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump express that the appointment of Mojtaba Khamenei as successor to his father would be unacceptable to him in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Kamal Kharazi indicate in March 2026 that the Iranian military and the supreme leadership were divided on the strategy for continuing the war?",
+    "a": "No"
+  }
+]

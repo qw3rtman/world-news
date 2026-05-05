@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did upGrad acquire Unacademy in an all-stock share-swap deal announced in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Gaurav Munjal, co-founder and CEO of Unacademy, announce the acquisition term sheet on the social media platform X?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Unacademy’s valuation drop to below $500 million in early 2026, representing an 85% decline from its 2021 peak?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ronnie Screwvala, co-founder of upGrad, state that Gaurav Munjal would continue to lead Unacademy after the acquisition?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Byju’s enter insolvency proceedings in September 2024 after its valuation was written down to effectively zero?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Unacademy raise approximately $854.3 million across 13 funding rounds from investors including SoftBank and Tiger Global?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Physics Wallah, a rival edtech company, enter insolvency proceedings in September 2024?",
+    "a": "No"
+  },
+  {
+    "q": "Did the valuation of the upGrad acquisition of Unacademy become publicly known immediately upon the signing of the term sheet in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Gaurav Munjal devote increasing attention to Airlearn, an AI-first language-learning app, during the consolidation period?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Unacademy complete an employee stock buyback worth $500 million in early 2026?",
+    "a": "No"
+  }
+]

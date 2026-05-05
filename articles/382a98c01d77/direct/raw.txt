@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Mojtaba Khamanei become Iran's new supreme leader in March 2026 following the appointment by the Assembly of Experts?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the price of benchmark crude oil contracts rise above $100 a barrel in March 2026 due to the closure of the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump announce in March 2026 that American warships would escort oil tankers to restore crude supplies?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did French President Emmanuel Macron propose a \"purely defensive\" mission to reopen the Strait of Hormuz in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Finance Minister Roland Lescure confirm in March 2026 that G7 nations had immediately agreed to release strategic oil reserves to dampen prices?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian troops fire a missile at NATO member Turkey in March 2026, which was intercepted by the alliance's air defenses?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's state-owned energy company Bapco declare \"force majeure\" in March 2026 after strikes on Bahrain's Al Ma'ameer oil facility?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Russian President Vladimir Putin publicly condemn Iran's appointment of Mojtaba Khamanei as supreme leader in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Hungary and Croatia announce fuel price caps in March 2026 in response to rising oil prices?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Strait of Hormuz remain open to almost all oil tankers in March 2026, allowing normal transit levels?",
+    "a": "No"
+  }
+]

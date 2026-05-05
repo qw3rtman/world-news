@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iranian Foreign Minister Seyed Abbas Araghchi describe the latest round of U.S.-Iran nuclear talks in February 2026 as the \"most intense so far\"?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the February 2026 U.S.-Iran nuclear talks result in a signed agreement terminating U.S. sanctions on Tehran?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. special envoy Steve Witkoff and Jared Kushner lead the U.S. delegation during the third round of talks in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States demand that Iran destroy its nuclear sites at Fordow, Natanz, and Isfahan during the February 2026 negotiations?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Oman's Foreign Minister Badr Al Busaidi mediate the talks and travel to Washington to meet with Vice President JD Vance in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state in his State of the Union address in February 2026 that Iran had committed to never developing nuclear weapons?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United States demand that any nuclear deal with Iran last forever without sunset clauses during the February 2026 talks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Secretary of State Marco Rubio identify Iran's refusal to discuss its intercontinental ballistic missile program as a significant stumbling block in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the February 2026 U.S.-Iran talks take place in Vienna, Austria, with plans to meet next in Geneva, Switzerland?",
+    "a": "No"
+  },
+  {
+    "q": "Did analysts warn that a failure to reach a diplomatic breakthrough in February 2026 could lead to a military clash with significant escalatory potential?",
+    "a": "Yes"
+  }
+]

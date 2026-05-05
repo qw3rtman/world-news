@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Prince Reza Pahlavi discuss the possibility of the Islamic Republic's regime falling in an interview published by CBS News on March 1, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Prince Reza Pahlavi identify himself as a leader of the opposition to the Islamic Republic in the March 1, 2026 CBS News interview?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Prince Reza Pahlavi discuss the future of Iran's nuclear program in the March 1, 2026 CBS News interview?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Prince Reza Pahlavi discuss who would lead a transition of power in the March 1, 2026 CBS News interview?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Prince Reza Pahlavi serve as the head of the Islamic Republic during the March 1, 2026 CBS News interview?",
+    "a": "No"
+  },
+  {
+    "q": "Did the March 1, 2026 CBS News interview with Prince Reza Pahlavi focus exclusively on Iran's military strategy against Israel?",
+    "a": "No"
+  },
+  {
+    "q": "Did the March 1, 2026 CBS News interview with Prince Reza Pahlavi avoid discussing the topic of regime change?",
+    "a": "No"
+  },
+  {
+    "q": "Did Prince Reza Pahlavi claim that the Islamic Republic had already fallen by March 1, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the March 1, 2026 CBS News interview with Prince Reza Pahlavi focus on the economic sanctions imposed on Saudi Arabia?",
+    "a": "No"
+  },
+  {
+    "q": "Did Prince Reza Pahlavi discuss the status of Iran's nuclear program in the March 1, 2026 CBS News interview?",
+    "a": "Yes"
+  }
+]

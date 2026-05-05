@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Kamal Kharazi, Foreign Policy Advisor to the office of the Supreme Leader, state in an interview with CNN in March 2026 that Iran is prepared for a long war with the US?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Kamal Kharazi indicate in the March 2026 interview that diplomacy remains a viable path to ending the conflict between Iran and the US?",
+    "a": "No"
+  },
+  {
+    "q": "Did crude oil prices surge past $100 a barrel in March 2026 following the disruption of maritime traffic through the Strait of Hormuz?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the ongoing conflict in March 2026 disrupt approximately 20% of the world's oil supply, which was roughly half the size of the disruption during the Suez Crisis of 1956-1957?",
+    "a": "No"
+  },
+  {
+    "q": "Was Mojtaba Khamenei elevated to Iran’s highest post over the weekend prior to the March 2026 interview?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Kamal Kharazi state in March 2026 that the Islamic Revolutionary Guard Corps (IRGC) was using 100% of its firepower to attack US bases and strategic interests in the region?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state in March 2026 that the appointment of Mojtaba Khamenei as successor to his father would be unacceptable to him?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Kamal Kharazi claim in the March 2026 interview that the Iranian government reviews and approves CNN’s reporting prior to publication?",
+    "a": "No"
+  },
+  {
+    "q": "Did the war in March 2026 effectively wipe out the spare oil production capacity that typically serves as a shock absorber in energy markets?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Kamal Kharazi attribute the breakdown in diplomacy to the belief that President Donald Trump had deceived Iran during previous negotiations?",
+    "a": "Yes"
+  }
+]

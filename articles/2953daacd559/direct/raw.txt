@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Perplexity launch a new platform called 'Computer' in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the Perplexity 'Computer' platform include AI agents that can code?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the Perplexity 'Computer' platform currently available to all users for free?",
+    "a": "No"
+  },
+  {
+    "q": "Does Perplexity describe the 'Computer' platform as a 'general-purpose digital worker'?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the Perplexity 'Computer' platform currently available exclusively to Perplexity Max subscribers?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the Perplexity 'Computer' platform delegate tasks to sub-AI agents?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the Perplexity 'Computer' platform currently available to subscribers of the basic free tier?",
+    "a": "No"
+  },
+  {
+    "q": "Does Perplexity compare the 'Computer' platform to products like OpenClaw and Claude Cowork?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the Perplexity 'Computer' platform include AI agents that can remember information?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the Perplexity 'Computer' platform currently available to Perplexity Pro subscribers?",
+    "a": "No"
+  }
+]

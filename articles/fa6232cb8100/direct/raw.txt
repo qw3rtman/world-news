@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the European Commission approve a new trusteeship structure for Rosneft's German assets in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the new trusteeship structure grant Berlin long-term control over the German assets of the Russian oil group Rosneft?",
+    "a": "Yes"
+  },
+  {
+    "q": "Are the shareholders of the German Rosneft entities barred from exercising their voting rights under the new trusteeship?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the European Commission's approval in February 2026 resolve the issue of U.S. sanctions on Rosneft?",
+    "a": "No"
+  },
+  {
+    "q": "Did the previous trusteeship structure require renewal every two years?",
+    "a": "No"
+  },
+  {
+    "q": "Is the PCK Schwedt refinery located in Berlin?",
+    "a": "No"
+  },
+  {
+    "q": "Does the majority ownership of the refineries remain with Rosneft under the new structure?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Berlin secure an exemption for PCK Schwedt from U.S. sanctions that expires on April 29, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the current trusteeship expire on February 20, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Were the assets placed in the German government's trusteeship in 2022?",
+    "a": "Yes"
+  }
+]

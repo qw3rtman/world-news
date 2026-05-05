@@ -1,0 +1,22 @@
+{
+  "q": "Did the US intelligence community issue private warnings to American companies and government agencies in the week leading up to March 10, 2026, regarding potential cyber attacks by Iran?",
+  "a": "Yes",
+  "q": "Did the Department of Homeland Security cite the killing of Iran’s supreme leader, Ayatollah Ali Khamenei, as a factor heightening the threat environment in its bulletin?",
+  "a": "Yes",
+  "q": "Did the DHS critical incident note state that two top Iranian religious leaders issued Farsi-language fatwas calling for revenge for the killing of Ayatollah Ali Khamenei?",
+  "a": "Yes",
+  "q": "Did US officials announce that they had identified a specific and credible threat to the US homeland in March 2026?",
+  "a": "No",
+  "q": "Did the FBI go on elevated alert status specifically following the killing of Ayatollah Ali Khamenei, rather than the launch of strikes by US and Israel?",
+  "a": "No",
+  "q": "Did a recent bulletin to private companies warn that Iranian-aligned cyber actors historically view the US financial services sector as a priority target?",
+  "a": "Yes",
+  "q": "Did the DHS bulletin reference a decree from the Iranian Revolutionary Guard Corps stating that the enemy would no longer have security anywhere in the world?",
+  "a": "Yes",
+  "q": "Did the FBI and National Security Agency warn defense contractors that Iranian-affiliated cyber actors were unlikely to target US devices and networks in the near term?",
+  "a": "No",
+  "q": "Did the bulletin to private companies note that numerous recent public claims of responsibility by Iranian-affiliated hackers targeting Israel and allied nations were unverified?",
+  "a": "Yes",
+  "q": "Did US security officials warn that defense-related companies with relationships to Israeli research and defense firms were at a decreased risk of Iranian cyber attacks?",
+  "a": "No"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Assistant Secretary of State Dylan Johnson report that nearly 20,000 Americans had been evacuated from the Middle East in a press release on Thursday, March 5, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the military operation dubbed Operation Epic Fury result in the death of Iran’s Supreme Leader Ayatollah Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States launch strikes against Iran in June 2026 under the name Operation Midnight Hammer?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. Senate vote against a resolution that would have limited President Donald Trump’s power to continue the war in Iran without congressional authorization?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did former Representative Marjorie Taylor Greene, who represented Texas, criticize the U.S. Embassy in Jerusalem for telling Americans they were on their own?",
+    "a": "No"
+  },
+  {
+    "q": "Did the State Department urge Americans in 14 countries, including Bahrain, Egypt, and Iran, to immediately depart if possible?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Defense Intelligence Agency's 2025 Worldwide Threat Assessment report conclude that Iran was actively producing nuclear weapons at the time of the report?",
+    "a": "No"
+  },
+  {
+    "q": "Did six U.S. service members die in the conflict as of the update provided on Thursday, March 5, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump state that the strikes were intended to crush Iran’s nuclear and missile capabilities and urge Iranians to overthrow their leaders?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Associated Press report that more than 50,000 flights scheduled to fly to or from the Middle East had been canceled?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. oil prices post the biggest weekly gain on record in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was shipping through the Strait of Hormuz continuing at normal levels in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Goldman Sachs Group Inc. flag the risk of oil topping $100 a barrel in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Federal Reserve report a stronger labor market than previously thought in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Were oil prices above $90 a barrel in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the war in Iran involve North Korea in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the disruption in energy market flows threaten to boost inflation in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did shipping through the Strait of Hormuz grind to a virtual halt in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article cite Vince Golle and Molly Smith as the authors in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the war in Iran take place in the South China Sea in March 2026?",
+    "a": "No"
+  }
+]

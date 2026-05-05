@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did AMP chief economist Shane Oliver forecast a possible oil price peak of $US150 a barrel in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Australian share market (ASX 200) rise by 0.8% on 20 March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Treasurer Jim Chalmers convene the Council of Financial Regulators in March 2026 to discuss the Middle East conflict?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Reserve Bank of Australia raise interest rates in February and March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Japan's share market remain open for trading on 20 March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the yield on the Australia 10-Year Treasury bond rise above 5% in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Super Members Council advise that switching superannuation to cash during market downturns typically makes investors better off?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Iranian attack on the Ras Laffan LNG facilities occur on 18 March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Australian dollar trade at 70.87 US cents on 20 March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did National Australia Bank chief economist Sally Auld state that stagflation was a likely outcome for the Australian economy in early 2026?",
+    "a": "No"
+  }
+]

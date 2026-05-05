@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the U.S. Joint Interagency Task Force-Counter Cartel formally launch in January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. military personnel physically participate in the raid that killed Nemesio Oseguera in Jalisco?",
+    "a": "No"
+  },
+  {
+    "q": "Was Nemesio Oseguera, known as 'El Mencho,' the leader of the Jalisco New Generation Cartel (CJNG)?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Brigadier General Maurizio Calabrese state that cartel motivations are identical to those of al Qaeda and the Islamic State?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Mexican government design and execute the operation that resulted in the death of 'El Mencho'?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the U.S. bounty for information leading to the arrest or capture of Nemesio Oseguera set at $5 million?",
+    "a": "No"
+  },
+  {
+    "q": "Did Jack Riley, a former senior official at the Drug Enforcement Administration, attribute new U.S. military assistance capabilities to the designation of Mexican cartels as terrorist organizations?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump's administration pressure Mexican President Claudia Sheinbaum to ramp up crackdowns on drug trafficking?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Mexican defense ministry confirm that U.S. intelligence directly conducted the raid on 'El Mencho'?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Brigadier General Maurizio Calabrese estimate that there are between 200,000 and 250,000 independent contractors helping to move drugs for cartels?",
+    "a": "Yes"
+  }
+]

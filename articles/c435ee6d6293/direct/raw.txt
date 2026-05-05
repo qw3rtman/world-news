@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the United States order 2,500 marines and an amphibious assault ship to the Middle East in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the amphibious assault ship USS Tripoli originate from a base in Japan before being ordered to the Middle East?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Secretary of War Pete Hegseth state that more than 15,000 targets have been struck in Iran since the war began on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's new Supreme Leader Mojtaba Khamenei publicly confirm his death in the airstrike that killed his father in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. Navy destroyer USS Oscar Austin shoot down an Iranian ballistic missile over Turkey in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israel report that more than 1,300 people were killed in Lebanon during the first 10 days of the conflict in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state that U.S. forces had obliterated military targets on Iran's Kharg Island in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the explosion in Tehran during the Al-Quds Day rally in March 2026 result in confirmed casualties?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran effectively close the Strait of Hormuz, through which a fifth of the world's traded oil passes, in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the 31st Marine Expeditionary Unit and the USS Tripoli begin their deployment to the Middle East from a base in the Persian Gulf?",
+    "a": "No"
+  }
+]

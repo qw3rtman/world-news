@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump vow to 'avenge' the deaths of three U.S. service members in a video statement posted on Truth Social on March 1, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. military strikes lead to the death of Iran’s Supreme Leader Ayatollah Ali Khamenei prior to the March 1, 2026, address?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Trump state that U.S. forces knocked out nine Iranian ships in a matter of minutes during Operation Epic Fury?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian President Masoud Pezeshkian declare that avenging Ayatollah Ali Khamenei’s killing is a 'legitimate duty and right'?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Central Command confirm that Iranian missile and drone strikes successfully targeted American carriers in Bahrain, the United Arab Emirates, and Iraq?",
+    "a": "No"
+  },
+  {
+    "q": "Did the USS Abraham Lincoln and USS Gerald R. Ford serve as the center of the U.S. naval presence in the Persian Gulf during the March 2026 conflict?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Trump issue a direct warning to Iran’s Revolutionary Guard urging them to surrender in exchange for immunity or face 'certain death'?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. military strikes target key Revolutionary Guard facilities, air defense systems, and naval assets inside Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did an F-35B with Marine Medium Tiltrotor Squadron (VMM) 265 take off from the flight deck of the amphibious assault ship USS America on March 1, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did protests against the war in Iran occur in New York City on Sunday, March 1, 2026?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Dubai crude oil prices surpass $166 a barrel to a new record high on Thursday, according to market data provider Platts?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Natasha Kaneva, JPMorgan's head of commodities research, state that Brent and WTI prices would ultimately reprice higher if the Strait of Hormuz does not reopen?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did daily transit calls through the Strait of Hormuz tumble to nearly zero from highs above 120 earlier this year, according to data analyzed by Charles Schwab?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Susan Bell, Rystad's senior vice president for commodity markets, describe the price in the Singapore market as 'a bit pie-in-the-sky' due to intense disruption in the Asian market?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Brent's May contract jump more than 48% since the start of the war through Wednesday, according to the article?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Andy Harbourne, Wood Mackenzie's senior oil markets analyst, identify West Texas Intermediate crude as an ideal substitute for Oman crude?",
+    "a": "No"
+  },
+  {
+    "q": "Did the price surge for Dubai crude appear more pronounced in the London market than in the Singapore market, according to the article?",
+    "a": "No"
+  },
+  {
+    "q": "Did Andy Harbourne expect U.S. oil prices to completely converge with Asian market moves if flows began normalizing by late April?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article state that oil transiting the Strait of Hormuz typically requires higher transportation costs to get to destinations in the global East compared to crude heading from the U.S.?",
+    "a": "No"
+  },
+  {
+    "q": "Did the article report that the Strait of Hormuz connects the Red Sea and the Mediterranean Sea?",
+    "a": "No"
+  }
+]

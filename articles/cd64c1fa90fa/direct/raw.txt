@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the U.S. House of Representatives pass the bill to fund the Department of Homeland Security on March 5, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. Senate advance the measure to fund the Department of Homeland Security through September by reaching the required 60-vote threshold on March 5, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump announce the replacement of DHS Secretary Kristi Noem shortly before the Senate vote on March 5, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Senate Democrats block the DHS funding bill in March 2026 because they demanded reforms to immigration enforcement following a fatal shooting by federal agents in Minneapolis in January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Senate Majority Leader John Thune argue that the shutdown was more urgent due to the ongoing war with Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did House Speaker Mike Johnson state in March 2026 that military action in Iran made it less urgent to fully fund the Department of Homeland Security?",
+    "a": "No"
+  },
+  {
+    "q": "Did the DHS funding lapse on February 14, 2026, leaving some workers who continued to work without paychecks in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. House Minority Leader Hakeem Jeffries support the GOP strategy for funding DHS in March 2026 by citing the need for homeland security after the strikes on Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Trump administration's immigration enforcement campaign remain funded during the March 2026 shutdown thanks to a cash infusion from the One Big Beautiful Bill Act passed last summer?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Democrats in March 2026 demand that federal immigration agents be allowed to wear masks and conduct arrests on private property without judicial warrants?",
+    "a": "No"
+  }
+]

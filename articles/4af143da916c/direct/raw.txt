@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Nate Swanson serve as Director for Iran at the National Security Council between 2022 and 2025?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump move the American embassy in Israel to Jerusalem in 2018?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump join Israel’s strikes on Iran’s nuclear program in June 2024?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Trump administration oust Venezuelan President Nicolás Maduro in January 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian Supreme Leader Ali Khamenei agree to negotiate the dismantling of Iran’s ballistic missile program in exchange for a nuclear deal in 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iran send Foreign Minister Abbas Araghchi and a team of technical experts to negotiations with the United States in Geneva in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli Prime Minister Benjamin Netanyahu receive permission from U.S. President Donald Trump in December 2025 to strike Iran’s ballistic missile program?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran sink a U.S. aircraft carrier in response to threats in early 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian officials threaten to close the Strait of Hormuz in a speech by Supreme Leader Ali Khamenei in early 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran directly attack Saudi Arabia’s Abqaiq oil processing facility in 2026?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump and Israel launch military strikes against Iran on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Iranian Supreme Leader Ayatollah Ali Khamenei killed in the joint U.S.-Israeli strikes on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the joint U.S.-Israeli military operation against Iran dubbed \"Operation Desert Storm\"?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United States and Israel launch over 1,200 strikes aimed at destroying Iran's ballistic missile and nuclear development programs?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israel launch the initial \"preemptive strike\" on Iran from its defense ministry on March 15, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israel bomb the offices of Al-Qard al-Hassan, a Hezbollah-linked financial institution, in Tyre, Lebanon, on March 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian Foreign Minister Ebrahim Raisi state in an interview on March 15, 2026, that the war would end only when Tehran was certain it would not be restarted?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Central Command (CENTCOM) release images of an unmanned aerial vehicle and a rocket launch to accompany the press release for the operation?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran target Kurdish guerilla groups in Syria on March 5, 2026, as part of its retaliation?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump confirm the killing of Supreme Leader Ayatollah Ali Khamenei on Truth Social?",
+    "a": "Yes"
+  }
+]

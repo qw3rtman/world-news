@@ -1,0 +1,40 @@
+{
+  "q": "Did oil prices spike to $119 during the Iran war?",
+  "a": "Yes"
+}
+{
+  "q": "Did oil prices continue to rise on Friday after spiking in the previous session?",
+  "a": "Yes"
+}
+{
+  "q": "Was the article published by The Wall Street Journal on March 20, 2026?",
+  "a": "No"
+}
+{
+  "q": "Did oil prices drop significantly on Friday after the previous session's spike?",
+  "a": "No"
+}
+{
+  "q": "Was the Iran war the stated cause for the surge in oil prices?",
+  "a": "Yes"
+}
+{
+  "q": "Did oil prices spike to $150 during the Iran war?",
+  "a": "No"
+}
+{
+  "q": "Was the article published in March 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did oil prices remain flat on Friday after the previous session's spike?",
+  "a": "No"
+}
+{
+  "q": "Was Brandon Bell credited as the photographer for the image in the article?",
+  "a": "Yes"
+}
+{
+  "q": "Did the article attribute the oil price surge to a conflict in Russia?",
+  "a": "No"
+}

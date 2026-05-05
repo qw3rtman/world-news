@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Brandon Craig become the incoming CEO of BHP Group Ltd in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did outgoing CEO Mike Henry sell BHP's oil and gas business to Woodside Energy?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did BHP Group Ltd acquire Anglo American PLC twice under Mike Henry's leadership?",
+    "a": "No"
+  },
+  {
+    "q": "Did copper displace iron ore to account for more than half of BHP's EBITDA by March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did BHP's stock return of 170% under Mike Henry exceed the return enjoyed by Fortescue Ltd shareholders?",
+    "a": "No"
+  },
+  {
+    "q": "Did Mike Henry refuse to overpay for Anglo American PLC despite the prospect of boosting copper resources?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did BHP Group Ltd eliminate its dual stock listing under Mike Henry's leadership?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did BHP's forward EBITDA multiple of 6.1 times exceed the average 9 times sported by specialized miners of copper in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did BHP Group Ltd's stock performance under Mike Henry trail that of Rio Tinto and Anglo American PLC?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did incoming CEO Brandon Craig previously serve as the president of BHP's European operations?",
+    "a": "No"
+  }
+]

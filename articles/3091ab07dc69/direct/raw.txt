@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump state on March 16, 2026, that he is seeking to delay a trip to China?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the reason cited by U.S. President Donald Trump for delaying the trip to China in early April 2026 the Iran war?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump tell reporters at the White House that he requested to delay the trip by about a month?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the China's embassy in Washington immediately respond to a request for comment on March 16, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state on March 16, 2026, that he was seeking to delay the trip by two months?",
+    "a": "No"
+  },
+  {
+    "q": "Was the trip to China scheduled for late June 2026 according to U.S. President Donald Trump's statement on March 16, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump make his statement regarding the trip delay at the United Nations headquarters on March 16, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state on March 16, 2026, that the delay was due to domestic economic sanctions?",
+    "a": "No"
+  },
+  {
+    "q": "Did the China's embassy in Washington provide a detailed explanation for the delay on March 16, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state on March 16, 2026, that the trip to China was cancelled indefinitely?",
+    "a": "No"
+  }
+]

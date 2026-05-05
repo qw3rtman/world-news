@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump schedule a visit to China for March 31 to April 2, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Chinese Premier Li Qiang announce the year's growth targets during the annual parliamentary meeting in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the 2026 visit by U.S. President Donald Trump the first visit to China by a sitting U.S. president since 2017?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. share of China's overall exports increase from 9.6% at the end of 2025 to 18% at the end of 2017?",
+    "a": "No"
+  },
+  {
+    "q": "Did China's Commerce Ministry issue a statement urging the U.S. to cancel its tariffs after breaking its holiday silence on a Monday in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Allianz Research identify the U.S. and the European Union as the biggest winners of the current trade dynamics, rather than the Global South and China?",
+    "a": "No"
+  },
+  {
+    "q": "Did Macquarie's Chief China Economist Larry Hu note that U.S. economic growth has been largely propelled by investment in artificial intelligence?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Chinese President Xi Jinping confirm the dates for U.S. President Donald Trump's visit to China in March and April 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Hai Zhao, a director at the Chinese Academy of Social Sciences, suggest that publishing whitelists supporting cross-border investment could send a positive signal during the Trump-Xi meeting?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Ludovic Subran, chief investment officer at Allianz Research, state that the U.S. Supreme Court tariff ruling would simplify inventory management for companies?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Iranian missiles strike the service center of the US Fifth Fleet in Manama, Bahrain, in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Qatar’s former prime minister Sheikh Hamad bin Jassim bin Jaber Al Thani urge the Gulf Cooperation Council to engage in a direct military confrontation with Iran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the joint US-Israeli assault that began in March 2026 result in the death of Iran’s Supreme Leader Ayatollah Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Oman mediate indirect talks between Washington and Tehran in February 2026, with Foreign Minister Badr Albusaidi declaring peace was within reach?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Arab Emirates recall its ambassador to Israel in March 2026 as a signal of support for Israel’s military actions?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Peninsula Shield Force (PSF) evolve into the Unified Military Command in 2013?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Monica Marks, a professor at New York University Abu Dhabi, argue that the Gulf states’ primary fear is the loss of their soft power and brand as stable havens rather than physical infrastructure damage in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Faisal Al-Mudahka, editor-in-chief of the Doha-based Gulf Times, state that the conflict was Israel and the US's war and had nothing to do with the Gulf states in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran’s retaliatory strikes in March 2026 kill at least 148 people in a single strike on a school in Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did Sheikh Hamad bin Jassim bin Jaber Al Thani warn that Israel will hold sway over the region after the battle concludes in March 2026?",
+    "a": "Yes"
+  }
+]

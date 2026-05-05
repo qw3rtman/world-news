@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did supporters rally in Tehran holding portraits of Supreme Leader Ali Khamenei on March 1, 2026, shortly after news of his death was confirmed?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the constitution of the Islamic Republic require the Assembly of Experts to choose a new supreme leader within a specific, fixed deadline?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Masoud Pezeshkian serve as a member of the interim three-member council formed immediately after the death of Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Mojtaba Khamenei, the son of the late Supreme Leader, officially designated as the successor in a public will?",
+    "a": "No"
+  },
+  {
+    "q": "Does the interim three-member council assume the powers of the supreme leader until a permanent successor is appointed?",
+    "a": "Yes"
+  },
+  {
+    "q": "Are all candidates for the Assembly of Experts vetted by the Supreme National Security Council for religious and political qualifications?",
+    "a": "No"
+  },
+  {
+    "q": "Is Hassan Khomeini, the grandson of Ruhollah Khomeini, associated with reformist and centrist political circles?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the interim council have the authority to appoint the head of the judiciary independently of the supreme leader's powers?",
+    "a": "No"
+  },
+  {
+    "q": "Are senior commanders of the Islamic Revolutionary Guard Corps widely believed to play a decisive role in shaping elite consensus during the succession process?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Alireza Arafi serve as the head of Iran’s seminaries and a member of the Guardian Council before joining the interim council?",
+    "a": "Yes"
+  }
+]

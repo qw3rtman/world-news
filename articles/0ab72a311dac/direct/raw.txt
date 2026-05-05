@@ -1,0 +1,22 @@
+{
+  "q": "Did Nvidia announce a planned $2 billion investment in Nebius Group on Wednesday, March 11, 2026?",
+  "a": "Yes",
+  "q": "Has Nebius Group stock experienced strong momentum due to the rapid buildout of artificial-intelligence infrastructure across the globe?",
+  "a": "Yes",
+  "q": "Is the Nvidia investment described as the primary driver of Nebius Group's stock momentum, rather than a supplementary factor?",
+  "a": "No",
+  "q": "Did Nvidia announce a planned $5 billion investment in Nebius Group on Wednesday, March 11, 2026?",
+  "a": "No",
+  "q": "Was the Nvidia investment in Nebius Group announced on a date other than Wednesday, March 11, 2026?",
+  "a": "No",
+  "q": "Did Nvidia announce a planned $2 billion investment in Tesla Inc. on Wednesday, March 11, 2026?",
+  "a": "No",
+  "q": "Is the global buildout of artificial-intelligence infrastructure cited as a reason for Nebius Group's stock momentum?",
+  "a": "Yes",
+  "q": "Did Nvidia announce a planned $2 billion investment in Nebius Group on Thursday, March 12, 2026?",
+  "a": "No",
+  "q": "Is the Nvidia investment characterized as 'icing on the technical cake' rather than the sole cause of the stock's performance?",
+  "a": "Yes",
+  "q": "Did Nvidia announce a planned $2 billion investment in Nebius Group on Tuesday, March 10, 2026?",
+  "a": "No"
+}

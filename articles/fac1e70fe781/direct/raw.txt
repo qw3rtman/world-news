@@ -1,0 +1,22 @@
+{
+  "q": "Did the article titled 'Fukushima and the ‘Lessons Learned’ From Nuclear Disasters' appear in The Diplomat magazine on March 11, 2026?",
+  "a": "Yes",
+  "q": "Was Maxime Polleri the author of the article 'Fukushima and the ‘Lessons Learned’ From Nuclear Disasters' published in The Diplomat in March 2026?",
+  "a": "Yes",
+  "q": "Did the article argue that nuclear accidents have become opportunities to strengthen and improve nuclear safety?",
+  "a": "Yes",
+  "q": "Did the article claim that the lasting harm done to victims is conveniently forgotten in the discourse on nuclear disasters?",
+  "a": "Yes",
+  "q": "Did the article argue that nuclear accidents have led to a permanent reduction in global nuclear energy production?",
+  "a": "No",
+  "q": "Was the article 'Fukushima and the ‘Lessons Learned’ From Nuclear Disasters' published in The Diplomat on February 11, 2026?",
+  "a": "No",
+  "q": "Was the author of the article 'Fukushima and the ‘Lessons Learned’ From Nuclear Disasters' identified as John Smith?",
+  "a": "No",
+  "q": "Did the article claim that the lasting harm done to victims is universally acknowledged and prioritized in current nuclear safety policies?",
+  "a": "No",
+  "q": "Did the article argue that nuclear accidents have provided no opportunities for improving nuclear safety standards?",
+  "a": "No",
+  "q": "Was the article 'Fukushima and the ‘Lessons Learned’ From Nuclear Disasters' published in The Diplomat in April 2026?",
+  "a": "No"
+}

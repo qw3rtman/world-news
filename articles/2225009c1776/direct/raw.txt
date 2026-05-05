@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. military planning on Iran in February 2026 include options for targeting individual leaders and pursuing regime change if ordered by President Donald Trump?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump publicly endorse the idea of regime change in Iran in the days leading up to February 20, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Trump administration formally label Iran's Islamic Revolutionary Guard Corps as a foreign terrorist organization in 2020?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. officials cite Israel's 12-day war with Iran in 2025 as a model for targeting Iranian leaders in 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Major General Mohammad Bagheri survive the 12-day war between Israel and Iran in 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump use special operations forces to oust Venezuela's President Nicolas Maduro in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump set a deadline of 10 to 15 days for a potential U.S. military action against Iran in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's Revolutionary Guard warn that it would not retaliate against U.S. military bases in the region if the U.S. struck Iranian territory?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian Foreign Minister Abbas Araqchi agree on guiding principles with U.S. negotiators in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did a Russian warship join planned Iranian naval drills in the Gulf of Oman in February 2026?",
+    "a": "Yes"
+  }
+]

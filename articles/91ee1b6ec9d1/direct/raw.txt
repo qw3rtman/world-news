@@ -1,0 +1,22 @@
+{
+  "q": "Did the deployment of approximately 2,500 Marines to the Middle East occur in March 2026?",
+  "a": "Yes",
+  "q": "Is the 31st Marine Expeditionary Unit officially designated as the unit being deployed to the Middle East?",
+  "a": "Yes",
+  "q": "Did the 31st Marine Expeditionary Unit arrive in the Middle East from the Indo-Pacific region?",
+  "a": "Yes",
+  "q": "Is the Strait of Hormuz a waterway through which one-fifth of the world’s oil passes?",
+  "a": "Yes",
+  "q": "Did Iranian forces deploy fast boats carrying mines to evade U.S. airstrikes?",
+  "a": "Yes",
+  "q": "Did U.S. airstrikes force Iranian forces to abandon their larger naval vessels?",
+  "a": "Yes",
+  "q": "Did President Donald Trump authorize a raid to capture President Nicolás Maduro of Venezuela in February 2026?",
+  "a": "No",
+  "q": "Did President Donald Trump direct the Pentagon to damage Iran’s oil infrastructure on Kharg Island?",
+  "a": "No",
+  "q": "Did the 31st Marine Expeditionary Unit originate from the European theater?",
+  "a": "No",
+  "q": "Did Iranian forces continue to use larger naval vessels despite U.S. airstrikes?",
+  "a": "No"
+}

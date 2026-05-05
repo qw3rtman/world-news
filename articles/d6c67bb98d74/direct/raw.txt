@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump state that the United States would do 'whatever it takes' regarding Iran in the news reported on February 26, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. fighter jets shoot down Iranian aircraft in Kuwait during the Iran crisis reported in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Arab Emirates and Qatar urge their allies to help U.S. President Donald Trump find an off-ramp on the Iran situation in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Qatar shut down the world’s largest LNG export plant, causing gas prices to surge, in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Emirates and Etihad restart all international flights immediately following the Iranian strikes reported in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Treasury yields rise as oil prices jumped and inflation fears increased in the markets reported on February 26, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump claim that the war with Iran would be endless in his statements reported in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Institute for Supply Management’s gauge of prices paid for manufacturing inputs jump to its highest level since inflation peaked nearly four years ago before the Iran attack in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Noah Feldman write an opinion piece arguing that decades of presidents ignoring the War Powers Act led to the current situation in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did gold and the dollar fall as investors piled into safe-haven assets during the market wrap reported on February 26, 2026?",
+    "a": "No"
+  }
+]

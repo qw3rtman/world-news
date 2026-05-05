@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did EQT AB hire investment bank Arma Partners to sound out private equity investors for a potential sale of SUSE in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did EQT AB take SUSE private in 2023 with a valuation of approximately 2.72 billion euros?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is SUSE described as the world’s first provider of an enterprise Linux distribution?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did EQT AB base its decision to sell SUSE primarily on a broader rally in software stocks that increased M&A activity in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did EQT AB take SUSE private in 2024 with a valuation of 2.72 billion euros?",
+    "a": "No"
+  },
+  {
+    "q": "Did Roland Dyroff, Thomas Fehr, Hubert Mantel, and Burchard Steinbild found SUSE in 1992?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is SUSE headquartered in Germany?",
+    "a": "No"
+  },
+  {
+    "q": "Does SUSE claim that more than 60% of the Fortune 500 rely on its products for some of their workloads?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did EQT AB value SUSE at 6 billion euros when it took the company private in 2023?",
+    "a": "No"
+  },
+  {
+    "q": "Is Intel listed as one of SUSE's customers?",
+    "a": "Yes"
+  }
+]

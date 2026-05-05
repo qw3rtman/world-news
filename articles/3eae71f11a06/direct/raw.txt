@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the National Rally (RN) win the mayoral election outright in the first round in Perpignan, France, in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the National Rally (RN) secure over 8% of the vote in Paris, France, during the first round of the 2026 municipal elections?",
+    "a": "No"
+  },
+  {
+    "q": "Did France Unbowed (LFI) win the mayoral election outright in the first round in Saint-Denis, France, in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Jean-Luc Mélenchon, leader of France Unbowed (LFI), receive widespread praise for his remarks regarding figures with Jewish-sounding names during the 2026 campaign?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Green party candidate in Strasbourg, France, place only third in the first round of the 2026 municipal elections?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Green party candidates in Bordeaux and Lyon, France, secure an outright victory in the first round of the 2026 municipal elections?",
+    "a": "No"
+  },
+  {
+    "q": "Did former Prime Minister Edouard Philippe win 43.8% of the vote in the first round of the mayoral election in Le Havre, France, in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did former Prime Minister Gabriel Attal, France, easily defeat Edouard Philippe for the mayoral seat in Le Havre during the 2026 first round?",
+    "a": "No"
+  },
+  {
+    "q": "Did Socialist Emmanuel Grégoire lead the first round of the Paris, France, mayoral election with 38% of the vote in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Sarah Knafo, a candidate associated with the nationalist fringe, capture less than 10% of the vote in the Paris, France, mayoral election in March 2026?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did China’s Ministry of Foreign Affairs call for an immediate ceasefire following US-Israeli strikes against Iran in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did China’s envoy Fu Cong state that the indiscriminate use of force is unacceptable during an emergency session of the United Nations Security Council on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran’s Supreme Leader Ali Khamenei survive the US-Israeli military operation launched on February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did China’s embassy in Israel advise Chinese citizens to evacuate to Egypt via the Taba border crossing on March 1, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Hong Kong-based airline operator Cathay Group suspend all global operations on February 28, 2026, citing regional tensions?",
+    "a": "No"
+  },
+  {
+    "q": "Did the US and Israel launch strikes targeting Iran’s military capability on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Cathay Group suspend passenger flights to and from Dubai and Riyadh on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did China’s Ministry of Foreign Affairs urge all sides to escalate tensions and avoid dialogue following the strikes on Iran in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Cathay Group reroute flights that typically pass over the affected Middle East area on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did China’s envoy Fu Cong express satisfaction with the reports of civilian casualties during the UN Security Council session on February 28, 2026?",
+    "a": "No"
+  }
+]

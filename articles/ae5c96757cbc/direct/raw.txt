@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Joe Kent resign from his position as National Counterterrorism Center director in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Joe Kent state in his resignation letter that Iran posed an imminent threat to the United States?",
+    "a": "No"
+  },
+  {
+    "q": "Did Republican Senator Mitch McConnell describe Joe Kent’s resignation letter as containing \"virulent anti-Semitism\"?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the FBI begin its investigation into Joe Kent for alleged leaks of classified information after he resigned this week?",
+    "a": "No"
+  },
+  {
+    "q": "Did Joe Kent acknowledge in his Senate confirmation hearings that a political consultant had set up a call with right-wing white nationalist Nick Fuentes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Joe Kent confirmed as National Counterterrorism Center director by a Senate vote of 52-44 with every Democrat opposing and every Republican supporting his nomination?",
+    "a": "No"
+  },
+  {
+    "q": "Did Joe Kent’s first wife, Shannon Kent, die in 2019 while serving as a Navy cryptologist in Syria?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Joe Kent focus heavily on Middle East threats rather than Latin American drug cartels during his Senate confirmation hearings?",
+    "a": "No"
+  },
+  {
+    "q": "Did Defense Secretary Pete Hegseth provide information about the timing of airstrikes against Houthis in Yemen in March 2025 in a Signal chat that inadvertently included The Atlantic editor in chief?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Joe Kent endorse the conspiracy theory that the January 6, 2021, attack on the Capitol was instigated by federal agents?",
+    "a": "No"
+  }
+]

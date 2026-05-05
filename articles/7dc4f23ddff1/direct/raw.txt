@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the Strait of Hormuz remain effectively closed in March 2026 due to the ongoing Iran war?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did crude oil prices fall below $70 per barrel in the days following the start of military operations on February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did President Donald Trump urge NATO member countries to send troops to help open the Strait of Hormuz in a March 21, 2026 social media post?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States International Development Corporation provide insurance to all ships passing through the Persian Gulf starting on March 16, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the national average gas price in the United States jump to $3.92 per gallon as of March 20, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the leaders of the U.K., France, Germany, Italy, the Netherlands, and Japan specify which countries would assist the U.S. with reopening the strait in their March 19, 2026 joint statement?",
+    "a": "No"
+  },
+  {
+    "q": "Did the East-West Pipeline (Petroline) in Saudi Arabia serve as an alternative route for oil exports that could accommodate the full volume of oil ordinarily passing through the Strait of Hormuz?",
+    "a": "No"
+  },
+  {
+    "q": "Did Brent crude oil reach approximately $120 per barrel as of March 21, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump state on March 16, 2026, that the U.S. has the Strait of Hormuz in 'very good shape'?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Strait of Hormuz physically block all ship traffic through a physical blockade enforced by Iranian forces in March 2026?",
+    "a": "No"
+  }
+]

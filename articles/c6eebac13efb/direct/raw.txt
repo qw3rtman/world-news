@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did US President Donald Trump plan to announce an international coalition to escort commercial vessels through the Strait of Hormuz in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the ongoing conflict described in the report result in the deaths of 13 US service members?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran restrict passage through the Strait of Hormuz using sea mines and small vessels?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did approximately 20 percent of the world’s daily oil supply pass through the Strait of Hormuz at the time of the report?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did global oil prices fall below $100 per barrel since US operations began two weeks prior to the March 2026 report?",
+    "a": "No"
+  },
+  {
+    "q": "Did China, France, Japan, South Korea, and Britain commit to sending warships to the Strait of Hormuz in response to Trump's appeal in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did US gas prices rise by more than $70 per gallon following the escalation of tensions in early 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the conflict result in the death of Iran’s president in early 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Republicans in Congress urge the White House to act to prevent a short-term economic shock at the start of an election year in 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the US Navy refuse to support commercial vessels navigating the Strait of Hormuz in March 2026?",
+    "a": "No"
+  }
+]

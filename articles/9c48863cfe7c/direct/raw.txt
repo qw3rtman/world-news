@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did GitLab Inc. report total revenue of $260.4 million for the fourth quarter of fiscal year 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did GitLab Inc. report a GAAP operating margin of 21% for the fourth quarter of fiscal year 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Board of Directors of GitLab Inc. authorize a $400 million share repurchase program in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Jessica Ross serve as the Chief Technology Officer of GitLab Inc. during the fourth quarter of fiscal year 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did GitLab Inc. hold its GitLab Transcend event on February 10, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did GitLab Inc. report a Dollar-Based Net Retention Rate of 108% for the fourth quarter of fiscal year 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did GitLab Inc. announce the general availability of the GitLab Duo Agent Platform in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did GitLab Inc. report total revenue of $1.1 billion for the full fiscal year 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did GitLab Inc. host a conference call on March 3, 2026, to discuss its fourth quarter and full fiscal year 2026 financial results?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did GitLab Inc. report a non-GAAP operating margin of 7% for the full fiscal year 2026?",
+    "a": "No"
+  }
+]

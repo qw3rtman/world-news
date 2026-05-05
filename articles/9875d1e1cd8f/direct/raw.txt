@@ -1,0 +1,40 @@
+{
+  "q": "Did share futures slide in Asia on Monday, March 2, 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did surging oil prices threaten to raise living costs across the globe on Monday, March 2, 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did surging oil prices threaten to raise interest rates across the globe on Monday, March 2, 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did an investor hunger for liquidity keep the U.S. dollar in demand on Monday, March 2, 2026?",
+  "a": "Yes"
+}
+{
+  "q": "Did share futures rise in Asia on Monday, March 2, 2026?",
+  "a": "No"
+}
+{
+  "q": "Did falling oil prices threaten to raise living costs across the globe on Monday, March 2, 2026?",
+  "a": "No"
+}
+{
+  "q": "Did an investor hunger for liquidity keep the Euro in demand on Monday, March 2, 2026?",
+  "a": "No"
+}
+{
+  "q": "Did share futures slide in Europe on Monday, March 2, 2026?",
+  "a": "No"
+}
+{
+  "q": "Did surging oil prices threaten to lower interest rates across the globe on Monday, March 2, 2026?",
+  "a": "No"
+}
+{
+  "q": "Did an investor hunger for liquidity keep the British Pound in demand on Monday, March 2, 2026?",
+  "a": "No"
+}

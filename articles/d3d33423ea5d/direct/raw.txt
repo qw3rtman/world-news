@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump state that he had 'no time limits' on the duration of the war with Iran during the conflict in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States submarine attack that sank the Iranian frigate IRIS Dena occur in international waters off the coast of Sri Lanka in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israel launch its first wave of strikes against Tehran on February 28, 2026, marking the beginning of the conflict?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's Ministry of Intelligence claim to have targeted Kurdish groups in Iraq with the support of the United States in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Qatar's Ministry of Defence confirm that air defense systems intercepted missile strikes over the capital Doha in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's Islamic Revolutionary Guard Corps announce that the Strait of Hormuz was closed to all international shipping in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the US submarine that sank the IRIS Dena use a missile rather than a torpedo in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the drone attacks near the Iran-Azerbaijan border in March 2026 result in casualties among Azerbaijani military personnel only, with no civilian injuries?",
+    "a": "No"
+  },
+  {
+    "q": "Did Canadian Prime Minister Mark Carney confirm in March 2026 that Canada would not participate in the US-Israeli war with Iran under any circumstances?",
+    "a": "No"
+  },
+  {
+    "q": "Did the US evacuation effort in March 2026 result in fewer than 10,000 US citizens returning home from the Middle East since February 28?",
+    "a": "No"
+  }
+]

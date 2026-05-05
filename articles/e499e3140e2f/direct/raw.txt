@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the article titled \"Cost-effective plant-based medium for enhanced spore production of B. amyloliquefaciens CN12 for biofertilizer application\" appear in the journal Scientific Reports in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the author correction for the Global Burden of Disease study on chronic respiratory diseases appear in the journal Nature Medicine on March 11, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the research article titled \"The open-source multi-wavelength non-invasive blood glucose sensing system\" appear in the journal Nature Medicine in December 2025?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Global Burden of Disease study on chronic respiratory diseases report declines in mortality between 1990 and 2023, particularly during the COVID-19 pandemic?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the phase 3 trial on genotype-stratified adjunctive dexamethasone for tuberculous meningitis find that outcomes were significantly better for human immunodeficiency virus-negative Vietnamese adults stratified by LTA4H genotype?",
+    "a": "No"
+  },
+  {
+    "q": "Did the study on the identity of Vietnamese narrative culture appear in the journal Humanities and Social Sciences Communications in January 2021?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Global Burden of Disease study on dietary iron deficiency report that the burden remains high in men, children, and residents in high socio-demographic index countries?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Global Burden of Disease study on drug use disorders show that the prevalence of amphetamine, cannabis, cocaine, and opioid use disorders increased in high-income countries, particularly in the USA, between 1990 and 2023?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the benchmark titled \"A benchmark of expert-level academic questions to assess AI capabilities\" describe itself as an open-ended academic benchmark with narrow subject coverage?",
+    "a": "No"
+  },
+  {
+    "q": "Did the camera-trap evidence article confirm that the silver-backed chevrotain Tragulus versicolor remains in the wild in Vietnam after more than 25 years?",
+    "a": "Yes"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Servier, a French pharmaceutical company, agree to acquire Day One Biopharmaceuticals in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is the acquisition value of Day One Biopharmaceuticals by Servier approximately $2.5 billion?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Day One Biopharmaceuticals a publicly traded company based in the Bay Area?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Servier offer to pay $21.50 per share in cash for Day One Biopharmaceuticals?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Servier offer a 68% premium on Day One Biopharmaceuticals' closing price on Friday?",
+    "a": "No"
+  },
+  {
+    "q": "Is Ojemda the name of the drug developed by Servier for treating pediatric low-grade glioma?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. approve Ojemda for the treatment of pediatric low-grade glioma in 2024?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is pediatric low-grade glioma the most common form of childhood brain cancer?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is Servier a publicly held company?",
+    "a": "No"
+  },
+  {
+    "q": "Will the acquisition of Day One Biopharmaceuticals expand Servier's pipeline of experimental medicines for rare cancers?",
+    "a": "Yes"
+  }
+]

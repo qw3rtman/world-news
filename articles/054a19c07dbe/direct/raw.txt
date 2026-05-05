@@ -1,0 +1,22 @@
+{
+  "q": "Did sources indicate that a US strike likely hit a school in Iran due to outdated intelligence?",
+  "a": "Yes",
+  "q": "Did Iranian state media report that the attack on the elementary school killed at least 168 children and 14 teachers?",
+  "a": "Yes",
+  "q": "Did a source state that the new Iranian supreme leader had a fractured foot and face lacerations on the first day of war?",
+  "a": "Yes",
+  "q": "Did sources claim that Russia is helping Iran with drone tactics?",
+  "a": "Yes",
+  "q": "Did sources say that Iran is placing explosive mines along a key oil route?",
+  "a": "Yes",
+  "q": "Did the article state that the US strike on the Iranian school killed at least 168 adults and 14 children?",
+  "a": "No",
+  "q": "Did sources say that the new Iranian supreme leader had a broken arm and back injuries on the first day of war?",
+  "a": "No",
+  "q": "Did sources claim that China is helping Iran with drone tactics?",
+  "a": "No",
+  "q": "Did sources say that Iran is placing explosive mines along a key water pipeline?",
+  "a": "No",
+  "q": "Did the article report that the US strike on the Iranian school was confirmed to have missed the school entirely?",
+  "a": "No"
+}

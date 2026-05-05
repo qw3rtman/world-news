@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the assassination of Iran's Supreme Leader Ayatollah Ali Khamenei occur in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Islamic Revolutionary Guards Corps (IRGC) immediately dissolve following the death of Ayatollah Ali Khamenei in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ali Larijani announce the formation of a temporary leadership council to oversee the transition after the death of Ayatollah Ali Khamenei in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Assembly of Experts, an 88-member clerical body, directly appoint Hassan Khomeini as the permanent successor to Ayatollah Ali Khamenei in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli Foreign Ministry spokesperson Oren Marmorstein state in March 2026 that Israel's objective was to remove the Iranian regime?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's Supreme National Security Council secretary Ali Larijani identify himself as a potential successor to Ayatollah Ali Khamenei in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did a 12-day war with Israel occur in June 2025 that targeted Ayatollah Ali Khamenei and his inner circle?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump publicly endorse Gholam-Hossein Mohseni-Eje'i as the successor to Ayatollah Ali Khamenei in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did analysts suggest that the Islamic Revolutionary Guards Corps (IRGC) might evolve into a less hardline force to ensure the system's survival in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the assassination of Ayatollah Ali Khamenei in March 2026 trigger a rapid and immediate collapse of the Islamic Republic's political order?",
+    "a": "No"
+  }
+]

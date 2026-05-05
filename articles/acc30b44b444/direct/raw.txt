@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Hezbollah spend months restocking its arsenal of rockets and drones before launching attacks in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Hezbollah draw on a monthly budget of $50 million to fund its rearmament efforts in early 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Hezbollah launch its initial attacks on Israel on March 2, 2026, to avenge the death of Iran's Supreme Leader Ali Khamenei?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Israeli think tank ALMA assess that Hezbollah possessed approximately 25,000 rockets and missiles on the eve of the March 2026 attacks?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Hezbollah lose 5,000 fighters during the 2024 conflict with Israel?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump broker the ceasefire that ended the 2024 war between Hezbollah and Israel?",
+    "a": "No"
+  },
+  {
+    "q": "Did Hezbollah rely exclusively on smuggling Iranian arms for its rearmament, with no local manufacturing capabilities in early 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Hezbollah launch fewer than 60 drones and rockets on March 4, 2026, indicating depleted stockpiles?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Lebanese Armed Forces successfully disarm all Hezbollah weapons in southern Lebanon by February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Hezbollah's elite Radwan force remain stationed in southern Lebanon throughout the 2024 conflict without withdrawal?",
+    "a": "No"
+  }
+]

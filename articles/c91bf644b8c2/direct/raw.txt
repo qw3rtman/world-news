@@ -1,0 +1,22 @@
+{
+  "q": "Did the article state that the planned summit between President Xi Jinping and Donald Trump is scheduled to take place in China?",
+  "a": "Yes",
+  "q": "Did the article state that the summit between President Xi Jinping and Donald Trump is scheduled to occur one month after March 1, 2026?",
+  "a": "Yes",
+  "q": "Did the article state that Chinese Foreign Minister Wang Yi called the US and Israeli military strikes on Iran 'acceptable'?",
+  "a": "No",
+  "q": "Did the article state that the Islamic Republic’s Supreme Leader was killed in US and Israeli military strikes on Iran?",
+  "a": "Yes",
+  "q": "Did the article state that Chinese Foreign Minister Wang Yi spoke by phone with his Iranian counterpart to discuss the strikes on Iran?",
+  "a": "No",
+  "q": "Did the article state that Wang Yi warned the US president risked driving the Middle East into the 'abyss'?",
+  "a": "Yes",
+  "q": "Did the article state that the US leader’s removal of a friend of China was intended to reduce tensions between the world’s biggest economies?",
+  "a": "No",
+  "q": "Did the article state that the US and Israeli military strikes on Iran wiped out the Islamic Republic’s Supreme Leader?",
+  "a": "Yes",
+  "q": "Did the article state that Chinese Foreign Minister Wang Yi called the open killing of a sovereign country’s leader 'unacceptable'?",
+  "a": "Yes",
+  "q": "Did the article state that the planned summit between President Xi Jinping and Donald Trump is scheduled to take place in the United States?",
+  "a": "No"
+}

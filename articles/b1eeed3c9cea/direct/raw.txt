@@ -1,0 +1,22 @@
+{
+  "q": "Did the United States and Israel launch attacks on Iran in February 2026?",
+  "a": "Yes",
+  "q": "Was Ayatollah Ali Khamenei confirmed dead following the attacks on Iran in February 2026?",
+  "a": "Yes",
+  "q": "Did Iran threaten a 'regret-inducing punishment' after the confirmation of Ayatollah Ali Khamenei's death in February 2026?",
+  "a": "Yes",
+  "q": "Did U.S. President Donald Trump respond to Iran's threat by stating it 'better not' in February 2026?",
+  "a": "Yes",
+  "q": "Did the United States and Israel launch attacks on Iran in March 2026?",
+  "a": "No",
+  "q": "Was Ayatollah Ali Khamenei confirmed alive after the attacks on Iran in February 2026?",
+  "a": "No",
+  "q": "Did Iran threaten a 'military retaliation' after the confirmation of Ayatollah Ali Khamenei's death in February 2026?",
+  "a": "No",
+  "q": "Did U.S. President Donald Trump respond to Iran's threat by stating it 'must be stopped' in February 2026?",
+  "a": "No",
+  "q": "Did the United States and Israel launch attacks on Iraq in February 2026?",
+  "a": "No",
+  "q": "Did U.S. President Donald Trump respond to Iran's threat by stating it 'must be punished' in February 2026?",
+  "a": "No"
+}

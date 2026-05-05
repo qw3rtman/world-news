@@ -1,0 +1,22 @@
+{
+  "q": "Did Supreme Leader Ayatollah Ali Khamenei die after serving for almost 37 years in power?",
+  "a": "Yes",
+  "q": "Was the death of Ayatollah Ali Khamenei caused by natural causes during his sleep?",
+  "a": "No",
+  "q": "Did the United States and Israel conduct an airstrike campaign that resulted in the killing of Ayatollah Ali Khamenei?",
+  "a": "Yes",
+  "q": "Did the Russian military conduct the airstrike campaign that killed Ayatollah Ali Khamenei?",
+  "a": "No",
+  "q": "Did the succession process contours begin to take shape the morning after Ayatollah Ali Khamenei's killing?",
+  "a": "Yes",
+  "q": "Did the succession process contours begin to take shape immediately before Ayatollah Ali Khamenei's killing?",
+  "a": "No",
+  "q": "Is Ayatollah Ali Khamenei identified as the Supreme Leader of Iran?",
+  "a": "Yes",
+  "q": "Is Ayatollah Ali Khamenei identified as the President of Iran?",
+  "a": "No",
+  "q": "Was the news report filed from Dubai, United Arab Emirates?",
+  "a": "Yes",
+  "q": "Was the news report filed from Tehran, Iran?",
+  "a": "No"
+}

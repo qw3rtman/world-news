@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did sources familiar with the matter tell Reuters on March 11, 2026, that the strike on the Iranian girls' school in Minab may have resulted from the use of outdated targeting data?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the strike on the girls' school in Minab kill 150 students, according to Iran's ambassador to the U.N. in Geneva, Ali Bahreini?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did video surface that experts say appears to show a U.S. Tomahawk missile striking the area of the girls' school in Minab?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the girls' school in Minab adjacent to a compound operated by the Islamic Revolutionary Guard Corps, the military force that reports to Iran's supreme leader?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Pentagon state that the incident was under investigation and decline to provide further comment while the inquiry remained ongoing?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump claim without evidence that Iran was responsible for the strike on the girls' school in Minab in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the first day of U.S. and Israeli attacks on Iran occur in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. Defense Secretary Pete Hegseth admit that the United States had deliberately targeted the girls' school in Minab?",
+    "a": "No"
+  },
+  {
+    "q": "Did the New York Times first report the possible use of outdated targeting data for the strike on the Iranian girls' school on March 10, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the strike on the girls' school in Minab kill 150 teachers and staff members, according to Iran's ambassador to the U.N. in Geneva, Ali Bahreini?",
+    "a": "No"
+  }
+]

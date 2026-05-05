@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the United States military use artificial intelligence services from Anthropic during the strikes on Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump direct the government to stop working with Anthropic a day before the strikes on Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States deploy B-2 stealth bombers built by Northrop Grumman to strike underground Iranian missile facilities in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States military use one-way attack drones modeled after Iran's Shahed drones for the first time in combat during the March 2026 strikes on Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Pentagon plan to buy 57 Tomahawk cruise missiles in 2026 at an average cost of $1.3 million each?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Senator Ted Cruz publicly endorse the use of AI in the March 2026 strikes on Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United States use B-52 bombers to deliver 2,000-pound bombs on Iranian nuclear sites in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the LUCAS suicide drones used by the U.S. in March 2026 cost approximately $1.3 million each?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Tomahawk cruise missiles used in the March 2026 strikes on Iran carry nuclear warheads?",
+    "a": "No"
+  },
+  {
+    "q": "Did the F-18 fighter jets used in the March 2026 strikes on Iran manufacture by Lockheed Martin?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the killing of Ayatollah Ali Khamenei occur during US-Israeli air attacks in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Ali Shamkhani, the top security adviser to Ayatollah Ali Khamenei, killed in the same US-Israeli strikes that killed the Supreme Leader?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did United States President Donald Trump endorse Iran's retaliatory missile strikes against Gulf countries following the killing of Ayatollah Ali Khamenei?",
+    "a": "No"
+  },
+  {
+    "q": "Is the Assembly of Experts, an 88-member clerical body, responsible for selecting Iran’s next supreme leader?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mojtaba Khamenei, the second son of Ayatollah Ali Khamenei, hold a public office in Iran prior to his father's death in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was Ayatollah Alireza Arafi appointed to the three-member temporary leadership council in Iran after Ayatollah Ali Khamenei's death in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Hassan Khomeini, the grandson of Ayatollah Ruhollah Khomeini, successfully run for the Assembly of Experts in 2016?",
+    "a": "No"
+  },
+  {
+    "q": "Does Iran’s constitution require a two-thirds majority vote in the Assembly of Experts to appoint a new supreme leader?",
+    "a": "No"
+  },
+  {
+    "q": "Is Gholam-Hossein Mohseni-Ejei currently the head of the judiciary of the Islamic Republic of Iran as of March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the US-Israeli attacks on Iran in March 2026 occur after several rounds of diplomatic engagement raised hopes of a nuclear deal?",
+    "a": "Yes"
+  }
+]

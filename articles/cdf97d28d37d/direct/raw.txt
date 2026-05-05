@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the US and Israel execute the strike against Iran's Supreme Leader Ayatollah Ali Khamenei in the middle of the morning on Saturday, 28 February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did US President Donald Trump confirm in a social media post that the tracking methods used against Ayatollah Ali Khamenei were exclusively human sources?",
+    "a": "No"
+  },
+  {
+    "q": "Did the intelligence leading to the strike come from the CIA and get passed to Israel to carry out the actual strike?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli jets fire approximately 10 bombs at the compound in central Tehran around 09:40 local time?",
+    "a": "No"
+  },
+  {
+    "q": "Was Iran's Defence Minister Brig Gen Aziz Nasirzadeh confirmed dead in the strikes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the attack target the office of Iran's President Masoud Pezeshkian in the Iranian capital?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the US focus primarily on striking leadership targets while Israel focused on military targets during the operation?",
+    "a": "No"
+  },
+  {
+    "q": "Did the planning for the mission take place over a period of months?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's Defence Council secretary Ali Shamkhani survive the strikes?",
+    "a": "No"
+  },
+  {
+    "q": "Did it take approximately two hours for Israeli jets to reach Tehran from their launch point?",
+    "a": "Yes"
+  }
+]

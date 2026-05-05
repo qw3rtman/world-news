@@ -1,0 +1,22 @@
+{
+  "q": "Did Jeremy Siegel serve as a professor at the Wharton School?",
+  "a": "Yes",
+  "q": "Is Jeremy Siegel the chief economist at WisdomTree?",
+  "a": "Yes",
+  "q": "Did Jeremy Siegel appear on the program 'Closing Bell' in March 2026?",
+  "a": "Yes",
+  "q": "Did Jeremy Siegel predict that oil prices could reach $100 if there is no breakthrough in Iran?",
+  "a": "Yes",
+  "q": "Did Jeremy Siegel express caution regarding equity markets in March 2026?",
+  "a": "Yes",
+  "q": "Did Jeremy Siegel serve as the chief economist at Goldman Sachs in March 2026?",
+  "a": "No",
+  "q": "Did Jeremy Siegel predict that oil prices would drop below $50 if there is no breakthrough in Iran in March 2026?",
+  "a": "No",
+  "q": "Did Jeremy Siegel appear on the program 'Squawk Box' to discuss the economy in March 2026?",
+  "a": "No",
+  "q": "Did Jeremy Siegel express optimism regarding equity markets in March 2026?",
+  "a": "No",
+  "q": "Did Jeremy Siegel serve as a professor at Harvard Business School in March 2026?",
+  "a": "No"
+}

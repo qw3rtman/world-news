@@ -1,0 +1,22 @@
+{
+  "q": "Did Ayatollah Ali Khamenei rule Iran for a period of 36 years?",
+  "a": "Yes",
+  "q": "Did Ayatollah Ali Khamenei survive an assassination attempt during his tenure?",
+  "a": "Yes",
+  "q": "Did Ayatollah Ali Khamenei die of natural causes in his sleep?",
+  "a": "No",
+  "q": "Did US-Israeli strikes cause the death of Ayatollah Ali Khamenei?",
+  "a": "Yes",
+  "q": "Did Ayatollah Ali Khamenei build regional militias during his rule?",
+  "a": "Yes",
+  "q": "Did Ayatollah Ali Khamenei crush protests at home while ruling Iran?",
+  "a": "Yes",
+  "q": "Did the death of Ayatollah Ali Khamenei spark mourning and revenge vows in Iran?",
+  "a": "Yes",
+  "q": "Did the death of Ayatollah Ali Khamenei result in global celebrations?",
+  "a": "Yes",
+  "q": "Did Ayatollah Ali Khamenei rule Iran for a period of 20 years?",
+  "a": "No",
+  "q": "Did Russian airstrikes cause the death of Ayatollah Ali Khamenei?",
+  "a": "No"
+}

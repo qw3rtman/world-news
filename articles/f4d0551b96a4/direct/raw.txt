@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the White House confirm that at least one American was killed in the incident involving a stolen speedboat off the coast of Cuba in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the White House confirm that no Americans were arrested in the incident involving a stolen speedboat off the coast of Cuba in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Were the individuals on the stolen speedboat reported to have opened fire on Cuban troops in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the individuals on the stolen speedboat open fire on United States Coast Guard vessels in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the incident involving the stolen speedboat occur approximately one mile off the coast of Cuba in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the incident involving the stolen speedboat occur approximately ten miles off the coast of Cuba in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did CBS News reporter Nancy Cordes report on the White House confirmation regarding the stolen speedboat incident in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did CBS News reporter Anderson Cooper report on the White House confirmation regarding the stolen speedboat incident in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the speedboat involved in the February 2026 incident reported as stolen?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the speedboat involved in the February 2026 incident reported as owned by Cuban officials?",
+    "a": "No"
+  }
+]

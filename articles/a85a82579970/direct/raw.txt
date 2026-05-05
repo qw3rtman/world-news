@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Saudi Arabia warn Iran in March 2026 that continued attacks on its energy sector could lead to retaliation?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian President Masoud Pezeshkian apologize to Gulf states for Iranian actions in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Saudi Arabia allow the United States to use its airspace or territory to launch airstrikes on Iran during the conflict beginning in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was Iran's Supreme Leader Ayatollah Ali Khamenei killed on the first day of the U.S.-Israeli military campaign against Iran in late February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Khatam al-Anbiya Central Headquarters state in March 2026 that U.S. and Israeli bases would no longer be targets for Iranian forces?",
+    "a": "No"
+  },
+  {
+    "q": "Did Saudi Foreign Minister Prince Faisal bin Farhan speak with Iranian Foreign Minister Abbas Araqchi in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. and Israeli military campaign against Iran begin on March 5, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump claim in March 2026 that Iran had apologized and surrendered to its Middle East neighbors?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran's Revolutionary Guards launch a blitz of drones and missiles against Saudi Arabia in recent years prior to the March 2026 conflict?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian President Masoud Pezeshkian state in March 2026 that Iran would suspend attacks on nearby countries unless they attacked Iran?",
+    "a": "Yes"
+  }
+]

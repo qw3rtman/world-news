@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did 16 people sustain injuries in Qatar due to missile shrapnel in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Qatar’s Ministry of Interior report that 66 missiles were fired at Qatar during the February 2026 barrage?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Qatar’s Ministry of Defence state that all incoming missiles were intercepted before reaching the country’s territory in February 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran launch the February 2026 missile barrage at Qatar in retaliation for US-Israeli strikes on Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Qatar’s Foreign Ministry describe the February 2026 Iranian missile attack as a flagrant violation of sovereignty?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Kuwait, Qatar, the United Arab Emirates, Bahrain, and Jordan all intercept Iranian missiles during the February 2026 Gulf escalation?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did one of the 16 injured individuals in Qatar remain in serious condition after the February 2026 missile debris incident?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran launch missiles at the Al Udeid airbase in February 2026 during the current escalation?",
+    "a": "No"
+  },
+  {
+    "q": "Did Qatar’s Ministry of Defence report that some missiles successfully penetrated its air defenses in February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Qatar’s Foreign Ministry call for an immediate military escalation in response to the February 2026 Iranian missile barrage?",
+    "a": "No"
+  }
+]

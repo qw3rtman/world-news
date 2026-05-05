@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. crude oil prices rise above $90 per barrel for the first time in more than two years on Friday, March 6, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did West Texas Intermediate (WTI) crude end the trading day on Friday, March 6, 2026, at just over $91 per barrel?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. crude oil prices stand at around $73 per barrel one week prior to March 6, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. and Israel launch a new war against Iran and its proxies on the eve of the price surge in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. Energy Secretary Chris Wright tell Fox News that he expected the oil price surge to last for months rather than weeks?",
+    "a": "No"
+  },
+  {
+    "q": "Did the widening war in Iran shut down almost all tanker traffic through the Strait of Hormuz in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did gas prices in the U.S. rise by an average of 120 cents per gallon in the week leading up to March 6, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did gas prices in Canada rise to 135.3 cents per litre after airstrikes were first launched last weekend prior to March 6, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the website Gasbuddy.com report that the average Canadian gas price a month prior to March 6, 2026, was 135.3 cents per litre?",
+    "a": "No"
+  },
+  {
+    "q": "Did the website Gas Wizard predict that the gas price per litre in Canada on Saturday, March 7, 2026, could be nearly 153 cents?",
+    "a": "Yes"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "q": "Did Glencore CEO Gary Nagle express optimism about reviving merger talks with Rio Tinto in March 2026 due to rising coal prices?",
+  "a": "Yes",
+  "q": "Did Rio Tinto and Glencore successfully finalize a $240 billion merger deal in February 2026?",
+  "a": "No",
+  "q": "Is Rio Tinto prohibited from restarting merger talks with Glencore until August 2026 under UK Takeover Code rules?",
+  "a": "Yes",
+  "q": "Did Rio Tinto CEO Simon Trott state in February 2026 that the company could not stand up a value case for the merger?",
+  "a": "Yes",
+  "q": "Did Glencore's share price increase by 26% since January 7, 2026, while Rio Tinto's share price increased by 9%?",
+  "a": "Yes",
+  "q": "Did five Australian funds write a joint letter to Rio Tinto's board on January 20, 2026, expressing concerns about governance and corruption probes into Glencore?",
+  "a": "Yes",
+  "q": "Did Glencore estimate that the Australian investor bloc opposing the deal represented approximately 40% of the total shareholder base?",
+  "a": "No",
+  "q": "Would a merger between Glencore and Rio Tinto require approval from 75% of ASX shareholders present and voting?",
+  "a": "No",
+  "q": "Did Rio Tinto sell its coal assets to improve its green credentials before the 2026 merger talks?",
+  "a": "Yes",
+  "q": "Did the valuation of Glencore in the failed February 2026 talks rely primarily on projected future coal prices rather than spot prices?",
+  "a": "No"
+}

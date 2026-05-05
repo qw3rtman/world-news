@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. and Israeli forces launch an assault on Iran that resulted in the death of Iran’s Supreme Leader Ali Khamenei in early March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian Supreme Leader Ali Khamenei survive the U.S. and Israeli assault on Tehran in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Qais al-Khazali, a U.S.-sanctioned commander of an Iran-backed militia, issue a call to arms for his supporters to attack the U.S. embassy in Baghdad in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Qais al-Khazali, a U.S.-sanctioned commander of an Iran-backed militia, issue an anodyne statement on X condemning the U.S. and asking supporters to show anger by wearing black in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Syrian President Bashar al-Assad remain in power in December 2024, preventing the collapse of Iran’s land route to Hezbollah?",
+    "a": "No"
+  },
+  {
+    "q": "Did Ahmed al-Sharaa, a former Al Qaeda fighter, become Syria’s president in 2025 after ousting Bashar al-Assad in December 2024?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Hezbollah leader Hassan Nasrallah survive the Israeli airstrike in September 2024?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli forces assassinate Hezbollah leader Hassan Nasrallah in September 2024, dealing a severe blow to Iran’s proxy axis?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iranian Quds Force commander Esmail Ghaani possess the same stature and authority as his predecessor Qassem Soleimani, according to Iraqi proxy commander A.J.?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iraqi proxy commander A.J. state that there was \"no comparison\" between the authority of Quds Force commander Esmail Ghaani and his predecessor Qassem Soleimani?",
+    "a": "Yes"
+  }
+]

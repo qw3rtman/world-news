@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did gold and silver prices on the Multi Commodity Exchange (MCX) in India rise on Wednesday, March 4, 2026, due to the escalating conflict involving Iran?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did April gold futures on the Multi Commodity Exchange (MCX) in India open at Rs 1,63,265 per 10 grams on March 4, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did silver futures for May delivery on the Multi Commodity Exchange (MCX) in India reach an intraday high of Rs 2,72,248 per kilogram on March 4, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did spot gold in international markets rise 1.6% to $5,168.69 an ounce at 02:49 GMT on March 4, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did bullion prices on Tuesday, March 3, 2026, slide more than 4% to their lowest level since February 20, 2026, before rebounding on March 4, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did retail gold prices in India for 24 karat gold stand at Rs 15,364 per gram on March 4, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did US gold futures for April delivery gain 1.6% to $5,168.69 on March 4, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did oil and gas prices fall on March 4, 2026, due to disruptions to energy flows from the Middle East?",
+    "a": "No"
+  },
+  {
+    "q": "Did the price of 10 grams of silver in India decrease by Rs 1.00 from the previous day on March 4, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did equity markets in India rise on March 4, 2026, as investors increased their exposure to riskier assets amid the Iran war?",
+    "a": "No"
+  }
+]

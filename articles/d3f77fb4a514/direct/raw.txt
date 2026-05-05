@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. President Donald Trump announce the beginning of \"major combat operations in Iran\" in a video posted to Truth Social on Saturday, February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. military name the campaign against Iran \"Operation Epic Fury\"?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump explicitly mention that Iran was in compliance with the 2015 nuclear agreement when he announced the military operation on February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israeli Defense Minister Israel Katz state that Israel launched a pre-emptive attack against Iran in coordination with Washington?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Foreign Policy independently verify the report that an Israeli airstrike killed nearly 60 students at a girls' school in Minab, Iran, on February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian Foreign Minister Abbas Araghchi state that Iran was targeting U.S. military bases in the region in retaliation for the strikes?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the Emirili military report that debris from the initial Iranian missile attack resulted in zero civilian deaths?",
+    "a": "No"
+  },
+  {
+    "q": "Did Iranian Defense Minister Amir Nasirzadeh and IRGC commander Mohammed Pakpour reportedly die in Israeli attacks on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did satellite imagery obtained by the New York Times show that Ayatollah Ali Khamenei’s official residence compound was completely undamaged by the strikes on February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Abbas Araghchi describe the pursuit of regime change in Iran as \"mission impossible\" during his interview with NBC News on February 28, 2026?",
+    "a": "Yes"
+  }
+]

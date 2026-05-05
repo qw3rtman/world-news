@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did oil prices settle up more than 3% on Tuesday, March 17, 2026, following renewed Iranian attacks on the United Arab Emirates?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Brent crude futures settle at $103.42 a barrel on Tuesday, March 17, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the ongoing disruption to shipping through the Strait of Hormuz affect approximately 20% of the world's oil and liquefied natural gas trade as of March 17, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the port of Fujairah in the United Arab Emirates halt oil loading operations after an attack on Tuesday, March 17, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the effective closure of the Strait of Hormuz force the United Arab Emirates to reduce its oil output by more than half as of March 17, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump successfully persuade Germany to send warships to escort shipping through the Strait of Hormuz on Monday, March 16, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did French President Emmanuel Macron state on Tuesday, March 17, 2026, that France would participate in operations to unblock the Strait of Hormuz while hostilities were ongoing?",
+    "a": "No"
+  },
+  {
+    "q": "Did oil prices surge to nearly $120 a barrel on Tuesday, March 17, 2026, matching the levels seen earlier in the month?",
+    "a": "No"
+  },
+  {
+    "q": "Did Brent crude futures lose 2.8% on Tuesday, March 17, 2026, after some vessels sailed through the Strait of Hormuz?",
+    "a": "No"
+  },
+  {
+    "q": "Did the head of the International Energy Agency suggest on Tuesday, March 17, 2026, that member countries should increase their strategic reserve releases beyond the previously agreed 400 million barrels?",
+    "a": "No"
+  }
+]

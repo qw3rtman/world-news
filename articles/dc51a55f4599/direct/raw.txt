@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did gold prices rise for a fifth consecutive day as of February 23, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did gold prices retreat after four days of gains as of February 23, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did gold prices fall as much as 2.5% on February 23, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the US dollar strengthen on February 23, 2026, helping to support gold prices?",
+    "a": "No"
+  },
+  {
+    "q": "Did gold bullion climb more than 7% over the four sessions preceding February 23, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did a Supreme Court ruling support President Donald Trump’s tariff regime on February 23, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Were heightened tensions between the US and Iran a factor in investor behavior leading up to February 23, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did uncertainty over US trade policy spur gains in gold prices in the days prior to February 23, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did gold prices recover from their losses solely due to a Supreme Court ruling on February 23, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did investors move toward safer assets due to the Supreme Court ruling scuppering President Donald Trump’s tariff regime in the days prior to February 23, 2026?",
+    "a": "Yes"
+  }
+]

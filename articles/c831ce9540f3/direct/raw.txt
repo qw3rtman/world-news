@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Representative Al Green sponsor multiple House resolutions to impeach U.S. President Donald Trump in early 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump warn House Republicans last month that he would be impeached if Republicans did not win the 2026 midterm elections?",
+    "a": "Yes"
+  },
+  {
+    "q": "Is U.S. President Donald Trump currently being impeached by the U.S. House of Representatives as of February 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Do Polymarket betting odds indicate a 65% chance that U.S. President Donald Trump will be impeached by January 1, 2028?",
+    "a": "Yes"
+  },
+  {
+    "q": "Do Kalshi betting odds show a 14% chance that U.S. President Donald Trump will be impeached by June 1, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Is the 2026 U.S. midterm election scheduled for Tuesday, November 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Does the U.S. Senate require a simple majority vote to convict and remove a government official following an impeachment by the House?",
+    "a": "No"
+  },
+  {
+    "q": "Do RealClearPolling generic Congressional voting polls from late February 2026 show 47.5% of respondents intending to vote for a Democratic Party candidate?",
+    "a": "Yes"
+  },
+  {
+    "q": "Do Polymarket betting odds favor a Democratic sweep of both the House and Senate in the 2026 midterm elections?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. President Donald Trump get acquitted in the Senate both times he was impeached during his first term?",
+    "a": "Yes"
+  }
+]

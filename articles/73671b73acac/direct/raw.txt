@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Israel launch a pre-emptive attack against Iran on Saturday, February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. military officials confirm that a United States attack on Iran was underway on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was Iran's supreme leader, Ayatollah Ali Khamenei, in Tehran when the strikes began on February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Israeli military announce the closure of schools and workplaces across Israel following the strikes on February 28, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran rule out linking its nuclear program curbs to restrictions on its missile program during the February 2026 negotiations?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the previous 12-day air war between Israel and Iran occur in January 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Israel insist that any U.S. deal with Iran must include the dismantling of Tehran's nuclear infrastructure?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Iran launch missiles toward the U.S. Al Udeid air base in Qatar during the strikes on February 28, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. and Iran renew negotiations in February 2026 to try to resolve the dispute through diplomacy?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Israeli Defence Minister Israel Katz state that the attack was launched to remove threats to the State of Israel?",
+    "a": "Yes"
+  }
+]

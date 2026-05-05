@@ -1,0 +1,22 @@
+{
+  "q": "Did the war in Iran cause energy prices to soar in March 2026?",
+  "a": "Yes",
+  "q": "Did stagflation fears grow in March 2026?",
+  "a": "Yes",
+  "q": "Did June Fed rate hike odds surpass rate cut odds in March 2026?",
+  "a": "Yes",
+  "q": "Did inflation fears undercut President Donald Trump’s hope of Fed rate cuts in 2026?",
+  "a": "Yes",
+  "q": "Did the war in Iran cause energy prices to plummet in March 2026?",
+  "a": "No",
+  "q": "Did stagflation fears diminish in March 2026?",
+  "a": "No",
+  "q": "Did June Fed rate cut odds surpass rate hike odds in March 2026?",
+  "a": "No",
+  "q": "Did inflation fears support President Donald Trump’s hope of Fed rate hikes in 2026?",
+  "a": "No",
+  "q": "Did the war in Iraq cause energy prices to soar in March 2026?",
+  "a": "No",
+  "q": "Did stagflation fears grow in February 2026?",
+  "a": "No"
+}

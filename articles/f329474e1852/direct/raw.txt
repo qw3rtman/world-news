@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did the Channel 12 News poll published on Thursday night, February 19, 2026, project that Prime Minister Benjamin Netanyahu's Likud party would win 27 seats?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the February 2026 Channel 12 News poll project that Naftali Bennett's 2026 party would be the second-largest party with 20 seats?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the February 2026 Channel 12 News poll project that the Joint List of Arab parties would win 12 seats in a scenario where the parties ultimately form a merger?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the February 2026 Channel 12 News poll project that Bezalel Smotrich's Religious Zionism party would cross the 3.25 percent electoral threshold?",
+    "a": "No"
+  },
+  {
+    "q": "Did the February 2026 Channel 12 News poll project that Benny Gantz's Kahol Lavan party would win 9 seats?",
+    "a": "No"
+  },
+  {
+    "q": "Did the February 2026 Channel 12 News poll project that the opposition bloc would hold 70 seats if the Arab parties merger occurred?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the February 2026 Channel 12 News poll project that Gadi Eisenkot's Yashar party would win 10 seats?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the February 2026 Channel 12 News poll project that the Arab secular party Balad would win 10 seats?",
+    "a": "No"
+  },
+  {
+    "q": "Was the February 2026 Channel 12 News poll conducted by the Midgam Institute headed by Mano Geva in cooperation with iPanel?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the February 2026 Channel 12 News poll project that United Torah Judaism would win 9 seats?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "q": "Did President Donald Trump state that the U.S. military operation against Iran was 'very far' ahead of schedule in March 2026?",
+  "a": "Yes",
+  "q": "Did President Donald Trump claim that the U.S. military operation had virtually wiped out the Iranian navy, air force, missile, and drone launchers in March 2026?",
+  "a": "Yes",
+  "q": "Did Iran install Ayatollah Mojtaba Khamenei as its new supreme leader in March 2026?",
+  "a": "Yes",
+  "q": "Did President Donald Trump say the war with Iran was 'very complete' and could end soon in March 2026?",
+  "a": "Yes",
+  "q": "Did NBC News reporter Richard Engel report on President Trump's statements regarding the Iran conflict in March 2026?",
+  "a": "Yes",
+  "q": "Did President Donald Trump state that the U.S. military operation was 'very far behind' schedule in March 2026?",
+  "a": "No",
+  "q": "Did Iran install hardliner Ayatollah Ali Khamenei as its new supreme leader in March 2026?",
+  "a": "No",
+  "q": "Did President Donald Trump claim that the U.S. military operation had only partially damaged the Iranian air force in March 2026?",
+  "a": "No",
+  "q": "Did President Donald Trump say the war with Iran was 'just beginning' and would not end soon in March 2026?",
+  "a": "No",
+  "q": "Did NBC News reporter Anderson Cooper report on President Trump's statements regarding the Iran conflict in March 2026?",
+  "a": "No"
+}

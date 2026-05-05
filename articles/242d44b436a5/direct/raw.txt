@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did gold prices rise on March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Was the Middle East conflict in its fifth day as of March 3, 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States sink an Iranian warship in international waters during the conflict described in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Turkey come under fire during the Middle East conflict in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did gold prices fall significantly on March 3, 2026, due to dip-selling?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United States attack deeper into Iraq rather than Iran during the conflict in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Was the Middle East conflict in its first day as of March 3, 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United States sink an Iranian warship within Iranian territorial waters during the conflict in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the United States state that Iran's military capabilities were growing during the conflict in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did only two nations become embroiled in the Middle East war described in March 2026?",
+    "a": "No"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did U.S. Defense Secretary Pete Hegseth state in March 2026 that Gulf Arab allies were willing to allow U.S. access to military bases they had previously denied?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. President Donald Trump state in March 2026 that he would agree to a deal with Iran only after Iran’s unconditional surrender?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the national average price for regular gasoline in the United States reach $5.02 per gallon in March 2026, marking a new record high under President Donald Trump?",
+    "a": "No"
+  },
+  {
+    "q": "Did CNN become the first U.S. news network to operate inside Iran since the conflict began in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United States grant India a permanent waiver in March 2026 to purchase Russian oil stranded at sea without any time limit?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Israel Defense Forces state in March 2026 that it had struck more than 2,600 targets in Tehran since the war began?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the United Arab Emirates officially announce in March 2026 that it had decided to alter its defensive posture and join an offensive campaign against Iran?",
+    "a": "No"
+  },
+  {
+    "q": "Did the State Department report in March 2026 that 20,000 Americans had returned to the U.S. since the war began, with 10,000 directly assisted by its task force?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the CIA work in March 2026 to arm Kurdish forces with the aim of fomenting a popular uprising in Iraq?",
+    "a": "No"
+  },
+  {
+    "q": "Did an Air France repatriation flight leaving the United Arab Emirates in March 2026 return due to missile fire in the area?",
+    "a": "Yes"
+  }
+]

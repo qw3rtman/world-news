@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did President Donald Trump state aboard Air Force One that he was not ruling out the use of U.S. ground troops in Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did former Defense Secretary Mark Esper state that any U.S. military mission to secure Iran's uranium would be 'very perilous, very dangerous' in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did the U.S. intelligence community assess that Iran could enrich its 20% uranium stockpile to weapons-grade levels in three to four weeks in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did President Donald Trump confirm that a decision had been made to deploy ground troops to seize Iran's uranium in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did the International Atomic Energy Agency Director General Rafael Grossi state in March 2026 that all of Iran's 60% enriched uranium is believed to be stored at the Natanz nuclear facility?",
+    "a": "No"
+  },
+  {
+    "q": "Did the Trump administration list neutralizing Iran's ballistic missile threat as one of the three key objectives of its military action against Iran in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did former Defense Secretary Mark Esper serve in that role during President Joe Biden's first term in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did U.S. officials state that Iran could produce enough weapons-grade uranium for 40 or 50 bombs from its existing stockpile in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Mick Mulroy, a former assistant secretary of defense for the Middle East, state in March 2026 that securing the entire uranium stockpile would likely require only a small team of operators without a larger assault force?",
+    "a": "No"
+  },
+  {
+    "q": "Did the U.S. government identify Operation Midnight Hammer as the military action that occurred in June 2025 which Trump claimed obliterated Iran's nuclear capability?",
+    "a": "Yes"
+  }
+]

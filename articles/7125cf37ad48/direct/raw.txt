@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Did Goldman Sachs Group Inc raise its second-quarter 2026 average price forecast for Brent crude oil by $10 to $76 per barrel in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Goldman Sachs raise its second-quarter 2026 average price forecast for West Texas Intermediate (WTI) crude oil by $10 to $76 per barrel in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Goldman Sachs state that its second-quarter 2026 forecasts assume low oil flows via the Strait of Hormuz will lead to large declines in OECD inventories in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Goldman Sachs state that the Strait of Hormuz handles about one-half of the world’s oil and liquefied natural gas shipments in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Goldman Sachs note that if Hormuz volumes remained flat for 5 additional weeks, Brent prices would likely reach $100 per barrel in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Brent crude futures close at their highest level since January 2025 on Tuesday in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did U.S. West Texas Intermediate crude settle at its highest level since June 2025 on Tuesday in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Goldman Sachs revise its fourth-quarter 2026 forecast for Brent crude oil to $66 per barrel in March 2026?",
+    "a": "Yes"
+  },
+  {
+    "q": "Did Goldman Sachs revise its 2027 forecast for West Texas Intermediate (WTI) crude oil to $70 per barrel in March 2026?",
+    "a": "No"
+  },
+  {
+    "q": "Did Brent crude futures rise by around 5% or more in the past two sessions leading up to March 4, 2026?",
+    "a": "Yes"
+  }
+]
