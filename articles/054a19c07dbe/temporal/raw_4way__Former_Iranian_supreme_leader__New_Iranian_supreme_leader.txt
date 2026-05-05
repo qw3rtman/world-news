@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the physical health condition of the Iranian supreme leader (from healthy to injured), which is a state/condition flip rather than a swap between two named entities.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-11, what is the health status of the Iranian supreme leader?",
+      "a": "Injured (fractured foot and face lacerations)"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-11, is the Iranian supreme leader still in good health and free of physical injuries?",
+      "a": "No"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a state change from 'independent boutique data firm' to being 'integrated into Anduril' (not independent), where the 'before' entity is a descriptive status/value rather than a distinct named entity replacing another named entity in a role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-11, what is the operational status of ExoAnalytic Solutions?",
+      "a": "Integrated into Anduril"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-11, is ExoAnalytic Solutions still an independent boutique data firm?",
+      "a": "No"
+    }
+  ]
+}

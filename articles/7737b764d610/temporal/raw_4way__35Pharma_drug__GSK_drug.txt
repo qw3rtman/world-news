@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the status/ownership of the drug HS235 from being a '35Pharma drug' (not in GSK's pipeline) to a 'GSK drug' (in GSK's pipeline), which is a state/value flip rather than a named entity-role swap between two proper nouns.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-25, what is the status of the experimental drug HS235 regarding GSK's development pipeline for lung diseases?",
+      "a": "Included in GSK's pipeline"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-25, is the experimental drug HS235 still not part of GSK's development pipeline for lung diseases?",
+      "a": "No"
+    }
+  ]
+}

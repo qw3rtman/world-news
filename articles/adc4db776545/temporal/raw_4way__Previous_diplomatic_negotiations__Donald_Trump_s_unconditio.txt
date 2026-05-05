@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a flip in diplomatic conditions/expectations, changing from 'Previous diplomatic negotiations' (implying a state of ongoing talks or standard negotiation) to a specific policy condition of 'unconditional surrender', where at least one entity is a condition/value rather than a named person/organization swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-07, what is the condition for a deal with Iran according to President Donald Trump?",
+      "a": "Unconditional surrender"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-07, is the condition for a deal with Iran still previous diplomatic negotiations?",
+      "a": "No"
+    }
+  ]
+}

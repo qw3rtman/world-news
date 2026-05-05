@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a flip in the security condition of Saudi Arabia from 'free from attacks' (peace) to 'subject to retaliation' (military attacks), which involves state/value changes rather than a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, what is the security status of Saudi Arabia following the joint U.S. and Israeli strikes?",
+      "a": "Subject to Iranian military retaliation"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is Saudi Arabia still free from Iranian military attacks?",
+      "a": "No"
+    }
+  ]
+}

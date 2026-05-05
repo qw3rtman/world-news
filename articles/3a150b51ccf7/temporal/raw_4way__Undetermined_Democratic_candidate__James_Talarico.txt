@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a specific named entity (James Talarico) replacing an undefined/undetermined entity in the definable role of Democratic nominee for the 2026 Texas U.S. Senate race.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-11, who is the Democratic nominee for the 2026 Texas U.S. Senate race?",
+      "a": "James Talarico"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-11, is the Undetermined Democratic candidate still the Democratic nominee for the 2026 Texas U.S. Senate race?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond James Talarico's role as the Democratic nominee for the 2026 Texas U.S. Senate race, what is James Talarico otherwise known for in Texas politics?",
+      "a": ""
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-11, who replaced/succeeded the Undetermined Democratic candidate as the Democratic nominee for the 2026 Texas U.S. Senate race?",
+      "a": "James Talarico"
+    }
+  ]
+}

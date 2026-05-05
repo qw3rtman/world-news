@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a named entity (María Corina Machado) replacing another named entity (Previous laureates) in the specific role of Nobel Peace Prize recipient.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, who holds the role of the 2025 Nobel Peace Prize recipient?",
+      "a": "María Corina Machado"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is Previous laureates still the 2025 Nobel Peace Prize recipient?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond María Corina Machado's role as the 2025 Nobel Peace Prize recipient, what is María Corina Machado otherwise known for in the Venezuelan political domain?",
+      "a": "Venezuelan opposition leader"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-01, who replaced/succeeded Previous laureates as the 2025 Nobel Peace Prize recipient?",
+      "a": "María Corina Machado"
+    }
+  ]
+}

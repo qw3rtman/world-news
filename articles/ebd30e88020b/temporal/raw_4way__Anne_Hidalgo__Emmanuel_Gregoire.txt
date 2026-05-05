@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a swap between two named individuals (Anne Hidalgo and Emmanuel Gregoire) regarding the specific role of 'leading candidate after the first round of the 2026 Paris mayoral election'.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-16, who is the leading candidate after the first round of the 2026 Paris mayoral election?",
+      "a": "Emmanuel Gregoire"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-16, is Anne Hidalgo still the leading candidate after the first round of the 2026 Paris mayoral election?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Emmanuel Gregoire's status as the leading candidate after the first round of the 2026 Paris mayoral election, what is Emmanuel Gregoire otherwise known for in French politics?",
+      "a": "Socialist former deputy mayor of Paris"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-16, who replaced/succeeded Anne Hidalgo as the leading candidate after the first round of the 2026 Paris mayoral election?",
+      "a": "Emmanuel Gregoire"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a shift in the military posture/state of the Gulf states from 'publicly resisting' to 'combat-ready', where the entities represent conditions/states rather than specific named individuals or organizations swapping roles.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, what is the military posture of the Gulf states regarding the conflict with Iran?",
+      "a": "Combat-ready"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, are the Gulf states still maintaining a stance of only public resistance toward U.S. strikes against Iran?",
+      "a": "No"
+    }
+  ]
+}

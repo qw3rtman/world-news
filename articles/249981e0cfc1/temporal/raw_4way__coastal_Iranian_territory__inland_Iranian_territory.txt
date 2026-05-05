@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the geographic scope of U.S. military strikes from 'coastal Iranian territory' to 'inland Iranian territory', which is a state/condition flip rather than a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, what is the geographic scope of U.S. military strikes inside Iran?",
+      "a": "Inland Iranian territory"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, are U.S. military strikes inside Iran limited to coastal Iranian territory?",
+      "a": "No"
+    }
+  ]
+}

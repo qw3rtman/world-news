@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a flip in PayPal's financial outlook status from meeting estimates to being below estimates, which constitutes a state/value change rather than a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-24, what is the 2026 profit outlook status of PayPal relative to Wall Street estimates?",
+      "a": "Muted outlook below estimates"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-24, is PayPal's 2026 profit outlook still meeting or exceeding Wall Street estimates?",
+      "a": "No"
+    }
+  ]
+}

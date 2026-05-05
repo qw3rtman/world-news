@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update involves a change in status from 'candidate' to 'withdrawn' (none), where the 'after' state is a condition/status rather than a named entity replacing another named entity in a role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-17, what is the candidacy status of Pierre-Yves Bournazel on the unified list for the second round of the 2026 Paris municipal elections?",
+      "a": "Withdrawn"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-17, is Pierre-Yves Bournazel still a candidate on the unified list for the second round of the 2026 Paris municipal elections?",
+      "a": "No"
+    }
+  ]
+}

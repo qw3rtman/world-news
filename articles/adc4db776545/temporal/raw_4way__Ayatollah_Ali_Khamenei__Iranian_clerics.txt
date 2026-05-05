@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the status of the leadership selection process (from 'No' clerics selecting to 'Yes' clerics selecting), where the entities involved are not a simple named-entity swap but a flip in state/condition regarding the selection activity.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-07, what is the status of the process for Iranian clerics to select a new Supreme Leader to replace Ayatollah Ali Khamenei?",
+      "a": "In progress"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-07, is the process for Iranian clerics to select a new Supreme Leader still not underway?",
+      "a": "No"
+    }
+  ]
+}

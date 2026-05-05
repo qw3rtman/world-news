@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a specific named entity (Darren Bailey) replacing another named entity (Ted Dabrowski) in the definable role of the 2026 Republican gubernatorial nominee in Illinois.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-17, who holds the role of the 2026 Republican gubernatorial nominee in Illinois?",
+      "a": "Darren Bailey"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-17, is Ted Dabrowski still the 2026 Republican gubernatorial nominee in Illinois?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Darren Bailey's 2026 Republican gubernatorial nomination in Illinois, what is Darren Bailey otherwise known for in Illinois politics?",
+      "a": "Former Illinois state Senator"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-17, who replaced/succeeded Ted Dabrowski as the 2026 Republican gubernatorial nominee in Illinois?",
+      "a": "Darren Bailey"
+    }
+  ]
+}

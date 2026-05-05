@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update describes a named entity (Delcy Rodriguez) replacing another named entity (Nicolás Maduro) in the specific role of leader of Venezuela, which fits the definition of a TYPE-A entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-05, who holds the role of leader of Venezuela following the U.S. military intervention?",
+      "a": "Delcy Rodriguez"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-05, is Nicolás Maduro still the leader of Venezuela?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Delcy Rodriguez's role as leader of Venezuela, what is Delcy Rodriguez otherwise known for in Venezuelan politics?",
+      "a": "Former Vice President of Venezuela"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-05, who replaced/succeeded Nicolás Maduro as leader of Venezuela?",
+      "a": "Delcy Rodriguez"
+    }
+  ]
+}

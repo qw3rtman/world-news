@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a state flip from 'No reports' (absence of reporting) to 'Roger Sollenberger's reporting' (presence of specific reporting), where at least one side of the transition is a condition/value rather than a named entity swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-25, what is the status of reporting on the missing FBI interview summaries within the Epstein file release?",
+      "a": "Roger Sollenberger's reporting"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-25, is the status of reporting on the missing FBI interview summaries within the Epstein file release still 'No reports on missing summaries'?",
+      "a": "No"
+    }
+  ]
+}

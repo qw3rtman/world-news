@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a specific named organization (Anduril) acquiring and taking ownership of another specific named organization (ExoAnalytic Solutions) and its assets, constituting a named entity-role swap in the context of ownership/operation of the telescope network.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-11, who owns and operates the network of 400 telescopes around the world previously associated with ExoAnalytic Solutions?",
+      "a": "Anduril"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-11, is ExoAnalytic Solutions still the independent owner of the network of 400 telescopes around the world?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Anduril's role as the new owner of the ExoAnalytic telescope network, what is Anduril otherwise known for in the defense technology sector?",
+      "a": "Defense tech company"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-11, who replaced/succeeded ExoAnalytic Solutions as the owner of the network of 400 telescopes around the world?",
+      "a": "Anduril"
+    }
+  ]
+}

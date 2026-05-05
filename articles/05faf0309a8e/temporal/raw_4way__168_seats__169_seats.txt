@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update involves a change in the numerical seat count (a value) of the Liberal Party in the House of Commons, from 168 to 169, which constitutes a state/value flip rather than a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-18, what is the seat count of the Liberal Party in the elected chamber of the Canadian House of Commons?",
+      "a": "169 seats"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-18, is the seat count of the Liberal Party in the elected chamber of the Canadian House of Commons still 168 seats?",
+      "a": "No"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the endorsement status (from 'not received' to 'received') for Ken Paxton, which is a state/value flip rather than a named entity-role swap between two proper nouns.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-10, has Ken Paxton received an endorsement from Rep. Eric Burlison for the 2026 Texas GOP Senate primary?",
+      "a": "Yes"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-10, has Ken Paxton not received an endorsement from Rep. Eric Burlison for the 2026 Texas GOP Senate primary?",
+      "a": "No"
+    }
+  ]
+}

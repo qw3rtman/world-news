@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in Marlène Schiappa's political stance/support status (from non-supporter to supporter), which is a state/condition flip rather than a swap between two named entities holding the same role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-17, what is the political allegiance of Marlène Schiappa regarding Rachida Dati's mayoral campaign in Paris?",
+      "a": "Supporter"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-17, is Marlène Schiappa still a non-supporter of Rachida Dati's mayoral campaign?",
+      "a": "No"
+    }
+  ]
+}

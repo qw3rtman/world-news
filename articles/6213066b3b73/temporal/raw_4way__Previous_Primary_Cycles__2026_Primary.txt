@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a flip in the state of the spending record from 'Previous Primary Cycles' holding the record to the '2026 Primary' holding the record, which involves non-named entity states/values rather than a swap between two named entities in a definable role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-04, what is the record holder for the most expensive Texas Senate primary?",
+      "a": "2026 Primary"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-04, is the record for the most expensive Texas Senate primary still held by a previous primary cycle?",
+      "a": "No"
+    }
+  ]
+}

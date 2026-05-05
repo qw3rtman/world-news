@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a flip in the valuation/price condition of the Arcellx acquisition, where the entity_after ('$7.8 billion') is a monetary value rather than a named entity, fitting the TYPE-B definition.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-23, what is the total valuation of the Gilead-Arcellx acquisition deal?",
+      "a": "$7.8 billion"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-23, is the total valuation of the Gilead-Arcellx acquisition deal still the previous Arcellx valuation?",
+      "a": "No"
+    }
+  ]
+}

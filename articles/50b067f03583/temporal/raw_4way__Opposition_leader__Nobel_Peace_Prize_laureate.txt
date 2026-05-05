@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a change in status/recognition (from 'Opposition leader' to 'Nobel Peace Prize laureate'), where the 'after' entity is a title/condition rather than a named person replacing another named person in the same role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, what is the recognized title or status of Maria Corina Machado?",
+      "a": "Nobel Peace Prize laureate"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is Maria Corina Machado still only an opposition leader?",
+      "a": "No"
+    }
+  ]
+}

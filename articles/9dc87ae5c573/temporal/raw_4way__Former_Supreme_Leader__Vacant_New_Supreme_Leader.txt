@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a transition from a named individual (Former Supreme Leader) to a state of vacancy or a new, unspecified leader ('Vacant/New Supreme Leader'), which constitutes a state/condition flip rather than a swap between two specific named entities.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, what is the status of the Supreme Leader of Iran?",
+      "a": "Vacant/New Supreme Leader"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is the Supreme Leader of Iran still the Former Supreme Leader?",
+      "a": "No"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the corporate status/affiliation of BVNK from a standalone entity to a Mastercard-integrated entity, which involves a state/condition flip rather than a swap between two named entities in the same role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-17, what is the corporate affiliation status of BVNK relative to Mastercard?",
+      "a": "Mastercard-integrated entity"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-17, is BVNK still a standalone financial stack provider unaffiliated with the Mastercard global payments network?",
+      "a": "No"
+    }
+  ]
+}

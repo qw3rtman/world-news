@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a swap of named entities (Vodafone Group Plc and Liberty Global Ltd.) regarding their status as a joint venture partner in VodafoneZiggo, fitting the definition of a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-18, who is the sole owner of the Dutch telecommunications company VodafoneZiggo following the buyout agreement?",
+      "a": "Liberty Global Ltd."
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-18, is Vodafone Group Plc still a joint venture partner in the Dutch telecommunications company VodafoneZiggo?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Liberty Global's role as the sole owner of VodafoneZiggo, what is Liberty Global otherwise known for in the telecommunications sector?",
+      "a": "Major European cable operator"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-02-18, who replaced/succeeded Vodafone Group Plc as the joint venture partner (now sole owner) of the Dutch telecommunications company VodafoneZiggo?",
+      "a": "Liberty Global Ltd."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the election process structure from a single-stage primary to a runoff, where both the 'before' state (Single-stage GOP primary) and 'after' state (May 26 GOP Runoff) are conditions/states rather than named entity swaps.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-04, what is the format of the Republican primary for the Texas U.S. Senate seat?",
+      "a": "May 26 GOP Runoff"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-04, is the Republican primary for the Texas U.S. Senate seat still a single-stage primary?",
+      "a": "No"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the strategic stance (proposing a merger) regarding an alliance, where the 'entity_before' (Pierre-Yves Bournazel) is the target of the proposal rather than a holder of the same role as the 'entity_after' (Rachida Dati), making it a state/value flip of the alliance strategy.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-15, what is the status of the alliance strategy proposed by Rachida Dati for the second round of the Paris municipal elections?",
+      "a": "Proposing a list merger with Pierre-Yves Bournazel"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-15, is Rachida Dati still not proposing a list merger with Pierre-Yves Bournazel for the second round?",
+      "a": "No"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a specific named entity (Victory Capital) replacing another named entity (Trian) as the primary bidder/acquirer for Janus Henderson, which constitutes a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-26, who is the primary bidder making a $8.6 billion public offer to acquire Janus Henderson?",
+      "a": "Victory Capital"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-26, is Trian still the primary bidder making a $8.6 billion public offer to acquire Janus Henderson?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Victory Capital's role as a bidder for Janus Henderson, what is Victory Capital otherwise known for in the financial domain?",
+      "a": "Asset manager (San Antonio-based)"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-02-26, who replaced/succeeded Trian as the primary bidder making a $8.6 billion public offer to acquire Janus Henderson?",
+      "a": "Victory Capital"
+    }
+  ]
+}

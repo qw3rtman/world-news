@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a change in the status/identity of the acquirer from 'non-acquirer' to 'acquirer', where 'non-acquirer' is a condition/status rather than a named entity, fitting the TYPE-B definition.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-23, what is the status of Gilead Sciences Inc. regarding the acquisition of Arcellx Inc.?",
+      "a": "Agreed-upon acquirer"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-23, is Gilead Sciences Inc. still a non-acquirer of Arcellx Inc.?",
+      "a": "No"
+    }
+  ]
+}

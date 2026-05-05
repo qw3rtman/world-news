@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the state/condition of Tel Aviv (from untargeted to targeted by missile strikes), which involves a status flip rather than a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, what is the status of Tel Aviv regarding Iranian missile strikes?",
+      "a": "Targeted"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is Tel Aviv still untargeted by Iranian missile strikes?",
+      "a": "No"
+    }
+  ]
+}

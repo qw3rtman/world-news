@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a specific named entity (GPT-5.4 Thinking) replacing another specific named entity (GPT-5.2 Thinking) in the role of the primary reasoning model for ChatGPT Plus users, fitting the definition of a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-06, who/what is the primary model used to provide the reasoning experience for ChatGPT Plus users?",
+      "a": "GPT-5.4 Thinking"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-06, is GPT-5.2 Thinking still the primary model used to provide the reasoning experience for ChatGPT Plus users?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond GPT-5.4 Thinking's role as the primary reasoning model for ChatGPT Plus users, what is GPT-5.4 otherwise known for in the AI domain?",
+      "a": "OpenAI's most capable and efficient frontier model for professional work"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-06, who replaced/succeeded GPT-5.2 Thinking as the primary model used to provide the reasoning experience for ChatGPT Plus users?",
+      "a": "GPT-5.4 Thinking"
+    }
+  ]
+}

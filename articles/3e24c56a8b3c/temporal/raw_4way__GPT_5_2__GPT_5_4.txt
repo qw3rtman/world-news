@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a specific named entity (GPT-5.4) replacing another specific named entity (GPT-5.2) in the definable role of 'OpenAI's most factual model'.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-05, which model holds the title of OpenAI's most factual model in terms of task performance and accuracy?",
+      "a": "GPT-5.4"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-05, is GPT-5.2 still OpenAI's most factual model in terms of task performance and accuracy?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond GPT-5.4's status as OpenAI's most factual model, what is GPT-5.4 otherwise known for in the AI domain?",
+      "a": "OpenAI's first model with native computer use capabilities"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-05, which model replaced/succeeded GPT-5.2 as OpenAI's most factual model in terms of task performance and accuracy?",
+      "a": "GPT-5.4"
+    }
+  ]
+}

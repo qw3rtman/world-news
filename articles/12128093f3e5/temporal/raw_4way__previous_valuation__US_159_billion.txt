@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in Stripe's valuation from a previous (unspecified) state to a specific value of US$159 billion, which is a state/value flip where entity_before is not a proper-noun named entity.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-24, what is the valuation of Stripe?",
+      "a": "US$159 billion"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-24, is Stripe's valuation still the previous valuation?",
+      "a": "No"
+    }
+  ]
+}

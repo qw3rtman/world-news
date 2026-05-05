@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the state of Qatar's security status from 'not a target' (neutrality) to 'target' (retaliation), which involves a condition/value flip rather than a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, what is the status of Qatar regarding Iranian retaliatory strikes?",
+      "a": "Target"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is Qatar still maintaining Qatari neutrality regarding Iranian retaliatory strikes?",
+      "a": "No"
+    }
+  ]
+}

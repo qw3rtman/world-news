@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the status/position of the Supreme Leader (from holding the position to losing it), which constitutes a state flip rather than a named entity swap between two specific proper nouns.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-04, what is the status of the previous Supreme Leader regarding the position of Supreme Leader of Iran?",
+      "a": "No longer holding the position"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-04, is the previous Supreme Leader still holding the position of Supreme Leader of Iran?",
+      "a": "No"
+    }
+  ]
+}

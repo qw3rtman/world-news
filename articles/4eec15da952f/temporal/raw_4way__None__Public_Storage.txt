@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a specific named entity (Public Storage) replacing a null/none state as the acquirer in a definitive agreement, fitting the pattern of a named entity assuming a definable role (the acquiring company).",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-16, which company has reached a definitive agreement to acquire National Storage Affiliates for $10.5 billion?",
+      "a": "Public Storage"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-16, is None still the company that has reached a definitive agreement to acquire National Storage Affiliates for $10.5 billion?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Public Storage's role as the acquirer of National Storage Affiliates, what is Public Storage otherwise known for in the real estate sector?",
+      "a": "Self-storage facilities operator"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-16, who replaced None as the company that has reached a definitive agreement to acquire National Storage Affiliates for $10.5 billion?",
+      "a": "Public Storage"
+    }
+  ]
+}

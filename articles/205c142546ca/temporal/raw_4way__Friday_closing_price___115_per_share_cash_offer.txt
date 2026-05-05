@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a flip in the cash offer price per share from the previous market value (Friday closing price) to a specific new value ($115 per share), where the 'before' entity is a market condition/value rather than a named entity.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-23, what is the cash offer price per share for Arcellx Inc. from Gilead Sciences Inc.?",
+      "a": "$115 per share"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-23, is the cash offer price per share for Arcellx Inc. from Gilead Sciences Inc. still the Friday closing price?",
+      "a": "No"
+    }
+  ]
+}

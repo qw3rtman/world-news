@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a change in the legal status of the BVNK acquisition from 'not yet signed' to 'under definitive agreement', which is a state/condition flip involving a status value rather than a swap between two named entities.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-17, what is the status of the acquisition agreement between Mastercard and BVNK?",
+      "a": "Definitive agreement"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-17, is the acquisition agreement between Mastercard and BVNK still not yet signed?",
+      "a": "No"
+    }
+  ]
+}

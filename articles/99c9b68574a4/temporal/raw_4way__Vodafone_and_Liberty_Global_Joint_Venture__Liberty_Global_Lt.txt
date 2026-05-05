@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a named entity (Liberty Global Ltd.) replacing another named entity (Vodafone) as the controlling party/owner of the joint venture VodafoneZiggo, which constitutes a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-18, who holds full control of the Dutch telecommunications company VodafoneZiggo following the buyout?",
+      "a": "Liberty Global Ltd."
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-18, is Vodafone still holding full control of the Dutch telecommunications company VodafoneZiggo?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Liberty Global Ltd.'s role as the sole controller of VodafoneZiggo, what is Liberty Global Ltd. otherwise known for in the telecommunications domain?",
+      "a": "Major international cable operator"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-02-18, who replaced/succeeded Vodafone as the full controller of the Dutch telecommunications company VodafoneZiggo?",
+      "a": "Liberty Global Ltd."
+    }
+  ]
+}

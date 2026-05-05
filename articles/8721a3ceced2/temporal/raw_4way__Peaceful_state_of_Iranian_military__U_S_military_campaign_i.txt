@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a flip in the operational status of the Iranian military from a 'peaceful state' (not targeted) to being part of a 'U.S. military campaign' (targeted/operating under attack), which involves a change in condition/state rather than a swap between two named entities in the same role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-05, what is the operational status of the Iranian military regarding U.S. military action?",
+      "a": "Targeted by a massive U.S. military campaign"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-05, is the Iranian military still operating in a peaceful state without being targeted by a massive U.S. military campaign?",
+      "a": "No"
+    }
+  ]
+}

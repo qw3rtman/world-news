@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a flip in the state/condition of the Middle East from 'peace/stability' to 'conflict', where at least one entity is a condition/state rather than a proper-noun named entity.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-04, what is the state of the Middle East regarding major conflict affecting global markets?",
+      "a": "Conflict"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-04, is the Middle East still free from a major conflict that affects global markets?",
+      "a": "No"
+    }
+  ]
+}

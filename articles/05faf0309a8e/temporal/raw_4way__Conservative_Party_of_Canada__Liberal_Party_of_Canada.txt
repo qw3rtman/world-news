@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a named entity (Matt Jeneroux) swapping political party affiliation from one named organization (Conservative Party of Canada) to another (Liberal Party of Canada), which constitutes a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-18, which political party does Canadian legislator Matt Jeneroux belong to in the House of Commons?",
+      "a": "Liberal Party of Canada"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-18, is Matt Jeneroux still a member of the Conservative Party of Canada?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Matt Jeneroux's role as a Liberal Member of Parliament, what is Matt Jeneroux otherwise known for in Canadian politics?",
+      "a": "Former Conservative Member of Parliament for Calgary Forest Lawn"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-02-18, who replaced Matt Jeneroux as the sitting Member of Parliament for the constituency formerly held by the Conservative Party of Canada?",
+      "a": "Matt Jeneroux"
+    }
+  ]
+}

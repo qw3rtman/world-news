@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a specific named entity (Darren Bailey) replacing a group of named entities (Multiple GOP candidates) in the definable role of the Republican nominee for the 2026 Illinois gubernatorial election.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-17, who holds the role of the Republican nominee for the 2026 Illinois gubernatorial election?",
+      "a": "Darren Bailey"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-17, is Multiple GOP candidates still holding the role of the Republican nominee for the 2026 Illinois gubernatorial election?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Darren Bailey's role as the Republican nominee for the 2026 Illinois gubernatorial election, what is Darren Bailey otherwise known for in Illinois politics?",
+      "a": "Former state Senator"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-17, who replaced/succeeded Multiple GOP candidates as the Republican nominee for the 2026 Illinois gubernatorial election?",
+      "a": "Darren Bailey"
+    }
+  ]
+}

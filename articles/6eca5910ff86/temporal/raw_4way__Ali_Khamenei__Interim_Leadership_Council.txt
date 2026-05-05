@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a specific named entity (Ali Khamenei) being replaced by another specific named entity (Interim Leadership Council) in the definable role of Supreme Leader of Iran.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, who holds the role of Supreme Leader of Iran?",
+      "a": "Interim Leadership Council"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is Ali Khamenei still holding the role of Supreme Leader of Iran?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond the Interim Leadership Council's role as Supreme Leader of Iran, what is the Interim Leadership Council otherwise known for in the relevant domain?",
+      "a": ""
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-01, who replaced/succeeded Ali Khamenei as Supreme Leader of Iran?",
+      "a": "Interim Leadership Council"
+    }
+  ]
+}

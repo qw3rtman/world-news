@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update involves a change in the financial terms (contingent payment status) of the acquisition deal, where the entity_before is a negative condition ('No contingent payment') and entity_after is a specific value ('$5 contingent payment'), fitting the STATE/VALUE flip definition.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-23, what is the contingent payment amount per share in the Gilead Sciences acquisition of Arcellx?",
+      "a": "$5 per share"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-23, is the contingent payment in the Gilead Sciences acquisition of Arcellx still non-existent?",
+      "a": "No"
+    }
+  ]
+}

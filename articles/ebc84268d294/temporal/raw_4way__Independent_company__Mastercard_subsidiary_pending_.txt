@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the corporate status of BVNK from an 'Independent company' to a 'Mastercard subsidiary (pending)', which is a state/condition flip where at least one entity is a status rather than a named person/organization swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-17, what is the corporate status of BVNK following the announcement?",
+      "a": "Mastercard subsidiary (pending)"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-17, is BVNK still an independent company?",
+      "a": "No"
+    }
+  ]
+}

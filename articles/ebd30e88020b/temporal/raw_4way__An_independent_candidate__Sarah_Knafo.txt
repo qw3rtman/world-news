@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a specific named entity (Sarah Knafo) replacing another named entity (An independent candidate) in the role of offering support to Rachida Dati for the second round.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-16, who is the candidate that has offered support to Rachida Dati for the second round of the Paris mayoral election?",
+      "a": "Sarah Knafo"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-16, is An independent candidate still the candidate who has offered support to Rachida Dati for the second round?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Sarah Knafo's offer of support to Rachida Dati in the Paris mayoral race, what is Sarah Knafo otherwise known for in French politics?",
+      "a": "Far-right contender"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-16, who replaced An independent candidate as the candidate who offered support to Rachida Dati for the second round?",
+      "a": "Sarah Knafo"
+    }
+  ]
+}

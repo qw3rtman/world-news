@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the historical spending record status of the Texas Senate primary from 'Previous Senate Primaries' (not the record holder) to '2026 Texas Senate Primary' (the record holder), which is a state/value flip rather than a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-04, what is the status of the 2026 Texas Senate Primary regarding the record for the most expensive Senate primary in U.S. history?",
+      "a": "Yes"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-04, is the 2026 Texas Senate Primary still not the most expensive Senate primary in U.S. history?",
+      "a": "No"
+    }
+  ]
+}

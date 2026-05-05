@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the condition of PayPal's engagement from 'Internal management' (not working with bankers) to 'Investment bankers' (working with bankers), which is a state/value flip rather than a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-26, who is PayPal working with to prepare for a potential activist campaign?",
+      "a": "Investment bankers"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-26, is PayPal still working with Internal management to prepare for a potential activist campaign?",
+      "a": "No"
+    }
+  ]
+}

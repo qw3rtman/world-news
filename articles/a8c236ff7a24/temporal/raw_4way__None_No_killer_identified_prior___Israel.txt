@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a change in the identified agent responsible for an event (from 'None/Unknown' to 'Israel'), which involves a state/value flip regarding the attribution of responsibility rather than a swap between two named entities holding the same definable role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, who is the party reported to be responsible for the killing of Ali Larijani?",
+      "a": "Israel"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is the party responsible for the killing of Ali Larijani still unknown or unattributed?",
+      "a": "No"
+    }
+  ]
+}

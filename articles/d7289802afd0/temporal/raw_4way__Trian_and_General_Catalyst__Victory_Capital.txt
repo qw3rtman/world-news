@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a specific named entity (Victory Capital) replacing another named entity (Trian and General Catalyst) as the most recent/acquiring bidder for Janus Henderson, fitting the definition of a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-26, who is the most recent company to place a bid for Janus Henderson?",
+      "a": "Victory Capital"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-26, is Trian and General Catalyst still the most recent company to place a bid for Janus Henderson?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Victory Capital's role as a bidder for Janus Henderson, what is Victory Capital otherwise known for in the financial domain?",
+      "a": "Asset manager"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-02-26, who replaced/succeeded Trian and General Catalyst as the most recent company to place a bid for Janus Henderson?",
+      "a": "Victory Capital"
+    }
+  ]
+}

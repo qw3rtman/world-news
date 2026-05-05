@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in policy stance (rejection of de-escalation) associated with the new supreme leader, which is a state/value flip rather than a named entity-role swap between two specific named individuals.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, what is the stance of Iran's new supreme leader regarding de-escalation offers?",
+      "a": "Rejected de-escalation"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is Iran's new supreme leader still accepting de-escalation offers?",
+      "a": "No"
+    }
+  ]
+}

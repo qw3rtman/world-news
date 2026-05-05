@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a swap between two named entities, Emmanuel Grégoire and Rachida Dati, regarding the leading position in the Paris mayoral election, which is a definable role in the context of the election results.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-15, who is the leading candidate in the 2026 Paris mayoral election first-round results?",
+      "a": "Emmanuel Grégoire"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-15, is Rachida Dati still the leading candidate in the 2026 Paris mayoral election first-round results?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Emmanuel Grégoire's role as the leading candidate in the 2026 Paris mayoral election, what is Emmanuel Grégoire otherwise known for in French politics?",
+      "a": "Socialist deputy (PS)"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-15, who replaced/succeeded Rachida Dati as the leading candidate in the 2026 Paris mayoral election first-round results?",
+      "a": "Emmanuel Grégoire"
+    }
+  ]
+}

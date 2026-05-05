@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in status from 'serving Minister of Culture' to 'not serving' (implied by 'until recently' and the context of her running for mayor), where the 'after' state is a negation of the previous role rather than a specific named successor filling that same ministerial role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-16, is Rachida Dati still the serving Minister of Culture in France?",
+      "a": "No"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-16, what is the status of Rachida Dati regarding the role of Minister of Culture in France?",
+      "a": "Not serving"
+    }
+  ]
+}

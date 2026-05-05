@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a swap between two named entities (Carl Icahn's firm and Tilman Fertitta) for the specific role of leading bidder for Caesars Entertainment.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-11, who is the leading bidder for Caesars Entertainment?",
+      "a": "Tilman Fertitta"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-11, is Carl Icahn's firm still the leading bidder for Caesars Entertainment?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Tilman Fertitta's bid for Caesars Entertainment, what is Tilman Fertitta otherwise known for in the gaming and sports industry?",
+      "a": "Owner of the Golden Nugget Casino chain and Houston Rockets"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-11, who replaced/succeeded Carl Icahn's firm as the leading bidder for Caesars Entertainment?",
+      "a": "Tilman Fertitta"
+    }
+  ]
+}

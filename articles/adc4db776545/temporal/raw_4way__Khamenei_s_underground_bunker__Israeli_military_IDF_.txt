@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a state change where 'Khamenei's underground bunker' (a physical object/condition) transitions from being intact to being destroyed by the IDF, which is a condition/value flip rather than a named entity-role swap between two proper nouns.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-07, what is the status of Khamenei's underground bunker in central Tehran?",
+      "a": "Destroyed"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-07, is Khamenei's underground bunker in central Tehran still intact and operational?",
+      "a": "No"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a flip in the specific cash offer price per share from a previous market price (a value/condition) to a defined monetary amount ($115 per share), fitting the TYPE-B definition where at least one entity is not a proper-noun named entity.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-23, what is the specific cash offer price per share for Arcellx Inc. in the acquisition by Gilead Sciences Inc.?",
+      "a": "$115 per share"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-23, is the specific cash offer price per share for Arcellx Inc. still the previous market price?",
+      "a": "No"
+    }
+  ]
+}

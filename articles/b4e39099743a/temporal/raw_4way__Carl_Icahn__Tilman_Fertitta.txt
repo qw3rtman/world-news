@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update describes a named entity (Tilman Fertitta) replacing another named entity (Carl Icahn) as the leading party in exclusive acquisition talks for Caesars Entertainment, fitting the definition of a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-11, who is in exclusive talks to acquire Caesars Entertainment?",
+      "a": "Tilman Fertitta"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-11, is Carl Icahn still in exclusive talks to acquire Caesars Entertainment?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Tilman Fertitta's role in the Caesars Entertainment acquisition talks, what is Tilman Fertitta otherwise known for in the relevant domain?",
+      "a": "Owner of the Golden Nugget Casino chain and Houston Rockets"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-11, who replaced/succeeded Carl Icahn as the leading party in exclusive talks to acquire Caesars Entertainment?",
+      "a": "Tilman Fertitta"
+    }
+  ]
+}

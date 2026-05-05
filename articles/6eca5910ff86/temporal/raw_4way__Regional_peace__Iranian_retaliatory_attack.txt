@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a flip in the military state/condition of Saudi Arabia from 'Regional peace' (free from direct conflict) to 'Iranian retaliatory attack' (under direct conflict), which involves state/value conditions rather than a swap between two named entities in the same role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of March 1, 2026, what is the military state of Saudi Arabia in relation to Iran?",
+      "a": "Iranian retaliatory attack"
+    },
+    {
+      "axis": "T2",
+      "q": "As of March 1, 2026, is Saudi Arabia still free from direct military conflict with Iran?",
+      "a": "No"
+    }
+  ]
+}

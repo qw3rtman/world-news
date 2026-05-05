@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update involves a change in the status of the Supreme Leader position from a named individual (Ali Khamenei) to an 'Unnamed New Supreme Leader', which constitutes a state/condition flip rather than a swap between two specific named entities.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-04, what is the status of the Supreme Leader of Iran?",
+      "a": "Unnamed New Supreme Leader"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-04, is Ali Khamenei still the Supreme Leader of Iran?",
+      "a": "No"
+    }
+  ]
+}

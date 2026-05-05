@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a state flip from 'Active candidate' to 'Conceded candidate' (status change), where the entity remains the same but the condition/value changes, fitting the TYPE-B definition.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-04, what is the status of Jasmine Crockett in the 2026 Texas Democratic Senate primary?",
+      "a": "Conceded candidate"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-04, is Jasmine Crockett still an active candidate who has not yet conceded the 2026 Texas Democratic Senate primary?",
+      "a": "No"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update involves a change in the valuation value of Gunvor Group Ltd from $6.5 billion to $5 billion, which is a state/value flip where at least one entity is a numerical value rather than a proper-noun named entity.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-19, what is the approximate valuation of Gunvor Group Ltd following the management buyout?",
+      "a": "$5 billion"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-19, is the valuation of Gunvor Group Ltd still $6.5 billion?",
+      "a": "No"
+    }
+  ]
+}

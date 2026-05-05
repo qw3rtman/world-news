@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the status of the primary election from 'unresolved' (active contest) to 'resolved' (completed with a winner), which is a state/condition flip rather than a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-04, what is the completion status of the 2026 Texas Democratic Senate primary?",
+      "a": "Concluded"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-04, is the 2026 Texas Democratic Senate primary still an unresolved contest between James Talarico and Jasmine Crockett?",
+      "a": "No"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a flip in market condition/expectation from 'Standard U.S. dollar demand' (implied low/no specific liquidity hunger) to 'High liquidity demand for USD', where at least one entity is a state/value rather than a named entity.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-04, what is the demand condition for the U.S. dollar driven by investor liquidity preferences?",
+      "a": "High liquidity demand"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-04, is the U.S. dollar still experiencing only standard demand without specific investor hunger for liquidity?",
+      "a": "No"
+    }
+  ]
+}

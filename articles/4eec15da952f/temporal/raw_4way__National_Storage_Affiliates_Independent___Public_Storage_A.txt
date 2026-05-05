@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a flip in the corporate status/condition of National Storage Affiliates from 'Independent' to being part of an acquisition by Public Storage, which involves a state/value change rather than a simple named entity-role swap between two proper nouns holding the same role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-16, what is the corporate status of National Storage Affiliates?",
+      "a": "Acquired by Public Storage"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-16, is National Storage Affiliates still an independent company?",
+      "a": "No"
+    }
+  ]
+}

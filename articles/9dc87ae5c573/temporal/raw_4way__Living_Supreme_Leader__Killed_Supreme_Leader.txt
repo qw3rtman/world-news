@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the survival status of the Supreme Leader from 'Living' to 'Killed', which is a state/condition flip rather than a swap between two named entities.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, what is the survival status of the Supreme Leader of Iran?",
+      "a": "Killed"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is the Supreme Leader of Iran still alive?",
+      "a": "No"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in corporate status from 'Independent firm' to 'GSK subsidiary', where at least one entity (the pre-update state) is a condition/status rather than a proper-noun named entity.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-25, what is the corporate status of 35Pharma?",
+      "a": "GSK subsidiary"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-25, is 35Pharma still an independent firm?",
+      "a": "No"
+    }
+  ]
+}

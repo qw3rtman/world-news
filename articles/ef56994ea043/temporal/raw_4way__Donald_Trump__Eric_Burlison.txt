@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a change in the state of endorsement from Donald Trump (who had not yet endorsed) to Eric Burlison (who has now endorsed), where the 'entity' changing is a status/value (endorsement status) rather than a swap between two named entities holding the same role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-10, what is the endorsement status of Representative Eric Burlison regarding Ken Paxton for the U.S. Senate?",
+      "a": "Endorsed"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-10, is Representative Eric Burlison still not endorsing Ken Paxton for the U.S. Senate?",
+      "a": "No"
+    }
+  ]
+}

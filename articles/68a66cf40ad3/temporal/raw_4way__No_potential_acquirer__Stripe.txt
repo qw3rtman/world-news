@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the status of a potential acquisition from 'No potential acquirer' (non-named entity/status) to 'Stripe' (named entity), which constitutes a flip in the condition/state of the acquisition interest rather than a swap between two named entities holding the same role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-24, what is the status of the potential acquirer for PayPal?",
+      "a": "Stripe"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-24, is the potential acquirer for PayPal still 'No potential acquirer'?",
+      "a": "No"
+    }
+  ]
+}

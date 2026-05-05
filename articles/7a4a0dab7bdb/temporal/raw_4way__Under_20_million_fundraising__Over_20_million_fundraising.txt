@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a flip in a quantitative value (fundraising total) from 'Under $20 million' to 'Over $20 million', which fits the TYPE-B definition of a state/value flip where at least one entity is not a proper-noun named entity.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-04, what is the fundraising total for James Talarico's 2026 US Senate campaign?",
+      "a": "Over $20 million"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-04, is James Talarico's 2026 US Senate campaign fundraising total still under $20 million?",
+      "a": "No"
+    }
+  ]
+}

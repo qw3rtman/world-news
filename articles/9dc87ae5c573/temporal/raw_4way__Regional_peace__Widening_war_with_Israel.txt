@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a flip in the state of conflict (from 'Regional peace' to 'Widening war'), where at least one entity is a condition/state rather than a proper-noun named entity, fitting the TYPE-B definition.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of March 1, 2026, what is the state of conflict between Iran and Israel?",
+      "a": "Widening war with Israel"
+    },
+    {
+      "axis": "T2",
+      "q": "As of March 1, 2026, is the state of conflict between Iran and Israel still regional peace?",
+      "a": "No"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the status of the election from 'decided/outright winner' to 'runoff election', which is a state/condition flip where the 'entity_after' (Runoff election) is a status/condition rather than a named person replacing another named person in a static role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-11, what is the status of the 2026 Texas Republican Senate primary?",
+      "a": "Runoff election"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-11, is the 2026 Texas Republican Senate primary still decided with an outright winner?",
+      "a": "No"
+    }
+  ]
+}

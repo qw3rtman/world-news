@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a state flip from 'No' (prior models lacking native computer use) to 'Yes' (GPT-5.4 having native computer use), where the 'before' entity is a generic group ('Prior OpenAI models') rather than a specific named entity swap, fitting the TYPE-B definition of a state/value/condition flip.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-05, does the GPT-5.4 model support native computer use capabilities?",
+      "a": "Yes"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-05, do prior OpenAI models still lack native computer use capabilities?",
+      "a": "No"
+    }
+  ]
+}

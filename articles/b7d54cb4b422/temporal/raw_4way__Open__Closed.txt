@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the operational status of the Strait of Hormuz from 'Open' to 'Closed', which involves state/value flips rather than a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-12, what is the operational status of the Strait of Hormuz?",
+      "a": "Closed"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-12, is the Strait of Hormuz still open for the transit of energy supplies?",
+      "a": "No"
+    }
+  ]
+}

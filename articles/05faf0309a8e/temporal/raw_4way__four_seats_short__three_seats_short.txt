@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the numerical gap (state/value) required for a parliamentary majority, shifting from 'four seats short' to 'three seats short', which involves values rather than a swap between two named entities.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-18, what is the number of seats the Liberal Party is short of a parliamentary majority in the House of Commons?",
+      "a": "three seats short"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-18, is the Liberal Party still four seats short of a parliamentary majority in the House of Commons?",
+      "a": "No"
+    }
+  ]
+}

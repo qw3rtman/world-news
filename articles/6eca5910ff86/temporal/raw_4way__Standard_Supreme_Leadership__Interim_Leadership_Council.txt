@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a swap between two named governing bodies ('Standard Supreme Leadership' and 'Interim Leadership Council') filling the same role of interim governance in Iran, which constitutes a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, who holds the role of interim leadership council in Iran?",
+      "a": "Interim Leadership Council"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is Standard Supreme Leadership still holding the role of interim leadership council in Iran?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond the Interim Leadership Council's role in Iran, what is the Interim Leadership Council otherwise known for in the relevant domain?",
+      "a": ""
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-01, who replaced/succeeded Standard Supreme Leadership as the interim leadership council in Iran?",
+      "a": "Interim Leadership Council"
+    }
+  ]
+}

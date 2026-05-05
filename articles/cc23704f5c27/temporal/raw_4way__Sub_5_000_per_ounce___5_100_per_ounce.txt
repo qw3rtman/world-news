@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a flip in the state/value of gold prices from 'Sub-$5,000 per ounce' to '$5,100 per ounce', where at least one entity is a value/condition rather than a named entity, fitting the TYPE-B definition.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-09, what is the spot price of gold per ounce?",
+      "a": "$5,100 per ounce"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-09, is the spot price of gold still sub-$5,000 per ounce?",
+      "a": "No"
+    }
+  ]
+}

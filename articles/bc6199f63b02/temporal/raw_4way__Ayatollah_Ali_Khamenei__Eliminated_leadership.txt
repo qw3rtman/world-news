@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a state flip from a named person (Ayatollah Ali Khamenei) to a condition/status (Eliminated leadership), which fits the TYPE-B definition where at least one side is not a proper-noun named entity filling a definable role in the same way.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, what is the status of the Supreme Leader of Iran following Operation Epic Fury?",
+      "a": "Eliminated leadership"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is Ayatollah Ali Khamenei still the active Supreme Leader of Iran?",
+      "a": "No"
+    }
+  ]
+}

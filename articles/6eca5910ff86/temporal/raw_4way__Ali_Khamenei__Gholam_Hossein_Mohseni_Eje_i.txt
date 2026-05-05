@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a specific named entity (Gholam-Hossein Mohseni-Eje’i) replacing another named entity (Ali Khamenei) in a definable role (member of Iran's interim leadership council / Supreme Leader context), fitting the TYPE-A criteria for a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, who is a member of Iran's interim leadership council alongside President Masoud Pezeshkian and Ayatollah Alireza Arafi?",
+      "a": "Gholam-Hossein Mohseni-Eje’i"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is Ali Khamenei still a member of Iran's interim leadership council?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond his role in Iran's interim leadership council, what is Gholam-Hossein Mohseni-Eje’i otherwise known for in Iran?",
+      "a": "Head of the Iranian judiciary"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-01, who replaced/succeeded Ali Khamenei as a prominent figure in Iran's interim leadership structure?",
+      "a": "Gholam-Hossein Mohseni-Eje’i"
+    }
+  ]
+}

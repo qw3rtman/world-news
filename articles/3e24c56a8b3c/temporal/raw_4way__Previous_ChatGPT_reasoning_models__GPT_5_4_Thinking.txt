@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in availability status (from 'No' to 'Yes') for a specific model feature for a user tier, which constitutes a state/value flip rather than a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-05, is the GPT-5.4 Thinking model available for ChatGPT Plus users?",
+      "a": "Yes"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-05, is the GPT-5.4 Thinking model still unavailable for ChatGPT Plus users?",
+      "a": "No"
+    }
+  ]
+}

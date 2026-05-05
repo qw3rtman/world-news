@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in ownership status from 'Independent ownership' (a condition/state) to 'Anduril' (the new owner), which constitutes a state/value flip rather than a swap between two named entities holding the same role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-11, what is the ownership status of ExoAnalytic Solutions?",
+      "a": "Owned by Anduril"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-11, is ExoAnalytic Solutions still under independent ownership?",
+      "a": "No"
+    }
+  ]
+}

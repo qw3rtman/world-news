@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the Fed's interest rate target range from a pre-cut level (above 4%) to a specific lower range (3.5% to 3.75%), which constitutes a state/value flip rather than a named entity swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-06, what is the current target range for the Federal Reserve's key interest rate?",
+      "a": "3.5% to 3.75%"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-06, is the Federal Reserve's key interest rate still targeted at a level above 4%?",
+      "a": "No"
+    }
+  ]
+}

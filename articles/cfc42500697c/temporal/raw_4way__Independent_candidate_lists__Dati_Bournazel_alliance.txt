@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the status of the Paris mayoral election lists from 'Independent candidate lists' (separate entities) to a 'Dati-Bournazel alliance' (a merged state/condition), which is a state/value flip rather than a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-15, what is the configuration of the second-round candidate lists for Rachida Dati and Pierre-Yves Bournazel in the Paris mayoral election?",
+      "a": "Dati-Bournazel alliance"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-15, are Rachida Dati and Pierre-Yves Bournazel still running as independent candidate lists?",
+      "a": "No"
+    }
+  ]
+}

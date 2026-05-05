@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a flip in the operational status of Iran's military infrastructure from 'Intact' to 'Disrupted', where at least one entity (the state/value) is not a proper-noun named entity.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, what is the operational status of Iran's military command and control infrastructure?",
+      "a": "Disrupted"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is Iran's military command and control infrastructure still intact and fully operational?",
+      "a": "No"
+    }
+  ]
+}

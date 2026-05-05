@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the state of acquisition interest regarding PayPal, shifting from 'No reported interest' to 'Stripe interest', which involves values/conditions rather than a swap between two named entities in the same role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-24, what is the status of Stripe's interest in acquiring PayPal?",
+      "a": "Stripe interest"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-24, is PayPal still operating without any reported interest from Stripe regarding a potential acquisition?",
+      "a": "No"
+    }
+  ]
+}

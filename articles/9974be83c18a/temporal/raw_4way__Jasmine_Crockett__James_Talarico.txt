@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a specific named entity (James Talarico) replacing another named entity (Jasmine Crockett) in the definable role of the winner of the 2026 Texas Democratic Senate primary.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-04, who is the winner of the 2026 Texas Democratic Senate primary?",
+      "a": "James Talarico"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-04, is Jasmine Crockett still the winner of the 2026 Texas Democratic Senate primary?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond James Talarico's role as the winner of the 2026 Texas Democratic Senate primary, what is James Talarico otherwise known for in Texas politics?",
+      "a": "Texas State Representative"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-04, who replaced/succeeded Jasmine Crockett as the winner of the 2026 Texas Democratic Senate primary?",
+      "a": "James Talarico"
+    }
+  ]
+}

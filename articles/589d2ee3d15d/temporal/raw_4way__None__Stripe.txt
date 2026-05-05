@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the state of acquisition interest (from 'no reported interest' to 'preliminary interest'), where the entities involved are not a named entity-role swap but a flip in condition/status.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-24, is PayPal currently considered a company with no reported acquisition interest from Stripe?",
+      "a": "No"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-24, is PayPal still considered a company with no reported acquisition interest from Stripe?",
+      "a": "No"
+    }
+  ]
+}

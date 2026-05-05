@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a flip in the state of the election outcome from 'Undetermined/Unknown candidate' to a specific winner, where the 'before' entity is a status/value rather than a proper-noun named entity.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-04, what is the status of the winner of the 2026 Democratic primary for the U.S. Senate in Texas?",
+      "a": "James Talarico"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-04, is the winner of the 2026 Democratic primary for the U.S. Senate in Texas still undetermined?",
+      "a": "No"
+    }
+  ]
+}

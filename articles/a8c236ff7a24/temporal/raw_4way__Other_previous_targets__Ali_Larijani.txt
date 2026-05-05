@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a state flip where the identity of the 'most senior figure targeted' changes from 'Other previous targets' (a non-named entity status/group) to 'Ali Larijani' (a specific named entity), fitting the TYPE-B definition where at least one side is not a proper-noun named entity filling the same definable role in a swap context.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, who is the most senior figure targeted since the start of the U.S.-Israeli war?",
+      "a": "Ali Larijani"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is the most senior figure targeted since the start of the U.S.-Israeli war still considered to be other previous targets?",
+      "a": "No"
+    }
+  ]
+}

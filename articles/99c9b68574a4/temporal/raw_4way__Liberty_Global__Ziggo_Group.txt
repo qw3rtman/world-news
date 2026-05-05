@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a named entity (Liberty Global) transferring its stake in Telenet Group to another named entity (Ziggo Group), constituting a swap of the holder of the Telenet Group stake.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-18, who holds the stake in the Belgian telecom Telenet Group within the new Ziggo Group holding structure?",
+      "a": "Ziggo Group"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-18, is Liberty Global still the independent holder of the stake in the Belgian telecom Telenet Group?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond its role in the Ziggo Group holding company, what is Ziggo Group otherwise known for in the telecommunications domain?",
+      "a": "Operator of the Dutch telecommunications company VodafoneZiggo"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-02-18, who replaced/succeeded Liberty Global as the holder of the stake in the Belgian telecom Telenet Group within the new holding structure?",
+      "a": "Ziggo Group"
+    }
+  ]
+}

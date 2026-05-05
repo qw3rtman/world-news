@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a named entity (Sean Duffy) replacing another named entity (Pete Buttigieg) in the specific role of U.S. Transportation Secretary.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-04, who holds the role of U.S. Transportation Secretary?",
+      "a": "Sean Duffy"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-04, is Pete Buttigieg still the U.S. Transportation Secretary?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Sean Duffy's role as U.S. Transportation Secretary, what is Sean Duffy otherwise known for in U.S. politics?",
+      "a": "Former U.S. Representative for Wisconsin's 7th congressional district"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-04, who replaced/succeeded Pete Buttigieg as U.S. Transportation Secretary?",
+      "a": "Sean Duffy"
+    }
+  ]
+}

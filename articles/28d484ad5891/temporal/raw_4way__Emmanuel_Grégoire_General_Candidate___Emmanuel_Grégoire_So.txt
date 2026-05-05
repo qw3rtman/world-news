@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a change in the characterization or stance of Emmanuel Grégoire regarding the event (from 'No' to 'Yes' that it is an 'ultime désaveu'), which is a state/value flip rather than a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-17, how does Emmanuel Grégoire characterize Pierre-Yves Bournazel's withdrawal from the Paris municipal campaign in relation to Rachida Dati?",
+      "a": "An 'ultime désaveu' (ultimate disavowal)"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-17, does Emmanuel Grégoire NOT characterize Pierre-Yves Bournazel's withdrawal as an 'ultime désaveu' for Rachida Dati?",
+      "a": "No"
+    }
+  ]
+}

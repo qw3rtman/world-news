@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a specific named entity (Masoud Pezeshkian) replacing another named entity (Ali Khamenei) in a definable role (member of the interim leadership council), fitting the criteria for a TYPE-A entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, who is a member of the interim leadership council in Iran?",
+      "a": "Masoud Pezeshkian"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is Ali Khamenei still a member of the interim leadership council in Iran?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Masoud Pezeshkian's role as a member of the interim leadership council, what is Masoud Pezeshkian otherwise known for in Iran?",
+      "a": "President of Iran"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-01, who replaced/succeeded Ali Khamenei as a member of the interim leadership council in Iran?",
+      "a": "Masoud Pezeshkian"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the valuation state of Stripe from a previous unspecified value to a specific monetary value ($159 billion), which constitutes a state/value flip rather than a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-24, what is the valuation of Stripe following the tender offer?",
+      "a": "$159 billion"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-24, is Stripe's valuation still the previous valuation?",
+      "a": "No"
+    }
+  ]
+}

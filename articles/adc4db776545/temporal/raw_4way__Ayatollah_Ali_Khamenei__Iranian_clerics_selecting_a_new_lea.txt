@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a state change from a specific named leader (Khamenei) to a general group/process (Iranian clerics selecting a new leader), which constitutes a flip in the status/condition of leadership rather than a direct named-to-named entity swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-07, what is the status of the Supreme Leader of Iran?",
+      "a": "Vacant (Iranian clerics selecting a new leader)"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-07, is Ayatollah Ali Khamenei still the Supreme Leader of Iran?",
+      "a": "No"
+    }
+  ]
+}

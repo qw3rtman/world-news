@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a specific named entity (Enrique Lores) replacing another named entity (Alex Chriss) in the definable role of CEO and President of PayPal, which fits the criteria for a TYPE-A entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-24, who holds the role of CEO and President of PayPal?",
+      "a": "Enrique Lores"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-24, is Alex Chriss still holding the role of CEO and President of PayPal?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Enrique Lores's role as CEO and President of PayPal, what is Enrique Lores otherwise known for in the relevant domain?",
+      "a": "Chair of PayPal"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-02-24, who replaced/succeeded Alex Chriss as CEO and President of PayPal?",
+      "a": "Enrique Lores"
+    }
+  ]
+}

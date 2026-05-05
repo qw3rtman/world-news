@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a flip in the specific per-share value/offer condition of the bid for Caesars Entertainment, moving from Icahn's offer to Fertitta's offer, which involves a change in the financial value/condition rather than a simple named entity role swap between two proper nouns holding the same title.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-11, what is the per-share value of the leading offer from Fertitta Entertainment for Caesars Entertainment?",
+      "a": "$34 per share"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-11, is the leading offer from Icahn Enterprises for Caesars Entertainment still valued at approximately $33 per share?",
+      "a": "No"
+    }
+  ]
+}

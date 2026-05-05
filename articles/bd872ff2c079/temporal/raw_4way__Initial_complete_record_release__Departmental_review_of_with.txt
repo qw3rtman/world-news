@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a flip in the Justice Department's stated position/status regarding the completeness of the Epstein file release (from 'complete/initial release' to 'reviewing withheld records'), where at least one side of the swap is a condition/status rather than a named entity.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-25, what is the status of the Justice Department's handling of the Epstein files regarding the completeness of the initial public release?",
+      "a": "Departmental review of withheld records"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-25, is the Justice Department still maintaining that the initial public release of the Epstein files was complete and proper?",
+      "a": "No"
+    }
+  ]
+}

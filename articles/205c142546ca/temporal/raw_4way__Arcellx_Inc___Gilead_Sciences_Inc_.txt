@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a specific named organization (Gilead Sciences Inc.) replacing another named entity (Arcellx Inc.) in the role of the buyer/acquirer, which fits the definition of a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-23, who is the buyer of Arcellx Inc.?",
+      "a": "Gilead Sciences Inc."
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-23, is Arcellx Inc. still the buyer of Arcellx Inc.?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Gilead Sciences Inc.'s role as the buyer of Arcellx Inc., what is Gilead Sciences Inc. otherwise known for in the relevant domain?",
+      "a": "Pharmaceutical company"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-02-23, who replaced/succeeded Arcellx Inc. as the buyer of Arcellx Inc.?",
+      "a": "Gilead Sciences Inc."
+    }
+  ]
+}

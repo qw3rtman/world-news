@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a swap between two named individuals, Wesley Hunt and Ken Paxton, regarding their status in the Texas Republican Senate nomination race, fitting the definition of a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-04, who is the Texas Republican Senate nominee advancing to the May 26 runoff alongside John Cornyn?",
+      "a": "Ken Paxton"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-04, is Wesley Hunt still the Texas Republican Senate nominee advancing to the May 26 runoff?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Ken Paxton's role as the Texas Republican Senate nominee, what is Ken Paxton otherwise known for in Texas politics?",
+      "a": "Texas Attorney General"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-04, who replaced/succeeded Wesley Hunt as a Texas Republican Senate candidate advancing to the May 26 runoff?",
+      "a": "Ken Paxton"
+    }
+  ]
+}

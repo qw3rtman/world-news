@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a specific named entity (Kevin Warsh) replacing another named entity (Jerome Powell) in the definable role of Federal Reserve Chair, which fits the criteria for a TYPE-A entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-09, who is the nominated successor to serve as the Chair of the U.S. Federal Reserve after Jerome Powell's term ends?",
+      "a": "Kevin Warsh"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-09, is Jerome Powell still the Chair of the U.S. Federal Reserve?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Kevin Warsh's nomination as Chair of the U.S. Federal Reserve, what is Kevin Warsh otherwise known for in the relevant domain?",
+      "a": "Former Federal Reserve Governor (2006-2011)"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-09, who replaced/succeeded Jerome Powell as the Chair of the U.S. Federal Reserve?",
+      "a": "Kevin Warsh"
+    }
+  ]
+}

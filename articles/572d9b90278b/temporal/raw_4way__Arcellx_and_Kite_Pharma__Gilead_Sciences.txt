@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the partnership status of anito-cel's development from 'co-developed by Arcellx and Kite Pharma' (two independent entities) to being under Gilead Sciences (a single entity post-acquisition), which is a state/condition flip rather than a simple named entity swap in a definable role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-23, what is the partnership status of anito-cel's development between Arcellx and Kite Pharma?",
+      "a": "No longer co-developed as two separate, independent entities"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-23, is anito-cel still co-developed by Arcellx and Kite Pharma as two separate, independent entities?",
+      "a": "No"
+    }
+  ]
+}

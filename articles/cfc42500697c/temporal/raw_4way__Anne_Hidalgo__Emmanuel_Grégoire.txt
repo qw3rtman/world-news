@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a swap between two named individuals (Anne Hidalgo and Emmanuel Grégoire) regarding the role of the Socialist party's lead candidate for the Paris mayoral election.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-15, who is the lead candidate representing the Socialist party in the 2026 Paris mayoral election?",
+      "a": "Emmanuel Grégoire"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-15, is Anne Hidalgo still the lead candidate representing the Socialist party in the 2026 Paris mayoral election?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Emmanuel Grégoire's role as the Socialist party's lead candidate for the 2026 Paris mayoral election, what is Emmanuel Grégoire otherwise known for in French politics?",
+      "a": "Deputy (Député)"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-15, who replaced/succeeded Anne Hidalgo as the lead candidate representing the Socialist party in the 2026 Paris mayoral election?",
+      "a": "Emmanuel Grégoire"
+    }
+  ]
+}

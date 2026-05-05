@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a named entity (GSK) replacing another named entity (35Pharma) as the owner of the drug HS235, which constitutes a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-25, who is the owner of the experimental drug HS235?",
+      "a": "GSK"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-25, is 35Pharma still the owner of the experimental drug HS235?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond GSK's role as owner of HS235, what is GSK otherwise known for in the pharmaceutical domain?",
+      "a": "Multinational pharmaceutical and biotechnology company"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-02-25, who replaced/succeeded 35Pharma as the owner of the experimental drug HS235?",
+      "a": "GSK"
+    }
+  ]
+}

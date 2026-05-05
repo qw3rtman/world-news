@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a swap between two named individuals (James Talarico and Jasmine Crockett) for the role of the Democratic nominee in the Texas Senate primary, which fits the definition of a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-04, who is the Democratic nominee for the U.S. Senate seat from Texas?",
+      "a": "James Talarico"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-04, is Jasmine Crockett still the Democratic nominee for the U.S. Senate seat from Texas?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond James Talarico's role as the Democratic nominee for the U.S. Senate seat from Texas, what is James Talarico otherwise known for in Texas politics?",
+      "a": "State Representative"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-04, who replaced/succeeded Jasmine Crockett as the Democratic nominee for the U.S. Senate seat from Texas?",
+      "a": "James Talarico"
+    }
+  ]
+}

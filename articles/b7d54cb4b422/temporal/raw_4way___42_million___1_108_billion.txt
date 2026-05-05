@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the monetary value of Chile's gold reserves from $42 million to $1.108 billion, which is a state/value flip where at least one entity is a numerical value rather than a proper-noun named entity.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-12, what is the value of Chile's central bank gold reserves?",
+      "a": "$1.108 billion"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-12, is Chile's central bank gold reserves still valued at $42 million?",
+      "a": "No"
+    }
+  ]
+}

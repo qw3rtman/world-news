@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a state change from an 'Intact clerical building' to a 'bombed' status (Israeli bombing), which is a condition/value flip rather than a swap between two named entities holding the same role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-05, what is the status of the building in Qom housing Iran's clerical selection body?",
+      "a": "Bombed by Israel"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-05, is the building in Qom housing Iran's clerical selection body still intact?",
+      "a": "No"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a named person (Marjorie Taylor Greene) being replaced by another named person (Shawn Harris) in the specific role of US House of Representatives member for a district, which constitutes a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-11, who holds the role of US House of Representatives member for the district previously represented by Marjorie Taylor Greene?",
+      "a": "Shawn Harris"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-11, is Marjorie Taylor Greene still holding the role of US House of Representatives member for her district?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Shawn Harris's role as US House of Representatives member, what is Shawn Harris otherwise known for in US politics?",
+      "a": "Democrat candidate in the runoff to replace Marjorie Taylor Greene"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-11, who replaced/succeeded Marjorie Taylor Greene as US House of Representatives member for her district?",
+      "a": "Shawn Harris"
+    }
+  ]
+}

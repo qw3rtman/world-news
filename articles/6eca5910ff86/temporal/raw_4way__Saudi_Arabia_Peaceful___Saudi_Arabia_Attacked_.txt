@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the safety status of Saudi Arabia from 'Peaceful' to 'Attacked', which involves a state/condition flip rather than a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, what is the safety status of Saudi Arabia from Iranian military attacks?",
+      "a": "Attacked"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is Saudi Arabia still free from Iranian military attacks?",
+      "a": "No"
+    }
+  ]
+}

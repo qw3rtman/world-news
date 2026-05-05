@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a flip in the state/value of advertising spending from previous levels to a specific record amount ($110 million), which fits the TYPE-B definition as at least one entity is a value/condition rather than a named entity swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-04, what is the total advertising spending for the 2026 Texas Senate primary?",
+      "a": "$110 million"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-04, is the total advertising spending for the 2026 Texas Senate primary still at previous spending levels?",
+      "a": "No"
+    }
+  ]
+}

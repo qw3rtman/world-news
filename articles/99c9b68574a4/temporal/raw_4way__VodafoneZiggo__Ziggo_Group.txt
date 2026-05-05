@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a named entity (VodafoneZiggo) being replaced by another named entity (Ziggo Group) in the context of the stake ownership structure, fitting the definition of a named entity-role swap where the subject of the stake changes from the joint venture to the new holding company.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-18, what entity holds the 10% stake in the newly formed holding company described in the Liberty Global-Vodafone deal?",
+      "a": "Ziggo Group"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-18, is VodafoneZiggo still the entity holding the 10% stake in the newly formed holding company described in the Liberty Global-Vodafone deal?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond its role in the Liberty Global-Vodafone stake arrangement, what is Ziggo Group otherwise known for in the telecommunications domain?",
+      "a": "Dutch telecommunications company"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-02-18, who replaced/succeeded VodafoneZiggo as the entity holding the 10% stake in the newly formed holding company described in the Liberty Global-Vodafone deal?",
+      "a": "Ziggo Group"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a flip in the state of military aerial control from 'Yes' (maintained by the Iranian Air Force) to 'No' (lost to U.S. and Israeli air forces), which constitutes a state/condition flip rather than a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-02, what is the state of military control of the sky by the Iranian regime?",
+      "a": "No"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-02, is the Iranian regime still maintaining military control of the sky?",
+      "a": "No"
+    }
+  ]
+}

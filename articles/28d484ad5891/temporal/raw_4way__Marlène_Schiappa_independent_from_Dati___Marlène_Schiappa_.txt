@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in Marlène Schiappa's political alignment (from not rallying to rallying), which is a state/condition flip rather than a swap between two named entities holding the same role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-17, has Marlène Schiappa rallied to Rachida Dati following the withdrawal of Pierre-Yves Bournazel?",
+      "a": "Yes"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-17, has Marlène Schiappa not rallied to Rachida Dati following the withdrawal of Pierre-Yves Bournazel?",
+      "a": "No"
+    }
+  ]
+}

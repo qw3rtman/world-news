@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update describes a named entity (Leadership Council) replacing another named entity (Office of the Supreme Leader) in the role of managing regime succession, fitting the definition of a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-02, who/what holds the role of the body managing the succession of the Iranian regime following the death of Ayatollah Ali Khamenei?",
+      "a": "Leadership Council"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-02, is the Office of the Supreme Leader still the body managing the succession of the Iranian regime?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond the Leadership Council's role in managing Iranian regime succession, what is the Leadership Council otherwise known for in the context of the Islamic Republic?",
+      "a": ""
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-02, who replaced/succeeded the Office of the Supreme Leader as the body managing the succession of the Iranian regime?",
+      "a": "Leadership Council"
+    }
+  ]
+}

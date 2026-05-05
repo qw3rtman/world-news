@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in geopolitical status from 'Pre-bombardment status quo' to 'U.S. and Israeli bombardment', where at least one entity is a condition/state rather than a proper-noun named entity, fitting the TYPE-B definition.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, what is the status of the geopolitical situation in Iran following the events of the previous day?",
+      "a": "U.S. and Israeli bombardment"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is the geopolitical situation in Iran still in the pre-bombardment status quo?",
+      "a": "No"
+    }
+  ]
+}

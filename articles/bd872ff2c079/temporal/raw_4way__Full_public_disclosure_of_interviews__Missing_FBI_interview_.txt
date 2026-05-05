@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a flip in the state of document disclosure, moving from a condition of 'Full public disclosure' (or the assertion thereof) to the reality of 'Missing FBI interview summaries', which involves a change in status/value rather than a swap between two named entities.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-25, what is the status of the FBI interview summaries with the unidentified accuser in the publicly released Jeffrey Epstein files?",
+      "a": "Missing"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-25, are the FBI interview summaries with the unidentified accuser fully publicly disclosed in the released files?",
+      "a": "No"
+    }
+  ]
+}

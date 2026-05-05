@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a state flip from 'Previous Enterprise model offerings' (which did not include GPT-5.4 Pro) to 'GPT-5.4 Pro' (the new specific model availability), where the 'before' entity is a generic category/status rather than a specific named entity, fitting the TYPE-B definition of a state/value/condition flip.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-05, what is the specific model offering available for ChatGPT Enterprise and Edu users?",
+      "a": "GPT-5.4 Pro"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-05, is the specific model offering for ChatGPT Enterprise and Edu users still the previous enterprise model offerings?",
+      "a": "No"
+    }
+  ]
+}

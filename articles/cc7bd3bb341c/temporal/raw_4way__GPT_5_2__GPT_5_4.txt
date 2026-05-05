@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a specific named entity (GPT-5.4) replacing another named entity (GPT-5.2) in the role of the active AI model version in ChatGPT.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-06, which AI model version is currently active in ChatGPT for Plus, Team, and Pro users?",
+      "a": "GPT-5.4"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-06, is GPT-5.2 still the active AI model version in ChatGPT for Plus, Team, and Pro users?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond GPT-5.4's role as the active AI model in ChatGPT, what is GPT-5.4 otherwise known for in the AI domain?",
+      "a": "Frontier AI model supporting up to 1 million tokens of context"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-06, which AI model version replaced GPT-5.2 as the active model in ChatGPT for Plus, Team, and Pro users?",
+      "a": "GPT-5.4"
+    }
+  ]
+}

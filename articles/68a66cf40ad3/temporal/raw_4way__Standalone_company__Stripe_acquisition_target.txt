@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in PayPal's corporate status from a standalone company to a potential acquisition target, which is a state/value flip rather than a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-24, what is the status of PayPal regarding potential acquisition by Stripe?",
+      "a": "Stripe acquisition target"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-24, is PayPal still operating as a standalone company with no reported acquisition interest from Stripe?",
+      "a": "No"
+    }
+  ]
+}

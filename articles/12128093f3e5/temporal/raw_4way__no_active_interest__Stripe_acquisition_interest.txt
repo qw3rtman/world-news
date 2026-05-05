@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in Stripe's strategic stance from having no active interest to expressing acquisition interest, which is a state/value flip rather than a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-24, what is the status of Stripe's interest in acquiring all or parts of PayPal Holdings?",
+      "a": "Stripe acquisition interest"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-24, is Stripe's interest in acquiring all or parts of PayPal Holdings still no active interest?",
+      "a": "No"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update involves a change in the acquisition price from £1.8 billion to £1.33 billion, which is a value flip where at least one entity is a monetary value rather than a named entity.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-23, what is the agreed acquisition price for Johnson Matthey's Catalyst Technologies unit by Honeywell?",
+      "a": "£1.33 billion"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-23, is the agreed acquisition price for Johnson Matthey's Catalyst Technologies unit still £1.8 billion?",
+      "a": "No"
+    }
+  ]
+}

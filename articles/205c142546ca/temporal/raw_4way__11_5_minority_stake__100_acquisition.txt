@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update involves a change in ownership percentage from a specific value (11.5% minority stake) to another state (100% acquisition), where at least one entity is a value/condition rather than a proper-noun named entity swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-23, what is the ownership percentage of Gilead Sciences Inc. in Arcellx Inc.?",
+      "a": "100% acquisition"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-23, is Gilead Sciences Inc.'s ownership stake in Arcellx Inc. still limited to 11.5%?",
+      "a": "No"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a status flip from an 'Undecided Primary' to a 'Concluded Primary', where at least one entity (the status/value) is not a proper-noun named entity.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-04, what is the status of the 2026 Texas Democratic Senate primary?",
+      "a": "Concluded Primary"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-04, is the 2026 Texas Democratic Senate primary still an Undecided Primary?",
+      "a": "No"
+    }
+  ]
+}

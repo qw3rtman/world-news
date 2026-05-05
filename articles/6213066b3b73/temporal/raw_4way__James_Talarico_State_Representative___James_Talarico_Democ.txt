@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a state flip from 'State Representative' (a prior role/status) to 'Democratic Nominee' (a new status/condition), where the 'before' entity is defined by its previous role rather than being a different named entity swapping into the same role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-04, what is the status of James Talarico in the 2026 U.S. Senate race in Texas?",
+      "a": "Democratic Nominee"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-04, is James Talarico still only a State Representative in the context of the 2026 U.S. Senate race in Texas?",
+      "a": "No"
+    }
+  ]
+}

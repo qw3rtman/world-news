@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update describes a specific named entity (Robert Garcia) taking on a specific role (leading the investigation) that was previously held by a different named entity/state (No active House Oversight investigation, effectively represented by the committee's prior inaction or lack of specific leadership for this probe), fitting the definition of a named entity-role swap where the 'before' state is treated as the prior holder of the role (inaction/absence) and the 'after' is the new holder.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-25, who is leading the House Oversight Committee's investigation into whether the Justice Department illegally withheld records from the Epstein files?",
+      "a": "Robert Garcia"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-25, is 'No active House Oversight investigation' still leading the investigation into whether the Justice Department illegally withheld records from the Epstein files?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Robert Garcia's role as lead investigator for the House Oversight Committee's Epstein file probe, what is Robert Garcia otherwise known for in the relevant domain?",
+      "a": "Top Democrat on the House Oversight Committee"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-02-25, who replaced/succeeded 'No active House Oversight investigation' as the leader of the investigation into whether the Justice Department illegally withheld records from the Epstein files?",
+      "a": "Robert Garcia"
+    }
+  ]
+}

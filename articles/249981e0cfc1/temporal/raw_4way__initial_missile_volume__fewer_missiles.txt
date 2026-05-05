@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the state/condition of Iranian missile firing frequency from 'initial/high volume' to 'fewer', which involves values/conditions rather than a swap between two named entities.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-04, what is the frequency of Iranian missile fire compared to the start of the conflict?",
+      "a": "Fewer missiles"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-04, is Iran firing missiles at the same frequency as it did at the start of the conflict?",
+      "a": "No"
+    }
+  ]
+}

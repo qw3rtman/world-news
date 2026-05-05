@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a swap between two named individuals (Torbjorn Tornqvist and Gary Pedersen) regarding the specific role of leading the employee group in the management buyout.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-19, who is leading Gunvor's employees in the management buyout?",
+      "a": "Gary Pedersen"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-19, is Torbjorn Tornqvist still leading Gunvor's employees in the management buyout?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Gary Pedersen's role leading the management buyout, what is Gary Pedersen otherwise known for in the commodity trading industry?",
+      "a": "CEO of Gunvor"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-02-19, who replaced/succeeded Torbjorn Tornqvist as the individual leading Gunvor's employees in the management buyout?",
+      "a": "Gary Pedersen"
+    }
+  ]
+}

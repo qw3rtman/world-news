@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the physical location/status of Nicolás Maduro from 'Miraflores Palace' (a named place) to 'U.S. custody' (a condition/status), which fits the TYPE-B definition of a state/value/condition flip where the 'after' entity is not a proper-noun named entity filling the same role in the same sense, but rather a custodial status.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, what is the current location/custodial status of Venezuelan President Nicolás Maduro?",
+      "a": "U.S. custody"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is Nicolás Maduro still residing in the Miraflores Palace?",
+      "a": "No"
+    }
+  ]
+}

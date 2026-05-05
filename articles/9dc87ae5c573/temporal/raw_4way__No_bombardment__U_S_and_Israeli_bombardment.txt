@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a state flip from 'No bombardment' to 'U.S. and Israeli bombardment', where at least one entity (the pre-update state) is a condition/value rather than a proper-noun named entity.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, what is the status of the U.S. and Israeli bombardment of Iran?",
+      "a": "U.S. and Israeli bombardment"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is Iran still free from U.S. and Israeli bombardment?",
+      "a": "No"
+    }
+  ]
+}

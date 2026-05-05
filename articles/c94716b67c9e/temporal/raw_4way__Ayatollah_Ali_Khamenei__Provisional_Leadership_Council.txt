@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update describes a named entity (Provisional Leadership Council) replacing another named entity (Ayatollah Ali Khamenei) in the role of managing the succession/leadership of the Iranian regime.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-02, who holds the role of the leadership council managing the succession of the Iranian regime following the death of the Supreme Leader?",
+      "a": "Provisional Leadership Council"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-02, is Ayatollah Ali Khamenei still holding the role of the leadership council managing the succession of the Iranian regime?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond the Provisional Leadership Council's role in managing Iranian succession, what is the Provisional Leadership Council otherwise known for in the relevant domain?",
+      "a": ""
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-02, who replaced/succeeded Ayatollah Ali Khamenei as the leadership council managing the succession of the Iranian regime?",
+      "a": "Provisional Leadership Council"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a change in status/expectation regarding Clément Beaune's participation (from 'Expected participant' to 'Refused to join'), which is a state/value flip rather than a swap between two named entities holding the same role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-17, what is the participation status of Clément Beaune in the merged election list led by Rachida Dati?",
+      "a": "Refused to join"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-17, is Clément Beaune still expected to join the merged election list led by Rachida Dati?",
+      "a": "No"
+    }
+  ]
+}

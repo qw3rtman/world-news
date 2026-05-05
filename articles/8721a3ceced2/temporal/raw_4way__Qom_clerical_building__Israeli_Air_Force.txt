@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the physical state of the Qom clerical building from undamaged to damaged (No) due to an Israeli Air Force strike, which is a state/condition flip rather than a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-05, what is the condition of the Qom clerical building following the Israeli Air Force strike?",
+      "a": "Damaged"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-05, is the Qom clerical building still undamaged by military strikes?",
+      "a": "No"
+    }
+  ]
+}

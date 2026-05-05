@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the occupant of the Supreme Leader office, but the provided entities ('Previous incumbent' and 'New appointee') are generic descriptors rather than specific named entities, and the fact tested is the state change of the office's occupancy status.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-04, what is the status of the Supreme Leader of Iran office?",
+      "a": "New appointee"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-04, is the Supreme Leader of Iran office still held by the previous incumbent?",
+      "a": "No"
+    }
+  ]
+}

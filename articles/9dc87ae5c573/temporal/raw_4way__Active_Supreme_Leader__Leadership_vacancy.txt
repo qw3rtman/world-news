@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a state change from 'Active Supreme Leader' (a status/condition) to 'Leadership vacancy' (a status/condition), which fits the TYPE-B definition of a state/condition flip.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, what is the status of the Supreme Leader of Iran?",
+      "a": "Leadership vacancy"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is the Supreme Leader of Iran still an active head of state?",
+      "a": "No"
+    }
+  ]
+}

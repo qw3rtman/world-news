@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a change in the count of U.S. military fatalities from zero to three, which is a state/value flip where at least one entity (Zero) is a numerical value/condition rather than a proper-noun named entity.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of March 1, 2026, what is the number of U.S. service members killed in action during the combat operations in Iran according to U.S. Central Command?",
+      "a": "Three"
+    },
+    {
+      "axis": "T2",
+      "q": "As of March 1, 2026, is the number of U.S. service members killed in action during the combat operations in Iran still zero?",
+      "a": "No"
+    }
+  ]
+}

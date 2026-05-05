@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update involves a change in legal status (from 'barred' to 'approved') rather than a swap between two named entities holding the same role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-04, what is the legal status of U.S. airline flights to Venezuela?",
+      "a": "Approved"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-04, is the 2019 order barring U.S. airlines from flying to Venezuela still in effect?",
+      "a": "No"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a specific named entity (Ali Larijani) replacing another named entity (Ayatollah Ali Khamenei) in a definable role (key coordinator of the post-Khamenei leadership council), fitting the criteria for a TYPE-A entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-02, who holds the role of key coordinator of Iran's post-Khamenei leadership council?",
+      "a": "Ali Larijani"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-02, is Ayatollah Ali Khamenei still the key coordinator of Iran's post-Khamenei leadership council?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Ali Larijani's role as key coordinator of the post-Khamenei leadership council, what is Ali Larijani otherwise known for in Iranian politics?",
+      "a": "Former parliamentary speaker"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-02, who replaced/succeeded Ayatollah Ali Khamenei as the key coordinator of Iran's post-Khamenei leadership council?",
+      "a": "Ali Larijani"
+    }
+  ]
+}

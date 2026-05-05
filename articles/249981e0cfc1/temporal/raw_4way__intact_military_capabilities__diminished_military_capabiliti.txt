@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the assessed state/condition of Iran's military capabilities from 'intact' to 'diminished', which constitutes a state/value flip rather than a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, what is the assessed state of Iran's military capabilities according to the U.S. military?",
+      "a": "Greatly diminished"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is Iran's military capabilities still intact?",
+      "a": "No"
+    }
+  ]
+}

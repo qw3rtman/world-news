@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a specific named entity (Stephen Miran) replacing another named entity (Adriana Kugler) in the definable role of Federal Reserve Governor filling an unexpired term.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-06, who holds the role of Federal Reserve Governor filling the unexpired term previously held by Adriana Kugler?",
+      "a": "Stephen Miran"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-06, is Adriana Kugler still serving as a Federal Reserve Governor filling the unexpired term?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Stephen Miran's role as Federal Reserve Governor, what is Stephen Miran otherwise known for in the relevant domain?",
+      "a": ""
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-06, who replaced/succeeded Adriana Kugler as Federal Reserve Governor filling the unexpired term?",
+      "a": "Stephen Miran"
+    }
+  ]
+}

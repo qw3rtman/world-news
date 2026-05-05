@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a change in the official designation (state/value) of the military operation from an unnamed status to a specific codename ('Operation Epic Fury'), which is a TYPE-B state flip rather than a named entity swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-02, what is the official codename of the U.S.-Israeli military operation in Iran?",
+      "a": "Operation Epic Fury"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-02, is the U.S.-Israeli military operation in Iran still designated as Unnamed military strikes?",
+      "a": "No"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a flip in the state of a claim/position (from 'No' to 'Yes' regarding Trump's involvement), where the entities involved (Pete Hegseth vs Donald Trump) are not swapping the same definable role but rather represent different actors associated with the shifting narrative; specifically, the 'fact_tested' is a boolean state of a claim, fitting the TYPE-B definition of a state/value/condition flip.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-05, does President Trump claim that he must be personally involved in selecting Iran's next leader?",
+      "a": "Yes"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-05, is it still the case that President Trump does not claim that he must be personally involved in selecting Iran's next leader?",
+      "a": "No"
+    }
+  ]
+}

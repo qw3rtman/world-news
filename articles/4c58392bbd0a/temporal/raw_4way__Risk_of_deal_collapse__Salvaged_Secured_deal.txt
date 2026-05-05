@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a flip in the status/stability of the deal from 'Risk of deal collapse' to 'Salvaged/Secured deal', where at least one entity is a condition/status rather than a proper-noun named entity.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-23, what is the status of the acquisition deal between Honeywell and Johnson Matthey's Catalyst Technologies unit?",
+      "a": "Salvaged/Secured"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-23, is the acquisition deal between Honeywell and Johnson Matthey's Catalyst Technologies unit still at risk of falling apart?",
+      "a": "No"
+    }
+  ]
+}

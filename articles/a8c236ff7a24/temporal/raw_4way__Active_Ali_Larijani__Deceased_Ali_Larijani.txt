@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a state flip from 'Active' (alive/serving) to 'Deceased' (killed) for Ali Larijani, where the 'after' state is a condition/status rather than a named entity replacing him in the role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, what is the operational status of Ali Larijani, Iran's security chief?",
+      "a": "Deceased"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is Ali Larijani still active as Iran's security chief?",
+      "a": "No"
+    }
+  ]
+}

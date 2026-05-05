@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a state change from 'Independent social network' (a condition/status of ownership) to 'Meta' (the new owner/entity), which fits the TYPE-B definition of a state/value/condition flip where the 'before' entity is not a proper-noun named entity holding a role in the same way, but rather a status of independence.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-11, who owns the social network specifically designed for AI bots?",
+      "a": "Meta"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-11, is the social network specifically designed for AI bots still an independent social network?",
+      "a": "No"
+    }
+  ]
+}

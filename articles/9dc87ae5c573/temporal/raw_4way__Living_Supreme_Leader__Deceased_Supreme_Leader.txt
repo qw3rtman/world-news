@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a state change from 'Living' to 'Deceased' (a condition/status flip), where the entities represent states rather than two distinct named individuals swapping roles.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, what is the status of the Supreme Leader of Iran?",
+      "a": "Deceased"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is the Supreme Leader of Iran still living?",
+      "a": "No"
+    }
+  ]
+}

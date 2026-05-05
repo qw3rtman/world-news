@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in PayPal's status from being an independent entity free from acquisition interest to being a potential acquisition target for Stripe, which is a state/value flip rather than a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-24, what is the status of PayPal regarding Stripe's acquisition interest?",
+      "a": "Stripe acquisition target"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-24, is PayPal still free from any reported acquisition interest from Stripe?",
+      "a": "No"
+    }
+  ]
+}

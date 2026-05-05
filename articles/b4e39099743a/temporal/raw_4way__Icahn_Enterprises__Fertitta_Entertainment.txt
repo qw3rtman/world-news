@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a swap between two named entities (Icahn Enterprises and Fertitta Entertainment) regarding the role of the leading bidder for Caesars Entertainment.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-11, which company is in exclusive talks to buy Caesars Entertainment for roughly $7 billion after topping a competing offer?",
+      "a": "Fertitta Entertainment"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-11, is Icahn Enterprises still the company in exclusive talks to buy Caesars Entertainment for roughly $7 billion?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Fertitta Entertainment's bid for Caesars Entertainment, what is Tilman Fertitta otherwise known for in the relevant domain?",
+      "a": "Owner of the Golden Nugget Casino chain and Houston Rockets"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-11, which company replaced Icahn Enterprises as the leading bidder in exclusive talks to buy Caesars Entertainment?",
+      "a": "Fertitta Entertainment"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "A",
+  "rationale": "The update involves a specific named entity (James Talarico) replacing another named entity (Unknown Winner, treated as the placeholder for the pre-outcome state which is effectively a named role holder in the context of the probe's entity_before/after structure, but strictly speaking, 'Unknown Winner' is not a proper noun person/org. However, looking at the strict definition: TYPE-A requires BOTH entity_before AND entity_after to be proper-noun named entities. 'Unknown Winner' is NOT a proper-noun named entity. 'James Talarico' IS. Therefore, this fits TYPE-B: STATE / VALUE / CONDITION flip, where entity_before is a condition/status ('Unknown Winner' representing the state of the winner being unknown) and entity_after is a named entity. Wait, let's re-read TYPE-B definition: 'at least one of entity_before or entity_after is NOT a proper-noun named entity'. 'Unknown Winner' is not a proper noun. So it is TYPE-B.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-04, who is the Democratic nominee for U.S. Senate in Texas?",
+      "a": "James Talarico"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-04, is the Democratic nominee for U.S. Senate in Texas still unknown?",
+      "a": "No"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a flip in financial performance status from meeting to missing analyst estimates, where the entities represent conditions/values rather than a swap between two named entities in a definable role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-24, what is the status of PayPal's fourth-quarter profit and revenue relative to analysts' estimates?",
+      "a": "Missed analysts' estimates"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-24, is PayPal's fourth-quarter profit and revenue still meeting analysts' estimates?",
+      "a": "No"
+    }
+  ]
+}

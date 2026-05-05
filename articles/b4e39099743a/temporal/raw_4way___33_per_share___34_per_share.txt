@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update involves a change in the highest per-share bid amount from $33 to $34, which is a value flip where at least one entity is a monetary value rather than a proper-noun named entity.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-11, what is the highest per-share bid amount for Caesars Entertainment?",
+      "a": "$34 per share"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-11, is the highest per-share bid amount for Caesars Entertainment still $33 per share?",
+      "a": "No"
+    }
+  ]
+}

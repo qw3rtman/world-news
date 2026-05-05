@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a flip in the market condition of Asian share futures from 'Stable' to 'Sliding', where the entities represent states/values rather than named entity-role swaps.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of March 4, 2026, what is the status of Asian share futures?",
+      "a": "Sliding"
+    },
+    {
+      "axis": "T2",
+      "q": "As of March 4, 2026, are Asian share futures still stable?",
+      "a": "No"
+    }
+  ]
+}

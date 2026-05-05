@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a flip in the condition of energy transport in the Persian Gulf from 'Secure' to 'At-risk', which involves state/value changes rather than a swap between two named entities.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-02, what is the condition of energy transportation in the Persian Gulf following the killing of Ayatollah Ali Khamenei?",
+      "a": "At-risk"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-02, is energy transportation in the Persian Gulf still secure?",
+      "a": "No"
+    }
+  ]
+}

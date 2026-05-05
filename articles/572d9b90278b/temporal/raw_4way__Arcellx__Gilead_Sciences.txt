@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a specific named entity (Gilead Sciences) replacing another named entity (Arcellx) as the owner of the CAR-T therapy anito-cel, which fits the definition of a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-23, who is the owner of the CAR-T therapy anito-cel?",
+      "a": "Gilead Sciences"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-23, is Arcellx still the owner of the CAR-T therapy anito-cel?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Gilead Sciences' role as owner of the CAR-T therapy anito-cel, what is Gilead Sciences otherwise known for in the relevant domain?",
+      "a": "Biotech company"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-02-23, who replaced/succeeded Arcellx as the owner of the CAR-T therapy anito-cel?",
+      "a": "Gilead Sciences"
+    }
+  ]
+}

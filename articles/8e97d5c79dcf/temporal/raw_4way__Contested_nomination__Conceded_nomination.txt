@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the concession status of the Texas Democratic Senate primary from 'Contested nomination' (not conceded) to 'Conceded nomination' (conceded), which is a state/condition flip rather than a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-04, what is the concession status of the Texas Democratic Senate primary between Jasmine Crockett and James Talarico?",
+      "a": "Conceded nomination"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-04, is the Texas Democratic Senate primary still a contested nomination?",
+      "a": "No"
+    }
+  ]
+}

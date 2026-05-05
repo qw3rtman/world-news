@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the operational status/capability of the U.S. Embassy (from 'Standard assistance' to 'Restricted assistance'), which is a state/condition flip rather than a swap between two named entities.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-02, what is the ability of the U.S. Embassy in Jerusalem to directly assist Americans trying to leave Israel?",
+      "a": "Restricted assistance"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-02, is the U.S. Embassy in Jerusalem still in a position to directly assist Americans who are trying to leave Israel?",
+      "a": "No"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a state change from 'Ali Khamenei' (the incumbent person) to 'New Supreme Leader' (a status/role designation rather than a specific named individual), which fits the TYPE-B definition where at least one entity is not a proper-noun named entity filling the same role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-04, what is the status of the Supreme Leader of Iran?",
+      "a": "New Supreme Leader"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-04, is Ali Khamenei still the Supreme Leader of Iran?",
+      "a": "No"
+    }
+  ]
+}

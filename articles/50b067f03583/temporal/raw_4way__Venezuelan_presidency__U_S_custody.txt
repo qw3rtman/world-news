@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the legal status/condition of Nicolas Maduro from 'Venezuelan presidency' (implied free/holding office) to 'U.S. custody' (detained), which is a state/value flip rather than a named entity-role swap between two proper nouns.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, what is the legal status and whereabouts of former Venezuelan President Nicolas Maduro?",
+      "a": "U.S. custody"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is former Venezuelan President Nicolas Maduro still the Venezuelan presidency?",
+      "a": "No"
+    }
+  ]
+}

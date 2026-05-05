@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update involves a change in valuation condition from a market price (Friday closing price) to a specific offer amount ($115 per share), where at least one entity is a value/condition rather than a named entity swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-23, what is the acquisition offer price per share for Arcellx Inc. announced by Gilead Sciences Inc.?",
+      "a": "$115 per share"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-23, is Arcellx Inc.'s acquisition valuation still represented by its Friday closing price?",
+      "a": "No"
+    }
+  ]
+}

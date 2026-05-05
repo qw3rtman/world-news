@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in political alignment (from 'official opposition' to 'ruling Liberals') for a specific legislator, which is a state/condition flip rather than a swap between two named entities holding the same role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-18, which political group does Matt Jeneroux sit with in the House of Commons?",
+      "a": "the ruling Liberals"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-18, does Matt Jeneroux still sit with the official opposition?",
+      "a": "No"
+    }
+  ]
+}

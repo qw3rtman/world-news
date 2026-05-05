@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a state flip from 'suspended' to 'restored/operational' for the Global Entry program, which is a condition/value change rather than a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-11, what is the operational status of the Global Entry program?",
+      "a": "Restored"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-11, is the Global Entry program still suspended?",
+      "a": "No"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a flip in the state of PayPal's growth momentum from 'pandemic-driven shift' (high growth) to 'softer retail spending' (slowing growth), where the entities represent conditions/values rather than a swap between two named entities in the same role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-24, what is the primary driver affecting PayPal's current growth momentum compared to its pandemic-era performance?",
+      "a": "Softer retail spending"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-24, is PayPal's growth momentum still primarily driven by the pandemic-driven shift to online transactions?",
+      "a": "No"
+    }
+  ]
+}

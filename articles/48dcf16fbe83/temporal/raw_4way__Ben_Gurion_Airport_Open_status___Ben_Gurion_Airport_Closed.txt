@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the operational status (Open to Closed) of Ben Gurion Airport, which is a state/condition flip rather than a swap between two named entities holding the same role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-02, what is the operational status of Ben Gurion Airport for commercial and charter flights?",
+      "a": "Closed"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-02, is Ben Gurion Airport still open for commercial and charter flights?",
+      "a": "No"
+    }
+  ]
+}

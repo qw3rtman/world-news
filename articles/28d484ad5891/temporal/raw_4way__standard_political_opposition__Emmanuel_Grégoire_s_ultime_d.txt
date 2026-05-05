@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a change in the characterization of an event (from 'standard political opposition' to 'ultimate disavowal'), where the 'before' state is a general concept/status rather than a specific named entity, fitting the TYPE-B definition of a state/value/condition flip.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-17, what is Emmanuel Grégoire's characterization of Pierre-Yves Bournazel's withdrawal from the Paris municipal campaign regarding Rachida Dati?",
+      "a": "Ultimate disavowal"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-17, is Emmanuel Grégoire's characterization of Pierre-Yves Bournazel's withdrawal still standard political opposition?",
+      "a": "No"
+    }
+  ]
+}

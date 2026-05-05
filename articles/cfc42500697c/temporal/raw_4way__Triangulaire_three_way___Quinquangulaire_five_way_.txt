@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the expected format of the election second round from a three-way (Triangulaire) to a five-way (Quinquangulaire) contest, which is a state/value flip rather than a named entity swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-15, what is the expected format of the second round of the 2026 Paris mayoral election?",
+      "a": "Quinquangulaire (five-way)"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-15, is the expected format of the second round of the 2026 Paris mayoral election still Triangulaire (three-way)?",
+      "a": "No"
+    }
+  ]
+}

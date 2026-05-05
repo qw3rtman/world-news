@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a flip in PayPal's profit outlook status from meeting Wall Street estimates to being muted/below estimates, where at least one entity (the outlook status) is a condition/value rather than a proper-noun named entity swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-24, what is the 2026 profit outlook of PayPal relative to Wall Street estimates?",
+      "a": "Muted profit outlook"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-24, is PayPal's 2026 profit outlook still meeting Wall Street estimates?",
+      "a": "No"
+    }
+  ]
+}

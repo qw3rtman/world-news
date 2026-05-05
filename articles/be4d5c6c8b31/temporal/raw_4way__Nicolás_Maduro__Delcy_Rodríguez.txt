@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a named entity (Delcy Rodríguez) replacing another named entity (Nicolás Maduro) in the specific role of Acting President of Venezuela.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, who holds the role of Acting President of Venezuela?",
+      "a": "Delcy Rodríguez"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is Nicolás Maduro still the Acting President of Venezuela?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Delcy Rodríguez's role as Acting President of Venezuela, what is Delcy Rodríguez otherwise known for in Venezuelan politics?",
+      "a": "Venezuelan politician"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-01, who replaced/succeeded Nicolás Maduro as Acting President of Venezuela?",
+      "a": "Delcy Rodríguez"
+    }
+  ]
+}

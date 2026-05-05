@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a flip in the state of U.S.-Israel military involvement from 'Diplomatic tensions' (non-combat) to 'Joint U.S.-Israel military strike' (active combat), which involves state/value conditions rather than a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, what is the nature of U.S. and Israel's military engagement with Iran?",
+      "a": "Joint U.S.-Israel military strike"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is the nature of U.S. and Israel's military engagement with Iran still limited to diplomatic tensions?",
+      "a": "No"
+    }
+  ]
+}

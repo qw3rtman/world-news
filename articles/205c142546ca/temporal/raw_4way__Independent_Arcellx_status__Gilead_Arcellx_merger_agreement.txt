@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a flip in the status/condition of Arcellx from 'Independent' (no acquisition agreement) to 'Merger Agreement' (acquisition agreement), where at least one entity state is a condition/status rather than a named entity swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-23, what is the acquisition status of Arcellx Inc.?",
+      "a": "Gilead-Arcellx merger agreement"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-23, is Arcellx Inc. still operating without any acquisition agreements?",
+      "a": "No"
+    }
+  ]
+}

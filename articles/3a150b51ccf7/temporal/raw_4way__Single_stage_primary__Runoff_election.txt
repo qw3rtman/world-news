@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the status of the election process from a 'Single-stage primary' (implied by the expectation of concluding without a runoff) to a 'Runoff election', which is a state/condition flip rather than a named entity swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-11, what is the status of the 2026 Texas Republican Senate primary?",
+      "a": "Runoff election"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-11, is the 2026 Texas Republican Senate primary still a single-stage primary expected to conclude without a runoff?",
+      "a": "No"
+    }
+  ]
+}

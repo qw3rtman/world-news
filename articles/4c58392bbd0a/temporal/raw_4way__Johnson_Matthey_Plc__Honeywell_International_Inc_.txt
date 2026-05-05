@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a named entity (Honeywell International Inc.) replacing another named entity (Johnson Matthey Plc) as the owner of a specific business unit (Catalyst Technologies), which fits the definition of a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-23, who is the owner of the Catalyst Technologies unit?",
+      "a": "Honeywell International Inc."
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-23, is Johnson Matthey Plc still the owner of the Catalyst Technologies unit?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Honeywell International Inc.'s ownership of the Catalyst Technologies unit, what is Honeywell International Inc. otherwise known for in the relevant domain?",
+      "a": "Multinational conglomerate"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-02-23, who replaced/succeeded Johnson Matthey Plc as the owner of the Catalyst Technologies unit?",
+      "a": "Honeywell International Inc."
+    }
+  ]
+}

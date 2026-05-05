@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a flip in the state/condition of the redaction process from 'Successful' (no flaws) to 'Flawed' (exposed victim info), which is a state/value change rather than a named entity swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-25, what is the condition of the redaction process for the Jeffrey Epstein records released in early 2026?",
+      "a": "Flawed"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-25, is the redaction process for the Jeffrey Epstein records released in early 2026 still regarded as having been executed without flaws?",
+      "a": "No"
+    }
+  ]
+}

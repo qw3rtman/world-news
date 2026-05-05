@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the status/ownership condition of the drug HS235 from an 'External asset' to a 'GSK asset', which involves state/value changes rather than a swap between two named entities holding the same role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-25, what is the ownership status of the drug HS235?",
+      "a": "GSK asset"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-25, is the drug HS235 still an external asset?",
+      "a": "No"
+    }
+  ]
+}

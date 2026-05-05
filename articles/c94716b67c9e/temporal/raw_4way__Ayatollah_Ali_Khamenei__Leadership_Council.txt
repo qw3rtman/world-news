@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a named entity (Ayatollah Ali Khamenei) being replaced by another named entity (Leadership Council) in the specific role of decision-maker for Iran's nuclear program.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-02, who holds the role of primary decision-maker for Iran's nuclear program?",
+      "a": "Leadership Council"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-02, is Ayatollah Ali Khamenei still the primary decision-maker for Iran's nuclear program?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond the primary decision-maker for Iran's nuclear program, what is the Leadership Council otherwise known for in the context of the Islamic Republic?",
+      "a": "Provisional council managing succession"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-02, who replaced/succeeded Ayatollah Ali Khamenei as the primary decision-maker for Iran's nuclear program?",
+      "a": "Leadership Council"
+    }
+  ]
+}

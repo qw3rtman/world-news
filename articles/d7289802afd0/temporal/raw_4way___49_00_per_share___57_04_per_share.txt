@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update involves a change in the per-share valuation of a bid from $49.00 to $57.04, which is a value/condition flip where at least one entity is a numerical value rather than a proper-noun named entity.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-26, what is the per-share value of Victory Capital's public rival bid for Janus Henderson?",
+      "a": "$57.04 per share"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-26, is Victory Capital's public rival bid for Janus Henderson still valued at $49.00 per share?",
+      "a": "No"
+    }
+  ]
+}

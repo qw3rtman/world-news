@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the state of military control over Iranian airspace from 'Yes' (controlled by the Iranian Air Force) to 'No' (controlled by Israel and the United States), which is a state/condition flip rather than a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-02, what is the status of Iranian military control over the sky over its own territory?",
+      "a": "No"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-02, is the Iranian military still maintaining control of the sky over its own territory?",
+      "a": "No"
+    }
+  ]
+}

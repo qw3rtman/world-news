@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a flip in the company's financial plan regarding shareholder returns, changing from 'No planned shareholder return' to a specific monetary value ('£1 billion shareholder return'), which fits the TYPE-B definition of a state/value flip where at least one entity is a value/condition.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-23, what is the plan for Johnson Matthey Plc regarding the return of net sale proceeds from the Catalyst Technologies unit to its shareholders?",
+      "a": "£1 billion shareholder return"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-23, is Johnson Matthey Plc still planning no return of net sale proceeds to its shareholders?",
+      "a": "No"
+    }
+  ]
+}

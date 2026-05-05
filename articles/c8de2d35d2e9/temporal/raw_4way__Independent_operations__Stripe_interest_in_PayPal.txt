@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in corporate strategy/status from 'Independent operations' to 'Stripe interest in PayPal', which involves a state/value flip rather than a swap between two named entities in the same role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-24, what is the strategic status of PayPal regarding potential acquisition by Stripe?",
+      "a": "Stripe interest in PayPal"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-24, is PayPal still in a state of independent operations with no acquisition interest from Stripe?",
+      "a": "No"
+    }
+  ]
+}

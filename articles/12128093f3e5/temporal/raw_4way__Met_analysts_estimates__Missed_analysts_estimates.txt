@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a flip in financial performance status from 'Met analysts' estimates' to 'Missed analysts' estimates', which constitutes a state/value flip rather than a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-24, what was the outcome of PayPal's fourth-quarter profit and revenue relative to analysts' estimates?",
+      "a": "Missed analysts' estimates"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-24, did PayPal's fourth-quarter profit and revenue meet analysts' estimates?",
+      "a": "No"
+    }
+  ]
+}

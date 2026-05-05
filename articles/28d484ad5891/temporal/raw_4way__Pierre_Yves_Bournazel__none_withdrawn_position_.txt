@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update involves a change in status (from 'slated to occupy' to 'withdrawn/not occupying') where the 'entity_after' is effectively a null state or condition rather than a named entity replacing the old one in a role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-17, is Pierre-Yves Bournazel slated to occupy the second position on the merged Paris municipal election list with Rachida Dati?",
+      "a": "No"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-17, is Pierre-Yves Bournazel still slated to occupy the second position on the merged Paris municipal election list with Rachida Dati?",
+      "a": "No"
+    }
+  ]
+}

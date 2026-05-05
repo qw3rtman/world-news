@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a specific named entity (Ayatollah Alireza Arafi) replacing another named entity (Ayatollah Ali Khamenei) in a definable political role (member of Iran's interim Leadership Council), fitting the criteria for a TYPE-A entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-02, who is a member of Iran's interim Leadership Council?",
+      "a": "Ayatollah Alireza Arafi"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-02, is Ayatollah Ali Khamenei still a member of Iran's interim Leadership Council?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Ayatollah Alireza Arafi's role in Iran's interim Leadership Council, what is Ayatollah Alireza Arafi otherwise known for in the relevant domain?",
+      "a": "Senior cleric"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-02, who replaced/succeeded Ayatollah Ali Khamenei as a member of Iran's interim Leadership Council?",
+      "a": "Ayatollah Alireza Arafi"
+    }
+  ]
+}

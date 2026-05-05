@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update concerns the acquisition status of Kellanova, which flips from an independent company (Yes) to being acquired by Mars (No), involving a state/value change rather than a named entity-role swap between two proper nouns in the same role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-26, what is the acquisition status of Kellanova?",
+      "a": "Acquired by Mars"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-26, is Kellanova still an independent company?",
+      "a": "No"
+    }
+  ]
+}

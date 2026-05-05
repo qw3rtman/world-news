@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a flip in the condition of control over Iranian airspace from 'Contested' to 'Allied air superiority', where at least one state is a condition/value rather than a named entity swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, what is the status of control over Iranian airspace?",
+      "a": "Allied air superiority"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is control over Iranian airspace still contested?",
+      "a": "No"
+    }
+  ]
+}

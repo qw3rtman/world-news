@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a flip in the state of U.S. government casualty reports from 'zero fatalities' (entity_before) to 'six fatalities' (entity_after), where the entities represent conditions/values rather than a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-07, what is the number of U.S. service members identified as killed in the conflict by the U.S. government?",
+      "a": "Six"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-07, is the number of U.S. service members identified as killed in the conflict by the U.S. government still zero?",
+      "a": "No"
+    }
+  ]
+}

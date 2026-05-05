@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the country of residence (a state/condition) from Venezuela to the United States, where the entities represent locations/states rather than a named entity-role swap between two proper nouns in a definable role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, what is the current country of residence for Venezuelan opposition leader Maria Corina Machado?",
+      "a": "United States"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is the current country of residence for Venezuelan opposition leader Maria Corina Machado still Venezuela?",
+      "a": "No"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a flip in the status/condition of Nicolas Maduro's authority from 'Venezuelan government control' (a state of being in power) to 'United States custody' (a state of being detained), where at least one side is a condition/status rather than a named entity swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, what is the status of Nicolas Maduro's authority?",
+      "a": "United States custody"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is Nicolas Maduro still in control of the Venezuelan government?",
+      "a": "No"
+    }
+  ]
+}

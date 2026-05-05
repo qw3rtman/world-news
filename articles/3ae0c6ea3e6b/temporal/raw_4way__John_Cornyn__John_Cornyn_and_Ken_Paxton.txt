@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the status of the Republican primary outcome from a concluded race (implied by the context of Cornyn/Paxton heading to a runoff, whereas the Democratic race concluded with a winner) to a specific state of 'heading to a May 26 runoff', which is a condition/value flip rather than a named entity swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-04, what is the status of the Texas Republican Senate primary for John Cornyn and Ken Paxton?",
+      "a": "Heading to a May 26 runoff"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-04, is the Texas Republican Senate primary for John Cornyn and Ken Paxton concluded with a winner?",
+      "a": "No"
+    }
+  ]
+}

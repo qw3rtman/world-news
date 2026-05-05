@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a named entity (Torbjorn Tornqvist) being replaced by another named entity (Gunvor employees) in the role of the primary stakeholder/owner of Gunvor Group Ltd.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-19, who holds the primary ownership stake in Gunvor Group Ltd following the management buyout?",
+      "a": "Gunvor employees"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-19, is Torbjorn Tornqvist still the holder of the primary ownership stake in Gunvor Group Ltd?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Gunvor employees' role as the new primary stakeholders in Gunvor Group Ltd, what is Gunvor employees otherwise known for in the relevant domain?",
+      "a": "Management and staff of Gunvor Group Ltd"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-02-19, who replaced/succeeded Torbjorn Tornqvist as the holder of the primary ownership stake in Gunvor Group Ltd?",
+      "a": "Gunvor employees"
+    }
+  ]
+}

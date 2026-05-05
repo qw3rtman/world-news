@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in state from 'No selection process' to 'New Supreme Leader selection process', which involves status/condition values rather than a swap between two named entities.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, what is the status of the selection process for the Supreme Leader of Iran?",
+      "a": "New Supreme Leader selection process"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is the selection process for the Supreme Leader of Iran still in a state of no selection process?",
+      "a": "No"
+    }
+  ]
+}

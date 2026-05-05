@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in state (from 'Former leadership state' to 'New leadership state') rather than a swap between two specific named entities, fitting the TYPE-B definition of a state/condition flip.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-04, what is the leadership state of Iran?",
+      "a": "New leadership state"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-04, is Iran still in the former leadership state?",
+      "a": "No"
+    }
+  ]
+}

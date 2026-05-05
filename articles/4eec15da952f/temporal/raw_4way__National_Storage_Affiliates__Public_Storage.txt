@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a named entity (Public Storage) replacing another named entity (National Storage Affiliates) in the role of managing the joint venture's property portfolio.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-16, who holds the role of manager of the joint venture portfolio formed by Public Storage and National Storage Affiliates partners?",
+      "a": "Public Storage"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-16, is National Storage Affiliates still the manager of the joint venture portfolio formed by Public Storage and National Storage Affiliates partners?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Public Storage's role as manager of the joint venture portfolio, what is Public Storage otherwise known for in the self-storage industry?",
+      "a": "Largest self-storage facilities operator in the United States"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-16, who replaced/succeeded National Storage Affiliates as manager of the joint venture portfolio formed by Public Storage and National Storage Affiliates partners?",
+      "a": "Public Storage"
+    }
+  ]
+}

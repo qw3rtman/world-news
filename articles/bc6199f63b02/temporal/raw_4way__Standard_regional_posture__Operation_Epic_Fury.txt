@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a change in the name/identity of a military operation from a general state ('Standard regional posture') to a specific named operation ('Operation Epic Fury'), which fits the TYPE-B definition of a state/value/condition flip where at least one entity is not a proper-noun named entity filling a definable role in the same way as a person/organization swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, what is the official name of the military campaign launched by the U.S. and Israel against Iran?",
+      "a": "Operation Epic Fury"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is the official name of the military campaign launched by the U.S. and Israel against Iran still 'Standard regional posture'?",
+      "a": "No"
+    }
+  ]
+}

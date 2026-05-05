@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the expected timeline for an event (from indefinite to a specific short duration), which constitutes a state/value flip rather than a named entity swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, what is the expected timeline for the selection of a new Supreme Leader of Iran?",
+      "a": "One to two days"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is the timeline for selecting a new Supreme Leader of Iran indefinite?",
+      "a": "No"
+    }
+  ]
+}

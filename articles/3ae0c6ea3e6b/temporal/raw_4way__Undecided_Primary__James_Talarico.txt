@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a flip in the status of the primary from 'Undecided' to a specific winner ('James Talarico'), where the 'entity_before' is a condition/status rather than a proper-noun named entity holding a role, fitting the TYPE-B definition.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-04, what is the status of the 2026 Texas Democratic Senate primary?",
+      "a": "James Talarico"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-04, is the 2026 Texas Democratic Senate primary still an undecided race with no declared winner?",
+      "a": "No"
+    }
+  ]
+}

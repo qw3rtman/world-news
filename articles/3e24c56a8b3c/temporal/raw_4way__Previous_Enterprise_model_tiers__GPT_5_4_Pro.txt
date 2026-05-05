@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a state flip from 'No' (unavailable) to 'Yes' (available) for the GPT-5.4 Pro model, where the entities are status conditions rather than two named entities swapping roles.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-05, what is the availability status of the GPT-5.4 Pro model for ChatGPT Enterprise and Edu users?",
+      "a": "Yes"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-05, is the GPT-5.4 Pro model still unavailable for ChatGPT Enterprise and Edu users?",
+      "a": "No"
+    }
+  ]
+}

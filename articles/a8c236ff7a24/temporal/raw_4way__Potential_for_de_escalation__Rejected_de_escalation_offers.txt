@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a flip in Iran's stance from accepting ('Potential for de-escalation') to rejecting ('Rejected de-escalation offers') offers, which is a change in state/condition rather than a swap between two named entities.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, what is the stance of the Iranian government regarding de-escalation offers conveyed by intermediary countries?",
+      "a": "Rejected de-escalation offers"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is the Iranian government still accepting de-escalation offers conveyed by intermediary countries?",
+      "a": "No"
+    }
+  ]
+}

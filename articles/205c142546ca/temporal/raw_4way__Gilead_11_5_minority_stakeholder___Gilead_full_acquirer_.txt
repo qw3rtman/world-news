@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a change in Gilead's ownership status from a minority stakeholder (11.5%) to a full acquirer, which is a state/value flip rather than a swap between two distinct named entities.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-23, what is Gilead's ownership status of Arcellx?",
+      "a": "Full acquirer"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-23, is Gilead's ownership of Arcellx limited to only 11.5% of the company's outstanding stock?",
+      "a": "No"
+    }
+  ]
+}

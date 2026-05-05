@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a change in status from 'No reported interest' (a negative condition/state) to 'Stripe' (an entity expressing interest), which constitutes a flip in the condition of being an acquisition target, fitting the TYPE-B definition where at least one side is a state/value/condition.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-24, is PayPal currently a company that has not been reported as a potential acquisition target for Stripe?",
+      "a": "No"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-24, is PayPal still a company that has not been reported as a potential acquisition target for Stripe?",
+      "a": "No"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a specific named entity (GPT-5.4) replacing another named entity (GPT-5.2 Thinking) in the role of the primary AI model available in ChatGPT for Plus, Team, and Pro users.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-06, who/what is the primary AI model available in ChatGPT for Plus, Team, and Pro users?",
+      "a": "GPT-5.4 Thinking"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-06, is GPT-5.2 Thinking still the primary AI model available in ChatGPT for Plus, Team, and Pro users?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond GPT-5.4 Thinking's role as the primary ChatGPT model, what is GPT-5.4 otherwise known for in the AI domain?",
+      "a": "OpenAI's most capable and efficient frontier model for professional work"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-06, who/what replaced GPT-5.2 Thinking as the primary AI model available in ChatGPT for Plus, Team, and Pro users?",
+      "a": "GPT-5.4 Thinking"
+    }
+  ]
+}

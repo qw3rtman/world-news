@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the corporate status of Arcellx from an independent entity to a subsidiary, which is a state/condition flip rather than a swap between two named entities holding the same role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-23, what is the corporate status of Arcellx Inc. following the agreement with Gilead Sciences Inc.?",
+      "a": "Gilead subsidiary"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-23, is Arcellx Inc. still a standalone entity independent of a Gilead acquisition agreement?",
+      "a": "No"
+    }
+  ]
+}

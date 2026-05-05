@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a specific named entity (GPT-5.4 Pro) replacing another named entity (GPT-5.2) in the role of the high-performance variant available to Enterprise and Pro users.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-06, who/what is the high-performance variant of the ChatGPT model available to users on Enterprise and Pro plans?",
+      "a": "GPT-5.4 Pro"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-06, is GPT-5.2 still the high-performance variant of the ChatGPT model available to users on Enterprise and Pro plans?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond GPT-5.4 Pro's role as the high-performance variant for Enterprise and Pro plans, what is GPT-5.4 Pro otherwise known for in the AI model domain?",
+      "a": "GPT-5.4"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-06, who replaced/succeeded GPT-5.2 as the high-performance variant of the ChatGPT model available to users on Enterprise and Pro plans?",
+      "a": "GPT-5.4 Pro"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the ownership structure and operational status of the National Storage Affiliates portfolio from fully owned to partially owned via a joint venture, which is a state/condition flip rather than a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-16, what is the ownership structure of the National Storage Affiliates portfolio ahead of the Public Storage acquisition closing?",
+      "a": "Joint Venture with Public Storage"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-16, is the National Storage Affiliates portfolio still fully owned by National Storage Affiliates without joint venture involvement?",
+      "a": "No"
+    }
+  ]
+}

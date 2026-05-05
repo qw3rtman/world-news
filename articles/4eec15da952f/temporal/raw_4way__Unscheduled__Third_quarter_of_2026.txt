@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a change in the expected closing timeline of a deal from 'Unscheduled' to a specific date range ('Third quarter of 2026'), which involves a state/value flip rather than a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-16, what is the expected closing timeline for the $10.5 billion acquisition of National Storage Affiliates by Public Storage?",
+      "a": "Third quarter of 2026"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-16, is the expected closing timeline for the $10.5 billion acquisition of National Storage Affiliates by Public Storage still Unscheduled?",
+      "a": "No"
+    }
+  ]
+}

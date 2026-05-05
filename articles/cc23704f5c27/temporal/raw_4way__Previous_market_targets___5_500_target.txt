@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a change in a specific value prediction (gold price target) from a general state ('Previous market targets') to a specific numerical value ('$5,500 target'), which fits the definition of a state/value flip where at least one entity is not a proper-noun named entity.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-09, what is the gold price target predicted by Thomas Winmill for this spring?",
+      "a": "$5,500 per ounce"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-09, is the gold price target predicted by Thomas Winmill still previous market targets?",
+      "a": "No"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a change in corporate status/condition (from lacking a definitive agreement to having one) rather than a swap between two named entities filling the same role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-17, what is the status of Mastercard's agreement to acquire BVNK?",
+      "a": "Definitive agreement"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-17, is Mastercard operating without a definitive agreement to acquire BVNK?",
+      "a": "No"
+    }
+  ]
+}

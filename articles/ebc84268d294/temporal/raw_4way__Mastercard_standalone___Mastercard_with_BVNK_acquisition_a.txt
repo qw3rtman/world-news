@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a state flip from 'standalone entity' to 'entity with acquisition agreement', where the 'before' state is a condition/status rather than a named entity holding a specific role, fitting the TYPE-B definition.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-17, what is the acquisition status of Mastercard regarding BVNK?",
+      "a": "Definitive agreement to acquire"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-17, is Mastercard still standalone with no definitive agreement to acquire BVNK?",
+      "a": "No"
+    }
+  ]
+}

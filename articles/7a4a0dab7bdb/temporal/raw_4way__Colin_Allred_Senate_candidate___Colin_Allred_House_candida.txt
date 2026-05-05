@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in Colin Allred's political status/candidacy from a Senate candidate to a House candidate, which is a state/value flip rather than a named entity-role swap between two distinct proper nouns.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-04, what is the candidacy status of former U.S. Representative Colin Allred in the 2026 Texas elections?",
+      "a": "House candidate"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-04, is former U.S. Representative Colin Allred still a Senate candidate in the 2026 Texas elections?",
+      "a": "No"
+    }
+  ]
+}

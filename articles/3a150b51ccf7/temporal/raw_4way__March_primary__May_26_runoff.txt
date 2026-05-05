@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the status of the election timeline from a concluded March primary to a scheduled May 26 runoff, which is a state/value flip where at least one entity (the status 'March primary' vs 'May 26 runoff') is not a proper-noun named entity filling a role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-11, what is the current status of the Texas Republican Senate primary race?",
+      "a": "May 26 runoff"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-11, is the Texas Republican Senate primary race still in the March primary stage?",
+      "a": "No"
+    }
+  ]
+}

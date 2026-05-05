@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a swap between two named individuals (Rick Heidner and Darren Bailey) for the specific role of Republican gubernatorial nominee, fitting the TYPE-A definition of a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-17, who holds the role of the Republican nominee for the 2026 Illinois gubernatorial election?",
+      "a": "Darren Bailey"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-17, is Rick Heidner still the Republican nominee for the 2026 Illinois gubernatorial election?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Darren Bailey's role as the 2026 Republican nominee for Illinois governor, what is Darren Bailey otherwise known for in Illinois politics?",
+      "a": "Former Illinois state Senator"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-17, who replaced/succeeded Rick Heidner as the Republican nominee for the 2026 Illinois gubernatorial election?",
+      "a": "Darren Bailey"
+    }
+  ]
+}

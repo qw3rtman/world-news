@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a state flip from 'No' (financing not secured) to 'Yes' (financing secured from specific banks), where the entity_after is part of the value/condition description rather than a simple named entity swap in a role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-16, what is the status of committed financing for Public Storage's acquisition of National Storage Affiliates?",
+      "a": "Secured $4 billion from Goldman Sachs and Wells Fargo"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-16, is Public Storage's acquisition of National Storage Affiliates still without secured committed financing?",
+      "a": "No"
+    }
+  ]
+}

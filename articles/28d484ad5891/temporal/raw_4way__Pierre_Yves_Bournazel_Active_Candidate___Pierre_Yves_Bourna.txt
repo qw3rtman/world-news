@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the candidacy status of Pierre-Yves Bournazel from 'Active Candidate' to 'Withdrawn', which is a state/condition flip where the entities are not both proper-noun named entities filling the same role (one is a status).",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-17, what is the candidacy status of Pierre-Yves Bournazel in the 2026 Paris mayoral election?",
+      "a": "Withdrawn"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-17, is Pierre-Yves Bournazel still an active candidate in the 2026 Paris mayoral election?",
+      "a": "No"
+    }
+  ]
+}

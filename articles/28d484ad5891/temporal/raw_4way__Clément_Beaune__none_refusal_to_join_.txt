@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a change in status/condition (from 'member of the merged list' to 'refusal to join/not a member'), where the 'after' state is a negative condition rather than a named entity replacing another.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-17, what is the membership status of Clément Beaune on the merged Paris municipal election list led by Rachida Dati?",
+      "a": "Refusal to join"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-17, is Clément Beaune still a member of the merged Paris municipal election list led by Rachida Dati?",
+      "a": "No"
+    }
+  ]
+}

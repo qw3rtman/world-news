@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the status/condition of the Supreme Leader position (from 'Existing' to 'New Supreme Leader selection' due to death), where 'Existing Supreme Leader' is a status/state rather than a specific named individual being swapped for another named individual in a routine succession, and the core fact tested is the timeline and necessity of selection.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, what is the status of the Supreme Leader of Iran?",
+      "a": "New Supreme Leader selection"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is the Supreme Leader of Iran still the Existing Supreme Leader?",
+      "a": "No"
+    }
+  ]
+}

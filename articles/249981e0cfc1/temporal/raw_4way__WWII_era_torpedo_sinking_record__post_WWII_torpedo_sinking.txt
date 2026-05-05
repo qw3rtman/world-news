@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a state flip from a historical record condition (no post-WWII torpedo sinkings) to an active event status (a post-WWII torpedo sinking occurred), where the entities represent conditions/values rather than a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-01, what is the status of the U.S. military's record for sinking an enemy ship by torpedo since World War II?",
+      "a": "Post-WWII torpedo sinking"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-01, is the U.S. military's record for sinking an enemy ship by torpedo since World War II still unbroken?",
+      "a": "No"
+    }
+  ]
+}

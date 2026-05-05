@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a flip in authorization status from a 2019 flight restriction (a condition/value) to USDOT approval (a new condition/value), fitting the TYPE-B definition where at least one entity is not a proper-noun named entity filling a role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-04, what is the current authorization status of American Airlines' request to operate flights to Maracaibo, Venezuela?",
+      "a": "USDOT approval"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-04, is American Airlines still subject to the 2019 flight restriction for Maracaibo?",
+      "a": "No"
+    }
+  ]
+}

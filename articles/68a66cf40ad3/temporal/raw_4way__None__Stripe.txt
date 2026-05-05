@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in corporate strategy/condition (from 'not considering' to 'considering acquisition') rather than a swap between two named entities in a definable role, as 'None' is not a named entity.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-24, is Stripe considering a potential acquisition of all or parts of PayPal?",
+      "a": "Yes"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-24, is Stripe not considering a potential acquisition of all or parts of PayPal?",
+      "a": "No"
+    }
+  ]
+}

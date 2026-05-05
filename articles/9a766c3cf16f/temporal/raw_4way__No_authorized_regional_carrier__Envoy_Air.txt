@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update involves a specific named entity (Envoy Air) replacing a non-existent or null entity ('No authorized regional carrier') in the definable role of the authorized regional carrier for Venezuelan routes, which fits the TYPE-A criteria for named entity-role swaps where the 'before' state is effectively a null/empty named slot filled by a specific entity.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-04, who is the authorized regional carrier for American Airlines' flights to Venezuela?",
+      "a": "Envoy Air"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-04, is 'No authorized regional carrier' still the authorized regional carrier for American Airlines' flights to Venezuela?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Envoy Air's role as the authorized regional carrier for American Airlines' flights to Venezuela, what is Envoy Air otherwise known for in the relevant domain?",
+      "a": "Wholly owned regional carrier of American Airlines"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-04, who replaced/succeeded 'No authorized regional carrier' as the authorized regional carrier for American Airlines' flights to Venezuela?",
+      "a": "Envoy Air"
+    }
+  ]
+}

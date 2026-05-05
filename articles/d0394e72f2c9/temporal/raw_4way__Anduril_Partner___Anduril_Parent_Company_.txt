@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the corporate relationship status between Anduril and ExoAnalytic Solutions from 'Partner' to 'Parent Company', which is a state/condition flip where at least one entity in the relationship description is a role/status rather than a simple named entity swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-11, what is the corporate relationship status of Anduril to ExoAnalytic Solutions?",
+      "a": "Parent Company"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-11, is Anduril still a partner of ExoAnalytic Solutions rather than its parent company?",
+      "a": "No"
+    }
+  ]
+}

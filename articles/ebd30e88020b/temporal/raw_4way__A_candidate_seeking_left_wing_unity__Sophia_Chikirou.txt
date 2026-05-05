@@ -1,0 +1,26 @@
+{
+  "type": "A",
+  "rationale": "The update describes a specific named entity (Sophia Chikirou) replacing a generic role description ('A candidate seeking left-wing unity') in the context of the strategic role of splitting the left-wing vote in the second round.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-16, who is the candidate who intends to remain in the 2026 Paris mayoral race to split the left-wing vote?",
+      "a": "Sophia Chikirou"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-16, is A candidate seeking left-wing unity still the candidate who intends to remain in the 2026 Paris mayoral race to split the left-wing vote?",
+      "a": "No"
+    },
+    {
+      "axis": "T3",
+      "q": "Beyond Sophia Chikirou's role as a candidate in the 2026 Paris mayoral race, what is Sophia Chikirou otherwise known for in French politics?",
+      "a": "Hard-left France Unbowed (LFI) party candidate"
+    },
+    {
+      "axis": "T4",
+      "q": "As of 2026-03-16, who replaced/succeeded A candidate seeking left-wing unity as the candidate who intends to remain in the 2026 Paris mayoral race to split the left-wing vote?",
+      "a": "Sophia Chikirou"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in state/condition (leadership status) where the entities 'Former Supreme Leader' and 'New appointee' are generic descriptors rather than specific named entities, fitting the TYPE-B definition of a state/value flip.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-04, what is the leadership status of Iran?",
+      "a": "New appointee"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-04, is the leadership of Iran still held by the Former Supreme Leader?",
+      "a": "No"
+    }
+  ]
+}

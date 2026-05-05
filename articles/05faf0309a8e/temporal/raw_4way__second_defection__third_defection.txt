@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update represents a change in the ordinal count/status of defections (from 'second' to 'third'), which is a state/value flip rather than a named entity-role swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-18, what is the ordinal count of recent defections from the Conservative Party to the Liberal Party?",
+      "a": "third defection"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-18, is the defection of Matt Jeneroux still the second such move from the Conservatives to the Liberals in recent months?",
+      "a": "No"
+    }
+  ]
+}

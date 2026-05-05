@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the state of assistance (from 'No' to 'Yes') regarding drone tactics, where the entities represent conditions/states rather than a swap between two named entities holding the same role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-11, what is the status of Russian assistance to Iran regarding drone tactics for the ongoing conflict?",
+      "a": "Yes"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-11, is Russia still not providing Iran with assistance in drone tactics for the ongoing conflict?",
+      "a": "No"
+    }
+  ]
+}

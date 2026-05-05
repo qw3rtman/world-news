@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a flip in the financing condition from 'External bank financing or no loan' to 'Vendor loan from Torbjorn Tornqvist', where the 'entity_before' is a condition/status rather than a proper-noun named entity, fitting the TYPE-B definition.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-19, what is the source of financing for the Gunvor management buyout?",
+      "a": "Vendor loan from Torbjorn Tornqvist"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-19, is the source of financing for the Gunvor management buyout still external bank financing or no loan?",
+      "a": "No"
+    }
+  ]
+}

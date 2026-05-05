@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a flip in the state of U.S. military engagement (from diplomatic tension/refraining from combat to active combat operations), where the entities represent conditions/states rather than a swap between two named entities in the same role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of March 1, 2026, what is the status of U.S. military engagement in Iran?",
+      "a": "Active combat operations"
+    },
+    {
+      "axis": "T2",
+      "q": "As of March 1, 2026, is the United States still refraining from direct combat operations in Iran?",
+      "a": "No"
+    }
+  ]
+}

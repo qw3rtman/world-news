@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a flip in financial status from 'Profitable status' to 'Net loss status', where at least one entity is a condition/value rather than a proper-noun named entity, fitting the TYPE-B definition.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-11, what is the financial performance status of Caesars Entertainment regarding its recent quarterly results?",
+      "a": "Net loss status"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-11, is Caesars Entertainment still in a profitable status?",
+      "a": "No"
+    }
+  ]
+}

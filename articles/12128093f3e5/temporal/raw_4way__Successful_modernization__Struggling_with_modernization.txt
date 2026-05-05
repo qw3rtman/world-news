@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a flip in PayPal's operational state from 'Successful modernization' to 'Struggling with modernization', where at least one entity is a condition/state rather than a proper-noun named entity swap.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-02-24, what is the status of PayPal's modernization of its payment technologies relative to market share maintenance?",
+      "a": "Struggling with modernization"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-02-24, is PayPal still considered to be successfully modernizing its payment technologies to maintain market share against rivals like Apple?",
+      "a": "No"
+    }
+  ]
+}

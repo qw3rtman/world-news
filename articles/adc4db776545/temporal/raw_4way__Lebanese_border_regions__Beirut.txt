@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the geographic scope of Israeli strikes from 'Lebanese border regions' to 'Beirut', which is a flip in the condition/location of the bombardment rather than a swap between two named entities holding the same role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-07, what is the primary location being targeted by intense Israeli bombardment in Lebanon?",
+      "a": "Beirut"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-07, is the primary location being targeted by intense Israeli bombardment in Lebanon still the Lebanese border regions?",
+      "a": "No"
+    }
+  ]
+}

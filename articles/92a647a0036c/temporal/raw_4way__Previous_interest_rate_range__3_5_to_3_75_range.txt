@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the state/value of the Fed's interest rate target range (from a previous unspecified or lower range to the specific 3.5% to 3.75% range), which fits the TYPE-B definition of a state/value flip where at least one entity is a value/condition.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-06, what is the target range for the Federal Reserve's key interest rate?",
+      "a": "3.5% to 3.75%"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-06, is the target range for the Federal Reserve's key interest rate still the previous interest rate range?",
+      "a": "No"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "B",
+  "rationale": "The update describes a change in the existence/organization status of an opposition force (from 'No' broad coalition to 'Yes' broad coalition), which is a state/condition flip rather than a swap between two named entities holding the same role.",
+  "questions": [
+    {
+      "axis": "T1",
+      "q": "As of 2026-03-02, what is the status of the broad coalition of five Iranian Kurdish groups organized as an opposition force?",
+      "a": "Yes"
+    },
+    {
+      "axis": "T2",
+      "q": "As of 2026-03-02, is there currently a broad coalition of five Iranian Kurdish groups organized as an opposition force?",
+      "a": "No"
+    }
+  ]
+}
