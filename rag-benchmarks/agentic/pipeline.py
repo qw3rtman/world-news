@@ -34,8 +34,11 @@ def run_pipeline(retriever: HybridRetriever, generator: Generator,
     # Phase 1: Plan
     print(f"Planning for {n} questions...")
     plan_prompts = [agents.format_plan_prompt(q["question"]) for q in questions]
-    plan_outputs = generator.generate_batch(plan_prompts, max_tokens=512)
-    plans = [agents.parse_plan(o) for o in plan_outputs]
+    plan_results = generator.generate_batch(plan_prompts, max_tokens=512)
+    plans = [agents.parse_plan(r["text"]) for r in plan_results]
+    plan_token_counts = [{"prompt_tokens": r["prompt_tokens"],
+                          "completion_tokens": r["completion_tokens"]}
+                         for r in plan_results]
 
     step_counts = [len(p) for p in plans]
     print(f"Plan steps — min: {min(step_counts)}, max: {max(step_counts)}, "
@@ -43,7 +46,8 @@ def run_pipeline(retriever: HybridRetriever, generator: Generator,
 
     # Phase 2: Execute
     all_notes: list[list[str]] = [[] for _ in questions]
-    traces: list[dict] = [{"plan": plans[i], "steps": []} for i in range(n)]
+    traces: list[dict] = [{"plan": plans[i], "plan_tokens": plan_token_counts[i],
+                            "steps": []} for i in range(n)]
     max_active_steps = max(step_counts)
 
     for step_idx in range(max_active_steps):
@@ -59,10 +63,8 @@ def run_pipeline(retriever: HybridRetriever, generator: Generator,
             )
             for i in active_idx
         ]
-        step_tasks = [
-            agents.parse_step_task(o)
-            for o in generator.generate_batch(step_definer_prompts)
-        ]
+        definer_results = generator.generate_batch(step_definer_prompts)
+        step_tasks = [agents.parse_step_task(r["text"]) for r in definer_results]
 
         for j, task in enumerate(step_tasks):
             traces[active_idx[j]]["steps"].append({
@@ -72,6 +74,8 @@ def run_pipeline(retriever: HybridRetriever, generator: Generator,
                 "query": task["task"],
                 "chunks": [],
                 "notes": "",
+                "define_tokens": {"prompt_tokens": definer_results[j]["prompt_tokens"],
+                                  "completion_tokens": definer_results[j]["completion_tokens"]},
             })
 
         search_local = [j for j, t in enumerate(step_tasks) if t["type"] == "search"]
@@ -89,12 +93,16 @@ def run_pipeline(retriever: HybridRetriever, generator: Generator,
                 agents.format_extract_prompt(search_queries[k], chunks[k])
                 for k in range(len(search_local))
             ]
-            extract_outputs = generator.generate_batch(extract_prompts, max_tokens=512)
+            extract_results = generator.generate_batch(extract_prompts, max_tokens=512)
 
             for k, i in enumerate(search_global):
-                all_notes[i].append(agents.parse_notes(extract_outputs[k]))
+                all_notes[i].append(agents.parse_notes(extract_results[k]["text"]))
                 traces[i]["steps"][-1]["chunks"] = chunks[k]
                 traces[i]["steps"][-1]["notes"] = all_notes[i][-1]
+                traces[i]["steps"][-1]["extract_tokens"] = {
+                    "prompt_tokens": extract_results[k]["prompt_tokens"],
+                    "completion_tokens": extract_results[k]["completion_tokens"],
+                }
 
         if aggregate_local:
             aggregate_tasks = [step_tasks[j]["task"] for j in aggregate_local]
@@ -106,11 +114,15 @@ def run_pipeline(retriever: HybridRetriever, generator: Generator,
                 agents.format_aggregate_prompt(task)
                 for task in aggregate_tasks
             ]
-            aggregate_outputs = generator.generate_batch(aggregate_prompts)
+            aggregate_results = generator.generate_batch(aggregate_prompts)
 
             for k, i in enumerate(aggregate_global):
-                all_notes[i].append(agents.parse_notes(aggregate_outputs[k]))
+                all_notes[i].append(agents.parse_notes(aggregate_results[k]["text"]))
                 traces[i]["steps"][-1]["notes"] = all_notes[i][-1]
+                traces[i]["steps"][-1]["aggregate_tokens"] = {
+                    "prompt_tokens": aggregate_results[k]["prompt_tokens"],
+                    "completion_tokens": aggregate_results[k]["completion_tokens"],
+                }
 
     # Phase 3: Answer
     print(f"Generating final answers for {n} questions...")
@@ -118,14 +130,18 @@ def run_pipeline(retriever: HybridRetriever, generator: Generator,
         agents.format_answer_prompt(q["question"], all_notes[i])
         for i, q in enumerate(questions)
     ]
-    answer_outputs = generator.generate_batch(answer_prompts)
+    answer_results = generator.generate_batch(answer_prompts)
 
     results = []
-    for i, (q, answer) in enumerate(zip(questions, answer_outputs)):
+    for i, (q, ar) in enumerate(zip(questions, answer_results)):
+        traces[i]["answer_tokens"] = {
+            "prompt_tokens": ar["prompt_tokens"],
+            "completion_tokens": ar["completion_tokens"],
+        }
         results.append({
             "question": q["question"],
             "expected_answer": q.get("answer", q.get("expected_answer", "")),
-            "model_answer": answer,
+            "model_answer": ar["text"],
             "num_steps": len(plans[i]),
             "trace": traces[i],
         })

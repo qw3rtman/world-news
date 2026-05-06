@@ -34,8 +34,10 @@ class Generator:
         self.top_k = top_k
         self.min_p = min_p
 
-    def generate_batch(self, prompts: list[str], max_tokens: int = None) -> list[str]:
+    def generate_batch(self, prompts: list[str], max_tokens: int = None) -> list[dict]:
         """Generate outputs for a batch of pre-formatted prompts.
+
+        Returns list of dicts with keys: text, prompt_tokens, completion_tokens.
 
         Processes in sub-batches of 200 to avoid vLLM V1 engine SIGSEGV
         on large batch completion cleanup.
@@ -52,5 +54,9 @@ class Generator:
         for start in range(0, len(prompts), BATCH_SIZE):
             batch = prompts[start:start + BATCH_SIZE]
             outputs = self.llm.generate(batch, params)
-            all_results.extend([o.outputs[0].text.strip() for o in outputs])
+            all_results.extend([{
+                "text": o.outputs[0].text.strip(),
+                "prompt_tokens": len(o.prompt_token_ids),
+                "completion_tokens": len(o.outputs[0].token_ids),
+            } for o in outputs])
         return all_results
