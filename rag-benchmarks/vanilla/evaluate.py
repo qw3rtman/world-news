@@ -285,6 +285,14 @@ def main():
             # boundary_abstention: no oracle (answer is "not in corpus")
             # — gold_docs stays empty, model must say "I don't know"
 
+            # For oracle: prepend instruction that news article is most recent
+            if gold_docs and split.startswith("compositional"):
+                gold_docs[0]["contents"] = (
+                    "[NOTE: This news article contains the MOST RECENT information. "
+                    "When it conflicts with Wikipedia background, the news article is correct.]\n\n"
+                    + gold_docs[0]["contents"]
+                )
+
             if gold_docs:
                 n_matched += 1
             docs_per_question.append(gold_docs)
