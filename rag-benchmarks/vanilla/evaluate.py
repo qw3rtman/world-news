@@ -160,25 +160,24 @@ def run_judge_vllm(llm, tokenizer, results: list[dict]) -> list[dict]:
 
 
 def print_summary(results: list[dict]):
-    """Print per-task MATCH / NONMATCH / REFUSAL breakdown."""
+    """Print per-task pass@8 / allcorrect@8 breakdown."""
     splits = sorted(set(r["split"] for r in results))
     total_n = len(results)
-    total_match = sum(1 for r in results if r["judge_verdict"] == "match")
+    total_any = sum(1 for r in results if r["any_correct"])
+    total_all = sum(1 for r in results if r["all_correct"])
 
     for split in splits:
         sr = [r for r in results if r["split"] == split]
         n = len(sr)
-        match = sum(1 for r in sr if r["judge_verdict"] == "match")
-        nonmatch = sum(1 for r in sr if r["judge_verdict"] == "nonmatch")
-        refusal = sum(1 for r in sr if r["judge_verdict"] == "refusal")
+        any_c = sum(1 for r in sr if r["any_correct"])
+        all_c = sum(1 for r in sr if r["all_correct"])
         print(f"\n{split} (N={n}):")
-        print(f"  MATCH:    {match:4d} ({100*match/n:5.1f}%)")
-        print(f"  NONMATCH: {nonmatch:4d} ({100*nonmatch/n:5.1f}%)")
-        print(f"  REFUSAL:  {refusal:4d} ({100*refusal/n:5.1f}%)")
+        print(f"  pass@8:       {any_c:4d} ({100*any_c/n:5.1f}%)")
+        print(f"  allcorrect@8: {all_c:4d} ({100*all_c/n:5.1f}%)")
 
     if total_n:
-        print(f"\nOverall (N={total_n}): MATCH={total_match}/{total_n} "
-              f"({100*total_match/total_n:.1f}%)")
+        print(f"\nOverall (N={total_n}): pass@8={total_any/total_n*100:.1f}%, "
+              f"allcorrect@8={total_all/total_n*100:.1f}%")
 
 
 def main():
@@ -186,6 +185,8 @@ def main():
     parser.add_argument("--config", type=str, default="../config.yaml")
     parser.add_argument("--output", type=str, default=None)
     parser.add_argument("--output-dir", type=str, default=None)
+    parser.add_argument("--oracle", action="store_true",
+                        help="Oracle mode: use gold article(s) as context instead of retrieval")
     parser.add_argument("--judge-model", type=str, default="openai:gpt-5.4-mini",
                         help="Judge model: 'openai:MODEL' for API, or local path for vLLM")
     args = parser.parse_args()
@@ -205,67 +206,161 @@ def main():
     all_questions = load_eval_questions(eval_dir)
     print(f"Loaded {len(all_questions)} total questions")
 
-    # Retrieval + reranking
-    print("Loading retriever...")
-    retriever = HybridRetriever(
-        index_dir=os.path.join(artifacts_dir, "index"),
-        corpus_path=os.path.join(artifacts_dir, "corpus", "corpus.jsonl"),
-        embeddings_path=os.path.join(artifacts_dir, "embeddings.npy"),
-        embedding_model=cfg["embeddings"]["model"],
-        bm25_top_k=cfg["retrieval"]["bm25_top_k"],
-        dense_top_k=cfg["retrieval"]["dense_top_k"],
-    )
+    if args.oracle:
+        # Oracle mode: provide gold article(s) as context per question
+        from pathlib import Path
+        articles_dir = cfg["articles_dir"]
+        markets_dir = os.path.join(os.path.dirname(articles_dir.rstrip("/")), "markets")
 
-    print("Loading reranker...")
-    reranker = Reranker(
-        model_name=cfg["reranking"]["model"],
-        top_n=cfg["reranking"]["top_n"],
-    )
+        docs_per_question = []
+        n_matched = 0
+        for q in all_questions:
+            gold_docs = []
+            split = q.get("split", "")
 
-    from tqdm import tqdm
-    print(f"Retrieving and reranking {len(all_questions)} questions...")
-    docs_per_question = []
-    for q in tqdm(all_questions, desc="Retrieving and reranking"):
-        candidates = retriever.retrieve(q["question"])
-        reranked = reranker.rerank(q["question"], candidates)
-        docs_per_question.append(reranked)
+            if split in ("direct", "temporal"):
+                # hash -> articles/{hash}/article.txt
+                h = q.get("hash", "")
+                if h:
+                    article_path = os.path.join(articles_dir, h, "article.txt")
+                    if os.path.exists(article_path):
+                        text = open(article_path).read().strip()
+                        if text:
+                            gold_docs.append({"contents": text, "publish_date": ""})
 
-    import gc, torch
-    del reranker, retriever
-    gc.collect()
-    if torch.cuda.is_available():
-        torch.cuda.empty_cache()
-    print("Freed retriever/reranker memory")
+            elif split == "indexing":
+                # market_id + spike_id -> spike metadata -> article hashes
+                mid = q.get("market_id", "")
+                sid = q.get("spike_id", "")
+                if mid and sid is not None:
+                    spike_meta_path = os.path.join(markets_dir, str(mid), f"spike_{sid}", "metadata.json")
+                    if os.path.exists(spike_meta_path):
+                        import json as _json
+                        spike_meta = _json.load(open(spike_meta_path))
+                        for article_info in spike_meta.get("articles", []):
+                            af = article_info.get("file", "")
+                            if af:
+                                h = af.replace(".txt", "")
+                                article_path = os.path.join(articles_dir, h, "article.txt")
+                                if os.path.exists(article_path):
+                                    text = open(article_path).read().strip()
+                                    if text:
+                                        gold_docs.append({"contents": text, "publish_date": ""})
+
+            elif split.startswith("compositional"):
+                # article_file for hop 1
+                af = q.get("article_file", "")
+                if af:
+                    # Extract hash from path like /data/world-news/articles/{hash}/article.txt
+                    parts = af.split("/")
+                    for i, p in enumerate(parts):
+                        if p == "articles" and i + 1 < len(parts):
+                            h = parts[i + 1]
+                            article_path = os.path.join(articles_dir, h, "article.txt")
+                            if os.path.exists(article_path):
+                                text = open(article_path).read().strip()
+                                if text:
+                                    gold_docs.append({"contents": text, "publish_date": ""})
+                            break
+
+            # boundary_abstention: no oracle (answer is "not in corpus")
+            # — gold_docs stays empty, model must say "I don't know"
+
+            if gold_docs:
+                n_matched += 1
+            docs_per_question.append(gold_docs)
+
+        print(f"Oracle: {n_matched}/{len(all_questions)} questions matched to gold articles")
+
+    else:
+        # Standard retrieval: BM25 + dense + rerank
+        print("Loading retriever...")
+        retriever = HybridRetriever(
+            index_dir=os.path.join(artifacts_dir, "index"),
+            corpus_path=os.path.join(artifacts_dir, "corpus", "corpus.jsonl"),
+            embeddings_path=os.path.join(artifacts_dir, "embeddings.npy"),
+            embedding_model=cfg["embeddings"]["model"],
+            bm25_top_k=cfg["retrieval"]["bm25_top_k"],
+            dense_top_k=cfg["retrieval"]["dense_top_k"],
+        )
+
+        print("Loading reranker...")
+        reranker = Reranker(
+            model_name=cfg["reranking"]["model"],
+            top_n=cfg["reranking"]["top_n"],
+        )
+
+        from tqdm import tqdm
+        print(f"Retrieving and reranking {len(all_questions)} questions...")
+        docs_per_question = []
+        for q in tqdm(all_questions, desc="Retrieving and reranking"):
+            candidates = retriever.retrieve(q["question"])
+            reranked = reranker.rerank(q["question"], candidates)
+            docs_per_question.append(reranked)
+
+        import gc, torch
+        del reranker, retriever
+        gc.collect()
+        if torch.cuda.is_available():
+            torch.cuda.empty_cache()
+        print("Freed retriever/reranker memory")
 
     # Generation
     print("Loading generator...")
     gen_cfg = cfg["generation"]
+    n_trials = gen_cfg.get("n_trials", 8)
     generator = Generator(
         model=gen_cfg["model"],
         tp=gen_cfg["tp"],
         max_model_len=gen_cfg["max_model_len"],
         max_tokens=gen_cfg["max_tokens"],
         temperature=gen_cfg["temperature"],
+        top_p=gen_cfg.get("top_p", 0.8),
+        top_k=gen_cfg.get("top_k", 20),
+        min_p=gen_cfg.get("min_p", 0),
+        n_trials=n_trials,
     )
 
-    print(f"Generating answers for {len(all_questions)} questions...")
-    answers = generator.generate_batch(
+    print(f"Generating {n_trials} answers per question for {len(all_questions)} questions...")
+    all_predictions = generator.generate_batch(
         [q["question"] for q in all_questions],
         docs_per_question,
     )
 
-    # Build results
-    results = []
-    for q, answer in zip(all_questions, answers):
-        out = {**q, "model_answer": answer, "condition": "vanilla_rag"}
-        results.append(out)
+    # Judge all predictions (flatten, judge, reshape)
+    print(f"\nRunning LLM judge ({args.judge_model}) on {len(all_questions)} × {n_trials} predictions...")
+    flat_results = []
+    for q, preds in zip(all_questions, all_predictions):
+        for pred in preds:
+            flat_results.append({
+                "question": q["question"],
+                "expected_answer": q.get("expected_answer", q.get("answer", "")),
+                "model_answer": pred,
+            })
 
-    # LLM judge
-    print(f"\nRunning LLM judge ({args.judge_model}) on {len(results)} results...")
     if ":" in args.judge_model:
-        results = run_judge_api(results, args.judge_model)
+        flat_results = run_judge_api(flat_results, args.judge_model)
     else:
-        results = run_judge_vllm(generator.llm, generator.tokenizer, results)
+        flat_results = run_judge_vllm(generator.llm, generator.tokenizer, flat_results)
+
+    # Reshape and compute pass@8 / allcorrect@8
+    results = []
+    idx = 0
+    for q, preds in zip(all_questions, all_predictions):
+        verdicts = [flat_results[idx + j]["judge_verdict"] for j in range(len(preds))]
+        idx += len(preds)
+        n_correct = sum(1 for v in verdicts if v == "match")
+        out = {
+            **q,
+            "predictions": preds,
+            "verdicts": verdicts,
+            "n_correct": n_correct,
+            "any_correct": n_correct > 0,
+            "all_correct": n_correct == len(preds),
+            "n_trials": len(preds),
+            "condition": "oracle_rag" if args.oracle else "vanilla_rag",
+        }
+        results.append(out)
 
     # Save
     if args.output_dir:
