@@ -212,6 +212,15 @@ def main():
         articles_dir = cfg["articles_dir"]
         markets_dir = os.path.join(os.path.dirname(articles_dir.rstrip("/")), "markets")
 
+        # Load pre-fetched Wikipedia context for compositional hops
+        wiki_context_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+                                         "wikipedia_oracle_context.json")
+        _wiki_context = {}
+        if os.path.exists(wiki_context_path):
+            with open(wiki_context_path) as f:
+                _wiki_context = json.load(f)
+            print(f"Loaded {len(_wiki_context)} Wikipedia oracle contexts")
+
         docs_per_question = []
         n_matched = 0
         for q in all_questions:
@@ -248,10 +257,9 @@ def main():
                                         gold_docs.append({"contents": text, "publish_date": ""})
 
             elif split.startswith("compositional"):
-                # article_file for hop 1
+                # hop 1: article from corpus
                 af = q.get("article_file", "")
                 if af:
-                    # Extract hash from path like /data/world-news/articles/{hash}/article.txt
                     parts = af.split("/")
                     for i, p in enumerate(parts):
                         if p == "articles" and i + 1 < len(parts):
@@ -262,6 +270,17 @@ def main():
                                 if text:
                                     gold_docs.append({"contents": text, "publish_date": ""})
                             break
+
+                # hops 2+: Wikipedia context from pre-fetched file
+                for hop in q.get("chain", []):
+                    src = hop.get("source", "")
+                    if src.startswith("wikipedia:"):
+                        page = src.replace("wikipedia:", "").replace(" ", "_")
+                        fact = hop.get("fact", "")
+                        wiki_key = f"{page}||{fact}"
+                        wiki_text = _wiki_context.get(wiki_key, "")
+                        if wiki_text:
+                            gold_docs.append({"contents": wiki_text, "publish_date": ""})
 
             # boundary_abstention: no oracle (answer is "not in corpus")
             # — gold_docs stays empty, model must say "I don't know"
