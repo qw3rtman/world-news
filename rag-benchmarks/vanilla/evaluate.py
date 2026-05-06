@@ -221,6 +221,15 @@ def main():
                 _wiki_context = json.load(f)
             print(f"Loaded {len(_wiki_context)} Wikipedia oracle contexts")
 
+        # Load supplemental Wikipedia context (additional paragraphs per question)
+        _wiki_supplemental = {}
+        sup_path = os.path.join(os.path.dirname(wiki_context_path),
+                                "wikipedia_oracle_supplemental.json")
+        if os.path.exists(sup_path):
+            with open(sup_path) as f:
+                _wiki_supplemental = json.load(f)
+            print(f"Loaded supplemental context for {len(_wiki_supplemental)} questions")
+
         docs_per_question = []
         n_matched = 0
         for q in all_questions:
@@ -281,6 +290,11 @@ def main():
                         wiki_text = _wiki_context.get(wiki_key, "")
                         if wiki_text:
                             gold_docs.append({"contents": wiki_text, "publish_date": ""})
+
+            # Add supplemental Wikipedia context for this question
+            sup_texts = _wiki_supplemental.get(q["question"], [])
+            for sup_text in sup_texts:
+                gold_docs.append({"contents": sup_text, "publish_date": ""})
 
             # boundary_abstention: no oracle (answer is "not in corpus")
             # — gold_docs stays empty, model must say "I don't know"
