@@ -13,6 +13,7 @@ import argparse
 import gc
 import json
 import os
+from concurrent.futures import ThreadPoolExecutor
 
 import yaml
 from vllm import SamplingParams
@@ -49,10 +50,17 @@ TASK_FILES = [
 ]
 
 
-def load_eval_questions(eval_dir: str) -> list[dict]:
-    """Load all question types from eval_sample/, normalizing answer fields."""
+def load_eval_questions(eval_dir: str, types_filter: list[str] = None) -> list[dict]:
+    """Load question types from eval_sample/, normalizing answer fields.
+
+    If types_filter is provided, only load those types (e.g. ['direct', 'temporal']).
+    """
     questions = []
     for filename in TASK_FILES:
+        if types_filter:
+            task_name = filename.replace(".jsonl", "")
+            if task_name not in types_filter:
+                continue
         path = os.path.join(eval_dir, filename)
         if not os.path.exists(path):
             print(f"  Skipping {filename} (not found)")
@@ -94,7 +102,8 @@ def parse_verdict(text: str) -> str:
     return "nonmatch"
 
 
-def run_judge_api(results: list[dict], model_spec: str) -> list[dict]:
+def run_judge_api(results: list[dict], model_spec: str,
+                  max_workers: int = 50) -> list[dict]:
     from openai import OpenAI
 
     provider, model_id = model_spec.split(":", 1)
@@ -108,19 +117,38 @@ def run_judge_api(results: list[dict], model_spec: str) -> list[dict]:
     else:
         raise ValueError(f"Unknown API provider: {provider}")
 
-    for r in results:
+    total = len(results)
+    errors = [0]
+
+    def _judge_one(idx):
+        r = results[idx]
         prompt = JUDGE_PROMPT.format(
             question=r["question"],
             expected_answer=r.get("expected_answer", r.get("answer", "")),
             model_answer=r["model_answer"],
         )
-        response = client.chat.completions.create(
-            model=model_id,
-            messages=[{"role": "user", "content": prompt}],
-            temperature=0.0,
-            max_completion_tokens=128,
-        )
-        r["judge_verdict"] = parse_verdict(response.choices[0].message.content or "")
+        try:
+            response = client.chat.completions.create(
+                model=model_id,
+                messages=[{"role": "user", "content": prompt}],
+                temperature=0.0,
+                max_completion_tokens=128,
+            )
+            r["judge_verdict"] = parse_verdict(response.choices[0].message.content or "")
+        except Exception as e:
+            errors[0] += 1
+            print(f"  Judge error on idx {idx}: {e}")
+            r["judge_verdict"] = "nonmatch"
+
+    with ThreadPoolExecutor(max_workers=max_workers) as pool:
+        futures = [pool.submit(_judge_one, i) for i in range(total)]
+        done = 0
+        for f in futures:
+            f.result()
+            done += 1
+            if done % 200 == 0 or done == total:
+                print(f"  Judge progress: {done}/{total} errors={errors[0]}")
+
     return results
 
 
@@ -180,6 +208,12 @@ def main():
     parser.add_argument("--output-dir", type=str, default=None)
     parser.add_argument("--judge-model", type=str, default="openai:gpt-5.4-mini",
                         help="Judge model: 'openai:MODEL' for API, or local path for vLLM")
+    parser.add_argument("--types", nargs="*", default=None,
+                        help="Question types to evaluate (e.g. direct temporal)")
+    parser.add_argument("--micro-batch-size", type=int, default=0,
+                        help="Micro-batch size for pipelined retrieve+extract (0=disabled)")
+    parser.add_argument("--reranker-devices", nargs="*", default=["cuda:2"],
+                        help="GPU devices for reranker (e.g. cuda:2 cuda:3)")
     args = parser.parse_args()
 
     with open(args.config) as f:
@@ -192,9 +226,9 @@ def main():
     artifacts_dir = cfg["artifacts_dir"]
     eval_dir = cfg["eval_dir"]
 
-    # Load all question types
+    # Load question types (optionally filtered)
     print("Loading evaluation questions...")
-    all_questions = load_eval_questions(eval_dir)
+    all_questions = load_eval_questions(eval_dir, types_filter=args.types)
     print(f"Loaded {len(all_questions)} total questions")
 
     # Initialize components
@@ -208,6 +242,7 @@ def main():
         dense_top_k=cfg["retrieval"]["dense_top_k"],
         reranker_model=cfg["reranking"]["model"],
         top_n=cfg["reranking"]["top_n"],
+        reranker_devices=args.reranker_devices,
     )
 
     print("Loading generator...")
@@ -218,6 +253,9 @@ def main():
         max_model_len=gen_cfg["max_model_len"],
         max_tokens=gen_cfg["max_tokens"],
         temperature=gen_cfg["temperature"],
+        top_p=gen_cfg.get("top_p", 0.8),
+        top_k=gen_cfg.get("top_k", 20),
+        min_p=gen_cfg.get("min_p", 0),
     )
 
     agents = Agents(
@@ -226,7 +264,8 @@ def main():
     )
 
     # Run pipeline
-    results = run_pipeline(retriever, generator, agents, all_questions)
+    results = run_pipeline(retriever, generator, agents, all_questions,
+                           micro_batch_size=args.micro_batch_size)
 
     # Free GPU memory before judge
     del generator, retriever, agents

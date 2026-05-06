@@ -1,9 +1,8 @@
 """
 End-to-end agentic RAG pipeline: plan → retrieve → extract → answer.
 
-For each question the Planner generates sub-queries; the pipeline then
-iterates over steps, retrieving and extracting notes per step, before
-a final QA agent synthesizes the answer from all accumulated notes.
+Supports micro-batched pipeline parallelism: while the LLM GPUs extract notes
+for micro-batch N, the reranker GPU(s) retrieve for micro-batch N+1.
 
 Usage:
     python pipeline.py --config ../config.yaml --questions ../../eval_sample/all.jsonl
@@ -12,6 +11,7 @@ Usage:
 import argparse
 import json
 import os
+from concurrent.futures import ThreadPoolExecutor
 
 import yaml
 
@@ -27,9 +27,11 @@ def load_questions(path: str) -> list[dict]:
 
 
 def run_pipeline(retriever: HybridRetriever, generator: Generator,
-                 agents: Agents, questions: list[dict]) -> list[dict]:
-    """Run the full agentic pipeline: plan → (define + retrieve + extract) × steps → answer."""
+                 agents: Agents, questions: list[dict],
+                 micro_batch_size: int = 0) -> list[dict]:
+    """Run the full agentic pipeline with optional micro-batch pipelining."""
     n = len(questions)
+    use_pipeline = micro_batch_size > 0
 
     # Phase 1: Plan
     print(f"Planning for {n} questions...")
@@ -85,24 +87,19 @@ def run_pipeline(retriever: HybridRetriever, generator: Generator,
             search_queries = [step_tasks[j]["task"] for j in search_local]
             search_global = [active_idx[j] for j in search_local]
 
-            print(f"Step {step_idx + 1}/{max_active_steps}: "
-                  f"retrieving for {len(search_global)} search tasks...")
-            chunks = retriever.retrieve_batch(search_queries)
-
-            extract_prompts = [
-                agents.format_extract_prompt(search_queries[k], chunks[k])
-                for k in range(len(search_local))
-            ]
-            extract_results = generator.generate_batch(extract_prompts, max_tokens=512)
-
-            for k, i in enumerate(search_global):
-                all_notes[i].append(agents.parse_notes(extract_results[k]["text"]))
-                traces[i]["steps"][-1]["chunks"] = chunks[k]
-                traces[i]["steps"][-1]["notes"] = all_notes[i][-1]
-                traces[i]["steps"][-1]["extract_tokens"] = {
-                    "prompt_tokens": extract_results[k]["prompt_tokens"],
-                    "completion_tokens": extract_results[k]["completion_tokens"],
-                }
+            if use_pipeline and len(search_local) > micro_batch_size:
+                _run_search_pipelined(
+                    retriever, generator, agents,
+                    search_queries, search_global,
+                    all_notes, traces, step_idx, max_active_steps,
+                    micro_batch_size,
+                )
+            else:
+                _run_search_batch(
+                    retriever, generator, agents,
+                    search_queries, search_global,
+                    all_notes, traces, step_idx, max_active_steps,
+                )
 
         if aggregate_local:
             aggregate_tasks = [step_tasks[j]["task"] for j in aggregate_local]
@@ -111,8 +108,7 @@ def run_pipeline(retriever: HybridRetriever, generator: Generator,
             print(f"Step {step_idx + 1}/{max_active_steps}: "
                   f"aggregating for {len(aggregate_global)} aggregate tasks...")
             aggregate_prompts = [
-                agents.format_aggregate_prompt(task)
-                for task in aggregate_tasks
+                agents.format_aggregate_prompt(task) for task in aggregate_tasks
             ]
             aggregate_results = generator.generate_batch(aggregate_prompts)
 
@@ -124,7 +120,7 @@ def run_pipeline(retriever: HybridRetriever, generator: Generator,
                     "completion_tokens": aggregate_results[k]["completion_tokens"],
                 }
 
-    # Phase 3: Answer
+    # Phase 3: Answer (QA style)
     print(f"Generating final answers for {n} questions...")
     answer_prompts = [
         agents.format_answer_prompt(q["question"], all_notes[i])
@@ -147,6 +143,91 @@ def run_pipeline(retriever: HybridRetriever, generator: Generator,
         })
 
     return results
+
+
+def _run_search_batch(retriever, generator, agents,
+                      search_queries, search_global,
+                      all_notes, traces, step_idx, max_active_steps):
+    """Standard: retrieve all, then extract all."""
+    print(f"Step {step_idx + 1}/{max_active_steps}: "
+          f"retrieving for {len(search_global)} search tasks...")
+    chunks_list = retriever.retrieve_batch(search_queries)
+
+    extract_prompts = [
+        agents.format_extract_prompt(search_queries[k], chunks_list[k])
+        for k in range(len(search_queries))
+    ]
+    extract_results = generator.generate_batch(extract_prompts, max_tokens=512)
+
+    for k, i in enumerate(search_global):
+        all_notes[i].append(agents.parse_notes(extract_results[k]["text"]))
+        traces[i]["steps"][-1]["chunks"] = chunks_list[k]
+        traces[i]["steps"][-1]["notes"] = all_notes[i][-1]
+        traces[i]["steps"][-1]["extract_tokens"] = {
+            "prompt_tokens": extract_results[k]["prompt_tokens"],
+            "completion_tokens": extract_results[k]["completion_tokens"],
+        }
+
+
+def _run_search_pipelined(retriever, generator, agents,
+                          search_queries, search_global,
+                          all_notes, traces, step_idx, max_active_steps,
+                          micro_batch_size):
+    """Pipelined: overlap retrieval of mb_{i+1} with extraction of mb_i."""
+    mbs = micro_batch_size
+    n_queries = len(search_queries)
+    n_mbs = (n_queries + mbs - 1) // mbs
+
+    print(f"Step {step_idx + 1}/{max_active_steps}: "
+          f"pipelined retrieve+extract for {n_queries} search tasks "
+          f"({n_mbs} micro-batches of {mbs})...")
+
+    # Retrieve first micro-batch
+    mb0_end = min(mbs, n_queries)
+    cur_chunks = retriever.retrieve_batch(search_queries[:mb0_end])
+
+    all_chunks = []
+    all_extract_results = []
+
+    for mb_idx in range(n_mbs):
+        mb_start = mb_idx * mbs
+        mb_end = min(mb_start + mbs, n_queries)
+        mb_queries = search_queries[mb_start:mb_end]
+
+        extract_prompts = [
+            agents.format_extract_prompt(mb_queries[k], cur_chunks[k])
+            for k in range(len(mb_queries))
+        ]
+
+        if mb_idx < n_mbs - 1:
+            next_start = (mb_idx + 1) * mbs
+            next_end = min(next_start + mbs, n_queries)
+            next_queries = search_queries[next_start:next_end]
+
+            with ThreadPoolExecutor(max_workers=2) as pool:
+                extract_future = pool.submit(
+                    generator.generate_batch, extract_prompts, 512)
+                retrieve_future = pool.submit(
+                    retriever.retrieve_batch, next_queries)
+                mb_extract_results = extract_future.result()
+                next_chunks = retrieve_future.result()
+        else:
+            mb_extract_results = generator.generate_batch(
+                extract_prompts, max_tokens=512)
+            next_chunks = None
+
+        all_chunks.extend(cur_chunks)
+        all_extract_results.extend(mb_extract_results)
+        cur_chunks = next_chunks
+
+    for k, i in enumerate(search_global):
+        all_notes[i].append(agents.parse_notes(all_extract_results[k]["text"]))
+        traces[i]["steps"][-1]["chunks"] = all_chunks[k]
+        traces[i]["steps"][-1]["notes"] = all_notes[i][-1]
+        traces[i]["steps"][-1]["extract_tokens"] = {
+            "prompt_tokens": all_extract_results[k]["prompt_tokens"],
+            "completion_tokens": all_extract_results[k]["completion_tokens"],
+        }
 
 
 def main():
