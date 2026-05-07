@@ -216,6 +216,10 @@ def main():
                         help="GPU devices for reranker (e.g. cuda:2 cuda:3)")
     parser.add_argument("--top-n", type=int, default=None,
                         help="Override reranking top_n from config")
+    parser.add_argument("--question-start", type=int, default=0,
+                        help="Start index for question slice (default: 0)")
+    parser.add_argument("--question-end", type=int, default=None,
+                        help="End index for question slice (default: all)")
     args = parser.parse_args()
 
     with open(args.config) as f:
@@ -231,7 +235,13 @@ def main():
     # Load question types (optionally filtered)
     print("Loading evaluation questions...")
     all_questions = load_eval_questions(eval_dir, types_filter=args.types)
-    print(f"Loaded {len(all_questions)} total questions")
+    total_q = len(all_questions)
+    all_questions = all_questions[args.question_start:args.question_end]
+    if args.question_start > 0 or args.question_end is not None:
+        print(f"Loaded {len(all_questions)}/{total_q} questions "
+              f"(slice [{args.question_start}:{args.question_end}])")
+    else:
+        print(f"Loaded {len(all_questions)} total questions")
 
     # Initialize components
     print("Loading retriever...")
