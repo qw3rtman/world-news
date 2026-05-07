@@ -214,6 +214,8 @@ def main():
                         help="Micro-batch size for pipelined retrieve+extract (0=disabled)")
     parser.add_argument("--reranker-devices", nargs="*", default=["cuda:2"],
                         help="GPU devices for reranker (e.g. cuda:2 cuda:3)")
+    parser.add_argument("--top-n", type=int, default=None,
+                        help="Override reranking top_n from config")
     args = parser.parse_args()
 
     with open(args.config) as f:
@@ -241,7 +243,7 @@ def main():
         bm25_top_k=cfg["retrieval"]["bm25_top_k"],
         dense_top_k=cfg["retrieval"]["dense_top_k"],
         reranker_model=cfg["reranking"]["model"],
-        top_n=cfg["reranking"]["top_n"],
+        top_n=args.top_n or cfg["reranking"]["top_n"],
         reranker_devices=args.reranker_devices,
     )
 
