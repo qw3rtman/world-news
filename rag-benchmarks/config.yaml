@@ -1,0 +1,36 @@
+# World-news RAG pipeline configuration
+# Hybrid retrieval (BM25 + dense) → cross-encoder reranking → Qwen3 generation
+#
+# No chunking: articles are small enough (~1K tokens median) to use whole-article
+# documents. Pre-computed BGE-large embeddings are reused directly.
+
+valid_hashes_file: valid_hashes.txt
+articles_dir: articles/
+eval_dir: eval_sample/
+artifacts_dir: rag-benchmarks/artifacts/
+
+embeddings:
+  model: BAAI/bge-large-en-v1.5
+  precomputed_path: _corpus_embeddings.npy
+  precomputed_meta: _corpus_embeddings_meta.json
+
+retrieval:
+  bm25_top_k: 100
+  dense_top_k: 100
+
+reranking:
+  model: BAAI/bge-reranker-v2-m3
+  top_n: 10
+
+generation:
+  model: ${MODEL_PATH}
+  tp: 4
+  max_model_len: 32768
+  max_tokens: 256
+  temperature: 0.7
+  top_p: 0.8
+  top_k: 20
+  min_p: 0
+
+agent:
+  max_steps: 7
